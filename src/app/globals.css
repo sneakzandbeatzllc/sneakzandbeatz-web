@@ -1,0 +1,481 @@
+/*
+  Sneakz & Beatz — globals.css
+  Direct port of Website_Redesign_Mockup.html. Same class names, same tokens,
+  same layout — converted from a single HTML file into Next.js components.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+:root {
+  --bg:        #0a0a0a;
+  --surface:   #141414;
+  --card:      #1a1a1a;
+  --line:      #262626;
+  --muted:     #8a8a8a;
+  --text:      #e7e7e7;
+  --text-soft: #b9b9b9;
+  --accent:    #e51e2a;
+  --accent-2:  #b3151f;
+  --highlight: #ffffff;
+  --grain:     url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+img { max-width: 100%; display: block; }
+a { color: inherit; text-decoration: none; }
+button { font: inherit; cursor: pointer; border: 0; background: none; color: inherit; }
+
+.container { max-width: 1320px; margin: 0 auto; padding: 0 32px; }
+
+.display { font-family: 'Bebas Neue', 'Anton', 'Helvetica Inserat', 'Impact', sans-serif; letter-spacing: 0.01em; line-height: 0.96; text-transform: uppercase; }
+.eyebrow { font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
+.muted { color: var(--muted); }
+
+/* ----------- header ----------- */
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(10,10,10,0.85);
+  backdrop-filter: saturate(150%) blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.site-header .row {
+  display: flex; align-items: center; justify-content: space-between;
+  height: 76px;
+}
+.brand { display: flex; align-items: center; gap: 12px; }
+.brand-logo {
+  width: 44px; height: 44px; border-radius: 8px;
+  background: linear-gradient(135deg, var(--accent) 0%, #6b0a10 100%);
+  display: grid; place-items: center;
+  font-family: 'Bebas Neue', sans-serif; color: white; font-size: 22px; letter-spacing: 0;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.06) inset;
+}
+.brand-name { font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 0.04em; }
+nav.primary { display: flex; gap: 22px; align-items: center; }
+nav.primary a {
+  font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase;
+  font-weight: 600; color: var(--text-soft); transition: color 120ms;
+  white-space: nowrap;
+}
+nav.primary a:hover { color: var(--highlight); }
+.header-cta { display: flex; gap: 10px; align-items: center; }
+.btn {
+  display: inline-flex; align-items: center; gap: 10px;
+  padding: 12px 22px; border-radius: 999px; font-weight: 700; font-size: 13px;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  transition: transform 120ms, background 120ms, border-color 120ms;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.btn:hover { transform: translateY(-1px); }
+.btn-primary { background: var(--accent); color: white; }
+.btn-primary:hover { background: var(--accent-2); }
+.btn-ghost { border: 1px solid #333; color: var(--text); background: transparent; }
+.btn-ghost:hover { border-color: var(--highlight); }
+.btn-link { padding: 0; background: none; color: var(--text-soft); font-weight: 600; letter-spacing: 0.06em; }
+.btn-link:hover { color: var(--highlight); }
+.btn-arrow::after { content: "→"; font-weight: 700; transition: transform 120ms; }
+.btn-arrow:hover::after { transform: translateX(3px); }
+
+/* ----------- hero ----------- */
+.hero {
+  position: relative; overflow: hidden;
+  background:
+    radial-gradient(1200px 600px at 100% 0%, rgba(229,30,42,0.25), transparent 60%),
+    radial-gradient(800px 400px at 0% 100%, rgba(229,30,42,0.10), transparent 60%),
+    var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+.hero::before {
+  content: ""; position: absolute; inset: 0;
+  background-image: var(--grain);
+  opacity: 0.6; pointer-events: none;
+}
+.hero-grid {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 32px;
+  padding: 88px 0 56px;
+  align-items: center; position: relative;
+}
+.hero h1 {
+  font-family: 'Bebas Neue', sans-serif; text-transform: uppercase;
+  font-size: clamp(48px, 7vw, 96px); margin: 18px 0 22px;
+  line-height: 0.95; letter-spacing: 0.005em; color: var(--highlight);
+}
+.hero h1 .accent { color: var(--accent); }
+.hero p.lead {
+  font-size: 18px; color: var(--text-soft); max-width: 540px; margin: 0 0 32px;
+}
+.hero-ctas { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+.hero-ctas .btn-link { margin-left: 8px; }
+
+.hero-art {
+  position: relative; aspect-ratio: 5 / 5; border-radius: 8px;
+  background:
+    radial-gradient(800px 400px at 50% 30%, rgba(229,30,42,0.6), transparent 70%),
+    linear-gradient(180deg, #1a0408 0%, #06050a 100%);
+  overflow: hidden; border: 1px solid var(--line);
+}
+.hero-art::after {
+  content: ""; position: absolute; inset: 0;
+  background: var(--grain); opacity: 0.4;
+}
+.hero-art .placeholder-tag {
+  position: absolute; bottom: 14px; left: 14px;
+  font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase;
+  color: rgba(255,255,255,0.4); padding: 5px 10px;
+  border: 1px dashed rgba(255,255,255,0.2); border-radius: 4px;
+}
+.hero-art .floating-mark {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(80px, 12vw, 180px);
+  color: rgba(255,255,255,0.06); letter-spacing: -0.03em;
+  text-align: center; line-height: 0.8;
+}
+.hero-art svg.sneaker {
+  position: absolute; bottom: 8%; right: 4%;
+  width: 70%; height: auto;
+  filter: drop-shadow(0 30px 40px rgba(229,30,42,0.35));
+}
+
+/* ----------- trending ticker ----------- */
+.trending {
+  background: var(--accent); color: white; overflow: hidden;
+  border-bottom: 1px solid #5a0d14;
+}
+.trending .row {
+  display: flex; align-items: center; gap: 28px;
+  padding: 14px 0;
+  font-size: 13px; letter-spacing: 0.06em;
+}
+.trending .label {
+  font-weight: 800; text-transform: uppercase; letter-spacing: 0.18em;
+  display: flex; align-items: center; gap: 8px; flex-shrink: 0;
+}
+.trending .ticker {
+  flex: 1; overflow: hidden; white-space: nowrap;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, black 5%, black 95%, transparent 100%);
+          mask-image: linear-gradient(90deg, transparent 0, black 5%, black 95%, transparent 100%);
+}
+.trending .ticker-track {
+  display: inline-flex; gap: 36px; animation: ticker 40s linear infinite;
+  padding-right: 36px;
+}
+.trending .dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.5); display: inline-block; vertical-align: middle; margin-right: 12px; }
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+/* ----------- four pillars ----------- */
+.pillars { padding: 72px 0 32px; }
+.pillars-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.pillar-card {
+  position: relative;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0; overflow: hidden;
+  aspect-ratio: 4 / 5;
+  transition: transform 200ms, border-color 200ms;
+  display: block;
+}
+.pillar-card:hover { transform: translateY(-4px); border-color: var(--accent); }
+.pillar-card .photo {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.0) 30%, rgba(0,0,0,0.85) 100%);
+}
+.pillar-card .photo::before {
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background-size: cover; background-position: center;
+  filter: saturate(0.85) contrast(1.05);
+}
+.pillar-card[data-pillar="sneakers"] .photo::before { background: linear-gradient(135deg, #5a0d14, #1a0408); }
+.pillar-card[data-pillar="hiphop"] .photo::before   { background: linear-gradient(135deg, #2a0c2e, #0c0612); }
+.pillar-card[data-pillar="anime"] .photo::before    { background: linear-gradient(135deg, #2c1d4f, #0a0716); }
+.pillar-card[data-pillar="gaming"] .photo::before   { background: linear-gradient(135deg, #062228, #07090c); }
+.pillar-card .meta {
+  position: absolute; left: 22px; right: 22px; bottom: 22px;
+  display: flex; justify-content: space-between; align-items: flex-end; gap: 12px;
+}
+.pillar-card h3 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 36px; margin: 0; line-height: 0.9;
+  letter-spacing: 0.02em;
+}
+.pillar-card p {
+  font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--text-soft); margin: 6px 0 0;
+}
+.pillar-card .arrow {
+  width: 38px; height: 38px; border-radius: 50%;
+  border: 1px solid rgba(255,255,255,0.2);
+  display: grid; place-items: center;
+  transition: background 200ms, border-color 200ms;
+}
+.pillar-card:hover .arrow { background: var(--accent); border-color: var(--accent); }
+.pillar-card .label-tag {
+  position: absolute; top: 18px; left: 22px;
+  font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--text-soft);
+}
+
+/* ----------- PHRHX show ----------- */
+.show-section {
+  padding: 64px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+.show-grid {
+  display: grid; grid-template-columns: 320px 1fr; gap: 56px; align-items: start;
+}
+.show-grid h2 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 56px; margin: 12px 0 16px; line-height: 0.95;
+}
+.show-meta { color: var(--text-soft); margin-bottom: 32px; max-width: 280px; }
+.show-platforms { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+.show-platforms .pill {
+  font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
+  padding: 6px 12px; border-radius: 999px;
+  border: 1px solid var(--line); color: var(--text-soft);
+}
+.episodes { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 14px; }
+.episode {
+  position: relative; border-radius: 10px; overflow: hidden;
+  background: var(--card); aspect-ratio: 1 / 1;
+  border: 1px solid var(--line);
+  display: block;
+}
+.episode.featured { aspect-ratio: 16 / 9; grid-row: span 1; }
+.episode .thumb {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.85));
+}
+.episode .thumb::before {
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background: linear-gradient(135deg, #1a0408, #4a0d14);
+}
+.episode .play { position: absolute; inset: 0; display: grid; place-items: center; }
+.episode .play-icon {
+  width: 56px; height: 56px; border-radius: 50%;
+  background: var(--accent); display: grid; place-items: center;
+  color: white; box-shadow: 0 0 0 6px rgba(229,30,42,0.18);
+  transition: transform 200ms, background 200ms;
+}
+.episode:hover .play-icon { transform: scale(1.05); }
+.episode.featured .play-icon { width: 72px; height: 72px; }
+.episode .meta {
+  position: absolute; left: 14px; right: 14px; bottom: 12px;
+  display: flex; justify-content: space-between; align-items: flex-end; gap: 10px;
+}
+.episode .latest-tag {
+  position: absolute; left: 12px; top: 12px;
+  font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase; font-weight: 800;
+  background: var(--accent); color: white; padding: 4px 8px; border-radius: 4px;
+}
+.episode .ep-num {
+  font-family: 'Bebas Neue', sans-serif; font-size: 14px; color: var(--muted);
+  letter-spacing: 0.18em;
+}
+.episode h4 { font-size: 14px; font-weight: 700; margin: 4px 0 0; line-height: 1.25; }
+.episode .runtime { font-size: 11px; color: var(--muted); }
+.episode.featured h4 { font-size: 18px; }
+
+/* ----------- beat store ----------- */
+.beatstore { padding: 72px 0; }
+.beatstore-header {
+  display: flex; justify-content: space-between; align-items: end; gap: 24px; flex-wrap: wrap;
+  margin-bottom: 32px;
+}
+.beatstore-header h2 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 56px; margin: 8px 0 8px; line-height: 0.95;
+}
+.beatstore-header p { color: var(--text-soft); max-width: 480px; }
+.beatstore-grid { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 16px; }
+.beat-card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 18px; display: flex; flex-direction: column; gap: 12px;
+  transition: border-color 200ms;
+}
+.beat-card:hover { border-color: var(--accent); }
+.beat-row { display: flex; align-items: center; gap: 10px; }
+.play-btn {
+  width: 38px; height: 38px; border-radius: 50%; background: var(--accent);
+  display: grid; place-items: center; color: white; flex-shrink: 0;
+}
+.waveform {
+  flex: 1; height: 28px;
+  background-image: repeating-linear-gradient(90deg,
+    rgba(255,255,255,0.20) 0 2px, transparent 2px 5px);
+  position: relative;
+}
+.waveform::before {
+  content: ""; position: absolute; inset: 0;
+  background-image: repeating-linear-gradient(90deg,
+    rgba(229,30,42,0.6) 0 2px, transparent 2px 5px);
+  width: 30%;
+}
+.beat-name { font-weight: 700; font-size: 16px; }
+.beat-attrs { color: var(--muted); font-size: 12px; letter-spacing: 0.06em; }
+.beat-cta-row { display: flex; justify-content: space-between; align-items: center; }
+.beat-price { font-family: 'Bebas Neue', sans-serif; font-size: 22px; }
+.beatstars-tag {
+  font-size: 10px; color: var(--muted); letter-spacing: 0.14em; text-transform: uppercase;
+  margin-top: 4px;
+}
+.bundle-card {
+  background: var(--accent); border-radius: 12px; padding: 24px;
+  display: flex; flex-direction: column; justify-content: space-between;
+  position: relative; overflow: hidden; color: white;
+}
+.bundle-card::before {
+  content: ""; position: absolute; inset: 0;
+  background: var(--grain); opacity: 0.4; pointer-events: none;
+}
+.bundle-card h3 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 32px; margin: 0; line-height: 0.95;
+}
+.bundle-card p { font-size: 13px; opacity: 0.9; }
+.bundle-card .funnel-tag {
+  font-size: 10px; opacity: 0.7; letter-spacing: 0.14em; text-transform: uppercase;
+}
+
+/* ----------- newsletter (Substack) ----------- */
+.newsletter {
+  background:
+    linear-gradient(180deg, transparent 0%, rgba(229,30,42,0.05) 100%),
+    var(--surface);
+  border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  padding: 56px 0;
+}
+.newsletter-row { display: grid; grid-template-columns: 1fr 1.2fr; gap: 56px; align-items: center; }
+.newsletter h2 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 56px; margin: 8px 0 8px; line-height: 0.95;
+}
+.newsletter p { color: var(--text-soft); margin: 0 0 8px; }
+.newsletter .platform-tag {
+  font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent);
+  margin-bottom: 12px; display: block;
+}
+.subscribe-form { display: flex; gap: 8px; align-items: stretch; max-width: 460px; margin-bottom: 18px; }
+.subscribe-form input[type="email"] {
+  flex: 1; background: var(--bg); border: 1px solid var(--line); color: var(--text);
+  padding: 14px 16px; border-radius: 8px; font: inherit;
+  outline: none; transition: border-color 120ms;
+}
+.subscribe-form input[type="email"]:focus { border-color: var(--accent); }
+.subscribe-form button {
+  background: var(--text); color: var(--bg); padding: 14px 22px;
+  border-radius: 8px; font-weight: 700; letter-spacing: 0.08em; font-size: 13px;
+  text-transform: uppercase;
+}
+.value-props { display: grid; gap: 10px; max-width: 360px; }
+.value-prop {
+  display: flex; align-items: center; gap: 12px; color: var(--text-soft); font-size: 14px;
+}
+.value-prop .check {
+  width: 22px; height: 22px; border-radius: 50%; background: rgba(229,30,42,0.18);
+  color: var(--accent); display: grid; place-items: center;
+  font-size: 12px; font-weight: 800;
+}
+
+/* ----------- from the culture ----------- */
+.culture { padding: 72px 0; }
+.culture-header {
+  display: flex; justify-content: space-between; align-items: end; gap: 24px;
+  margin-bottom: 22px; flex-wrap: wrap;
+}
+.culture-header h2 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 56px; margin: 0; line-height: 0.95;
+}
+.culture-header a {
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-soft);
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.culture-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; }
+.culture-tile {
+  aspect-ratio: 1 / 1; border-radius: 6px; overflow: hidden;
+  position: relative; border: 1px solid var(--line); display: block;
+}
+.culture-tile::before {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(135deg, #2a0c0f 0%, #1a0408 100%);
+  z-index: 0;
+}
+.culture-tile:nth-child(2)::before { background: linear-gradient(135deg, #2a0c2e, #0c0612); }
+.culture-tile:nth-child(3)::before { background: linear-gradient(135deg, #2c1d4f, #0a0716); }
+.culture-tile:nth-child(4)::before { background: linear-gradient(135deg, #062228, #07090c); }
+.culture-tile:nth-child(5)::before { background: linear-gradient(135deg, #1a0408, #0a0608); }
+.culture-tile:nth-child(6)::before { background: linear-gradient(135deg, #2a0c0f, #1a0408); }
+.culture-tile span {
+  position: absolute; top: 8px; left: 8px;
+  font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase;
+  color: rgba(255,255,255,0.55); z-index: 1;
+}
+
+/* ----------- footer ----------- */
+.site-footer {
+  background: var(--surface);
+  border-top: 1px solid var(--line);
+  padding: 56px 0 24px;
+}
+.footer-grid {
+  display: grid; grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr; gap: 32px;
+}
+.footer-grid h5 {
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent);
+  margin: 0 0 18px;
+}
+.footer-grid ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.footer-grid ul a { color: var(--text-soft); font-size: 14px; }
+.footer-grid ul a:hover { color: var(--highlight); }
+.footer-tagline { color: var(--text-soft); font-size: 14px; margin: 12px 0 18px; max-width: 280px; }
+.socials { display: flex; gap: 8px; }
+.socials a {
+  width: 36px; height: 36px; border-radius: 50%;
+  border: 1px solid var(--line); display: grid; place-items: center;
+  color: var(--text-soft);
+}
+.socials a:hover { color: var(--highlight); border-color: var(--text); }
+.footer-newsletter input {
+  width: 100%; background: var(--bg); border: 1px solid var(--line); color: var(--text);
+  padding: 12px 14px; border-radius: 8px; font: inherit;
+}
+.footer-bar {
+  margin-top: 40px; padding-top: 20px;
+  border-top: 1px solid var(--line);
+  display: flex; justify-content: space-between; gap: 16px;
+  color: var(--muted); font-size: 12px; letter-spacing: 0.06em;
+}
+
+/* ----------- responsive ----------- */
+@media (max-width: 1024px) {
+  .pillars-grid { grid-template-columns: repeat(2, 1fr); }
+  .beatstore-grid { grid-template-columns: 1fr 1fr; }
+  .show-grid { grid-template-columns: 1fr; }
+  .episodes { grid-template-columns: 1fr 1fr; }
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+  .culture-grid { grid-template-columns: repeat(3, 1fr); }
+  nav.primary { display: none; }
+}
+@media (max-width: 640px) {
+  .container { padding: 0 20px; }
+  .hero-grid { grid-template-columns: 1fr; padding: 48px 0; }
+  .hero h1 { font-size: 48px; }
+  .pillars-grid { grid-template-columns: 1fr; }
+  .beatstore-grid { grid-template-columns: 1fr; }
+  .episodes { grid-template-columns: 1fr; }
+  .newsletter-row { grid-template-columns: 1fr; gap: 24px; }
+  .footer-grid { grid-template-columns: 1fr; gap: 24px; }
+  .culture-grid { grid-template-columns: repeat(2, 1fr); }
+  .header-cta .btn-ghost { display: none; }
+}
