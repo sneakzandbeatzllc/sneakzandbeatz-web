@@ -7,16 +7,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800;900&display=swap');
 
 :root {
-  --bg:        #0a0a0a;
-  --surface:   #141414;
-  --card:      #1a1a1a;
-  --line:      #262626;
-  --muted:     #8a8a8a;
-  --text:      #e7e7e7;
-  --text-soft: #b9b9b9;
-  --accent:    #e51e2a;
-  --accent-2:  #b3151f;
-  --highlight: #ffffff;
+  /* Brand tokens — derived from the Sneakz & Beatz primary logo */
+  --bg:        #000000;        /* logo black background */
+  --surface:   #0c0c0c;        /* one step up for sectioned areas */
+  --card:      #181818;        /* card surface */
+  --line:      #2a2a2a;        /* dividers */
+  --muted:     #8a8a8a;        /* tertiary text */
+  --text:      #e7e1d3;        /* warmed off-white body text — pulls cream from logo */
+  --text-soft: #b9b3a4;        /* secondary copy */
+  --accent:    #c8262c;        /* logo brand red — SNEAKZ wordmark */
+  --accent-2:  #9c1d22;        /* darker red for hover/active */
+  --highlight: #f0e8d8;        /* cream for hero/section headlines — logo BEATZ wordmark */
   --grain:     url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }
 
@@ -53,13 +54,18 @@ button { font: inherit; cursor: pointer; border: 0; background: none; color: inh
 }
 .brand { display: flex; align-items: center; gap: 12px; }
 .brand-logo {
-  width: 44px; height: 44px; border-radius: 8px;
-  background: linear-gradient(135deg, var(--accent) 0%, #6b0a10 100%);
+  width: 56px; height: 56px; border-radius: 10px;
+  background: var(--bg);
   display: grid; place-items: center;
-  font-family: 'Bebas Neue', sans-serif; color: white; font-size: 22px; letter-spacing: 0;
-  box-shadow: 0 0 0 1px rgba(255,255,255,0.06) inset;
+  overflow: hidden;
+  flex-shrink: 0;
 }
-.brand-name { font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 0.04em; }
+.brand-logo img { width: 100%; height: 100%; object-fit: contain; display: block; }
+.brand-name {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px; letter-spacing: 0.04em;
+  color: var(--highlight);
+}
 nav.primary { display: flex; gap: 22px; align-items: center; }
 nav.primary a {
   font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase;
@@ -120,9 +126,15 @@ nav.primary a:hover { color: var(--highlight); }
 .hero-art {
   position: relative; aspect-ratio: 5 / 5; border-radius: 8px;
   background:
-    radial-gradient(800px 400px at 50% 30%, rgba(229,30,42,0.6), transparent 70%),
-    linear-gradient(180deg, #1a0408 0%, #06050a 100%);
+    radial-gradient(800px 400px at 50% 30%, rgba(200,38,44,0.45), transparent 70%),
+    linear-gradient(180deg, #150406 0%, #050304 100%);
   overflow: hidden; border: 1px solid var(--line);
+  display: grid; place-items: center;
+}
+.hero-art .logo-mark {
+  position: relative; z-index: 1;
+  width: 88%; height: 88%; object-fit: contain;
+  filter: drop-shadow(0 30px 60px rgba(200,38,44,0.35));
 }
 .hero-art::after {
   content: ""; position: absolute; inset: 0;

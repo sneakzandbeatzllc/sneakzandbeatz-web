@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Footer() {
   return (
@@ -6,8 +7,10 @@ export default function Footer() {
       <div className="container">
         <div className="footer-grid">
           <div>
-            <Link href="/" className="brand">
-              <span className="brand-logo">S&amp;B</span>
+            <Link href="/" className="brand" aria-label="Sneakz & Beatz home">
+              <span className="brand-logo">
+                <Image src="/logo-mark-256.png" alt="Sneakz & Beatz logo" width={256} height={256} />
+              </span>
               <span className="brand-name">Sneakz &amp; Beatz</span>
             </Link>
             <p className="footer-tagline">

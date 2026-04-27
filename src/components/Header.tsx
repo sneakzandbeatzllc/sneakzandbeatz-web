@@ -1,11 +1,20 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Header() {
   return (
     <header className="site-header">
       <div className="container row">
-        <Link href="/" className="brand">
-          <span className="brand-logo">S&amp;B</span>
+        <Link href="/" className="brand" aria-label="Sneakz & Beatz home">
+          <span className="brand-logo">
+            <Image
+              src="/logo-mark-256.png"
+              alt="Sneakz & Beatz logo"
+              width={256}
+              height={256}
+              priority
+            />
+          </span>
           <span className="brand-name">Sneakz &amp; Beatz</span>
         </Link>
         <nav className="primary">
@@ -18,8 +27,17 @@ export default function Header() {
           <Link href="/about">About</Link>
         </nav>
         <div className="header-cta">
-          <a href="#newsletter" className="btn btn-ghost">Subscribe</a>
-          <a href="#beatstore" className="btn btn-primary btn-arrow">Browse Beats</a>
+          <a
+            href="https://sneakzandbeatz.substack.com"
+            target="_blank"
+            rel="noopener"
+            className="btn btn-ghost"
+          >
+            Subscribe
+          </a>
+          <Link href="/beats" className="btn btn-primary btn-arrow">
+            Browse Beats
+          </Link>
         </div>
       </div>
     </header>
