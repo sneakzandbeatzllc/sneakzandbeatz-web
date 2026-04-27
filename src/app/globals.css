@@ -476,6 +476,231 @@ nav.primary a:hover { color: var(--highlight); }
   color: var(--muted); font-size: 12px; letter-spacing: 0.06em;
 }
 
+/* ============ /beats catalog page ============ */
+
+.beat-store-hero {
+  padding: 64px 0 32px;
+  background:
+    radial-gradient(900px 400px at 80% 0%, rgba(200,38,44,0.18), transparent 60%),
+    var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+.beat-store-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(40px, 6vw, 72px);
+  margin: 16px 0 16px;
+  line-height: 0.96;
+  color: var(--highlight);
+  text-transform: uppercase;
+  max-width: 18ch;
+}
+.beat-store-section { padding: 48px 0 96px; }
+
+.beat-filter {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin-bottom: 32px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--line);
+}
+.beat-pill {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 10px 16px; border-radius: 999px;
+  border: 1px solid var(--line); background: transparent; color: var(--text-soft);
+  font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 600;
+  transition: border-color 120ms, color 120ms, background 120ms;
+}
+.beat-pill:hover { color: var(--highlight); border-color: var(--text); }
+.beat-pill.active {
+  background: var(--accent); border-color: var(--accent); color: white;
+}
+.beat-pill-count {
+  background: rgba(255,255,255,0.12); color: inherit;
+  padding: 2px 8px; border-radius: 999px;
+  font-size: 11px; font-weight: 700; letter-spacing: 0.04em;
+}
+.beat-pill.active .beat-pill-count { background: rgba(0,0,0,0.25); }
+
+.beat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 14px;
+}
+.beat-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 16px;
+  display: flex; flex-direction: column; gap: 10px;
+  transition: border-color 200ms, transform 200ms;
+}
+.beat-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.beat-card.playing { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent), 0 8px 24px rgba(200,38,44,0.18); }
+.beat-card-top { display: flex; align-items: center; gap: 12px; }
+.beat-play-btn {
+  width: 44px; height: 44px; border-radius: 50%; flex-shrink: 0;
+  background: var(--accent); color: white; font-size: 14px;
+  display: grid; place-items: center;
+  transition: background 120ms, transform 120ms;
+}
+.beat-play-btn:hover { background: var(--accent-2); }
+.beat-card.playing .beat-play-btn { background: var(--accent-2); }
+.beat-info { flex: 1; min-width: 0; }
+.beat-title {
+  font-weight: 700; font-size: 15px; color: var(--highlight);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  margin-bottom: 4px;
+}
+.beat-meta {
+  display: flex; align-items: center; gap: 10px;
+  font-size: 11px; letter-spacing: 0.06em; color: var(--text-soft);
+  text-transform: uppercase;
+}
+.beat-cat-badge {
+  padding: 3px 8px; border-radius: 4px; font-weight: 700;
+  font-size: 10px; letter-spacing: 0.12em;
+}
+.beat-cat-badge[data-cat="east-coast"] { background: rgba(229,230,200,0.15); color: #ccc4a3; }
+.beat-cat-badge[data-cat="west-coast"] { background: rgba(255,180,80,0.18); color: #ffb450; }
+.beat-cat-badge[data-cat="trap"]       { background: rgba(200,38,44,0.20); color: #ef6a6e; }
+.beat-cat-badge[data-cat="rage"]       { background: rgba(180,80,255,0.18); color: #c79bff; }
+.beat-cat-badge[data-cat="free"]       { background: rgba(80,200,120,0.18); color: #6dd098; }
+
+.beat-progress {
+  height: 3px; background: rgba(255,255,255,0.08); border-radius: 2px; overflow: hidden;
+}
+.beat-progress-bar {
+  height: 100%; background: var(--accent); transition: width 200ms linear;
+}
+.beat-card-bottom {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding-top: 4px;
+}
+.beat-price {
+  font-family: 'Bebas Neue', sans-serif; font-size: 26px; color: var(--highlight);
+  letter-spacing: 0.02em;
+}
+.beat-price.free { color: #6dd098; font-weight: 700; }
+.beat-price-currency { font-size: 18px; color: var(--text-soft); margin-right: 1px; }
+.beat-cta { padding: 9px 18px; font-size: 12px; letter-spacing: 0.10em; }
+
+/* ============ /beats/[slug] detail ============ */
+
+.beat-detail-section { padding: 48px 0 96px; }
+.beat-detail-section .btn-link { display: inline-block; margin-bottom: 24px; }
+
+.beat-detail-grid {
+  display: grid; grid-template-columns: 380px 1fr; gap: 56px;
+  align-items: start; margin-top: 24px;
+}
+.beat-detail-art {
+  aspect-ratio: 1 / 1;
+  border-radius: 14px;
+  position: relative; overflow: hidden;
+  background: var(--card);
+  display: grid; place-items: center;
+  border: 1px solid var(--line);
+}
+.beat-detail-art[data-cat="east-coast"] { background: linear-gradient(135deg, #2a2410, #050402); }
+.beat-detail-art[data-cat="west-coast"] { background: linear-gradient(135deg, #4a2a08, #1a0c02); }
+.beat-detail-art[data-cat="trap"]       { background: linear-gradient(135deg, #4a0d14, #1a0408); }
+.beat-detail-art[data-cat="rage"]       { background: linear-gradient(135deg, #2a0c4a, #0a0418); }
+.beat-detail-art[data-cat="free"]       { background: linear-gradient(135deg, #062a18, #02100a); }
+.beat-detail-art-inner {
+  display: grid; place-items: center; gap: 6px;
+  text-align: center;
+}
+.beat-detail-cat {
+  font-size: 11px; letter-spacing: 0.20em; text-transform: uppercase;
+  color: var(--text-soft); font-weight: 700;
+}
+.beat-detail-bpm-big {
+  font-family: 'Bebas Neue', sans-serif; font-size: clamp(120px, 16vw, 220px);
+  color: var(--highlight); line-height: 0.85; letter-spacing: 0.02em;
+}
+.beat-detail-bpm-label {
+  font-size: 14px; letter-spacing: 0.30em; color: var(--accent); font-weight: 800;
+  text-transform: uppercase;
+}
+.beat-detail-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(40px, 5vw, 64px);
+  line-height: 0.96; margin: 12px 0 16px; letter-spacing: 0.01em;
+  color: var(--highlight);
+}
+.beat-detail-meta {
+  display: flex; flex-wrap: wrap; gap: 16px;
+  font-size: 12px; letter-spacing: 0.10em; text-transform: uppercase;
+  color: var(--text-soft);
+  margin-bottom: 24px;
+}
+.beat-detail-audio {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 28px;
+  filter: invert(0.92) hue-rotate(180deg);
+  border-radius: 8px;
+}
+.beat-detail-buy {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 12px; padding: 24px;
+}
+.beat-detail-price {
+  font-family: 'Bebas Neue', sans-serif; font-size: 56px; line-height: 1;
+  color: var(--highlight); margin-bottom: 6px;
+}
+.beat-detail-price-sub {
+  color: var(--text-soft); font-size: 13px; margin: 0 0 18px;
+}
+.beat-detail-license {
+  margin-top: 18px; padding-top: 18px; border-top: 1px solid var(--line);
+}
+.beat-detail-license summary {
+  cursor: pointer; color: var(--text-soft); font-size: 13px;
+  letter-spacing: 0.10em; text-transform: uppercase; font-weight: 600;
+}
+.beat-detail-license summary:hover { color: var(--highlight); }
+.beat-detail-license ul {
+  margin: 14px 0 0; padding-left: 20px;
+  color: var(--text-soft); font-size: 14px; line-height: 1.7;
+}
+
+.beat-detail-related { margin-top: 72px; }
+.beat-detail-related h2 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 36px;
+  margin: 0 0 20px;
+}
+.beat-detail-related-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px;
+}
+.beat-detail-related-card {
+  display: block; padding: 16px; border-radius: 10px;
+  background: var(--card); border: 1px solid var(--line);
+  transition: border-color 200ms, transform 200ms;
+}
+.beat-detail-related-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.beat-detail-related-cat {
+  display: inline-block; padding: 3px 8px; border-radius: 4px;
+  font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 700;
+  margin-bottom: 8px;
+}
+.beat-detail-related-cat[data-cat="east-coast"] { background: rgba(229,230,200,0.15); color: #ccc4a3; }
+.beat-detail-related-cat[data-cat="west-coast"] { background: rgba(255,180,80,0.18); color: #ffb450; }
+.beat-detail-related-cat[data-cat="trap"]       { background: rgba(200,38,44,0.20); color: #ef6a6e; }
+.beat-detail-related-cat[data-cat="rage"]       { background: rgba(180,80,255,0.18); color: #c79bff; }
+.beat-detail-related-cat[data-cat="free"]       { background: rgba(80,200,120,0.18); color: #6dd098; }
+.beat-detail-related-title {
+  font-weight: 700; color: var(--highlight); margin-bottom: 6px;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.beat-detail-related-meta {
+  font-size: 12px; color: var(--text-soft); letter-spacing: 0.06em;
+}
+
+@media (max-width: 900px) {
+  .beat-detail-grid { grid-template-columns: 1fr; gap: 32px; }
+  .beat-detail-art { max-width: 380px; }
+}
+
 /* ----------- responsive ----------- */
 @media (max-width: 1024px) {
   .pillars-grid { grid-template-columns: repeat(2, 1fr); }
