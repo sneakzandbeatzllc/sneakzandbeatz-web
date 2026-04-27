@@ -24,9 +24,13 @@ export default function BeatsPage() {
             Beat Store · {totalCount} mastered beats · {paidCount} for lease · {freeCount} free
           </span>
           <h1 className="beat-store-title">
-            Beats For Artists Who <span className="accent">Move Different.</span>
+            Beats For
+            <br />
+            Artists Who
+            <br />
+            <span className="accent">Move Different.</span>
           </h1>
-          <p className="lead">
+          <p className="lead beat-store-lead">
             All beats below are produced by Sneakz &amp; Beatz / BRMG. 60-second previews stream
             inline. Lease beats are MP3 + WAV delivery. Free beats unlock with a Substack signup.
           </p>

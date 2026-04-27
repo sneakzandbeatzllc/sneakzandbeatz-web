@@ -107,41 +107,49 @@ export default function BeatCatalog({ beats, categories }: Props) {
         {filtered.map((beat) => {
           const isPlaying = playingSlug === beat.slug;
           const pct = progress && progress.slug === beat.slug ? progress.pct : 0;
+          const mins = beat.durationSec !== null ? Math.floor(beat.durationSec / 60) : null;
+          const secs = beat.durationSec !== null
+            ? String(Math.floor(beat.durationSec % 60)).padStart(2, "0") : null;
           return (
             <div key={beat.slug} className={"beat-card" + (isPlaying ? " playing" : "")}>
-              <div className="beat-card-top">
-                <button
-                  className="beat-play-btn"
-                  onClick={() => togglePlay(beat)}
-                  aria-label={isPlaying ? `Pause ${beat.title}` : `Play ${beat.title}`}
-                >
+              {/* Cover: gradient by category + giant BPM + play overlay */}
+              <button
+                className="beat-cover"
+                data-cat={beat.category}
+                onClick={() => togglePlay(beat)}
+                aria-label={isPlaying ? `Pause ${beat.title}` : `Play ${beat.title}`}
+              >
+                <span className="beat-cover-bpm">
+                  {beat.bpm ?? "—"}
+                  <small>BPM</small>
+                </span>
+                <span className="beat-cover-cat">{beat.categoryLabel}</span>
+                {beat.isFree && <span className="beat-cover-free">FREE</span>}
+                <span className={"beat-cover-play" + (isPlaying ? " playing" : "")}>
                   {isPlaying ? "❚❚" : "▶"}
-                </button>
-                <div className="beat-info">
-                  <div className="beat-title">{beat.title}</div>
-                  <div className="beat-meta">
-                    <span className="beat-cat-badge" data-cat={beat.category}>
-                      {beat.categoryLabel}
-                    </span>
-                    {beat.bpm !== null && <span>{beat.bpm} BPM</span>}
-                    {beat.durationSec !== null && (
-                      <span>
-                        {Math.floor(beat.durationSec / 60)}:
-                        {String(Math.floor(beat.durationSec % 60)).padStart(2, "0")}
-                      </span>
-                    )}
-                  </div>
+                </span>
+                <span className="beat-cover-progress" style={{ width: `${pct}%` }} />
+              </button>
+
+              {/* Metadata strip */}
+              <div className="beat-strip">
+                <div className="beat-title" title={beat.title}>{beat.title}</div>
+                <div className="beat-meta">
+                  {mins !== null && <span>{mins}:{secs}</span>}
+                  <span className="beat-meta-dot">·</span>
+                  <span className="beat-cat-badge" data-cat={beat.category}>
+                    {beat.categoryLabel}
+                  </span>
                 </div>
               </div>
-              <div className="beat-progress">
-                <div className="beat-progress-bar" style={{ width: `${pct}%` }} />
-              </div>
-              <div className="beat-card-bottom">
+
+              {/* Buy / get */}
+              <div className="beat-buy">
                 {beat.isFree ? (
                   <>
                     <span className="beat-price free">FREE</span>
                     <Link href="https://sneakzandbeatz.substack.com" target="_blank" rel="noopener" className="btn btn-ghost beat-cta">
-                      Get Download
+                      Get →
                     </Link>
                   </>
                 ) : (
@@ -151,7 +159,7 @@ export default function BeatCatalog({ beats, categories }: Props) {
                       {beat.priceUSD.toFixed(2)}
                     </span>
                     <Link href={`/beats/${beat.slug}`} className="btn btn-primary beat-cta">
-                      Lease
+                      Lease →
                     </Link>
                   </>
                 )}
