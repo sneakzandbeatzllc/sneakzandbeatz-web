@@ -40,8 +40,8 @@ export default function Footer() {
           <div>
             <h5>Shop</h5>
             <ul>
-              <li><Link href="/beatstore">Beat Store</Link></li>
-              <li><a href="https://beats.sneakzandbeatz.com/100-beats-mix-pack" target="_blank" rel="noopener">Bundles</a></li>
+              <li><Link href="/beats">Beat Store</Link></li>
+              <li><Link href="/beats/bundles">Bundles</Link></li>
               <li><Link href="/licensing">Licensing</Link></li>
               <li><Link href="/producer-kits">Producer Kits</Link></li>
             </ul>

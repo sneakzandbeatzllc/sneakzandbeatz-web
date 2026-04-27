@@ -39,11 +39,11 @@ export default function Hero() {
             once available — drop a hero shot in /public and swap the <Image src> here. */}
         <div className="hero-art" aria-hidden="true">
           <Image
-            src="/logo-primary.png"
+            src="/logo-mark-512.png"
             alt="Sneakz & Beatz brand mark"
             className="logo-mark"
-            width={1024}
-            height={1024}
+            width={512}
+            height={512}
             priority
           />
         </div>

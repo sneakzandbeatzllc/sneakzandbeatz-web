@@ -52,12 +52,12 @@ button { font: inherit; cursor: pointer; border: 0; background: none; color: inh
   display: flex; align-items: center; justify-content: space-between;
   height: 76px;
 }
-.brand { display: flex; align-items: center; gap: 12px; }
+.brand { display: flex; align-items: center; gap: 14px; }
 .brand-logo {
-  width: 56px; height: 56px; border-radius: 10px;
-  background: var(--bg);
-  display: grid; place-items: center;
-  overflow: hidden;
+  /* No box, no border-radius, no background — let the logo's own black canvas
+     blend seamlessly with the page bg so it reads as floating, not framed. */
+  width: 64px; height: 64px;
+  display: block;
   flex-shrink: 0;
 }
 .brand-logo img { width: 100%; height: 100%; object-fit: contain; display: block; }
@@ -65,6 +65,13 @@ button { font: inherit; cursor: pointer; border: 0; background: none; color: inh
   font-family: 'Bebas Neue', sans-serif;
   font-size: 22px; letter-spacing: 0.04em;
   color: var(--highlight);
+  white-space: nowrap;
+}
+@media (max-width: 720px) {
+  /* On mobile the logo already says SNEAKZ & BEATZ in the artwork itself;
+     hide the wordmark to free space and stop the awkward "SNEAKZ &" / "BEATZ" wrap. */
+  .brand-name { display: none; }
+  .brand-logo { width: 56px; height: 56px; }
 }
 nav.primary { display: flex; gap: 22px; align-items: center; }
 nav.primary a {
