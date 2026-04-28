@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import TrendingTicker from "@/components/TrendingTicker";
 import FeaturedStory from "@/components/FeaturedStory";
 import PillarsGrid from "@/components/PillarsGrid";
+import CommunityAIGallery from "@/components/CommunityAIGallery";
 import PHRHXShow from "@/components/PHRHXShow";
 import BeatStore from "@/components/BeatStore";
 import Newsletter from "@/components/Newsletter";
@@ -24,6 +25,7 @@ export default async function HomePage() {
       <PHRHXShow />
       <BeatStore />
       <Newsletter />
+      <CommunityAIGallery variant="preview" />
       <FromTheCulture />
       <Footer />
     </>

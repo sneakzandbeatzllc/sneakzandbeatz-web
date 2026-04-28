@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import CommunityAIGallery from "@/components/CommunityAIGallery";
 import { SOCIAL } from "@/data/social";
 import { EMAILS, mailto } from "@/data/contact-emails";
 
@@ -208,6 +209,9 @@ export default function CommunityPage() {
             and PHRHX reviews personally within 48hr.
           </p>
         </section>
+
+        {/* COMMUNITY AI GALLERY — drop-zone-driven reel */}
+        <CommunityAIGallery variant="full" />
 
         {/* FINAL CTA */}
         <section className="container community-block community-final">
