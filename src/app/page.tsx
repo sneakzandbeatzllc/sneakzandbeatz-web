@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import TrendingTicker from "@/components/TrendingTicker";
+import FeaturedStory from "@/components/FeaturedStory";
 import PillarsGrid from "@/components/PillarsGrid";
 import PHRHXShow from "@/components/PHRHXShow";
 import BeatStore from "@/components/BeatStore";
@@ -18,6 +19,7 @@ export default async function HomePage() {
       <Header />
       <Hero />
       <TrendingTicker items={trending} />
+      <FeaturedStory />
       <PillarsGrid />
       <PHRHXShow />
       <BeatStore />

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import OnTheRadar from "@/components/OnTheRadar";
 import { EMAILS, mailto } from "@/data/contact-emails";
 import { SOCIAL } from "@/data/social";
 
@@ -19,7 +20,7 @@ const EPISODES: { num: string; title: string; runtime: string; tease: string }[]
   { num: "EP. 07", title: "AI in Music Production",              runtime: "39:11", tease: "What it actually changes for producers, and what's overhyped." },
 ];
 
-export default function ShowPage() {
+export default async function ShowPage() {
   return (
     <>
       <Header />
@@ -65,6 +66,8 @@ export default function ShowPage() {
             <li><strong>RSS</strong> — coming once we host our own audio. For now use Spotify or Apple.</li>
           </ul>
         </section>
+
+        <OnTheRadar />
 
         <section className="legal-section">
           <h2>Recent episodes</h2>
