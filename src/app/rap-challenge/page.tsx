@@ -7,7 +7,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "The $10K Rap Challenge — Sneakz & Beatz",
   description:
-    "Submit a rap over a Sneakz & Beatz beat. Best track wins $10,000. Entry is free with the $79 Standard Bundle. Sign up for the waitlist — entries open soon.",
+    "Submit a rap over a Sneakz & Beatz beat. Winner takes home a $10,000 prize package — PS5 Pro, $500 StockX gift card, custom 1-of-1 sneaker, anime exclusive box, lifetime beats, and more. Entry is free with the $79 Standard Bundle.",
 };
 
 const STEPS = [
@@ -33,11 +33,67 @@ const STEPS = [
   },
 ];
 
-const PRIZES = [
-  { place: "1st",  amount: "$10,000", extras: "+ exclusive license on the beat you used + The PHRHX Show interview" },
-  { place: "2nd",  amount: "$1,500",  extras: "+ exclusive license + Standard Bundle for life (every beat we ever release)" },
-  { place: "3rd",  amount: "$500",    extras: "+ Standard Bundle for life" },
-  { place: "Top 25", amount: "Producer credit", extras: "On a Sneakz & Beatz cypher tape released to all DSPs" },
+type PrizeTier = {
+  place: string;
+  perceivedValue: string;
+  headline: string;
+  items: string[];
+  isWinner?: boolean;
+};
+
+const PRIZES: PrizeTier[] = [
+  {
+    place: "1st Place",
+    perceivedValue: "$10,000+",
+    headline: "The Whole Pack",
+    isWinner: true,
+    items: [
+      "Sony PS5 Pro + 2 AAA games",
+      "$500 StockX Gift Card",
+      "Custom 1-of-1 painted sneaker (commissioned for the winner)",
+      "Anime exclusive box — rare manga, vinyl OST, figurine, archive piece",
+      "Sneakz & Beatz Lifetime Pass — every beat we ever release, forever",
+      "10 vocal kits + 5 drum kits + 5 melody loop packs (Logic / Pro Tools / FL / Ableton)",
+      "PHRHX Custom Beat — Raymond produces a 1-of-1 for your next track",
+      "Inner Circle 12-month pass (private group, voice-note Q&As, early drops)",
+      "The PHRHX Show winner episode",
+      "Cypher tape opener slot (track #1)",
+    ],
+  },
+  {
+    place: "2nd Place",
+    perceivedValue: "$3,000+",
+    headline: "The Producer Pack",
+    items: [
+      "$250 StockX Gift Card",
+      "5 vocal kits + drum kit + sample pack",
+      "Sneakz & Beatz Lifetime Pass",
+      "Cypher tape feature track (slots #5-10)",
+      "Behind-the-scenes mention on the PHRHX Show winner episode",
+    ],
+  },
+  {
+    place: "3rd Place",
+    perceivedValue: "$1,000+",
+    headline: "The Starter Pack",
+    items: [
+      "$100 StockX Gift Card",
+      "Standard Bundle (100 mastered beats)",
+      "2 vocal kits",
+      "Cypher tape feature track (slots #15-25)",
+    ],
+  },
+  {
+    place: "Top 25 Finalists",
+    perceivedValue: "$300+ each",
+    headline: "The Cypher",
+    items: [
+      "Producer credit on \"Sneakz & Beatz Cypher Vol. 1\" — released to all DSPs (Spotify, Apple Music, Tidal, Amazon Music)",
+      "30% of streaming royalties on YOUR track on the cypher tape",
+      "Standard Bundle at 50% off ($39) if you didn't already buy",
+      "Sneakz & Beatz follow + 1 promo Reel mention",
+    ],
+  },
 ];
 
 const FAQ = [
@@ -82,15 +138,15 @@ export default function RapChallengePage() {
           <div className="container">
             <span className="rap-eyebrow">⚡ The $10K Rap Challenge · Waitlist Open</span>
             <h1 className="rap-headline">
-              Submit a rap over a <span className="accent">Sneakz &amp; Beatz</span> beat.
-              <br />
-              Best track wins <span className="rap-prize-num">$10,000</span>.
+              Submit a rap. <span className="accent">Win a $10K prize package.</span>
             </h1>
             <p className="rap-sub">
-              Entry is <strong>free</strong> with the $79 Standard Bundle (you keep all 100
-              beats either way). Or <strong>$25 standalone</strong>. Top 25 land on the
-              cypher tape. Winner gets the bag, the exclusive on the beat they used, and an
-              interview on The PHRHX Show.
+              <strong>PS5 Pro</strong>. <strong>$500 StockX gift card</strong>. Custom 1-of-1
+              sneaker. Anime exclusive box. Lifetime beat catalog access. 10 producer kits.
+              Plus a custom beat from PHRHX, the cypher-tape opener slot, and 12 months of
+              Inner Circle. <strong>Entry is free with the $79 Standard Bundle</strong>
+              {" "}(you keep all 100 beats either way). Or $25 standalone. Top 25 land on the
+              cypher tape with streaming royalties.
             </p>
 
             {/* Waitlist signup — Substack form, same backend as the newsletter */}
@@ -134,13 +190,29 @@ export default function RapChallengePage() {
         {/* PRIZES */}
         <section className="container rap-block">
           <h2 className="rap-h2">The Prize Pool</h2>
-          <div className="rap-prizes">
-            {PRIZES.map((p) => (
-              <div key={p.place} className={"rap-prize-row" + (p.place === "1st" ? " rap-prize-winner" : "")}>
-                <span className="rap-prize-place">{p.place}</span>
-                <span className="rap-prize-amount">{p.amount}</span>
-                <span className="rap-prize-extras">{p.extras}</span>
-              </div>
+          <p className="rap-prize-intro">
+            Total perceived value across all tiers: <strong>$14,000+</strong>. Every prize is
+            verifiable — physical product, gift cards, kits we own and ship, and credits that
+            actually print. No fake collabs, no &ldquo;mystery features,&rdquo; no streaming-number
+            promises we can&rsquo;t guarantee.
+          </p>
+          <div className="rap-prize-tiers">
+            {PRIZES.map((tier) => (
+              <article
+                key={tier.place}
+                className={"rap-prize-tier" + (tier.isWinner ? " rap-prize-tier-winner" : "")}
+              >
+                <header className="rap-prize-tier-head">
+                  <span className="rap-prize-tier-place">{tier.place}</span>
+                  <span className="rap-prize-tier-value">{tier.perceivedValue}</span>
+                </header>
+                <h3 className="rap-prize-tier-headline">{tier.headline}</h3>
+                <ul className="rap-prize-tier-items">
+                  {tier.items.map((item, i) => (
+                    <li key={i}>{item}</li>
+                  ))}
+                </ul>
+              </article>
             ))}
           </div>
         </section>
@@ -213,6 +285,10 @@ export default function RapChallengePage() {
           </form>
           <p className="rap-trust" style={{ marginTop: 16 }}>
             Or <a href={mailto(EMAILS.info, "Rap Challenge — Question")}>email us</a> with questions.
+          </p>
+          <p className="rap-trust" style={{ marginTop: 8 }}>
+            <Link href="/rap-challenge/rules">Read the official rules</Link> · NO PURCHASE
+            NECESSARY · void where prohibited
           </p>
         </section>
       </main>
