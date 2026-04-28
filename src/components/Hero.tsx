@@ -1,4 +1,4 @@
-import Image from "next/image";
+import HeroGallery from "@/components/HeroGallery";
 
 export default function Hero() {
   return (
@@ -35,18 +35,10 @@ export default function Hero() {
           </div>
         </div>
 
-        {/* Hero art: the primary brand logo as the centerpiece. Replace with editorial photography
-            once available — drop a hero shot in /public and swap the <Image src> here. */}
-        <div className="hero-art" aria-hidden="true">
-          <Image
-            src="/logo-mark-512.png"
-            alt="Sneakz & Beatz brand mark"
-            className="logo-mark"
-            width={512}
-            height={512}
-            priority
-          />
-        </div>
+        {/* Hero art: rotating gallery of /public/photos/ images.
+            Drop new photos via the "Site Photos" Desktop shortcut.
+            Falls back to the brand logo if 0 photos exist. */}
+        <HeroGallery />
       </div>
     </section>
   );
