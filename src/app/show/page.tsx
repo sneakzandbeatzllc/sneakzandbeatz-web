@@ -4,6 +4,7 @@ import Footer from "@/components/Footer";
 import OnTheRadar from "@/components/OnTheRadar";
 import { EMAILS, mailto } from "@/data/contact-emails";
 import { SOCIAL } from "@/data/social";
+import { fetchYouTubeVideos, formatPublishedAgo } from "@/lib/youtube";
 
 export const metadata = {
   title: "The PHRHX Show — Sneakz & Beatz",
@@ -11,16 +12,13 @@ export const metadata = {
     "Long-form interviews with the people moving culture — sneakers, hip-hop, anime, gaming. Hosted by PHRHX. Watch on YouTube, listen everywhere.",
 };
 
-const EPISODES: { num: string; title: string; runtime: string; tease: string }[] = [
-  { num: "EP. 12", title: "The State of Sneaker Culture",        runtime: "45:18", tease: "Why retros run streetwear in 2026 and what's wrong with the resale market." },
-  { num: "EP. 11", title: "Hip-Hop's Influence on Fashion",      runtime: "38:22", tease: "From Run-DMC's adidas to Drake's NOCTA — the playbook for a rapper-led brand." },
-  { num: "EP. 10", title: "Anime's Global Takeover",             runtime: "32:47", tease: "Why anime stopped being niche, and which arcs are leading the next wave." },
-  { num: "EP. 09", title: "Gaming Meets Street Culture",         runtime: "41:03", tease: "Travis x Fortnite was a turning point. What's the next one?" },
-  { num: "EP. 08", title: "Building An Independent Label",       runtime: "47:55", tease: "Beat economics, leases vs. exclusives, and why the indie path is back." },
-  { num: "EP. 07", title: "AI in Music Production",              runtime: "39:11", tease: "What it actually changes for producers, and what's overhyped." },
-];
-
 export default async function ShowPage() {
+  // Live pull from the The PHRHX Show YouTube channel RSS. Top 12 videos.
+  // First video is rendered as a big embedded player; rest as thumbnails.
+  const videos = await fetchYouTubeVideos(undefined, 12);
+  const featured = videos[0];
+  const archive = videos.slice(1);
+
   return (
     <>
       <Header />
@@ -69,24 +67,76 @@ export default async function ShowPage() {
 
         <OnTheRadar />
 
+        {featured && (
+          <section className="legal-section">
+            <h2>Latest episode</h2>
+            <div className="yt-featured">
+              <div className="yt-featured-player">
+                <iframe
+                  src={`${featured.embedUrl}?rel=0`}
+                  title={featured.title}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  loading="lazy"
+                />
+              </div>
+              <div className="yt-featured-meta">
+                <span className="yt-featured-tag">⚡ Latest</span>
+                <h3 className="yt-featured-title">{featured.title}</h3>
+                {featured.publishedAt && (
+                  <p className="yt-featured-date">
+                    Published {formatPublishedAgo(featured.publishedAt)}
+                  </p>
+                )}
+                <a
+                  href={featured.url}
+                  target="_blank"
+                  rel="noopener"
+                  className="btn btn-primary btn-arrow"
+                >
+                  Watch On YouTube
+                </a>
+              </div>
+            </div>
+          </section>
+        )}
+
         <section className="legal-section">
-          <h2>Recent episodes</h2>
-          <div className="show-episodes">
-            {EPISODES.map((e) => (
-              <article key={e.num} className="show-episode">
-                <div className="show-episode-meta">
-                  <span className="show-episode-num">{e.num}</span>
-                  <span className="show-episode-runtime">{e.runtime}</span>
-                </div>
-                <h3 className="show-episode-title">{e.title}</h3>
-                <p className="show-episode-tease">{e.tease}</p>
-              </article>
-            ))}
-          </div>
-          <p className="legal-effective" style={{ marginTop: 24 }}>
-            <em>Episode archive view + transcript search is shipping Q3 2026. For now,
-            the YouTube channel is the canonical archive.</em>
-          </p>
+          <h2>{archive.length > 0 ? "Recent episodes" : "Episodes"}</h2>
+          {archive.length > 0 ? (
+            <div className="yt-grid">
+              {archive.map((v) => (
+                <a
+                  key={v.id}
+                  href={v.url}
+                  target="_blank"
+                  rel="noopener"
+                  className="yt-card"
+                >
+                  <div
+                    className="yt-card-thumb"
+                    style={{ backgroundImage: `url(${v.thumbnail})` }}
+                  >
+                    <div className="yt-card-play">▶</div>
+                  </div>
+                  <div className="yt-card-body">
+                    <h4 className="yt-card-title">{v.title}</h4>
+                    <span className="yt-card-date">
+                      {formatPublishedAgo(v.publishedAt)}
+                    </span>
+                  </div>
+                </a>
+              ))}
+            </div>
+          ) : (
+            <p className="legal-effective">
+              <em>YouTube feed is loading — check back in a minute, or head straight to{" "}
+              <a href={SOCIAL.youtube.url} target="_blank" rel="noopener">
+                {SOCIAL.youtube.handle}
+              </a>{" "}
+              for the full archive.</em>
+            </p>
+          )}
         </section>
 
         <section className="legal-section">
