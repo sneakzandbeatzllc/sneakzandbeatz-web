@@ -28,7 +28,7 @@ export default function LicensingPage() {
           </p>
           <p className="licensing-effective">
             Effective: April 1, 2026 · Producer of record: Black Royal Music Media LLC,
-            San Diego, CA. Questions: <a href="mailto:blackroyalmusicmedia@gmail.com">blackroyalmusicmedia@gmail.com</a>
+            San Diego, CA. Questions: <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>
           </p>
         </div>
 
@@ -175,7 +175,7 @@ export default function LicensingPage() {
             <h3>8. Refunds + 30-day satisfaction guarantee</h3>
             <p>
               Beat leases and bundles include a 30-day satisfaction guarantee. Email
-              blackroyalmusicmedia@gmail.com within 30 days of purchase for a full refund of
+              licensing@sneakzandbeatz.com within 30 days of purchase for a full refund of
               the bundle or lease, no questions asked. By accepting the refund you forfeit any
               license rights granted under the purchase and agree to delete the delivered files
               and any derivative works that have been published. Exclusive purchases are
@@ -219,7 +219,7 @@ export default function LicensingPage() {
 
           <p className="licensing-foot">
             Questions before buying? Email{" "}
-            <a href="mailto:blackroyalmusicmedia@gmail.com">blackroyalmusicmedia@gmail.com</a>.
+            <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>.
             Happy to walk through any clause, especially the splits.
           </p>
         </article>
@@ -376,7 +376,7 @@ const TIERS = [
       {
         heading: "Per-beat exclusive purchases",
         paragraphs: [
-          "Need exclusive rights on a specific beat without the bundle? Email blackroyalmusicmedia@gmail.com with the beat title — exclusive pricing is typically $250–$1,500 per beat depending on demand and is negotiated case-by-case. Once an exclusive sells, the beat is permanently removed from the public catalog.",
+          "Need exclusive rights on a specific beat without the bundle? Email licensing@sneakzandbeatz.com with the beat title — exclusive pricing is typically $250–$1,500 per beat depending on demand and is negotiated case-by-case. Once an exclusive sells, the beat is permanently removed from the public catalog.",
         ],
       },
     ],
