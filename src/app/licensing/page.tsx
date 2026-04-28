@@ -63,7 +63,7 @@ export default function LicensingPage() {
               {tier.sections.map((sec, i) => (
                 <section key={i} className="licensing-section">
                   <h3>{sec.heading}</h3>
-                  {sec.paragraphs.map((p, j) => (
+                  {sec.paragraphs?.map((p, j) => (
                     <p key={j}>{p}</p>
                   ))}
                   {sec.bullets && (
