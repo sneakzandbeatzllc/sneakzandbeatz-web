@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Header from "./Header";
 import Footer from "./Footer";
+import { fetchSubstackPostsForPillar, type SubstackPost } from "@/lib/substack";
 
 export type PillarCard = {
   tag: string;       // chip label e.g. "Drop Reports"
@@ -27,9 +28,11 @@ export type PillarHubProps = {
   /** Optional pillar-specific CTA buttons (max 2) */
   primaryCta?: PillarCta;
   secondaryCta?: PillarCta;
+  /** Pillar key — used to fetch matching Substack posts. */
+  pillarKey?: NonNullable<SubstackPost["pillar"]>;
 };
 
-export default function PillarHub({
+export default async function PillarHub({
   pillarNumber,
   pillarName,
   pillarTagline,
@@ -40,7 +43,9 @@ export default function PillarHub({
     href: "https://sneakzandbeatz.substack.com",
   },
   secondaryCta,
+  pillarKey,
 }: PillarHubProps) {
+  const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
   const ctaIsExternal = primaryCta.href.startsWith("http");
   return (
     <>
@@ -87,25 +92,63 @@ export default function PillarHub({
 
         <section className="pillar-newsletter">
           <h2 className="pillar-section-h">Latest From The Newsletter</h2>
-          <p className="pillar-newsletter-sub">
-            Daily drops covering this pillar live in the newsletter at{" "}
-            <a
-              href="https://sneakzandbeatz.substack.com"
-              target="_blank"
-              rel="noopener"
-            >
-              sneakzandbeatz.substack.com
-            </a>
-            . Subscribe to get them in your inbox the moment they publish.
-          </p>
-          <a
-            href="https://sneakzandbeatz.substack.com"
-            target="_blank"
-            rel="noopener"
-            className="btn btn-primary btn-arrow"
-          >
-            Subscribe Free
-          </a>
+          {posts.length > 0 ? (
+            <>
+              <div className="pillar-posts-grid">
+                {posts.map((p) => (
+                  <a
+                    key={p.url}
+                    href={p.url}
+                    target="_blank"
+                    rel="noopener"
+                    className="pillar-post-card"
+                  >
+                    {p.imageUrl && (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img src={p.imageUrl} alt="" className="pillar-post-img" />
+                    )}
+                    <div className="pillar-post-body">
+                      <h3 className="pillar-post-title">{p.title}</h3>
+                      {p.excerpt && (
+                        <p className="pillar-post-excerpt">{p.excerpt}</p>
+                      )}
+                    </div>
+                  </a>
+                ))}
+              </div>
+              <a
+                href="https://sneakzandbeatz.substack.com"
+                target="_blank"
+                rel="noopener"
+                className="btn btn-primary btn-arrow"
+                style={{ marginTop: 24 }}
+              >
+                Read All On Substack
+              </a>
+            </>
+          ) : (
+            <>
+              <p className="pillar-newsletter-sub">
+                Daily drops covering this pillar live in the newsletter at{" "}
+                <a
+                  href="https://sneakzandbeatz.substack.com"
+                  target="_blank"
+                  rel="noopener"
+                >
+                  sneakzandbeatz.substack.com
+                </a>
+                . Subscribe to get them in your inbox the moment they publish.
+              </p>
+              <a
+                href="https://sneakzandbeatz.substack.com"
+                target="_blank"
+                rel="noopener"
+                className="btn btn-primary btn-arrow"
+              >
+                Subscribe Free
+              </a>
+            </>
+          )}
         </section>
       </section>
 

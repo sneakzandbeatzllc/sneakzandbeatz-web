@@ -9,6 +9,7 @@ export const metadata = {
 export default function SneakersPage() {
   return (
     <PillarHub
+      pillarKey="sneakers"
       pillarNumber="01 / Pillar"
       pillarName="SNEAKERS"
       pillarTagline="Drops. Heat. Culture."

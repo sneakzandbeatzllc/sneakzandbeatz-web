@@ -9,6 +9,7 @@ export const metadata = {
 export default function HipHopPage() {
   return (
     <PillarHub
+      pillarKey="hiphop"
       pillarNumber="02 / Pillar"
       pillarName="HIP-HOP · BEATZ"
       pillarTagline="The Sound. The Stories."

@@ -2,7 +2,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import BeatCatalog from "@/components/BeatCatalog";
-import { BEATS, CATEGORIES } from "@/data/beats";
+import { BEATS, CATEGORIES, getBeatsForDisplay } from "@/data/beats";
 
 export const metadata = {
   title: "Beat Store — Sneakz & Beatz",
@@ -64,7 +64,7 @@ export default function BeatsPage() {
       </section>
 
       <section className="container beat-store-section">
-        <BeatCatalog beats={BEATS} categories={CATEGORIES} />
+        <BeatCatalog beats={getBeatsForDisplay()} categories={CATEGORIES} />
       </section>
 
       <Footer />

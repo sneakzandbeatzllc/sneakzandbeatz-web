@@ -9,6 +9,7 @@ export const metadata = {
 export default function AnimePage() {
   return (
     <PillarHub
+      pillarKey="anime"
       pillarNumber="03 / Pillar"
       pillarName="ANIME"
       pillarTagline="Releases. Manga. Crossover."

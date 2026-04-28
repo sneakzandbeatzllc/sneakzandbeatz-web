@@ -1300,6 +1300,214 @@ nav.primary a:hover { color: var(--highlight); }
 .work-track-bullets li { margin-bottom: 4px; }
 
 /* ============================================================
+   /rap-challenge — $10K Rap Challenge landing page
+   ============================================================ */
+.rap-challenge { padding: 0; }
+.rap-hero {
+  padding: 96px 0 80px;
+  background: radial-gradient(ellipse at 50% 0%, rgba(200,38,44,0.20) 0%, transparent 60%),
+              linear-gradient(180deg, rgba(200,38,44,0.06) 0%, transparent 100%);
+  border-bottom: 1px solid var(--line);
+  text-align: center;
+}
+.rap-eyebrow {
+  display: inline-block;
+  font-size: 12px; letter-spacing: 0.20em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 6px 14px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 24px;
+}
+.rap-headline {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(48px, 7vw, 96px);
+  line-height: 1.0; margin: 0 0 24px; letter-spacing: 0.005em;
+}
+.rap-headline .accent { color: var(--accent); }
+.rap-prize-num { color: var(--highlight); }
+.rap-sub {
+  max-width: 720px; margin: 0 auto 28px;
+  font-size: 17px; line-height: 1.6; color: var(--text-soft);
+}
+.rap-sub strong { color: var(--highlight); }
+
+.rap-waitlist {
+  display: flex; gap: 8px; max-width: 520px; margin: 0 auto;
+  align-items: stretch;
+}
+.rap-waitlist-input {
+  flex: 1; padding: 14px 16px; font-size: 15px;
+  background: var(--card); color: var(--text);
+  border: 1px solid var(--line); border-radius: 999px;
+}
+.rap-waitlist-input:focus {
+  outline: none; border-color: var(--accent);
+}
+.rap-waitlist-cta { white-space: nowrap; }
+
+.rap-trust {
+  margin-top: 16px; font-size: 13px; color: var(--text-soft);
+  letter-spacing: 0.04em;
+}
+
+.rap-block { padding: 72px 0; max-width: 920px; }
+.rap-h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(36px, 5vw, 56px);
+  line-height: 1.05; margin: 0 0 32px; letter-spacing: 0.005em;
+  text-align: center;
+}
+
+.rap-steps {
+  display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;
+}
+.rap-step {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 14px; padding: 26px;
+}
+.rap-step-num {
+  font-family: 'Bebas Neue', sans-serif; font-size: 32px;
+  color: var(--accent); display: block; line-height: 1;
+}
+.rap-step-h {
+  font-family: 'Bebas Neue', sans-serif; font-size: 22px;
+  letter-spacing: 0.005em; margin: 8px 0 8px;
+}
+.rap-step-body {
+  margin: 0; color: var(--text-soft); font-size: 14px; line-height: 1.65;
+}
+
+.rap-prizes {
+  max-width: 760px; margin: 0 auto;
+  border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
+}
+.rap-prize-row {
+  display: grid; grid-template-columns: 80px 140px 1fr;
+  gap: 16px; padding: 18px 22px;
+  border-bottom: 1px solid var(--line);
+  align-items: center;
+}
+.rap-prize-row:last-child { border-bottom: 0; }
+.rap-prize-row.rap-prize-winner {
+  background: rgba(200,38,44,0.08);
+}
+.rap-prize-place {
+  font-family: 'Bebas Neue', sans-serif; font-size: 22px;
+  color: var(--accent); letter-spacing: 0.04em;
+}
+.rap-prize-amount {
+  font-family: 'Bebas Neue', sans-serif; font-size: 26px;
+  color: var(--highlight); letter-spacing: 0.005em;
+}
+.rap-prize-extras {
+  color: var(--text-soft); font-size: 14px; line-height: 1.55;
+}
+
+.rap-bundle {
+  text-align: center;
+  background: rgba(200,38,44,0.04);
+  border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  max-width: none; padding: 64px 24px;
+}
+.rap-bundle-inner { max-width: 720px; margin: 0 auto; }
+.rap-bundle-tag {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 4px 10px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 16px;
+}
+.rap-bundle-h { margin-bottom: 18px; }
+.rap-bundle-sub {
+  color: var(--text-soft); font-size: 15px; line-height: 1.7;
+  margin-bottom: 28px;
+}
+.rap-bundle-sub strong { color: var(--highlight); }
+
+.rap-final { text-align: center; padding: 80px 0 96px; }
+.rap-final-h { margin-bottom: 18px; }
+.rap-final-sub {
+  max-width: 600px; margin: 0 auto 28px;
+  color: var(--text-soft); font-size: 17px; line-height: 1.6;
+}
+
+@media (max-width: 720px) {
+  .rap-hero { padding: 56px 0 48px; }
+  .rap-block { padding: 48px 0; }
+  .rap-steps { grid-template-columns: 1fr; }
+  .rap-waitlist { flex-direction: column; }
+  .rap-prize-row {
+    grid-template-columns: 1fr; gap: 6px; padding: 14px 16px;
+  }
+}
+
+/* ============================================================
+   Pillar pages — Substack post grid (replaces the stub text)
+   ============================================================ */
+.pillar-posts-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
+  margin-bottom: 24px;
+}
+.pillar-post-card {
+  display: block; text-decoration: none; color: inherit;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 12px; overflow: hidden;
+  transition: transform 0.16s ease, border-color 0.16s ease;
+}
+.pillar-post-card:hover {
+  transform: translateY(-2px); border-color: var(--accent);
+}
+.pillar-post-img {
+  width: 100%; height: 160px; object-fit: cover; display: block;
+}
+.pillar-post-body { padding: 16px 18px; }
+.pillar-post-title {
+  font-family: 'Bebas Neue', sans-serif; font-size: 20px;
+  letter-spacing: 0.005em; margin: 0 0 6px;
+}
+.pillar-post-excerpt {
+  margin: 0; color: var(--text-soft); font-size: 13px; line-height: 1.55;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 720px) {
+  .pillar-posts-grid { grid-template-columns: 1fr; }
+}
+
+/* ============================================================
+   FromTheCulture — homepage Substack post tiles
+   ============================================================ */
+.culture-tile-img {
+  width: 100%; height: 100%; object-fit: cover;
+  position: absolute; top: 0; left: 0;
+  opacity: 0.6;
+}
+.culture-tile-body {
+  position: relative; z-index: 1;
+  padding: 20px;
+  display: flex; flex-direction: column; gap: 8px;
+  align-self: flex-end;
+}
+.culture-tile-tag {
+  display: inline-block; align-self: flex-start;
+  font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 3px 8px; border: 1px solid var(--accent); border-radius: 999px;
+}
+.culture-tile-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px; letter-spacing: 0.005em; line-height: 1.15;
+  color: var(--highlight);
+}
+.culture-followline {
+  margin-top: 28px; text-align: right;
+  color: var(--text-soft); font-size: 14px;
+}
+.culture-followline a {
+  color: var(--highlight); text-decoration: underline;
+}
+
+/* ============================================================
    Pillar hub pages (/sneakers, /hiphop, /anime, /gaming)
    ============================================================ */
 .pillar-page { padding: 64px 0 96px; max-width: 1100px; }

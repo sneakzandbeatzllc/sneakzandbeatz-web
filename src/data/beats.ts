@@ -1287,3 +1287,44 @@ export function getBeatBySlug(slug: string): Beat | undefined {
 export function getBeatsByCategory(slug: string): Beat[] {
   return BEATS.filter(b => b.category === slug);
 }
+
+/**
+ * Display ordering for the Beat Store catalog.
+ *
+ * Today: round-robin interleave by category so the top of the unfiltered
+ * list shows variety (East Coast → Trap → West Coast → Rage → Free → repeat)
+ * instead of all 16 East Coast beats in a row.
+ *
+ * When `releasedAt` is added per beat (next iteration), swap this for a
+ * date-desc sort so newest beats land at the top automatically.
+ */
+const DISPLAY_PILLAR_ORDER: Beat["category"][] = [
+  "east-coast",
+  "trap",
+  "west-coast",
+  "rage",
+  "free",
+];
+
+export function getBeatsForDisplay(): Beat[] {
+  // Bucket by category, preserve original relative order within each.
+  const buckets: Record<string, Beat[]> = {};
+  for (const cat of DISPLAY_PILLAR_ORDER) buckets[cat] = [];
+  for (const b of BEATS) {
+    if (buckets[b.category]) buckets[b.category].push(b);
+  }
+  // Round-robin interleave.
+  const out: Beat[] = [];
+  let added = true;
+  while (added) {
+    added = false;
+    for (const cat of DISPLAY_PILLAR_ORDER) {
+      const next = buckets[cat].shift();
+      if (next) {
+        out.push(next);
+        added = true;
+      }
+    }
+  }
+  return out;
+}

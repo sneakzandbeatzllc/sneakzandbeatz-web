@@ -9,6 +9,7 @@ export const metadata = {
 export default function GamingPage() {
   return (
     <PillarHub
+      pillarKey="gaming"
       pillarNumber="04 / Pillar"
       pillarName="GAMING"
       pillarTagline="Patches. Plays. Culture."
