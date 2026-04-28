@@ -62,18 +62,19 @@ button { font: inherit; cursor: pointer; border: 0; background: none; color: inh
 }
 .brand-logo img { width: 100%; height: 100%; object-fit: contain; display: block; }
 .brand-name {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: 22px; letter-spacing: 0.04em;
-  color: var(--highlight);
+  /* Hidden visually because the logo artwork itself spells "Sneakz & Beatz".
+     Kept in the DOM (clip-path off-screen) for SEO + screen readers. */
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px; overflow: hidden;
+  clip: rect(0, 0, 0, 0);
   white-space: nowrap;
+  border: 0;
 }
 @media (max-width: 720px) {
-  /* On mobile the logo already says SNEAKZ & BEATZ in the artwork itself;
-     hide the wordmark to free space and stop the awkward "SNEAKZ &" / "BEATZ" wrap. */
-  .brand-name { display: none; }
   .brand-logo { width: 56px; height: 56px; }
 }
-nav.primary { display: flex; gap: 22px; align-items: center; }
+nav.primary { display: flex; gap: 20px; align-items: center; flex: 1; justify-content: center; }
 nav.primary a {
   font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase;
   font-weight: 600; color: var(--text-soft); transition: color 120ms;
@@ -245,6 +246,42 @@ nav.primary a:hover { color: var(--highlight); }
   position: absolute; top: 18px; left: 22px;
   font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase;
   color: var(--text-soft);
+}
+.pillar-card-icon {
+  position: absolute; top: 50%; left: 50%;
+  transform: translate(-50%, -65%);
+  font-size: 110px; line-height: 1;
+  opacity: 0.18;
+  filter: saturate(0.6) drop-shadow(0 8px 24px rgba(0,0,0,0.4));
+  transition: transform 220ms ease, opacity 220ms ease;
+  pointer-events: none;
+  z-index: 1;
+}
+.pillar-card:hover .pillar-card-icon {
+  transform: translate(-50%, -65%) scale(1.08);
+  opacity: 0.28;
+}
+.pillar-card-count {
+  position: absolute; top: 18px; right: 22px;
+  display: flex; align-items: center; gap: 8px;
+  background: rgba(200,38,44,0.18);
+  border: 1px solid rgba(200,38,44,0.55);
+  padding: 6px 12px;
+  border-radius: 999px;
+  z-index: 2;
+}
+.pillar-card-count-num {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px;
+  color: var(--highlight);
+  letter-spacing: 0.02em;
+  line-height: 1;
+}
+.pillar-card-count-label {
+  font-size: 9px; letter-spacing: 0.10em; text-transform: uppercase;
+  color: var(--text);
+  font-weight: 600;
+  line-height: 1.2;
 }
 
 /* ----------- PHRHX show ----------- */
