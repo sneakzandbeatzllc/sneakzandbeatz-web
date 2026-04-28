@@ -43,8 +43,9 @@ export default async function BeatStore() {
           </Link>
         ))}
 
-        {/* Bundle promo card → /beats/bundles (3-tier funnel built on-site). */}
-        <Link href="/beats/bundles" className="bundle-card">
+        {/* Bundle promo card → /get-100-beats (single-product sales funnel).
+            For the 3-tier compare view see /beats/bundles. */}
+        <Link href="/get-100-beats" className="bundle-card">
           <div>
             <span className="funnel-tag">↗ Bundle · Save 99%</span>
             <h3>Get 100 Beats<br />+ Mix Pack</h3>

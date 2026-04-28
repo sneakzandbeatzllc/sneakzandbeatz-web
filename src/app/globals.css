@@ -1298,3 +1298,246 @@ nav.primary a:hover { color: var(--highlight); }
   color: var(--text-soft); font-size: 13px; line-height: 1.55;
 }
 .work-track-bullets li { margin-bottom: 4px; }
+
+/* ============================================================
+   Pillar hub pages (/sneakers, /hiphop, /anime, /gaming)
+   ============================================================ */
+.pillar-page { padding: 64px 0 96px; max-width: 1100px; }
+.pillar-hero { margin-bottom: 56px; max-width: 760px; }
+.pillar-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(56px, 9vw, 120px);
+  line-height: 0.95; margin: 18px 0 22px; letter-spacing: 0.005em;
+}
+.pillar-title .accent { color: var(--accent); }
+.pillar-lead {
+  font-size: 18px; line-height: 1.6; color: var(--text-soft);
+  margin-bottom: 32px;
+}
+
+.pillar-section-h {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 38px; letter-spacing: 0.005em;
+  margin: 0 0 24px;
+}
+
+.pillar-covers { margin-top: 56px; }
+.pillar-covers-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px;
+}
+.pillar-cover-card {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 14px; padding: 26px;
+  transition: border-color 0.16s ease, transform 0.16s ease;
+}
+.pillar-cover-card:hover {
+  border-color: var(--accent); transform: translateY(-2px);
+}
+.pillar-cover-tag {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--accent); padding: 4px 10px;
+  border: 1px solid var(--accent); border-radius: 999px; font-weight: 700;
+}
+.pillar-cover-h {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 26px; letter-spacing: 0.005em;
+  margin: 14px 0 8px;
+}
+.pillar-cover-body {
+  margin: 0; color: var(--text-soft); font-size: 14px; line-height: 1.6;
+}
+
+.pillar-newsletter {
+  margin-top: 64px; padding: 32px 28px;
+  background: rgba(255,255,255,0.02);
+  border: 1px solid var(--line); border-radius: 16px;
+}
+.pillar-newsletter-sub {
+  margin: 0 0 18px; color: var(--text-soft); font-size: 15px; line-height: 1.65;
+}
+.pillar-newsletter-sub a { color: var(--highlight); text-decoration: underline; }
+
+@media (max-width: 720px) {
+  .pillar-page { padding: 40px 0 64px; }
+  .pillar-covers-grid { grid-template-columns: 1fr; }
+  .pillar-cover-card { padding: 20px; }
+  .pillar-section-h { font-size: 28px; }
+  .pillar-newsletter { padding: 24px 20px; }
+}
+
+/* ============================================================
+   /show — The PHRHX Show
+   ============================================================ */
+.show-episodes {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
+}
+.show-episode {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 14px; padding: 22px;
+}
+.show-episode-meta {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 12px;
+}
+.show-episode-num {
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--accent); font-weight: 700;
+}
+.show-episode-runtime {
+  font-size: 12px; color: var(--text-soft); font-feature-settings: 'tnum';
+}
+.show-episode-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px; letter-spacing: 0.005em;
+  margin: 0 0 8px;
+}
+.show-episode-tease {
+  margin: 0; color: var(--text-soft); font-size: 13px; line-height: 1.6;
+}
+
+@media (max-width: 720px) {
+  .show-episodes { grid-template-columns: 1fr; }
+}
+
+/* ============================================================
+   /get-100-beats — single-product sales funnel
+   ============================================================ */
+.funnel { padding: 0; }
+.funnel-hero {
+  padding: 96px 0 80px;
+  background: radial-gradient(ellipse at 30% 20%, rgba(200,38,44,0.18) 0%, transparent 60%),
+              linear-gradient(180deg, rgba(200,38,44,0.06) 0%, transparent 100%);
+  border-bottom: 1px solid var(--line);
+  text-align: center;
+}
+.funnel-eyebrow {
+  display: inline-block;
+  font-size: 12px; letter-spacing: 0.20em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 6px 14px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 24px;
+}
+.funnel-headline {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(56px, 9vw, 128px);
+  line-height: 0.95; margin: 0 0 24px; letter-spacing: 0.005em;
+}
+.funnel-headline .accent { color: var(--accent); }
+.funnel-h-num { color: var(--highlight); }
+.funnel-sub {
+  max-width: 720px; margin: 0 auto 36px;
+  font-size: 18px; line-height: 1.6; color: var(--text-soft);
+}
+.funnel-sub strong { color: var(--highlight); }
+.funnel-cta {
+  font-size: 18px; padding: 18px 32px;
+}
+.funnel-trust {
+  margin-top: 18px; font-size: 13px; color: var(--text-soft);
+  letter-spacing: 0.04em;
+}
+
+.funnel-block { padding: 72px 0; max-width: 920px; }
+.funnel-h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(36px, 5vw, 56px);
+  line-height: 1.05; margin: 0 0 32px; letter-spacing: 0.005em;
+  text-align: center;
+}
+
+.funnel-problems {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
+  margin-top: 8px;
+}
+.funnel-problem {
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 14px; padding: 24px;
+}
+.funnel-problem h3 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px; letter-spacing: 0.01em;
+  color: var(--accent); margin: 0 0 10px;
+}
+.funnel-problem p {
+  margin: 0; color: var(--text-soft); font-size: 14px; line-height: 1.65;
+}
+
+.funnel-included {
+  list-style: none; padding: 0; margin: 0;
+  max-width: 760px; margin: 0 auto;
+}
+.funnel-included li {
+  padding: 14px 0; border-bottom: 1px solid var(--line);
+  color: var(--text-soft); font-size: 16px; line-height: 1.55;
+}
+.funnel-included li:last-child { border-bottom: 0; }
+.funnel-included strong { color: var(--highlight); font-weight: 700; }
+
+.funnel-stack-sub {
+  text-align: center; max-width: 600px; margin: -14px auto 28px;
+  color: var(--text-soft); font-size: 15px;
+}
+.funnel-stack {
+  max-width: 720px; margin: 0 auto;
+  border: 1px solid var(--line); border-radius: 14px; overflow: hidden;
+}
+.funnel-stack-row {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 16px 24px; border-bottom: 1px solid var(--line);
+  font-size: 15px; color: var(--text-soft);
+}
+.funnel-stack-row:last-child { border-bottom: 0; }
+.funnel-stack-row > span:last-child { color: var(--highlight); font-weight: 600; font-feature-settings: 'tnum'; }
+.funnel-stack-row.funnel-stack-total {
+  background: rgba(255,255,255,0.04);
+  font-weight: 700; color: var(--highlight);
+}
+.funnel-stack-row.funnel-stack-today {
+  background: rgba(200,38,44,0.10);
+  font-family: 'Bebas Neue', sans-serif; font-size: 28px;
+  letter-spacing: 0.02em;
+  color: var(--accent);
+}
+.funnel-stack-row.funnel-stack-today > span:last-child { color: var(--accent); }
+.funnel-block > .funnel-cta { display: block; max-width: 360px; margin: 0 auto; }
+
+.funnel-guarantee {
+  background: rgba(200,38,44,0.04);
+  border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+  max-width: none; padding: 64px 24px;
+}
+.funnel-guarantee-inner { max-width: 720px; margin: 0 auto; text-align: center; }
+.funnel-guarantee-badge {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.20em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 6px 14px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 18px;
+}
+.funnel-guarantee p {
+  color: var(--text-soft); font-size: 15px; line-height: 1.7;
+}
+.funnel-guarantee a {
+  color: var(--highlight); text-decoration: underline;
+}
+
+.funnel-faq { max-width: 720px; margin: 0 auto; }
+
+.funnel-final {
+  text-align: center;
+  padding: 80px 0 96px;
+}
+.funnel-final-sub {
+  max-width: 640px; margin: -8px auto 32px;
+  color: var(--text-soft); font-size: 17px; line-height: 1.6;
+}
+.funnel-final-sub strong { color: var(--highlight); }
+
+@media (max-width: 720px) {
+  .funnel-hero { padding: 64px 0 56px; }
+  .funnel-block { padding: 48px 0; }
+  .funnel-problems { grid-template-columns: 1fr; }
+  .funnel-stack-row { padding: 14px 18px; font-size: 14px; }
+  .funnel-stack-row.funnel-stack-today { font-size: 22px; }
+}
