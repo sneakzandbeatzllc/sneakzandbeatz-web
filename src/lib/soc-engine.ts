@@ -21,10 +21,48 @@
 export type TrendingItem = { title: string; url?: string };
 
 const FEEDS: { url: string; pillar: string }[] = [
-  { url: "https://hypebeast.com/footwear/feed",         pillar: "Sneakers" },
-  { url: "https://hiphopdx.com/rss/news",               pillar: "Hip-Hop"  },
-  { url: "https://www.animenewsnetwork.com/all/rss.xml",pillar: "Anime"    },
-  { url: "https://feeds.feedburner.com/ign/all",        pillar: "Gaming"   },
+  // SNEAKERS — culture/release news only (no commerce sections).
+  { url: "https://hypebeast.com/footwear/feed",          pillar: "Sneakers" },
+  { url: "https://sneakernews.com/feed/",                pillar: "Sneakers" },
+  // HIP-HOP — news + culture.
+  { url: "https://hiphopdx.com/rss/news",                pillar: "Hip-Hop"  },
+  { url: "https://www.xxlmag.com/feed/",                 pillar: "Hip-Hop"  },
+  // ANIME — culture-focused outlets.
+  { url: "https://www.animenewsnetwork.com/all/rss.xml", pillar: "Anime"    },
+  { url: "https://www.crunchyroll.com/news/rss",         pillar: "Anime"    },
+  // GAMING — explicitly avoid IGN/feedburner because they include deals,
+  // gift guides, and Amazon affiliate listicles. Polygon + Kotaku are
+  // editorial culture coverage.
+  { url: "https://www.polygon.com/rss/index.xml",        pillar: "Gaming"   },
+  { url: "https://kotaku.com/rss",                       pillar: "Gaming"   },
+];
+
+/**
+ * Hard-denylist for headlines. We drop any title that matches ANY of these
+ * patterns before it can appear in the ticker. This catches the deal/gift-
+ * guide/affiliate junk that occasionally leaks through editorial RSS feeds
+ * (Mother's Day gift roundups, "Save 50% off X" listicles, "Best Buy/Prime
+ * Day" deals, etc.).
+ */
+const TITLE_DENYLIST: RegExp[] = [
+  /\bdeal[s]?\b/i,
+  /\b\d+%\s*off\b/i,
+  /\bsave\s+(?:\$|up to|big)/i,
+  /\bgift\s*(?:idea[s]?|guide[s]?)\b/i,
+  /\b(?:mother|father)'?s day\b/i,
+  /\bvalentine'?s day\b/i,
+  /\bblack friday\b/i,
+  /\bcyber monday\b/i,
+  /\bprime day\b/i,
+  /\b(?:discount|coupon)\b/i,
+  /\bbest\s+(?:buy|deal[s]?)\b/i,
+  /\bamazon prime\b/i,
+  /\bbudget\s+(?:pick|buy|option)\b/i,
+  /\baffordable\b/i,
+  /\bunder\s+\$\d+/i,
+  /\bcheapest\b/i,
+  /\bsponsored\b/i,
+  /\b(?:promo code|coupon code)\b/i,
 ];
 
 const FALLBACK: TrendingItem[] = [
@@ -67,7 +105,14 @@ async function fetchFeedSafe(feed: { url: string; pillar: string }): Promise<Tre
     clearTimeout(timer);
     if (!res.ok) return [];
     const xml = await res.text();
-    return parseFeedItems(xml, ITEMS_PER_FEED);
+    // Pull more items than we need, then filter the deal/gift-guide junk
+    // before trimming back to ITEMS_PER_FEED. This way a feed whose first
+    // 2 items happen to be commerce listicles still contributes its real
+    // editorial pieces.
+    const raw = parseFeedItems(xml, 10);
+    return raw
+      .filter((item) => !TITLE_DENYLIST.some((re) => re.test(item.title)))
+      .slice(0, ITEMS_PER_FEED);
   } catch {
     return [];
   }

@@ -1,6 +1,7 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import { STRIPE_LINKS } from "@/data/stripe-links";
 
 export const metadata = {
   title: "Beat Bundles — Sneakz & Beatz",
@@ -18,8 +19,7 @@ type Tier = {
   bullets: string[];
   bonusValue?: number;
   ctaLabel: string;
-  // Will swap to a real Stripe Checkout URL once we create the products via the Stripe MCP.
-  ctaHref: string;
+  ctaHref: string; // Live Stripe Checkout URL — see src/data/stripe-links.ts
 };
 
 const TIERS: Tier[] = [
@@ -37,8 +37,7 @@ const TIERS: Tier[] = [
       "Email support",
     ],
     ctaLabel: "Get Starter — $47",
-    ctaHref:
-      "mailto:blackroyalmusicmedia@gmail.com?subject=Starter%20Bundle%20%28%2447%29&body=I%20want%20the%20Starter%20bundle.",
+    ctaHref: STRIPE_LINKS.starterBundle,
   },
   {
     slug: "standard",
@@ -59,8 +58,7 @@ const TIERS: Tier[] = [
     ],
     bonusValue: 2500,
     ctaLabel: "Get Standard — $79",
-    ctaHref:
-      "mailto:blackroyalmusicmedia@gmail.com?subject=Standard%20Bundle%20%28%2479%29&body=I%20want%20the%20Standard%20bundle.",
+    ctaHref: STRIPE_LINKS.standardBundle,
   },
   {
     slug: "exclusive",
@@ -77,8 +75,7 @@ const TIERS: Tier[] = [
       "DistroKid affiliate kit",
     ],
     ctaLabel: "Get Exclusive — $497",
-    ctaHref:
-      "mailto:blackroyalmusicmedia@gmail.com?subject=Exclusive%20Bundle%20%28%24497%29&body=I%20want%20the%20Exclusive%20bundle.",
+    ctaHref: STRIPE_LINKS.exclusiveBundle,
   },
 ];
 

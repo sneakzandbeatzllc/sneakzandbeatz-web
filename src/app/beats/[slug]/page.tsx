@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { BEATS, getBeatBySlug } from "@/data/beats";
+import { buildBeatLeaseUrl } from "@/data/stripe-links";
 
 export function generateStaticParams() {
   return BEATS.map((b) => ({ slug: b.slug }));
@@ -80,32 +81,34 @@ export default function BeatDetailPage({ params }: { params: { slug: string } })
                   <span className="beat-price-currency">$</span>
                   {beat.priceUSD.toFixed(2)}
                 </div>
-                <p className="beat-detail-price-sub">Lease license · MP3 + WAV · Up to 50,000 streams</p>
+                <p className="beat-detail-price-sub">Lease license · MP3 + WAV · Up to 100K streams</p>
                 {/*
-                  Stripe Checkout integration goes here once the Stripe MCP is connected.
-                  For now this routes to a mailto so you can manually invoice — swap to a
-                  Stripe Checkout session URL when ready.
+                  Live Stripe Checkout. We use ONE shared "Beat Lease" Stripe product
+                  for all 26 paid beats and pass the slug as client_reference_id so we
+                  know which beat to deliver after payment.
                 */}
                 <a
-                  href={`mailto:blackroyalmusicmedia@gmail.com?subject=${encodeURIComponent(
-                    `Beat Lease: ${beat.title} (${beat.bpm ?? "?"} BPM)`
-                  )}&body=${encodeURIComponent(
-                    `I'd like to lease "${beat.title}" — ${beat.categoryLabel} · ${beat.bpm ?? "?"} BPM · $${beat.priceUSD}.\n\nSend me payment instructions.`
-                  )}`}
+                  href={buildBeatLeaseUrl(beat.slug)}
+                  target="_blank"
+                  rel="noopener"
                   className="btn btn-primary btn-arrow"
                 >
                   Lease For ${beat.priceUSD}
                 </a>
+                <p className="beat-detail-checkout-note">
+                  Klarna / Afterpay available at checkout · Instant download after payment.{" "}
+                  <Link href="/licensing">Read full lease terms →</Link>
+                </p>
                 <details className="beat-detail-license">
                   <summary>What's included in a lease</summary>
                   <ul>
                     <li>MP3 + WAV files (high-quality master)</li>
-                    <li>Up to 50,000 audio streams</li>
-                    <li>Up to 2,500 physical/digital sales</li>
+                    <li>Up to 100,000 audio streams</li>
+                    <li>Up to 5,000 physical/digital sales</li>
                     <li>1 music video</li>
                     <li>Non-profit performances + radio</li>
                     <li>Producer credit: "Prod. by Sneakz &amp; Beatz" required</li>
-                    <li>For exclusive licensing or unlimited use, email us</li>
+                    <li>For exclusive licensing or unlimited use, see <Link href="/beats/bundles">Exclusive Bundle</Link></li>
                   </ul>
                 </details>
               </div>

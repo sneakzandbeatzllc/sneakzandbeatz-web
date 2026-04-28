@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import BeatCatalog from "@/components/BeatCatalog";
@@ -35,6 +36,31 @@ export default function BeatsPage() {
             inline. Lease beats are MP3 + WAV delivery. Free beats unlock with a Substack signup.
           </p>
         </div>
+      </section>
+
+      {/* Bundle promo banner — sits between the hero and the catalog grid. */}
+      <section className="container">
+        <Link href="/beats/bundles" className="bundle-promo">
+          <div className="bundle-promo-left">
+            <span className="bundle-promo-tag">⚡ Bundle Drop · Limited</span>
+            <h2 className="bundle-promo-h">
+              Skip leasing one at a time. <span className="accent">Get all {paidCount} for $79.</span>
+            </h2>
+            <p className="bundle-promo-sub">
+              That's <strong>$0.79 per beat</strong> instead of ${(29.99).toFixed(2)} each. Plus
+              stems, drum kits, mix consult, and 6 months of future drops.
+            </p>
+          </div>
+          <div className="bundle-promo-right">
+            <div className="bundle-promo-anchor">
+              Was <s>$2,500</s>
+            </div>
+            <div className="bundle-promo-price">
+              <span className="bundle-promo-price-cur">$</span>79
+            </div>
+            <span className="btn btn-primary btn-arrow">See Bundles</span>
+          </div>
+        </Link>
       </section>
 
       <section className="container beat-store-section">

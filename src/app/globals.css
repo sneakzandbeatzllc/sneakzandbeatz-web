@@ -760,6 +760,75 @@ nav.primary a:hover { color: var(--highlight); }
   margin: 14px 0 0; padding-left: 20px;
   color: var(--text-soft); font-size: 14px; line-height: 1.7;
 }
+.beat-detail-checkout-note {
+  margin: 12px 0 0; font-size: 12px; color: var(--text-soft);
+  letter-spacing: 0.02em;
+}
+.beat-detail-checkout-note a {
+  color: var(--highlight); text-decoration: underline;
+}
+.beat-detail-checkout-note a:hover { color: var(--accent); }
+
+/* Bundle promo banner — lives on /beats above the catalog */
+.bundle-promo {
+  display: grid; grid-template-columns: 1fr auto; gap: 32px; align-items: center;
+  margin: 32px 0; padding: 28px 32px;
+  background: linear-gradient(135deg, rgba(200,38,44,0.18) 0%, rgba(200,38,44,0.04) 100%);
+  border: 1px solid rgba(200,38,44,0.45);
+  border-radius: 16px;
+  text-decoration: none; color: var(--text);
+  transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+}
+.bundle-promo:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  background: linear-gradient(135deg, rgba(200,38,44,0.26) 0%, rgba(200,38,44,0.08) 100%);
+}
+.bundle-promo-left { display: flex; flex-direction: column; gap: 8px; }
+.bundle-promo-tag {
+  display: inline-block; align-self: flex-start;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 4px 10px; border: 1px solid var(--accent); border-radius: 999px;
+}
+.bundle-promo-h {
+  font-family: 'Bebas Neue', sans-serif; font-size: 34px; line-height: 1.05;
+  margin: 4px 0 0; letter-spacing: 0.01em;
+}
+.bundle-promo-h .accent { color: var(--accent); }
+.bundle-promo-sub {
+  margin: 4px 0 0; color: var(--text-soft); font-size: 14px; line-height: 1.5;
+  max-width: 560px;
+}
+.bundle-promo-sub strong { color: var(--highlight); font-weight: 700; }
+.bundle-promo-right {
+  display: flex; flex-direction: column; align-items: flex-end; gap: 8px;
+  min-width: 180px;
+}
+.bundle-promo-anchor {
+  font-size: 12px; letter-spacing: 0.10em; text-transform: uppercase;
+  color: var(--text-soft);
+}
+.bundle-promo-anchor s { color: var(--text-soft); }
+.bundle-promo-price {
+  font-family: 'Bebas Neue', sans-serif; font-size: 64px; line-height: 1;
+  color: var(--highlight); display: flex; align-items: flex-start;
+}
+.bundle-promo-price-cur {
+  font-size: 28px; line-height: 1; padding-top: 8px; margin-right: 2px;
+  color: var(--accent);
+}
+
+@media (max-width: 720px) {
+  .bundle-promo {
+    grid-template-columns: 1fr; gap: 16px; padding: 20px;
+  }
+  .bundle-promo-right {
+    align-items: flex-start; min-width: 0;
+  }
+  .bundle-promo-h { font-size: 28px; }
+  .bundle-promo-price { font-size: 52px; }
+}
 
 .beat-detail-related { margin-top: 72px; }
 .beat-detail-related h2 {
@@ -1000,4 +1069,111 @@ nav.primary a:hover { color: var(--highlight); }
   .footer-grid { grid-template-columns: 1fr; gap: 24px; }
   .culture-grid { grid-template-columns: repeat(2, 1fr); }
   .header-cta .btn-ghost { display: none; }
+}
+
+/* ============================================================
+   /licensing — full lease agreement page
+   ============================================================ */
+.licensing { padding: 64px 0 96px; max-width: 960px; }
+.licensing-hero { margin-bottom: 56px; }
+.licensing-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(48px, 7vw, 88px);
+  line-height: 1.0; margin: 18px 0 22px; letter-spacing: 0.005em;
+}
+.licensing-title .accent { color: var(--accent); }
+.licensing-lead {
+  font-size: 17px; line-height: 1.6; color: var(--text-soft);
+  max-width: 640px;
+}
+.licensing-effective {
+  margin-top: 18px; font-size: 12px; color: var(--text-soft);
+  letter-spacing: 0.04em;
+}
+.licensing-effective a { color: var(--highlight); text-decoration: underline; }
+
+.licensing-compare {
+  margin: 0 0 64px; border: 1px solid var(--line); border-radius: 12px;
+  overflow: hidden;
+}
+.licensing-compare-row {
+  display: grid; grid-template-columns: 1.4fr 1fr 1.2fr 1.1fr;
+  gap: 16px; padding: 14px 18px; font-size: 14px;
+  border-bottom: 1px solid var(--line);
+  align-items: center;
+}
+.licensing-compare-row:last-child { border-bottom: 0; }
+.licensing-compare-row.licensing-compare-head {
+  background: rgba(255,255,255,0.03); font-weight: 700; color: var(--highlight);
+  font-size: 12px; letter-spacing: 0.10em; text-transform: uppercase;
+}
+.licensing-compare-label { font-weight: 600; color: var(--highlight); }
+.licensing-compare-row > span { color: var(--text-soft); }
+.licensing-compare-row.licensing-compare-head > span { color: var(--highlight); }
+
+.licensing-tier {
+  margin: 0 0 64px; padding: 36px 32px;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 16px;
+}
+.licensing-tier-head { margin-bottom: 22px; }
+.licensing-tier-tag {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--accent); padding: 4px 10px;
+  border: 1px solid var(--accent); border-radius: 999px; font-weight: 700;
+}
+.licensing-tier-h {
+  font-family: 'Bebas Neue', sans-serif; font-size: 42px; line-height: 1.05;
+  margin: 12px 0 6px; letter-spacing: 0.005em;
+}
+.licensing-tier-sub { color: var(--text-soft); font-size: 15px; line-height: 1.6; margin: 0; }
+.licensing-tier-body { display: flex; flex-direction: column; gap: 22px; }
+.licensing-tier-cta { margin-top: 26px; }
+
+.licensing-section h3 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 22px;
+  letter-spacing: 0.04em; margin: 0 0 8px; color: var(--highlight);
+}
+.licensing-section p {
+  margin: 0 0 10px; color: var(--text-soft); font-size: 14px; line-height: 1.7;
+}
+.licensing-section ul {
+  margin: 8px 0 0; padding-left: 20px;
+  color: var(--text-soft); font-size: 14px; line-height: 1.7;
+}
+.licensing-section ul li { margin-bottom: 4px; }
+.licensing-section strong { color: var(--highlight); font-weight: 700; }
+
+.licensing-universal {
+  padding: 36px 32px;
+  background: rgba(255,255,255,0.02); border: 1px solid var(--line);
+  border-radius: 16px;
+}
+.licensing-universal h2 {
+  font-family: 'Bebas Neue', sans-serif; font-size: 38px;
+  letter-spacing: 0.005em; margin: 0 0 22px;
+}
+.licensing-foot {
+  margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--line);
+  color: var(--text-soft); font-size: 14px;
+}
+.licensing-foot a { color: var(--highlight); text-decoration: underline; }
+
+@media (max-width: 720px) {
+  .licensing { padding: 40px 0 64px; }
+  .licensing-compare { font-size: 12px; }
+  .licensing-compare-row {
+    grid-template-columns: 1fr; gap: 6px; padding: 16px;
+  }
+  .licensing-compare-row.licensing-compare-head { display: none; }
+  .licensing-compare-row > span:first-child {
+    color: var(--highlight);
+    font-size: 12px; letter-spacing: 0.10em; text-transform: uppercase;
+    font-weight: 700; margin-bottom: 4px;
+  }
+  .licensing-tier { padding: 24px 20px; }
+  .licensing-universal { padding: 24px 20px; }
+  .licensing-tier-h { font-size: 32px; }
+  .licensing-universal h2 { font-size: 28px; }
 }
