@@ -23,7 +23,7 @@ export default function Header() {
           <Link href="/anime">Anime</Link>
           <Link href="/gaming">Gaming</Link>
           <Link href="/show">The PHRHX Show</Link>
-          <Link href="/beatstore">Beat Store</Link>
+          <Link href="/beats">Beat Store</Link>
           <Link href="/about">About</Link>
         </nav>
         <div className="header-cta">
