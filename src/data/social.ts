@@ -51,10 +51,10 @@ export const SOCIAL = {
   },
   discord: {
     handle: "Sneakz & Beatz Community",
-    // Replace with your real invite once the server is created (Discord → Server Settings → Invites → set "Never expire").
-    // Format: https://discord.gg/XXXXXXXX
-    url: "https://discord.gg/REPLACE_ME",
+    // Permanent invite URL — set "Never expire" on 2026-04-28.
+    // To rotate: Discord → Server Settings → Invites → revoke + create new with Never expire.
+    url: "https://discord.gg/4B6v3DyY",
     label: "Discord",
-    enabled: false, // flip to true once invite URL is real
+    enabled: true,
   },
 } as const;
