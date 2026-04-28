@@ -2,6 +2,7 @@ import Link from "next/link";
 import Header from "./Header";
 import Footer from "./Footer";
 import { fetchSubstackPostsForPillar, type SubstackPost } from "@/lib/substack";
+import { fetchPillarCycles, type PillarCycle } from "@/lib/soc-cycles";
 
 export type PillarCard = {
   tag: string;       // chip label e.g. "Drop Reports"
@@ -46,6 +47,7 @@ export default async function PillarHub({
   pillarKey,
 }: PillarHubProps) {
   const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
+  const cycles = pillarKey ? await fetchPillarCycles(pillarKey) : [];
   const ctaIsExternal = primaryCta.href.startsWith("http");
   return (
     <>
@@ -89,6 +91,38 @@ export default async function PillarHub({
             ))}
           </div>
         </section>
+
+        {/* Today's Drops — SOC engine output, refreshed daily at 6 AM PT */}
+        {cycles.length > 0 && (
+          <section className="pillar-drops">
+            <div className="pillar-drops-header">
+              <h2 className="pillar-section-h">Today&apos;s Drops</h2>
+              <span className="pillar-drops-meta">
+                Top {cycles.length} ranked by the SOC engine · refreshed daily
+              </span>
+            </div>
+            <div className="pillar-drops-grid">
+              {cycles.map((c) => (
+                <a
+                  key={c.url}
+                  href={c.url}
+                  target="_blank"
+                  rel="noopener"
+                  className="pillar-drop-card"
+                >
+                  <div className="pillar-drop-score-row">
+                    <span className="pillar-drop-score">SOC {c.score.toFixed(2)}</span>
+                  </div>
+                  <h3 className="pillar-drop-title">{c.title}</h3>
+                  {c.excerpt && (
+                    <p className="pillar-drop-excerpt">{c.excerpt}</p>
+                  )}
+                  <span className="pillar-drop-source">Read source →</span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
 
         <section className="pillar-newsletter">
           <h2 className="pillar-section-h">Latest From The Newsletter</h2>
