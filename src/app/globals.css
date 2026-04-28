@@ -2700,13 +2700,25 @@ nav.primary a:hover { color: var(--highlight); }
    darken overlay so the .meta title + count badge stay readable. */
 .pillar-card .photo.photo-image {
   background-size: cover;
-  background-position: center;
+  /* Pull the focal point toward the upper-center so faces / subjects sit
+     in the visible top portion of the card, not behind the title overlay
+     at the bottom. Tweak per pillar below if a specific image needs a
+     different crop. */
+  background-position: center 30%;
 }
 .pillar-card .photo.photo-image::before {
+  /* Subtle top fade for tone + strong bottom fade so the title + arrow
+     stay legible regardless of the image. */
   background:
-    linear-gradient(180deg, rgba(0,0,0,0.30) 0%, rgba(0,0,0,0.0) 35%, rgba(0,0,0,0.85) 100%);
-  z-index: 0;  /* draw the gradient ABOVE the image, not behind */
+    linear-gradient(180deg, rgba(0,0,0,0.20) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0.92) 100%);
+  z-index: 0;
 }
+/* Per-pillar focal-point overrides, dial in if a specific image still
+   crops the subject's face. Drop a new image any time and re-tune here. */
+.pillar-card[data-pillar="sneakers"] .photo.photo-image { background-position: center 35%; }
+.pillar-card[data-pillar="hiphop"]   .photo.photo-image { background-position: center 25%; }
+.pillar-card[data-pillar="anime"]    .photo.photo-image { background-position: center 30%; }
+.pillar-card[data-pillar="gaming"]   .photo.photo-image { background-position: center 35%; }
 .pillar-card:has(.photo-image):hover .photo {
   filter: saturate(1.10);
 }
