@@ -103,67 +103,87 @@ export default function BeatCatalog({ beats, categories }: Props) {
         ))}
       </div>
 
-      <div className="beat-grid">
-        {filtered.map((beat) => {
+      {/* Header row above the list */}
+      <div className="beat-row-head">
+        <span className="beat-row-head-num">#</span>
+        <span className="beat-row-head-title">Title</span>
+        <span className="beat-row-head-meta">BPM · Length</span>
+        <span className="beat-row-head-price">Price</span>
+        <span className="beat-row-head-action"></span>
+      </div>
+
+      <div className="beat-list">
+        {filtered.map((beat, idx) => {
           const isPlaying = playingSlug === beat.slug;
           const pct = progress && progress.slug === beat.slug ? progress.pct : 0;
           const mins = beat.durationSec !== null ? Math.floor(beat.durationSec / 60) : null;
           const secs = beat.durationSec !== null
             ? String(Math.floor(beat.durationSec % 60)).padStart(2, "0") : null;
           return (
-            <div key={beat.slug} className={"beat-card" + (isPlaying ? " playing" : "")}>
-              {/* Cover: gradient by category + giant BPM + play overlay */}
+            <div key={beat.slug} className={"beat-row" + (isPlaying ? " playing" : "")}>
+              {/* Track number / play button (one merges into the other on hover) */}
               <button
-                className="beat-cover"
-                data-cat={beat.category}
+                className="beat-row-play"
                 onClick={() => togglePlay(beat)}
                 aria-label={isPlaying ? `Pause ${beat.title}` : `Play ${beat.title}`}
               >
-                <span className="beat-cover-bpm">
-                  {beat.bpm ?? "—"}
-                  <small>BPM</small>
-                </span>
-                <span className="beat-cover-cat">{beat.categoryLabel}</span>
-                {beat.isFree && <span className="beat-cover-free">FREE</span>}
-                <span className={"beat-cover-play" + (isPlaying ? " playing" : "")}>
-                  {isPlaying ? "❚❚" : "▶"}
-                </span>
-                <span className="beat-cover-progress" style={{ width: `${pct}%` }} />
+                <span className="beat-row-num">{String(idx + 1).padStart(2, "0")}</span>
+                <span className="beat-row-icon">{isPlaying ? "❚❚" : "▶"}</span>
               </button>
 
-              {/* Metadata strip */}
-              <div className="beat-strip">
-                <div className="beat-title" title={beat.title}>{beat.title}</div>
-                <div className="beat-meta">
-                  {mins !== null && <span>{mins}:{secs}</span>}
-                  <span className="beat-meta-dot">·</span>
+              {/* Title + category */}
+              <div className="beat-row-title">
+                <div className="beat-row-name" title={beat.title}>{beat.title}</div>
+                <div className="beat-row-sub">
                   <span className="beat-cat-badge" data-cat={beat.category}>
                     {beat.categoryLabel}
                   </span>
+                  {beat.isFree && <span className="beat-row-free-tag">FREE</span>}
                 </div>
               </div>
 
-              {/* Buy / get */}
-              <div className="beat-buy">
+              {/* BPM · duration */}
+              <div className="beat-row-meta">
+                {beat.bpm !== null && <span className="beat-row-bpm">{beat.bpm} BPM</span>}
+                {mins !== null && <span className="beat-row-dur">{mins}:{secs}</span>}
+              </div>
+
+              {/* Price */}
+              <div className="beat-row-price">
                 {beat.isFree ? (
-                  <>
-                    <span className="beat-price free">FREE</span>
-                    <Link href="https://sneakzandbeatz.substack.com" target="_blank" rel="noopener" className="btn btn-ghost beat-cta">
-                      Get →
-                    </Link>
-                  </>
+                  <span className="beat-price free">FREE</span>
                 ) : (
-                  <>
-                    <span className="beat-price">
-                      <span className="beat-price-currency">$</span>
-                      {beat.priceUSD.toFixed(2)}
-                    </span>
-                    <Link href={`/beats/${beat.slug}`} className="btn btn-primary beat-cta">
-                      Lease →
-                    </Link>
-                  </>
+                  <span className="beat-price">
+                    <span className="beat-price-currency">$</span>
+                    {beat.priceUSD.toFixed(2)}
+                  </span>
                 )}
               </div>
+
+              {/* Action */}
+              <div className="beat-row-action">
+                {beat.isFree ? (
+                  <Link
+                    href="https://sneakzandbeatz.substack.com"
+                    target="_blank"
+                    rel="noopener"
+                    className="btn btn-ghost beat-cta"
+                  >
+                    Get →
+                  </Link>
+                ) : (
+                  <Link href={`/beats/${beat.slug}`} className="btn btn-primary beat-cta">
+                    Lease →
+                  </Link>
+                )}
+              </div>
+
+              {/* Progress bar at the bottom of the row, only when playing */}
+              {isPlaying && (
+                <div className="beat-row-progress">
+                  <div className="beat-row-progress-bar" style={{ width: `${pct}%` }} />
+                </div>
+              )}
             </div>
           );
         })}

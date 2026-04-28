@@ -30,9 +30,9 @@ export type Beat = {
 };
 
 const FALLBACK: Beat[] = [
-  { id: "midnight-run",     name: "Midnight Run",     bpm: 158, key: "G Minor", style: "Trap",     priceUSD: 49.99, licenseLabel: "Lease · MP3 + WAV" },
-  { id: "no-turning-back",  name: "No Turning Back",  bpm: 142, key: "D Minor", style: "Drill",    priceUSD: 49.99, licenseLabel: "Lease · MP3 + WAV" },
-  { id: "bloodline",        name: "Bloodline",        bpm: 160, key: "C Minor", style: "Detroit",  priceUSD: 49.99, licenseLabel: "Lease · MP3 + WAV" },
+  { id: "midnight-run",     name: "Midnight Run",     bpm: 158, key: "G Minor", style: "Trap",     priceUSD: 29.99, licenseLabel: "Lease · MP3 + WAV" },
+  { id: "no-turning-back",  name: "No Turning Back",  bpm: 142, key: "D Minor", style: "Drill",    priceUSD: 29.99, licenseLabel: "Lease · MP3 + WAV" },
+  { id: "bloodline",        name: "Bloodline",        bpm: 160, key: "C Minor", style: "Detroit",  priceUSD: 29.99, licenseLabel: "Lease · MP3 + WAV" },
 ];
 
 export async function fetchFeaturedBeats(): Promise<Beat[]> {

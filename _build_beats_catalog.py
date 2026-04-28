@@ -51,7 +51,7 @@ CATEGORY_MAP = {
 }
 
 # Pricing: free beats are $0 (gated by Substack signup), everything else $49.99 lease.
-PRICE_PAID = 49.99
+PRICE_PAID = 29.99
 PRICE_FREE = 0.0
 
 

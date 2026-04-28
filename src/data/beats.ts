@@ -40,7 +40,7 @@ export const BEATS: Beat[] = [
     durationSec: 157.4,
     previewUrl: "/beats/audio/east-coast-9th-wonder-type-beat-cypherz.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 39.78,
   },
   {
@@ -53,7 +53,7 @@ export const BEATS: Beat[] = [
     durationSec: 144.5,
     previewUrl: "/beats/audio/east-coast-beat-the-odds.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 36.52,
   },
   {
@@ -66,7 +66,7 @@ export const BEATS: Beat[] = [
     durationSec: 167.4,
     previewUrl: "/beats/audio/east-coast-east-coast-type-beast-bricks.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 42.31,
   },
   {
@@ -79,7 +79,7 @@ export const BEATS: Beat[] = [
     durationSec: 167.0,
     previewUrl: "/beats/audio/east-coast-east-coast-type-beat-fear.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 42.19,
   },
   {
@@ -92,7 +92,7 @@ export const BEATS: Beat[] = [
     durationSec: 132.4,
     previewUrl: "/beats/audio/east-coast-east-coast-type-beat-heat.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 33.46,
   },
   {
@@ -105,7 +105,7 @@ export const BEATS: Beat[] = [
     durationSec: 169.4,
     previewUrl: "/beats/audio/east-coast-east-coast-type-beat-razor.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 42.81,
   },
   {
@@ -118,7 +118,7 @@ export const BEATS: Beat[] = [
     durationSec: 130.1,
     previewUrl: "/beats/audio/east-coast-east-coast-type-beat-right-hand.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 32.86,
   },
   {
@@ -131,7 +131,7 @@ export const BEATS: Beat[] = [
     durationSec: 85.3,
     previewUrl: "/beats/audio/east-coast-freestyle-beat-east-coast-type-beast-beast-coast.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 21.56,
   },
   {
@@ -144,7 +144,7 @@ export const BEATS: Beat[] = [
     durationSec: 180.7,
     previewUrl: "/beats/audio/east-coast-inspirational-type-beat-facing-dreams.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 45.66,
   },
   {
@@ -157,7 +157,7 @@ export const BEATS: Beat[] = [
     durationSec: 130.5,
     previewUrl: "/beats/audio/east-coast-j-cole-type-beat-blessed.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 32.98,
   },
   {
@@ -170,7 +170,7 @@ export const BEATS: Beat[] = [
     durationSec: 165.5,
     previewUrl: "/beats/audio/east-coast-j-cole-type-beat-glory.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 41.82,
   },
   {
@@ -183,7 +183,7 @@ export const BEATS: Beat[] = [
     durationSec: 160.5,
     previewUrl: "/beats/audio/east-coast-joey-bad-ass-jay-z-step-with-me.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 40.56,
   },
   {
@@ -196,7 +196,7 @@ export const BEATS: Beat[] = [
     durationSec: 146.8,
     previewUrl: "/beats/audio/east-coast-retro-soulful-hip-hop-beat.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 37.1,
   },
   {
@@ -209,7 +209,7 @@ export const BEATS: Beat[] = [
     durationSec: 163.8,
     previewUrl: "/beats/audio/east-coast-scarlip-lola-brooke-brooklyn.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 41.38,
   },
   {
@@ -222,7 +222,7 @@ export const BEATS: Beat[] = [
     durationSec: 194.0,
     previewUrl: "/beats/audio/east-coast-smooth-hip-hop-beat-step-with-me.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 49.02,
   },
   {
@@ -235,7 +235,7 @@ export const BEATS: Beat[] = [
     durationSec: 196.4,
     previewUrl: "/beats/audio/east-coast-the-lox-type-beat-coke-era.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 49.62,
   },
   {
@@ -248,7 +248,7 @@ export const BEATS: Beat[] = [
     durationSec: 149.3,
     previewUrl: "/beats/audio/rage-melodic-rage-lil-uzi-vert-pretenders.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 37.73,
   },
   {
@@ -261,7 +261,7 @@ export const BEATS: Beat[] = [
     durationSec: 123.2,
     previewUrl: "/beats/audio/rage-playboi-carti-bktharula-water-my-chain.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 31.14,
   },
   {
@@ -274,7 +274,7 @@ export const BEATS: Beat[] = [
     durationSec: 110.8,
     previewUrl: "/beats/audio/rage-playboi-carti-i-am-music-grandiose.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 27.99,
   },
   {
@@ -287,7 +287,7 @@ export const BEATS: Beat[] = [
     durationSec: 137.1,
     previewUrl: "/beats/audio/trap-future-playboi-carti-big-dawgz.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 34.65,
   },
   {
@@ -300,7 +300,7 @@ export const BEATS: Beat[] = [
     durationSec: 149.2,
     previewUrl: "/beats/audio/trap-future-playboi-carti-money-moves.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 37.71,
   },
   {
@@ -313,7 +313,7 @@ export const BEATS: Beat[] = [
     durationSec: 136.2,
     previewUrl: "/beats/audio/trap-future-rick-ross-swimming-pool.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 34.4,
   },
   {
@@ -326,7 +326,7 @@ export const BEATS: Beat[] = [
     durationSec: 127.2,
     previewUrl: "/beats/audio/trap-hyped-up-trap-anthem-dirty-dan.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 32.15,
   },
   {
@@ -339,7 +339,7 @@ export const BEATS: Beat[] = [
     durationSec: 123.1,
     previewUrl: "/beats/audio/trap-lil-baby-future-big-wolves.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 31.1,
   },
   {
@@ -352,7 +352,7 @@ export const BEATS: Beat[] = [
     durationSec: 145.0,
     previewUrl: "/beats/audio/trap-memphis-tyype-beat-blue-ap.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 36.65,
   },
   {
@@ -365,7 +365,7 @@ export const BEATS: Beat[] = [
     durationSec: 123.2,
     previewUrl: "/beats/audio/west-coast-ebk-jayboo-type-beat-night-night.mp3",
     isFree: false,
-    priceUSD: 49.99,
+    priceUSD: 29.99,
     fileSizeMb: 31.14,
   },
   {

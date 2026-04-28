@@ -44,8 +44,8 @@ const TIERS: Tier[] = [
     slug: "standard",
     name: "Standard",
     tagline: "Your Whole Year of Drops",
-    priceUSD: 197,
-    anchorUSD: 4995,
+    priceUSD: 79,
+    anchorUSD: 2500,
     isFeatured: true,
     bullets: [
       "100 beats — the FULL bundle",
@@ -53,15 +53,14 @@ const TIERS: Tier[] = [
       "500K stream cap",
       "3 music videos per beat",
       "ALL future drops next 6 months",
-      "5 BRMG drum kits ($300 value)",
-      "1 BRMG sample pack ($150 value)",
-      "15-min mix consultation Zoom ($150 value)",
+      "BRMG drum kits + sample pack",
+      "15-min mix consultation Zoom",
       "Priority email support",
     ],
     bonusValue: 2500,
-    ctaLabel: "Get Standard — $197",
+    ctaLabel: "Get Standard — $79",
     ctaHref:
-      "mailto:blackroyalmusicmedia@gmail.com?subject=Standard%20Bundle%20%28%24197%29&body=I%20want%20the%20Standard%20bundle.",
+      "mailto:blackroyalmusicmedia@gmail.com?subject=Standard%20Bundle%20%28%2479%29&body=I%20want%20the%20Standard%20bundle.",
   },
   {
     slug: "exclusive",
@@ -97,8 +96,8 @@ export default function BundlesPage() {
             Pick Your Path.
           </h1>
           <p className="lead bundles-lead">
-            Lease beats individually at $49.99 — or grab the whole catalog plus 6 months of new
-            drops at the cost of 4 leases. Math wins, every time.
+            Lease beats individually at $29.99 — or grab the whole catalog plus 6 months of new
+            drops for less than 3 leases. Math wins, every time.
           </p>
           <div className="bundles-trust">
             <span className="bundles-trust-item">⚡ Instant download</span>
@@ -172,21 +171,17 @@ export default function BundlesPage() {
       <section className="container bundles-value-stack">
         <h2 className="bundles-value-h">Why The Standard Bundle Is The Move.</h2>
         <p className="bundles-value-sub">
-          Lease 100 beats individually = <s>$4,995</s>. Standard = <strong>$197</strong>. That's
-          before bonuses.
+          Perceived value: <s>$2,500</s>. Today: <strong>$79</strong>. Same beats other producers
+          are charging hundreds for.
         </p>
         <div className="bundles-value-table">
           <div className="bundles-value-row">
-            <span>100 beats × $49.99 lease price</span>
-            <span>$4,995</span>
+            <span>100 mastered beats (curated catalog)</span>
+            <span>$1,200</span>
           </div>
           <div className="bundles-value-row">
-            <span>5 BRMG drum kits</span>
+            <span>BRMG drum kits + sample pack</span>
             <span>$300</span>
-          </div>
-          <div className="bundles-value-row">
-            <span>1 BRMG sample pack</span>
-            <span>$150</span>
           </div>
           <div className="bundles-value-row">
             <span>15-min 1-on-1 mix consultation</span>
@@ -194,19 +189,19 @@ export default function BundlesPage() {
           </div>
           <div className="bundles-value-row">
             <span>6 months of future beat drops</span>
-            <span>$1,500</span>
+            <span>$600</span>
           </div>
           <div className="bundles-value-row">
             <span>Producer community access</span>
-            <span>$400</span>
+            <span>$250</span>
           </div>
           <div className="bundles-value-row total">
-            <span>Total real value</span>
-            <span>$7,495</span>
+            <span>Perceived total value</span>
+            <span>$2,500</span>
           </div>
           <div className="bundles-value-row today">
             <span>Today, all-in</span>
-            <span>$197</span>
+            <span>$79</span>
           </div>
         </div>
       </section>
