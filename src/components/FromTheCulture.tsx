@@ -1,4 +1,5 @@
 import { fetchRecentInstagramMedia } from "@/lib/instagram";
+import { SOCIAL } from "@/data/social";
 
 const TILE_LABELS = ["Sneakers", "Hip-Hop", "Anime", "Gaming", "The Show", "Crowd"];
 
@@ -9,8 +10,8 @@ export default async function FromTheCulture() {
     <section className="culture container">
       <div className="culture-header">
         <h2>From The Culture</h2>
-        <a href="https://instagram.com/SneakzandBeatz" target="_blank" rel="noopener">
-          Follow on Instagram @SneakzandBeatz →
+        <a href={SOCIAL.instagram.url} target="_blank" rel="noopener">
+          Follow on Instagram {SOCIAL.instagram.handle} →
         </a>
       </div>
       <div className="culture-grid">

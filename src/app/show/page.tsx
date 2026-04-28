@@ -2,6 +2,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { EMAILS, mailto } from "@/data/contact-emails";
+import { SOCIAL } from "@/data/social";
 
 export const metadata = {
   title: "The PHRHX Show — Sneakz & Beatz",
@@ -39,7 +40,7 @@ export default function ShowPage() {
           </p>
           <div className="hero-ctas">
             <a
-              href="https://youtube.com/@SneakzandBeatz"
+              href={SOCIAL.youtube.url}
               target="_blank"
               rel="noopener"
               className="btn btn-primary btn-arrow"
@@ -58,7 +59,7 @@ export default function ShowPage() {
         <section className="legal-section">
           <h2>Where to listen</h2>
           <ul>
-            <li><strong>YouTube</strong> — full-video episodes at <a href="https://youtube.com/@SneakzandBeatz" target="_blank" rel="noopener">@SneakzandBeatz</a></li>
+            <li><strong>YouTube</strong> — full-video episodes on <a href={SOCIAL.youtube.url} target="_blank" rel="noopener">{SOCIAL.youtube.handle}</a></li>
             <li><strong>Spotify</strong> — audio-only episodes (search "The PHRHX Show")</li>
             <li><strong>Apple Podcasts</strong> — same audio feed, also indexed (search "The PHRHX Show")</li>
             <li><strong>RSS</strong> — coming once we host our own audio. For now use Spotify or Apple.</li>

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { SOCIAL } from "@/data/social";
 
 export default function Footer() {
   return (
@@ -18,11 +19,11 @@ export default function Footer() {
               culture. You live it.
             </p>
             <div className="socials">
-              <a href="https://instagram.com/SneakzandBeatz" aria-label="Instagram">IG</a>
-              <a href="https://tiktok.com/@SneakzandBeatz" aria-label="TikTok">TT</a>
-              <a href="https://x.com/SneakzandBeatz" aria-label="X">X</a>
-              <a href="https://youtube.com/@SneakzandBeatz" aria-label="YouTube">YT</a>
-              <a href="https://threads.net/@SneakzandBeatz" aria-label="Threads">TH</a>
+              <a href={SOCIAL.instagram.url} target="_blank" rel="noopener" aria-label={`Instagram ${SOCIAL.instagram.handle}`}>{SOCIAL.instagram.label}</a>
+              <a href={SOCIAL.tiktok.url}    target="_blank" rel="noopener" aria-label={`TikTok ${SOCIAL.tiktok.handle}`}>{SOCIAL.tiktok.label}</a>
+              <a href={SOCIAL.x.url}         target="_blank" rel="noopener" aria-label={`X ${SOCIAL.x.handle}`}>{SOCIAL.x.label}</a>
+              <a href={SOCIAL.youtube.url}   target="_blank" rel="noopener" aria-label={`YouTube ${SOCIAL.youtube.handle}`}>{SOCIAL.youtube.label}</a>
+              {/* Threads hidden until S&B Girls roster launches. */}
             </div>
           </div>
 
