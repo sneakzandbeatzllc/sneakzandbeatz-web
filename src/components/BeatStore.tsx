@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { fetchFeaturedBeats } from "@/lib/beatstars";
 
 export default async function BeatStore() {
@@ -7,69 +8,57 @@ export default async function BeatStore() {
     <section className="beatstore container" id="beatstore">
       <div className="beatstore-header">
         <div>
-          <span className="eyebrow">Beat Store · Powered by Beatstars</span>
+          <span className="eyebrow">Beat Store · Powered by Black Royal Music Media</span>
           <h2>Need Beats For Your Next Drop?</h2>
           <p>
             Hard-hitting production for artists who move different. Lease, exclusive,
             and stem options.
           </p>
         </div>
-        <a
-          href="https://www.beatstars.com/sneakzbeatz"
-          target="_blank"
-          rel="noopener"
-          className="btn btn-ghost btn-arrow"
-        >
+        <Link href="/beats" className="btn btn-ghost btn-arrow">
           Browse All Beats
-        </a>
+        </Link>
       </div>
 
       <div className="beatstore-grid">
         {beats.map((b) => (
-          <div key={b.id} className="beat-card">
+          <Link key={b.id} href={b.buyUrl ?? "/beats"} className="beat-card">
             <div className="beat-row">
               <button className="play-btn" aria-label={`Play ${b.name}`}>▶</button>
               <div className="waveform"></div>
             </div>
             <div>
               <div className="beat-name">{b.name}</div>
-              <div className="beat-attrs">{b.bpm} BPM · {b.key} · {b.style}</div>
+              <div className="beat-attrs">
+                {b.bpm > 0 ? `${b.bpm} BPM · ` : ""}{b.style}
+              </div>
             </div>
             <div className="beat-cta-row">
               <div>
                 <span className="beat-price">${b.priceUSD.toFixed(2)}</span>
                 <div className="beatstars-tag">{b.licenseLabel}</div>
               </div>
-              <button className="btn btn-ghost">Add 🛒</button>
+              <span className="btn btn-ghost">Lease →</span>
             </div>
-          </div>
+          </Link>
         ))}
 
-        {/*
-          Bundle card → ClickFunnels page. Separate landing page for the
-          high-conversion 100-Beats + Mix Pack offer. Keep this URL distinct
-          from the main Beat Store catalog.
-        */}
-        <a
-          href="https://beats.sneakzandbeatz.com/100-beats-mix-pack"
-          target="_blank"
-          rel="noopener"
-          className="bundle-card"
-        >
+        {/* Bundle promo card → /beats/bundles (3-tier funnel built on-site). */}
+        <Link href="/beats/bundles" className="bundle-card">
           <div>
-            <span className="funnel-tag">↗ Funnel · ClickFunnels</span>
+            <span className="funnel-tag">↗ Bundle · Save 99%</span>
             <h3>Get 100 Beats<br />+ Mix Pack</h3>
           </div>
           <div>
-            <p>Instant download. Trap, drill, R&amp;B, Detroit. Stems included.</p>
+            <p>Instant download. Trap, East Coast, West Coast, Rage. Stems included.</p>
             <button
               className="btn"
               style={{ background: "black", color: "white", marginTop: "16px" }}
             >
-              Unlock Now →
+              See Bundles →
             </button>
           </div>
-        </a>
+        </Link>
       </div>
     </section>
   );

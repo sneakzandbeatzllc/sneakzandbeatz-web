@@ -1,41 +1,141 @@
 /**
  * soc-engine.ts
  *
- * Trending bar feed. In production, this reads the top-scored cycles from
- * the local SOC engine output (07_AUTOMATION_OS/05-state/cycles.json) so
- * the trending strip auto-updates with whatever the SOC scorer ranks today.
+ * Trending bar feed — pulls LIVE headlines from RSS sources covering each of
+ * our four pillars (sneakers, hip-hop, anime, gaming).
  *
- * Right now this returns a static fallback so the site renders before the
- * engine is wired up. Two integration paths:
+ * Refreshed on the server every 5 minutes (Next.js ISR via fetch's
+ * `next.revalidate`). If a feed fails or the network is offline, that pillar
+ * is silently skipped — we only fall back to the static stub if literally
+ * every feed failed.
  *
- *   A) Server-side at build time (recommended for production)
- *      - Vercel build runs your trend_ingest + soc_scorer + variant_generator
- *        scripts as a build step, dumps a static JSON into /public.
- *      - This file fetches /api/trending which reads that JSON.
- *      - Use ISR (export const revalidate = 600) to refresh every 10 minutes.
+ * RSS is parsed with a tiny regex shim (no external deps) so this stays
+ * fast at the edge. We strip CDATA, decode the common HTML entities, and
+ * limit each item to a reasonable headline length.
  *
- *   B) Push from the Mac SOC engine (recommended for local dev)
- *      - The local engine POSTs the latest top-N to a Vercel KV store or
- *        a webhook endpoint, this function reads from there.
+ * To swap any source: edit the FEEDS array below. Each pillar contributes
+ * up to 2 headlines; the final ticker shows up to 8 items, interleaved
+ * across pillars in the order listed.
  */
 
 export type TrendingItem = { title: string; url?: string };
 
-const FALLBACK: TrendingItem[] = [
-  { title: "Air Jordan 5 White Metallic Returns This Saturday" },
-  { title: "Drake & Future Tease Joint Album Sequel" },
-  { title: "Jujutsu Kaisen Finale Special Confirmed for Summer" },
-  { title: "Valorant Patch 9.7 Reworks Two Agents" },
-  { title: "Air Jordan 4 Toro Bravo Returns With Updated Sample" },
-  { title: "Chainsaw Man Reze Arc Movie PV Drops" },
+const FEEDS: { url: string; pillar: string }[] = [
+  { url: "https://hypebeast.com/footwear/feed",         pillar: "Sneakers" },
+  { url: "https://hiphopdx.com/rss/news",               pillar: "Hip-Hop"  },
+  { url: "https://www.animenewsnetwork.com/all/rss.xml",pillar: "Anime"    },
+  { url: "https://feeds.feedburner.com/ign/all",        pillar: "Gaming"   },
 ];
 
+const FALLBACK: TrendingItem[] = [
+  { title: "New drops from Sneakz & Beatz — fresh beats every week" },
+  { title: "Browse the catalog: 96 mastered beats, MP3 + WAV, instant delivery" },
+  { title: "Bundle deal: 100 beats + stems + mix pack — $79 today" },
+  { title: "Subscribe to The PHRHX Show on Substack for early access" },
+];
+
+const ITEMS_PER_FEED = 2;
+const MAX_HEADLINES = 8;
+const FETCH_TIMEOUT_MS = 4000;
+
 export async function fetchTrending(): Promise<TrendingItem[]> {
-  // TODO: replace with a real fetch when the SOC engine is exposed via API.
-  // Example:
-  //   const res = await fetch(process.env.SOC_ENGINE_URL + "/api/trending", { next: { revalidate: 600 } });
-  //   if (!res.ok) return FALLBACK;
-  //   const data = await res.json();
-  //   return data.cycles.slice(0, 6).map((c: any) => ({ title: c.title, url: c.source_link }));
-  return FALLBACK;
+  const results = await Promise.all(FEEDS.map(fetchFeedSafe));
+  // Interleave: take items[0] from each pillar first, then items[1], etc.
+  const interleaved: TrendingItem[] = [];
+  for (let i = 0; i < ITEMS_PER_FEED; i++) {
+    for (const list of results) {
+      if (list[i]) interleaved.push(list[i]);
+      if (interleaved.length >= MAX_HEADLINES) break;
+    }
+    if (interleaved.length >= MAX_HEADLINES) break;
+  }
+  return interleaved.length > 0 ? interleaved : FALLBACK;
+}
+
+async function fetchFeedSafe(feed: { url: string; pillar: string }): Promise<TrendingItem[]> {
+  try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
+    const res = await fetch(feed.url, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (compatible; SneakzAndBeatz/1.0; +https://sneakzandbeatz.com)",
+        Accept: "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+      },
+      signal: ctrl.signal,
+      next: { revalidate: 300 }, // ISR — refresh every 5 minutes
+    });
+    clearTimeout(timer);
+    if (!res.ok) return [];
+    const xml = await res.text();
+    return parseFeedItems(xml, ITEMS_PER_FEED);
+  } catch {
+    return [];
+  }
+}
+
+/** Parse <item> (RSS) or <entry> (Atom) blocks and pull title + link. */
+function parseFeedItems(xml: string, limit: number): TrendingItem[] {
+  const out: TrendingItem[] = [];
+  const blocks: string[] = [];
+
+  const itemRe = /<item\b[^>]*>([\s\S]*?)<\/item>/g;
+  let m: RegExpExecArray | null;
+  while ((m = itemRe.exec(xml))) blocks.push(m[1]);
+
+  if (blocks.length === 0) {
+    const entryRe = /<entry\b[^>]*>([\s\S]*?)<\/entry>/g;
+    while ((m = entryRe.exec(xml))) blocks.push(m[1]);
+  }
+
+  for (const block of blocks) {
+    if (out.length >= limit) break;
+    const titleMatch = /<title[^>]*>([\s\S]*?)<\/title>/.exec(block);
+    if (!titleMatch) continue;
+    const title = sanitize(titleMatch[1]);
+    if (!title || title.length < 8 || title.length > 140) continue;
+
+    let url: string | undefined;
+    // RSS: <link>https://...</link>
+    const linkText = /<link[^>]*>([^<]+)<\/link>/.exec(block);
+    if (linkText && /^https?:\/\//.test(linkText[1].trim())) {
+      url = linkText[1].trim();
+    } else {
+      // Atom: <link href="..." />
+      const linkAttr = /<link[^>]*\bhref=["']([^"']+)["']/.exec(block);
+      if (linkAttr) url = linkAttr[1].trim();
+    }
+
+    out.push({ title, url });
+  }
+
+  return out;
+}
+
+function sanitize(raw: string): string {
+  let t = raw.trim();
+  // Strip CDATA wrappers (handles whole and partial)
+  t = t.replace(/<!\[CDATA\[/g, "").replace(/\]\]>/g, "").trim();
+  // Strip any inline HTML tags (some feeds embed <b>, <em>, etc.)
+  t = t.replace(/<[^>]+>/g, "");
+  // Decode the entities most likely to appear in headlines
+  t = t
+    .replace(/&amp;/g, "&")
+    .replace(/&#0?39;/g, "'")
+    .replace(/&apos;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?34;/g, '"')
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&hellip;/g, "…")
+    .replace(/&mdash;/g, "—")
+    .replace(/&ndash;/g, "–")
+    .replace(/&#8217;/g, "'")
+    .replace(/&#8216;/g, "'")
+    .replace(/&#8220;/g, '"')
+    .replace(/&#8221;/g, '"')
+    .replace(/&#8212;/g, "—")
+    .replace(/&#8211;/g, "–")
+    .replace(/\s+/g, " ");
+  return t.trim();
 }
