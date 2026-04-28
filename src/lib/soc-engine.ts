@@ -1,24 +1,32 @@
 /**
  * soc-engine.ts
  *
- * Trending bar feed — pulls LIVE headlines from RSS sources covering each of
- * our four pillars (sneakers, hip-hop, anime, gaming).
+ * Trending bar feed — two-tier source strategy:
  *
- * Refreshed on the server every 5 minutes (Next.js ISR via fetch's
- * `next.revalidate`). If a feed fails or the network is offline, that pillar
- * is silently skipped — we only fall back to the static stub if literally
- * every feed failed.
+ *   1) PRIMARY: /ticker.json — produced by the local SOC engine running
+ *      on the operator's Mac (cron'd at 6 AM PT). The engine ingests RSS,
+ *      scores trends with the explainable SOC scorer, dedupes, and writes
+ *      a slim payload to public/ticker.json. The engine commits + pushes,
+ *      Vercel rebuilds, and this file picks up the latest cycles.
  *
- * RSS is parsed with a tiny regex shim (no external deps) so this stays
- * fast at the edge. We strip CDATA, decode the common HTML entities, and
- * limit each item to a reasonable headline length.
+ *      This is the high-quality path: scored + deduped + ranked, pillar-
+ *      interleaved output of the engine, the same data the editor team
+ *      actually works from.
  *
- * To swap any source: edit the FEEDS array below. Each pillar contributes
- * up to 2 headlines; the final ticker shows up to 8 items, interleaved
- * across pillars in the order listed.
+ *   2) FALLBACK: live RSS via fetch — runs only if ticker.json is missing
+ *      OR is older than MAX_PAYLOAD_AGE_HOURS (engine hasn't run today,
+ *      Mac is off, etc.). Pulls 8 sources directly with a 5-minute ISR
+ *      cache. Same denylist as the engine to keep deal/gift-guide junk
+ *      out.
+ *
+ * Edit the engine's selection rules in:
+ *     07_AUTOMATION_OS/build_site_payload.py
+ * Edit the RSS fallback feeds in the FEEDS array below.
  */
 
 export type TrendingItem = { title: string; url?: string };
+
+const MAX_PAYLOAD_AGE_HOURS = 36;
 
 const FEEDS: { url: string; pillar: string }[] = [
   // SNEAKERS — culture/release news only (no commerce sections).
@@ -76,8 +84,12 @@ const MAX_HEADLINES = 8;
 const FETCH_TIMEOUT_MS = 4000;
 
 export async function fetchTrending(): Promise<TrendingItem[]> {
+  // 1) Try the SOC engine payload first.
+  const engineItems = await fetchFromEnginePayload();
+  if (engineItems && engineItems.length > 0) return engineItems;
+
+  // 2) Fall back to live RSS (engine hasn't run today / payload is stale).
   const results = await Promise.all(FEEDS.map(fetchFeedSafe));
-  // Interleave: take items[0] from each pillar first, then items[1], etc.
   const interleaved: TrendingItem[] = [];
   for (let i = 0; i < ITEMS_PER_FEED; i++) {
     for (const list of results) {
@@ -87,6 +99,53 @@ export async function fetchTrending(): Promise<TrendingItem[]> {
     if (interleaved.length >= MAX_HEADLINES) break;
   }
   return interleaved.length > 0 ? interleaved : FALLBACK;
+}
+
+/**
+ * Read public/ticker.json (statically served by Vercel from the repo).
+ * Returns null if the file is missing, malformed, empty, or older than
+ * MAX_PAYLOAD_AGE_HOURS — the caller will then fall back to live RSS.
+ */
+type EnginePayload = {
+  schema?: number;
+  generated_utc?: string;
+  source?: string;
+  items?: Array<{ title?: string; url?: string; pillar?: string; score?: number }>;
+};
+
+async function fetchFromEnginePayload(): Promise<TrendingItem[] | null> {
+  try {
+    // Use a relative URL — Vercel serves /ticker.json from /public.
+    // We pass a cache-busting query string via revalidate so updates
+    // propagate within 5 minutes of a git push.
+    const baseUrl =
+      process.env.NEXT_PUBLIC_SITE_URL ||
+      (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "https://www.sneakzandbeatz.com");
+    const res = await fetch(`${baseUrl}/ticker.json`, {
+      next: { revalidate: 300 },
+    });
+    if (!res.ok) return null;
+    const data = (await res.json()) as EnginePayload;
+
+    if (!data || !Array.isArray(data.items) || data.items.length === 0) return null;
+
+    // Reject stale payloads — the engine should run daily; if the file's
+    // older than the threshold the Mac was probably off and we should
+    // surface live RSS instead of yesterday's cycles.
+    if (data.generated_utc) {
+      const ageMs = Date.now() - new Date(data.generated_utc).getTime();
+      if (Number.isFinite(ageMs) && ageMs > MAX_PAYLOAD_AGE_HOURS * 3600 * 1000) {
+        return null;
+      }
+    }
+
+    return data.items
+      .filter((it) => it && typeof it.title === "string" && it.title.length > 0)
+      .slice(0, MAX_HEADLINES)
+      .map((it) => ({ title: it.title as string, url: it.url || undefined }));
+  } catch {
+    return null;
+  }
 }
 
 async function fetchFeedSafe(feed: { url: string; pillar: string }): Promise<TrendingItem[]> {
