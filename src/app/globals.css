@@ -1941,3 +1941,351 @@ nav.primary a:hover { color: var(--highlight); }
   text-underline-offset: 2px;
 }
 .rules-body a:hover { color: var(--highlight); }
+
+/* ============================================================
+   /rap-challenge/submit — submission form
+   ============================================================ */
+.submit-page { background: var(--bg); }
+.submit-hero {
+  padding: 64px 0 32px;
+  border-bottom: 1px solid var(--line);
+}
+.submit-back {
+  display: inline-block;
+  font-size: 13px; color: var(--text-soft);
+  text-decoration: none;
+  margin-bottom: 24px;
+  transition: color 0.15s ease;
+}
+.submit-back:hover { color: var(--accent); }
+.submit-h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(36px, 5vw, 56px);
+  letter-spacing: 0.005em;
+  margin: 0 0 14px;
+  line-height: 1.05;
+}
+.submit-sub {
+  max-width: 640px;
+  color: var(--text-soft);
+  font-size: 16px;
+  line-height: 1.7;
+  margin: 0 0 16px;
+}
+.submit-sub strong { color: var(--text); }
+
+/* "submissions not open" state */
+.submit-closed {
+  padding: 24px 0 12px;
+}
+.submit-closed-tag {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 4px 10px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 18px;
+}
+.submit-cta-row {
+  display: flex; flex-wrap: wrap; gap: 14px;
+  margin-top: 24px;
+}
+
+/* the form itself */
+.submit-form-block { padding: 48px 0 96px; max-width: 720px; }
+.submit-form { display: flex; flex-direction: column; gap: 28px; }
+
+.submit-fieldset {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 24px 22px;
+  background: rgba(255,255,255,0.02);
+}
+.submit-fieldset legend {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px; letter-spacing: 0.02em;
+  color: var(--accent);
+  padding: 0 10px;
+}
+
+.submit-field {
+  display: flex; flex-direction: column;
+  margin-bottom: 18px;
+}
+.submit-field:last-child { margin-bottom: 0; }
+.submit-label {
+  font-size: 14px; color: var(--text);
+  font-weight: 600;
+  margin-bottom: 6px;
+  display: flex; flex-direction: column; gap: 4px;
+}
+.submit-helper {
+  font-size: 12.5px; color: var(--text-soft);
+  font-weight: 400; line-height: 1.5;
+}
+.submit-helper a { color: var(--accent); }
+.submit-req { color: var(--accent); }
+
+.submit-field input[type="text"],
+.submit-field input[type="email"],
+.submit-field input[type="url"],
+.submit-field input[type="number"],
+.submit-field input[type="date"],
+.submit-field select {
+  background: rgba(0,0,0,0.4);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px 14px;
+  color: var(--text);
+  font-size: 14px;
+  font-family: inherit;
+  transition: border-color 0.15s ease;
+}
+.submit-field input:focus,
+.submit-field select:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.submit-checkbox-field {
+  display: flex; align-items: flex-start; gap: 10px;
+  padding: 10px 0;
+  font-size: 13.5px; color: var(--text-soft);
+  line-height: 1.55;
+  cursor: pointer;
+}
+.submit-checkbox-field input[type="checkbox"] {
+  margin-top: 3px; flex-shrink: 0;
+  width: 16px; height: 16px;
+  accent-color: var(--accent);
+}
+.submit-checkbox-field strong { color: var(--text); }
+.submit-checkbox-field a { color: var(--accent); }
+.submit-checkbox-field.submit-optional { opacity: 0.85; }
+
+.submit-cta { align-self: flex-start; margin-top: 6px; padding: 14px 28px; }
+.submit-trust {
+  font-size: 13px; color: var(--text-soft);
+  line-height: 1.6;
+}
+.submit-trust a { color: var(--accent); }
+
+/* thanks page */
+.submit-thanks {
+  padding: 80px 0 96px;
+  max-width: 720px;
+}
+.submit-thanks-tag {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--highlight);
+  padding: 4px 10px; border: 1px solid var(--highlight); border-radius: 999px;
+  margin-bottom: 18px;
+}
+.submit-thanks-next { margin: 36px 0; }
+.submit-thanks-h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 26px; letter-spacing: 0.02em;
+  margin: 0 0 14px;
+}
+.submit-thanks-list {
+  padding-left: 22px;
+  margin: 0;
+}
+.submit-thanks-list li {
+  color: var(--text-soft);
+  font-size: 14.5px;
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+.submit-thanks-list li strong { color: var(--text); }
+.submit-thanks-cta {
+  display: flex; flex-wrap: wrap; gap: 14px;
+  margin-top: 28px;
+}
+
+/* ============================================================
+   /community — Discord hub
+   ============================================================ */
+.community-page { background: var(--bg); }
+.community-hero {
+  padding: 80px 0 56px;
+  border-bottom: 1px solid var(--line);
+  background:
+    radial-gradient(circle at 20% 30%, rgba(200,38,44,0.08) 0%, transparent 60%),
+    radial-gradient(circle at 80% 70%, rgba(146,243,124,0.05) 0%, transparent 60%);
+}
+.community-eyebrow {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 4px 10px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 18px;
+}
+.community-headline {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(40px, 6vw, 72px);
+  letter-spacing: 0.005em;
+  line-height: 1.05;
+  margin: 0 0 18px;
+}
+.community-headline .accent { color: var(--accent); }
+.community-sub {
+  max-width: 680px;
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--text-soft);
+  margin-bottom: 28px;
+}
+.community-sub strong { color: var(--text); }
+.community-cta-row {
+  display: flex; flex-wrap: wrap; gap: 14px;
+  align-items: center;
+}
+.community-cta { padding: 14px 28px; }
+.community-cta-pending {
+  display: inline-block;
+  font-size: 14px;
+  color: var(--text-soft);
+  padding: 12px 18px;
+  border: 1px dashed var(--line);
+  border-radius: 8px;
+}
+.community-cta-pending a { color: var(--accent); }
+.community-trust {
+  margin-top: 16px;
+  font-size: 12.5px;
+  color: var(--text-soft);
+}
+
+.community-block { padding: 64px 0; }
+.community-h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(28px, 4vw, 40px);
+  letter-spacing: 0.005em;
+  margin: 0 0 28px;
+}
+
+.community-channels {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+}
+.community-channel {
+  background: rgba(255,255,255,0.02);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 22px 20px;
+  transition: border-color 0.18s ease, transform 0.18s ease;
+}
+.community-channel:hover {
+  border-color: rgba(200,38,44,0.4);
+  transform: translateY(-2px);
+}
+.community-channel-icon {
+  display: inline-block;
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+.community-channel-h {
+  font-family: monospace;
+  font-size: 16px;
+  margin: 0 0 8px;
+  color: var(--accent);
+}
+.community-channel-body {
+  margin: 0; color: var(--text-soft);
+  font-size: 13.5px; line-height: 1.6;
+}
+
+.community-perks {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+}
+.community-perk {
+  background: rgba(255,255,255,0.02);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 24px 22px;
+  position: relative;
+}
+.community-perk-num {
+  display: block;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 28px;
+  color: var(--accent);
+  letter-spacing: 0.04em;
+  margin-bottom: 6px;
+}
+.community-perk-h {
+  font-size: 17px; font-weight: 700;
+  margin: 0 0 8px;
+}
+.community-perk-body {
+  margin: 0; color: var(--text-soft);
+  font-size: 13.5px; line-height: 1.65;
+}
+
+.community-voting {
+  background: rgba(200,38,44,0.04);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  max-width: none;
+}
+.community-voting-list {
+  padding-left: 22px;
+  max-width: 760px;
+}
+.community-voting-list li {
+  color: var(--text-soft);
+  font-size: 14.5px;
+  line-height: 1.75;
+  margin-bottom: 14px;
+}
+.community-voting-list li strong { color: var(--text); }
+.community-voting-list ul {
+  margin: 8px 0 4px;
+  padding-left: 18px;
+}
+.community-voting-list ul li {
+  font-size: 13.5px;
+  margin-bottom: 6px;
+}
+
+.community-rules {
+  list-style: none;
+  padding: 0; margin: 0;
+  max-width: 760px;
+  display: flex; flex-direction: column; gap: 12px;
+}
+.community-rules li {
+  background: rgba(255,255,255,0.02);
+  border-left: 3px solid var(--accent);
+  padding: 12px 16px;
+  font-size: 14px; line-height: 1.6;
+  color: var(--text-soft);
+  border-radius: 0 8px 8px 0;
+}
+.community-rules-foot {
+  margin-top: 24px;
+  font-size: 13px; color: var(--text-soft);
+  line-height: 1.6;
+}
+.community-rules-foot a { color: var(--accent); }
+.community-rules-foot code {
+  background: rgba(255,255,255,0.05);
+  padding: 2px 6px; border-radius: 4px;
+  font-size: 12px;
+}
+
+.community-final {
+  text-align: center;
+  padding: 80px 0 96px;
+}
+.community-final-h { margin-bottom: 20px; }
+
+@media (max-width: 720px) {
+  .submit-hero { padding: 48px 0 24px; }
+  .submit-form-block { padding: 32px 0 64px; }
+  .submit-fieldset { padding: 18px 16px; }
+  .community-hero { padding: 56px 0 40px; }
+  .community-block { padding: 48px 0; }
+}

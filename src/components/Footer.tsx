@@ -23,6 +23,9 @@ export default function Footer() {
               <a href={SOCIAL.tiktok.url}    target="_blank" rel="noopener" aria-label={`TikTok ${SOCIAL.tiktok.handle}`}>{SOCIAL.tiktok.label}</a>
               <a href={SOCIAL.x.url}         target="_blank" rel="noopener" aria-label={`X ${SOCIAL.x.handle}`}>{SOCIAL.x.label}</a>
               <a href={SOCIAL.youtube.url}   target="_blank" rel="noopener" aria-label={`YouTube ${SOCIAL.youtube.handle}`}>{SOCIAL.youtube.label}</a>
+              {SOCIAL.discord.enabled && SOCIAL.discord.url && (
+                <a href={SOCIAL.discord.url} target="_blank" rel="noopener" aria-label={`Discord ${SOCIAL.discord.handle}`}>{SOCIAL.discord.label}</a>
+              )}
               {/* Threads hidden until S&B Girls roster launches. */}
             </div>
           </div>
@@ -52,6 +55,8 @@ export default function Footer() {
             <h5>Company</h5>
             <ul>
               <li><Link href="/about">About</Link></li>
+              <li><Link href="/community">Community</Link></li>
+              <li><Link href="/rap-challenge">$10K Rap Challenge</Link></li>
               <li><Link href="/contact">Contact</Link></li>
               <li><Link href="/work-with-us">Work With Us</Link></li>
               <li><Link href="/privacy">Privacy Policy</Link></li>

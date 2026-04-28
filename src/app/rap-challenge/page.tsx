@@ -28,8 +28,8 @@ const STEPS = [
   },
   {
     n: "04",
-    h: "Judging + prize drop",
-    body: "Top 25 reviewed by Sneakz & Beatz + a guest judge panel (TBA). Public vote weighs 30%, panel weighs 70%. Winner announced live on The PHRHX Show.",
+    h: "Judging + community vote",
+    body: "Top 25 finalists reviewed by Sneakz & Beatz + guest judges (TBA). Community votes in the Discord — one vote per member, self-votes blocked by the bot. Final score: 70% panel + 30% community. Winner announced live on The PHRHX Show.",
   },
 ];
 

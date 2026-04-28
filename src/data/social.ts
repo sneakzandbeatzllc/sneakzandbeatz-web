@@ -49,4 +49,12 @@ export const SOCIAL = {
     url: "https://sneakzandbeatz.substack.com",
     label: "Substack",
   },
+  discord: {
+    handle: "Sneakz & Beatz Community",
+    // Replace with your real invite once the server is created (Discord → Server Settings → Invites → set "Never expire").
+    // Format: https://discord.gg/XXXXXXXX
+    url: "https://discord.gg/REPLACE_ME",
+    label: "Discord",
+    enabled: false, // flip to true once invite URL is real
+  },
 } as const;

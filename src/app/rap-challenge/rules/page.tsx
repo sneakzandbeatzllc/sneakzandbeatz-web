@@ -203,19 +203,52 @@ export default function RapChallengeRulesPage() {
               All eligible Submissions will be reviewed by Sponsor and a panel of at least
               three (3) independent guest judges (names announced no fewer than fourteen (14)
               calendar days before voting opens). The top twenty-five (25) Submissions will
-              advance to the public-vote round.
+              advance to the community-vote round.
             </p>
             <p>
               <strong>Final scoring weights:</strong>
             </p>
             <ul>
               <li>Judges&rsquo; panel score: 70%</li>
-              <li>Public vote (Instagram Reel + TikTok engagement, weighted): 30%</li>
+              <li>Community vote (Sneakz & Beatz Discord — see voting integrity rules below): 30%</li>
             </ul>
             <p>
-              <strong>Judging criteria:</strong> lyricism (30%), flow and delivery (25%),
-              originality (20%), beat selection and use (15%), production quality (10%).
+              <strong>Judging criteria (panel only):</strong> lyricism (30%), flow and delivery
+              (25%), originality (20%), beat selection and use (15%), production quality (10%).
             </p>
+            <p>
+              <strong>Community vote integrity:</strong> The community vote will be conducted
+              in the official Sneakz & Beatz Discord server (link at sneakzandbeatz.com/community).
+              The following anti-fraud rules apply:
+            </p>
+            <ul>
+              <li>
+                <strong>One vote per Discord member.</strong> Each member may cast a single
+                vote across all twenty-five (25) finalists during the seven (7) day voting
+                window.
+              </li>
+              <li>
+                <strong>No self-voting.</strong> A member&rsquo;s vote will be automatically
+                rejected and disregarded if their verified email address matches the
+                submission email of the finalist they voted for. Repeated self-vote attempts
+                may result in disqualification of the submitter&rsquo;s entry at
+                Sponsor&rsquo;s sole discretion.
+              </li>
+              <li>
+                <strong>Membership cutoff.</strong> Only Discord members who joined the server
+                at least seven (7) calendar days before the voting window opens are eligible
+                to vote. Accounts created or joined after the cutoff are excluded by the
+                voting bot.
+              </li>
+              <li>
+                <strong>One Discord account per voter.</strong> Use of multiple Discord
+                accounts to cast multiple votes is prohibited and may result in disqualification.
+              </li>
+              <li>
+                <strong>Public tally.</strong> Sponsor will publish the full per-finalist
+                vote count after the voting window closes for transparency.
+              </li>
+            </ul>
             <p>
               In the event of a tie, the entrant with the higher panel-only score will prevail.
               If still tied, Sponsor will conduct a single-question tie-breaker decided by
