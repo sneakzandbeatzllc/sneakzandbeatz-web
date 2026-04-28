@@ -39,8 +39,10 @@ export default function RapChallengeRulesPage() {
           </Link>
           <h1 className="rules-h1">Official Rules — $10,000 Rap Challenge</h1>
           <p className="rules-meta">
-            Last updated: <strong>April 28, 2026</strong> · NO PURCHASE NECESSARY TO ENTER OR WIN.
-            A purchase will not increase your chances of winning. Void where prohibited.
+            Last updated: <strong>April 28, 2026</strong> · This is a SKILL-BASED CONTEST
+            determined primarily by judging on craft and (secondarily) community vote — not
+            chance. NO PURCHASE NECESSARY TO ENTER OR WIN. A purchase will not increase your
+            chances of winning. Void where prohibited.
           </p>
 
           <nav className="rules-toc">
@@ -115,18 +117,37 @@ export default function RapChallengeRulesPage() {
           <section id="how-to-enter">
             <h2>4. How to Enter</h2>
             <p>
-              There are two methods of entry. Each method counts as one (1) entry per eligible
-              submission.
+              <strong>The Standard Bundle and the Rap Challenge are two separate things.</strong>
+              {" "}Purchasing the bundle does NOT automatically enter you in the Promotion. To
+              enter, you must visit sneakzandbeatz.com/rap-challenge/submit and explicitly opt
+              in to the Promotion via the on-form checkbox.
             </p>
             <p>
-              <strong>(a) Paid entry:</strong> Pay the $25 entry fee at sneakzandbeatz.com/rap-challenge/submit
-              and submit a recording meeting the Submission Requirements (Section 6).
+              All entrants, regardless of entry method, must:
+            </p>
+            <ul>
+              <li>Be following @sneakz_beatz on Instagram</li>
+              <li>Be following @SneakzandBeatzOfficial on TikTok</li>
+              <li>Be following @sneakzandbeatz on X (Twitter)</li>
+              <li>Be subscribed to The PHRHX Show on YouTube</li>
+              <li>Be a verified member of the Sneakz & Beatz Discord server</li>
+              <li>Submit a recording meeting the Submission Requirements (Section 6)</li>
+              <li>Provide their Discord username on the entry form for cross-verification</li>
+            </ul>
+            <p>
+              There are three (3) methods of entry. Each method counts as one (1) entry per
+              eligible Submission:
             </p>
             <p>
-              <strong>(b) Bundle entry:</strong> Purchase the Sneakz & Beatz Standard Bundle
-              ($79) and submit a recording meeting the Submission Requirements. The bundle
-              purchase email is automatically added to the entry list. The Standard Bundle is a
-              standalone product; the entry is provided as a no-additional-cost bonus.
+              <strong>(a) Paid entry — $25:</strong> Pay the $25 entry fee on the entry form
+              and submit a recording meeting the Submission Requirements.
+            </p>
+            <p>
+              <strong>(b) Bundle-proof entry — fee waived:</strong> If you have purchased the
+              Sneakz & Beatz Standard Bundle ($79), provide your Stripe receipt ID on the entry
+              form to waive the $25 fee. The Standard Bundle is a standalone product (100
+              mastered beats + drum kits + sample pack + t-shirt). Buying the bundle does NOT
+              automatically enter you — you still must complete the entry form to enter.
             </p>
             <p>
               <strong>(c) Free entry — see Section 5 (AMOE).</strong>
@@ -135,7 +156,8 @@ export default function RapChallengeRulesPage() {
               An entrant may submit multiple entries. Each entry must be a different recording
               and must independently satisfy one of the entry methods above. Identical or
               substantially similar recordings submitted multiple times will be treated as a
-              single entry.
+              single entry. All entries must verify the social-follow + Discord membership
+              requirements above.
             </p>
           </section>
 
@@ -276,20 +298,59 @@ export default function RapChallengeRulesPage() {
           <section id="prizes">
             <h2>9. Prizes</h2>
             <p>
-              All prizes are awarded as physical product, gift cards, digital download licenses,
-              or service credits. <strong>No cash equivalent or substitution permitted</strong>{" "}
-              except by Sponsor in the event a specific prize component becomes unavailable; in
-              such a case Sponsor may substitute a component of equal or greater perceived
-              retail value.
+              Prizes are awarded as a combination of cash, physical product, gift cards,
+              digital download licenses, paid advertising co-promotion, and merchandise.
+              Approximate Retail Value (&ldquo;ARV&rdquo;) by tier:
             </p>
-            <p>Approximate Retail Value (&ldquo;ARV&rdquo;) by tier:</p>
             <ul>
-              <li><strong>1st Place:</strong> $10,000+ ARV (1 winner)</li>
-              <li><strong>2nd Place:</strong> $3,000+ ARV (1 winner)</li>
-              <li><strong>3rd Place:</strong> $1,000+ ARV (1 winner)</li>
-              <li><strong>Top 25 Finalists:</strong> $300+ ARV each (25 winners)</li>
-              <li><strong>Total Prize Pool ARV:</strong> approximately $21,500</li>
+              <li>
+                <strong>1st Place ($10,000+ ARV) — 1 winner:</strong> $2,500 cash (Cash App,
+                Zelle, or check — winner&rsquo;s choice); Sony PS5 Pro + 2 AAA games; $500
+                StockX gift card; custom 1-of-1 painted sneaker; anime exclusive box; 1 free
+                exclusive beat per month for the remainder of calendar year 2026; 10 vocal
+                kits + 5 drum kits + 5 melody loop packs (Logic / Pro Tools / FL / Ableton);
+                PHRHX 1-of-1 custom beat; $500 paid Instagram ad-spend co-promotion of
+                winner&rsquo;s next release; Sneakz & Beatz merch (t-shirt + hoodie + hat); a
+                full episode feature on The PHRHX Show; opener slot (track #1) on
+                &ldquo;Sneakz & Beatz Cypher Vol. 1.&rdquo;
+              </li>
+              <li>
+                <strong>2nd Place ($3,000+ ARV) — 1 winner:</strong> $500 cash; $250 StockX
+                gift card; 5 vocal kits + 1 drum kit + sample pack; Sneakz & Beatz t-shirt +
+                hat; cypher tape feature track (slots #5-10); behind-the-scenes mention on the
+                PHRHX Show winner episode.
+              </li>
+              <li>
+                <strong>3rd Place ($1,000+ ARV) — 1 winner:</strong> $200 cash; $100 StockX
+                gift card; Standard Bundle (100 mastered beats + t-shirt); 2 vocal kits;
+                cypher tape feature track (slots #15-25).
+              </li>
+              <li>
+                <strong>Top 25 Finalists ($300+ ARV each) — 25 winners:</strong> producer
+                credit on &ldquo;Sneakz & Beatz Cypher Vol. 1&rdquo; (released to all DSPs);
+                30% of streaming royalties on the finalist&rsquo;s track on the cypher tape;
+                Sneakz & Beatz t-shirt; Standard Bundle at 50% off ($39) if not already
+                purchased; Sneakz & Beatz follow + 1 promo Reel mention.
+              </li>
+              <li>
+                <strong>Total Prize Pool ARV:</strong> approximately $21,500, of which
+                approximately $3,200 is cash.
+              </li>
             </ul>
+            <p>
+              <strong>No cash substitution</strong> for non-cash prize components, except by
+              Sponsor in the event a specific component becomes unavailable; in such a case
+              Sponsor may substitute a component of equal or greater perceived retail value.
+            </p>
+            <p>
+              <strong>Skill-based determination.</strong> Winners are selected primarily on
+              the basis of skill — judging on lyricism, flow and delivery, originality, beat
+              selection and use, and production quality (Section 7). The community-vote
+              component (30%) reflects audience preference among the top 25 finalists already
+              pre-selected on skill. This Promotion is not determined by chance and does not
+              constitute a lottery under California Penal Code §319 or the laws of any other
+              jurisdiction.
+            </p>
             <p>
               Full prize component breakdown is published at sneakzandbeatz.com/rap-challenge.
             </p>
@@ -298,17 +359,49 @@ export default function RapChallengeRulesPage() {
           <section id="prize-fulfillment">
             <h2>10. Prize Fulfillment</h2>
             <p>
-              Physical prizes (PS5 Pro, custom sneaker, anime exclusive box) will be shipped
-              within thirty (30) days of return of the executed winner documents. Gift cards
-              and digital prizes (StockX gift cards, beat catalog access, kit downloads) will
-              be delivered electronically within seven (7) days. Cypher tape royalty splits
-              will be administered through a standard PRO/distributor split agreement and paid
-              quarterly per the distributor&rsquo;s payment schedule.
+              <strong>W-9 required before any prize is delivered.</strong> Each winner of a
+              prize tier with ARV at or above $600 USD must complete and return IRS Form W-9
+              to Sponsor before any prize component (cash, physical, or digital) is delivered.
+              Failure to return the W-9 within fourteen (14) calendar days of request will
+              result in forfeiture of the prize and selection of an alternate winner.
             </p>
             <p>
-              All federal, state, and local taxes on prizes are the sole responsibility of the
-              winner. Winners receiving prizes valued at $600 USD or more will receive a Form
-              1099-MISC.
+              <strong>Cash prize delivery.</strong> The cash component of the 1st, 2nd, and
+              3rd place prizes ($2,500 / $500 / $200 respectively) will be delivered via the
+              winner&rsquo;s chosen method (Cash App, Zelle, or paper check) within fourteen
+              (14) calendar days of W-9 receipt.
+            </p>
+            <p>
+              <strong>Physical prizes</strong> (PS5 Pro, custom sneaker, anime exclusive box,
+              merchandise) will be shipped within thirty (30) days of W-9 receipt to a U.S.
+              address provided by the winner.
+            </p>
+            <p>
+              <strong>Gift cards and digital prizes</strong> (StockX gift cards, beat catalog
+              access, kit downloads, monthly exclusive beats) will be delivered electronically
+              within seven (7) days of W-9 receipt. The 1st-place &ldquo;1 free exclusive beat
+              per month&rdquo; component runs from the calendar month immediately following
+              W-9 receipt through December 2026.
+            </p>
+            <p>
+              <strong>Cypher tape royalty splits</strong> will be administered through a
+              standard distribution agreement signed by the finalist, granting the finalist
+              30% of net streaming royalties on the finalist&rsquo;s track and Sponsor 70%.
+              Royalties are paid quarterly per the distributor&rsquo;s schedule.
+            </p>
+            <p>
+              <strong>Paid co-promotion (1st place).</strong> The $500 Instagram ad-spend
+              co-promo will be executed through Meta Ads Manager pointing to a release of the
+              winner&rsquo;s choice (single, EP, music video, etc.). Ad creative is the
+              winner&rsquo;s; Sponsor handles execution. Spend window: 30 days from launch.
+            </p>
+            <p>
+              <strong>Tax obligations.</strong> All federal, state, and local taxes on prizes
+              (cash and non-cash) are the sole responsibility of the winner. Winners receiving
+              prizes with ARV ≥ $600 will receive an IRS Form 1099-MISC by January 31 of the
+              year following award. Failure to return a completed W-9 will result in mandatory
+              federal backup withholding at 24% applied to any cash component of the prize,
+              which will be remitted to the IRS on the winner&rsquo;s behalf.
             </p>
           </section>
 
