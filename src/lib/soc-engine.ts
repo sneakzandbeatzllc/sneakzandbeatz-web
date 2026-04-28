@@ -30,9 +30,8 @@ const FEEDS: { url: string; pillar: string }[] = [
   // ANIME — culture-focused outlets.
   { url: "https://www.animenewsnetwork.com/all/rss.xml", pillar: "Anime"    },
   { url: "https://www.crunchyroll.com/news/rss",         pillar: "Anime"    },
-  // GAMING — explicitly avoid IGN/feedburner because they include deals,
-  // gift guides, and Amazon affiliate listicles. Polygon + Kotaku are
-  // editorial culture coverage.
+  // GAMING — Polygon + Kotaku are editorial culture coverage (NOT
+  // affiliate-deal aggregators). Do not add commerce-heavy feeds here.
   { url: "https://www.polygon.com/rss/index.xml",        pillar: "Gaming"   },
   { url: "https://kotaku.com/rss",                       pillar: "Gaming"   },
 ];
