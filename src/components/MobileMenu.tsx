@@ -23,6 +23,7 @@ const NAV_LINKS = [
   { href: "/anime", label: "Anime" },
   { href: "/gaming", label: "Gaming" },
   { href: "/show", label: "The PHRHX Show" },
+  { href: "/shop", label: "Shop" },
   { href: "/community", label: "Community" },
   { href: "/about", label: "About" },
 ];

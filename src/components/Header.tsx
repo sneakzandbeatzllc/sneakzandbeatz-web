@@ -24,6 +24,7 @@ export default function Header() {
           <Link href="/anime">Anime</Link>
           <Link href="/gaming">Gaming</Link>
           <Link href="/show">The PHRHX Show</Link>
+          <Link href="/shop">Shop</Link>
           <Link href="/community">Community</Link>
         </nav>
         <div className="header-cta">
