@@ -164,9 +164,7 @@ export default function BeatCatalog({ beats, categories }: Props) {
               <div className="beat-row-action">
                 {beat.isFree ? (
                   <Link
-                    href="https://sneakzandbeatz.substack.com"
-                    target="_blank"
-                    rel="noopener"
+                    href={`/beats/free?beat=${encodeURIComponent(beat.slug)}`}
                     className="btn btn-ghost beat-cta"
                   >
                     Get →

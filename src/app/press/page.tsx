@@ -1,153 +1,224 @@
 import Link from "next/link";
+import Image from "next/image";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { EMAILS, mailto } from "@/data/contact-emails";
+import { SOCIAL } from "@/data/social";
 
 export const metadata = {
-  title: "Press — Sneakz & Beatz",
+  title: "Press · Brand Assets — Sneakz & Beatz",
   description:
-    "Press kit, brand assets, key facts, and media contact for Sneakz & Beatz / Black Royal Music Media LLC.",
+    "Press kit, brand assets, founder bio, and media inquiries for Sneakz & Beatz — the culture-media brand at the intersection of sneakers, hip-hop, anime, and gaming. Operated by Black Royal Music Media LLC.",
 };
+
+const LOGOS = [
+  {
+    file: "sneakz-beatz-logo-primary.png",
+    name: "Primary mark",
+    use: "Default for press, mastheads, light or dark backgrounds",
+    size: "2048×2048 PNG",
+  },
+  {
+    file: "sneakz-beatz-logo-hiphop.png",
+    name: "Hip-Hop variant",
+    use: "Use on hip-hop pillar features or producer-focused press",
+    size: "1024×1536 PNG",
+  },
+  {
+    file: "sneakz-beatz-logo-hiphop-darkbg.png",
+    name: "Hip-Hop · dark background",
+    use: "When placing on a fully black/dark layout",
+    size: "1024×1536 PNG",
+  },
+  {
+    file: "sneakz-beatz-logo-anime-gaming.png",
+    name: "Anime · Gaming variant",
+    use: "Anime / gaming-focused features or co-branded crossover content",
+    size: "1024×1536 PNG",
+  },
+];
+
+const FACTS: Array<[string, string]> = [
+  ["Brand", "Sneakz & Beatz"],
+  ["Operating entity", "Sneakz and Beatz LLC (California)"],
+  ["Parent company", "Black Royal Music Media LLC"],
+  ["EIN", "42-2192032"],
+  ["Founded", "April 2026"],
+  ["Headquarters", "Los Angeles County, California"],
+  ["Founder · CEO", "Raymond Miller (PHRHX)"],
+  ["Pillars", "Sneakers · Hip-Hop · Anime · Gaming"],
+  ["Channels", "sneakzandbeatz.com · IG @sneakz_beatz · TikTok @SneakzandBeatzOfficial · YouTube The PHRHX Show · Substack · Discord"],
+];
+
+const COLORS = [
+  { name: "S&B Red (accent)", hex: "#C8262C", note: "Primary brand action / highlight color" },
+  { name: "Highlight Cream",  hex: "#F5E6D3", note: "Type contrast on red, sticker / print elements" },
+  { name: "Backbone Black",   hex: "#0A0A0A", note: "Default canvas. Site, merch, video lower-thirds" },
+  { name: "Editorial Soft",   hex: "#2B2A2C", note: "Card backgrounds, secondary surfaces" },
+];
 
 export default function PressPage() {
   return (
     <>
       <Header />
 
-      <section className="container legal-page">
-        <header className="legal-hero">
-          <span className="eyebrow">Press &amp; Media</span>
-          <h1 className="legal-title">
-            Press Kit.
+      <main className="press-page">
+        <section className="container press-hero">
+          <span className="press-eyebrow">Press · Brand Assets · Founder</span>
+          <h1 className="press-h1">
+            Sneakz &amp; Beatz —
             <br />
-            <span className="accent">Story Assets &amp; Quick Facts.</span>
+            <span className="accent">Built for the culture.</span>
           </h1>
-          <p className="lead legal-lead">
-            Everything you need to write about, broadcast, or interview Sneakz &amp; Beatz —
-            brand boilerplate, founder quotes, logo files, and the right inbox to reach. We
-            try to reply to media within 24 hours.
-          </p>
-          <p className="legal-effective">
-            Press contact: <a href={mailto(EMAILS.press, "Press Inquiry")}>{EMAILS.press}</a>
-            {" "}· Booking: <a href={mailto(EMAILS.booking, "Booking")}>{EMAILS.booking}</a>
-          </p>
-        </header>
-
-        <section className="legal-section">
-          <h2>Boilerplate (use as-is)</h2>
-          <p>
-            <strong>Sneakz &amp; Beatz</strong> is a culture media brand at the intersection
-            of sneakers, hip-hop, anime, and gaming, operated by Black Royal Music Media
-            LLC, a California-based independent label and production company. Founded by
-            Raymond Miller (PHRHX) in 2025, Sneakz &amp; Beatz produces a daily newsletter,
-            a long-form interview podcast (The PHRHX Show), and a beat catalog of 96+
-            mastered productions used by independent artists across DSPs.
+          <p className="press-lead">
+            Independent media company. Producer-led. Black-owned. Covering
+            sneakers, hip-hop, anime, and gaming as one continuous audience —
+            not four siloed verticals.
           </p>
         </section>
 
-        <section className="legal-section">
-          <h2>Quick facts</h2>
-          <ul>
-            <li><strong>Operator:</strong> Black Royal Music Media LLC (California)</li>
-            <li><strong>Brands:</strong> Sneakz &amp; Beatz · Black Royal Music Media · The PHRHX Show</li>
-            <li><strong>Founder:</strong> Raymond Miller — stage name <strong>PHRHX</strong></li>
-            <li><strong>Headquarters:</strong> San Diego, California</li>
-            <li><strong>Newsletter:</strong> sneakzandbeatz.substack.com — daily drops on culture, hip-hop, sneakers, anime, gaming</li>
-            <li><strong>Podcast:</strong> The PHRHX Show — long-form interviews with cultural figures, weekly</li>
-            <li><strong>Beat Catalog:</strong> 96 mastered beats live at sneakzandbeatz.com/beats — leases from $29.99, exclusive licenses from $497, full bundle of 100 + stems for $79</li>
-            <li><strong>Founded:</strong> 2025</li>
-          </ul>
-        </section>
-
-        <section className="legal-section">
-          <h2>Founder bio (PHRHX)</h2>
-          <p>
-            Raymond Miller, who records and produces under the name <strong>PHRHX</strong>,
-            is the founder of Black Royal Music Media LLC and the operator of the Sneakz
-            &amp; Beatz brand. PHRHX is a multi-disciplinary creator working across hip-hop
-            production, cultural commentary, and independent media. He hosts The PHRHX Show,
-            curates the daily newsletter at sneakzandbeatz.substack.com, and produces the
-            beats that ship under the BRMG masters.
+        <section className="container press-block">
+          <h2 className="press-h2">About</h2>
+          <p className="press-p">
+            Sneakz &amp; Beatz is a culture-media brand operated by{" "}
+            <strong>Black Royal Music Media LLC</strong>, an independent
+            California label and content company. The brand publishes a daily
+            culture feed at sneakzandbeatz.com, runs a producer beat catalog
+            (the Beat Store, $29.99 leases + bundles), hosts <em>The PHRHX
+            Show</em> on YouTube, and operates a Discord community for
+            producers, sneakerheads, anime lifers, and gaming heads.
+          </p>
+          <p className="press-p">
+            The thesis is simple — the same audience shows up for all four
+            pillars, and nobody&rsquo;s covering them honestly under one roof.
+            S&amp;B operates at the intersection. The voice is direct, culturally
+            fluent, no corporate hedging — Black nerd / backpacker
+            demographic emphasis, sneakerhead literacy assumed.
           </p>
         </section>
 
-        <section className="legal-section">
-          <h2>What we cover (story angles)</h2>
-          <ul>
-            <li>Independent music economics — bundle pricing strategy, beat-leasing models, beat producer's path-to-revenue</li>
-            <li>Sneaker culture — release-day reporting, retro returns, collab heat-checks, drop-day data</li>
-            <li>Hip-hop — release reporting, scene reporting (East Coast / West Coast / Trap / Rage / Drill), interviews</li>
-            <li>Anime &amp; gaming culture — releases, fandom shifts, and how those communities cross-pollinate with hip-hop</li>
-            <li>Building a media company in 2026 — operator perspective on AI, content pipelines, and creator economies</li>
-          </ul>
-        </section>
-
-        <section className="legal-section">
-          <h2>Logo files + brand assets</h2>
-          <p>
-            Logo PNGs, the master wordmark in SVG, and approved color swatches (red
-            <strong> #C8262C</strong>, cream <strong>#F0E8D8</strong>, black
-            <strong> #000000</strong>) are available on request — email{" "}
-            <a href={mailto(EMAILS.press, "Press Kit Asset Request")}>{EMAILS.press}</a> with
-            the subject "Press Kit Asset Request" and tell us what you're publishing in.
-            We'll send a Dropbox link with everything in print + web sizes.
+        <section className="container press-block">
+          <h2 className="press-h2">Founder</h2>
+          <p className="press-p">
+            <strong>Raymond Miller (PHRHX)</strong> is a producer, writer, and the
+            founder of Sneakz &amp; Beatz. He&rsquo;s the host of The PHRHX Show,
+            the producer behind the S&amp;B beat catalog, and the editorial voice
+            of the brand&rsquo;s daily culture feed. The brand is solo-led
+            with selective collaboration: a small Discord moderator team, a
+            UGC creator program opening March 2027, and rotating guest judges
+            for the brand&rsquo;s yearly $10K Rap Challenge.
           </p>
-        </section>
-
-        <section className="legal-section">
-          <h2>Suggested pull quotes</h2>
-          <p>
-            These are pre-cleared founder quotes — use them as-is, paraphrase, or request a
-            new quote on a specific topic via the press inbox.
-          </p>
-          <ul>
-            <li>
-              <em>"Beats For Artists Who Move Different — that's the whole brief. We make
-              production for people who don't want a paint-by-numbers track. The catalog
-              reflects that. The bundle reflects that. Even the licensing terms reflect
-              that — we keep most of the splits with the artist on purpose."</em>
-            </li>
-            <li>
-              <em>"There's no point pretending the four pillars — sneakers, hip-hop, anime,
-              gaming — are separate. The same kid showing up for a Jordan release is the
-              one waiting on a Carti rage cut and an anime finale. The audience has been
-              telling us this for a decade. We just stopped pretending we don't see it."</em>
-            </li>
-            <li>
-              <em>"Independent label economics in 2026 mean fewer middlemen and more direct
-              revenue paths to the artist. We sell beats with a 30-day money-back guarantee
-              — try doing that as a major label A&amp;R."</em>
-            </li>
-          </ul>
-        </section>
-
-        <section className="legal-section">
-          <h2>Booking + interviews</h2>
-          <p>
-            For a written interview, podcast appearance, or live mix booking, email{" "}
-            <a href={mailto(EMAILS.booking, "Interview / Booking Request")}>
-              {EMAILS.booking}
+          <p className="press-p">
+            For interviews, podcast guest spots, or panel appearances, contact{" "}
+            <a href={mailto(EMAILS.partnerships, "PHRHX — interview / appearance")}>
+              {EMAILS.partnerships}
             </a>
-            {" "}with the publication or show name, intended air/publish date, recording
-            method (in-person, Zoom, async), and any specific topic angle. We confirm
-            within 24 hours and can usually schedule within 1–2 weeks.
+            .
           </p>
         </section>
 
-        <section className="legal-section">
-          <h2>Past coverage</h2>
-          <p>
-            <em>Coverage list will populate as features publish. Recent placements get
-            archived here with dates, outlets, and links.</em>
+        <section className="container press-block">
+          <h2 className="press-h2">Brand Assets</h2>
+          <p className="press-helper">
+            Click Download to save the high-res PNG. Use the variant that best
+            fits your layout. Don&rsquo;t recolor or add effects without permission.
           </p>
+          <div className="press-logos-grid">
+            {LOGOS.map((l) => (
+              <article key={l.file} className="press-logo-card">
+                <div className="press-logo-frame">
+                  <Image
+                    src={`/press/logos/${l.file}`}
+                    alt={l.name}
+                    width={400}
+                    height={400}
+                    className="press-logo-img"
+                  />
+                </div>
+                <div className="press-logo-meta">
+                  <h3 className="press-logo-h">{l.name}</h3>
+                  <p className="press-logo-use">{l.use}</p>
+                  <p className="press-logo-size">{l.size}</p>
+                  <a
+                    href={`/press/logos/${l.file}`}
+                    download
+                    className="press-logo-dl"
+                  >
+                    Download PNG ↓
+                  </a>
+                </div>
+              </article>
+            ))}
+          </div>
         </section>
 
-        <p className="legal-foot">
-          Press: <a href={mailto(EMAILS.press)}>{EMAILS.press}</a> ·{" "}
-          Booking: <a href={mailto(EMAILS.booking)}>{EMAILS.booking}</a> ·{" "}
-          <Link href="/contact">All Other Inquiries</Link>
-        </p>
-      </section>
+        <section className="container press-block">
+          <h2 className="press-h2">Brand Colors</h2>
+          <div className="press-colors-grid">
+            {COLORS.map((c) => (
+              <article key={c.hex} className="press-color-card">
+                <div
+                  className="press-color-swatch"
+                  style={{ background: c.hex }}
+                  aria-hidden="true"
+                />
+                <div className="press-color-meta">
+                  <h3 className="press-color-name">{c.name}</h3>
+                  <p className="press-color-hex">
+                    <code>{c.hex}</code>
+                  </p>
+                  <p className="press-color-note">{c.note}</p>
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+
+        <section className="container press-block">
+          <h2 className="press-h2">Quick Facts</h2>
+          <dl className="press-facts">
+            {FACTS.map(([k, v]) => (
+              <div key={k} className="press-fact-row">
+                <dt className="press-fact-key">{k}</dt>
+                <dd className="press-fact-val">{v}</dd>
+              </div>
+            ))}
+          </dl>
+        </section>
+
+        <section className="container press-block press-cta">
+          <h2 className="press-h2">Press &amp; Partnership Inquiries</h2>
+          <ul className="press-contact-list">
+            <li>
+              <strong>Press / interviews:</strong>{" "}
+              <a href={mailto(EMAILS.press, "Press inquiry")}>{EMAILS.press}</a>
+            </li>
+            <li>
+              <strong>Brand partnerships / sponsorships:</strong>{" "}
+              <a href={mailto(EMAILS.partnerships, "Partnership inquiry")}>
+                {EMAILS.partnerships}
+              </a>
+            </li>
+            <li>
+              <strong>The PHRHX Show booking:</strong>{" "}
+              <a href={mailto(EMAILS.booking, "PHRHX Show — Guest Pitch")}>
+                {EMAILS.booking}
+              </a>
+            </li>
+            <li>
+              <strong>General:</strong>{" "}
+              <a href={mailto(EMAILS.info)}>{EMAILS.info}</a>
+            </li>
+          </ul>
+          <p className="press-helper" style={{ marginTop: 18 }}>
+            We respond within 5 business days. Faster on{" "}
+            <a href={SOCIAL.instagram.url} target="_blank" rel="noopener">
+              IG DMs
+            </a>{" "}
+            for time-sensitive press windows.
+          </p>
+        </section>
+      </main>
 
       <Footer />
     </>

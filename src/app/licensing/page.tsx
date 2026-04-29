@@ -22,27 +22,36 @@ export default function LicensingPage() {
           </h1>
           <p className="lead licensing-lead">
             Plain-English breakdown of what you can and can't do with every beat licensed
-            from Sneakz &amp; Beatz / Black Royal Music Media (BRMG). Three tiers — pick the
+            from Sneakz &amp; Beatz / Black Royal Music Media (BRMG). Four tiers — pick the
             one that matches the project. Buy any beat, keep your masters, keep most of your
             royalties, no surprises.
           </p>
           <p className="licensing-effective">
             Effective: April 1, 2026 · Producer of record: Black Royal Music Media LLC,
-            San Diego, CA. Questions: <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>
+            Los Angeles County, CA. Questions: <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>
           </p>
+          <div className="licensing-callout">
+            <strong>Read this once:</strong> All <strong>96 beats</strong> on the site —
+            including the <strong>70 tagged "Free"</strong> — are part of the Producer
+            Bundle ($79). The "Free" tag means you can also download those beats at no
+            cost under the <em>Free Standard License</em> below (MP3 only, lower caps).
+            One catalog, four tiers, no fine print.
+          </div>
         </div>
 
         {/* Compare-at-a-glance table */}
         <div className="licensing-compare">
           <div className="licensing-compare-row licensing-compare-head">
             <span>Right</span>
+            <span>Free Standard</span>
             <span>Lease ($29.99)</span>
-            <span>Premium / Bundle ($79+)</span>
+            <span>Bundle ($79+)</span>
             <span>Exclusive ($497+)</span>
           </div>
           {COMPARE_ROWS.map((r, i) => (
             <div key={i} className="licensing-compare-row">
               <span className="licensing-compare-label">{r.label}</span>
+              <span>{r.free}</span>
               <span>{r.lease}</span>
               <span>{r.premium}</span>
               <span>{r.exclusive}</span>
@@ -81,6 +90,15 @@ export default function LicensingPage() {
               <Link href={tier.ctaHref} className="btn btn-primary btn-arrow">
                 {tier.ctaLabel}
               </Link>
+              {tier.licenseHref && (
+                <a
+                  href={tier.licenseHref}
+                  download
+                  className="licensing-download"
+                >
+                  ↓ Download {tier.slug.replace(/-/g, " ")} license (.md)
+                </a>
+              )}
             </div>
           </article>
         ))}
@@ -231,19 +249,71 @@ export default function LicensingPage() {
 }
 
 const COMPARE_ROWS = [
-  { label: "File delivery",            lease: "MP3",                   premium: "MP3 + WAV + Stems",       exclusive: "MP3 + WAV + Stems" },
-  { label: "Audio streams",            lease: "100K",                  premium: "500K",                    exclusive: "Unlimited" },
-  { label: "Paid units (digital + physical)", lease: "5K",            premium: "25K",                     exclusive: "Unlimited" },
-  { label: "Music videos",             lease: "1",                     premium: "3",                       exclusive: "Unlimited" },
-  { label: "Live performances",        lease: "Yes",                   premium: "Yes",                     exclusive: "Yes" },
-  { label: "Radio + non-profit",       lease: "Yes",                   premium: "Yes",                     exclusive: "Yes" },
-  { label: "Producer credit required", lease: "Yes",                   premium: "Yes",                     exclusive: "Waived" },
-  { label: "Publishing split",         lease: "50/50",                 premium: "50/50",                   exclusive: "100% you" },
-  { label: "Same beat sold to others", lease: "Yes (non-exclusive)",   premium: "Yes (non-exclusive)",     exclusive: "No — bought out" },
-  { label: "Sync income split",        lease: "50/50",                 premium: "50/50",                   exclusive: "100% you" },
+  { label: "Price",                    free: "$0",                     lease: "$29.99",                premium: "$47–$79",                  exclusive: "$497+" },
+  { label: "File delivery",            free: "MP3",                    lease: "MP3 + WAV",             premium: "MP3 + WAV + Stems",        exclusive: "MP3 + WAV + Stems" },
+  { label: "Audio streams",            free: "50K",                    lease: "100K",                  premium: "500K",                     exclusive: "Unlimited" },
+  { label: "Paid units (digital + physical)", free: "2K",             lease: "5K",                    premium: "25K",                      exclusive: "Unlimited" },
+  { label: "Music videos",             free: "1",                      lease: "1",                     premium: "3",                        exclusive: "Unlimited" },
+  { label: "Live performances",        free: "Yes",                    lease: "Yes",                   premium: "Yes",                      exclusive: "Yes" },
+  { label: "Radio + non-profit",       free: "Yes",                    lease: "Yes",                   premium: "Yes",                      exclusive: "Yes" },
+  { label: "Sync (TV / film / ads / games)", free: "Not allowed",    lease: "50/50",                 premium: "50/50",                    exclusive: "100% you" },
+  { label: "Producer credit required", free: "Yes",                    lease: "Yes",                   premium: "Yes",                      exclusive: "Waived" },
+  { label: "Publishing split",         free: "50/50",                  lease: "50/50",                 premium: "50/50",                    exclusive: "100% you" },
+  { label: "Same beat sold to others", free: "Yes (non-exclusive)",   lease: "Yes (non-exclusive)",   premium: "Yes (non-exclusive)",      exclusive: "No — bought out" },
+  { label: "Auto-delivered contract",  free: "free-standard-license.md", lease: "single-beat-lease.md", premium: "producer-bundle-license.md", exclusive: "producer-bundle-license.md + custom rider" },
 ];
 
 const TIERS = [
+  {
+    slug: "free-standard",
+    name: "Free Standard — $0",
+    priceLabel: "Free Tier · $0",
+    summary:
+      "70 of the 96 beats on the site are tagged 'Free' and download free of charge under this license. MP3 only, lower caps, no sync rights. Great for demo cuts, mixtape work, or testing how a record lands before going wide.",
+    sections: [
+      {
+        heading: "How to grab one",
+        paragraphs: [
+          "Hit the 'Get →' button on any beat tagged Free in the catalog. We deliver the MP3 + this license document via Substack email. One signup unlocks every free beat going forward.",
+        ],
+      },
+      {
+        heading: "What you get",
+        bullets: [
+          "Mastered MP3 (320 kbps, voice-tag-free)",
+          "This license document (the contract you're reading) auto-delivered with the file",
+          "Substack confirmation email with the download link",
+        ],
+      },
+      {
+        heading: "Caps (Free Standard tier)",
+        paragraphs: [
+          "Up to 50,000 audio-stream equivalents across all DSPs combined for the licensed track. Up to 2,000 paid units (digital + physical). Up to 1 official music video. NO sync placements at this tier — upgrade to a paid Lease ($29.99) or Bundle ($79+) before licensing the song to TV, film, ads, or video games.",
+        ],
+      },
+      {
+        heading: "Producer credit",
+        paragraphs: [
+          'You must credit "Prod. by Sneakz & Beatz" in DSP metadata, liner notes, music-video credit rolls, and on social-media track captions. Credit is the price of the free license — drop the credit, the license voids.',
+        ],
+      },
+      {
+        heading: "Splits",
+        paragraphs: [
+          "Same as Lease: 50/50 publishing on the underlying composition, 100% master to you. Sync income disabled — you have to upgrade before the first placement.",
+        ],
+      },
+      {
+        heading: "Free beats are also IN the bundle",
+        paragraphs: [
+          "Important — every free beat on the site is also part of the Producer Bundle ($79). If you want WAV stems, higher caps, or sync rights on any free beat, the cleanest path is the bundle, not the lease. Bundle adds nothing to your $0 free download — it's a separate license that unlocks the upgraded rights.",
+        ],
+      },
+    ],
+    ctaLabel: "Browse Free Beats →",
+    ctaHref: "/beats",
+    licenseHref: "/licenses/free-standard-license.md",
+  },
   {
     slug: "lease",
     name: "Lease — $29.99",
@@ -290,18 +360,21 @@ const TIERS = [
     ],
     ctaLabel: "Browse Beats →",
     ctaHref: "/beats",
+    licenseHref: "/licenses/single-beat-lease.md",
   },
   {
     slug: "premium",
-    name: "Premium / Bundle — $79+",
-    priceLabel: "Bundle · $79–$149",
+    name: "Producer Bundle — $79",
+    priceLabel: "Bundle · $47 / $79 / $497",
     summary:
-      "Available only as part of the Standard Bundle ($79) or Starter Bundle ($47). Higher caps, full stems, and access to BRMG's drum + sample packs.",
+      "Standard Bundle ($79) covers ALL 96 beats on the site — including the 70 tagged 'Free.' Starter ($47) is 25 of your choice. Exclusive ($497) is everything in Standard plus 5 fully exclusive beats pulled from the public catalog. Higher caps, full stems, drum kit + samples, mix consult.",
     sections: [
       {
         heading: "What you get",
         bullets: [
-          "100 beats (Standard) or 25 beats (Starter) from the catalog",
+          "ALL 96 beats (Standard) — yes, the 70 Free ones are bundled in too",
+          "25 beats of your pick (Starter)",
+          "Standard + 5 fully exclusive beats removed from the catalog (Exclusive)",
           "MP3 + WAV + trackouts (separate stems for drums, melody, bass, etc.)",
           "BRMG drum kit + sample pack",
           "15-minute mix consultation Zoom (Standard tier only)",
@@ -335,6 +408,7 @@ const TIERS = [
     ],
     ctaLabel: "See Bundle Pricing →",
     ctaHref: "/beats/bundles",
+    licenseHref: "/licenses/producer-bundle-license.md",
   },
   {
     slug: "exclusive",
@@ -382,5 +456,6 @@ const TIERS = [
     ],
     ctaLabel: "Get Exclusive Bundle →",
     ctaHref: "/beats/bundles",
+    licenseHref: "/licenses/producer-bundle-license.md",
   },
 ];

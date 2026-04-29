@@ -44,11 +44,12 @@ export default function BeatsPage() {
           <div className="bundle-promo-left">
             <span className="bundle-promo-tag">⚡ Bundle Drop · Limited</span>
             <h2 className="bundle-promo-h">
-              Skip leasing one at a time. <span className="accent">Get all {paidCount} for $79.</span>
+              Skip leasing one at a time. <span className="accent">All {totalCount} beats for $79.</span>
             </h2>
             <p className="bundle-promo-sub">
-              That's <strong>$0.79 per beat</strong> instead of ${(29.99).toFixed(2)} each. Plus
-              stems, drum kits, mix consult, and 6 months of future drops.
+              Yes — every beat in the catalog, free ones included. That's
+              <strong> ${(79 / totalCount).toFixed(2)} per beat</strong> with WAV + stems + drum
+              kit + 6 months of future drops. Bundle license auto-delivered.
             </p>
           </div>
           <div className="bundle-promo-right">
