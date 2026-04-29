@@ -15,7 +15,7 @@ export const revalidate = 600;
 
 const PILLAR_LABELS: Record<PillarKey, { label: string; href: string }> = {
   sneakers: { label: "Sneakers", href: "/sneakers" },
-  hiphop: { label: "Hip-Hop · Beatz", href: "/hiphop" },
+  hiphop: { label: "Hip-Hop & Beatz", href: "/hiphop" },
   anime: { label: "Anime", href: "/anime" },
   gaming: { label: "Gaming", href: "/gaming" },
 };

@@ -341,12 +341,13 @@ nav.primary a:hover { color: var(--highlight); }
    videos the YouTube RSS returns (1, 4, or anything in between). */
 .episodes {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 14px;
+  align-items: stretch;
 }
 .episode {
   position: relative; border-radius: 10px; overflow: hidden;
-  background: var(--card); aspect-ratio: 1 / 1;
+  background: var(--card); aspect-ratio: 16 / 9;
   border: 1px solid var(--line);
   display: block;
 }

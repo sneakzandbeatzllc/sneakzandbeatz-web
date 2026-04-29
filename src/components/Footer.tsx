@@ -34,7 +34,7 @@ export default function Footer() {
             <h5>Explore</h5>
             <ul>
               <li><Link href="/sneakers">Sneakers</Link></li>
-              <li><Link href="/hiphop">Hip-Hop · Beatz</Link></li>
+              <li><Link href="/hiphop">Hip-Hop & Beatz</Link></li>
               <li><Link href="/anime">Anime</Link></li>
               <li><Link href="/gaming">Gaming</Link></li>
               <li><Link href="/show">The PHRHX Show</Link></li>

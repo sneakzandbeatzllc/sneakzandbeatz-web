@@ -1,17 +1,21 @@
 /**
  * PHRHXShow.tsx
  *
- * Homepage section. Pulls the latest 4 videos directly from the
- * The PHRHX Show YouTube channel via RSS. Renders thumbnail + play
- * overlay; clicking opens the YouTube watch page in a new tab.
+ * Homepage section. Pulls the latest 3 videos from the The PHRHX Show
+ * YouTube channel via RSS. Renders thumbnail + play overlay; clicking
+ * opens the YouTube watch page in a new tab.
  *
- * If the YouTube fetch fails (network, blocked) or returns 0 videos, the
- * component falls back to a small set of hardcoded teaser cards so the
- * homepage doesn't ship empty.
+ * Fallback: if the YouTube fetch fails or returns 0 videos, renders 3
+ * branded placeholder cards (each linking to the YouTube channel) so
+ * the homepage never ships with bare empty cards.
+ *
+ * Fetches 3 (not 4) so it fits cleanly in the 3-column auto-fit grid
+ * without orphan-wrapping the 4th card to a new row.
  */
 
 import Link from "next/link";
 import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
+import { SOCIAL } from "@/data/social";
 
 type Episode = {
   id: string;
@@ -23,10 +27,24 @@ type Episode = {
 };
 
 const FALLBACK_EPISODES: Episode[] = [
-  { id: "fb-1", title: "The PHRHX Show — new episodes weekly",  href: "/show", isReal: false },
-  { id: "fb-2", title: "Subscribe on YouTube",                  href: "/show", isReal: false },
-  { id: "fb-3", title: "Sneakers · Hip-Hop · Anime · Gaming",  href: "/show", isReal: false },
-  { id: "fb-4", title: "Long-form interviews + breakdowns",    href: "/show", isReal: false },
+  {
+    id: "fb-1",
+    title: "New episodes weekly — sneakers, hip-hop, anime, gaming",
+    href: SOCIAL.youtube.url,
+    isReal: false,
+  },
+  {
+    id: "fb-2",
+    title: "Long-form interviews + cultural breakdowns",
+    href: SOCIAL.youtube.url,
+    isReal: false,
+  },
+  {
+    id: "fb-3",
+    title: "Subscribe on YouTube — first to know on every drop",
+    href: SOCIAL.youtube.url,
+    isReal: false,
+  },
 ];
 
 function videoToEpisode(v: YouTubeVideo): Episode {
@@ -41,7 +59,7 @@ function videoToEpisode(v: YouTubeVideo): Episode {
 }
 
 export default async function PHRHXShow() {
-  const videos = await fetchYouTubeVideos(undefined, 4);
+  const videos = await fetchYouTubeVideos(undefined, 3);
   const episodes: Episode[] =
     videos.length > 0 ? videos.map(videoToEpisode) : FALLBACK_EPISODES;
 
@@ -67,9 +85,8 @@ export default async function PHRHXShow() {
         </div>
         <div className="episodes">
           {episodes.map((ep, i) => {
-            const isFeatured = i === 0;
-            const target = ep.isReal ? "_blank" : undefined;
-            const rel = ep.isReal ? "noopener" : undefined;
+            const target = "_blank";
+            const rel = "noopener";
 
             return (
               <a
@@ -77,7 +94,7 @@ export default async function PHRHXShow() {
                 href={ep.href}
                 target={target}
                 rel={rel}
-                className={`episode${isFeatured ? " featured" : ""}`}
+                className={"episode" + (ep.isReal && i === 0 ? " featured" : "")}
               >
                 {ep.thumbnail ? (
                   <div
@@ -87,7 +104,7 @@ export default async function PHRHXShow() {
                 ) : (
                   <div className="thumb"></div>
                 )}
-                {isFeatured && ep.isReal && (
+                {ep.isReal && i === 0 && (
                   <span className="latest-tag">Latest</span>
                 )}
                 <div className="play">
