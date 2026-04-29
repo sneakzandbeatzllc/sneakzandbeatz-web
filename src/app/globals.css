@@ -2954,3 +2954,276 @@ nav.primary a:hover { color: var(--highlight); }
   .brand-photos-grid { grid-template-columns: 1fr; }
   .brand-photos-side { grid-template-columns: 1fr 1fr; }
 }
+
+/* ============================================================
+   CreatorsCTA — homepage teaser pulling creators to /creators
+   ============================================================ */
+.creators-cta {
+  padding: 64px 0;
+  border-top: 1px solid var(--line);
+  background:
+    radial-gradient(circle at 80% 20%, rgba(200,38,44,0.08) 0%, transparent 55%),
+    radial-gradient(circle at 20% 80%, rgba(146,243,124,0.05) 0%, transparent 55%);
+}
+.creators-cta-inner { max-width: 760px; }
+.creators-cta-eyebrow {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 4px 10px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 16px;
+}
+.creators-cta-h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(40px, 6vw, 72px);
+  letter-spacing: 0.005em;
+  line-height: 1.0;
+  margin: 0 0 16px;
+}
+.creators-cta-h2 .accent { color: var(--accent); }
+.creators-cta-sub {
+  font-size: 17px; color: var(--text-soft);
+  line-height: 1.65; margin: 0 0 18px;
+}
+.creators-cta-bullets {
+  list-style: none; padding: 0;
+  margin: 0 0 22px;
+  display: flex; gap: 22px; flex-wrap: wrap;
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px; letter-spacing: 0.02em;
+  color: var(--highlight);
+}
+.creators-cta-bullets li::before {
+  content: "▸ "; color: var(--accent); margin-right: 4px;
+}
+.creators-cta-paragraph {
+  color: var(--text-soft); font-size: 15px; line-height: 1.7;
+  margin: 0 0 28px;
+}
+.creators-cta-btn { padding: 14px 28px; }
+
+/* ============================================================
+   /creators — full brief page + application form
+   ============================================================ */
+.creators-page { background: var(--bg); }
+.creators-hero {
+  padding: 80px 0 32px;
+  border-bottom: 1px solid var(--line);
+  background:
+    radial-gradient(circle at 30% 30%, rgba(200,38,44,0.10) 0%, transparent 60%);
+}
+.creators-eyebrow {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 4px 10px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 18px;
+}
+.creators-h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(44px, 7vw, 84px);
+  letter-spacing: 0.005em;
+  line-height: 1.02;
+  margin: 0 0 18px;
+}
+.creators-h1 .accent { color: var(--accent); }
+.creators-lead {
+  max-width: 640px; color: var(--text-soft);
+  font-size: 17px; line-height: 1.65; margin: 0;
+}
+
+.creators-block { padding: 56px 0 16px; max-width: 920px; }
+.creators-h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(28px, 4vw, 40px);
+  letter-spacing: 0.005em;
+  line-height: 1.1;
+  margin: 0 0 8px;
+}
+.creators-helper {
+  color: var(--text-soft); font-size: 14px; line-height: 1.6;
+  margin: 0 0 20px;
+}
+.creators-bullets {
+  list-style: none; padding: 0;
+  margin: 0;
+  display: flex; flex-direction: column; gap: 12px;
+}
+.creators-bullets li {
+  position: relative; padding-left: 22px;
+  color: var(--text-soft); font-size: 15px; line-height: 1.65;
+}
+.creators-bullets li::before {
+  content: "▸";
+  position: absolute; left: 0; top: 0;
+  color: var(--accent);
+  font-size: 13px;
+}
+.creators-bullets li strong { color: var(--text); }
+.creators-terms li { font-size: 14px; }
+
+/* Rate card */
+.creators-rates-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-bottom: 32px;
+}
+.creators-tier {
+  background: rgba(255,255,255,0.02);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 22px 20px;
+}
+.creators-tier-mid { border-color: rgba(200,38,44,0.35); }
+.creators-tier-top {
+  border-color: rgba(200,38,44,0.55);
+  background: linear-gradient(180deg, rgba(200,38,44,0.10) 0%, rgba(200,38,44,0.02) 100%);
+}
+.creators-tier-head {
+  display: flex; flex-direction: column; gap: 4px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 14px;
+}
+.creators-tier-num {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px; letter-spacing: 0.04em;
+  color: var(--accent);
+}
+.creators-tier-label {
+  font-size: 12px; letter-spacing: 0.10em; text-transform: uppercase;
+  color: var(--text-soft);
+  font-weight: 600;
+}
+.creators-tier-rates {
+  list-style: none; padding: 0; margin: 0;
+  display: flex; flex-direction: column; gap: 10px;
+}
+.creators-tier-rates li {
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 12px;
+  font-size: 13.5px; color: var(--text-soft);
+  line-height: 1.45;
+}
+.creators-tier-rates li strong {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px; letter-spacing: 0.02em;
+  color: var(--highlight);
+}
+
+.creators-addons {
+  background: rgba(255,255,255,0.02);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 20px 22px;
+}
+.creators-addons-h {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px; letter-spacing: 0.02em;
+  margin: 0 0 14px;
+}
+
+.creators-form-block { padding-top: 56px; padding-bottom: 96px; }
+.creators-form { display: flex; flex-direction: column; gap: 28px; }
+
+.creators-foot {
+  padding: 32px 0 64px;
+  text-align: center;
+  color: var(--text-soft); font-size: 14px;
+}
+.creators-foot a { color: var(--accent); }
+
+.creators-success {
+  background: rgba(146,243,124,0.06);
+  border: 1px solid rgba(146,243,124,0.40);
+  border-radius: 14px;
+  padding: 32px 28px;
+}
+.creators-success-tag {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--highlight);
+  padding: 4px 10px; border: 1px solid var(--highlight); border-radius: 999px;
+  margin-bottom: 16px;
+}
+.creators-success-h {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 32px; letter-spacing: 0.02em;
+  margin: 0 0 14px;
+}
+.creators-success-body {
+  color: var(--text-soft); font-size: 15px; line-height: 1.65;
+  margin: 0 0 14px;
+}
+.creators-success-body a { color: var(--accent); }
+
+/* ============================================================
+   /creators — Jordan grid (form) + merch×J match guide (page)
+   ============================================================ */
+
+/* AJ1-17 multi-select pills in the application form */
+.creators-jordans-grid {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  margin-top: 4px;
+}
+.creators-jordan-pill {
+  position: relative;
+  display: inline-flex; align-items: center;
+  padding: 8px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: rgba(255,255,255,0.02);
+  cursor: pointer;
+  transition: border-color 150ms, background 150ms;
+}
+.creators-jordan-pill input {
+  position: absolute; opacity: 0; pointer-events: none;
+}
+.creators-jordan-pill span {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 16px; letter-spacing: 0.04em;
+  color: var(--text-soft);
+}
+.creators-jordan-pill:has(input:checked) {
+  background: rgba(200,38,44,0.18);
+  border-color: rgba(200,38,44,0.55);
+}
+.creators-jordan-pill:has(input:checked) span {
+  color: var(--text);
+}
+.creators-jordan-pill:hover { border-color: rgba(200,38,44,0.45); }
+
+/* Merch × Jordan color match guide on /creators page */
+.match-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 14px;
+}
+.match-row {
+  display: flex; gap: 16px; align-items: flex-start;
+  background: rgba(255,255,255,0.02);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 16px 18px;
+  transition: border-color 0.18s ease;
+}
+.match-row:hover { border-color: rgba(200,38,44,0.4); }
+.match-swatch {
+  flex: 0 0 56px;
+  width: 56px; height: 56px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.05);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+}
+.match-meta { flex: 1; }
+.match-meta h3 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px; letter-spacing: 0.02em;
+  margin: 0 0 6px;
+  color: var(--text);
+}
+.match-meta p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--text-soft);
+}
