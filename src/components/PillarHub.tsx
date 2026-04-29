@@ -3,6 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import { fetchSubstackPostsForPillar, type SubstackPost } from "@/lib/substack";
 import { fetchPillarCycles, type PillarCycle } from "@/lib/soc-cycles";
+import { getArticlesForPillar, formatPublished, type PillarKey } from "@/lib/articles";
 
 export type PillarCard = {
   tag: string;       // chip label e.g. "Drop Reports"
@@ -48,6 +49,9 @@ export default async function PillarHub({
 }: PillarHubProps) {
   const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
   const cycles = pillarKey ? await fetchPillarCycles(pillarKey) : [];
+  // Original AI-generated articles (Claude API → daily, one per pillar).
+  // Surfaced ABOVE the SOC drops because these are S&B's actual editorial.
+  const articles = pillarKey ? getArticlesForPillar(pillarKey as PillarKey, 6) : [];
   const ctaIsExternal = primaryCta.href.startsWith("http");
   return (
     <>
@@ -91,6 +95,39 @@ export default async function PillarHub({
             ))}
           </div>
         </section>
+
+        {/* Articles — original S&B editorial, generated daily by article_generator.py */}
+        {articles.length > 0 && (
+          <section className="pillar-articles">
+            <div className="pillar-drops-header">
+              <h2 className="pillar-section-h">Latest Articles</h2>
+              <span className="pillar-drops-meta">
+                Original S&B editorial · refreshed daily 7 AM PT
+              </span>
+            </div>
+            <div className="pillar-articles-grid">
+              {articles.map((a, i) => (
+                <Link
+                  key={a.slug}
+                  href={`/articles/${a.pillar}/${a.slug}`}
+                  className={"pillar-article-card" + (i === 0 ? " pillar-article-card-feature" : "")}
+                >
+                  <div className="pillar-article-meta">
+                    <span className="pillar-article-date">{formatPublished(a.publishedAt)}</span>
+                    {a.tags?.length > 0 && (
+                      <span className="pillar-article-tag">{a.tags[0]}</span>
+                    )}
+                  </div>
+                  <h3 className="pillar-article-headline">{a.headline}</h3>
+                  {a.subhead && (
+                    <p className="pillar-article-subhead">{a.subhead}</p>
+                  )}
+                  <span className="pillar-article-readmore">Read article →</span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Today's Drops — SOC engine output, refreshed daily at 6 AM PT */}
         {cycles.length > 0 && (
