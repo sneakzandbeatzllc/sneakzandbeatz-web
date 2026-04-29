@@ -113,7 +113,7 @@ export default function BundleSqueezePage() {
           <div className="bundle-vsl-inner">
             <span className="bundle-vsl-label">▶ Sales Video — Coming Soon</span>
             <p className="bundle-vsl-helper">
-              Raymond walks you through every beat in the catalog, the
+              PHRHX walks you through every beat in the catalog, the
               license, and exactly what you can do with it. Watch this once
               before you buy. (Embed slot — drop the YouTube unlisted URL
               into <code>BUNDLE_VSL_URL</code> in <code>page.tsx</code>.)
@@ -200,7 +200,7 @@ export default function BundleSqueezePage() {
             <span className="bundle-stack-tag">Bonus #2</span>
             <h3 className="bundle-stack-h">15-min mix consult Zoom</h3>
             <p className="bundle-stack-p">
-              Bring a track. Raymond gives you mix notes — frequencies,
+              Bring a track. PHRHX gives you mix notes — frequencies,
               levels, glue, the cut your record needs. Recorded so you can
               go back to it.
             </p>
@@ -235,7 +235,7 @@ export default function BundleSqueezePage() {
             <h3 className="bundle-stack-h">Discord — Beatmakers channel</h3>
             <p className="bundle-stack-p">
               Buyer-only channel. Share your tracks, get feedback, hear
-              about the next bundle expansion before everyone else. Raymond
+              about the next bundle expansion before everyone else. PHRHX
               is in there daily.
             </p>
             <p className="bundle-stack-value">Stand-alone value: priceless</p>

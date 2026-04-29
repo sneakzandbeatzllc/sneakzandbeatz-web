@@ -45,7 +45,7 @@ const NEXT_STEPS: Array<{
   {
     num: 3,
     h: "Drop into the Beatmakers Discord channel",
-    p: "Buyer-only. Share your tracks, get feedback, hear about the next bundle expansion before everyone else. Raymond (PHRHX) is in there daily.",
+    p: "Buyer-only. Share your tracks, get feedback, hear about the next bundle expansion before everyone else. PHRHX is in there daily.",
     cta: {
       href: SOCIAL.discord.enabled && SOCIAL.discord.url
         ? SOCIAL.discord.url
@@ -57,9 +57,9 @@ const NEXT_STEPS: Array<{
   {
     num: 4,
     h: "Book your 15-minute mix consult (Standard + Exclusive only)",
-    p: "Bring an in-progress track. Raymond gives you mix notes — frequencies, levels, glue, the cut your record needs. Recorded so you can go back to it.",
+    p: "Bring an in-progress track. PHRHX gives you mix notes — frequencies, levels, glue, the cut your record needs. Recorded so you can go back to it.",
     cta: {
-      href: "mailto:licensing@sneakzandbeatz.com?subject=Bundle%20Mix%20Consult%20Booking&body=Hey%20Raymond%20—%20I%20just%20bought%20the%20Producer%20Bundle%20and%20want%20to%20book%20my%2015-minute%20mix%20consult.%20Here%27s%20the%20track:%20%5Battach%20a%20rough%20mix%5D",
+      href: "mailto:licensing@sneakzandbeatz.com?subject=Bundle%20Mix%20Consult%20Booking&body=Hey%20PHRHX%20—%20I%20just%20bought%20the%20Producer%20Bundle%20and%20want%20to%20book%20my%2015-minute%20mix%20consult.%20Here%27s%20the%20track:%20%5Battach%20a%20rough%20mix%5D",
       label: "Email to book consult →",
     },
   },

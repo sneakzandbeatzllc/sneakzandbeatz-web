@@ -31,7 +31,7 @@ const EXCLUSIVE_INCLUDES = [
   "100% sync income on those 5 beats — every TV, film, ad, game placement",
   "Producer credit waived on the 5 — credit yourself or co-credit anyone",
   "Lifetime updates — every beat we ever release added to your library, free",
-  "Direct DM/email line to Raymond for custom requests + sample-flip ideas",
+  "Direct DM/email line to PHRHX for custom requests + sample-flip ideas",
   "DistroKid affiliate kit — release your tracks the right way",
 ];
 
