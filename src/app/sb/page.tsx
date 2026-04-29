@@ -130,7 +130,7 @@ export default function LinkInBioPage() {
           <p className="sb-foot-line">
             <Link href="/">sneakzandbeatz.com</Link>
             <span aria-hidden="true"> · </span>
-            <span>© {new Date().getFullYear()} Black Royal Music Media LLC</span>
+            <span>© {new Date().getFullYear()} Black Royal Music Media Group Inc.</span>
           </p>
         </footer>
       </div>

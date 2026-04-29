@@ -138,7 +138,7 @@ export default function BundleUpsellPage() {
         </Link>
 
         <p className="bundle-foot-fine">
-          Producer of record: Black Royal Music Media LLC, Los Angeles County, CA
+          Producer of record: Black Royal Music Media Group Inc., Los Angeles County, CA
           ·{" "}
           <Link href="/licensing">Full license terms</Link>
         </p>

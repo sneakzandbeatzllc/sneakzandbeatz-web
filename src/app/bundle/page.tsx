@@ -299,7 +299,7 @@ export default function BundleSqueezePage() {
           Want even more? <Link href="/beats/bundles">See Starter / Standard / Exclusive →</Link>
         </p>
         <p className="bundle-foot-fine">
-          Producer of record: Black Royal Music Media LLC, Los Angeles County, CA
+          Producer of record: Black Royal Music Media Group Inc., Los Angeles County, CA
           ·{" "}
           <Link href="/licensing">Full license terms</Link> ·{" "}
           <Link href="/terms">Terms</Link> · <Link href="/privacy">Privacy</Link>

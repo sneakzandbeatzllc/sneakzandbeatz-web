@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 export const metadata = {
   title: "Privacy Policy — Sneakz & Beatz",
   description:
-    "How Sneakz & Beatz / Black Royal Music Media LLC collects, uses, and protects your information.",
+    "How Sneakz & Beatz / Black Royal Music Media Group Inc. collects, uses, and protects your information.",
 };
 
 export default function PrivacyPage() {
@@ -27,7 +27,7 @@ export default function PrivacyPage() {
             way we'd want it written for us — short paragraphs, real specifics.
           </p>
           <p className="legal-effective">
-            Effective: April 1, 2026 · Operator: Black Royal Music Media LLC, San Diego, CA
+            Effective: April 1, 2026 · Operator: Black Royal Music Media Group Inc., San Diego, CA
             {" "}· Contact: <a href="mailto:privacy@sneakzandbeatz.com">privacy@sneakzandbeatz.com</a>
           </p>
         </header>
@@ -35,7 +35,7 @@ export default function PrivacyPage() {
         <section className="legal-section">
           <h2>1. Who we are</h2>
           <p>
-            "Sneakz &amp; Beatz" is a brand operated by Black Royal Music Media LLC ("BRMG",
+            "Sneakz &amp; Beatz" is a brand operated by Black Royal Music Media Group Inc. ("BRMG",
             "we", "us"), a California limited liability company. This Privacy Policy applies
             to the website at sneakzandbeatz.com and to email newsletters, beat-store
             transactions, and customer-support correspondence we conduct under the Sneakz
@@ -174,7 +174,7 @@ export default function PrivacyPage() {
           </p>
           <p>
             Mailing address (for legal notices):<br />
-            <strong>Black Royal Music Media LLC</strong><br />
+            <strong>Black Royal Music Media Group Inc.</strong><br />
             <em>(Address on file with the California Secretary of State — see{" "}
             <Link href="/contact">contact</Link>.)</em>
           </p>

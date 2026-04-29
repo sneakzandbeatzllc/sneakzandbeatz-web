@@ -1,6 +1,6 @@
 # SNEAKZ & BEATZ — FREE STANDARD LICENSE
 
-**Issued by:** Black Royal Music Media LLC ("BRMG")
+**Issued by:** Black Royal Music Media Group Inc. ("BRMG")
 **Catalog:** Sneakz & Beatz Beat Store
 **Effective:** Date of download
 **License version:** v1.0 — April 2026
@@ -119,8 +119,8 @@ acceptance of this license in full.
 
 ---
 
-**Producer of record:** Black Royal Music Media LLC, Los Angeles County, CA
-**Operating brand:** Sneakz & Beatz / Sneakz and Beatz LLC
+**Producer of record:** Black Royal Music Media Group Inc., Los Angeles County, CA
+**Operating brand:** Sneakz & Beatz (a property of The PHRHX Company)
 **Questions before, during, or after:** licensing@sneakzandbeatz.com
 **Full licensing page:** https://sneakzandbeatz.com/licensing
 **Want WAV + stems + sync rights?** https://sneakzandbeatz.com/beats/bundles

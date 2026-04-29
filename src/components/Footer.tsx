@@ -42,12 +42,13 @@ export default function Footer() {
           </div>
 
           <div>
-            <h5>Shop</h5>
+            <h5>Shop &amp; Beatz</h5>
             <ul>
               <li><Link href="/beats">Beat Store</Link></li>
               <li><Link href="/beats/bundles">Bundles</Link></li>
+              <li><Link href="/bundle">Producer Bundle — $79</Link></li>
               <li><Link href="/licensing">Licensing</Link></li>
-              <li><Link href="/producer-kits">Producer Kits</Link></li>
+              <li><Link href="/shop">Merch &amp; Creators</Link></li>
             </ul>
           </div>
 
@@ -81,7 +82,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bar">
-          <span>© 2026 Sneakz &amp; Beatz LLC. All rights reserved.</span>
+          <span>© 2026 The PHRHX Company. Sneakz &amp; Beatz is a property of The PHRHX Company. Beat catalog + publishing by Black Royal Music Media Group Inc. All rights reserved.</span>
           <span>Built for the culture.</span>
         </div>
       </div>

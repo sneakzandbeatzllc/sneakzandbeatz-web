@@ -62,10 +62,10 @@ export default function RapChallengeRulesPage() {
             <h2>1. Sponsor</h2>
             <p>
               The &ldquo;$10K Rap Challenge&rdquo; (&ldquo;Promotion&rdquo;) is sponsored by{" "}
-              <strong>Sneakz and Beatz LLC</strong> (&ldquo;Sponsor&rdquo;), a California limited
-              liability company operated by <strong>Black Royal Music Media LLC</strong>, with
-              business mailing address [iPostal1 mailbox — 1234 Example St, Suite 100, Los
-              Angeles, CA 90001 — confirm before publish]. EIN: 42-2192032.
+              <strong>The PHRHX Company</strong> (&ldquo;Sponsor&rdquo;), a California
+              company operating the Sneakz &amp; Beatz brand. Beat catalog and publishing
+              are powered by <strong>Black Royal Music Media Group Inc.</strong> Business
+              mailing address [iPostal1 mailbox — confirm before publish].
             </p>
           </section>
 

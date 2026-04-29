@@ -6,7 +6,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "Work With Us — Sneakz & Beatz",
   description:
-    "Brand partnerships, sponsorships, UGC creator collabs, and apparel collaborations with Sneakz & Beatz / Black Royal Music Media LLC.",
+    "Brand partnerships, sponsorships, UGC creator collabs, and apparel collaborations with Sneakz & Beatz / Black Royal Music Media Group Inc..",
 };
 
 const TRACKS: { tag: string; heading: string; body: string; bullets: string[]; subject: string }[] = [

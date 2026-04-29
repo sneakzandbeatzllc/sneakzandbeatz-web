@@ -27,7 +27,7 @@ export default function LicensingPage() {
             royalties, no surprises.
           </p>
           <p className="licensing-effective">
-            Effective: April 1, 2026 · Producer of record: Black Royal Music Media LLC,
+            Effective: April 1, 2026 · Producer of record: Black Royal Music Media Group Inc.,
             Los Angeles County, CA. Questions: <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>
           </p>
           <div className="licensing-callout">
@@ -110,7 +110,7 @@ export default function LicensingPage() {
           <section className="licensing-section">
             <h3>1. Ownership of the underlying composition</h3>
             <p>
-              Black Royal Music Media LLC ("BRMG") owns the underlying musical composition
+              Black Royal Music Media Group Inc. ("BRMG") owns the underlying musical composition
               (melody, drums, arrangement) of every beat. A lease grants you a non-exclusive
               right to use the composition under the terms below; an Exclusive purchase
               transfers that right to you on a per-beat basis as defined in that tier.

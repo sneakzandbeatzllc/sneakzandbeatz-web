@@ -6,7 +6,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "About — Sneakz & Beatz",
   description:
-    "About Sneakz & Beatz / Black Royal Music Media LLC — the brand, the founder PHRHX, and the four pillars (sneakers, hip-hop, anime, gaming).",
+    "About Sneakz & Beatz / Black Royal Music Media Group Inc. — the brand, the founder PHRHX, and the four pillars (sneakers, hip-hop, anime, gaming).",
 };
 
 export default function AboutPage() {
@@ -49,12 +49,12 @@ export default function AboutPage() {
         <section className="legal-section">
           <h2>The founder — PHRHX</h2>
           <p>
-            Raymond Miller, who records and produces under the name <strong>PHRHX</strong>,
-            founded Black Royal Music Media in 2025 and operates Sneakz &amp; Beatz under
-            that umbrella. PHRHX is a multi-disciplinary creator: hip-hop producer, podcast
-            host (The PHRHX Show), and editorial operator. He wrote the lease agreements,
-            mastered the beat catalog, designed the brand, and is currently running every
-            seat in the company while we hire.
+            <strong>PHRHX</strong> is the founder of <strong>The PHRHX Company</strong>,
+            which operates Sneakz &amp; Beatz. The beat catalog and publishing run through{" "}
+            <strong>Black Royal Music Media Group Inc.</strong> PHRHX is a multi-disciplinary
+            creator: hip-hop producer, podcast host (The PHRHX Show), and editorial operator.
+            He produced the catalog, designed the brand, and leads a small in-house team
+            across editorial, design, video, and community.
           </p>
         </section>
 
@@ -117,7 +117,7 @@ export default function AboutPage() {
         <section className="legal-section">
           <h2>The company</h2>
           <p>
-            <strong>Black Royal Music Media LLC</strong> is the operating entity behind the
+            <strong>Black Royal Music Media Group Inc.</strong> is the operating entity behind the
             Sneakz &amp; Beatz brand. We're a California limited liability company
             headquartered in San Diego.
           </p>

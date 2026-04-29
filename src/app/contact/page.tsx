@@ -6,7 +6,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "Contact & Support — Sneakz & Beatz",
   description:
-    "Customer support, licensing questions, press inquiries, and general contact for Sneakz & Beatz / Black Royal Music Media LLC.",
+    "Customer support, licensing questions, press inquiries, and general contact for Sneakz & Beatz / Black Royal Music Media Group Inc..",
 };
 
 const TOPICS: { tag: string; heading: string; body: string; email: string; subject: string }[] = [
@@ -149,7 +149,7 @@ export default function ContactPage() {
         <section className="legal-section">
           <h2>Mailing address</h2>
           <p>
-            <strong>Black Royal Music Media LLC</strong><br />
+            <strong>Black Royal Music Media Group Inc.</strong><br />
             Mailing address on file with the California Secretary of State.<br />
             For legal notices, request the current address by emailing{" "}
             <a href={mailto(EMAILS.legal, "Mailing Address Request")}>{EMAILS.legal}</a>{" "}

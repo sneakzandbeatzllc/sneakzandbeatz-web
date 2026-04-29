@@ -28,7 +28,7 @@ export default function TermsPage() {
             <Link href="/licensing">Beat Licensing Terms</Link>.
           </p>
           <p className="legal-effective">
-            Effective: April 1, 2026 · Operator: Black Royal Music Media LLC, San Diego, CA
+            Effective: April 1, 2026 · Operator: Black Royal Music Media Group Inc., San Diego, CA
             {" "}· Contact: <a href="mailto:terms@sneakzandbeatz.com">terms@sneakzandbeatz.com</a>
           </p>
         </header>

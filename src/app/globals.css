@@ -2660,9 +2660,11 @@ nav.primary a:hover { color: var(--highlight); }
 .yt-grid {
   display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 18px;
+  align-items: stretch;
 }
 .yt-card {
   display: flex; flex-direction: column;
+  height: 100%;
   background: rgba(255,255,255,0.02);
   border: 1px solid var(--line);
   border-radius: 12px;
@@ -2678,7 +2680,12 @@ nav.primary a:hover { color: var(--highlight); }
 .yt-card-thumb {
   position: relative;
   aspect-ratio: 16 / 9;
-  background-size: cover; background-position: center;
+  width: 100%;
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  flex-shrink: 0;
 }
 .yt-card-thumb::after {
   content: "";
@@ -2701,13 +2708,18 @@ nav.primary a:hover { color: var(--highlight); }
 .yt-card:hover .yt-card-play { transform: translate(-50%, -50%) scale(1.08); }
 .yt-card-body {
   padding: 14px 16px 16px;
-  display: flex; flex-direction: column; gap: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex: 1;
+  justify-content: space-between;
 }
 .yt-card-title {
   font-size: 14px; font-weight: 700;
   margin: 0;
   line-height: 1.3;
   color: var(--text);
+  min-height: 2.6em;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;

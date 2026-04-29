@@ -1,6 +1,6 @@
 # SNEAKZ & BEATZ — PRODUCER BUNDLE LICENSE ($79)
 
-**Issued by:** Black Royal Music Media LLC ("BRMG")
+**Issued by:** Black Royal Music Media Group Inc. ("BRMG")
 **Catalog:** Sneakz & Beatz Beat Store
 **Effective:** Date of Stripe payment
 **License version:** v1.0 — April 2026
@@ -157,7 +157,7 @@ of this license in full.
 
 ---
 
-**Producer of record:** Black Royal Music Media LLC, Los Angeles County, CA
-**Operating brand:** Sneakz & Beatz / Sneakz and Beatz LLC
+**Producer of record:** Black Royal Music Media Group Inc., Los Angeles County, CA
+**Operating brand:** Sneakz & Beatz (a property of The PHRHX Company)
 **Questions:** licensing@sneakzandbeatz.com
 **Full licensing page:** https://sneakzandbeatz.com/licensing
