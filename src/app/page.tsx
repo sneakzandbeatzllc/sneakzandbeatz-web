@@ -8,7 +8,6 @@ import CreatorsCTA from "@/components/CreatorsCTA";
 import PHRHXShow from "@/components/PHRHXShow";
 import BeatStore from "@/components/BeatStore";
 import SubstackSticker from "@/components/SubstackSticker";
-import FromTheCulture from "@/components/FromTheCulture";
 import Footer from "@/components/Footer";
 import { fetchTrending } from "@/lib/soc-engine";
 
@@ -28,7 +27,6 @@ export default async function HomePage() {
       <BrandPhotos />
       <CreatorsCTA />
       <SubstackSticker />
-      <FromTheCulture />
       <Footer />
     </>
   );

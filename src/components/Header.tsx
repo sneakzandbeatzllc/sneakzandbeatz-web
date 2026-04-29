@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import MobileMenu from "@/components/MobileMenu";
 
 export default function Header() {
   return (
@@ -41,6 +42,7 @@ export default function Header() {
             Browse Beats
           </Link>
         </div>
+        <MobileMenu />
       </div>
     </header>
   );
