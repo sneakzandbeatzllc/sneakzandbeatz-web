@@ -18,6 +18,29 @@ export const metadata = {
   title: "Producer Bundle — All 96 Beats For $79 | Sneakz & Beatz",
   description:
     "All 96 mastered beats. WAV stems, drum kit, mix consultation, and 6 months of future drops. Was $2,500. Today: $79. Bundle license auto-delivered.",
+  openGraph: {
+    title: "All 96 Beats. $79. — Sneakz & Beatz Producer Bundle",
+    description:
+      "All 96 mastered beats — including the free ones — with WAV stems, drum kit, mix consult, and 6 months of future drops. Bundle license auto-attached.",
+    url: "https://sneakzandbeatz.com/bundle",
+    siteName: "Sneakz & Beatz",
+    type: "website",
+    images: [
+      {
+        url: "/og-bundle.png",
+        width: 1200,
+        height: 630,
+        alt: "Sneakz & Beatz Producer Bundle — All 96 beats for $79",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "All 96 Beats. $79.",
+    description:
+      "Sneakz & Beatz Producer Bundle. WAV + stems + drum kit + mix consult + 6 mo of future drops.",
+    images: ["/og-bundle.png"],
+  },
 };
 
 const PROOF_POINTS = [
