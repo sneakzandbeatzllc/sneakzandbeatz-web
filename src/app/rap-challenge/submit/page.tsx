@@ -27,20 +27,25 @@ export default function RapChallengeSubmitPage() {
 
           {!SUBMISSIONS_OPEN ? (
             <div className="submit-closed">
-              <span className="submit-closed-tag">⚡ Submissions not open yet</span>
-              <h1 className="submit-h1">We&rsquo;re still on the waitlist phase</h1>
+              <span className="submit-closed-tag">🔒 Entry path closed — waitlist only</span>
+              <h1 className="submit-h1">
+                Submissions are <span className="accent">not open yet.</span>
+              </h1>
               <p className="submit-sub">
-                Submissions open once we hit the <strong>250-signup funding threshold</strong>
-                {" "}(the prize pool — $3,200 cash + ~$18K in product/credits — has to be
-                fully funded before we run the contest, no exceptions). Everyone on the
-                waitlist gets emailed seven days before the form goes live with the official
-                judges + voting dates locked in.
+                If you got here trying to enter today: <strong>we&rsquo;re not
+                accepting entries.</strong> The contest only opens after three
+                things lock in: (1) the 250-signup waitlist threshold, (2) the
+                full prize pool funded ($3,200 cash + ~$18K in product/credits),
+                and (3) the guest judging panel + voting window dates published
+                14 days in advance. None of those are done yet. Trying to push a
+                verse through right now would be wasted effort.
               </p>
               <p className="submit-sub">
-                In the meantime, lock your bundle (if you want it — bundle is{" "}
-                <strong>separate from the challenge</strong>) and join the community Discord
-                — that&rsquo;s where the public-vote round happens, plus early bonus drops
-                and listening parties along the way.
+                <strong>What to do instead:</strong> drop your email on the
+                waitlist below — when entry goes live, you get a 7-day heads-up
+                with the official rules + judges + dates. Then jump in the
+                Discord and start cooking. The vote happens there too, so being
+                in the server early is a real edge.
               </p>
               <div className="submit-cta-row">
                 <Link href="/rap-challenge" className="btn btn-primary btn-arrow">
@@ -57,6 +62,11 @@ export default function RapChallengeSubmitPage() {
                   </a>
                 )}
               </div>
+              <p className="submit-trust" style={{ marginTop: 24 }}>
+                Want to know when it goes live? The waitlist email is the
+                fastest way. The Discord is where the heads-up gets posted
+                first.
+              </p>
             </div>
           ) : (
             <>
