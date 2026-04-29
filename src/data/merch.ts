@@ -45,7 +45,9 @@ export type MerchProduct = {
   imagePath?: string;
 };
 
-export const MERCH_LAUNCH_DATE = "2026-08-01";
+// Merch + UGC bookings both go live March 2027 — that's when the
+// creator program ramps up and we can ship merch in matched colorways.
+export const MERCH_LAUNCH_DATE = "2027-03-01";
 
 export const MERCH_COLORWAYS: MerchColorway[] = [
   { slug: "bred",          name: "Bred",          swatch: { from: "#000000", to: "#c8262c" }, pairsWith: "AJ1 Bred · AJ4 Bred · AJ11 Bred · AJ12 Flu Game · AJ13 Bred" },

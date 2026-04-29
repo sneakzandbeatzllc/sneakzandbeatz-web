@@ -5,6 +5,7 @@ import FeaturedStory from "@/components/FeaturedStory";
 import PillarsGrid from "@/components/PillarsGrid";
 import CommunityAIGallery from "@/components/CommunityAIGallery";
 import BrandPhotos from "@/components/BrandPhotos";
+import CreatorsCTA from "@/components/CreatorsCTA";
 import PHRHXShow from "@/components/PHRHXShow";
 import BeatStore from "@/components/BeatStore";
 import Newsletter from "@/components/Newsletter";
@@ -26,6 +27,7 @@ export default async function HomePage() {
       <PHRHXShow />
       <BeatStore />
       <BrandPhotos />
+      <CreatorsCTA />
       <Newsletter />
       <CommunityAIGallery variant="preview" />
       <FromTheCulture />

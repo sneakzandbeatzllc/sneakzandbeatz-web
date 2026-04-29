@@ -21,7 +21,11 @@
 import { useState, FormEvent } from "react";
 import { MERCH_PRODUCTS, MERCH_COLORWAYS } from "@/data/merch";
 
+// Partnerships-routed Web3Forms key — submissions land in
+// partnerships@sneakzandbeatz.com (Google Workspace).
+// See CreatorsApplyForm.tsx for setup instructions.
 const WEB3FORMS_KEY =
+  process.env.NEXT_PUBLIC_WEB3FORMS_KEY_PARTNERSHIPS ||
   process.env.NEXT_PUBLIC_WEB3FORMS_KEY ||
   "9c1680e8-7853-4d17-866c-b897371a6587";
 

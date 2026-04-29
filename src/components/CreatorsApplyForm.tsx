@@ -14,7 +14,16 @@
 
 import { useState, FormEvent } from "react";
 
+// Partnerships-routed Web3Forms key — submissions land in
+// partnerships@sneakzandbeatz.com (Google Workspace), NOT the default
+// sneakzandbeatzllc@gmail.com inbox.
+//
+// Setup: create a Web3Forms account at https://web3forms.com using
+// partnerships@sneakzandbeatz.com as the destination email. Paste the
+// access key here OR set NEXT_PUBLIC_WEB3FORMS_KEY_PARTNERSHIPS in
+// Vercel env. Falls back to the main key during the wire-up transition.
 const WEB3FORMS_KEY =
+  process.env.NEXT_PUBLIC_WEB3FORMS_KEY_PARTNERSHIPS ||
   process.env.NEXT_PUBLIC_WEB3FORMS_KEY ||
   "9c1680e8-7853-4d17-866c-b897371a6587";
 
