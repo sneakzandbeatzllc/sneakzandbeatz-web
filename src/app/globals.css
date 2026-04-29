@@ -3708,8 +3708,19 @@ nav.primary a:hover { color: var(--highlight); }
 }
 .mobile-menu-socials a:hover { border-color: var(--accent); color: var(--accent); }
 
-/* Show hamburger / hide desktop nav at ≤720px */
+/* Mobile-only enforcement.
+   Default: hide ALL mobile menu pieces on desktop (toggle, drawer, backdrop).
+   Only show on screens ≤720px. The drawer's transform: translateX(100%)
+   already keeps it off-screen even when desktop renders it, but display:none
+   guarantees it's removed from the layout entirely on desktop. */
+.mobile-menu-toggle,
+.mobile-menu-backdrop,
+.mobile-menu-drawer {
+  display: none;
+}
 @media (max-width: 720px) {
   .mobile-menu-toggle { display: flex; }
-  .header-cta { display: none; } /* CTAs move into the drawer */
+  .mobile-menu-backdrop { display: block; }
+  .mobile-menu-drawer { display: flex; flex-direction: column; }
+  .header-cta { display: none; } /* CTAs move into the drawer on mobile */
 }
