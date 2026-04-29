@@ -45,9 +45,8 @@ const JORDAN_MODELS = [
 ];
 
 const TIERS = [
-  "Tier 1 — 10K–20K (Starter)",
-  "Tier 2 — 20K–35K (Established)",
-  "Tier 3 — 35K–50K (Top of band)",
+  "Tier 1 — 5K–7K (Starter)",
+  "Tier 2 — 7K–10K (Top of band)",
 ];
 
 const US_STATES = [

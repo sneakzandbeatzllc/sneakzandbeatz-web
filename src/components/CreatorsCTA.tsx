@@ -26,14 +26,14 @@ export default function CreatorsCTA() {
 
           <ul className="creators-cta-bullets">
             <li>We ship the fit.</li>
-            <li>We match the Js.</li>
+            <li>You match the Js.</li>
             <li>You keep the check.</li>
           </ul>
 
           <p className="creators-cta-paragraph">
             You&rsquo;ve already been styling these in your head — biker shorts,
             fitted set, hat low, fresh Js on. We&rsquo;re paying creators between
-            10K and 50K to bring that energy to camera. Tiered rates, clear
+            5K and 10K to bring that energy to camera. Tiered rates, clear
             deliverables, no clout-currency nonsense. If your feed reads
             athletic-lifestyle-streetwear and your engagement is real, this brief
             was written for you.

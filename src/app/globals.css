@@ -435,6 +435,21 @@ nav.primary a:hover { color: var(--highlight); }
   background: var(--accent); border-radius: 12px; padding: 24px;
   display: flex; flex-direction: column; justify-content: space-between;
   position: relative; overflow: hidden; color: white;
+  /* Span all columns on its own row so the bundle card's bigger content
+     doesn't stretch the beat-card row's height and create a giant void
+     of empty cells below the beat cards. */
+  grid-column: 1 / -1;
+}
+@media (min-width: 900px) {
+  /* On wide viewports, give the bundle card the full row but cap its
+     height so it stays in proportion with the rest of the section. */
+  .bundle-card {
+    flex-direction: row;
+    align-items: center;
+    gap: 32px;
+    min-height: 160px;
+  }
+  .bundle-card > * { flex: 1; }
 }
 .bundle-card::before {
   content: ""; position: absolute; inset: 0;
@@ -3482,4 +3497,76 @@ nav.primary a:hover { color: var(--highlight); }
   background: rgba(200,38,44,0.18);
   border-color: rgba(200,38,44,0.55);
   color: var(--text);
+}
+
+/* ============================================================
+   SubstackSticker — small inline freebie CTA on homepage
+   Replaces the heavy Newsletter section. Sticker aesthetic:
+   slight rotation, soft shadow, dashed accent border, hand-applied feel.
+   ============================================================ */
+.substack-sticker-wrap {
+  display: flex;
+  justify-content: center;
+  padding: 56px 24px;
+}
+.substack-sticker {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 22px 14px 18px;
+  background: #f5e6d3; /* warm cream — reads like a real sticker */
+  color: #1a0408;
+  border: 2px dashed var(--accent);
+  border-radius: 14px;
+  text-decoration: none;
+  transform: rotate(-2deg);
+  box-shadow:
+    0 8px 24px rgba(0,0,0,0.45),
+    0 2px 6px rgba(200,38,44,0.18);
+  transition: transform 220ms ease, box-shadow 220ms ease;
+  position: relative;
+  max-width: 360px;
+}
+.substack-sticker:hover {
+  transform: rotate(-2deg) scale(1.04) translateY(-2px);
+  box-shadow:
+    0 14px 32px rgba(0,0,0,0.55),
+    0 4px 10px rgba(200,38,44,0.30);
+}
+.substack-sticker-icon {
+  font-size: 28px;
+  line-height: 1;
+  flex-shrink: 0;
+  filter: drop-shadow(0 1px 0 rgba(0,0,0,0.15));
+}
+.substack-sticker-text {
+  display: flex; flex-direction: column;
+  line-height: 1.05;
+  flex: 1;
+}
+.substack-sticker-eyebrow {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+.substack-sticker-headline {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: #4a2024;
+  text-transform: uppercase;
+  margin-top: 2px;
+}
+.substack-sticker-arrow {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  color: var(--accent);
+  flex-shrink: 0;
+  transition: transform 200ms;
+}
+.substack-sticker:hover .substack-sticker-arrow { transform: translateX(4px); }
+
+@media (max-width: 480px) {
+  .substack-sticker { transform: rotate(-1deg); padding: 12px 18px 12px 14px; }
 }

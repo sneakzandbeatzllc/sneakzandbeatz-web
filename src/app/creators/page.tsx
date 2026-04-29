@@ -38,8 +38,9 @@ export default function CreatorsPage() {
           <ul className="creators-bullets">
             <li>Female-identifying creator</li>
             <li>
-              <strong>10,000–50,000 followers</strong> on Instagram or TikTok —
-              sweet spot 15K–35K
+              <strong>5,000–10,000 followers</strong> on Instagram or TikTok —
+              the band where engagement is highest before agencies start
+              gatekeeping
             </li>
             <li>
               <strong>Engagement rate 3%+</strong> (we verify before booking)
@@ -177,42 +178,34 @@ export default function CreatorsPage() {
             <article className="creators-tier">
               <header className="creators-tier-head">
                 <span className="creators-tier-num">Tier 1</span>
-                <span className="creators-tier-label">Starter · 10K–20K</span>
+                <span className="creators-tier-label">Starter · 5K–7K</span>
               </header>
               <ul className="creators-tier-rates">
-                <li><span>Single video (15–45s)</span><strong>$200</strong></li>
-                <li><span>Photo set (5 images)</span><strong>$125</strong></li>
-                <li><span>Standard bundle (1 video + 5 photos)</span><strong>$275</strong></li>
-                <li><span>Premium bundle (2 videos + 8 photos)</span><strong>$475</strong></li>
-              </ul>
-            </article>
-
-            <article className="creators-tier creators-tier-mid">
-              <header className="creators-tier-head">
-                <span className="creators-tier-num">Tier 2</span>
-                <span className="creators-tier-label">Established · 20K–35K</span>
-              </header>
-              <ul className="creators-tier-rates">
-                <li><span>Single video</span><strong>$300</strong></li>
-                <li><span>Photo set</span><strong>$175</strong></li>
-                <li><span>Standard bundle</span><strong>$400</strong></li>
-                <li><span>Premium bundle</span><strong>$675</strong></li>
+                <li><span>Single video (15–45s)</span><strong>$125</strong></li>
+                <li><span>Photo set (5 images)</span><strong>$75</strong></li>
+                <li><span>Standard bundle (1 video + 5 photos)</span><strong>$175</strong></li>
+                <li><span>Premium bundle (2 videos + 8 photos)</span><strong>$300</strong></li>
               </ul>
             </article>
 
             <article className="creators-tier creators-tier-top">
               <header className="creators-tier-head">
-                <span className="creators-tier-num">Tier 3</span>
-                <span className="creators-tier-label">Top of band · 35K–50K</span>
+                <span className="creators-tier-num">Tier 2</span>
+                <span className="creators-tier-label">Top of band · 7K–10K</span>
               </header>
               <ul className="creators-tier-rates">
-                <li><span>Single video</span><strong>$425</strong></li>
-                <li><span>Photo set</span><strong>$225</strong></li>
-                <li><span>Standard bundle</span><strong>$550</strong></li>
-                <li><span>Premium bundle</span><strong>$900</strong></li>
+                <li><span>Single video</span><strong>$200</strong></li>
+                <li><span>Photo set</span><strong>$125</strong></li>
+                <li><span>Standard bundle</span><strong>$275</strong></li>
+                <li><span>Premium bundle</span><strong>$475</strong></li>
               </ul>
             </article>
           </div>
+          <p className="creators-helper" style={{ marginTop: 16, fontSize: 13 }}>
+            <em>Rates scale up as the program grows. Once we&rsquo;ve run the
+            5K–10K tier and it works, the next band (10K–25K) opens at the
+            higher rate card.</em>
+          </p>
 
           <div className="creators-addons">
             <h3 className="creators-addons-h">Add-ons</h3>
