@@ -35,7 +35,9 @@ img { max-width: 100%; display: block; }
 a { color: inherit; text-decoration: none; }
 button { font: inherit; cursor: pointer; border: 0; background: none; color: inherit; }
 
-.container { max-width: 1320px; margin: 0 auto; padding: 0 32px; }
+/* Editorial width — keeps content readable on ultrawide monitors instead
+   of stretching edge-to-edge. Content lives in a 1200px column, centered. */
+.container { max-width: 1200px; margin: 0 auto; padding: 0 32px; }
 
 .display { font-family: 'Bebas Neue', 'Anton', 'Helvetica Inserat', 'Impact', sans-serif; letter-spacing: 0.01em; line-height: 0.96; text-transform: uppercase; }
 .eyebrow { font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); font-weight: 600; }
@@ -74,7 +76,9 @@ button { font: inherit; cursor: pointer; border: 0; background: none; color: inh
 @media (max-width: 720px) {
   .brand-logo { width: 56px; height: 56px; }
 }
-nav.primary { display: flex; gap: 20px; align-items: center; flex: 1; justify-content: center; }
+/* Nav sits between brand and CTA. No flex:1 — let it be content-width
+   so the row reads tight, not stretched out across a wide viewport. */
+nav.primary { display: flex; gap: 18px; align-items: center; }
 nav.primary a {
   font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase;
   font-weight: 600; color: var(--text-soft); transition: color 120ms;
