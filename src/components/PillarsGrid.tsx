@@ -17,7 +17,7 @@ type Pillar = {
 
 const PILLARS: Pillar[] = [
   { slug: "sneakers", number: "01", href: "/sneakers", title: "Sneakers",         tagline: "Latest drops & culture",   data: "sneakers", icon: "👟" },
-  { slug: "hiphop",   number: "02", href: "/hiphop",   title: "Hip-Hop & Beatz",  tagline: "Music · artists · stories", data: "hiphop",   icon: "🎤" },
+  { slug: "hiphop",   number: "02", href: "/hiphop",   title: "Hip-Hop",          tagline: "Music · artists · stories", data: "hiphop",   icon: "🎤" },
   { slug: "anime",    number: "03", href: "/anime",    title: "Anime",            tagline: "News · reviews · culture",  data: "anime",    icon: "🍜" },
   { slug: "gaming",   number: "04", href: "/gaming",   title: "Gaming",           tagline: "News · gear · play",        data: "gaming",   icon: "🎮" },
 ];

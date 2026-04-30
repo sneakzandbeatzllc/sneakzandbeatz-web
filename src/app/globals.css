@@ -3417,6 +3417,112 @@ nav.primary a:hover { color: var(--highlight); }
 }
 .shop-foot p a { color: var(--accent); text-decoration: underline; text-underline-offset: 2px; }
 
+/* Shop block head — section title + status pill row */
+.shop-block-head {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+}
+.shop-block-status {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  border: 1px solid rgba(255,255,255,0.18);
+  border-radius: 999px;
+  color: var(--text-soft);
+  background: rgba(255,255,255,0.04);
+}
+.shop-block-status--live {
+  border-color: rgba(0,200,120,0.45);
+  color: rgba(120,255,180,0.95);
+  background: rgba(0,200,120,0.08);
+}
+.shop-helper {
+  margin: 0 0 28px;
+  color: var(--text-soft);
+  font-size: 15px;
+  line-height: 1.65;
+  max-width: 720px;
+}
+
+/* Beats tier cards on /shop */
+.shop-beats-block { padding-bottom: 56px; }
+.shop-beats-tiers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-bottom: 28px;
+}
+@media (max-width: 880px) {
+  .shop-beats-tiers { grid-template-columns: 1fr; }
+}
+.shop-tier {
+  position: relative;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 14px;
+  padding: 24px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: border-color 0.18s ease, transform 0.18s ease;
+}
+.shop-tier:hover { border-color: rgba(200,38,44,0.4); transform: translateY(-2px); }
+.shop-tier--hero {
+  border-color: rgba(200,38,44,0.65);
+  background: linear-gradient(180deg, rgba(200,38,44,0.10), rgba(255,255,255,0.02));
+  box-shadow: 0 6px 24px rgba(200,38,44,0.12);
+}
+.shop-tier-flag {
+  position: absolute;
+  top: -10px;
+  right: 16px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 5px 10px;
+  border-radius: 999px;
+  box-shadow: 0 4px 12px rgba(200,38,44,0.35);
+}
+.shop-tier-name {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.04em;
+  margin: 0;
+  color: var(--text);
+}
+.shop-tier-price {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  color: var(--accent);
+  line-height: 1;
+}
+.shop-tier-desc {
+  margin: 0;
+  color: var(--text-soft);
+  font-size: 14px;
+  line-height: 1.6;
+  flex: 1;
+}
+.shop-tier .btn {
+  align-self: flex-start;
+  margin-top: 4px;
+}
+.shop-beats-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+
 /* MerchInterestForm — interactive picker */
 .merch-form { display: flex; flex-direction: column; gap: 22px; }
 

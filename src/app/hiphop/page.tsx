@@ -1,7 +1,7 @@
 import PillarHub from "@/components/PillarHub";
 
 export const metadata = {
-  title: "Hip-Hop & Beatz — Sneakz & Beatz",
+  title: "Hip-Hop — Sneakz & Beatz",
   description:
     "Hip-hop news, releases, scene reports, and producer spotlights from Sneakz & Beatz.",
 };

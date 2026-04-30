@@ -5,9 +5,9 @@ import MerchInterestForm from "@/components/MerchInterestForm";
 import { MERCH_PRODUCTS, MERCH_LAUNCH_DATE } from "@/data/merch";
 
 export const metadata = {
-  title: "Shop — Sneakz & Beatz",
+  title: "Shop — Beats & Merch — Sneakz & Beatz",
   description:
-    "S&B merch — heavyweight tee, hoodie, dad cap, track shorts. 8 colorways color-matched to Air Jordan Retros 1-17. Pre-order interest list opens August 1, 2026.",
+    "S&B Shop — producer-grade beats ($29.99 lease, $149 bundle, $497 exclusive) and color-matched merch (heavyweight tee, hoodie, dad cap, track shorts). Beats live now. Merch pre-order opens August 1, 2026.",
 };
 
 export default function ShopPage() {
@@ -25,23 +25,85 @@ export default function ShopPage() {
       <main className="shop-page">
         <section className="shop-hero">
           <div className="container">
-            <span className="shop-eyebrow">⚡ Shop · Pre-launch</span>
+            <span className="shop-eyebrow">⚡ Shop</span>
             <h1 className="shop-h1">
-              Built to ship with the Js. <br />
-              <span className="accent">Color-matched. Heavyweight. Cut for camera.</span>
+              Everything Sneakz & Beatz sells. <br />
+              <span className="accent">One shop. Beats live now. Merch pre-launch.</span>
             </h1>
             <p className="shop-lead">
-              Four pieces. Eight colorways. Each one built to pair with a specific
-              Air Jordan Retro 1-17 colorway, so the brand fit is always head-to-toe.
-              Pre-order interest list opens <strong>{launchLabel}</strong> — drop your
-              email below and pick what you want first.
+              Producer-grade beats ready to license today, plus color-matched merch
+              built to pair with your Js head-to-toe. Pick your lane.
             </p>
           </div>
         </section>
 
-        {/* Catalog — visible now so creators can see what they'll be picking from */}
+        {/* BEATS section — live and selling */}
+        <section className="container shop-block shop-beats-block">
+          <div className="shop-block-head">
+            <h2 className="shop-h2">Beats</h2>
+            <span className="shop-block-status shop-block-status--live">Live · Instant download</span>
+          </div>
+          <p className="shop-helper">
+            For rappers ready to drop. Free Standard license to test the waters,
+            $29.99 lease per beat for unlimited uses, or grab the full bundle for
+            the price of a couple beats with full ownership terms.
+          </p>
+
+          <div className="shop-beats-tiers">
+            <article className="shop-tier">
+              <h3 className="shop-tier-name">Free Standard</h3>
+              <span className="shop-tier-price">$0</span>
+              <p className="shop-tier-desc">
+                Try before you buy. Tagged demo with credit-required terms.
+                Perfect for SoundCloud / freestyle drops.
+              </p>
+              <Link href="/beats/free" className="btn btn-ghost btn-arrow">Get free beat</Link>
+            </article>
+
+            <article className="shop-tier shop-tier--hero">
+              <span className="shop-tier-flag">No-brainer</span>
+              <h3 className="shop-tier-name">Producer Bundle</h3>
+              <span className="shop-tier-price">$149</span>
+              <p className="shop-tier-desc">
+                The whole catalog at one price. Untagged WAVs, stems for select
+                beats, full lease rights. Most rappers grab this and never look back.
+              </p>
+              <Link href="/bundle" className="btn btn-primary btn-arrow">Get the bundle</Link>
+            </article>
+
+            <article className="shop-tier">
+              <h3 className="shop-tier-name">Single Beat Lease</h3>
+              <span className="shop-tier-price">$29.99</span>
+              <p className="shop-tier-desc">
+                Pick one. Untagged WAV + lease license, instant download.
+                Use it on streaming, distribution, all platforms.
+              </p>
+              <Link href="/beats" className="btn btn-ghost btn-arrow">Browse beats</Link>
+            </article>
+          </div>
+
+          <div className="shop-beats-cta-row">
+            <Link href="/beats" className="btn btn-primary btn-arrow">
+              Browse the full beat catalog
+            </Link>
+            <Link href="/licensing" className="btn btn-ghost btn-arrow">
+              Compare licenses
+            </Link>
+          </div>
+        </section>
+
+        {/* MERCH section */}
         <section className="container shop-block">
-          <h2 className="shop-h2">The catalog</h2>
+          <div className="shop-block-head">
+            <h2 className="shop-h2">Merch</h2>
+            <span className="shop-block-status">Pre-order opens {launchLabel}</span>
+          </div>
+          <p className="shop-helper">
+            Four pieces. Eight colorways. Each one built to pair with a specific
+            Air Jordan Retro 1-17 colorway, so the brand fit is always head-to-toe.
+            Drop your email on the interest list and you get first crack 24 hours
+            before public.
+          </p>
           <div className="shop-grid">
             {MERCH_PRODUCTS.map((p) => (
               <article key={p.slug} className="shop-card">

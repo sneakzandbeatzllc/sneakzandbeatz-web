@@ -19,7 +19,7 @@ import { SOCIAL } from "@/data/social";
 
 const NAV_LINKS = [
   { href: "/sneakers", label: "Sneakers" },
-  { href: "/hiphop", label: "Hip-Hop & Beatz" },
+  { href: "/hiphop", label: "Hip-Hop" },
   { href: "/anime", label: "Anime" },
   { href: "/gaming", label: "Gaming" },
   { href: "/show", label: "The PHRHX Show" },

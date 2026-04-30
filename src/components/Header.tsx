@@ -20,7 +20,7 @@ export default function Header() {
         </Link>
         <nav className="primary">
           <Link href="/sneakers">Sneakers</Link>
-          <Link href="/hiphop">Hip-Hop & Beatz</Link>
+          <Link href="/hiphop">Hip-Hop</Link>
           <Link href="/anime">Anime</Link>
           <Link href="/gaming">Gaming</Link>
           <Link href="/show">The PHRHX Show</Link>
