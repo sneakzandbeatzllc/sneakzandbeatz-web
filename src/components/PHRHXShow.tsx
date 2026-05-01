@@ -97,10 +97,18 @@ export default async function PHRHXShow() {
                 className={"episode" + (ep.isReal && i === 0 ? " featured" : "")}
               >
                 {ep.thumbnail ? (
-                  <div
-                    className="thumb thumb-image"
-                    style={{ backgroundImage: `url(${ep.thumbnail})` }}
-                  />
+                  <div className="thumb thumb-image">
+                    {/* Use a real <img> so mobile Safari + Chrome render the
+                        thumbnail reliably. Inline-style background-image was
+                        rendering blank on some iOS viewports. */}
+                    <img
+                      src={ep.thumbnail}
+                      alt=""
+                      loading={i === 0 ? "eager" : "lazy"}
+                      decoding="async"
+                      className="thumb-img"
+                    />
+                  </div>
                 ) : (
                   <div className="thumb"></div>
                 )}

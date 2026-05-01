@@ -113,10 +113,14 @@ export default async function ShowPage() {
                   rel="noopener"
                   className="yt-card"
                 >
-                  <div
-                    className="yt-card-thumb"
-                    style={{ backgroundImage: `url(${v.thumbnail})` }}
-                  >
+                  <div className="yt-card-thumb">
+                    <img
+                      src={v.thumbnail}
+                      alt=""
+                      loading="lazy"
+                      decoding="async"
+                      className="yt-card-thumb-img"
+                    />
                     <div className="yt-card-play">▶</div>
                   </div>
                   <div className="yt-card-body">
