@@ -2627,12 +2627,35 @@ nav.primary a:hover { color: var(--highlight); }
 .episode .thumb-image {
   background-size: cover;
   background-position: center;
+  /* explicit fill — defends against iOS Safari aspect-ratio bug where
+     absolute-positioned children would collapse to 0 height. */
+  width: 100%;
+  height: 100%;
+}
+.episode .thumb-image .thumb-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  /* iOS Safari sometimes ignores object-fit unless the image has
+     an explicit min-height. */
+  min-height: 100%;
 }
 .episode .thumb-image::after {
   content: "";
   position: absolute; inset: 0;
   background: linear-gradient(180deg, rgba(0,0,0,0) 30%, rgba(0,0,0,0.78) 100%);
+  /* Sit above the <img> so the title overlay stays readable. */
+  z-index: 1;
+  pointer-events: none;
 }
+/* Ensure overlays (play icon, meta, latest tag) sit on top of the img + gradient */
+.episode .play,
+.episode .meta,
+.episode .latest-tag { z-index: 2; }
 
 /* ============================================================
    /show — featured YouTube embed + thumbnail grid
@@ -2705,15 +2728,25 @@ nav.primary a:hover { color: var(--highlight); }
   aspect-ratio: 16 / 9;
   width: 100%;
   background-color: #000;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
   flex-shrink: 0;
+  overflow: hidden;
+}
+.yt-card-thumb-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  min-height: 100%;
 }
 .yt-card-thumb::after {
   content: "";
   position: absolute; inset: 0;
   background: linear-gradient(180deg, rgba(0,0,0,0) 60%, rgba(0,0,0,0.5) 100%);
+  z-index: 1;
+  pointer-events: none;
 }
 .yt-card-play {
   position: absolute; top: 50%; left: 50%;
@@ -5341,3 +5374,263 @@ nav.primary a:hover { color: var(--highlight); }
   .cookie-btn { padding: 8px 14px; font-size: 12.5px; }
 }
 
+/* ----------------------------------------------------------------
+   Latest Articles homepage section
+   Sits BETWEEN the trending ticker and the "What We Cover" pillar
+   grid. Uses 1 big featured card + 3 small stacked cards on desktop;
+   stacks vertically on mobile. Hero images come from Replicate Flux
+   Schnell via the article_generator pipeline.
+---------------------------------------------------------------- */
+.latest-articles {
+  padding: 64px 0 56px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+.latest-articles-head { max-width: 760px; margin: 0 0 32px; }
+.latest-articles-head .eyebrow {
+  display: inline-block;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+.latest-articles-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 56px;
+  margin: 0 0 12px;
+  line-height: 0.98;
+  letter-spacing: 0.005em;
+}
+.latest-articles-sub {
+  color: var(--text-soft);
+  margin: 0;
+  max-width: 640px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+.latest-articles-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 20px;
+  align-items: stretch;
+}
+@media (max-width: 900px) {
+  .latest-articles-grid { grid-template-columns: 1fr; }
+  .latest-articles-title { font-size: 42px; }
+}
+.latest-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  overflow: hidden;
+  transition: border-color 0.18s ease, transform 0.18s ease;
+}
+.latest-card:hover { border-color: rgba(229, 30, 42, 0.55); transform: translateY(-2px); }
+.latest-card-featured { display: flex; flex-direction: column; height: 100%; }
+.latest-card-thumb {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  background: #0c0202;
+  overflow: hidden;
+}
+.latest-card-thumb-img,
+.latest-card-thumb-fallback {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  min-height: 100%;
+}
+.latest-card-thumb-fallback {
+  background: linear-gradient(135deg, #1a0408, #4a0d14);
+}
+.latest-card-pillar {
+  position: absolute;
+  top: 12px; left: 12px;
+  background: var(--accent); color: #fff;
+  font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase;
+  font-weight: 800; padding: 6px 10px; border-radius: 4px;
+  z-index: 2;
+}
+.latest-card-body { padding: 22px 22px 24px; }
+.latest-card-date {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 13px;
+  color: var(--muted);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 8px;
+}
+.latest-card-headline {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 30px;
+  line-height: 1.05;
+  margin: 0 0 10px;
+  letter-spacing: 0.005em;
+  color: var(--text);
+}
+.latest-card-subhead {
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--text-soft);
+  margin: 0 0 14px;
+}
+.latest-card-cta {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.02em;
+}
+.latest-articles-side {
+  display: flex; flex-direction: column; gap: 14px;
+}
+.latest-card-small {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 0;
+  align-items: stretch;
+  min-height: 100px;
+}
+.latest-card-thumb-small {
+  position: relative;
+  width: 130px;
+  background: #0c0202;
+  overflow: hidden;
+}
+.latest-card-thumb-small .latest-card-thumb-img,
+.latest-card-thumb-small .latest-card-thumb-fallback {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.latest-card-body-small {
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 6px;
+}
+.latest-card-pillar-small {
+  position: static;
+  align-self: flex-start;
+  font-size: 9px;
+  padding: 4px 8px;
+}
+.latest-card-headline-small {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 18px;
+  line-height: 1.1;
+  margin: 0;
+  letter-spacing: 0.005em;
+  color: var(--text);
+}
+.latest-card-date-small {
+  margin: 0;
+  font-size: 11px;
+}
+@media (max-width: 600px) {
+  .latest-articles { padding: 44px 0 40px; }
+  .latest-articles-title { font-size: 36px; }
+  .latest-card-headline { font-size: 24px; }
+  .latest-card-small { grid-template-columns: 110px 1fr; }
+  .latest-card-thumb-small { width: 110px; }
+}
+
+/* ----------------------------------------------------------------
+   Article page — hero image + inline images + Substack CTA
+---------------------------------------------------------------- */
+.article-hero-image {
+  margin: 28px auto 36px;
+  padding: 0;
+  max-width: 1180px;
+}
+.article-hero-image img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+}
+.article-inline-image {
+  margin: 32px 0;
+  padding: 0;
+}
+.article-inline-image img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+}
+.article-inline-caption {
+  margin: 10px 4px 0;
+  font-size: 13px;
+  color: var(--muted);
+  font-style: italic;
+  letter-spacing: 0.01em;
+  line-height: 1.5;
+}
+.article-substack-cta {
+  margin: 48px 0 24px;
+  padding: 36px 32px 32px;
+  border-radius: 18px;
+  background: linear-gradient(135deg, rgba(229,30,42,0.10), rgba(229,30,42,0.02));
+  border: 1px solid rgba(229, 30, 42, 0.35);
+  text-align: center;
+}
+.article-substack-eyebrow {
+  display: inline-block;
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+.article-substack-h {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 36px;
+  line-height: 1.05;
+  margin: 0 0 12px;
+  letter-spacing: 0.005em;
+  color: var(--text);
+}
+.article-substack-p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text-soft);
+  margin: 0 auto 22px;
+  max-width: 560px;
+}
+.article-substack-fine {
+  margin: 14px 0 0;
+  font-size: 12px;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+}
+@media (max-width: 600px) {
+  .article-hero-image { margin: 18px auto 24px; }
+  .article-hero-image img { border-radius: 12px; }
+  .article-substack-cta { padding: 28px 22px 24px; }
+  .article-substack-h { font-size: 28px; }
+  .article-substack-p { font-size: 15px; }
+}

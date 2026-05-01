@@ -18,12 +18,26 @@ import { join } from "node:path";
 export type ArticleBlock =
   | { type: "p"; text: string }
   | { type: "h2"; text: string }
-  | { type: "pullquote"; text: string };
+  | { type: "pullquote"; text: string }
+  | { type: "image"; url: string; alt?: string; caption?: string; prompt?: string }
+  | {
+      type: "substack";
+      headline: string;
+      body: string;
+      cta_label: string;
+      cta_url: string;
+    };
 
 export type ArticleSource = {
   title: string;
   url: string;
   platform: string;
+};
+
+export type ArticleHeroImage = {
+  url: string;
+  alt?: string;
+  prompt?: string;
 };
 
 export type Article = {
@@ -32,6 +46,7 @@ export type Article = {
   slug: string;
   headline: string;
   subhead: string;
+  heroImage?: ArticleHeroImage | null;
   body: ArticleBlock[];
   tags: string[];
   tldr: string;
@@ -47,6 +62,7 @@ export type ArticleIndexItem = {
   publishedAt: string;
   tags: string[];
   tldr: string;
+  heroImage?: string | null;
 };
 
 export type PillarKey = "sneakers" | "hiphop" | "anime" | "gaming";

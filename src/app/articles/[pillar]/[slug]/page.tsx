@@ -66,6 +66,17 @@ export default async function ArticlePage({ params }: { params: Promise<Params> 
           )}
         </header>
 
+        {article.heroImage?.url && (
+          <figure className="container article-hero-image">
+            <img
+              src={article.heroImage.url}
+              alt={article.heroImage.alt || article.subhead}
+              loading="eager"
+              decoding="async"
+            />
+          </figure>
+        )}
+
         <section className="container article-body">
           {article.body.map((block, i) => {
             if (block.type === "h2") {
@@ -78,6 +89,43 @@ export default async function ArticlePage({ params }: { params: Promise<Params> 
                   {block.text}
                   <span>&rdquo;</span>
                 </blockquote>
+              );
+            }
+            if (block.type === "image") {
+              return (
+                <figure key={i} className="article-inline-image">
+                  <img
+                    src={block.url}
+                    alt={block.alt || ""}
+                    loading="lazy"
+                    decoding="async"
+                  />
+                  {block.caption && (
+                    <figcaption className="article-inline-caption">
+                      {block.caption}
+                    </figcaption>
+                  )}
+                </figure>
+              );
+            }
+            if (block.type === "substack") {
+              return (
+                <aside key={i} className="article-substack-cta">
+                  <span className="article-substack-eyebrow">For Subscribers</span>
+                  <h3 className="article-substack-h">{block.headline}</h3>
+                  <p className="article-substack-p">{block.body}</p>
+                  <a
+                    href={block.cta_url}
+                    target="_blank"
+                    rel="noopener"
+                    className="btn btn-primary btn-arrow"
+                  >
+                    {block.cta_label}
+                  </a>
+                  <p className="article-substack-fine">
+                    Free. No spam. Unsubscribe anytime.
+                  </p>
+                </aside>
               );
             }
             return <p key={i} className="article-p">{block.text}</p>;
