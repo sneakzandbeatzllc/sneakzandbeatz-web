@@ -1,70 +1,214 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-01T22:25:52+00:00",
+  "generated_utc": "2026-05-01T23:00:40+00:00",
   "items": [
     {
+      "pillar": "sneakers",
+      "slug": "2026-05-01-ticker-nike-air-max-90-hyper-crimsonblack-sharpens-the-classic",
+      "headline": "Hyper Crimson Hits the Air Max 90 With Dark Intent",
+      "subhead": "Nike's most bulletproof silhouette just got a colorway that trades nostalgia for edge.",
+      "publishedAt": "2026-05-01T23:00:38+00:00",
+      "tags": [
+        "nike",
+        "air max 90",
+        "sneakers",
+        "colorways",
+        "heritage silhouettes"
+      ],
+      "tldr": "The Nike Air Max 90 'Hyper Crimson/Black' pairs the iconic silhouette with a dark, tension-filled colorway that proves Nike's heritage-first strategy is quietly one of its strongest plays right now.",
+      "heroImage": "/articles/images/sneakers/2026-05-01-ticker-nike-air-max-90-hyper-crimsonblack-sharpens-the-classic-source.jpg"
+    },
+    {
+      "pillar": "sneakers",
+      "slug": "2026-05-01-ticker-air-jordan-1-high-og-shop-jacket-releases-may-2026",
+      "headline": "The Air Jordan 1 'Shop Jacket' Is Earned, Not Bought",
+      "subhead": "Jordan Brand's khaki-and-sail AJ1 High OG drops May 2026 and the colorway alone tells a whole story.",
+      "publishedAt": "2026-05-01T23:00:07+00:00",
+      "tags": [
+        "air jordan 1",
+        "jordan brand",
+        "sneakers",
+        "workwear",
+        "2026 releases"
+      ],
+      "tldr": "The Air Jordan 1 High OG 'Shop Jacket' arrives in a khaki and sail colorway in May 2026, blending workwear aesthetics with the most iconic sneaker silhouette ever made.",
+      "heroImage": "/articles/images/sneakers/2026-05-01-ticker-air-jordan-1-high-og-shop-jacket-releases-may-2026-source.jpg"
+    },
+    {
+      "pillar": "sneakers",
+      "slug": "2026-05-01-ticker-tune-x-nike-air-force-1-cvs-wardrobe-unlocked-releases-",
+      "headline": "TUNE x Nike Air Force 1 CVS Is Opening the Wardrobe",
+      "subhead": "The 'Wardrobe Unlocked' colorway drops May 1st and the concept alone is worth talking about.",
+      "publishedAt": "2026-05-01T22:59:35+00:00",
+      "tags": [
+        "air force 1",
+        "tune",
+        "sneaker drops",
+        "nike collabs",
+        "may 2025"
+      ],
+      "tldr": "The TUNE x Nike Air Force 1 CVS 'Wardrobe Unlocked' drops May 1st — and its name alone tells you this collaboration is thinking bigger than just a colorway.",
+      "heroImage": "/articles/images/sneakers/2026-05-01-ticker-tune-x-nike-air-force-1-cvs-wardrobe-unlocked-releases--source.webp"
+    },
+    {
+      "pillar": "sneakers",
+      "slug": "2026-05-01-ticker-air-jordan-5-white-metallic-saturday-release-drop",
+      "headline": "The Air Jordan 5 White Metallic Is Back and It Matters",
+      "subhead": "One of the cleanest AJ5 colorways ever is staging a Saturday return, and the culture needs to pay attention.",
+      "publishedAt": "2026-05-01T22:59:06+00:00",
+      "tags": [
+        "air jordan 5",
+        "jordan brand",
+        "sneaker drops",
+        "white metallic",
+        "saturday release"
+      ],
+      "tldr": "The Air Jordan 5 White Metallic is dropping Saturday and it carries the kind of legacy weight that makes the whole sneaker community stand at attention — here is why this release hits different.",
+      "heroImage": null
+    },
+    {
       "pillar": "gaming",
-      "slug": "2026-05-01-final-fantasy-7-rebirth-demo-now-available-for-nintendo-swit",
-      "headline": "FF7 Rebirth Demo Drops and the Console War Just Got Personal",
-      "subhead": "Square Enix is handing out free passes to one of the generation's best RPGs — and what that move actually signals is bigger than a demo.",
-      "publishedAt": "2026-05-01T22:25:50+00:00",
+      "slug": "2026-05-01-ticker-final-fantasy-7-rebirth-gets-a-surprise-demo-today-comp",
+      "headline": "FF7 Rebirth Drops a Surprise Demo and Your Weekend Is Gone",
+      "subhead": "Square Enix just handed the culture a free taste of Rebirth — with progression carry-over, no less.",
+      "publishedAt": "2026-05-01T22:58:37+00:00",
       "tags": [
         "final fantasy",
         "gaming",
-        "nintendo switch 2",
-        "xbox",
-        "square enix"
+        "square enix",
+        "demo drops",
+        "jrpg"
       ],
-      "tldr": "The Final Fantasy 7 Rebirth demo is live on Nintendo Switch 2 and Xbox ahead of its June 3 launch, and Square Enix's strategy says more about the gaming industry's platform future than most players realize. S&B breaks down what this move signals for the culture, the console landscape, and the RPG genre's next chapter.",
-      "heroImage": "/articles/images/gaming/2026-05-01-final-fantasy-7-rebirth-demo-now-available-for-nintendo-swit-hero.webp"
+      "tldr": "Square Enix dropped a surprise Final Fantasy 7 Rebirth demo with progression carry-over, and S&B breaks down why this move hits different and what it signals for the franchise's next chapter.",
+      "heroImage": "/articles/images/gaming/2026-05-01-ticker-final-fantasy-7-rebirth-gets-a-surprise-demo-today-comp-source.jpg"
+    },
+    {
+      "pillar": "sneakers",
+      "slug": "2026-05-01-ticker-air-jordan-5-white-metallic-drop-date-confirmed",
+      "headline": "The Air Jordan 5 White Metallic Is Coming Back",
+      "subhead": "One of the cleanest Jordan 5 colorways ever has a confirmed drop date, and the culture is already buzzing.",
+      "publishedAt": "2026-05-01T22:58:06+00:00",
+      "tags": [
+        "air jordan 5",
+        "jordan brand",
+        "sneaker drops",
+        "retro jordans",
+        "white metallic"
+      ],
+      "tldr": "The Air Jordan 5 White Metallic has a confirmed drop date, and S&B breaks down why this clean retro deserves your full attention and a real cop strategy.",
+      "heroImage": null
+    },
+    {
+      "pillar": "hiphop",
+      "slug": "2026-05-01-ticker-drake-future-joint-album-sequel-teased-online",
+      "headline": "What a Drake and Future Sequel Would Mean Right Now",
+      "subhead": "If the internet is right about another joint project, the culture has a decision to make about two of its biggest names.",
+      "publishedAt": "2026-05-01T22:57:40+00:00",
+      "tags": [
+        "drake",
+        "future",
+        "hiphop",
+        "collabs",
+        "culture"
+      ],
+      "tldr": "Rumors of a Drake and Future joint album sequel are circulating online, and S&B breaks down why the cultural stakes are higher — and more complicated — than ever.",
+      "heroImage": null
+    },
+    {
+      "pillar": "gaming",
+      "slug": "2026-05-01-ticker-surprise-the-free-demo-for-final-fantasy-7-rebirth-on-s",
+      "headline": "FF7 Rebirth Demo Drops on Switch 2 and Xbox Out of Nowhere",
+      "subhead": "Square Enix just handed new platforms a free on-ramp to one of the generation's biggest RPGs — no warning, no wait.",
+      "publishedAt": "2026-05-01T22:57:10+00:00",
+      "tags": [
+        "final fantasy 7 rebirth",
+        "switch 2",
+        "xbox",
+        "gaming",
+        "demo culture"
+      ],
+      "tldr": "A free, progress-carry demo for Final Fantasy 7 Rebirth has surprise-dropped on Switch 2 and Xbox — and the no-hype move signals exactly how confident Square Enix is in the product.",
+      "heroImage": "/articles/images/gaming/2026-05-01-ticker-surprise-the-free-demo-for-final-fantasy-7-rebirth-on-s-source.jpg"
+    },
+    {
+      "pillar": "sneakers",
+      "slug": "2026-05-01-ticker-tunes-nike-air-force-1-cvs-wardrobe-unlocked-is-designe",
+      "headline": "TUNE's Air Force 1 Was Built to Fall Apart",
+      "subhead": "The TUNE x Nike Air Force 1 CVS 'Wardrobe Unlocked' turns designed degradation into the whole point.",
+      "publishedAt": "2026-05-01T22:56:41+00:00",
+      "tags": [
+        "nike air force 1",
+        "tune",
+        "sneaker culture",
+        "collaboration",
+        "designed degradation"
+      ],
+      "tldr": "TUNE's Nike Air Force 1 CVS 'Wardrobe Unlocked' is engineered to degrade over time — and it might be the most culturally honest sneaker concept in years.",
+      "heroImage": "/articles/images/sneakers/2026-05-01-ticker-tunes-nike-air-force-1-cvs-wardrobe-unlocked-is-designe-source.jpg"
+    },
+    {
+      "pillar": "gaming",
+      "slug": "2026-05-01-final-fantasy-7-rebirth-demo-now-available-for-nintendo-swit",
+      "headline": "FF7 Rebirth Is Finally Coming Home to Everyone",
+      "subhead": "Square Enix dropping a playable demo before the June 3 Switch 2 and Xbox launch is a statement — not just a feature drop.",
+      "publishedAt": "2026-05-01T22:56:10+00:00",
+      "tags": [
+        "final fantasy 7",
+        "gaming",
+        "square enix",
+        "switch 2",
+        "jrpg"
+      ],
+      "tldr": "Final Fantasy 7 Rebirth is coming to Nintendo Switch 2 and Xbox on June 3, and Square Enix dropped a playable demo early to give players a headstart. Sneakz & Beatz breaks down what this platform expansion means culturally — for the hardware, the canon, and the gaming audience that's been waiting outside the door.",
+      "heroImage": "/articles/images/gaming/2026-05-01-final-fantasy-7-rebirth-demo-now-available-for-nintendo-swit-source.jpg"
     },
     {
       "pillar": "anime",
       "slug": "2026-05-01-solo-leveling-season-2-ended-the-next-isekai-monsters-are-al",
-      "headline": "Solo Leveling Ended. The Isekai Throne Is Empty. Who Sits Next?",
-      "subhead": "When the genre's reigning king takes a bow, the scramble for cultural dominance reveals everything about where anime is headed.",
-      "publishedAt": "2026-05-01T22:24:28+00:00",
+      "headline": "Solo Leveling Is Done. The Next Wave Doesn't Wait.",
+      "subhead": "Season 2 wrapped and the isekai throne is already contested — here's why that power vacuum matters more than the finale.",
+      "publishedAt": "2026-05-01T22:54:58+00:00",
       "tags": [
+        "anime",
         "isekai",
         "solo leveling",
-        "anime culture",
         "streetwear x anime",
         "crunchyroll"
       ],
-      "tldr": "Solo Leveling Season 2 has ended, leaving a power vacuum in the isekai genre that new titles are already scrambling to fill. This feature breaks down what the finale means for anime culture, streetwear crossovers, and which creative forces are positioned to claim the throne next.",
-      "heroImage": "/articles/images/anime/2026-05-01-solo-leveling-season-2-ended-the-next-isekai-monsters-are-al-hero.webp"
+      "tldr": "Solo Leveling Season 2 is over and the isekai genre is already scrambling for its next dominant voice. We break down what the finale signals for anime culture, streetwear crossovers, and the next wave of prestige contenders.",
+      "heroImage": "/articles/images/anime/2026-05-01-solo-leveling-season-2-ended-the-next-isekai-monsters-are-al-source.jpg"
     },
     {
       "pillar": "hiphop",
       "slug": "2026-05-01-drake-and-future-tease-joint-album-number-two",
-      "headline": "What A Time Part Two: The Sequel Nobody Forgot",
-      "subhead": "Drake and Future are hinting at round two, and the culture needs to understand exactly what's at stake.",
-      "publishedAt": "2026-05-01T22:23:02+00:00",
+      "headline": "What A Time To Be Alive Again: The Sequel Nobody Lost",
+      "subhead": "A studio photo and a Metro Boomin reference just reignited the most unexpectedly essential rap collab of the last decade.",
+      "publishedAt": "2026-05-01T22:53:40+00:00",
       "tags": [
         "drake",
         "future",
         "metro boomin",
         "hip-hop",
-        "collaborative projects"
+        "studio culture"
       ],
-      "tldr": "Drake and Future are hinting at a sequel to What A Time To Be Alive, with a Metro Boomin reference adding serious weight to the tease. Sneakz & Beatz breaks down the cultural stakes, the producer economics, and why this potential project is about more than nostalgia.",
+      "tldr": "Drake and Future have hinted at a sequel to What A Time To Be Alive with a studio session photo referencing Metro Boomin. We break down why the timing, the players, and the cultural stakes make this more than just another rap collab announcement.",
       "heroImage": "/articles/images/hiphop/2026-05-01-drake-and-future-tease-joint-album-number-two-hero.webp"
     },
     {
       "pillar": "sneakers",
       "slug": "2026-05-01-travis-scott-x-nike-phantom-6-low-elite-iv2037-900",
-      "headline": "Travis Scott Took His Swoosh to the Pitch",
-      "subhead": "The Travis Scott x Nike Phantom 6 Low Elite isn't just a sneaker drop — it's a cultural signal about where streetwear is moving next.",
-      "publishedAt": "2026-05-01T22:21:38+00:00",
+      "headline": "Travis Scott Just Claimed the Soccer Pitch for the Culture",
+      "subhead": "The Travis Scott x Nike Phantom 6 Low Elite isn't a sneaker drop — it's a territory grab.",
+      "publishedAt": "2026-05-01T22:52:17+00:00",
       "tags": [
         "travis scott",
         "nike",
+        "soccer cleats",
         "sneaker culture",
-        "football boots",
-        "hype drops"
+        "collabs"
       ],
-      "tldr": "The Travis Scott x Nike Phantom 6 Low Elite (IV2037-900) arrives Summer 2026 at $200, marking a rare crossover of hype-drop culture and performance football. This is more than a collab — it's a signal about where streetwear and global football culture are converging, and what that means for the sneaker market.",
-      "heroImage": "/articles/images/sneakers/2026-05-01-travis-scott-x-nike-phantom-6-low-elite-iv2037-900-hero.webp"
+      "tldr": "Travis Scott's Nike Phantom 6 Low Elite collab — Multi-Color/Metallic Gold, $200 MSRP, Summer 2026 — isn't just a cleat drop. It's a cultural pivot that moves sneaker collaboration energy onto the soccer pitch for the first time, and the implications reach far beyond the boot itself.",
+      "heroImage": "/articles/images/sneakers/2026-05-01-travis-scott-x-nike-phantom-6-low-elite-iv2037-900-source.jpg"
     },
     {
       "pillar": "anime",

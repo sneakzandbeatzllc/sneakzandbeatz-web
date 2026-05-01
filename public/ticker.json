@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_utc": "2026-05-01T20:34:09+00:00",
+  "generated_utc": "2026-05-01T23:00:40+00:00",
   "source": "soc-engine",
   "items": [
     {
@@ -37,7 +37,8 @@
       "title": "TUNE’s Nike Air Force 1 CVS “Wardrobe Unlocked” Is Designed to Degrade",
       "url": "https://hypebeast.com/2026/4/tune-nike-air-force-1-cvs-wardrobe-unlocked-ir5895-399-release-info",
       "pillar": "sneakers",
-      "score": 0.847
+      "score": 0.847,
+      "article_slug": "2026-05-01-ticker-tunes-nike-air-force-1-cvs-wardrobe-unlocked-is-designe"
     },
     {
       "title": "Chainsaw Man Part 2 Movie — What MAPPA Is Cooking",
@@ -52,49 +53,57 @@
       "title": "Surprise! The Free Demo For Final Fantasy 7 Rebirth On Switch 2 And Xbox Is Out…",
       "url": "https://kotaku.com/ff7-rebirth-switch-2-demo-xbox-free-progress-2000691235",
       "pillar": "gaming",
-      "score": 0.753
+      "score": 0.753,
+      "article_slug": "2026-05-01-ticker-surprise-the-free-demo-for-final-fantasy-7-rebirth-on-s"
     },
     {
       "title": "Drake Future Joint Album Sequel Teased Online",
       "url": "https://hotnewhiphop.com/drake-future-joint-album",
       "pillar": "hiphop",
-      "score": 0.722
+      "score": 0.722,
+      "article_slug": "2026-05-01-ticker-drake-future-joint-album-sequel-teased-online"
     },
     {
       "title": "Air Jordan 5 White Metallic Drop Date Confirmed",
       "url": "https://solecollector.com/aj5-white-metallic-2026",
       "pillar": "sneakers",
-      "score": 0.78
+      "score": 0.78,
+      "article_slug": "2026-05-01-ticker-air-jordan-5-white-metallic-drop-date-confirmed"
     },
     {
       "title": "Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression c…",
       "url": "https://www.eurogamer.net/final-fantasy-vii-remake-demo-switch-2-xbox-pc-save-data",
       "pillar": "gaming",
-      "score": 0.731
+      "score": 0.731,
+      "article_slug": "2026-05-01-ticker-final-fantasy-7-rebirth-gets-a-surprise-demo-today-comp"
     },
     {
       "title": "Air Jordan 5 White Metallic Saturday Release Drop",
       "url": "https://hypebeast.com/aj5-metallic",
       "pillar": "sneakers",
-      "score": 0.771
+      "score": 0.771,
+      "article_slug": "2026-05-01-ticker-air-jordan-5-white-metallic-saturday-release-drop"
     },
     {
       "title": "TUNE x Nike Air Force 1 CVS “Wardrobe Unlocked” Releases May 1st",
       "url": "https://sneakerbardetroit.com/tune-nike-air-force-1-wardrobe-unlocked/",
       "pillar": "sneakers",
-      "score": 0.756
+      "score": 0.756,
+      "article_slug": "2026-05-01-ticker-tune-x-nike-air-force-1-cvs-wardrobe-unlocked-releases-"
     },
     {
       "title": "Air Jordan 1 High OG “Shop Jacket” Releases May 2026",
       "url": "https://sneakerbardetroit.com/air-jordan-1-high-og-khaki-sail-fd2596-201/",
       "pillar": "sneakers",
-      "score": 0.718
+      "score": 0.718,
+      "article_slug": "2026-05-01-ticker-air-jordan-1-high-og-shop-jacket-releases-may-2026"
     },
     {
       "title": "Nike Air Max 90 “Hyper Crimson/Black” Sharpens The Classic With Dark Layers",
       "url": "https://sneakerbardetroit.com/nike-air-max-90-hyper-crimson-black-iq0172-900/",
       "pillar": "sneakers",
-      "score": 0.718
+      "score": 0.718,
+      "article_slug": "2026-05-01-ticker-nike-air-max-90-hyper-crimsonblack-sharpens-the-classic"
     }
   ]
 }
