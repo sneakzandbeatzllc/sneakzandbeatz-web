@@ -24,7 +24,12 @@
  * Edit the RSS fallback feeds in the FEEDS array below.
  */
 
-export type TrendingItem = { title: string; url?: string };
+export type TrendingItem = {
+  title: string;
+  url?: string;
+  pillar?: string;
+  articleSlug?: string;
+};
 
 const MAX_PAYLOAD_AGE_HOURS = 36;
 
@@ -70,6 +75,19 @@ const TITLE_DENYLIST: RegExp[] = [
   /\bcheapest\b/i,
   /\bsponsored\b/i,
   /\b(?:promo code|coupon code)\b/i,
+  // Hard-skip headlines that drag the brand into political / criminal news.
+  // We cover culture, not crime. Drop these before they hit the ticker.
+  /\bepstein\b/i,
+  /\btrump\b/i,
+  /\bbiden\b/i,
+  /\b(?:republican|democrat|gop)\b/i,
+  /\bdiddy\b/i,        // legal proceedings — not on-brand for this audience
+  /\br\.\s*kelly\b/i,
+  /\bharvey weinstein\b/i,
+  /\b(?:rape|murder|killed|shot dead|shooting|massacre|stabbed)\b/i,
+  /\barrest(?:ed)?\b/i,
+  /\b(?:indict|indicted|guilty plea|sentenced)\b/i,
+  /\b(?:overdose|fentanyl)\b/i,
 ];
 
 const FALLBACK: TrendingItem[] = [
@@ -110,7 +128,13 @@ type EnginePayload = {
   schema?: number;
   generated_utc?: string;
   source?: string;
-  items?: Array<{ title?: string; url?: string; pillar?: string; score?: number }>;
+  items?: Array<{
+    title?: string;
+    url?: string;
+    pillar?: string;
+    score?: number;
+    article_slug?: string;
+  }>;
 };
 
 async function fetchFromEnginePayload(): Promise<TrendingItem[] | null> {
@@ -142,7 +166,12 @@ async function fetchFromEnginePayload(): Promise<TrendingItem[] | null> {
     return data.items
       .filter((it) => it && typeof it.title === "string" && it.title.length > 0)
       .slice(0, MAX_HEADLINES)
-      .map((it) => ({ title: it.title as string, url: it.url || undefined }));
+      .map((it) => ({
+        title: it.title as string,
+        url: it.url || undefined,
+        pillar: it.pillar || undefined,
+        articleSlug: it.article_slug || undefined,
+      }));
   } catch {
     return null;
   }

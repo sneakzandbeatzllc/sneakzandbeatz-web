@@ -23,9 +23,9 @@ export default async function ShowPage() {
     <>
       <Header />
 
-      <section className="container legal-page">
+      <section className="container legal-page show-page-hero">
         <header className="legal-hero">
-          <span className="eyebrow">The PHRHX Show</span>
+          <h2 className="show-page-eyebrow">The PHRHX Show</h2>
           <h1 className="legal-title">
             Real Conversations.
             <br />
@@ -57,12 +57,12 @@ export default async function ShowPage() {
 
         <section className="legal-section">
           <h2>Where to listen</h2>
-          <ul>
-            <li><strong>YouTube</strong> — full-video episodes on <a href={SOCIAL.youtube.url} target="_blank" rel="noopener">{SOCIAL.youtube.handle}</a></li>
-            <li><strong>Spotify</strong> — audio-only episodes (search "The PHRHX Show")</li>
-            <li><strong>Apple Podcasts</strong> — same audio feed, also indexed (search "The PHRHX Show")</li>
-            <li><strong>RSS</strong> — coming once we host our own audio. For now use Spotify or Apple.</li>
-          </ul>
+          <p>
+            Full-video episodes on{" "}
+            <a href={SOCIAL.youtube.url} target="_blank" rel="noopener">YouTube</a>.
+            Audio episodes on Spotify and Apple Podcasts (search &ldquo;The PHRHX Show&rdquo;).
+            RSS coming once we self-host the feed.
+          </p>
         </section>
 
         <OnTheRadar />

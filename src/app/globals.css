@@ -195,6 +195,18 @@ nav.primary a:hover { color: var(--highlight); }
   padding-right: 36px;
 }
 .trending .dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.5); display: inline-block; vertical-align: middle; margin-right: 12px; }
+.trending .ticker-item-link {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.15s ease, opacity 0.15s ease;
+}
+.trending .ticker-item-link:hover {
+  color: var(--accent);
+  opacity: 1;
+}
+.trending .ticker-item-link:hover .dot {
+  background: var(--accent);
+}
 @keyframes ticker {
   from { transform: translateX(0); }
   to   { transform: translateX(-50%); }
@@ -325,12 +337,12 @@ nav.primary a:hover { color: var(--highlight); }
   background: var(--surface);
 }
 .show-grid {
-  display: grid; grid-template-columns: 320px 1fr; gap: 56px; align-items: start;
+  display: grid; grid-template-columns: 1fr; gap: 36px; align-items: start;
 }
 .show-grid h2 {
-  font-family: 'Bebas Neue', sans-serif; font-size: 56px; margin: 12px 0 16px; line-height: 0.95;
+  font-family: 'Bebas Neue', sans-serif; font-size: 64px; margin: 12px 0 16px; line-height: 0.95;
 }
-.show-meta { color: var(--text-soft); margin-bottom: 32px; max-width: 280px; }
+.show-meta { color: var(--text-soft); margin-bottom: 24px; max-width: 640px; }
 .show-platforms { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
 .show-platforms .pill {
   font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
@@ -341,9 +353,15 @@ nav.primary a:hover { color: var(--highlight); }
    videos the YouTube RSS returns (1, 4, or anything in between). */
 .episodes {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 14px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
   align-items: stretch;
+}
+@media (max-width: 900px) {
+  .episodes { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 560px) {
+  .episodes { grid-template-columns: 1fr; }
 }
 .episode {
   position: relative; border-radius: 10px; overflow: hidden;
@@ -354,11 +372,17 @@ nav.primary a:hover { color: var(--highlight); }
 .episode.featured { aspect-ratio: 16 / 9; grid-row: span 1; }
 .episode .thumb {
   position: absolute; inset: 0;
-  background: linear-gradient(180deg, rgba(0,0,0,0.3), rgba(0,0,0,0.85));
+  background-color: #1a0408;
+  background-repeat: no-repeat;
 }
-.episode .thumb::before {
-  content: ""; position: absolute; inset: 0; z-index: -1;
-  background: linear-gradient(135deg, #1a0408, #4a0d14);
+/* Fallback brand gradient only for cards without a real thumbnail image. */
+.episode .thumb:not(.thumb-image) {
+  background-image: linear-gradient(135deg, #1a0408, #4a0d14);
+}
+/* Darken overlay sits on top of the thumbnail so play icon + title read clean. */
+.episode .thumb:not(.thumb-image)::after {
+  content: ""; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(0,0,0,0.25), rgba(0,0,0,0.65));
 }
 /* Play button sits in upper portion of card so it doesn't collide with the
    .meta band at the bottom (where the title + runtime live). */
@@ -1160,8 +1184,6 @@ nav.primary a:hover { color: var(--highlight); }
 @media (max-width: 1024px) {
   .pillars-grid { grid-template-columns: repeat(2, 1fr); }
   .beatstore-grid { grid-template-columns: 1fr 1fr; }
-  .show-grid { grid-template-columns: 1fr; }
-  .episodes { grid-template-columns: 1fr 1fr; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   .culture-grid { grid-template-columns: repeat(3, 1fr); }
   nav.primary { display: none; }
@@ -1172,11 +1194,11 @@ nav.primary a:hover { color: var(--highlight); }
   .hero h1 { font-size: 48px; }
   .pillars-grid { grid-template-columns: 1fr; }
   .beatstore-grid { grid-template-columns: 1fr; }
-  .episodes { grid-template-columns: 1fr; }
   .newsletter-row { grid-template-columns: 1fr; gap: 24px; }
   .footer-grid { grid-template-columns: 1fr; gap: 24px; }
   .culture-grid { grid-template-columns: repeat(2, 1fr); }
   .header-cta .btn-ghost { display: none; }
+  .show-grid h2 { font-size: 44px; }
 }
 
 /* ============================================================
@@ -3521,6 +3543,23 @@ nav.primary a:hover { color: var(--highlight); }
   flex-wrap: wrap;
   gap: 12px;
   align-items: center;
+}
+
+/* /show page — big bold "THE PHRHX SHOW" eyebrow */
+.show-page-eyebrow {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 12px;
+  line-height: 1;
+}
+@media (min-width: 720px) {
+  .show-page-eyebrow { font-size: 48px; }
+}
+@media (min-width: 1024px) {
+  .show-page-eyebrow { font-size: 60px; }
 }
 
 /* Bundle "Starting at" price row */
