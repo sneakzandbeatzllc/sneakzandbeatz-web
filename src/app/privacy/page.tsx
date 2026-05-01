@@ -183,6 +183,8 @@ export default function PrivacyPage() {
         <p className="legal-foot">
           See also: <Link href="/terms">Terms of Service</Link> ·{" "}
           <Link href="/licensing">Beat Licensing Terms</Link> ·{" "}
+          <Link href="/refund-policy">Refund Policy</Link> ·{" "}
+          <Link href="/dmca">DMCA</Link> ·{" "}
           <Link href="/contact">Contact &amp; Support</Link>
         </p>
       </section>

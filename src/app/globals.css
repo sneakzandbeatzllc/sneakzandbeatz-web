@@ -5249,3 +5249,95 @@ nav.primary a:hover { color: var(--highlight); }
   line-height: 1.65;
   margin: 0 0 14px;
 }
+
+/* ----------------------------------------------------------------
+   Legal page <ol> styling — matches existing <ul> pattern
+---------------------------------------------------------------- */
+.legal-section ol {
+  margin: 12px 0 14px 22px;
+  padding: 0;
+  color: var(--text-soft);
+  line-height: 1.7;
+  font-size: 15px;
+}
+.legal-section ol li { margin-bottom: 8px; }
+
+/* ----------------------------------------------------------------
+   CCPA Cookie Banner
+   Fixed bottom strip. Persists choice in localStorage so it doesn't
+   re-appear after Accept/Reject.
+---------------------------------------------------------------- */
+.cookie-banner {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  background: rgba(10, 10, 10, 0.96);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid var(--line);
+  padding: 14px 18px;
+  box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.4);
+}
+.cookie-banner-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+.cookie-banner-text {
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--text-soft);
+  margin: 0;
+  flex: 1 1 320px;
+  min-width: 240px;
+}
+.cookie-banner-text a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+.cookie-banner-text strong { color: var(--text); }
+.cookie-banner-actions {
+  display: flex;
+  gap: 10px;
+  flex-shrink: 0;
+}
+.cookie-btn {
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  border-radius: 8px;
+  padding: 9px 16px;
+  cursor: pointer;
+  border: 1px solid var(--line);
+  transition: all 120ms ease;
+}
+.cookie-btn-reject {
+  background: transparent;
+  color: var(--text-soft);
+}
+.cookie-btn-reject:hover {
+  border-color: var(--text-soft);
+  color: var(--text);
+}
+.cookie-btn-accept {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+.cookie-btn-accept:hover {
+  filter: brightness(1.1);
+}
+@media (max-width: 600px) {
+  .cookie-banner { padding: 12px 14px; }
+  .cookie-banner-inner { gap: 12px; }
+  .cookie-banner-text { font-size: 12.5px; flex-basis: 100%; }
+  .cookie-banner-actions { flex: 1 1 auto; justify-content: flex-end; }
+  .cookie-btn { padding: 8px 14px; font-size: 12.5px; }
+}
+

@@ -42,13 +42,13 @@ export default function Footer() {
           </div>
 
           <div>
-            <h5>Shop &amp; Beatz</h5>
+            <h5>Shop</h5>
             <ul>
-              <li><Link href="/beats">Beat Store</Link></li>
-              <li><Link href="/beats/bundles">Bundles</Link></li>
-              <li><Link href="/bundle">Producer Bundle — $79</Link></li>
+              <li><Link href="/shop">Beats &amp; Merch</Link></li>
+              <li><Link href="/bundle">The Vault — from $79</Link></li>
               <li><Link href="/licensing">Licensing</Link></li>
-              <li><Link href="/shop">Merch &amp; Creators</Link></li>
+              <li><Link href="/refund-policy">Refund Policy</Link></li>
+              <li><Link href="/dmca">DMCA</Link></li>
             </ul>
           </div>
 

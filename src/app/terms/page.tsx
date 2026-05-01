@@ -232,6 +232,8 @@ export default function TermsPage() {
         <p className="legal-foot">
           See also: <Link href="/privacy">Privacy Policy</Link> ·{" "}
           <Link href="/licensing">Beat Licensing Terms</Link> ·{" "}
+          <Link href="/refund-policy">Refund Policy</Link> ·{" "}
+          <Link href="/dmca">DMCA</Link> ·{" "}
           <Link href="/contact">Contact &amp; Support</Link>
         </p>
       </section>
