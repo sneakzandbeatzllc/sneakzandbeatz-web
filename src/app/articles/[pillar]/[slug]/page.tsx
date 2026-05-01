@@ -74,6 +74,22 @@ export default async function ArticlePage({ params }: { params: Promise<Params> 
               loading="eager"
               decoding="async"
             />
+            {article.heroImage.source ? (
+              <figcaption className="article-hero-caption">
+                Photo via{" "}
+                <a
+                  href={article.heroImage.source.url}
+                  target="_blank"
+                  rel="noopener nofollow"
+                >
+                  {article.heroImage.source.name}
+                </a>
+              </figcaption>
+            ) : article.heroImage.ai_generated ? (
+              <figcaption className="article-hero-caption">
+                Illustration: AI rendering by Sneakz &amp; Beatz
+              </figcaption>
+            ) : null}
           </figure>
         )}
 

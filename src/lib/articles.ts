@@ -34,10 +34,20 @@ export type ArticleSource = {
   platform: string;
 };
 
+export type ArticleImageSource = {
+  url: string;
+  domain: string;
+  name: string;
+};
+
 export type ArticleHeroImage = {
   url: string;
   alt?: string;
-  prompt?: string;
+  prompt?: string;        // present when AI-generated
+  ai_generated?: boolean;
+  source?: ArticleImageSource;  // present when scraped from a real source
+  scraped_at?: string;
+  license_note?: string;
 };
 
 export type Article = {
