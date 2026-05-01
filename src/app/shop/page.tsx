@@ -3,11 +3,12 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MerchInterestForm from "@/components/MerchInterestForm";
 import { MERCH_PRODUCTS, MERCH_LAUNCH_DATE } from "@/data/merch";
+import { BEATS } from "@/data/beats";
 
 export const metadata = {
   title: "Shop — Beats & Merch — Sneakz & Beatz",
   description:
-    "S&B Shop — producer-grade beats ($29.99 lease, $149 bundle, $497 exclusive) and color-matched merch (heavyweight tee, hoodie, dad cap, track shorts). Beats live now. Merch pre-order opens August 1, 2026.",
+    "S&B Shop — producer-grade beats ($29.99 lease, The Vault bundle starting at $79, exclusive ownership) and color-matched merch (heavyweight tee, hoodie, dad cap, track shorts). Beats live now. Merch pre-order opens August 1, 2026.",
 };
 
 export default function ShopPage() {
@@ -17,6 +18,10 @@ export default function ShopPage() {
     day: "numeric",
     year: "numeric",
   });
+
+  // Featured beats for the compact preview — first 6 paid beats
+  const featuredBeats = BEATS.filter((b) => !b.isFree).slice(0, 6);
+  const totalBeats = BEATS.filter((b) => !b.isFree).length;
 
   return (
     <>
@@ -62,13 +67,16 @@ export default function ShopPage() {
 
             <article className="shop-tier shop-tier--hero">
               <span className="shop-tier-flag">No-brainer</span>
-              <h3 className="shop-tier-name">Producer Bundle</h3>
-              <span className="shop-tier-price">$149</span>
+              <h3 className="shop-tier-name">The Vault</h3>
+              <span className="shop-tier-price-row">
+                <span className="shop-tier-price-prefix">Starting at</span>
+                <span className="shop-tier-price">$79</span>
+              </span>
               <p className="shop-tier-desc">
-                The whole catalog at one price. Untagged WAVs, stems for select
-                beats, full lease rights. Most rappers grab this and never look back.
+                100 beats. Untagged WAVs. Stems for select tracks. Full lease rights.
+                Build a whole project — never touch a credit card for beats again.
               </p>
-              <Link href="/bundle" className="btn btn-primary btn-arrow">Get the bundle</Link>
+              <Link href="/bundle" className="btn btn-primary btn-arrow">Unlock The Vault</Link>
             </article>
 
             <article className="shop-tier">
@@ -89,6 +97,38 @@ export default function ShopPage() {
             <Link href="/licensing" className="btn btn-ghost btn-arrow">
               Compare licenses
             </Link>
+          </div>
+        </section>
+
+        {/* Beat store preview — compact rectangle showing featured beats */}
+        <section className="container shop-block shop-beats-preview-block">
+          <div className="shop-beats-preview">
+            <div className="shop-beats-preview-head">
+              <div>
+                <span className="shop-beats-preview-eyebrow">Beat Store · Featured</span>
+                <h3 className="shop-beats-preview-h">A taste from the catalog</h3>
+              </div>
+              <Link href="/beats" className="btn btn-ghost btn-arrow shop-beats-preview-cta">
+                See all {totalBeats}
+              </Link>
+            </div>
+            <div className="shop-beats-preview-grid">
+              {featuredBeats.map((beat) => (
+                <Link
+                  key={beat.id}
+                  href={`/beats#${beat.slug}`}
+                  className="shop-beat-tile"
+                >
+                  <span className="shop-beat-tile-cat">{beat.categoryLabel}</span>
+                  <span className="shop-beat-tile-title">{beat.title}</span>
+                  <span className="shop-beat-tile-meta">
+                    {beat.bpm ? `${beat.bpm} BPM` : ""}
+                    {beat.bpm && beat.priceUSD ? " · " : ""}
+                    ${beat.priceUSD}
+                  </span>
+                </Link>
+              ))}
+            </div>
           </div>
         </section>
 

@@ -3523,6 +3523,100 @@ nav.primary a:hover { color: var(--highlight); }
   align-items: center;
 }
 
+/* Bundle "Starting at" price row */
+.shop-tier-price-row {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  line-height: 1;
+}
+.shop-tier-price-prefix {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+  opacity: 0.85;
+}
+
+/* Compact beat store preview between Beats info and Merch */
+.shop-beats-preview-block { padding: 24px 0 24px; }
+.shop-beats-preview {
+  background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.015));
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 16px;
+  padding: 24px 22px 22px;
+}
+.shop-beats-preview-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+}
+.shop-beats-preview-eyebrow {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+.shop-beats-preview-h {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.04em;
+  margin: 0;
+  color: var(--text);
+}
+.shop-beats-preview-cta { white-space: nowrap; }
+.shop-beats-preview-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+@media (max-width: 880px) {
+  .shop-beats-preview-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 520px) {
+  .shop-beats-preview-grid { grid-template-columns: 1fr; }
+}
+.shop-beat-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 14px;
+  background: rgba(0,0,0,0.35);
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 10px;
+  text-decoration: none;
+  color: var(--text);
+  transition: border-color 0.18s ease, transform 0.18s ease;
+}
+.shop-beat-tile:hover {
+  border-color: rgba(200,38,44,0.45);
+  transform: translateY(-1px);
+}
+.shop-beat-tile-cat {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.shop-beat-tile-title {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--text);
+}
+.shop-beat-tile-meta {
+  font-size: 12px;
+  color: var(--text-soft);
+}
+
 /* MerchInterestForm — interactive picker */
 .merch-form { display: flex; flex-direction: column; gap: 22px; }
 
