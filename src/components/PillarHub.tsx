@@ -290,13 +290,21 @@ function PillarArticleThumb({
       </div>
     );
   }
+  // No real heroImage yet → render an ARTICLE-SPECIFIC fallback that
+  // shows the article headline (not the pillar name) so the card is
+  // about the article topic, not generic pillar branding. This is the
+  // last-resort visual; the AI generator replaces it with a real
+  // topic-specific Replicate Flux image when the generator runs.
   return (
     <div className={`pillar-article-thumb pillar-article-thumb-fallback pillar-article-thumb-${article.pillar}`}>
-      <span className="pillar-article-thumb-watermark">
-        {article.pillar.toUpperCase()}
+      <span className="pillar-article-thumb-headline">
+        {article.headline}
       </span>
       <span className="pillar-article-thumb-pillar">
         {article.pillar.toUpperCase()}
+      </span>
+      <span className="pillar-article-thumb-image-pending">
+        AI hero image pending
       </span>
     </div>
   );

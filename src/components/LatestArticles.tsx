@@ -59,8 +59,11 @@ export default function LatestArticles() {
                 />
               ) : (
                 <div className="latest-card-thumb-fallback">
-                  <span className="latest-card-thumb-watermark">
-                    {PILLAR_LABELS[featured.pillar].toUpperCase()}
+                  <span className="latest-card-thumb-headline">
+                    {featured.headline}
+                  </span>
+                  <span className="latest-card-thumb-image-pending">
+                    AI hero image pending
                   </span>
                 </div>
               )}
@@ -97,8 +100,8 @@ export default function LatestArticles() {
                     />
                   ) : (
                     <div className="latest-card-thumb-fallback">
-                      <span className="latest-card-thumb-watermark-small">
-                        {PILLAR_LABELS[it.pillar].toUpperCase()}
+                      <span className="latest-card-thumb-headline-small">
+                        {it.headline}
                       </span>
                     </div>
                   )}
