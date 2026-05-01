@@ -98,14 +98,18 @@ export default async function PHRHXShow() {
               >
                 {ep.thumbnail ? (
                   <div className="thumb thumb-image">
-                    {/* Use a real <img> so mobile Safari + Chrome render the
-                        thumbnail reliably. Inline-style background-image was
-                        rendering blank on some iOS viewports. */}
+                    {/* Real <img> so mobile Safari + Chrome render reliably.
+                        All three are eager-loaded — there are only three
+                        thumbnails on the homepage so the bandwidth cost is
+                        trivial, and lazy-loading on iOS was causing the
+                        parent .episode to collapse before the image arrived. */}
                     <img
                       src={ep.thumbnail}
                       alt=""
-                      loading={i === 0 ? "eager" : "lazy"}
+                      loading="eager"
                       decoding="async"
+                      width="480"
+                      height="270"
                       className="thumb-img"
                     />
                   </div>

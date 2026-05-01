@@ -365,11 +365,23 @@ nav.primary a:hover { color: var(--highlight); }
 }
 .episode {
   position: relative; border-radius: 10px; overflow: hidden;
-  background: var(--card); aspect-ratio: 16 / 9;
+  background: var(--card);
   border: 1px solid var(--line);
   display: block;
+  width: 100%;
+  /* iOS Safari sometimes collapses aspect-ratio elements that have only
+     absolute-positioned children. Using the padding-bottom hack
+     guarantees a 16:9 box on every iOS version. The ::before pushes
+     the height open so the absolute children always have something to
+     fill. min-height is a belt-and-braces fallback if even that fails. */
+  min-height: 180px;
 }
-.episode.featured { aspect-ratio: 16 / 9; grid-row: span 1; }
+.episode::before {
+  content: "";
+  display: block;
+  padding-bottom: 56.25%; /* 16:9 */
+}
+.episode.featured { grid-row: span 1; }
 .episode .thumb {
   position: absolute; inset: 0;
   background-color: #1a0408;
