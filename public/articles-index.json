@@ -1,6 +1,6 @@
 {
-  "schema": 1,
-  "generated_utc": "2026-05-01T19:01:14+00:00",
+  "schema": 2,
+  "generated_utc": "2026-05-01T20:31:29+00:00",
   "items": [
     {
       "pillar": "gaming",
@@ -15,7 +15,8 @@
         "jrpg",
         "gaming culture"
       ],
-      "tldr": "The Final Fantasy 7 Rebirth demo is now live on Nintendo Switch 2 and Xbox ahead of its June 3 launch, and the move signals a major shift in platform accessibility for one of gaming's most important franchises. Switch 2's ability to run Rebirth meaningfully changes the conversation about Nintendo's new hardware. This isn't just a port — it's a statement about where AAA gaming is heading."
+      "tldr": "The Final Fantasy 7 Rebirth demo is now live on Nintendo Switch 2 and Xbox ahead of its June 3 launch, and the move signals a major shift in platform accessibility for one of gaming's most important franchises. Switch 2's ability to run Rebirth meaningfully changes the conversation about Nintendo's new hardware. This isn't just a port — it's a statement about where AAA gaming is heading.",
+      "heroImage": null
     },
     {
       "pillar": "hiphop",
@@ -30,7 +31,8 @@
         "hip-hop",
         "producer culture"
       ],
-      "tldr": "Drake and Future are teasing a sequel to their 2015 collaborative mixtape What A Time To Be Alive, with Metro Boomin reportedly in the mix. S&B breaks down why the beat economics, the post-beef climate, and the danger of sequels make this project fascinating and risky in equal measure."
+      "tldr": "Drake and Future are teasing a sequel to their 2015 collaborative mixtape What A Time To Be Alive, with Metro Boomin reportedly in the mix. S&B breaks down why the beat economics, the post-beef climate, and the danger of sequels make this project fascinating and risky in equal measure.",
+      "heroImage": null
     },
     {
       "pillar": "sneakers",
@@ -45,7 +47,24 @@
         "2026 drops",
         "sneaker culture"
       ],
-      "tldr": "Travis Scott and Nike are crossing into football territory with the Phantom 6 Low Elite, dropping Summer 2026 at $200 in a Multi-Color/Metallic Gold colorway. The collab is less about cleats and more about where sneaker culture is heading next — and Travis, as usual, got there first."
+      "tldr": "Travis Scott and Nike are crossing into football territory with the Phantom 6 Low Elite, dropping Summer 2026 at $200 in a Multi-Color/Metallic Gold colorway. The collab is less about cleats and more about where sneaker culture is heading next — and Travis, as usual, got there first.",
+      "heroImage": null
+    },
+    {
+      "pillar": "anime",
+      "slug": "2026-05-01-anime-streetwear-2026-the-overlap-is-the-business",
+      "headline": "Anime Took Over Streetwear And Nobody Asked For Permission",
+      "subhead": "BAPE x One Piece. JJK x Nike. The crossover is no longer a side project — it's the business model for the next decade.",
+      "publishedAt": "2026-05-01T15:00:00+00:00",
+      "tags": [
+        "anime",
+        "streetwear",
+        "crossover",
+        "bape",
+        "nike"
+      ],
+      "tldr": "Anime took over streetwear because the math finally clicked — global IP, no licensing wars, and a Black-nerd consumer demo brands ignored for too long. The window stays cheap for 18 months.",
+      "heroImage": null
     }
   ]
 }

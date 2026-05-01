@@ -2,8 +2,8 @@ import Link from "next/link";
 import Header from "./Header";
 import Footer from "./Footer";
 import { fetchSubstackPostsForPillar, type SubstackPost } from "@/lib/substack";
-import { fetchPillarCycles, type PillarCycle } from "@/lib/soc-cycles";
-import { getArticlesForPillar, formatPublished, type PillarKey } from "@/lib/articles";
+import { fetchPillarCycles } from "@/lib/soc-cycles";
+import { getArticlesForPillar, formatPublished, type PillarKey, type ArticleIndexItem } from "@/lib/articles";
 
 export type PillarCard = {
   tag: string;       // chip label e.g. "Drop Reports"
@@ -83,21 +83,11 @@ export default async function PillarHub({
           </div>
         </header>
 
-        <section className="pillar-covers">
-          <h2 className="pillar-section-h">What We Cover</h2>
-          <div className="pillar-covers-grid">
-            {covers.map((c, i) => (
-              <article key={i} className="pillar-cover-card">
-                <span className="pillar-cover-tag">{c.tag}</span>
-                <h3 className="pillar-cover-h">{c.heading}</h3>
-                <p className="pillar-cover-body">{c.body}</p>
-              </article>
-            ))}
-          </div>
-        </section>
-
-        {/* Articles — original S&B editorial, generated daily by article_generator.py */}
-        {articles.length > 0 && (
+        {/* Articles FIRST — original S&B editorial, generated daily by
+            article_generator.py. Per the engagement-first rule, fresh
+            editorial sits above the static "What We Cover" section so
+            the first scroll is something readers can click into. */}
+        {articles.length > 0 ? (
           <section className="pillar-articles">
             <div className="pillar-drops-header">
               <h2 className="pillar-section-h">Latest Articles</h2>
@@ -112,22 +102,64 @@ export default async function PillarHub({
                   href={`/articles/${a.pillar}/${a.slug}`}
                   className={"pillar-article-card" + (i === 0 ? " pillar-article-card-feature" : "")}
                 >
-                  <div className="pillar-article-meta">
-                    <span className="pillar-article-date">{formatPublished(a.publishedAt)}</span>
-                    {a.tags?.length > 0 && (
-                      <span className="pillar-article-tag">{a.tags[0]}</span>
+                  <PillarArticleThumb article={a} eager={i === 0} />
+                  <div className="pillar-article-body">
+                    <div className="pillar-article-meta">
+                      <span className="pillar-article-date">{formatPublished(a.publishedAt)}</span>
+                      {a.tags?.length > 0 && (
+                        <span className="pillar-article-tag">{a.tags[0]}</span>
+                      )}
+                    </div>
+                    <h3 className="pillar-article-headline">{a.headline}</h3>
+                    {a.subhead && (
+                      <p className="pillar-article-subhead">{a.subhead}</p>
                     )}
+                    <span className="pillar-article-readmore">Read article →</span>
                   </div>
-                  <h3 className="pillar-article-headline">{a.headline}</h3>
-                  {a.subhead && (
-                    <p className="pillar-article-subhead">{a.subhead}</p>
-                  )}
-                  <span className="pillar-article-readmore">Read article →</span>
                 </Link>
               ))}
             </div>
           </section>
+        ) : (
+          // No articles yet — render a placeholder so the section still
+          // exists visually instead of just disappearing. Drives a
+          // newsletter signup while the pipeline catches up.
+          <section className="pillar-articles">
+            <div className="pillar-drops-header">
+              <h2 className="pillar-section-h">Latest Articles</h2>
+              <span className="pillar-drops-meta">
+                Original S&B editorial · refreshed daily 7 AM PT
+              </span>
+            </div>
+            <div className="pillar-articles-empty">
+              <p>
+                Fresh coverage on this pillar drops here every morning at 7 AM PT.
+                Want it in your inbox the moment it publishes?
+              </p>
+              <a
+                href="https://sneakzandbeatz.substack.com"
+                target="_blank"
+                rel="noopener"
+                className="btn btn-primary btn-arrow"
+              >
+                Subscribe On Substack
+              </a>
+            </div>
+          </section>
         )}
+
+        <section className="pillar-covers">
+          <h2 className="pillar-section-h">What We Cover</h2>
+          <div className="pillar-covers-grid">
+            {covers.map((c, i) => (
+              <article key={i} className="pillar-cover-card">
+                <span className="pillar-cover-tag">{c.tag}</span>
+                <h3 className="pillar-cover-h">{c.heading}</h3>
+                <p className="pillar-cover-body">{c.body}</p>
+              </article>
+            ))}
+          </div>
+        </section>
 
         {/* Today's Drops — SOC engine output, refreshed daily at 6 AM PT */}
         {cycles.length > 0 && (
@@ -225,5 +257,47 @@ export default async function PillarHub({
 
       <Footer />
     </>
+  );
+}
+
+/**
+ * Pillar article thumbnail.
+ * If the article has a real heroImage URL, render the <img>. Otherwise
+ * render a pillar-themed CSS visual (gradient + pillar watermark + title
+ * cue) so the card never ships with a blank rectangle. The fallback
+ * looks designed, not broken.
+ */
+function PillarArticleThumb({
+  article,
+  eager,
+}: {
+  article: ArticleIndexItem;
+  eager?: boolean;
+}) {
+  if (article.heroImage) {
+    return (
+      <div className="pillar-article-thumb">
+        <img
+          src={article.heroImage}
+          alt=""
+          loading={eager ? "eager" : "lazy"}
+          decoding="async"
+          className="pillar-article-thumb-img"
+        />
+        <span className="pillar-article-thumb-pillar">
+          {article.pillar.toUpperCase()}
+        </span>
+      </div>
+    );
+  }
+  return (
+    <div className={`pillar-article-thumb pillar-article-thumb-fallback pillar-article-thumb-${article.pillar}`}>
+      <span className="pillar-article-thumb-watermark">
+        {article.pillar.toUpperCase()}
+      </span>
+      <span className="pillar-article-thumb-pillar">
+        {article.pillar.toUpperCase()}
+      </span>
+    </div>
   );
 }

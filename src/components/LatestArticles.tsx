@@ -48,7 +48,7 @@ export default function LatestArticles() {
             href={`/articles/${featured.pillar}/${featured.slug}`}
             className="latest-card latest-card-featured"
           >
-            <div className="latest-card-thumb">
+            <div className={`latest-card-thumb pillar-tint-${featured.pillar}`}>
               {featured.heroImage ? (
                 <img
                   src={featured.heroImage}
@@ -58,7 +58,11 @@ export default function LatestArticles() {
                   className="latest-card-thumb-img"
                 />
               ) : (
-                <div className="latest-card-thumb-fallback" />
+                <div className="latest-card-thumb-fallback">
+                  <span className="latest-card-thumb-watermark">
+                    {PILLAR_LABELS[featured.pillar].toUpperCase()}
+                  </span>
+                </div>
               )}
               <span className="latest-card-pillar">
                 {PILLAR_LABELS[featured.pillar]}
@@ -82,7 +86,7 @@ export default function LatestArticles() {
                 href={`/articles/${it.pillar}/${it.slug}`}
                 className="latest-card latest-card-small"
               >
-                <div className="latest-card-thumb-small">
+                <div className={`latest-card-thumb-small pillar-tint-${it.pillar}`}>
                   {it.heroImage ? (
                     <img
                       src={it.heroImage}
@@ -92,7 +96,11 @@ export default function LatestArticles() {
                       className="latest-card-thumb-img"
                     />
                   ) : (
-                    <div className="latest-card-thumb-fallback" />
+                    <div className="latest-card-thumb-fallback">
+                      <span className="latest-card-thumb-watermark-small">
+                        {PILLAR_LABELS[it.pillar].toUpperCase()}
+                      </span>
+                    </div>
                   )}
                 </div>
                 <div className="latest-card-body-small">

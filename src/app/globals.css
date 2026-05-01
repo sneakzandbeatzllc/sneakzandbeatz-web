@@ -4083,6 +4083,95 @@ nav.primary a:hover { color: var(--highlight); }
   font-weight: 600;
 }
 
+/* ----------------------------------------------------------------
+   Pillar article card thumbnail + body wrapper
+   When the card has a real heroImage we render a 16/9 image at top.
+   Otherwise we show a pillar-themed gradient with a watermark — never
+   ships as an empty rectangle.
+---------------------------------------------------------------- */
+.pillar-article-card {
+  /* override the stock padding so the thumbnail sits flush at top */
+  padding: 0;
+  overflow: hidden;
+}
+.pillar-article-body {
+  display: flex; flex-direction: column;
+  gap: 10px;
+  padding: 18px 20px 22px;
+}
+.pillar-article-thumb {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #0c0202;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.pillar-article-thumb-img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover; object-position: center;
+  display: block;
+  min-height: 100%;
+}
+.pillar-article-thumb-fallback {
+  position: relative;
+  display: grid; place-items: center;
+}
+.pillar-article-thumb-fallback.pillar-article-thumb-sneakers {
+  background: linear-gradient(135deg, #0f1024 0%, #2a0f3a 60%, #4a0d14 100%);
+}
+.pillar-article-thumb-fallback.pillar-article-thumb-hiphop {
+  background: linear-gradient(135deg, #1f0a0a 0%, #3a0f0f 60%, #5a1a1a 100%);
+}
+.pillar-article-thumb-fallback.pillar-article-thumb-anime {
+  background: linear-gradient(135deg, #2b0a3a 0%, #4a0d6a 60%, #1a0440 100%);
+}
+.pillar-article-thumb-fallback.pillar-article-thumb-gaming {
+  background: linear-gradient(135deg, #08172a 0%, #0d2e4a 60%, #2a0d4a 100%);
+}
+.pillar-article-thumb-watermark {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(48px, 12vw, 120px);
+  letter-spacing: 0.05em;
+  color: rgba(255,255,255,0.06);
+  line-height: 1;
+  pointer-events: none;
+  user-select: none;
+}
+.pillar-article-thumb-pillar {
+  position: absolute;
+  top: 12px; left: 12px;
+  background: var(--accent); color: #fff;
+  font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase;
+  font-weight: 800; padding: 5px 10px; border-radius: 4px;
+  z-index: 2;
+}
+.pillar-article-card-feature .pillar-article-thumb {
+  aspect-ratio: 21 / 9;
+}
+
+/* Empty-state for pillar articles section — when the article generator
+   hasn't run for this pillar yet. Shows the section heading + a CTA
+   so the page never has a missing block. */
+.pillar-articles-empty {
+  border: 1px dashed var(--line);
+  border-radius: 14px;
+  padding: 36px 28px;
+  text-align: center;
+  background: rgba(255,255,255,0.02);
+}
+.pillar-articles-empty p {
+  margin: 0 auto 18px;
+  max-width: 560px;
+  color: var(--text-soft);
+  line-height: 1.6;
+}
+@media (max-width: 600px) {
+  .pillar-article-card-feature .pillar-article-thumb { aspect-ratio: 16 / 9; }
+  .pillar-articles-empty { padding: 28px 22px; }
+}
+
 /* ============================================================
    /articles/[pillar]/[slug] — single article page styling
    ============================================================ */
@@ -5453,6 +5542,42 @@ nav.primary a:hover { color: var(--highlight); }
 }
 .latest-card-thumb-fallback {
   background: linear-gradient(135deg, #1a0408, #4a0d14);
+  display: grid;
+  place-items: center;
+}
+.latest-card-thumb-watermark {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 96px;
+  letter-spacing: 0.05em;
+  color: rgba(255,255,255,0.06);
+  line-height: 1;
+  pointer-events: none;
+  user-select: none;
+}
+.latest-card-thumb-watermark-small {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 36px;
+  letter-spacing: 0.04em;
+  color: rgba(255,255,255,0.08);
+  line-height: 1;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Pillar accent tints — applied to .latest-card-thumb / -small parent
+   when there's no real hero image, so each card reads as the pillar
+   it belongs to instead of identical red gradients. */
+.pillar-tint-sneakers .latest-card-thumb-fallback {
+  background: linear-gradient(135deg, #0f1024 0%, #2a0f3a 60%, #4a0d14 100%);
+}
+.pillar-tint-hiphop .latest-card-thumb-fallback {
+  background: linear-gradient(135deg, #1f0a0a 0%, #3a0f0f 60%, #5a1a1a 100%);
+}
+.pillar-tint-anime .latest-card-thumb-fallback {
+  background: linear-gradient(135deg, #2b0a3a 0%, #4a0d6a 60%, #1a0440 100%);
+}
+.pillar-tint-gaming .latest-card-thumb-fallback {
+  background: linear-gradient(135deg, #08172a 0%, #0d2e4a 60%, #2a0d4a 100%);
 }
 .latest-card-pillar {
   position: absolute;
