@@ -43,9 +43,17 @@ export async function fetchYouTubeVideos(
     const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(
       channelId
     )}`;
+    // Vercel's default node fetch User-Agent is being blocked by YouTube
+    // as of 2026. Sending a real browser UA gets the feed through reliably.
     const res = await fetch(url, {
       next: { revalidate: REVALIDATE_SECONDS },
-      headers: { "User-Agent": "SneakzAndBeatz/1.0" },
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 " +
+          "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        "Accept": "application/atom+xml, application/xml, text/xml, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+      },
     });
     if (!res.ok) return [];
     const xml = await res.text();
