@@ -116,9 +116,21 @@ export default async function ArticlePage({ params }: { params: Promise<Params> 
                     loading="lazy"
                     decoding="async"
                   />
-                  {block.caption && (
+                  {(block.caption || block.source) && (
                     <figcaption className="article-inline-caption">
                       {block.caption}
+                      {block.source && (
+                        <>
+                          {block.caption ? " · " : ""}
+                          <a
+                            href={block.source.url}
+                            target="_blank"
+                            rel="noopener nofollow"
+                          >
+                            via {block.source.name}
+                          </a>
+                        </>
+                      )}
                     </figcaption>
                   )}
                 </figure>

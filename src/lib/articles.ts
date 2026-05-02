@@ -19,7 +19,15 @@ export type ArticleBlock =
   | { type: "p"; text: string }
   | { type: "h2"; text: string }
   | { type: "pullquote"; text: string }
-  | { type: "image"; url: string; alt?: string; caption?: string; prompt?: string }
+  | {
+      type: "image";
+      url: string;
+      alt?: string;
+      caption?: string;
+      prompt?: string;
+      ai_generated?: boolean;
+      source?: ArticleImageSource;
+    }
   | {
       type: "substack";
       headline: string;
