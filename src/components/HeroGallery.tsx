@@ -62,8 +62,40 @@ export default function HeroGallery() {
   // Each image gets ~5s on screen with ~1s cross-fade
   const cycleSeconds = total * 5;
 
+  // Compute fade keyframes that ACTUALLY tile across N slides.
+  //
+  // Each slide is fully visible for (1/total) of the cycle. With a small
+  // crossfade window, the keyframe shape is:
+  //
+  //   0% → 1   (fade-in finished — slide starts visible)
+  //   X% → 1   (slide stays visible up through here)
+  //   Y% → 0   (slide fades out)
+  //   Z% → 0   (slide stays gone)
+  //   100% → 1 (slide fades back in to wrap the cycle)
+  //
+  // Then we stagger each slide's animationDelay by (cycle/total). This is
+  // the version that prevents the "all slides invisible at the same time"
+  // black-box bug the audit caught.
+  const slot = 100 / total;       // % of cycle each slide owns
+  const fade = Math.min(5, slot / 4); // crossfade band, clamped
+  const visEnd = (slot - fade).toFixed(2);
+  const goneStart = slot.toFixed(2);
+  const goneEnd = (100 - fade).toFixed(2);
+
+  const keyframesId = `heroFadeN${total}`;
+  const keyframes = `
+    @keyframes ${keyframesId} {
+      0%              { opacity: 1; }
+      ${visEnd}%      { opacity: 1; }
+      ${goneStart}%   { opacity: 0; }
+      ${goneEnd}%     { opacity: 0; }
+      100%            { opacity: 1; }
+    }
+  `;
+
   return (
     <div className="hero-gallery" aria-hidden="true">
+      <style dangerouslySetInnerHTML={{ __html: keyframes }} />
       {photos.map((src, i) => {
         const delay = (cycleSeconds / total) * i;
         return (
@@ -72,8 +104,11 @@ export default function HeroGallery() {
             className="hero-gallery-slide"
             style={{
               backgroundImage: `url(${src})`,
-              animation: `heroFade ${cycleSeconds}s infinite`,
+              animation: `${keyframesId} ${cycleSeconds}s infinite`,
               animationDelay: `-${delay}s`,
+              // Make slide #0 start fully opaque so the first paint is never
+              // a black box even before the animation starts ticking.
+              opacity: i === 0 ? 1 : 0,
             }}
           />
         );

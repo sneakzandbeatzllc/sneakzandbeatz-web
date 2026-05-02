@@ -5702,6 +5702,13 @@ nav.primary a:hover { color: var(--highlight); }
   font-weight: 700;
   color: var(--accent);
   letter-spacing: 0.02em;
+  border-bottom: 1px solid rgba(200, 38, 44, 0.45);
+  padding-bottom: 2px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.latest-card:hover .latest-card-cta {
+  color: #ff3a40;
+  border-bottom-color: #ff3a40;
 }
 .latest-articles-side {
   display: flex; flex-direction: column; gap: 14px;

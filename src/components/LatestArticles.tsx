@@ -83,7 +83,7 @@ export default function LatestArticles() {
 
           {/* Smaller stacked cards on the right */}
           <div className="latest-articles-side">
-            {rest.map((it) => (
+            {rest.map((it, idx) => (
               <Link
                 key={`${it.pillar}-${it.slug}`}
                 href={`/articles/${it.pillar}/${it.slug}`}
@@ -94,7 +94,10 @@ export default function LatestArticles() {
                     <img
                       src={it.heroImage}
                       alt=""
-                      loading="lazy"
+                      // All 3 sidecars are above the fold on desktop. Lazy-loading
+                      // them caused the audit's "black thumb on first paint" bug.
+                      loading={idx < 2 ? "eager" : "lazy"}
+                      fetchPriority={idx === 0 ? "high" : "auto"}
                       decoding="async"
                       className="latest-card-thumb-img"
                     />
