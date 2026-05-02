@@ -1,16 +1,20 @@
 type TrendingItem = {
   title: string;
-  url?: string;        // External source URL (fallback)
+  url?: string;        // External source URL (kept for ref but never linked to from ticker)
   pillar?: string;     // sneakers / hiphop / anime / gaming
   articleSlug?: string; // S&B article slug if we've covered this trend
 };
 
 /**
- * Each trending item is a link.
- * Priority:
- *   1) /articles/{pillar}/{articleSlug} — our own article (best)
- *   2) /{pillar} — the pillar hub page (we have the topic queued)
- *   3) external source URL (last resort)
+ * Ticker is S&B-NATIVE-ONLY.
+ *
+ * Every item must link to either:
+ *   1) /articles/{pillar}/{articleSlug} — our own article (preferred)
+ *   2) /{pillar} — the pillar hub page (queued, article in next cron run)
+ *
+ * NEVER an external URL. No more sending visitors away from the site
+ * to GameStop/eBay/MTG news. If a ticker item can't resolve to one of
+ * the above, it gets DROPPED entirely from the rendered ticker.
  */
 function resolveHref(item: TrendingItem): string | null {
   if (item.articleSlug && item.pillar) {
@@ -19,12 +23,21 @@ function resolveHref(item: TrendingItem): string | null {
   if (item.pillar) {
     return `/${item.pillar}`;
   }
-  return item.url || null;
+  return null; // never fall through to external — drop instead
 }
 
 export default function TrendingTicker({ items }: { items: TrendingItem[] }) {
+  // Filter: only items that resolve to an S&B-internal URL.
+  const native = items.filter((it) => resolveHref(it) !== null);
+
+  // If after filtering we have nothing, hide the bar entirely instead
+  // of showing a half-empty version.
+  if (native.length === 0) {
+    return null;
+  }
+
   // Duplicate the items so the CSS keyframe ticker animation loops seamlessly.
-  const looped = [...items, ...items];
+  const looped = [...native, ...native];
 
   return (
     <section className="trending">
@@ -34,24 +47,16 @@ export default function TrendingTicker({ items }: { items: TrendingItem[] }) {
           <div className="ticker-track">
             {looped.map((item, i) => {
               const href = resolveHref(item);
-              const content = (
-                <>
-                  <span className="dot"></span>
-                  {item.title}
-                </>
-              );
-              const isExternal = href && !href.startsWith("/");
-              return href ? (
+              if (!href) return null; // belt-and-braces — never render external
+              return (
                 <a
                   key={`${item.title}-${i}`}
                   href={href}
                   className="ticker-item-link"
-                  {...(isExternal ? { target: "_blank", rel: "noopener" } : {})}
                 >
-                  {content}
+                  <span className="dot"></span>
+                  {item.title}
                 </a>
-              ) : (
-                <span key={`${item.title}-${i}`}>{content}</span>
               );
             })}
           </div>
