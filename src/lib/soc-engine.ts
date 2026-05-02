@@ -88,6 +88,28 @@ const TITLE_DENYLIST: RegExp[] = [
   /\barrest(?:ed)?\b/i,
   /\b(?:indict|indicted|guilty plea|sentenced)\b/i,
   /\b(?:overdose|fentanyl)\b/i,
+  // Extended crime / prison / legal blockers (May 2026)
+  /\b(?:prison|jail)\s+(?:sentence|term)/i,
+  /\b\d+[-\s]?year\s+prison/i,
+  /\bbegins?\s+\d+[-\s]?year/i,
+  /\bsentenced\s+to\s+\d+/i,
+  /\bsentencing\b/i,
+  /\bmoney\s+laundering\b/i,
+  /\bconvicted\b/i,
+  /\bconviction\b/i,
+  /\bplea\s+deal\b/i,
+  /\bpleads?\s+guilty\b/i,
+  /\barraigned\b/i,
+  /\bcourt\s+appearance\b/i,
+  /\bgrand\s+jury\b/i,
+  /\bexecuted\b/i,
+  /\bexecution\s+of\b/i,
+  /\bdomestic\s+(?:violence|abuse)\b/i,
+  /\bsexual\s+assault\b/i,
+  /\bpras\s+michel\b/i,
+  // Stale topics we don't want re-promoted
+  /air\s+jordan\s+5.*white\s+metallic/i,
+  /white\s+metallic.*air\s+jordan\s+5/i,
 ];
 
 const FALLBACK: TrendingItem[] = [
