@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import OnTheRadar from "@/components/OnTheRadar";
 import { EMAILS, mailto } from "@/data/contact-emails";
 import { SOCIAL } from "@/data/social";
-import { fetchYouTubeVideos, formatPublishedAgo } from "@/lib/youtube";
+import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
 
 export const metadata = {
   title: "The PHRHX Show — Sneakz & Beatz",
@@ -12,10 +12,49 @@ export const metadata = {
     "Long-form interviews with the people moving culture — sneakers, hip-hop, anime, gaming. Hosted by PHRHX. Watch on YouTube, listen everywhere.",
 };
 
+// Hardcoded fallback list of real channel videos. Used when the YouTube
+// RSS fetch fails (Vercel edge IPs blocked, ISR stale cache, etc.).
+// Update these IDs whenever you publish a notable new episode — the
+// dynamic fetch normally overrides them; this is the safety net so /show
+// never renders empty.
+const FALLBACK_VIDEOS: YouTubeVideo[] = [
+  {
+    id: "2SBnn0bY2xY",
+    title: "The New BRMG!",
+    url: "https://www.youtube.com/watch?v=2SBnn0bY2xY",
+    publishedAt: "",
+    thumbnail: "https://i.ytimg.com/vi/2SBnn0bY2xY/hqdefault.jpg",
+    thumbnailHigh: "https://i.ytimg.com/vi/2SBnn0bY2xY/maxresdefault.jpg",
+    embedUrl: "https://www.youtube.com/embed/2SBnn0bY2xY",
+  },
+  {
+    id: "MpvEDKUeNes",
+    title: "Rap's BIGGEST Flop Stars of 2025!",
+    url: "https://www.youtube.com/watch?v=MpvEDKUeNes",
+    publishedAt: "",
+    thumbnail: "https://i.ytimg.com/vi/MpvEDKUeNes/hqdefault.jpg",
+    thumbnailHigh: "https://i.ytimg.com/vi/MpvEDKUeNes/maxresdefault.jpg",
+    embedUrl: "https://www.youtube.com/embed/MpvEDKUeNes",
+  },
+  {
+    id: "YamAo3IAhao",
+    title: "Black Royal MG Live Stream",
+    url: "https://www.youtube.com/watch?v=YamAo3IAhao",
+    publishedAt: "",
+    thumbnail: "https://i.ytimg.com/vi/YamAo3IAhao/hqdefault.jpg",
+    thumbnailHigh: "https://i.ytimg.com/vi/YamAo3IAhao/maxresdefault.jpg",
+    embedUrl: "https://www.youtube.com/embed/YamAo3IAhao",
+  },
+];
+
 export default async function ShowPage() {
   // Live pull from the The PHRHX Show YouTube channel RSS. Top 12 videos.
   // First video is rendered as a big embedded player; rest as thumbnails.
-  const videos = await fetchYouTubeVideos(undefined, 12);
+  // If the dynamic fetch returns 0 videos (YouTube blocking the Vercel
+  // fetch UA, ISR cache stale, network error), fall through to the
+  // hardcoded list above so the page never renders empty.
+  const fetched = await fetchYouTubeVideos(undefined, 12);
+  const videos: YouTubeVideo[] = fetched.length > 0 ? fetched : FALLBACK_VIDEOS;
   const featured = videos[0];
   const archive = videos.slice(1);
 

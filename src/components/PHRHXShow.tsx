@@ -26,24 +26,36 @@ type Episode = {
   isReal: boolean;
 };
 
+// Hardcoded fallback to REAL channel videos. If the YouTube RSS fetch
+// fails (Vercel IPs blocked, ISR cache stale, etc.) we still render
+// real thumbnails + real titles + real video links instead of generic
+// "Subscribe on YouTube" placeholders. Update these IDs every time
+// you publish a notable new episode — the dynamic fetch will normally
+// override them, this is purely defensive.
 const FALLBACK_EPISODES: Episode[] = [
   {
-    id: "fb-1",
-    title: "New episodes weekly — sneakers, hip-hop, anime, gaming",
-    href: SOCIAL.youtube.url,
-    isReal: false,
+    id: "2SBnn0bY2xY",
+    title: "The New BRMG!",
+    href: "https://www.youtube.com/watch?v=2SBnn0bY2xY",
+    thumbnail: "https://i.ytimg.com/vi/2SBnn0bY2xY/hqdefault.jpg",
+    publishedLabel: "",
+    isReal: true,
   },
   {
-    id: "fb-2",
-    title: "Long-form interviews + cultural breakdowns",
-    href: SOCIAL.youtube.url,
-    isReal: false,
+    id: "MpvEDKUeNes",
+    title: "Rap's BIGGEST Flop Stars of 2025!",
+    href: "https://www.youtube.com/watch?v=MpvEDKUeNes",
+    thumbnail: "https://i.ytimg.com/vi/MpvEDKUeNes/hqdefault.jpg",
+    publishedLabel: "",
+    isReal: true,
   },
   {
-    id: "fb-3",
-    title: "Subscribe on YouTube — first to know on every drop",
-    href: SOCIAL.youtube.url,
-    isReal: false,
+    id: "YamAo3IAhao",
+    title: "Black Royal MG Live Stream",
+    href: "https://www.youtube.com/watch?v=YamAo3IAhao",
+    thumbnail: "https://i.ytimg.com/vi/YamAo3IAhao/hqdefault.jpg",
+    publishedLabel: "",
+    isReal: true,
   },
 ];
 
