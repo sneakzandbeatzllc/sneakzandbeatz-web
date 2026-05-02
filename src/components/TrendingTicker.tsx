@@ -1,20 +1,20 @@
+import { getArticleIndex } from "@/lib/articles";
+
 type TrendingItem = {
   title: string;
-  url?: string;        // External source URL (kept for ref but never linked to from ticker)
-  pillar?: string;     // sneakers / hiphop / anime / gaming
-  articleSlug?: string; // S&B article slug if we've covered this trend
+  url?: string;
+  pillar?: string;
+  articleSlug?: string;
 };
 
 /**
- * Ticker is S&B-NATIVE-ONLY.
+ * Ticker is S&B-NATIVE-ONLY. Every item links to either:
+ *   1) /articles/{pillar}/{articleSlug} — our article
+ *   2) /{pillar} — the pillar hub
  *
- * Every item must link to either:
- *   1) /articles/{pillar}/{articleSlug} — our own article (preferred)
- *   2) /{pillar} — the pillar hub page (queued, article in next cron run)
- *
- * NEVER an external URL. No more sending visitors away from the site
- * to GameStop/eBay/MTG news. If a ticker item can't resolve to one of
- * the above, it gets DROPPED entirely from the rendered ticker.
+ * If ticker.json has no native items, fall back to the latest 8
+ * articles from the article index. The bar ALWAYS shows something
+ * unless we have literally zero articles.
  */
 function resolveHref(item: TrendingItem): string | null {
   if (item.articleSlug && item.pillar) {
@@ -23,20 +23,34 @@ function resolveHref(item: TrendingItem): string | null {
   if (item.pillar) {
     return `/${item.pillar}`;
   }
-  return null; // never fall through to external — drop instead
+  return null;
 }
 
 export default function TrendingTicker({ items }: { items: TrendingItem[] }) {
-  // Filter: only items that resolve to an S&B-internal URL.
-  const native = items.filter((it) => resolveHref(it) !== null);
+  // First, try the SOC-engine ticker (filtered to internal-only)
+  let native = items.filter((it) => resolveHref(it) !== null);
 
-  // If after filtering we have nothing, hide the bar entirely instead
-  // of showing a half-empty version.
+  // Fallback: if SOC ticker is empty, use the latest articles directly.
+  // This guarantees the trending bar ALWAYS has content when we have
+  // articles, regardless of whether the ticker.json was patched yet.
+  if (native.length === 0) {
+    try {
+      const recent = getArticleIndex().slice(0, 10);
+      native = recent.map((a) => ({
+        title: a.headline,
+        pillar: a.pillar,
+        articleSlug: a.slug,
+      }));
+    } catch {
+      // articleIndex fetch failed — keep native empty, bar will hide
+    }
+  }
+
   if (native.length === 0) {
     return null;
   }
 
-  // Duplicate the items so the CSS keyframe ticker animation loops seamlessly.
+  // Duplicate so the CSS keyframe ticker animation loops seamlessly.
   const looped = [...native, ...native];
 
   return (
@@ -47,7 +61,7 @@ export default function TrendingTicker({ items }: { items: TrendingItem[] }) {
           <div className="ticker-track">
             {looped.map((item, i) => {
               const href = resolveHref(item);
-              if (!href) return null; // belt-and-braces — never render external
+              if (!href) return null;
               return (
                 <a
                   key={`${item.title}-${i}`}
