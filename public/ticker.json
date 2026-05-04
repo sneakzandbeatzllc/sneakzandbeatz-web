@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T16:16:48+00:00",
+  "generated_utc": "2026-05-04T16:42:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,24 +116,31 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy 7 Rebirth demo now available for Nintendo Switch 2 and Xbox",
-      "url": "https://www.polygon.com/final-fantasy-7-rebirth-switch-2-xbox-demo/",
-      "pillar": "gaming",
-      "score": 0.776,
+      "title": "Masakazu Suzuki Launches 'Complete Edition' of Matorism Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-04/masakazu-suzuki-launches-complete-edition-of-matorism-manga/.237046",
+      "pillar": "anime",
+      "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Surprise! The Free Demo For Final Fantasy 7 Rebirth On Switch 2 And Xbox Is Out…",
-      "url": "https://kotaku.com/ff7-rebirth-switch-2-demo-xbox-free-progress-2000691235",
-      "pillar": "gaming",
-      "score": 0.753,
+      "title": "A Hundred Scenes of Awajima is the most beautiful anime you're not watching this season",
+      "url": "https://www.polygon.com/a-hundred-scenes-of-awajimi-is-the-most-beautiful-anime-youre-not-watching-this-season/",
+      "pillar": "anime",
+      "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression c…",
-      "url": "https://www.eurogamer.net/final-fantasy-vii-remake-demo-switch-2-xbox-pc-save-data",
-      "pillar": "gaming",
-      "score": 0.731,
+      "title": "After 6 Years, Solo Leveling's Biggest Rival Shows No Signs of Slowing Down",
+      "url": "https://screenrant.com/solo-leveling-replacement-omniscient-reader-season-1-ending/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GameStop Makes Bid to Buy eBay",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-04/gamestop-makes-bid-to-buy-ebay/.237066",
+      "pillar": "anime",
+      "score": 1.0,
       "article_slug": null
     }
   ]

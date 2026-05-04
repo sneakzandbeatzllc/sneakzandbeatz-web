@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T16:16:48+00:00",
+  "generated_utc": "2026-05-04T16:42:46+00:00",
   "items": [
     {
       "id": "593265008bbc",
@@ -179,44 +179,55 @@
       "score": 1.0
     },
     {
-      "id": "c4cabfc862af",
-      "pillar": "gaming",
-      "title": "Final Fantasy 7 Rebirth demo now available for Nintendo Switch 2 and Xbox",
-      "source": "polygon.com",
-      "source_url": "https://www.polygon.com/final-fantasy-7-rebirth-switch-2-xbox-demo/",
-      "thumbnail": "/drops/thumbs/c4cabfc862af.jpg",
+      "id": "27f7962faad6",
+      "pillar": "anime",
+      "title": "Masakazu Suzuki Launches 'Complete Edition' of Matorism Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/masakazu-suzuki-launches-complete-edition-of-matorism-manga/.237046",
+      "thumbnail": "/drops/thumbs/27f7962faad6.jpg",
       "published": "",
-      "relative_time": "recently",
-      "score": 0.776
+      "relative_time": "today",
+      "score": 1.0
     },
     {
-      "id": "61704f1233ea",
-      "pillar": "gaming",
-      "title": "Surprise! The Free Demo For Final Fantasy 7 Rebirth On Switch 2 And Xbox Is Out…",
-      "source": "kotaku.com",
-      "source_url": "https://kotaku.com/ff7-rebirth-switch-2-demo-xbox-free-progress-2000691235",
-      "thumbnail": "/drops/thumbs/61704f1233ea.jpg",
+      "id": "7018ed0e9325",
+      "pillar": "anime",
+      "title": "A Hundred Scenes of Awajima is the most beautiful anime you're not watching this season",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/a-hundred-scenes-of-awajimi-is-the-most-beautiful-anime-youre-not-watching-this-season/",
+      "thumbnail": "/drops/thumbs/7018ed0e9325.png",
       "published": "",
-      "relative_time": "recently",
-      "score": 0.753
+      "relative_time": "today",
+      "score": 1.0
     },
     {
-      "id": "6fd15f918020",
-      "pillar": "gaming",
-      "title": "Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression c…",
-      "source": "eurogamer.net",
-      "source_url": "https://www.eurogamer.net/final-fantasy-vii-remake-demo-switch-2-xbox-pc-save-data",
-      "thumbnail": "/drops/thumbs/6fd15f918020.jpg",
+      "id": "5e1969a3aa9a",
+      "pillar": "anime",
+      "title": "After 6 Years, Solo Leveling's Biggest Rival Shows No Signs of Slowing Down",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-replacement-omniscient-reader-season-1-ending/",
+      "thumbnail": "/drops/thumbs/5e1969a3aa9a.jpg",
       "published": "",
-      "relative_time": "recently",
-      "score": 0.731
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "839de8a8af2b",
+      "pillar": "anime",
+      "title": "GameStop Makes Bid to Buy eBay",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/gamestop-makes-bid-to-buy-ebay/.237066",
+      "thumbnail": "/drops/thumbs/839de8a8af2b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
     }
   ],
   "homepage": [
     "593265008bbc",
     "8fc954796ec6",
     "76fa27931ba0",
-    "90f121448bdd",
+    "27f7962faad6",
     "39c23ebf03bf",
     "c4cabfc862af"
   ]
