@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T16:03:41+00:00",
+  "generated_utc": "2026-05-04T16:08:59+00:00",
   "items": [
     {
       "id": "593265008bbc",
@@ -91,6 +91,17 @@
       "score": 1.0
     },
     {
+      "id": "8fc954796ec6",
+      "pillar": "hiphop",
+      "title": "New Music Friday: Ludacris, 6LACK & 2 Chainz, Sexyy Red, Yasiin Bey & More",
+      "source": "HipHopDX",
+      "source_url": "https://hiphopdx.com/news/new-music-friday-ludacris-6lack-2-chainz-sexyy-red-yasiin-bey/",
+      "thumbnail": "/drops/thumbs/8fc954796ec6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "90f121448bdd",
       "pillar": "hiphop",
       "title": "Just Some Takeaways from Just Business 2",
@@ -113,12 +124,12 @@
       "score": 1.0
     },
     {
-      "id": "8fc954796ec6",
+      "id": "fd4e06431704",
       "pillar": "hiphop",
-      "title": "New Music Friday: Ludacris, 6LACK & 2 Chainz, Sexyy Red, Yasiin Bey & More",
+      "title": "Isaiah Rashad Reveals ‘It’s Been Awful’ Tracklist Feat. SZA & More",
       "source": "HipHopDX",
-      "source_url": "https://hiphopdx.com/news/new-music-friday-ludacris-6lack-2-chainz-sexyy-red-yasiin-bey/",
-      "thumbnail": "/drops/thumbs/8fc954796ec6.jpg",
+      "source_url": "https://hiphopdx.com/news/isaiah-rashad-its-been-awful-tracklist-features/",
+      "thumbnail": "/drops/thumbs/fd4e06431704.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -146,12 +157,12 @@
       "score": 1.0
     },
     {
-      "id": "fd4e06431704",
+      "id": "3168534fa396",
       "pillar": "hiphop",
-      "title": "Isaiah Rashad Reveals ‘It’s Been Awful’ Tracklist Feat. SZA & More",
+      "title": "J. Cole Reveals His Current Favorite Rapper: “This N*gga’s An Alien”",
       "source": "HipHopDX",
-      "source_url": "https://hiphopdx.com/news/isaiah-rashad-its-been-awful-tracklist-features/",
-      "thumbnail": "/drops/thumbs/fd4e06431704.jpg",
+      "source_url": "https://hiphopdx.com/news/j-cole-killah-priest-favorite-rapper/",
+      "thumbnail": "/drops/thumbs/3168534fa396.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -163,17 +174,6 @@
       "source": "LetsTalkBattleRap",
       "source_url": "https://www.letstalkbattlerap.com/urltv-intiation-3-takeaways-power-rankings-update/",
       "thumbnail": "/drops/thumbs/83f5ee94b9f6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "7da9e273a8b8",
-      "pillar": "hiphop",
-      "title": "Killer Mike Is Getting Roasted Online… But Is It Fair?",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/opinion/killer-mike-is-getting-roasted-online-but-is-it-fair/",
-      "thumbnail": "/drops/thumbs/7da9e273a8b8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -226,7 +226,7 @@
   ],
   "homepage": [
     "593265008bbc",
-    "90f121448bdd",
+    "8fc954796ec6",
     "76fa27931ba0",
     "placeholder-anime",
     "39c23ebf03bf",
