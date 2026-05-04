@@ -1,54 +1,48 @@
-import { getArticleIndex } from "@/lib/articles";
+import fs from "node:fs";
+import path from "node:path";
 
 type TrendingItem = {
   title: string;
   url?: string;
   pillar?: string;
-  articleSlug?: string;
 };
 
 /**
- * Ticker is S&B-NATIVE-ONLY. Every item links to either:
- *   1) /articles/{pillar}/{articleSlug} — our article
- *   2) /{pillar} — the pillar hub
+ * Trending ticker — Path A version.
  *
- * If ticker.json has no native items, fall back to the latest 8
- * articles from the article index. The bar ALWAYS shows something
- * unless we have literally zero articles.
+ * Reads drops.json directly (server component). Each item's href is the
+ * source publisher URL (Sneakerfiles, SBD, Polygon, etc.) — same as the
+ * DropsFeed cards.
+ *
+ * NO fallback to the articles index. The articles index still contains
+ * old AI-generated articles which we don't want to surface anymore. If
+ * drops.json is somehow missing or empty, the ticker just hides.
+ *
+ * The `items` prop is accepted for backward compat but ignored — kept
+ * so we don't have to touch page.tsx during this swap.
  */
-function resolveHref(item: TrendingItem): string | null {
-  if (item.articleSlug && item.pillar) {
-    return `/articles/${item.pillar}/${item.articleSlug}`;
+function loadTickerItems(): TrendingItem[] {
+  try {
+    const file = path.join(process.cwd(), "public", "drops.json");
+    if (!fs.existsSync(file)) return [];
+    const raw = fs.readFileSync(file, "utf-8");
+    const data = JSON.parse(raw);
+    const items = Array.isArray(data?.items) ? data.items : [];
+    return items
+      .filter((d: any) => d && d.title && d.source_url)
+      .map((d: any) => ({
+        title: d.title as string,
+        url: d.source_url as string,
+        pillar: d.pillar as string,
+      }));
+  } catch {
+    return [];
   }
-  if (item.pillar) {
-    return `/${item.pillar}`;
-  }
-  return null;
 }
 
-export default function TrendingTicker({ items }: { items: TrendingItem[] }) {
-  // First, try the SOC-engine ticker (filtered to internal-only)
-  let native = items.filter((it) => resolveHref(it) !== null);
-
-  // Fallback: if SOC ticker is empty, use the latest articles directly.
-  // This guarantees the trending bar ALWAYS has content when we have
-  // articles, regardless of whether the ticker.json was patched yet.
-  if (native.length === 0) {
-    try {
-      const recent = getArticleIndex().slice(0, 10);
-      native = recent.map((a) => ({
-        title: a.headline,
-        pillar: a.pillar,
-        articleSlug: a.slug,
-      }));
-    } catch {
-      // articleIndex fetch failed — keep native empty, bar will hide
-    }
-  }
-
-  if (native.length === 0) {
-    return null;
-  }
+export default function TrendingTicker(_props?: { items?: unknown }) {
+  const native = loadTickerItems();
+  if (native.length === 0) return null;
 
   // Duplicate so the CSS keyframe ticker animation loops seamlessly.
   const looped = [...native, ...native];
@@ -60,12 +54,13 @@ export default function TrendingTicker({ items }: { items: TrendingItem[] }) {
         <div className="ticker">
           <div className="ticker-track">
             {looped.map((item, i) => {
-              const href = resolveHref(item);
-              if (!href) return null;
+              if (!item.url) return null;
               return (
                 <a
                   key={`${item.title}-${i}`}
-                  href={href}
+                  href={item.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="ticker-item-link"
                 >
                   <span className="dot"></span>
