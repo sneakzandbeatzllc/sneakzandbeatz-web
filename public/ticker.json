@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T16:42:46+00:00",
+  "generated_utc": "2026-05-04T21:46:27+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 1 Low OG “Banned” Now Available (May 2026)",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-low-og-banned/",
-      "pillar": "sneakers",
-      "score": 1.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 17 “College Blue” Returns with Briefcase in February 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-17-college-blue-2027/",
@@ -18,8 +11,8 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
-      "url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
+      "title": "The Air Jordan 10 “Red Steel” Returns Next Year for the First Time Since 2005",
+      "url": "https://justfreshkicks.com/air-jordan-10-red-steel-hj6779-100/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
@@ -32,13 +25,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “BIN 23” Releases June 2026",
-      "url": "https://sneakerbardetroit.com/air-jordan-3-bin-23/",
-      "pillar": "sneakers",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 4 “Black Laser” Returns February 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-4-black-laser-2027/",
       "pillar": "sneakers",
@@ -46,8 +32,8 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 3 Joins the 2026 BIN 23 Collection",
-      "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
+      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
+      "url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
@@ -55,6 +41,20 @@
     {
       "title": "Levi's x Air Jordan 3 Retro SP \"Rigid\"",
       "url": "https://www.nicekicks.com/levis-air-jordan-3-retro-sp-rigid-ih7959-400-drop/",
+      "pillar": "sneakers",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 12 “Bloodline” Releases May 23rd",
+      "url": "https://sneakerbardetroit.com/air-jordan-12-bloodline/",
+      "pillar": "sneakers",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “White Laser” Returns February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-white-laser-2027/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Beyoncé Makes Massive Met Gala Return After 10 Years Away",
-      "url": "https://allhiphop.com/news/beyonce-makes-massive-met-gala-return-after-10-years-away/",
+      "title": "Meek Mill Gets Roasted Over Viral Photo",
+      "url": "https://allhiphop.com/rumors/meek-mill-gets-roasted-over-viral-photo/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Masakazu Suzuki Launches 'Complete Edition' of Matorism Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-04/masakazu-suzuki-launches-complete-edition-of-matorism-manga/.237046",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "A Hundred Scenes of Awajima is the most beautiful anime you're not watching this season",
       "url": "https://www.polygon.com/a-hundred-scenes-of-awajimi-is-the-most-beautiful-anime-youre-not-watching-this-season/",
       "pillar": "anime",
@@ -130,17 +123,31 @@
       "article_slug": null
     },
     {
-      "title": "After 6 Years, Solo Leveling's Biggest Rival Shows No Signs of Slowing Down",
-      "url": "https://screenrant.com/solo-leveling-replacement-omniscient-reader-season-1-ending/",
+      "title": "Attack on Titan Is Officially Returning In 2026 With One Last Release",
+      "url": "https://screenrant.com/attack-on-titan-last-attack-release-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "GameStop Makes Bid to Buy eBay",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-04/gamestop-makes-bid-to-buy-ebay/.237066",
+      "title": "Forza Horizon 6 has me rewatching the best racing anime ever made",
+      "url": "https://www.polygon.com/forza-horizon-6-has-me-rewatching-the-best-racing-anime-ever-made/",
       "pillar": "anime",
       "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "New Solo Leveling Series Just Got Its First Major Update From Series Star",
+      "url": "https://screenrant.com/solo-leveling-live-action-update-star/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Final Fantasy 7 Rebirth demo now available for Nintendo Switch 2 and Xbox",
+      "url": "https://www.polygon.com/final-fantasy-7-rebirth-switch-2-xbox-demo/",
+      "pillar": "gaming",
+      "score": 0.776,
       "article_slug": null
     }
   ]
