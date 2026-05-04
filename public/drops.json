@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T21:46:27+00:00",
+  "generated_utc": "2026-05-04T22:45:07+00:00",
   "items": [
     {
       "id": "76fa27931ba0",
@@ -179,6 +179,17 @@
       "score": 1.0
     },
     {
+      "id": "8524902c050d",
+      "pillar": "anime",
+      "title": "Witch Hat Atelier Anime Reveals More Cast",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/witch-hat-atelier-anime-reveals-more-cast/.237081",
+      "thumbnail": "/drops/thumbs/8524902c050d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "7018ed0e9325",
       "pillar": "anime",
       "title": "A Hundred Scenes of Awajima is the most beautiful anime you're not watching this season",
@@ -201,45 +212,34 @@
       "score": 1.0
     },
     {
-      "id": "324827d209c4",
+      "id": "d0c91bdcfe85",
       "pillar": "anime",
-      "title": "Forza Horizon 6 has me rewatching the best racing anime ever made",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/forza-horizon-6-has-me-rewatching-the-best-racing-anime-ever-made/",
-      "thumbnail": "/drops/thumbs/324827d209c4.jpg",
+      "title": "That's My Atypical Girl's Renji Morita Launches New Manga on May 24",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/that-my-atypical-girl-renji-morita-launches-new-manga-on-may-24/.237064",
+      "thumbnail": "/drops/thumbs/d0c91bdcfe85.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
     },
     {
-      "id": "871dab285673",
-      "pillar": "anime",
-      "title": "New Solo Leveling Series Just Got Its First Major Update From Series Star",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-live-action-update-star/",
-      "thumbnail": "/drops/thumbs/871dab285673.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "c4cabfc862af",
+      "id": "4751dfb14545",
       "pillar": "gaming",
-      "title": "Final Fantasy 7 Rebirth demo now available for Nintendo Switch 2 and Xbox",
-      "source": "polygon.com",
-      "source_url": "https://www.polygon.com/final-fantasy-7-rebirth-switch-2-xbox-demo/",
+      "title": "News PlayStation Seemingly Lands GTA 6 PS5 Marketing Deal",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/playstation-seemingly-lands-gta-6-ps5-marketing-deal",
       "thumbnail": null,
       "published": "",
-      "relative_time": "recently",
-      "score": 0.776
+      "relative_time": "today",
+      "score": 1.0
     }
   ],
   "homepage": [
     "76fa27931ba0",
     "8fc954796ec6",
     "df871e9265e0",
-    "7018ed0e9325",
+    "8524902c050d",
     "4c4d411abb04",
-    "c4cabfc862af"
+    "4751dfb14545"
   ]
 }

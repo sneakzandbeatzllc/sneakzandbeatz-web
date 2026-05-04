@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T21:46:27+00:00",
+  "generated_utc": "2026-05-04T22:45:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Witch Hat Atelier Anime Reveals More Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-04/witch-hat-atelier-anime-reveals-more-cast/.237081",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "A Hundred Scenes of Awajima is the most beautiful anime you're not watching this season",
       "url": "https://www.polygon.com/a-hundred-scenes-of-awajimi-is-the-most-beautiful-anime-youre-not-watching-this-season/",
       "pillar": "anime",
@@ -130,24 +137,17 @@
       "article_slug": null
     },
     {
-      "title": "Forza Horizon 6 has me rewatching the best racing anime ever made",
-      "url": "https://www.polygon.com/forza-horizon-6-has-me-rewatching-the-best-racing-anime-ever-made/",
+      "title": "That's My Atypical Girl's Renji Morita Launches New Manga on May 24",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-04/that-my-atypical-girl-renji-morita-launches-new-manga-on-may-24/.237064",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "New Solo Leveling Series Just Got Its First Major Update From Series Star",
-      "url": "https://screenrant.com/solo-leveling-live-action-update-star/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Final Fantasy 7 Rebirth demo now available for Nintendo Switch 2 and Xbox",
-      "url": "https://www.polygon.com/final-fantasy-7-rebirth-switch-2-xbox-demo/",
+      "title": "News PlayStation Seemingly Lands GTA 6 PS5 Marketing Deal",
+      "url": "https://www.pushsquare.com/news/2026/05/playstation-seemingly-lands-gta-6-ps5-marketing-deal",
       "pillar": "gaming",
-      "score": 0.776,
+      "score": 1.0,
       "article_slug": null
     }
   ]
