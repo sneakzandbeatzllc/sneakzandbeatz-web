@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T13:31:20+00:00",
+  "generated_utc": "2026-05-04T13:47:51+00:00",
   "items": [
     {
       "id": "f9b31ef00857",
@@ -122,6 +122,30 @@
       "published": "",
       "relative_time": "recently",
       "score": 0.731
+    },
+    {
+      "id": "placeholder-hiphop",
+      "pillar": "hiphop",
+      "title": "Hip-Hop drops landing soon",
+      "source": "Sneakz & Beatz",
+      "source_url": "https://sneakzandbeatz.substack.com/subscribe",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "subscribe for the alert",
+      "score": 0.0,
+      "is_placeholder": true
+    },
+    {
+      "id": "placeholder-anime",
+      "pillar": "anime",
+      "title": "Anime drops landing soon",
+      "source": "Sneakz & Beatz",
+      "source_url": "https://sneakzandbeatz.substack.com/subscribe",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "subscribe for the alert",
+      "score": 0.0,
+      "is_placeholder": true
     }
   ],
   "homepage": [
