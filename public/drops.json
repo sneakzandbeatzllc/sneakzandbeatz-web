@@ -1,40 +1,7 @@
 {
   "schema": 1,
-  "generated_utc": "2026-05-04T10:29:38+00:00",
+  "generated_utc": "2026-05-04T10:49:05+00:00",
   "items": [
-    {
-      "id": "8412995a22b1",
-      "pillar": "sneakers",
-      "title": "Travis Scott x Nike Phantom 6 Low Elite IV2037-900",
-      "source": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/travis-scott-nike-phantom-6-low-elite-iv2037-900-release-info",
-      "thumbnail": null,
-      "published": "",
-      "relative_time": "recently",
-      "score": 0.864
-    },
-    {
-      "id": "06b988a6fb23",
-      "pillar": "sneakers",
-      "title": "TUNE’s Nike Air Force 1 CVS “Wardrobe Unlocked” Is Designed to Degrade",
-      "source": "hypebeast.com",
-      "source_url": "https://hypebeast.com/2026/4/tune-nike-air-force-1-cvs-wardrobe-unlocked-ir5895-399-release-info",
-      "thumbnail": null,
-      "published": "",
-      "relative_time": "recently",
-      "score": 0.847
-    },
-    {
-      "id": "385763caaa1e",
-      "pillar": "sneakers",
-      "title": "TUNE x Nike Air Force 1 CVS “Wardrobe Unlocked” Releases May 1st",
-      "source": "sneakerbardetroit.com",
-      "source_url": "https://sneakerbardetroit.com/tune-nike-air-force-1-wardrobe-unlocked/",
-      "thumbnail": "/drops/thumbs/385763caaa1e.webp",
-      "published": "",
-      "relative_time": "recently",
-      "score": 0.756
-    },
     {
       "id": "f6613d11a63f",
       "pillar": "sneakers",
@@ -42,17 +9,6 @@
       "source": "sneakerbardetroit.com",
       "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-khaki-sail-fd2596-201/",
       "thumbnail": "/drops/thumbs/f6613d11a63f.jpg",
-      "published": "",
-      "relative_time": "recently",
-      "score": 0.718
-    },
-    {
-      "id": "e042e0841f94",
-      "pillar": "sneakers",
-      "title": "Nike Air Max 90 “Hyper Crimson/Black” Sharpens The Classic With Dark Layers",
-      "source": "sneakerbardetroit.com",
-      "source_url": "https://sneakerbardetroit.com/nike-air-max-90-hyper-crimson-black-iq0172-900/",
-      "thumbnail": "/drops/thumbs/e042e0841f94.jpg",
       "published": "",
       "relative_time": "recently",
       "score": 0.718
@@ -69,17 +25,6 @@
       "score": 0.717
     },
     {
-      "id": "6471e437547a",
-      "pillar": "sneakers",
-      "title": "Lapstone & Hammer Turns The ASICS GEL-Kayano 12.1 Into “The Spark”",
-      "source": "sneakerbardetroit.com",
-      "source_url": "https://sneakerbardetroit.com/lapstone-asics-gel-kayano-12-1-the-spark-release-date/",
-      "thumbnail": "/drops/thumbs/6471e437547a.jpg",
-      "published": "",
-      "relative_time": "recently",
-      "score": 0.716
-    },
-    {
       "id": "c4cabfc862af",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Rebirth demo now available for Nintendo Switch 2 and Xbox",
@@ -89,17 +34,6 @@
       "published": "",
       "relative_time": "recently",
       "score": 0.776
-    },
-    {
-      "id": "2b1ae2c02af8",
-      "pillar": "hiphop",
-      "title": "Drake and Future Tease Joint Album Number Two",
-      "source": "complex.com",
-      "source_url": "https://www.complex.com/music/drake-future-album-2026",
-      "thumbnail": null,
-      "published": "",
-      "relative_time": "recently",
-      "score": 0.757
     },
     {
       "id": "61704f1233ea",
@@ -122,17 +56,6 @@
       "published": "",
       "relative_time": "recently",
       "score": 0.731
-    },
-    {
-      "id": "647290cef1b7",
-      "pillar": "hiphop",
-      "title": "Drake Future Joint Album Sequel Teased Online",
-      "source": "hotnewhiphop.com",
-      "source_url": "https://hotnewhiphop.com/drake-future-joint-album",
-      "thumbnail": null,
-      "published": "",
-      "relative_time": "recently",
-      "score": 0.722
     }
   ]
 }
