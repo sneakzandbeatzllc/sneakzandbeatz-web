@@ -3,7 +3,6 @@ import Hero from "@/components/Hero";
 import TrendingTicker from "@/components/TrendingTicker";
 import DropsFeed from "@/components/DropsFeed";
 import FeaturedStory from "@/components/FeaturedStory";
-import PillarsGrid from "@/components/PillarsGrid";
 import BrandPhotos from "@/components/BrandPhotos";
 import CreatorsCTA from "@/components/CreatorsCTA";
 import PHRHXShow from "@/components/PHRHXShow";
@@ -31,7 +30,6 @@ export default async function HomePage() {
         subtitle="Sneakers leads. Then music, anime, and gaming. Tap any card — we link out to the source. No fluff, no rewrites, just the culture refresh."
       />
       <FeaturedStory />
-      <PillarsGrid />
       <PHRHXShow />
       <BeatStore />
       <BrandPhotos />

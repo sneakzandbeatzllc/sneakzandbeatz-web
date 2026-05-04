@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T16:08:59+00:00",
+  "generated_utc": "2026-05-04T16:16:48+00:00",
   "items": [
     {
       "id": "593265008bbc",
@@ -210,25 +210,13 @@
       "published": "",
       "relative_time": "recently",
       "score": 0.731
-    },
-    {
-      "id": "placeholder-anime",
-      "pillar": "anime",
-      "title": "Anime drops landing soon",
-      "source": "Sneakz & Beatz",
-      "source_url": "https://sneakzandbeatz.substack.com/subscribe",
-      "thumbnail": null,
-      "published": "",
-      "relative_time": "subscribe for the alert",
-      "score": 0.0,
-      "is_placeholder": true
     }
   ],
   "homepage": [
     "593265008bbc",
     "8fc954796ec6",
     "76fa27931ba0",
-    "placeholder-anime",
+    "90f121448bdd",
     "39c23ebf03bf",
     "c4cabfc862af"
   ]
