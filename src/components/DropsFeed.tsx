@@ -36,15 +36,24 @@ const PILLAR_LABELS: Record<Pillar, string> = {
   gaming:   "Gaming",
 };
 
-function loadDrops(): Drop[] {
+interface DropsPayload {
+  items: Drop[];
+  /** Optional: explicit ID order for the homepage 6-card interleave. */
+  homepage?: string[];
+}
+
+function loadDrops(): DropsPayload {
   try {
     const file = path.join(process.cwd(), "public", "drops.json");
-    if (!fs.existsSync(file)) return [];
+    if (!fs.existsSync(file)) return { items: [] };
     const raw = fs.readFileSync(file, "utf-8");
     const data = JSON.parse(raw);
-    return Array.isArray(data?.items) ? (data.items as Drop[]) : [];
+    return {
+      items: Array.isArray(data?.items) ? (data.items as Drop[]) : [],
+      homepage: Array.isArray(data?.homepage) ? (data.homepage as string[]) : undefined,
+    };
   } catch {
-    return [];
+    return { items: [] };
   }
 }
 
@@ -65,8 +74,21 @@ export default function DropsFeed({
   subtitle = "The culture refresh — sneakers, music, anime, and gaming. Tap any card to read the source.",
   limit,
 }: DropsFeedProps) {
-  let items = loadDrops();
-  if (pillar) items = items.filter((d) => d.pillar === pillar);
+  const data = loadDrops();
+  let items: Drop[];
+  if (pillar) {
+    // Pillar pages — filter the full items list to that pillar.
+    items = data.items.filter((d) => d.pillar === pillar);
+  } else if (data.homepage && data.homepage.length > 0) {
+    // Homepage — explicit 6-card interleave order (sneakers slots 1/3/5,
+    // hiphop slot 2, anime slot 4, gaming slot 6) per editorial rule.
+    const byId = new Map(data.items.map((d) => [d.id, d]));
+    items = data.homepage
+      .map((id) => byId.get(id))
+      .filter((d): d is Drop => Boolean(d));
+  } else {
+    items = data.items;
+  }
   if (limit)  items = items.slice(0, limit);
 
   if (items.length === 0) return null;
