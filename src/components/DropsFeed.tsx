@@ -27,6 +27,8 @@ interface Drop {
   published: string;
   relative_time: string;
   score: number;
+  /** True when this slot is a coming-soon placeholder, not a real drop. */
+  is_placeholder?: boolean;
 }
 
 const PILLAR_LABELS: Record<Pillar, string> = {
@@ -107,17 +109,18 @@ export default function DropsFeed({
             <a
               key={d.id}
               href={d.source_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={`drop-card pillar-tint-${d.pillar}`}
+              target={d.is_placeholder ? undefined : "_blank"}
+              rel={d.is_placeholder ? undefined : "noopener noreferrer"}
+              className={
+                "drop-card pillar-tint-" + d.pillar +
+                (d.is_placeholder ? " drop-card-placeholder" : "")
+              }
             >
               <div className="drop-card-thumb">
                 {d.thumbnail ? (
                   <img
                     src={d.thumbnail}
                     alt=""
-                    // First 6 cards are above the fold — load eagerly so the
-                    // page paints with images instead of black rectangles.
                     loading={idx < 6 ? "eager" : "lazy"}
                     fetchPriority={idx < 3 ? "high" : "auto"}
                     decoding="async"
@@ -125,7 +128,11 @@ export default function DropsFeed({
                   />
                 ) : (
                   <div className="drop-card-thumb-fallback">
-                    <span className="drop-card-thumb-headline">{d.title}</span>
+                    <span className="drop-card-thumb-headline">
+                      {d.is_placeholder
+                        ? `New ${PILLAR_LABELS[d.pillar].toLowerCase()} drops coming`
+                        : d.title}
+                    </span>
                   </div>
                 )}
                 <span className="drop-card-pillar">
