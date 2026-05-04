@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T14:02:29+00:00",
+  "generated_utc": "2026-05-04T14:39:29+00:00",
   "items": [
     {
       "id": "f9b31ef00857",
@@ -20,6 +20,28 @@
       "source": "Sneakerfiles",
       "source_url": "https://www.sneakerfiles.com/air-jordan-17-college-blue-2027/",
       "thumbnail": "/drops/thumbs/76fa27931ba0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "39c23ebf03bf",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
+      "thumbnail": "/drops/thumbs/39c23ebf03bf.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "4c4d411abb04",
+      "pillar": "sneakers",
+      "title": "Levi's x Air Jordan 3 SP \"Black Denim\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/levis-air-jordan-3-sp-black-denim-ir0914-400-drop/",
+      "thumbnail": "/drops/thumbs/4c4d411abb04.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -47,45 +69,23 @@
       "score": 1.0
     },
     {
-      "id": "eb00b902da9b",
+      "id": "c8d3a4f66c16",
       "pillar": "sneakers",
-      "title": "Michigan Wolverines Air Jordan 14 PE Revealed",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-14-michigan-pe-2026/",
-      "thumbnail": "/drops/thumbs/eb00b902da9b.webp",
+      "title": "The Air Jordan 3 Joins the 2026 BIN 23 Collection",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
+      "thumbnail": "/drops/thumbs/c8d3a4f66c16.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
     },
     {
-      "id": "d961ab721961",
+      "id": "3a84a2def42e",
       "pillar": "sneakers",
-      "title": "Air Jordan 4 “White Laser” Returns February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-white-laser-2027/",
-      "thumbnail": "/drops/thumbs/d961ab721961.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "2d73c5fc1ad0",
-      "pillar": "sneakers",
-      "title": "First Look at the Air Jordan 17 Low “Black Patent”",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-17-low-black-patent/",
-      "thumbnail": "/drops/thumbs/2d73c5fc1ad0.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "25ce54be1aaa",
-      "pillar": "sneakers",
-      "title": "Awake NY x Air Jordan 6 “Playful Pink” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-pink/",
-      "thumbnail": "/drops/thumbs/25ce54be1aaa.jpg",
+      "title": "Levi's x Air Jordan 3 Retro SP \"Rigid\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/levis-air-jordan-3-retro-sp-rigid-ih7959-400-drop/",
+      "thumbnail": "/drops/thumbs/3a84a2def42e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -153,7 +153,7 @@
     "placeholder-hiphop",
     "76fa27931ba0",
     "placeholder-anime",
-    "18b5b2499b71",
+    "39c23ebf03bf",
     "c4cabfc862af"
   ]
 }

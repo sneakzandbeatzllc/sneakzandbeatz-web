@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T14:02:29+00:00",
+  "generated_utc": "2026-05-04T14:39:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,6 +13,20 @@
     {
       "title": "Air Jordan 17 “College Blue” Returns with Briefcase in February 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-17-college-blue-2027/",
+      "pillar": "sneakers",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
+      "url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
+      "pillar": "sneakers",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Levi's x Air Jordan 3 SP \"Black Denim\"",
+      "url": "https://www.nicekicks.com/levis-air-jordan-3-sp-black-denim-ir0914-400-drop/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
@@ -32,29 +46,15 @@
       "article_slug": null
     },
     {
-      "title": "Michigan Wolverines Air Jordan 14 PE Revealed",
-      "url": "https://sneakerbardetroit.com/air-jordan-14-michigan-pe-2026/",
+      "title": "The Air Jordan 3 Joins the 2026 BIN 23 Collection",
+      "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 4 “White Laser” Returns February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-white-laser-2027/",
-      "pillar": "sneakers",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "First Look at the Air Jordan 17 Low “Black Patent”",
-      "url": "https://sneakerbardetroit.com/air-jordan-17-low-black-patent/",
-      "pillar": "sneakers",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Awake NY x Air Jordan 6 “Playful Pink” Releases August 2026",
-      "url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-pink/",
+      "title": "Levi's x Air Jordan 3 Retro SP \"Rigid\"",
+      "url": "https://www.nicekicks.com/levis-air-jordan-3-retro-sp-rigid-ih7959-400-drop/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
