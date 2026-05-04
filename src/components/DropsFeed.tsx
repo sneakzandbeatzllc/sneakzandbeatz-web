@@ -103,7 +103,7 @@ export default function DropsFeed({
         </div>
 
         <div className="drops-feed-grid">
-          {items.map((d) => (
+          {items.map((d, idx) => (
             <a
               key={d.id}
               href={d.source_url}
@@ -116,7 +116,10 @@ export default function DropsFeed({
                   <img
                     src={d.thumbnail}
                     alt=""
-                    loading="lazy"
+                    // First 6 cards are above the fold — load eagerly so the
+                    // page paints with images instead of black rectangles.
+                    loading={idx < 6 ? "eager" : "lazy"}
+                    fetchPriority={idx < 3 ? "high" : "auto"}
                     decoding="async"
                     className="drop-card-thumb-img"
                   />
