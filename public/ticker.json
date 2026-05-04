@@ -1,11 +1,18 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T13:47:51+00:00",
+  "generated_utc": "2026-05-04T14:02:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "Air Jordan 3 “BIN 23” Releases June 2026",
       "url": "https://sneakerbardetroit.com/air-jordan-3-bin-23/",
+      "pillar": "sneakers",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 17 “College Blue” Returns with Briefcase in February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-17-college-blue-2027/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
@@ -18,8 +25,22 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 4 “Black Laser” Returns February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-black-laser-2027/",
+      "pillar": "sneakers",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Michigan Wolverines Air Jordan 14 PE Revealed",
       "url": "https://sneakerbardetroit.com/air-jordan-14-michigan-pe-2026/",
+      "pillar": "sneakers",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “White Laser” Returns February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-white-laser-2027/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
@@ -32,29 +53,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 Low OG “Banned” Releases May 2nd",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-low-og-banned/",
-      "pillar": "sneakers",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Georgetown Hoyas Reveal Their Air Jordan 14 PE",
-      "url": "https://sneakerbardetroit.com/air-jordan-14-georgetown-pe/",
-      "pillar": "sneakers",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Jordan Legacy 312 Low TD Football Cleats Delivers Three Field-Ready Colorways",
-      "url": "https://sneakerbardetroit.com/jordan-legacy-312-low-td-football-cleats-release-date/",
-      "pillar": "sneakers",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “Brazil” Releases May 16th",
-      "url": "https://sneakerbardetroit.com/air-jordan-3-brazil-iv4871-400-release-date/",
+      "title": "Awake NY x Air Jordan 6 “Playful Pink” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-pink/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null

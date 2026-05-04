@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T13:47:51+00:00",
+  "generated_utc": "2026-05-04T14:02:29+00:00",
   "items": [
     {
       "id": "f9b31ef00857",
@@ -9,6 +9,17 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-3-bin-23/",
       "thumbnail": "/drops/thumbs/f9b31ef00857.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "76fa27931ba0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 17 “College Blue” Returns with Briefcase in February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-17-college-blue-2027/",
+      "thumbnail": "/drops/thumbs/76fa27931ba0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -25,12 +36,34 @@
       "score": 1.0
     },
     {
+      "id": "7bf3e2c7f063",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Black Laser” Returns February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-black-laser-2027/",
+      "thumbnail": "/drops/thumbs/7bf3e2c7f063.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "eb00b902da9b",
       "pillar": "sneakers",
       "title": "Michigan Wolverines Air Jordan 14 PE Revealed",
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-14-michigan-pe-2026/",
       "thumbnail": "/drops/thumbs/eb00b902da9b.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "d961ab721961",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “White Laser” Returns February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-white-laser-2027/",
+      "thumbnail": "/drops/thumbs/d961ab721961.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -47,45 +80,12 @@
       "score": 1.0
     },
     {
-      "id": "593265008bbc",
+      "id": "25ce54be1aaa",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Banned” Releases May 2nd",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-og-banned/",
-      "thumbnail": "/drops/thumbs/593265008bbc.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "802db2d88d3b",
-      "pillar": "sneakers",
-      "title": "Georgetown Hoyas Reveal Their Air Jordan 14 PE",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-14-georgetown-pe/",
-      "thumbnail": "/drops/thumbs/802db2d88d3b.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "4e85e94d99d4",
-      "pillar": "sneakers",
-      "title": "Jordan Legacy 312 Low TD Football Cleats Delivers Three Field-Ready Colorways",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/jordan-legacy-312-low-td-football-cleats-release-date/",
-      "thumbnail": "/drops/thumbs/4e85e94d99d4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "dd5fb84e4443",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Brazil” Releases May 16th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-3-brazil-iv4871-400-release-date/",
-      "thumbnail": "/drops/thumbs/dd5fb84e4443.webp",
+      "title": "Awake NY x Air Jordan 6 “Playful Pink” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-pink/",
+      "thumbnail": "/drops/thumbs/25ce54be1aaa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -151,9 +151,9 @@
   "homepage": [
     "f9b31ef00857",
     "placeholder-hiphop",
-    "18b5b2499b71",
+    "76fa27931ba0",
     "placeholder-anime",
-    "eb00b902da9b",
+    "18b5b2499b71",
     "c4cabfc862af"
   ]
 }
