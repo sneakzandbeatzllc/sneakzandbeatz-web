@@ -23,12 +23,25 @@ const PILLAR_LABELS: Record<PillarKey, string> = {
 
 const HOW_MANY = 4;
 
+// Editorial rule: the FEATURED slot on the homepage is always sneakers.
+// Sneakz & Beatz is a Jordan-first brand — the big card is reserved for
+// the latest sneaker drop / Jordan retro / hype piece, regardless of
+// whether other pillars happened to publish more recently.
 export default function LatestArticles() {
-  const items = getArticleIndex().slice(0, HOW_MANY);
-  if (items.length === 0) return null;
+  const all = getArticleIndex();
+  if (all.length === 0) return null;
 
-  const featured = items[0];
-  const rest = items.slice(1);
+  // Featured = newest sneakers article (which the article generator's
+  // Jordan-first rule already biases toward Jordan retros). If for some
+  // reason no sneakers article exists, fall back to the newest overall.
+  const featured =
+    all.find((item) => item.pillar === "sneakers") || all[0];
+
+  // Side cards = next 3 newest articles, excluding whatever we just
+  // featured (so we don't show the same article twice).
+  const rest = all
+    .filter((item) => !(item.pillar === featured.pillar && item.slug === featured.slug))
+    .slice(0, HOW_MANY - 1);
 
   return (
     <section className="latest-articles">
