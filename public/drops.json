@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-04T15:32:13+00:00",
+  "generated_utc": "2026-05-04T15:48:07+00:00",
   "items": [
     {
       "id": "593265008bbc",
@@ -113,23 +113,23 @@
       "score": 1.0
     },
     {
-      "id": "e3a74b211687",
-      "pillar": "hiphop",
-      "title": "A Tarnished King – What Now?",
-      "source": "LetsTalkBattleRap",
-      "source_url": "https://www.letstalkbattlerap.com/a-tarnished-king-what-now/",
-      "thumbnail": "/drops/thumbs/e3a74b211687.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
       "id": "8fc954796ec6",
       "pillar": "hiphop",
       "title": "New Music Friday: Ludacris, 6LACK & 2 Chainz, Sexyy Red, Yasiin Bey & More",
       "source": "HipHopDX",
       "source_url": "https://hiphopdx.com/news/new-music-friday-ludacris-6lack-2-chainz-sexyy-red-yasiin-bey/",
       "thumbnail": "/drops/thumbs/8fc954796ec6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "e3a74b211687",
+      "pillar": "hiphop",
+      "title": "A Tarnished King – What Now?",
+      "source": "LetsTalkBattleRap",
+      "source_url": "https://www.letstalkbattlerap.com/a-tarnished-king-what-now/",
+      "thumbnail": "/drops/thumbs/e3a74b211687.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -146,23 +146,23 @@
       "score": 1.0
     },
     {
-      "id": "83f5ee94b9f6",
-      "pillar": "hiphop",
-      "title": "URLTV: Initiation 3 Takeaways + Power Rankings Update",
-      "source": "LetsTalkBattleRap",
-      "source_url": "https://www.letstalkbattlerap.com/urltv-intiation-3-takeaways-power-rankings-update/",
-      "thumbnail": "/drops/thumbs/83f5ee94b9f6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
       "id": "fd4e06431704",
       "pillar": "hiphop",
       "title": "Isaiah Rashad Reveals ‘It’s Been Awful’ Tracklist Feat. SZA & More",
       "source": "HipHopDX",
       "source_url": "https://hiphopdx.com/news/isaiah-rashad-its-been-awful-tracklist-features/",
       "thumbnail": "/drops/thumbs/fd4e06431704.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "83f5ee94b9f6",
+      "pillar": "hiphop",
+      "title": "URLTV: Initiation 3 Takeaways + Power Rankings Update",
+      "source": "LetsTalkBattleRap",
+      "source_url": "https://www.letstalkbattlerap.com/urltv-intiation-3-takeaways-power-rankings-update/",
+      "thumbnail": "/drops/thumbs/83f5ee94b9f6.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0
