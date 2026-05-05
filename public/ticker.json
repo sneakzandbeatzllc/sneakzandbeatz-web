@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T22:31:46+00:00",
+  "generated_utc": "2026-05-05T23:43:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Kenny Kaps Takes Stand in Julio Foolio Murder Case Day Seven",
-      "url": "https://allhiphop.com/news/kenny-kaps-takes-stand-in-julio-foolio-murder-case-day-seven/",
+      "title": "Stefon Diggs Walks Free After Jury Cleared Him In Assault Trial Of Personal Chef",
+      "url": "https://allhiphop.com/news/stefon-diggs-walks-free-after-jury-cleared-him-in-assault-trial-of-personal-chef/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -151,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "Manga Adaptation of Kei Takano's Shokei Flag Mansai no Kiraware Ōji no Yarinaoshi Novels Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-05/manga-adaptation-of-kei-takano-shokei-flag-mansai-no-kiraware-oji-no-yarinaoshi-novels-ends/.237095",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "At Home with a Girl in Her Cute Pajamas Manga Listed to End With 3rd Volume",
       "url": "https://www.animenewsnetwork.com/news/2026-05-05/at-home-with-a-girl-in-her-cute-pajamas-manga-listed-to-end-with-3rd-volume/.237091",
       "pillar": "anime",
@@ -158,23 +165,9 @@
       "article_slug": null
     },
     {
-      "title": "Nao Emoto Draws Maryoku Zero no Saikyō Kenja Manga Based on Shinkoshoto's Story",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-05/nao-emoto-draws-maryoku-zero-no-saikyo-kenja-manga-based-on-shinkoshoto-story/.237084",
+      "title": "Go with the Clouds, North-by-Northwest is one of the most engaging mystery manga in years",
+      "url": "https://www.polygon.com/go-with-clouds-north-by-northwest-manga-recommendation/",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "10 best donghua shows that rival Japan's biggest anime",
-      "url": "https://www.polygon.com/best-donghua-chinese-anime-list-netflix-crunchyroll/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News USA Bank Wants You to Pay $80 for GTA 6 So Other Devs Can Charge More Too",
-      "url": "https://www.pushsquare.com/news/2026/05/usa-bank-wants-you-to-pay-usd80-for-gta-6-so-other-devs-can-charge-more-too",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -223,6 +216,13 @@
     {
       "title": "Exclusive Mortal Kombat 2 star says the first movie was \"kind of like a prequel\"",
       "url": "https://www.gamesradar.com/entertainment/action-movies/mortal-kombat-2-star-says-the-first-movie-was-kind-of-like-a-prequel-as-the-sequel-finally-launches-the-tournament/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Next Call of Duty Game Officially Confirmed Not Coming To PlayStation 4",
+      "url": "https://gameranx.com/updates/id/562561/article/next-call-of-duty-game-officially-confirmed-not-coming-to-playstation-4/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

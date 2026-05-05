@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T22:31:46+00:00",
+  "generated_utc": "2026-05-05T23:43:22+00:00",
   "items": [
     {
       "id": "9bfec617bf46",
@@ -113,12 +113,12 @@
       "score": 1.0
     },
     {
-      "id": "57e78a059e96",
+      "id": "4bc092dc7e49",
       "pillar": "hiphop",
-      "title": "Kenny Kaps Takes Stand in Julio Foolio Murder Case Day Seven",
+      "title": "Stefon Diggs Walks Free After Jury Cleared Him In Assault Trial Of Personal Chef",
       "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kenny-kaps-takes-stand-in-julio-foolio-murder-case-day-seven/",
-      "thumbnail": "/drops/thumbs/57e78a059e96.png",
+      "source_url": "https://allhiphop.com/news/stefon-diggs-walks-free-after-jury-cleared-him-in-assault-trial-of-personal-chef/",
+      "thumbnail": "/drops/thumbs/4bc092dc7e49.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -234,6 +234,17 @@
       "score": 1.0
     },
     {
+      "id": "dd23a9b2f19d",
+      "pillar": "anime",
+      "title": "Manga Adaptation of Kei Takano's Shokei Flag Mansai no Kiraware Ōji no Yarinaoshi Novels Ends",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-05/manga-adaptation-of-kei-takano-shokei-flag-mansai-no-kiraware-oji-no-yarinaoshi-novels-ends/.237095",
+      "thumbnail": "/drops/thumbs/dd23a9b2f19d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "08320fef470f",
       "pillar": "anime",
       "title": "At Home with a Girl in Her Cute Pajamas Manga Listed to End With 3rd Volume",
@@ -245,34 +256,12 @@
       "score": 1.0
     },
     {
-      "id": "3592cf8f8176",
+      "id": "7f50cf139fe7",
       "pillar": "anime",
-      "title": "Nao Emoto Draws Maryoku Zero no Saikyō Kenja Manga Based on Shinkoshoto's Story",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-05/nao-emoto-draws-maryoku-zero-no-saikyo-kenja-manga-based-on-shinkoshoto-story/.237084",
-      "thumbnail": "/drops/thumbs/3592cf8f8176.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "b5658bae4857",
-      "pillar": "anime",
-      "title": "10 best donghua shows that rival Japan's biggest anime",
+      "title": "Go with the Clouds, North-by-Northwest is one of the most engaging mystery manga in years",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/best-donghua-chinese-anime-list-netflix-crunchyroll/",
-      "thumbnail": "/drops/thumbs/b5658bae4857.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "8fef30a7bd49",
-      "pillar": "gaming",
-      "title": "News USA Bank Wants You to Pay $80 for GTA 6 So Other Devs Can Charge More Too",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/usa-bank-wants-you-to-pay-usd80-for-gta-6-so-other-devs-can-charge-more-too",
-      "thumbnail": "/drops/thumbs/8fef30a7bd49.jpg",
+      "source_url": "https://www.polygon.com/go-with-clouds-north-by-northwest-manga-recommendation/",
+      "thumbnail": "/drops/thumbs/7f50cf139fe7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -353,6 +342,17 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0
+    },
+    {
+      "id": "a42b224519d6",
+      "pillar": "gaming",
+      "title": "Next Call of Duty Game Officially Confirmed Not Coming To PlayStation 4",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562561/article/next-call-of-duty-game-officially-confirmed-not-coming-to-playstation-4/",
+      "thumbnail": "/drops/thumbs/a42b224519d6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
     }
   ],
   "homepage": [
@@ -361,6 +361,6 @@
     "738c08af9884",
     "74a5e68af0e8",
     "4c4d411abb04",
-    "8fef30a7bd49"
+    "ee683c9ae467"
   ]
 }
