@@ -32,8 +32,20 @@ export type PinnedTikTok = {
  * embed pulls a heavy iframe).
  */
 export const PINNED_VIDEOS: PinnedTikTok[] = [
-  // Add video IDs here as content rolls out, e.g.:
-  // { id: "7400000000000000000", caption: "AJ12 Bloodline first look" },
+  // Pulled from @SneakzandBeatzOfficial's 3 pinned videos
+  // (the user's signature shelf — rotate when they re-pin).
+  {
+    id: "7634635822251183374",
+    caption: "Drake — smooth to savage in seconds.",
+  },
+  {
+    id: "7635657877922811149",
+    caption: "Stealth mode with a twist. That 'PEEL OFF' detail is tough.",
+  },
+  {
+    id: "7634286614184758541",
+    caption: "",
+  },
 ];
 
 /** Profile URL — used for placeholder tiles + the "Follow" CTA. */
