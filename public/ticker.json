@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T17:56:46+00:00",
+  "generated_utc": "2026-05-05T18:27:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,13 +32,6 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
-      "url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
-      "pillar": "sneakers",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Levi's x Air Jordan 3 Retro SP \"Rigid\"",
       "url": "https://www.nicekicks.com/levis-air-jordan-3-retro-sp-rigid-ih7959-400-drop/",
       "pillar": "sneakers",
@@ -53,8 +46,15 @@
       "article_slug": null
     },
     {
-      "title": "First Look at the Air Jordan 12 “Bloodlines” Releasing in May",
-      "url": "https://justfreshkicks.com/air-jordan-12-bloodlines-ct8013-001/",
+      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
+      "url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
+      "pillar": "sneakers",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Fragment Design x Union LA x Air Jordan 1 High OG \"Black/White\"",
+      "url": "https://www.nicekicks.com/fragment-design-union-la-air-jordan-1-high-og-black-white-ii7282-100-drop/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Meek Mill Gets Roasted Over Viral Photo",
-      "url": "https://allhiphop.com/rumors/meek-mill-gets-roasted-over-viral-photo/",
+      "title": "Cardi B Slays Met Gala In Skin Tight Sheer Black Lace & Teal Mermaid Gown",
+      "url": "https://allhiphop.com/news/cardi-b-slays-met-gala-in-skin-tight-sheer-black-lace-teal-mermaid-gown/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Shyne’s Brooklyn Homecoming: The Concert A Prison Sentence & Deportation Couldn’t Stop",
-      "url": "https://allhiphop.com/features/shynes-brooklyn-homecoming-the-concert-a-prison-sentence-deportation-couldnt-stop/",
+      "title": "Meek Mill Gets Roasted Over Viral Photo",
+      "url": "https://allhiphop.com/rumors/meek-mill-gets-roasted-over-viral-photo/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,15 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "The Witcher 3 director says Crimson Desert and Clair Obscur: Expedition 33 take him back to the golden age of RPGs 7 Comments",
-      "url": "https://www.gamesradar.com/games/rpg/the-witcher-3-director-says-games-like-crimson-desert-and-clair-obscur-expedition-33-take-him-back-to-the-rpg-golden-age-of-the-90s/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans",
-      "url": "https://kotaku.com/star-wars-fate-old-republic-casey-hudson-arcanaut-bioware-2000693261",
+      "title": "A new Elden Ring world record was set just 2 weeks ago, and I keep rewatching the same part",
+      "url": "https://www.gamesradar.com/games/action-rpg/a-new-elden-ring-world-record-was-set-just-2-weeks-ago-and-like-everyone-else-i-keep-rewatching-the-same-part-of-the-52-minute-speedrun/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News Fake Saros PS5 Story Details Are Circulating Online - Here's What Actually Happens",
-      "url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
+      "title": "The Witcher 3 director says Crimson Desert and Clair Obscur: Expedition 33 take him back to the golden age of RPGs 7 Comments",
+      "url": "https://www.gamesradar.com/games/rpg/the-witcher-3-director-says-games-like-crimson-desert-and-clair-obscur-expedition-33-take-him-back-to-the-rpg-golden-age-of-the-90s/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
+      "url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
