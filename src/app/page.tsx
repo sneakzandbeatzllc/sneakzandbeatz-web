@@ -4,6 +4,7 @@ import TrendingTicker from "@/components/TrendingTicker";
 import DropsFeed from "@/components/DropsFeed";
 import FeaturedStory from "@/components/FeaturedStory";
 import BrandPhotos from "@/components/BrandPhotos";
+import TikTokFeed from "@/components/TikTokFeed";
 import CreatorsCTA from "@/components/CreatorsCTA";
 import PHRHXShow from "@/components/PHRHXShow";
 import BeatStore from "@/components/BeatStore";
@@ -33,6 +34,7 @@ export default async function HomePage() {
       <PHRHXShow />
       <BeatStore />
       <BrandPhotos />
+      <TikTokFeed />
       <CreatorsCTA />
       <SubstackSticker />
       <Footer />

@@ -3063,6 +3063,137 @@ nav.primary a:hover { color: var(--highlight); }
 }
 
 /* ============================================================
+   TikTokFeed — homepage horizontal-scroll TikTok reel
+   ============================================================ */
+.tiktok-feed {
+  padding: 56px 0 32px;
+  border-top: 1px solid var(--line);
+  background:
+    radial-gradient(circle at 80% 20%, rgba(146,243,124,0.05) 0%, transparent 55%),
+    radial-gradient(circle at 20% 80%, rgba(200,38,44,0.05) 0%, transparent 55%);
+}
+.tiktok-feed-header {
+  max-width: 760px;
+  margin-bottom: 24px;
+}
+.tiktok-feed-eyebrow {
+  display: inline-block;
+  font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase;
+  font-weight: 700; color: var(--accent);
+  padding: 4px 10px; border: 1px solid var(--accent); border-radius: 999px;
+  margin-bottom: 16px;
+}
+.tiktok-feed-h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(28px, 4vw, 44px);
+  letter-spacing: 0.005em;
+  line-height: 1.1;
+  margin: 0 0 14px;
+}
+.tiktok-feed-h2 .accent { color: var(--accent); }
+.tiktok-feed-sub {
+  color: var(--text-soft);
+  font-size: 15px;
+  line-height: 1.65;
+  margin: 0;
+}
+.tiktok-feed-handle {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.tiktok-feed-rail {
+  display: flex;
+  gap: 18px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding: 8px 2px 18px;
+  margin-bottom: 18px;
+  scrollbar-width: thin;
+}
+.tiktok-feed-rail::-webkit-scrollbar { height: 6px; }
+.tiktok-feed-rail::-webkit-scrollbar-thumb {
+  background: var(--line);
+  border-radius: 3px;
+}
+
+.tiktok-feed-card {
+  flex: 0 0 320px;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.tiktok-feed-card .tiktok-embed {
+  margin: 0 !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+}
+.tiktok-feed-caption {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-soft);
+  margin: 0;
+  padding: 0 4px;
+}
+
+/* Placeholder tiles when PINNED_VIDEOS is empty */
+.tiktok-feed-placeholder {
+  height: 568px; /* matches TikTok embed default ~9:16 aspect at 320px wide */
+  border: 1px dashed var(--line);
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+.tiktok-feed-placeholder:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+.tiktok-feed-placeholder-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  text-align: center;
+  padding: 28px;
+}
+.tiktok-feed-placeholder-icon {
+  font-size: 38px;
+  color: var(--accent);
+  opacity: 0.7;
+}
+.tiktok-feed-placeholder-label {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 22px;
+  letter-spacing: 0.02em;
+  color: var(--text);
+}
+.tiktok-feed-placeholder-cta {
+  font-size: 12px;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+}
+
+.tiktok-feed-footer {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 4px;
+}
+
+@media (max-width: 720px) {
+  .tiktok-feed-card { flex: 0 0 280px; }
+  .tiktok-feed-placeholder { height: 498px; }
+}
+
+/* ============================================================
    CreatorsCTA — homepage teaser pulling creators to /creators
    ============================================================ */
 .creators-cta {
