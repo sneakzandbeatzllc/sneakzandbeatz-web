@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T01:04:01+00:00",
+  "generated_utc": "2026-05-05T01:48:48+00:00",
   "items": [
     {
       "id": "76fa27931ba0",
@@ -113,6 +113,17 @@
       "score": 1.0
     },
     {
+      "id": "9c4608176ee0",
+      "pillar": "hiphop",
+      "title": "Dave Chappelle Brings Kanye West Onstage & Roasts Him As Rapper Gets Standing Oviation",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/dave-chappelle-brings-kanye-west-onstage-roasts-him-as-rapper-gets-standing-oviation/",
+      "thumbnail": "/drops/thumbs/9c4608176ee0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "fd4e06431704",
       "pillar": "hiphop",
       "title": "Isaiah Rashad Reveals ‘It’s Been Awful’ Tracklist Feat. SZA & More",
@@ -130,6 +141,17 @@
       "source": "LetsTalkBattleRap",
       "source_url": "https://www.letstalkbattlerap.com/a-tarnished-king-what-now/",
       "thumbnail": "/drops/thumbs/e3a74b211687.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "efe2c6cc3d4b",
+      "pillar": "hiphop",
+      "title": "Meek Mill Gets Roasted Over Viral Photo",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/meek-mill-gets-roasted-over-viral-photo/",
+      "thumbnail": "/drops/thumbs/efe2c6cc3d4b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -157,39 +179,6 @@
       "score": 1.0
     },
     {
-      "id": "410aec549c2a",
-      "pillar": "hiphop",
-      "title": "JAY-Z Was Dissing Cam’ron On “Otis” This Entire Time",
-      "source": "HipHopDX",
-      "source_url": "https://hiphopdx.com/news/jay-z-camron-diss-otis/",
-      "thumbnail": "/drops/thumbs/410aec549c2a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "5399b95ec491",
-      "pillar": "hiphop",
-      "title": "URL 2026 Scouting Report",
-      "source": "LetsTalkBattleRap",
-      "source_url": "https://www.letstalkbattlerap.com/url-2026-scouting-report/",
-      "thumbnail": "/drops/thumbs/5399b95ec491.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "8524902c050d",
-      "pillar": "anime",
-      "title": "Witch Hat Atelier Anime Reveals More Cast",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/witch-hat-atelier-anime-reveals-more-cast/.237081",
-      "thumbnail": "/drops/thumbs/8524902c050d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
       "id": "7018ed0e9325",
       "pillar": "anime",
       "title": "A Hundred Scenes of Awajima is the most beautiful anime you're not watching this season",
@@ -212,12 +201,23 @@
       "score": 1.0
     },
     {
-      "id": "d0c91bdcfe85",
+      "id": "324827d209c4",
       "pillar": "anime",
-      "title": "That's My Atypical Girl's Renji Morita Launches New Manga on May 24",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/that-my-atypical-girl-renji-morita-launches-new-manga-on-may-24/.237064",
-      "thumbnail": "/drops/thumbs/d0c91bdcfe85.jpg",
+      "title": "Forza Horizon 6 has me rewatching the best racing anime ever made",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/forza-horizon-6-has-me-rewatching-the-best-racing-anime-ever-made/",
+      "thumbnail": "/drops/thumbs/324827d209c4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "871dab285673",
+      "pillar": "anime",
+      "title": "New Solo Leveling Series Just Got Its First Major Update From Series Star",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-live-action-update-star/",
+      "thumbnail": "/drops/thumbs/871dab285673.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -238,7 +238,7 @@
     "76fa27931ba0",
     "8fc954796ec6",
     "df871e9265e0",
-    "8524902c050d",
+    "7018ed0e9325",
     "4c4d411abb04",
     "4751dfb14545"
   ]
