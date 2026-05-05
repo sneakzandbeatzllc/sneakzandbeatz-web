@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T19:26:29+00:00",
+  "generated_utc": "2026-05-05T19:31:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "New Solo Leveling Series Just Got Its First Major Update From Series Star",
-      "url": "https://screenrant.com/solo-leveling-live-action-update-star/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The One Piece Anime Remake Unveils 300-Minute February 2027 Global Debut",
       "url": "https://www.animenewsnetwork.com/news/2026-05-05/the-one-piece-anime-remake-unveils-300-minute-february-2027-global-debut/.237099",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Ultraman: Along Came a Spider-Man Manga Ends in 5th Volume",
       "url": "https://www.animenewsnetwork.com/news/2026-05-05/ultraman-along-came-a-spider-man-manga-ends-in-5th-volume/.237083",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "10 best donghua shows that rival Japan's biggest anime",
+      "url": "https://www.polygon.com/best-donghua-chinese-anime-list-netflix-crunchyroll/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
