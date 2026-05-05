@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T11:08:00+00:00",
+  "generated_utc": "2026-05-05T11:52:04+00:00",
   "items": [
     {
       "id": "76fa27931ba0",
@@ -179,6 +179,17 @@
       "score": 1.0
     },
     {
+      "id": "14ff8f5143ef",
+      "pillar": "anime",
+      "title": "Liar Game Anime Casts Yō Taichi as Yūji Fukunaga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-05/liar-game-anime-casts-yo-taichi-as-yuji-fukunaga/.237089",
+      "thumbnail": "/drops/thumbs/14ff8f5143ef.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "19f2474118f0",
       "pillar": "anime",
       "title": "Anime fans will be able to complain about Attack on Titan's ending in 4K soon",
@@ -196,6 +207,17 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/attack-on-titan-last-attack-release-2026/",
       "thumbnail": "/drops/thumbs/74a5e68af0e8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "8524902c050d",
+      "pillar": "anime",
+      "title": "Witch Hat Atelier Anime Reveals More Cast",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/witch-hat-atelier-anime-reveals-more-cast/.237081",
+      "thumbnail": "/drops/thumbs/8524902c050d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -223,45 +245,23 @@
       "score": 1.0
     },
     {
+      "id": "d0c91bdcfe85",
+      "pillar": "anime",
+      "title": "That's My Atypical Girl's Renji Morita Launches New Manga on May 24",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/that-my-atypical-girl-renji-morita-launches-new-manga-on-may-24/.237064",
+      "thumbnail": "/drops/thumbs/d0c91bdcfe85.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "6e32e50a2df9",
       "pillar": "anime",
       "title": "After Years Of Controversy, Jujutsu Kaisen's Studio Is Changing The Anime Industry With One Revolutionary Step",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/mappa-changing-anime-industry-revolutionary-jujutsu-kaisen/",
       "thumbnail": "/drops/thumbs/6e32e50a2df9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "33965a6fc354",
-      "pillar": "anime",
-      "title": "One Piece Just Dropped The Ultimate Death Note Tribute, With A Surprising Hero Becoming Light",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-anime-morgans-death-note-light-writing/",
-      "thumbnail": "/drops/thumbs/33965a6fc354.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "c1bbdf0f4dbd",
-      "pillar": "anime",
-      "title": "It's Official, This Is The Greatest One Piece Movie Of All Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/its-official-this-is-the-greatest-one-piece-movie-of-all-time/",
-      "thumbnail": "/drops/thumbs/c1bbdf0f4dbd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "1bd97c6adec1",
-      "pillar": "anime",
-      "title": "A Generation-Defining Isekai Epic Officially Has Modern Anime's Best Love-Triangle",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/reincarnated-slime-tears-of-the-azure-sea-anime-best-love-triangle/",
-      "thumbnail": "/drops/thumbs/1bd97c6adec1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -289,12 +289,12 @@
       "score": 1.0
     },
     {
-      "id": "8f8b3edf0b88",
+      "id": "f69e68e737d2",
       "pillar": "gaming",
-      "title": "Rockstar Has A Temporary New Job Opening For “Global Campaigns” – Is This For GTA 6?",
+      "title": "Take-Two CEO Explains Why GTA 6 Selling 10 Million Units Would Be Disastrous",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562551/article/rockstar-has-a-temporary-new-job-opening-for-global-campaigns-is-this-for-gta-6/",
-      "thumbnail": "/drops/thumbs/8f8b3edf0b88.jpg",
+      "source_url": "https://gameranx.com/updates/id/562565/article/take-two-ceo-explains-why-gta-6-selling-10-million-units-would-be-disastrous/",
+      "thumbnail": "/drops/thumbs/f69e68e737d2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -333,12 +333,12 @@
       "score": 1.0
     },
     {
-      "id": "57dc50e907b4",
+      "id": "8f8b3edf0b88",
       "pillar": "gaming",
-      "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
+      "title": "Rockstar Has A Temporary New Job Opening For “Global Campaigns” – Is This For GTA 6?",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
-      "thumbnail": "/drops/thumbs/57dc50e907b4.jpg",
+      "source_url": "https://gameranx.com/updates/id/562551/article/rockstar-has-a-temporary-new-job-opening-for-global-campaigns-is-this-for-gta-6/",
+      "thumbnail": "/drops/thumbs/8f8b3edf0b88.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -359,7 +359,7 @@
     "76fa27931ba0",
     "8fc954796ec6",
     "df871e9265e0",
-    "19f2474118f0",
+    "14ff8f5143ef",
     "4c4d411abb04",
     "4751dfb14545"
   ]
