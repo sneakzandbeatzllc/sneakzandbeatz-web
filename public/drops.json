@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T17:29:23+00:00",
+  "generated_utc": "2026-05-05T17:56:46+00:00",
   "items": [
     {
       "id": "9bfec617bf46",
@@ -20,17 +20,6 @@
       "source": "Sneakerfiles",
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-worlds-best-dad/",
       "thumbnail": "/drops/thumbs/738c08af9884.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "39c23ebf03bf",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
-      "thumbnail": "/drops/thumbs/39c23ebf03bf.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -58,12 +47,12 @@
       "score": 1.0
     },
     {
-      "id": "3111a2d5962f",
+      "id": "39c23ebf03bf",
       "pillar": "sneakers",
-      "title": "First Look at the Air Jordan 12 “Bloodlines” Releasing in May",
+      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-12-bloodlines-ct8013-001/",
-      "thumbnail": "/drops/thumbs/3111a2d5962f.webp",
+      "source_url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
+      "thumbnail": "/drops/thumbs/39c23ebf03bf.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -86,6 +75,17 @@
       "source": "Sneakerfiles",
       "source_url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-pink/",
       "thumbnail": "/drops/thumbs/25ce54be1aaa.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "3111a2d5962f",
+      "pillar": "sneakers",
+      "title": "First Look at the Air Jordan 12 “Bloodlines” Releasing in May",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-12-bloodlines-ct8013-001/",
+      "thumbnail": "/drops/thumbs/3111a2d5962f.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -322,6 +322,17 @@
       "score": 1.0
     },
     {
+      "id": "9b04ac099043",
+      "pillar": "gaming",
+      "title": "The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/star-wars-fate-old-republic-casey-hudson-arcanaut-bioware-2000693261",
+      "thumbnail": "/drops/thumbs/9b04ac099043.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "15dc43442e88",
       "pillar": "gaming",
       "title": "News A New Saros PS5 Update Is Available to Download Now",
@@ -342,17 +353,6 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0
-    },
-    {
-      "id": "57dc50e907b4",
-      "pillar": "gaming",
-      "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
-      "thumbnail": "/drops/thumbs/57dc50e907b4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
     }
   ],
   "homepage": [
@@ -360,7 +360,7 @@
     "8fc954796ec6",
     "738c08af9884",
     "74a5e68af0e8",
-    "39c23ebf03bf",
+    "4c4d411abb04",
     "8fef30a7bd49"
   ]
 }
