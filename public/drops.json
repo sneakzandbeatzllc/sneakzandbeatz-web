@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T15:26:31+00:00",
+  "generated_utc": "2026-05-05T16:28:03+00:00",
   "items": [
     {
       "id": "9bfec617bf46",
@@ -234,23 +234,23 @@
       "score": 1.0
     },
     {
+      "id": "b52187934eda",
+      "pillar": "anime",
+      "title": "The One Piece: Here's Exactly How Much the Netflix Remake Will Adapt",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-remake-anime-remake-length-explained/",
+      "thumbnail": "/drops/thumbs/b52187934eda.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "2ddfa744ba01",
       "pillar": "anime",
       "title": "One Piece's Wit Studio Remake Finally Locks Down Release Date",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/netflix-one-piece-wit-studio-release-date-window-confirmed/",
       "thumbnail": "/drops/thumbs/2ddfa744ba01.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "33965a6fc354",
-      "pillar": "anime",
-      "title": "One Piece Just Dropped The Ultimate Death Note Tribute, With A Surprising Hero Becoming Light",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-anime-morgans-death-note-light-writing/",
-      "thumbnail": "/drops/thumbs/33965a6fc354.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -322,17 +322,6 @@
       "score": 1.0
     },
     {
-      "id": "82a3db5f38da",
-      "pillar": "gaming",
-      "title": "Saros Is At The Center Of A Misinformation Campaign",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/saros-arjun-ending-spoilers-relationship-explained-2000692965",
-      "thumbnail": "/drops/thumbs/82a3db5f38da.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
       "id": "15dc43442e88",
       "pillar": "gaming",
       "title": "News A New Saros PS5 Update Is Available to Download Now",
@@ -350,6 +339,17 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
       "thumbnail": "/drops/thumbs/e4d701718042.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "57dc50e907b4",
+      "pillar": "gaming",
+      "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
+      "thumbnail": "/drops/thumbs/57dc50e907b4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
