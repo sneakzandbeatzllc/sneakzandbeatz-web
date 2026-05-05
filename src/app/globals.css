@@ -3120,16 +3120,42 @@ nav.primary a:hover { color: var(--highlight); }
 }
 
 .tiktok-feed-card {
-  flex: 0 0 320px;
+  flex: 0 0 300px;
+  max-width: 92vw;
   scroll-snap-align: start;
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
-.tiktok-feed-card .tiktok-embed {
-  margin: 0 !important;
-  max-width: 100% !important;
-  min-width: 0 !important;
+/* The 9:16 aspect ratio frame that holds either the TikTok player iframe
+   or the pre-mount skeleton. Aspect-ratio handles vertical sizing
+   automatically — no fixed height that breaks on different viewports. */
+.tiktok-feed-frame {
+  width: 100%;
+  aspect-ratio: 9 / 16;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #000;
+  position: relative;
+}
+.tiktok-feed-iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
+.tiktok-feed-skeleton {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, #0a0a0a 0%, #1a1a1a 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tiktok-feed-skeleton-icon {
+  font-size: 38px;
+  color: var(--accent);
+  opacity: 0.5;
 }
 .tiktok-feed-caption {
   font-size: 13px;
@@ -3141,7 +3167,9 @@ nav.primary a:hover { color: var(--highlight); }
 
 /* Placeholder tiles when PINNED_VIDEOS is empty */
 .tiktok-feed-placeholder {
-  height: 568px; /* matches TikTok embed default ~9:16 aspect at 320px wide */
+  aspect-ratio: 9 / 16;
+  width: 300px;
+  max-width: 92vw;
   border: 1px dashed var(--line);
   border-radius: 14px;
   background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0));
@@ -3189,8 +3217,9 @@ nav.primary a:hover { color: var(--highlight); }
 }
 
 @media (max-width: 720px) {
-  .tiktok-feed-card { flex: 0 0 280px; }
-  .tiktok-feed-placeholder { height: 498px; }
+  .tiktok-feed-card { flex: 0 0 260px; }
+  .tiktok-feed-placeholder { width: 260px; }
+  .tiktok-feed-rail { gap: 12px; padding: 8px 2px 14px; }
 }
 
 /* ============================================================

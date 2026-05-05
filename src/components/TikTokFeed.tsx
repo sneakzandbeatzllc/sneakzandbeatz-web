@@ -5,61 +5,96 @@
  *
  * Homepage horizontal-scroll TikTok reel for @SneakzandBeatzOfficial.
  *
- * Design rules:
- *   - Pulls pinned video IDs from src/data/tiktok.ts (no API key required;
- *     no public TikTok user RSS exists, so the shelf is hand-curated).
- *   - Uses TikTok's official <blockquote class="tiktok-embed"> + embed.js.
- *     Loaded ONCE at component mount; idempotent on subsequent renders.
- *   - Horizontal scroll-snap container — user swipes/scrolls, embeds load
- *     lazily as they enter the viewport. No autoplay-with-audio carousel —
- *     would be a UX disaster on a page that already has the show + beats.
+ * Auto-play architecture:
+ *   - Uses TikTok's player v1 iframe (https://www.tiktok.com/player/v1/{id})
+ *     with `autoplay=1&mute=1&loop=1` so videos play silently the moment
+ *     the iframe mounts. Browsers require muted for autoplay; the user
+ *     can tap to unmute.
+ *   - Each card uses IntersectionObserver to delay iframe mount until
+ *     the card scrolls into view (rootMargin 200px). This means only the
+ *     visible video is fetching network/CPU; off-screen cards stay as
+ *     lightweight skeletons until they're about to be seen.
+ *   - Once an iframe has mounted, it stays mounted (avoids flicker on
+ *     scroll-back). For more aggressive bandwidth control later we can
+ *     add scroll-out unmount + postMessage pause to TikTok's player API.
+ *
+ * Fallbacks:
  *   - Empty PINNED_VIDEOS → 3 placeholder tiles linking to the profile so
  *     the section never ships hollow.
- *   - Auto-hides if the SOCIAL.tiktok.enabled flag is ever set false in
- *     data/social.ts (currently always live).
+ *   - Card width is capped at 92vw on mobile so a single card never
+ *     dominates the viewport.
  *
  * Style class root: .tiktok-feed — see globals.css "TikTokFeed" section.
  */
 
-import { useEffect, useRef } from "react";
-import { PINNED_VIDEOS, TIKTOK_PROFILE_URL, TIKTOK_HANDLE } from "@/data/tiktok";
+import { useEffect, useRef, useState } from "react";
+import { PINNED_VIDEOS, TIKTOK_PROFILE_URL, TIKTOK_HANDLE, type PinnedTikTok } from "@/data/tiktok";
 
-const EMBED_SCRIPT_SRC = "https://www.tiktok.com/embed.js";
+function TikTokVideoCard({ video }: { video: PinnedTikTok }) {
+  const containerRef = useRef<HTMLDivElement>(null);
+  const [shouldMount, setShouldMount] = useState(false);
 
-/**
- * Idempotently inject TikTok's embed.js into <head>. If it's already
- * present, ask it to re-scan for new blockquotes (handles client-side
- * route changes — Next.js App Router can keep the script around but
- * not re-trigger it).
- */
-function loadTikTokEmbedScript() {
-  if (typeof window === "undefined") return;
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
 
-  // Already loaded — ask it to re-render embeds (handles SPA navigation)
-  // The script exposes window.tiktokEmbed.lib once parsed.
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const tt = (window as any).tiktokEmbed;
-  if (tt && typeof tt.lib?.render === "function") {
-    try { tt.lib.render(); } catch { /* swallow — non-fatal */ }
-    return;
-  }
+    // If IntersectionObserver isn't supported (very old browsers), just
+    // mount immediately — better to load a video than to show a blank.
+    if (typeof IntersectionObserver === "undefined") {
+      setShouldMount(true);
+      return;
+    }
 
-  // Not loaded — inject once
-  if (document.querySelector(`script[src="${EMBED_SCRIPT_SRC}"]`)) return;
-  const s = document.createElement("script");
-  s.src = EMBED_SCRIPT_SRC;
-  s.async = true;
-  document.body.appendChild(s);
+    const obs = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            setShouldMount(true);
+            obs.disconnect(); // mount-once is enough
+            return;
+          }
+        }
+      },
+      { rootMargin: "200px 0px" } // pre-load slightly before viewport edge
+    );
+
+    obs.observe(el);
+    return () => obs.disconnect();
+  }, []);
+
+  // TikTok player v1 supports: autoplay, mute, loop, controls, description,
+  // music_info as query params. We start muted (browser autoplay policy)
+  // and let TikTok's UI handle unmute on tap.
+  const playerUrl =
+    `https://www.tiktok.com/player/v1/${video.id}` +
+    `?autoplay=1&mute=1&loop=1&description=0&music_info=1&controls=1`;
+
+  return (
+    <div ref={containerRef} className="tiktok-feed-card">
+      <div className="tiktok-feed-frame">
+        {shouldMount ? (
+          <iframe
+            src={playerUrl}
+            className="tiktok-feed-iframe"
+            allow="autoplay; encrypted-media; picture-in-picture; web-share"
+            allowFullScreen
+            title={`TikTok video ${video.id}`}
+            loading="lazy"
+          />
+        ) : (
+          <div className="tiktok-feed-skeleton" aria-hidden="true">
+            <div className="tiktok-feed-skeleton-icon">▶</div>
+          </div>
+        )}
+      </div>
+      {video.caption && (
+        <p className="tiktok-feed-caption">{video.caption}</p>
+      )}
+    </div>
+  );
 }
 
 export default function TikTokFeed() {
-  const containerRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    if (PINNED_VIDEOS.length === 0) return;
-    loadTikTokEmbedScript();
-  }, []);
-
   const hasVideos = PINNED_VIDEOS.length > 0;
 
   return (
@@ -85,34 +120,12 @@ export default function TikTokFeed() {
           </p>
         </header>
 
-        <div className="tiktok-feed-rail" ref={containerRef}>
+        <div className="tiktok-feed-rail">
           {hasVideos ? (
             PINNED_VIDEOS.map((v) => (
-              <div key={v.id} className="tiktok-feed-card">
-                <blockquote
-                  className="tiktok-embed"
-                  cite={`https://www.tiktok.com/@SneakzandBeatzOfficial/video/${v.id}`}
-                  data-video-id={v.id}
-                >
-                  <section>
-                    <a
-                      href={`https://www.tiktok.com/@SneakzandBeatzOfficial/video/${v.id}`}
-                      target="_blank"
-                      rel="noopener"
-                    >
-                      Loading TikTok…
-                    </a>
-                  </section>
-                </blockquote>
-                {v.caption && (
-                  <p className="tiktok-feed-caption">{v.caption}</p>
-                )}
-              </div>
+              <TikTokVideoCard key={v.id} video={v} />
             ))
           ) : (
-            // Placeholders — 3 tiles linking to the profile so the
-            // homepage never ships an empty shelf. Removed the moment
-            // PINNED_VIDEOS gets its first entry.
             <>
               {[0, 1, 2].map((i) => (
                 <a
