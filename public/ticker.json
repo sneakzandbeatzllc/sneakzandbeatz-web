@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T14:25:06+00:00",
+  "generated_utc": "2026-05-05T15:26:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -165,9 +165,16 @@
       "article_slug": null
     },
     {
-      "title": "Let Me Fix You Anime Delayed After Grooming Allegations Against Buta Productions Co-Founder FAR",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-05/let-me-fix-you-anime-delayed-after-grooming-allegations-against-buta-productions-co-founder-far/.237074",
+      "title": "Shōko Nakagawa Performs 2nd Ending Theme Song for The Classroom of a Black Cat and a Witch Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-05/shoko-nakagawa-performs-2nd-ending-theme-song-for-the-classroom-of-a-black-cat-and-a-witch-anime/.237100",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News USA Bank Wants You to Pay $80 for GTA 6 So Other Devs Can Charge More Too",
+      "url": "https://www.pushsquare.com/news/2026/05/usa-bank-wants-you-to-pay-usd80-for-gta-6-so-other-devs-can-charge-more-too",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -193,14 +200,7 @@
       "article_slug": null
     },
     {
-      "title": "News Fake Saros PS5 Story Details Are Circulating Online - Here's What Actually Happens",
-      "url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Witcher 3 director says Crimson Desert and Clair Obscur: Expedition 33 take him back to the golden age of RPGs 6 Comments",
+      "title": "The Witcher 3 director says Crimson Desert and Clair Obscur: Expedition 33 take him back to the golden age of RPGs 7 Comments",
       "url": "https://www.gamesradar.com/games/rpg/the-witcher-3-director-says-games-like-crimson-desert-and-clair-obscur-expedition-33-take-him-back-to-the-rpg-golden-age-of-the-90s/",
       "pillar": "gaming",
       "score": 1.0,
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
-      "url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
+      "title": "News A New Saros PS5 Update Is Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/05/a-new-saros-ps5-update-is-available-to-download-now",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News A Nail in PS4's Coffin, Call of Duty Will Finally Ditch Last-Gen Console",
-      "url": "https://www.pushsquare.com/news/2026/05/a-nail-in-ps4s-coffin-call-of-duty-will-finally-ditch-last-gen-console",
+      "title": "News Fake Saros PS5 Story Details Are Circulating Online - Here's What Actually Happens",
+      "url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

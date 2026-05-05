@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T14:25:06+00:00",
+  "generated_utc": "2026-05-05T15:26:31+00:00",
   "items": [
     {
       "id": "9bfec617bf46",
@@ -256,12 +256,23 @@
       "score": 1.0
     },
     {
-      "id": "7342be8071d5",
+      "id": "58a356872584",
       "pillar": "anime",
-      "title": "Let Me Fix You Anime Delayed After Grooming Allegations Against Buta Productions Co-Founder FAR",
+      "title": "Shōko Nakagawa Performs 2nd Ending Theme Song for The Classroom of a Black Cat and a Witch Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-05/let-me-fix-you-anime-delayed-after-grooming-allegations-against-buta-productions-co-founder-far/.237074",
-      "thumbnail": "/drops/thumbs/7342be8071d5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-05/shoko-nakagawa-performs-2nd-ending-theme-song-for-the-classroom-of-a-black-cat-and-a-witch-anime/.237100",
+      "thumbnail": "/drops/thumbs/58a356872584.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "8fef30a7bd49",
+      "pillar": "gaming",
+      "title": "News USA Bank Wants You to Pay $80 for GTA 6 So Other Devs Can Charge More Too",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/usa-bank-wants-you-to-pay-usd80-for-gta-6-so-other-devs-can-charge-more-too",
+      "thumbnail": "/drops/thumbs/8fef30a7bd49.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -300,20 +311,9 @@
       "score": 1.0
     },
     {
-      "id": "e4d701718042",
-      "pillar": "gaming",
-      "title": "News Fake Saros PS5 Story Details Are Circulating Online - Here's What Actually Happens",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
-      "thumbnail": "/drops/thumbs/e4d701718042.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
       "id": "40da6b1df04f",
       "pillar": "gaming",
-      "title": "The Witcher 3 director says Crimson Desert and Clair Obscur: Expedition 33 take him back to the golden age of RPGs 6 Comments",
+      "title": "The Witcher 3 director says Crimson Desert and Clair Obscur: Expedition 33 take him back to the golden age of RPGs 7 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/rpg/the-witcher-3-director-says-games-like-crimson-desert-and-clair-obscur-expedition-33-take-him-back-to-the-rpg-golden-age-of-the-90s/",
       "thumbnail": "/drops/thumbs/40da6b1df04f.jpg",
@@ -333,23 +333,23 @@
       "score": 1.0
     },
     {
-      "id": "57dc50e907b4",
+      "id": "15dc43442e88",
       "pillar": "gaming",
-      "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
-      "thumbnail": "/drops/thumbs/57dc50e907b4.jpg",
+      "title": "News A New Saros PS5 Update Is Available to Download Now",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/a-new-saros-ps5-update-is-available-to-download-now",
+      "thumbnail": "/drops/thumbs/15dc43442e88.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
     },
     {
-      "id": "aa9693a9138c",
+      "id": "e4d701718042",
       "pillar": "gaming",
-      "title": "News A Nail in PS4's Coffin, Call of Duty Will Finally Ditch Last-Gen Console",
+      "title": "News Fake Saros PS5 Story Details Are Circulating Online - Here's What Actually Happens",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/a-nail-in-ps4s-coffin-call-of-duty-will-finally-ditch-last-gen-console",
-      "thumbnail": "/drops/thumbs/aa9693a9138c.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
+      "thumbnail": "/drops/thumbs/e4d701718042.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -361,6 +361,6 @@
     "738c08af9884",
     "74a5e68af0e8",
     "39c23ebf03bf",
-    "ee683c9ae467"
+    "8fef30a7bd49"
   ]
 }
