@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T09:06:23+00:00",
+  "generated_utc": "2026-05-05T09:51:09+00:00",
   "items": [
     {
       "id": "76fa27931ba0",
@@ -113,6 +113,17 @@
       "score": 1.0
     },
     {
+      "id": "0416a810f51a",
+      "pillar": "hiphop",
+      "title": "Donald Trump Attacks Former CEO Of Jay-Z & Meek Mill’s Reform Alliance In Unhinged Rant",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/donald-trump-attacks-former-ceo-of-jay-z-meek-mills-reform-alliance-in-unhinged-rant/",
+      "thumbnail": "/drops/thumbs/0416a810f51a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "fd4e06431704",
       "pillar": "hiphop",
       "title": "Isaiah Rashad Reveals ‘It’s Been Awful’ Tracklist Feat. SZA & More",
@@ -130,6 +141,17 @@
       "source": "LetsTalkBattleRap",
       "source_url": "https://www.letstalkbattlerap.com/a-tarnished-king-what-now/",
       "thumbnail": "/drops/thumbs/e3a74b211687.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "efe2c6cc3d4b",
+      "pillar": "hiphop",
+      "title": "Meek Mill Gets Roasted Over Viral Photo",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/meek-mill-gets-roasted-over-viral-photo/",
+      "thumbnail": "/drops/thumbs/efe2c6cc3d4b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -157,45 +179,12 @@
       "score": 1.0
     },
     {
-      "id": "78e0e0710f05",
-      "pillar": "hiphop",
-      "title": "New Music Friday: Isaiah Rashad, Gucci Mane, Doechii, Snoop Dogg, DJ Khaled & More",
-      "source": "HipHopDX",
-      "source_url": "https://hiphopdx.com/news/new-music-friday-isaiah-rashad-gucci-mane-doechii-snoop-dogg-dj-khaled-more/",
-      "thumbnail": "/drops/thumbs/78e0e0710f05.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "5399b95ec491",
-      "pillar": "hiphop",
-      "title": "URL 2026 Scouting Report",
-      "source": "LetsTalkBattleRap",
-      "source_url": "https://www.letstalkbattlerap.com/url-2026-scouting-report/",
-      "thumbnail": "/drops/thumbs/5399b95ec491.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "14ff8f5143ef",
+      "id": "19f2474118f0",
       "pillar": "anime",
-      "title": "Liar Game Anime Casts Yō Taichi as Yūji Fukunaga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-05/liar-game-anime-casts-yo-taichi-as-yuji-fukunaga/.237089",
-      "thumbnail": "/drops/thumbs/14ff8f5143ef.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "7018ed0e9325",
-      "pillar": "anime",
-      "title": "A Hundred Scenes of Awajima is the most beautiful anime you're not watching this season",
+      "title": "Anime fans will be able to complain about Attack on Titan's ending in 4K soon",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/a-hundred-scenes-of-awajimi-is-the-most-beautiful-anime-youre-not-watching-this-season/",
-      "thumbnail": "/drops/thumbs/7018ed0e9325.png",
+      "source_url": "https://www.polygon.com/attack-on-titan-ending-the-last-attack-4k-theaters-crunchyroll/",
+      "thumbnail": "/drops/thumbs/19f2474118f0.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -212,23 +201,12 @@
       "score": 1.0
     },
     {
-      "id": "8524902c050d",
+      "id": "7018ed0e9325",
       "pillar": "anime",
-      "title": "Witch Hat Atelier Anime Reveals More Cast",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/witch-hat-atelier-anime-reveals-more-cast/.237081",
-      "thumbnail": "/drops/thumbs/8524902c050d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "324827d209c4",
-      "pillar": "anime",
-      "title": "Forza Horizon 6 has me rewatching the best racing anime ever made",
+      "title": "A Hundred Scenes of Awajima is the most beautiful anime you're not watching this season",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/forza-horizon-6-has-me-rewatching-the-best-racing-anime-ever-made/",
-      "thumbnail": "/drops/thumbs/324827d209c4.jpg",
+      "source_url": "https://www.polygon.com/a-hundred-scenes-of-awajimi-is-the-most-beautiful-anime-youre-not-watching-this-season/",
+      "thumbnail": "/drops/thumbs/7018ed0e9325.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -245,23 +223,45 @@
       "score": 1.0
     },
     {
-      "id": "d0c91bdcfe85",
-      "pillar": "anime",
-      "title": "That's My Atypical Girl's Renji Morita Launches New Manga on May 24",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-04/that-my-atypical-girl-renji-morita-launches-new-manga-on-may-24/.237064",
-      "thumbnail": "/drops/thumbs/d0c91bdcfe85.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
       "id": "6e32e50a2df9",
       "pillar": "anime",
       "title": "After Years Of Controversy, Jujutsu Kaisen's Studio Is Changing The Anime Industry With One Revolutionary Step",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/mappa-changing-anime-industry-revolutionary-jujutsu-kaisen/",
       "thumbnail": "/drops/thumbs/6e32e50a2df9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "33965a6fc354",
+      "pillar": "anime",
+      "title": "One Piece Just Dropped The Ultimate Death Note Tribute, With A Surprising Hero Becoming Light",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-anime-morgans-death-note-light-writing/",
+      "thumbnail": "/drops/thumbs/33965a6fc354.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "c1bbdf0f4dbd",
+      "pillar": "anime",
+      "title": "It's Official, This Is The Greatest One Piece Movie Of All Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/its-official-this-is-the-greatest-one-piece-movie-of-all-time/",
+      "thumbnail": "/drops/thumbs/c1bbdf0f4dbd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "1bd97c6adec1",
+      "pillar": "anime",
+      "title": "A Generation-Defining Isekai Epic Officially Has Modern Anime's Best Love-Triangle",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/reincarnated-slime-tears-of-the-azure-sea-anime-best-love-triangle/",
+      "thumbnail": "/drops/thumbs/1bd97c6adec1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -359,7 +359,7 @@
     "76fa27931ba0",
     "8fc954796ec6",
     "df871e9265e0",
-    "14ff8f5143ef",
+    "19f2474118f0",
     "4c4d411abb04",
     "4751dfb14545"
   ]
