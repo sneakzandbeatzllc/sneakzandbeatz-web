@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T16:28:13+00:00",
+  "generated_utc": "2026-05-05T16:55:29+00:00",
   "items": [
     {
       "id": "9bfec617bf46",
@@ -58,12 +58,12 @@
       "score": 1.0
     },
     {
-      "id": "df871e9265e0",
+      "id": "3111a2d5962f",
       "pillar": "sneakers",
-      "title": "The Air Jordan 10 “Red Steel” Returns Next Year for the First Time Since 2005",
+      "title": "First Look at the Air Jordan 12 “Bloodlines” Releasing in May",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-10-red-steel-hj6779-100/",
-      "thumbnail": "/drops/thumbs/df871e9265e0.webp",
+      "source_url": "https://justfreshkicks.com/air-jordan-12-bloodlines-ct8013-001/",
+      "thumbnail": "/drops/thumbs/3111a2d5962f.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -190,23 +190,23 @@
       "score": 1.0
     },
     {
+      "id": "8703350352ac",
+      "pillar": "anime",
+      "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
+      "thumbnail": "/drops/thumbs/8703350352ac.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "871dab285673",
       "pillar": "anime",
       "title": "New Solo Leveling Series Just Got Its First Major Update From Series Star",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/solo-leveling-live-action-update-star/",
       "thumbnail": "/drops/thumbs/871dab285673.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "6e32e50a2df9",
-      "pillar": "anime",
-      "title": "After Years Of Controversy, Jujutsu Kaisen's Studio Is Changing The Anime Industry With One Revolutionary Step",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/mappa-changing-anime-industry-revolutionary-jujutsu-kaisen/",
-      "thumbnail": "/drops/thumbs/6e32e50a2df9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -239,7 +239,7 @@
       "title": "The One Piece: Here's Exactly How Much the Netflix Remake Will Adapt",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-remake-anime-remake-length-explained/",
-      "thumbnail": "/drops/thumbs/b52187934eda.jpg",
+      "thumbnail": "/drops/thumbs/b52187934eda.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -322,6 +322,17 @@
       "score": 1.0
     },
     {
+      "id": "9b04ac099043",
+      "pillar": "gaming",
+      "title": "The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/star-wars-fate-old-republic-casey-hudson-arcanaut-bioware-2000693261",
+      "thumbnail": "/drops/thumbs/9b04ac099043.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "15dc43442e88",
       "pillar": "gaming",
       "title": "News A New Saros PS5 Update Is Available to Download Now",
@@ -339,17 +350,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
       "thumbnail": "/drops/thumbs/e4d701718042.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "57dc50e907b4",
-      "pillar": "gaming",
-      "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
-      "thumbnail": "/drops/thumbs/57dc50e907b4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0

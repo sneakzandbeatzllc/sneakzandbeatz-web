@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-05T16:28:13+00:00",
+  "generated_utc": "2026-05-05T16:55:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,8 +39,8 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 10 “Red Steel” Returns Next Year for the First Time Since 2005",
-      "url": "https://justfreshkicks.com/air-jordan-10-red-steel-hj6779-100/",
+      "title": "First Look at the Air Jordan 12 “Bloodlines” Releasing in May",
+      "url": "https://justfreshkicks.com/air-jordan-12-bloodlines-ct8013-001/",
       "pillar": "sneakers",
       "score": 1.0,
       "article_slug": null
@@ -123,15 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "New Solo Leveling Series Just Got Its First Major Update From Series Star",
-      "url": "https://screenrant.com/solo-leveling-live-action-update-star/",
+      "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
+      "url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "After Years Of Controversy, Jujutsu Kaisen's Studio Is Changing The Anime Industry With One Revolutionary Step",
-      "url": "https://screenrant.com/mappa-changing-anime-industry-revolutionary-jujutsu-kaisen/",
+      "title": "New Solo Leveling Series Just Got Its First Major Update From Series Star",
+      "url": "https://screenrant.com/solo-leveling-live-action-update-star/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans",
+      "url": "https://kotaku.com/star-wars-fate-old-republic-casey-hudson-arcanaut-bioware-2000693261",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News A New Saros PS5 Update Is Available to Download Now",
       "url": "https://www.pushsquare.com/news/2026/05/a-new-saros-ps5-update-is-available-to-download-now",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "News Fake Saros PS5 Story Details Are Circulating Online - Here's What Actually Happens",
       "url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
-      "url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
