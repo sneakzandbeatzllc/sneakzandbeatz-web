@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T18:18:53+00:00",
+  "generated_utc": "2026-05-06T18:22:01+00:00",
   "items": [
     {
       "id": "9bfec617bf46",
@@ -91,6 +91,28 @@
       "score": 1.0
     },
     {
+      "id": "8b26784adf2c",
+      "pillar": "hiphop",
+      "title": "Layla Rey Wants to Love You Better And She Means It",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/music/layla-rey-wants-to-love-you-better-and-she-means-it/",
+      "thumbnail": "/drops/thumbs/8b26784adf2c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "8d86b4fd9867",
+      "pillar": "hiphop",
+      "title": "Production Legend 9th Wonder Set To Graduate From NC HBCU This Weekend",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/06/production-legend-9th-wonder-set-to-graduate-from-nc-hbcu-this-weekend/",
+      "thumbnail": "/drops/thumbs/8d86b4fd9867.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "8fc954796ec6",
       "pillar": "hiphop",
       "title": "New Music Friday: Ludacris, 6LACK & 2 Chainz, Sexyy Red, Yasiin Bey & More",
@@ -113,12 +135,23 @@
       "score": 1.0
     },
     {
-      "id": "8b26784adf2c",
+      "id": "4b43eb62f9cc",
       "pillar": "hiphop",
-      "title": "Layla Rey Wants to Love You Better And She Means It",
+      "title": "Marv.P Shares ‘W.I.A.W.I’ Exclusively On Allhiphop",
       "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/layla-rey-wants-to-love-you-better-and-she-means-it/",
-      "thumbnail": "/drops/thumbs/8b26784adf2c.jpg",
+      "source_url": "https://allhiphop.com/music/marv-p-shares-w-i-a-w-i-exclusively-on-allhiphop/",
+      "thumbnail": "/drops/thumbs/4b43eb62f9cc.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "996d34e642ca",
+      "pillar": "hiphop",
+      "title": "CNN Founder and Philanthropist Ted Turner Passes Away At 87",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/06/cnn-founder-and-philanthropist-ted-turner-passes-away-at-87/",
+      "thumbnail": "/drops/thumbs/996d34e642ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -141,39 +174,6 @@
       "source": "LetsTalkBattleRap",
       "source_url": "https://www.letstalkbattlerap.com/a-tarnished-king-what-now/",
       "thumbnail": "/drops/thumbs/e3a74b211687.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "4b43eb62f9cc",
-      "pillar": "hiphop",
-      "title": "Marv.P Shares ‘W.I.A.W.I’ Exclusively On Allhiphop",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/marv-p-shares-w-i-a-w-i-exclusively-on-allhiphop/",
-      "thumbnail": "/drops/thumbs/4b43eb62f9cc.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "ccaf9f869cb2",
-      "pillar": "hiphop",
-      "title": "Wu-Tang Clan To Be Inducted Into Rock & Roll Hall of Fame",
-      "source": "HipHopDX",
-      "source_url": "https://hiphopdx.com/news/wu-tang-clan-rock-roll-hall-fame/",
-      "thumbnail": "/drops/thumbs/ccaf9f869cb2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "83f5ee94b9f6",
-      "pillar": "hiphop",
-      "title": "URLTV: Initiation 3 Takeaways + Power Rankings Update",
-      "source": "LetsTalkBattleRap",
-      "source_url": "https://www.letstalkbattlerap.com/urltv-intiation-3-takeaways-power-rankings-update/",
-      "thumbnail": "/drops/thumbs/83f5ee94b9f6.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -357,7 +357,7 @@
   ],
   "homepage": [
     "9bfec617bf46",
-    "8fc954796ec6",
+    "8b26784adf2c",
     "2d73c5fc1ad0",
     "8703350352ac",
     "738c08af9884",
