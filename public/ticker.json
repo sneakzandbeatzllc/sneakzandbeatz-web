@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T11:49:58+00:00",
+  "generated_utc": "2026-05-06T12:51:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -179,27 +179,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Is Not Blocked From Coming To PC By Any PlayStation Marketing Deal",
-      "url": "https://gameranx.com/updates/id/562567/article/gta-6-is-not-blocked-from-coming-to-pc-by-any-playstation-marketing-deal/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Take-Two CEO Explains Why GTA 6 Selling 10 Million Units Would Be Disastrous",
-      "url": "https://gameranx.com/updates/id/562565/article/take-two-ceo-explains-why-gta-6-selling-10-million-units-would-be-disastrous/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News A New Saros PS5 Update Is Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/05/a-new-saros-ps5-update-is-available-to-download-now",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "A new Elden Ring world record was set just 2 weeks ago, and I keep rewatching the same part",
       "url": "https://www.gamesradar.com/games/action-rpg/a-new-elden-ring-world-record-was-set-just-2-weeks-ago-and-like-everyone-else-i-keep-rewatching-the-same-part-of-the-52-minute-speedrun/",
       "pillar": "gaming",
@@ -223,6 +202,27 @@
     {
       "title": "Call Of Duty Team Mocks Attempt To Leak COD Modern Warfare IV’s Reveal",
       "url": "https://gameranx.com/updates/id/562577/article/call-of-duty-team-mocks-attempt-to-leak-cod-modern-warfare-ivs-reveal/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Assassin's Creed Calls Out AI-Edited Leak as Misinformation Spreads",
+      "url": "https://www.pushsquare.com/news/2026/05/assassins-creed-calls-out-ai-edited-leak-as-misinformation-spreads",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News RC Cars in The Crew Motorfest Looks Like the PS5, PS4 Racer's Most Fun Event Yet",
+      "url": "https://www.pushsquare.com/news/2026/05/rc-cars-in-the-crew-motorfest-looks-like-the-ps5-ps4-racers-most-fun-event-yet",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Microsoft Kills The Copilot AI For Xbox Nobody Wanted",
+      "url": "https://kotaku.com/microsoft-kills-the-copilot-ai-for-xbox-nobody-wanted-2000693358",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
