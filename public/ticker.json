@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T03:44:56+00:00",
+  "generated_utc": "2026-05-06T05:46:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -193,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "News A New Saros PS5 Update Is Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/05/a-new-saros-ps5-update-is-available-to-download-now",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "A new Elden Ring world record was set just 2 weeks ago, and I keep rewatching the same part",
       "url": "https://www.gamesradar.com/games/action-rpg/a-new-elden-ring-world-record-was-set-just-2-weeks-ago-and-like-everyone-else-i-keep-rewatching-the-same-part-of-the-52-minute-speedrun/",
       "pillar": "gaming",
@@ -207,22 +214,15 @@
       "article_slug": null
     },
     {
+      "title": "News Fake Saros PS5 Story Details Are Circulating Online - Here's What Actually Happens",
+      "url": "https://www.pushsquare.com/news/2026/05/fake-saros-ps5-story-details-are-circulating-online-heres-what-actually-happens",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "This Is How Resident Evil Requiem Devs Saw The Reaction To DLSS5 AI Grace Ashcroft",
       "url": "https://gameranx.com/updates/id/562559/article/this-is-how-resident-evil-requiem-devs-saw-the-reaction-to-dlss5-ai-grace-ashcroft/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Exclusive Mortal Kombat 2 star says the first movie was \"kind of like a prequel\"",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/mortal-kombat-2-star-says-the-first-movie-was-kind-of-like-a-prequel-as-the-sequel-finally-launches-the-tournament/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Next Call of Duty Game Officially Confirmed Not Coming To PlayStation 4",
-      "url": "https://gameranx.com/updates/id/562561/article/next-call-of-duty-game-officially-confirmed-not-coming-to-playstation-4/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
