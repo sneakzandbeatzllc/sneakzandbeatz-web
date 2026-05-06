@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T20:52:27+00:00",
+  "generated_utc": "2026-05-06T21:21:07+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "d474ef4e3449",
+      "pillar": "hiphop",
+      "title": "NBA YoungBoy Reportedly Out at Rolling Loud — Here’s What We Know",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/nba-youngboy-reportedly-out-at-rolling-loud-heres-what-we-know/",
+      "thumbnail": "/drops/thumbs/d474ef4e3449.jpg",
+      "published": "2026-05-06T16:57:40",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e296097a7648",
       "pillar": "hiphop",
       "title": "HoodTrophy Bino Drops Highly Anticipated Album “Made a Way",
@@ -183,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "729194d5305c",
-      "pillar": "hiphop",
-      "title": "Boosie Badazz Becomes Unlikely Hero As Northside High Principal Returns To Work",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/boosie-badazz-becomes-unlikely-hero-as-northside-high-principal-returns-to-work/",
-      "thumbnail": "/drops/thumbs/729194d5305c.png",
-      "published": "2026-05-06T10:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8703350352ac",
       "pillar": "anime",
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
       "thumbnail": "/drops/thumbs/8703350352ac.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "eb071755a337",
-      "pillar": "anime",
-      "title": "Golden Trailer Awards Nominate Chainsaw Man: Reze Arc Anime Film, KPop Demon Hunters Film, More",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/golden-trailer-awards-nominate-chainsaw-man-reze-arc-anime-film-kpop-demon-hunters-film-more/.237119",
-      "thumbnail": "/drops/thumbs/eb071755a337.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "319c459b61b3",
-      "pillar": "anime",
-      "title": "Yu Muraoka's Hōkago Fantasy Manga Ends",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/yu-muraoka-hokago-fantasy-manga-ends/.237113",
-      "thumbnail": "/drops/thumbs/319c459b61b3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7f50cf139fe7",
       "pillar": "anime",
       "title": "Go with the Clouds, North-by-Northwest is one of the most engaging mystery manga in years",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/go-with-clouds-north-by-northwest-manga-recommendation/",
       "thumbnail": "/drops/thumbs/7f50cf139fe7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8f614021f8ae",
+      "pillar": "anime",
+      "title": "Lost Hayao Miyazaki Work Finally Gets Official Studio Ghibli Release",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/lost-hayao-miyazaki-art-studio-ghibli-release/",
+      "thumbnail": "/drops/thumbs/8f614021f8ae.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "533aba13ee34",
+      "pillar": "anime",
+      "title": "Daemons Of The Shadow Realm Gets Disappointing Crunchyroll Update",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/daemons-shadow-realm-dissapointing-crunchyroll-update/",
+      "thumbnail": "/drops/thumbs/533aba13ee34.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "e296097a7648",
+    "d474ef4e3449",
     "1f8cbf1d8983",
     "8703350352ac",
     "981d0fa1e35e",

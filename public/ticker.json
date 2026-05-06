@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T20:52:27+00:00",
+  "generated_utc": "2026-05-06T21:21:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "NBA YoungBoy Reportedly Out at Rolling Loud — Here’s What We Know",
+      "url": "https://allhiphop.com/rumors/nba-youngboy-reportedly-out-at-rolling-loud-heres-what-we-know/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "HoodTrophy Bino Drops Highly Anticipated Album “Made a Way",
       "url": "https://allhiphop.com/music/hoodtrophy-bino-drops-highly-anticipated-album-made-a-way/",
       "pillar": "hiphop",
@@ -109,22 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Boosie Badazz Becomes Unlikely Hero As Northside High Principal Returns To Work",
-      "url": "https://allhiphop.com/news/boosie-badazz-becomes-unlikely-hero-as-northside-high-principal-returns-to-work/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
       "url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Golden Trailer Awards Nominate Chainsaw Man: Reze Arc Anime Film, KPop Demon Hunters Film, More",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-06/golden-trailer-awards-nominate-chainsaw-man-reze-arc-anime-film-kpop-demon-hunters-film-more/.237119",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "Yu Muraoka's Hōkago Fantasy Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-06/yu-muraoka-hokago-fantasy-manga-ends/.237113",
+      "title": "Go with the Clouds, North-by-Northwest is one of the most engaging mystery manga in years",
+      "url": "https://www.polygon.com/go-with-clouds-north-by-northwest-manga-recommendation/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Go with the Clouds, North-by-Northwest is one of the most engaging mystery manga in years",
-      "url": "https://www.polygon.com/go-with-clouds-north-by-northwest-manga-recommendation/",
+      "title": "Lost Hayao Miyazaki Work Finally Gets Official Studio Ghibli Release",
+      "url": "https://screenrant.com/lost-hayao-miyazaki-art-studio-ghibli-release/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Daemons Of The Shadow Realm Gets Disappointing Crunchyroll Update",
+      "url": "https://screenrant.com/daemons-shadow-realm-dissapointing-crunchyroll-update/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
