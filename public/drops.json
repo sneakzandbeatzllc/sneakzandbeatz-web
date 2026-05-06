@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T22:56:29+00:00",
+  "generated_utc": "2026-05-06T23:25:18+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "ee6856a47ab1",
+      "pillar": "hiphop",
+      "title": "“Pork Chop Sammich” Rapper Jayy Wick Charged With Attempted First-Degree Murder",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/pork-chop-sammich-rapper-jayy-wick-charged-with-attempted-first-degree-murder/",
+      "thumbnail": "/drops/thumbs/ee6856a47ab1.jpg",
+      "published": "2026-05-06T19:00:09",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "da7aa6c89a50",
       "pillar": "hiphop",
       "title": "Colman Domingo Receives Emotional Homecoming Honor At Temple University",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/lil-zay-osama-maintains-innocence-as-case-expands-with-seventh-arrest/",
       "thumbnail": "/drops/thumbs/07b67996f489.png",
       "published": "2026-05-06T13:02:55",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8d86b4fd9867",
-      "pillar": "hiphop",
-      "title": "Production Legend 9th Wonder Set To Graduate From NC HBCU This Weekend",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/06/production-legend-9th-wonder-set-to-graduate-from-nc-hbcu-this-weekend/",
-      "thumbnail": "/drops/thumbs/8d86b4fd9867.jpg",
-      "published": "2026-05-06T11:54:30",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "da7aa6c89a50",
+    "ee6856a47ab1",
     "1f8cbf1d8983",
     "8703350352ac",
     "981d0fa1e35e",
