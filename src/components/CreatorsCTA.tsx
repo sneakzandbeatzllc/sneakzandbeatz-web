@@ -15,30 +15,30 @@ export default function CreatorsCTA() {
     <section className="creators-cta">
       <div className="container creators-cta-inner">
         <div className="creators-cta-text">
-          <span className="creators-cta-eyebrow">⚡ S&B UGC Creator Program</span>
+          <span className="creators-cta-eyebrow">⚡ S&B Girls Program</span>
           <h2 className="creators-cta-h2">
-            Get paid to <span className="accent">wear the drop.</span>
+            Be an <span className="accent">S&B Girl.</span>
           </h2>
           <p className="creators-cta-sub">
-            Real money for real creators. S&B merch, matching Jordans, your
-            following, our brief.
+            Contracted ambassador program. Monthly retainer. S&B merch ships
+            free. Matching Jordan retros. <strong>18+ only.</strong>
           </p>
 
           <ul className="creators-cta-bullets">
             <li>We ship the fit.</li>
             <li>You match the Js.</li>
-            <li>You keep the check.</li>
+            <li>You get the bag.</li>
           </ul>
 
           <p className="creators-cta-paragraph">
-            You&rsquo;ve already been styling these in your head — biker shorts,
-            fitted set, hat low, fresh Js on. We&rsquo;re paying creators{" "}
-            <strong>$500–$1K per booking</strong> to bring that energy to
-            camera. Tiered rates, clear deliverables, no clout-currency nonsense.
-            We&rsquo;re a new brand — these are honest starter rates that scale
-            up the moment the program proves out. If your feed reads
-            athletic-lifestyle-streetwear and your engagement is real, this
-            brief was written for you.
+            S&B Girls is a signed-contract retainer program — Gen Z thirst-trap
+            content lane: bathroom-mirror, body-focus, fitted set + biker shorts +
+            Jordan retros. <strong>$500–$1K per month</strong> on a 90 or 180-day
+            term to start. We ship the merch line free, you keep what we send,
+            you post your monthly quota, we pay on the 1st. No clout-currency,
+            no fake-flex agency math. We&rsquo;re a new brand and these are
+            honest launch retainers — they scale up the moment the program
+            proves out.
           </p>
 
           <Link href="/creators" className="btn btn-primary btn-arrow creators-cta-btn">

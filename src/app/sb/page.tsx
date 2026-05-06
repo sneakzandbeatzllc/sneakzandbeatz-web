@@ -55,8 +55,8 @@ const LINKS: Link[] = [
   },
   {
     href: "/creators",
-    label: "S&B Creator Program",
-    sub: "$500–$1K · paid UGC",
+    label: "S&B Girls Program",
+    sub: "$500–$1K/mo · 90–180 day retainer",
     icon: "📸",
   },
   {
