@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T13:52:10+00:00",
+  "generated_utc": "2026-05-06T14:47:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Stefon Diggs Walks Free After Jury Cleared Him In Assault Trial Of Personal Chef",
-      "url": "https://allhiphop.com/news/stefon-diggs-walks-free-after-jury-cleared-him-in-assault-trial-of-personal-chef/",
+      "title": "Flavor Flav Receives Key To The Strip For July Olympic Celebration Event",
+      "url": "https://allhiphop.com/news/flavor-flav-receives-key-to-the-strip-for-july-olympic-celebration-event/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Attack on Titan Is Officially Returning In 2026 With One Last Release",
-      "url": "https://screenrant.com/attack-on-titan-last-attack-release-2026/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
       "url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
       "pillar": "anime",
@@ -132,6 +125,13 @@
     {
       "title": "Netflix's new One Piece anime gets official release date info and some disappointing news",
       "url": "https://www.polygon.com/the-one-piece-anime-remake-release-date-wit-netflix-episodes-number/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Piece's Remake Is Already A Victim Of Netflix's Biggest Problem",
+      "url": "https://screenrant.com/one-piece-netflix-remake-batch-release-problem/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -186,13 +186,6 @@
       "article_slug": null
     },
     {
-      "title": "The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans",
-      "url": "https://kotaku.com/star-wars-fate-old-republic-casey-hudson-arcanaut-bioware-2000693261",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Blood of Dawnwalker takes after Baldur's Gate 3's freedom and Gothic's small but dense world design",
       "url": "https://www.gamesradar.com/games/rpg/blood-of-dawnwalker-takes-after-baldurs-gate-3s-freedom-of-choice-and-rpg-classic-gothics-small-but-dense-world-design/",
       "pillar": "gaming",
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News An Unannounced Worms Game Has Seemingly Leaked, and It Looks Like It's Returning to 3D",
-      "url": "https://www.pushsquare.com/news/2026/05/an-unannounced-worms-game-has-seemingly-leaked-and-it-looks-like-its-returning-to-3d",
+      "title": "News GOTY Candidate Pragmata Gets Even Better Visuals on PS5 Pro with New Patch",
+      "url": "https://www.pushsquare.com/news/2026/05/goty-candidate-pragmata-gets-even-better-visuals-on-ps5-pro-with-new-patch",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GameStop CEO Stuns News Anchors Into Silence With His Level Of Ignorance",
+      "url": "https://kotaku.com/gamestop-ceo-ryan-cohen-cnbc-interview-ebay-stocks-2000693270",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

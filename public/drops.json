@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T13:52:10+00:00",
+  "generated_utc": "2026-05-06T14:47:58+00:00",
   "items": [
     {
       "id": "9bfec617bf46",
@@ -113,12 +113,12 @@
       "score": 1.0
     },
     {
-      "id": "4bc092dc7e49",
+      "id": "3307707eeb29",
       "pillar": "hiphop",
-      "title": "Stefon Diggs Walks Free After Jury Cleared Him In Assault Trial Of Personal Chef",
+      "title": "Flavor Flav Receives Key To The Strip For July Olympic Celebration Event",
       "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/stefon-diggs-walks-free-after-jury-cleared-him-in-assault-trial-of-personal-chef/",
-      "thumbnail": "/drops/thumbs/4bc092dc7e49.jpg",
+      "source_url": "https://allhiphop.com/news/flavor-flav-receives-key-to-the-strip-for-july-olympic-celebration-event/",
+      "thumbnail": "/drops/thumbs/3307707eeb29.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -179,17 +179,6 @@
       "score": 1.0
     },
     {
-      "id": "74a5e68af0e8",
-      "pillar": "anime",
-      "title": "Attack on Titan Is Officially Returning In 2026 With One Last Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/attack-on-titan-last-attack-release-2026/",
-      "thumbnail": "/drops/thumbs/74a5e68af0e8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
       "id": "8703350352ac",
       "pillar": "anime",
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
@@ -207,6 +196,17 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/the-one-piece-anime-remake-release-date-wit-netflix-episodes-number/",
       "thumbnail": "/drops/thumbs/a13b761af7ba.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "4e7bb87350ab",
+      "pillar": "anime",
+      "title": "One Piece's Remake Is Already A Victim Of Netflix's Biggest Problem",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-netflix-remake-batch-release-problem/",
+      "thumbnail": "/drops/thumbs/4e7bb87350ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -289,17 +289,6 @@
       "score": 1.0
     },
     {
-      "id": "9b04ac099043",
-      "pillar": "gaming",
-      "title": "The Star Wars: Fate Of The Old Republic Team Is Full Of Mass Effect Veterans",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/star-wars-fate-old-republic-casey-hudson-arcanaut-bioware-2000693261",
-      "thumbnail": "/drops/thumbs/9b04ac099043.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
       "id": "93fdf2648af5",
       "pillar": "gaming",
       "title": "Blood of Dawnwalker takes after Baldur's Gate 3's freedom and Gothic's small but dense world design",
@@ -344,12 +333,23 @@
       "score": 1.0
     },
     {
-      "id": "158bf1bda707",
+      "id": "85a6f4b7722e",
       "pillar": "gaming",
-      "title": "News An Unannounced Worms Game Has Seemingly Leaked, and It Looks Like It's Returning to 3D",
+      "title": "News GOTY Candidate Pragmata Gets Even Better Visuals on PS5 Pro with New Patch",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/an-unannounced-worms-game-has-seemingly-leaked-and-it-looks-like-its-returning-to-3d",
-      "thumbnail": "/drops/thumbs/158bf1bda707.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/goty-candidate-pragmata-gets-even-better-visuals-on-ps5-pro-with-new-patch",
+      "thumbnail": "/drops/thumbs/85a6f4b7722e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
+      "id": "363ac6e746e7",
+      "pillar": "gaming",
+      "title": "GameStop CEO Stuns News Anchors Into Silence With His Level Of Ignorance",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/gamestop-ceo-ryan-cohen-cnbc-interview-ebay-stocks-2000693270",
+      "thumbnail": "/drops/thumbs/363ac6e746e7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -359,7 +359,7 @@
     "9bfec617bf46",
     "8fc954796ec6",
     "738c08af9884",
-    "74a5e68af0e8",
+    "8703350352ac",
     "4c4d411abb04",
     "ee683c9ae467"
   ]
