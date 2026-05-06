@@ -155,15 +155,34 @@ export default function CreatorsPage() {
               to your bank or your debit card.
             </li>
             <li>
-              <strong>Monthly content quota:</strong>
+              <strong>Monthly content quota — Reels-heavy:</strong>
               <ul style={{ marginTop: 8 }}>
-                <li>Tier 1 ($500): <strong>8 grid posts</strong> on your own + <strong>16 stories</strong> + <strong>1 photo pack</strong> (15 photos) to S&B</li>
-                <li>Tier 2 ($750): <strong>12 grid posts</strong> + <strong>16 stories</strong> + <strong>1 photo pack</strong> (20 photos) + <strong>2 raw reels</strong> to S&B</li>
-                <li>Tier 3 ($1,000): <strong>16 grid posts</strong> (4+ reels) + <strong>16 stories</strong> + <strong>2 photo packs</strong> (15 photos each) + <strong>3 raw reels</strong> + repost rights on @sneakzandbeatz</li>
+                <li>Tier 1 ($500): <strong>4 Reels + 4 photo posts</strong> on your grid + 16 stories + <strong>2 raw Reels</strong> + 10-photo pack to S&B</li>
+                <li>Tier 2 ($750): <strong>6 Reels + 6 photo posts</strong> on your grid + 16 stories + <strong>4 raw Reels</strong> + 15-photo pack to S&B</li>
+                <li>Tier 3 ($1,000): <strong>10 Reels + 6 photo posts</strong> on your grid + 16 stories + <strong>6 raw Reels</strong> + 20-photo pack + featured-creator placement on @sneakzandbeatz</li>
               </ul>
-              All content features S&B merch + your Jordan retros. Modeled on
-              the Fashion Nova ambassador rhythm — 4 posts and 4 stories per
-              week is the baseline.
+              All content features S&B merch + your Jordan retros. Reels are
+              prioritized because they out-reach static posts ~2-3x on IG and
+              TikTok algorithms. 4 posts + 4 stories per week is the rhythm.
+            </li>
+            <li>
+              <strong>Content license to S&B:</strong> by signing the contract
+              you grant S&B a paid, royalty-free, worldwide, non-exclusive
+              license to use every piece of content produced under this program
+              — your raw deliverables AND the posts you publish to your own grid
+              — across all S&B owned channels and paid placements. That means:
+              <ul style={{ marginTop: 8 }}>
+                <li><strong>S&B social channels:</strong> Instagram, TikTok, X, YouTube, Threads, Facebook, Discord (current and future)</li>
+                <li><strong>S&B properties:</strong> sneakzandbeatz.com, /sb link-in-bio, email newsletter, Substack</li>
+                <li><strong>Paid advertising:</strong> Meta Ads, TikTok Ads, Google, retargeting</li>
+                <li><strong>Print + retail:</strong> packaging, lookbook, in-store displays once we launch retail</li>
+              </ul>
+              S&B can crop, color-grade, add overlays, splice into compilations,
+              and translate. License runs through the contract term plus a{" "}
+              <strong>12-month tail period</strong> after termination so we can
+              keep using campaigns we already published. After that period, all
+              archive content comes down at your written request within 30 days.
+              Full license terms are spelled out in the signed contract.
             </li>
             <li>
               <strong>Tag + disclosure</strong> on every grid post:{" "}
@@ -287,12 +306,12 @@ export default function CreatorsPage() {
           <h2 className="creators-h2">The Rate Card</h2>
           <p className="creators-helper">
             Three tiers — <strong>$500, $750, $1,000 per month</strong> — on a{" "}
-            <strong>90 or 180-day contract term</strong> (3 or 6 months). Built
-            on the Fashion Nova ambassador model — modest retainer, free
-            product, predictable monthly content rhythm. Each piece pays out
-            at roughly $20 — right at the entry-level UGC rate band — and the
-            free merch + Jordan-matched fits + ambassador status makes the
-            full package worth the time.
+            <strong>90 or 180-day contract term</strong> (3 or 6 months).{" "}
+            <strong>Reels-heavy</strong> by design — Reels carry the most reach
+            on IG and TikTok right now, so every tier is weighted toward video.
+            Modeled on Fashion Nova&rsquo;s early ambassador playbook: modest
+            retainer, free product, predictable monthly content rhythm, real
+            ambassador status.
           </p>
 
           <div className="creators-rates-grid">
@@ -307,15 +326,23 @@ export default function CreatorsPage() {
                   <strong>$500/mo</strong>
                 </li>
                 <li>
-                  <span>8 grid posts on your own (mix photos + reels)</span>
+                  <span><strong>4 Reels</strong> on your own grid</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>1 raw photo pack to S&B (15 photos)</span>
+                  <span>4 photo posts on your own grid</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>Stories: 4/week (16/month) wearing S&B</span>
+                  <span>16 stories/month (4/week) wearing S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span><strong>2 raw Reels</strong> delivered to S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>1 raw photo pack to S&B (10 photos)</span>
                   <strong>included</strong>
                 </li>
                 <li>
@@ -336,19 +363,23 @@ export default function CreatorsPage() {
                   <strong>$750/mo</strong>
                 </li>
                 <li>
-                  <span>12 grid posts on your own (mix photos + reels)</span>
+                  <span><strong>6 Reels</strong> on your own grid</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>1 raw photo pack to S&B (20 photos)</span>
+                  <span>6 photo posts on your own grid</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>2 raw reels to S&B</span>
+                  <span>16 stories/month (4/week) wearing S&B</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>Stories: 4/week (16/month) wearing S&B</span>
+                  <span><strong>4 raw Reels</strong> delivered to S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>1 raw photo pack to S&B (15 photos)</span>
                   <strong>included</strong>
                 </li>
                 <li>
@@ -369,19 +400,23 @@ export default function CreatorsPage() {
                   <strong>$1,000/mo</strong>
                 </li>
                 <li>
-                  <span>16 grid posts on your own (4+ must be reels)</span>
+                  <span><strong>10 Reels</strong> on your own grid</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>2 raw photo packs to S&B (15 photos each = 30)</span>
+                  <span>6 photo posts on your own grid</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>3 raw reels to S&B</span>
+                  <span>16 stories/month (4/week) wearing S&B</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>Stories: 4/week (16/month) wearing S&B</span>
+                  <span><strong>6 raw Reels</strong> delivered to S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>1 raw photo pack to S&B (20 photos)</span>
                   <strong>included</strong>
                 </li>
                 <li>
@@ -389,7 +424,7 @@ export default function CreatorsPage() {
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>Repost rights on @sneakzandbeatz across IG + TikTok</span>
+                  <span>Featured-creator placement on @sneakzandbeatz channels</span>
                   <strong>included</strong>
                 </li>
               </ul>
@@ -420,18 +455,60 @@ export default function CreatorsPage() {
           <p className="creators-helper">Plain language. Audit-clean.</p>
           <ul className="creators-bullets creators-terms">
             <li>
-              <strong>18 or older.</strong> ID verification required at
-              contract signing. No exceptions.
+              <strong>18 or older.</strong> Verified through{" "}
+              <strong>Stripe Identity</strong> (gov ID + selfie) before any
+              contract is sent. Stripe holds the documents on their secure
+              infrastructure — S&B never sees or stores your ID. We only
+              receive a &ldquo;verified yes&rdquo; confirmation and your DOB
+              for 18+ proof. No exceptions.
             </li>
             <li>
               <strong>Independent contractor</strong> relationship — not
               employment.
             </li>
             <li>
-              <strong>Likeness + usage rights:</strong> creator retains likeness
-              rights. S&B receives the right to repost / reuse retainer content
-              on @sneakzandbeatz channels and in paid ads while the contract
-              is active and 12 months after.
+              <strong>Content license to S&B (broad, but bounded):</strong>{" "}
+              creator retains underlying ownership of her likeness and
+              copyrights. By signing, creator grants S&B a paid, royalty-free,
+              worldwide, non-exclusive license to use ALL content produced
+              under the contract (raw deliverables + posts on creator&rsquo;s
+              own grid) on all S&B owned channels (IG, TikTok, X, YouTube,
+              Threads, Discord, sneakzandbeatz.com, /sb link-in-bio, email,
+              Substack, packaging, retail displays) and in paid advertising
+              (Meta, TikTok, Google, retargeting). License term: contract term
+              plus a 12-month tail. S&B may crop, edit, color-grade, splice,
+              and translate; S&B may NOT sublicense to third parties without
+              creator&rsquo;s written consent, and may NOT use creator&rsquo;s
+              likeness in defamatory, NSFW, or political contexts.
+            </li>
+            <li>
+              <strong>Takedown rights:</strong> after the 12-month tail, all
+              archive content comes down at creator&rsquo;s written request
+              within 30 days. During the active contract + tail, creator may
+              request takedown of any specific piece for a compelling personal
+              reason and S&B will comply within 14 days.
+            </li>
+            <li>
+              <strong>Creator credit:</strong> S&B will tag{" "}
+              <strong>@her_handle</strong> on every grid repost. Behind-the-
+              scenes / paid-ad usage doesn&rsquo;t require a tag.
+            </li>
+            <li>
+              <strong>Creator reps & warranties:</strong> creator confirms she
+              is 18+, all content is original to her, no third-party rights are
+              infringed (no copyrighted music, no other people in frame
+              without release, no trademarked logos other than S&B and Jordan),
+              and she has the legal right to grant the license above.
+            </li>
+            <li>
+              <strong>S&B reps & warranties:</strong> pay on time on the 1st of
+              each month, won&rsquo;t use content outside the licensed channels
+              and contexts, won&rsquo;t alter content in ways that
+              misrepresent creator.
+            </li>
+            <li>
+              <strong>Mutual indemnification:</strong> each side covers the
+              other for losses caused by their own breach of these reps.
             </li>
             <li>
               <strong>Wardrobe stays on-brand:</strong> no other branded apparel
@@ -477,6 +554,59 @@ export default function CreatorsPage() {
               resolved in Los Angeles County.
             </li>
           </ul>
+        </section>
+
+        {/* ONBOARDING FLOW */}
+        <section className="container creators-block">
+          <h2 className="creators-h2">How Onboarding Works</h2>
+          <p className="creators-helper">
+            We never ask you to email us a copy of your ID or your bank info.
+            Sensitive data goes through regulated, third-party platforms —
+            you keep control, we get verification.
+          </p>
+          <ol className="creators-bullets" style={{ paddingLeft: 0, listStyle: "none" }}>
+            <li>
+              <strong>1. Apply.</strong> Fill the form below — IG/TikTok handles,
+              follower screenshots, your Jordan retro collection, the pillar
+              ranges you can flex.
+            </li>
+            <li>
+              <strong>2. Manual review (1–5 business days).</strong> If your fit
+              lands, we send the next step. If not, we save your file and tap
+              in if a future brief matches.
+            </li>
+            <li>
+              <strong>3. Stripe Identity verification.</strong> You get a secure
+              link from Stripe — upload a gov ID + take a quick selfie. Stripe
+              holds the documents, S&B never sees them. Stripe returns
+              &ldquo;verified yes&rdquo; + DOB confirmation. This is how we
+              prove 18+ without you sharing your ID with us.
+            </li>
+            <li>
+              <strong>4. SignNow contract delivery.</strong> Once Stripe confirms
+              verification, the S&B Girls contract is auto-sent through SignNow.
+              Read it, share it with your own lawyer if you want, sign
+              electronically. Both sides get a stamped PDF.
+            </li>
+            <li>
+              <strong>5. Stripe Connect onboarding.</strong> You enter bank /
+              debit card directly with Stripe — they hold the banking info,
+              S&B never sees it. Stripe pays you on the 1st of each month
+              automatically.
+            </li>
+            <li>
+              <strong>6. Merch ships, retainer starts.</strong> First merch
+              shipment goes out the day after Stripe Connect is active. Month
+              1 retainer pays out the next 1st of the month. Welcome to S&B
+              Girls.
+            </li>
+          </ol>
+          <p className="creators-helper" style={{ marginTop: 16, fontSize: 13 }}>
+            <em>Total stack we use: Stripe Identity (ID verification, $1.50 per
+            check, paid by S&B), SignNow (contract signing), Stripe Connect
+            (payouts). All three are SOC 2 compliant. None require S&B to
+            store your sensitive data.</em>
+          </p>
         </section>
 
         {/* APPLICATION FORM */}
