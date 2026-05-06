@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T19:50:51+00:00",
+  "generated_utc": "2026-05-06T20:17:45+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "aa06752b2861",
+      "id": "319c459b61b3",
       "pillar": "anime",
-      "title": "Yuki Ikeda's Thunder 3 Manga Ends on June 5",
+      "title": "Yu Muraoka's Hōkago Fantasy Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/yuki-ikeda-thunder-3-manga-ends-on-june-5/.237093",
-      "thumbnail": "/drops/thumbs/aa06752b2861.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/yu-muraoka-hokago-fantasy-manga-ends/.237113",
+      "thumbnail": "/drops/thumbs/319c459b61b3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "b4a20a8e889d",
+      "pillar": "gaming",
+      "title": "News 'We're Definitely Pursuing Another Mortal Kombat': Ed Boon Speaks Amid Injustice 3 Rumours",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/were-definitely-pursuing-another-mortal-kombat-ed-boon-speaks-amid-injustice-3-rumours",
+      "thumbnail": "/drops/thumbs/b4a20a8e889d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "80a84374701d",
       "pillar": "gaming",
       "title": "Mortal Kombat 2 review: \"Lands some killer blows, but far from a flawless victory\"",
@@ -369,18 +381,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562577/article/call-of-duty-team-mocks-attempt-to-leak-cod-modern-warfare-ivs-reveal/",
       "thumbnail": "/drops/thumbs/7f39a25c5d96.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "762903899a44",
-      "pillar": "gaming",
-      "title": "Diablo 4′ s Secret Cow Level Has Finally Been Found, So Now Obviously Players Are Trying To Summon The Cow God",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/diablo-4-secret-cow-level-cow-god-2000693580",
-      "thumbnail": "/drops/thumbs/762903899a44.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
