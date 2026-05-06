@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T19:48:27+00:00",
+  "generated_utc": "2026-05-06T19:50:51+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -22,18 +22,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-12-bloodline-ct8013-003-drop/",
       "thumbnail": "/drops/thumbs/1f8cbf1d8983.jpg",
       "published": "2026-05-05T17:42:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "738c08af9884",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “World’s Best Dad” Releases May 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-worlds-best-dad/",
-      "thumbnail": "/drops/thumbs/738c08af9884.jpg",
-      "published": "2026-05-05T13:43:28",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -93,6 +81,18 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
       "thumbnail": "/drops/thumbs/adc2f1a5ed75.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "593265008bbc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Banned” Now Available (May 2026)",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-og-banned/",
+      "thumbnail": "/drops/thumbs/593265008bbc.webp",
       "published": "",
       "relative_time": "today",
       "score": 3.0,
@@ -392,7 +392,7 @@
     "8b26784adf2c",
     "1f8cbf1d8983",
     "8703350352ac",
-    "738c08af9884",
+    "981d0fa1e35e",
     "ee683c9ae467"
   ]
 }
