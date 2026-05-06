@@ -56,7 +56,7 @@ const LINKS: Link[] = [
   {
     href: "/creators",
     label: "S&B Creator Program",
-    sub: "5K-10K · paid UGC",
+    sub: "$500–$1K · paid UGC",
     icon: "📸",
   },
   {

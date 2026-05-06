@@ -7,7 +7,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "S&B UGC Creator Program — Sneakz & Beatz",
   description:
-    "Get paid to wear the drop. Tiered rates ($200–$900) for IG/TikTok creators with 10K–50K followers. S&B merch + matching Jordans, athletic-lifestyle briefs, real money — not exposure.",
+    "Get paid to wear the drop. Honest starter rates: $500–$1K per booking for IG/TikTok creators with 5K–10K followers. S&B merch + matching Jordans, athletic-lifestyle briefs, real money — not exposure.",
 };
 
 export default function CreatorsPage() {
@@ -170,41 +170,38 @@ export default function CreatorsPage() {
         <section className="container creators-block">
           <h2 className="creators-h2">The Rate Card</h2>
           <p className="creators-helper">
-            Three tiers, scales with your audience. Add-ons listed below — fully
-            transparent, no surprises.
+            Honest starter rates — <strong>$500 to $1,000 per booking</strong>.
+            We&rsquo;re a new brand, these are real numbers, no fake-flex
+            agency math. Add-ons listed below — fully transparent, no surprises.
           </p>
 
           <div className="creators-rates-grid">
             <article className="creators-tier">
               <header className="creators-tier-head">
                 <span className="creators-tier-num">Tier 1</span>
-                <span className="creators-tier-label">Starter · 5K–7K</span>
+                <span className="creators-tier-label">Starter · 5K–7K followers</span>
               </header>
               <ul className="creators-tier-rates">
-                <li><span>Single video (15–45s)</span><strong>$125</strong></li>
-                <li><span>Photo set (5 images)</span><strong>$75</strong></li>
-                <li><span>Standard bundle (1 video + 5 photos)</span><strong>$175</strong></li>
-                <li><span>Premium bundle (2 videos + 8 photos)</span><strong>$300</strong></li>
+                <li><span>Standard bundle (1 video + 5 photos)</span><strong>$500</strong></li>
+                <li><span>Premium bundle (2 videos + 8 photos)</span><strong>$750</strong></li>
               </ul>
             </article>
 
             <article className="creators-tier creators-tier-top">
               <header className="creators-tier-head">
                 <span className="creators-tier-num">Tier 2</span>
-                <span className="creators-tier-label">Top of band · 7K–10K</span>
+                <span className="creators-tier-label">Top of band · 7K–10K followers</span>
               </header>
               <ul className="creators-tier-rates">
-                <li><span>Single video</span><strong>$200</strong></li>
-                <li><span>Photo set</span><strong>$125</strong></li>
-                <li><span>Standard bundle</span><strong>$275</strong></li>
-                <li><span>Premium bundle</span><strong>$475</strong></li>
+                <li><span>Standard bundle (1 video + 5 photos)</span><strong>$750</strong></li>
+                <li><span>Premium bundle (2 videos + 8 photos)</span><strong>$1,000</strong></li>
               </ul>
             </article>
           </div>
           <p className="creators-helper" style={{ marginTop: 16, fontSize: 13 }}>
-            <em>Rates scale up as the program grows. Once we&rsquo;ve run the
-            5K–10K tier and it works, the next band (10K–25K) opens at the
-            higher rate card.</em>
+            <em>These are launch rates. Once we&rsquo;ve run the 5K–10K
+            follower tier and it converts, the next band (10K–25K followers)
+            opens at a higher rate card.</em>
           </p>
 
           <div className="creators-addons">

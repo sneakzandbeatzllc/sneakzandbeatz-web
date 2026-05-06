@@ -32,11 +32,13 @@ export default function CreatorsCTA() {
 
           <p className="creators-cta-paragraph">
             You&rsquo;ve already been styling these in your head — biker shorts,
-            fitted set, hat low, fresh Js on. We&rsquo;re paying creators between
-            5K and 10K to bring that energy to camera. Tiered rates, clear
-            deliverables, no clout-currency nonsense. If your feed reads
-            athletic-lifestyle-streetwear and your engagement is real, this brief
-            was written for you.
+            fitted set, hat low, fresh Js on. We&rsquo;re paying creators{" "}
+            <strong>$500–$1K per booking</strong> to bring that energy to
+            camera. Tiered rates, clear deliverables, no clout-currency nonsense.
+            We&rsquo;re a new brand — these are honest starter rates that scale
+            up the moment the program proves out. If your feed reads
+            athletic-lifestyle-streetwear and your engagement is real, this
+            brief was written for you.
           </p>
 
           <Link href="/creators" className="btn btn-primary btn-arrow creators-cta-btn">
