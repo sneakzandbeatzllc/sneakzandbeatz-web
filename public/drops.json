@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T18:36:44+00:00",
+  "generated_utc": "2026-05-06T18:43:35+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -10,6 +10,30 @@
       "source_url": "https://www.nicekicks.com/air-jordan-12-bloodline-ct8013-003-drop/",
       "thumbnail": "/drops/thumbs/1f8cbf1d8983.jpg",
       "published": "2026-05-05T17:42:00",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "a3a8855af003",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low “Shy Pink” Releases in May 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-sail-iq7604-101/",
+      "thumbnail": "/drops/thumbs/a3a8855af003.png",
+      "published": "2026-05-05T13:58:59",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "4f9e304d1cce",
+      "pillar": "sneakers",
+      "title": "Travis Scott’s “Tropical Pink” Air Jordan 1 Low Arrives in May 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-tropical-pink-iq7604-101/",
+      "thumbnail": "/drops/thumbs/4f9e304d1cce.png",
+      "published": "2026-05-05T13:48:26",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -73,30 +97,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "593265008bbc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Banned” Now Available (May 2026)",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-og-banned/",
-      "thumbnail": "/drops/thumbs/593265008bbc.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-05-04T10:03:16",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
     },
     {
       "id": "8b26784adf2c",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "762903899a44",
+      "id": "d0924e25b0c5",
       "pillar": "gaming",
-      "title": "Diablo 4′ s Secret Cow Level Has Finally Been Found, So Now Obviously Players Are Trying To Summon The Cow God",
+      "title": "Mina The Hollower Has A New Release Date And An Aggressively Low Price",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/diablo-4-secret-cow-level-cow-god-2000693580",
-      "thumbnail": "/drops/thumbs/762903899a44.jpg",
+      "source_url": "https://kotaku.com/mina-the-hollower-has-a-new-release-date-and-an-aggressively-low-price-2000693637",
+      "thumbnail": "/drops/thumbs/d0924e25b0c5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "1f8cbf1d8983",
     "8b26784adf2c",
-    "738c08af9884",
+    "a3a8855af003",
     "8703350352ac",
-    "30fe49c663e3",
+    "4f9e304d1cce",
     "ee683c9ae467"
   ]
 }

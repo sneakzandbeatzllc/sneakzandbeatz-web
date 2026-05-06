@@ -1,11 +1,25 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T18:36:44+00:00",
+  "generated_utc": "2026-05-06T18:43:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "Air Jordan 12 “Bloodline” (CT8013-003) May 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-12-bloodline-ct8013-003-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott x Air Jordan 1 Low “Shy Pink” Releases in May 2026",
+      "url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-sail-iq7604-101/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott’s “Tropical Pink” Air Jordan 1 Low Arrives in May 2026",
+      "url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-tropical-pink-iq7604-101/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -43,20 +57,6 @@
       "url": "https://sneakerbardetroit.com/air-jordan-12-bloodline/",
       "pillar": "sneakers",
       "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Banned” Now Available (May 2026)",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-low-og-banned/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 2.0,
       "article_slug": null
     },
     {
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Diablo 4′ s Secret Cow Level Has Finally Been Found, So Now Obviously Players Are Trying To Summon The Cow God",
-      "url": "https://kotaku.com/diablo-4-secret-cow-level-cow-god-2000693580",
+      "title": "Mina The Hollower Has A New Release Date And An Aggressively Low Price",
+      "url": "https://kotaku.com/mina-the-hollower-has-a-new-release-date-and-an-aggressively-low-price-2000693637",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
