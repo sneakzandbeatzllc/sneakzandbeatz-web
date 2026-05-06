@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T17:19:52+00:00",
+  "generated_utc": "2026-05-06T17:34:00+00:00",
   "items": [
     {
       "id": "9bfec617bf46",
@@ -190,6 +190,17 @@
       "score": 1.0
     },
     {
+      "id": "eb071755a337",
+      "pillar": "anime",
+      "title": "Golden Trailer Awards Nominate Chainsaw Man: Reze Arc Anime Film, KPop Demon Hunters Film, More",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/golden-trailer-awards-nominate-chainsaw-man-reze-arc-anime-film-kpop-demon-hunters-film-more/.237119",
+      "thumbnail": "/drops/thumbs/eb071755a337.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "b49854e32e60",
       "pillar": "anime",
       "title": "The One Piece anime remake looks gorgeous, but its episode count is baffling",
@@ -240,17 +251,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/kanojo-no-tomodachi-manga-gets-tv-anime/.237120",
       "thumbnail": "/drops/thumbs/48e02d6effe0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "9fbef9df023d",
-      "pillar": "anime",
-      "title": "New Hokuto no Ken -Fist of the North Star- Anime Casts Takanori Hoshino",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/new-hokuto-no-ken-fist-of-the-north-star-anime-casts-takanori-hoshino/.237117",
-      "thumbnail": "/drops/thumbs/9fbef9df023d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0
@@ -333,23 +333,23 @@
       "score": 1.0
     },
     {
+      "id": "9ddae3328e6d",
+      "pillar": "gaming",
+      "title": "EA Sets A New $8 Billion Sales Record Just Months After Laying Off Battlefield 6 Developers",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/ea-sets-a-new-8-billion-sales-record-just-months-after-laying-off-battlefield-6-developers-2000693589",
+      "thumbnail": "/drops/thumbs/9ddae3328e6d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0
+    },
+    {
       "id": "7f39a25c5d96",
       "pillar": "gaming",
       "title": "Call Of Duty Team Mocks Attempt To Leak COD Modern Warfare IV’s Reveal",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562577/article/call-of-duty-team-mocks-attempt-to-leak-cod-modern-warfare-ivs-reveal/",
       "thumbnail": "/drops/thumbs/7f39a25c5d96.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0
-    },
-    {
-      "id": "6ae6bae09f51",
-      "pillar": "gaming",
-      "title": "PlayStation Pricing Is On Trial Again, As Sony Fights For 30-Percent Fees",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/sony-playstation-prices-you-owe-us-lawsuit-ruling-fees-2000693593",
-      "thumbnail": "/drops/thumbs/6ae6bae09f51.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0

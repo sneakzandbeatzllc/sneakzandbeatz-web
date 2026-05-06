@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T17:19:52+00:00",
+  "generated_utc": "2026-05-06T17:34:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Golden Trailer Awards Nominate Chainsaw Man: Reze Arc Anime Film, KPop Demon Hunters Film, More",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-06/golden-trailer-awards-nominate-chainsaw-man-reze-arc-anime-film-kpop-demon-hunters-film-more/.237119",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The One Piece anime remake looks gorgeous, but its episode count is baffling",
       "url": "https://www.polygon.com/the-one-piece-anime-remake-episode-count/",
       "pillar": "anime",
@@ -153,13 +160,6 @@
     {
       "title": "Kanojo no Tomodachi Manga Gets TV Anime",
       "url": "https://www.animenewsnetwork.com/news/2026-05-06/kanojo-no-tomodachi-manga-gets-tv-anime/.237120",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New Hokuto no Ken -Fist of the North Star- Anime Casts Takanori Hoshino",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-06/new-hokuto-no-ken-fist-of-the-north-star-anime-casts-takanori-hoshino/.237117",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Call Of Duty Team Mocks Attempt To Leak COD Modern Warfare IV’s Reveal",
-      "url": "https://gameranx.com/updates/id/562577/article/call-of-duty-team-mocks-attempt-to-leak-cod-modern-warfare-ivs-reveal/",
+      "title": "EA Sets A New $8 Billion Sales Record Just Months After Laying Off Battlefield 6 Developers",
+      "url": "https://kotaku.com/ea-sets-a-new-8-billion-sales-record-just-months-after-laying-off-battlefield-6-developers-2000693589",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "PlayStation Pricing Is On Trial Again, As Sony Fights For 30-Percent Fees",
-      "url": "https://kotaku.com/sony-playstation-prices-you-owe-us-lawsuit-ruling-fees-2000693593",
+      "title": "Call Of Duty Team Mocks Attempt To Leak COD Modern Warfare IV’s Reveal",
+      "url": "https://gameranx.com/updates/id/562577/article/call-of-duty-team-mocks-attempt-to-leak-cod-modern-warfare-ivs-reveal/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
