@@ -2,6 +2,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import OnTheRadar from "@/components/OnTheRadar";
+import ShowArchiveCard from "@/components/ShowArchiveCard";
 import { EMAILS, mailto } from "@/data/contact-emails";
 import { SOCIAL } from "@/data/social";
 import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
@@ -145,30 +146,7 @@ export default async function ShowPage() {
           {archive.length > 0 ? (
             <div className="yt-grid">
               {archive.map((v) => (
-                <a
-                  key={v.id}
-                  href={v.url}
-                  target="_blank"
-                  rel="noopener"
-                  className="yt-card"
-                >
-                  <div className="yt-card-thumb">
-                    <img
-                      src={v.thumbnail}
-                      alt=""
-                      loading="lazy"
-                      decoding="async"
-                      className="yt-card-thumb-img"
-                    />
-                    <div className="yt-card-play">▶</div>
-                  </div>
-                  <div className="yt-card-body">
-                    <h4 className="yt-card-title">{v.title}</h4>
-                    <span className="yt-card-date">
-                      {formatPublishedAgo(v.publishedAt)}
-                    </span>
-                  </div>
-                </a>
+                <ShowArchiveCard key={v.id} video={v} />
               ))}
             </div>
           ) : (

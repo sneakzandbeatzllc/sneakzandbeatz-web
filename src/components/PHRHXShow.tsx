@@ -16,6 +16,7 @@
 import Link from "next/link";
 import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
 import { SOCIAL } from "@/data/social";
+import EpisodeCard from "@/components/EpisodeCard";
 
 type Episode = {
   id: string;
@@ -96,55 +97,14 @@ export default async function PHRHXShow() {
           </div>
         </div>
         <div className="episodes">
-          {episodes.map((ep, i) => {
-            const target = "_blank";
-            const rel = "noopener";
-
-            return (
-              <a
-                key={ep.id}
-                href={ep.href}
-                target={target}
-                rel={rel}
-                className={"episode" + (ep.isReal && i === 0 ? " featured" : "")}
-              >
-                {ep.thumbnail ? (
-                  <div className="thumb thumb-image">
-                    {/* Real <img> so mobile Safari + Chrome render reliably.
-                        All three are eager-loaded — there are only three
-                        thumbnails on the homepage so the bandwidth cost is
-                        trivial, and lazy-loading on iOS was causing the
-                        parent .episode to collapse before the image arrived. */}
-                    <img
-                      src={ep.thumbnail}
-                      alt=""
-                      loading="eager"
-                      decoding="async"
-                      width="480"
-                      height="270"
-                      className="thumb-img"
-                    />
-                  </div>
-                ) : (
-                  <div className="thumb"></div>
-                )}
-                {ep.isReal && i === 0 && (
-                  <span className="latest-tag">Latest</span>
-                )}
-                <div className="play">
-                  <div className="play-icon">▶</div>
-                </div>
-                <div className="meta">
-                  <div>
-                    {ep.publishedLabel && (
-                      <span className="ep-num">{ep.publishedLabel}</span>
-                    )}
-                    <h4>{ep.title}</h4>
-                  </div>
-                </div>
-              </a>
-            );
-          })}
+          {episodes.map((ep, i) => (
+            <EpisodeCard
+              key={ep.id}
+              episode={ep}
+              isFeatured={ep.isReal && i === 0}
+              showLatestTag={ep.isReal && i === 0}
+            />
+          ))}
         </div>
       </div>
     </section>
