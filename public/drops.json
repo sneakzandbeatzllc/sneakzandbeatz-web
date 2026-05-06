@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T20:17:45+00:00",
+  "generated_utc": "2026-05-06T20:47:48+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "e296097a7648",
+      "pillar": "hiphop",
+      "title": "HoodTrophy Bino Drops Highly Anticipated Album “Made a Way",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/music/hoodtrophy-bino-drops-highly-anticipated-album-made-a-way/",
+      "thumbnail": "/drops/thumbs/e296097a7648.jpg",
+      "published": "2026-05-06T16:41:11",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8b26784adf2c",
       "pillar": "hiphop",
       "title": "Layla Rey Wants to Love You Better And She Means It",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/boosie-badazz-becomes-unlikely-hero-as-northside-high-principal-returns-to-work/",
       "thumbnail": "/drops/thumbs/729194d5305c.png",
       "published": "2026-05-06T10:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9f76e6eafeb6",
-      "pillar": "hiphop",
-      "title": "Chris Brown Unveils Star-Studded Feature List for New Album ‘BROWN’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/06/chris-brown-new-album-brown-features-list-2026/",
-      "thumbnail": "/drops/thumbs/9f76e6eafeb6.jpg",
-      "published": "2026-05-06T07:00:26",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -315,6 +315,18 @@
       "release_badge": ""
     },
     {
+      "id": "6d6a5d170a1c",
+      "pillar": "gaming",
+      "title": "Clair Obscur: Expedition 33 lead \"was crossing fingers\" for other \"super creative games\" to win GOTY",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-was-crossing-fingers-the-rpg-wouldnt-win-game-of-the-year-because-he-was-rooting-for-other-super-creative-games-instead/",
+      "thumbnail": "/drops/thumbs/6d6a5d170a1c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c05968df818e",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Remake Part 3 could get DLC, director says, but Rebirth didn't due to worries it'd affect the third game",
@@ -327,24 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "93fdf2648af5",
-      "pillar": "gaming",
-      "title": "Blood of Dawnwalker takes after Baldur's Gate 3's freedom and Gothic's small but dense world design",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/blood-of-dawnwalker-takes-after-baldurs-gate-3s-freedom-of-choice-and-rpg-classic-gothics-small-but-dense-world-design/",
-      "thumbnail": "/drops/thumbs/93fdf2648af5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "11404eef6e93",
       "pillar": "gaming",
       "title": "A new Elden Ring world record was set just 2 weeks ago, and I keep rewatching the same part",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action-rpg/a-new-elden-ring-world-record-was-set-just-2-weeks-ago-and-like-everyone-else-i-keep-rewatching-the-same-part-of-the-52-minute-speedrun/",
       "thumbnail": "/drops/thumbs/11404eef6e93.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b26917833b59",
+      "pillar": "gaming",
+      "title": "Mortal Kombat Co-Creator Breaks Silence On The Box Office Showdown With Street Fighter",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/mortal-kombat-co-creator-breaks-silence-on-the-box-office-showdown-with-street-fighter-2000693625",
+      "thumbnail": "/drops/thumbs/b26917833b59.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "7f39a25c5d96",
-      "pillar": "gaming",
-      "title": "Call Of Duty Team Mocks Attempt To Leak COD Modern Warfare IV’s Reveal",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562577/article/call-of-duty-team-mocks-attempt-to-leak-cod-modern-warfare-ivs-reveal/",
-      "thumbnail": "/drops/thumbs/7f39a25c5d96.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "8cf8b4554bae",
-    "8b26784adf2c",
+    "e296097a7648",
     "1f8cbf1d8983",
     "8703350352ac",
     "981d0fa1e35e",
