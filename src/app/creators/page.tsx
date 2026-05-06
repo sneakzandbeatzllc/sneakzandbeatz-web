@@ -7,7 +7,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "S&B Girls Program — Sneakz & Beatz",
   description:
-    "S&B Girls is the contracted ambassador program for the Sneakz & Beatz brand. Gen Z thirst-trap aesthetic — bathroom-mirror, body-focused content in S&B merch + matching Jordan retros. $500–$1K per booking, signed contract, 18+ only.",
+    "S&B Girls is the contracted ambassador program for the Sneakz & Beatz brand. Body-confident lifestyle content in S&B merch + matching Jordan retros. $500–$1K per month, 90 or 180-day contract term, 18+ only.",
 };
 
 export default function CreatorsPage() {
@@ -27,8 +27,8 @@ export default function CreatorsPage() {
             </h1>
             <p className="creators-lead">
               S&B Girls is the contracted ambassador program for the brand.
-              Gen Z thirst-trap aesthetic — body-focused content, bathroom-mirror
-              shots, the S&B merch, your matching Jordan retros. Honest rates,
+              Body-confident lifestyle content — fitted styling, mirror shots,
+              the S&B merch, your matching Jordan retros. Monthly retainer,
               clear obligations, signed contract. <strong>18+ only.</strong>
             </p>
           </div>
@@ -53,9 +53,9 @@ export default function CreatorsPage() {
               <strong>Engagement rate 3%+</strong> (we verify before booking)
             </li>
             <li>
-              Confident on camera, fluent in the Gen Z thirst-trap content lane
-              — body-focused, mirror-shot, fitted set / biker shorts / crop top
-              styling
+              Confident on camera, fluent in body-confident lifestyle content
+              — fitted styling, mirror shots, fitted sets / biker shorts /
+              crop top looks
             </li>
             <li>US-based preferred, not required</li>
           </ul>
@@ -70,14 +70,14 @@ export default function CreatorsPage() {
           </p>
           <ul className="creators-bullets">
             <li>
-              <strong>Gen Z thirst-trap aesthetic.</strong> We use the term —
-              that&rsquo;s the content category we operate in. Body-focused
-              UGC where the merch + the Js + the energy are the focal point.
+              <strong>Body-confident lifestyle content</strong> — fitted
+              styling, the merch + the Js + the energy as the focal point.
+              Editorial-leaning, on-brand.
             </li>
             <li>
-              <strong>Bathroom-mirror shots, bedroom shots, body-focus
-              shots</strong> are not just allowed — they&rsquo;re the format. Plus full-length
-              outdoor / studio for variety.
+              <strong>Mirror shots, bedroom-set shots, fitted full-length
+              shots</strong> are part of the format. Plus outdoor / studio /
+              clean wall for variety.
             </li>
             <li>
               <strong>S&B merch is the wardrobe.</strong> We ship the fit free,
@@ -100,14 +100,14 @@ export default function CreatorsPage() {
           </ul>
         </section>
 
-        {/* THE MERCH — Gen Z thirst-trap attire we ship */}
+        {/* THE MERCH — body-confident athleisure line we ship */}
         <section className="container creators-block">
           <h2 className="creators-h2">What We Ship</h2>
           <p className="creators-helper">
-            The S&B merch line is built specifically for this content lane.
-            Gen Z thirst-trap attire — fits that read well in the mirror, hold
-            shape on camera, and pair with Jordan retros. The merch line itself
-            is the next phase of the business — these are the categories you&rsquo;ll
+            The S&B merch line is built specifically for this content lane —
+            fitted athleisure / streetwear that reads well on camera, holds
+            shape, and pairs with Jordan retros. The merch line itself is the
+            next phase of the business — these are the categories you&rsquo;ll
             be shooting in.
           </p>
           <ul className="creators-bullets">
@@ -149,15 +149,21 @@ export default function CreatorsPage() {
               the retainer.
             </li>
             <li>
-              <strong>Monthly retainer pay</strong> ($500/mo Tier 1 or $1,000/mo
-              Tier 2) sent on the 1st of each month via Stripe for the duration
-              of the contract term. Direct deposit to your bank or your debit
-              card.
+              <strong>Monthly retainer pay</strong> ($500/mo Tier 1, $750/mo
+              Tier 2, or $1,000/mo Tier 3) sent on the 1st of each month via
+              Stripe for the duration of the contract term. Direct deposit
+              to your bank or your debit card.
             </li>
             <li>
-              <strong>Monthly content quota:</strong> Tier 1 = 4 grid posts +
-              1 raw bundle to S&B. Tier 2 = 8 grid posts + 2 raw bundles. All
-              posts feature S&B merch + your Jordan retros.
+              <strong>Monthly content quota:</strong>
+              <ul style={{ marginTop: 8 }}>
+                <li>Tier 1 ($500): <strong>8 grid posts</strong> on your own + <strong>16 stories</strong> + <strong>1 photo pack</strong> (15 photos) to S&B</li>
+                <li>Tier 2 ($750): <strong>12 grid posts</strong> + <strong>16 stories</strong> + <strong>1 photo pack</strong> (20 photos) + <strong>2 raw reels</strong> to S&B</li>
+                <li>Tier 3 ($1,000): <strong>16 grid posts</strong> (4+ reels) + <strong>16 stories</strong> + <strong>2 photo packs</strong> (15 photos each) + <strong>3 raw reels</strong> + repost rights on @sneakzandbeatz</li>
+              </ul>
+              All content features S&B merch + your Jordan retros. Modeled on
+              the Fashion Nova ambassador rhythm — 4 posts and 4 stories per
+              week is the baseline.
             </li>
             <li>
               <strong>Tag + disclosure</strong> on every grid post:{" "}
@@ -172,9 +178,9 @@ export default function CreatorsPage() {
             </li>
             <li>
               <strong>Exclusivity window:</strong> while on retainer, no
-              competing thirst-trap content for direct streetwear / sneaker /
-              athleisure brands (Fashion Nova, Skims, Lounge, etc.) without
-              S&B&rsquo;s written sign-off.
+              competing body-confident lifestyle content for direct streetwear /
+              sneaker / athleisure brands (Fashion Nova, Skims, Lounge, etc.)
+              without S&B&rsquo;s written sign-off.
             </li>
             <li>
               <strong>Bonus paid shoots</strong> available on top of the
@@ -280,11 +286,13 @@ export default function CreatorsPage() {
         <section className="container creators-block">
           <h2 className="creators-h2">The Rate Card</h2>
           <p className="creators-helper">
-            Honest starter retainers — <strong>$500 to $1,000 per month</strong>{" "}
-            on a <strong>90 or 180-day contract term</strong> (3 or 6 months).
-            We&rsquo;re a new brand, these are real numbers, no fake-flex agency
-            math. The retainer covers your monthly content quota; add-ons listed
-            below are fully transparent.
+            Three tiers — <strong>$500, $750, $1,000 per month</strong> — on a{" "}
+            <strong>90 or 180-day contract term</strong> (3 or 6 months). Built
+            on the Fashion Nova ambassador model — modest retainer, free
+            product, predictable monthly content rhythm. Each piece pays out
+            at roughly $20 — right at the entry-level UGC rate band — and the
+            free merch + Jordan-matched fits + ambassador status makes the
+            full package worth the time.
           </p>
 
           <div className="creators-rates-grid">
@@ -299,11 +307,52 @@ export default function CreatorsPage() {
                   <strong>$500/mo</strong>
                 </li>
                 <li>
-                  <span>4 posts/month on your grid (mix of photos + reels)</span>
+                  <span>8 grid posts on your own (mix photos + reels)</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>1 raw bundle delivered to S&B/month (5 photos + 1 reel)</span>
+                  <span>1 raw photo pack to S&B (15 photos)</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>Stories: 4/week (16/month) wearing S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>Free S&B merch shipment + you keep it</span>
+                  <strong>included</strong>
+                </li>
+              </ul>
+            </article>
+
+            <article className="creators-tier">
+              <header className="creators-tier-head">
+                <span className="creators-tier-num">Tier 2</span>
+                <span className="creators-tier-label">Builder · 6K–8K followers</span>
+              </header>
+              <ul className="creators-tier-rates">
+                <li>
+                  <span>Monthly retainer</span>
+                  <strong>$750/mo</strong>
+                </li>
+                <li>
+                  <span>12 grid posts on your own (mix photos + reels)</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>1 raw photo pack to S&B (20 photos)</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>2 raw reels to S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>Stories: 4/week (16/month) wearing S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>Free S&B merch shipment + you keep it</span>
                   <strong>included</strong>
                 </li>
               </ul>
@@ -311,8 +360,8 @@ export default function CreatorsPage() {
 
             <article className="creators-tier creators-tier-top">
               <header className="creators-tier-head">
-                <span className="creators-tier-num">Tier 2</span>
-                <span className="creators-tier-label">Top of band · 7K–10K followers</span>
+                <span className="creators-tier-num">Tier 3</span>
+                <span className="creators-tier-label">Top of band · 8K–10K followers</span>
               </header>
               <ul className="creators-tier-rates">
                 <li>
@@ -320,20 +369,37 @@ export default function CreatorsPage() {
                   <strong>$1,000/mo</strong>
                 </li>
                 <li>
-                  <span>8 posts/month on your grid (mix of photos + reels)</span>
+                  <span>16 grid posts on your own (4+ must be reels)</span>
                   <strong>included</strong>
                 </li>
                 <li>
-                  <span>2 raw bundles delivered to S&B/month (10 photos + 2 reels)</span>
+                  <span>2 raw photo packs to S&B (15 photos each = 30)</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>3 raw reels to S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>Stories: 4/week (16/month) wearing S&B</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>Free S&B merch shipment + you keep it</span>
+                  <strong>included</strong>
+                </li>
+                <li>
+                  <span>Repost rights on @sneakzandbeatz across IG + TikTok</span>
                   <strong>included</strong>
                 </li>
               </ul>
             </article>
           </div>
           <p className="creators-helper" style={{ marginTop: 16, fontSize: 13 }}>
-            <em>These are launch retainers. Once the 5K–10K follower tier proves
-            out, the next band (10K–25K followers) opens at a higher monthly
-            number.</em>
+            <em>Launch retainers, anchored to Fashion Nova&rsquo;s early
+            ambassador model — modest cash + real product + ambassador status.
+            Once the 5K–10K follower band proves out, the next band (10K–25K
+            followers) opens at a higher rate card.</em>
           </p>
 
           <div className="creators-addons">
@@ -372,12 +438,13 @@ export default function CreatorsPage() {
               visible in frame except S&B and Jordans.
             </li>
             <li>
-              <strong>Content lane:</strong> Gen Z thirst-trap aesthetic —
-              suggestive posing, body-focus, mirror shots, bathroom and bedroom
-              settings are all permitted and expected. <strong>No nudity, no
-              nipple/genital exposure, no explicit sexual acts.</strong> S&B
-              reviews every deliverable and reserves the right to request a
-              free reshoot for content that crosses those specific lines.
+              <strong>Content lane:</strong> body-confident lifestyle aesthetic —
+              fitted styling, body-forward posing, mirror shots, and
+              bedroom-set / clean-interior backgrounds are all permitted and
+              expected. <strong>No nudity, no nipple/genital exposure, no
+              explicit sexual acts.</strong> S&B reviews every deliverable and
+              reserves the right to request a free reshoot for content that
+              crosses those specific lines.
             </li>
             <li>
               <strong>Revision rounds:</strong> 1 round included on raw bundles;
@@ -394,8 +461,8 @@ export default function CreatorsPage() {
             </li>
             <li>
               <strong>Exclusivity:</strong> while on retainer, no competing
-              thirst-trap content for direct streetwear / sneaker / athleisure
-              brands without S&B&rsquo;s written sign-off.
+              body-confident lifestyle content for direct streetwear / sneaker /
+              athleisure brands without S&B&rsquo;s written sign-off.
             </li>
             <li>
               <strong>Termination:</strong> either party may cancel with 14

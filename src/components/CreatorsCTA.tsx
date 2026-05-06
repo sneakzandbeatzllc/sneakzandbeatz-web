@@ -31,11 +31,12 @@ export default function CreatorsCTA() {
           </ul>
 
           <p className="creators-cta-paragraph">
-            S&B Girls is a signed-contract retainer program — Gen Z thirst-trap
-            content lane: bathroom-mirror, body-focus, fitted set + biker shorts +
-            Jordan retros. <strong>$500–$1K per month</strong> on a 90 or 180-day
-            term to start. We ship the merch line free, you keep what we send,
-            you post your monthly quota, we pay on the 1st. No clout-currency,
+            S&B Girls is a signed-contract retainer program — body-confident
+            lifestyle content lane: fitted styling, mirror shots, fitted set +
+            biker shorts + Jordan retros. <strong>Three tiers — $500, $750,
+            $1K per month</strong> on a 90 or 180-day term to start. We ship
+            the merch line free, you keep what we send, you hit your monthly
+            content quota, we pay on the 1st via Stripe. No clout-currency,
             no fake-flex agency math. We&rsquo;re a new brand and these are
             honest launch retainers — they scale up the moment the program
             proves out.
