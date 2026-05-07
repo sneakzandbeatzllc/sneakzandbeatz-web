@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T00:31:50+00:00",
+  "generated_utc": "2026-05-07T00:45:22+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -10,6 +10,30 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-12-bloodline/",
       "thumbnail": "/drops/thumbs/8cf8b4554bae.jpg",
       "published": "2026-05-06T12:10:22",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "f64e15dcf7bf",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 Low WMNS “Mother’s Day” May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-11-low-wmns-mothers-day-ah7860-102-drop/",
+      "thumbnail": "/drops/thumbs/f64e15dcf7bf.jpg",
+      "published": "2026-05-04T09:47:11",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "5d4bbf488e7f",
+      "pillar": "sneakers",
+      "title": "Nigel Sylvester x Air Jordan 4 “Brick After Brick” May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
+      "thumbnail": "/drops/thumbs/5d4bbf488e7f.png",
+      "published": "2026-05-02T13:37:32",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -73,30 +97,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "8cb509546594",
-      "pillar": "sneakers",
-      "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
-      "thumbnail": "/drops/thumbs/8cb509546594.jpg",
-      "published": "2026-05-06T13:25:08",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-05-04T10:03:16",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
     },
     {
       "id": "1f52e7878af0",
@@ -390,9 +390,9 @@
   "homepage": [
     "8cf8b4554bae",
     "1f52e7878af0",
-    "981d0fa1e35e",
+    "f64e15dcf7bf",
     "8703350352ac",
-    "26df7af50eda",
+    "5d4bbf488e7f",
     "ee683c9ae467"
   ]
 }
