@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T02:51:30+00:00",
+  "generated_utc": "2026-05-07T03:50:17+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "7db2bdf381a5",
+      "pillar": "hiphop",
+      "title": "Megan Thee Stallion Breaks Down Her Social Media Strategy: Authenticty Vs. Visibilty",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/megan-thee-stallion-breaks-down-her-social-media-strategy-authenticty-vs-visibilty/",
+      "thumbnail": "/drops/thumbs/7db2bdf381a5.jpg",
+      "published": "2026-05-06T23:00:22",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b15f49a9f5ec",
       "pillar": "hiphop",
       "title": "Amber Rose Reveals She Told Kanye West To Drink Before Taylor Swift VMA Stunt",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/06/migos-spark-reunion-buzz-with-instagram-post/",
       "thumbnail": "/drops/thumbs/7a41f09d43f7.jpg",
       "published": "2026-05-06T17:58:24",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d474ef4e3449",
-      "pillar": "hiphop",
-      "title": "NBA YoungBoy Reportedly Out at Rolling Loud — Here’s What We Know",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/nba-youngboy-reportedly-out-at-rolling-loud-heres-what-we-know/",
-      "thumbnail": "/drops/thumbs/d474ef4e3449.jpg",
-      "published": "2026-05-06T16:57:40",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "b15f49a9f5ec",
+    "7db2bdf381a5",
     "f64e15dcf7bf",
     "8703350352ac",
     "5d4bbf488e7f",
