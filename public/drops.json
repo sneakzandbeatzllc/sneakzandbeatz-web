@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T09:07:09+00:00",
+  "generated_utc": "2026-05-07T10:07:12+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "77bccd4f57b8",
+      "id": "b0d8a5a620a0",
       "pillar": "anime",
-      "title": "Always a Catch! Anime Casts Asaki Yuikawa",
+      "title": "The World Is Dancing Anime's Main Trailer Reveals More Cast, Opening Song, July 2 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/always-a-catch-anime-casts-asaki-yuikawa/.237129",
-      "thumbnail": "/drops/thumbs/77bccd4f57b8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/the-world-is-dancing-anime-main-trailer-reveals-more-cast-opening-song-july-2-debut/.237156",
+      "thumbnail": "/drops/thumbs/b0d8a5a620a0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "2914281dc458",
+      "id": "77bccd4f57b8",
       "pillar": "anime",
-      "title": "15 Greatest New-Gen Manga to Read in 2026",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-new-gen-manga-read-2026/",
-      "thumbnail": "/drops/thumbs/2914281dc458.png",
+      "title": "Always a Catch! Anime Casts Asaki Yuikawa",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/always-a-catch-anime-casts-asaki-yuikawa/.237129",
+      "thumbnail": "/drops/thumbs/77bccd4f57b8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ee683c9ae467",
+      "id": "f28241814d22",
       "pillar": "gaming",
-      "title": "Take-Two Believes GTA 6’s “Core Customers” Are On Console",
+      "title": "Take-Two CEO Strauss Zelnick Says Crunch Is Not Part Of How The GTA 6 Publisher Operates Today",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562569/article/take-two-believes-gta-6s-core-customers-are-on-console/",
-      "thumbnail": "/drops/thumbs/ee683c9ae467.jpg",
+      "source_url": "https://gameranx.com/updates/id/562590/article/take-two-ceo-strauss-zelnick-says-crunch-is-not-part-of-how-the-gta-6-publisher-operates-today/",
+      "thumbnail": "/drops/thumbs/f28241814d22.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "6d6a5d170a1c",
+      "id": "2640b5bf3009",
       "pillar": "gaming",
-      "title": "Clair Obscur: Expedition 33 lead \"was crossing fingers\" for other \"super creative games\" to win GOTY",
+      "title": "Stranger Than Heaven offers the grounded refresh I've been desperate to see from Yakuza RPGs for years",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-was-crossing-fingers-the-rpg-wouldnt-win-game-of-the-year-because-he-was-rooting-for-other-super-creative-games-instead/",
-      "thumbnail": "/drops/thumbs/6d6a5d170a1c.jpg",
+      "source_url": "https://www.gamesradar.com/games/action-rpg/stranger-than-heaven-offers-the-grounded-refresh-ive-been-desperate-to-see-from-yakuza-rpgs-for-years/",
+      "thumbnail": "/drops/thumbs/2640b5bf3009.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -333,6 +333,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/poor-start-for-ps5-exclusive-saros-as-first-sales-data-emerges",
       "thumbnail": "/drops/thumbs/5bb58f0530f7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4ec12906eb2e",
+      "pillar": "gaming",
+      "title": "Sega’s Stranger Than Heaven Retells The Tojo Clan’s History – But It’s More Than Another Yakuza Story",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562588/article/segas-stranger-than-heaven-retells-the-tojo-clans-history-but-its-more-than-another-yakuza-story/",
+      "thumbnail": "/drops/thumbs/4ec12906eb2e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "ebb149ed366f",
-      "pillar": "gaming",
-      "title": "The Internet Reacts To Star Fox ‘s New Look",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-internet-reacts-to-star-foxs-new-look-2000693733",
-      "thumbnail": "/drops/thumbs/ebb149ed366f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "f64e15dcf7bf",
     "8703350352ac",
     "5d4bbf488e7f",
-    "ee683c9ae467"
+    "f28241814d22"
   ]
 }
