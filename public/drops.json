@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T14:53:08+00:00",
+  "generated_utc": "2026-05-07T14:54:32+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,18 +99,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "f8f0b391b30f",
-      "pillar": "hiphop",
-      "title": "Dr. Colman Domingo: Inside Temple University’s Hollywood Moment",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/features/dr-colman-domingo-inside-temple-universitys-hollywood-moment/",
-      "thumbnail": "/drops/thumbs/f8f0b391b30f.jpg",
-      "published": "2026-05-07T09:27:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "707200ba6a1d",
       "pillar": "hiphop",
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charge",
@@ -190,6 +178,18 @@
       "source_url": "https://thesource.com/2026/05/07/lil-tjays-deluxe-drop-sparks-debate-with-direct-shots-on-go-tati/",
       "thumbnail": "/drops/thumbs/e8a458427425.jpg",
       "published": "2026-05-07T08:09:52",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d0c0c87a6e3d",
+      "pillar": "hiphop",
+      "title": "Conway The Machine Teases Griselda Reunion on New Rippin’ 2Gether Episode",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/07/conway-the-machine-rippin-2gether-griselda-reunion-news/",
+      "thumbnail": "/drops/thumbs/d0c0c87a6e3d.jpg",
+      "published": "2026-05-07T07:59:57",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "f8f0b391b30f",
+    "707200ba6a1d",
     "5d4bbf488e7f",
     "b49854e32e60",
     "593265008bbc",

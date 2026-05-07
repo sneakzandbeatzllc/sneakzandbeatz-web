@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T14:53:08+00:00",
+  "generated_utc": "2026-05-07T14:54:32+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Dr. Colman Domingo: Inside Temple University’s Hollywood Moment",
-      "url": "https://allhiphop.com/features/dr-colman-domingo-inside-temple-universitys-hollywood-moment/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charge",
       "url": "https://thesource.com/2026/05/07/kodak-black-arrested-florida-drug-trafficking-2026/",
       "pillar": "hiphop",
@@ -111,6 +104,13 @@
     {
       "title": "Lil Tjay’s Deluxe Drop Sparks Debate With Direct Shots on “Go Tati”",
       "url": "https://thesource.com/2026/05/07/lil-tjays-deluxe-drop-sparks-debate-with-direct-shots-on-go-tati/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Conway The Machine Teases Griselda Reunion on New Rippin’ 2Gether Episode",
+      "url": "https://thesource.com/2026/05/07/conway-the-machine-rippin-2gether-griselda-reunion-news/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
