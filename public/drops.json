@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T17:03:36+00:00",
+  "generated_utc": "2026-05-07T17:06:11+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -303,6 +303,18 @@
       "release_badge": ""
     },
     {
+      "id": "076f721fccce",
+      "pillar": "gaming",
+      "title": "News Final Fantasy 7 Remake Part 3 Could Take the Story Even Further with DLC",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/final-fantasy-7-remake-part-3-could-take-the-story-even-further-with-dlc",
+      "thumbnail": "/drops/thumbs/076f721fccce.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2640b5bf3009",
       "pillar": "gaming",
       "title": "Stranger Than Heaven offers the grounded refresh I've been desperate to see from Yakuza RPGs for years",
@@ -327,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "3e03fa7f68f5",
-      "pillar": "gaming",
-      "title": "News 'Deeply Disappointed': BioShock Boss Just as Annoyed by the Wait for New Game as You Are",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/deeply-disappointed-bioshock-boss-just-as-annoyed-by-the-wait-for-new-game-as-you-are",
-      "thumbnail": "/drops/thumbs/3e03fa7f68f5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "db02d20d5c8b",
       "pillar": "gaming",
       "title": "New Lego Batman Trailer Uses The Perfect Song To Get Me Freakin’ Pumped For Launch",
@@ -351,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "69932ff2d174",
+      "id": "3e03fa7f68f5",
       "pillar": "gaming",
-      "title": "News New PS5 Survival Horror Game Takes Silent Hill Gameplay to the Future",
+      "title": "News 'Deeply Disappointed': BioShock Boss Just as Annoyed by the Wait for New Game as You Are",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/new-ps5-survival-horror-game-takes-silent-hill-gameplay-to-the-future",
-      "thumbnail": "/drops/thumbs/69932ff2d174.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/deeply-disappointed-bioshock-boss-just-as-annoyed-by-the-wait-for-new-game-as-you-are",
+      "thumbnail": "/drops/thumbs/3e03fa7f68f5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
