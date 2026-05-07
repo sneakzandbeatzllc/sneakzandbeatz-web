@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T14:13:14+00:00",
+  "generated_utc": "2026-05-07T14:14:33+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "f8f0b391b30f",
-      "pillar": "hiphop",
-      "title": "Dr. Colman Domingo: Inside Temple University’s Hollywood Moment",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/features/dr-colman-domingo-inside-temple-universitys-hollywood-moment/",
-      "thumbnail": "/drops/thumbs/f8f0b391b30f.jpg",
-      "published": "2026-05-07T09:27:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "707200ba6a1d",
       "pillar": "hiphop",
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charge",
@@ -183,13 +171,25 @@
       "release_badge": ""
     },
     {
-      "id": "25bd1584abbb",
+      "id": "90f121448bdd",
       "pillar": "hiphop",
-      "title": "Chris King Murder Case Closes With Fourth Suspect Arrested In Nashville",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/chris-king-murder-case-closes-with-fourth-suspect-arrested-in-nashville/",
-      "thumbnail": "/drops/thumbs/25bd1584abbb.jpg",
-      "published": "2026-05-07T08:00:52",
+      "title": "Just Some Takeaways from Just Business 2",
+      "source": "LetsTalkBattleRap",
+      "source_url": "https://www.letstalkbattlerap.com/just-some-takeaways-from-just-business-2/",
+      "thumbnail": "/drops/thumbs/90f121448bdd.png",
+      "published": "2026-04-21T17:04:20",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8fc954796ec6",
+      "pillar": "hiphop",
+      "title": "New Music Friday: Ludacris, 6LACK & 2 Chainz, Sexyy Red, Yasiin Bey & More",
+      "source": "HipHopDX",
+      "source_url": "https://hiphopdx.com/news/new-music-friday-ludacris-6lack-2-chainz-sexyy-red-yasiin-bey/",
+      "thumbnail": "/drops/thumbs/8fc954796ec6.jpg",
+      "published": "2026-04-17T05:48:14",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "f8f0b391b30f",
+    "707200ba6a1d",
     "f64e15dcf7bf",
     "b49854e32e60",
     "5d4bbf488e7f",

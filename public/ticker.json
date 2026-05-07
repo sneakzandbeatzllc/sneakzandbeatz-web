@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T14:13:14+00:00",
+  "generated_utc": "2026-05-07T14:14:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Dr. Colman Domingo: Inside Temple University’s Hollywood Moment",
-      "url": "https://allhiphop.com/features/dr-colman-domingo-inside-temple-universitys-hollywood-moment/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charge",
       "url": "https://thesource.com/2026/05/07/kodak-black-arrested-florida-drug-trafficking-2026/",
       "pillar": "hiphop",
@@ -109,8 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "Chris King Murder Case Closes With Fourth Suspect Arrested In Nashville",
-      "url": "https://allhiphop.com/news/chris-king-murder-case-closes-with-fourth-suspect-arrested-in-nashville/",
+      "title": "Just Some Takeaways from Just Business 2",
+      "url": "https://www.letstalkbattlerap.com/just-some-takeaways-from-just-business-2/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "New Music Friday: Ludacris, 6LACK & 2 Chainz, Sexyy Red, Yasiin Bey & More",
+      "url": "https://hiphopdx.com/news/new-music-friday-ludacris-6lack-2-chainz-sexyy-red-yasiin-bey/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
