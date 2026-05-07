@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T11:09:58+00:00",
+  "generated_utc": "2026-05-07T12:07:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Chris King Murder Case Closes With Fourth Suspect Arrested In Nashville",
+      "url": "https://allhiphop.com/news/chris-king-murder-case-closes-with-fourth-suspect-arrested-in-nashville/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Stockton Becomes First California City to Launch HOPE Trust Account Pilot for Foster Youth",
+      "url": "https://thesource.com/2026/05/07/stockton-california-hope-trust-account-pilot-launch/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Megan Thee Stallion Breaks Down Her Social Media Strategy: Authenticty Vs. Visibilty",
       "url": "https://allhiphop.com/news/megan-thee-stallion-breaks-down-her-social-media-strategy-authenticty-vs-visibilty/",
       "pillar": "hiphop",
@@ -102,29 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Colman Domingo Receives Emotional Homecoming Honor At Temple University",
-      "url": "https://allhiphop.com/news/colman-domingo-received-emotional-homecoming-honor-at-temple-university/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Migos Spark Reunion Buzz with Instagram Post",
-      "url": "https://thesource.com/2026/05/06/migos-spark-reunion-buzz-with-instagram-post/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
       "url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "My Hero Academia: All's Justice Game Adds Nana Shimura as DLC",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-06/my-hero-academia-all-justice-game-adds-nana-shimura-as-dlc/.237130",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Always a Catch! Anime Casts Asaki Yuikawa",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-06/always-a-catch-anime-casts-asaki-yuikawa/.237129",
+      "title": "15 Greatest New-Gen Manga to Read in 2026",
+      "url": "https://screenrant.com/best-new-gen-manga-read-2026/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Lost Hayao Miyazaki Work Finally Gets Official Studio Ghibli Release",
+      "url": "https://screenrant.com/lost-hayao-miyazaki-art-studio-ghibli-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

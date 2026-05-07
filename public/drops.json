@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T11:09:58+00:00",
+  "generated_utc": "2026-05-07T12:07:22+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "25bd1584abbb",
+      "pillar": "hiphop",
+      "title": "Chris King Murder Case Closes With Fourth Suspect Arrested In Nashville",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/chris-king-murder-case-closes-with-fourth-suspect-arrested-in-nashville/",
+      "thumbnail": "/drops/thumbs/25bd1584abbb.jpg",
+      "published": "2026-05-07T08:00:52",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8920fd18c3c8",
+      "pillar": "hiphop",
+      "title": "Stockton Becomes First California City to Launch HOPE Trust Account Pilot for Foster Youth",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/07/stockton-california-hope-trust-account-pilot-launch/",
+      "thumbnail": "/drops/thumbs/8920fd18c3c8.jpg",
+      "published": "2026-05-07T07:43:41",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7db2bdf381a5",
       "pillar": "hiphop",
       "title": "Megan Thee Stallion Breaks Down Her Social Media Strategy: Authenticty Vs. Visibilty",
@@ -171,48 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "da7aa6c89a50",
-      "pillar": "hiphop",
-      "title": "Colman Domingo Receives Emotional Homecoming Honor At Temple University",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/colman-domingo-received-emotional-homecoming-honor-at-temple-university/",
-      "thumbnail": "/drops/thumbs/da7aa6c89a50.jpg",
-      "published": "2026-05-06T18:26:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7a41f09d43f7",
-      "pillar": "hiphop",
-      "title": "Migos Spark Reunion Buzz with Instagram Post",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/06/migos-spark-reunion-buzz-with-instagram-post/",
-      "thumbnail": "/drops/thumbs/7a41f09d43f7.jpg",
-      "published": "2026-05-06T17:58:24",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8703350352ac",
       "pillar": "anime",
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
       "thumbnail": "/drops/thumbs/8703350352ac.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2911ef0fd1f1",
-      "pillar": "anime",
-      "title": "My Hero Academia: All's Justice Game Adds Nana Shimura as DLC",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/my-hero-academia-all-justice-game-adds-nana-shimura-as-dlc/.237130",
-      "thumbnail": "/drops/thumbs/2911ef0fd1f1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "77bccd4f57b8",
+      "id": "2914281dc458",
       "pillar": "anime",
-      "title": "Always a Catch! Anime Casts Asaki Yuikawa",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/always-a-catch-anime-casts-asaki-yuikawa/.237129",
-      "thumbnail": "/drops/thumbs/77bccd4f57b8.jpg",
+      "title": "15 Greatest New-Gen Manga to Read in 2026",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-new-gen-manga-read-2026/",
+      "thumbnail": "/drops/thumbs/2914281dc458.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8f614021f8ae",
+      "pillar": "anime",
+      "title": "Lost Hayao Miyazaki Work Finally Gets Official Studio Ghibli Release",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/lost-hayao-miyazaki-art-studio-ghibli-release/",
+      "thumbnail": "/drops/thumbs/8f614021f8ae.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "7db2bdf381a5",
+    "25bd1584abbb",
     "f64e15dcf7bf",
     "8703350352ac",
     "5d4bbf488e7f",
