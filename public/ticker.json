@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T13:08:57+00:00",
+  "generated_utc": "2026-05-07T13:11:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,13 +39,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 Low OG “Banned” Now Available (May 2026)",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-low-og-banned/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Jordan Tatum 4 Gets A “Cool Grey” Colorway",
+      "url": "https://sneakerbardetroit.com/jordan-tatum-4-cool-grey-release-date/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
