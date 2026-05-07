@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T21:16:05+00:00",
+  "generated_utc": "2026-05-07T21:43:09+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "528073083890",
+      "pillar": "hiphop",
+      "title": "Real Boston Richey Has Major Allegations Against Him With Baby Rumors To Boot",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/real-boston-richey-has-major-allegations-against-him-with-baby-rumors-to-boot/",
+      "thumbnail": "/drops/thumbs/528073083890.png",
+      "published": "2026-05-07T17:27:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "371a2d5664bd",
       "pillar": "hiphop",
       "title": "Will Smith Defeats Man’s Sexual Harassment Lawsuit In Court Ruling",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/music/armani-white-flips-mannie-fresh-into-a-summer-anthem-with-press/",
       "thumbnail": "/drops/thumbs/0e631261d700.jpg",
       "published": "2026-05-07T11:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ede628863c2f",
-      "pillar": "hiphop",
-      "title": "Kodak Black Arrested In Florida Over MDMA Trafficking Allegation",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kodak-black-arrested-in-florida-over-mdma-trafficking-allegation/",
-      "thumbnail": "/drops/thumbs/ede628863c2f.jpg",
-      "published": "2026-05-07T10:55:53",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "371a2d5664bd",
+    "528073083890",
     "593265008bbc",
     "5f1280d30ff6",
     "734fcf19716d",
