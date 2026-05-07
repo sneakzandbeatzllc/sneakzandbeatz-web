@@ -28,6 +28,13 @@
 import { NextRequest, NextResponse } from "next/server";
 import crypto from "node:crypto";
 
+// Force Node.js runtime — Vercel defaults API routes to Edge, but we use
+// node:crypto + Buffer + fetch with Node-style headers, which needs Node.
+export const runtime = "nodejs";
+
+// Webhooks are by definition dynamic (we read the request body + headers).
+export const dynamic = "force-dynamic";
+
 interface GumroadWebhookBody {
   seller_id: string;
   product_id: string;
