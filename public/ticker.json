@@ -1,18 +1,11 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T16:06:21+00:00",
+  "generated_utc": "2026-05-07T17:03:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "Air Jordan 12 “Bloodline” Releases May 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-12-bloodline/",
-      "pillar": "sneakers",
-      "score": 7.5,
-      "article_slug": null
-    },
-    {
-      "title": "Nigel Sylvester x Air Jordan 4 “Brick After Brick” May Release Date & Info",
-      "url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
       "pillar": "sneakers",
       "score": 7.5,
       "article_slug": null
@@ -60,6 +53,20 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 1 High OG “Shop Jacket” (Workwear) Releases May 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-workwear/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "EXCLUSIVE: Cardi B Wins Major Court Victory Against Tasha K",
+      "url": "https://allhiphop.com/news/exclusive-cardi-b-wins-major-court-victory-against-tasha-k/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Armani White Flips Mannie Fresh Into A Summer Anthem With “PRESS.”",
       "url": "https://allhiphop.com/music/armani-white-flips-mannie-fresh-into-a-summer-anthem-with-press/",
       "pillar": "hiphop",
@@ -88,6 +95,13 @@
       "article_slug": null
     },
     {
+      "title": "Once Upon A Time In Chicago: OWN’s ‘One Golden Summer’ Uncovers Little League Baseball’s South Side Story",
+      "url": "https://thesource.com/2026/05/07/once-upon-a-time-in-chicago-owns-one-golden-summer-uncovers-little-league-baseballs-south-side-story/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Tech N9ne and E-40 Bring The “Strange Wid It” Tour To The U.S.",
       "url": "https://thesource.com/2026/05/07/tech-n9ne-and-e-40-bring-the-strange-wid-it-tour-to-the-u-s/",
       "pillar": "hiphop",
@@ -102,16 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "New Video Shows Julio Foolio Murder Suspect Attempting To Escape Interrogation Room",
-      "url": "https://thesource.com/2026/05/07/new-video-shows-julio-foolio-murder-suspect-attempting-to-escape-interrogation-room/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Tyla Details Humorous Met Gala Encounter With Rihanna",
-      "url": "https://thesource.com/2026/05/07/tyla-rihanna-met-gala-tiktok-video/",
-      "pillar": "hiphop",
+      "title": "Jujutsu Kaisen Is Officially Part Of The Marvel Universe (No, Seriously)",
+      "url": "https://screenrant.com/jujutsu-kaisen-marvel-universe-storm/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -132,13 +139,6 @@
     {
       "title": "Summer 2026's Biggest Movie Is The Naruto Live-Action Preview Fans Have Waited For",
       "url": "https://screenrant.com/naruto-live-action-spider-man-brand-new-day-preview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naruto's Next Anime Is Recreating Sasuke vs. Itachi, with One Tragic Twist",
-      "url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-sasuke-itachi/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,15 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "Mortal Kombat 2 Movie Producer Lashes Out At Negative Reviews That ‘Don’t Have Any Love For The Genre’",
-      "url": "https://kotaku.com/mortal-kombat-2-movie-reviews-rant-producer-todd-garner-2000693958",
+      "title": "News 'Deeply Disappointed': BioShock Boss Just as Annoyed by the Wait for New Game as You Are",
+      "url": "https://www.pushsquare.com/news/2026/05/deeply-disappointed-bioshock-boss-just-as-annoyed-by-the-wait-for-new-game-as-you-are",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News 'Deeply Disappointed': BioShock Boss Just as Annoyed by the Wait for New Game as You Are",
-      "url": "https://www.pushsquare.com/news/2026/05/deeply-disappointed-bioshock-boss-just-as-annoyed-by-the-wait-for-new-game-as-you-are",
+      "title": "New Lego Batman Trailer Uses The Perfect Song To Get Me Freakin’ Pumped For Launch",
+      "url": "https://kotaku.com/new-lego-batman-trailer-uses-kiss-from-a-rose-seal-perfect-song-launch-ps5-xbox-2000694000",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt",
-      "url": "https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746",
+      "title": "The Story Behind One Of The Grossest Video Game Scenes Of 2026",
+      "url": "https://kotaku.com/mixtape-minigame-makeout-scene-stacey-colin-tongues-2000693029",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
