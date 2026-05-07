@@ -39,9 +39,10 @@ export default function RapChallengeRulesPage() {
           </Link>
           <h1 className="rules-h1">Official Rules — $10,000 Rap Challenge</h1>
           <p className="rules-meta">
-            Last updated: <strong>April 28, 2026</strong> · This is a SKILL-BASED CONTEST
-            determined primarily by judging on craft and (secondarily) community vote — not
-            chance. NO PURCHASE NECESSARY TO ENTER OR WIN. A purchase will not increase your
+            Last updated: <strong>May 7, 2026</strong> · This is a SKILL-BASED CONTEST
+            determined primarily by judging on craft. The community-vote and public-vote
+            components reflect audience preference among finalists already pre-selected on
+            skill. NO PURCHASE NECESSARY TO ENTER OR WIN. A purchase will not increase your
             chances of winning. Void where prohibited.
           </p>
 
@@ -62,10 +63,9 @@ export default function RapChallengeRulesPage() {
             <h2>1. Sponsor</h2>
             <p>
               The &ldquo;$10K Rap Challenge&rdquo; (&ldquo;Promotion&rdquo;) is sponsored by{" "}
-              <strong>The PHRHX Company</strong> (&ldquo;Sponsor&rdquo;), a California
-              company operating the Sneakz &amp; Beatz brand. Beat catalog and publishing
-              are powered by <strong>Sneakz &amp; Beatz LLC</strong> Business
-              mailing address [iPostal1 mailbox — confirm before publish].
+              <strong>Sneakz &amp; Beatz LLC</strong> (&ldquo;Sponsor&rdquo;), a California
+              limited liability company (Entity #B20260195169). Mailing address:
+              7465 Mission Gorge Road, Suite 142, San Diego, CA 92120.
             </p>
           </section>
 
@@ -98,29 +98,31 @@ export default function RapChallengeRulesPage() {
           <section id="entry-period">
             <h2>3. Entry Period</h2>
             <p>
-              The Promotion will run only after the Sponsor confirms a minimum of 250 waitlist
-              signups (the &ldquo;Funding Threshold&rdquo;). Once the Funding Threshold is met,
-              Sponsor will publicly announce the start and end dates of the Submission Period
-              by email to the waitlist and on sneakzandbeatz.com at least seven (7) days
-              before submissions open.
+              The Promotion will run only after the Sponsor confirms a minimum of five
+              thousand (5,000) verified email subscribers to the official Sneakz &amp; Beatz
+              newsletter at sneakzandbeatz.substack.com (the &ldquo;Audience Threshold&rdquo;).
+              Once the Audience Threshold is met, Sponsor will publicly announce the start
+              and end dates of the Submission Period by email to all subscribers and on
+              sneakzandbeatz.com at least seven (7) calendar days before submissions open.
             </p>
             <p>
               The Submission Period will be no fewer than thirty (30) calendar days. If the
-              Funding Threshold is not met within twelve (12) months of the Promotion
-              announcement, Sponsor will, at Sponsor&rsquo;s sole discretion, either (a) extend
-              the announcement period or (b) cancel the Promotion and refund any paid entries.
-              Beat bundles purchased separately are NOT refundable as they constitute a
-              standalone product.
+              Audience Threshold is not met within eighteen (18) months of these Official
+              Rules being posted, Sponsor will, at Sponsor&rsquo;s sole discretion, either
+              (a) extend the announcement period, or (b) cancel the Promotion. Beat bundles
+              purchased separately are standalone products and are NOT refundable as a
+              consequence of any cancellation of the Promotion.
             </p>
           </section>
 
           <section id="how-to-enter">
             <h2>4. How to Enter</h2>
             <p>
-              <strong>The Standard Bundle and the Rap Challenge are two separate things.</strong>
-              {" "}Purchasing the bundle does NOT automatically enter you in the Promotion. To
-              enter, you must visit sneakzandbeatz.com/rap-challenge/submit and explicitly opt
-              in to the Promotion via the on-form checkbox.
+              <strong>The Sneakz &amp; Beatz Bundle and the Rap Challenge are two separate
+              things.</strong> The bundle is a standalone product. Buying the bundle does
+              NOT automatically enter you in the Promotion. At checkout, an explicit
+              opt-in checkbox asks if you wish to also enter the Promotion. The opt-in is
+              optional and unchecked by default.
             </p>
             <p>
               All entrants, regardless of entry method, must:
@@ -129,35 +131,41 @@ export default function RapChallengeRulesPage() {
               <li>Be following @sneakz_beatz on Instagram</li>
               <li>Be following @SneakzandBeatzOfficial on TikTok</li>
               <li>Be following @sneakzandbeatz on X (Twitter)</li>
-              <li>Be subscribed to The PHRHX Show on YouTube</li>
-              <li>Be a verified member of the Sneakz & Beatz Discord server</li>
+              <li>Be subscribed to @sneakzandbeatz on YouTube</li>
+              <li>Be a verified member of the Sneakz &amp; Beatz Discord server</li>
               <li>Submit a recording meeting the Submission Requirements (Section 6)</li>
               <li>Provide their Discord username on the entry form for cross-verification</li>
             </ul>
             <p>
-              There are three (3) methods of entry. Each method counts as one (1) entry per
+              There are two (2) methods of entry. Each method counts as one (1) entry per
               eligible Submission:
             </p>
             <p>
-              <strong>(a) Paid entry — $35 Standard or $99 Verified:</strong> Pay the $35 Standard fee or $99 Verified fee on the entry form
-              and submit a recording meeting the Submission Requirements.
+              <strong>(a) Bundle entry — opt-in at checkout:</strong> Purchase any tier of
+              the Sneakz &amp; Beatz Bundle (Standard Vault $79, Producer Pack $149, or
+              Industry Pack $399) and check the box at checkout reading &ldquo;Enter the
+              $10K Rap Challenge.&rdquo; The bundle includes 200+ mastered beats, drum kit,
+              vocal kit, sample pack, t-shirt, and merchandise. Buying the bundle without
+              checking the box gives you the bundle product only — no contest entry.
+              Entry is initiated at the moment of bundle purchase + checkbox tick, but
+              entry is NOT COMPLETE until all four (4) post-purchase steps are completed
+              within fourteen (14) calendar days of purchase: (1) follow all required
+              social accounts; (2) join the Sneakz &amp; Beatz Discord; (3) submit the
+              video meeting the Submission Requirements; (4) acknowledge these Official
+              Rules via the entry-completion form. Failure to complete all four steps
+              within the deadline forfeits the Promotion entry. The bundle product itself
+              is non-refundable regardless of entry status.
             </p>
             <p>
-              <strong>(b) Bundle-proof entry — fee waived:</strong> If you have purchased the
-              Sneakz & Beatz Standard Bundle ($79), provide your Stripe receipt ID on the entry
-              form to waive the Standard fee. The Standard Bundle is a standalone product (100
-              mastered beats + drum kits + sample pack + t-shirt). Buying the bundle does NOT
-              automatically enter you — you still must complete the entry form to enter.
+              <strong>(b) Free entry — see Section 5 (AMOE).</strong>
             </p>
             <p>
-              <strong>(c) Free entry — see Section 5 (AMOE).</strong>
-            </p>
-            <p>
-              An entrant may submit multiple entries. Each entry must be a different recording
-              and must independently satisfy one of the entry methods above. Identical or
-              substantially similar recordings submitted multiple times will be treated as a
-              single entry. All entries must verify the social-follow + Discord membership
-              requirements above.
+              An entrant may submit multiple entries via the AMOE path. Each entry must be
+              a different recording and must independently satisfy one of the entry methods
+              above. Identical or substantially similar recordings submitted multiple times
+              will be treated as a single entry. All entries must verify the social-follow
+              and Discord membership requirements above. Bundle entries are limited to one
+              (1) per bundle purchase.
             </p>
           </section>
 
@@ -222,39 +230,44 @@ export default function RapChallengeRulesPage() {
           <section id="judging">
             <h2>7. Judging</h2>
             <p>
-              All eligible Submissions will be reviewed by Sponsor and a panel of at least
-              three (3) independent guest judges (names announced no fewer than fourteen (14)
-              calendar days before voting opens). The top twenty-five (25) Submissions will
-              advance to the community-vote round.
+              All eligible Submissions will be reviewed by the judges panel — Sponsor (PHRHX)
+              plus at least two (2) independent guest judges per round (names announced no
+              fewer than fourteen (14) calendar days before voting opens). The top twenty-five
+              (25) Submissions will advance to the community-vote and public-vote rounds.
             </p>
             <p>
-              <strong>Final scoring weights:</strong>
+              <strong>Final scoring weights — three tiers:</strong>
             </p>
             <ul>
-              <li>Judges&rsquo; panel score: 70%</li>
-              <li>Community vote (Sneakz & Beatz Discord — see voting integrity rules below): 30%</li>
+              <li><strong>Judges&rsquo; panel score: 50%</strong></li>
+              <li><strong>Discord community vote: 30%</strong> (members-only — see integrity rules)</li>
+              <li><strong>Public YouTube vote: 20%</strong> (single platform — see procedure)</li>
             </ul>
             <p>
-              <strong>Judging criteria (panel only):</strong> lyricism (30%), flow and delivery
-              (25%), originality (20%), beat selection and use (15%), production quality (10%).
+              <strong>Judges&rsquo; panel criteria (50% weight):</strong> lyricism (10 points),
+              flow &amp; delivery (10 points), originality (10 points), beat selection &amp;
+              use (10 points), production quality (10 points). Each finalist receives a
+              numerical score from each judge from 0–50. The panel score is the average of
+              all judges&rsquo; scores.
             </p>
             <p>
-              <strong>Community vote integrity:</strong> The community vote will be conducted
-              in the official Sneakz & Beatz Discord server (link at sneakzandbeatz.com/community).
-              The following anti-fraud rules apply:
+              <strong>Discord community vote (30% weight) — integrity rules:</strong> The
+              Discord vote is conducted in the official Sneakz &amp; Beatz Discord server
+              (link at sneakzandbeatz.com/community).
             </p>
             <ul>
               <li>
                 <strong>One vote per Discord member.</strong> Each member may cast a single
-                vote across all twenty-five (25) finalists during the seven (7) day voting
-                window.
+                reaction-vote across all twenty-five (25) finalists during the seven (7) day
+                voting window.
               </li>
               <li>
                 <strong>No self-voting.</strong> A member&rsquo;s vote will be automatically
-                rejected and disregarded if their verified email address matches the
-                submission email of the finalist they voted for. Repeated self-vote attempts
-                may result in disqualification of the submitter&rsquo;s entry at
-                Sponsor&rsquo;s sole discretion.
+                rejected if their verified Discord username matches the submission Discord
+                username of the finalist they voted for. The voting bot enforces this match
+                check at vote-cast time. Repeated self-vote attempts may result in
+                disqualification of the submitter&rsquo;s entry at Sponsor&rsquo;s sole
+                discretion.
               </li>
               <li>
                 <strong>Membership cutoff.</strong> Only Discord members who joined the server
@@ -264,17 +277,55 @@ export default function RapChallengeRulesPage() {
               </li>
               <li>
                 <strong>One Discord account per voter.</strong> Use of multiple Discord
-                accounts to cast multiple votes is prohibited and may result in disqualification.
+                accounts to cast multiple votes is prohibited and may result in
+                disqualification of the offending account&rsquo;s submission(s).
               </li>
               <li>
                 <strong>Public tally.</strong> Sponsor will publish the full per-finalist
-                vote count after the voting window closes for transparency.
+                Discord vote count after the voting window closes for transparency.
               </li>
             </ul>
             <p>
-              In the event of a tie, the entrant with the higher panel-only score will prevail.
-              If still tied, Sponsor will conduct a single-question tie-breaker decided by
-              Sponsor in good faith. All judging decisions are final and binding.
+              <strong>Public YouTube vote (20% weight) — single platform, like-count
+              method:</strong>
+            </p>
+            <ul>
+              <li>
+                All twenty-five (25) finalist videos are uploaded by Sponsor to the official
+                Sneakz &amp; Beatz Rap Challenge YouTube playlist within 72 hours of the
+                voting window opening.
+              </li>
+              <li>
+                Public votes are measured as <strong>like count</strong> on each finalist
+                video over the seven (7) day voting window. Likes count, dislikes do not
+                subtract.
+              </li>
+              <li>
+                Each finalist&rsquo;s public-vote score is the percentage of total combined
+                likes their video received. (E.g., if a finalist&rsquo;s video has 200 likes
+                and the playlist total is 1,000 likes, that finalist&rsquo;s public-vote
+                score is 20%.)
+              </li>
+              <li>
+                Sponsor reserves the right to invalidate suspicious like-count spikes
+                consistent with bot activity. Invalidated likes will be subtracted from the
+                final tally and a public note will be issued.
+              </li>
+              <li>
+                Cross-platform shares (TikTok, Instagram, X) are encouraged but do NOT count
+                toward the public-vote score. Only YouTube playlist likes count.
+              </li>
+            </ul>
+            <p>
+              <strong>Final winner determination.</strong> The final score for each finalist
+              is calculated as: (Panel Score / 50) × 50% + (Discord vote share) × 30% +
+              (YouTube vote share) × 20%. The finalist with the highest final score is the
+              1st place winner; second-highest is 2nd place; third-highest is 3rd place.
+            </p>
+            <p>
+              In the event of a tie, the entrant with the higher panel-only score will
+              prevail. If still tied, Sponsor will conduct a single-question tie-breaker
+              decided by Sponsor in good faith. All judging decisions are final and binding.
             </p>
           </section>
 

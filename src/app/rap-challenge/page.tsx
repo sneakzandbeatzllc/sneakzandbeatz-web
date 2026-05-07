@@ -13,23 +13,23 @@ export const metadata = {
 const STEPS = [
   {
     n: "01",
-    h: "Get a beat",
-    body: "Pick any beat from the Sneakz & Beatz catalog ($34.99 lease) or grab the Standard Bundle ($79) for 100 mastered beats + drum kits + sample pack + a t-shirt. The bundle is a standalone product — buying it does NOT auto-enter you in the challenge (see step 03).",
+    h: "Get the bundle",
+    body: "Cop any tier of the Sneakz & Beatz bundle — Standard Vault ($79), Producer Pack ($149), or Industry Pack ($399). All tiers include 200+ mastered beats + drum kit + vocal kit + sample pack + a t-shirt. The bundle is the gate — paid entry to the challenge runs through it. (Free AMOE path also available — see Official Rules.)",
   },
   {
     n: "02",
-    h: "Record your rap",
-    body: "Drop a verse, hook, or full song. Mixed, mastered, your call. 60 seconds minimum, 4 minutes max. No uncleared samples, no AI vocals.",
+    h: "Opt in at checkout",
+    body: "When you buy the bundle, an explicit checkbox at checkout asks: 'Enter the $10K Rap Challenge?' Tick it to start your entry. You'll get a confirmation email with the 4 steps to complete your entry. Buying the bundle without ticking the box just gives you the bundle — no contest entry.",
   },
   {
     n: "03",
-    h: "Opt in + submit your entry",
-    body: "Go to the entry form. You explicitly opt into the challenge with a checkbox (separate from any bundle purchase). Entry tiers: Standard Entry $35 OR Verified Entry $99 (priority judging + written feedback from PHRHX + social shoutout if you're a finalist) OR proof of bundle purchase (waives Standard fee) OR free mailed-in entry (AMOE). You also confirm you follow @sneakz_beatz on IG/TikTok/X/YouTube AND you're in the Discord.",
+    h: "Record + submit your video",
+    body: "Drop a verse, hook, or full song using ANY beat from the bundle. Mixed, mastered, your call. 60 seconds minimum, 4 minutes max. No uncleared samples, no AI vocals. Upload to YouTube as Public, then submit the link via the entry form (link in your confirmation email).",
   },
   {
     n: "04",
-    h: "Judging + community vote",
-    body: "Top 25 finalists reviewed by Sneakz & Beatz + guest judges (TBA). Community votes in the Discord — one vote per member, self-votes blocked by the bot. Final score: 70% panel + 30% community. Winner announced live on The PHRHX Show.",
+    h: "Three-tier judging",
+    body: "Top 25 finalists scored by: (a) the judges panel — PHRHX + 2 rotating guest judges per round, 50% weight, scoring on Lyricism / Flow / Originality / Beat Use / Production. (b) Discord community vote — 30% weight, one reaction per member, self-votes blocked by bot. (c) Public YouTube vote — 20% weight, like count on each finalist's video in the official playlist over a 7-day window. Winner announced live on The PHRHX Show.",
   },
 ];
 
@@ -159,10 +159,31 @@ export default function RapChallengePage() {
               box. 1 free exclusive beat per month for the rest of 2026. 10 vocal kits + 5
               drum kits + 5 melody loop packs. PHRHX custom beat. <strong>$500 IG ad spend</strong>
               {" "}co-promoting your next release. Merch drop. Cypher-tape opener slot.
-              <strong> Entry tiers:</strong> Standard <strong>$35</strong>, Verified
-              <strong> $99</strong> (priority judging + feedback from PHRHX + finalist
-              shoutout). Free with the $79 bundle. Free via AMOE.
             </p>
+            <div
+              style={{
+                background: "linear-gradient(135deg, rgba(255,106,26,0.12), rgba(200,38,44,0.08))",
+                border: "1.5px solid rgba(255,106,26,0.5)",
+                borderRadius: "12px",
+                padding: "16px 20px",
+                margin: "20px 0 24px",
+              }}
+            >
+              <p style={{ margin: 0, fontSize: "0.95rem", lineHeight: 1.55 }}>
+                <strong>📌 Entry path locked while we build the audience.</strong>
+                {" "}Submissions open once we hit{" "}
+                <strong>5,000 newsletter subscribers</strong>. We&rsquo;re running this
+                contest at scale or not at all — funded prize pool, real judges, real
+                community vote. Drop your email below, follow on socials, jump in the
+                Discord. When subs hit the threshold we send you the official rules,
+                judges, and the submission window 7 days in advance.
+              </p>
+              <p style={{ margin: "10px 0 0", fontSize: "0.88rem", opacity: 0.85 }}>
+                When entry opens, the only way in is: (1) buy any tier of the bundle
+                with the &ldquo;enter the challenge&rdquo; checkbox at checkout, or
+                (2) free mailed-in entry (AMOE).
+              </p>
+            </div>
 
             {/* Waitlist signup — Substack form, same backend as the newsletter */}
             <form
@@ -183,7 +204,8 @@ export default function RapChallengePage() {
               </button>
             </form>
             <p className="rap-trust">
-              Free to join · We'll email you when submissions open · 250-signup minimum before launch
+              Free to join · 7-day heads-up before submissions open · Threshold:
+              5,000 newsletter subscribers
             </p>
           </div>
         </section>

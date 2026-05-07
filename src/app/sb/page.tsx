@@ -3,9 +3,10 @@ import Link from "next/link";
 import { SOCIAL } from "@/data/social";
 
 export const metadata = {
-  title: "Sneakz & Beatz — Listen, Subscribe, Watch, Join",
+  title: "Sneakz & Beatz — Every offer in one place",
   description:
-    "Beats. Show. Community. The brand at the intersection of sneakers, hip-hop, anime, and gaming. Pick a door.",
+    "The $79 Vault Bundle. The PHRHX Show. The $10K Rap Challenge. Sneakz Pass. Free beats. Every door into the brand for Black sneakerheads who live hip-hop, anime, and gaming.",
+  alternates: { canonical: "/sb" },
 };
 
 type Link = {
@@ -19,51 +20,63 @@ type Link = {
 
 const LINKS: Link[] = [
   {
-    href: "/beats",
-    label: "Listen + Lease Beats",
-    sub: "26 mastered · $34.99 each",
-    icon: "🎧",
+    href: "/beats/bundles",
+    label: "Get The $79 Vault — 200+ Beats",
+    sub: "Hero offer · WAV + drum kit + samples + tee + free Rap Challenge entry",
+    icon: "⚡",
     accent: true,
-  },
-  {
-    href: "https://sneakzandbeatz.substack.com/subscribe",
-    label: "Subscribe — Free Beat",
-    sub: "Substack · weekly drops",
-    icon: "🎁",
-    external: true,
   },
   {
     href: "/show",
     label: "Watch The PHRHX Show",
-    sub: "Long-form · zero filter",
+    sub: "Tuesdays 9am PT · sneakers / hip-hop / anime / gaming",
     icon: "▶",
+  },
+  {
+    href: "/rap-challenge",
+    label: "$10K Rap Challenge",
+    sub: "Waitlist open · submissions launch at 5,000 newsletter subs",
+    icon: "🎤",
+  },
+  {
+    href: "/sneakz-pass",
+    label: "Sneakz Pass — $12/mo",
+    sub: "Bonus eps · members-only Discord · monthly free beat · 10% off",
+    icon: "🎫",
+  },
+  {
+    href: "https://sneakzandbeatz.substack.com/subscribe",
+    label: "Free newsletter — Substack",
+    sub: "Weekly drop briefs + show recaps + culture refresh",
+    icon: "📩",
+    external: true,
+  },
+  {
+    href: "/beats",
+    label: "Browse The Beat Store",
+    sub: "26 mastered paid leases · $34.99 each + 70 free with email",
+    icon: "🎧",
+  },
+  {
+    href: "/shop",
+    label: "Shop merch",
+    sub: "Bred colorway · launches August 15, 2026",
+    icon: "👕",
   },
   {
     href: SOCIAL.discord.enabled && SOCIAL.discord.url
       ? SOCIAL.discord.url
       : "/community",
     label: "Join the Discord",
-    sub: "Community · vote · drops",
+    sub: "Friday listening parties · daily prompts · contest voting",
     icon: "💬",
     external: SOCIAL.discord.enabled,
   },
   {
-    href: "/shop",
-    label: "Shop the Drop",
-    sub: "Merch — March 2027",
-    icon: "👕",
-  },
-  {
-    href: "/creators",
-    label: "S&B Girls Program",
-    sub: "$500–$1K/mo · 90–180 day retainer",
-    icon: "📸",
-  },
-  {
-    href: "/rap-challenge",
-    label: "$10K Rap Challenge",
-    sub: "Waitlist open",
-    icon: "🎤",
+    href: "/the-lane",
+    label: "Why this brand exists",
+    sub: "The lane Hypebeast and Joe Budden don't fully cover",
+    icon: "📍",
   },
 ];
 
