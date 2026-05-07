@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T21:43:09+00:00",
+  "generated_utc": "2026-05-07T22:12:10+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "1de2f8818323",
+      "pillar": "hiphop",
+      "title": "Judge Rejects Prosecutor’s Attempt To Use Kodak Black’s Rap Career Against Him; Granted $75K Bond",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/judge-rejects-prosecutors-attempt-to-use-kodak-blacks-rap-career-against-him-granted-75k-bond/",
+      "thumbnail": "/drops/thumbs/1de2f8818323.png",
+      "published": "2026-05-07T18:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "528073083890",
       "pillar": "hiphop",
       "title": "Real Boston Richey Has Major Allegations Against Him With Baby Rumors To Boot",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/exclusive-cardi-b-wins-major-court-victory-against-tasha-k/",
       "thumbnail": "/drops/thumbs/f0f03b1b3537.jpg",
       "published": "2026-05-07T12:54:13",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0e631261d700",
-      "pillar": "hiphop",
-      "title": "Armani White Flips Mannie Fresh Into A Summer Anthem With “PRESS.”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/armani-white-flips-mannie-fresh-into-a-summer-anthem-with-press/",
-      "thumbnail": "/drops/thumbs/0e631261d700.jpg",
-      "published": "2026-05-07T11:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "076f721fccce",
-      "pillar": "gaming",
-      "title": "News Final Fantasy 7 Remake Part 3 Could Take the Story Even Further with DLC",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/final-fantasy-7-remake-part-3-could-take-the-story-even-further-with-dlc",
-      "thumbnail": "/drops/thumbs/076f721fccce.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4ec12906eb2e",
       "pillar": "gaming",
       "title": "Sega’s Stranger Than Heaven Retells The Tojo Clan’s History – But It’s More Than Another Yakuza Story",
@@ -375,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "d7b38b0b0c93",
+      "pillar": "gaming",
+      "title": "News Another Viral Roguelike Hit Is Coming to PS5 Very Soon",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/another-viral-roguelike-hit-is-coming-to-ps5-very-soon",
+      "thumbnail": "/drops/thumbs/d7b38b0b0c93.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fce149b32348",
       "pillar": "gaming",
       "title": "Star Fox Artist Weighs In On Switch 2 Makeover: ‘I Prefer The Movie Version’",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "528073083890",
+    "1de2f8818323",
     "593265008bbc",
     "5f1280d30ff6",
     "734fcf19716d",
