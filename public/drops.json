@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T23:30:16+00:00",
+  "generated_utc": "2026-05-07T00:28:29+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "1f52e7878af0",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Salt-N-Pepa Could Win Their Appeal And Still Lose Push It Forever",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/exclusive-salt-n-pepa-could-win-their-appeal-and-still-lose-push-it-forever/",
+      "thumbnail": "/drops/thumbs/1f52e7878af0.png",
+      "published": "2026-05-06T20:00:08",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5427d1bcb8ea",
+      "pillar": "hiphop",
+      "title": "Marco Rubio Drops Cypress Hill And Ice Cube Bars At White House Briefing",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/marco-rubio-drops-cypress-hill-and-ice-cube-bars-at-white-house-briefing/",
+      "thumbnail": "/drops/thumbs/5427d1bcb8ea.jpg",
+      "published": "2026-05-06T19:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ee6856a47ab1",
       "pillar": "hiphop",
       "title": "“Pork Chop Sammich” Rapper Jayy Wick Charged With Attempted First-Degree Murder",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/music/layla-rey-wants-to-love-you-better-and-she-means-it/",
       "thumbnail": "/drops/thumbs/8b26784adf2c.jpg",
       "published": "2026-05-06T13:15:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4b43eb62f9cc",
-      "pillar": "hiphop",
-      "title": "Marv.P Shares ‘W.I.A.W.I’ Exclusively On [untitled]",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/marv-p-shares-w-i-a-w-i-exclusively-on-allhiphop/",
-      "thumbnail": "/drops/thumbs/4b43eb62f9cc.png",
-      "published": "2026-05-06T13:11:27",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "07b67996f489",
-      "pillar": "hiphop",
-      "title": "Lil Zay Osama Maintains Innocence As Case Expands With Seventh Arrest",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/lil-zay-osama-maintains-innocence-as-case-expands-with-seventh-arrest/",
-      "thumbnail": "/drops/thumbs/07b67996f489.png",
-      "published": "2026-05-06T13:02:55",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "5bb58f0530f7",
+      "id": "b999b1a3f881",
       "pillar": "gaming",
-      "title": "News Poor Start for PS5 Exclusive Saros as First Sales Data Emerges",
+      "title": "News Stranger Than Heaven Is a Yakuza Series Origin Story, Out on PS5 This Winter",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/poor-start-for-ps5-exclusive-saros-as-first-sales-data-emerges",
-      "thumbnail": "/drops/thumbs/5bb58f0530f7.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/stranger-than-heaven-is-a-yakuza-series-origin-story-out-on-ps5-this-winter",
+      "thumbnail": "/drops/thumbs/b999b1a3f881.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +321,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-was-crossing-fingers-the-rpg-wouldnt-win-game-of-the-year-because-he-was-rooting-for-other-super-creative-games-instead/",
       "thumbnail": "/drops/thumbs/6d6a5d170a1c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5bb58f0530f7",
+      "pillar": "gaming",
+      "title": "News Poor Start for PS5 Exclusive Saros as First Sales Data Emerges",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/poor-start-for-ps5-exclusive-saros-as-first-sales-data-emerges",
+      "thumbnail": "/drops/thumbs/5bb58f0530f7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "7f39a25c5d96",
-      "pillar": "gaming",
-      "title": "Call Of Duty Team Mocks Attempt To Leak COD Modern Warfare IV’s Reveal",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562577/article/call-of-duty-team-mocks-attempt-to-leak-cod-modern-warfare-ivs-reveal/",
-      "thumbnail": "/drops/thumbs/7f39a25c5d96.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "8cf8b4554bae",
-    "ee6856a47ab1",
+    "1f52e7878af0",
     "981d0fa1e35e",
     "8703350352ac",
     "26df7af50eda",

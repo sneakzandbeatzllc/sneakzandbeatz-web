@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-06T23:30:16+00:00",
+  "generated_utc": "2026-05-07T00:28:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "EXCLUSIVE: Salt-N-Pepa Could Win Their Appeal And Still Lose Push It Forever",
+      "url": "https://allhiphop.com/news/exclusive-salt-n-pepa-could-win-their-appeal-and-still-lose-push-it-forever/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Marco Rubio Drops Cypress Hill And Ice Cube Bars At White House Briefing",
+      "url": "https://allhiphop.com/news/marco-rubio-drops-cypress-hill-and-ice-cube-bars-at-white-house-briefing/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "“Pork Chop Sammich” Rapper Jayy Wick Charged With Attempted First-Degree Murder",
       "url": "https://allhiphop.com/news/pork-chop-sammich-rapper-jayy-wick-charged-with-attempted-first-degree-murder/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "Layla Rey Wants to Love You Better And She Means It",
       "url": "https://allhiphop.com/music/layla-rey-wants-to-love-you-better-and-she-means-it/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Marv.P Shares ‘W.I.A.W.I’ Exclusively On [untitled]",
-      "url": "https://allhiphop.com/music/marv-p-shares-w-i-a-w-i-exclusively-on-allhiphop/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Lil Zay Osama Maintains Innocence As Case Expands With Seventh Arrest",
-      "url": "https://allhiphop.com/news/lil-zay-osama-maintains-innocence-as-case-expands-with-seventh-arrest/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -179,8 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "News Poor Start for PS5 Exclusive Saros as First Sales Data Emerges",
-      "url": "https://www.pushsquare.com/news/2026/05/poor-start-for-ps5-exclusive-saros-as-first-sales-data-emerges",
+      "title": "News Stranger Than Heaven Is a Yakuza Series Origin Story, Out on PS5 This Winter",
+      "url": "https://www.pushsquare.com/news/2026/05/stranger-than-heaven-is-a-yakuza-series-origin-story-out-on-ps5-this-winter",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,6 +188,13 @@
     {
       "title": "Clair Obscur: Expedition 33 lead \"was crossing fingers\" for other \"super creative games\" to win GOTY",
       "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-was-crossing-fingers-the-rpg-wouldnt-win-game-of-the-year-because-he-was-rooting-for-other-super-creative-games-instead/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Poor Start for PS5 Exclusive Saros as First Sales Data Emerges",
+      "url": "https://www.pushsquare.com/news/2026/05/poor-start-for-ps5-exclusive-saros-as-first-sales-data-emerges",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Mortal Kombat 2 review: \"Lands some killer blows, but far from a flawless victory\"",
       "url": "https://www.gamesradar.com/entertainment/animation-movies/mortal-kombat-2-review/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Call Of Duty Team Mocks Attempt To Leak COD Modern Warfare IV’s Reveal",
-      "url": "https://gameranx.com/updates/id/562577/article/call-of-duty-team-mocks-attempt-to-leak-cod-modern-warfare-ivs-reveal/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
