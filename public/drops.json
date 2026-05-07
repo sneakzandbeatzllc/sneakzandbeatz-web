@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T13:14:25+00:00",
+  "generated_utc": "2026-05-07T13:31:51+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f8f0b391b30f",
+      "pillar": "hiphop",
+      "title": "Dr. Colman Domingo: Inside Temple University’s Hollywood Moment",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/features/dr-colman-domingo-inside-temple-universitys-hollywood-moment/",
+      "thumbnail": "/drops/thumbs/f8f0b391b30f.jpg",
+      "published": "2026-05-07T09:27:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d20b5e15db65",
       "pillar": "hiphop",
       "title": "Tech N9ne and E-40 Bring The “Strange Wid It” Tour To The U.S.",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/chris-king-murder-case-closes-with-fourth-suspect-arrested-in-nashville/",
       "thumbnail": "/drops/thumbs/25bd1584abbb.jpg",
       "published": "2026-05-07T08:00:52",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7db2bdf381a5",
-      "pillar": "hiphop",
-      "title": "Megan Thee Stallion Breaks Down Her Social Media Strategy: Authenticty Vs. Visibilty",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/megan-thee-stallion-breaks-down-her-social-media-strategy-authenticty-vs-visibilty/",
-      "thumbnail": "/drops/thumbs/7db2bdf381a5.jpg",
-      "published": "2026-05-06T23:00:22",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "d20b5e15db65",
+    "f8f0b391b30f",
     "f64e15dcf7bf",
     "b49854e32e60",
     "5d4bbf488e7f",

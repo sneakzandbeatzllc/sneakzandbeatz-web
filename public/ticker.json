@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T13:14:25+00:00",
+  "generated_utc": "2026-05-07T13:31:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Dr. Colman Domingo: Inside Temple University’s Hollywood Moment",
+      "url": "https://allhiphop.com/features/dr-colman-domingo-inside-temple-universitys-hollywood-moment/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Tech N9ne and E-40 Bring The “Strange Wid It” Tour To The U.S.",
       "url": "https://thesource.com/2026/05/07/tech-n9ne-and-e-40-bring-the-strange-wid-it-tour-to-the-u-s/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Chris King Murder Case Closes With Fourth Suspect Arrested In Nashville",
       "url": "https://allhiphop.com/news/chris-king-murder-case-closes-with-fourth-suspect-arrested-in-nashville/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Megan Thee Stallion Breaks Down Her Social Media Strategy: Authenticty Vs. Visibilty",
-      "url": "https://allhiphop.com/news/megan-thee-stallion-breaks-down-her-social-media-strategy-authenticty-vs-visibilty/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
