@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T12:11:38+00:00",
+  "generated_utc": "2026-05-07T12:40:31+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -34,30 +34,6 @@
       "source_url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
       "thumbnail": "/drops/thumbs/5d4bbf488e7f.png",
       "published": "2026-05-02T13:37:32",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "981d0fa1e35e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Brazil” (IV4871-400) May 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-og-brazil-iv4871-400-drop/",
-      "thumbnail": "/drops/thumbs/981d0fa1e35e.jpg",
-      "published": "2026-05-02T07:12:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "26df7af50eda",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “World’s Best Dad” May 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-worlds-best-dad-if4396-103-drop/",
-      "thumbnail": "/drops/thumbs/26df7af50eda.jpg",
-      "published": "2026-05-02T07:08:51",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -97,6 +73,30 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "8cb509546594",
+      "pillar": "sneakers",
+      "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
+      "thumbnail": "/drops/thumbs/8cb509546594.jpg",
+      "published": "2026-05-06T13:25:08",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "2026-05-04T10:03:16",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "25bd1584abbb",
@@ -195,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "8703350352ac",
-      "pillar": "anime",
-      "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
-      "thumbnail": "/drops/thumbs/8703350352ac.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b49854e32e60",
       "pillar": "anime",
       "title": "The One Piece anime remake looks gorgeous, but its episode count is baffling",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/the-one-piece-anime-remake-episode-count/",
       "thumbnail": "/drops/thumbs/b49854e32e60.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "516e098f3777",
+      "pillar": "anime",
+      "title": "Summer 2026's Biggest Movie Is The Naruto Live-Action Preview Fans Have Waited For",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-live-action-spider-man-brand-new-day-preview/",
+      "thumbnail": "/drops/thumbs/516e098f3777.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "8cf8b4554bae",
     "25bd1584abbb",
     "f64e15dcf7bf",
-    "8703350352ac",
+    "b49854e32e60",
     "5d4bbf488e7f",
     "f28241814d22"
   ]
