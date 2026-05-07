@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T18:40:32+00:00",
+  "generated_utc": "2026-05-07T19:07:17+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "340446fca7f6",
+      "pillar": "hiphop",
+      "title": "Top 5 AI Hip-Hop Artists Redefining the Sound of the Future",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/top-5-ai-hip-hop-artists-redefining-the-sound-of-the-future/",
+      "thumbnail": "/drops/thumbs/340446fca7f6.jpg",
+      "published": "2026-05-07T14:55:23",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0ceada98ae1e",
       "pillar": "hiphop",
       "title": "NBA YoungBoy’s Rolling Loud Exit Allegedly Came Down To Money, Rumors Say",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "d20b5e15db65",
-      "pillar": "hiphop",
-      "title": "Tech N9ne and E-40 Bring The “Strange Wid It” Tour To The U.S.",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/07/tech-n9ne-and-e-40-bring-the-strange-wid-it-tour-to-the-u-s/",
-      "thumbnail": "/drops/thumbs/d20b5e15db65.jpg",
-      "published": "2026-05-07T08:48:38",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5f1280d30ff6",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Is Officially Part Of The Marvel Universe (No, Seriously)",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "e295b628d43c",
+      "id": "829aac899c8f",
       "pillar": "anime",
-      "title": "GKIDS Screens New 4K Remaster of Tekkonkinkreet Anime Film in N. America for 20th Anniversary",
+      "title": "Dragon Quest , Silent Hill Inducted into 2026 Video Game Hall of Fame",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/gkids-screens-new-4k-remaster-of-tekkonkinkreet-anime-film-in-n-america-for-20th-anniversary/.237164",
-      "thumbnail": "/drops/thumbs/e295b628d43c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/dragon-quest-silent-hill-inducted-into-2026-video-game-hall-of-fame/.237165",
+      "thumbnail": "/drops/thumbs/829aac899c8f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b0d8a5a620a0",
+      "id": "e295b628d43c",
       "pillar": "anime",
-      "title": "The World Is Dancing Anime's Main Trailer Reveals More Cast, Opening Song, July 2 Debut",
+      "title": "GKIDS Screens New 4K Remaster of Tekkonkinkreet Anime Film in N. America for 20th Anniversary",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/the-world-is-dancing-anime-main-trailer-reveals-more-cast-opening-song-july-2-debut/.237156",
-      "thumbnail": "/drops/thumbs/b0d8a5a620a0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/gkids-screens-new-4k-remaster-of-tekkonkinkreet-anime-film-in-n-america-for-20th-anniversary/.237164",
+      "thumbnail": "/drops/thumbs/e295b628d43c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +279,36 @@
       "release_badge": ""
     },
     {
-      "id": "d8e89f177f9a",
+      "id": "b0d8a5a620a0",
       "pillar": "anime",
-      "title": "Crunchyroll Announces New Subscription Price Deal, And It's Ultra-Low",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/crunchyroll-anime-streaming-subscription-price-deal/",
-      "thumbnail": "/drops/thumbs/d8e89f177f9a.jpg",
+      "title": "The World Is Dancing Anime's Main Trailer Reveals More Cast, Opening Song, July 2 Debut",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/the-world-is-dancing-anime-main-trailer-reveals-more-cast-opening-song-july-2-debut/.237156",
+      "thumbnail": "/drops/thumbs/b0d8a5a620a0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "076f721fccce",
+      "id": "f28241814d22",
       "pillar": "gaming",
-      "title": "News Final Fantasy 7 Remake Part 3 Could Take the Story Even Further with DLC",
+      "title": "Take-Two CEO Strauss Zelnick Says Crunch Is Not Part Of How The GTA 6 Publisher Operates Today",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562590/article/take-two-ceo-strauss-zelnick-says-crunch-is-not-part-of-how-the-gta-6-publisher-operates-today/",
+      "thumbnail": "/drops/thumbs/f28241814d22.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "72509c94d7ea",
+      "pillar": "gaming",
+      "title": "News Yakuza Dev's Stranger Than Heaven Drops English Dub Option Due to Bilingual Characters",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/final-fantasy-7-remake-part-3-could-take-the-story-even-further-with-dlc",
-      "thumbnail": "/drops/thumbs/076f721fccce.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/yakuza-devs-stranger-than-heaven-drops-english-dub-option-due-to-bilingual-characters",
+      "thumbnail": "/drops/thumbs/72509c94d7ea.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,24 +327,36 @@
       "release_badge": ""
     },
     {
-      "id": "43464ea80abe",
+      "id": "076f721fccce",
       "pillar": "gaming",
-      "title": "Mortal Kombat 2 Reviews Can’t Decide If It’s Monumentally Dumb And Kind Of Awesome Or Just A Boring Mess",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/mortal-kombat-2-reviews-cant-decide-if-its-monumentally-dumb-and-kind-of-awesome-or-just-a-boring-mess-2000693692",
-      "thumbnail": "/drops/thumbs/43464ea80abe.jpg",
+      "title": "News Final Fantasy 7 Remake Part 3 Could Take the Story Even Further with DLC",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/final-fantasy-7-remake-part-3-could-take-the-story-even-further-with-dlc",
+      "thumbnail": "/drops/thumbs/076f721fccce.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "708eaa50d173",
+      "id": "4ec12906eb2e",
       "pillar": "gaming",
-      "title": "News LEGO Batman's PS5 Launch Trailer Is Stuffed with References, Right Down to the Music",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/lego-batmans-ps5-launch-trailer-is-stuffed-with-references-right-down-to-the-music",
-      "thumbnail": "/drops/thumbs/708eaa50d173.jpg",
+      "title": "Sega’s Stranger Than Heaven Retells The Tojo Clan’s History – But It’s More Than Another Yakuza Story",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562588/article/segas-stranger-than-heaven-retells-the-tojo-clans-history-but-its-more-than-another-yakuza-story/",
+      "thumbnail": "/drops/thumbs/4ec12906eb2e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "37d4c8668c5a",
+      "pillar": "gaming",
+      "title": "CEO Admits Civilization 7 Was A ‘Bridge Too Far’ As It Ditches Its Most Controversial Mechanic In New ‘Fundamentally Game-Changing’ Update Over One Year Later",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/ceo-admits-civilization-7-was-a-bridge-too-far-as-it-ditches-its-most-controversial-mechanic-in-new-fundamentally-game-changing-update-over-one-year-later-2000693964",
+      "thumbnail": "/drops/thumbs/37d4c8668c5a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -361,38 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "3e03fa7f68f5",
-      "pillar": "gaming",
-      "title": "News 'Deeply Disappointed': BioShock Boss Just as Annoyed by the Wait for New Game as You Are",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/deeply-disappointed-bioshock-boss-just-as-annoyed-by-the-wait-for-new-game-as-you-are",
-      "thumbnail": "/drops/thumbs/3e03fa7f68f5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "12d26731dd09",
-      "pillar": "gaming",
-      "title": "Mixtape review: \"A nostalgic, vibes-based experience set to a shockingly solid soundtrack\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/adventure/mixtape-review/",
-      "thumbnail": "/drops/thumbs/12d26731dd09.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "8cf8b4554bae",
-    "0ceada98ae1e",
+    "340446fca7f6",
     "593265008bbc",
     "5f1280d30ff6",
     "734fcf19716d",
-    "076f721fccce"
+    "f28241814d22"
   ]
 }
