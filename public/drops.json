@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T00:45:22+00:00",
+  "generated_utc": "2026-05-07T01:46:58+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "9f3e8588eae9",
+      "pillar": "hiphop",
+      "title": "Ludacris Joins Elite Class of 2026 Black Music Walk Of Fame Inductees",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ludacris-joins-elite-class-of-2026-black-music-walk-of-fame-inductees/",
+      "thumbnail": "/drops/thumbs/9f3e8588eae9.png",
+      "published": "2026-05-06T21:00:29",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1f52e7878af0",
       "pillar": "hiphop",
       "title": "EXCLUSIVE: Salt-N-Pepa Could Win Their Appeal And Still Lose Push It Forever",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "8b26784adf2c",
-      "pillar": "hiphop",
-      "title": "Layla Rey Wants to Love You Better And She Means It",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/layla-rey-wants-to-love-you-better-and-she-means-it/",
-      "thumbnail": "/drops/thumbs/8b26784adf2c.jpg",
-      "published": "2026-05-06T13:15:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8703350352ac",
       "pillar": "anime",
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "eb071755a337",
+      "id": "2911ef0fd1f1",
       "pillar": "anime",
-      "title": "Golden Trailer Awards Nominate Chainsaw Man: Reze Arc Anime Film, KPop Demon Hunters Film, More",
+      "title": "My Hero Academia: All's Justice Game Adds Nana Shimura as DLC",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/golden-trailer-awards-nominate-chainsaw-man-reze-arc-anime-film-kpop-demon-hunters-film-more/.237119",
-      "thumbnail": "/drops/thumbs/eb071755a337.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/my-hero-academia-all-justice-game-adds-nana-shimura-as-dlc/.237130",
+      "thumbnail": "/drops/thumbs/2911ef0fd1f1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "a7076a2a605a",
+      "id": "77bccd4f57b8",
       "pillar": "anime",
-      "title": "Suzuka Stellagi's Dō ka Kimi ni Abakaretai Manga Ends With 3rd Volume",
+      "title": "Always a Catch! Anime Casts Asaki Yuikawa",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/suzuka-stellagi-do-ka-kimi-ni-abakaretai-manga-ends-with-3rd-volume/.237116",
-      "thumbnail": "/drops/thumbs/a7076a2a605a.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-06/always-a-catch-anime-casts-asaki-yuikawa/.237129",
+      "thumbnail": "/drops/thumbs/77bccd4f57b8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "1f52e7878af0",
+    "9f3e8588eae9",
     "f64e15dcf7bf",
     "8703350352ac",
     "5d4bbf488e7f",
