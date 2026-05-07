@@ -6,7 +6,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "About — Sneakz & Beatz",
   description:
-    "About Sneakz & Beatz / Black Royal Music Media Group Inc. — the brand, the founder PHRHX, and the four pillars (sneakers, hip-hop, anime, gaming).",
+    "About Sneakz & Beatz LLC — the brand, the founder PHRHX, and the four pillars (sneakers, hip-hop, anime, gaming).",
 };
 
 export default function AboutPage() {
@@ -23,8 +23,8 @@ export default function AboutPage() {
             <span className="accent">Operated From San Diego.</span>
           </h1>
           <p className="lead legal-lead">
-            Sneakz &amp; Beatz is a culture media brand operated by Black Royal Music Media
-            LLC, an independent California label and content company. We cover sneakers,
+            Sneakz &amp; Beatz is a culture media brand operated by Sneakz &amp; Beatz LLC,
+            an independent California label and content company. We cover sneakers,
             hip-hop, anime, and gaming because the same audience shows up for all four —
             and nobody's covering them honestly under one roof.
           </p>
@@ -49,9 +49,9 @@ export default function AboutPage() {
         <section className="legal-section">
           <h2>The founder — PHRHX</h2>
           <p>
-            <strong>PHRHX</strong> is the founder of <strong>The PHRHX Company</strong>,
-            which operates Sneakz &amp; Beatz. The beat catalog and publishing run through{" "}
-            <strong>Black Royal Music Media Group Inc.</strong> PHRHX is a multi-disciplinary
+            <strong>PHRHX</strong> is the founder of <strong>Sneakz &amp; Beatz LLC</strong>,
+            the California limited liability company that operates the brand and owns the
+            beat catalog and publishing. PHRHX is a multi-disciplinary
             creator: hip-hop producer, podcast host (The PHRHX Show), and editorial operator.
             He produced the catalog, designed the brand, and leads a small in-house team
             across editorial, design, video, and community.
@@ -78,12 +78,12 @@ export default function AboutPage() {
             <li>
               <strong>Beat Bundles</strong> at{" "}
               <Link href="/beats/bundles">/beats/bundles</Link>
-              {" "}— three tiers from $47 starter to $497 exclusive
+              {" "}— Standard Vault $79, Producer Pack $149, Industry Pack $399
             </li>
             <li>
               <strong>Producer Kits</strong> at{" "}
               <Link href="/producer-kits">/producer-kits</Link>
-              {" "}— BRMG drum kits, sample packs, melody loops (rolling out)
+              {" "}— S&amp;B drum kits, sample packs, melody loops (rolling out)
             </li>
             <li>
               <strong>Apparel</strong> — UGC collabs and capsule drops in development. See{" "}
@@ -117,12 +117,12 @@ export default function AboutPage() {
         <section className="legal-section">
           <h2>The company</h2>
           <p>
-            <strong>Black Royal Music Media Group Inc.</strong> is the operating entity behind the
+            <strong>Sneakz &amp; Beatz LLC</strong> is the operating entity behind the
             Sneakz &amp; Beatz brand. We're a California limited liability company
             headquartered in San Diego.
           </p>
           <p>
-            BRMG owns the beat catalog masters, the brand trademarks, and operates all
+            S&amp;B owns the beat catalog masters, the brand trademarks, and operates all
             commercial activity. The Sneakz &amp; Beatz brand is the consumer-facing
             wordmark. You'll see both used — they're the same thing.
           </p>

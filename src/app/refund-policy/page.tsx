@@ -27,7 +27,7 @@ export default function RefundPage() {
             pre-launch merch policy for when that drops.
           </p>
           <p className="legal-effective">
-            Effective: April 1, 2026 · Operator: Black Royal Music Media Group Inc., San Diego, CA
+            Effective: April 1, 2026 · Operator: Sneakz &amp; Beatz LLC, San Diego, CA
             {" "}· Contact: <a href="mailto:support@sneakzandbeatz.com">support@sneakzandbeatz.com</a>
           </p>
         </header>
@@ -35,8 +35,8 @@ export default function RefundPage() {
         <section className="legal-section">
           <h2>1. Digital goods — beats, bundles, exclusives</h2>
           <p>
-            All beat sales (Free Standard download, $29.99 Single Beat Lease,
-            $79+ Vault bundle, $497 Exclusive) are <strong>final once the
+            All beat sales (Free Standard download, $34.99 Single Beat Lease,
+            $79+ Vault bundle, $399 Exclusive) are <strong>final once the
             download link is delivered</strong>. This is industry-standard for
             digital audio and matches Stripe + most card-network expectations
             for non-tangible goods.

@@ -6,7 +6,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "Contact & Support — Sneakz & Beatz",
   description:
-    "Customer support, licensing questions, press inquiries, and general contact for Sneakz & Beatz / Black Royal Music Media Group Inc..",
+    "Customer support, licensing questions, press inquiries, and general contact for Sneakz & Beatz LLC.",
 };
 
 const TOPICS: { tag: string; heading: string; body: string; email: string; subject: string }[] = [
@@ -131,7 +131,7 @@ export default function ContactPage() {
           <details className="contact-faq">
             <summary>Can I get exclusive rights on a beat I already leased?</summary>
             <p>
-              Yes — your $29.99 lease price is credited toward the exclusive purchase. Email
+              Yes — your $34.99 lease price is credited toward the exclusive purchase. Email
               with the beat title and we'll send a Stripe Checkout link with the credit
               applied. Exclusive pricing is typically $250–$1,500 per beat, negotiated based
               on the beat's catalog activity.
@@ -149,7 +149,7 @@ export default function ContactPage() {
         <section className="legal-section">
           <h2>Mailing address</h2>
           <p>
-            <strong>Black Royal Music Media Group Inc.</strong><br />
+            <strong>Sneakz &amp; Beatz LLC</strong><br />
             Mailing address on file with the California Secretary of State.<br />
             For legal notices, request the current address by emailing{" "}
             <a href={mailto(EMAILS.legal, "Mailing Address Request")}>{EMAILS.legal}</a>{" "}

@@ -18,16 +18,14 @@ export default function Hero() {
             Collide.
           </h1>
           <p className="lead">
-            Stay ahead of the culture. Drops, beats, episodes, and the stories
-            shaping sneaker, hip-hop, anime, and gaming culture — before everyone
-            else catches on.
+            For Black sneakerheads who live hip-hop, anime, and gaming. Drops,
+            beats, episodes, and the stories shaping the culture — before
+            everyone else catches on.
           </p>
           <div className="hero-ctas">
-            <a href="/beats" className="btn btn-primary btn-arrow">
-              Browse The Beat Store
-            </a>
-            <a href="/sneakers" className="btn btn-ghost btn-arrow">
-              Explore The Culture
+            {/* Single primary CTA — most-monetizable wedge. */}
+            <a href="/beats/bundles" className="btn btn-primary btn-arrow">
+              Get The $79 Vault — 100 Beats
             </a>
             <a href="/show" className="btn-link">
               ▶ Watch The PHRHX Show

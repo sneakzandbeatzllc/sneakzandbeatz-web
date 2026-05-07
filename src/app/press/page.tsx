@@ -6,18 +6,30 @@ import { SOCIAL } from "@/data/social";
 export const metadata = {
   title: "Press · Founder — Sneakz & Beatz",
   description:
-    "Press kit, founder bio, and media inquiries for Sneakz & Beatz — the culture-media brand at the intersection of sneakers, hip-hop, anime, and gaming. A property of The PHRHX Company.",
+    "Press kit, founder bio, and media inquiries for Sneakz & Beatz — Black-owned culture media brand at the intersection of sneakers, hip-hop, anime, and gaming. Operated by Sneakz & Beatz LLC.",
+  alternates: { canonical: "/press" },
+  openGraph: {
+    title: "Press — Sneakz & Beatz",
+    description:
+      "Black-owned culture media brand. Founder PHRHX. Sneakers, hip-hop, anime, gaming under one roof.",
+    url: "https://www.sneakzandbeatz.com/press",
+    siteName: "Sneakz & Beatz",
+    type: "website",
+  },
 };
 
 const FACTS: Array<[string, string]> = [
   ["Brand", "Sneakz & Beatz"],
-  ["Operating company", "The PHRHX Company"],
-  ["Beat catalog + publishing", "Black Royal Music Media Group Inc."],
-  ["Founded", "April 2026"],
-  ["Headquarters", "Los Angeles County, California"],
-  ["Founder · CEO", "PHRHX"],
-  ["Team", "Editorial · Design · Video · Community"],
+  ["Operating company", "Sneakz & Beatz LLC"],
+  ["Entity #", "B20260195169 (California)"],
+  ["EIN", "42-2192032"],
+  ["Founded", "April 23, 2026"],
+  ["Headquarters", "San Diego, California"],
+  ["Founder · CEO", "PHRHX (Raymond Miller)"],
+  ["Team", "Founder + Trend Researcher + Social Media Manager + Video Editor"],
   ["Pillars", "Sneakers · Hip-Hop · Anime · Gaming"],
+  ["Audience", "Black sneakerheads who live hip-hop, anime, and gaming (1.6–2.3M global TAM)"],
+  ["Products", "$10K Rap Challenge · The PHRHX Show · 96-beat catalog · $79 Vault Bundle · Sneakz Pass ($12/mo, launches Oct 1, 2026)"],
   ["Channels", "sneakzandbeatz.com · IG @sneakz_beatz · TikTok @SneakzandBeatzOfficial · YouTube The PHRHX Show · Substack · Discord"],
 ];
 
@@ -44,34 +56,34 @@ export default function PressPage() {
         <section className="container press-block">
           <h2 className="press-h2">About</h2>
           <p className="press-p">
-            Sneakz &amp; Beatz is a property of{" "}
-            <strong>The PHRHX Company</strong>, an independent California
-            culture-media company. The brand publishes a daily culture feed at
-            sneakzandbeatz.com, runs a producer beat catalog (the Beat Store,
-            $29.99 leases + bundles), hosts <em>The PHRHX Show</em> on YouTube,
-            and operates a Discord community for producers, sneakerheads, anime
-            lifers, and gaming heads. The beat catalog and publishing are
-            powered by <strong>Black Royal Music Media Group Inc.</strong>
+            Sneakz &amp; Beatz is operated by <strong>Sneakz &amp; Beatz LLC</strong>,
+            a California limited liability company (Entity #B20260195169) headquartered
+            in San Diego. The brand publishes a daily culture feed at sneakzandbeatz.com,
+            runs a producer-grade 96-beat catalog (the Beat Store with $34.99 leases +
+            $79 Vault Bundle + $10K Rap Challenge), hosts <em>The PHRHX Show</em> on
+            YouTube, and operates a Discord community for producers, sneakerheads, anime
+            lifers, and gaming heads.
           </p>
           <p className="press-p">
-            The thesis is simple — the same audience shows up for all four
-            pillars, and nobody&rsquo;s covering them honestly under one roof.
-            S&amp;B operates at the intersection. The voice is direct, culturally
-            fluent, no corporate hedging — Black nerd / backpacker
-            demographic emphasis, sneakerhead literacy assumed.
+            The thesis: Black sneakerheads who live hip-hop, anime, and gaming have
+            never had an editorial home. Hypebeast doesn&rsquo;t do anime. Joe Budden
+            doesn&rsquo;t do sneakers. RDC World does sketch comedy, not editorial
+            commerce. The lane is empty. Sneakz &amp; Beatz fills it. The voice is
+            direct, culturally fluent, Black-culture-first, no corporate hedging —
+            sneakerhead literacy assumed.
           </p>
         </section>
 
         <section className="container press-block">
           <h2 className="press-h2">Founder</h2>
           <p className="press-p">
-            <strong>PHRHX</strong> is a producer, writer, and the founder of
-            Sneakz &amp; Beatz. He&rsquo;s the host of The PHRHX Show, the
-            producer behind the S&amp;B beat catalog, and the editorial voice
-            of the brand&rsquo;s daily culture feed. The company runs a small
-            in-house team across editorial, design, video, and community, with
-            a UGC creator program opening March 2027 and rotating guest judges
-            powering the brand&rsquo;s yearly $10K Rap Challenge.
+            <strong>PHRHX</strong> (Raymond Miller) is the founder, host, and
+            producer behind Sneakz &amp; Beatz. He hosts The PHRHX Show, produced
+            the 96-beat S&amp;B catalog, and leads the editorial voice of the
+            brand. The company runs a four-person in-house team — founder, trend
+            researcher, social media manager, and video editor — with a UGC
+            creator program (S&amp;B Models) opening 2027 and rotating guest
+            judges powering the brand&rsquo;s quarterly $10K Rap Challenge.
           </p>
           <p className="press-p">
             For interviews, podcast guest spots, or panel appearances, contact{" "}

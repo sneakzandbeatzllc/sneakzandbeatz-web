@@ -15,10 +15,16 @@
  */
 
 export const STRIPE_LINKS = {
-  starterBundle:   "https://buy.stripe.com/8x25kw8LOc5U6sM6fu3Nm00",   // $47
-  standardBundle:  "https://buy.stripe.com/14AbIUbY0gma7wQgU83Nm01",   // $79
-  exclusiveBundle: "https://buy.stripe.com/3cI3coaTW4Dsg3mbzO3Nm02",   // $497
-  beatLease:       "https://buy.stripe.com/eVq14gfacd9YaJ247m3Nm03",   // $29.99 per beat (shared product)
+  starterBundle:    "https://buy.stripe.com/8x25kw8LOc5U6sM6fu3Nm00",   // $47 (legacy starter)
+  standardBundle:   "https://buy.stripe.com/14AbIUbY0gma7wQgU83Nm01",   // $79 Standard Vault
+  producerPack:     "https://buy.stripe.com/aFa5kw8LO0nc7wQ33i3Nm04",   // $149 Producer Pack (NEW 2026-05-07)
+  industryPack:     "https://buy.stripe.com/dRmaEQgegc5UaJ2avK3Nm05",   // $399 Industry Pack (NEW 2026-05-07)
+  exclusiveBundle:  "https://buy.stripe.com/3cI3coaTW4Dsg3mbzO3Nm02",   // $399 (legacy Exclusive — kept for backward compat; new tier is industryPack)
+  beatLease:        "https://buy.stripe.com/eVq14gfacd9YaJ247m3Nm03",   // $34.99 per beat (shared product)
+  rapChallengeStandard: "https://buy.stripe.com/eVqfZa1jm7PEg3mavK3Nm07", // $35 Standard Rap Challenge Entry (NEW 2026-05-07)
+  rapChallengeVerified: "https://buy.stripe.com/aFa8wI8LOfi64kE7jy3Nm06", // $99 Verified Rap Challenge Entry (NEW 2026-05-07)
+  sneakzPassMonthly:    "https://buy.stripe.com/eVq4gs2nq8TI6sMfQ43Nm08", // $12/mo Sneakz Pass (NEW 2026-05-07)
+  sneakzPassYearly:     "https://buy.stripe.com/cNi14g2nq3zo5oIdHW3Nm09", // $108/yr Sneakz Pass (NEW 2026-05-07)
 } as const;
 
 /**

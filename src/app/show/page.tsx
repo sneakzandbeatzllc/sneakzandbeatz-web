@@ -21,7 +21,7 @@ export const metadata = {
 const FALLBACK_VIDEOS: YouTubeVideo[] = [
   {
     id: "2SBnn0bY2xY",
-    title: "The New BRMG!",
+    title: "The New S&amp;B!",
     url: "https://www.youtube.com/watch?v=2SBnn0bY2xY",
     publishedAt: "",
     thumbnail: "https://i.ytimg.com/vi/2SBnn0bY2xY/hqdefault.jpg",
@@ -39,7 +39,7 @@ const FALLBACK_VIDEOS: YouTubeVideo[] = [
   },
   {
     id: "YamAo3IAhao",
-    title: "Black Royal MG Live Stream",
+    title: "Sneakz & Beatz Live Stream",
     url: "https://www.youtube.com/watch?v=YamAo3IAhao",
     publishedAt: "",
     thumbnail: "https://i.ytimg.com/vi/YamAo3IAhao/hqdefault.jpg",

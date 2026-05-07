@@ -32,7 +32,7 @@ export default function BeatsPage() {
             <span className="accent">Move Different.</span>
           </h1>
           <p className="lead beat-store-lead">
-            All beats below are produced by Sneakz &amp; Beatz / BRMG. 60-second previews stream
+            All beats below are produced by Sneakz &amp; Beatz / S&amp;B. 60-second previews stream
             inline. Lease beats are MP3 + WAV delivery. Free beats unlock with a Substack signup.
           </p>
         </div>

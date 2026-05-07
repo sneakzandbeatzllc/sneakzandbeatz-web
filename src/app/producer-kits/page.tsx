@@ -7,11 +7,11 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "Producer Kits — Sneakz & Beatz",
   description:
-    "BRMG drum kits, sample packs, melody loops, and Serum presets — built by Sneakz & Beatz for the next generation of beatmakers.",
+    "S&amp;B drum kits, sample packs, melody loops, and Serum presets — built by Sneakz & Beatz for the next generation of beatmakers.",
 };
 
 const KITS: { tag: string; title: string; tease: string; price: string }[] = [
-  { tag: "Drum Kit",     title: "BRMG Volume 1 — The Foundation",  tease: "100+ kicks, snares, hats, claps, percs. Trap, Detroit, Drill, West Coast.", price: "Bundle Only" },
+  { tag: "Drum Kit",     title: "S&amp;B Volume 1 — The Foundation",  tease: "100+ kicks, snares, hats, claps, percs. Trap, Detroit, Drill, West Coast.", price: "Bundle Only" },
   { tag: "Sample Pack",  title: "Sneakz Vol. 1 — Soul Loops",      tease: "32 mixed soul loops, key + BPM tagged. Mostly minor, mostly looped 8 bars.", price: "Bundle Only" },
   { tag: "Melody Loops", title: "Late Night — Trap Melody Pack",   tease: "20 dark melodies + chord stacks for trap, drill, and rage. WAV + MIDI.",    price: "Coming Soon" },
   { tag: "Serum Presets",title: "Bay Area Bass — Serum Bank",      tease: "16 Serum presets covering hyphy bass, slap leads, and West Coast plucks.",  price: "Coming Soon" },
@@ -24,7 +24,7 @@ export default function ProducerKitsPage() {
 
       <section className="container legal-page">
         <header className="legal-hero">
-          <span className="eyebrow">Producer Kits · BRMG</span>
+          <span className="eyebrow">Producer Kits · S&amp;B</span>
           <h1 className="legal-title">
             Drum Kits.
             <br />

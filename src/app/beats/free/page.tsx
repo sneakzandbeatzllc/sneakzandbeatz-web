@@ -130,7 +130,7 @@ export default function FreeBeatsPage({
             </li>
             <li>
               <strong>What you can't do:</strong> resell the bare beat,
-              register it without listing BRMG as co-publisher, or use it in
+              register it without listing S&amp;B as co-publisher, or use it in
               hateful / minor-sexualized content. License voids on first
               breach.
             </li>

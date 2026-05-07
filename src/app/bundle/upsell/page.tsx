@@ -7,7 +7,7 @@ import { STRIPE_LINKS } from "@/data/stripe-links";
  * This page is the success_url destination of the Standard Bundle Stripe
  * checkout. The buyer just paid $79 — they're committed. We show them ONE
  * upgrade offer they can only get on this page, right now: upgrade to the
- * Exclusive Bundle for the difference ($418 instead of full $497).
+ * Exclusive Bundle for the difference ($418 instead of full $399).
  *
  * If they accept → Stripe checkout for the upgrade → /bundle/thank-you
  * If they decline → /bundle/thank-you (they keep the $79 standard bundle)
@@ -20,7 +20,7 @@ import { STRIPE_LINKS } from "@/data/stripe-links";
 export const metadata = {
   title: "Upgrade to Exclusive — Save $79 | Sneakz & Beatz",
   description:
-    "Today only — upgrade your Standard Bundle to Exclusive for $418 instead of $497. 5 beats removed from the catalog forever, full publishing transfer, lifetime updates.",
+    "Today only — upgrade your Standard Bundle to Exclusive for $418 instead of $399. 5 beats removed from the catalog forever, full publishing transfer, lifetime updates.",
   robots: { index: false, follow: false },
 };
 
@@ -49,21 +49,21 @@ export default function BundleUpsellPage() {
 
         <h1 className="bundle-h1">
           Upgrade to <span className="accent">Exclusive</span> for{" "}
-          <span className="accent">$418</span> instead of <s>$497</s>.
+          <span className="accent">$418</span> instead of <s>$399</s>.
         </h1>
 
         <p className="bundle-subhead">
           You paid $79 for the Standard Bundle 60 seconds ago. Today only,
           on this page only, you can upgrade to the Exclusive tier for the
           difference. If you click off this page, the Exclusive Bundle goes
-          back to its full $497. No fake countdown — once you navigate
+          back to its full $399. No fake countdown — once you navigate
           away, this offer is closed for good.
         </p>
 
         <div className="bundle-price-block">
           <div className="bundle-price-anchor">
             <span className="bundle-price-anchor-label">Exclusive Bundle (regular):</span>
-            <span className="bundle-price-anchor-amount">$497</span>
+            <span className="bundle-price-anchor-amount">$399</span>
             <span className="bundle-price-anchor-detail">
               Less your $79 already paid → $418 today
             </span>
@@ -138,7 +138,7 @@ export default function BundleUpsellPage() {
         </Link>
 
         <p className="bundle-foot-fine">
-          Producer of record: Black Royal Music Media Group Inc., Los Angeles County, CA
+          Producer of record: Sneakz &amp; Beatz LLC, Los Angeles County, CA
           ·{" "}
           <Link href="/licensing">Full license terms</Link>
         </p>

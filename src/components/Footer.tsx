@@ -46,6 +46,7 @@ export default function Footer() {
             <ul>
               <li><Link href="/shop">Beats &amp; Merch</Link></li>
               <li><Link href="/bundle">The Vault — from $79</Link></li>
+              <li><Link href="/sneakz-pass">Sneakz Pass — $12/mo</Link></li>
               <li><Link href="/licensing">Licensing</Link></li>
               <li><Link href="/refund-policy">Refund Policy</Link></li>
               <li><Link href="/dmca">DMCA</Link></li>
@@ -56,8 +57,10 @@ export default function Footer() {
             <h5>Company</h5>
             <ul>
               <li><Link href="/about">About</Link></li>
+              <li><Link href="/the-lane">The Lane</Link></li>
               <li><Link href="/community">Community</Link></li>
               <li><Link href="/rap-challenge">$10K Rap Challenge</Link></li>
+              <li><Link href="/press">Press</Link></li>
               <li><Link href="/contact">Contact</Link></li>
               <li><Link href="/work-with-us">Work With Us</Link></li>
               <li><Link href="/privacy">Privacy Policy</Link></li>
@@ -82,7 +85,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bar">
-          <span>© 2026 The PHRHX Company. Sneakz &amp; Beatz is a property of The PHRHX Company. Beat catalog + publishing by Black Royal Music Media Group Inc. All rights reserved.</span>
+          <span>© 2026 Sneakz &amp; Beatz LLC. All rights reserved. Sneakz &amp; Beatz™ is a brand of Sneakz &amp; Beatz LLC, a California limited liability company.</span>
           <span>Built for the culture.</span>
         </div>
       </div>

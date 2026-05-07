@@ -1,9 +1,18 @@
 import PillarHub from "@/components/PillarHub";
 
 export const metadata = {
-  title: "Sneakers — Sneakz & Beatz",
+  title: "Sneakers — Air Jordan Retros, OG Colorways, Black-Owned Sneaker Culture",
   description:
-    "Sneaker drop reports, retro returns, collab heat checks, and street culture from Sneakz & Beatz.",
+    "Black-culture-first sneaker editorial. Air Jordan retro release calendar, OG colorway returns, A Ma Maniere & Trophy Room coverage, BIN 23 deep dives, the OG-vs-collab debate.",
+  alternates: { canonical: "/sneakers" },
+  openGraph: {
+    title: "Sneakers — Sneakz & Beatz",
+    description: "Air Jordan retros, Black-owned sneaker shops, OG colorways.",
+    url: "https://www.sneakzandbeatz.com/sneakers",
+    siteName: "Sneakz & Beatz",
+    type: "website",
+  },
+  keywords: ["Air Jordan retro", "AJ12 Bloodline", "AJ3 BIN 23", "AJ1 Banned", "A Ma Maniere", "Trophy Room", "Black-owned sneaker culture", "Black sneakerhead"],
 };
 
 export default function SneakersPage() {
@@ -12,23 +21,23 @@ export default function SneakersPage() {
       pillarKey="sneakers"
       pillarNumber="01 / Pillar"
       pillarName="SNEAKERS"
-      pillarTagline="Drops. Heat. Culture."
-      lead="Sneaker drops aren't just product releases — they're the closest thing modern fashion has to event storytelling. We track release-day reports, retro returns, collab heat-checks, and the streetwear context around every meaningful drop. No deal listicles. No affiliate spam. Just the culture."
+      pillarTagline="Jordan-First. Sneaker-Wide."
+      lead="Sneakers, full stop. Nike, adidas, Yeezy, New Balance, Reebok, Asics, Puma — all welcome. But we're extreme Jordan retro fans, so anything from the AJ1 through AJ17 vault gets first dibs at the top. When Jordan goes quiet, the rest of the sneaker world fills in. No Travis collabs, no NOCTA, no deal listicles, no affiliate spam — just the culture."
       covers={[
         {
-          tag: "Drop Reports",
-          heading: "Release-Day Coverage",
-          body: "Same-day breakdowns of Jordan, Nike, adidas, and New Balance drops with the colorway lineage, retail vs. resale check, and where to actually cop.",
+          tag: "Jordan Retros 1–17",
+          heading: "First Dibs, Always",
+          body: "Air Jordan 1 through 17 own the top of this feed. Release-day coverage, colorway lineage, retail vs. resale check, school PEs (Michigan, Georgetown), and brand collabs (Levi's, Trophy Room, Fragment, Union LA).",
         },
         {
-          tag: "Retro Returns",
-          heading: "Archive vs. Reissue",
-          body: "When a classic comes back — Air Jordan 4 Toro, AF1 Linen, NB 990v3 grey — we explain what's the same, what's been updated, and whether it's worth the hype.",
+          tag: "The Wider Sneaker World",
+          heading: "Everything Else That Matters",
+          body: "AF1, Dunk SB, Yeezy 350/700, NB 990v3, Kobe Protro, Reebok DMX, adidas Superstar — when there's heat in the broader sneaker world, it lands here. Same culture-first lens, no resale tickers.",
         },
         {
-          tag: "Heat Checks",
-          heading: "Collab Reality Tests",
-          body: "Travis x AF1, Drake x NOCTA, Yeezy legacy — collab drops broken down for actual wearability + cultural weight, not just resale price.",
+          tag: "Drop Calendar",
+          heading: "Saturday Drops, Saved You First",
+          body: "Jordan drops most Saturdays. We track release dates from the reference sites we trust so the upcoming heat shows up here days before the SNKRS app pings — Bloodline, World's Best Dad, Mother's Day, BIN 23, Brazil, Nigel Sylvester AJ4, all live before the drop.",
         },
       ]}
       secondaryCta={{ label: "Beat Store", href: "/beats" }}

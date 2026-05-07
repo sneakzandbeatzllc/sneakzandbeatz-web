@@ -1,9 +1,18 @@
 import PillarHub from "@/components/PillarHub";
 
 export const metadata = {
-  title: "Hip-Hop — Sneakz & Beatz",
+  title: "Hip-Hop — News, Type Beats, Producer Spotlights, Black-Culture-First",
   description:
-    "Hip-hop news, releases, scene reports, and producer spotlights from Sneakz & Beatz.",
+    "Hip-hop news, releases, scene reports, producer spotlights, and the 96-beat Sneakz & Beatz catalog. Knowledgeable, not explanatory.",
+  alternates: { canonical: "/hiphop" },
+  openGraph: {
+    title: "Hip-Hop — Sneakz & Beatz",
+    description: "Hip-hop editorial + 96-beat producer-grade catalog. Black-owned.",
+    url: "https://www.sneakzandbeatz.com/hiphop",
+    siteName: "Sneakz & Beatz",
+    type: "website",
+  },
+  keywords: ["hip-hop news 2026", "type beats for sale", "producer spotlights", "Black-owned hip-hop podcast", "hip-hop sneaker references", "PHRHX", "rap challenge"],
 };
 
 export default function HipHopPage() {

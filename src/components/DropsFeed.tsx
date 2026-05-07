@@ -29,6 +29,20 @@ interface Drop {
   score: number;
   /** True when this slot is a coming-soon placeholder, not a real drop. */
   is_placeholder?: boolean;
+  /** Release-window badge: "Drops This Week" / "Drops This Month" /
+   *  "Drops Next Month" / "" — set by build_drops_feed when the
+   *  article title carries an imminent release date. Renders as a
+   *  small pill on the card so the upcoming heat is obvious. */
+  release_badge?: string;
+  /** Optional affiliate URL ("Cop" link). Populated by build_drops_feed.py
+   *  once Impact.com (StockX), CJ Affiliate (Sweetwater), or Skimlinks
+   *  (GOAT) credentials are wired up. When present, renders a small
+   *  secondary CTA on the card so the visitor can buy without leaving
+   *  the brand context. */
+  affiliate_url?: string;
+  /** Affiliate retailer name shown on the card ("StockX", "GOAT",
+   *  "Sweetwater", "Amazon", etc.). */
+  affiliate_label?: string;
 }
 
 const PILLAR_LABELS: Record<Pillar, string> = {
@@ -117,6 +131,9 @@ export default function DropsFeed({
               }
             >
               <div className="drop-card-thumb">
+                {d.release_badge && (
+                  <span className="drop-card-release-badge">{d.release_badge}</span>
+                )}
                 {d.thumbnail ? (
                   <img
                     src={d.thumbnail}
@@ -147,6 +164,29 @@ export default function DropsFeed({
                   <span className="drop-card-time">{d.relative_time}</span>
                   <span className="drop-card-arrow" aria-hidden="true">↗</span>
                 </div>
+                {/* Affiliate label — non-interactive on the card to keep
+                    the card a clean single-link surface (server component).
+                    TODO: Split DropsFeed into a Client Component wrapper so
+                    this can become a real outbound affiliate link. For now
+                    the badge surfaces the retailer; the user clicks the card
+                    (which goes to the source publisher) and we'll redirect
+                    to the affiliate URL via a /go/[id] route in a follow-up. */}
+                {d.affiliate_url && d.affiliate_label && !d.is_placeholder && (
+                  <span
+                    className="drop-card-affiliate"
+                    style={{
+                      display: "inline-flex",
+                      alignItems: "center",
+                      gap: "4px",
+                      fontSize: "0.78rem",
+                      fontWeight: 600,
+                      color: "#FF6A1A",
+                      marginTop: "6px",
+                    }}
+                  >
+                    Cop on {d.affiliate_label} →
+                  </span>
+                )}
               </div>
             </a>
           ))}

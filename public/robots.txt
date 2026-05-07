@@ -1,0 +1,87 @@
+# Sneakz & Beatz — robots.txt
+# Allow all major crawlers, including AI engines.
+# This is intentional. We want to be discoverable in Google, Bing,
+# ChatGPT, Claude, Perplexity, Gemini, and anywhere else our audience
+# searches.
+
+User-agent: *
+Allow: /
+
+# Generative AI crawlers — explicitly allowed.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: TikTokBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: meta-externalfetcher
+Allow: /
+
+# Disallow admin / preview / test paths
+Disallow: /api/private/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /sneakz-pass/preview
+
+# Sitemap
+Sitemap: https://www.sneakzandbeatz.com/sitemap.xml

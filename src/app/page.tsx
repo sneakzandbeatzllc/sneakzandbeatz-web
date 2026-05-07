@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
+import RapChallengeBanner from "@/components/RapChallengeBanner";
 import TrendingTicker from "@/components/TrendingTicker";
 import DropsFeed from "@/components/DropsFeed";
 import FeaturedStory from "@/components/FeaturedStory";
@@ -12,30 +13,119 @@ import SubstackSticker from "@/components/SubstackSticker";
 import Footer from "@/components/Footer";
 import { fetchTrending } from "@/lib/soc-engine";
 
+export const metadata = {
+  title: "Sneakz & Beatz — Sneakers, Hip-Hop, Anime, Gaming. Black-owned culture brand.",
+  description:
+    "Sneakz & Beatz is the editorial home for Black sneakerheads who live hip-hop, anime, and gaming. The PHRHX Show, 96 mastered beats, the $79 Vault, the $10K Rap Challenge.",
+  alternates: { canonical: "/" },
+  openGraph: {
+    title: "Sneakz & Beatz — Sneakers, Hip-Hop, Anime, Gaming",
+    description:
+      "Black-owned culture brand for sneakerheads who live hip-hop, anime, and gaming. Watch The PHRHX Show, get 100 beats for $79, win $10K in the Rap Challenge.",
+    url: "https://www.sneakzandbeatz.com",
+    siteName: "Sneakz & Beatz",
+    type: "website",
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Sneakz & Beatz — Sneakers, Hip-Hop, Anime, Gaming",
+    description:
+      "Black-owned culture brand. The PHRHX Show. 96 mastered beats. $79 Vault. $10K Rap Challenge.",
+    images: ["/og-image.png"],
+  },
+};
+
+// JSON-LD: Organization + WebSite schemas for AI engines + Knowledge Graph.
+const STRUCTURED_DATA = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.sneakzandbeatz.com/#organization",
+      name: "Sneakz & Beatz",
+      legalName: "Sneakz & Beatz LLC",
+      url: "https://www.sneakzandbeatz.com",
+      logo: "https://www.sneakzandbeatz.com/logo-mark-512.png",
+      description:
+        "Black-owned editorial brand for sneakerheads who live hip-hop, anime, and gaming. Operator of The PHRHX Show, the 96-beat catalog, and the $10K Rap Challenge.",
+      sameAs: [
+        "https://www.instagram.com/sneakz_beatz",
+        "https://www.tiktok.com/@sneakz_beatz",
+        "https://x.com/sneakz_beatz",
+        "https://www.youtube.com/@sneakzandbeatz",
+        "https://sneakzandbeatz.substack.com",
+      ],
+      foundingDate: "2026-04-23",
+      founder: {
+        "@type": "Person",
+        "@id": "https://www.sneakzandbeatz.com/#phrhx",
+        name: "PHRHX",
+        givenName: "Raymond",
+        familyName: "Miller",
+        jobTitle: "Founder, Host, Producer",
+        url: "https://www.sneakzandbeatz.com/about",
+      },
+      address: {
+        "@type": "PostalAddress",
+        addressLocality: "San Diego",
+        addressRegion: "CA",
+        addressCountry: "US",
+      },
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.sneakzandbeatz.com/#website",
+      url: "https://www.sneakzandbeatz.com",
+      name: "Sneakz & Beatz",
+      publisher: { "@id": "https://www.sneakzandbeatz.com/#organization" },
+      potentialAction: {
+        "@type": "SearchAction",
+        target: "https://www.sneakzandbeatz.com/articles?q={search_term_string}",
+        "query-input": "required name=search_term_string",
+      },
+    },
+    {
+      "@type": "PodcastSeries",
+      "@id": "https://www.sneakzandbeatz.com/#podcast",
+      name: "The PHRHX Show",
+      description:
+        "Hip-hop culture podcast covering sneakers, hip-hop, anime, and gaming through a Black-culture-first lens. Hosted by PHRHX.",
+      url: "https://www.sneakzandbeatz.com/show",
+      author: { "@id": "https://www.sneakzandbeatz.com/#phrhx" },
+      publisher: { "@id": "https://www.sneakzandbeatz.com/#organization" },
+    },
+  ],
+};
+
 export default async function HomePage() {
   // Server-side fetch from the SOC engine. Falls back to defaults if engine is offline.
   const trending = await fetchTrending();
 
-  // Path A — Drops Feed replaces the AI article cards. Each card is an
-  // outbound link to the original publisher (Drudge / HN / Reddit
-  // format), with sneakers leading the feed (Jordan-first editorial
-  // rule). The brand voice is the show + the beats + the substack —
-  // the drops feed is just the cultural pulse.
+  // Reordered for conversion: Hero → Rap Challenge banner (above-fold revenue
+  // driver) → PHRHX Show (the audience flywheel) → Beat Store (entry product)
+  // → Drops Feed (cultural pulse) → Featured Story → Brand Photos → TikTok →
+  // Creators CTA → Substack signup → Footer.
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(STRUCTURED_DATA) }}
+      />
       <Header />
       <Hero />
+      <RapChallengeBanner />
       <TrendingTicker items={trending} />
+      <PHRHXShow />
+      <BeatStore />
       <DropsFeed
         title="What's dropping"
         subtitle="Sneakers leads. Then music, anime, and gaming. Tap any card — we link out to the source. No fluff, no rewrites, just the culture refresh."
       />
       <FeaturedStory />
-      <PHRHXShow />
-      <BeatStore />
+      <CreatorsCTA />
       <BrandPhotos />
       <TikTokFeed />
-      <CreatorsCTA />
       <SubstackSticker />
       <Footer />
     </>

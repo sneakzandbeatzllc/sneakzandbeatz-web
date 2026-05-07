@@ -1,9 +1,18 @@
 import PillarHub from "@/components/PillarHub";
 
 export const metadata = {
-  title: "Anime — Sneakz & Beatz",
+  title: "Anime — Black Anime Fan Culture, Hip-Hop Crossover, Best Anime for Sneakerheads",
   description:
-    "Anime releases, manga reports, industry shifts, and the hip-hop crossover from Sneakz & Beatz.",
+    "Anime releases, manga reports, industry shifts, and the hip-hop crossover. Anime for Black sneakerheads who live the culture.",
+  alternates: { canonical: "/anime" },
+  openGraph: {
+    title: "Anime — Sneakz & Beatz",
+    description: "Anime for Black sneakerheads who live hip-hop. The crossover lane nobody else covers.",
+    url: "https://www.sneakzandbeatz.com/anime",
+    siteName: "Sneakz & Beatz",
+    type: "website",
+  },
+  keywords: ["best anime for hip-hop fans", "Black anime fans", "anime references in hip-hop", "anime sneaker collabs", "Megan Thee Stallion Naruto", "blerd anime", "Jujutsu Kaisen merch"],
 };
 
 export default function AnimePage() {

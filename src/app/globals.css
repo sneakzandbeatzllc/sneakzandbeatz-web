@@ -6154,6 +6154,26 @@ nav.primary a:hover { color: var(--highlight); }
   padding: 5px 10px;
   border-radius: 4px;
 }
+/* Release-imminence badge — bright pill in the top-right of the
+ * thumbnail. Set by build_drops_feed when the article title carries
+ * a release window ("Drops This Week", "Drops This Month", etc).
+ * Visually announces the upcoming heat without making the user read
+ * release date paragraphs. */
+.drop-card-release-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: #ff3d00;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 5px 9px;
+  border-radius: 4px;
+  z-index: 2;
+  box-shadow: 0 2px 8px rgba(255, 61, 0, 0.35);
+}
 .drop-card-body {
   padding: 14px 16px 16px;
   display: flex;

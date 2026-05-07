@@ -64,7 +64,7 @@ export default function RapChallengeRulesPage() {
               The &ldquo;$10K Rap Challenge&rdquo; (&ldquo;Promotion&rdquo;) is sponsored by{" "}
               <strong>The PHRHX Company</strong> (&ldquo;Sponsor&rdquo;), a California
               company operating the Sneakz &amp; Beatz brand. Beat catalog and publishing
-              are powered by <strong>Black Royal Music Media Group Inc.</strong> Business
+              are powered by <strong>Sneakz &amp; Beatz LLC</strong> Business
               mailing address [iPostal1 mailbox — confirm before publish].
             </p>
           </section>
@@ -139,13 +139,13 @@ export default function RapChallengeRulesPage() {
               eligible Submission:
             </p>
             <p>
-              <strong>(a) Paid entry — $25:</strong> Pay the $25 entry fee on the entry form
+              <strong>(a) Paid entry — $35 Standard or $99 Verified:</strong> Pay the $35 Standard fee or $99 Verified fee on the entry form
               and submit a recording meeting the Submission Requirements.
             </p>
             <p>
               <strong>(b) Bundle-proof entry — fee waived:</strong> If you have purchased the
               Sneakz & Beatz Standard Bundle ($79), provide your Stripe receipt ID on the entry
-              form to waive the $25 fee. The Standard Bundle is a standalone product (100
+              form to waive the Standard fee. The Standard Bundle is a standalone product (100
               mastered beats + drum kits + sample pack + t-shirt). Buying the bundle does NOT
               automatically enter you — you still must complete the entry form to enter.
             </p>

@@ -6,7 +6,7 @@ import { EMAILS, mailto } from "@/data/contact-emails";
 export const metadata = {
   title: "Work With Us — Sneakz & Beatz",
   description:
-    "Brand partnerships, sponsorships, UGC creator collabs, and apparel collaborations with Sneakz & Beatz / Black Royal Music Media Group Inc..",
+    "Brand partnerships, sponsorships, UGC creator collabs, and apparel collaborations with Sneakz & Beatz LLC.",
 };
 
 const TRACKS: { tag: string; heading: string; body: string; bullets: string[]; subject: string }[] = [
@@ -54,7 +54,7 @@ const TRACKS: { tag: string; heading: string; body: string; bullets: string[]; s
       "Editorial — sneaker, hip-hop, anime, or gaming verticals (writer)",
       "Video editor — short-form (Reels / TikTok) + long-form (PHRHX Show cuts)",
       "Designer — visual identity for drops, social, packaging",
-      "Producer — additional beat production for the BRMG catalog",
+      "Producer — additional beat production for the S&amp;B catalog",
     ],
     subject: "Hiring — [your role]",
   },

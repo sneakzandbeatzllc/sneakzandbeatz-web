@@ -52,7 +52,7 @@ const TIERS: Tier[] = [
       "500K stream cap per track",
       "3 music videos per beat",
       "ALL future drops next 6 months",
-      "BRMG drum kits + sample pack",
+      "S&amp;B drum kits + sample pack",
       "15-min mix consultation Zoom",
       "Bundle license auto-delivered with download",
     ],
@@ -61,21 +61,38 @@ const TIERS: Tier[] = [
     ctaHref: STRIPE_LINKS.standardBundle,
   },
   {
-    slug: "exclusive",
-    name: "Exclusive",
-    tagline: "Own The Sound",
-    priceUSD: 497,
-    anchorUSD: 1497,
+    slug: "producer-pack",
+    name: "Producer Pack",
+    tagline: "Level Up The Studio",
+    priceUSD: 149,
+    anchorUSD: 1799,
     bullets: [
       "Everything in Standard, plus:",
-      "5 fully exclusive beats — your pick (those beats get bought out)",
+      "5 free Premium Lease upgrades (untagged WAV + stems)",
+      "1-on-1 mixing tip Loom video from PHRHX",
+      "Producer Pack-only Discord channel",
+      "Direct DM access for production questions",
+      "Priority support — under 6-hour reply",
+    ],
+    ctaLabel: "Get Producer Pack — $149",
+    ctaHref: STRIPE_LINKS.producerPack,
+  },
+  {
+    slug: "industry-pack",
+    name: "Industry Pack",
+    tagline: "Own The Sound",
+    priceUSD: 399,
+    anchorUSD: 1497,
+    bullets: [
+      "Everything in Producer Pack, plus:",
+      "1 fully exclusive beat — your pick (that beat gets bought out)",
+      "30-min beat-making consult call with PHRHX",
       "Lifetime updates — every beat we ever release",
-      "Producer credit waived (full ownership of those 5)",
-      "Direct DM access for custom requests",
+      "Producer credit waived on the exclusive beat",
       "DistroKid affiliate kit",
     ],
-    ctaLabel: "Get Exclusive — $497",
-    ctaHref: STRIPE_LINKS.exclusiveBundle,
+    ctaLabel: "Get Industry Pack — $399",
+    ctaHref: STRIPE_LINKS.industryPack,
   },
 ];
 
@@ -93,7 +110,7 @@ export default function BundlesPage() {
             Pick Your Path.
           </h1>
           <p className="lead bundles-lead">
-            Lease beats individually at $29.99 — or grab the whole catalog plus 6 months of new
+            Lease beats individually at $34.99 — or grab the whole catalog plus 6 months of new
             drops for less than 3 leases. Math wins, every time.
           </p>
           <div className="bundles-trust">
@@ -177,7 +194,7 @@ export default function BundlesPage() {
             <span>$1,200</span>
           </div>
           <div className="bundles-value-row">
-            <span>BRMG drum kits + sample pack</span>
+            <span>S&amp;B drum kits + sample pack</span>
             <span>$300</span>
           </div>
           <div className="bundles-value-row">

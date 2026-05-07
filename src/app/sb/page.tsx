@@ -21,7 +21,7 @@ const LINKS: Link[] = [
   {
     href: "/beats",
     label: "Listen + Lease Beats",
-    sub: "26 mastered · $29.99 each",
+    sub: "26 mastered · $34.99 each",
     icon: "🎧",
     accent: true,
   },
@@ -130,7 +130,7 @@ export default function LinkInBioPage() {
           <p className="sb-foot-line">
             <Link href="/">sneakzandbeatz.com</Link>
             <span aria-hidden="true"> · </span>
-            <span>© {new Date().getFullYear()} Black Royal Music Media Group Inc.</span>
+            <span>© {new Date().getFullYear()} Sneakz &amp; Beatz LLC</span>
           </p>
         </footer>
       </div>

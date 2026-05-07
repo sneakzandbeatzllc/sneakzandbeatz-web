@@ -36,7 +36,7 @@ type Episode = {
 const FALLBACK_EPISODES: Episode[] = [
   {
     id: "2SBnn0bY2xY",
-    title: "The New BRMG!",
+    title: "The New S&amp;B!",
     href: "https://www.youtube.com/watch?v=2SBnn0bY2xY",
     thumbnail: "https://i.ytimg.com/vi/2SBnn0bY2xY/hqdefault.jpg",
     publishedLabel: "",
@@ -52,7 +52,7 @@ const FALLBACK_EPISODES: Episode[] = [
   },
   {
     id: "YamAo3IAhao",
-    title: "Black Royal MG Live Stream",
+    title: "Sneakz & Beatz Live Stream",
     href: "https://www.youtube.com/watch?v=YamAo3IAhao",
     thumbnail: "https://i.ytimg.com/vi/YamAo3IAhao/hqdefault.jpg",
     publishedLabel: "",

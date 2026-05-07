@@ -14,7 +14,7 @@ const STEPS = [
   {
     n: "01",
     h: "Get a beat",
-    body: "Pick any beat from the Sneakz & Beatz catalog ($29.99 lease) or grab the Standard Bundle ($79) for 100 mastered beats + drum kits + sample pack + a t-shirt. The bundle is a standalone product — buying it does NOT auto-enter you in the challenge (see step 03).",
+    body: "Pick any beat from the Sneakz & Beatz catalog ($34.99 lease) or grab the Standard Bundle ($79) for 100 mastered beats + drum kits + sample pack + a t-shirt. The bundle is a standalone product — buying it does NOT auto-enter you in the challenge (see step 03).",
   },
   {
     n: "02",
@@ -24,7 +24,7 @@ const STEPS = [
   {
     n: "03",
     h: "Opt in + submit your entry",
-    body: "Go to the entry form. You explicitly opt into the challenge with a checkbox (separate from any bundle purchase). Entry requires: $25 standalone fee OR proof of bundle purchase OR free mailed-in entry (AMOE). You also confirm you follow @sneakz_beatz on IG/TikTok/X/YouTube AND you're in the Discord.",
+    body: "Go to the entry form. You explicitly opt into the challenge with a checkbox (separate from any bundle purchase). Entry tiers: Standard Entry $35 OR Verified Entry $99 (priority judging + written feedback from PHRHX + social shoutout if you're a finalist) OR proof of bundle purchase (waives Standard fee) OR free mailed-in entry (AMOE). You also confirm you follow @sneakz_beatz on IG/TikTok/X/YouTube AND you're in the Discord.",
   },
   {
     n: "04",
@@ -104,7 +104,7 @@ const PRIZES: PrizeTier[] = [
 const FAQ = [
   {
     q: "Wait — does buying the bundle automatically enter me?",
-    a: "No. The Standard Bundle ($79) is its own product — 100 mastered beats + drum kits + sample pack + a t-shirt. Plenty of people will buy the bundle just for the beats and have zero interest in the challenge. To ENTER the challenge you go to the entry form and explicitly opt in (checkbox), confirm you follow @sneakz_beatz on IG / TikTok / X / YouTube, and confirm you're in the Discord. Then you either pay the $25 entry fee, attach proof of bundle purchase, or use the free mailed-in entry (AMOE).",
+    a: "No. The Standard Bundle ($79) is its own product — 100 mastered beats + drum kits + sample pack + a t-shirt. Plenty of people will buy the bundle just for the beats and have zero interest in the challenge. To ENTER the challenge you go to the entry form and explicitly opt in (checkbox), confirm you follow @sneakz_beatz on IG / TikTok / X / YouTube, and confirm you're in the Discord. Then you either pay Standard Entry ($35), Verified Entry ($99 — priority judging + written feedback from PHRHX + finalist shoutout), attach proof of bundle purchase to waive the Standard fee, or use the free mailed-in entry (AMOE).",
   },
   {
     q: "What does the cash prize actually look like?",
@@ -112,7 +112,7 @@ const FAQ = [
   },
   {
     q: "Do I have to use a Sneakz & Beatz beat to enter?",
-    a: "Yes. The whole point is to put eyes on the catalog. Use any beat from /beats ($29.99 lease) or any beat from the Standard Bundle. The beat MUST be ours.",
+    a: "Yes. The whole point is to put eyes on the catalog. Use any beat from /beats ($34.99 lease) or any beat from the Standard Bundle. The beat MUST be ours.",
   },
   {
     q: "Who actually judges this?",
@@ -120,7 +120,7 @@ const FAQ = [
   },
   {
     q: "Can I submit more than once?",
-    a: "Yes — each submission is its own entry, and each requires its own paid path (bundle, $25 fee, or AMOE). Quality not quantity though — judges aren't going to score you 3 times because you sent 3 verses.",
+    a: "Yes — each submission is its own entry, and each requires its own paid path (bundle, $35 Standard or $99 Verified fee, or AMOE). Quality not quantity though — judges aren't going to score you 3 times because you sent 3 verses.",
   },
   {
     q: "When are submissions open?",
@@ -158,9 +158,10 @@ export default function RapChallengePage() {
               <strong>$500 StockX gift card</strong>. Custom 1-of-1 sneaker. Anime exclusive
               box. 1 free exclusive beat per month for the rest of 2026. 10 vocal kits + 5
               drum kits + 5 melody loop packs. PHRHX custom beat. <strong>$500 IG ad spend</strong>
-              {" "}co-promoting your next release. Merch drop. Cypher-tape opener slot. Entry is
-              <strong> $25</strong> standalone (or waived if you bought the $79 bundle, or free
-              via AMOE).
+              {" "}co-promoting your next release. Merch drop. Cypher-tape opener slot.
+              <strong> Entry tiers:</strong> Standard <strong>$35</strong>, Verified
+              <strong> $99</strong> (priority judging + feedback from PHRHX + finalist
+              shoutout). Free with the $79 bundle. Free via AMOE.
             </p>
 
             {/* Waitlist signup — Substack form, same backend as the newsletter */}
@@ -250,7 +251,7 @@ export default function RapChallengePage() {
             <p className="rap-bundle-sub">
               If you also want to enter the challenge, you use the entry form, opt in
               explicitly, follow us on socials, join the Discord, and either pay the
-              <strong> $25 entry fee</strong>, show proof of bundle purchase to waive the fee,
+              <strong> $35 Standard or $99 Verified entry fee</strong>, show proof of bundle purchase to waive the fee,
               or use the free <strong>mailed-in entry (AMOE)</strong>.
             </p>
             <a

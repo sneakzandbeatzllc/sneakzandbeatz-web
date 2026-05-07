@@ -1,9 +1,18 @@
 import PillarHub from "@/components/PillarHub";
 
 export const metadata = {
-  title: "Gaming — Sneakz & Beatz",
+  title: "Gaming — Hip-Hop Soundtracks, Black Gamers, NBA 2K, GTA 6 Predictions",
   description:
-    "Game releases, patches, indie spotlights, and where gaming meets street culture from Sneakz & Beatz.",
+    "Game releases, soundtracks, Black gamer culture, NBA 2K hip-hop curation, GTA 6 soundtrack predictions. Gaming meets street culture, Black-culture-first.",
+  alternates: { canonical: "/gaming" },
+  openGraph: {
+    title: "Gaming — Sneakz & Beatz",
+    description: "Black gamer culture + hip-hop game soundtracks + sneaker integrations in games.",
+    url: "https://www.sneakzandbeatz.com/gaming",
+    siteName: "Sneakz & Beatz",
+    type: "website",
+  },
+  keywords: ["NBA 2K soundtrack hip-hop", "GTA 6 hip-hop soundtrack", "Black gamers Twitch", "hip-hop video game soundtracks", "sneaker drops in video games"],
 };
 
 export default function GamingPage() {

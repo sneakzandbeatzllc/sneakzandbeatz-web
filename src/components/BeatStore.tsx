@@ -8,7 +8,7 @@ export default async function BeatStore() {
     <section className="beatstore container" id="beatstore">
       <div className="beatstore-header">
         <div>
-          <span className="eyebrow">Beat Store · Powered by Black Royal Music Media</span>
+          <span className="eyebrow">Beat Store · Powered by Sneakz &amp; Beatz LLC</span>
           <h2>Need Beats For Your Next Drop?</h2>
           <p>
             Hard-hitting production for artists who move different. Lease, exclusive,

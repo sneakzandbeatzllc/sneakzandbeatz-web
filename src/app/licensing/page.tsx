@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 export const metadata = {
   title: "Beat Licensing — Sneakz & Beatz",
   description:
-    "Lease, Premium Lease, and Exclusive licensing terms for every beat in the Sneakz & Beatz / Black Royal Music Media catalog.",
+    "Lease, Premium Lease, and Exclusive licensing terms for every beat in the Sneakz & Beatz LLC catalog.",
 };
 
 export default function LicensingPage() {
@@ -15,19 +15,19 @@ export default function LicensingPage() {
 
       <section className="container licensing">
         <div className="licensing-hero">
-          <span className="eyebrow">Licensing · Black Royal Music Media</span>
+          <span className="eyebrow">Licensing · Sneakz &amp; Beatz LLC</span>
           <h1 className="licensing-title">
             Lease Terms.<br />
             <span className="accent">Built To Protect You + Us.</span>
           </h1>
           <p className="lead licensing-lead">
             Plain-English breakdown of what you can and can't do with every beat licensed
-            from Sneakz &amp; Beatz / Black Royal Music Media (BRMG). Four tiers — pick the
+            from Sneakz &amp; Beatz / Sneakz &amp; Beatz LLC (S&amp;B). Four tiers — pick the
             one that matches the project. Buy any beat, keep your masters, keep most of your
             royalties, no surprises.
           </p>
           <p className="licensing-effective">
-            Effective: April 1, 2026 · Producer of record: Black Royal Music Media Group Inc.,
+            Effective: April 1, 2026 · Producer of record: Sneakz &amp; Beatz LLC,
             Los Angeles County, CA. Questions: <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>
           </p>
           <div className="licensing-callout">
@@ -44,9 +44,9 @@ export default function LicensingPage() {
           <div className="licensing-compare-row licensing-compare-head">
             <span>Right</span>
             <span>Free Standard</span>
-            <span>Lease ($29.99)</span>
+            <span>Lease ($34.99)</span>
             <span>Bundle ($79+)</span>
-            <span>Exclusive ($497+)</span>
+            <span>Exclusive ($399+)</span>
           </div>
           {COMPARE_ROWS.map((r, i) => (
             <div key={i} className="licensing-compare-row">
@@ -110,7 +110,7 @@ export default function LicensingPage() {
           <section className="licensing-section">
             <h3>1. Ownership of the underlying composition</h3>
             <p>
-              Black Royal Music Media Group Inc. ("BRMG") owns the underlying musical composition
+              Sneakz &amp; Beatz LLC ("S&amp;B") owns the underlying musical composition
               (melody, drums, arrangement) of every beat. A lease grants you a non-exclusive
               right to use the composition under the terms below; an Exclusive purchase
               transfers that right to you on a per-beat basis as defined in that tier.
@@ -125,7 +125,7 @@ export default function LicensingPage() {
           <section className="licensing-section">
             <h3>2. Royalty splits</h3>
             <p>
-              Lease and Premium tiers: BRMG retains 50% of the underlying-composition
+              Lease and Premium tiers: S&amp;B retains 50% of the underlying-composition
               publishing royalties (writer share + publisher share combined). You keep 100% of
               the master recording royalties (streaming income paid to the artist, sync income
               paid for placement of your master).
@@ -172,7 +172,7 @@ export default function LicensingPage() {
             <h3>6. Prohibited uses (all tiers)</h3>
             <ul>
               <li>You may not resell, redistribute, or relicense the bare beat (with no vocal performance) to any third party.</li>
-              <li>You may not register the beat with any rights-management organization (BMI, ASCAP, SESAC, PRS, SOCAN, etc.) under your name without listing BRMG as co-publisher in the tiers that retain publishing.</li>
+              <li>You may not register the beat with any rights-management organization (BMI, ASCAP, SESAC, PRS, SOCAN, etc.) under your name without listing S&amp;B as co-publisher in the tiers that retain publishing.</li>
               <li>You may not use the beat in content that promotes hate speech, terrorism, or sexualized content involving minors. We reserve the right to revoke any license used for such content with no refund.</li>
               <li>You may not claim the beat as a fully original composition you wrote alone — the producer credit and split must remain accurate to the tier you bought.</li>
             </ul>
@@ -205,7 +205,7 @@ export default function LicensingPage() {
           <section className="licensing-section">
             <h3>9. Termination</h3>
             <p>
-              BRMG may terminate any Lease or Premium license that is in material breach of
+              S&amp;B may terminate any Lease or Premium license that is in material breach of
               these terms (e.g., redistribution of bare beats, exceeding stream caps without
               upgrade, prohibited uses) by written notice via email. Termination requires the
               licensee to remove the offending content from public distribution within 30 days.
@@ -249,7 +249,7 @@ export default function LicensingPage() {
 }
 
 const COMPARE_ROWS = [
-  { label: "Price",                    free: "$0",                     lease: "$29.99",                premium: "$47–$79",                  exclusive: "$497+" },
+  { label: "Price",                    free: "$0",                     lease: "$34.99",                premium: "$47–$79",                  exclusive: "$399+" },
   { label: "File delivery",            free: "MP3",                    lease: "MP3 + WAV",             premium: "MP3 + WAV + Stems",        exclusive: "MP3 + WAV + Stems" },
   { label: "Audio streams",            free: "50K",                    lease: "100K",                  premium: "500K",                     exclusive: "Unlimited" },
   { label: "Paid units (digital + physical)", free: "2K",             lease: "5K",                    premium: "25K",                      exclusive: "Unlimited" },
@@ -288,7 +288,7 @@ const TIERS = [
       {
         heading: "Caps (Free Standard tier)",
         paragraphs: [
-          "Up to 50,000 audio-stream equivalents across all DSPs combined for the licensed track. Up to 2,000 paid units (digital + physical). Up to 1 official music video. NO sync placements at this tier — upgrade to a paid Lease ($29.99) or Bundle ($79+) before licensing the song to TV, film, ads, or video games.",
+          "Up to 50,000 audio-stream equivalents across all DSPs combined for the licensed track. Up to 2,000 paid units (digital + physical). Up to 1 official music video. NO sync placements at this tier — upgrade to a paid Lease ($34.99) or Bundle ($79+) before licensing the song to TV, film, ads, or video games.",
         ],
       },
       {
@@ -316,8 +316,8 @@ const TIERS = [
   },
   {
     slug: "lease",
-    name: "Lease — $29.99",
-    priceLabel: "Single Beat · $29.99",
+    name: "Lease — $34.99",
+    priceLabel: "Single Beat · $34.99",
     summary:
       "Single-beat license for one project. MP3 + WAV master delivered instantly after Stripe checkout. Multiple artists may license the same beat.",
     sections: [
@@ -336,7 +336,7 @@ const TIERS = [
       {
         heading: "Stream + sales caps",
         paragraphs: [
-          "Up to 100,000 audio-stream equivalents across all DSPs combined for the licensed track. Up to 5,000 total paid units (digital downloads + physical CDs/vinyl). Up to 1 official music video. Once a track exceeds any of these caps you must upgrade to Premium or Exclusive — your $29.99 lease price is credited toward the upgrade.",
+          "Up to 100,000 audio-stream equivalents across all DSPs combined for the licensed track. Up to 5,000 total paid units (digital downloads + physical CDs/vinyl). Up to 1 official music video. Once a track exceeds any of these caps you must upgrade to Premium or Exclusive — your $34.99 lease price is credited toward the upgrade.",
         ],
       },
       {
@@ -348,7 +348,7 @@ const TIERS = [
       {
         heading: "Splits",
         paragraphs: [
-          "BRMG keeps 50% of publishing (writer + publisher) on the underlying composition. You keep 100% of the master recording. Streaming royalties paid to the artist (master share) flow to you in full; publishing royalties are split 50/50.",
+          "S&amp;B keeps 50% of publishing (writer + publisher) on the underlying composition. You keep 100% of the master recording. Streaming royalties paid to the artist (master share) flow to you in full; publishing royalties are split 50/50.",
         ],
       },
       {
@@ -365,9 +365,9 @@ const TIERS = [
   {
     slug: "premium",
     name: "Producer Bundle — $79",
-    priceLabel: "Bundle · $47 / $79 / $497",
+    priceLabel: "Bundle · $47 / $79 / $399",
     summary:
-      "Standard Bundle ($79) covers ALL 96 beats on the site — including the 70 tagged 'Free.' Starter ($47) is 25 of your choice. Exclusive ($497) is everything in Standard plus 5 fully exclusive beats pulled from the public catalog. Higher caps, full stems, drum kit + samples, mix consult.",
+      "Standard Bundle ($79) covers ALL 96 beats on the site — including the 70 tagged 'Free.' Starter ($47) is 25 of your choice. Exclusive ($399) is everything in Standard plus 5 fully exclusive beats pulled from the public catalog. Higher caps, full stems, drum kit + samples, mix consult.",
     sections: [
       {
         heading: "What you get",
@@ -376,7 +376,7 @@ const TIERS = [
           "25 beats of your pick (Starter)",
           "Standard + 5 fully exclusive beats removed from the catalog (Exclusive)",
           "MP3 + WAV + trackouts (separate stems for drums, melody, bass, etc.)",
-          "BRMG drum kit + sample pack",
+          "S&amp;B drum kit + sample pack",
           "15-minute mix consultation Zoom (Standard tier only)",
           "All future drops added to your library for 6 months (Standard tier)",
         ],
@@ -412,8 +412,8 @@ const TIERS = [
   },
   {
     slug: "exclusive",
-    name: "Exclusive — $497+",
-    priceLabel: "Exclusive · $497 (5 beats)",
+    name: "Exclusive — $399+",
+    priceLabel: "Exclusive · $399 (5 beats)",
     summary:
       "Buy a beat out — it leaves the catalog and nobody else can use it. Available as part of the Exclusive Bundle (5 of your choice) or per-beat by request.",
     sections: [

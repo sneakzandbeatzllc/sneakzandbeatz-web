@@ -45,7 +45,7 @@ export const metadata = {
 
 const PROOF_POINTS = [
   ["96", "mastered beats included"],
-  ["$0.82", "per beat (regular $29.99)"],
+  ["$0.82", "per beat (regular $34.99)"],
   ["6 mo", "of future drops included"],
   ["50/50", "publishing — same as a label"],
 ];
@@ -127,7 +127,7 @@ export default function BundleSqueezePage() {
             <span className="bundle-price-anchor-label">If you bought it piece by piece:</span>
             <span className="bundle-price-anchor-amount">$2,879.04</span>
             <span className="bundle-price-anchor-detail">
-              {totalBeats} beats × $29.99 + drum kit ($60) + mix consult ($35)
+              {totalBeats} beats × $34.99 + drum kit ($60) + mix consult ($35)
             </span>
           </div>
           <div className="bundle-price-today">
@@ -187,7 +187,7 @@ export default function BundleSqueezePage() {
 
           <article className="bundle-stack-card">
             <span className="bundle-stack-tag">Bonus #1</span>
-            <h3 className="bundle-stack-h">BRMG drum kit + sample pack</h3>
+            <h3 className="bundle-stack-h">S&amp;B drum kit + sample pack</h3>
             <p className="bundle-stack-p">
               The same one-shots, processing chains, and loops used to make
               the catalog. Drop them in your DAW and start cooking
@@ -299,7 +299,7 @@ export default function BundleSqueezePage() {
           Want even more? <Link href="/beats/bundles">See Starter / Standard / Exclusive →</Link>
         </p>
         <p className="bundle-foot-fine">
-          Producer of record: Black Royal Music Media Group Inc., Los Angeles County, CA
+          Producer of record: Sneakz &amp; Beatz LLC, Los Angeles County, CA
           ·{" "}
           <Link href="/licensing">Full license terms</Link> ·{" "}
           <Link href="/terms">Terms</Link> · <Link href="/privacy">Privacy</Link>

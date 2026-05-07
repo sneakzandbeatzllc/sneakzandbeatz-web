@@ -28,7 +28,7 @@ export default function DMCAPage() {
             Copyright Act (17 U.S.C. § 512).
           </p>
           <p className="legal-effective">
-            Effective: April 1, 2026 · Operator: Black Royal Music Media Group Inc., San Diego, CA
+            Effective: April 1, 2026 · Operator: Sneakz &amp; Beatz LLC, San Diego, CA
             {" "}· DMCA Agent: <a href="mailto:dmca@sneakzandbeatz.com">dmca@sneakzandbeatz.com</a>
           </p>
         </header>
@@ -162,7 +162,7 @@ export default function DMCAPage() {
             For DMCA purposes, our designated agent is:
           </p>
           <p className="legal-effective">
-            DMCA Agent — Black Royal Music Media Group Inc.<br />
+            DMCA Agent — Sneakz &amp; Beatz LLC<br />
             c/o Sneakz &amp; Beatz<br />
             iPostal1 — San Diego, CA<br />
             Email: <a href="mailto:dmca@sneakzandbeatz.com">dmca@sneakzandbeatz.com</a>

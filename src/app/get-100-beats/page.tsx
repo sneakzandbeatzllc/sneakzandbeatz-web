@@ -11,7 +11,7 @@ export const metadata = {
 
 const VALUE_STACK = [
   { item: "100 mastered beats — full curated catalog",                value: 1200 },
-  { item: "BRMG drum kits + sample pack",                              value: 300 },
+  { item: "S&amp;B drum kits + sample pack",                              value: 300 },
   { item: "15-minute 1-on-1 mix consultation (Zoom)",                  value: 150 },
   { item: "6 months of future beat drops added to your library",       value: 600 },
   { item: "Producer community access (private group)",                 value: 250 },
@@ -24,7 +24,7 @@ const PROBLEMS = [
   },
   {
     pain: "Tired of beats that won't get cleared",
-    fix: "Every beat in this catalog is owned by BRMG. No uncleared samples, no surprise takedowns. Producer credit is the only requirement.",
+    fix: "Every beat in this catalog is owned by S&amp;B. No uncleared samples, no surprise takedowns. Producer credit is the only requirement.",
   },
   {
     pain: "Tired of producers ghosting you mid-project",
@@ -51,7 +51,7 @@ const FAQ = [
   },
   {
     q: "Is this an exclusive?",
-    a: "No. The bundle gives you a Premium Lease license on each beat — multiple artists can lease the same beat. If you want to OWN a beat (nobody else can use it), see the Exclusive tier on /beats/bundles ($497) or email us about per-beat exclusives.",
+    a: "No. The bundle gives you a Premium Lease license on each beat — multiple artists can lease the same beat. If you want to OWN a beat (nobody else can use it), see the Exclusive tier on /beats/bundles ($399) or email us about per-beat exclusives.",
   },
   {
     q: "What format are the files?",
@@ -113,7 +113,7 @@ export default function Get100BeatsPage() {
           <ul className="funnel-included">
             <li>✅ <strong>100 mastered beats</strong> — full curated catalog (East Coast, West Coast, Trap, Drill, Rage, R&B)</li>
             <li>✅ <strong>MP3 + WAV + Trackouts</strong> — separate stems for drums, melody, bass</li>
-            <li>✅ <strong>BRMG drum kit</strong> — same drums on the masters, royalty-free for your tracks</li>
+            <li>✅ <strong>S&amp;B drum kit</strong> — same drums on the masters, royalty-free for your tracks</li>
             <li>✅ <strong>Sample pack</strong> — 32 mixed soul loops, key + BPM tagged</li>
             <li>✅ <strong>15-minute mix consultation</strong> — 1-on-1 Zoom with the producer</li>
             <li>✅ <strong>6 months of future drops</strong> — every beat we release in the next 6 months, added to your library free</li>
@@ -205,7 +205,7 @@ export default function Get100BeatsPage() {
             <Link href="/beats/bundles" style={{ color: "var(--highlight)", textDecoration: "underline" }}>
               /beats/bundles
             </Link>{" "}
-            (Starter $47 · Standard $79 · Exclusive $497).
+            (Starter $47 · Standard $79 · Exclusive $399).
           </p>
         </section>
       </main>
