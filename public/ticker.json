@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T15:04:46+00:00",
+  "generated_utc": "2026-05-07T15:33:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Armani White Flips Mannie Fresh Into A Summer Anthem With “PRESS.”",
+      "url": "https://allhiphop.com/music/armani-white-flips-mannie-fresh-into-a-summer-anthem-with-press/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kodak Black Arrested In Florida Over MDMA Trafficking Allegation",
       "url": "https://allhiphop.com/news/kodak-black-arrested-in-florida-over-mdma-trafficking-allegation/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Tyla Details Humorous Met Gala Encounter With Rihanna",
       "url": "https://thesource.com/2026/05/07/tyla-rihanna-met-gala-tiktok-video/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Lil Tjay’s Deluxe Drop Sparks Debate With Direct Shots on “Go Tati”",
-      "url": "https://thesource.com/2026/05/07/lil-tjays-deluxe-drop-sparks-debate-with-direct-shots-on-go-tati/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "CEO Admits Civilization 7 Was A ‘Bridge Too Far’ As It Ditches Its Most Controversial Mechanic In New ‘Fundamentally Game-Changing’ Update Over One Year Later",
-      "url": "https://kotaku.com/ceo-admits-civilization-7-was-a-bridge-too-far-as-it-ditches-its-most-controversial-mechanic-in-new-fundamentally-game-changing-update-over-one-year-later-2000693964",
+      "title": "Mortal Kombat 2 Movie Producer Lashes Out At Negative Reviews That ‘Don’t Have Any Love For The Genre’",
+      "url": "https://kotaku.com/mortal-kombat-2-movie-reviews-rant-producer-todd-garner-2000693958",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Fan Project To Save LittleBigPlanet Shuts Down As Allegations Of DDoS Attacks And Bigotry Fly",
-      "url": "https://kotaku.com/littlebigplanet-3-servers-shut-down-fan-project-lbponline-ddos-attack-2000693676",
+      "title": "GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt",
+      "url": "https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

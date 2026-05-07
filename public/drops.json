@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T15:04:46+00:00",
+  "generated_utc": "2026-05-07T15:33:56+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "0e631261d700",
+      "pillar": "hiphop",
+      "title": "Armani White Flips Mannie Fresh Into A Summer Anthem With “PRESS.”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/music/armani-white-flips-mannie-fresh-into-a-summer-anthem-with-press/",
+      "thumbnail": "/drops/thumbs/0e631261d700.jpg",
+      "published": "2026-05-07T11:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ede628863c2f",
       "pillar": "hiphop",
       "title": "Kodak Black Arrested In Florida Over MDMA Trafficking Allegation",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/07/tyla-rihanna-met-gala-tiktok-video/",
       "thumbnail": "/drops/thumbs/0a14402b1903.jpg",
       "published": "2026-05-07T08:24:54",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e8a458427425",
-      "pillar": "hiphop",
-      "title": "Lil Tjay’s Deluxe Drop Sparks Debate With Direct Shots on “Go Tati”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/07/lil-tjays-deluxe-drop-sparks-debate-with-direct-shots-on-go-tati/",
-      "thumbnail": "/drops/thumbs/e8a458427425.jpg",
-      "published": "2026-05-07T08:09:52",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "37d4c8668c5a",
+      "id": "7055f7519d12",
       "pillar": "gaming",
-      "title": "CEO Admits Civilization 7 Was A ‘Bridge Too Far’ As It Ditches Its Most Controversial Mechanic In New ‘Fundamentally Game-Changing’ Update Over One Year Later",
+      "title": "Mortal Kombat 2 Movie Producer Lashes Out At Negative Reviews That ‘Don’t Have Any Love For The Genre’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/ceo-admits-civilization-7-was-a-bridge-too-far-as-it-ditches-its-most-controversial-mechanic-in-new-fundamentally-game-changing-update-over-one-year-later-2000693964",
-      "thumbnail": "/drops/thumbs/37d4c8668c5a.jpg",
+      "source_url": "https://kotaku.com/mortal-kombat-2-movie-reviews-rant-producer-todd-garner-2000693958",
+      "thumbnail": "/drops/thumbs/7055f7519d12.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "29eb3519151c",
+      "id": "f359d3f2932f",
       "pillar": "gaming",
-      "title": "Fan Project To Save LittleBigPlanet Shuts Down As Allegations Of DDoS Attacks And Bigotry Fly",
+      "title": "GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/littlebigplanet-3-servers-shut-down-fan-project-lbponline-ddos-attack-2000693676",
-      "thumbnail": "/drops/thumbs/29eb3519151c.gif",
+      "source_url": "https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746",
+      "thumbnail": "/drops/thumbs/f359d3f2932f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "ede628863c2f",
+    "0e631261d700",
     "5d4bbf488e7f",
     "b49854e32e60",
     "593265008bbc",
