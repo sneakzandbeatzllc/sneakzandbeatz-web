@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T03:53:11+00:00",
+  "generated_utc": "2026-05-07T04:52:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "The One Piece: Here's Exactly How Much the Netflix Remake Will Adapt",
-      "url": "https://screenrant.com/one-piece-remake-anime-remake-length-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Always a Catch! Anime Casts Asaki Yuikawa",
       "url": "https://www.animenewsnetwork.com/news/2026-05-06/always-a-catch-anime-casts-asaki-yuikawa/.237129",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Go with the Clouds, North-by-Northwest is one of the most engaging mystery manga in years",
       "url": "https://www.polygon.com/go-with-clouds-north-by-northwest-manga-recommendation/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Suzuka Stellagi's Dō ka Kimi ni Abakaretai Manga Ends With 3rd Volume",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-06/suzuka-stellagi-do-ka-kimi-ni-abakaretai-manga-ends-with-3rd-volume/.237116",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
