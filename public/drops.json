@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T12:08:57+00:00",
+  "generated_utc": "2026-05-07T12:10:19+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -10,6 +10,54 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-12-bloodline/",
       "thumbnail": "/drops/thumbs/8cf8b4554bae.jpg",
       "published": "2026-05-06T12:10:22",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "f64e15dcf7bf",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 Low WMNS “Mother’s Day” May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-11-low-wmns-mothers-day-ah7860-102-drop/",
+      "thumbnail": "/drops/thumbs/f64e15dcf7bf.jpg",
+      "published": "2026-05-04T09:47:11",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "5d4bbf488e7f",
+      "pillar": "sneakers",
+      "title": "Nigel Sylvester x Air Jordan 4 “Brick After Brick” May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
+      "thumbnail": "/drops/thumbs/5d4bbf488e7f.png",
+      "published": "2026-05-02T13:37:32",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "981d0fa1e35e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Brazil” (IV4871-400) May 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-og-brazil-iv4871-400-drop/",
+      "thumbnail": "/drops/thumbs/981d0fa1e35e.jpg",
+      "published": "2026-05-02T07:12:00",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "26df7af50eda",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “World’s Best Dad” May 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-worlds-best-dad-if4396-103-drop/",
+      "thumbnail": "/drops/thumbs/26df7af50eda.jpg",
+      "published": "2026-05-02T07:08:51",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -49,54 +97,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "8cb509546594",
-      "pillar": "sneakers",
-      "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
-      "thumbnail": "/drops/thumbs/8cb509546594.jpg",
-      "published": "2026-05-06T13:25:08",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4c4d411abb04",
-      "pillar": "sneakers",
-      "title": "Levi's x Air Jordan 3 SP \"Black Denim\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/levis-air-jordan-3-sp-black-denim-ir0914-400-drop/",
-      "thumbnail": "/drops/thumbs/4c4d411abb04.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3a84a2def42e",
-      "pillar": "sneakers",
-      "title": "Levi's x Air Jordan 3 Retro SP \"Rigid\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/levis-air-jordan-3-retro-sp-rigid-ih7959-400-drop/",
-      "thumbnail": "/drops/thumbs/3a84a2def42e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0a6c6aa584f2",
-      "pillar": "sneakers",
-      "title": "Fragment Design x Union LA x Air Jordan 1 High OG \"Black/White\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/fragment-design-union-la-air-jordan-1-high-og-black-white-ii7282-100-drop/",
-      "thumbnail": "/drops/thumbs/0a6c6aa584f2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
     },
     {
       "id": "25bd1584abbb",
@@ -390,9 +390,9 @@
   "homepage": [
     "8cf8b4554bae",
     "25bd1584abbb",
-    "cf2a65bbc625",
+    "f64e15dcf7bf",
     "8703350352ac",
-    "adc2f1a5ed75",
+    "5d4bbf488e7f",
     "f28241814d22"
   ]
 }
