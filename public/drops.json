@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T01:49:39+00:00",
+  "generated_utc": "2026-05-07T02:48:30+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "b15f49a9f5ec",
+      "pillar": "hiphop",
+      "title": "Amber Rose Reveals She Told Kanye West To Drink Before Taylor Swift VMA Stunt",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/amber-rose-reveals-she-told-kanye-west-to-drink-before-taylor-swift-vma-stunt/",
+      "thumbnail": "/drops/thumbs/b15f49a9f5ec.jpg",
+      "published": "2026-05-06T22:00:45",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9f3e8588eae9",
       "pillar": "hiphop",
       "title": "Ludacris Joins Elite Class of 2026 Black Music Walk Of Fame Inductees",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "e296097a7648",
-      "pillar": "hiphop",
-      "title": "HoodTrophy Bino Drops Highly Anticipated Album “Made a Way",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/hoodtrophy-bino-drops-highly-anticipated-album-made-a-way/",
-      "thumbnail": "/drops/thumbs/e296097a7648.jpg",
-      "published": "2026-05-06T16:41:11",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8703350352ac",
       "pillar": "anime",
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
@@ -231,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "1e8e47da74dd",
+      "pillar": "anime",
+      "title": "Naruto's Next Anime Is Recreating Sasuke vs. Itachi, with One Tragic Twist",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-sasuke-itachi/",
+      "thumbnail": "/drops/thumbs/1e8e47da74dd.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4e7bb87350ab",
       "pillar": "anime",
       "title": "One Piece's Remake Is Already A Victim Of Netflix's Biggest Problem",
@@ -249,18 +261,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-remake-anime-remake-length-explained/",
       "thumbnail": "/drops/thumbs/b52187934eda.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2ddfa744ba01",
-      "pillar": "anime",
-      "title": "One Piece's Wit Studio Remake Finally Locks Down Release Date",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-one-piece-wit-studio-release-date-window-confirmed/",
-      "thumbnail": "/drops/thumbs/2ddfa744ba01.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "5bb58f0530f7",
-      "pillar": "gaming",
-      "title": "News Poor Start for PS5 Exclusive Saros as First Sales Data Emerges",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/poor-start-for-ps5-exclusive-saros-as-first-sales-data-emerges",
-      "thumbnail": "/drops/thumbs/5bb58f0530f7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c05968df818e",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Remake Part 3 could get DLC, director says, but Rebirth didn't due to worries it'd affect the third game",
@@ -357,6 +345,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action-rpg/a-new-elden-ring-world-record-was-set-just-2-weeks-ago-and-like-everyone-else-i-keep-rewatching-the-same-part-of-the-52-minute-speedrun/",
       "thumbnail": "/drops/thumbs/11404eef6e93.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7a634fe7b4a8",
+      "pillar": "gaming",
+      "title": "Feature 'One of the Biggest Suprises of the Year': Mortal Kombat 2 Movie Opens with Stronger Than Expected Reviews",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/one-of-the-biggest-suprises-of-the-year-mortal-kombat-2-movie-opens-with-stronger-than-expected-reviews",
+      "thumbnail": "/drops/thumbs/7a634fe7b4a8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "9f3e8588eae9",
+    "b15f49a9f5ec",
     "f64e15dcf7bf",
     "8703350352ac",
     "5d4bbf488e7f",

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T01:49:39+00:00",
+  "generated_utc": "2026-05-07T02:48:30+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Amber Rose Reveals She Told Kanye West To Drink Before Taylor Swift VMA Stunt",
+      "url": "https://allhiphop.com/news/amber-rose-reveals-she-told-kanye-west-to-drink-before-taylor-swift-vma-stunt/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Ludacris Joins Elite Class of 2026 Black Music Walk Of Fame Inductees",
       "url": "https://allhiphop.com/news/ludacris-joins-elite-class-of-2026-black-music-walk-of-fame-inductees/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "HoodTrophy Bino Drops Highly Anticipated Album “Made a Way",
-      "url": "https://allhiphop.com/music/hoodtrophy-bino-drops-highly-anticipated-album-made-a-way/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling Season 3's Biggest Fight Stuns In Epic New Trailer",
       "url": "https://screenrant.com/solo-leveling-season-3-arise-trailer-jinwoo-thomas-andre/",
       "pillar": "anime",
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Naruto's Next Anime Is Recreating Sasuke vs. Itachi, with One Tragic Twist",
+      "url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-sasuke-itachi/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece's Remake Is Already A Victim Of Netflix's Biggest Problem",
       "url": "https://screenrant.com/one-piece-netflix-remake-batch-release-problem/",
       "pillar": "anime",
@@ -146,13 +153,6 @@
     {
       "title": "The One Piece: Here's Exactly How Much the Netflix Remake Will Adapt",
       "url": "https://screenrant.com/one-piece-remake-anime-remake-length-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece's Wit Studio Remake Finally Locks Down Release Date",
-      "url": "https://screenrant.com/netflix-one-piece-wit-studio-release-date-window-confirmed/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "News Poor Start for PS5 Exclusive Saros as First Sales Data Emerges",
-      "url": "https://www.pushsquare.com/news/2026/05/poor-start-for-ps5-exclusive-saros-as-first-sales-data-emerges",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Final Fantasy 7 Remake Part 3 could get DLC, director says, but Rebirth didn't due to worries it'd affect the third game",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-remake-part-3-could-get-dlc-director-says-but-rebirth-missed-out-due-to-concerns-it-would-affect-the-third-games-schedule-and-overall-quality/",
       "pillar": "gaming",
@@ -209,6 +202,13 @@
     {
       "title": "A new Elden Ring world record was set just 2 weeks ago, and I keep rewatching the same part",
       "url": "https://www.gamesradar.com/games/action-rpg/a-new-elden-ring-world-record-was-set-just-2-weeks-ago-and-like-everyone-else-i-keep-rewatching-the-same-part-of-the-52-minute-speedrun/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Feature 'One of the Biggest Suprises of the Year': Mortal Kombat 2 Movie Opens with Stronger Than Expected Reviews",
+      "url": "https://www.pushsquare.com/features/one-of-the-biggest-suprises-of-the-year-mortal-kombat-2-movie-opens-with-stronger-than-expected-reviews",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
