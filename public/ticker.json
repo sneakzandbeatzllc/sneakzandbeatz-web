@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T23:20:23+00:00",
+  "generated_utc": "2026-05-08T00:15:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Episode #1161 Release Date And Time",
-      "url": "https://screenrant.com/one-piece-episode-1161-release-date-time/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "North American Anime, Manga Releases, May 3-9",
       "url": "https://www.animenewsnetwork.com/news/2026-05-07/north-american-anime-manga-releases-may-3-9/.237073",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Studio Ghibli Receives Spain's Princess of Asturias Award for Communication and Humanities",
       "url": "https://www.animenewsnetwork.com/news/2026-05-07/studio-ghibli-receives-spain-princess-of-asturias-award-for-communication-and-humanities/.237166",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "All Studio Ghibli Movies In Order of Release Date",
+      "url": "https://screenrant.com/all-studio-ghibli-movies-order-release-date/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News STEINS;GATE RE:BOOT Will Force Us to Curse That Goddamn Semi-Colon All Over Again on PS5, PS4",
-      "url": "https://www.pushsquare.com/news/2026/05/steinsgate-reboot-will-force-us-to-curse-that-goddamn-semi-colon-all-over-again-on-ps5-ps4",
+      "title": "Random Now You Can Smell Like a Kingdom Come: Deliverance 2 NPC with This $200 Fragrance",
+      "url": "https://www.pushsquare.com/news/2026/05/random-now-you-can-smell-like-a-kingdom-come-deliverance-2-npc-with-this-usd200-fragrance",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

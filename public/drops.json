@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-07T23:20:23+00:00",
+  "generated_utc": "2026-05-08T00:15:24+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "90f0606f4446",
-      "pillar": "anime",
-      "title": "One Piece Episode #1161 Release Date And Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-episode-1161-release-date-time/",
-      "thumbnail": "/drops/thumbs/90f0606f4446.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cd8fc1210919",
       "pillar": "anime",
       "title": "North American Anime, Manga Releases, May 3-9",
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/studio-ghibli-receives-spain-princess-of-asturias-award-for-communication-and-humanities/.237166",
       "thumbnail": "/drops/thumbs/f570521ce223.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86b9dce1fbac",
+      "pillar": "anime",
+      "title": "All Studio Ghibli Movies In Order of Release Date",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/all-studio-ghibli-movies-order-release-date/",
+      "thumbnail": "/drops/thumbs/86b9dce1fbac.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "004617c3b4ac",
+      "id": "581d278ee213",
       "pillar": "gaming",
-      "title": "News STEINS;GATE RE:BOOT Will Force Us to Curse That Goddamn Semi-Colon All Over Again on PS5, PS4",
+      "title": "Random Now You Can Smell Like a Kingdom Come: Deliverance 2 NPC with This $200 Fragrance",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/steinsgate-reboot-will-force-us-to-curse-that-goddamn-semi-colon-all-over-again-on-ps5-ps4",
-      "thumbnail": "/drops/thumbs/004617c3b4ac.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/random-now-you-can-smell-like-a-kingdom-come-deliverance-2-npc-with-this-usd200-fragrance",
+      "thumbnail": "/drops/thumbs/581d278ee213.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
