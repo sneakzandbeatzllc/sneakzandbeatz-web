@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T15:34:47+00:00",
+  "generated_utc": "2026-05-08T15:37:57+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -10,18 +10,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-12-bloodline/",
       "thumbnail": "/drops/thumbs/8cf8b4554bae.jpg",
       "published": "2026-05-06T12:10:22",
-      "relative_time": "today",
-      "score": 7.5,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "593265008bbc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Banned” Now Available (May 2026)",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-og-banned/",
-      "thumbnail": "/drops/thumbs/593265008bbc.webp",
-      "published": "",
       "relative_time": "today",
       "score": 7.5,
       "release_badge": "🔥 Banger"
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-workwear/",
       "thumbnail": "/drops/thumbs/7d4dc371b041.jpg",
       "published": "2026-05-05T13:05:26",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "145fb18ccdb6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Brazil” Releases May 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-brazil-world-cup-2026/",
+      "thumbnail": "/drops/thumbs/145fb18ccdb6.jpg",
+      "published": "2026-05-05T12:46:36",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -390,9 +390,9 @@
   "homepage": [
     "8cf8b4554bae",
     "bc72b2ce316e",
-    "593265008bbc",
-    "b49854e32e60",
     "734fcf19716d",
+    "b49854e32e60",
+    "a3a8855af003",
     "a1aa73f36714"
   ]
 }
