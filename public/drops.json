@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T16:32:46+00:00",
+  "generated_utc": "2026-05-08T16:39:34+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "3b6a82a80202",
+      "pillar": "hiphop",
+      "title": "Out Today: 6LACK Brings Young Thug Into His World on “Ashin’ the Blunt”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/08/out-today-6lack-brings-young-thug-into-his-world-on-ashin-the-blunt/",
+      "thumbnail": "/drops/thumbs/3b6a82a80202.jpg",
+      "published": "2026-05-08T12:26:36",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "51fd66a61fe0",
       "pillar": "hiphop",
       "title": "Big Meech Vindicated As DNA Evidence Proves He’s Not Woman’s Father",
@@ -135,6 +147,18 @@
       "release_badge": ""
     },
     {
+      "id": "c1b7a2f12bb5",
+      "pillar": "hiphop",
+      "title": "Hazel E: The Blueprint of Power — How a Public Relations Architect Built a Global Empire on Vision, Discipline, and Fearless Execution",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/08/hazel-e-the-blueprint-of-power-how-a-public-relations-architect-built-a-global-empire-on-vision-discipline-and-fearless-execution/",
+      "thumbnail": "/drops/thumbs/c1b7a2f12bb5.jpg",
+      "published": "2026-05-08T09:59:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "41fd432a3ea0",
       "pillar": "hiphop",
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charges",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/05/08/ye-makes-courtroom-joke-during-donda-listening-event-sampling-dispute/",
       "thumbnail": "/drops/thumbs/b566a144aacd.jpg",
       "published": "2026-05-08T07:46:56",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "41873e443e2d",
-      "pillar": "hiphop",
-      "title": "AZ Completes the Trilogy with ‘Doe Or Die III’ via Mass Appeal",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/08/az-doe-or-die-iii-nas-mass-appeal-release/",
-      "thumbnail": "/drops/thumbs/41873e443e2d.jpg",
-      "published": "2026-05-08T07:05:43",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ab8521137212",
-      "pillar": "hiphop",
-      "title": "HoodTrophy Bino Releases Captivating New Album “Made a Way”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/08/hoodtrophy-bino-releases-captivating-new-album-made-a-way/",
-      "thumbnail": "/drops/thumbs/ab8521137212.jpg",
-      "published": "2026-05-08T07:00:14",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -351,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "910464ffbf94",
-      "pillar": "gaming",
-      "title": "Fans Aren’t Sure How To Feel About One Of Mortal Kombat 2’s More Surprising Deaths",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/mortal-kombat-2-cole-young-death-scorpion-lewis-tan-2000694310",
-      "thumbnail": "/drops/thumbs/910464ffbf94.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "79074adf9672",
       "pillar": "gaming",
       "title": "Interview 007 First Light's License to Kill system adds nuance to its escalating action as \"Bond won't shoot an unarmed man\"",
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "213d2d1e572b",
+      "pillar": "gaming",
+      "title": "Slay The Spire 2′ s Latest Update Completely Removes Controversial Doormaker Boss",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/slay-the-spire-2-doormaker-boss-update-aeonglass-defect-regent-buff-nerf-2000694262",
+      "thumbnail": "/drops/thumbs/213d2d1e572b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "8cf8b4554bae",
-    "51fd66a61fe0",
+    "3b6a82a80202",
     "734fcf19716d",
     "b49854e32e60",
     "a3a8855af003",

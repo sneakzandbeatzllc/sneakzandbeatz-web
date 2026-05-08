@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T16:32:46+00:00",
+  "generated_utc": "2026-05-08T16:39:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Out Today: 6LACK Brings Young Thug Into His World on “Ashin’ the Blunt”",
+      "url": "https://thesource.com/2026/05/08/out-today-6lack-brings-young-thug-into-his-world-on-ashin-the-blunt/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Big Meech Vindicated As DNA Evidence Proves He’s Not Woman’s Father",
       "url": "https://allhiphop.com/news/big-meech-vindicated-as-dna-evidence-proves-hes-not-womans-father/",
       "pillar": "hiphop",
@@ -81,6 +88,13 @@
       "article_slug": null
     },
     {
+      "title": "Hazel E: The Blueprint of Power — How a Public Relations Architect Built a Global Empire on Vision, Discipline, and Fearless Execution",
+      "url": "https://thesource.com/2026/05/08/hazel-e-the-blueprint-of-power-how-a-public-relations-architect-built-a-global-empire-on-vision-discipline-and-fearless-execution/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charges",
       "url": "https://thesource.com/2026/05/08/kodak-black-arrested-in-florida-on-drug-trafficking-charges/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "Ye Makes Courtroom Joke During ‘DONDA’ Listening Event Sampling Dispute",
       "url": "https://thesource.com/2026/05/08/ye-makes-courtroom-joke-during-donda-listening-event-sampling-dispute/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "AZ Completes the Trilogy with ‘Doe Or Die III’ via Mass Appeal",
-      "url": "https://thesource.com/2026/05/08/az-doe-or-die-iii-nas-mass-appeal-release/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "HoodTrophy Bino Releases Captivating New Album “Made a Way”",
-      "url": "https://thesource.com/2026/05/08/hoodtrophy-bino-releases-captivating-new-album-made-a-way/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "Fans Aren’t Sure How To Feel About One Of Mortal Kombat 2’s More Surprising Deaths",
-      "url": "https://kotaku.com/mortal-kombat-2-cole-young-death-scorpion-lewis-tan-2000694310",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Interview 007 First Light's License to Kill system adds nuance to its escalating action as \"Bond won't shoot an unarmed man\"",
       "url": "https://www.gamesradar.com/games/action/007-first-lights-license-to-kill-system-adds-nuance-to-its-escalating-action-as-bond-wont-shoot-an-unarmed-man-says-developer/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Ubisoft Shared A Cosplay Style Guide (With New Lore!) For Assassin’s Creed Black Flag Resynced’s Edward Kenway",
       "url": "https://gameranx.com/updates/id/562610/article/ubisoft-shared-a-cosplay-style-guide-with-new-lore-for-assassins-creed-black-flag-resynceds-edward-kenway/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Slay The Spire 2′ s Latest Update Completely Removes Controversial Doormaker Boss",
+      "url": "https://kotaku.com/slay-the-spire-2-doormaker-boss-update-aeonglass-defect-regent-buff-nerf-2000694262",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
