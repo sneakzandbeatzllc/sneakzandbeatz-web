@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T12:32:04+00:00",
+  "generated_utc": "2026-05-08T12:33:16+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -195,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "5f1280d30ff6",
-      "pillar": "anime",
-      "title": "Jujutsu Kaisen Is Officially Part Of The Marvel Universe (No, Seriously)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-marvel-universe-storm/",
-      "thumbnail": "/drops/thumbs/5f1280d30ff6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b49854e32e60",
       "pillar": "anime",
       "title": "The One Piece anime remake looks gorgeous, but its episode count is baffling",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/the-one-piece-anime-remake-episode-count/",
       "thumbnail": "/drops/thumbs/b49854e32e60.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "96e6d49ef02f",
+      "pillar": "anime",
+      "title": "3 Years Ago, One Piece Reached A Peak So High, No Anime's Topped It Since",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-gear-5-peak-anime-not-topped/",
+      "thumbnail": "/drops/thumbs/96e6d49ef02f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "8cf8b4554bae",
     "41fd432a3ea0",
     "593265008bbc",
-    "5f1280d30ff6",
+    "b49854e32e60",
     "734fcf19716d",
     "a1aa73f36714"
   ]
