@@ -177,10 +177,11 @@ export async function POST(request: NextRequest) {
     if (contentType.includes("application/json")) {
       payload = JSON.parse(rawBody);
     } else {
-      // Parse form-urlencoded into a plain object
+      // Parse form-urlencoded into a plain object.
+      // Use forEach so we don't depend on iterator downleveling in tsconfig.
       const params = new URLSearchParams(rawBody);
       const obj: Record<string, unknown> = {};
-      for (const [k, v] of params.entries()) {
+      params.forEach((v, k) => {
         // Custom fields and variants come as `[Custom Field Name]` keys
         if (k.startsWith("[") && k.endsWith("]")) {
           if (!obj.custom_fields) obj.custom_fields = {};
@@ -188,8 +189,8 @@ export async function POST(request: NextRequest) {
         } else {
           obj[k] = v;
         }
-      }
-      payload = obj as GumroadWebhookBody;
+      });
+      payload = obj as unknown as GumroadWebhookBody;
     }
   } catch (e) {
     return NextResponse.json(
