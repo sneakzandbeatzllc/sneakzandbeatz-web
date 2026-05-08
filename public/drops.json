@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T01:23:22+00:00",
+  "generated_utc": "2026-05-08T02:23:22+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "bce753d9685f",
+      "pillar": "hiphop",
+      "title": "Lil Wayne Collaborator PCTweezie Busted On Weapons Charges",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/lil-wayne-collaborator-pctweezie-busted-on-weapons-charges/",
+      "thumbnail": "/drops/thumbs/bce753d9685f.jpg",
+      "published": "2026-05-07T22:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0817237e0131",
       "pillar": "hiphop",
       "title": "Detective Reveals Foolio Gang Ties & Rivals Celebration As Closing Arguments In Murder Trial Begins",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/uncategorized/top-5-ai-hip-hop-artists-redefining-the-sound-of-the-future/",
       "thumbnail": "/drops/thumbs/340446fca7f6.jpg",
       "published": "2026-05-07T14:55:23",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0ceada98ae1e",
-      "pillar": "hiphop",
-      "title": "NBA YoungBoy’s Rolling Loud Exit Allegedly Came Down To Money, Rumors Say",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/nba-youngboys-rolling-loud-exit-allegedly-came-down-to-money-rumors-say/",
-      "thumbnail": "/drops/thumbs/0ceada98ae1e.png",
-      "published": "2026-05-07T14:24:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -351,24 +351,24 @@
       "release_badge": ""
     },
     {
-      "id": "7372c0f975e5",
+      "id": "006aa38e6e6c",
       "pillar": "gaming",
-      "title": "News PS5's Stranger Than Heaven Somehow Got Snoop Dogg and Ado on the Same Song",
+      "title": "News 'NTE Is Built on Human Creativity': Dev to Rework Generative AI Assets in PS5 Open World",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/ps5s-stranger-than-heaven-somehow-got-snoop-dogg-and-ado-on-the-same-song",
-      "thumbnail": "/drops/thumbs/7372c0f975e5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/nte-is-built-on-human-creativity-dev-to-rework-generative-ai-assets-in-ps5-open-world",
+      "thumbnail": "/drops/thumbs/006aa38e6e6c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "581d278ee213",
+      "id": "7372c0f975e5",
       "pillar": "gaming",
-      "title": "Random Now You Can Smell Like a Kingdom Come: Deliverance 2 NPC with This $200 Fragrance",
+      "title": "News PS5's Stranger Than Heaven Somehow Got Snoop Dogg and Ado on the Same Song",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/random-now-you-can-smell-like-a-kingdom-come-deliverance-2-npc-with-this-usd200-fragrance",
-      "thumbnail": "/drops/thumbs/581d278ee213.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/ps5s-stranger-than-heaven-somehow-got-snoop-dogg-and-ado-on-the-same-song",
+      "thumbnail": "/drops/thumbs/7372c0f975e5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "0817237e0131",
+    "bce753d9685f",
     "593265008bbc",
     "5f1280d30ff6",
     "734fcf19716d",
