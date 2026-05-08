@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T13:34:38+00:00",
+  "generated_utc": "2026-05-08T14:29:33+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "d19dcb415369",
+      "pillar": "hiphop",
+      "title": "Floyd Mayweather Returns To International Ring In Greece, Contradicting Passport Claim",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/floyd-mayweather-returns-to-international-ring-in-greece-contradicting-passport-claim/",
+      "thumbnail": "/drops/thumbs/d19dcb415369.jpg",
+      "published": "2026-05-08T10:05:53",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "41fd432a3ea0",
       "pillar": "hiphop",
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charges",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "7d3d23777bc6",
-      "pillar": "hiphop",
-      "title": "Padres’ Record $3.9 Billion Sale Could Make MLB History With First Black Female Majority Owner",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/08/padres-record-3-9-billion-sale-could-make-mlb-history-with-first-black-female-majority-owner/",
-      "thumbnail": "/drops/thumbs/7d3d23777bc6.jpg",
-      "published": "2026-05-08T06:24:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b49854e32e60",
       "pillar": "anime",
       "title": "The One Piece anime remake looks gorgeous, but its episode count is baffling",
@@ -225,18 +225,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-strongest-characters-elbaph-arc/",
       "thumbnail": "/drops/thumbs/2a0802544a42.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "134f1b0564d4",
-      "pillar": "anime",
-      "title": "One Piece's Elbaph Arc Already Revealed How the Series' Final Villain Will Be Defeated",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-final-villain-imu-defeat-theory/",
-      "thumbnail": "/drops/thumbs/134f1b0564d4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,6 +279,18 @@
       "release_badge": ""
     },
     {
+      "id": "5561c67a697e",
+      "pillar": "anime",
+      "title": "Prime Video's New Post-Apocalyptic Action Thriller Claims Top Spot Fans Thought Was Impossible",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/fist-of-the-north-star-best-amazon-prime-anime/",
+      "thumbnail": "/drops/thumbs/5561c67a697e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a1aa73f36714",
       "pillar": "gaming",
       "title": "Rockstar Teases A Summer Update For GTA Online – Could This Connect To GTA 6?",
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "206ef312b6e5",
+      "id": "280e5a9a5194",
       "pillar": "gaming",
-      "title": "News Leon Must Die Forever Is Resident Evil Requiem's New Mini Game, Out Now on PS5",
+      "title": "News God of War Boss Cory Barlog Appears Furious After PS5 Game Leak",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/leon-must-die-forever-is-resident-evil-requiems-new-mini-game-out-now-on-ps5",
-      "thumbnail": "/drops/thumbs/206ef312b6e5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/god-of-war-boss-cory-barlog-appears-furious-after-ps5-game-leak",
+      "thumbnail": "/drops/thumbs/280e5a9a5194.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "6f047b1e48d3",
+      "id": "206ef312b6e5",
       "pillar": "gaming",
-      "title": "Sony Records New $560 Million Loss On Bungie Acquisition As Marathon Struggles And Destiny 2 Nosedives",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/sony-records-new-560-million-loss-on-bungie-acquisition-as-marathon-struggles-and-destiny-2-nosedives-2000694100",
-      "thumbnail": "/drops/thumbs/6f047b1e48d3.jpg",
+      "title": "News Leon Must Die Forever Is Resident Evil Requiem's New Mini Game, Out Now on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/leon-must-die-forever-is-resident-evil-requiems-new-mini-game-out-now-on-ps5",
+      "thumbnail": "/drops/thumbs/206ef312b6e5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "a6503ede9432",
+      "id": "6f047b1e48d3",
       "pillar": "gaming",
-      "title": "News 'Human Creativity Must Remain at the Centre': Sony Talks AI within PlayStation",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/human-creativity-must-remain-at-the-centre-sony-talks-ai-within-playstation",
-      "thumbnail": "/drops/thumbs/a6503ede9432.jpg",
+      "title": "Sony Records New $560 Million Loss On Bungie Acquisition As Marathon Struggles And Destiny 2 Nosedives",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/sony-records-new-560-million-loss-on-bungie-acquisition-as-marathon-struggles-and-destiny-2-nosedives-2000694100",
+      "thumbnail": "/drops/thumbs/6f047b1e48d3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "429128a86657",
+      "id": "c3a8991e36ca",
       "pillar": "gaming",
-      "title": "PlayStation Boss Embraces AI At Every Level: ‘AI Brings More Choices To Players Than Ever’",
+      "title": "Failed Online Shooter Won’t Shut Down Because ‘Games Are Art And Deserve To Be Preserved’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/playstation-boss-embraces-ai-at-every-level-ai-brings-more-choices-to-players-than-ever-2000694282",
-      "thumbnail": "/drops/thumbs/429128a86657.jpg",
+      "source_url": "https://kotaku.com/blindfire-free-to-play-steam-shooter-fps-update-shut-down-2000694020",
+      "thumbnail": "/drops/thumbs/c3a8991e36ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "41fd432a3ea0",
+    "d19dcb415369",
     "593265008bbc",
     "b49854e32e60",
     "734fcf19716d",

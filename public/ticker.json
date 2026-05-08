@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T13:34:38+00:00",
+  "generated_utc": "2026-05-08T14:29:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Floyd Mayweather Returns To International Ring In Greece, Contradicting Passport Claim",
+      "url": "https://allhiphop.com/news/floyd-mayweather-returns-to-international-ring-in-greece-contradicting-passport-claim/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charges",
       "url": "https://thesource.com/2026/05/08/kodak-black-arrested-in-florida-on-drug-trafficking-charges/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Padres’ Record $3.9 Billion Sale Could Make MLB History With First Black Female Majority Owner",
-      "url": "https://thesource.com/2026/05/08/padres-record-3-9-billion-sale-could-make-mlb-history-with-first-black-female-majority-owner/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The One Piece anime remake looks gorgeous, but its episode count is baffling",
       "url": "https://www.polygon.com/the-one-piece-anime-remake-episode-count/",
       "pillar": "anime",
@@ -132,13 +132,6 @@
     {
       "title": "10 Strongest One Piece Characters From Elbaph Arc (So Far)",
       "url": "https://screenrant.com/one-piece-strongest-characters-elbaph-arc/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece's Elbaph Arc Already Revealed How the Series' Final Villain Will Be Defeated",
-      "url": "https://screenrant.com/one-piece-final-villain-imu-defeat-theory/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,6 +165,13 @@
       "article_slug": null
     },
     {
+      "title": "Prime Video's New Post-Apocalyptic Action Thriller Claims Top Spot Fans Thought Was Impossible",
+      "url": "https://screenrant.com/fist-of-the-north-star-best-amazon-prime-anime/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rockstar Teases A Summer Update For GTA Online – Could This Connect To GTA 6?",
       "url": "https://gameranx.com/updates/id/562605/article/rockstar-teases-a-summer-update-for-gta-online-could-this-connect-to-gta-6/",
       "pillar": "gaming",
@@ -179,8 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "News Leon Must Die Forever Is Resident Evil Requiem's New Mini Game, Out Now on PS5",
-      "url": "https://www.pushsquare.com/news/2026/05/leon-must-die-forever-is-resident-evil-requiems-new-mini-game-out-now-on-ps5",
+      "title": "News God of War Boss Cory Barlog Appears Furious After PS5 Game Leak",
+      "url": "https://www.pushsquare.com/news/2026/05/god-of-war-boss-cory-barlog-appears-furious-after-ps5-game-leak",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,15 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "Sony Records New $560 Million Loss On Bungie Acquisition As Marathon Struggles And Destiny 2 Nosedives",
-      "url": "https://kotaku.com/sony-records-new-560-million-loss-on-bungie-acquisition-as-marathon-struggles-and-destiny-2-nosedives-2000694100",
+      "title": "News Leon Must Die Forever Is Resident Evil Requiem's New Mini Game, Out Now on PS5",
+      "url": "https://www.pushsquare.com/news/2026/05/leon-must-die-forever-is-resident-evil-requiems-new-mini-game-out-now-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News 'Human Creativity Must Remain at the Centre': Sony Talks AI within PlayStation",
-      "url": "https://www.pushsquare.com/news/2026/05/human-creativity-must-remain-at-the-centre-sony-talks-ai-within-playstation",
+      "title": "Sony Records New $560 Million Loss On Bungie Acquisition As Marathon Struggles And Destiny 2 Nosedives",
+      "url": "https://kotaku.com/sony-records-new-560-million-loss-on-bungie-acquisition-as-marathon-struggles-and-destiny-2-nosedives-2000694100",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "PlayStation Boss Embraces AI At Every Level: ‘AI Brings More Choices To Players Than Ever’",
-      "url": "https://kotaku.com/playstation-boss-embraces-ai-at-every-level-ai-brings-more-choices-to-players-than-ever-2000694282",
+      "title": "Failed Online Shooter Won’t Shut Down Because ‘Games Are Art And Deserve To Be Preserved’",
+      "url": "https://kotaku.com/blindfire-free-to-play-steam-shooter-fps-update-shut-down-2000694020",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
