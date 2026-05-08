@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T20:47:18+00:00",
+  "generated_utc": "2026-05-08T21:16:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Rick Ross Reveals New Album “Set In Stone”",
+      "url": "https://allhiphop.com/news/rick-ross-reveals-new-album-set-in-stone/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dave Chappelle on Finding Balance: Yellow Springs Saved My Life",
       "url": "https://allhiphop.com/news/dave-chappelle-on-finding-balance-yellow-springs-saved-my-life/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Floyd Mayweather Returns To International Ring In Greece, Contradicting Passport Claim",
       "url": "https://allhiphop.com/news/floyd-mayweather-returns-to-international-ring-in-greece-contradicting-passport-claim/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hazel E: The Blueprint of Power — How a Public Relations Architect Built a Global Empire on Vision, Discipline, and Fearless Execution",
-      "url": "https://thesource.com/2026/05/08/hazel-e-the-blueprint-of-power-how-a-public-relations-architect-built-a-global-empire-on-vision-discipline-and-fearless-execution/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "Resident Evil Requiem gets free roguelike minigame Leon Must Die Forever, which Capcom had been teasing in plain sight",
-      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-gets-free-roguelike-minigame-leon-must-die-forever-which-capcom-had-been-teasing-in-plain-sight-all-along/",
+      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit",
+      "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "News Leon Must Die Forever Is Resident Evil Requiem's New Mini Game, Out Now on PS5",
-      "url": "https://www.pushsquare.com/news/2026/05/leon-must-die-forever-is-resident-evil-requiems-new-mini-game-out-now-on-ps5",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Darkest Dungeon Dev Would Never Use AI To Copy Deceased Narrator’s Iconic Voice",
       "url": "https://kotaku.com/darkest-dungeon-dev-would-never-use-ai-to-copy-deceased-narrators-iconic-voice-2000694393",
       "pillar": "gaming",
@@ -214,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Interview 007 First Light's License to Kill system adds nuance to its escalating action as \"Bond won't shoot an unarmed man\"",
-      "url": "https://www.gamesradar.com/games/action/007-first-lights-license-to-kill-system-adds-nuance-to-its-escalating-action-as-bond-wont-shoot-an-unarmed-man-says-developer/",
+      "title": "The rumors are true: The Batman 2 is set in winter as Matt Reeves delivers perfect first look",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/the-rumors-are-true-the-batman-2-is-set-in-winter-as-matt-reeves-delivers-perfect-first-look/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "Ubisoft Shared A Cosplay Style Guide (With New Lore!) For Assassin’s Creed Black Flag Resynced’s Edward Kenway",
       "url": "https://gameranx.com/updates/id/562610/article/ubisoft-shared-a-cosplay-style-guide-with-new-lore-for-assassins-creed-black-flag-resynceds-edward-kenway/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Slay The Spire 2′ s Latest Update Completely Removes Controversial Doormaker Boss",
+      "url": "https://kotaku.com/slay-the-spire-2-doormaker-boss-update-aeonglass-defect-regent-buff-nerf-2000694262",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
