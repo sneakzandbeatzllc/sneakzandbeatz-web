@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T19:44:43+00:00",
+  "generated_utc": "2026-05-08T20:15:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,20 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "50 Cent’s London Boxing Drama Fightland Hits Starz in July",
-      "url": "https://allhiphop.com/news/50-cents-london-boxing-drama-fightland-hits-starz-in-july/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Beyoncé Music Theft Case: “I’m Ready For Trial Now”",
-      "url": "https://allhiphop.com/news/beyonce-music-theft-case-im-ready-for-trial-now/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Out Today: 6LACK Brings Young Thug Into His World on “Ashin’ the Blunt”",
       "url": "https://thesource.com/2026/05/08/out-today-6lack-brings-young-thug-into-his-world-on-ashin-the-blunt/",
       "pillar": "hiphop",
@@ -81,22 +67,8 @@
       "article_slug": null
     },
     {
-      "title": "Big Meech Vindicated As DNA Evidence Proves He’s Not Woman’s Father",
-      "url": "https://allhiphop.com/news/big-meech-vindicated-as-dna-evidence-proves-hes-not-womans-father/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Tennessee Redistricting Fight Is Political Battlefield Everyone Should Be Watching",
       "url": "https://thesource.com/2026/05/08/tennessee-redistricting-fight-is-political-battlefield-everyone-should-be-watching/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Floyd Mayweather Returns To International Ring In Greece, Contradicting Passport Claim",
-      "url": "https://allhiphop.com/news/floyd-mayweather-returns-to-international-ring-in-greece-contradicting-passport-claim/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -111,6 +83,34 @@
     {
       "title": "Kodak Black Arrested in Florida on Drug Trafficking Charges",
       "url": "https://thesource.com/2026/05/08/kodak-black-arrested-in-florida-on-drug-trafficking-charges/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Thunder Stay Unbeaten, Blowout Lakers With Game 2 Rout",
+      "url": "https://thesource.com/2026/05/08/thunder-stay-unbeaten-blowout-lakers-with-game-2-rout/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ye Makes Courtroom Joke During ‘DONDA’ Listening Event Sampling Dispute",
+      "url": "https://thesource.com/2026/05/08/ye-makes-courtroom-joke-during-donda-listening-event-sampling-dispute/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "AZ Completes the Trilogy with ‘Doe Or Die III’ via Mass Appeal",
+      "url": "https://thesource.com/2026/05/08/az-doe-or-die-iii-nas-mass-appeal-release/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "HoodTrophy Bino Releases Captivating New Album “Made a Way”",
+      "url": "https://thesource.com/2026/05/08/hoodtrophy-bino-releases-captivating-new-album-made-a-way/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -179,8 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "News God of War Boss Cory Barlog Appears Furious After PS5 Game Leak",
-      "url": "https://www.pushsquare.com/news/2026/05/god-of-war-boss-cory-barlog-appears-furious-after-ps5-game-leak",
+      "title": "News The Anime of Elden Ring Dev's Secret Best Game Hits Japanese Theatres in September",
+      "url": "https://www.pushsquare.com/news/2026/05/the-anime-of-elden-ring-devs-secret-best-game-hits-japanese-theatres-in-september",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,6 +188,13 @@
     {
       "title": "Resident Evil Requiem gets free roguelike minigame Leon Must Die Forever, which Capcom had been teasing in plain sight",
       "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-gets-free-roguelike-minigame-leon-must-die-forever-which-capcom-had-been-teasing-in-plain-sight-all-along/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News God of War Boss Cory Barlog Appears Furious After PS5 Game Leak",
+      "url": "https://www.pushsquare.com/news/2026/05/god-of-war-boss-cory-barlog-appears-furious-after-ps5-game-leak",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Ubisoft Shared A Cosplay Style Guide (With New Lore!) For Assassin’s Creed Black Flag Resynced’s Edward Kenway",
       "url": "https://gameranx.com/updates/id/562610/article/ubisoft-shared-a-cosplay-style-guide-with-new-lore-for-assassins-creed-black-flag-resynceds-edward-kenway/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Helldivers 2 Community Is Melting Down And Attempts To Quell the Outrage Have Only Pissed Them Off More",
-      "url": "https://kotaku.com/helldivers-2-steam-reviews-mostly-negative-nerf-warbonds-bugs-patch-2000694354",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
