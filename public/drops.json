@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T02:48:29+00:00",
+  "generated_utc": "2026-05-08T03:25:12+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "ea98819e89e8",
+      "pillar": "hiphop",
+      "title": "YNW Melly’s Defense Team Compares His Solitary Confinement To Presidential Assassination Case",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ynw-mellys-defense-team-compares-his-solitary-confinement-to-presidential-assassination-case/",
+      "thumbnail": "/drops/thumbs/ea98819e89e8.jpg",
+      "published": "2026-05-07T23:10:11",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bce753d9685f",
       "pillar": "hiphop",
       "title": "Lil Wayne Collaborator PCTweezie Busted On Weapons Charges",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/uncategorized/everytable-and-lil-grifo-serve-identity-on-a-plate/",
       "thumbnail": "/drops/thumbs/21e88ffdacfc.png",
       "published": "2026-05-07T15:38:29",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "340446fca7f6",
-      "pillar": "hiphop",
-      "title": "Top 5 AI Hip-Hop Artists Redefining the Sound of the Future",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/top-5-ai-hip-hop-artists-redefining-the-sound-of-the-future/",
-      "thumbnail": "/drops/thumbs/340446fca7f6.jpg",
-      "published": "2026-05-07T14:55:23",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "bce753d9685f",
+    "ea98819e89e8",
     "593265008bbc",
     "5f1280d30ff6",
     "734fcf19716d",
