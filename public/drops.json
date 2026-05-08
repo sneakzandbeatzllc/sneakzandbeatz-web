@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T18:44:19+00:00",
+  "generated_utc": "2026-05-08T19:43:21+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -25,18 +25,6 @@
       "relative_time": "today",
       "score": 6.0,
       "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "a3a8855af003",
-      "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low “Shy Pink” Releases in May 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-sail-iq7604-101/",
-      "thumbnail": "/drops/thumbs/a3a8855af003.png",
-      "published": "2026-05-05T13:58:59",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
     },
     {
       "id": "738c08af9884",
@@ -93,6 +81,18 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-sail-tropical-pink-2026/",
       "thumbnail": "/drops/thumbs/cf2a65bbc625.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "adc2f1a5ed75",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low OG “Muslin/Shy Pink” Releases May 29th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
+      "thumbnail": "/drops/thumbs/adc2f1a5ed75.webp",
       "published": "",
       "relative_time": "today",
       "score": 3.0,
@@ -327,24 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "56ad79a56df8",
-      "pillar": "gaming",
-      "title": "Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/surprise-capcom-just-added-a-free-roguelike-mode-to-resident-evil-requiem-2000694319",
-      "thumbnail": "/drops/thumbs/56ad79a56df8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "206ef312b6e5",
       "pillar": "gaming",
       "title": "News Leon Must Die Forever Is Resident Evil Requiem's New Mini Game, Out Now on PS5",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/leon-must-die-forever-is-resident-evil-requiems-new-mini-game-out-now-on-ps5",
       "thumbnail": "/drops/thumbs/206ef312b6e5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6f047b1e48d3",
+      "pillar": "gaming",
+      "title": "Sony Records New $560 Million Loss On Bungie Acquisition As Marathon Struggles And Destiny 2 Nosedives",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/sony-records-new-560-million-loss-on-bungie-acquisition-as-marathon-struggles-and-destiny-2-nosedives-2000694100",
+      "thumbnail": "/drops/thumbs/6f047b1e48d3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "213d2d1e572b",
+      "id": "c96bd1f9ff30",
       "pillar": "gaming",
-      "title": "Slay The Spire 2′ s Latest Update Completely Removes Controversial Doormaker Boss",
+      "title": "The Helldivers 2 Community Is Melting Down And Attempts To Quell the Outrage Have Only Pissed Them Off More",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/slay-the-spire-2-doormaker-boss-update-aeonglass-defect-regent-buff-nerf-2000694262",
-      "thumbnail": "/drops/thumbs/213d2d1e572b.jpg",
+      "source_url": "https://kotaku.com/helldivers-2-steam-reviews-mostly-negative-nerf-warbonds-bugs-patch-2000694354",
+      "thumbnail": "/drops/thumbs/c96bd1f9ff30.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -392,7 +392,7 @@
     "eb0fd6e4c5ea",
     "734fcf19716d",
     "b49854e32e60",
-    "a3a8855af003",
+    "738c08af9884",
     "a1aa73f36714"
   ]
 }
