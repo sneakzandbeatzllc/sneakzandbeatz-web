@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T07:20:47+00:00",
+  "generated_utc": "2026-05-08T08:23:51+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,42 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "eae3cd898c9c",
+      "pillar": "hiphop",
+      "title": "E-40, Cousin Fik and Hitta Slim Form The Assembly and Drop Self-Titled Album",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/08/e-40-the-assembly-new-album-cousin-fik-hitta-slim/",
+      "thumbnail": "/drops/thumbs/eae3cd898c9c.jpg",
+      "published": "2026-05-08T03:52:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "71879d1bc288",
+      "pillar": "hiphop",
+      "title": "Sibby Liv Rejects Low-Effort Dating in New Single “Bare Minimaa”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/08/sibby-liv-bare-minimaa-planet-sex-single/",
+      "thumbnail": "/drops/thumbs/71879d1bc288.jpg",
+      "published": "2026-05-08T03:45:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a18adba08b23",
+      "pillar": "hiphop",
+      "title": "That Mexican OT Blends Texas Rap and Tejano Roots on “La Cumbia de Virgil”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/08/that-mexican-ot-la-cumbia-de-virgil-sophies-son-album/",
+      "thumbnail": "/drops/thumbs/a18adba08b23.jpg",
+      "published": "2026-05-08T03:17:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4244ff0be4b5",
       "pillar": "hiphop",
       "title": "Dr. Dre & Kendrick Lamar Return To Compton For High School Groundbreaking",
@@ -154,42 +190,6 @@
       "source_url": "https://allhiphop.com/news/judge-rejects-prosecutors-attempt-to-use-kodak-blacks-rap-career-against-him-granted-75k-bond/",
       "thumbnail": "/drops/thumbs/1de2f8818323.png",
       "published": "2026-05-07T18:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "528073083890",
-      "pillar": "hiphop",
-      "title": "Real Boston Richey Has Major Allegations Against Him With Baby Rumors To Boot",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/real-boston-richey-has-major-allegations-against-him-with-baby-rumors-to-boot/",
-      "thumbnail": "/drops/thumbs/528073083890.png",
-      "published": "2026-05-07T17:27:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "371a2d5664bd",
-      "pillar": "hiphop",
-      "title": "Will Smith Defeats Man’s Sexual Harassment Lawsuit In Court Ruling",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/will-smith-defeats-mans-sexual-harassment-lawsuit-in-court-ruling/",
-      "thumbnail": "/drops/thumbs/371a2d5664bd.png",
-      "published": "2026-05-07T17:01:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "edcc0d5a96a5",
-      "pillar": "hiphop",
-      "title": "Hantavirus Has Sparked Fears Of COVID-Like Shutdown",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/hantavirus-has-sparked-fears-of-covid-like-shutdown/",
-      "thumbnail": "/drops/thumbs/edcc0d5a96a5.jpg",
-      "published": "2026-05-07T16:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "4244ff0be4b5",
+    "eae3cd898c9c",
     "593265008bbc",
     "5f1280d30ff6",
     "734fcf19716d",
