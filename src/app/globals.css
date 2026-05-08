@@ -191,8 +191,17 @@ nav.primary a:hover { color: var(--highlight); }
           mask-image: linear-gradient(90deg, transparent 0, black 5%, black 95%, transparent 100%);
 }
 .trending .ticker-track {
-  display: inline-flex; gap: 36px; animation: ticker 80s linear infinite;
+  display: inline-flex; gap: 36px;
+  /* Duration is set inline by TrendingTicker.tsx based on item count, so
+     the per-pixel scroll speed stays readable as drops are added or
+     removed. The 240s fallback is used if the inline var is missing. */
+  animation: ticker var(--ticker-duration, 240s) linear infinite;
   padding-right: 36px;
+}
+/* Pause on hover so readers can actually read a headline that catches
+   their eye and click through. */
+.trending .ticker:hover .ticker-track {
+  animation-play-state: paused;
 }
 .trending .dot { width: 6px; height: 6px; border-radius: 50%; background: rgba(255,255,255,0.5); display: inline-block; vertical-align: middle; margin-right: 12px; }
 .trending .ticker-item-link {

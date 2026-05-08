@@ -47,12 +47,20 @@ export default function TrendingTicker(_props?: { items?: unknown }) {
   // Duplicate so the CSS keyframe ticker animation loops seamlessly.
   const looped = [...native, ...native];
 
+  // Scale the scroll duration to item count so the per-pixel speed stays
+  // readable (~90 px/sec) regardless of how many drops we have on a given
+  // day. Roughly 7s per item; floor at 120s, cap at 600s.
+  const durationSec = Math.min(600, Math.max(120, native.length * 7));
+
   return (
     <section className="trending">
       <div className="container row">
         <span className="label">⚡ Trending Now</span>
         <div className="ticker">
-          <div className="ticker-track">
+          <div
+            className="ticker-track"
+            style={{ "--ticker-duration": `${durationSec}s` } as React.CSSProperties}
+          >
             {looped.map((item, i) => {
               if (!item.url) return null;
               return (
