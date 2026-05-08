@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T03:25:12+00:00",
+  "generated_utc": "2026-05-08T04:19:10+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "4244ff0be4b5",
+      "pillar": "hiphop",
+      "title": "Dr. Dre & Kendrick Lamar Return To Compton For High School Groundbreaking",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/dr-dre-kendrick-lamar-return-to-compton-for-high-school-groundbreaking/",
+      "thumbnail": "/drops/thumbs/4244ff0be4b5.png",
+      "published": "2026-05-07T23:24:15",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ea98819e89e8",
       "pillar": "hiphop",
       "title": "YNW Melly’s Defense Team Compares His Solitary Confinement To Presidential Assassination Case",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "21e88ffdacfc",
-      "pillar": "hiphop",
-      "title": "Everytable and Lil Grifo serve identity on a plate",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/everytable-and-lil-grifo-serve-identity-on-a-plate/",
-      "thumbnail": "/drops/thumbs/21e88ffdacfc.png",
-      "published": "2026-05-07T15:38:29",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5f1280d30ff6",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Is Officially Part Of The Marvel Universe (No, Seriously)",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "cd8fc1210919",
+      "id": "7568784f98dc",
       "pillar": "anime",
-      "title": "North American Anime, Manga Releases, May 3-9",
+      "title": "I'm Dating a Dark Summoner! Short Anime Airs on TV This Year",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/north-american-anime-manga-releases-may-3-9/.237073",
-      "thumbnail": "/drops/thumbs/cd8fc1210919.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/im-dating-a-dark-summoner-short-anime-airs-on-tv-this-year/.237172",
+      "thumbnail": "/drops/thumbs/7568784f98dc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "657494c0f89e",
+      "id": "cd8fc1210919",
       "pillar": "anime",
-      "title": "'Draw This, Then Die!' Anime's 1st Promo Video Reveals Opening Theme Song, July 3 Premiere",
+      "title": "North American Anime, Manga Releases, May 3-9",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/draw-this-then-die-anime-1st-promo-video-reveals-opening-theme-song-july-3-premiere/.237168",
-      "thumbnail": "/drops/thumbs/657494c0f89e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/north-american-anime-manga-releases-may-3-9/.237073",
+      "thumbnail": "/drops/thumbs/cd8fc1210919.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "f570521ce223",
+      "id": "657494c0f89e",
       "pillar": "anime",
-      "title": "Studio Ghibli Receives Spain's Princess of Asturias Award for Communication and Humanities",
+      "title": "'Draw This, Then Die!' Anime's 1st Promo Video Reveals Opening Theme Song, July 3 Premiere",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/studio-ghibli-receives-spain-princess-of-asturias-award-for-communication-and-humanities/.237166",
-      "thumbnail": "/drops/thumbs/f570521ce223.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-07/draw-this-then-die-anime-1st-promo-video-reveals-opening-theme-song-july-3-premiere/.237168",
+      "thumbnail": "/drops/thumbs/657494c0f89e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "ea98819e89e8",
+    "4244ff0be4b5",
     "593265008bbc",
     "5f1280d30ff6",
     "734fcf19716d",
