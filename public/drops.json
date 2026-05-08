@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T15:39:27+00:00",
+  "generated_utc": "2026-05-08T16:06:33+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "51fd66a61fe0",
+      "pillar": "hiphop",
+      "title": "Big Meech Vindicated As DNA Evidence Proves He’s Not Woman’s Father",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/big-meech-vindicated-as-dna-evidence-proves-hes-not-womans-father/",
+      "thumbnail": "/drops/thumbs/51fd66a61fe0.png",
+      "published": "2026-05-08T12:01:30",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bc72b2ce316e",
       "pillar": "hiphop",
       "title": "Tennessee Redistricting Fight Is Political Battlefield Everyone Should Be Watching",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/08/hoodtrophy-bino-releases-captivating-new-album-made-a-way/",
       "thumbnail": "/drops/thumbs/ab8521137212.jpg",
       "published": "2026-05-08T07:00:14",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2dd3f9c0c1f8",
-      "pillar": "hiphop",
-      "title": "French Montana, Max B, and Rick Ross Reunite for “SMOKING PART II”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/08/french-montana-max-b-rick-ross-smoking-part-2-release/",
-      "thumbnail": "/drops/thumbs/2dd3f9c0c1f8.jpg",
-      "published": "2026-05-08T06:56:03",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "56ad79a56df8",
+      "pillar": "gaming",
+      "title": "Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/surprise-capcom-just-added-a-free-roguelike-mode-to-resident-evil-requiem-2000694319",
+      "thumbnail": "/drops/thumbs/56ad79a56df8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "206ef312b6e5",
       "pillar": "gaming",
       "title": "News Leon Must Die Forever Is Resident Evil Requiem's New Mini Game, Out Now on PS5",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "c3a8991e36ca",
-      "pillar": "gaming",
-      "title": "Failed Online Shooter Won’t Shut Down Because ‘Games Are Art And Deserve To Be Preserved’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/blindfire-free-to-play-steam-shooter-fps-update-shut-down-2000694020",
-      "thumbnail": "/drops/thumbs/c3a8991e36ca.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "8cf8b4554bae",
-    "bc72b2ce316e",
+    "51fd66a61fe0",
     "734fcf19716d",
     "b49854e32e60",
     "a3a8855af003",

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T15:39:27+00:00",
+  "generated_utc": "2026-05-08T16:06:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Big Meech Vindicated As DNA Evidence Proves He’s Not Woman’s Father",
+      "url": "https://allhiphop.com/news/big-meech-vindicated-as-dna-evidence-proves-hes-not-womans-father/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Tennessee Redistricting Fight Is Political Battlefield Everyone Should Be Watching",
       "url": "https://thesource.com/2026/05/08/tennessee-redistricting-fight-is-political-battlefield-everyone-should-be-watching/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "HoodTrophy Bino Releases Captivating New Album “Made a Way”",
       "url": "https://thesource.com/2026/05/08/hoodtrophy-bino-releases-captivating-new-album-made-a-way/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "French Montana, Max B, and Rick Ross Reunite for “SMOKING PART II”",
-      "url": "https://thesource.com/2026/05/08/french-montana-max-b-rick-ross-smoking-part-2-release/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -193,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "Surprise, Capcom Just Added A Free Roguelike Mode To Resident Evil Requiem",
+      "url": "https://kotaku.com/surprise-capcom-just-added-a-free-roguelike-mode-to-resident-evil-requiem-2000694319",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Leon Must Die Forever Is Resident Evil Requiem's New Mini Game, Out Now on PS5",
       "url": "https://www.pushsquare.com/news/2026/05/leon-must-die-forever-is-resident-evil-requiems-new-mini-game-out-now-on-ps5",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Ubisoft Shared A Cosplay Style Guide (With New Lore!) For Assassin’s Creed Black Flag Resynced’s Edward Kenway",
       "url": "https://gameranx.com/updates/id/562610/article/ubisoft-shared-a-cosplay-style-guide-with-new-lore-for-assassins-creed-black-flag-resynceds-edward-kenway/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Failed Online Shooter Won’t Shut Down Because ‘Games Are Art And Deserve To Be Preserved’",
-      "url": "https://kotaku.com/blindfire-free-to-play-steam-shooter-fps-update-shut-down-2000694020",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
