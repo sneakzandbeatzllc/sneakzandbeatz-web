@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T00:21:52+00:00",
+  "generated_utc": "2026-05-08T01:17:04+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "0817237e0131",
+      "pillar": "hiphop",
+      "title": "Detective Reveals Foolio Gang Ties & Rivals Celebration As Closing Arguments In Murder Trial Begins",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/detective-reveals-foolio-gang-ties-rivals-celebration-as-closing-arguments-in-murder-trial-begins/",
+      "thumbnail": "/drops/thumbs/0817237e0131.png",
+      "published": "2026-05-07T21:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1de2f8818323",
       "pillar": "hiphop",
       "title": "Judge Rejects Prosecutor’s Attempt To Use Kodak Black’s Rap Career Against Him; Granted $75K Bond",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "f0f03b1b3537",
-      "pillar": "hiphop",
-      "title": "EXCLUSIVE: Cardi B Wins Major Court Victory Against Tasha K",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/exclusive-cardi-b-wins-major-court-victory-against-tasha-k/",
-      "thumbnail": "/drops/thumbs/f0f03b1b3537.jpg",
-      "published": "2026-05-07T12:54:13",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5f1280d30ff6",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Is Officially Part Of The Marvel Universe (No, Seriously)",
@@ -213,6 +213,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/the-one-piece-anime-remake-episode-count/",
       "thumbnail": "/drops/thumbs/b49854e32e60.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2a0802544a42",
+      "pillar": "anime",
+      "title": "10 Strongest One Piece Characters From Elbaph Arc (So Far)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-strongest-characters-elbaph-arc/",
+      "thumbnail": "/drops/thumbs/2a0802544a42.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,36 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "86b9dce1fbac",
-      "pillar": "anime",
-      "title": "All Studio Ghibli Movies In Order of Release Date",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/all-studio-ghibli-movies-order-release-date/",
-      "thumbnail": "/drops/thumbs/86b9dce1fbac.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f28241814d22",
       "pillar": "gaming",
       "title": "Take-Two CEO Strauss Zelnick Says Crunch Is Not Part Of How The GTA 6 Publisher Operates Today",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562590/article/take-two-ceo-strauss-zelnick-says-crunch-is-not-part-of-how-the-gta-6-publisher-operates-today/",
       "thumbnail": "/drops/thumbs/f28241814d22.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "72509c94d7ea",
-      "pillar": "gaming",
-      "title": "News Yakuza Dev's Stranger Than Heaven Drops English Dub Option Due to Bilingual Characters",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/yakuza-devs-stranger-than-heaven-drops-english-dub-option-due-to-bilingual-characters",
-      "thumbnail": "/drops/thumbs/72509c94d7ea.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "7372c0f975e5",
+      "pillar": "gaming",
+      "title": "News PS5's Stranger Than Heaven Somehow Got Snoop Dogg and Ado on the Same Song",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/ps5s-stranger-than-heaven-somehow-got-snoop-dogg-and-ado-on-the-same-song",
+      "thumbnail": "/drops/thumbs/7372c0f975e5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "581d278ee213",
       "pillar": "gaming",
       "title": "Random Now You Can Smell Like a Kingdom Come: Deliverance 2 NPC with This $200 Fragrance",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "1de2f8818323",
+    "0817237e0131",
     "593265008bbc",
     "5f1280d30ff6",
     "734fcf19716d",

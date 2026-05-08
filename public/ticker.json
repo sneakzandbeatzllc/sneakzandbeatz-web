@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T00:21:52+00:00",
+  "generated_utc": "2026-05-08T01:17:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Detective Reveals Foolio Gang Ties & Rivals Celebration As Closing Arguments In Murder Trial Begins",
+      "url": "https://allhiphop.com/news/detective-reveals-foolio-gang-ties-rivals-celebration-as-closing-arguments-in-murder-trial-begins/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Judge Rejects Prosecutor’s Attempt To Use Kodak Black’s Rap Career Against Him; Granted $75K Bond",
       "url": "https://allhiphop.com/news/judge-rejects-prosecutors-attempt-to-use-kodak-blacks-rap-career-against-him-granted-75k-bond/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "EXCLUSIVE: Cardi B Wins Major Court Victory Against Tasha K",
-      "url": "https://allhiphop.com/news/exclusive-cardi-b-wins-major-court-victory-against-tasha-k/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Jujutsu Kaisen Is Officially Part Of The Marvel Universe (No, Seriously)",
       "url": "https://screenrant.com/jujutsu-kaisen-marvel-universe-storm/",
       "pillar": "anime",
@@ -125,6 +125,13 @@
     {
       "title": "The One Piece anime remake looks gorgeous, but its episode count is baffling",
       "url": "https://www.polygon.com/the-one-piece-anime-remake-episode-count/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "10 Strongest One Piece Characters From Elbaph Arc (So Far)",
+      "url": "https://screenrant.com/one-piece-strongest-characters-elbaph-arc/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,22 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "All Studio Ghibli Movies In Order of Release Date",
-      "url": "https://screenrant.com/all-studio-ghibli-movies-order-release-date/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Take-Two CEO Strauss Zelnick Says Crunch Is Not Part Of How The GTA 6 Publisher Operates Today",
       "url": "https://gameranx.com/updates/id/562590/article/take-two-ceo-strauss-zelnick-says-crunch-is-not-part-of-how-the-gta-6-publisher-operates-today/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Yakuza Dev's Stranger Than Heaven Drops English Dub Option Due to Bilingual Characters",
-      "url": "https://www.pushsquare.com/news/2026/05/yakuza-devs-stranger-than-heaven-drops-english-dub-option-due-to-bilingual-characters",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -209,6 +202,13 @@
     {
       "title": "Mortal Kombat 2 review: \"Lands some killer blows, but far from a flawless victory\"",
       "url": "https://www.gamesradar.com/entertainment/animation-movies/mortal-kombat-2-review/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News PS5's Stranger Than Heaven Somehow Got Snoop Dogg and Ado on the Same Song",
+      "url": "https://www.pushsquare.com/news/2026/05/ps5s-stranger-than-heaven-somehow-got-snoop-dogg-and-ado-on-the-same-song",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
