@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T09:57:18+00:00",
+  "generated_utc": "2026-05-08T10:23:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -179,13 +179,6 @@
       "article_slug": null
     },
     {
-      "title": "News Stranger Than Heaven Is a Yakuza Series Origin Story, Out on PS5 This Winter",
-      "url": "https://www.pushsquare.com/news/2026/05/stranger-than-heaven-is-a-yakuza-series-origin-story-out-on-ps5-this-winter",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Like any Final Fantasy 7 fan, Remake trilogy boss \"seriously searched\" for a way to reverse the JRPG's big death",
       "url": "https://www.gamesradar.com/games/final-fantasy/like-any-final-fantasy-7-fan-remake-trilogy-boss-seriously-searched-for-a-way-to-reverse-the-jrpgs-big-death-when-he-first-played-it/",
       "pillar": "gaming",
@@ -195,6 +188,13 @@
     {
       "title": "Sega’s Stranger Than Heaven Retells The Tojo Clan’s History – But It’s More Than Another Yakuza Story",
       "url": "https://gameranx.com/updates/id/562588/article/segas-stranger-than-heaven-retells-the-tojo-clans-history-but-its-more-than-another-yakuza-story/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Bungie Was a $765 Million Thorn in Sony's Side in 2025",
+      "url": "https://www.pushsquare.com/news/2026/05/bungie-was-a-usd765-million-thorn-in-sonys-side-in-2025",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
