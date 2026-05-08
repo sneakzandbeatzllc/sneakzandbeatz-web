@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-08T16:41:00+00:00",
+  "generated_utc": "2026-05-08T17:08:19+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "1e0af7951c9a",
+      "pillar": "hiphop",
+      "title": "Beyoncé Music Theft Case: “I’m Ready For Trial Now”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/beyonce-music-theft-case-im-ready-for-trial-now/",
+      "thumbnail": "/drops/thumbs/1e0af7951c9a.jpg",
+      "published": "2026-05-08T13:00:50",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3b6a82a80202",
       "pillar": "hiphop",
       "title": "Out Today: 6LACK Brings Young Thug Into His World on “Ashin’ the Blunt”",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/08/thunder-stay-unbeaten-blowout-lakers-with-game-2-rout/",
       "thumbnail": "/drops/thumbs/eec737cf14e5.jpg",
       "published": "2026-05-08T07:47:31",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b566a144aacd",
-      "pillar": "hiphop",
-      "title": "Ye Makes Courtroom Joke During ‘DONDA’ Listening Event Sampling Dispute",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/08/ye-makes-courtroom-joke-during-donda-listening-event-sampling-dispute/",
-      "thumbnail": "/drops/thumbs/b566a144aacd.jpg",
-      "published": "2026-05-08T07:46:56",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "3b6a82a80202",
+    "1e0af7951c9a",
     "734fcf19716d",
     "b49854e32e60",
     "a3a8855af003",
