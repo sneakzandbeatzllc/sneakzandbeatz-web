@@ -7,6 +7,7 @@ export const metadata = {
   title: "Free Beats — Sneakz & Beatz",
   description:
     "Download any beat tagged Free under our Free Standard License. MP3, voice-tag-free, with the contract auto-attached. One Substack signup unlocks the catalog.",
+  alternates: { canonical: "/beats/free" },
 };
 
 export default function FreeBeatsPage({

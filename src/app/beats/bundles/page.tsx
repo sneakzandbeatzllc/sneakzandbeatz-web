@@ -7,6 +7,7 @@ export const metadata = {
   title: "Beat Bundles — Sneakz & Beatz",
   description:
     "Three tiers. 100 mastered beats. MP3 + WAV + stems. Built for artists who move different.",
+  alternates: { canonical: "/beats/bundles" },
 };
 
 type Tier = {

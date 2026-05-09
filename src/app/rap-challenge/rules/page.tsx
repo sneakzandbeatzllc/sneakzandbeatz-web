@@ -7,6 +7,7 @@ export const metadata = {
   title: "Official Rules — $10K Rap Challenge — Sneakz & Beatz",
   description:
     "Official rules for the Sneakz & Beatz $10K Rap Challenge: eligibility, entry methods (paid + free AMOE), judging, prize fulfillment, state restrictions, and sponsor information.",
+  alternates: { canonical: "/rap-challenge/rules" },
 };
 
 const SECTIONS = [

@@ -7,6 +7,7 @@ export const metadata = {
   title: "Get 100 Mastered Beats For $79 — Sneakz & Beatz",
   description:
     "100 mastered beats. MP3 + WAV + Stems. Drum kit + sample pack. 15-minute mix consult. Six months of future drops. $2,500 perceived value, $79 today.",
+  alternates: { canonical: "/get-100-beats" },
 };
 
 const VALUE_STACK = [

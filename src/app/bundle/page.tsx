@@ -18,6 +18,7 @@ export const metadata = {
   title: "Producer Bundle — All 96 Beats For $79 | Sneakz & Beatz",
   description:
     "All 96 mastered beats. WAV stems, drum kit, mix consultation, and 6 months of future drops. Was $2,500. Today: $79. Bundle license auto-delivered.",
+  alternates: { canonical: "/bundle" },
   openGraph: {
     title: "All 96 Beats. $79. — Sneakz & Beatz Producer Bundle",
     description:

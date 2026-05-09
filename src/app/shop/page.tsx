@@ -9,6 +9,7 @@ export const metadata = {
   title: "Shop — Beats & Merch — Sneakz & Beatz",
   description:
     "S&B Shop — producer-grade beats ($34.99 lease, The Vault bundle starting at $79, exclusive ownership) and color-matched merch (heavyweight tee, hoodie, dad cap, track shorts). Beats live now. Merch pre-order opens August 1, 2026.",
+  alternates: { canonical: "/shop" },
 };
 
 export default function ShopPage() {

@@ -9,6 +9,7 @@ export const metadata = {
   title: "Community — Sneakz & Beatz",
   description:
     "The Sneakz & Beatz Discord — chat with the producers, get updates on drops, vote in the $10K Rap Challenge, claim member-only bonuses (free beats, kit previews, early access).",
+  alternates: { canonical: "/community" },
 };
 
 const CHANNELS = [

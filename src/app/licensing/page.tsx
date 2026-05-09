@@ -6,6 +6,7 @@ export const metadata = {
   title: "Beat Licensing — Sneakz & Beatz",
   description:
     "Lease, Premium Lease, and Exclusive licensing terms for every beat in the Sneakz & Beatz LLC catalog.",
+  alternates: { canonical: "/licensing" },
 };
 
 export default function LicensingPage() {

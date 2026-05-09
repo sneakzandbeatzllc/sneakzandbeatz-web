@@ -6,6 +6,7 @@ export const metadata = {
   title: "DMCA Policy — Sneakz & Beatz",
   description:
     "Sneakz & Beatz DMCA takedown procedure for copyright owners and counter-notice process for users.",
+  alternates: { canonical: "/dmca" },
 };
 
 export default function DMCAPage() {

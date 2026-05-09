@@ -8,6 +8,7 @@ export const metadata = {
   title: "Producer Kits — Sneakz & Beatz",
   description:
     "S&amp;B drum kits, sample packs, melody loops, and Serum presets — built by Sneakz & Beatz for the next generation of beatmakers.",
+  alternates: { canonical: "/producer-kits" },
 };
 
 const KITS: { tag: string; title: string; tease: string; price: string }[] = [

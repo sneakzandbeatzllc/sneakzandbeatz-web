@@ -8,6 +8,7 @@ export const metadata = {
   title: "S&B Girls Program — Sneakz & Beatz",
   description:
     "S&B Girls is the contracted ambassador program for the Sneakz & Beatz brand. Body-confident lifestyle content in S&B merch + matching Jordan retros. $500–$1K per month, 90 or 180-day contract term, 18+ only.",
+  alternates: { canonical: "/creators" },
 };
 
 export default function CreatorsPage() {

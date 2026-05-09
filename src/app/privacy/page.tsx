@@ -6,6 +6,7 @@ export const metadata = {
   title: "Privacy Policy — Sneakz & Beatz",
   description:
     "How Sneakz & Beatz LLC collects, uses, and protects your information.",
+  alternates: { canonical: "/privacy" },
 };
 
 export default function PrivacyPage() {

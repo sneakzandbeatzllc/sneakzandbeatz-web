@@ -8,6 +8,7 @@ export const metadata = {
   title: "Submit Your Entry — $10K Rap Challenge — Sneakz & Beatz",
   description:
     "Submit your rap entry for the Sneakz & Beatz $10K Rap Challenge. Upload your recording link, confirm your beat, follow socials, opt in explicitly, agree to the official rules.",
+  alternates: { canonical: "/rap-challenge/submit" },
 };
 
 // FLAG: flip to true once the funding threshold (250 waitlist signups) is hit

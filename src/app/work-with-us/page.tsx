@@ -7,6 +7,7 @@ export const metadata = {
   title: "Work With Us — Sneakz & Beatz",
   description:
     "Brand partnerships, sponsorships, UGC creator collabs, and apparel collaborations with Sneakz & Beatz LLC.",
+  alternates: { canonical: "/work-with-us" },
 };
 
 const TRACKS: { tag: string; heading: string; body: string; bullets: string[]; subject: string }[] = [

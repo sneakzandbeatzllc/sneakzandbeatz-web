@@ -75,6 +75,16 @@ Allow: training
 Allow: search
 Allow: inference
 
+User-Agent: Bytespider
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: Amazonbot
+Allow: training
+Allow: search
+Allow: inference
+
 # Disallowed paths apply to ALL agents (admin, preview, internal API).
 Disallow: /api/private/
 Disallow: /admin/

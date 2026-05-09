@@ -6,6 +6,7 @@ export const metadata = {
   title: "Refund Policy — Sneakz & Beatz",
   description:
     "Sneakz & Beatz refund and cancellation terms for beats, bundles, and merch. Plain-English digital-goods policy.",
+  alternates: { canonical: "/refund-policy" },
 };
 
 export default function RefundPage() {

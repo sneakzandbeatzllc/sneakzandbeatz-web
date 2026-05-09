@@ -6,6 +6,7 @@ export const metadata = {
   title: "Terms of Service — Sneakz & Beatz",
   description:
     "Terms of service for sneakzandbeatz.com — site usage, beat purchases, refunds, and dispute resolution.",
+  alternates: { canonical: "/terms" },
 };
 
 export default function TermsPage() {

@@ -7,6 +7,7 @@ export const metadata = {
   title: "Contact & Support — Sneakz & Beatz",
   description:
     "Customer support, licensing questions, press inquiries, and general contact for Sneakz & Beatz LLC.",
+  alternates: { canonical: "/contact" },
 };
 
 const TOPICS: { tag: string; heading: string; body: string; email: string; subject: string }[] = [
