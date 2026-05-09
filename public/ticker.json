@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T01:50:46+00:00",
+  "generated_utc": "2026-05-09T02:43:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Nick Cannon’s Business Accountant Stole $2M From Him & Fled To Uganda, Feds Charge",
+      "url": "https://allhiphop.com/news/nick-cannons-business-accountant-stole-2m-from-fled-to-uganda-feds-charge/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Foolio Murder Trial Ends With Guilty Verdict For Four Men",
       "url": "https://allhiphop.com/news/foolio-murder-trial-ends-with-guilty-verdict-for-four-men/",
       "pillar": "hiphop",
@@ -109,9 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Tennessee Redistricting Fight Is Political Battlefield Everyone Should Be Watching",
-      "url": "https://thesource.com/2026/05/08/tennessee-redistricting-fight-is-political-battlefield-everyone-should-be-watching/",
-      "pillar": "hiphop",
+      "title": "Solo Leveling Meets Food Wars In Streaming's Wildest New Power Fantasy (Exclusive)",
+      "url": "https://screenrant.com/solo-leveling-food-wars-the-legend-of-kitchen-soldier/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -137,20 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Chainsaw Man Studio's Underrated Isekai Anime Gem Is Still The Genre's Biggest Evolution In 14 Years",
-      "url": "https://screenrant.com/campfire-cooking-another-world-isekai-anime-biggest-evolution/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Frieren: Beyond Journey's End Is Netflix's Official Answer To Lord of the Rings",
-      "url": "https://screenrant.com/frieren-netflix-official-lord-of-the-rings-best-fantasy/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Kiminori Wakasugi's That Time I Got Reincarnated in PES Manga Ends",
       "url": "https://www.animenewsnetwork.com/news/2026-05-08/kiminori-wakasugi-that-time-i-got-reincarnated-in-pes-manga-ends/.237179",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Sekiro anime gets new-look artwork and an official theatrical release",
       "url": "https://www.polygon.com/sekiro-no-defeat-anime-theatrical-release-2026-new-look/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Vertex Force Original Anime Reveals October Debut, Main Staff, Teaser Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-08/vertex-force-original-anime-reveals-october-debut-main-staff-teaser-video/.237187",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T01:50:46+00:00",
+  "generated_utc": "2026-05-09T02:43:05+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "cd4c0ed13416",
+      "pillar": "hiphop",
+      "title": "Nick Cannon’s Business Accountant Stole $2M From Him & Fled To Uganda, Feds Charge",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/nick-cannons-business-accountant-stole-2m-from-fled-to-uganda-feds-charge/",
+      "thumbnail": "/drops/thumbs/cd4c0ed13416.jpg",
+      "published": "2026-05-08T22:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "93f0648b575b",
       "pillar": "hiphop",
       "title": "Foolio Murder Trial Ends With Guilty Verdict For Four Men",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "bc72b2ce316e",
-      "pillar": "hiphop",
-      "title": "Tennessee Redistricting Fight Is Political Battlefield Everyone Should Be Watching",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/08/tennessee-redistricting-fight-is-political-battlefield-everyone-should-be-watching/",
-      "thumbnail": "/drops/thumbs/bc72b2ce316e.jpg",
-      "published": "2026-05-08T10:33:09",
+      "id": "6db8d502dadd",
+      "pillar": "anime",
+      "title": "Solo Leveling Meets Food Wars In Streaming's Wildest New Power Fantasy (Exclusive)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-food-wars-the-legend-of-kitchen-soldier/",
+      "thumbnail": "/drops/thumbs/6db8d502dadd.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -231,30 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "a555d0b361d1",
-      "pillar": "anime",
-      "title": "Chainsaw Man Studio's Underrated Isekai Anime Gem Is Still The Genre's Biggest Evolution In 14 Years",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/campfire-cooking-another-world-isekai-anime-biggest-evolution/",
-      "thumbnail": "/drops/thumbs/a555d0b361d1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e61385a24bc5",
-      "pillar": "anime",
-      "title": "Frieren: Beyond Journey's End Is Netflix's Official Answer To Lord of the Rings",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/frieren-netflix-official-lord-of-the-rings-best-fantasy/",
-      "thumbnail": "/drops/thumbs/e61385a24bc5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "34b9126f799b",
       "pillar": "anime",
       "title": "Kiminori Wakasugi's That Time I Got Reincarnated in PES Manga Ends",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/sekiro-no-defeat-anime-theatrical-release-2026-new-look/",
       "thumbnail": "/drops/thumbs/ef3e62edd6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b70e253095b6",
+      "pillar": "anime",
+      "title": "Vertex Force Original Anime Reveals October Debut, Main Staff, Teaser Video",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-08/vertex-force-original-anime-reveals-october-debut-main-staff-teaser-video/.237187",
+      "thumbnail": "/drops/thumbs/b70e253095b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "93f0648b575b",
+    "cd4c0ed13416",
     "734fcf19716d",
-    "b49854e32e60",
+    "6db8d502dadd",
     "738c08af9884",
     "a1aa73f36714"
   ]
