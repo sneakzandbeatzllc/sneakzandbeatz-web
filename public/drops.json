@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T00:38:02+00:00",
+  "generated_utc": "2026-05-09T01:39:39+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "93f0648b575b",
+      "pillar": "hiphop",
+      "title": "Foolio Murder Trial Ends With Guilty Verdict For Four Men",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/foolio-murder-trial-ends-with-guilty-verdict-for-four-men/",
+      "thumbnail": "/drops/thumbs/93f0648b575b.png",
+      "published": "2026-05-08T21:38:21",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "90d0dc531706",
       "pillar": "hiphop",
       "title": "Rick Ross Reveals New Album “Set In Stone”",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/08/tennessee-redistricting-fight-is-political-battlefield-everyone-should-be-watching/",
       "thumbnail": "/drops/thumbs/bc72b2ce316e.jpg",
       "published": "2026-05-08T10:33:09",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d19dcb415369",
-      "pillar": "hiphop",
-      "title": "Floyd Mayweather Returns To International Ring In Greece, Contradicting Passport Claim",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/floyd-mayweather-returns-to-international-ring-in-greece-contradicting-passport-claim/",
-      "thumbnail": "/drops/thumbs/d19dcb415369.jpg",
-      "published": "2026-05-08T10:05:53",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "90d0dc531706",
+    "93f0648b575b",
     "734fcf19716d",
     "b49854e32e60",
     "738c08af9884",

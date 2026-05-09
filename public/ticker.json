@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T00:38:02+00:00",
+  "generated_utc": "2026-05-09T01:39:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Foolio Murder Trial Ends With Guilty Verdict For Four Men",
+      "url": "https://allhiphop.com/news/foolio-murder-trial-ends-with-guilty-verdict-for-four-men/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rick Ross Reveals New Album “Set In Stone”",
       "url": "https://allhiphop.com/news/rick-ross-reveals-new-album-set-in-stone/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Tennessee Redistricting Fight Is Political Battlefield Everyone Should Be Watching",
       "url": "https://thesource.com/2026/05/08/tennessee-redistricting-fight-is-political-battlefield-everyone-should-be-watching/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Floyd Mayweather Returns To International Ring In Greece, Contradicting Passport Claim",
-      "url": "https://allhiphop.com/news/floyd-mayweather-returns-to-international-ring-in-greece-contradicting-passport-claim/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
