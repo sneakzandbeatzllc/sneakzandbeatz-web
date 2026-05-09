@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T17:01:02+00:00",
+  "generated_utc": "2026-05-09T17:06:06+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "8b00059c2432",
+      "pillar": "hiphop",
+      "title": "Snoop Dogg Postpones Long Beach Cannabis Shop Opening",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/snoop-dogg-postpones-long-beach-cannabis-shop-opening/",
+      "thumbnail": "/drops/thumbs/8b00059c2432.png",
+      "published": "2026-05-09T13:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "12f262362715",
       "pillar": "hiphop",
       "title": "Sada Baby’s Legal Gamble Begins With Plea Reversal After Drug Bust",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/09/fear-of-god-adidas-athletics-iii-basketball-cinder-final-release/",
       "thumbnail": "/drops/thumbs/089bd8475100.jpg",
       "published": "2026-05-09T07:11:22",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7ef66ca0b404",
-      "pillar": "hiphop",
-      "title": "Teyana Taylor Enlists Wale for Sultry “Bed of Roses” Remix",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/09/teyana-taylor-wale-bed-of-roses-remix-def-jam/",
-      "thumbnail": "/drops/thumbs/7ef66ca0b404.png",
-      "published": "2026-05-09T06:47:46",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "12f262362715",
+    "8b00059c2432",
     "92560d50b61b",
     "a963425e7b31",
     "6c12965cb588",
