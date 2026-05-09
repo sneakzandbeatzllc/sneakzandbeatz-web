@@ -87,15 +87,10 @@ const STRUCTURED_DATA = {
       url: "https://www.sneakzandbeatz.com",
       name: "Sneakz & Beatz",
       publisher: { "@id": "https://www.sneakzandbeatz.com/#organization" },
-      potentialAction: {
-        "@type": "SearchAction",
-        // Points at /articles which is now a real index page (see app/articles/page.tsx).
-        target: {
-          "@type": "EntryPoint",
-          urlTemplate: "https://www.sneakzandbeatz.com/articles?q={search_term_string}",
-        },
-        "query-input": "required name=search_term_string",
-      },
+      // SearchAction intentionally omitted — Sneakz & Beatz does not run a
+      // unified site search. The Lane is editorial; the drops feed links out;
+      // beats has its own filtering UI. Adding a SearchAction back without a
+      // real search endpoint is worse than leaving it off.
     },
     {
       "@type": "PodcastSeries",

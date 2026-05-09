@@ -39,7 +39,6 @@ const STATIC_ROUTES: { path: string; priority: number; changeFrequency: Metadata
   { path: "/beats/free",       priority: 0.7, changeFrequency: "weekly" },
   { path: "/get-100-beats",    priority: 0.75, changeFrequency: "weekly" },
   { path: "/producer-kits",    priority: 0.7, changeFrequency: "weekly" },
-  { path: "/articles",         priority: 0.8, changeFrequency: "daily" },
   { path: "/privacy",          priority: 0.3, changeFrequency: "yearly" },
   { path: "/terms",            priority: 0.3, changeFrequency: "yearly" },
   { path: "/refund-policy",    priority: 0.3, changeFrequency: "yearly" },
