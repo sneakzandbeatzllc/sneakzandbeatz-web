@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T15:59:33+00:00",
+  "generated_utc": "2026-05-09T16:04:30+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "12f262362715",
+      "pillar": "hiphop",
+      "title": "Sada Baby’s Legal Gamble Begins With Plea Reversal After Drug Bust",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/sada-babys-legal-gamble-begins-with-plea-reversal-after-drug-bust/",
+      "thumbnail": "/drops/thumbs/12f262362715.jpg",
+      "published": "2026-05-09T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "710b64005cff",
+      "pillar": "hiphop",
+      "title": "‘Broceries’: Boston woman orders Gillette razor refills. Then her grocery delivery arrives. The driver got the right thing—there’s just one problem",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/gillette-razors-male-grocery-delivery-driver/",
+      "thumbnail": "/drops/thumbs/710b64005cff.jpg",
+      "published": "2026-05-09T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "afb2be207d62",
       "pillar": "hiphop",
       "title": "Diddy Had Secret Freaky Royal Connection To Sarah Ferguson Says New Book",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/05/09/teyana-taylor-wale-bed-of-roses-remix-def-jam/",
       "thumbnail": "/drops/thumbs/7ef66ca0b404.png",
       "published": "2026-05-09T06:47:46",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "18284e1d5d59",
-      "pillar": "hiphop",
-      "title": "Blxst Announces New Self-Produced Album ‘Labor of Love’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/09/blxst-announces-new-album-labor-of-love-june-12/",
-      "thumbnail": "/drops/thumbs/18284e1d5d59.jpg",
-      "published": "2026-05-09T06:06:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c20dbbb0cb60",
-      "pillar": "hiphop",
-      "title": "‘I dont blame her for not trusting you’: California man helps woman at the bar. Then his girl goes off on him on speaker in the Uber. You won’t believe what happens next",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/help-at-malarkys-uber-fight-hinge-date/",
-      "thumbnail": "/drops/thumbs/c20dbbb0cb60.jpg",
-      "published": "2026-05-09T06:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "1980b7e31479",
+      "id": "9700e2a52731",
       "pillar": "anime",
-      "title": "10 Best Action Anime Heroes Who Don't Kill",
+      "title": "10 Iconic New-Gen Manga That Need Anime After Kagurabachi",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/10-best-action-anime-heroes-who-dont-kill/",
-      "thumbnail": "/drops/thumbs/1980b7e31479.png",
+      "source_url": "https://screenrant.com/new-gen-manga-need-anime-after-kagurabachi/",
+      "thumbnail": "/drops/thumbs/9700e2a52731.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "afb2be207d62",
+    "12f262362715",
     "92560d50b61b",
     "a963425e7b31",
     "6c12965cb588",
