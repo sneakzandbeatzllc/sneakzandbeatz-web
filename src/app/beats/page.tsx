@@ -16,7 +16,7 @@ export const metadata = {
     description:
       "96 mastered beats. East Coast, West Coast, Trap, Rage, Free. Lease, buy, or get the $79 Vault.",
     type: "website",
-    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    // images intentionally omitted — file-based opengraph-image.tsx wins.
   },
 };
 

@@ -137,7 +137,11 @@ export default function DropsFeed({
                 {d.thumbnail ? (
                   <img
                     src={d.thumbnail}
-                    alt=""
+                    // Descriptive alt = headline + pillar so screen readers
+                    // and image-search bots both get useful context. Was
+                    // alt="" which read as decorative — wrong, the imagery
+                    // IS the story on a culture site.
+                    alt={`${d.title} — ${PILLAR_LABELS[d.pillar]}`}
                     loading={idx < 6 ? "eager" : "lazy"}
                     fetchPriority={idx < 3 ? "high" : "auto"}
                     decoding="async"

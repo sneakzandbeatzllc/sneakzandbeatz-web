@@ -16,7 +16,7 @@ export const metadata = {
     description:
       "Submit a rap. Win $10K. $2,500 cash + PS5 Pro + $500 StockX + custom sneaker + more. Free with the Vault, free via AMOE.",
     type: "website",
-    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    // images intentionally omitted — file-based opengraph-image.tsx wins.
   },
 };
 

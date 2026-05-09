@@ -15,7 +15,7 @@ export const metadata = {
     description:
       "Black-owned culture brand. Founder PHRHX. Four pillars: sneakers, hip-hop, anime, gaming. Operated from San Diego.",
     type: "website",
-    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    // images intentionally omitted — file-based opengraph-image.tsx wins.
   },
 };
 
