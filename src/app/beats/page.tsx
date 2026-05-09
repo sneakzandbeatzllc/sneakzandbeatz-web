@@ -3,6 +3,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import BeatCatalog from "@/components/BeatCatalog";
 import { BEATS, CATEGORIES, getBeatsForDisplay } from "@/data/beats";
+import { jsonLd, beatCatalogItemList } from "@/lib/schema";
 
 export const metadata = {
   title: "Beat Store",
@@ -26,6 +27,27 @@ export default function BeatsPage() {
 
   return (
     <>
+      {/* JSON-LD: ItemList of MusicRecording / Offer per beat. AI engines
+          and Google use this to surface the catalog in shopping/music
+          rich results. Cap at 30 to keep payload reasonable. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(
+          beatCatalogItemList(
+            BEATS.map((b) => ({
+              id: b.id,
+              slug: b.slug,
+              title: b.title,
+              bpm: b.bpm ?? undefined,
+              durationSec: b.durationSec ?? undefined,
+              isFree: b.isFree,
+              priceUsd: b.priceUSD,
+              categoryLabel: b.categoryLabel,
+            })),
+            30,
+          ),
+        )}
+      />
       <Header />
 
       <section className="beat-store-hero">

@@ -3,6 +3,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { STRIPE_LINKS } from "@/data/stripe-links";
 import { EMAILS, mailto } from "@/data/contact-emails";
+import { jsonLd, rapChallengeEvent, faqPage } from "@/lib/schema";
 
 export const metadata = {
   title: "The $10K Rap Challenge",
@@ -152,6 +153,16 @@ const FAQ = [
 export default function RapChallengePage() {
   return (
     <>
+      {/* JSON-LD: Event with the four entry-tier offers + FAQPage built from
+          the FAQ array on this page. AI engines + Google Events use this. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(rapChallengeEvent())}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(faqPage(FAQ))}
+      />
       <Header />
 
       <main className="rap-challenge">

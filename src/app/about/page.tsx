@@ -2,6 +2,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { EMAILS, mailto } from "@/data/contact-emails";
+import { jsonLd, phrhxPerson } from "@/lib/schema";
 
 export const metadata = {
   title: "About PHRHX & Sneakz & Beatz",
@@ -21,6 +22,12 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <>
+      {/* JSON-LD: Person schema for PHRHX. Builds the founder entity for
+          AI search and Google Knowledge Graph. References Org by @id. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(phrhxPerson())}
+      />
       <Header />
 
       <section className="container legal-page">

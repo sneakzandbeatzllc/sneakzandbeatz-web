@@ -6,6 +6,7 @@ import ShowArchiveCard from "@/components/ShowArchiveCard";
 import { EMAILS, mailto } from "@/data/contact-emails";
 import { SOCIAL } from "@/data/social";
 import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
+import { jsonLd, podcastEpisodeList } from "@/lib/schema";
 
 export const metadata = {
   title: "The PHRHX Show",
@@ -70,6 +71,12 @@ export default async function ShowPage() {
 
   return (
     <>
+      {/* JSON-LD: PodcastEpisode list (12 latest) for AI engines + Google
+          Podcast results. PodcastSeries graph node lives in app/page.tsx. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(podcastEpisodeList(videos))}
+      />
       <Header />
 
       <section className="container legal-page show-page-hero">

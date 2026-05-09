@@ -15,9 +15,14 @@
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { jsonLd, articleSchema, faqPage } from "@/lib/schema";
 
 export const metadata = {
-  title: "The Lane — Why Sneakz & Beatz Exists (and Where It Sits)",
+  // Title already mentions the brand — use `absolute` so the layout's
+  // " — Sneakz & Beatz" template doesn't tack on a duplicate suffix.
+  title: {
+    absolute: "The Lane — Why Sneakz & Beatz Exists (and Where It Sits)",
+  },
   description:
     "Sneakz & Beatz is the Black-owned editorial brand for sneakerheads who live hip-hop, anime, and gaming. The lane Hypebeast and Joe Budden don't fully cover. Here's the map.",
   alternates: { canonical: "/the-lane" },
@@ -218,23 +223,35 @@ export default function TheLanePage() {
           </ul>
         </section>
 
-        {/* JSON-LD: FAQPage schema for AI engines */}
+        {/* JSON-LD: Article (so AI engines treat /the-lane as a citable
+            essay) + FAQPage (rich-result eligible). Author + publisher
+            reference the homepage Organization graph by @id. */}
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "FAQPage",
-              mainEntity: FAQ.map((item) => ({
-                "@type": "Question",
-                name: item.q,
-                acceptedAnswer: {
-                  "@type": "Answer",
-                  text: item.a,
-                },
-              })),
+          dangerouslySetInnerHTML={jsonLd(
+            articleSchema({
+              url: "https://www.sneakzandbeatz.com/the-lane",
+              headline:
+                "The Lane — Why Sneakz & Beatz Exists (and Where It Sits)",
+              description:
+                "Black-owned editorial-commerce brand at the intersection of sneakers, hip-hop, anime, and gaming. The competitor matrix and why this lane was empty until 2026.",
+              datePublished: "2026-04-23",
+              dateModified: "2026-05-08",
+              keywords: [
+                "Black-owned culture brand",
+                "sneakers hip-hop anime gaming",
+                "Sneakz and Beatz",
+                "PHRHX",
+                "Hypebeast alternative",
+                "Joe Budden alternative",
+                "editorial commerce",
+              ],
             }),
-          }}
+          )}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={jsonLd(faqPage(FAQ))}
         />
       </main>
 

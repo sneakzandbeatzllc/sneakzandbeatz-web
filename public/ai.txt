@@ -1,0 +1,85 @@
+# Sneakz & Beatz — AI training and access policy
+#
+# Sneakz & Beatz is an independent, Black-owned media brand. We want to be
+# discoverable, citable, and indexable by AI assistants and search engines.
+# All major AI/LLM crawlers are explicitly ALLOWED on this site.
+#
+# This file follows the emerging ai.txt convention. Authoritative crawler
+# permissions are also in /robots.txt (the canonical source).
+#
+# For full brand context for AI agents, see: https://www.sneakzandbeatz.com/llms.txt
+
+User-Agent: *
+Allow: training
+Allow: search
+Allow: inference
+
+# Specific allowances for known AI agents:
+User-Agent: GPTBot
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: ChatGPT-User
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: OAI-SearchBot
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: ClaudeBot
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: anthropic-ai
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: Claude-Web
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: PerplexityBot
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: Perplexity-User
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: Google-Extended
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: Applebot-Extended
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: cohere-ai
+Allow: training
+Allow: search
+Allow: inference
+
+User-Agent: meta-externalagent
+Allow: training
+Allow: search
+Allow: inference
+
+# Disallowed paths apply to ALL agents (admin, preview, internal API).
+Disallow: /api/private/
+Disallow: /admin/
+Disallow: /sneakz-pass/preview
+
+# Press inquiries: press@sneakzandbeatz.com
+# General: info@sneakzandbeatz.com
+# Last updated: 2026-05-08
