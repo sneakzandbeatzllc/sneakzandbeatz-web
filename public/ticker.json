@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T06:55:19+00:00",
+  "generated_utc": "2026-05-09T07:58:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -11,10 +11,17 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “BIN 23” Releases June 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-bin-23/",
+      "title": "Travis Scott x Air Jordan 1 Low OG “Tropical Pink” Releases May 2026",
+      "url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-sail-tropical-pink-2026/",
       "pillar": "sneakers",
-      "score": 6.0,
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott x Air Jordan 1 Low OG “Shy Pink” Releases May 2026",
+      "url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -32,31 +39,24 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High OG “Shop Jacket” (Workwear) Releases May 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-workwear/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “Brazil” Releases May 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-brazil-world-cup-2026/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Travis Scott x Air Jordan 1 Low OG “Tropical Pink” Releases May 29th",
-      "url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-sail-tropical-pink-2026/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Travis Scott x Air Jordan 1 Low OG “Muslin/Shy Pink” Releases May 29th",
       "url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 13 “Flint” Returns August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-13-flint-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 9 OG “Space Jam” Returns August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {

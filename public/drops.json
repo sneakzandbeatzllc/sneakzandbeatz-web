@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T06:55:19+00:00",
+  "generated_utc": "2026-05-09T07:58:34+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -15,16 +15,28 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "734fcf19716d",
+      "id": "92560d50b61b",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” Releases June 2026",
+      "title": "Travis Scott x Air Jordan 1 Low OG “Tropical Pink” Releases May 2026",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-bin-23/",
-      "thumbnail": "/drops/thumbs/734fcf19716d.jpg",
-      "published": "2026-05-05T12:14:54",
+      "source_url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-sail-tropical-pink-2026/",
+      "thumbnail": "/drops/thumbs/92560d50b61b.jpg",
+      "published": "2026-05-09T00:47:14",
       "relative_time": "today",
-      "score": 6.0,
-      "release_badge": "🔥 Banger"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "6c12965cb588",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low OG “Shy Pink” Releases May 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
+      "thumbnail": "/drops/thumbs/6c12965cb588.jpg",
+      "published": "2026-05-09T00:37:50",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "738c08af9884",
@@ -51,42 +63,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "7d4dc371b041",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Shop Jacket” (Workwear) Releases May 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-workwear/",
-      "thumbnail": "/drops/thumbs/7d4dc371b041.jpg",
-      "published": "2026-05-05T13:05:26",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "145fb18ccdb6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Brazil” Releases May 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-brazil-world-cup-2026/",
-      "thumbnail": "/drops/thumbs/145fb18ccdb6.jpg",
-      "published": "2026-05-05T12:46:36",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "cf2a65bbc625",
-      "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low OG “Tropical Pink” Releases May 29th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-sail-tropical-pink-2026/",
-      "thumbnail": "/drops/thumbs/cf2a65bbc625.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "adc2f1a5ed75",
       "pillar": "sneakers",
       "title": "Travis Scott x Air Jordan 1 Low OG “Muslin/Shy Pink” Releases May 29th",
@@ -97,6 +73,30 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "343d7df100fa",
+      "pillar": "sneakers",
+      "title": "Air Jordan 13 “Flint” Returns August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-13-flint-2026/",
+      "thumbnail": "/drops/thumbs/343d7df100fa.jpg",
+      "published": "2026-05-08T22:32:24",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "796e1bf65859",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 OG “Space Jam” Returns August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
+      "thumbnail": "/drops/thumbs/796e1bf65859.jpg",
+      "published": "2026-05-08T12:39:12",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "975e0eb832ea",
@@ -390,9 +390,9 @@
   "homepage": [
     "8cf8b4554bae",
     "975e0eb832ea",
-    "734fcf19716d",
+    "92560d50b61b",
     "6db8d502dadd",
-    "738c08af9884",
+    "6c12965cb588",
     "a1aa73f36714"
   ]
 }
