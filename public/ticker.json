@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T08:30:02+00:00",
+  "generated_utc": "2026-05-09T08:58:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,13 +20,6 @@
     {
       "title": "Travis Scott x Air Jordan 1 Low OG “Shy Pink” Releases May 2026",
       "url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “World’s Best Dad” Releases May 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-worlds-best-dad/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -57,6 +50,27 @@
       "url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "J Balvin’s Air Jordan 1 “Black” Sample Revealed At OMERTA Release Party",
+      "url": "https://sneakerbardetroit.com/j-balvin-air-jordan-1-black-sample/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "‘The Chi’ Prepares for Final Chapter with Season 8 Premiere on Paramount+",
+      "url": "https://thesource.com/2026/05/09/the-chi-season-8-final-season-trailer-paramount-plus/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rap Snacks and BlockWork TV Launch National Search for Next Hip Hop Star",
+      "url": "https://thesource.com/2026/05/09/rap-snacks-blockwork-tv-national-rapper-search-tour/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -97,20 +111,6 @@
     {
       "title": "50 Cent’s London Boxing Drama Fightland Hits Starz in July",
       "url": "https://allhiphop.com/news/50-cents-london-boxing-drama-fightland-hits-starz-in-july/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Beyoncé Music Theft Case: “I’m Ready For Trial Now”",
-      "url": "https://allhiphop.com/news/beyonce-music-theft-case-im-ready-for-trial-now/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Out Today: 6LACK Brings Young Thug Into His World on “Ashin’ the Blunt”",
-      "url": "https://thesource.com/2026/05/08/out-today-6lack-brings-young-thug-into-his-world-on-ashin-the-blunt/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null

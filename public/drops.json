@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T08:30:02+00:00",
+  "generated_utc": "2026-05-09T08:58:24+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -34,18 +34,6 @@
       "source_url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
       "thumbnail": "/drops/thumbs/6c12965cb588.jpg",
       "published": "2026-05-09T00:37:50",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "738c08af9884",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “World’s Best Dad” Releases May 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-worlds-best-dad/",
-      "thumbnail": "/drops/thumbs/738c08af9884.jpg",
-      "published": "2026-05-05T13:43:28",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -96,6 +84,42 @@
       "published": "2026-05-06T13:25:08",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "08aec1a23e2f",
+      "pillar": "sneakers",
+      "title": "J Balvin’s Air Jordan 1 “Black” Sample Revealed At OMERTA Release Party",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/j-balvin-air-jordan-1-black-sample/",
+      "thumbnail": "/drops/thumbs/08aec1a23e2f.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7e8da642bd75",
+      "pillar": "hiphop",
+      "title": "‘The Chi’ Prepares for Final Chapter with Season 8 Premiere on Paramount+",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/09/the-chi-season-8-final-season-trailer-paramount-plus/",
+      "thumbnail": "/drops/thumbs/7e8da642bd75.jpg",
+      "published": "2026-05-09T03:17:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5eadc1ce0df0",
+      "pillar": "hiphop",
+      "title": "Rap Snacks and BlockWork TV Launch National Search for Next Hip Hop Star",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/09/rap-snacks-blockwork-tv-national-rapper-search-tour/",
+      "thumbnail": "/drops/thumbs/5eadc1ce0df0.jpg",
+      "published": "2026-05-09T00:17:00",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/50-cents-london-boxing-drama-fightland-hits-starz-in-july/",
       "thumbnail": "/drops/thumbs/eb0fd6e4c5ea.png",
       "published": "2026-05-08T14:00:19",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1e0af7951c9a",
-      "pillar": "hiphop",
-      "title": "Beyoncé Music Theft Case: “I’m Ready For Trial Now”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/beyonce-music-theft-case-im-ready-for-trial-now/",
-      "thumbnail": "/drops/thumbs/1e0af7951c9a.jpg",
-      "published": "2026-05-08T13:00:50",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3b6a82a80202",
-      "pillar": "hiphop",
-      "title": "Out Today: 6LACK Brings Young Thug Into His World on “Ashin’ the Blunt”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/08/out-today-6lack-brings-young-thug-into-his-world-on-ashin-the-blunt/",
-      "thumbnail": "/drops/thumbs/3b6a82a80202.jpg",
-      "published": "2026-05-08T12:26:36",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "975e0eb832ea",
+    "7e8da642bd75",
     "92560d50b61b",
     "6db8d502dadd",
     "6c12965cb588",
