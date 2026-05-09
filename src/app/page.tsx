@@ -22,7 +22,7 @@ export const metadata = {
       "Sneakz & Beatz — Sneakers, Hip-Hop, Anime, Gaming. Black-owned culture brand.",
   },
   description:
-    "Sneakz & Beatz is the editorial home for Black sneakerheads who live hip-hop, anime, and gaming. The PHRHX Show, 96 mastered beats, the $79 Vault, the $10K Rap Challenge.",
+    "Sneakz & Beatz is the editorial home for sneakerheads who live hip-hop, anime, and gaming. The PHRHX Show, 96 mastered beats, the $79 Vault, the $10K Rap Challenge.",
   alternates: { canonical: "https://www.sneakzandbeatz.com" },
   openGraph: {
     title: "Sneakz & Beatz — Sneakers, Hip-Hop, Anime, Gaming",

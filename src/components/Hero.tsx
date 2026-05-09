@@ -18,9 +18,8 @@ export default function Hero() {
             Collide.
           </h1>
           <p className="lead">
-            For Black sneakerheads who live hip-hop, anime, and gaming. Drops,
-            beats, episodes, and the stories shaping the culture — before
-            everyone else catches on.
+            For sneakerheads who live hip-hop, anime, and gaming. Drops, beats,
+            episodes, and the stories shaping the culture.
           </p>
           <div className="hero-ctas">
             {/* Single primary CTA — most-monetizable wedge. */}

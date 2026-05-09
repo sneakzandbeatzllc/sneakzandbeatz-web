@@ -8,13 +8,13 @@ import { jsonLd, rapChallengeEvent, faqPage } from "@/lib/schema";
 export const metadata = {
   title: "The $10K Rap Challenge",
   description:
-    "Submit a rap over a Sneakz & Beatz beat. Grand prize: $2,500 cash + PS5 Pro + $500 StockX + custom sneaker + monthly exclusive beats + paid IG promo + merch + more. Bundle and challenge entry are separate — enter the challenge by opting in.",
+    "Submit a verse over a Sneakz & Beatz beat. Grand prize: $2,500 cash + PS5 Pro + $500 StockX + custom sneaker + monthly exclusive beats + paid IG promo + merch + more. Bundle and challenge entry are separate — enter the challenge by opting in.",
   alternates: { canonical: "/rap-challenge" },
   openGraph: {
     url: "https://www.sneakzandbeatz.com/rap-challenge",
     title: "The $10K Rap Challenge — Sneakz & Beatz",
     description:
-      "Submit a rap. Win $10K. $2,500 cash + PS5 Pro + $500 StockX + custom sneaker + more. Free with the Vault, free via AMOE.",
+      "Submit a verse. Win $10K. $2,500 cash + PS5 Pro + $500 StockX + custom sneaker + more. Free with the Vault, free via AMOE.",
     type: "website",
     // images intentionally omitted — file-based opengraph-image.tsx wins.
   },
@@ -171,7 +171,7 @@ export default function RapChallengePage() {
           <div className="container">
             <span className="rap-eyebrow">⚡ The $10K Rap Challenge · Waitlist Open</span>
             <h1 className="rap-headline">
-              Submit a rap. <span className="accent">Win a $10K prize package.</span>
+              Submit a verse. <span className="accent">Win a $10K prize package.</span>
             </h1>
             <p className="rap-sub">
               <strong>$2,500 cash</strong> (Cash App / Zelle / check). <strong>PS5 Pro</strong>.{" "}

@@ -5,7 +5,7 @@ import { SOCIAL } from "@/data/social";
 export const metadata = {
   title: "Sneakz & Beatz — Every offer in one place",
   description:
-    "The $79 Vault Bundle. The PHRHX Show. The $10K Rap Challenge. Sneakz Pass. Free beats. Every door into the brand for Black sneakerheads who live hip-hop, anime, and gaming.",
+    "The $79 Vault Bundle. The PHRHX Show. The $10K Rap Challenge. Sneakz Pass. Free beats. Every door into the brand for sneakerheads who live hip-hop, anime, and gaming.",
   alternates: { canonical: "/sb" },
 };
 

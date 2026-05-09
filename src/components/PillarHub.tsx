@@ -43,6 +43,9 @@ export type PillarHubProps = {
   secondaryCta?: PillarCta;
   /** Pillar key — used to fetch matching Substack posts. */
   pillarKey?: NonNullable<SubstackPost["pillar"]>;
+  /** Optional pillar-specific section rendered after "What We Cover".
+      Used by /hiphop to inject the tailored Beat Store + Bundle block. */
+  extraSection?: React.ReactNode;
 };
 
 export default async function PillarHub({
@@ -57,6 +60,7 @@ export default async function PillarHub({
   },
   secondaryCta,
   pillarKey,
+  extraSection,
 }: PillarHubProps) {
   const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
   const ctaIsExternal = primaryCta.href.startsWith("http");
@@ -131,6 +135,9 @@ export default async function PillarHub({
             ))}
           </div>
         </section>
+
+        {/* Optional pillar-specific section (e.g. Hip-Hop's Beat Store + Bundle block) */}
+        {extraSection}
 
         {/* Old "Today's Drops" cycles section removed — DropsFeed above
             covers that now with a better UX (thumbs + outbound links). */}

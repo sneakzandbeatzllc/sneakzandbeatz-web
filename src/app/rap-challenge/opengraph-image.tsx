@@ -50,7 +50,7 @@ export default async function OGImage() {
               letterSpacing: "-0.03em",
             }}
           >
-            Submit a rap.
+            Submit a verse.
             <br />
             Win $10K.
           </div>

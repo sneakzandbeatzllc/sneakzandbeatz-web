@@ -6,11 +6,11 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "Sneakz & Beatz — For Black Sneakerheads Who Live Hip-Hop, Anime & Gaming",
+    default: "Sneakz & Beatz — For Sneakerheads Who Live Hip-Hop, Anime & Gaming",
     template: "%s — Sneakz & Beatz",
   },
   description:
-    "Sneakz & Beatz is the editorial home for Black sneakerheads who live hip-hop, anime, and gaming. Black-owned culture brand. Watch The PHRHX Show, get 100 mastered beats for $79, win $10K in the Rap Challenge.",
+    "Sneakz & Beatz is the editorial home for sneakerheads who live hip-hop, anime, and gaming. Black-owned culture brand. Watch The PHRHX Show, get 100 mastered beats for $79, win $10K in the Rap Challenge.",
   metadataBase: new URL("https://www.sneakzandbeatz.com"),
   alternates: { canonical: "/" },
   keywords: [
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     apple: { url: "/logo-mark-256.png" },
   },
   openGraph: {
-    title: "Sneakz & Beatz — For Black Sneakerheads Who Live Hip-Hop, Anime & Gaming",
+    title: "Sneakz & Beatz — For Sneakerheads Who Live Hip-Hop, Anime & Gaming",
     description:
       "Black-owned culture brand. The PHRHX Show, 96 mastered beats, the $79 Vault, the $10K Rap Challenge. Sneakers leads. Then hip-hop, anime, gaming.",
     url: "https://www.sneakzandbeatz.com",
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     creator: "@sneakz_beatz",
     title: "Sneakz & Beatz",
     description:
-      "For Black sneakerheads who live hip-hop, anime, and gaming. Black-owned culture brand. The PHRHX Show. 96 beats for $79. $10K Rap Challenge.",
+      "For sneakerheads who live hip-hop, anime, and gaming. Black-owned culture brand. The PHRHX Show. 96 beats for $79. $10K Rap Challenge.",
     // images omitted — falls back to og:image automatically.
   },
   robots: {

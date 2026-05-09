@@ -1,13 +1,13 @@
 import PillarHub from "@/components/PillarHub";
 
 export const metadata = {
-  title: "Anime — Black Anime Fan Culture, Hip-Hop Crossover, Best Anime for Sneakerheads",
+  title: "Anime — Hip-Hop Crossover, Best Anime for Sneakerheads",
   description:
-    "Anime releases, manga reports, industry shifts, and the hip-hop crossover. Anime for Black sneakerheads who live the culture.",
+    "Anime releases, manga reports, industry shifts, and the hip-hop crossover. Anime for sneakerheads who live the culture.",
   alternates: { canonical: "/anime" },
   openGraph: {
     title: "Anime — Sneakz & Beatz",
-    description: "Anime for Black sneakerheads who live hip-hop. The crossover lane nobody else covers.",
+    description: "Anime for sneakerheads who live hip-hop. The crossover lane nobody else covers.",
     url: "https://www.sneakzandbeatz.com/anime",
     siteName: "Sneakz & Beatz",
     type: "website",

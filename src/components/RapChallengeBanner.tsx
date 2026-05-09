@@ -52,7 +52,7 @@ export default function RapChallengeBanner() {
               lineHeight: 1.15,
             }}
           >
-            Submit a rap. Win a $10K prize package.
+            Submit a verse. Win a $10K prize package.
           </h2>
           <p
             style={{
@@ -77,7 +77,7 @@ export default function RapChallengeBanner() {
               border: "1px solid #0F0F12",
             }}
           >
-            Submit A Rap. Win $10K
+            Submit A Verse. Win $10K
           </Link>
           <Link
             href="/beats/bundles"

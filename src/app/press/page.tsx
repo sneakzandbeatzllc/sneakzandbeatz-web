@@ -29,7 +29,7 @@ const FACTS: Array<[string, string]> = [
   ["Founder · CEO", "PHRHX (Raymond Miller)"],
   ["Team", "Founder + Trend Researcher + Social Media Manager + Video Editor"],
   ["Pillars", "Sneakers · Hip-Hop · Anime · Gaming"],
-  ["Audience", "Black sneakerheads who live hip-hop, anime, and gaming (1.6–2.3M global TAM)"],
+  ["Audience", "Sneakerheads who live hip-hop, anime, and gaming (1.6–2.3M global TAM)"],
   ["Products", "$10K Rap Challenge · The PHRHX Show · 96-beat catalog · $79 Vault Bundle · Sneakz Pass ($12/mo, launches Oct 1, 2026)"],
   ["Channels", "sneakzandbeatz.com · IG @sneakz_beatz · TikTok @SneakzandBeatzOfficial · YouTube The PHRHX Show · Substack · Discord"],
 ];
@@ -83,7 +83,7 @@ export default function PressPage() {
             lifers, and gaming heads.
           </p>
           <p className="press-p">
-            The thesis: Black sneakerheads who live hip-hop, anime, and gaming have
+            The thesis: sneakerheads who live hip-hop, anime, and gaming have
             never had an editorial home. Hypebeast doesn&rsquo;t do anime. Joe Budden
             doesn&rsquo;t do sneakers. RDC World does sketch comedy, not editorial
             commerce. The lane is empty. Sneakz &amp; Beatz fills it. The voice is

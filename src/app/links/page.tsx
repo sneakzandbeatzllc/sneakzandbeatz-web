@@ -99,7 +99,7 @@ export default function LinksPage() {
             Sneakz &amp; Beatz
           </h1>
           <p style={{ margin: 0, color: "var(--muted, #888)", fontSize: "0.95rem" }}>
-            For Black sneakerheads who live hip-hop, anime, and gaming.
+            For sneakerheads who live hip-hop, anime, and gaming.
             <br />
             Every offer, in one place.
           </p>

@@ -1,4 +1,5 @@
 import PillarHub from "@/components/PillarHub";
+import HipHopBeatBlock from "@/components/HipHopBeatBlock";
 
 export const metadata = {
   title: "Hip-Hop — News, Type Beats, Producer Spotlights, Black-Culture-First",
@@ -42,6 +43,7 @@ export default function HipHopPage() {
       ]}
       primaryCta={{ label: "Browse Beat Store", href: "/beats" }}
       secondaryCta={{ label: "Subscribe On Substack", href: "https://sneakzandbeatz.substack.com" }}
+      extraSection={<HipHopBeatBlock />}
     />
   );
 }
