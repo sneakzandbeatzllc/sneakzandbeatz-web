@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T16:04:30+00:00",
+  "generated_utc": "2026-05-09T16:54:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
-      "url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
+      "title": "News GTA 6 Fans Are Going Gaga Waiting for New Trailer, Believe PS5 Pre-Orders Could Start Next Week",
+      "url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-are-going-gaga-waiting-for-new-trailer-believe-ps5-pre-orders-could-start-next-week",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -181,6 +181,13 @@
     {
       "title": "Rockstar Teases A Summer Update For GTA Online – Could This Connect To GTA 6?",
       "url": "https://gameranx.com/updates/id/562605/article/rockstar-teases-a-summer-update-for-gta-online-could-this-connect-to-gta-6/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
+      "url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Ubisoft Shared A Cosplay Style Guide (With New Lore!) For Assassin’s Creed Black Flag Resynced’s Edward Kenway",
       "url": "https://gameranx.com/updates/id/562610/article/ubisoft-shared-a-cosplay-style-guide-with-new-lore-for-assassins-creed-black-flag-resynceds-edward-kenway/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Zelda 2 Deserves Better",
-      "url": "https://kotaku.com/zelda-2-nintendo-series-miyamoto-is-it-good-link-past-breath-wild-2000694068",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

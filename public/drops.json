@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T16:04:30+00:00",
+  "generated_utc": "2026-05-09T16:54:02+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "9cd075db84aa",
+      "id": "9fa29914407d",
       "pillar": "gaming",
-      "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
+      "title": "News GTA 6 Fans Are Going Gaga Waiting for New Trailer, Believe PS5 Pre-Orders Could Start Next Week",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
-      "thumbnail": "/drops/thumbs/9cd075db84aa.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-are-going-gaga-waiting-for-new-trailer-believe-ps5-pre-orders-could-start-next-week",
+      "thumbnail": "/drops/thumbs/9fa29914407d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,6 +309,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562605/article/rockstar-teases-a-summer-update-for-gta-online-could-this-connect-to-gta-6/",
       "thumbnail": "/drops/thumbs/a1aa73f36714.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9cd075db84aa",
+      "pillar": "gaming",
+      "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
+      "thumbnail": "/drops/thumbs/9cd075db84aa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "0d8e56b17baf",
-      "pillar": "gaming",
-      "title": "Zelda 2 Deserves Better",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/zelda-2-nintendo-series-miyamoto-is-it-good-link-past-breath-wild-2000694068",
-      "thumbnail": "/drops/thumbs/0d8e56b17baf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "92560d50b61b",
     "a963425e7b31",
     "6c12965cb588",
-    "9cd075db84aa"
+    "9fa29914407d"
   ]
 }
