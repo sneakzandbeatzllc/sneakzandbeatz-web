@@ -26,7 +26,14 @@ export const metadata = {
   },
   description:
     "Sneakz & Beatz is the Black-owned editorial brand for sneakerheads who live hip-hop, anime, and gaming. The lane Hypebeast and Joe Budden don't fully cover. Here's the map.",
-  alternates: { canonical: "/the-lane" },
+  alternates: {
+    canonical: "/the-lane",
+    types: {
+      "application/rss+xml": [
+        { url: "/the-lane/feed.xml", title: "The Lane — Sneakz & Beatz" },
+      ],
+    },
+  },
   openGraph: {
     title: "The Lane — Sneakz & Beatz",
     description:

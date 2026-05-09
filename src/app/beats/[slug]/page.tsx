@@ -4,6 +4,9 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { BEATS, getBeatBySlug } from "@/data/beats";
 import { buildBeatLeaseUrl } from "@/data/stripe-links";
+import { jsonLd, beatProduct, breadcrumbList } from "@/lib/schema";
+
+const SITE = "https://www.sneakzandbeatz.com";
 
 export function generateStaticParams() {
   return BEATS.map((b) => ({ slug: b.slug }));
@@ -13,8 +16,15 @@ export function generateMetadata({ params }: { params: { slug: string } }) {
   const beat = getBeatBySlug(params.slug);
   if (!beat) return { title: "Beat Not Found — Sneakz & Beatz" };
   return {
-    title: `${beat.title} (${beat.bpm} BPM) — Sneakz & Beatz`,
+    title: `${beat.title} (${beat.bpm} BPM)`,
     description: `${beat.categoryLabel} beat. ${beat.bpm ?? ""} BPM. Lease or download from Sneakz & Beatz.`,
+    alternates: { canonical: `/beats/${beat.slug}` },
+    openGraph: {
+      url: `${SITE}/beats/${beat.slug}`,
+      title: `${beat.title} — ${beat.categoryLabel} beat — Sneakz & Beatz`,
+      description: `${beat.categoryLabel} beat. ${beat.bpm ?? ""} BPM. Sneakz & Beatz catalog.`,
+      type: "website",
+    },
   };
 }
 
@@ -26,6 +36,34 @@ export default function BeatDetailPage({ params }: { params: { slug: string } })
 
   return (
     <>
+      {/* JSON-LD: MusicRecording for this beat with full Offer + breadcrumbs.
+          MusicRecording catalog-level schema also lives on /beats; this is the
+          per-beat detail enrichment. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(
+          beatProduct({
+            id: beat.id,
+            slug: beat.slug,
+            title: beat.title,
+            bpm: beat.bpm ?? undefined,
+            durationSec: beat.durationSec ?? undefined,
+            isFree: beat.isFree,
+            priceUsd: beat.priceUSD,
+            categoryLabel: beat.categoryLabel,
+          }),
+        )}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(
+          breadcrumbList([
+            { name: "Home", url: SITE },
+            { name: "Beat Store", url: `${SITE}/beats` },
+            { name: beat.title, url: `${SITE}/beats/${beat.slug}` },
+          ]),
+        )}
+      />
       <Header />
 
       <section className="container beat-detail-section">

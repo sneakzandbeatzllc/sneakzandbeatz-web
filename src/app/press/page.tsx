@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { EMAILS, mailto } from "@/data/contact-emails";
 import { SOCIAL } from "@/data/social";
+import { jsonLd, phrhxPerson, breadcrumbList } from "@/lib/schema";
 
 export const metadata = {
   title: "Press · Founder — Sneakz & Beatz",
@@ -36,6 +37,23 @@ const FACTS: Array<[string, string]> = [
 export default function PressPage() {
   return (
     <>
+      {/* JSON-LD: Person (PHRHX) + BreadcrumbList. Press surfaces are the
+          highest-leverage page for AI engines and journalists scraping
+          founder facts — entity must be airtight here. Organization graph
+          is referenced by @id from the homepage. */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(phrhxPerson())}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(
+          breadcrumbList([
+            { name: "Home", url: "https://www.sneakzandbeatz.com" },
+            { name: "Press", url: "https://www.sneakzandbeatz.com/press" },
+          ]),
+        )}
+      />
       <Header />
 
       <main className="press-page">

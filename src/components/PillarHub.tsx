@@ -3,6 +3,18 @@ import Header from "./Header";
 import Footer from "./Footer";
 import DropsFeed from "./DropsFeed";
 import { fetchSubstackPostsForPillar, type SubstackPost } from "@/lib/substack";
+import { jsonLd, pillarCollectionPage } from "@/lib/schema";
+import { LANE_ESSAYS } from "@/data/lane-essays";
+
+const SITE = "https://www.sneakzandbeatz.com";
+
+// Map pillar key → human label for the schema's `pillarLabel` field.
+const PILLAR_LABEL: Record<NonNullable<SubstackPost["pillar"]>, string> = {
+  sneakers: "Sneakers",
+  hiphop: "Hip-Hop",
+  anime: "Anime",
+  gaming: "Gaming",
+};
 
 export type PillarCard = {
   tag: string;       // chip label e.g. "Drop Reports"
@@ -48,8 +60,25 @@ export default async function PillarHub({
 }: PillarHubProps) {
   const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
   const ctaIsExternal = primaryCta.href.startsWith("http");
+  const pillarLabel = pillarKey ? PILLAR_LABEL[pillarKey] : pillarName;
   return (
     <>
+      {/* JSON-LD: CollectionPage schema. AI engines + Google use this to
+          identify each pillar page as a curated collection under the
+          Sneakz & Beatz Organization @id. */}
+      {pillarKey && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={jsonLd(
+            pillarCollectionPage({
+              url: `${SITE}/${pillarKey}`,
+              name: `${pillarLabel} — Sneakz & Beatz`,
+              description: lead,
+              pillarLabel,
+            }),
+          )}
+        />
+      )}
       <Header />
 
       <section className="container pillar-page">
@@ -121,7 +150,11 @@ export default async function PillarHub({
                   >
                     {p.imageUrl && (
                       // eslint-disable-next-line @next/next/no-img-element
-                      <img src={p.imageUrl} alt="" className="pillar-post-img" />
+                      <img
+                        src={p.imageUrl}
+                        alt={`${p.title} — ${pillarLabel}`}
+                        className="pillar-post-img"
+                      />
                     )}
                     <div className="pillar-post-body">
                       <h3 className="pillar-post-title">{p.title}</h3>
@@ -165,6 +198,35 @@ export default async function PillarHub({
               </a>
             </>
           )}
+        </section>
+
+        {/* From The Lane — links every pillar page to the four cornerstone
+            essays. Internal cross-linking + brand-entity reinforcement on
+            every pillar visit. */}
+        <section className="pillar-newsletter">
+          <h2 className="pillar-section-h">From The Lane</h2>
+          <p className="pillar-newsletter-sub">
+            Cornerstone editorial — why Sneakz &amp; Beatz exists and what the
+            four-pillar audience actually looks like.
+          </p>
+          <ul style={{ listStyle: "none", padding: 0, margin: "20px 0 0" }}>
+            <li style={{ margin: "0 0 14px" }}>
+              <Link href="/the-lane">
+                <strong>The Lane — why Sneakz &amp; Beatz exists and where it sits</strong>
+              </Link>
+              {" — "}
+              The positioning essay. The competitor matrix. The map.
+            </li>
+            {LANE_ESSAYS.map((e) => (
+              <li key={e.slug} style={{ margin: "0 0 14px" }}>
+                <Link href={`/the-lane/${e.slug}`}>
+                  <strong>{e.title}</strong>
+                </Link>
+                {" — "}
+                {e.subhead}
+              </li>
+            ))}
+          </ul>
         </section>
       </section>
 

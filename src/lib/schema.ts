@@ -256,6 +256,50 @@ export function rapChallengeEvent() {
 }
 
 // ---------------------------------------------------------------------------
+// CollectionPage — for pillar pages (/sneakers, /hiphop, /anime, /gaming)
+// ---------------------------------------------------------------------------
+
+export function pillarCollectionPage(input: {
+  url: string;
+  name: string;            // e.g. "Sneakers — Sneakz & Beatz"
+  description: string;
+  pillarLabel: string;     // "Sneakers" / "Hip-Hop" / "Anime" / "Gaming"
+}) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "@id": input.url,
+    name: input.name,
+    description: input.description,
+    url: input.url,
+    isPartOf: { "@id": `${SITE}/#website` },
+    publisher: { "@id": ORG_ID },
+    inLanguage: "en-US",
+    about: {
+      "@type": "Thing",
+      name: `${input.pillarLabel} culture coverage by Sneakz & Beatz`,
+    },
+  };
+}
+
+// ---------------------------------------------------------------------------
+// BreadcrumbList — generic
+// ---------------------------------------------------------------------------
+
+export function breadcrumbList(crumbs: Array<{ name: string; url: string }>) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: crumbs.map((c, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: c.name,
+      item: c.url,
+    })),
+  };
+}
+
+// ---------------------------------------------------------------------------
 // FAQPage — generic
 // ---------------------------------------------------------------------------
 

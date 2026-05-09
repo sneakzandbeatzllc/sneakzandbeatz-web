@@ -4,7 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { LANE_ESSAYS, getEssay, getAllEssaySlugs } from "@/data/lane-essays";
 import { renderMarkdown } from "@/lib/render-md";
-import { jsonLd, articleSchema, phrhxPerson } from "@/lib/schema";
+import { jsonLd, articleSchema, phrhxPerson, breadcrumbList } from "@/lib/schema";
 
 const SITE = "https://www.sneakzandbeatz.com";
 
@@ -77,6 +77,17 @@ export default async function LaneEssayPage({
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={jsonLd(phrhxPerson())}
+      />
+      {/* BreadcrumbList — Home > The Lane > {essay} */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={jsonLd(
+          breadcrumbList([
+            { name: "Home", url: SITE },
+            { name: "The Lane", url: `${SITE}/the-lane` },
+            { name: essay.title, url: `${SITE}/the-lane/${essay.slug}` },
+          ]),
+        )}
       />
 
       <Header />
