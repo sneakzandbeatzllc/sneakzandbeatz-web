@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T12:48:46+00:00",
+  "generated_utc": "2026-05-09T13:01:43+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "2b4fa802b02d",
+      "pillar": "hiphop",
+      "title": "Longhorn Steakhouse never answers the phone. So a Cleveland customer picks up—and helps them out: ‘They need to hire you sis’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/woman-answers-phone-cleveland-longhorn-steakhouse/",
+      "thumbnail": "/drops/thumbs/2b4fa802b02d.jpg",
+      "published": "2026-05-09T09:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5a8020272b3f",
       "pillar": "hiphop",
       "title": "PHOTO RECAP: French Montana and Rick Ross Face Off in Complex Verzuz Battle",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "5eadc1ce0df0",
-      "pillar": "hiphop",
-      "title": "Rap Snacks and BlockWork TV Launch National Search for Next Hip Hop Star",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/09/rap-snacks-blockwork-tv-national-rapper-search-tour/",
-      "thumbnail": "/drops/thumbs/5eadc1ce0df0.jpg",
-      "published": "2026-05-09T00:17:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a963425e7b31",
       "pillar": "anime",
       "title": "Who Is Demon Slayer's Kokushibo? Infinity Castle Part 2's Big Villain Explained",
@@ -231,6 +231,30 @@
       "release_badge": ""
     },
     {
+      "id": "34b9126f799b",
+      "pillar": "anime",
+      "title": "Kiminori Wakasugi's That Time I Got Reincarnated in PES Manga Ends",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-08/kiminori-wakasugi-that-time-i-got-reincarnated-in-pes-manga-ends/.237179",
+      "thumbnail": "/drops/thumbs/34b9126f799b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3d8290bbdaf2",
+      "pillar": "anime",
+      "title": "Crunchyroll Hosts Inaugural Anime Leadership Summit in New York on October 7",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-08/crunchyroll-hosts-inaugural-anime-leadership-summit-in-new-york-on-october-7/.237184",
+      "thumbnail": "/drops/thumbs/3d8290bbdaf2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ef3e62edd6a8",
       "pillar": "anime",
       "title": "Sekiro anime gets new-look artwork and an official theatrical release",
@@ -243,48 +267,24 @@
       "release_badge": ""
     },
     {
+      "id": "b70e253095b6",
+      "pillar": "anime",
+      "title": "Vertex Force Original Anime Reveals October Debut, Main Staff, Teaser Video",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-08/vertex-force-original-anime-reveals-october-debut-main-staff-teaser-video/.237187",
+      "thumbnail": "/drops/thumbs/b70e253095b6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1980b7e31479",
       "pillar": "anime",
       "title": "10 Best Action Anime Heroes Who Don't Kill",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/10-best-action-anime-heroes-who-dont-kill/",
       "thumbnail": "/drops/thumbs/1980b7e31479.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8e6c96273e95",
-      "pillar": "anime",
-      "title": "30 Must-Watch Anime Series For Adult Fans",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-anime-series-adult-fans/",
-      "thumbnail": "/drops/thumbs/8e6c96273e95.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "270fcd68ccd5",
-      "pillar": "anime",
-      "title": "10 Classic Anime That Need New Seasons ASAP (#1 Is Undeniable)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/classic-anime-need-new-seasons/",
-      "thumbnail": "/drops/thumbs/270fcd68ccd5.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3216e329de64",
-      "pillar": "anime",
-      "title": "4 Years After His Death, A Manga Titan Is Finally Getting The Respect He Always Deserved",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/yugioh-kazuki-takahashi-respect-legacy/",
-      "thumbnail": "/drops/thumbs/3216e329de64.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "5a8020272b3f",
+    "2b4fa802b02d",
     "92560d50b61b",
     "a963425e7b31",
     "6c12965cb588",
