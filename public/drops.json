@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T09:56:52+00:00",
+  "generated_utc": "2026-05-09T11:00:05+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "c20dbbb0cb60",
+      "pillar": "hiphop",
+      "title": "‘I dont blame her for not trusting you’: California man helps woman at the bar. Then his girl goes off on him on speaker in the Uber. You won’t believe what happens next",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/help-at-malarkys-uber-fight-hinge-date/",
+      "thumbnail": "/drops/thumbs/c20dbbb0cb60.jpg",
+      "published": "2026-05-09T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7e8da642bd75",
       "pillar": "hiphop",
       "title": "‘The Chi’ Prepares for Final Chapter with Season 8 Premiere on Paramount+",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/dave-chappelle-on-finding-balance-yellow-springs-saved-my-life/",
       "thumbnail": "/drops/thumbs/1f0482e84647.jpg",
       "published": "2026-05-08T16:00:08",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "eb0fd6e4c5ea",
-      "pillar": "hiphop",
-      "title": "50 Cent’s London Boxing Drama Fightland Hits Starz in July",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/50-cents-london-boxing-drama-fightland-hits-starz-in-july/",
-      "thumbnail": "/drops/thumbs/eb0fd6e4c5ea.png",
-      "published": "2026-05-08T14:00:19",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "7e8da642bd75",
+    "c20dbbb0cb60",
     "92560d50b61b",
     "6db8d502dadd",
     "6c12965cb588",
