@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T21:04:15+00:00",
+  "generated_utc": "2026-05-09T22:12:09+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "dfcf541c9e8a",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Diddy Lawyers Argue A Bear Hug & Butt Grab On A NYC Street Isn’t A Crime Of Violence",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/diddy-bear-hug-butt-grab-nyc-street-isnt-crime/",
+      "thumbnail": "/drops/thumbs/dfcf541c9e8a.jpg",
+      "published": "2026-05-09T18:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "45d779df4b45",
+      "pillar": "hiphop",
+      "title": "Cardi B & Ex Stefon Diggs Get Cozy Enough To Spark Rumors",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/cardi-b-ex-stefon-diggs-get-cozy-enough-to-spark-rumors/",
+      "thumbnail": "/drops/thumbs/45d779df4b45.png",
+      "published": "2026-05-09T17:40:59",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "aa556260270b",
       "pillar": "hiphop",
       "title": "DJ Khaled Throws His Weight Behind Uncle Luke’s Run For Congress",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/kodak-black-out-on-bond-his-attorney-bradford-cohen-is-already-tearing-the-case-apart/",
       "thumbnail": "/drops/thumbs/6ff6404506bb.jpg",
       "published": "2026-05-09T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fc2ce813b1ad",
-      "pillar": "hiphop",
-      "title": "Game Live Streaming With OneStream Live: Stream More, Stress Less",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/game-live-streaming-with-onestream-live-stream-more-stress-less/",
-      "thumbnail": "/drops/thumbs/fc2ce813b1ad.png",
-      "published": "2026-05-09T14:56:12",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8b00059c2432",
-      "pillar": "hiphop",
-      "title": "Snoop Dogg Postpones Long Beach Cannabis Shop Opening",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/snoop-dogg-postpones-long-beach-cannabis-shop-opening/",
-      "thumbnail": "/drops/thumbs/8b00059c2432.png",
-      "published": "2026-05-09T13:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "aa556260270b",
+    "dfcf541c9e8a",
     "92560d50b61b",
     "a963425e7b31",
     "6c12965cb588",
