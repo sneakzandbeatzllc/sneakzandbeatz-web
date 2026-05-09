@@ -20,7 +20,8 @@ export const metadata = {
     description:
       "Long-form interviews with the people moving culture. Sneakers, hip-hop, anime, gaming. Hosted by PHRHX.",
     type: "website",
-    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    // images intentionally omitted — file-based opengraph-image.tsx in this
+    // route generates a custom per-page OG card.
   },
 };
 
