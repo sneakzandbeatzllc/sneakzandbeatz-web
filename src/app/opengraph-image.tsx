@@ -1,5 +1,7 @@
 import { ImageResponse } from "next/og";
 
+export const runtime = "edge";
+
 // Sitewide / homepage OG image. Other routes (show, beats, rap-challenge,
 // the-lane, sneakz-pass, about) ship their own opengraph-image.tsx that
 // override this one. This is the fallback for any page without a more
