@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T07:58:34+00:00",
+  "generated_utc": "2026-05-09T08:30:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,13 +32,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 11 Low “Mother’s Day” Releases May 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-11-low-mothers-day/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Travis Scott x Air Jordan 1 Low OG “Muslin/Shy Pink” Releases May 29th",
       "url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 9 OG “Space Jam” Returns August 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
