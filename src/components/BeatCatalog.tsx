@@ -9,10 +9,20 @@ type Props = {
   categories: BeatCategory[];
 };
 
+// How many beats to render in the initial server output. Trimming this from
+// "all" to 24 dropped the /beats HTML from ~128KB to a manageable size while
+// still showing a wide-enough sample for category filtering. JSON-LD in the
+// page metadata still ships 30 MusicRecording entries so AI engines and
+// Google index the full catalog regardless.
+const INITIAL_VISIBLE = 24;
+// "Load more" reveals this many additional rows per click.
+const PAGE_SIZE = 24;
+
 export default function BeatCatalog({ beats, categories }: Props) {
   const [activeCategory, setActiveCategory] = useState<string>("all");
   const [playingSlug, setPlayingSlug] = useState<string | null>(null);
   const [progress, setProgress] = useState<{ slug: string; pct: number } | null>(null);
+  const [visibleCount, setVisibleCount] = useState<number>(INITIAL_VISIBLE);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   // Initialize the single shared <audio> element on the client.
@@ -75,6 +85,15 @@ export default function BeatCatalog({ beats, categories }: Props) {
     return beats.filter((b) => b.category === activeCategory);
   }, [beats, activeCategory]);
 
+  // Reset the visible window whenever the user switches categories so they
+  // see the freshest cut of that category, not a deep page from the previous one.
+  useEffect(() => {
+    setVisibleCount(INITIAL_VISIBLE);
+  }, [activeCategory]);
+
+  const visible = filtered.slice(0, visibleCount);
+  const remaining = filtered.length - visible.length;
+
   const counts = useMemo(() => {
     const c: Record<string, number> = { all: beats.length };
     categories.forEach((cat) => (c[cat.slug] = 0));
@@ -113,7 +132,7 @@ export default function BeatCatalog({ beats, categories }: Props) {
       </div>
 
       <div className="beat-list">
-        {filtered.map((beat, idx) => {
+        {visible.map((beat, idx) => {
           const isPlaying = playingSlug === beat.slug;
           const pct = progress && progress.slug === beat.slug ? progress.pct : 0;
           const mins = beat.durationSec !== null ? Math.floor(beat.durationSec / 60) : null;
@@ -186,6 +205,26 @@ export default function BeatCatalog({ beats, categories }: Props) {
           );
         })}
       </div>
+
+      {/* "Load more" — reveals the next page worth of beats. Only renders
+          when there are still rows to show in the current category. */}
+      {remaining > 0 && (
+        <div style={{ display: "flex", justifyContent: "center", padding: "24px 0 8px" }}>
+          <button
+            type="button"
+            onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
+            className="btn btn-ghost"
+            aria-label={`Show ${Math.min(PAGE_SIZE, remaining)} more beats`}
+          >
+            Load {Math.min(PAGE_SIZE, remaining)} more
+            {filtered.length > visibleCount && (
+              <span style={{ opacity: 0.6, marginLeft: 8 }}>
+                ({visibleCount} of {filtered.length})
+              </span>
+            )}
+          </button>
+        </div>
+      )}
 
       {filtered.length === 0 && (
         <p style={{ color: "var(--text-soft)", textAlign: "center", padding: "48px 0" }}>

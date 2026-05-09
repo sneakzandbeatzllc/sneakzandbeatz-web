@@ -3,6 +3,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import OnTheRadar from "@/components/OnTheRadar";
 import ShowArchiveCard from "@/components/ShowArchiveCard";
+import FeaturedYTPlayer from "@/components/FeaturedYTPlayer";
 import { EMAILS, mailto } from "@/data/contact-emails";
 import { SOCIAL } from "@/data/social";
 import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
@@ -128,12 +129,15 @@ export default async function ShowPage() {
             <h2>Latest episode</h2>
             <div className="yt-featured">
               <div className="yt-featured-player">
-                <iframe
-                  src={`${featured.embedUrl}?rel=0`}
+                {/* Click-to-load wrapper — keeps the YouTube player JS (~500KB)
+                    off the critical path until the user actually wants to
+                    watch. Mobile LCP fix per the launch audit. */}
+                <FeaturedYTPlayer
+                  videoId={featured.id}
+                  embedUrl={featured.embedUrl}
+                  watchUrl={featured.url}
                   title={featured.title}
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowFullScreen
-                  loading="lazy"
+                  thumbnail={featured.thumbnailHigh || featured.thumbnail}
                 />
               </div>
               <div className="yt-featured-meta">

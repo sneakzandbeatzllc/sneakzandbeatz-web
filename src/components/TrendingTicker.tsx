@@ -40,17 +40,27 @@ function loadTickerItems(): TrendingItem[] {
   }
 }
 
+// Cap the ticker at this many unique items. Looped ×2 for the CSS scroll, so
+// the rendered DOM is 2× this. Keeping it at 12 means ≤24 anchors in the
+// homepage HTML — small enough that the ticker doesn't dominate page weight.
+// Drops feed below the fold still shows the rest of today's culture refresh.
+const TICKER_MAX_ITEMS = 12;
+
 export default function TrendingTicker(_props?: { items?: unknown }) {
-  const native = loadTickerItems();
-  if (native.length === 0) return null;
+  const allItems = loadTickerItems();
+  if (allItems.length === 0) return null;
+
+  // Cap to the freshest N items. Adding a "View all" CTA at the end of the
+  // looped track gives users a path to the full pillar feeds.
+  const native = allItems.slice(0, TICKER_MAX_ITEMS);
 
   // Duplicate so the CSS keyframe ticker animation loops seamlessly.
   const looped = [...native, ...native];
 
   // Scale the scroll duration to item count so the per-pixel speed stays
-  // readable (~90 px/sec) regardless of how many drops we have on a given
-  // day. Roughly 7s per item; floor at 120s, cap at 600s.
-  const durationSec = Math.min(600, Math.max(120, native.length * 7));
+  // readable (~90 px/sec) regardless of how many items end up showing.
+  // Roughly 7s per item; floor at 90s, cap at 240s.
+  const durationSec = Math.min(240, Math.max(90, native.length * 7));
 
   return (
     <section className="trending">
@@ -76,6 +86,27 @@ export default function TrendingTicker(_props?: { items?: unknown }) {
                 </a>
               );
             })}
+            {/* View-all CTA at the end of each loop — gives the user a path
+                from the ticker into the deeper pillar feeds without making
+                the ticker itself the only on-ramp. */}
+            <a
+              key="view-all-1"
+              href="/sneakers"
+              className="ticker-item-link"
+              style={{ fontWeight: 700 }}
+            >
+              <span className="dot"></span>
+              View all drops →
+            </a>
+            <a
+              key="view-all-2"
+              href="/sneakers"
+              className="ticker-item-link"
+              style={{ fontWeight: 700 }}
+            >
+              <span className="dot"></span>
+              View all drops →
+            </a>
           </div>
         </div>
       </div>
