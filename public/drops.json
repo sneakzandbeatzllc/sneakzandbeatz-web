@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T22:12:09+00:00",
+  "generated_utc": "2026-05-09T23:05:54+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "3dc00bb41f40",
+      "pillar": "hiphop",
+      "title": "Seth Rogen Roasts Kanye West During Netflix Comedy Event",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/seth-rogen-roasts-kanye-west-during-netflix-comedy-event/",
+      "thumbnail": "/drops/thumbs/3dc00bb41f40.jpg",
+      "published": "2026-05-09T18:29:18",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "dfcf541c9e8a",
       "pillar": "hiphop",
       "title": "EXCLUSIVE: Diddy Lawyers Argue A Bear Hug & Butt Grab On A NYC Street Isn’t A Crime Of Violence",
@@ -183,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "6ff6404506bb",
-      "pillar": "hiphop",
-      "title": "Kodak Black Out On Bond & His Attorney Bradford Cohen Is Already Tearing The Case Apart",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kodak-black-out-on-bond-his-attorney-bradford-cohen-is-already-tearing-the-case-apart/",
-      "thumbnail": "/drops/thumbs/6ff6404506bb.jpg",
-      "published": "2026-05-09T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a963425e7b31",
       "pillar": "anime",
       "title": "Who Is Demon Slayer's Kokushibo? Infinity Castle Part 2's Big Villain Explained",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/demon-slayer-kokushibo-identity-explained-infinity-castle/",
       "thumbnail": "/drops/thumbs/a963425e7b31.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "55d1b32e7393",
+      "pillar": "anime",
+      "title": "30 Strongest One Piece Devil Fruits, Ranked (So Far)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
+      "thumbnail": "/drops/thumbs/55d1b32e7393.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/jojos-bizarre-adventure-battle-tendency-devastating-character-death/",
       "thumbnail": "/drops/thumbs/83c29db0626d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "54ed513c9fe2",
-      "pillar": "anime",
-      "title": "Spring 2026’s Best Anime Has Been Officially Crowned With a Near-Perfect Audience Rating",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/witch-hat-atellier-spring-2026-best-anime-near-perfect/",
-      "thumbnail": "/drops/thumbs/54ed513c9fe2.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "dfcf541c9e8a",
+    "3dc00bb41f40",
     "92560d50b61b",
     "a963425e7b31",
     "6c12965cb588",

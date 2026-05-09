@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T22:12:09+00:00",
+  "generated_utc": "2026-05-09T23:05:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Seth Rogen Roasts Kanye West During Netflix Comedy Event",
+      "url": "https://allhiphop.com/rumors/seth-rogen-roasts-kanye-west-during-netflix-comedy-event/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "EXCLUSIVE: Diddy Lawyers Argue A Bear Hug & Butt Grab On A NYC Street Isn’t A Crime Of Violence",
       "url": "https://allhiphop.com/news/diddy-bear-hug-butt-grab-nyc-street-isnt-crime/",
       "pillar": "hiphop",
@@ -109,15 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "Kodak Black Out On Bond & His Attorney Bradford Cohen Is Already Tearing The Case Apart",
-      "url": "https://allhiphop.com/news/kodak-black-out-on-bond-his-attorney-bradford-cohen-is-already-tearing-the-case-apart/",
-      "pillar": "hiphop",
+      "title": "Who Is Demon Slayer's Kokushibo? Infinity Castle Part 2's Big Villain Explained",
+      "url": "https://screenrant.com/demon-slayer-kokushibo-identity-explained-infinity-castle/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Who Is Demon Slayer's Kokushibo? Infinity Castle Part 2's Big Villain Explained",
-      "url": "https://screenrant.com/demon-slayer-kokushibo-identity-explained-infinity-castle/",
+      "title": "30 Strongest One Piece Devil Fruits, Ranked (So Far)",
+      "url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "JoJo: Battle Tendency features one of the most devastating deaths in the franchise",
       "url": "https://www.polygon.com/jojos-bizarre-adventure-battle-tendency-devastating-character-death/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Spring 2026’s Best Anime Has Been Officially Crowned With a Near-Perfect Audience Rating",
-      "url": "https://screenrant.com/witch-hat-atellier-spring-2026-best-anime-near-perfect/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
