@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T13:58:06+00:00",
+  "generated_utc": "2026-05-09T14:50:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "The One Piece anime remake looks gorgeous, but its episode count is baffling",
-      "url": "https://www.polygon.com/the-one-piece-anime-remake-episode-count/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One Piece's Anime Has Been Officially Dethroned As The Franchise's Blueprint",
       "url": "https://screenrant.com/one-piece-anime-remake-save-franchise-blueprint/",
       "pillar": "anime",
@@ -146,6 +139,13 @@
     {
       "title": "Kiminori Wakasugi's That Time I Got Reincarnated in PES Manga Ends",
       "url": "https://www.animenewsnetwork.com/news/2026-05-08/kiminori-wakasugi-that-time-i-got-reincarnated-in-pes-manga-ends/.237179",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "JoJo: Battle Tendency features one of the most devastating deaths in the franchise",
+      "url": "https://www.polygon.com/jojos-bizarre-adventure-battle-tendency-devastating-character-death/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Vertex Force Original Anime Reveals October Debut, Main Staff, Teaser Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-08/vertex-force-original-anime-reveals-october-debut-main-staff-teaser-video/.237187",
+      "title": "10 Best Action Anime Heroes Who Don't Kill",
+      "url": "https://screenrant.com/10-best-action-anime-heroes-who-dont-kill/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -186,7 +186,7 @@
       "article_slug": null
     },
     {
-      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 5 Comments",
+      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 11 Comments",
       "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
       "pillar": "gaming",
       "score": 1.0,
