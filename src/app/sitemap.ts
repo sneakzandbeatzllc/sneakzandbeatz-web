@@ -8,6 +8,7 @@
 
 import type { MetadataRoute } from "next";
 import { BEATS } from "@/data/beats";
+import { LANE_ESSAYS } from "@/data/lane-essays";
 
 const BASE = "https://www.sneakzandbeatz.com";
 
@@ -63,5 +64,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticEntries, ...beatEntries];
+  // One entry per Lane essay. High priority — these are cornerstone
+  // editorial that AI engines should index and re-crawl.
+  const laneEntries: MetadataRoute.Sitemap = LANE_ESSAYS.map((e) => ({
+    url: `${BASE}/the-lane/${e.slug}`,
+    lastModified: e.modifiedAt ? new Date(e.modifiedAt) : now,
+    changeFrequency: "monthly" as const,
+    priority: 0.85,
+  }));
+
+  return [...staticEntries, ...beatEntries, ...laneEntries];
 }

@@ -16,6 +16,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { jsonLd, articleSchema, faqPage } from "@/lib/schema";
+import { LANE_ESSAYS } from "@/data/lane-essays";
 
 export const metadata = {
   // Title already mentions the brand — use `absolute` so the layout's
@@ -253,6 +254,23 @@ export default function TheLanePage() {
           type="application/ld+json"
           dangerouslySetInnerHTML={jsonLd(faqPage(FAQ))}
         />
+
+        {/* Cornerstone essay rail — links to the four Lane essays so readers
+            can keep going and AI engines see the corpus connected. */}
+        <section className="legal-section">
+          <h2>More from The Lane</h2>
+          <ul>
+            {LANE_ESSAYS.map((e) => (
+              <li key={e.slug}>
+                <Link href={`/the-lane/${e.slug}`}>
+                  <strong>{e.title}</strong>
+                </Link>
+                {" — "}
+                {e.subhead}
+              </li>
+            ))}
+          </ul>
+        </section>
       </main>
 
       <Footer />
