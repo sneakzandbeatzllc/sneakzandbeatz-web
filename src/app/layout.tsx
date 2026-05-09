@@ -47,14 +47,12 @@ export const metadata: Metadata = {
     siteName: "Sneakz & Beatz",
     type: "website",
     locale: "en_US",
-    images: [
-      {
-        url: "/og-image.png",
-        width: 1200,
-        height: 630,
-        alt: "Sneakz & Beatz — Where sneakers, hip-hop, anime & gaming collide.",
-      },
-    ],
+    // images intentionally omitted — file-based opengraph-image.tsx files
+    // at the root and at every major route generate per-page OG images.
+    // Setting layout-level images here would cascade down and override the
+    // route-specific ones (Next.js shallow-merges openGraph; child must
+    // explicitly set images to win, but file-based does NOT count as
+    // "explicitly set" at the child level for the override behavior).
   },
   twitter: {
     card: "summary_large_image",
@@ -63,7 +61,7 @@ export const metadata: Metadata = {
     title: "Sneakz & Beatz",
     description:
       "For Black sneakerheads who live hip-hop, anime, and gaming. Black-owned culture brand. The PHRHX Show. 96 beats for $79. $10K Rap Challenge.",
-    images: ["/og-image.png"],
+    // images omitted — falls back to og:image automatically.
   },
   robots: {
     index: true,
