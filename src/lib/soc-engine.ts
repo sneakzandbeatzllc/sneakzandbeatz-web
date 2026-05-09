@@ -81,6 +81,8 @@ const TITLE_DENYLIST: RegExp[] = [
   /\btrump\b/i,
   /\bbiden\b/i,
   /\b(?:republican|democrat|gop)\b/i,
+  /\bredistricting\b/i,
+  /\bpolitical\s+(?:battlefield|battle|fight|drama)\b/i,
   /\bdiddy\b/i,        // legal proceedings — not on-brand for this audience
   /\br\.\s*kelly\b/i,
   /\bharvey weinstein\b/i,
@@ -107,9 +109,58 @@ const TITLE_DENYLIST: RegExp[] = [
   /\bdomestic\s+(?:violence|abuse)\b/i,
   /\bsexual\s+assault\b/i,
   /\bpras\s+michel\b/i,
+  /\bguilty\s+verdict\b/i,
+  /\bmurder\s+trial\b/i,
+  /\bmusic\s+theft\s+case\b/i,
+  /\b(?:trial|lawsuit|legal\s+battle)\b/i,
+  /\bdna\s+evidence\b/i,
+  /\bpaternity\b/i,
+  /\bnot\s+(?:woman'?s|man'?s)\s+father\b/i,
+  /\bvindicated\b/i,
+  // Tabloid / gossip / dating / nightlife junk — flagged by user May 2026
+  // (the AllHipHop "Uber fight Hinge date" article was the trigger)
+  /\bhinge\s+date\b/i,
+  /\btinder\s+date\b/i,
+  /\bbumble\s+date\b/i,
+  /\bdating\s+app\b/i,
+  /\buber\s+(?:fight|brawl|attack|driver\s+assault)\b/i,
+  /\bclub\s+(?:fight|brawl)\b/i,
+  /\bbar\s+(?:fight|brawl)\b/i,
+  /\bnightclub\s+(?:fight|brawl|incident)\b/i,
+  /\bgoes\s+viral\s+after\b/i,
+  /\bwent\s+viral\s+after\b/i,
+  /\bcaught\s+on\s+camera\b/i,
+  /\bcaught\s+on\s+video\b/i,
+  /\bbody[-\s]?cam\b/i,
+  /\bring\s+camera\b/i,
+  /\bbaby\s+mama\s+drama\b/i,
+  /\bex[-\s]?girlfriend\b.*\b(?:claims|sues|drama|leak)/i,
+  /\bex[-\s]?boyfriend\b.*\b(?:claims|sues|drama|leak)/i,
+  /\bonlyfans\b/i,
+  /\bmalarky/i,
+  // Wellness / off-topic editorial that crept in May 2026
+  /\bfinding\s+balance\b/i,
+  /\bsaved\s+my\s+life\b/i,
+  /\byellow\s+springs\b/i,
   // Stale topics we don't want re-promoted
   /air\s+jordan\s+5.*white\s+metallic/i,
   /white\s+metallic.*air\s+jordan\s+5/i,
+];
+
+/**
+ * URL-path / URL-domain denylist. AllHipHop dropped entirely May 9 2026
+ * per user direction — tabloid/drama-focused outlet, not aligned with the
+ * brand. Whole domain is blocked, not just the /newsbreak/ section.
+ * The other rules block obvious gossip/dating paths on any source.
+ */
+const URL_DENYLIST: RegExp[] = [
+  /(?:^|\/\/|\.)allhiphop\.com\b/i,
+  /\/newsbreak\//i,
+  /\/gossip\//i,
+  /\/tabloid\//i,
+  /\/celebrity-news\//i,
+  /\/dating\//i,
+  /\/relationships\//i,
 ];
 
 const FALLBACK: TrendingItem[] = [
@@ -185,8 +236,17 @@ async function fetchFromEnginePayload(): Promise<TrendingItem[] | null> {
       }
     }
 
+    // Defense-in-depth filter: even if the engine wrote junk into
+    // ticker.json (denylist drift, schema mismatch, manual edit), we
+    // re-apply the title + URL denylists at runtime so junk never hits
+    // the page. Drops any item whose title or URL matches a denylist rule.
     return data.items
       .filter((it) => it && typeof it.title === "string" && it.title.length > 0)
+      .filter((it) => !TITLE_DENYLIST.some((re) => re.test(it.title as string)))
+      .filter(
+        (it) =>
+          !it.url || !URL_DENYLIST.some((re) => re.test(it.url as string)),
+      )
       .slice(0, MAX_HEADLINES)
       .map((it) => ({
         title: it.title as string,
@@ -221,6 +281,7 @@ async function fetchFeedSafe(feed: { url: string; pillar: string }): Promise<Tre
     const raw = parseFeedItems(xml, 10);
     return raw
       .filter((item) => !TITLE_DENYLIST.some((re) => re.test(item.title)))
+      .filter((item) => !item.url || !URL_DENYLIST.some((re) => re.test(item.url as string)))
       .slice(0, ITEMS_PER_FEED);
   } catch {
     return [];
