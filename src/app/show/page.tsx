@@ -8,9 +8,18 @@ import { SOCIAL } from "@/data/social";
 import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
 
 export const metadata = {
-  title: "The PHRHX Show — Sneakz & Beatz",
+  title: "The PHRHX Show",
   description:
     "Long-form interviews with the people moving culture — sneakers, hip-hop, anime, gaming. Hosted by PHRHX. Watch on YouTube, listen everywhere.",
+  alternates: { canonical: "/show" },
+  openGraph: {
+    url: "https://www.sneakzandbeatz.com/show",
+    title: "The PHRHX Show — Sneakz & Beatz",
+    description:
+      "Long-form interviews with the people moving culture. Sneakers, hip-hop, anime, gaming. Hosted by PHRHX.",
+    type: "website",
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+  },
 };
 
 // Hardcoded fallback list of real channel videos. Used when the YouTube

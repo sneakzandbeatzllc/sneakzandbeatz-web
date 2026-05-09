@@ -4,9 +4,18 @@ import Footer from "@/components/Footer";
 import { EMAILS, mailto } from "@/data/contact-emails";
 
 export const metadata = {
-  title: "About — Sneakz & Beatz",
+  title: "About PHRHX & Sneakz & Beatz",
   description:
-    "About Sneakz & Beatz LLC — the brand, the founder PHRHX, and the four pillars (sneakers, hip-hop, anime, gaming).",
+    "About Sneakz & Beatz LLC — the Black-owned culture brand, founder PHRHX, and the four pillars: sneakers, hip-hop, anime, gaming.",
+  alternates: { canonical: "/about" },
+  openGraph: {
+    url: "https://www.sneakzandbeatz.com/about",
+    title: "About PHRHX & Sneakz & Beatz",
+    description:
+      "Black-owned culture brand. Founder PHRHX. Four pillars: sneakers, hip-hop, anime, gaming. Operated from San Diego.",
+    type: "website",
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+  },
 };
 
 export default function AboutPage() {

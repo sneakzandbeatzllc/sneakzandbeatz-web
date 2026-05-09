@@ -5,9 +5,18 @@ import BeatCatalog from "@/components/BeatCatalog";
 import { BEATS, CATEGORIES, getBeatsForDisplay } from "@/data/beats";
 
 export const metadata = {
-  title: "Beat Store — Sneakz & Beatz",
+  title: "Beat Store",
   description:
     "96 mastered beats across East Coast, West Coast, Trap, Rage, and Free. Hard-hitting production for artists who move different.",
+  alternates: { canonical: "/beats" },
+  openGraph: {
+    url: "https://www.sneakzandbeatz.com/beats",
+    title: "Beat Store — Sneakz & Beatz",
+    description:
+      "96 mastered beats. East Coast, West Coast, Trap, Rage, Free. Lease, buy, or get the $79 Vault.",
+    type: "website",
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+  },
 };
 
 export default function BeatsPage() {

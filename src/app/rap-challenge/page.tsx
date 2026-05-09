@@ -5,9 +5,18 @@ import { STRIPE_LINKS } from "@/data/stripe-links";
 import { EMAILS, mailto } from "@/data/contact-emails";
 
 export const metadata = {
-  title: "The $10K Rap Challenge — Sneakz & Beatz",
+  title: "The $10K Rap Challenge",
   description:
     "Submit a rap over a Sneakz & Beatz beat. Grand prize: $2,500 cash + PS5 Pro + $500 StockX + custom sneaker + monthly exclusive beats + paid IG promo + merch + more. Bundle and challenge entry are separate — enter the challenge by opting in.",
+  alternates: { canonical: "/rap-challenge" },
+  openGraph: {
+    url: "https://www.sneakzandbeatz.com/rap-challenge",
+    title: "The $10K Rap Challenge — Sneakz & Beatz",
+    description:
+      "Submit a rap. Win $10K. $2,500 cash + PS5 Pro + $500 StockX + custom sneaker + more. Free with the Vault, free via AMOE.",
+    type: "website",
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+  },
 };
 
 const STEPS = [
@@ -82,7 +91,7 @@ const PRIZES: PrizeTier[] = [
     items: [
       "$200 CASH (Cash App / Zelle / check)",
       "$100 StockX Gift Card",
-      "Standard Bundle (100 mastered beats + t-shirt)",
+      "Standard Bundle (96 mastered beats + t-shirt)",
       "2 vocal kits",
       "Cypher tape feature track (slots #15-25)",
     ],
@@ -104,7 +113,7 @@ const PRIZES: PrizeTier[] = [
 const FAQ = [
   {
     q: "Wait — does buying the bundle automatically enter me?",
-    a: "No. The Standard Bundle ($79) is its own product — 100 mastered beats + drum kits + sample pack + a t-shirt. Plenty of people will buy the bundle just for the beats and have zero interest in the challenge. To ENTER the challenge you go to the entry form and explicitly opt in (checkbox), confirm you follow @sneakz_beatz on IG / TikTok / X / YouTube, and confirm you're in the Discord. Then you either pay Standard Entry ($35), Verified Entry ($99 — priority judging + written feedback from PHRHX + finalist shoutout), attach proof of bundle purchase to waive the Standard fee, or use the free mailed-in entry (AMOE).",
+    a: "No. The Standard Bundle ($79) is its own product — 96 mastered beats + drum kits + sample pack + a t-shirt. Plenty of people will buy the bundle just for the beats and have zero interest in the challenge. To ENTER the challenge you go to the entry form and explicitly opt in (checkbox), confirm you follow @sneakz_beatz on IG / TikTok / X / YouTube, and confirm you're in the Discord. Then you either pay Standard Entry ($35), Verified Entry ($99 — priority judging + written feedback from PHRHX + finalist shoutout), attach proof of bundle purchase to waive the Standard fee, or use the free mailed-in entry (AMOE).",
   },
   {
     q: "What does the cash prize actually look like?",
@@ -264,7 +273,7 @@ export default function RapChallengePage() {
               The bundle is its own product. The challenge is its own thing. Pick one or both.
             </h2>
             <p className="rap-bundle-sub">
-              The <strong>Standard Bundle ($79)</strong> = 100 mastered beats + drum kits +
+              The <strong>Standard Bundle ($79)</strong> = 96 mastered beats + drum kits +
               sample pack + Sneakz & Beatz t-shirt. It is a standalone product. <strong>Buying
               it does not enter you in the challenge.</strong> Plenty of people will buy it
               just because they want the beats and the merch — that's fine, you get every

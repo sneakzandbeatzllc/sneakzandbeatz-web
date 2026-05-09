@@ -12,16 +12,22 @@ import BeatStore from "@/components/BeatStore";
 import SubstackSticker from "@/components/SubstackSticker";
 import Footer from "@/components/Footer";
 import { fetchTrending } from "@/lib/soc-engine";
+import { SOCIAL } from "@/data/social";
 
+// Use `title.absolute` so the layout's "%s — Sneakz & Beatz" template doesn't
+// append a duplicate brand suffix to the homepage title.
 export const metadata = {
-  title: "Sneakz & Beatz — Sneakers, Hip-Hop, Anime, Gaming. Black-owned culture brand.",
+  title: {
+    absolute:
+      "Sneakz & Beatz — Sneakers, Hip-Hop, Anime, Gaming. Black-owned culture brand.",
+  },
   description:
     "Sneakz & Beatz is the editorial home for Black sneakerheads who live hip-hop, anime, and gaming. The PHRHX Show, 96 mastered beats, the $79 Vault, the $10K Rap Challenge.",
-  alternates: { canonical: "/" },
+  alternates: { canonical: "https://www.sneakzandbeatz.com" },
   openGraph: {
     title: "Sneakz & Beatz — Sneakers, Hip-Hop, Anime, Gaming",
     description:
-      "Black-owned culture brand for sneakerheads who live hip-hop, anime, and gaming. Watch The PHRHX Show, get 100 beats for $79, win $10K in the Rap Challenge.",
+      "Black-owned culture brand for sneakerheads who live hip-hop, anime, and gaming. Watch The PHRHX Show, get 96 mastered beats in the $79 Vault, win $10K in the Rap Challenge.",
     url: "https://www.sneakzandbeatz.com",
     siteName: "Sneakz & Beatz",
     type: "website",
@@ -49,12 +55,14 @@ const STRUCTURED_DATA = {
       logo: "https://www.sneakzandbeatz.com/logo-mark-512.png",
       description:
         "Black-owned editorial brand for sneakerheads who live hip-hop, anime, and gaming. Operator of The PHRHX Show, the 96-beat catalog, and the $10K Rap Challenge.",
+      // sameAs pulls from the canonical SOCIAL source-of-truth so AI engines
+      // get the same handles as the footer. Don't hardcode strings here.
       sameAs: [
-        "https://www.instagram.com/sneakz_beatz",
-        "https://www.tiktok.com/@sneakz_beatz",
-        "https://x.com/sneakz_beatz",
-        "https://www.youtube.com/@sneakzandbeatz",
-        "https://sneakzandbeatz.substack.com",
+        SOCIAL.instagram.url,
+        SOCIAL.tiktok.url,
+        SOCIAL.x.url,
+        SOCIAL.youtube.url,
+        SOCIAL.substack.url,
       ],
       foundingDate: "2026-04-23",
       founder: {
@@ -81,7 +89,11 @@ const STRUCTURED_DATA = {
       publisher: { "@id": "https://www.sneakzandbeatz.com/#organization" },
       potentialAction: {
         "@type": "SearchAction",
-        target: "https://www.sneakzandbeatz.com/articles?q={search_term_string}",
+        // Points at /articles which is now a real index page (see app/articles/page.tsx).
+        target: {
+          "@type": "EntryPoint",
+          urlTemplate: "https://www.sneakzandbeatz.com/articles?q={search_term_string}",
+        },
         "query-input": "required name=search_term_string",
       },
     },
