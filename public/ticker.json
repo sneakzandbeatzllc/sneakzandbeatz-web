@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T09:10:53+00:00",
+  "generated_utc": "2026-05-10T10:12:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "‘Its same at Dunkin’: New Jersey woman orders from Starbucks drive-thru. Then she tries to add a drink for her co-worker—but the barista refuses",
+      "url": "https://allhiphop.com/newsbreak/new-jersey-starbucks-drive-thru-barista-refuses/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Portland Fire Unveil “Rose City Built” WNBA Nike Rebel Edition Uniforms",
       "url": "https://thesource.com/2026/05/10/portland-fire-wnba-rose-city-built-nike-rebel-uniform/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Coke Wave Returns: French Montana, Max B, and Rick Ross Reunite for “SMOKING PART II”",
       "url": "https://thesource.com/2026/05/09/coke-wave-returns-french-montana-max-b-and-rick-ross-reunite-for-smoking-part-ii/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Why Occupational Therapy Helps Sensory Challenges",
-      "url": "https://allhiphop.com/uncategorized/why-occupational-therapy-helps-sensory-challenges/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
