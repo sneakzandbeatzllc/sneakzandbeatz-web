@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T11:09:49+00:00",
+  "generated_utc": "2026-05-10T12:11:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -186,13 +186,6 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Fans Are Going Gaga Waiting for New Trailer, Believe PS5 Pre-Orders Could Start Next Week",
-      "url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-are-going-gaga-waiting-for-new-trailer-believe-ps5-pre-orders-could-start-next-week",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 15 Comments",
       "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
       "pillar": "gaming",
@@ -202,6 +195,13 @@
     {
       "title": "Nintendo’s Takashi Tezuka Reinvented The Legend Of Zelda Without Overthinking It",
       "url": "https://kotaku.com/takashi-tezuka-reinvented-the-legend-of-zelda-without-overthinking-it-2000694600",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Why Is Everyone Acting So Weird About PS5 Game Mixtape?",
+      "url": "https://www.pushsquare.com/news/2026/05/why-is-everyone-acting-so-weird-about-ps5-game-mixtape",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
