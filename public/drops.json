@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T04:07:31+00:00",
+  "generated_utc": "2026-05-10T05:07:58+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "9fa29914407d",
+      "id": "9cd075db84aa",
       "pillar": "gaming",
-      "title": "News GTA 6 Fans Are Going Gaga Waiting for New Trailer, Believe PS5 Pre-Orders Could Start Next Week",
+      "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-are-going-gaga-waiting-for-new-trailer-believe-ps5-pre-orders-could-start-next-week",
-      "thumbnail": "/drops/thumbs/9fa29914407d.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
+      "thumbnail": "/drops/thumbs/9cd075db84aa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "9cd075db84aa",
+      "id": "9fa29914407d",
       "pillar": "gaming",
-      "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
+      "title": "News GTA 6 Fans Are Going Gaga Waiting for New Trailer, Believe PS5 Pre-Orders Could Start Next Week",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
-      "thumbnail": "/drops/thumbs/9cd075db84aa.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-are-going-gaga-waiting-for-new-trailer-believe-ps5-pre-orders-could-start-next-week",
+      "thumbnail": "/drops/thumbs/9fa29914407d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -333,18 +333,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
       "thumbnail": "/drops/thumbs/8c76de8b82b3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3aa0bb71c53c",
-      "pillar": "gaming",
-      "title": "News Is It Almost Dragon Quest 12 Time? Pray to Yuji Horii and the Big Slime in the Sky",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/is-it-almost-dragon-quest-12-time-pray-to-yuji-horii-and-the-big-slime-in-the-sky",
-      "thumbnail": "/drops/thumbs/3aa0bb71c53c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,6 +373,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "9b79f6f4154a",
+      "pillar": "gaming",
+      "title": "Ryan Cohen Says He ‘Isn’t Passionate’ About GameStop As He Makes Desperate Bid For eBay",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/ryan-cohen-says-he-isnt-passionate-about-gamestop-as-he-makes-desperate-bid-for-ebay-2000694578",
+      "thumbnail": "/drops/thumbs/9b79f6f4154a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "92560d50b61b",
     "509c7c574103",
     "6c12965cb588",
-    "9fa29914407d"
+    "9cd075db84aa"
   ]
 }
