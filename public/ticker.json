@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T22:24:08+00:00",
+  "generated_utc": "2026-05-10T23:25:32+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Red Hot Chili Peppers Sell Recorded Catalog To WMG For $300M",
+      "url": "https://allhiphop.com/news/red-hot-chili-peppers-sell-recorded-catalog-to-wmg-for-300m/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "9th Wonder Completes His NC Central Story & Graduates 25 Years After Leaving to Chase Music",
       "url": "https://allhiphop.com/news/9th-wonder-completes-his-nc-central-story-graduates-25-years-after-leaving-to-chase-music/",
       "pillar": "hiphop",
@@ -109,22 +116,22 @@
       "article_slug": null
     },
     {
-      "title": "Back To Slavery In Alabama? A Republican Politician Seeks 14th Amendment Repeal",
-      "url": "https://allhiphop.com/opinion/back-to-slavery-in-alabama-a-republican-politician-seeks-14th-amendment-repeal/",
-      "pillar": "hiphop",
+      "title": "Naruto and Sasuke Have Never Been The Franchise's Deepest Hero",
+      "url": "https://screenrant.com/naruto-kakashi-deepest-franchise-character/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Every Main Frieren Character's Age Explained",
+      "url": "https://screenrant.com/every-main-frieren-characters-age-explained/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
       "title": "One Piece Has Been Dropping Hints At A Classic Character's God-Tier Upgrade For Years",
       "url": "https://screenrant.com/one-piece-dragon-god-tier-upgrade-rain-god/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece Reveals A God-Tier Threat Even Stronger Than Luffy, And They're Terrifying",
-      "url": "https://screenrant.com/one-piece-god-tier-villain-zaza-reveal/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Tubi Adds Magical Sisters LuluttoLilly Anime",
       "url": "https://www.animenewsnetwork.com/news/2026-05-09/tubi-adds-magical-sisters-luluttolilly-anime/.237209",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "25 Anime Series with the Greatest Animation",
-      "url": "https://screenrant.com/anime-series-best-animation/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

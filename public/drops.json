@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T22:24:08+00:00",
+  "generated_utc": "2026-05-10T23:25:32+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "bd9533f5444c",
+      "pillar": "hiphop",
+      "title": "Red Hot Chili Peppers Sell Recorded Catalog To WMG For $300M",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/red-hot-chili-peppers-sell-recorded-catalog-to-wmg-for-300m/",
+      "thumbnail": "/drops/thumbs/bd9533f5444c.jpg",
+      "published": "2026-05-10T19:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9e202375d836",
       "pillar": "hiphop",
       "title": "9th Wonder Completes His NC Central Story & Graduates 25 Years After Leaving to Chase Music",
@@ -183,13 +195,25 @@
       "release_badge": ""
     },
     {
-      "id": "ee9fe4be1b07",
-      "pillar": "hiphop",
-      "title": "Back To Slavery In Alabama? A Republican Politician Seeks 14th Amendment Repeal",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/opinion/back-to-slavery-in-alabama-a-republican-politician-seeks-14th-amendment-repeal/",
-      "thumbnail": "/drops/thumbs/ee9fe4be1b07.jpg",
-      "published": "2026-05-10T11:30:00",
+      "id": "ac08cfdf30e3",
+      "pillar": "anime",
+      "title": "Naruto and Sasuke Have Never Been The Franchise's Deepest Hero",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-kakashi-deepest-franchise-character/",
+      "thumbnail": "/drops/thumbs/ac08cfdf30e3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b9d2be033f27",
+      "pillar": "anime",
+      "title": "Every Main Frieren Character's Age Explained",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/every-main-frieren-characters-age-explained/",
+      "thumbnail": "/drops/thumbs/b9d2be033f27.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -201,18 +225,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-dragon-god-tier-upgrade-rain-god/",
       "thumbnail": "/drops/thumbs/a21fc709855f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "93c21da51fe8",
-      "pillar": "anime",
-      "title": "One Piece Reveals A God-Tier Threat Even Stronger Than Luffy, And They're Terrifying",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-god-tier-villain-zaza-reveal/",
-      "thumbnail": "/drops/thumbs/93c21da51fe8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/tubi-adds-magical-sisters-luluttolilly-anime/.237209",
       "thumbnail": "/drops/thumbs/8a3286271a38.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cadd51b15a03",
-      "pillar": "anime",
-      "title": "25 Anime Series with the Greatest Animation",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/anime-series-best-animation/",
-      "thumbnail": "/drops/thumbs/cadd51b15a03.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "9e202375d836",
+    "bd9533f5444c",
     "92560d50b61b",
-    "a21fc709855f",
+    "ac08cfdf30e3",
     "6c12965cb588",
     "9cd075db84aa"
   ]
