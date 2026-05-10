@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T01:02:22+00:00",
+  "generated_utc": "2026-05-10T02:04:04+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -195,36 +195,24 @@
       "release_badge": ""
     },
     {
+      "id": "4af5def4f93f",
+      "pillar": "anime",
+      "title": "Naruto's True Sasuke Successor Is Literally One Step Away From God-Tier",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-sasuke-successor-sarada-uchiha-god-tier/",
+      "thumbnail": "/drops/thumbs/4af5def4f93f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "55d1b32e7393",
       "pillar": "anime",
       "title": "30 Strongest One Piece Devil Fruits, Ranked (So Far)",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
       "thumbnail": "/drops/thumbs/55d1b32e7393.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8d7d4bd518a3",
-      "pillar": "anime",
-      "title": "One Piece's Remake Episode Count Isn't As Disappointing As Fans Think",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-anime-remake-episode-count-controversy/",
-      "thumbnail": "/drops/thumbs/8d7d4bd518a3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5ea4aee90837",
-      "pillar": "anime",
-      "title": "One Piece's Anime Has Been Officially Dethroned As The Franchise's Blueprint",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-anime-remake-save-franchise-blueprint/",
-      "thumbnail": "/drops/thumbs/5ea4aee90837.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/akane-banashi-anime-new-video-previews-karaku-cup-arc/.237206",
       "thumbnail": "/drops/thumbs/1debf1313759.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c536d9a4a3e9",
+      "pillar": "anime",
+      "title": "Netflix Just Stole Two Of Crunchyroll's Biggest Anime, And Both Are Absolute Peak",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/netflix-assassination-classroom-shangri-la-frontier-peak-june/",
+      "thumbnail": "/drops/thumbs/c536d9a4a3e9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "8cf8b4554bae",
     "c012236c4949",
     "92560d50b61b",
-    "55d1b32e7393",
+    "4af5def4f93f",
     "6c12965cb588",
     "9fa29914407d"
   ]
