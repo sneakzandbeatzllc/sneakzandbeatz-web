@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T07:09:22+00:00",
+  "generated_utc": "2026-05-10T08:18:59+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "08ed2b91ae3b",
+      "pillar": "hiphop",
+      "title": "Portland Fire Unveil “Rose City Built” WNBA Nike Rebel Edition Uniforms",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/10/portland-fire-wnba-rose-city-built-nike-rebel-uniform/",
+      "thumbnail": "/drops/thumbs/08ed2b91ae3b.jpg",
+      "published": "2026-05-10T02:42:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c012236c4949",
       "pillar": "hiphop",
       "title": "Jay-Z’s Competitive Nature Tanked Lupe Fiasco Deal, Dame Dash Reveals",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/uncategorized/why-occupational-therapy-helps-sensory-challenges/",
       "thumbnail": "/drops/thumbs/9a9b4e37a1a7.jpg",
       "published": "2026-05-09T15:10:30",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c5194f1d2f87",
-      "pillar": "hiphop",
-      "title": "An Overview of the Various Kinds of Personal Injury Claims",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/an-overview-of-the-various-kinds-of-personal-injury-claims/",
-      "thumbnail": "/drops/thumbs/c5194f1d2f87.png",
-      "published": "2026-05-09T15:06:11",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -329,7 +329,7 @@
     {
       "id": "8c76de8b82b3",
       "pillar": "gaming",
-      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 14 Comments",
+      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 15 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
       "thumbnail": "/drops/thumbs/8c76de8b82b3.jpg",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "c012236c4949",
+    "08ed2b91ae3b",
     "92560d50b61b",
     "509c7c574103",
     "6c12965cb588",
