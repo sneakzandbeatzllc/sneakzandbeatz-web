@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T13:25:01+00:00",
+  "generated_utc": "2026-05-10T14:14:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "What Does Jujutsu Kaisen Mean?",
+      "url": "https://screenrant.com/jujutsu-kaisen-title-meaning-explained/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Demon Slayer’s Muzan Might Be the Most Incompetent Villain in Shonen",
       "url": "https://screenrant.com/demon-slayer-muzan-most-incompetent-anime-villain/",
       "pillar": "anime",
@@ -132,13 +139,6 @@
     {
       "title": "Every Ninja Eye Technique In The Naruto Franchise",
       "url": "https://screenrant.com/naruto-anime-every-eye-technique-sharingan/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Definitive 10 Strongest Black Clover Characters Of All Time",
-      "url": "https://screenrant.com/strongest-black-clover-character-of-all-time/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -186,15 +186,15 @@
       "article_slug": null
     },
     {
-      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 15 Comments",
-      "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
+      "title": "Sony Is Emailing PS4 Owners And Telling Them To Buy A PS5 For GTA 6 And Fans Think It’s The Start Of Something",
+      "url": "https://kotaku.com/sony-is-emailing-ps4-owners-and-telling-them-to-buy-a-ps5-for-gta-6-and-fans-think-its-the-start-of-something-2000694579",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Nintendo’s Takashi Tezuka Reinvented The Legend Of Zelda Without Overthinking It",
-      "url": "https://kotaku.com/takashi-tezuka-reinvented-the-legend-of-zelda-without-overthinking-it-2000694600",
+      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 16 Comments",
+      "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Ryan Cohen Says He ‘Isn’t Passionate’ About GameStop As He Makes Desperate Bid For eBay",
-      "url": "https://kotaku.com/ryan-cohen-says-he-isnt-passionate-about-gamestop-as-he-makes-desperate-bid-for-ebay-2000694578",
+      "title": "Nintendo’s Takashi Tezuka Reinvented The Legend Of Zelda Without Overthinking It",
+      "url": "https://kotaku.com/takashi-tezuka-reinvented-the-legend-of-zelda-without-overthinking-it-2000694600",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
