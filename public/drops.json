@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T17:30:09+00:00",
+  "generated_utc": "2026-05-10T18:17:18+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "92a8833efdfc",
+      "pillar": "hiphop",
+      "title": "Caitlin Clark Hits Stage With Morgan Wallen & Sparks Racial Controversy",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/caitlin-clarks-morgan-wallen-appearance-sparks-racial-controversy/",
+      "thumbnail": "/drops/thumbs/92a8833efdfc.jpg",
+      "published": "2026-05-10T14:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6c485e326404",
+      "pillar": "hiphop",
+      "title": "AI Just Crossed Another Line And Rapsody Called It Out",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/opinion/ai-just-crossed-another-line-and-rapsody-called-it-out/",
+      "thumbnail": "/drops/thumbs/6c485e326404.png",
+      "published": "2026-05-10T13:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "527c29b0d24c",
       "pillar": "hiphop",
       "title": "Eric B & Rakim, 2Pac Get Grammy Hall Recognition",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/newsbreak/st-louis-hotel-bunk-beds/",
       "thumbnail": "/drops/thumbs/30d7074a3200.jpg",
       "published": "2026-05-10T09:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "79120afb213c",
-      "pillar": "hiphop",
-      "title": "Jay-Z Shuts Down MSG Courtside in Virgil Abloh Archive Air Jordan 1 “Alaska”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/10/jay-z-knicks-game-2-msg-virgil-abloh-archive-jordan-1-alaska/",
-      "thumbnail": "/drops/thumbs/79120afb213c.jpg",
-      "published": "2026-05-10T07:44:33",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fad77a47a71f",
-      "pillar": "hiphop",
-      "title": "Steph G Never Understood the Meaning of Failure",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/10/steph-g-never-understood-the-meaning-of-failure/",
-      "thumbnail": "/drops/thumbs/fad77a47a71f.jpg",
-      "published": "2026-05-10T07:16:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -315,18 +315,6 @@
       "release_badge": ""
     },
     {
-      "id": "bd8ec7bc9c21",
-      "pillar": "gaming",
-      "title": "Sony Is Emailing PS4 Owners And Telling Them To Buy A PS5 For GTA 6 And Fans Think It’s The Start Of Something",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/sony-is-emailing-ps4-owners-and-telling-them-to-buy-a-ps5-for-gta-6-and-fans-think-its-the-start-of-something-2000694579",
-      "thumbnail": "/drops/thumbs/bd8ec7bc9c21.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8c76de8b82b3",
       "pillar": "gaming",
       "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 16 Comments",
@@ -345,6 +333,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/features/poll-uncharted-4-turns-10-years-old-but-is-it-the-series-peak",
       "thumbnail": "/drops/thumbs/3850607940ae.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "57294eed6117",
+      "pillar": "gaming",
+      "title": "PlayStation 3 Emulator Devs Politely Ask That People Stop Flooding It With AI Code Pull Requests",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "thumbnail": "/drops/thumbs/57294eed6117.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "abf497006776",
+      "id": "818c6fdb4cdd",
       "pillar": "gaming",
-      "title": "Nintendo’s Takashi Tezuka Reinvented The Legend Of Zelda Without Overthinking It",
+      "title": "The Five Best Pinball Machines For Beginners",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/takashi-tezuka-reinvented-the-legend-of-zelda-without-overthinking-it-2000694600",
-      "thumbnail": "/drops/thumbs/abf497006776.jpg",
+      "source_url": "https://kotaku.com/the-five-best-pinball-machines-for-beginners-medieval-madness-arcade-2000694658",
+      "thumbnail": "/drops/thumbs/818c6fdb4cdd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "527c29b0d24c",
+    "92a8833efdfc",
     "92560d50b61b",
     "e8ea4300596c",
     "6c12965cb588",
