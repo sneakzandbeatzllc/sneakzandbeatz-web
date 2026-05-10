@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T18:31:48+00:00",
+  "generated_utc": "2026-05-10T19:18:43+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d99f20ce32ea",
+      "pillar": "hiphop",
+      "title": "Jay-Z & Beyoncé Flaunt $3.5B Combined Wealth At Met Gala With $50M Necklace & $6M Watch",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/jay-z-beyonce-flaunt-3-5b-combined-wealth-at-met-gala-with-50m-necklace-6m-watch/",
+      "thumbnail": "/drops/thumbs/d99f20ce32ea.jpg",
+      "published": "2026-05-10T15:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4bf6eb021491",
       "pillar": "hiphop",
       "title": "Freddie Gibbs Mourns Father Warren Tipton, Singer Who Competed Against Michael Jackson",
@@ -183,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "c16de0cbe1ab",
-      "pillar": "hiphop",
-      "title": "Final Destination: Frontier Plane Swallows Person Into Jet Engine",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/ahhplus/final-destination-frontier-plane-swallows-person-into-jet-engine/",
-      "thumbnail": "/drops/thumbs/c16de0cbe1ab.jpg",
-      "published": "2026-05-10T11:01:08",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e8ea4300596c",
       "pillar": "anime",
       "title": "Only One Dragon Ball Super Moment Was So Good It Gave Akira Toriyama Goosebumps",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-super-super-hero-akira-toriyama-goose-bumps/",
       "thumbnail": "/drops/thumbs/e8ea4300596c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "04aabae76de2",
-      "pillar": "anime",
-      "title": "What Does Jujutsu Kaisen Mean?",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-title-meaning-explained/",
-      "thumbnail": "/drops/thumbs/04aabae76de2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "e672e8cfb5cb",
+      "id": "71ecb1701736",
       "pillar": "anime",
-      "title": "The biggest anime movie event of the year is so much more than a sci-fi spectacle",
+      "title": "Akane-banashi shouldn’t work as an anime but it’s still Spring's best overlooked show",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/gundam-hathaway-sequel-sorcery-of-nymph-circe-review/",
-      "thumbnail": "/drops/thumbs/e672e8cfb5cb.png",
+      "source_url": "https://www.polygon.com/akane-banashi-turns-a-400-year-old-japanese-storytelling-art-into-a-shonen-battle-of-performance/",
+      "thumbnail": "/drops/thumbs/71ecb1701736.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "7da75fc11bd5",
+      "id": "e672e8cfb5cb",
       "pillar": "anime",
-      "title": "The 10 most perfect sci-fi anime movies of the last 5 years",
+      "title": "The biggest anime movie event of the year is so much more than a sci-fi spectacle",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/the-10-most-perfect-sci-fi-anime-movies-of-the-last-5-years/",
-      "thumbnail": "/drops/thumbs/7da75fc11bd5.png",
+      "source_url": "https://www.polygon.com/gundam-hathaway-sequel-sorcery-of-nymph-circe-review/",
+      "thumbnail": "/drops/thumbs/e672e8cfb5cb.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/tubi-adds-magical-sisters-luluttolilly-anime/.237209",
       "thumbnail": "/drops/thumbs/8a3286271a38.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0f5901e1d778",
+      "pillar": "anime",
+      "title": "2026 Is The End Of An Era For Anime In The Worst Way Possible",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/anime-longer-2026-end-era-worse/",
+      "thumbnail": "/drops/thumbs/0f5901e1d778.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "4bf6eb021491",
+    "d99f20ce32ea",
     "92560d50b61b",
     "e8ea4300596c",
     "6c12965cb588",
