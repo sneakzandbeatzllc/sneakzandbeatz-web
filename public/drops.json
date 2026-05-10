@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T18:17:18+00:00",
+  "generated_utc": "2026-05-10T18:31:48+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4bf6eb021491",
+      "pillar": "hiphop",
+      "title": "Freddie Gibbs Mourns Father Warren Tipton, Singer Who Competed Against Michael Jackson",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/features/freddie-gibbs-mourns-father-warren-tipton-singer-who-once-competed-against-michael-jackson/",
+      "thumbnail": "/drops/thumbs/4bf6eb021491.jpg",
+      "published": "2026-05-10T14:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "92a8833efdfc",
       "pillar": "hiphop",
       "title": "Caitlin Clark Hits Stage With Morgan Wallen & Sparks Racial Controversy",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/ahhplus/final-destination-frontier-plane-swallows-person-into-jet-engine/",
       "thumbnail": "/drops/thumbs/c16de0cbe1ab.jpg",
       "published": "2026-05-10T11:01:08",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "30d7074a3200",
-      "pillar": "hiphop",
-      "title": "Man travels to St. Louis for Cardinals game. Then he requests a hotel room with a fridge—and is shocked to discover the bed: ‘I can’t do this’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/st-louis-hotel-bunk-beds/",
-      "thumbnail": "/drops/thumbs/30d7074a3200.jpg",
-      "published": "2026-05-10T09:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "92a8833efdfc",
+    "4bf6eb021491",
     "92560d50b61b",
     "e8ea4300596c",
     "6c12965cb588",
