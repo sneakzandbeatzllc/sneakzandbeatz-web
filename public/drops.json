@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T20:20:04+00:00",
+  "generated_utc": "2026-05-10T21:22:46+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "9e202375d836",
+      "pillar": "hiphop",
+      "title": "9th Wonder Completes His NC Central Story & Graduates 25 Years After Leaving to Chase Music",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/9th-wonder-completes-his-nc-central-story-graduates-25-years-after-leaving-to-chase-music/",
+      "thumbnail": "/drops/thumbs/9e202375d836.jpg",
+      "published": "2026-05-10T17:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d99f20ce32ea",
       "pillar": "hiphop",
       "title": "Jay-Z & Beyoncé Flaunt $3.5B Combined Wealth At Met Gala With $50M Necklace & $6M Watch",
@@ -183,24 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "1e2df5ae5fd7",
-      "pillar": "hiphop",
-      "title": "Blatimore Mayor Renames Street In Honor Of Tupac Shakur Way in North Baltimore",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/blatimore-mayor-renames-street-in-honor-of-tupac-shakur-way-in-north-baltimore/",
-      "thumbnail": "/drops/thumbs/1e2df5ae5fd7.jpg",
-      "published": "2026-05-10T11:19:15",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e8ea4300596c",
+      "id": "a21fc709855f",
       "pillar": "anime",
-      "title": "Only One Dragon Ball Super Moment Was So Good It Gave Akira Toriyama Goosebumps",
+      "title": "One Piece Has Been Dropping Hints At A Classic Character's God-Tier Upgrade For Years",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-super-hero-akira-toriyama-goose-bumps/",
-      "thumbnail": "/drops/thumbs/e8ea4300596c.jpg",
+      "source_url": "https://screenrant.com/one-piece-dragon-god-tier-upgrade-rain-god/",
+      "thumbnail": "/drops/thumbs/a21fc709855f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "d99f20ce32ea",
+    "9e202375d836",
     "92560d50b61b",
-    "e8ea4300596c",
+    "a21fc709855f",
     "6c12965cb588",
     "9cd075db84aa"
   ]
