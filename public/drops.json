@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-09T23:13:48+00:00",
+  "generated_utc": "2026-05-10T00:00:51+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "a963425e7b31",
-      "pillar": "anime",
-      "title": "Who Is Demon Slayer's Kokushibo? Infinity Castle Part 2's Big Villain Explained",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-kokushibo-identity-explained-infinity-castle/",
-      "thumbnail": "/drops/thumbs/a963425e7b31.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "55d1b32e7393",
       "pillar": "anime",
       "title": "30 Strongest One Piece Devil Fruits, Ranked (So Far)",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/jojos-bizarre-adventure-battle-tendency-devastating-character-death/",
       "thumbnail": "/drops/thumbs/83c29db0626d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2799b8af7069",
+      "pillar": "anime",
+      "title": "A New Heir to One of the Greatest Isekai Anime is Officially Coming to Crunchyroll",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/hanaori-san-still-wants-fight-crunchyroll-successor-devil-part-timer/",
+      "thumbnail": "/drops/thumbs/2799b8af7069.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "8cf8b4554bae",
     "3dc00bb41f40",
     "92560d50b61b",
-    "a963425e7b31",
+    "55d1b32e7393",
     "6c12965cb588",
     "9fa29914407d"
   ]
