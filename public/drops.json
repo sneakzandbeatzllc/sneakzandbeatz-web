@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T12:11:14+00:00",
+  "generated_utc": "2026-05-10T12:23:27+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "79120afb213c",
+      "pillar": "hiphop",
+      "title": "Jay-Z Shuts Down MSG Courtside in Virgil Abloh Archive Air Jordan 1 “Alaska”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/10/jay-z-knicks-game-2-msg-virgil-abloh-archive-jordan-1-alaska/",
+      "thumbnail": "/drops/thumbs/79120afb213c.jpg",
+      "published": "2026-05-10T07:44:33",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "72664912c6f1",
       "pillar": "hiphop",
       "title": "‘Its same at Dunkin’: New Jersey woman orders from Starbucks drive-thru. Then she tries to add a drink for her co-worker—but the barista refuses",
@@ -106,6 +118,30 @@
       "source_url": "https://allhiphop.com/newsbreak/new-jersey-starbucks-drive-thru-barista-refuses/",
       "thumbnail": "/drops/thumbs/72664912c6f1.jpg",
       "published": "2026-05-10T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "42a61054e1ea",
+      "pillar": "hiphop",
+      "title": "NBA Veteran P.J. Tucker Announces Retirement After 14 Seasons",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/10/pj-tucker-announces-nba-retirement-14-seasons/",
+      "thumbnail": "/drops/thumbs/42a61054e1ea.jpg",
+      "published": "2026-05-10T05:54:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f9aaa4304bbb",
+      "pillar": "hiphop",
+      "title": "Netflix Kicks Off Production for ‘Forever’ Season 2 in Los Angeles",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/10/forever-season-2-netflix-production-los-angeles-cast/",
+      "thumbnail": "/drops/thumbs/f9aaa4304bbb.jpg",
+      "published": "2026-05-10T05:42:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -154,42 +190,6 @@
       "source_url": "https://allhiphop.com/news/diddy-bear-hug-butt-grab-nyc-street-isnt-crime/",
       "thumbnail": "/drops/thumbs/dfcf541c9e8a.jpg",
       "published": "2026-05-09T18:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "45d779df4b45",
-      "pillar": "hiphop",
-      "title": "Cardi B & Ex Stefon Diggs Get Cozy Enough To Spark Rumors",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/cardi-b-ex-stefon-diggs-get-cozy-enough-to-spark-rumors/",
-      "thumbnail": "/drops/thumbs/45d779df4b45.png",
-      "published": "2026-05-09T17:40:59",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "aa556260270b",
-      "pillar": "hiphop",
-      "title": "DJ Khaled Throws His Weight Behind Uncle Luke’s Run For Congress",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/dj-khaled-throws-his-weight-behind-uncle-lukes-run-for-congress/",
-      "thumbnail": "/drops/thumbs/aa556260270b.png",
-      "published": "2026-05-09T16:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a3a6009dbe41",
-      "pillar": "hiphop",
-      "title": "Coke Wave Returns: French Montana, Max B, and Rick Ross Reunite for “SMOKING PART II”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/09/coke-wave-returns-french-montana-max-b-and-rick-ross-reunite-for-smoking-part-ii/",
-      "thumbnail": "/drops/thumbs/a3a6009dbe41.jpg",
-      "published": "2026-05-09T15:10:40",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "72664912c6f1",
+    "79120afb213c",
     "92560d50b61b",
     "509c7c574103",
     "6c12965cb588",
