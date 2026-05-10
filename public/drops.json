@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T02:04:04+00:00",
+  "generated_utc": "2026-05-10T03:05:50+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "22d8c13a1ccb",
+      "pillar": "anime",
+      "title": "The Definitive 10 Strongest Black Clover Characters Of All Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/strongest-black-clover-character-of-all-time/",
+      "thumbnail": "/drops/thumbs/22d8c13a1ccb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4af5def4f93f",
       "pillar": "anime",
       "title": "Naruto's True Sasuke Successor Is Literally One Step Away From God-Tier",
@@ -207,24 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "55d1b32e7393",
+      "id": "8a3286271a38",
       "pillar": "anime",
-      "title": "30 Strongest One Piece Devil Fruits, Ranked (So Far)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
-      "thumbnail": "/drops/thumbs/55d1b32e7393.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c504b5682cb5",
-      "pillar": "anime",
-      "title": "Live-Action Blue Lock Film Announces 2 More Cast Members",
+      "title": "Tubi Adds Magical Sisters LuluttoLilly Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/live-action-blue-lock-film-announces-2-more-cast-members/.237210",
-      "thumbnail": "/drops/thumbs/c504b5682cb5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/tubi-adds-magical-sisters-luluttolilly-anime/.237209",
+      "thumbnail": "/drops/thumbs/8a3286271a38.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "a465216c0c0c",
+      "id": "c504b5682cb5",
       "pillar": "anime",
-      "title": "Daemons of the Shadow Realm Anime Casts Shinichirō Miki",
+      "title": "Live-Action Blue Lock Film Announces 2 More Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/daemons-of-the-shadow-realm-anime-casts-shinichiro-miki/.237208",
-      "thumbnail": "/drops/thumbs/a465216c0c0c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/live-action-blue-lock-film-announces-2-more-cast-members/.237210",
+      "thumbnail": "/drops/thumbs/c504b5682cb5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "1debf1313759",
+      "id": "a465216c0c0c",
       "pillar": "anime",
-      "title": "Akane-banashi Anime's New Video Previews Karaku Cup Arc",
+      "title": "Daemons of the Shadow Realm Anime Casts Shinichirō Miki",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/akane-banashi-anime-new-video-previews-karaku-cup-arc/.237206",
-      "thumbnail": "/drops/thumbs/1debf1313759.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/daemons-of-the-shadow-realm-anime-casts-shinichiro-miki/.237208",
+      "thumbnail": "/drops/thumbs/a465216c0c0c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "c536d9a4a3e9",
+      "id": "978682d2b8b4",
       "pillar": "anime",
-      "title": "Netflix Just Stole Two Of Crunchyroll's Biggest Anime, And Both Are Absolute Peak",
+      "title": "New Crunchyroll Anime Is Already 2026's Most Emotionally Devastating Series",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-assassination-classroom-shangri-la-frontier-peak-june/",
-      "thumbnail": "/drops/thumbs/c536d9a4a3e9.jpg",
+      "source_url": "https://screenrant.com/agents-four-seasons-dance-spring-crunchyroll-emotionally-devastating/",
+      "thumbnail": "/drops/thumbs/978682d2b8b4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "8cf8b4554bae",
     "c012236c4949",
     "92560d50b61b",
-    "4af5def4f93f",
+    "22d8c13a1ccb",
     "6c12965cb588",
     "9fa29914407d"
   ]
