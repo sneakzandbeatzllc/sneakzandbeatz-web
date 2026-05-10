@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T14:15:23+00:00",
+  "generated_utc": "2026-05-10T15:16:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Final Destination: Frontier Plane Swallows Person Into Jet Engine",
+      "url": "https://allhiphop.com/ahhplus/final-destination-frontier-plane-swallows-person-into-jet-engine/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Man travels to St. Louis for Cardinals game. Then he requests a hotel room with a fridge—and is shocked to discover the bed: ‘I can’t do this’",
       "url": "https://allhiphop.com/newsbreak/st-louis-hotel-bunk-beds/",
       "pillar": "hiphop",
@@ -109,9 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Seth Rogen Roasts Kanye West During Netflix Comedy Event",
-      "url": "https://allhiphop.com/rumors/seth-rogen-roasts-kanye-west-during-netflix-comedy-event/",
-      "pillar": "hiphop",
+      "title": "Only One Dragon Ball Super Moment Was So Good It Gave Akira Toriyama Goosebumps",
+      "url": "https://screenrant.com/dragon-ball-super-super-hero-akira-toriyama-goose-bumps/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -132,13 +139,6 @@
     {
       "title": "Studio Bones Can Fix My Hero Academia's Ending With One Bold Move",
       "url": "https://screenrant.com/my-hero-academia-bones-fix-ending/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Every Ninja Eye Technique In The Naruto Franchise",
-      "url": "https://screenrant.com/naruto-anime-every-eye-technique-sharingan/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T14:15:23+00:00",
+  "generated_utc": "2026-05-10T15:16:51+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "c16de0cbe1ab",
+      "pillar": "hiphop",
+      "title": "Final Destination: Frontier Plane Swallows Person Into Jet Engine",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/ahhplus/final-destination-frontier-plane-swallows-person-into-jet-engine/",
+      "thumbnail": "/drops/thumbs/c16de0cbe1ab.jpg",
+      "published": "2026-05-10T11:01:08",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "30d7074a3200",
       "pillar": "hiphop",
       "title": "Man travels to St. Louis for Cardinals game. Then he requests a hotel room with a fridge—and is shocked to discover the bed: ‘I can’t do this’",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "3dc00bb41f40",
-      "pillar": "hiphop",
-      "title": "Seth Rogen Roasts Kanye West During Netflix Comedy Event",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/seth-rogen-roasts-kanye-west-during-netflix-comedy-event/",
-      "thumbnail": "/drops/thumbs/3dc00bb41f40.jpg",
-      "published": "2026-05-09T18:29:18",
+      "id": "e8ea4300596c",
+      "pillar": "anime",
+      "title": "Only One Dragon Ball Super Moment Was So Good It Gave Akira Toriyama Goosebumps",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-super-hero-akira-toriyama-goose-bumps/",
+      "thumbnail": "/drops/thumbs/e8ea4300596c.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -225,18 +237,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/my-hero-academia-bones-fix-ending/",
       "thumbnail": "/drops/thumbs/509c7c574103.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "50cdda4d59f0",
-      "pillar": "anime",
-      "title": "Every Ninja Eye Technique In The Naruto Franchise",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-anime-every-eye-technique-sharingan/",
-      "thumbnail": "/drops/thumbs/50cdda4d59f0.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "30d7074a3200",
+    "c16de0cbe1ab",
     "92560d50b61b",
-    "04aabae76de2",
+    "e8ea4300596c",
     "6c12965cb588",
     "9cd075db84aa"
   ]
