@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T03:05:50+00:00",
+  "generated_utc": "2026-05-10T04:07:31+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -195,6 +195,30 @@
       "release_badge": ""
     },
     {
+      "id": "509c7c574103",
+      "pillar": "anime",
+      "title": "Studio Bones Can Fix My Hero Academia's Ending With One Bold Move",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/my-hero-academia-bones-fix-ending/",
+      "thumbnail": "/drops/thumbs/509c7c574103.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "50cdda4d59f0",
+      "pillar": "anime",
+      "title": "Every Ninja Eye Technique In The Naruto Franchise",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-anime-every-eye-technique-sharingan/",
+      "thumbnail": "/drops/thumbs/50cdda4d59f0.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "22d8c13a1ccb",
       "pillar": "anime",
       "title": "The Definitive 10 Strongest Black Clover Characters Of All Time",
@@ -261,30 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/jojos-bizarre-adventure-battle-tendency-devastating-character-death/",
       "thumbnail": "/drops/thumbs/83c29db0626d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a465216c0c0c",
-      "pillar": "anime",
-      "title": "Daemons of the Shadow Realm Anime Casts Shinichirō Miki",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/daemons-of-the-shadow-realm-anime-casts-shinichiro-miki/.237208",
-      "thumbnail": "/drops/thumbs/a465216c0c0c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "978682d2b8b4",
-      "pillar": "anime",
-      "title": "New Crunchyroll Anime Is Already 2026's Most Emotionally Devastating Series",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/agents-four-seasons-dance-spring-crunchyroll-emotionally-devastating/",
-      "thumbnail": "/drops/thumbs/978682d2b8b4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "8cf8b4554bae",
     "c012236c4949",
     "92560d50b61b",
-    "22d8c13a1ccb",
+    "509c7c574103",
     "6c12965cb588",
     "9fa29914407d"
   ]
