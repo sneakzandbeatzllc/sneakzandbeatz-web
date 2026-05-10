@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T15:26:55+00:00",
+  "generated_utc": "2026-05-10T16:15:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Michigan rancher feeds the baby bunnies. Then they notice something unusual in the pen: ‘They were hiding it’",
+      "url": "https://allhiphop.com/newsbreak/michigan-wild-bunny-sneaks-onto-ranch/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Back To Slavery In Alabama? A Republican Politician Seeks 14th Amendment Repeal",
+      "url": "https://allhiphop.com/opinion/back-to-slavery-in-alabama-a-republican-politician-seeks-14th-amendment-repeal/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Blatimore Mayor Renames Street In Honor Of Tupac Shakur Way in North Baltimore",
       "url": "https://allhiphop.com/news/blatimore-mayor-renames-street-in-honor-of-tupac-shakur-way-in-north-baltimore/",
       "pillar": "hiphop",
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Netflix Kicks Off Production for ‘Forever’ Season 2 in Los Angeles",
-      "url": "https://thesource.com/2026/05/10/forever-season-2-netflix-production-los-angeles-cast/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Portland Fire Unveil “Rose City Built” WNBA Nike Rebel Edition Uniforms",
-      "url": "https://thesource.com/2026/05/10/portland-fire-wnba-rose-city-built-nike-rebel-uniform/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Only One Dragon Ball Super Moment Was So Good It Gave Akira Toriyama Goosebumps",
       "url": "https://screenrant.com/dragon-ball-super-super-hero-akira-toriyama-goose-bumps/",
       "pillar": "anime",
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Studio Bones Can Fix My Hero Academia's Ending With One Bold Move",
-      "url": "https://screenrant.com/my-hero-academia-bones-fix-ending/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Nagisa Furuya's The Summer of You Boys-Love Manga Gets Live-Action Series",
       "url": "https://www.animenewsnetwork.com/news/2026-05-10/nagisa-furuya-the-summer-of-you-boys-love-manga-gets-live-action-series/.237219",
       "pillar": "anime",
@@ -151,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "The 10 most perfect sci-fi anime movies of the last 5 years",
-      "url": "https://www.polygon.com/the-10-most-perfect-sci-fi-anime-movies-of-the-last-5-years/",
+      "title": "The biggest anime movie event of the year is so much more than a sci-fi spectacle",
+      "url": "https://www.polygon.com/gundam-hathaway-sequel-sorcery-of-nymph-circe-review/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Nobody is watching the best sci-fi anime of Spring 2026",
-      "url": "https://www.polygon.com/snowball-earth-spring-anime-optimistic-mecha-anime/",
+      "title": "The 10 most perfect sci-fi anime movies of the last 5 years",
+      "url": "https://www.polygon.com/the-10-most-perfect-sci-fi-anime-movies-of-the-last-5-years/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Tubi Adds Magical Sisters LuluttoLilly Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-09/tubi-adds-magical-sisters-luluttolilly-anime/.237209",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News Giant Enemy Crabs, $599, Ridge Racer: Sony's Wild E3 2006 Is Now 20-Years-Old",
-      "url": "https://www.pushsquare.com/news/2026/05/giant-enemy-crabs-usd599-ridge-racer-sonys-wild-e3-2006-is-now-20-years-old",
+      "title": "Poll Uncharted 4 Turns 10 Years Old, But Is It the Series' Peak?",
+      "url": "https://www.pushsquare.com/features/poll-uncharted-4-turns-10-years-old-but-is-it-the-series-peak",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

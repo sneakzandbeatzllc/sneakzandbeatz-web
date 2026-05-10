@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T15:26:55+00:00",
+  "generated_utc": "2026-05-10T16:15:41+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "697a7bfcf303",
+      "pillar": "hiphop",
+      "title": "Michigan rancher feeds the baby bunnies. Then they notice something unusual in the pen: ‘They were hiding it’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/michigan-wild-bunny-sneaks-onto-ranch/",
+      "thumbnail": "/drops/thumbs/697a7bfcf303.jpg",
+      "published": "2026-05-10T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ee9fe4be1b07",
+      "pillar": "hiphop",
+      "title": "Back To Slavery In Alabama? A Republican Politician Seeks 14th Amendment Repeal",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/opinion/back-to-slavery-in-alabama-a-republican-politician-seeks-14th-amendment-repeal/",
+      "thumbnail": "/drops/thumbs/ee9fe4be1b07.jpg",
+      "published": "2026-05-10T11:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1e2df5ae5fd7",
       "pillar": "hiphop",
       "title": "Blatimore Mayor Renames Street In Honor Of Tupac Shakur Way in North Baltimore",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "f9aaa4304bbb",
-      "pillar": "hiphop",
-      "title": "Netflix Kicks Off Production for ‘Forever’ Season 2 in Los Angeles",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/10/forever-season-2-netflix-production-los-angeles-cast/",
-      "thumbnail": "/drops/thumbs/f9aaa4304bbb.jpg",
-      "published": "2026-05-10T05:42:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "08ed2b91ae3b",
-      "pillar": "hiphop",
-      "title": "Portland Fire Unveil “Rose City Built” WNBA Nike Rebel Edition Uniforms",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/10/portland-fire-wnba-rose-city-built-nike-rebel-uniform/",
-      "thumbnail": "/drops/thumbs/08ed2b91ae3b.jpg",
-      "published": "2026-05-10T02:42:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e8ea4300596c",
       "pillar": "anime",
       "title": "Only One Dragon Ball Super Moment Was So Good It Gave Akira Toriyama Goosebumps",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "509c7c574103",
-      "pillar": "anime",
-      "title": "Studio Bones Can Fix My Hero Academia's Ending With One Bold Move",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/my-hero-academia-bones-fix-ending/",
-      "thumbnail": "/drops/thumbs/509c7c574103.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bb2ae178003e",
       "pillar": "anime",
       "title": "Nagisa Furuya's The Summer of You Boys-Love Manga Gets Live-Action Series",
@@ -255,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "7da75fc11bd5",
+      "id": "e672e8cfb5cb",
       "pillar": "anime",
-      "title": "The 10 most perfect sci-fi anime movies of the last 5 years",
+      "title": "The biggest anime movie event of the year is so much more than a sci-fi spectacle",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/the-10-most-perfect-sci-fi-anime-movies-of-the-last-5-years/",
-      "thumbnail": "/drops/thumbs/7da75fc11bd5.png",
+      "source_url": "https://www.polygon.com/gundam-hathaway-sequel-sorcery-of-nymph-circe-review/",
+      "thumbnail": "/drops/thumbs/e672e8cfb5cb.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "5e64e3fd23e2",
+      "id": "7da75fc11bd5",
       "pillar": "anime",
-      "title": "Nobody is watching the best sci-fi anime of Spring 2026",
+      "title": "The 10 most perfect sci-fi anime movies of the last 5 years",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/snowball-earth-spring-anime-optimistic-mecha-anime/",
-      "thumbnail": "/drops/thumbs/5e64e3fd23e2.jpg",
+      "source_url": "https://www.polygon.com/the-10-most-perfect-sci-fi-anime-movies-of-the-last-5-years/",
+      "thumbnail": "/drops/thumbs/7da75fc11bd5.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8a3286271a38",
+      "pillar": "anime",
+      "title": "Tubi Adds Magical Sisters LuluttoLilly Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-09/tubi-adds-magical-sisters-luluttolilly-anime/.237209",
+      "thumbnail": "/drops/thumbs/8a3286271a38.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "0505c7c270c1",
+      "id": "3850607940ae",
       "pillar": "gaming",
-      "title": "News Giant Enemy Crabs, $599, Ridge Racer: Sony's Wild E3 2006 Is Now 20-Years-Old",
+      "title": "Poll Uncharted 4 Turns 10 Years Old, But Is It the Series' Peak?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/giant-enemy-crabs-usd599-ridge-racer-sonys-wild-e3-2006-is-now-20-years-old",
-      "thumbnail": "/drops/thumbs/0505c7c270c1.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-uncharted-4-turns-10-years-old-but-is-it-the-series-peak",
+      "thumbnail": "/drops/thumbs/3850607940ae.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "1e2df5ae5fd7",
+    "697a7bfcf303",
     "92560d50b61b",
     "e8ea4300596c",
     "6c12965cb588",
