@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T16:28:30+00:00",
+  "generated_utc": "2026-05-10T17:19:48+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "527c29b0d24c",
+      "pillar": "hiphop",
+      "title": "Eric B & Rakim, 2Pac Get Grammy Hall Recognition",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/eric-b-rakim-2pac-get-grammy-hall-recognition/",
+      "thumbnail": "/drops/thumbs/527c29b0d24c.jpg",
+      "published": "2026-05-10T13:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "697a7bfcf303",
       "pillar": "hiphop",
       "title": "Michigan rancher feeds the baby bunnies. Then they notice something unusual in the pen: ‘They were hiding it’",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "72664912c6f1",
-      "pillar": "hiphop",
-      "title": "‘Its same at Dunkin’: New Jersey woman orders from Starbucks drive-thru. Then she tries to add a drink for her co-worker—but the barista refuses",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/new-jersey-starbucks-drive-thru-barista-refuses/",
-      "thumbnail": "/drops/thumbs/72664912c6f1.jpg",
-      "published": "2026-05-10T06:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e8ea4300596c",
       "pillar": "anime",
       "title": "Only One Dragon Ball Super Moment Was So Good It Gave Akira Toriyama Goosebumps",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "738b2fff44fe",
+      "id": "93c21da51fe8",
       "pillar": "anime",
-      "title": "Demon Slayer’s Muzan Might Be the Most Incompetent Villain in Shonen",
+      "title": "One Piece Reveals A God-Tier Threat Even Stronger Than Luffy, And They're Terrifying",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-muzan-most-incompetent-anime-villain/",
-      "thumbnail": "/drops/thumbs/738b2fff44fe.png",
+      "source_url": "https://screenrant.com/one-piece-god-tier-villain-zaza-reveal/",
+      "thumbnail": "/drops/thumbs/93c21da51fe8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "697a7bfcf303",
+    "527c29b0d24c",
     "92560d50b61b",
     "e8ea4300596c",
     "6c12965cb588",

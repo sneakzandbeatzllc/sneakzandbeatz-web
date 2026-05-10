@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T16:28:30+00:00",
+  "generated_utc": "2026-05-10T17:19:48+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Eric B & Rakim, 2Pac Get Grammy Hall Recognition",
+      "url": "https://allhiphop.com/news/eric-b-rakim-2pac-get-grammy-hall-recognition/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Michigan rancher feeds the baby bunnies. Then they notice something unusual in the pen: ‘They were hiding it’",
       "url": "https://allhiphop.com/newsbreak/michigan-wild-bunny-sneaks-onto-ranch/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "‘Its same at Dunkin’: New Jersey woman orders from Starbucks drive-thru. Then she tries to add a drink for her co-worker—but the barista refuses",
-      "url": "https://allhiphop.com/newsbreak/new-jersey-starbucks-drive-thru-barista-refuses/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Only One Dragon Ball Super Moment Was So Good It Gave Akira Toriyama Goosebumps",
       "url": "https://screenrant.com/dragon-ball-super-super-hero-akira-toriyama-goose-bumps/",
       "pillar": "anime",
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "Demon Slayer’s Muzan Might Be the Most Incompetent Villain in Shonen",
-      "url": "https://screenrant.com/demon-slayer-muzan-most-incompetent-anime-villain/",
+      "title": "One Piece Reveals A God-Tier Threat Even Stronger Than Luffy, And They're Terrifying",
+      "url": "https://screenrant.com/one-piece-god-tier-villain-zaza-reveal/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
