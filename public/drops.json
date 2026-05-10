@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T00:00:51+00:00",
+  "generated_utc": "2026-05-10T00:15:29+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "c012236c4949",
+      "pillar": "hiphop",
+      "title": "Jay-Z’s Competitive Nature Tanked Lupe Fiasco Deal, Dame Dash Reveals",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/jay-zs-competitive-nature-tanked-lupe-fiasco-deal-dame-dash-reveals/",
+      "thumbnail": "/drops/thumbs/c012236c4949.jpg",
+      "published": "2026-05-09T20:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3dc00bb41f40",
       "pillar": "hiphop",
       "title": "Seth Rogen Roasts Kanye West During Netflix Comedy Event",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/uncategorized/an-overview-of-the-various-kinds-of-personal-injury-claims/",
       "thumbnail": "/drops/thumbs/c5194f1d2f87.png",
       "published": "2026-05-09T15:06:11",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1ae45094b087",
-      "pillar": "hiphop",
-      "title": "Why Hiring a Personal Injury Lawyer in Florida Matters",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/why-hiring-a-personal-injury-lawyer-in-florida-matters/",
-      "thumbnail": "/drops/thumbs/1ae45094b087.png",
-      "published": "2026-05-09T15:03:21",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "3dc00bb41f40",
+    "c012236c4949",
     "92560d50b61b",
     "55d1b32e7393",
     "6c12965cb588",
