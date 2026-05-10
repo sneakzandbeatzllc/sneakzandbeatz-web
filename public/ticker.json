@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T12:23:27+00:00",
+  "generated_utc": "2026-05-10T13:12:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -53,10 +53,17 @@
       "article_slug": null
     },
     {
-      "title": "J Balvin’s Air Jordan 1 “Black” Made For Friends and Family",
-      "url": "https://sneakerbardetroit.com/j-balvin-air-jordan-1-black-sample/",
+      "title": "Sneaker Talk: Air Jordan 11 DMP “Gratitude”",
+      "url": "https://sneakerbardetroit.com/air-jordan-11-dmp-gratitude-2023-ct8012-170/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Man travels to St. Louis for Cardinals game. Then he requests a hotel room with a fridge—and is shocked to discover the bed: ‘I can’t do this’",
+      "url": "https://allhiphop.com/newsbreak/st-louis-hotel-bunk-beds/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,9 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "EXCLUSIVE: Diddy Lawyers Argue A Bear Hug & Butt Grab On A NYC Street Isn’t A Crime Of Violence",
-      "url": "https://allhiphop.com/news/diddy-bear-hug-butt-grab-nyc-street-isnt-crime/",
-      "pillar": "hiphop",
+      "title": "Demon Slayer’s Muzan Might Be the Most Incompetent Villain in Shonen",
+      "url": "https://screenrant.com/demon-slayer-muzan-most-incompetent-anime-villain/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -137,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Naruto's True Sasuke Successor Is Literally One Step Away From God-Tier",
-      "url": "https://screenrant.com/naruto-sasuke-successor-sarada-uchiha-god-tier/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Nagisa Furuya's The Summer of You Boys-Love Manga Gets Live-Action Series",
       "url": "https://www.animenewsnetwork.com/news/2026-05-10/nagisa-furuya-the-summer-of-you-boys-love-manga-gets-live-action-series/.237219",
       "pillar": "anime",
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Nobody is watching the best sci-fi anime of Spring 2026",
-      "url": "https://www.polygon.com/snowball-earth-spring-anime-optimistic-mecha-anime/",
+      "title": "The 10 most perfect sci-fi anime movies of the last 5 years",
+      "url": "https://www.polygon.com/the-10-most-perfect-sci-fi-anime-movies-of-the-last-5-years/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "JoJo: Battle Tendency features one of the most devastating deaths in the franchise",
-      "url": "https://www.polygon.com/jojos-bizarre-adventure-battle-tendency-devastating-character-death/",
+      "title": "Nobody is watching the best sci-fi anime of Spring 2026",
+      "url": "https://www.polygon.com/snowball-earth-spring-anime-optimistic-mecha-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News Why Is Everyone Acting So Weird About PS5 Game Mixtape?",
-      "url": "https://www.pushsquare.com/news/2026/05/why-is-everyone-acting-so-weird-about-ps5-game-mixtape",
+      "title": "News Giant Enemy Crabs, $599, Ridge Racer: Sony's Wild E3 2006 Is Now 20-Years-Old",
+      "url": "https://www.pushsquare.com/news/2026/05/giant-enemy-crabs-usd599-ridge-racer-sonys-wild-e3-2006-is-now-20-years-old",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

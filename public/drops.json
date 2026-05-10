@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T12:23:27+00:00",
+  "generated_utc": "2026-05-10T13:12:41+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -87,15 +87,27 @@
       "release_badge": ""
     },
     {
-      "id": "08aec1a23e2f",
+      "id": "99ef1390d498",
       "pillar": "sneakers",
-      "title": "J Balvin’s Air Jordan 1 “Black” Made For Friends and Family",
+      "title": "Sneaker Talk: Air Jordan 11 DMP “Gratitude”",
       "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/j-balvin-air-jordan-1-black-sample/",
-      "thumbnail": "/drops/thumbs/08aec1a23e2f.webp",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-11-dmp-gratitude-2023-ct8012-170/",
+      "thumbnail": "/drops/thumbs/99ef1390d498.webp",
       "published": "",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "30d7074a3200",
+      "pillar": "hiphop",
+      "title": "Man travels to St. Louis for Cardinals game. Then he requests a hotel room with a fridge—and is shocked to discover the bed: ‘I can’t do this’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/st-louis-hotel-bunk-beds/",
+      "thumbnail": "/drops/thumbs/30d7074a3200.jpg",
+      "published": "2026-05-10T09:00:00",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "dfcf541c9e8a",
-      "pillar": "hiphop",
-      "title": "EXCLUSIVE: Diddy Lawyers Argue A Bear Hug & Butt Grab On A NYC Street Isn’t A Crime Of Violence",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/diddy-bear-hug-butt-grab-nyc-street-isnt-crime/",
-      "thumbnail": "/drops/thumbs/dfcf541c9e8a.jpg",
-      "published": "2026-05-09T18:00:00",
+      "id": "738b2fff44fe",
+      "pillar": "anime",
+      "title": "Demon Slayer’s Muzan Might Be the Most Incompetent Villain in Shonen",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/demon-slayer-muzan-most-incompetent-anime-villain/",
+      "thumbnail": "/drops/thumbs/738b2fff44fe.png",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -231,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "4af5def4f93f",
-      "pillar": "anime",
-      "title": "Naruto's True Sasuke Successor Is Literally One Step Away From God-Tier",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-sasuke-successor-sarada-uchiha-god-tier/",
-      "thumbnail": "/drops/thumbs/4af5def4f93f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bb2ae178003e",
       "pillar": "anime",
       "title": "Nagisa Furuya's The Summer of You Boys-Love Manga Gets Live-Action Series",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "5e64e3fd23e2",
+      "id": "7da75fc11bd5",
       "pillar": "anime",
-      "title": "Nobody is watching the best sci-fi anime of Spring 2026",
+      "title": "The 10 most perfect sci-fi anime movies of the last 5 years",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/snowball-earth-spring-anime-optimistic-mecha-anime/",
-      "thumbnail": "/drops/thumbs/5e64e3fd23e2.jpg",
+      "source_url": "https://www.polygon.com/the-10-most-perfect-sci-fi-anime-movies-of-the-last-5-years/",
+      "thumbnail": "/drops/thumbs/7da75fc11bd5.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "83c29db0626d",
+      "id": "5e64e3fd23e2",
       "pillar": "anime",
-      "title": "JoJo: Battle Tendency features one of the most devastating deaths in the franchise",
+      "title": "Nobody is watching the best sci-fi anime of Spring 2026",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/jojos-bizarre-adventure-battle-tendency-devastating-character-death/",
-      "thumbnail": "/drops/thumbs/83c29db0626d.jpg",
+      "source_url": "https://www.polygon.com/snowball-earth-spring-anime-optimistic-mecha-anime/",
+      "thumbnail": "/drops/thumbs/5e64e3fd23e2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "23aafd92f19d",
+      "id": "0505c7c270c1",
       "pillar": "gaming",
-      "title": "News Why Is Everyone Acting So Weird About PS5 Game Mixtape?",
+      "title": "News Giant Enemy Crabs, $599, Ridge Racer: Sony's Wild E3 2006 Is Now 20-Years-Old",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/why-is-everyone-acting-so-weird-about-ps5-game-mixtape",
-      "thumbnail": "/drops/thumbs/23aafd92f19d.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/giant-enemy-crabs-usd599-ridge-racer-sonys-wild-e3-2006-is-now-20-years-old",
+      "thumbnail": "/drops/thumbs/0505c7c270c1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "79120afb213c",
+    "30d7074a3200",
     "92560d50b61b",
-    "509c7c574103",
+    "738b2fff44fe",
     "6c12965cb588",
     "9cd075db84aa"
   ]
