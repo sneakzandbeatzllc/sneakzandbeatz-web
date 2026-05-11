@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-10T23:37:13+00:00",
+  "generated_utc": "2026-05-11T01:27:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Legendary Dragon Ball Icon Officially Declares One Piece Trash",
+      "url": "https://screenrant.com/dragon-ball-torishima-one-piece-bad/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Naruto and Sasuke Have Never Been The Franchise's Deepest Hero",
       "url": "https://screenrant.com/naruto-kakashi-deepest-franchise-character/",
       "pillar": "anime",
@@ -165,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "Tubi Adds Magical Sisters LuluttoLilly Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-09/tubi-adds-magical-sisters-luluttolilly-anime/.237209",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
       "url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
       "pillar": "gaming",
@@ -186,7 +186,7 @@
       "article_slug": null
     },
     {
-      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 16 Comments",
+      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 18 Comments",
       "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
       "pillar": "gaming",
       "score": 1.0,
