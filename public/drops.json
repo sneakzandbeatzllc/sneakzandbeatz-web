@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T19:55:32+00:00",
+  "generated_utc": "2026-05-11T20:42:34+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "66edf92b0ca7",
+      "pillar": "hiphop",
+      "title": "Ye Prague Concert Producers Fight Back Against  Critics",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ye-prague-concert-producers-fight-back-against-critics/",
+      "thumbnail": "/drops/thumbs/66edf92b0ca7.png",
+      "published": "2026-05-11T16:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2ea9df267c39",
       "pillar": "hiphop",
       "title": "Cole Allen Pleads Not Guilty To Donald Trump Assassination Attempt",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/newsbreak/garage-door-opener-chamberlain-vs-genie-cost/",
       "thumbnail": "/drops/thumbs/a585218173c0.jpg",
       "published": "2026-05-11T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "642e7a4d39ed",
-      "pillar": "hiphop",
-      "title": "DDG Shocks Nick Cannon With Brutal Joke On “Wild ‘N Out,” But He Cheated",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/ddg-shocks-nick-cannon-with-brutal-joke-on-wild-n-out-but-he-cheated/",
-      "thumbnail": "/drops/thumbs/642e7a4d39ed.jpg",
-      "published": "2026-05-11T11:20:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "2ea9df267c39",
+    "66edf92b0ca7",
     "f931c0c69400",
     "df422d875f6e",
     "26df7af50eda",
