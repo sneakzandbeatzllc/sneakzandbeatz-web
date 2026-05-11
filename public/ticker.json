@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T12:44:44+00:00",
+  "generated_utc": "2026-05-11T13:25:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Maryland man goes to Harbor Freight for knee pads. Then he realizes they’re completely different now: ‘Designed with a woman in mind’",
+      "url": "https://allhiphop.com/newsbreak/maryland-harbor-freight-western-safety-rolling-knee-pads/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Don Toliver and Yeat Fuel Explosive Opening Night at Rolling Loud",
       "url": "https://thesource.com/2026/05/11/don-toliver-and-yeat-fuel-explosive-opening-night-at-rolling-loud/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Kevin Hart Gets Cooked in Star-Studded Netflix Live Roast",
-      "url": "https://thesource.com/2026/05/11/roast-of-kevin-hart-netflix-live-recap-kia-forum/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Legendary Dragon Ball Icon Officially Declares One Piece Trash",
       "url": "https://screenrant.com/dragon-ball-torishima-one-piece-bad/",
       "pillar": "anime",
@@ -130,15 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "Naruto and Sasuke Have Never Been The Franchise's Deepest Hero",
-      "url": "https://screenrant.com/naruto-kakashi-deepest-franchise-character/",
+      "title": "One Piece Is About To Redeem Its Most Disappointing Villains",
+      "url": "https://screenrant.com/one-piece-is-about-to-redeem-its-most-disappointing-villains/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "The Insipid Prince's Furtive Grab for The Throne Anime Reveals 1st Promo Video, 4 New Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/the-insipid-prince-furtive-grab-for-the-throne-anime-reveals-1st-promo-video-4-new-cast-members/.237254",
+      "title": "Maki Fujita's Ka no Yo no Kemono ga Miru Yume wa Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/maki-fujita-ka-no-yo-no-kemono-ga-miru-yume-wa-manga-ends/.237226",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Piccoma to Launch Short-Form Anime Category in Late May",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/piccoma-to-launch-short-form-anime-category-in-late-may/.237240",
+      "title": "The Insipid Prince's Furtive Grab for The Throne Anime Reveals 1st Promo Video, 4 New Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/the-insipid-prince-furtive-grab-for-the-throne-anime-reveals-1st-promo-video-4-new-cast-members/.237254",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "K Manga Adds LDK Pink Sequel Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/k-manga-adds-ldk-pink-sequel-manga/.237233",
+      "title": "Piccoma to Launch Short-Form Anime Category in Late May",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/piccoma-to-launch-short-form-anime-category-in-late-may/.237240",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,15 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "Rockstar Teases A Summer Update For GTA Online – Could This Connect To GTA 6?",
-      "url": "https://gameranx.com/updates/id/562605/article/rockstar-teases-a-summer-update-for-gta-online-could-this-connect-to-gta-6/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
-      "url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
+      "title": "News See the Alternate Version of Uncharted 4 You Never Got to Play in Eye-Opening Video",
+      "url": "https://www.pushsquare.com/news/2026/05/see-the-alternate-version-of-uncharted-4-you-never-got-to-play-in-eye-opening-video",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -195,6 +188,13 @@
     {
       "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 18 Comments",
       "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
+      "url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "PlayStation 3 Emulator Devs Politely Ask That People Stop Flooding It With AI Code Pull Requests",
-      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "title": "Nintendo Investors Panic About Switch 2 Prices And Silence Around Big Game Announcements",
+      "url": "https://kotaku.com/nintendo-share-price-mario-zelda-switch-2-increase-2000694839",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
