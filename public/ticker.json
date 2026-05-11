@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T09:39:13+00:00",
+  "generated_utc": "2026-05-11T10:25:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Woman walks the halls of the Great Wolf Lodge alone at night. Then she sees something chilling: ‘That’s the great wolf himself’",
+      "url": "https://allhiphop.com/newsbreak/great-wolf-lodge-haunted/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Red Hot Chili Peppers Sell Recorded Catalog To WMG For $300M",
       "url": "https://allhiphop.com/news/red-hot-chili-peppers-sell-recorded-catalog-to-wmg-for-300m/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Eric B & Rakim, 2Pac Get Grammy Hall Recognition",
       "url": "https://allhiphop.com/news/eric-b-rakim-2pac-get-grammy-hall-recognition/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Michigan rancher feeds the baby bunnies. Then they notice something unusual in the pen: ‘They were hiding it’",
-      "url": "https://allhiphop.com/newsbreak/michigan-wild-bunny-sneaks-onto-ranch/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,6 +200,13 @@
       "article_slug": null
     },
     {
+      "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
+      "url": "https://gameranx.com/updates/id/562615/article/gears-of-war-e-day-is-sponsoring-upcoming-professional-wrestling-event-triplemania-2026/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Man Finds Rare Uncut Sheets Of Blue-Eyes Dragon Yu-Gi-Oh Cards Worth $1 Million In A Dumpster",
       "url": "https://kotaku.com/rare-uncut-sheets-of-blue-eyes-dragon-yu-gi-oh-cards-discovered-in-texas-dumpster-2000694672",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "The rumors are true: The Batman 2 is set in winter as Matt Reeves delivers perfect first look",
       "url": "https://www.gamesradar.com/entertainment/dc-movies/the-rumors-are-true-the-batman-2-is-set-in-winter-as-matt-reeves-delivers-perfect-first-look/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Newly Discovered Exploit For Rockstar’s Bully Lets You Finally Unlock BB Rifle 20 Years Later",
-      "url": "https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

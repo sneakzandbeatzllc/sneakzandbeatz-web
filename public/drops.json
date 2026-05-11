@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T09:39:13+00:00",
+  "generated_utc": "2026-05-11T10:25:35+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "ea8b0e27ad3e",
+      "pillar": "hiphop",
+      "title": "Woman walks the halls of the Great Wolf Lodge alone at night. Then she sees something chilling: ‘That’s the great wolf himself’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/great-wolf-lodge-haunted/",
+      "thumbnail": "/drops/thumbs/ea8b0e27ad3e.jpg",
+      "published": "2026-05-11T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bd9533f5444c",
       "pillar": "hiphop",
       "title": "Red Hot Chili Peppers Sell Recorded Catalog To WMG For $300M",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/eric-b-rakim-2pac-get-grammy-hall-recognition/",
       "thumbnail": "/drops/thumbs/527c29b0d24c.jpg",
       "published": "2026-05-10T13:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "697a7bfcf303",
-      "pillar": "hiphop",
-      "title": "Michigan rancher feeds the baby bunnies. Then they notice something unusual in the pen: ‘They were hiding it’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/michigan-wild-bunny-sneaks-onto-ranch/",
-      "thumbnail": "/drops/thumbs/697a7bfcf303.jpg",
-      "published": "2026-05-10T12:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "033c30b964f0",
+      "pillar": "gaming",
+      "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562615/article/gears-of-war-e-day-is-sponsoring-upcoming-professional-wrestling-event-triplemania-2026/",
+      "thumbnail": "/drops/thumbs/033c30b964f0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f496fb4e0645",
       "pillar": "gaming",
       "title": "Man Finds Rare Uncut Sheets Of Blue-Eyes Dragon Yu-Gi-Oh Cards Worth $1 Million In A Dumpster",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "441b4eaafd63",
-      "pillar": "gaming",
-      "title": "Newly Discovered Exploit For Rockstar’s Bully Lets You Finally Unlock BB Rifle 20 Years Later",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646",
-      "thumbnail": "/drops/thumbs/441b4eaafd63.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "8cf8b4554bae",
-    "bd9533f5444c",
+    "ea8b0e27ad3e",
     "92560d50b61b",
     "d1e5ecdfefb4",
     "6c12965cb588",
