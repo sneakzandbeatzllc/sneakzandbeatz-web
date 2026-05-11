@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T19:06:13+00:00",
+  "generated_utc": "2026-05-11T19:37:56+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "2ea9df267c39",
+      "pillar": "hiphop",
+      "title": "Cole Allen Pleads Not Guilty To Donald Trump Assassination Attempt",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/cole-allen-pleads-not-guilty-to-donald-trump-assassination-attempt/",
+      "thumbnail": "/drops/thumbs/2ea9df267c39.jpg",
+      "published": "2026-05-11T15:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d5d5495027cf",
       "pillar": "hiphop",
       "title": "Jermaine Dupri Explodes Over Kris Kross Money Debate As Fans Question What Happened To The Fortune",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/rumors/ddg-shocks-nick-cannon-with-brutal-joke-on-wild-n-out-but-he-cheated/",
       "thumbnail": "/drops/thumbs/642e7a4d39ed.jpg",
       "published": "2026-05-11T11:20:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "84520432ac8f",
-      "pillar": "hiphop",
-      "title": "Kevin Hart Roast Ends Katt Williams Beef Live on Netflix",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kevin-hart-roast-ends-katt-williams-beef-live-on-netflix/",
-      "thumbnail": "/drops/thumbs/84520432ac8f.png",
-      "published": "2026-05-11T11:02:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "d5d5495027cf",
+    "2ea9df267c39",
     "f931c0c69400",
     "df422d875f6e",
     "26df7af50eda",
