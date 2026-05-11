@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T13:43:31+00:00",
+  "generated_utc": "2026-05-11T13:46:15+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "44134a237648",
+      "pillar": "hiphop",
+      "title": "Tupac’s ‘All Eyez On Me’ And Eric B. & Rakim’s ‘Paid In Full’ Have Been Inducted Into The Grammy Hall Of Fame",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/11/tupacs-all-eyez-on-me-and-eric-b-rakims-paid-in-full-have-been-inducted-into-the-grammy-hall-of-fame/",
+      "thumbnail": "/drops/thumbs/44134a237648.jpg",
+      "published": "2026-05-11T09:33:23",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "24531f4b6e3f",
+      "pillar": "hiphop",
+      "title": "Today in Hip-Hop History: Onyx’s Smash Single “Slam” Dropped 33 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/11/today-in-hip-hop-history-onyxs-smash-single-slam-dropped-33-years-ago/",
+      "thumbnail": "/drops/thumbs/24531f4b6e3f.jpg",
+      "published": "2026-05-11T09:11:46",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4c0e83540b73",
       "pillar": "hiphop",
       "title": "Maryland man goes to Harbor Freight for knee pads. Then he realizes they’re completely different now: ‘Designed with a woman in mind’",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/05/11/sec-athlete-boycott-suggested-after-supreme-court-redistricting-ruling/",
       "thumbnail": "/drops/thumbs/0d1aee4c4447.jpg",
       "published": "2026-05-11T07:42:07",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0fcaef4e0b00",
-      "pillar": "hiphop",
-      "title": "Portland Fire Debut in Historic Fashion with Sold-Out Season Opener",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/11/portland-fire-wnba-return-sold-out-home-opener-2026/",
-      "thumbnail": "/drops/thumbs/0fcaef4e0b00.jpg",
-      "published": "2026-05-11T07:25:21",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b50413221b06",
-      "pillar": "hiphop",
-      "title": "Portland Fire Spark Historic Return with Sold-Out Home Opener",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/11/portland-fire-wnba-home-opener-ashanti-moda-center/",
-      "thumbnail": "/drops/thumbs/b50413221b06.jpg",
-      "published": "2026-05-11T07:20:35",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "4c0e83540b73",
+    "44134a237648",
     "92560d50b61b",
     "d1e5ecdfefb4",
     "6c12965cb588",
