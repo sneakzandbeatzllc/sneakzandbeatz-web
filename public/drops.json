@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T21:59:47+00:00",
+  "generated_utc": "2026-05-11T22:45:09+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "65ef62fc5a05",
+      "pillar": "hiphop",
+      "title": "Rolling Loud Orlando Crushes With Ken Carson, Young Thug & Sexyy Red Bringing Chaos To Closing Night",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/features/rolling-loud-orlando-crushes-with-ken-carson-young-thug-sexyy-red-bringing-chaos-to-closing-night/",
+      "thumbnail": "/drops/thumbs/65ef62fc5a05.png",
+      "published": "2026-05-11T18:43:23",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "361502dfd209",
+      "pillar": "hiphop",
+      "title": "6ix9ine Breaks Down 21 Savage’s U Visa, Addresses Accountability With Big Bank",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/6ix9ine-breaks-down-21-savages-u-visa-addresses-accountability-with-big-bank/",
+      "thumbnail": "/drops/thumbs/361502dfd209.jpg",
+      "published": "2026-05-11T18:00:37",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9d8e2c378bba",
       "pillar": "hiphop",
       "title": "Snoop Dogg Delivers On Promise With Major Music Equipment Donation To Special Needs School",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/cardi-b-defends-hairstylist-against-cheating-allegations/",
       "thumbnail": "/drops/thumbs/63d8b8e2666f.jpg",
       "published": "2026-05-11T14:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3990436850bc",
-      "pillar": "hiphop",
-      "title": "Jurors Begin Deliberations On Death Penalty For Foolio Murder",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jurors-begin-deliberations-on-death-penalty-for-foolio-murder/",
-      "thumbnail": "/drops/thumbs/3990436850bc.png",
-      "published": "2026-05-11T13:01:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8952f178339c",
-      "pillar": "hiphop",
-      "title": "Pete Davidson Reignites Kanye West Feud With Nazi Joke During Kevin Hart Roast",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/pete-davidson-reignites-kanye-west-feud-with-nazi-joke-during-kevin-hart-roast/",
-      "thumbnail": "/drops/thumbs/8952f178339c.jpg",
-      "published": "2026-05-11T12:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "9d8e2c378bba",
+    "65ef62fc5a05",
     "f931c0c69400",
     "df422d875f6e",
     "26df7af50eda",
