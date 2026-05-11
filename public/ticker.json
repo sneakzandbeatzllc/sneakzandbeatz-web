@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T12:28:29+00:00",
+  "generated_utc": "2026-05-11T12:42:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,15 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "Naruto and Sasuke Have Never Been The Franchise's Deepest Hero",
-      "url": "https://screenrant.com/naruto-kakashi-deepest-franchise-character/",
+      "title": "Solo Leveling's Biggest Rival Has It Beat In One Big Way",
+      "url": "https://screenrant.com/solo-leveling-rival-omniscient-reader-winner-female-characters/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Every Main Frieren Character's Age Explained",
-      "url": "https://screenrant.com/every-main-frieren-characters-age-explained/",
+      "title": "Naruto and Sasuke Have Never Been The Franchise's Deepest Hero",
+      "url": "https://screenrant.com/naruto-kakashi-deepest-franchise-character/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "Poll Uncharted 4 Turns 10 Years Old, But Is It the Series' Peak?",
-      "url": "https://www.pushsquare.com/features/poll-uncharted-4-turns-10-years-old-but-is-it-the-series-peak",
+      "title": "Marvel TV boss confirms \"small\" Daredevil: Born Again season 3 time jump, and it could ruin your Spider-Man theories",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-tv-boss-confirms-small-daredevil-born-again-season-3-time-jump-and-it-could-be-the-killing-blow-for-all-your-spider-man-brand-new-day-theories/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Exclusive Mortal Kombat 2 writer reveals the fighter he cut from the script: \"I wasn't able to devote enough time to sell him as a character\"",
+      "url": "https://www.gamesradar.com/entertainment/action-movies/mortal-kombat-2-writer-reveals-the-one-fighter-he-cut-from-the-script-i-wasnt-able-to-devote-enough-time-to-sell-him-as-a-character/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "PlayStation 3 Emulator Devs Politely Ask That People Stop Flooding It With AI Code Pull Requests",
       "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The rumors are true: The Batman 2 is set in winter as Matt Reeves delivers perfect first look",
-      "url": "https://www.gamesradar.com/entertainment/dc-movies/the-rumors-are-true-the-batman-2-is-set-in-winter-as-matt-reeves-delivers-perfect-first-look/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
