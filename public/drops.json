@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T09:24:10+00:00",
+  "generated_utc": "2026-05-11T09:39:13+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -291,6 +291,18 @@
       "release_badge": ""
     },
     {
+      "id": "50b6b76f729d",
+      "pillar": "gaming",
+      "title": "Rockstar New York Has Another Marketing Job Open (It’s For GTA 6)",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562613/article/rockstar-new-york-has-another-marketing-job-open-its-for-gta-6/",
+      "thumbnail": "/drops/thumbs/50b6b76f729d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a1aa73f36714",
       "pillar": "gaming",
       "title": "Rockstar Teases A Summer Update For GTA Online – Could This Connect To GTA 6?",
@@ -363,18 +375,6 @@
       "release_badge": ""
     },
     {
-      "id": "3d4fceeba605",
-      "pillar": "gaming",
-      "title": "Ubisoft Shared A Cosplay Style Guide (With New Lore!) For Assassin’s Creed Black Flag Resynced’s Edward Kenway",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562610/article/ubisoft-shared-a-cosplay-style-guide-with-new-lore-for-assassins-creed-black-flag-resynceds-edward-kenway/",
-      "thumbnail": "/drops/thumbs/3d4fceeba605.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "441b4eaafd63",
       "pillar": "gaming",
       "title": "Newly Discovered Exploit For Rockstar’s Bully Lets You Finally Unlock BB Rifle 20 Years Later",
@@ -393,6 +393,6 @@
     "92560d50b61b",
     "d1e5ecdfefb4",
     "6c12965cb588",
-    "a1aa73f36714"
+    "50b6b76f729d"
   ]
 }

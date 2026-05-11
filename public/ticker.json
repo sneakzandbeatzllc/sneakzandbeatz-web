@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T09:24:10+00:00",
+  "generated_utc": "2026-05-11T09:39:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,6 +172,13 @@
       "article_slug": null
     },
     {
+      "title": "Rockstar New York Has Another Marketing Job Open (It’s For GTA 6)",
+      "url": "https://gameranx.com/updates/id/562613/article/rockstar-new-york-has-another-marketing-job-open-its-for-gta-6/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rockstar Teases A Summer Update For GTA Online – Could This Connect To GTA 6?",
       "url": "https://gameranx.com/updates/id/562605/article/rockstar-teases-a-summer-update-for-gta-online-could-this-connect-to-gta-6/",
       "pillar": "gaming",
@@ -209,13 +216,6 @@
     {
       "title": "The rumors are true: The Batman 2 is set in winter as Matt Reeves delivers perfect first look",
       "url": "https://www.gamesradar.com/entertainment/dc-movies/the-rumors-are-true-the-batman-2-is-set-in-winter-as-matt-reeves-delivers-perfect-first-look/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ubisoft Shared A Cosplay Style Guide (With New Lore!) For Assassin’s Creed Black Flag Resynced’s Edward Kenway",
-      "url": "https://gameranx.com/updates/id/562610/article/ubisoft-shared-a-cosplay-style-guide-with-new-lore-for-assassins-creed-black-flag-resynceds-edward-kenway/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
