@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T08:37:47+00:00",
+  "generated_utc": "2026-05-11T09:24:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,8 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "K Manga Adds LDK Pink Sequel Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/k-manga-adds-ldk-pink-sequel-manga/.237233",
+      "title": "Piccoma to Launch Short-Form Anime Category in Late May",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/piccoma-to-launch-short-form-anime-category-in-late-may/.237240",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "'Go for It, Nakamura!' Anime Reveals New Cast Member",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/go-for-it-nakamura-anime-reveals-new-cast-member/.237246",
+      "title": "K Manga Adds LDK Pink Sequel Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/k-manga-adds-ldk-pink-sequel-manga/.237233",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,29 +165,15 @@
       "article_slug": null
     },
     {
-      "title": "Let Me Fix You Short Anime Rescheduled to Mid-June Without Buta Productions, FAR",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/let-me-fix-you-short-anime-rescheduled-to-mid-june-without-buta-productions-far/.237200",
+      "title": "'Go for It, Nakamura!' Anime Reveals New Cast Member",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/go-for-it-nakamura-anime-reveals-new-cast-member/.237246",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
-      "url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
       "title": "Rockstar Teases A Summer Update For GTA Online – Could This Connect To GTA 6?",
       "url": "https://gameranx.com/updates/id/562605/article/rockstar-teases-a-summer-update-for-gta-online-could-this-connect-to-gta-6/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 18 Comments",
-      "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +186,22 @@
       "article_slug": null
     },
     {
+      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 18 Comments",
+      "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Man Finds Rare Uncut Sheets Of Blue-Eyes Dragon Yu-Gi-Oh Cards Worth $1 Million In A Dumpster",
       "url": "https://kotaku.com/rare-uncut-sheets-of-blue-eyes-dragon-yu-gi-oh-cards-discovered-in-texas-dumpster-2000694672",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Crimson Desert PS5 Update Streak Continues in Patch 1.06, Out Now on PS5",
+      "url": "https://www.pushsquare.com/news/2026/05/crimson-desert-ps5-update-streak-continues-in-patch-1-06-out-now-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

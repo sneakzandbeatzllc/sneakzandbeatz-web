@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T08:37:47+00:00",
+  "generated_utc": "2026-05-11T09:24:10+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "5c9dc5ac4e8b",
+      "id": "2ee909dfd0d5",
       "pillar": "anime",
-      "title": "K Manga Adds LDK Pink Sequel Manga",
+      "title": "Piccoma to Launch Short-Form Anime Category in Late May",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/k-manga-adds-ldk-pink-sequel-manga/.237233",
-      "thumbnail": "/drops/thumbs/5c9dc5ac4e8b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/piccoma-to-launch-short-form-anime-category-in-late-may/.237240",
+      "thumbnail": "/drops/thumbs/2ee909dfd0d5.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "cf91b7095578",
+      "id": "5c9dc5ac4e8b",
       "pillar": "anime",
-      "title": "'Go for It, Nakamura!' Anime Reveals New Cast Member",
+      "title": "K Manga Adds LDK Pink Sequel Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/go-for-it-nakamura-anime-reveals-new-cast-member/.237246",
-      "thumbnail": "/drops/thumbs/cf91b7095578.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/k-manga-adds-ldk-pink-sequel-manga/.237233",
+      "thumbnail": "/drops/thumbs/5c9dc5ac4e8b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "dbf73c87d20d",
+      "id": "cf91b7095578",
       "pillar": "anime",
-      "title": "Let Me Fix You Short Anime Rescheduled to Mid-June Without Buta Productions, FAR",
+      "title": "'Go for It, Nakamura!' Anime Reveals New Cast Member",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/let-me-fix-you-short-anime-rescheduled-to-mid-june-without-buta-productions-far/.237200",
-      "thumbnail": "/drops/thumbs/dbf73c87d20d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9cd075db84aa",
-      "pillar": "gaming",
-      "title": "News PlayStation Urges PS4 Players to Upgrade to PS5 for GTA 6",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/playstation-urges-ps4-players-to-upgrade-to-ps5-for-gta-6",
-      "thumbnail": "/drops/thumbs/9cd075db84aa.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/go-for-it-nakamura-anime-reveals-new-cast-member/.237246",
+      "thumbnail": "/drops/thumbs/cf91b7095578.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,18 +303,6 @@
       "release_badge": ""
     },
     {
-      "id": "8c76de8b82b3",
-      "pillar": "gaming",
-      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 18 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
-      "thumbnail": "/drops/thumbs/8c76de8b82b3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3850607940ae",
       "pillar": "gaming",
       "title": "Poll Uncharted 4 Turns 10 Years Old, But Is It the Series' Peak?",
@@ -339,12 +315,36 @@
       "release_badge": ""
     },
     {
+      "id": "8c76de8b82b3",
+      "pillar": "gaming",
+      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 18 Comments",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
+      "thumbnail": "/drops/thumbs/8c76de8b82b3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f496fb4e0645",
       "pillar": "gaming",
       "title": "Man Finds Rare Uncut Sheets Of Blue-Eyes Dragon Yu-Gi-Oh Cards Worth $1 Million In A Dumpster",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/rare-uncut-sheets-of-blue-eyes-dragon-yu-gi-oh-cards-discovered-in-texas-dumpster-2000694672",
       "thumbnail": "/drops/thumbs/f496fb4e0645.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6556d1f79604",
+      "pillar": "gaming",
+      "title": "News Crimson Desert PS5 Update Streak Continues in Patch 1.06, Out Now on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/crimson-desert-ps5-update-streak-continues-in-patch-1-06-out-now-on-ps5",
+      "thumbnail": "/drops/thumbs/6556d1f79604.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "92560d50b61b",
     "d1e5ecdfefb4",
     "6c12965cb588",
-    "9cd075db84aa"
+    "a1aa73f36714"
   ]
 }
