@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T16:36:09+00:00",
+  "generated_utc": "2026-05-11T16:48:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-12-bloodline/",
       "pillar": "sneakers",
       "score": 7.5,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 9 OG “Space Jam” Returns August 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 19 Comments",
-      "url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
+      "title": "Final Fantasy Rebirth skipped DLC due to concerns it would affect 3rd game’s schedule",
+      "url": "https://www.gamesradar.com/video/zWkHGkuA/final-fantasy-rebirth-skipped-dlc-due-to-concerns-it-would-affect-3rd-game-s-schedule/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "Marvel TV boss confirms \"small\" Daredevil: Born Again season 3 time jump, and it could ruin your Spider-Man theories",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-tv-boss-confirms-small-daredevil-born-again-season-3-time-jump-and-it-could-be-the-killing-blow-for-all-your-spider-man-brand-new-day-theories/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
       "url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
       "pillar": "gaming",
@@ -214,15 +207,22 @@
       "article_slug": null
     },
     {
-      "title": "Exclusive Mortal Kombat 2 writer reveals the fighter he cut from the script: \"I wasn't able to devote enough time to sell him as a character\"",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/mortal-kombat-2-writer-reveals-the-one-fighter-he-cut-from-the-script-i-wasnt-able-to-devote-enough-time-to-sell-him-as-a-character/",
+      "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
+      "url": "https://gameranx.com/updates/id/562615/article/gears-of-war-e-day-is-sponsoring-upcoming-professional-wrestling-event-triplemania-2026/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
-      "url": "https://gameranx.com/updates/id/562615/article/gears-of-war-e-day-is-sponsoring-upcoming-professional-wrestling-event-triplemania-2026/",
+      "title": "Nintendo Investors Panic About Switch 2 Prices And Silence Around Big Game Announcements",
+      "url": "https://kotaku.com/nintendo-share-price-mario-zelda-switch-2-increase-2000694839",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Special How The Blood of Dawnwalker can shape the future of RPGs",
+      "url": "https://www.gamesradar.com/games/rpg/exploring-the-future-of-rpgs-how-rebel-wolves-is-striving-to-raise-the-bar-with-the-blood-of-dawnwalker/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T16:36:09+00:00",
+  "generated_utc": "2026-05-11T16:48:01+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 7.5,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "f931c0c69400",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
+      "thumbnail": "/drops/thumbs/f931c0c69400.jpg",
+      "published": "2026-05-10T15:44:38",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "26df7af50eda",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
       "thumbnail": "/drops/thumbs/796e1bf65859.jpg",
       "published": "2026-05-08T12:39:12",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8cb509546594",
-      "pillar": "sneakers",
-      "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
-      "thumbnail": "/drops/thumbs/8cb509546594.jpg",
-      "published": "2026-05-06T13:25:08",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "8c76de8b82b3",
+      "id": "4ffdc274a11c",
       "pillar": "gaming",
-      "title": "Horizon Zero Dawn Remastered used PlayStation's AI animation tool, and Naughty Dog is following suit 19 Comments",
+      "title": "Final Fantasy Rebirth skipped DLC due to concerns it would affect 3rd game’s schedule",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/open-world/horizon-zero-dawn-remastered-used-playstations-new-ai-animation-tool-and-naughty-dog-and-san-diego-studio-are-both-following-suit/",
-      "thumbnail": "/drops/thumbs/8c76de8b82b3.jpg",
+      "source_url": "https://www.gamesradar.com/video/zWkHGkuA/final-fantasy-rebirth-skipped-dlc-due-to-concerns-it-would-affect-3rd-game-s-schedule/",
+      "thumbnail": "/drops/thumbs/4ffdc274a11c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,36 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "1ca7f4eef0f3",
-      "pillar": "gaming",
-      "title": "Marvel TV boss confirms \"small\" Daredevil: Born Again season 3 time jump, and it could ruin your Spider-Man theories",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-tv-boss-confirms-small-daredevil-born-again-season-3-time-jump-and-it-could-be-the-killing-blow-for-all-your-spider-man-brand-new-day-theories/",
-      "thumbnail": "/drops/thumbs/1ca7f4eef0f3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1fa89680151a",
       "pillar": "gaming",
       "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
       "thumbnail": "/drops/thumbs/1fa89680151a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "484795156e8a",
-      "pillar": "gaming",
-      "title": "Exclusive Mortal Kombat 2 writer reveals the fighter he cut from the script: \"I wasn't able to devote enough time to sell him as a character\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/action-movies/mortal-kombat-2-writer-reveals-the-one-fighter-he-cut-from-the-script-i-wasnt-able-to-devote-enough-time-to-sell-him-as-a-character/",
-      "thumbnail": "/drops/thumbs/484795156e8a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,14 +361,38 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "cfb8c92cab95",
+      "pillar": "gaming",
+      "title": "Nintendo Investors Panic About Switch 2 Prices And Silence Around Big Game Announcements",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/nintendo-share-price-mario-zelda-switch-2-increase-2000694839",
+      "thumbnail": "/drops/thumbs/cfb8c92cab95.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8ea0ac3a2f9e",
+      "pillar": "gaming",
+      "title": "Special How The Blood of Dawnwalker can shape the future of RPGs",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/exploring-the-future-of-rpgs-how-rebel-wolves-is-striving-to-raise-the-bar-with-the-blood-of-dawnwalker/",
+      "thumbnail": "/drops/thumbs/8ea0ac3a2f9e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "8cf8b4554bae",
     "8952f178339c",
-    "26df7af50eda",
+    "f931c0c69400",
     "df422d875f6e",
-    "92560d50b61b",
+    "26df7af50eda",
     "50b6b76f729d"
   ]
 }
