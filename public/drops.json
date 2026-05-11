@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T20:58:22+00:00",
+  "generated_utc": "2026-05-11T21:11:44+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "9d8e2c378bba",
+      "pillar": "hiphop",
+      "title": "Snoop Dogg Delivers On Promise With Major Music Equipment Donation To Special Needs School",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/snoop-dogg-delivers-on-promise-with-major-music-equipment-donation-to-special-needs-school/",
+      "thumbnail": "/drops/thumbs/9d8e2c378bba.png",
+      "published": "2026-05-11T17:00:50",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "66edf92b0ca7",
       "pillar": "hiphop",
       "title": "Ye Prague Concert Producers Fight Back Against  Critics",
@@ -177,18 +189,6 @@
       "source": "AllHipHop",
       "source_url": "https://allhiphop.com/news/pete-davidson-reignites-kanye-west-feud-with-nazi-joke-during-kevin-hart-roast/",
       "thumbnail": "/drops/thumbs/8952f178339c.jpg",
-      "published": "2026-05-11T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a585218173c0",
-      "pillar": "hiphop",
-      "title": "Minnesota man gets quoted $800 for installation of a new garage door opener. Then he sees Genie, Chamberlain openers are $200: ‘Can someone tell me why?’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/garage-door-opener-chamberlain-vs-genie-cost/",
-      "thumbnail": "/drops/thumbs/a585218173c0.jpg",
       "published": "2026-05-11T12:00:00",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "66edf92b0ca7",
+    "9d8e2c378bba",
     "f931c0c69400",
     "df422d875f6e",
     "26df7af50eda",
