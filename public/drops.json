@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T16:50:50+00:00",
+  "generated_utc": "2026-05-11T17:01:12+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "4ffdc274a11c",
+      "id": "1ca7f4eef0f3",
       "pillar": "gaming",
-      "title": "Final Fantasy Rebirth skipped DLC due to concerns it would affect 3rd game’s schedule",
+      "title": "Marvel TV boss confirms \"small\" Daredevil: Born Again season 3 time jump, and it could ruin your Spider-Man theories",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/video/zWkHGkuA/final-fantasy-rebirth-skipped-dlc-due-to-concerns-it-would-affect-3rd-game-s-schedule/",
-      "thumbnail": "/drops/thumbs/4ffdc274a11c.jpg",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-tv-boss-confirms-small-daredevil-born-again-season-3-time-jump-and-it-could-be-the-killing-blow-for-all-your-spider-man-brand-new-day-theories/",
+      "thumbnail": "/drops/thumbs/1ca7f4eef0f3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "5548f81843e6",
+      "pillar": "gaming",
+      "title": "Arcana won't ever be mentioned again in the Mortal Kombat universe, promises sequel writer",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/action-movies/arcana-wont-ever-be-mentioned-again-in-the-mortal-kombat-universe-promises-sequel-writer-it-kind-of-became-our-midi-chlorians/",
+      "thumbnail": "/drops/thumbs/5548f81843e6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "033c30b964f0",
       "pillar": "gaming",
       "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
@@ -363,24 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "cfb8c92cab95",
+      "id": "250b052cf865",
       "pillar": "gaming",
-      "title": "Nintendo Investors Panic About Switch 2 Prices And Silence Around Big Game Announcements",
+      "title": "Nintendo Lawyers Sent WWE Superstar Cody Rhodes A Cease And Desist Over His Boots",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/nintendo-share-price-mario-zelda-switch-2-increase-2000694839",
-      "thumbnail": "/drops/thumbs/cfb8c92cab95.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8ea0ac3a2f9e",
-      "pillar": "gaming",
-      "title": "Special How The Blood of Dawnwalker can shape the future of RPGs",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/exploring-the-future-of-rpgs-how-rebel-wolves-is-striving-to-raise-the-bar-with-the-blood-of-dawnwalker/",
-      "thumbnail": "/drops/thumbs/8ea0ac3a2f9e.jpg",
+      "source_url": "https://kotaku.com/nintendo-lawyers-sent-wwe-superstar-cody-rhodes-a-cease-and-desist-over-his-boots-2000694908",
+      "thumbnail": "/drops/thumbs/250b052cf865.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
