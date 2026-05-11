@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-11T23:01:08+00:00",
+  "generated_utc": "2026-05-11T23:14:29+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "47cc67f235ee",
+      "pillar": "hiphop",
+      "title": "Ice Cube Accused Of Blowing Off Lawsuit From Best Boys And Grips",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ice-cube-accused-of-blowing-off-lawsuit-from-best-boys-and-grips/",
+      "thumbnail": "/drops/thumbs/47cc67f235ee.png",
+      "published": "2026-05-11T19:00:53",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "65ef62fc5a05",
       "pillar": "hiphop",
       "title": "Rolling Loud Orlando Crushes With Ken Carson, Young Thug & Sexyy Red Bringing Chaos To Closing Night",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/sleepy-don-trends-as-trump-nods-off-during-presidential-mental-health-meeting/",
       "thumbnail": "/drops/thumbs/af472e8fb2b2.jpg",
       "published": "2026-05-11T14:14:41",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "63d8b8e2666f",
-      "pillar": "hiphop",
-      "title": "Cardi B Defends Hairstylist Against Cheating Allegations",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/cardi-b-defends-hairstylist-against-cheating-allegations/",
-      "thumbnail": "/drops/thumbs/63d8b8e2666f.jpg",
-      "published": "2026-05-11T14:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "65ef62fc5a05",
+    "47cc67f235ee",
     "f931c0c69400",
     "df422d875f6e",
     "26df7af50eda",
