@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T16:58:09+00:00",
+  "generated_utc": "2026-05-12T17:05:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Jason Aldean Explains How Ludacris Ended Up On “Dirt Road Anthem”",
+      "url": "https://allhiphop.com/news/jason-aldean-explains-how-ludacris-ended-up-on-dirt-road-anthem/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "George Floyd Family Blasts Tony Hinchcliffe Over Netflix Roast Joke",
       "url": "https://allhiphop.com/news/george-floyd-family-blasts-tony-hinchcliffe-over-netflix-roast-joke/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Jalen Brunson’s Rise Rooted in Father Rick Brunson’s NBA Journey",
-      "url": "https://thesource.com/2026/05/12/jalen-brunsons-rise-rooted-in-father-rick-brunsons-nba-journey/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Love It Or Hate It, Dragon Ball GT Saved The Anime Industry",
       "url": "https://screenrant.com/dragon-ball-gt-saved-anime-industry/",
       "pillar": "anime",
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Dandadan Is Derailing Its Biggest Romance, And Honestly, It's A Welcome Change",
-      "url": "https://screenrant.com/dandadan-okarun-momo-romance-love-triangle/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Osamu Tezuka's Autobiographical War Manga, Postwar Life Get Live-Action TV Special",
       "url": "https://www.animenewsnetwork.com/news/2026-05-12/osamu-tezuka-autobiographical-war-manga-postwar-life-get-live-action-tv-special/.237229",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "'With Vengeance, Sincerely, Your Broken Saintess' Light Anime Gets 2nd Season in October",
       "url": "https://www.animenewsnetwork.com/news/2026-05-12/with-vengeance-sincerely-your-broken-saintess-light-anime-gets-2nd-season-in-october/.237277",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Ghost in the Shell anime gets exciting release date update with newest trailer",
+      "url": "https://www.polygon.com/ghost-in-the-shell-2026-release-date-july/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,22 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News No One Noticed Intergalactic's Hidden Naughty Dog Easter Egg",
-      "url": "https://www.pushsquare.com/news/2026/05/no-one-noticed-intergalactics-hidden-naughty-dog-easter-egg",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News What a Twist! Ex-Tekken Boss Harada Opens New Studio Under Fatal Fury's SNK",
       "url": "https://www.pushsquare.com/news/2026/05/what-a-twist-ex-tekken-boss-harada-opens-new-studio-under-fatal-furys-snk",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy",
-      "url": "https://kotaku.com/marathon-player-goes-out-of-bounds-to-grief-team-right-after-it-kills-raid-boss-and-bungies-not-happy-2000695272",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +207,22 @@
       "article_slug": null
     },
     {
+      "title": "Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI",
+      "url": "https://kotaku.com/star-wars-fate-of-the-old-republic-director-casey-hudson-says-it-wont-take-200-hours-to-finish-or-use-creatively-soulless-genai-2000695281",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
       "url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Nintendo Launches Switch 2: Choose Your Game Bundle",
+      "url": "https://gameranx.com/updates/id/562656/article/nintendo-launches-switch-2-choose-your-game-bundle/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

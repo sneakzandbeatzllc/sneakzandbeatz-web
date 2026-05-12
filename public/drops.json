@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T16:58:09+00:00",
+  "generated_utc": "2026-05-12T17:05:34+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "1fcd5ff02b43",
+      "pillar": "hiphop",
+      "title": "Jason Aldean Explains How Ludacris Ended Up On “Dirt Road Anthem”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/jason-aldean-explains-how-ludacris-ended-up-on-dirt-road-anthem/",
+      "thumbnail": "/drops/thumbs/1fcd5ff02b43.png",
+      "published": "2026-05-12T13:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f9bfce8d0506",
       "pillar": "hiphop",
       "title": "George Floyd Family Blasts Tony Hinchcliffe Over Netflix Roast Joke",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "32c000b19a45",
-      "pillar": "hiphop",
-      "title": "Jalen Brunson’s Rise Rooted in Father Rick Brunson’s NBA Journey",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/jalen-brunsons-rise-rooted-in-father-rick-brunsons-nba-journey/",
-      "thumbnail": "/drops/thumbs/32c000b19a45.jpg",
-      "published": "2026-05-12T06:48:53",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8aa1209a20fc",
       "pillar": "anime",
       "title": "Love It Or Hate It, Dragon Ball GT Saved The Anime Industry",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "af32339c872f",
-      "pillar": "anime",
-      "title": "Dandadan Is Derailing Its Biggest Romance, And Honestly, It's A Welcome Change",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dandadan-okarun-momo-romance-love-triangle/",
-      "thumbnail": "/drops/thumbs/af32339c872f.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "805be9212b61",
       "pillar": "anime",
       "title": "Osamu Tezuka's Autobiographical War Manga, Postwar Life Get Live-Action TV Special",
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-12/with-vengeance-sincerely-your-broken-saintess-light-anime-gets-2nd-season-in-october/.237277",
       "thumbnail": "/drops/thumbs/d426b427d4e6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2be84c4f223c",
+      "pillar": "anime",
+      "title": "The Ghost in the Shell anime gets exciting release date update with newest trailer",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/ghost-in-the-shell-2026-release-date-july/",
+      "thumbnail": "/drops/thumbs/2be84c4f223c.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,36 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "511f28f3561f",
-      "pillar": "gaming",
-      "title": "News No One Noticed Intergalactic's Hidden Naughty Dog Easter Egg",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/no-one-noticed-intergalactics-hidden-naughty-dog-easter-egg",
-      "thumbnail": "/drops/thumbs/511f28f3561f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b578f961c381",
       "pillar": "gaming",
       "title": "News What a Twist! Ex-Tekken Boss Harada Opens New Studio Under Fatal Fury's SNK",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/what-a-twist-ex-tekken-boss-harada-opens-new-studio-under-fatal-furys-snk",
       "thumbnail": "/drops/thumbs/b578f961c381.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1349fd2bc81d",
-      "pillar": "gaming",
-      "title": "Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/marathon-player-goes-out-of-bounds-to-grief-team-right-after-it-kills-raid-boss-and-bungies-not-happy-2000695272",
-      "thumbnail": "/drops/thumbs/1349fd2bc81d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "e128907c6688",
+      "pillar": "gaming",
+      "title": "Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/star-wars-fate-of-the-old-republic-director-casey-hudson-says-it-wont-take-200-hours-to-finish-or-use-creatively-soulless-genai-2000695281",
+      "thumbnail": "/drops/thumbs/e128907c6688.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1a7540ef869e",
       "pillar": "gaming",
       "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "9208baf85cf3",
+      "pillar": "gaming",
+      "title": "Nintendo Launches Switch 2: Choose Your Game Bundle",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562656/article/nintendo-launches-switch-2-choose-your-game-bundle/",
+      "thumbnail": "/drops/thumbs/9208baf85cf3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "f9bfce8d0506",
+    "1fcd5ff02b43",
     "8cf8b4554bae",
     "8aa1209a20fc",
     "43151d13faa3",
