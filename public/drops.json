@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T15:13:54+00:00",
+  "generated_utc": "2026-05-12T15:29:13+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "e25c596feada",
+      "pillar": "hiphop",
+      "title": "Eminem’s Ex-Wife Admits To Driving Drunk & She’s Going To Be Sentenced For It",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/eminems-ex-wife-admits-to-driving-drunk-shes-going-to-be-sentenced-for-it/",
+      "thumbnail": "/drops/thumbs/e25c596feada.jpg",
+      "published": "2026-05-12T11:24:36",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b4d6c3bf0118",
       "pillar": "hiphop",
       "title": "Daz Dillinger Sues Tupac Mom’s Amaru Entertainment Over Unpaid Royalties",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/12/hip-hop-reacts-to-swatch-x-audemars-piguet-set-royal-pop-releasing-this-month/",
       "thumbnail": "/drops/thumbs/f00b463b5b9a.jpg",
       "published": "2026-05-12T06:45:53",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c4c93807549f",
-      "pillar": "hiphop",
-      "title": "Trump Says Iran Ceasefire On ‘Life Support’ After Rejecting Iran Proposal",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/trump-says-iran-ceasefire-on-life-support-after-rejecting-iran-proposal/",
-      "thumbnail": "/drops/thumbs/c4c93807549f.jpg",
-      "published": "2026-05-12T06:45:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "b4d6c3bf0118",
+    "e25c596feada",
     "1f8cbf1d8983",
     "57a6390c2d06",
     "f931c0c69400",
