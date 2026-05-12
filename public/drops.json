@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T16:00:46+00:00",
+  "generated_utc": "2026-05-12T16:04:03+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f9bfce8d0506",
+      "pillar": "hiphop",
+      "title": "George Floyd Family Blasts Tony Hinchcliffe Over Netflix Roast Joke",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/george-floyd-family-blasts-tony-hinchcliffe-over-netflix-roast-joke/",
+      "thumbnail": "/drops/thumbs/f9bfce8d0506.jpg",
+      "published": "2026-05-12T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9d70c297c9c4",
       "pillar": "hiphop",
       "title": "Byron Allen Takes Over BuzzFeed In $120M Acquisition Deal",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "829caf221a0d",
-      "pillar": "hiphop",
-      "title": "Air Jordan 17 Low “Black Patent” Brings Sleek New Twist to Classic 2002 Colorway",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/air-jordan-17-low-black-patent-brings-sleek-new-twist-to-classic-2002-colorway/",
-      "thumbnail": "/drops/thumbs/829caf221a0d.jpg",
-      "published": "2026-05-12T06:48:03",
+      "id": "8aa1209a20fc",
+      "pillar": "anime",
+      "title": "Love It Or Hate It, Dragon Ball GT Saved The Anime Industry",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-gt-saved-anime-industry/",
+      "thumbnail": "/drops/thumbs/8aa1209a20fc.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -243,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "d67929d0f4dd",
-      "pillar": "anime",
-      "title": "Naruto's Best Hokage Officially Returns In Stunning New Trailer",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-mobile-best-hokage-tsunade-trailer/",
-      "thumbnail": "/drops/thumbs/d67929d0f4dd.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "805be9212b61",
       "pillar": "anime",
       "title": "Osamu Tezuka's Autobiographical War Manga, Postwar Life Get Live-Action TV Special",
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "2be84c4f223c",
+      "id": "bd04ff579adc",
       "pillar": "anime",
-      "title": "The Ghost in the Shell anime gets exciting release date update with newest trailer",
+      "title": "Now that Sukuna is canon in the Marvel Universe, let's powerscale him properly",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/ghost-in-the-shell-2026-release-date-july/",
-      "thumbnail": "/drops/thumbs/2be84c4f223c.png",
+      "source_url": "https://www.polygon.com/jjk-sukuna-canon-marvel-universe-powerscale/",
+      "thumbnail": "/drops/thumbs/bd04ff579adc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "9d70c297c9c4",
+    "f9bfce8d0506",
     "1f8cbf1d8983",
-    "0bae62825ba6",
+    "8aa1209a20fc",
     "f931c0c69400",
     "1d3616551021"
   ]
