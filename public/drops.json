@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T16:32:22+00:00",
+  "generated_utc": "2026-05-12T16:58:09+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,42 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "f9bfce8d0506",
+      "pillar": "hiphop",
+      "title": "George Floyd Family Blasts Tony Hinchcliffe Over Netflix Roast Joke",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/george-floyd-family-blasts-tony-hinchcliffe-over-netflix-roast-joke/",
+      "thumbnail": "/drops/thumbs/f9bfce8d0506.jpg",
+      "published": "2026-05-12T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9d70c297c9c4",
+      "pillar": "hiphop",
+      "title": "Byron Allen Takes Over BuzzFeed In $120M Acquisition Deal",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/byron-allen-takes-over-buzzfeed-in-120m-acquisition-deal/",
+      "thumbnail": "/drops/thumbs/9d70c297c9c4.jpg",
+      "published": "2026-05-12T11:37:58",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e25c596feada",
+      "pillar": "hiphop",
+      "title": "Eminem’s Ex-Wife Admits To Driving Drunk & She’s Going To Be Sentenced For It",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/eminems-ex-wife-admits-to-driving-drunk-shes-going-to-be-sentenced-for-it/",
+      "thumbnail": "/drops/thumbs/e25c596feada.jpg",
+      "published": "2026-05-12T11:24:36",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "765050337714",
       "pillar": "hiphop",
       "title": "Yung Miami Talks Dating Older Men, Says She’s Ready To Have Another Child",
@@ -154,42 +190,6 @@
       "source_url": "https://thesource.com/2026/05/12/jalen-brunsons-rise-rooted-in-father-rick-brunsons-nba-journey/",
       "thumbnail": "/drops/thumbs/32c000b19a45.jpg",
       "published": "2026-05-12T06:48:53",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "829caf221a0d",
-      "pillar": "hiphop",
-      "title": "Air Jordan 17 Low “Black Patent” Brings Sleek New Twist to Classic 2002 Colorway",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/air-jordan-17-low-black-patent-brings-sleek-new-twist-to-classic-2002-colorway/",
-      "thumbnail": "/drops/thumbs/829caf221a0d.jpg",
-      "published": "2026-05-12T06:48:03",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "73271c84ec57",
-      "pillar": "hiphop",
-      "title": "Kendrick Lamar’s “Not Like Us” and ‘GNX’ Temporarily Disappear Online Before Reappearing",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/kendrick-lamars-not-like-us-and-gnx-temporarily-disappear-online-before-reappearing/",
-      "thumbnail": "/drops/thumbs/73271c84ec57.jpg",
-      "published": "2026-05-12T06:46:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f00b463b5b9a",
-      "pillar": "hiphop",
-      "title": "Hip-Hop Reacts To Swatch x Audemars Piguet Set ‘Royal Pop’ Releasing This Month",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/hip-hop-reacts-to-swatch-x-audemars-piguet-set-royal-pop-releasing-this-month/",
-      "thumbnail": "/drops/thumbs/f00b463b5b9a.jpg",
-      "published": "2026-05-12T06:45:53",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -351,24 +351,24 @@
       "release_badge": ""
     },
     {
-      "id": "3aa000761565",
+      "id": "1349fd2bc81d",
       "pillar": "gaming",
-      "title": "News New Gears of War Could Go Head-to-Head with Sony's Wolverine, But Will It Be on PS5?",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/new-gears-of-war-could-go-head-to-head-with-sonys-wolverine-but-will-it-be-on-ps5",
-      "thumbnail": "/drops/thumbs/3aa000761565.jpg",
+      "title": "Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-player-goes-out-of-bounds-to-grief-team-right-after-it-kills-raid-boss-and-bungies-not-happy-2000695272",
+      "thumbnail": "/drops/thumbs/1349fd2bc81d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "bbdd78e010bf",
+      "id": "3aa000761565",
       "pillar": "gaming",
-      "title": "New, Massive $650 Minas Tirith Castle Is Lego’s Largest Lord Of The Rings Lego Set Ever",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/new-massive-650-minas-tirith-set-lego-largest-lord-of-the-rings-lego-set-ever-2000695280",
-      "thumbnail": "/drops/thumbs/bbdd78e010bf.jpg",
+      "title": "News New Gears of War Could Go Head-to-Head with Sony's Wolverine, But Will It Be on PS5?",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/new-gears-of-war-could-go-head-to-head-with-sonys-wolverine-but-will-it-be-on-ps5",
+      "thumbnail": "/drops/thumbs/3aa000761565.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "765050337714",
+    "f9bfce8d0506",
     "8cf8b4554bae",
     "8aa1209a20fc",
     "43151d13faa3",

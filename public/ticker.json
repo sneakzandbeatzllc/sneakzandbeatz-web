@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T16:32:22+00:00",
+  "generated_utc": "2026-05-12T16:58:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,27 @@
       "article_slug": null
     },
     {
+      "title": "George Floyd Family Blasts Tony Hinchcliffe Over Netflix Roast Joke",
+      "url": "https://allhiphop.com/news/george-floyd-family-blasts-tony-hinchcliffe-over-netflix-roast-joke/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Byron Allen Takes Over BuzzFeed In $120M Acquisition Deal",
+      "url": "https://allhiphop.com/news/byron-allen-takes-over-buzzfeed-in-120m-acquisition-deal/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Eminem’s Ex-Wife Admits To Driving Drunk & She’s Going To Be Sentenced For It",
+      "url": "https://allhiphop.com/news/eminems-ex-wife-admits-to-driving-drunk-shes-going-to-be-sentenced-for-it/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Yung Miami Talks Dating Older Men, Says She’s Ready To Have Another Child",
       "url": "https://thesource.com/2026/05/12/yung-miami-talks-dating-older-men-says-shes-ready-to-have-another-child/",
       "pillar": "hiphop",
@@ -90,27 +111,6 @@
     {
       "title": "Jalen Brunson’s Rise Rooted in Father Rick Brunson’s NBA Journey",
       "url": "https://thesource.com/2026/05/12/jalen-brunsons-rise-rooted-in-father-rick-brunsons-nba-journey/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 17 Low “Black Patent” Brings Sleek New Twist to Classic 2002 Colorway",
-      "url": "https://thesource.com/2026/05/12/air-jordan-17-low-black-patent-brings-sleek-new-twist-to-classic-2002-colorway/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Kendrick Lamar’s “Not Like Us” and ‘GNX’ Temporarily Disappear Online Before Reappearing",
-      "url": "https://thesource.com/2026/05/12/kendrick-lamars-not-like-us-and-gnx-temporarily-disappear-online-before-reappearing/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hip-Hop Reacts To Swatch x Audemars Piguet Set ‘Royal Pop’ Releasing This Month",
-      "url": "https://thesource.com/2026/05/12/hip-hop-reacts-to-swatch-x-audemars-piguet-set-royal-pop-releasing-this-month/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -207,15 +207,15 @@
       "article_slug": null
     },
     {
-      "title": "News New Gears of War Could Go Head-to-Head with Sony's Wolverine, But Will It Be on PS5?",
-      "url": "https://www.pushsquare.com/news/2026/05/new-gears-of-war-could-go-head-to-head-with-sonys-wolverine-but-will-it-be-on-ps5",
+      "title": "Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy",
+      "url": "https://kotaku.com/marathon-player-goes-out-of-bounds-to-grief-team-right-after-it-kills-raid-boss-and-bungies-not-happy-2000695272",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "New, Massive $650 Minas Tirith Castle Is Lego’s Largest Lord Of The Rings Lego Set Ever",
-      "url": "https://kotaku.com/new-massive-650-minas-tirith-set-lego-largest-lord-of-the-rings-lego-set-ever-2000695280",
+      "title": "News New Gears of War Could Go Head-to-Head with Sony's Wolverine, But Will It Be on PS5?",
+      "url": "https://www.pushsquare.com/news/2026/05/new-gears-of-war-could-go-head-to-head-with-sonys-wolverine-but-will-it-be-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
