@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T12:26:41+00:00",
+  "generated_utc": "2026-05-12T12:51:37+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -291,6 +291,42 @@
       "release_badge": ""
     },
     {
+      "id": "1d3616551021",
+      "pillar": "gaming",
+      "title": "News GTA 6 Trailer 3 Hype At an All-Time High, But Is It Actually Happening Today?",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-hype-at-an-all-time-high-but-is-it-actually-happening-today",
+      "thumbnail": "/drops/thumbs/1d3616551021.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c236b0509b1b",
+      "pillar": "gaming",
+      "title": "GTA 6 Trailer 3 copium is at an all-time high with fans convinced today \"might actually be the day\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-trailer-3-copium-is-at-an-all-time-high-with-fans-convinced-today-might-actually-be-the-day-rockstar-gives-us-news/",
+      "thumbnail": "/drops/thumbs/c236b0509b1b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3802dbbd855f",
+      "pillar": "gaming",
+      "title": "Lies of P Sequel Is Now Officially In Full Production",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562654/article/lies-of-p-sequel-is-now-officially-in-full-production/",
+      "thumbnail": "/drops/thumbs/3802dbbd855f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "511f28f3561f",
       "pillar": "gaming",
       "title": "News No One Noticed Intergalactic's Hidden Naughty Dog Easter Egg",
@@ -315,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "1fa89680151a",
+      "id": "18707bbc8baf",
       "pillar": "gaming",
-      "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
-      "thumbnail": "/drops/thumbs/1fa89680151a.jpg",
+      "title": "Graduation Speaker Looks Completely Shocked When Students Loudly Boo AI",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/university-central-florida-ucf-ai-graduation-boos-speech-2000694858",
+      "thumbnail": "/drops/thumbs/18707bbc8baf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -349,42 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "18707bbc8baf",
-      "pillar": "gaming",
-      "title": "Graduation Speaker Looks Completely Shocked When Students Loudly Boo AI",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/university-central-florida-ucf-ai-graduation-boos-speech-2000694858",
-      "thumbnail": "/drops/thumbs/18707bbc8baf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "78655e901615",
-      "pillar": "gaming",
-      "title": "Subnautica 2 hit 5 million Steam wishlists days before early access launch, so everyone gets a gift",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/survival/subnautica-2-hit-5-million-steam-wishlists-days-before-its-early-access-launch-so-every-player-gets-a-special-gift/",
-      "thumbnail": "/drops/thumbs/78655e901615.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c52ff7c44596",
-      "pillar": "gaming",
-      "title": "Rumor: Star Fox Movie Is A “High Priority” Project At Illumination, Started Alongside Super Mario Movies",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562650/article/rumor-star-fox-movie-is-a-high-priority-project-at-illumination-started-alongside-super-mario-movies/",
-      "thumbnail": "/drops/thumbs/c52ff7c44596.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "8cf8b4554bae",
     "57a6390c2d06",
     "f931c0c69400",
-    "511f28f3561f"
+    "1d3616551021"
   ]
 }
