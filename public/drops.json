@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T03:05:23+00:00",
+  "generated_utc": "2026-05-12T03:57:59+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b932a58a5ca3",
+      "pillar": "hiphop",
+      "title": "Foogiano Rumors Had Everything Wrong",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/foogiano-rumors-had-everything-wrong/",
+      "thumbnail": "/drops/thumbs/b932a58a5ca3.jpg",
+      "published": "2026-05-11T23:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3d2b28a98043",
       "pillar": "hiphop",
       "title": "Lil Baby Explains Why He Turned “Mrs. Trendsetter” Into To Real Community Action",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "9d8e2c378bba",
-      "pillar": "hiphop",
-      "title": "Snoop Dogg Delivers On Promise With Major Music Equipment Donation To Special Needs School",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/snoop-dogg-delivers-on-promise-with-major-music-equipment-donation-to-special-needs-school/",
-      "thumbnail": "/drops/thumbs/9d8e2c378bba.png",
-      "published": "2026-05-11T17:00:50",
+      "id": "57a6390c2d06",
+      "pillar": "anime",
+      "title": "Spy X Family’s Main Romance Takes A Major Step Forward With A Shocking Confession",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/spy-x-family-yor-romance-loid-confession/",
+      "thumbnail": "/drops/thumbs/57a6390c2d06.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -243,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "bc8e702be3a7",
+      "id": "f08f235db11e",
       "pillar": "anime",
-      "title": "Sword Art Online's Echoes of Aincrad Game Previews ' Unanswered//butterfly ' Bonus Anime",
+      "title": "New Votoms Anime Unveils Main Staff, 2-Film Rollout With 1st Opening on November 20",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/sword-art-online-echoes-of-aincrad-game-previews-unanswered-butterfly-bonus-anime/.237264",
-      "thumbnail": "/drops/thumbs/bc8e702be3a7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/new-votoms-anime-unveils-main-staff-2-film-rollout-with-1st-opening-on-november-20/.237256",
+      "thumbnail": "/drops/thumbs/f08f235db11e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "c2b3d80c3271",
+      "id": "38f92df1ca75",
       "pillar": "anime",
-      "title": "Eren the Southpaw Anime Casts Natsumi Fujiwara",
+      "title": "I Made Friends With the Second Prettiest Girl in My Class Anime Reveals 3rd Promo Video, More Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/eren-the-southpaw-anime-casts-natsumi-fujiwara/.237269",
-      "thumbnail": "/drops/thumbs/c2b3d80c3271.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "03f79f36d8bf",
-      "pillar": "anime",
-      "title": "Akira creator's mysterious new sci-fi movie just got a massive update",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/akira-creators-new-animated-feature/",
-      "thumbnail": "/drops/thumbs/03f79f36d8bf.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/i-made-friends-with-the-second-prettiest-girl-in-my-class-anime-reveals-3rd-promo-video-more-cast-/.237221",
+      "thumbnail": "/drops/thumbs/38f92df1ca75.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "3d2b28a98043",
+    "b932a58a5ca3",
     "f931c0c69400",
-    "cb1b0289744c",
+    "57a6390c2d06",
     "26df7af50eda",
     "50b6b76f729d"
   ]
