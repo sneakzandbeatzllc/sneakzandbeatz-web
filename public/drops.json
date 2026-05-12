@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T17:17:07+00:00",
+  "generated_utc": "2026-05-12T17:59:47+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "ea62595858c0",
+      "pillar": "hiphop",
+      "title": "Self-Proclaimed “King Thief Of Atlanta” Going To Prison For Stealing Beyoncé’s Unreleased Music",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/self-proclaimed-king-thief-of-atlanta-going-to-prison-for-stealing-beyonces-unreleased-music/",
+      "thumbnail": "/drops/thumbs/ea62595858c0.png",
+      "published": "2026-05-12T13:27:04",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1fcd5ff02b43",
       "pillar": "hiphop",
       "title": "Jason Aldean Explains How Ludacris Ended Up On “Dirt Road Anthem”",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/12/today-in-hip-hop-history-dmx-dropped-his-debut-album-its-dark-and-hell-is-hot-28-years-ago/",
       "thumbnail": "/drops/thumbs/df59f449d2a2.jpg",
       "published": "2026-05-12T08:23:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0f359a36297c",
-      "pillar": "hiphop",
-      "title": "Lil Baby Honors Atlanta Mothers with Exclusive Floral Pop-Up",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/lil-baby-atlanta-mothers-day-floral-popup-mrs-trendsetter/",
-      "thumbnail": "/drops/thumbs/0f359a36297c.jpg",
-      "published": "2026-05-12T06:56:10",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "1fcd5ff02b43",
+    "ea62595858c0",
     "8cf8b4554bae",
     "8aa1209a20fc",
     "43151d13faa3",
