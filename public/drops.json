@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T02:56:45+00:00",
+  "generated_utc": "2026-05-12T03:05:23+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "3d2b28a98043",
+      "pillar": "hiphop",
+      "title": "Lil Baby Explains Why He Turned “Mrs. Trendsetter” Into To Real Community Action",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/lil-baby-explains-why-he-turned-mrs-trendsetter-into-to-real-community-action/",
+      "thumbnail": "/drops/thumbs/3d2b28a98043.png",
+      "published": "2026-05-11T23:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d762630d26b4",
       "pillar": "hiphop",
       "title": "Daz Dillinger Sues Over Missing 2Pac Royalties",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/snoop-dogg-delivers-on-promise-with-major-music-equipment-donation-to-special-needs-school/",
       "thumbnail": "/drops/thumbs/9d8e2c378bba.png",
       "published": "2026-05-11T17:00:50",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "66edf92b0ca7",
-      "pillar": "hiphop",
-      "title": "Ye’s Prague Concert Producers Fight Back Against  Critics",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ye-prague-concert-producers-fight-back-against-critics/",
-      "thumbnail": "/drops/thumbs/66edf92b0ca7.png",
-      "published": "2026-05-11T16:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "d762630d26b4",
+    "3d2b28a98043",
     "f931c0c69400",
     "cb1b0289744c",
     "26df7af50eda",
