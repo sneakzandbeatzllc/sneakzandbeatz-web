@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T13:53:07+00:00",
+  "generated_utc": "2026-05-12T14:54:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Daz Dillinger Sues Tupac Mom’s Amaru Entertainment Over Unpaid Royalties",
+      "url": "https://thesource.com/2026/05/12/daz-dillinger-sues-tupac-moms-amaru-entertainment-over-unpaid-royalties/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Today In Hip Hop History: DMX Dropped His Debut Album ‘It’s Dark and Hell Is Hot’ 28 Years Ago",
+      "url": "https://thesource.com/2026/05/12/today-in-hip-hop-history-dmx-dropped-his-debut-album-its-dark-and-hell-is-hot-28-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Lil Baby Honors Atlanta Mothers with Exclusive Floral Pop-Up",
       "url": "https://thesource.com/2026/05/12/lil-baby-atlanta-mothers-day-floral-popup-mrs-trendsetter/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "Trump Says Iran Ceasefire On ‘Life Support’ After Rejecting Iran Proposal",
       "url": "https://thesource.com/2026/05/12/trump-says-iran-ceasefire-on-life-support-after-rejecting-iran-proposal/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Chris Brown Addresses Mixed Reviews for New Album ‘BROWN’",
-      "url": "https://thesource.com/2026/05/12/chris-brown-responds-to-brown-album-criticism/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Charlamagne Tha God Leaks Major ‘Iceman’ Details Ahead of Release",
-      "url": "https://thesource.com/2026/05/12/charlamagne-tha-god-leaks-major-iceman-details-ahead-of-release/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Sega Decides To Quietly Kill Its Mysterious ‘Super Game’ After Seeing So Many Live Services Tank",
-      "url": "https://kotaku.com/sega-decides-to-quietly-kill-its-mysterious-super-game-after-seeing-so-many-live-services-tank-2000695252",
+      "title": "New, Massive $650 Minas Tirith Castle Is Lego’s Largest Lord Of The Rings Lego Set Ever",
+      "url": "https://kotaku.com/new-massive-650-minas-tirith-set-lego-largest-lord-of-the-rings-lego-set-ever-2000695280",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Microsoft Fires Head Of Israel Office Amid Probe And BDS Boycott Targetting Xbox",
-      "url": "https://kotaku.com/microsoft-fires-head-of-israel-office-amid-bds-boycott-targetting-xbox-2000695254",
+      "title": "Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI",
+      "url": "https://kotaku.com/star-wars-fate-of-the-old-republic-director-casey-hudson-says-it-wont-take-200-hours-to-finish-or-use-creatively-soulless-genai-2000695281",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T13:53:07+00:00",
+  "generated_utc": "2026-05-12T14:54:46+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "b4d6c3bf0118",
+      "pillar": "hiphop",
+      "title": "Daz Dillinger Sues Tupac Mom’s Amaru Entertainment Over Unpaid Royalties",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/12/daz-dillinger-sues-tupac-moms-amaru-entertainment-over-unpaid-royalties/",
+      "thumbnail": "/drops/thumbs/b4d6c3bf0118.jpg",
+      "published": "2026-05-12T10:39:22",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "df59f449d2a2",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: DMX Dropped His Debut Album ‘It’s Dark and Hell Is Hot’ 28 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/12/today-in-hip-hop-history-dmx-dropped-his-debut-album-its-dark-and-hell-is-hot-28-years-ago/",
+      "thumbnail": "/drops/thumbs/df59f449d2a2.jpg",
+      "published": "2026-05-12T08:23:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0f359a36297c",
       "pillar": "hiphop",
       "title": "Lil Baby Honors Atlanta Mothers with Exclusive Floral Pop-Up",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/05/12/trump-says-iran-ceasefire-on-life-support-after-rejecting-iran-proposal/",
       "thumbnail": "/drops/thumbs/c4c93807549f.jpg",
       "published": "2026-05-12T06:45:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d0f5270fad04",
-      "pillar": "hiphop",
-      "title": "Chris Brown Addresses Mixed Reviews for New Album ‘BROWN’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/chris-brown-responds-to-brown-album-criticism/",
-      "thumbnail": "/drops/thumbs/d0f5270fad04.jpg",
-      "published": "2026-05-12T04:49:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "27a80911b7b0",
-      "pillar": "hiphop",
-      "title": "Charlamagne Tha God Leaks Major ‘Iceman’ Details Ahead of Release",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/charlamagne-tha-god-leaks-major-iceman-details-ahead-of-release/",
-      "thumbnail": "/drops/thumbs/27a80911b7b0.jpg",
-      "published": "2026-05-12T02:49:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "a64dabe9c025",
+      "id": "bbdd78e010bf",
       "pillar": "gaming",
-      "title": "Sega Decides To Quietly Kill Its Mysterious ‘Super Game’ After Seeing So Many Live Services Tank",
+      "title": "New, Massive $650 Minas Tirith Castle Is Lego’s Largest Lord Of The Rings Lego Set Ever",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/sega-decides-to-quietly-kill-its-mysterious-super-game-after-seeing-so-many-live-services-tank-2000695252",
-      "thumbnail": "/drops/thumbs/a64dabe9c025.jpg",
+      "source_url": "https://kotaku.com/new-massive-650-minas-tirith-set-lego-largest-lord-of-the-rings-lego-set-ever-2000695280",
+      "thumbnail": "/drops/thumbs/bbdd78e010bf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "bc7d1f65892d",
+      "id": "e128907c6688",
       "pillar": "gaming",
-      "title": "Microsoft Fires Head Of Israel Office Amid Probe And BDS Boycott Targetting Xbox",
+      "title": "Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/microsoft-fires-head-of-israel-office-amid-bds-boycott-targetting-xbox-2000695254",
-      "thumbnail": "/drops/thumbs/bc7d1f65892d.jpg",
+      "source_url": "https://kotaku.com/star-wars-fate-of-the-old-republic-director-casey-hudson-says-it-wont-take-200-hours-to-finish-or-use-creatively-soulless-genai-2000695281",
+      "thumbnail": "/drops/thumbs/e128907c6688.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "0f359a36297c",
+    "b4d6c3bf0118",
     "1f8cbf1d8983",
     "57a6390c2d06",
     "f931c0c69400",
