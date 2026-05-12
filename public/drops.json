@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T22:44:58+00:00",
+  "generated_utc": "2026-05-12T23:07:54+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -315,18 +315,6 @@
       "release_badge": ""
     },
     {
-      "id": "a54ce35c210f",
-      "pillar": "gaming",
-      "title": "News GTA 6 Fans Crushed as Next Game Informer Cover Revealed",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-crushed-as-next-game-informer-cover-revealed",
-      "thumbnail": "/drops/thumbs/a54ce35c210f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "005f6ee9be6b",
       "pillar": "gaming",
       "title": "Hands-on After 2 hours, this new Lovecraftian horror game feels like a faithful mashup of Resident Evil and Silent Hill",
@@ -345,6 +333,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562654/article/lies-of-p-sequel-is-now-officially-in-full-production/",
       "thumbnail": "/drops/thumbs/3802dbbd855f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3c4ccba212e9",
+      "pillar": "gaming",
+      "title": "News Saros PS5 Sales Estimates at 300k, Selling Slower Than Returnal on a Bigger Install Base",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/saros-ps5-sales-estimates-at-300k-selling-slower-than-returnal-on-a-bigger-install-base",
+      "thumbnail": "/drops/thumbs/3c4ccba212e9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
