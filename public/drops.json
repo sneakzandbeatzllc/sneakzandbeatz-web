@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T20:08:26+00:00",
+  "generated_utc": "2026-05-12T20:22:08+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -10,18 +10,6 @@
       "source_url": "https://www.sneakerfiles.com/nigel-sylvester-air-jordan-4-2026/",
       "thumbnail": "/drops/thumbs/33a1f9fc0899.jpg",
       "published": "2026-05-12T12:56:48",
-      "relative_time": "today",
-      "score": 7.5,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "8cf8b4554bae",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bloodline” Releases May 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-bloodline/",
-      "thumbnail": "/drops/thumbs/8cf8b4554bae.jpg",
-      "published": "2026-05-06T12:10:22",
       "relative_time": "today",
       "score": 7.5,
       "release_badge": "🔥 Banger"
@@ -97,6 +85,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "c30f21518c30",
+      "pillar": "sneakers",
+      "title": "Awake NY x Air Jordan 6 “Midnight Navy” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-midnight-navy/",
+      "thumbnail": "/drops/thumbs/c30f21518c30.jpg",
+      "published": "2026-05-12T13:17:16",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "6fbe3d051bd9",
@@ -390,9 +390,9 @@
   "homepage": [
     "33a1f9fc0899",
     "6fbe3d051bd9",
-    "8cf8b4554bae",
-    "8aa1209a20fc",
     "7de612490f99",
+    "8aa1209a20fc",
+    "f931c0c69400",
     "a54ce35c210f"
   ]
 }
