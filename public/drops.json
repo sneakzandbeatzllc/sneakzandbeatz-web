@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T20:03:01+00:00",
+  "generated_utc": "2026-05-12T20:07:08+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "6fbe3d051bd9",
+      "pillar": "hiphop",
+      "title": "Yung Miami Wants Another Baby But Won’t Live With Her Man & Here’s Why",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/yung-miami-wants-another-baby-but-wont-live-with-her-man-heres-why/",
+      "thumbnail": "/drops/thumbs/6fbe3d051bd9.png",
+      "published": "2026-05-12T16:04:50",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1e3f8850031b",
       "pillar": "hiphop",
       "title": "Boosie Badazz Signed Artist Playbwoi The Great Shot Dead, Mother Shares Heartbreaking Last Conversation",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/byron-allen-takes-over-buzzfeed-in-120m-acquisition-deal/",
       "thumbnail": "/drops/thumbs/9d70c297c9c4.jpg",
       "published": "2026-05-12T11:37:58",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e25c596feada",
-      "pillar": "hiphop",
-      "title": "Eminem’s Ex-Wife Admits To Driving Drunk & She’s Going To Be Sentenced For It",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/eminems-ex-wife-admits-to-driving-drunk-shes-going-to-be-sentenced-for-it/",
-      "thumbnail": "/drops/thumbs/e25c596feada.jpg",
-      "published": "2026-05-12T11:24:36",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "1e3f8850031b",
+    "6fbe3d051bd9",
     "8cf8b4554bae",
     "8aa1209a20fc",
     "7de612490f99",
