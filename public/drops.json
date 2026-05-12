@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T02:03:58+00:00",
+  "generated_utc": "2026-05-12T02:56:45+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d762630d26b4",
+      "pillar": "hiphop",
+      "title": "Daz Dillinger Sues Over Missing 2Pac Royalties",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/daz-dillinger-sues-over-missing-2pac-royalties/",
+      "thumbnail": "/drops/thumbs/d762630d26b4.jpg",
+      "published": "2026-05-11T22:06:17",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6dd81dee2eba",
       "pillar": "hiphop",
       "title": "Mayor Eddie Melton on Gary, Indiana’s Feature in FX’s and Hulu’s ‘The Bear’",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "2ea9df267c39",
-      "pillar": "hiphop",
-      "title": "Cole Allen Pleads Not Guilty To Donald Trump Assassination Attempt",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/cole-allen-pleads-not-guilty-to-donald-trump-assassination-attempt/",
-      "thumbnail": "/drops/thumbs/2ea9df267c39.jpg",
-      "published": "2026-05-11T15:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cb1b0289744c",
       "pillar": "anime",
       "title": "One Piece Decided Its Straw Hat Crew Decades Ago, But Did Oda Leave Room For Loki?",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "c2b3d80c3271",
+      "id": "bc8e702be3a7",
       "pillar": "anime",
-      "title": "Eren the Southpaw Anime Casts Natsumi Fujiwara",
+      "title": "Sword Art Online's Echoes of Aincrad Game Previews ' Unanswered//butterfly ' Bonus Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/eren-the-southpaw-anime-casts-natsumi-fujiwara/.237269",
-      "thumbnail": "/drops/thumbs/c2b3d80c3271.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/sword-art-online-echoes-of-aincrad-game-previews-unanswered-butterfly-bonus-anime/.237264",
+      "thumbnail": "/drops/thumbs/bc8e702be3a7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "afa625cfd91e",
+      "id": "c2b3d80c3271",
       "pillar": "anime",
-      "title": "My Friend's Little Sister Has it in For Me Manga Ends in Next Volume This Fall",
+      "title": "Eren the Southpaw Anime Casts Natsumi Fujiwara",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/my-friend-little-sister-has-it-in-for-me-manga-ends-in-next-volume-this-fall/.237237",
-      "thumbnail": "/drops/thumbs/afa625cfd91e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/eren-the-southpaw-anime-casts-natsumi-fujiwara/.237269",
+      "thumbnail": "/drops/thumbs/c2b3d80c3271.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "6dd81dee2eba",
+    "d762630d26b4",
     "f931c0c69400",
     "cb1b0289744c",
     "26df7af50eda",

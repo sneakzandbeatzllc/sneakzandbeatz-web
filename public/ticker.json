@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T02:03:58+00:00",
+  "generated_utc": "2026-05-12T02:56:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Daz Dillinger Sues Over Missing 2Pac Royalties",
+      "url": "https://allhiphop.com/news/daz-dillinger-sues-over-missing-2pac-royalties/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Mayor Eddie Melton on Gary, Indiana’s Feature in FX’s and Hulu’s ‘The Bear’",
       "url": "https://thesource.com/2026/05/11/mayor-eddie-melton-on-gary-indianas-feature-in-fxs-and-hulus-the-bear/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Cole Allen Pleads Not Guilty To Donald Trump Assassination Attempt",
-      "url": "https://allhiphop.com/news/cole-allen-pleads-not-guilty-to-donald-trump-assassination-attempt/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One Piece Decided Its Straw Hat Crew Decades Ago, But Did Oda Leave Room For Loki?",
       "url": "https://screenrant.com/one-piece-final-straw-crew-decided-more-factoid/",
       "pillar": "anime",
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Eren the Southpaw Anime Casts Natsumi Fujiwara",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/eren-the-southpaw-anime-casts-natsumi-fujiwara/.237269",
+      "title": "Sword Art Online's Echoes of Aincrad Game Previews ' Unanswered//butterfly ' Bonus Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/sword-art-online-echoes-of-aincrad-game-previews-unanswered-butterfly-bonus-anime/.237264",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "My Friend's Little Sister Has it in For Me Manga Ends in Next Volume This Fall",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/my-friend-little-sister-has-it-in-for-me-manga-ends-in-next-volume-this-fall/.237237",
+      "title": "Eren the Southpaw Anime Casts Natsumi Fujiwara",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-11/eren-the-southpaw-anime-casts-natsumi-fujiwara/.237269",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
