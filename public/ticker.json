@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T18:34:37+00:00",
+  "generated_utc": "2026-05-12T19:01:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Boosie Badazz Signed Artist Playbwoi The Great Shot Dead, Mother Shares Heartbreaking Last Conversation",
+      "url": "https://allhiphop.com/news/boosie-badazz-signed-artist-playbwoi-the-great-shot-dead-mother-shares-heartbreaking-last-conversation/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Festival Fever: Sexyy Red and True Religion Take Over Rolling Loud",
+      "url": "https://thesource.com/2026/05/12/festival-fever-sexyy-red-and-true-religion-take-over-rolling-loud/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "“Odyssey” Director Defends Casting Travis Scott",
       "url": "https://allhiphop.com/news/odyssey-director-defends-casting-travis-scott/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "Eminem’s Ex-Wife Admits To Driving Drunk & She’s Going To Be Sentenced For It",
       "url": "https://allhiphop.com/news/eminems-ex-wife-admits-to-driving-drunk-shes-going-to-be-sentenced-for-it/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Yung Miami Talks Dating Older Men, Says She’s Ready To Have Another Child",
-      "url": "https://thesource.com/2026/05/12/yung-miami-talks-dating-older-men-says-shes-ready-to-have-another-child/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Daz Dillinger Sues Tupac Mom’s Amaru Entertainment Over Unpaid Royalties",
-      "url": "https://thesource.com/2026/05/12/daz-dillinger-sues-tupac-moms-amaru-entertainment-over-unpaid-royalties/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,6 +200,13 @@
       "article_slug": null
     },
     {
+      "title": "News With Stellar Blade 2's Reveal Near, Real-Life Eve Returned to Dev Shift Up",
+      "url": "https://www.pushsquare.com/news/2026/05/with-stellar-blade-2s-reveal-near-real-life-eve-returned-to-dev-shift-up",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News What a Twist! Ex-Tekken Boss Harada Opens New Studio Under Fatal Fury's SNK",
       "url": "https://www.pushsquare.com/news/2026/05/what-a-twist-ex-tekken-boss-harada-opens-new-studio-under-fatal-furys-snk",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
       "url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Nintendo Launches Switch 2: Choose Your Game Bundle",
-      "url": "https://gameranx.com/updates/id/562656/article/nintendo-launches-switch-2-choose-your-game-bundle/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
