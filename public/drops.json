@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T12:51:37+00:00",
+  "generated_utc": "2026-05-12T13:31:44+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -15,13 +15,13 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "8cf8b4554bae",
+      "id": "1f8cbf1d8983",
       "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bloodline” Releases May 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-bloodline/",
-      "thumbnail": "/drops/thumbs/8cf8b4554bae.jpg",
-      "published": "2026-05-06T12:10:22",
+      "title": "Air Jordan 12 “Bloodline” (CT8013-003) May 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-12-bloodline-ct8013-003-drop/",
+      "thumbnail": "/drops/thumbs/1f8cbf1d8983.jpg",
+      "published": "2026-05-06T17:42:00",
       "relative_time": "today",
       "score": 7.5,
       "release_badge": "🔥 Banger"
@@ -339,24 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "4769b136cde2",
+      "id": "7b5ab72d7056",
       "pillar": "gaming",
-      "title": "Poll Is Saros Better Than Returnal?",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-is-saros-better-than-returnal",
-      "thumbnail": "/drops/thumbs/4769b136cde2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "18707bbc8baf",
-      "pillar": "gaming",
-      "title": "Graduation Speaker Looks Completely Shocked When Students Loudly Boo AI",
+      "title": "Watch A Dozen Gamers ‘Raid’ EA To Block Saudi Takeover In Protest Outside The Battlefield Publisher’s Headquarters",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/university-central-florida-ucf-ai-graduation-boos-speech-2000694858",
-      "thumbnail": "/drops/thumbs/18707bbc8baf.jpg",
+      "source_url": "https://kotaku.com/ea-electronic-arts-saudi-arabia-acquisition-protest-2000694956",
+      "thumbnail": "/drops/thumbs/7b5ab72d7056.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "9bd0a07162a8",
+      "id": "9208baf85cf3",
       "pillar": "gaming",
-      "title": "Forza Horizon 6 Player Confirms The Crack Is Real And That He Got Banned – Or Was He?",
+      "title": "Nintendo Launches Switch 2: Choose Your Game Bundle",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562652/article/forza-horizon-6-player-confirms-the-crack-is-real-and-that-he-got-banned-or-was-he/",
-      "thumbnail": "/drops/thumbs/9bd0a07162a8.jpg",
+      "source_url": "https://gameranx.com/updates/id/562656/article/nintendo-launches-switch-2-choose-your-game-bundle/",
+      "thumbnail": "/drops/thumbs/9208baf85cf3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "bc7d1f65892d",
+      "pillar": "gaming",
+      "title": "Microsoft Fires Head Of Israel Office Amid Probe And BDS Boycott Targetting Xbox",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/microsoft-fires-head-of-israel-office-amid-bds-boycott-targetting-xbox-2000695254",
+      "thumbnail": "/drops/thumbs/bc7d1f65892d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,7 +390,7 @@
   "homepage": [
     "5d4bbf488e7f",
     "0f359a36297c",
-    "8cf8b4554bae",
+    "1f8cbf1d8983",
     "57a6390c2d06",
     "f931c0c69400",
     "1d3616551021"
