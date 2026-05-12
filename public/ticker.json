@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T09:54:25+00:00",
+  "generated_utc": "2026-05-12T10:02:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "It Took Decades Of One Piece But Zoro Finally Gave Sanji The Respect He Deserves",
-      "url": "https://screenrant.com/one-piece-elbaph-zoro-sanji-respect/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Osamu Tezuka's Autobiographical War Manga, Postwar Life Get Live-Action TV Special",
       "url": "https://www.animenewsnetwork.com/news/2026-05-12/osamu-tezuka-autobiographical-war-manga-postwar-life-get-live-action-tv-special/.237229",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "'With Vengeance, Sincerely, Your Broken Saintess' Light Anime Gets 2nd Season in October",
       "url": "https://www.animenewsnetwork.com/news/2026-05-12/with-vengeance-sincerely-your-broken-saintess-light-anime-gets-2nd-season-in-october/.237277",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Akira creator's mysterious new sci-fi movie just got a massive update",
+      "url": "https://www.polygon.com/akira-creators-new-animated-feature/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
