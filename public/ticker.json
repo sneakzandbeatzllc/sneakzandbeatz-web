@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T22:06:21+00:00",
+  "generated_utc": "2026-05-12T22:25:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Fans Crushed as Next Game Informer Cover Revealed",
-      "url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-crushed-as-next-game-informer-cover-revealed",
+      "title": "News GTA 6 Trailer 3 a No Show, After Fans Got into a Frenzy Over Wrong Day",
+      "url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-a-no-show-after-fans-got-into-a-frenzy-over-wrong-day",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -181,6 +181,13 @@
     {
       "title": "One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop",
       "url": "https://kotaku.com/one-gta-6-fan-is-so-obsessed-theyre-tracking-foot-traffic-at-a-cafe-near-rockstar-to-predict-the-next-trailer-drop-2000695325",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News GTA 6 Fans Crushed as Next Game Informer Cover Revealed",
+      "url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-crushed-as-next-game-informer-cover-revealed",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy",
       "url": "https://kotaku.com/marathon-player-goes-out-of-bounds-to-grief-team-right-after-it-kills-raid-boss-and-bungies-not-happy-2000695272",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
-      "url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

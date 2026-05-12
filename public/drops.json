@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T22:06:21+00:00",
+  "generated_utc": "2026-05-12T22:25:21+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "a54ce35c210f",
+      "id": "e7d80eaf39d0",
       "pillar": "gaming",
-      "title": "News GTA 6 Fans Crushed as Next Game Informer Cover Revealed",
+      "title": "News GTA 6 Trailer 3 a No Show, After Fans Got into a Frenzy Over Wrong Day",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-crushed-as-next-game-informer-cover-revealed",
-      "thumbnail": "/drops/thumbs/a54ce35c210f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-a-no-show-after-fans-got-into-a-frenzy-over-wrong-day",
+      "thumbnail": "/drops/thumbs/e7d80eaf39d0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,6 +309,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/one-gta-6-fan-is-so-obsessed-theyre-tracking-foot-traffic-at-a-cafe-near-rockstar-to-predict-the-next-trailer-drop-2000695325",
       "thumbnail": "/drops/thumbs/823043761ef4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a54ce35c210f",
+      "pillar": "gaming",
+      "title": "News GTA 6 Fans Crushed as Next Game Informer Cover Revealed",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-crushed-as-next-game-informer-cover-revealed",
+      "thumbnail": "/drops/thumbs/a54ce35c210f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "1a7540ef869e",
-      "pillar": "gaming",
-      "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
-      "thumbnail": "/drops/thumbs/1a7540ef869e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "7de612490f99",
     "8aa1209a20fc",
     "e8acd9c337af",
-    "a54ce35c210f"
+    "e7d80eaf39d0"
   ]
 }
