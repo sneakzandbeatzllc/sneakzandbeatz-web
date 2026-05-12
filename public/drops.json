@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T21:43:12+00:00",
+  "generated_utc": "2026-05-12T22:06:21+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "6a199359db60",
+      "pillar": "hiphop",
+      "title": "Willie “Prophet”  Stiggers, Kevin Liles Celebrates PACE Act Victory For Hip-Hop Artists",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/willie-prophet-stiggers-kevin-liles-celebrates-pace-act-victory-for-hip-hop-artists/",
+      "thumbnail": "/drops/thumbs/6a199359db60.jpg",
+      "published": "2026-05-12T18:01:25",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c3e1f183c580",
       "pillar": "hiphop",
       "title": "Are Chrisean & Blueface Back Together Again?",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/self-proclaimed-king-thief-of-atlanta-going-to-prison-for-stealing-beyonces-unreleased-music/",
       "thumbnail": "/drops/thumbs/ea62595858c0.png",
       "published": "2026-05-12T13:27:04",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1fcd5ff02b43",
-      "pillar": "hiphop",
-      "title": "Jason Aldean Explains How Ludacris Ended Up On “Dirt Road Anthem”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jason-aldean-explains-how-ludacris-ended-up-on-dirt-road-anthem/",
-      "thumbnail": "/drops/thumbs/1fcd5ff02b43.png",
-      "published": "2026-05-12T13:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "c3e1f183c580",
+    "6a199359db60",
     "7de612490f99",
     "8aa1209a20fc",
     "e8acd9c337af",
