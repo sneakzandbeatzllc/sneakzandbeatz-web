@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T08:51:20+00:00",
+  "generated_utc": "2026-05-12T09:22:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -179,22 +179,15 @@
       "article_slug": null
     },
     {
-      "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
-      "url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Marvel TV boss confirms \"small\" Daredevil: Born Again season 3 time jump, and it could ruin your Spider-Man theories",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-tv-boss-confirms-small-daredevil-born-again-season-3-time-jump-and-it-could-be-the-killing-blow-for-all-your-spider-man-brand-new-day-theories/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Poll Is Saros Better Than Returnal?",
       "url": "https://www.pushsquare.com/features/poll-is-saros-better-than-returnal",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
+      "url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +207,22 @@
       "article_slug": null
     },
     {
-      "title": "Arcana won't ever be mentioned again in the Mortal Kombat universe, promises sequel writer",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/arcana-wont-ever-be-mentioned-again-in-the-mortal-kombat-universe-promises-sequel-writer-it-kind-of-became-our-midi-chlorians/",
+      "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
+      "url": "https://gameranx.com/updates/id/562615/article/gears-of-war-e-day-is-sponsoring-upcoming-professional-wrestling-event-triplemania-2026/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
-      "url": "https://gameranx.com/updates/id/562615/article/gears-of-war-e-day-is-sponsoring-upcoming-professional-wrestling-event-triplemania-2026/",
+      "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
+      "url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Graduation Speaker Looks Completely Shocked When Students Loudly Boo AI",
+      "url": "https://kotaku.com/university-central-florida-ucf-ai-graduation-boos-speech-2000694858",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

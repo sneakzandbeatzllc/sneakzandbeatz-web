@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T08:51:20+00:00",
+  "generated_utc": "2026-05-12T09:22:54+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -303,36 +303,24 @@
       "release_badge": ""
     },
     {
-      "id": "1fa89680151a",
-      "pillar": "gaming",
-      "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
-      "thumbnail": "/drops/thumbs/1fa89680151a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1ca7f4eef0f3",
-      "pillar": "gaming",
-      "title": "Marvel TV boss confirms \"small\" Daredevil: Born Again season 3 time jump, and it could ruin your Spider-Man theories",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-tv-boss-confirms-small-daredevil-born-again-season-3-time-jump-and-it-could-be-the-killing-blow-for-all-your-spider-man-brand-new-day-theories/",
-      "thumbnail": "/drops/thumbs/1ca7f4eef0f3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4769b136cde2",
       "pillar": "gaming",
       "title": "Poll Is Saros Better Than Returnal?",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/features/poll-is-saros-better-than-returnal",
       "thumbnail": "/drops/thumbs/4769b136cde2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1fa89680151a",
+      "pillar": "gaming",
+      "title": "News Stellar Blade 2 PS5 Reveal This Year, But Sony Won't Publish It",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/stellar-blade-2-ps5-reveal-this-year-but-sony-wont-publish-it",
+      "thumbnail": "/drops/thumbs/1fa89680151a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +351,36 @@
       "release_badge": ""
     },
     {
-      "id": "5548f81843e6",
-      "pillar": "gaming",
-      "title": "Arcana won't ever be mentioned again in the Mortal Kombat universe, promises sequel writer",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/action-movies/arcana-wont-ever-be-mentioned-again-in-the-mortal-kombat-universe-promises-sequel-writer-it-kind-of-became-our-midi-chlorians/",
-      "thumbnail": "/drops/thumbs/5548f81843e6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "033c30b964f0",
       "pillar": "gaming",
       "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562615/article/gears-of-war-e-day-is-sponsoring-upcoming-professional-wrestling-event-triplemania-2026/",
       "thumbnail": "/drops/thumbs/033c30b964f0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1a7540ef869e",
+      "pillar": "gaming",
+      "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
+      "thumbnail": "/drops/thumbs/1a7540ef869e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "18707bbc8baf",
+      "pillar": "gaming",
+      "title": "Graduation Speaker Looks Completely Shocked When Students Loudly Boo AI",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/university-central-florida-ucf-ai-graduation-boos-speech-2000694858",
+      "thumbnail": "/drops/thumbs/18707bbc8baf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
