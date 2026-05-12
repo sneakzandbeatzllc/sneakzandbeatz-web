@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T00:02:25+00:00",
+  "generated_utc": "2026-05-12T01:17:08+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -195,12 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "df422d875f6e",
+      "id": "cb1b0289744c",
       "pillar": "anime",
-      "title": "Solo Leveling Just Stealth Dropped 2 Official New Manhwa Chapters",
+      "title": "One Piece Decided Its Straw Hat Crew Decades Ago, But Did Oda Leave Room For Loki?",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-arise-manhwa-surprise-release/",
-      "thumbnail": "/drops/thumbs/df422d875f6e.jpg",
+      "source_url": "https://screenrant.com/one-piece-final-straw-crew-decided-more-factoid/",
+      "thumbnail": "/drops/thumbs/cb1b0289744c.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "af32339c872f",
+      "pillar": "anime",
+      "title": "Dandadan Is Derailing Its Biggest Romance, And Honestly, It's A Welcome Change",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dandadan-okarun-momo-romance-love-triangle/",
+      "thumbnail": "/drops/thumbs/af32339c872f.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/akira-creators-new-animated-feature/",
       "thumbnail": "/drops/thumbs/03f79f36d8bf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cb11acebe945",
-      "pillar": "anime",
-      "title": "Witch Hat Atelier Anime Casts Knights Moralis",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/witch-hat-atelier-anime-casts-knights-moralis/.237261",
-      "thumbnail": "/drops/thumbs/cb11acebe945.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "8cf8b4554bae",
     "47cc67f235ee",
     "f931c0c69400",
-    "df422d875f6e",
+    "cb1b0289744c",
     "26df7af50eda",
     "50b6b76f729d"
   ]

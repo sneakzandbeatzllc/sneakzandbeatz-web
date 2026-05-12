@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T00:02:25+00:00",
+  "generated_utc": "2026-05-12T01:17:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,8 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "Solo Leveling Just Stealth Dropped 2 Official New Manhwa Chapters",
-      "url": "https://screenrant.com/solo-leveling-arise-manhwa-surprise-release/",
+      "title": "One Piece Decided Its Straw Hat Crew Decades Ago, But Did Oda Leave Room For Loki?",
+      "url": "https://screenrant.com/one-piece-final-straw-crew-decided-more-factoid/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dandadan Is Derailing Its Biggest Romance, And Honestly, It's A Welcome Change",
+      "url": "https://screenrant.com/dandadan-okarun-momo-romance-love-triangle/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Akira creator's mysterious new sci-fi movie just got a massive update",
       "url": "https://www.polygon.com/akira-creators-new-animated-feature/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Witch Hat Atelier Anime Casts Knights Moralis",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-11/witch-hat-atelier-anime-casts-knights-moralis/.237261",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
