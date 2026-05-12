@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T15:29:13+00:00",
+  "generated_utc": "2026-05-12T15:56:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,22 @@
       "article_slug": null
     },
     {
+      "title": "Byron Allen Takes Over BuzzFeed In $120M Acquisition Deal",
+      "url": "https://allhiphop.com/news/byron-allen-takes-over-buzzfeed-in-120m-acquisition-deal/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Eminem’s Ex-Wife Admits To Driving Drunk & She’s Going To Be Sentenced For It",
       "url": "https://allhiphop.com/news/eminems-ex-wife-admits-to-driving-drunk-shes-going-to-be-sentenced-for-it/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Yung Miami Talks Dating Older Men, Says She’s Ready To Have Another Child",
+      "url": "https://thesource.com/2026/05/12/yung-miami-talks-dating-older-men-says-shes-ready-to-have-another-child/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -102,16 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Kendrick Lamar’s “Not Like Us” and ‘GNX’ Temporarily Disappear Online Before Reappearing",
-      "url": "https://thesource.com/2026/05/12/kendrick-lamars-not-like-us-and-gnx-temporarily-disappear-online-before-reappearing/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hip-Hop Reacts To Swatch x Audemars Piguet Set ‘Royal Pop’ Releasing This Month",
-      "url": "https://thesource.com/2026/05/12/hip-hop-reacts-to-swatch-x-audemars-piguet-set-royal-pop-releasing-this-month/",
-      "pillar": "hiphop",
+      "title": "Solo Leveling Season 3 Drops Major Update Teasing The Franchise's Bold Future",
+      "url": "https://screenrant.com/solo-leveling-season-3-update-franchise-future/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -165,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "Akira creator's mysterious new sci-fi movie just got a massive update",
-      "url": "https://www.polygon.com/akira-creators-new-animated-feature/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News GTA 6 Trailer 3 Hype At an All-Time High, But Is It Actually Happening Today?",
       "url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-hype-at-an-all-time-high-but-is-it-actually-happening-today",
       "pillar": "gaming",
@@ -207,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "News New Gears of War Could Go Head-to-Head with Sony's Wolverine, But Will It Be on PS5?",
+      "url": "https://www.pushsquare.com/news/2026/05/new-gears-of-war-could-go-head-to-head-with-sonys-wolverine-but-will-it-be-on-ps5",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "New, Massive $650 Minas Tirith Castle Is Lego’s Largest Lord Of The Rings Lego Set Ever",
       "url": "https://kotaku.com/new-massive-650-minas-tirith-set-lego-largest-lord-of-the-rings-lego-set-ever-2000695280",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
       "url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Nintendo Launches Switch 2: Choose Your Game Bundle",
-      "url": "https://gameranx.com/updates/id/562656/article/nintendo-launches-switch-2-choose-your-game-bundle/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
