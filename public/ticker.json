@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T14:54:46+00:00",
+  "generated_utc": "2026-05-12T15:13:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -200,6 +200,13 @@
       "article_slug": null
     },
     {
+      "title": "News What a Twist! Ex-Tekken Boss Harada Opens New Studio Under Fatal Fury's SNK",
+      "url": "https://www.pushsquare.com/news/2026/05/what-a-twist-ex-tekken-boss-harada-opens-new-studio-under-fatal-furys-snk",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "New, Massive $650 Minas Tirith Castle Is Lego’s Largest Lord Of The Rings Lego Set Ever",
       "url": "https://kotaku.com/new-massive-650-minas-tirith-set-lego-largest-lord-of-the-rings-lego-set-ever-2000695280",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Nintendo Launches Switch 2: Choose Your Game Bundle",
       "url": "https://gameranx.com/updates/id/562656/article/nintendo-launches-switch-2-choose-your-game-bundle/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI",
-      "url": "https://kotaku.com/star-wars-fate-of-the-old-republic-director-casey-hudson-says-it-wont-take-200-hours-to-finish-or-use-creatively-soulless-genai-2000695281",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
