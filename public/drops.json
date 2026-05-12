@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T18:18:48+00:00",
+  "generated_utc": "2026-05-12T18:34:37+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -303,6 +303,18 @@
       "release_badge": ""
     },
     {
+      "id": "823043761ef4",
+      "pillar": "gaming",
+      "title": "One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/one-gta-6-fan-is-so-obsessed-theyre-tracking-foot-traffic-at-a-cafe-near-rockstar-to-predict-the-next-trailer-drop-2000695325",
+      "thumbnail": "/drops/thumbs/823043761ef4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "005f6ee9be6b",
       "pillar": "gaming",
       "title": "Hands-on After 2 hours, this new Lovecraftian horror game feels like a faithful mashup of Resident Evil and Silent Hill",
@@ -345,18 +357,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/new-gears-of-war-could-go-head-to-head-with-sonys-wolverine-but-will-it-be-on-ps5",
       "thumbnail": "/drops/thumbs/3aa000761565.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e128907c6688",
-      "pillar": "gaming",
-      "title": "Star Wars: Fate of the Old Republic Director Casey Hudson Says It Won’t Take 200 Hours To Finish Or Use ‘Creatively Soulless’ GenAI",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/star-wars-fate-of-the-old-republic-director-casey-hudson-says-it-wont-take-200-hours-to-finish-or-use-creatively-soulless-genai-2000695281",
-      "thumbnail": "/drops/thumbs/e128907c6688.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
