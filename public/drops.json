@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T11:11:07+00:00",
+  "generated_utc": "2026-05-12T11:50:07+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "50b6b76f729d",
-      "pillar": "gaming",
-      "title": "Rockstar New York Has Another Marketing Job Open (It’s For GTA 6)",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562613/article/rockstar-new-york-has-another-marketing-job-open-its-for-gta-6/",
-      "thumbnail": "/drops/thumbs/50b6b76f729d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4769b136cde2",
       "pillar": "gaming",
       "title": "Poll Is Saros Better Than Returnal?",
@@ -339,36 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "2c6d9ca5cd59",
-      "pillar": "gaming",
-      "title": "News Lies of P Dev Is Making Headlines, But Not for Reasons Anyone Wants to Hear",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/lies-of-p-dev-is-making-headlines-but-not-for-reasons-anyone-wants-to-hear",
-      "thumbnail": "/drops/thumbs/2c6d9ca5cd59.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "033c30b964f0",
-      "pillar": "gaming",
-      "title": "Gears Of War: E-Day Is Sponsoring Upcoming Professional Wrestling Event TripleMania 2026",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562615/article/gears-of-war-e-day-is-sponsoring-upcoming-professional-wrestling-event-triplemania-2026/",
-      "thumbnail": "/drops/thumbs/033c30b964f0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1a7540ef869e",
       "pillar": "gaming",
       "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
       "thumbnail": "/drops/thumbs/1a7540ef869e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c52ff7c44596",
+      "pillar": "gaming",
+      "title": "Rumor: Star Fox Movie Is A “High Priority” Project At Illumination, Started Alongside Super Mario Movies",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562650/article/rumor-star-fox-movie-is-a-high-priority-project-at-illumination-started-alongside-super-mario-movies/",
+      "thumbnail": "/drops/thumbs/c52ff7c44596.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,6 +361,30 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "78655e901615",
+      "pillar": "gaming",
+      "title": "Subnautica 2 hit 5 million Steam wishlists days before early access launch, so everyone gets a gift",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/survival/subnautica-2-hit-5-million-steam-wishlists-days-before-its-early-access-launch-so-every-player-gets-a-special-gift/",
+      "thumbnail": "/drops/thumbs/78655e901615.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "20501eab7bf7",
+      "pillar": "gaming",
+      "title": "Sega Cancels Their Super Game Project With “No Additional Costs”",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562648/article/sega-cancels-their-super-game-project-with-no-additional-costs/",
+      "thumbnail": "/drops/thumbs/20501eab7bf7.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "f931c0c69400",
     "57a6390c2d06",
     "26df7af50eda",
-    "50b6b76f729d"
+    "4769b136cde2"
   ]
 }
