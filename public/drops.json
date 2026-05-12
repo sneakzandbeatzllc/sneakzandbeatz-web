@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T01:55:25+00:00",
+  "generated_utc": "2026-05-12T02:03:58+00:00",
   "items": [
     {
       "id": "8cf8b4554bae",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "6dd81dee2eba",
+      "pillar": "hiphop",
+      "title": "Mayor Eddie Melton on Gary, Indiana’s Feature in FX’s and Hulu’s ‘The Bear’",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/11/mayor-eddie-melton-on-gary-indianas-feature-in-fxs-and-hulus-the-bear/",
+      "thumbnail": "/drops/thumbs/6dd81dee2eba.jpg",
+      "published": "2026-05-11T21:12:10",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "47d95a482e21",
+      "pillar": "hiphop",
+      "title": "Lawry’s Teams Up With Wiz Khalifa And His Mom Kick Off Cookout Season with “Mama Said Lawry’s”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/11/lawrys-teams-up-with-wiz-khalifa-and-his-mom-kick-off-cookout-season-with-mama-said-lawrys/",
+      "thumbnail": "/drops/thumbs/47d95a482e21.jpg",
+      "published": "2026-05-11T21:04:50",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "47cc67f235ee",
       "pillar": "hiphop",
       "title": "Ice Cube Accused Of Blowing Off Lawsuit From Best Boys And Grips",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "d5d5495027cf",
-      "pillar": "hiphop",
-      "title": "Jermaine Dupri Explodes Over Kris Kross Money Debate As Fans Question What Happened To The Fortune",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/jermaine-dupri-explodes-over-kris-kross-money-debate-as-fans-question-what-happened-to-the-fortune/",
-      "thumbnail": "/drops/thumbs/d5d5495027cf.jpg",
-      "published": "2026-05-11T14:26:31",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "af472e8fb2b2",
-      "pillar": "hiphop",
-      "title": "Sleepy Don Trends as Trump Nods Off During Presidential Mental Health Meeting",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/sleepy-don-trends-as-trump-nods-off-during-presidential-mental-health-meeting/",
-      "thumbnail": "/drops/thumbs/af472e8fb2b2.jpg",
-      "published": "2026-05-11T14:14:41",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cb1b0289744c",
       "pillar": "anime",
       "title": "One Piece Decided Its Straw Hat Crew Decades Ago, But Did Oda Leave Room For Loki?",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "afa625cfd91e",
+      "id": "c2b3d80c3271",
       "pillar": "anime",
-      "title": "My Friend's Little Sister Has it in For Me Manga Ends in Next Volume This Fall",
+      "title": "Eren the Southpaw Anime Casts Natsumi Fujiwara",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/my-friend-little-sister-has-it-in-for-me-manga-ends-in-next-volume-this-fall/.237237",
-      "thumbnail": "/drops/thumbs/afa625cfd91e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/eren-the-southpaw-anime-casts-natsumi-fujiwara/.237269",
+      "thumbnail": "/drops/thumbs/c2b3d80c3271.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "7ad729d97fa5",
+      "id": "afa625cfd91e",
       "pillar": "anime",
-      "title": "Chronicles of the Going Home Club 's Kuroha Launches New Manga",
+      "title": "My Friend's Little Sister Has it in For Me Manga Ends in Next Volume This Fall",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/chronicles-of-the-going-home-club-kuroha-launches-new-manga/.237251",
-      "thumbnail": "/drops/thumbs/7ad729d97fa5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-11/my-friend-little-sister-has-it-in-for-me-manga-ends-in-next-volume-this-fall/.237237",
+      "thumbnail": "/drops/thumbs/afa625cfd91e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8cf8b4554bae",
-    "47cc67f235ee",
+    "6dd81dee2eba",
     "f931c0c69400",
     "cb1b0289744c",
     "26df7af50eda",
