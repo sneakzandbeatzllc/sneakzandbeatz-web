@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T11:50:07+00:00",
+  "generated_utc": "2026-05-12T12:26:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Nigel Sylvester x Air Jordan 4 “Brick After Brick” May Release Date & Info",
+      "url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
+      "pillar": "sneakers",
+      "score": 7.5,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 12 “Bloodline” Releases May 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-12-bloodline/",
@@ -48,13 +55,6 @@
     {
       "title": "The Air Jordan 1 Low OG Sets Sail in Summer 2026",
       "url": "https://justfreshkicks.com/air-jordan-1-low-og-sail/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
-      "url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -172,6 +172,13 @@
       "article_slug": null
     },
     {
+      "title": "News No One Noticed Intergalactic's Hidden Naughty Dog Easter Egg",
+      "url": "https://www.pushsquare.com/news/2026/05/no-one-noticed-intergalactics-hidden-naughty-dog-easter-egg",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Poll Is Saros Better Than Returnal?",
       "url": "https://www.pushsquare.com/features/poll-is-saros-better-than-returnal",
       "pillar": "gaming",
@@ -186,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "News See the Alternate Version of Uncharted 4 You Never Got to Play in Eye-Opening Video",
-      "url": "https://www.pushsquare.com/news/2026/05/see-the-alternate-version-of-uncharted-4-you-never-got-to-play-in-eye-opening-video",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
       "url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
       "pillar": "gaming",
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: Star Fox Movie Is A “High Priority” Project At Illumination, Started Alongside Super Mario Movies",
-      "url": "https://gameranx.com/updates/id/562650/article/rumor-star-fox-movie-is-a-high-priority-project-at-illumination-started-alongside-super-mario-movies/",
+      "title": "Forza Horizon 6 Player Confirms The Crack Is Real And That He Got Banned – Or Was He?",
+      "url": "https://gameranx.com/updates/id/562652/article/forza-horizon-6-player-confirms-the-crack-is-real-and-that-he-got-banned-or-was-he/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Sega Cancels Their Super Game Project With “No Additional Costs”",
-      "url": "https://gameranx.com/updates/id/562648/article/sega-cancels-their-super-game-project-with-no-additional-costs/",
+      "title": "Rumor: Star Fox Movie Is A “High Priority” Project At Illumination, Started Alongside Super Mario Movies",
+      "url": "https://gameranx.com/updates/id/562650/article/rumor-star-fox-movie-is-a-high-priority-project-at-illumination-started-alongside-super-mario-movies/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
