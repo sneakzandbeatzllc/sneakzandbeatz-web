@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T17:59:47+00:00",
+  "generated_utc": "2026-05-12T18:18:48+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "c1ac4ffb6571",
+      "pillar": "hiphop",
+      "title": "“Odyssey” Director Defends Casting Travis Scott",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/odyssey-director-defends-casting-travis-scott/",
+      "thumbnail": "/drops/thumbs/c1ac4ffb6571.png",
+      "published": "2026-05-12T14:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ea62595858c0",
       "pillar": "hiphop",
       "title": "Self-Proclaimed “King Thief Of Atlanta” Going To Prison For Stealing Beyoncé’s Unreleased Music",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/12/daz-dillinger-sues-tupac-moms-amaru-entertainment-over-unpaid-royalties/",
       "thumbnail": "/drops/thumbs/b4d6c3bf0118.jpg",
       "published": "2026-05-12T10:39:22",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "df59f449d2a2",
-      "pillar": "hiphop",
-      "title": "Today In Hip Hop History: DMX Dropped His Debut Album ‘It’s Dark and Hell Is Hot’ 28 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/today-in-hip-hop-history-dmx-dropped-his-debut-album-its-dark-and-hell-is-hot-28-years-ago/",
-      "thumbnail": "/drops/thumbs/df59f449d2a2.jpg",
-      "published": "2026-05-12T08:23:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "ea62595858c0",
+    "c1ac4ffb6571",
     "8cf8b4554bae",
     "8aa1209a20fc",
     "43151d13faa3",
