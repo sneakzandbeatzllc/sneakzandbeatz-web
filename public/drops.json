@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T14:28:11+00:00",
+  "generated_utc": "2026-05-13T15:28:23+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "d31114279955",
+      "pillar": "gaming",
+      "title": "Sony’s Latest PS5 Exclusive Saros Isn’t Selling As Well As You’d Expect, Analyst Claims",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/analyst-claims-sonys-latest-ps5-exclusive-saros-isnt-selling-great-either-2000695652",
+      "thumbnail": "/drops/thumbs/d31114279955.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3c4ccba212e9",
       "pillar": "gaming",
       "title": "News Saros PS5 Sales Estimates at 300k, Selling Slower Than Returnal on a Bigger Install Base",
@@ -351,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "78012326c66e",
-      "pillar": "gaming",
-      "title": "Valve’s New Steam Controller Screams When You Drop It",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/valves-new-steam-controller-screams-when-you-drop-it-2000695650",
-      "thumbnail": "/drops/thumbs/78012326c66e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ed0a2d50de6c",
       "pillar": "gaming",
       "title": "Rumor: Xbox Planning a Disc-To-Digital Program Codenamed Positron (For Backwards Compatibility?)",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "4309cf5d049d",
+      "id": "78012326c66e",
       "pillar": "gaming",
-      "title": "Haunted Chocolatier Is Set To Be ‘Way Bigger than Stardew Valley ,’ Somehow",
+      "title": "Valve’s New Steam Controller Screams When You Drop It",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/haunted-chocolatier-is-set-to-be-way-bigger-than-stardew-valley-somehow-2000695369",
-      "thumbnail": "/drops/thumbs/4309cf5d049d.jpg",
+      "source_url": "https://kotaku.com/valves-new-steam-controller-screams-when-you-drop-it-2000695650",
+      "thumbnail": "/drops/thumbs/78012326c66e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
