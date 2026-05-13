@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T00:17:39+00:00",
+  "generated_utc": "2026-05-13T01:16:53+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "878152b1d2dc",
+      "pillar": "hiphop",
+      "title": "Ice Cube Celebrates Three Decades of Friday With Mike Epps Concert",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ice-cube-celebrates-three-decades-of-friday-with-mike-epps-concert/",
+      "thumbnail": "/drops/thumbs/878152b1d2dc.png",
+      "published": "2026-05-12T21:01:22",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5abd61cf5176",
       "pillar": "hiphop",
       "title": "Jamie Foxx Reportedly Expecting Baby With Girlfriend Alyce Huckstepp",
@@ -183,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "c1ac4ffb6571",
-      "pillar": "hiphop",
-      "title": "“Odyssey” Director Defends Casting Travis Scott",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/odyssey-director-defends-casting-travis-scott/",
-      "thumbnail": "/drops/thumbs/c1ac4ffb6571.png",
-      "published": "2026-05-12T14:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8aa1209a20fc",
       "pillar": "anime",
       "title": "Love It Or Hate It, Dragon Ball GT Saved The Anime Industry",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-gt-saved-anime-industry/",
       "thumbnail": "/drops/thumbs/8aa1209a20fc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "727940c7d2b4",
+      "pillar": "anime",
+      "title": "Solo Leveling Meets Jujutsu Kaisen In New Chinese Anime That Already Looks Incredible",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/call-me-lord-eerie-bailiff-solo-leveling-meets-jujutsu-kaisen/",
+      "thumbnail": "/drops/thumbs/727940c7d2b4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-12/with-vengeance-sincerely-your-broken-saintess-light-anime-gets-2nd-season-in-october/.237277",
       "thumbnail": "/drops/thumbs/d426b427d4e6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2be84c4f223c",
-      "pillar": "anime",
-      "title": "The Ghost in the Shell anime gets exciting release date update with newest trailer",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/ghost-in-the-shell-2026-release-date-july/",
-      "thumbnail": "/drops/thumbs/2be84c4f223c.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "5abd61cf5176",
+    "878152b1d2dc",
     "7de612490f99",
     "8aa1209a20fc",
     "e8acd9c337af",

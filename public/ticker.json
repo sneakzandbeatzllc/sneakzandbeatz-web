@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T00:17:39+00:00",
+  "generated_utc": "2026-05-13T01:16:53+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Ice Cube Celebrates Three Decades of Friday With Mike Epps Concert",
+      "url": "https://allhiphop.com/news/ice-cube-celebrates-three-decades-of-friday-with-mike-epps-concert/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jamie Foxx Reportedly Expecting Baby With Girlfriend Alyce Huckstepp",
       "url": "https://allhiphop.com/rumors/jamie-foxx-reportedly-expecting-baby-with-girlfriend-alyce-huckstepp/",
       "pillar": "hiphop",
@@ -109,15 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "“Odyssey” Director Defends Casting Travis Scott",
-      "url": "https://allhiphop.com/news/odyssey-director-defends-casting-travis-scott/",
-      "pillar": "hiphop",
+      "title": "Love It Or Hate It, Dragon Ball GT Saved The Anime Industry",
+      "url": "https://screenrant.com/dragon-ball-gt-saved-anime-industry/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Love It Or Hate It, Dragon Ball GT Saved The Anime Industry",
-      "url": "https://screenrant.com/dragon-ball-gt-saved-anime-industry/",
+      "title": "Solo Leveling Meets Jujutsu Kaisen In New Chinese Anime That Already Looks Incredible",
+      "url": "https://screenrant.com/call-me-lord-eerie-bailiff-solo-leveling-meets-jujutsu-kaisen/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "'With Vengeance, Sincerely, Your Broken Saintess' Light Anime Gets 2nd Season in October",
       "url": "https://www.animenewsnetwork.com/news/2026-05-12/with-vengeance-sincerely-your-broken-saintess-light-anime-gets-2nd-season-in-october/.237277",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Ghost in the Shell anime gets exciting release date update with newest trailer",
-      "url": "https://www.polygon.com/ghost-in-the-shell-2026-release-date-july/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
