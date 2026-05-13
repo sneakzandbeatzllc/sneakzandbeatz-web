@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T18:35:02+00:00",
+  "generated_utc": "2026-05-13T19:10:06+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "359ca801c091",
+      "pillar": "hiphop",
+      "title": "Jay-Z’s $8M Favor: Dee From Ruff Ryders On How Hov Freed DMX From Def Jam Debt",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/jay-zs-8m-favor-dee-from-ruff-ryders-on-how-hov-freed-dmx-from-def-jam-debt/",
+      "thumbnail": "/drops/thumbs/359ca801c091.jpg",
+      "published": "2026-05-13T15:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8c9b17b8affe",
       "pillar": "hiphop",
       "title": "Tiffany Haddish Files Motion To Toss Georgia DUI Over Speedy Trial Violation",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/13/cardi-b-and-stefon-diggs-reportedly-rekindle-romance-months-after-split/",
       "thumbnail": "/drops/thumbs/b7ff1efd2ef6.jpg",
       "published": "2026-05-13T10:24:30",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a7a86e5beb46",
-      "pillar": "hiphop",
-      "title": "Dr. Cheyenne Bryant Is Being Called Dr. Fraud, But She Claims People Are Wrong",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/dr-cheyenne-bryant-is-being-called-dr-fraud-but-she-claims-people-are-wrong/",
-      "thumbnail": "/drops/thumbs/a7a86e5beb46.jpg",
-      "published": "2026-05-13T10:14:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,6 +291,18 @@
       "release_badge": ""
     },
     {
+      "id": "c29ec421400b",
+      "pillar": "gaming",
+      "title": "News Saros Squashes Trophy Bugs and Other Nasty Issues in Latest PS5 Patch, Available Now",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/saros-squashes-trophy-bugs-and-other-nasty-issues-in-latest-ps5-patch-available-now",
+      "thumbnail": "/drops/thumbs/c29ec421400b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "262368845c6c",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 5 Comments",
@@ -339,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "6a7ffb162773",
-      "pillar": "gaming",
-      "title": "News 007 First Light Now Ready for Action, James Bond PS5 Game Goes Gold",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/007-first-light-now-ready-for-action-james-bond-ps5-game-goes-gold",
-      "thumbnail": "/drops/thumbs/6a7ffb162773.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2f6220ae5570",
       "pillar": "gaming",
       "title": "Snake Eater-like third-person mode found hidden in Metal Gear Solid 2 HD Collection 15 years later",
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "8c9b17b8affe",
+    "359ca801c091",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
-    "262368845c6c"
+    "c29ec421400b"
   ]
 }
