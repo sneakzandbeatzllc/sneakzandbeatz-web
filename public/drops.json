@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T18:08:14+00:00",
+  "generated_utc": "2026-05-13T18:32:21+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "f3e9f850cdcc",
+      "pillar": "anime",
+      "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/",
+      "thumbnail": "/drops/thumbs/f3e9f850cdcc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ba8310bdbc45",
       "pillar": "anime",
       "title": "\"A Dream Come True\": Dragon Ball's Studio May Have Its Coolest Successor Already (Exclusive)",
@@ -243,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "bd04ff579adc",
-      "pillar": "anime",
-      "title": "Now that Sukuna is canon in the Marvel Universe, let's powerscale him properly",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/jjk-sukuna-canon-marvel-universe-powerscale/",
-      "thumbnail": "/drops/thumbs/bd04ff579adc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d046edc74cf5",
       "pillar": "anime",
       "title": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration Anime Adds 2 More Cast Members",
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "2be84c4f223c",
+      "id": "bd04ff579adc",
       "pillar": "anime",
-      "title": "The Ghost in the Shell anime gets exciting release date update with newest trailer",
+      "title": "Now that Sukuna is canon in the Marvel Universe, let's powerscale him properly",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/ghost-in-the-shell-2026-release-date-july/",
-      "thumbnail": "/drops/thumbs/2be84c4f223c.png",
+      "source_url": "https://www.polygon.com/jjk-sukuna-canon-marvel-universe-powerscale/",
+      "thumbnail": "/drops/thumbs/bd04ff579adc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "33a1f9fc0899",
     "8c9b17b8affe",
     "7de612490f99",
-    "ba8310bdbc45",
+    "f3e9f850cdcc",
     "e8acd9c337af",
     "262368845c6c"
   ]
