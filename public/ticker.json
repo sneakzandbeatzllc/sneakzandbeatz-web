@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T19:36:46+00:00",
+  "generated_utc": "2026-05-13T20:34:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Paramount, Warner Music Unite for Major Push Into Music-Driven Scripted Films",
+      "url": "https://thesource.com/2026/05/13/paramount-warner-music-unite-for-major-push-into-music-driven-scripted-films/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jay-Z’s $8M Favor: Dee From Ruff Ryders On How Hov Freed DMX From Def Jam Debt",
       "url": "https://allhiphop.com/news/jay-zs-8m-favor-dee-from-ruff-ryders-on-how-hov-freed-dmx-from-def-jam-debt/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Cardi B And Stefon Diggs Reportedly Rekindle Romance Months After Split",
-      "url": "https://thesource.com/2026/05/13/cardi-b-and-stefon-diggs-reportedly-rekindle-romance-months-after-split/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
       "url": "https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/",
       "pillar": "anime",
@@ -123,15 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "\"A Dream Come True\": Dragon Ball's Studio May Have Its Coolest Successor Already (Exclusive)",
-      "url": "https://screenrant.com/dragon-ball-successor-toei-animation-gosu-anime/",
+      "title": "The Ultimate Solo Leveling Killer Teases 2027 Anime, And It Could Be Huge",
+      "url": "https://screenrant.com/solo-leveling-killer-omniscient-readers-viewpoint-anime-2027-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen Proved That Gojo Was the Strongest, But Not For the Reason Fans Thought",
-      "url": "https://screenrant.com/jujutsu-kaisen-gojo-strongest-hard-work/",
+      "title": "One Piece Just Teased A Devil Fruit Powerful Enough To Destroy Luffy",
+      "url": "https://screenrant.com/one-piece-dragon-devil-fruit-threaten-luffy/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "You Can Pay To Join An Assassin’s Creed Black Flag Resynced Treasure Hunt And Find A $500,000 Chest Ubisoft Had Buried In The Caribbean",
-      "url": "https://kotaku.com/you-can-pay-to-join-a-assassins-creed-black-flag-resynced-treasure-hunt-and-find-a-500000-chest-ubisoft-had-buried-in-the-caribbean-2000695697",
+      "title": "93 Percent Of Capcom’s Game Sales Are Digital And The Company Expects That Number To Grow",
+      "url": "https://kotaku.com/93-percent-of-capcoms-game-sales-are-digital-and-the-company-expects-that-number-to-grow-2000695728",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T19:36:46+00:00",
+  "generated_utc": "2026-05-13T20:34:02+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "2ffb262020f5",
+      "pillar": "hiphop",
+      "title": "Paramount, Warner Music Unite for Major Push Into Music-Driven Scripted Films",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/13/paramount-warner-music-unite-for-major-push-into-music-driven-scripted-films/",
+      "thumbnail": "/drops/thumbs/2ffb262020f5.jpg",
+      "published": "2026-05-13T15:50:42",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "359ca801c091",
       "pillar": "hiphop",
       "title": "Jay-Z’s $8M Favor: Dee From Ruff Ryders On How Hov Freed DMX From Def Jam Debt",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "b7ff1efd2ef6",
-      "pillar": "hiphop",
-      "title": "Cardi B And Stefon Diggs Reportedly Rekindle Romance Months After Split",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/13/cardi-b-and-stefon-diggs-reportedly-rekindle-romance-months-after-split/",
-      "thumbnail": "/drops/thumbs/b7ff1efd2ef6.jpg",
-      "published": "2026-05-13T10:24:30",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -207,24 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "ba8310bdbc45",
+      "id": "772d3307affd",
       "pillar": "anime",
-      "title": "\"A Dream Come True\": Dragon Ball's Studio May Have Its Coolest Successor Already (Exclusive)",
+      "title": "The Ultimate Solo Leveling Killer Teases 2027 Anime, And It Could Be Huge",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-successor-toei-animation-gosu-anime/",
-      "thumbnail": "/drops/thumbs/ba8310bdbc45.jpg",
+      "source_url": "https://screenrant.com/solo-leveling-killer-omniscient-readers-viewpoint-anime-2027-release/",
+      "thumbnail": "/drops/thumbs/772d3307affd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "fe5ec94fe9cc",
+      "id": "18c7f9dc50ae",
       "pillar": "anime",
-      "title": "Jujutsu Kaisen Proved That Gojo Was the Strongest, But Not For the Reason Fans Thought",
+      "title": "One Piece Just Teased A Devil Fruit Powerful Enough To Destroy Luffy",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-gojo-strongest-hard-work/",
-      "thumbnail": "/drops/thumbs/fe5ec94fe9cc.jpg",
+      "source_url": "https://screenrant.com/one-piece-dragon-devil-fruit-threaten-luffy/",
+      "thumbnail": "/drops/thumbs/18c7f9dc50ae.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "80c905db328e",
+      "id": "1232705ff893",
       "pillar": "gaming",
-      "title": "You Can Pay To Join An Assassin’s Creed Black Flag Resynced Treasure Hunt And Find A $500,000 Chest Ubisoft Had Buried In The Caribbean",
+      "title": "93 Percent Of Capcom’s Game Sales Are Digital And The Company Expects That Number To Grow",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/you-can-pay-to-join-a-assassins-creed-black-flag-resynced-treasure-hunt-and-find-a-500000-chest-ubisoft-had-buried-in-the-caribbean-2000695697",
-      "thumbnail": "/drops/thumbs/80c905db328e.jpg",
+      "source_url": "https://kotaku.com/93-percent-of-capcoms-game-sales-are-digital-and-the-company-expects-that-number-to-grow-2000695728",
+      "thumbnail": "/drops/thumbs/1232705ff893.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "359ca801c091",
+    "2ffb262020f5",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
