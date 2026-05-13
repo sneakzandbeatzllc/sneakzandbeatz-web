@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T01:18:40+00:00",
+  "generated_utc": "2026-05-13T02:18:04+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "59db82ec1651",
+      "pillar": "hiphop",
+      "title": "Nicki Minaj’s Latest Move Has Barbz Wondering “WTF?”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/nicki-minajs-latest-move-has-barbz-wondering-wtf/",
+      "thumbnail": "/drops/thumbs/59db82ec1651.jpg",
+      "published": "2026-05-12T22:17:02",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "878152b1d2dc",
       "pillar": "hiphop",
       "title": "Ice Cube Celebrates Three Decades of Friday With Mike Epps Concert",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/boosie-badazz-signed-artist-playbwoi-the-great-shot-dead-mother-shares-heartbreaking-last-conversation/",
       "thumbnail": "/drops/thumbs/1e3f8850031b.jpg",
       "published": "2026-05-12T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f9699dd6cf83",
-      "pillar": "hiphop",
-      "title": "Festival Fever: Sexyy Red and True Religion Take Over Rolling Loud",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/12/festival-fever-sexyy-red-and-true-religion-take-over-rolling-loud/",
-      "thumbnail": "/drops/thumbs/f9699dd6cf83.jpg",
-      "published": "2026-05-12T14:51:40",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "878152b1d2dc",
+    "59db82ec1651",
     "7de612490f99",
     "8aa1209a20fc",
     "e8acd9c337af",
