@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T02:19:43+00:00",
+  "generated_utc": "2026-05-13T03:20:17+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "ba8310bdbc45",
+      "pillar": "anime",
+      "title": "\"A Dream Come True\": Dragon Ball's Studio May Have Its Coolest Successor Already (Exclusive)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-successor-toei-animation-gosu-anime/",
+      "thumbnail": "/drops/thumbs/ba8310bdbc45.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8aa1209a20fc",
       "pillar": "anime",
       "title": "Love It Or Hate It, Dragon Ball GT Saved The Anime Industry",
@@ -225,18 +237,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/jujutsu-kaisen-first-season-4-tease/",
       "thumbnail": "/drops/thumbs/b66918287227.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0bae62825ba6",
-      "pillar": "anime",
-      "title": "Solo Leveling Season 3 Drops Major Update Teasing The Franchise's Bold Future",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-season-3-update-franchise-future/",
-      "thumbnail": "/drops/thumbs/0bae62825ba6.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "33a1f9fc0899",
     "59db82ec1651",
     "7de612490f99",
-    "8aa1209a20fc",
+    "ba8310bdbc45",
     "e8acd9c337af",
     "e7d80eaf39d0"
   ]

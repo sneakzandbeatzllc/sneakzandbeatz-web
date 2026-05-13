@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T02:19:43+00:00",
+  "generated_utc": "2026-05-13T03:20:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "\"A Dream Come True\": Dragon Ball's Studio May Have Its Coolest Successor Already (Exclusive)",
+      "url": "https://screenrant.com/dragon-ball-successor-toei-animation-gosu-anime/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Love It Or Hate It, Dragon Ball GT Saved The Anime Industry",
       "url": "https://screenrant.com/dragon-ball-gt-saved-anime-industry/",
       "pillar": "anime",
@@ -132,13 +139,6 @@
     {
       "title": "Jujutsu Kaisen Star Just Dropped First Season 4 Tease, And The Fandom Simply Isn't Prepared (Exclusive)",
       "url": "https://screenrant.com/jujutsu-kaisen-first-season-4-tease/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Solo Leveling Season 3 Drops Major Update Teasing The Franchise's Bold Future",
-      "url": "https://screenrant.com/solo-leveling-season-3-update-franchise-future/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
