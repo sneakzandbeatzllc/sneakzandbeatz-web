@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T08:23:35+00:00",
+  "generated_utc": "2026-05-13T09:18:22+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -39,6 +39,30 @@
       "release_badge": "🔥 Banger"
     },
     {
+      "id": "c8d3a4f66c16",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 3 Joins the 2026 BIN 23 Collection",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
+      "thumbnail": "/drops/thumbs/c8d3a4f66c16.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "f57daaaaec68",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 1 Low OG “Banned” is Now Available",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-banned-iw6276-001/",
+      "thumbnail": "/drops/thumbs/f57daaaaec68.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
       "id": "f931c0c69400",
       "pillar": "sneakers",
       "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
@@ -70,30 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-sail-tropical-pink-2026/",
       "thumbnail": "/drops/thumbs/92560d50b61b.jpg",
       "published": "2026-05-09T00:47:14",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "6c12965cb588",
-      "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low OG “Shy Pink” Releases May 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
-      "thumbnail": "/drops/thumbs/6c12965cb588.jpg",
-      "published": "2026-05-09T00:37:50",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "5fafdd272888",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Khaki” Releases May 23rd",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-khaki/",
-      "thumbnail": "/drops/thumbs/5fafdd272888.webp",
-      "published": "",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -255,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "805be9212b61",
+      "pillar": "anime",
+      "title": "Osamu Tezuka's Autobiographical War Manga, Postwar Life Get Live-Action TV Special",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-12/osamu-tezuka-autobiographical-war-manga-postwar-life-get-live-action-tv-special/.237229",
+      "thumbnail": "/drops/thumbs/805be9212b61.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bd04ff579adc",
       "pillar": "anime",
       "title": "Now that Sukuna is canon in the Marvel Universe, let's powerscale him properly",
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "2be84c4f223c",
+      "id": "d426b427d4e6",
       "pillar": "anime",
-      "title": "The Ghost in the Shell anime gets exciting release date update with newest trailer",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/ghost-in-the-shell-2026-release-date-july/",
-      "thumbnail": "/drops/thumbs/2be84c4f223c.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a46050947b51",
-      "pillar": "anime",
-      "title": "Dungeon Crawler Carl Is Finally Back With a Major Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dungeon-crawler-carl-webtoon-second-season-return/",
-      "thumbnail": "/drops/thumbs/a46050947b51.jpg",
+      "title": "'With Vengeance, Sincerely, Your Broken Saintess' Light Anime Gets 2nd Season in October",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-12/with-vengeance-sincerely-your-broken-saintess-light-anime-gets-2nd-season-in-october/.237277",
+      "thumbnail": "/drops/thumbs/d426b427d4e6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "43dec0598b04",
-      "pillar": "gaming",
-      "title": "News With Stellar Blade 2's Reveal Near, Real-Life Eve Returned to Dev Shift Up",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/with-stellar-blade-2s-reveal-near-real-life-eve-returned-to-dev-shift-up",
-      "thumbnail": "/drops/thumbs/43dec0598b04.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1349fd2bc81d",
       "pillar": "gaming",
       "title": "Marathon Player Goes Out Of Bounds To Grief Team Right After It Kills Raid Boss And Bungie’s Not Happy",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/marathon-player-goes-out-of-bounds-to-grief-team-right-after-it-kills-raid-boss-and-bungies-not-happy-2000695272",
       "thumbnail": "/drops/thumbs/1349fd2bc81d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1a7540ef869e",
+      "pillar": "gaming",
+      "title": "Devil May Cry season 2 review: \"This is a new and improved version of what's come before\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/animation-shows/devil-may-cry-season-2-netflix-review/",
+      "thumbnail": "/drops/thumbs/1a7540ef869e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
