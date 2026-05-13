@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T17:36:36+00:00",
+  "generated_utc": "2026-05-13T18:08:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Tiffany Haddish Files Motion To Toss Georgia DUI Over Speedy Trial Violation",
+      "url": "https://allhiphop.com/news/tiffany-haddish-files-motion-to-toss-georgia-dui-over-speedy-trial-violation/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Ye Owes $176K In Sample Dispute & It’s Actually A Win",
       "url": "https://allhiphop.com/news/ye-owes-176k-in-sample-dispute-its-actually-a-win/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Julio Foolio Murder: Convicted Killer Finds God As He Faces Potential Execution",
-      "url": "https://allhiphop.com/news/julio-foolio-murder-convicted-killer-finds-god-as-he-faces-potential-execution/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "\"A Dream Come True\": Dragon Ball's Studio May Have Its Coolest Successor Already (Exclusive)",
       "url": "https://screenrant.com/dragon-ball-successor-toei-animation-gosu-anime/",
       "pillar": "anime",
@@ -125,13 +125,6 @@
     {
       "title": "Jujutsu Kaisen Proved That Gojo Was the Strongest, But Not For the Reason Fans Thought",
       "url": "https://screenrant.com/jujutsu-kaisen-gojo-strongest-hard-work/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Solo Leveling Meets Jujutsu Kaisen In New Chinese Anime That Already Looks Incredible",
-      "url": "https://screenrant.com/call-me-lord-eerie-bailiff-solo-leveling-meets-jujutsu-kaisen/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,9 +165,9 @@
       "article_slug": null
     },
     {
-      "title": "News Lies of P 2 Still at Early Stage, But the Potential Is Promising",
-      "url": "https://www.pushsquare.com/news/2026/05/lies-of-p-2-still-at-early-stage-but-the-potential-is-promising",
-      "pillar": "gaming",
+      "title": "Crunchyroll's Biggest Ani-May Rival Isn't Netflix",
+      "url": "https://screenrant.com/plex-tv-crunchyroll-biggest-ani-may-rival/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -200,8 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "Somebody Save The Overwatch Heroes From Fortnite’s Crossover Slop",
-      "url": "https://kotaku.com/somebody-save-the-overwatch-heroes-from-fortnites-crossover-slop-2000695674",
+      "title": "The Talos Principle 3 Revealed As A Grand Finale To One Of Gaming’s Smartest Series",
+      "url": "https://kotaku.com/the-talos-principle-3-croteam-devolver-digital-teaser-2000695701",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 007 First Light Now Ready for Action, James Bond PS5 Game Goes Gold",
+      "url": "https://www.pushsquare.com/news/2026/05/007-first-light-now-ready-for-action-james-bond-ps5-game-goes-gold",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Nintendo Hints At More Big Switch 2 Games This Fall And The Ongoing Importance Of Its Last-Gen Console",
-      "url": "https://kotaku.com/nintendo-hints-at-more-big-switch-2-games-this-fall-and-the-ongoing-importance-of-its-last-gen-console-2000695687",
+      "title": "You Can Pay To Join An Assassin’s Creed Black Flag Resynced Treasure Hunt And Find A $500,000 Chest Ubisoft Had Buried In The Caribbean",
+      "url": "https://kotaku.com/you-can-pay-to-join-a-assassins-creed-black-flag-resynced-treasure-hunt-and-find-a-500000-chest-ubisoft-had-buried-in-the-caribbean-2000695697",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
