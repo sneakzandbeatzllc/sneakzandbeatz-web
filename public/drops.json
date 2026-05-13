@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T14:26:55+00:00",
+  "generated_utc": "2026-05-13T14:28:11+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "b7ff1efd2ef6",
+      "pillar": "hiphop",
+      "title": "Cardi B And Stefon Diggs Reportedly Rekindle Romance Months After Split",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/13/cardi-b-and-stefon-diggs-reportedly-rekindle-romance-months-after-split/",
+      "thumbnail": "/drops/thumbs/b7ff1efd2ef6.jpg",
+      "published": "2026-05-13T10:24:30",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a7a86e5beb46",
       "pillar": "hiphop",
       "title": "Dr. Cheyenne Bryant Is Being Called Dr. Fraud, But She Claims People Are Wrong",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/13/trump-says-inflation-does-not-motivate-iran-policy-as-energy-shock-pushes-u-s-prices-higher/",
       "thumbnail": "/drops/thumbs/6d215c02acf3.jpg",
       "published": "2026-05-13T06:45:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ab11308f797c",
-      "pillar": "hiphop",
-      "title": "Jamie Foxx and Girlfriend Alyce Huckstepp Expecting First Child Together",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/13/jamie-foxx-expecting-third-baby-alyce-huckstepp/",
-      "thumbnail": "/drops/thumbs/ab11308f797c.jpg",
-      "published": "2026-05-13T05:54:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "a7a86e5beb46",
+    "b7ff1efd2ef6",
     "7de612490f99",
     "ba8310bdbc45",
     "e8acd9c337af",
