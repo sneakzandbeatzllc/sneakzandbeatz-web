@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-12T23:07:54+00:00",
+  "generated_utc": "2026-05-13T00:17:39+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "5abd61cf5176",
+      "pillar": "hiphop",
+      "title": "Jamie Foxx Reportedly Expecting Baby With Girlfriend Alyce Huckstepp",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/jamie-foxx-reportedly-expecting-baby-with-girlfriend-alyce-huckstepp/",
+      "thumbnail": "/drops/thumbs/5abd61cf5176.jpg",
+      "published": "2026-05-12T19:57:36",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6a199359db60",
       "pillar": "hiphop",
       "title": "Willie “Prophet”  Stiggers, Kevin Liles Celebrates PACE Act Victory For Hip-Hop Artists",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/odyssey-director-defends-casting-travis-scott/",
       "thumbnail": "/drops/thumbs/c1ac4ffb6571.png",
       "published": "2026-05-12T14:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ea62595858c0",
-      "pillar": "hiphop",
-      "title": "Self-Proclaimed “King Thief Of Atlanta” Going To Prison For Stealing Beyoncé’s Unreleased Music",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/self-proclaimed-king-thief-of-atlanta-going-to-prison-for-stealing-beyonces-unreleased-music/",
-      "thumbnail": "/drops/thumbs/ea62595858c0.png",
-      "published": "2026-05-12T13:27:04",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "6a199359db60",
+    "5abd61cf5176",
     "7de612490f99",
     "8aa1209a20fc",
     "e8acd9c337af",
