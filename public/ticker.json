@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T12:27:17+00:00",
+  "generated_utc": "2026-05-13T13:23:53+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "New Hokuto no Ken -Fist of the North Star- Anime Reveals 3 More Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-13/new-hokuto-no-ken-fist-of-the-north-star-anime-reveals-3-more-cast-members/.237320",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Now that Sukuna is canon in the Marvel Universe, let's powerscale him properly",
       "url": "https://www.polygon.com/jjk-sukuna-canon-marvel-universe-powerscale/",
       "pillar": "anime",
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration Anime Adds 2 More Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-13/the-duke-son-claims-he-wont-love-me-yet-showers-me-with-adoration-anime-adds-2-more-cast-members/.237318",
+      "title": "The Ghost in the Shell anime gets exciting release date update with newest trailer",
+      "url": "https://www.polygon.com/ghost-in-the-shell-2026-release-date-july/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dungeon Crawler Carl Is Finally Back With a Major Release",
+      "url": "https://screenrant.com/dungeon-crawler-carl-webtoon-second-season-return/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -174,20 +174,6 @@
     {
       "title": "News GTA 6 Trailer 3 a No Show, After Fans Got into a Frenzy Over Wrong Day",
       "url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-a-no-show-after-fans-got-into-a-frenzy-over-wrong-day",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One GTA 6 Fan Is So Obsessed They’re Tracking Foot Traffic At A Café Near Rockstar To Predict The Next Trailer Drop",
-      "url": "https://kotaku.com/one-gta-6-fan-is-so-obsessed-theyre-tracking-foot-traffic-at-a-cafe-near-rockstar-to-predict-the-next-trailer-drop-2000695325",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News GTA 6 Fans Crushed as Next Game Informer Cover Revealed",
-      "url": "https://www.pushsquare.com/news/2026/05/gta-6-fans-crushed-as-next-game-informer-cover-revealed",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "Hands-on After 2 hours, this new Lovecraftian horror game feels like a faithful mashup of Resident Evil and Silent Hill",
-      "url": "https://www.gamesradar.com/games/survival-horror/after-2-hours-this-new-lovecraftian-horror-game-feels-like-a-faithful-mashup-of-resident-evil-and-silent-hill/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Lies of P 2 Still at Early Stage, But the Potential Is Promising",
       "url": "https://www.pushsquare.com/news/2026/05/lies-of-p-2-still-at-early-stage-but-the-potential-is-promising",
       "pillar": "gaming",
@@ -221,8 +200,29 @@
       "article_slug": null
     },
     {
+      "title": "Hands-on After 2 hours, this new Lovecraftian horror game feels like a faithful mashup of Resident Evil and Silent Hill",
+      "url": "https://www.gamesradar.com/games/survival-horror/after-2-hours-this-new-lovecraftian-horror-game-feels-like-a-faithful-mashup-of-resident-evil-and-silent-hill/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Saros PS5 Sales Estimates at 300k, Selling Slower Than Returnal on a Bigger Install Base",
       "url": "https://www.pushsquare.com/news/2026/05/saros-ps5-sales-estimates-at-300k-selling-slower-than-returnal-on-a-bigger-install-base",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Valve’s New Steam Controller Screams When You Drop It",
+      "url": "https://kotaku.com/valves-new-steam-controller-screams-when-you-drop-it-2000695650",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Jason Schreier Debunks Rumor That Rocksteady Is Making A Batman Begins Game",
+      "url": "https://gameranx.com/updates/id/562671/article/jason-schreier-debunks-rumor-that-rocksteady-is-making-a-batman-begins-game/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
