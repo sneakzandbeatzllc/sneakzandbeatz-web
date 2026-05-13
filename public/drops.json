@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T15:28:23+00:00",
+  "generated_utc": "2026-05-13T15:57:31+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "85d537e68d6a",
+      "pillar": "hiphop",
+      "title": "Queen Latifah Joins “The Voice”  Season 30 As New Coach",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/queen-latifah-joins-the-voice-season-30-as-new-coach/",
+      "thumbnail": "/drops/thumbs/85d537e68d6a.jpg",
+      "published": "2026-05-13T11:36:09",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b7ff1efd2ef6",
       "pillar": "hiphop",
       "title": "Cardi B And Stefon Diggs Reportedly Rekindle Romance Months After Split",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/13/meek-mill-says-hes-seen-nothing-with-the-same-impact-as-dreams-and-nightmares/",
       "thumbnail": "/drops/thumbs/6dbd8be8c67c.jpg",
       "published": "2026-05-13T07:17:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6d215c02acf3",
-      "pillar": "hiphop",
-      "title": "Trump Says Inflation “Does Not Motivate” Iran Policy as Energy Shock Pushes U.S. Prices Higher",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/13/trump-says-inflation-does-not-motivate-iran-policy-as-energy-shock-pushes-u-s-prices-higher/",
-      "thumbnail": "/drops/thumbs/6d215c02acf3.jpg",
-      "published": "2026-05-13T06:45:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "b7ff1efd2ef6",
+    "85d537e68d6a",
     "7de612490f99",
     "ba8310bdbc45",
     "e8acd9c337af",
