@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T22:45:38+00:00",
+  "generated_utc": "2026-05-13T23:17:14+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "af5aff49ead5",
+      "pillar": "hiphop",
+      "title": "Mike Epps Lands Major Netflix Deal After Incredible Success",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/mike-epps-lands-major-netflix-deal-after-incredible-success/",
+      "thumbnail": "/drops/thumbs/af5aff49ead5.jpg",
+      "published": "2026-05-13T19:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b5263e918eb4",
       "pillar": "hiphop",
       "title": "Rick Ross Explains His Barefoot Morning Ritual",
@@ -177,18 +189,6 @@
       "source": "AllHipHop",
       "source_url": "https://allhiphop.com/news/ye-owes-176k-in-sample-dispute-its-actually-a-win/",
       "thumbnail": "/drops/thumbs/00f06e105342.jpg",
-      "published": "2026-05-13T13:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "59db82ec1651",
-      "pillar": "hiphop",
-      "title": "Nicki Minaj’s Latest Move Has Barbz Getting Blocked",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/nicki-minajs-latest-move-has-barbz-wondering-wtf/",
-      "thumbnail": "/drops/thumbs/59db82ec1651.png",
       "published": "2026-05-13T13:00:00",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "b5263e918eb4",
+    "af5aff49ead5",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
