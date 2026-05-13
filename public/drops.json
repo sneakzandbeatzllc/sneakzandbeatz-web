@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T09:18:22+00:00",
+  "generated_utc": "2026-05-13T10:20:07+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -39,30 +39,6 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "c8d3a4f66c16",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 Joins the 2026 BIN 23 Collection",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
-      "thumbnail": "/drops/thumbs/c8d3a4f66c16.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "f57daaaaec68",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 1 Low OG “Banned” is Now Available",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-banned-iw6276-001/",
-      "thumbnail": "/drops/thumbs/f57daaaaec68.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
       "id": "f931c0c69400",
       "pillar": "sneakers",
       "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
@@ -94,6 +70,30 @@
       "source_url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-sail-tropical-pink-2026/",
       "thumbnail": "/drops/thumbs/92560d50b61b.jpg",
       "published": "2026-05-09T00:47:14",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "6c12965cb588",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low OG “Shy Pink” Releases May 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/travis-scott-air-jordan-1-low-og-muslin-shy-pink-2026/",
+      "thumbnail": "/drops/thumbs/6c12965cb588.jpg",
+      "published": "2026-05-09T00:37:50",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "5fafdd272888",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Khaki” Releases May 23rd",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-khaki/",
+      "thumbnail": "/drops/thumbs/5fafdd272888.webp",
+      "published": "",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "805be9212b61",
+      "id": "d046edc74cf5",
       "pillar": "anime",
-      "title": "Osamu Tezuka's Autobiographical War Manga, Postwar Life Get Live-Action TV Special",
+      "title": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration Anime Adds 2 More Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-12/osamu-tezuka-autobiographical-war-manga-postwar-life-get-live-action-tv-special/.237229",
-      "thumbnail": "/drops/thumbs/805be9212b61.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/the-duke-son-claims-he-wont-love-me-yet-showers-me-with-adoration-anime-adds-2-more-cast-members/.237318",
+      "thumbnail": "/drops/thumbs/d046edc74cf5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "d426b427d4e6",
+      "id": "805be9212b61",
       "pillar": "anime",
-      "title": "'With Vengeance, Sincerely, Your Broken Saintess' Light Anime Gets 2nd Season in October",
+      "title": "Osamu Tezuka's Autobiographical War Manga, Postwar Life Get Live-Action TV Special",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-12/with-vengeance-sincerely-your-broken-saintess-light-anime-gets-2nd-season-in-october/.237277",
-      "thumbnail": "/drops/thumbs/d426b427d4e6.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-12/osamu-tezuka-autobiographical-war-manga-postwar-life-get-live-action-tv-special/.237229",
+      "thumbnail": "/drops/thumbs/805be9212b61.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
