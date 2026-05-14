@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T03:49:28+00:00",
+  "generated_utc": "2026-05-14T04:45:46+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "7bda977677ca",
+      "pillar": "hiphop",
+      "title": "A!MS Unites The Splash Gang For ‘Wait What’ And The UK Rap Scene Will Never Be The Same",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/ams-unites-the-splash-gang-for-wait-what-and-the-uk-rap-scene-will-never-be-the-same/",
+      "thumbnail": "/drops/thumbs/7bda977677ca.jpg",
+      "published": "2026-05-14T00:39:47",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ce731a64bdb7",
       "pillar": "hiphop",
       "title": "Chrisean Rock Skips Court Hearing, Faces Massive Default Judgment",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "d245ccedea5d",
-      "pillar": "hiphop",
-      "title": "Exclusive: Cardi B Wins Big, Federal Judge Slams Tasha K & Lawyer",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/exclusives/exclusive-cardi-b-wins-big-federal-judge-slams-tasha-k-lawyer/",
-      "thumbnail": "/drops/thumbs/d245ccedea5d.jpg",
-      "published": "2026-05-13T17:26:35",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "02ac65e44a78",
+      "id": "898d66aead22",
       "pillar": "anime",
-      "title": "Talentless Nana Manga to End in 2 More Chapters",
+      "title": "Tamekō's Lala's Married Life Manga Enters Final Arc",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/talentless-nana-manga-to-end-in-2-more-chapters/.237273",
-      "thumbnail": "/drops/thumbs/02ac65e44a78.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/tameko-lala-married-life-manga-enters-final-arc/.237275",
+      "thumbnail": "/drops/thumbs/898d66aead22.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ceabf5110a9c",
+      "id": "02ac65e44a78",
       "pillar": "anime",
-      "title": "Takashi Tezuka to Retires From Nintendo in June",
+      "title": "Talentless Nana Manga to End in 2 More Chapters",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/takashi-tezuka-to-retires-from-nintendo-in-june/.237231",
-      "thumbnail": "/drops/thumbs/ceabf5110a9c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/talentless-nana-manga-to-end-in-2-more-chapters/.237273",
+      "thumbnail": "/drops/thumbs/02ac65e44a78.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -305,7 +305,7 @@
     {
       "id": "262368845c6c",
       "pillar": "gaming",
-      "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 7 Comments",
+      "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 8 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/jrpg/final-fantasy-7-rebirth-director-says-rpgs-like-clair-obscur-expedition-33-may-have-been-inevitable-as-new-players-favor-real-time-games-over-turn-based/",
       "thumbnail": "/drops/thumbs/262368845c6c.jpg",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "ce731a64bdb7",
+    "7bda977677ca",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
