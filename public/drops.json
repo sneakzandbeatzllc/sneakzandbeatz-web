@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T18:57:19+00:00",
+  "generated_utc": "2026-05-14T19:27:49+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "12d520cc3f6f",
+      "pillar": "hiphop",
+      "title": "Six-Year-Old Child Who Survived Pit Bull Attack, Wants Kendrick Lamar At Birthday",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/six-year-old-child-who-survived-pit-bull-attack-wants-kendrick-lamar-at-birthday/",
+      "thumbnail": "/drops/thumbs/12d520cc3f6f.jpg",
+      "published": "2026-05-14T15:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f3e15a5a9619",
       "pillar": "hiphop",
       "title": "Chaka Khan & Melle Mel Make National Recording Registry With Historic Collaboration",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "53c8d7ff5be0",
-      "pillar": "hiphop",
-      "title": "Jess Hilarious Says “The Breakfast Club” Ratings Jumped After Netflix Move",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jess-hilarious-says-the-breakfast-club-ratings-jumped-after-netflix-move/",
-      "thumbnail": "/drops/thumbs/53c8d7ff5be0.jpg",
-      "published": "2026-05-14T09:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "d844b5278b73",
+      "id": "a14e0cab9d4a",
       "pillar": "anime",
-      "title": "Gyōmuyōmochi Launches New Manga in July",
+      "title": "The Villainess Stans the Heroes' Tsubasa Takamatsu Launches New Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/gyomuyomochi-launches-new-manga-in-july/.237316",
-      "thumbnail": "/drops/thumbs/d844b5278b73.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/the-villainess-stans-the-heroes-tsubasa-takamatsu-launches-new-manga/.237289",
+      "thumbnail": "/drops/thumbs/a14e0cab9d4a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b9bab37149ca",
+      "id": "d844b5278b73",
       "pillar": "anime",
-      "title": "Studio Ghibli to Appoint Kenichi Yoda as Its New President in June",
+      "title": "Gyōmuyōmochi Launches New Manga in July",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/studio-ghibli-to-appoint-kenichi-yoda-as-its-new-president-in-june/.237363",
-      "thumbnail": "/drops/thumbs/b9bab37149ca.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/gyomuyomochi-launches-new-manga-in-july/.237316",
+      "thumbnail": "/drops/thumbs/d844b5278b73.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "604abb0e3258",
+      "id": "b9bab37149ca",
       "pillar": "anime",
-      "title": "Manga UP! Global Adds The Cruel King I'm Marrying as a Substitute Bride is My First Love?! Manga",
+      "title": "Studio Ghibli to Appoint Kenichi Yoda as Its New President in June",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/manga-up-global-adds-the-cruel-king-im-marrying-as-a-substitute-bride-is-my-first-love-manga/.237334",
-      "thumbnail": "/drops/thumbs/604abb0e3258.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/studio-ghibli-to-appoint-kenichi-yoda-as-its-new-president-in-june/.237363",
+      "thumbnail": "/drops/thumbs/b9bab37149ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "f3e15a5a9619",
+    "12d520cc3f6f",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
