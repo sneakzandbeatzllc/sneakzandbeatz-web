@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T22:18:17+00:00",
+  "generated_utc": "2026-05-14T23:20:02+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -219,18 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "3c5d462d306c",
-      "pillar": "anime",
-      "title": "Boruto: Two Blue Vortex Chapter #34 Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/boruto-two-blue-vortex-chapter-34-release-date-time/",
-      "thumbnail": "/drops/thumbs/3c5d462d306c.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a474fed8d594",
       "pillar": "anime",
       "title": "Odayaka Launches Manga Adaptation of Mashimesa Emoto's Novel Series",
@@ -261,6 +249,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/mobile-police-patlabor-one-shot-mecha-manga-32-years-later/",
       "thumbnail": "/drops/thumbs/2fbbd497f746.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "19f8017c2a1b",
+      "pillar": "anime",
+      "title": "8 Best-Selling Manga That Still Don’t Have the Anime Adaptation They Deserve",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-selling-manga-no-anime-adaptation/",
+      "thumbnail": "/drops/thumbs/19f8017c2a1b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "e7d80eaf39d0",
+      "id": "6ce44aac8d86",
       "pillar": "gaming",
-      "title": "News GTA 6 Trailer 3 a No Show, After Fans Got into a Frenzy Over Wrong Day",
+      "title": "News Halo PS5 Spotted in Stores, And It's Making Everyone Feel Weird",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-a-no-show-after-fans-got-into-a-frenzy-over-wrong-day",
-      "thumbnail": "/drops/thumbs/e7d80eaf39d0.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/halo-ps5-spotted-in-stores-and-its-making-everyone-feel-weird",
+      "thumbnail": "/drops/thumbs/6ce44aac8d86.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,24 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "6ce44aac8d86",
+      "id": "7471f7bfb242",
       "pillar": "gaming",
-      "title": "News Halo PS5 Spotted in Stores, And It's Making Everyone Feel Weird",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/halo-ps5-spotted-in-stores-and-its-making-everyone-feel-weird",
-      "thumbnail": "/drops/thumbs/6ce44aac8d86.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cddc728ef3e6",
-      "pillar": "gaming",
-      "title": "Two New, Very Different Xbox Controllers Have Leaked Online",
+      "title": "BioWare Veteran Talks About Burnout On Sci-Fi RPG Exodus : ‘You Have To Be Cutting The Baby In Half All The Time’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/two-new-very-different-xbox-controllers-have-leaked-online-2000696180",
-      "thumbnail": "/drops/thumbs/cddc728ef3e6.jpg",
+      "source_url": "https://kotaku.com/bioware-veteran-talks-about-burnout-on-sci-fi-rpg-exodus-you-have-to-be-cutting-the-baby-in-half-all-the-time-2000696194",
+      "thumbnail": "/drops/thumbs/7471f7bfb242.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -381,6 +369,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-review/",
       "thumbnail": "/drops/thumbs/8bd2e01d00fc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cddc728ef3e6",
+      "pillar": "gaming",
+      "title": "Two New, Very Different Xbox Controllers Have Leaked Online",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/two-new-very-different-xbox-controllers-have-leaked-online-2000696180",
+      "thumbnail": "/drops/thumbs/cddc728ef3e6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
