@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-13T23:41:38+00:00",
+  "generated_utc": "2026-05-14T00:38:49+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,30 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "0e86d81f8a43",
+      "pillar": "hiphop",
+      "title": "Cardi B Loses It On Stefon Diggs Outside Maryland Coffee Shop",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/cardi-b-loses-it-on-stefon-diggs-outside-maryland-coffee-shop/",
+      "thumbnail": "/drops/thumbs/0e86d81f8a43.jpg",
+      "published": "2026-05-13T20:21:26",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cbcbb4e8fb00",
+      "pillar": "hiphop",
+      "title": "Rapper Could Be Thrown In Jail Over Boosie Bash Appearance & Dancing With Sexyy Red",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/rapper-could-be-thrown-in-jail-over-boosie-bash-appearance-dancing-with-sexyy-red/",
+      "thumbnail": "/drops/thumbs/cbcbb4e8fb00.jpg",
+      "published": "2026-05-13T20:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "af5aff49ead5",
       "pillar": "hiphop",
       "title": "Mike Epps Lands Major Netflix Deal After Incredible Success",
@@ -171,36 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "8c9b17b8affe",
-      "pillar": "hiphop",
-      "title": "Tiffany Haddish Files Motion To Toss Georgia DUI Over Speedy Trial Violation",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/tiffany-haddish-files-motion-to-toss-georgia-dui-over-speedy-trial-violation/",
-      "thumbnail": "/drops/thumbs/8c9b17b8affe.jpg",
-      "published": "2026-05-13T14:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "00f06e105342",
-      "pillar": "hiphop",
-      "title": "Ye Owes $176K In Sample Dispute & It’s Actually A Win",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ye-owes-176k-in-sample-dispute-its-actually-a-win/",
-      "thumbnail": "/drops/thumbs/00f06e105342.jpg",
-      "published": "2026-05-13T13:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/",
       "thumbnail": "/drops/thumbs/f3e9f850cdcc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9917f058c826",
+      "pillar": "anime",
+      "title": "One Piece Has Officially Dethroned Dragon Ball, According To Toei Animation",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-one-piece-anime-better-2026/",
+      "thumbnail": "/drops/thumbs/9917f058c826.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "0483538169f3",
+      "id": "982c2a52db7e",
       "pillar": "anime",
-      "title": "Gachiakuta Officially Crowned The New King Of Shonen, And One Piece Should Be Nervous",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/gachiakuta-new-king-shonen-one-piece-nervous/",
-      "thumbnail": "/drops/thumbs/0483538169f3.png",
+      "title": "Live-Action Blue Lock Film Reveals More Cast, New Key Visual",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/live-action-blue-lock-film-reveals-more-cast-new-key-visual/.237328",
+      "thumbnail": "/drops/thumbs/982c2a52db7e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,18 +273,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/new-hokuto-no-ken-fist-of-the-north-star-anime-reveals-3-more-cast-members/.237320",
       "thumbnail": "/drops/thumbs/f8489d201e30.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d046edc74cf5",
-      "pillar": "anime",
-      "title": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration Anime Adds 2 More Cast Members",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/the-duke-son-claims-he-wont-love-me-yet-showers-me-with-adoration-anime-adds-2-more-cast-members/.237318",
-      "thumbnail": "/drops/thumbs/d046edc74cf5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -305,7 +305,7 @@
     {
       "id": "262368845c6c",
       "pillar": "gaming",
-      "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 6 Comments",
+      "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 7 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/jrpg/final-fantasy-7-rebirth-director-says-rpgs-like-clair-obscur-expedition-33-may-have-been-inevitable-as-new-players-favor-real-time-games-over-turn-based/",
       "thumbnail": "/drops/thumbs/262368845c6c.jpg",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "af5aff49ead5",
+    "0e86d81f8a43",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
