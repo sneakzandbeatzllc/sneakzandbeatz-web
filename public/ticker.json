@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T17:23:28+00:00",
+  "generated_utc": "2026-05-14T17:54:19+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "[Exclusive] BigXthaPlug Takes Fans Inside the Trap: New Spotify ‘Day In The Life’ Drops Today",
+      "url": "https://thesource.com/2026/05/14/exclusive-bigxthaplug-takes-fans-inside-the-trap-new-spotify-day-in-the-life-drops-todaybigxthaplug-takes-fans-inside-the-trap-new-spotify-day-in-the-life-drops/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Eminem & 50 Cent’s Detroit Playoff Reunion Brings 2000s Nostalgia Back To Life",
       "url": "https://allhiphop.com/news/eminem-50-cents-detroit-playoff-reunion-brings-2000s-nostalgia-back-to-life/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Stephen Jackson Criticizes Defenders of George Floyd Joke During Roast of Kevin Hart",
       "url": "https://thesource.com/2026/05/14/stephen-jackson-responds-tony-hinchcliffe-george-floyd-joke/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Terrence Floyd Criticizes Kevin Hart Over Offensive George Floyd Joke",
-      "url": "https://thesource.com/2026/05/14/terrence-floyd-kevin-hart-tony-hinchcliffe-roast/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
