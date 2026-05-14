@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T09:51:18+00:00",
+  "generated_utc": "2026-05-14T10:45:55+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "bef42f1336f8",
+      "id": "61e0b66660ab",
       "pillar": "anime",
-      "title": "Mebius Dust TV Anime Unveils 1st Episode Preview, Main Cast Members, Opening Song Artist, July Debut",
+      "title": "The Cat and the Dragon Anime Reveals New Promo Video, More Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/mebius-dust-tv-anime-unveils-1st-episode-preview-main-cast-members-opening-song-artist-july-debut/.237315",
-      "thumbnail": "/drops/thumbs/bef42f1336f8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/the-cat-and-the-dragon-anime-reveals-new-promo-video-more-cast-members/.237355",
+      "thumbnail": "/drops/thumbs/61e0b66660ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "39767a3b992b",
+      "id": "bef42f1336f8",
       "pillar": "anime",
-      "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World TV Anime Reveals Trailer, Ending Theme Song, More Cast, Key Visual",
+      "title": "Mebius Dust TV Anime Unveils 1st Episode Preview, Main Cast Members, Opening Song Artist, July Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-tv-anime-reveals-trailer-ending-/.237331",
-      "thumbnail": "/drops/thumbs/39767a3b992b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/mebius-dust-tv-anime-unveils-1st-episode-preview-main-cast-members-opening-song-artist-july-debut/.237315",
+      "thumbnail": "/drops/thumbs/bef42f1336f8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -303,6 +303,18 @@
       "release_badge": ""
     },
     {
+      "id": "9107dbeee3f2",
+      "pillar": "gaming",
+      "title": "Rumor: GTA 6 Pre-Orders Begin May 18 On Best Buy",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562680/article/rumor-gta-6-pre-orders-begin-may-18-on-best-buy/",
+      "thumbnail": "/drops/thumbs/9107dbeee3f2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e7d80eaf39d0",
       "pillar": "gaming",
       "title": "News GTA 6 Trailer 3 a No Show, After Fans Got into a Frenzy Over Wrong Day",
@@ -317,7 +329,7 @@
     {
       "id": "262368845c6c",
       "pillar": "gaming",
-      "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 12 Comments",
+      "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 13 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/jrpg/final-fantasy-7-rebirth-director-says-rpgs-like-clair-obscur-expedition-33-may-have-been-inevitable-as-new-players-favor-real-time-games-over-turn-based/",
       "thumbnail": "/drops/thumbs/262368845c6c.jpg",
@@ -363,24 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "5e7b3f5cb198",
+      "id": "fb601b07609e",
       "pillar": "gaming",
-      "title": "The Legend Of Zelda Movie Gets Moved Again To Release On April 30, 2027",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562678/article/the-legend-of-zelda-movie-gets-moved-again-to-release-on-april-30-2027/",
-      "thumbnail": "/drops/thumbs/5e7b3f5cb198.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "708e1fa05324",
-      "pillar": "gaming",
-      "title": "Arc Raiders won't get a major update until October as Embark announces Frozen Trail",
+      "title": "ConcernedApe spends 5 days a week on Haunted Chocolatier and 2 on Stardew Valley, says the new game is \"a lot harder\" to make",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-wont-get-a-major-update-until-october-as-embark-announces-frozen-trail-and-shifts-to-twice-a-year-release-schedule-promising-the-largest-map-in-the-game/",
-      "thumbnail": "/drops/thumbs/708e1fa05324.jpg",
+      "source_url": "https://www.gamesradar.com/games/rpg/concernedape-spends-5-days-a-week-on-haunted-chocolatier-and-2-on-stardew-valley-says-the-new-game-is-a-lot-harder-to-make/",
+      "thumbnail": "/drops/thumbs/fb601b07609e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
