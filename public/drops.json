@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T12:58:39+00:00",
+  "generated_utc": "2026-05-14T13:50:13+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "53c8d7ff5be0",
+      "pillar": "hiphop",
+      "title": "Jess Hilarious Says “The Breakfast Club” Ratings Jumped After Netflix Move",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/jess-hilarious-says-the-breakfast-club-ratings-jumped-after-netflix-move/",
+      "thumbnail": "/drops/thumbs/53c8d7ff5be0.jpg",
+      "published": "2026-05-14T09:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "78b3aaf8f703",
       "pillar": "hiphop",
       "title": "Stephen Jackson Criticizes Defenders of George Floyd Joke During Roast of Kevin Hart",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "69e1ade70a82",
-      "pillar": "hiphop",
-      "title": "Iran War No End in Sight: Senate Blocks Democratic Push to End Conflict",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/14/iran-war-no-end-in-sight-senate-blocks-democratic-push-to-end-conflict/",
-      "thumbnail": "/drops/thumbs/69e1ade70a82.jpg",
-      "published": "2026-05-14T07:23:55",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "363d39fd4b82",
+      "id": "e4dd4d20d0d0",
       "pillar": "anime",
-      "title": "Saved by the Ice Cold Prince's Embrace Light Anime's Teaser Unveils Cast, Staff",
+      "title": "One Peace Books Licenses My Sweet Marriage to My Ex-Nemesis Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/saved-by-the-ice-cold-prince-embrace-light-anime-teaser-unveils-cast-staff/.237358",
-      "thumbnail": "/drops/thumbs/363d39fd4b82.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352",
+      "thumbnail": "/drops/thumbs/e4dd4d20d0d0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "f0e8535b9cc8",
+      "id": "363d39fd4b82",
       "pillar": "anime",
-      "title": "Medaka Kuroiwa is Impervious to My Charms 2nd Season Anime Unveils Teaser Video, Returning Cast, Staff Members",
+      "title": "Saved by the Ice Cold Prince's Embrace Light Anime's Teaser Unveils Cast, Staff",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/medaka-kuroiwa-is-impervious-to-my-charms-2nd-season-anime-unveils-teaser-video-returning-cast-/.237356",
-      "thumbnail": "/drops/thumbs/f0e8535b9cc8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/saved-by-the-ice-cold-prince-embrace-light-anime-teaser-unveils-cast-staff/.237358",
+      "thumbnail": "/drops/thumbs/363d39fd4b82.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "78b3aaf8f703",
+    "53c8d7ff5be0",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
