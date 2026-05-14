@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T17:56:15+00:00",
+  "generated_utc": "2026-05-14T18:26:29+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "f3e15a5a9619",
+      "pillar": "hiphop",
+      "title": "Chaka Khan & Melle Mel Make National Recording Registry With Historic Collaboration",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/chaka-khan-melle-mel-make-national-recording-registry-with-historic-collaboration/",
+      "thumbnail": "/drops/thumbs/f3e15a5a9619.jpg",
+      "published": "2026-05-14T14:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "31256fada86a",
       "pillar": "hiphop",
       "title": "[Exclusive] BigXthaPlug Takes Fans Inside the Trap: New Spotify ‘Day In The Life’ Drops Today",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "78b3aaf8f703",
-      "pillar": "hiphop",
-      "title": "Stephen Jackson Criticizes Defenders of George Floyd Joke During Roast of Kevin Hart",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/14/stephen-jackson-responds-tony-hinchcliffe-george-floyd-joke/",
-      "thumbnail": "/drops/thumbs/78b3aaf8f703.jpg",
-      "published": "2026-05-14T07:59:59",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "b9bab37149ca",
+      "id": "d844b5278b73",
       "pillar": "anime",
-      "title": "Studio Ghibli to Appoint Kenichi Yoda as Its New President in June",
+      "title": "Gyōmuyōmochi Launches New Manga in July",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/studio-ghibli-to-appoint-kenichi-yoda-as-its-new-president-in-june/.237363",
-      "thumbnail": "/drops/thumbs/b9bab37149ca.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/gyomuyomochi-launches-new-manga-in-july/.237316",
+      "thumbnail": "/drops/thumbs/d844b5278b73.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "604abb0e3258",
+      "id": "b9bab37149ca",
       "pillar": "anime",
-      "title": "Manga UP! Global Adds The Cruel King I'm Marrying as a Substitute Bride is My First Love?! Manga",
+      "title": "Studio Ghibli to Appoint Kenichi Yoda as Its New President in June",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/manga-up-global-adds-the-cruel-king-im-marrying-as-a-substitute-bride-is-my-first-love-manga/.237334",
-      "thumbnail": "/drops/thumbs/604abb0e3258.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/studio-ghibli-to-appoint-kenichi-yoda-as-its-new-president-in-june/.237363",
+      "thumbnail": "/drops/thumbs/b9bab37149ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "e4dd4d20d0d0",
+      "id": "604abb0e3258",
       "pillar": "anime",
-      "title": "One Peace Books Licenses My Sweet Marriage to My Ex-Nemesis Manga",
+      "title": "Manga UP! Global Adds The Cruel King I'm Marrying as a Substitute Bride is My First Love?! Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352",
-      "thumbnail": "/drops/thumbs/e4dd4d20d0d0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/manga-up-global-adds-the-cruel-king-im-marrying-as-a-substitute-bride-is-my-first-love-manga/.237334",
+      "thumbnail": "/drops/thumbs/604abb0e3258.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "188ff30fe4c2",
+      "id": "111a97da8d28",
       "pillar": "gaming",
-      "title": "Watch Kylie Jenner Explain The Legend Of Zelda: Breath Of The Wild And Get It Mostly Right",
+      "title": "Sea Of Thieves Faces An Exodus Of Content Creators After Community Fallout Around Serious Sexual Misconduct Allegations",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/kylie-jenner-therapuss-legend-of-zelda-breath-of-the-wild-2000696065",
-      "thumbnail": "/drops/thumbs/188ff30fe4c2.jpg",
+      "source_url": "https://kotaku.com/sea-of-thieves-faces-an-exodus-of-content-creators-after-community-fallout-around-serious-sexual-misconduct-allegations-2000696113",
+      "thumbnail": "/drops/thumbs/111a97da8d28.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "31256fada86a",
+    "f3e15a5a9619",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
