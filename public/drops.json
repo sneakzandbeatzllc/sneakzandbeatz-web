@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T16:01:46+00:00",
+  "generated_utc": "2026-05-14T16:31:20+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4d0a8f9e52ab",
+      "pillar": "hiphop",
+      "title": "Cardi B Viral Argument With Stefon Diggs Explained: Rapper Was Hungry",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/cardi-b-viral-argument-with-stefon-diggs-explained-rapper-was-hungry/",
+      "thumbnail": "/drops/thumbs/4d0a8f9e52ab.jpg",
+      "published": "2026-05-14T12:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a8e83aa9fbd6",
       "pillar": "hiphop",
       "title": "Chris Brown’s Mansion Under Siege After Trespasser Tries To Start Fire",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "c34340183bef",
-      "pillar": "hiphop",
-      "title": "Today in Hip-Hop History: Cam’ron Released Third Solo Album ‘Come Home With Me’ 24 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/14/today-in-hip-hop-history-camron-released-third-solo-album-come-home-with-me-24-years-ago/",
-      "thumbnail": "/drops/thumbs/c34340183bef.jpg",
-      "published": "2026-05-14T07:31:34",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -213,18 +213,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-one-piece-anime-better-2026/",
       "thumbnail": "/drops/thumbs/9917f058c826.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "772d3307affd",
-      "pillar": "anime",
-      "title": "The Ultimate Solo Leveling Killer Teases 2027 Anime, And It Could Be Huge",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-killer-omniscient-readers-viewpoint-anime-2027-release/",
-      "thumbnail": "/drops/thumbs/772d3307affd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/mobile-police-patlabor-one-shot-mecha-manga-32-years-later/",
       "thumbnail": "/drops/thumbs/2fbbd497f746.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "363d39fd4b82",
+      "pillar": "anime",
+      "title": "Saved by the Ice Cold Prince's Embrace Light Anime's Teaser Unveils Cast, Staff",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/saved-by-the-ice-cold-prince-embrace-light-anime-teaser-unveils-cast-staff/.237358",
+      "thumbnail": "/drops/thumbs/363d39fd4b82.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "a8e83aa9fbd6",
+    "4d0a8f9e52ab",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",

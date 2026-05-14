@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T16:01:46+00:00",
+  "generated_utc": "2026-05-14T16:31:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Cardi B Viral Argument With Stefon Diggs Explained: Rapper Was Hungry",
+      "url": "https://allhiphop.com/news/cardi-b-viral-argument-with-stefon-diggs-explained-rapper-was-hungry/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Chris Brown’s Mansion Under Siege After Trespasser Tries To Start Fire",
       "url": "https://allhiphop.com/news/chris-browns-mansion-under-siege-after-trespasser-tries-to-start-fire/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Today in Hip-Hop History: Cam’ron Released Third Solo Album ‘Come Home With Me’ 24 Years Ago",
-      "url": "https://thesource.com/2026/05/14/today-in-hip-hop-history-camron-released-third-solo-album-come-home-with-me-24-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
       "url": "https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/",
       "pillar": "anime",
@@ -125,13 +125,6 @@
     {
       "title": "One Piece Has Officially Dethroned Dragon Ball, According To Toei Animation",
       "url": "https://screenrant.com/dragon-ball-one-piece-anime-better-2026/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Ultimate Solo Leveling Killer Teases 2027 Anime, And It Could Be Huge",
-      "url": "https://screenrant.com/solo-leveling-killer-omniscient-readers-viewpoint-anime-2027-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "This iconic sci-fi manga is getting a new installment for the first time in 32 years",
       "url": "https://www.polygon.com/mobile-police-patlabor-one-shot-mecha-manga-32-years-later/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Saved by the Ice Cold Prince's Embrace Light Anime's Teaser Unveils Cast, Staff",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-14/saved-by-the-ice-cold-prince-embrace-light-anime-teaser-unveils-cast-staff/.237358",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
