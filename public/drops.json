@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T00:44:06+00:00",
+  "generated_utc": "2026-05-14T01:40:22+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -87,16 +87,28 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "5fafdd272888",
+      "id": "1e78e0da6315",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Khaki” Releases May 23rd",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-khaki/",
-      "thumbnail": "/drops/thumbs/5fafdd272888.webp",
-      "published": "",
+      "title": "The Air Jordan 6 “Oreo” Releases This Summer After Sixteen Years",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-6-oreo-ct8529-108/",
+      "thumbnail": "/drops/thumbs/1e78e0da6315.jpg",
+      "published": "2026-05-13T17:34:40",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fdac71db401b",
+      "pillar": "hiphop",
+      "title": "Michael Che Exposes All-White Writing Room Behind Kevin Hart Racist Roast",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/michael-che-exposes-all-white-writing-room-behind-kevin-hart-racist-roast/",
+      "thumbnail": "/drops/thumbs/fdac71db401b.jpg",
+      "published": "2026-05-13T21:01:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     },
     {
       "id": "0e86d81f8a43",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "359ca801c091",
-      "pillar": "hiphop",
-      "title": "Jay-Z’s $8M Favor: Dee From Ruff Ryders On How Hov Freed DMX From Def Jam Debt",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jay-zs-8m-favor-dee-from-ruff-ryders-on-how-hov-freed-dmx-from-def-jam-debt/",
-      "thumbnail": "/drops/thumbs/359ca801c091.jpg",
-      "published": "2026-05-13T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "982c2a52db7e",
+      "id": "22e3c4974d84",
       "pillar": "anime",
-      "title": "Live-Action Blue Lock Film Reveals More Cast, New Key Visual",
+      "title": "Crunchyroll Manga Adds 23 Kodansha USA Catalog Titles, Dricam!! From Shueisha",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/live-action-blue-lock-film-reveals-more-cast-new-key-visual/.237328",
-      "thumbnail": "/drops/thumbs/982c2a52db7e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/crunchyroll-manga-adds-23-kodansha-usa-catalog-titles-dricam-from-shueisha/.237329",
+      "thumbnail": "/drops/thumbs/22e3c4974d84.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "f8489d201e30",
+      "id": "982c2a52db7e",
       "pillar": "anime",
-      "title": "New Hokuto no Ken -Fist of the North Star- Anime Reveals 3 More Cast Members",
+      "title": "Live-Action Blue Lock Film Reveals More Cast, New Key Visual",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/new-hokuto-no-ken-fist-of-the-north-star-anime-reveals-3-more-cast-members/.237320",
-      "thumbnail": "/drops/thumbs/f8489d201e30.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/live-action-blue-lock-film-reveals-more-cast-new-key-visual/.237328",
+      "thumbnail": "/drops/thumbs/982c2a52db7e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "0e86d81f8a43",
+    "fdac71db401b",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",

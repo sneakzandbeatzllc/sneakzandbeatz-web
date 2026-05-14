@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T00:44:06+00:00",
+  "generated_utc": "2026-05-14T01:40:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -53,10 +53,17 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High OG “Khaki” Releases May 23rd",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-og-khaki/",
+      "title": "The Air Jordan 6 “Oreo” Releases This Summer After Sixteen Years",
+      "url": "https://justfreshkicks.com/air-jordan-6-oreo-ct8529-108/",
       "pillar": "sneakers",
-      "score": 3.0,
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Michael Che Exposes All-White Writing Room Behind Kevin Hart Racist Roast",
+      "url": "https://allhiphop.com/news/michael-che-exposes-all-white-writing-room-behind-kevin-hart-racist-roast/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Jay-Z’s $8M Favor: Dee From Ruff Ryders On How Hov Freed DMX From Def Jam Debt",
-      "url": "https://allhiphop.com/news/jay-zs-8m-favor-dee-from-ruff-ryders-on-how-hov-freed-dmx-from-def-jam-debt/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
       "url": "https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/",
       "pillar": "anime",
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Live-Action Blue Lock Film Reveals More Cast, New Key Visual",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-13/live-action-blue-lock-film-reveals-more-cast-new-key-visual/.237328",
+      "title": "Crunchyroll Manga Adds 23 Kodansha USA Catalog Titles, Dricam!! From Shueisha",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-13/crunchyroll-manga-adds-23-kodansha-usa-catalog-titles-dricam-from-shueisha/.237329",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "New Hokuto no Ken -Fist of the North Star- Anime Reveals 3 More Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-13/new-hokuto-no-ken-fist-of-the-north-star-anime-reveals-3-more-cast-members/.237320",
+      "title": "Live-Action Blue Lock Film Reveals More Cast, New Key Visual",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-13/live-action-blue-lock-film-reveals-more-cast-new-key-visual/.237328",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
