@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T07:48:14+00:00",
+  "generated_utc": "2026-05-14T08:49:51+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,54 @@
       "release_badge": ""
     },
     {
+      "id": "0af2ba94c16f",
+      "pillar": "hiphop",
+      "title": "Ray J Discusses His Relationship with Donald Trump on ‘The Jason Lee Show’",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/ray-j-jason-lee-show-trump-amber-rose/",
+      "thumbnail": "/drops/thumbs/0af2ba94c16f.jpg",
+      "published": "2026-05-14T03:48:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "736d255a2da7",
+      "pillar": "hiphop",
+      "title": "Destroy Lonely Joins Reebok Born Classic Campaign",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/reebok-destroy-lonely-born-classic-campaign/",
+      "thumbnail": "/drops/thumbs/736d255a2da7.jpg",
+      "published": "2026-05-14T02:48:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "679633e2c942",
+      "pillar": "hiphop",
+      "title": "Jonah Hill Stars in Kith Summer 2026 Campaign",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/kith-summer-2026-campaign-jonah-hill/",
+      "thumbnail": "/drops/thumbs/679633e2c942.jpg",
+      "published": "2026-05-14T01:37:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3998caae2c51",
+      "pillar": "hiphop",
+      "title": "Fetty Wap Announces 2026 ‘Nostalgia’ Tour Dates",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/fetty-wap-nostalgia-tour-2026-dates-tickets/",
+      "thumbnail": "/drops/thumbs/3998caae2c51.jpg",
+      "published": "2026-05-14T00:48:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7bda977677ca",
       "pillar": "hiphop",
       "title": "A!MS Unites The Splash Gang For ‘Wait What’ And The UK Rap Scene Will Never Be The Same",
@@ -142,54 +190,6 @@
       "source_url": "https://allhiphop.com/news/michael-che-exposes-all-white-writing-room-behind-kevin-hart-racist-roast/",
       "thumbnail": "/drops/thumbs/fdac71db401b.jpg",
       "published": "2026-05-13T21:01:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0e86d81f8a43",
-      "pillar": "hiphop",
-      "title": "Cardi B Loses It On Stefon Diggs Outside Maryland Coffee Shop",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/cardi-b-loses-it-on-stefon-diggs-outside-maryland-coffee-shop/",
-      "thumbnail": "/drops/thumbs/0e86d81f8a43.jpg",
-      "published": "2026-05-13T20:21:26",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cbcbb4e8fb00",
-      "pillar": "hiphop",
-      "title": "Rapper Could Be Thrown In Jail Over Boosie Bash Appearance & Dancing With Sexyy Red",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/rapper-could-be-thrown-in-jail-over-boosie-bash-appearance-dancing-with-sexyy-red/",
-      "thumbnail": "/drops/thumbs/cbcbb4e8fb00.jpg",
-      "published": "2026-05-13T20:02:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "af5aff49ead5",
-      "pillar": "hiphop",
-      "title": "Mike Epps Lands Major Netflix Deal After Incredible Success",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/mike-epps-lands-major-netflix-deal-after-incredible-success/",
-      "thumbnail": "/drops/thumbs/af5aff49ead5.jpg",
-      "published": "2026-05-13T19:02:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b5263e918eb4",
-      "pillar": "hiphop",
-      "title": "Rick Ross Explains His Barefoot Morning Ritual",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/rick-ross-explains-his-barefoot-morning-ritual/",
-      "thumbnail": "/drops/thumbs/b5263e918eb4.png",
-      "published": "2026-05-13T18:02:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -317,22 +317,10 @@
     {
       "id": "262368845c6c",
       "pillar": "gaming",
-      "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 8 Comments",
+      "title": "Final Fantasy 7 Rebirth boss says RPGs like Clair Obscur: Expedition 33 \"may have been inevitable\" 12 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/jrpg/final-fantasy-7-rebirth-director-says-rpgs-like-clair-obscur-expedition-33-may-have-been-inevitable-as-new-players-favor-real-time-games-over-turn-based/",
       "thumbnail": "/drops/thumbs/262368845c6c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3802dbbd855f",
-      "pillar": "gaming",
-      "title": "Lies of P Sequel Is Now Officially In Full Production",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562654/article/lies-of-p-sequel-is-now-officially-in-full-production/",
-      "thumbnail": "/drops/thumbs/3802dbbd855f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "abc3c55cb348",
+      "pillar": "gaming",
+      "title": "It’s Official, KPop Demon Hunters Is Going On A World Tour",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/kpop-demon-hunters-world-tour-tickets-cities-dates-2000695744",
+      "thumbnail": "/drops/thumbs/abc3c55cb348.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "33a1f9fc0899",
-    "7bda977677ca",
+    "0af2ba94c16f",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
