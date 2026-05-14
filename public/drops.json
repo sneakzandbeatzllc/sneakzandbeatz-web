@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T19:27:49+00:00",
+  "generated_utc": "2026-05-14T21:14:37+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,42 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "6f442500163f",
+      "pillar": "hiphop",
+      "title": "Eminem’s Ex Kim Hits Another Parked Car Driving Drunk, Days Ater DUI Plea",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ems-ex-kim-hits-another-parked-car-driving-drunk-days-ater-dui-plea/",
+      "thumbnail": "/drops/thumbs/6f442500163f.jpg",
+      "published": "2026-05-14T17:06:45",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dc1ce76a46d0",
+      "pillar": "hiphop",
+      "title": "Will Smith Returns To Action With $70M Deal For “Supermax”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/will-smith-returns-to-action-with-70m-deal-for-supermax/",
+      "thumbnail": "/drops/thumbs/dc1ce76a46d0.jpg",
+      "published": "2026-05-14T17:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "63f822f0e2ab",
+      "pillar": "hiphop",
+      "title": "Gunplay Signs On For Juneteenth Celebrity Boxing Fight Against Pressure P",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/gunplay-signs-on-for-juneteenth-celebrity-boxing-fight-against-pressure-p/",
+      "thumbnail": "/drops/thumbs/63f822f0e2ab.jpg",
+      "published": "2026-05-14T16:28:16",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "12d520cc3f6f",
       "pillar": "hiphop",
       "title": "Six-Year-Old Child Who Survived Pit Bull Attack, Wants Kendrick Lamar At Birthday",
@@ -159,42 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "a8e83aa9fbd6",
-      "pillar": "hiphop",
-      "title": "Chris Brown’s Mansion Under Siege After Trespasser Tries To Start Fire",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/chris-browns-mansion-under-siege-after-trespasser-tries-to-start-fire/",
-      "thumbnail": "/drops/thumbs/a8e83aa9fbd6.png",
-      "published": "2026-05-14T11:34:32",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f1ac20399610",
-      "pillar": "hiphop",
-      "title": "Nicki Minaj Links Her Trump Shift To Jay-Z Beef & Industry Gatekeeping",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/nicki-minaj-links-her-trump-shift-to-jay-z-beef-industry-gatekeeping/",
-      "thumbnail": "/drops/thumbs/f1ac20399610.png",
-      "published": "2026-05-14T11:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b76e195a7fa1",
-      "pillar": "hiphop",
-      "title": "John Waters Defends Eminem Against Homophobia Claims, Citing Iconic Elton John Wedding Gift",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/14/john-waters-defends-eminem-against-homophobia-claims-citing-iconic-elton-john-wedding-gift/",
-      "thumbnail": "/drops/thumbs/b76e195a7fa1.jpg",
-      "published": "2026-05-14T09:48:01",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "a14e0cab9d4a",
+      "id": "5a76e777808f",
       "pillar": "anime",
-      "title": "The Villainess Stans the Heroes' Tsubasa Takamatsu Launches New Manga",
+      "title": "Classroom for Heroes Manga's Final Volume Ships This Winter",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/the-villainess-stans-the-heroes-tsubasa-takamatsu-launches-new-manga/.237289",
-      "thumbnail": "/drops/thumbs/a14e0cab9d4a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/classroom-for-heroes-manga-final-volume-ships-this-winter/.237306",
+      "thumbnail": "/drops/thumbs/5a76e777808f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d844b5278b73",
+      "id": "a14e0cab9d4a",
       "pillar": "anime",
-      "title": "Gyōmuyōmochi Launches New Manga in July",
+      "title": "The Villainess Stans the Heroes' Tsubasa Takamatsu Launches New Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/gyomuyomochi-launches-new-manga-in-july/.237316",
-      "thumbnail": "/drops/thumbs/d844b5278b73.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/the-villainess-stans-the-heroes-tsubasa-takamatsu-launches-new-manga/.237289",
+      "thumbnail": "/drops/thumbs/a14e0cab9d4a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "b9bab37149ca",
+      "id": "d844b5278b73",
       "pillar": "anime",
-      "title": "Studio Ghibli to Appoint Kenichi Yoda as Its New President in June",
+      "title": "Gyōmuyōmochi Launches New Manga in July",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/studio-ghibli-to-appoint-kenichi-yoda-as-its-new-president-in-june/.237363",
-      "thumbnail": "/drops/thumbs/b9bab37149ca.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/gyomuyomochi-launches-new-manga-in-july/.237316",
+      "thumbnail": "/drops/thumbs/d844b5278b73.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "1c52bdafdc0e",
+      "id": "7626c1bfb227",
       "pillar": "gaming",
-      "title": "GTA 6 pre-orders start in a matter of days according to Best Buy affiliate email",
+      "title": "Rockstar's supposed GTA 6 pre-order evidence is actually years old",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pre-orders-start-in-a-matter-of-days-according-to-best-buy-affiliate-email-that-reportedly-spills-the-beans-early/",
-      "thumbnail": "/drops/thumbs/1c52bdafdc0e.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstars-supposed-gta-6-pre-order-evidence-is-actually-years-old/",
+      "thumbnail": "/drops/thumbs/7626c1bfb227.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "111a97da8d28",
+      "id": "5b8d04292060",
       "pillar": "gaming",
-      "title": "Sea Of Thieves Faces An Exodus Of Content Creators After Community Fallout Around Serious Sexual Misconduct Allegations",
+      "title": "12 Hours With Subnautica 2 : Steam’s Most-Wishlisted Game Needs To Relax And Quiet Down",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/sea-of-thieves-faces-an-exodus-of-content-creators-after-community-fallout-around-serious-sexual-misconduct-allegations-2000696113",
-      "thumbnail": "/drops/thumbs/111a97da8d28.jpg",
+      "source_url": "https://kotaku.com/subnautica-2-impressions-early-access-release-unknown-worlds-2000696024",
+      "thumbnail": "/drops/thumbs/5b8d04292060.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "12d520cc3f6f",
+    "6f442500163f",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
