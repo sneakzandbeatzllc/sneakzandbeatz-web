@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T02:51:24+00:00",
+  "generated_utc": "2026-05-14T03:23:00+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "ce731a64bdb7",
+      "pillar": "hiphop",
+      "title": "Chrisean Rock Skips Court Hearing, Faces Massive Default Judgment",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/chrisean-rock-skips-court-hearing-faces-massive-default-judgment/",
+      "thumbnail": "/drops/thumbs/ce731a64bdb7.png",
+      "published": "2026-05-13T23:03:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d8a5bb8112aa",
       "pillar": "hiphop",
       "title": "Tasha K Ordered To Pay Cardi B’s Legal Bills & Scrub Posts Offset, & Stefon Diggs",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/exclusives/exclusive-cardi-b-wins-big-federal-judge-slams-tasha-k-lawyer/",
       "thumbnail": "/drops/thumbs/d245ccedea5d.jpg",
       "published": "2026-05-13T17:26:35",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4667271de4c7",
-      "pillar": "hiphop",
-      "title": "Nick Cannon Gets New Series About Juggling 12 Kids & Career",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/nick-cannon-gets-new-series-about-juggling-12-kids-career/",
-      "thumbnail": "/drops/thumbs/4667271de4c7.jpg",
-      "published": "2026-05-13T17:05:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "d8a5bb8112aa",
+    "ce731a64bdb7",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
