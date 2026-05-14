@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T01:49:37+00:00",
+  "generated_utc": "2026-05-14T02:42:17+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d8a5bb8112aa",
+      "pillar": "hiphop",
+      "title": "Tasha K Ordered To Pay Cardi B’s Legal Bills & Scrub Posts Offset, & Stefon Diggs",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/tasha-k-ordered-to-pay-cardi-bs-legal-bills-scrub-posts-offset-stefon-diggs/",
+      "thumbnail": "/drops/thumbs/d8a5bb8112aa.jpg",
+      "published": "2026-05-13T22:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fdac71db401b",
       "pillar": "hiphop",
       "title": "Michael Che Exposes All-White Writing Room Behind Kevin Hart Racist Roast",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "2ffb262020f5",
-      "pillar": "hiphop",
-      "title": "Paramount, Warner Music Unite for Major Push Into Music-Driven Scripted Films",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/13/paramount-warner-music-unite-for-major-push-into-music-driven-scripted-films/",
-      "thumbnail": "/drops/thumbs/2ffb262020f5.jpg",
-      "published": "2026-05-13T15:50:42",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -255,36 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "22e3c4974d84",
-      "pillar": "anime",
-      "title": "Crunchyroll Manga Adds 23 Kodansha USA Catalog Titles, Dricam!! From Shueisha",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/crunchyroll-manga-adds-23-kodansha-usa-catalog-titles-dricam-from-shueisha/.237329",
-      "thumbnail": "/drops/thumbs/22e3c4974d84.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "982c2a52db7e",
-      "pillar": "anime",
-      "title": "Live-Action Blue Lock Film Reveals More Cast, New Key Visual",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/live-action-blue-lock-film-reveals-more-cast-new-key-visual/.237328",
-      "thumbnail": "/drops/thumbs/982c2a52db7e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bd04ff579adc",
       "pillar": "anime",
       "title": "Now that Sukuna is canon in the Marvel Universe, let's powerscale him properly",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/jjk-sukuna-canon-marvel-universe-powerscale/",
       "thumbnail": "/drops/thumbs/bd04ff579adc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "068613feb030",
+      "pillar": "anime",
+      "title": "Hello Kitty Designer Reveals the Crisis That Almost Killed the Icon",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/hello-kitty-sanrio-secret-history-unpopular-struggle/",
+      "thumbnail": "/drops/thumbs/068613feb030.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "10f5cc6b7b55",
+      "pillar": "anime",
+      "title": "Crunchyroll's Biggest Ani-May Rival Isn't Netflix",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/plex-tv-crunchyroll-biggest-ani-may-rival/",
+      "thumbnail": "/drops/thumbs/10f5cc6b7b55.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "fdac71db401b",
+    "d8a5bb8112aa",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T01:49:37+00:00",
+  "generated_utc": "2026-05-14T02:42:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Tasha K Ordered To Pay Cardi B’s Legal Bills & Scrub Posts Offset, & Stefon Diggs",
+      "url": "https://allhiphop.com/news/tasha-k-ordered-to-pay-cardi-bs-legal-bills-scrub-posts-offset-stefon-diggs/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Michael Che Exposes All-White Writing Room Behind Kevin Hart Racist Roast",
       "url": "https://allhiphop.com/news/michael-che-exposes-all-white-writing-room-behind-kevin-hart-racist-roast/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Paramount, Warner Music Unite for Major Push Into Music-Driven Scripted Films",
-      "url": "https://thesource.com/2026/05/13/paramount-warner-music-unite-for-major-push-into-music-driven-scripted-films/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
       "url": "https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/",
       "pillar": "anime",
@@ -151,22 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Manga Adds 23 Kodansha USA Catalog Titles, Dricam!! From Shueisha",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-13/crunchyroll-manga-adds-23-kodansha-usa-catalog-titles-dricam-from-shueisha/.237329",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Live-Action Blue Lock Film Reveals More Cast, New Key Visual",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-13/live-action-blue-lock-film-reveals-more-cast-new-key-visual/.237328",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Now that Sukuna is canon in the Marvel Universe, let's powerscale him properly",
       "url": "https://www.polygon.com/jjk-sukuna-canon-marvel-universe-powerscale/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hello Kitty Designer Reveals the Crisis That Almost Killed the Icon",
+      "url": "https://screenrant.com/hello-kitty-sanrio-secret-history-unpopular-struggle/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Crunchyroll's Biggest Ani-May Rival Isn't Netflix",
+      "url": "https://screenrant.com/plex-tv-crunchyroll-biggest-ani-may-rival/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
