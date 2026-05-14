@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T15:00:09+00:00",
+  "generated_utc": "2026-05-14T15:53:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Chris Brown’s Mansion Under Siege After Trespasser Tries To Start Fire",
+      "url": "https://allhiphop.com/news/chris-browns-mansion-under-siege-after-trespasser-tries-to-start-fire/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Nicki Minaj Links Her Trump Shift To Jay-Z Beef & Industry Gatekeeping",
+      "url": "https://allhiphop.com/news/nicki-minaj-links-her-trump-shift-to-jay-z-beef-industry-gatekeeping/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "John Waters Defends Eminem Against Homophobia Claims, Citing Iconic Elton John Wedding Gift",
       "url": "https://thesource.com/2026/05/14/john-waters-defends-eminem-against-homophobia-claims-citing-iconic-elton-john-wedding-gift/",
       "pillar": "hiphop",
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Today in Hip-Hop History: De La Soul’s Second LP ‘De La Soul Is Dead’ Turns 35 Years Old!",
-      "url": "https://thesource.com/2026/05/14/today-in-hip-hop-history-de-la-souls-second-lp-de-la-soul-is-dead-turns-35-years-old/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Obama Drops Into Austin Taco Shop, Backing Texas Democrats Ahead of Primary Runoff",
-      "url": "https://thesource.com/2026/05/14/obama-drops-into-austin-taco-shop-backing-texas-democrats-ahead-of-primary-runoff/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
       "url": "https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/",
       "pillar": "anime",
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "One Peace Books Licenses My Sweet Marriage to My Ex-Nemesis Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352",
+      "title": "Manga UP! Global Adds The Cruel King I'm Marrying as a Substitute Bride is My First Love?! Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-14/manga-up-global-adds-the-cruel-king-im-marrying-as-a-substitute-bride-is-my-first-love-manga/.237334",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Saved by the Ice Cold Prince's Embrace Light Anime's Teaser Unveils Cast, Staff",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-14/saved-by-the-ice-cold-prince-embrace-light-anime-teaser-unveils-cast-staff/.237358",
+      "title": "One Peace Books Licenses My Sweet Marriage to My Ex-Nemesis Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "News PS5 Fighter Marvel Tokon Actually Does Have Gameplay During Its 10-Hour Story",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5-fighter-marvel-tokon-actually-does-have-gameplay-during-its-10-hour-story",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Overwatch Is Officially Answering The Call In Fortnite",
       "url": "https://gameranx.com/updates/id/562691/article/overwatch-is-officially-answering-the-call-in-fortnite/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Watch Kylie Jenner Explain The Legend Of Zelda: Breath Of The Wild And Get It Mostly Right",
       "url": "https://kotaku.com/kylie-jenner-therapuss-legend-of-zelda-breath-of-the-wild-2000696065",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Forza Horizon 6 review: \"A sublime racing engine supercharges this stunning, Japan-set open world\"",
+      "url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-review/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

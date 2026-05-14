@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T15:00:09+00:00",
+  "generated_utc": "2026-05-14T15:53:15+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "a8e83aa9fbd6",
+      "pillar": "hiphop",
+      "title": "Chris Brown’s Mansion Under Siege After Trespasser Tries To Start Fire",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/chris-browns-mansion-under-siege-after-trespasser-tries-to-start-fire/",
+      "thumbnail": "/drops/thumbs/a8e83aa9fbd6.png",
+      "published": "2026-05-14T11:34:32",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f1ac20399610",
+      "pillar": "hiphop",
+      "title": "Nicki Minaj Links Her Trump Shift To Jay-Z Beef & Industry Gatekeeping",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/nicki-minaj-links-her-trump-shift-to-jay-z-beef-industry-gatekeeping/",
+      "thumbnail": "/drops/thumbs/f1ac20399610.png",
+      "published": "2026-05-14T11:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b76e195a7fa1",
       "pillar": "hiphop",
       "title": "John Waters Defends Eminem Against Homophobia Claims, Citing Iconic Elton John Wedding Gift",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "c46d91c4d1f8",
-      "pillar": "hiphop",
-      "title": "Today in Hip-Hop History: De La Soul’s Second LP ‘De La Soul Is Dead’ Turns 35 Years Old!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/14/today-in-hip-hop-history-de-la-souls-second-lp-de-la-soul-is-dead-turns-35-years-old/",
-      "thumbnail": "/drops/thumbs/c46d91c4d1f8.jpg",
-      "published": "2026-05-14T07:31:29",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d8c385d0000a",
-      "pillar": "hiphop",
-      "title": "Obama Drops Into Austin Taco Shop, Backing Texas Democrats Ahead of Primary Runoff",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/14/obama-drops-into-austin-taco-shop-backing-texas-democrats-ahead-of-primary-runoff/",
-      "thumbnail": "/drops/thumbs/d8c385d0000a.jpg",
-      "published": "2026-05-14T07:29:37",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f3e9f850cdcc",
       "pillar": "anime",
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "e4dd4d20d0d0",
+      "id": "604abb0e3258",
       "pillar": "anime",
-      "title": "One Peace Books Licenses My Sweet Marriage to My Ex-Nemesis Manga",
+      "title": "Manga UP! Global Adds The Cruel King I'm Marrying as a Substitute Bride is My First Love?! Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352",
-      "thumbnail": "/drops/thumbs/e4dd4d20d0d0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/manga-up-global-adds-the-cruel-king-im-marrying-as-a-substitute-bride-is-my-first-love-manga/.237334",
+      "thumbnail": "/drops/thumbs/604abb0e3258.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "363d39fd4b82",
+      "id": "e4dd4d20d0d0",
       "pillar": "anime",
-      "title": "Saved by the Ice Cold Prince's Embrace Light Anime's Teaser Unveils Cast, Staff",
+      "title": "One Peace Books Licenses My Sweet Marriage to My Ex-Nemesis Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/saved-by-the-ice-cold-prince-embrace-light-anime-teaser-unveils-cast-staff/.237358",
-      "thumbnail": "/drops/thumbs/363d39fd4b82.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352",
+      "thumbnail": "/drops/thumbs/e4dd4d20d0d0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "f5d9bbd42235",
-      "pillar": "gaming",
-      "title": "News PS5 Fighter Marvel Tokon Actually Does Have Gameplay During Its 10-Hour Story",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/ps5-fighter-marvel-tokon-actually-does-have-gameplay-during-its-10-hour-story",
-      "thumbnail": "/drops/thumbs/f5d9bbd42235.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "20e4abeaa097",
       "pillar": "gaming",
       "title": "Overwatch Is Officially Answering The Call In Fortnite",
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "8bd2e01d00fc",
+      "pillar": "gaming",
+      "title": "Forza Horizon 6 review: \"A sublime racing engine supercharges this stunning, Japan-set open world\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-review/",
+      "thumbnail": "/drops/thumbs/8bd2e01d00fc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "33a1f9fc0899",
-    "b76e195a7fa1",
+    "a8e83aa9fbd6",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
