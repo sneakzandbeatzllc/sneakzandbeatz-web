@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T16:54:59+00:00",
+  "generated_utc": "2026-05-14T17:23:28+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -25,8 +25,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
+      "title": "Air Jordan 3 “Brazil” (IV4871-400) May 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-og-brazil-iv4871-400-drop/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -34,6 +34,13 @@
     {
       "title": "Air Jordan 3 “World’s Best Dad” May 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-3-worlds-best-dad-if4396-103-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 6 “Oreo” Releases This Summer After Sixteen Years",
-      "url": "https://justfreshkicks.com/air-jordan-6-oreo-ct8529-108/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Eminem & 50 Cent’s Detroit Playoff Reunion Brings 2000s Nostalgia Back To Life",
+      "url": "https://allhiphop.com/news/eminem-50-cents-detroit-playoff-reunion-brings-2000s-nostalgia-back-to-life/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Today In Hip Hop History: KMD Released Their Debut ‘Mr. Hood’ 35 Years Ago",
-      "url": "https://thesource.com/2026/05/14/today-in-hip-hop-history-kmd-released-their-debut-mr-hood-35-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Forget One Piece or Dragon Ball, this is the most profitable anime property according to new report",
       "url": "https://www.polygon.com/gundam-bandai-namco-most-profitable-franchise-one-piece-dragon-ball/",
       "pillar": "anime",
@@ -132,13 +132,6 @@
     {
       "title": "Boruto: Two Blue Vortex Chapter #34 Release Date & Time",
       "url": "https://screenrant.com/boruto-two-blue-vortex-chapter-34-release-date-time/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece Just Teased A Devil Fruit Powerful Enough To Destroy Luffy",
-      "url": "https://screenrant.com/one-piece-dragon-devil-fruit-threaten-luffy/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "One Peace Books Licenses My Sweet Marriage to My Ex-Nemesis Manga",
       "url": "https://www.animenewsnetwork.com/news/2026-05-14/one-peace-books-licenses-my-sweet-marriage-to-my-ex-nemesis-manga/.237352",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Shojo's Most Famous Creator Brings A Forgotten Classic To The West In New Trailer (Exclusive)",
+      "url": "https://screenrant.com/shojo-best-creator-ai-yazawa-nana-no-angel/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
