@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T17:54:19+00:00",
+  "generated_utc": "2026-05-14T17:55:20+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -111,54 +111,6 @@
       "release_badge": ""
     },
     {
-      "id": "596b979b47fd",
-      "pillar": "hiphop",
-      "title": "Eminem & 50 Cent’s Detroit Playoff Reunion Brings 2000s Nostalgia Back To Life",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/eminem-50-cents-detroit-playoff-reunion-brings-2000s-nostalgia-back-to-life/",
-      "thumbnail": "/drops/thumbs/596b979b47fd.png",
-      "published": "2026-05-14T13:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4d0a8f9e52ab",
-      "pillar": "hiphop",
-      "title": "Cardi B Viral Argument With Stefon Diggs Explained: Rapper Was Hungry",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/cardi-b-viral-argument-with-stefon-diggs-explained-rapper-was-hungry/",
-      "thumbnail": "/drops/thumbs/4d0a8f9e52ab.jpg",
-      "published": "2026-05-14T12:02:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a8e83aa9fbd6",
-      "pillar": "hiphop",
-      "title": "Chris Brown’s Mansion Under Siege After Trespasser Tries To Start Fire",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/chris-browns-mansion-under-siege-after-trespasser-tries-to-start-fire/",
-      "thumbnail": "/drops/thumbs/a8e83aa9fbd6.png",
-      "published": "2026-05-14T11:34:32",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f1ac20399610",
-      "pillar": "hiphop",
-      "title": "Nicki Minaj Links Her Trump Shift To Jay-Z Beef & Industry Gatekeeping",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/nicki-minaj-links-her-trump-shift-to-jay-z-beef-industry-gatekeeping/",
-      "thumbnail": "/drops/thumbs/f1ac20399610.png",
-      "published": "2026-05-14T11:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b76e195a7fa1",
       "pillar": "hiphop",
       "title": "John Waters Defends Eminem Against Homophobia Claims, Citing Iconic Elton John Wedding Gift",
@@ -171,18 +123,6 @@
       "release_badge": ""
     },
     {
-      "id": "53c8d7ff5be0",
-      "pillar": "hiphop",
-      "title": "Jess Hilarious Says “The Breakfast Club” Ratings Jumped After Netflix Move",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jess-hilarious-says-the-breakfast-club-ratings-jumped-after-netflix-move/",
-      "thumbnail": "/drops/thumbs/53c8d7ff5be0.jpg",
-      "published": "2026-05-14T09:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "78b3aaf8f703",
       "pillar": "hiphop",
       "title": "Stephen Jackson Criticizes Defenders of George Floyd Joke During Roast of Kevin Hart",
@@ -190,6 +130,66 @@
       "source_url": "https://thesource.com/2026/05/14/stephen-jackson-responds-tony-hinchcliffe-george-floyd-joke/",
       "thumbnail": "/drops/thumbs/78b3aaf8f703.jpg",
       "published": "2026-05-14T07:59:59",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9de11e505cdd",
+      "pillar": "hiphop",
+      "title": "Terrence Floyd Criticizes Kevin Hart Over Offensive George Floyd Joke",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/terrence-floyd-kevin-hart-tony-hinchcliffe-roast/",
+      "thumbnail": "/drops/thumbs/9de11e505cdd.jpg",
+      "published": "2026-05-14T07:57:28",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1baecc4d4f4e",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: KMD Released Their Debut ‘Mr. Hood’ 35 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/today-in-hip-hop-history-kmd-released-their-debut-mr-hood-35-years-ago/",
+      "thumbnail": "/drops/thumbs/1baecc4d4f4e.jpg",
+      "published": "2026-05-14T07:31:43",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c34340183bef",
+      "pillar": "hiphop",
+      "title": "Today in Hip-Hop History: Cam’ron Released Third Solo Album ‘Come Home With Me’ 24 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/today-in-hip-hop-history-camron-released-third-solo-album-come-home-with-me-24-years-ago/",
+      "thumbnail": "/drops/thumbs/c34340183bef.jpg",
+      "published": "2026-05-14T07:31:34",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c46d91c4d1f8",
+      "pillar": "hiphop",
+      "title": "Today in Hip-Hop History: De La Soul’s Second LP ‘De La Soul Is Dead’ Turns 35 Years Old!",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/today-in-hip-hop-history-de-la-souls-second-lp-de-la-soul-is-dead-turns-35-years-old/",
+      "thumbnail": "/drops/thumbs/c46d91c4d1f8.jpg",
+      "published": "2026-05-14T07:31:29",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d8c385d0000a",
+      "pillar": "hiphop",
+      "title": "Obama Drops Into Austin Taco Shop, Backing Texas Democrats Ahead of Primary Runoff",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/obama-drops-into-austin-taco-shop-backing-texas-democrats-ahead-of-primary-runoff/",
+      "thumbnail": "/drops/thumbs/d8c385d0000a.jpg",
+      "published": "2026-05-14T07:29:37",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
