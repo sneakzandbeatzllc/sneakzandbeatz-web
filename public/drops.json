@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T04:50:45+00:00",
+  "generated_utc": "2026-05-14T05:44:11+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "898d66aead22",
+      "id": "69d1429111ca",
       "pillar": "anime",
-      "title": "Tamekō's Lala's Married Life Manga Enters Final Arc",
+      "title": "Writer Mujirushi Shimazaki, Artist Rika Kamiyoshi Launch New Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/tameko-lala-married-life-manga-enters-final-arc/.237275",
-      "thumbnail": "/drops/thumbs/898d66aead22.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/writer-mujirushi-shimazaki-artist-rika-kamiyoshi-launch-new-manga/.237283",
+      "thumbnail": "/drops/thumbs/69d1429111ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "02ac65e44a78",
+      "id": "898d66aead22",
       "pillar": "anime",
-      "title": "Talentless Nana Manga to End in 2 More Chapters",
+      "title": "Tamekō's Lala's Married Life Manga Enters Final Arc",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-13/talentless-nana-manga-to-end-in-2-more-chapters/.237273",
-      "thumbnail": "/drops/thumbs/02ac65e44a78.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-14/tameko-lala-married-life-manga-enters-final-arc/.237275",
+      "thumbnail": "/drops/thumbs/898d66aead22.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "c29ec421400b",
+      "id": "1bb3ea537ca1",
       "pillar": "gaming",
-      "title": "News Saros Squashes Trophy Bugs and Other Nasty Issues in Latest PS5 Patch, Available Now",
+      "title": "News Of Course There's Already a New GTA 6 Pre-Orders Conspiracy Theory",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/saros-squashes-trophy-bugs-and-other-nasty-issues-in-latest-ps5-patch-available-now",
-      "thumbnail": "/drops/thumbs/c29ec421400b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/of-course-theres-already-a-new-gta-6-pre-orders-conspiracy-theory",
+      "thumbnail": "/drops/thumbs/1bb3ea537ca1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e7d80eaf39d0",
+      "pillar": "gaming",
+      "title": "News GTA 6 Trailer 3 a No Show, After Fans Got into a Frenzy Over Wrong Day",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-a-no-show-after-fans-got-into-a-frenzy-over-wrong-day",
+      "thumbnail": "/drops/thumbs/e7d80eaf39d0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "3c4ccba212e9",
+      "pillar": "gaming",
+      "title": "News Saros PS5 Sales Estimates at 300k, Selling Slower Than Returnal on a Bigger Install Base",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/saros-ps5-sales-estimates-at-300k-selling-slower-than-returnal-on-a-bigger-install-base",
+      "thumbnail": "/drops/thumbs/3c4ccba212e9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f5d9bbd42235",
       "pillar": "gaming",
       "title": "News PS5 Fighter Marvel Tokon Actually Does Have Gameplay During Its 10-Hour Story",
@@ -361,30 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "ed0a2d50de6c",
-      "pillar": "gaming",
-      "title": "Rumor: Xbox Planning a Disc-To-Digital Program Codenamed Positron (For Backwards Compatibility?)",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562673/article/rumor-xbox-planning-a-disc-to-digital-program-codenamed-positron-for-backwards-compatibility/",
-      "thumbnail": "/drops/thumbs/ed0a2d50de6c.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "abc3c55cb348",
-      "pillar": "gaming",
-      "title": "It’s Official, KPop Demon Hunters Is Going On A World Tour",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/kpop-demon-hunters-world-tour-tickets-cities-dates-2000695744",
-      "thumbnail": "/drops/thumbs/abc3c55cb348.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
-    "c29ec421400b"
+    "1bb3ea537ca1"
   ]
 }
