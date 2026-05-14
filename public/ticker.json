@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T13:58:28+00:00",
+  "generated_utc": "2026-05-14T14:51:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "John Waters Defends Eminem Against Homophobia Claims, Citing Iconic Elton John Wedding Gift",
+      "url": "https://thesource.com/2026/05/14/john-waters-defends-eminem-against-homophobia-claims-citing-iconic-elton-john-wedding-gift/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jess Hilarious Says “The Breakfast Club” Ratings Jumped After Netflix Move",
       "url": "https://allhiphop.com/news/jess-hilarious-says-the-breakfast-club-ratings-jumped-after-netflix-move/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Obama Drops Into Austin Taco Shop, Backing Texas Democrats Ahead of Primary Runoff",
       "url": "https://thesource.com/2026/05/14/obama-drops-into-austin-taco-shop-backing-texas-democrats-ahead-of-primary-runoff/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Netflix’s ‘Quarterback’ Reloads With Daniels, Flacco, Mayfield and Ward for Season 3",
-      "url": "https://thesource.com/2026/05/14/netflixs-quarterback-reloads-with-daniels-flacco-mayfield-and-ward-for-season-3/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Man Sentenced To Six Years In Prison For Selling Mario-Shaped Meth Pills",
-      "url": "https://kotaku.com/mario-meth-pills-drug-dealer-connecticut-prison-sentence-2000695738",
+      "title": "Watch Kylie Jenner Explain The Legend Of Zelda: Breath Of The Wild And Get It Mostly Right",
+      "url": "https://kotaku.com/kylie-jenner-therapuss-legend-of-zelda-breath-of-the-wild-2000696065",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

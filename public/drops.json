@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-14T13:58:28+00:00",
+  "generated_utc": "2026-05-14T14:51:44+00:00",
   "items": [
     {
       "id": "33a1f9fc0899",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b76e195a7fa1",
+      "pillar": "hiphop",
+      "title": "John Waters Defends Eminem Against Homophobia Claims, Citing Iconic Elton John Wedding Gift",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/14/john-waters-defends-eminem-against-homophobia-claims-citing-iconic-elton-john-wedding-gift/",
+      "thumbnail": "/drops/thumbs/b76e195a7fa1.jpg",
+      "published": "2026-05-14T09:48:01",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "53c8d7ff5be0",
       "pillar": "hiphop",
       "title": "Jess Hilarious Says “The Breakfast Club” Ratings Jumped After Netflix Move",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/14/obama-drops-into-austin-taco-shop-backing-texas-democrats-ahead-of-primary-runoff/",
       "thumbnail": "/drops/thumbs/d8c385d0000a.jpg",
       "published": "2026-05-14T07:29:37",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a770aadcc3c6",
-      "pillar": "hiphop",
-      "title": "Netflix’s ‘Quarterback’ Reloads With Daniels, Flacco, Mayfield and Ward for Season 3",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/14/netflixs-quarterback-reloads-with-daniels-flacco-mayfield-and-ward-for-season-3/",
-      "thumbnail": "/drops/thumbs/a770aadcc3c6.jpg",
-      "published": "2026-05-14T07:27:07",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "fde7c353ce06",
+      "id": "188ff30fe4c2",
       "pillar": "gaming",
-      "title": "Man Sentenced To Six Years In Prison For Selling Mario-Shaped Meth Pills",
+      "title": "Watch Kylie Jenner Explain The Legend Of Zelda: Breath Of The Wild And Get It Mostly Right",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/mario-meth-pills-drug-dealer-connecticut-prison-sentence-2000695738",
-      "thumbnail": "/drops/thumbs/fde7c353ce06.jpg",
+      "source_url": "https://kotaku.com/kylie-jenner-therapuss-legend-of-zelda-breath-of-the-wild-2000696065",
+      "thumbnail": "/drops/thumbs/188ff30fe4c2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "33a1f9fc0899",
-    "53c8d7ff5be0",
+    "b76e195a7fa1",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
