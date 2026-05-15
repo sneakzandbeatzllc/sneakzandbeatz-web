@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T12:26:33+00:00",
+  "generated_utc": "2026-05-15T12:38:52+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "753865d4e141",
+      "id": "4bb456fc4510",
       "pillar": "anime",
-      "title": "The Oblivious Saint Can't Contain Her Power TV Anime Reveals More Cast in 2nd Promo Video",
+      "title": "Black Torch TV Anime Reveals More Cast, Staff",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-15/the-oblivious-saint-cant-contain-her-power-tv-anime-reveals-more-cast-in-2nd-promo-video/.237400",
-      "thumbnail": "/drops/thumbs/753865d4e141.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-15/black-torch-tv-anime-reveals-more-cast-staff/.237401",
+      "thumbnail": "/drops/thumbs/4bb456fc4510.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "b9de8bbbc43f",
+      "id": "753865d4e141",
       "pillar": "anime",
-      "title": "Gundam Seed Freedom Zero Prequel Anime Confirmed for Theatrical Release",
+      "title": "The Oblivious Saint Can't Contain Her Power TV Anime Reveals More Cast in 2nd Promo Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-15/gundam-seed-freedom-zero-prequel-anime-confirmed-for-theatrical-release/.237396",
-      "thumbnail": "/drops/thumbs/b9de8bbbc43f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-15/the-oblivious-saint-cant-contain-her-power-tv-anime-reveals-more-cast-in-2nd-promo-video/.237400",
+      "thumbnail": "/drops/thumbs/753865d4e141.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "81e8cbba6152",
+      "id": "b9de8bbbc43f",
       "pillar": "anime",
-      "title": "Iron Wok Jan! Anime Reveals More Cast, July 5 Debut in Main Promo Video",
+      "title": "Gundam Seed Freedom Zero Prequel Anime Confirmed for Theatrical Release",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-15/iron-wok-jan-anime-reveals-more-cast-july-5-debut-in-main-promo-video/.237389",
-      "thumbnail": "/drops/thumbs/81e8cbba6152.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-15/gundam-seed-freedom-zero-prequel-anime-confirmed-for-theatrical-release/.237396",
+      "thumbnail": "/drops/thumbs/b9de8bbbc43f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,18 +285,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/best-selling-manga-no-anime-adaptation/",
       "thumbnail": "/drops/thumbs/19f8017c2a1b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1bb3ea537ca1",
-      "pillar": "gaming",
-      "title": "News Of Course There's Already a New GTA 6 Pre-Orders Conspiracy Theory",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/of-course-theres-already-a-new-gta-6-pre-orders-conspiracy-theory",
-      "thumbnail": "/drops/thumbs/1bb3ea537ca1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +309,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/saros-ps5-making-of-video-reveals-the-relatable-reason-behind-arjuns-rage",
       "thumbnail": "/drops/thumbs/88b218db5827.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "af2726c947c4",
+      "pillar": "gaming",
+      "title": "News One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/one-year-later-doom-the-dark-ages-dlc-is-nowhere-to-be-seen",
+      "thumbnail": "/drops/thumbs/af2726c947c4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "7de612490f99",
     "99c07816c04f",
     "e8acd9c337af",
-    "1bb3ea537ca1"
+    "c82c86bb7001"
   ]
 }
