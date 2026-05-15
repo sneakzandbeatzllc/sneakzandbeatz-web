@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T10:46:38+00:00",
+  "generated_utc": "2026-05-15T11:25:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Nick Grant Drops New Studio Album ‘Smile’ with All-Star Guest Roster",
+      "url": "https://thesource.com/2026/05/15/nick-grant-new-album-smile-streaming/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "NFL Announces Historic Nine-Game International Schedule for 2026",
       "url": "https://thesource.com/2026/05/15/nfl-2026-international-games-schedule-announcement/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Will Smith Returns To Action With $70M Deal For “Supermax”",
       "url": "https://allhiphop.com/news/will-smith-returns-to-action-with-70m-deal-for-supermax/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Gunplay Signs On For Juneteenth Celebrity Boxing Fight Against Pressure P",
-      "url": "https://allhiphop.com/news/gunplay-signs-on-for-juneteenth-celebrity-boxing-fight-against-pressure-p/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null

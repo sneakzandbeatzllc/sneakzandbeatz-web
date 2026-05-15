@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T10:46:38+00:00",
+  "generated_utc": "2026-05-15T11:25:26+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "dfb3043f461d",
+      "pillar": "hiphop",
+      "title": "Nick Grant Drops New Studio Album ‘Smile’ with All-Star Guest Roster",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/15/nick-grant-new-album-smile-streaming/",
+      "thumbnail": "/drops/thumbs/dfb3043f461d.jpg",
+      "published": "2026-05-15T06:59:48",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8aa94551004e",
       "pillar": "hiphop",
       "title": "NFL Announces Historic Nine-Game International Schedule for 2026",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/will-smith-returns-to-action-with-70m-deal-for-supermax/",
       "thumbnail": "/drops/thumbs/dc1ce76a46d0.jpg",
       "published": "2026-05-14T17:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "63f822f0e2ab",
-      "pillar": "hiphop",
-      "title": "Gunplay Signs On For Juneteenth Celebrity Boxing Fight Against Pressure P",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/gunplay-signs-on-for-juneteenth-celebrity-boxing-fight-against-pressure-p/",
-      "thumbnail": "/drops/thumbs/63f822f0e2ab.jpg",
-      "published": "2026-05-14T16:28:16",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "8aa94551004e",
+    "dfb3043f461d",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
