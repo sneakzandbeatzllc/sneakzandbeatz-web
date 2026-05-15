@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T14:28:58+00:00",
+  "generated_utc": "2026-05-15T14:40:49+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -315,6 +315,18 @@
       "release_badge": ""
     },
     {
+      "id": "29e16a9942a4",
+      "pillar": "gaming",
+      "title": "The Beginning Of A Cyberpunk 2077 Sidequest Just Became Real Life As Self-Driving Waymo Cars Go Rogue In Atlanta",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/cyberpunk-2077-delamain-cars-sidequest-atlanta-waymo-2000696501",
+      "thumbnail": "/drops/thumbs/29e16a9942a4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "af2726c947c4",
       "pillar": "gaming",
       "title": "News One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen",
@@ -351,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "ab0c2e6e0e3d",
-      "pillar": "gaming",
-      "title": "Subnautica 2 Dev Responds To Player Who Asked For Tech Support On A Leaked Version Of The Game: ‘Thanks For Pirating A Game That I’ve Spent Years Working On’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/subnautica-2-dev-responds-to-player-who-asked-for-tech-support-on-a-leaked-version-of-the-game-thanks-for-pirating-a-game-that-ive-spent-years-working-on-2000696489",
-      "thumbnail": "/drops/thumbs/ab0c2e6e0e3d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8bd2e01d00fc",
       "pillar": "gaming",
       "title": "Forza Horizon 6 review: \"A sublime racing engine supercharges this stunning, Japan-set open world\"",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "7a86d2fc5733",
+      "id": "ab0c2e6e0e3d",
       "pillar": "gaming",
-      "title": "Star Wars: The Old Republic Director Wanted To Do A New Republic Reboot Until EA’s Board Stepped In To Kill It",
+      "title": "Subnautica 2 Dev Responds To Player Who Asked For Tech Support On A Leaked Version Of The Game: ‘Thanks For Pirating A Game That I’ve Spent Years Working On’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/star-wars-the-old-republic-director-details-how-the-mmo-almost-got-rebooted-until-eas-board-of-directors-stepped-in-to-kill-it-2000696473",
-      "thumbnail": "/drops/thumbs/7a86d2fc5733.jpg",
+      "source_url": "https://kotaku.com/subnautica-2-dev-responds-to-player-who-asked-for-tech-support-on-a-leaked-version-of-the-game-thanks-for-pirating-a-game-that-ive-spent-years-working-on-2000696489",
+      "thumbnail": "/drops/thumbs/ab0c2e6e0e3d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
