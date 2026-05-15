@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T08:13:46+00:00",
+  "generated_utc": "2026-05-15T08:23:45+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,42 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "8aa94551004e",
+      "pillar": "hiphop",
+      "title": "NFL Announces Historic Nine-Game International Schedule for 2026",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/15/nfl-2026-international-games-schedule-announcement/",
+      "thumbnail": "/drops/thumbs/8aa94551004e.jpg",
+      "published": "2026-05-15T03:45:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b024e469a38a",
+      "pillar": "hiphop",
+      "title": "College Football Makes Historic Debut With 2026 Puerto Rico Bowl",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/15/inaugural-puerto-rico-bowl-college-football-2026/",
+      "thumbnail": "/drops/thumbs/b024e469a38a.jpg",
+      "published": "2026-05-15T03:41:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b1dff2de2a2d",
+      "pillar": "hiphop",
+      "title": "Angel Reese Headlines ‘NBA 2K26’ Season 7 Launch",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/15/nba-2k26-season-7-angel-reese-rewards/",
+      "thumbnail": "/drops/thumbs/b1dff2de2a2d.jpg",
+      "published": "2026-05-15T00:48:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1eadf8e8f053",
       "pillar": "hiphop",
       "title": "NBA Ben10 Shot Again In Baton Rouge Following April Houston Shooting",
@@ -154,42 +190,6 @@
       "source_url": "https://allhiphop.com/news/gunplay-signs-on-for-juneteenth-celebrity-boxing-fight-against-pressure-p/",
       "thumbnail": "/drops/thumbs/63f822f0e2ab.jpg",
       "published": "2026-05-14T16:28:16",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "12d520cc3f6f",
-      "pillar": "hiphop",
-      "title": "Six-Year-Old Child Who Survived Pit Bull Attack, Wants Kendrick Lamar At Birthday",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/six-year-old-child-who-survived-pit-bull-attack-wants-kendrick-lamar-at-birthday/",
-      "thumbnail": "/drops/thumbs/12d520cc3f6f.jpg",
-      "published": "2026-05-14T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f3e15a5a9619",
-      "pillar": "hiphop",
-      "title": "Chaka Khan & Melle Mel Make National Recording Registry With Historic Collaboration",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/chaka-khan-melle-mel-make-national-recording-registry-with-historic-collaboration/",
-      "thumbnail": "/drops/thumbs/f3e15a5a9619.jpg",
-      "published": "2026-05-14T14:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "31256fada86a",
-      "pillar": "hiphop",
-      "title": "[Exclusive] BigXthaPlug Takes Fans Inside the Trap: New Spotify ‘Day In The Life’ Drops Today",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/14/exclusive-bigxthaplug-takes-fans-inside-the-trap-new-spotify-day-in-the-life-drops-todaybigxthaplug-takes-fans-inside-the-trap-new-spotify-day-in-the-life-drops/",
-      "thumbnail": "/drops/thumbs/31256fada86a.jpg",
-      "published": "2026-05-14T13:26:24",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "1eadf8e8f053",
+    "8aa94551004e",
     "7de612490f99",
     "f3e9f850cdcc",
     "e8acd9c337af",
