@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T16:25:48+00:00",
+  "generated_utc": "2026-05-15T16:26:40+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,18 +99,6 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "7a967ca8f8af",
-      "pillar": "hiphop",
-      "title": "Ye Defeats Jewish Backlash & Strikes Live Nation Israel CEO",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ye-defeats-jewish-backlash-strikes-live-nation-israel-ceo/",
-      "thumbnail": "/drops/thumbs/7a967ca8f8af.png",
-      "published": "2026-05-15T12:04:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2d88540d558c",
       "pillar": "hiphop",
       "title": "Today In Hip Hop History: Killer Mike Dropped His Fifth LP ‘R.A.P. Music’ 14 Years Ago",
@@ -130,30 +118,6 @@
       "source_url": "https://thesource.com/2026/05/15/today-in-hip-hop-history-run-d-m-c-s-third-lp-raising-hell-turns-40-years-old/",
       "thumbnail": "/drops/thumbs/bbf021033582.jpg",
       "published": "2026-05-15T11:51:44",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3e038b99dabd",
-      "pillar": "hiphop",
-      "title": "Kodak Black Busted Again In Broward County On Fleeing Charges",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kodak-black-busted-again-in-broward-county-on-fleeing-charges/",
-      "thumbnail": "/drops/thumbs/3e038b99dabd.jpg",
-      "published": "2026-05-15T11:01:16",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c0ae36f2b3ed",
-      "pillar": "hiphop",
-      "title": "Slooply Desktop App & Bridge VST Review",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/slooply-desktop-app-bridge-vst-review/",
-      "thumbnail": "/drops/thumbs/c0ae36f2b3ed.png",
-      "published": "2026-05-15T08:45:52",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -190,6 +154,42 @@
       "source_url": "https://thesource.com/2026/05/15/mike-will-made-it-russian-roulett3-young-thug-video/",
       "thumbnail": "/drops/thumbs/a4032ff0ffb2.jpg",
       "published": "2026-05-15T07:40:31",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dfb3043f461d",
+      "pillar": "hiphop",
+      "title": "Nick Grant Drops New Studio Album ‘Smile’ with All-Star Guest Roster",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/15/nick-grant-new-album-smile-streaming/",
+      "thumbnail": "/drops/thumbs/dfb3043f461d.jpg",
+      "published": "2026-05-15T06:59:48",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "27942236f876",
+      "pillar": "hiphop",
+      "title": "Bobby Hagens Drops Introspective Single “Check On Me”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/15/bobby-hagens-check-on-me-mental-health/",
+      "thumbnail": "/drops/thumbs/27942236f876.jpg",
+      "published": "2026-05-15T05:48:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "74150feacb39",
+      "pillar": "hiphop",
+      "title": "From the Sidelines to the Studio: How Vincent Mendoza is Defining the Roc Nation School Legacy",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/15/vincent-mendoza-roc-nation-school-cbs-sports-success/",
+      "thumbnail": "/drops/thumbs/74150feacb39.jpg",
+      "published": "2026-05-15T05:40:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "7a967ca8f8af",
+    "2d88540d558c",
     "7de612490f99",
     "0e7494fa7de9",
     "e8acd9c337af",
