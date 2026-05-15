@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T22:34:02+00:00",
+  "generated_utc": "2026-05-15T23:02:29+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "51ee11856ef1",
+      "pillar": "hiphop",
+      "title": "Julio Foolio’s Killers Sentenced To Life In Prison Without Parole",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/julio-foolios-killers-sentenced-to-life-in-prison-without-parole/",
+      "thumbnail": "/drops/thumbs/51ee11856ef1.png",
+      "published": "2026-05-15T19:00:56",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ab1bf1124b72",
       "pillar": "hiphop",
       "title": "Dr. Cheyenne Bryant’s Past Included Video Vixen According To Her Haters",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "bbf021033582",
-      "pillar": "hiphop",
-      "title": "Today in Hip-Hop History: Run-D.M.C.’s Third LP ‘Raising Hell’ Turns 40 Years Old!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/15/today-in-hip-hop-history-run-d-m-c-s-third-lp-raising-hell-turns-40-years-old/",
-      "thumbnail": "/drops/thumbs/bbf021033582.jpg",
-      "published": "2026-05-15T11:51:44",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "de94cf680d9c",
       "pillar": "anime",
       "title": "Jujutsu Kaisen and Demon Slayer Are Officially The Worst Modern Manga According To Dragon Ball Legend",
@@ -207,24 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "0e7494fa7de9",
+      "id": "f886c8aa1653",
       "pillar": "anime",
-      "title": "One Piece Episode #1162 Release Date And Time",
+      "title": "Only One Upper Moon In Demon Slayer Truly Won His Fight In The End",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-episode-1162-release-date-time/",
-      "thumbnail": "/drops/thumbs/0e7494fa7de9.jpg",
+      "source_url": "https://screenrant.com/demon-slayer-upper-moon-akaza-fight-humanity/",
+      "thumbnail": "/drops/thumbs/f886c8aa1653.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "99c07816c04f",
+      "id": "0e7494fa7de9",
       "pillar": "anime",
-      "title": "Sasuke's One True Heir Hints At Naruto's New Itachi With One Tragic Twist",
+      "title": "One Piece Episode #1162 Release Date And Time",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-sasuke-successor-sarada-uchiha-sharingan-itachi-twist/",
-      "thumbnail": "/drops/thumbs/99c07816c04f.png",
+      "source_url": "https://screenrant.com/one-piece-episode-1162-release-date-time/",
+      "thumbnail": "/drops/thumbs/0e7494fa7de9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "ab1bf1124b72",
+    "51ee11856ef1",
     "7de612490f99",
     "de94cf680d9c",
     "e8acd9c337af",
