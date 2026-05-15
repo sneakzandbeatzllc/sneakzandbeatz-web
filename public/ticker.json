@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T02:38:01+00:00",
+  "generated_utc": "2026-05-15T03:39:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Has Officially Dethroned Dragon Ball, According To Toei Animation",
-      "url": "https://screenrant.com/dragon-ball-one-piece-anime-better-2026/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Sasuke's One True Heir Hints At Naruto's New Itachi With One Tragic Twist",
       "url": "https://screenrant.com/naruto-sasuke-successor-sarada-uchiha-sharingan-itachi-twist/",
       "pillar": "anime",
@@ -153,6 +146,13 @@
     {
       "title": "This iconic sci-fi manga is getting a new installment for the first time in 32 years",
       "url": "https://www.polygon.com/mobile-police-patlabor-one-shot-mecha-manga-32-years-later/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Mushoku Tensei Just Lost Its Throne As 2026’s Most Anticipated Isekai Anime",
+      "url": "https://screenrant.com/saga-of-tanya-the-evil-best-isekai-not-mushoku-tensei-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
