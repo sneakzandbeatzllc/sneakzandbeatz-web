@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T12:47:41+00:00",
+  "generated_utc": "2026-05-15T13:27:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Mushoku Tensei Just Lost Its Throne As 2026’s Most Anticipated Isekai Anime",
-      "url": "https://screenrant.com/saga-of-tanya-the-evil-best-isekai-not-mushoku-tensei-2026/",
+      "title": "2 New Star Trek Series Announced, And They're Taking The Franchise In A Bold Direction (Exclusive)",
+      "url": "https://screenrant.com/new-star-trek-series-webtoon/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "8 Best-Selling Manga That Still Don’t Have the Anime Adaptation They Deserve",
-      "url": "https://screenrant.com/best-selling-manga-no-anime-adaptation/",
+      "title": "Mushoku Tensei Just Lost Its Throne As 2026’s Most Anticipated Isekai Anime",
+      "url": "https://screenrant.com/saga-of-tanya-the-evil-best-isekai-not-mushoku-tensei-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "News Halo PS5 Spotted in Stores, And It's Making Everyone Feel Weird",
-      "url": "https://www.pushsquare.com/news/2026/05/halo-ps5-spotted-in-stores-and-its-making-everyone-feel-weird",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Subnautica 2 lays strong foundations for an improved sequel, but the depths of early access remain murky",
       "url": "https://www.gamesradar.com/games/survival/subnautica-2-lays-strong-foundations-for-an-improved-sequel-but-the-depths-of-early-access-remain-murky/",
       "pillar": "gaming",
@@ -214,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "BioWare Veteran Talks About Burnout On Sci-Fi RPG Exodus : ‘You Have To Be Cutting The Baby In Half All The Time’",
-      "url": "https://kotaku.com/bioware-veteran-talks-about-burnout-on-sci-fi-rpg-exodus-you-have-to-be-cutting-the-baby-in-half-all-the-time-2000696194",
+      "title": "Marvel Really Wants You To Know That Viral Punisher Scene Wasn’t Unfinished VFX",
+      "url": "https://kotaku.com/punisher-one-last-kill-cgi-vfx-fall-jon-bernthal-2000696475",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "Forza Horizon 6 review: \"A sublime racing engine supercharges this stunning, Japan-set open world\"",
       "url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-review/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Marathon Reveals An Ambitious Blueprint For Making It A Game More People Want To Play",
+      "url": "https://kotaku.com/marathon-reveals-an-ambitious-blueprint-for-making-it-a-game-more-people-want-to-play-2000696161",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
