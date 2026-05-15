@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T09:45:40+00:00",
+  "generated_utc": "2026-05-15T10:37:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "Crimson Desert star was in Elden Ring but says Pearl Abyss' open-world game is \"unlike anything\"",
-      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-star-acted-in-the-witcher-3-cyberpunk-2077-and-elden-ring-but-says-pearl-abyss-beautiful-open-world-game-is-unlike-anything-ive-ever-been-involved-in/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Halo PS5 Spotted in Stores, And It's Making Everyone Feel Weird",
       "url": "https://www.pushsquare.com/news/2026/05/halo-ps5-spotted-in-stores-and-its-making-everyone-feel-weird",
       "pillar": "gaming",
@@ -214,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "Subnautica 2 lays strong foundations for an improved sequel, but the depths of early access remain murky",
+      "url": "https://www.gamesradar.com/games/survival/subnautica-2-lays-strong-foundations-for-an-improved-sequel-but-the-depths-of-early-access-remain-murky/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "BioWare Veteran Talks About Burnout On Sci-Fi RPG Exodus : ‘You Have To Be Cutting The Baby In Half All The Time’",
       "url": "https://kotaku.com/bioware-veteran-talks-about-burnout-on-sci-fi-rpg-exodus-you-have-to-be-cutting-the-baby-in-half-all-the-time-2000696194",
       "pillar": "gaming",
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Subnautica 2 lays strong foundations for an improved sequel, but the depths of early access remain murky",
-      "url": "https://www.gamesradar.com/games/survival/subnautica-2-lays-strong-foundations-for-an-improved-sequel-but-the-depths-of-early-access-remain-murky/",
+      "title": "Forza Horizon 6 review: \"A sublime racing engine supercharges this stunning, Japan-set open world\"",
+      "url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-review/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
