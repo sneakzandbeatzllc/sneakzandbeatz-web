@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T12:38:52+00:00",
+  "generated_utc": "2026-05-15T12:47:41+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "c0ae36f2b3ed",
+      "pillar": "hiphop",
+      "title": "Slooply Desktop App & Bridge VST Review",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/slooply-desktop-app-bridge-vst-review/",
+      "thumbnail": "/drops/thumbs/c0ae36f2b3ed.png",
+      "published": "2026-05-15T08:45:52",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2779007bdf26",
       "pillar": "hiphop",
       "title": "Summer 2026 Movie Breakdown: Heroes, Aliens, Epics and Big Laughs to Silver Screen",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/15/nfl-2026-international-games-schedule-announcement/",
       "thumbnail": "/drops/thumbs/8aa94551004e.jpg",
       "published": "2026-05-15T03:45:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b024e469a38a",
-      "pillar": "hiphop",
-      "title": "College Football Makes Historic Debut With 2026 Puerto Rico Bowl",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/15/inaugural-puerto-rico-bowl-college-football-2026/",
-      "thumbnail": "/drops/thumbs/b024e469a38a.jpg",
-      "published": "2026-05-15T03:41:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "2779007bdf26",
+    "c0ae36f2b3ed",
     "7de612490f99",
     "99c07816c04f",
     "e8acd9c337af",
