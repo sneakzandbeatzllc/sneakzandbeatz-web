@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T18:29:55+00:00",
+  "generated_utc": "2026-05-15T18:57:42+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -179,8 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "News Saros PS5 Making Of Video Reveals the Relatable Reason Behind Arjun's Rage",
-      "url": "https://www.pushsquare.com/news/2026/05/saros-ps5-making-of-video-reveals-the-relatable-reason-behind-arjuns-rage",
+      "title": "News One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen",
+      "url": "https://www.pushsquare.com/news/2026/05/one-year-later-doom-the-dark-ages-dlc-is-nowhere-to-be-seen",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,13 +188,6 @@
     {
       "title": "Overwatch Fans Are Convinced Fortnite ‘Un-Nerfed’ Tracer’s Butt",
       "url": "https://kotaku.com/overwatch-fortnite-tracer-butt-dva-models-skins-2000696542",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen",
-      "url": "https://www.pushsquare.com/news/2026/05/one-year-later-doom-the-dark-ages-dlc-is-nowhere-to-be-seen",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -209,6 +202,13 @@
     {
       "title": "Subnautica 2 lays strong foundations for an improved sequel, but the depths of early access remain murky",
       "url": "https://www.gamesradar.com/games/survival/subnautica-2-lays-strong-foundations-for-an-improved-sequel-but-the-depths-of-early-access-remain-murky/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News This New PS5 Game Looks Like Sweet Catharsis",
+      "url": "https://www.pushsquare.com/news/2026/05/this-new-ps5-game-looks-like-sweet-catharsis",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
