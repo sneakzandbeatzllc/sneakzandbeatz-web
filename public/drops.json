@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T08:40:08+00:00",
+  "generated_utc": "2026-05-16T08:41:16+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "b81704622dbc",
+      "pillar": "hiphop",
+      "title": "Nick Cannon to Showcase Fatherhood Journey in New Netflix Series",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/16/nick-cannon-netflix-docuseries-father-of-12/",
+      "thumbnail": "/drops/thumbs/b81704622dbc.jpg",
+      "published": "2026-05-16T02:25:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0a4ed71f80d8",
+      "pillar": "hiphop",
+      "title": "Fanatics Fest NYC to Host Highly Anticipated WWE SummerSlam Kickoff",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/16/fanatics-fest-nyc-wwe-summerslam-kickoff-announcement/",
+      "thumbnail": "/drops/thumbs/0a4ed71f80d8.jpg",
+      "published": "2026-05-16T00:29:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b1c77e794895",
       "pillar": "hiphop",
       "title": "John Travolta Roasted For Accidentally Becoming Jack Harlow On Red Carpet",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/rumors/dr-cheyenne-bryants-past-included-video-vixen-according-to-her-haters/",
       "thumbnail": "/drops/thumbs/ab1bf1124b72.jpg",
       "published": "2026-05-15T16:49:48",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "232ef8707e84",
-      "pillar": "hiphop",
-      "title": "Lil Wookie “FBG WOOKIE”  Album Arrives With Future & Young Scooter",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/fbg-wookie-future-young-scooter/",
-      "thumbnail": "/drops/thumbs/232ef8707e84.jpg",
-      "published": "2026-05-15T16:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5427428da6d5",
-      "pillar": "hiphop",
-      "title": "Kim Kardashian Drops $500K To Free Death Row Inmate Richard Glossip",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kim-kardashian-drops-500k-to-free-death-row-inmate-richard-glossip/",
-      "thumbnail": "/drops/thumbs/5427428da6d5.png",
-      "published": "2026-05-15T15:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "b1c77e794895",
+    "b81704622dbc",
     "43151d13faa3",
     "0cae244e3fc5",
     "37fc53e0f8e7",
