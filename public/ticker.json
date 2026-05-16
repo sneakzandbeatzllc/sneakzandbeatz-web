@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T00:36:51+00:00",
+  "generated_utc": "2026-05-16T01:06:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,13 +13,6 @@
     {
       "title": "RUMORED: Air Jordan 8 PRM “BIN 23” Set for Summer 2026 Release",
       "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Nigel Sylvester’s Jordan Brick After Brick Apparel Drops With His Air Jordan 4",
-      "url": "https://sneakerbardetroit.com/nigel-sylvester-jordan-brick-after-brick-apparel/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -57,6 +50,20 @@
       "url": "https://justfreshkicks.com/air-jordan-1-low-phantom-green-ir2283-030/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Brazil is Getting it’s Own Air Jordan 3 for the 2026 World Cup",
+      "url": "https://justfreshkicks.com/air-jordan-3-brazil-iv4871-400/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Kanye West Shut Down In India Amid Ongoing Tour Cancellations",
+      "url": "https://allhiphop.com/news/kanye-west-shut-down-in-india-amid-ongoing-tour-cancellations/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Rick Ross Talks Wingstop Franchises, Adversaries And Dreams Of Buying Part Of The Miami Dolphins",
       "url": "https://thesource.com/2026/05/15/rick-ross-talks-wingstop-franchises-adversaries-and-dreams-of-buying-part-of-the-miami-dolphins/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ye Defeats Jewish Backlash & Strikes Live Nation Israel CEO",
-      "url": "https://allhiphop.com/news/ye-defeats-jewish-backlash-strikes-live-nation-israel-ceo/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null

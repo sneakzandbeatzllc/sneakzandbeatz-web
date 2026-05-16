@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T00:36:51+00:00",
+  "generated_utc": "2026-05-16T01:06:16+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -22,18 +22,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
       "thumbnail": "/drops/thumbs/43151d13faa3.png",
       "published": "2026-05-12T11:21:07",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "e8acd9c337af",
-      "pillar": "sneakers",
-      "title": "Nigel Sylvester’s Jordan Brick After Brick Apparel Drops With His Air Jordan 4",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/nigel-sylvester-jordan-brick-after-brick-apparel/",
-      "thumbnail": "/drops/thumbs/e8acd9c337af.webp",
-      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -97,6 +85,30 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "8bf2bb288ab4",
+      "pillar": "sneakers",
+      "title": "Brazil is Getting it’s Own Air Jordan 3 for the 2026 World Cup",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-brazil-iv4871-400/",
+      "thumbnail": "/drops/thumbs/8bf2bb288ab4.jpg",
+      "published": "2026-05-15T06:04:00",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b7dd5302a2fe",
+      "pillar": "hiphop",
+      "title": "Kanye West Shut Down In India Amid Ongoing Tour Cancellations",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/kanye-west-shut-down-in-india-amid-ongoing-tour-cancellations/",
+      "thumbnail": "/drops/thumbs/b7dd5302a2fe.png",
+      "published": "2026-05-15T21:00:24",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     },
     {
       "id": "5174d2b5a4e3",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/15/rick-ross-talks-wingstop-franchises-adversaries-and-dreams-of-buying-part-of-the-miami-dolphins/",
       "thumbnail": "/drops/thumbs/d2a53515a28a.jpg",
       "published": "2026-05-15T12:24:18",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7a967ca8f8af",
-      "pillar": "hiphop",
-      "title": "Ye Defeats Jewish Backlash & Strikes Live Nation Israel CEO",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ye-defeats-jewish-backlash-strikes-live-nation-israel-ceo/",
-      "thumbnail": "/drops/thumbs/7a967ca8f8af.png",
-      "published": "2026-05-15T12:04:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "5174d2b5a4e3",
+    "b7dd5302a2fe",
     "43151d13faa3",
     "aa6d1a92882e",
-    "e8acd9c337af",
+    "37fc53e0f8e7",
     "c82c86bb7001"
   ]
 }
