@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T19:50:48+00:00",
+  "generated_utc": "2026-05-16T20:49:56+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "feab910537a6",
+      "pillar": "hiphop",
+      "title": "Twista Rocks Chicago’s City Winery, Launches Tour",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/twista-rocks-chicagos-city-winery-launches-tour/",
+      "thumbnail": "/drops/thumbs/feab910537a6.jpg",
+      "published": "2026-05-16T16:22:04",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3c5d193563ca",
+      "pillar": "hiphop",
+      "title": "Katt Williams Bodyguard Faces Murder Charge After Grand Jury Indictment",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/katt-williams-bodyguard-faces-murder-charge-after-grand-jury-indictment/",
+      "thumbnail": "/drops/thumbs/3c5d193563ca.png",
+      "published": "2026-05-16T16:01:36",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9486e7226db8",
       "pillar": "hiphop",
       "title": "EXCLUSIVE: Diddy Ready To Fight Freak-Off Worker; Demands Trial Over Trafficking Claims",
@@ -171,25 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "6a0faf8b7b0b",
-      "pillar": "hiphop",
-      "title": "Today in Hip-Hop History: Ice Cube Dropped His First Solo LP ‘Amerikkka’s Most Wanted’ 36 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/16/today-in-hip-hop-history-ice-cube-dropped-his-first-solo-lp-amerikkkas-most-wanted-36-years-ago/",
-      "thumbnail": "/drops/thumbs/6a0faf8b7b0b.jpg",
-      "published": "2026-05-16T11:40:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a1a30493a4af",
-      "pillar": "hiphop",
-      "title": "SZA Adds “CoComelon”  Movie To Growing Acting Resume",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/sza-adds-cocomelon-movie-to-growing-acting-resume/",
-      "thumbnail": "/drops/thumbs/a1a30493a4af.png",
-      "published": "2026-05-16T10:02:00",
+      "id": "cf0a1889cdf4",
+      "pillar": "anime",
+      "title": "2026's Best Attack on Titan Replacement Anime Is Officially Here",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/attack-on-titan-replacement-anime-nippon-sangoku-2026/",
+      "thumbnail": "/drops/thumbs/cf0a1889cdf4.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -213,18 +225,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-super-gohan-best-dad-not-goku/",
       "thumbnail": "/drops/thumbs/cf7b497b2103.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0cae244e3fc5",
-      "pillar": "anime",
-      "title": "Goku's 10 Greatest Kamehamehas in Dragon Ball History",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-goku-greatest-kamehameha-ever/",
-      "thumbnail": "/drops/thumbs/0cae244e3fc5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "9486e7226db8",
+    "feab910537a6",
     "43151d13faa3",
-    "f9755aae74e6",
+    "cf0a1889cdf4",
     "37fc53e0f8e7",
     "c82c86bb7001"
   ]

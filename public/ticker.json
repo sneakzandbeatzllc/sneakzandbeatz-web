@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T19:50:48+00:00",
+  "generated_utc": "2026-05-16T20:49:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Twista Rocks Chicago’s City Winery, Launches Tour",
+      "url": "https://allhiphop.com/uncategorized/twista-rocks-chicagos-city-winery-launches-tour/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Katt Williams Bodyguard Faces Murder Charge After Grand Jury Indictment",
+      "url": "https://allhiphop.com/news/katt-williams-bodyguard-faces-murder-charge-after-grand-jury-indictment/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "EXCLUSIVE: Diddy Ready To Fight Freak-Off Worker; Demands Trial Over Trafficking Claims",
       "url": "https://allhiphop.com/news/exclusive-diddy-ready-to-fight-freak-off-worker-demands-trial/",
       "pillar": "hiphop",
@@ -102,16 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Today in Hip-Hop History: Ice Cube Dropped His First Solo LP ‘Amerikkka’s Most Wanted’ 36 Years Ago",
-      "url": "https://thesource.com/2026/05/16/today-in-hip-hop-history-ice-cube-dropped-his-first-solo-lp-amerikkkas-most-wanted-36-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "SZA Adds “CoComelon”  Movie To Growing Acting Resume",
-      "url": "https://allhiphop.com/news/sza-adds-cocomelon-movie-to-growing-acting-resume/",
-      "pillar": "hiphop",
+      "title": "2026's Best Attack on Titan Replacement Anime Is Officially Here",
+      "url": "https://screenrant.com/attack-on-titan-replacement-anime-nippon-sangoku-2026/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -125,13 +132,6 @@
     {
       "title": "Gohan Is a Better Father Than Goku Ever Was And Dragon Ball's Best Movie Proves It",
       "url": "https://screenrant.com/dragon-ball-super-gohan-best-dad-not-goku/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Goku's 10 Greatest Kamehamehas in Dragon Ball History",
-      "url": "https://screenrant.com/dragon-ball-goku-greatest-kamehameha-ever/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
