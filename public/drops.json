@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T21:52:54+00:00",
+  "generated_utc": "2026-05-16T22:51:56+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "8e3d9bf34163",
+      "pillar": "hiphop",
+      "title": "Doja Cat Plans To Take Three Years Off From Music After Tour",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/doja-cat-plans-to-take-three-years-off-from-music-after-tour/",
+      "thumbnail": "/drops/thumbs/8e3d9bf34163.jpg",
+      "published": "2026-05-16T18:00:49",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "60d10f299240",
       "pillar": "hiphop",
       "title": "Anderson .Paak Gets Tattoo Demanding No Posthumous Albums Released",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "736806a36d7c",
-      "pillar": "hiphop",
-      "title": "Anthropic releases chart. It details how your industry—and every other—will be taken over by AI: ‘Capability and observed usage’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/anthropic-ai-labor-market-chart/",
-      "thumbnail": "/drops/thumbs/736806a36d7c.jpg",
-      "published": "2026-05-16T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cf0a1889cdf4",
       "pillar": "anime",
       "title": "2026's Best Attack on Titan Replacement Anime Is Officially Here",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "cf7b497b2103",
+      "id": "17c4bd69062e",
       "pillar": "anime",
-      "title": "Gohan Is a Better Father Than Goku Ever Was And Dragon Ball's Best Movie Proves It",
+      "title": "Demon Slayer: Infinity Castle Part 2 Is Finally Going To Give The Most Controversial Hashira His Time To Shine",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-gohan-best-dad-not-goku/",
-      "thumbnail": "/drops/thumbs/cf7b497b2103.jpg",
+      "source_url": "https://screenrant.com/demon-slayer-sanemi-most-controversial-hashira-explained/",
+      "thumbnail": "/drops/thumbs/17c4bd69062e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,24 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "3c801d25b9b8",
+      "id": "52c82870588d",
       "pillar": "anime",
-      "title": "Naruto's Next Anime Will Introduce The Franchise's Strongest Susanoo Of All Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-sarada-susanoo/",
-      "thumbnail": "/drops/thumbs/3c801d25b9b8.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4bc22d91d226",
-      "pillar": "anime",
-      "title": "Darkroom Adds Haré+Guu Deluxe Anime",
+      "title": "Daemons of the Shadow Realm Anime Adds 2 Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-16/darkroom-adds-hare-guu-deluxe-anime/.237232",
-      "thumbnail": "/drops/thumbs/4bc22d91d226.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-16/daemons-of-the-shadow-realm-anime-adds-2-cast-members/.237441",
+      "thumbnail": "/drops/thumbs/52c82870588d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "f969b006078f",
+      "id": "4bc22d91d226",
       "pillar": "anime",
-      "title": "Bite Maker AK Manga Ends",
+      "title": "Darkroom Adds Haré+Guu Deluxe Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-16/bite-maker-ak-manga-ends/.237440",
-      "thumbnail": "/drops/thumbs/f969b006078f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-16/darkroom-adds-hare-guu-deluxe-anime/.237232",
+      "thumbnail": "/drops/thumbs/4bc22d91d226.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "339ee20ee947",
+      "pillar": "anime",
+      "title": "Den-noh Coil was right about everything",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/19-years-later-den-noh-coil-remains-the-first-anime-to-normalize-a-networked-world/",
+      "thumbnail": "/drops/thumbs/339ee20ee947.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "60d10f299240",
+    "8e3d9bf34163",
     "43151d13faa3",
     "cf0a1889cdf4",
     "37fc53e0f8e7",

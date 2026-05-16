@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T21:52:54+00:00",
+  "generated_utc": "2026-05-16T22:51:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Doja Cat Plans To Take Three Years Off From Music After Tour",
+      "url": "https://allhiphop.com/news/doja-cat-plans-to-take-three-years-off-from-music-after-tour/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Anderson .Paak Gets Tattoo Demanding No Posthumous Albums Released",
       "url": "https://allhiphop.com/news/anderson-paak-gets-tattoo-demanding-no-posthumous-albums-released/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Anthropic releases chart. It details how your industry—and every other—will be taken over by AI: ‘Capability and observed usage’",
-      "url": "https://allhiphop.com/newsbreak/anthropic-ai-labor-market-chart/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "2026's Best Attack on Titan Replacement Anime Is Officially Here",
       "url": "https://screenrant.com/attack-on-titan-replacement-anime-nippon-sangoku-2026/",
       "pillar": "anime",
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "Gohan Is a Better Father Than Goku Ever Was And Dragon Ball's Best Movie Proves It",
-      "url": "https://screenrant.com/dragon-ball-super-gohan-best-dad-not-goku/",
+      "title": "Demon Slayer: Infinity Castle Part 2 Is Finally Going To Give The Most Controversial Hashira His Time To Shine",
+      "url": "https://screenrant.com/demon-slayer-sanemi-most-controversial-hashira-explained/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,15 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Naruto's Next Anime Will Introduce The Franchise's Strongest Susanoo Of All Time",
-      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-sarada-susanoo/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Darkroom Adds Haré+Guu Deluxe Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-16/darkroom-adds-hare-guu-deluxe-anime/.237232",
+      "title": "Daemons of the Shadow Realm Anime Adds 2 Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-16/daemons-of-the-shadow-realm-anime-adds-2-cast-members/.237441",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Bite Maker AK Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-16/bite-maker-ak-manga-ends/.237440",
+      "title": "Darkroom Adds Haré+Guu Deluxe Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-16/darkroom-adds-hare-guu-deluxe-anime/.237232",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Den-noh Coil was right about everything",
+      "url": "https://www.polygon.com/19-years-later-den-noh-coil-remains-the-first-anime-to-normalize-a-networked-world/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
