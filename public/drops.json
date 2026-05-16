@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T15:43:43+00:00",
+  "generated_utc": "2026-05-16T15:44:41+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "6a0faf8b7b0b",
+      "pillar": "hiphop",
+      "title": "Today in Hip-Hop History: Ice Cube Dropped His First Solo LP ‘Amerikkka’s Most Wanted’ 36 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/16/today-in-hip-hop-history-ice-cube-dropped-his-first-solo-lp-amerikkkas-most-wanted-36-years-ago/",
+      "thumbnail": "/drops/thumbs/6a0faf8b7b0b.jpg",
+      "published": "2026-05-16T11:40:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a1a30493a4af",
       "pillar": "hiphop",
       "title": "SZA Adds “CoComelon”  Movie To Growing Acting Resume",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/newsbreak/florida-hooters-girl-returns-after-bankruptcy/",
       "thumbnail": "/drops/thumbs/0954664e38ee.jpg",
       "published": "2026-05-16T06:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "df2d5172a20a",
-      "pillar": "hiphop",
-      "title": "Kodak Black Faces New Arrest as Separate Drug Case Moves Forward in Florida",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/16/kodak-black-faces-new-arrest-as-separate-drug-case-moves-forward-in-florida/",
-      "thumbnail": "/drops/thumbs/df2d5172a20a.jpg",
-      "published": "2026-05-16T05:51:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "a1a30493a4af",
+    "6a0faf8b7b0b",
     "43151d13faa3",
     "cf7b497b2103",
     "37fc53e0f8e7",
