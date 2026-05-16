@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T12:43:37+00:00",
+  "generated_utc": "2026-05-16T13:34:07+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d027a976131a",
+      "pillar": "hiphop",
+      "title": "Driver goes to Pennsylvania truck stop. Then he sees what the shower costs—and something else: ‘Gonna scar me for the rest of my life’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/pennsylvania-ta-truck-stop-man-showering/",
+      "thumbnail": "/drops/thumbs/d027a976131a.jpg",
+      "published": "2026-05-16T09:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "357842f0523e",
       "pillar": "hiphop",
       "title": "Wale Explores Nigerian Roots in New Music Video for YSF",
@@ -147,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "0954664e38ee",
+      "pillar": "hiphop",
+      "title": "Florida woman goes to H######. Then she says it’s because they went bankrupt: ‘Twin Peaks or nah’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/florida-hooters-girl-returns-after-bankruptcy/",
+      "thumbnail": "/drops/thumbs/0954664e38ee.jpg",
+      "published": "2026-05-16T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "df2d5172a20a",
       "pillar": "hiphop",
       "title": "Kodak Black Faces New Arrest as Separate Drug Case Moves Forward in Florida",
@@ -171,25 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "b81704622dbc",
-      "pillar": "hiphop",
-      "title": "Nick Cannon to Showcase Fatherhood Journey in New Netflix Series",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/16/nick-cannon-netflix-docuseries-father-of-12/",
-      "thumbnail": "/drops/thumbs/b81704622dbc.jpg",
-      "published": "2026-05-16T02:25:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0a4ed71f80d8",
-      "pillar": "hiphop",
-      "title": "Fanatics Fest NYC to Host Highly Anticipated WWE SummerSlam Kickoff",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/16/fanatics-fest-nyc-wwe-summerslam-kickoff-announcement/",
-      "thumbnail": "/drops/thumbs/0a4ed71f80d8.jpg",
-      "published": "2026-05-16T00:29:00",
+      "id": "cf7b497b2103",
+      "pillar": "anime",
+      "title": "Gohan Is a Better Father Than Goku Ever Was And Dragon Ball's Best Movie Proves It",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-gohan-best-dad-not-goku/",
+      "thumbnail": "/drops/thumbs/cf7b497b2103.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -279,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "44661fa29066",
-      "pillar": "anime",
-      "title": "I was not prepared for Daemons of the Shadow Realm's M. Night Shyamalan twist",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/daemons-of-the-shadow-realm-steals-m-night-shyamalans-best-twist/",
-      "thumbnail": "/drops/thumbs/44661fa29066.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c82c86bb7001",
       "pillar": "gaming",
       "title": "Rumor: GTA 6’s 3rd Trailer Will Come Out Before Pre-Orders Begin, With 6 Editions Available",
@@ -351,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "26908151787a",
+      "id": "e8f9b405c4d7",
       "pillar": "gaming",
-      "title": "Talking Point What Are You Playing This Weekend? - Issue 633",
+      "title": "Guide These 24+ New PS5 and PS Plus Games Are Coming Out Next Week (18th-24th May)",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-633",
-      "thumbnail": "/drops/thumbs/26908151787a.jpg",
+      "source_url": "https://www.pushsquare.com/guides/these-24plus-new-ps5-and-ps-plus-games-are-coming-out-next-week-18th-24th-may",
+      "thumbnail": "/drops/thumbs/e8f9b405c4d7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "357842f0523e",
+    "d027a976131a",
     "43151d13faa3",
-    "0cae244e3fc5",
+    "cf7b497b2103",
     "26df7af50eda",
     "c82c86bb7001"
   ]
