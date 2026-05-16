@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T16:47:30+00:00",
+  "generated_utc": "2026-05-16T17:36:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Latto Announces Retirement From Music At 28 With Final Album “Big Mama”",
+      "url": "https://allhiphop.com/news/latto-announces-retirement-from-music-at-28-with-final-album-big-mama/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Trina Protects Her Man After Onstage Altercation Goes Viral",
       "url": "https://allhiphop.com/news/trina-protects-her-man-after-onstage-altercation-goes-viral/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Wale Explores Nigerian Roots in New Music Video for YSF",
       "url": "https://thesource.com/2026/05/16/wale-ysf-music-video-teni-seyi-vibez-lagos/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Conan O’Brien Returns to Host the 99th Oscars in 2027",
-      "url": "https://thesource.com/2026/05/16/conan-obrien-returns-host-99th-oscars-2027/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News New inFAMOUS PS5 Project Rumours Give Fans Fresh Hope",
-      "url": "https://www.pushsquare.com/news/2026/05/new-infamous-ps5-project-rumours-give-fans-fresh-hope",
+      "title": "News You'll No Longer Need a Pricey Headset to Play Two of PSVR2's Best Games",
+      "url": "https://www.pushsquare.com/news/2026/05/youll-no-longer-need-a-pricey-headset-to-play-two-of-psvr2s-best-games",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS5's New Weekly Player Tracker Has Revealed Some Brutal Truths for Fans",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5s-new-weekly-player-tracker-has-revealed-some-brutal-truths-for-fans",
+      "title": "News New inFAMOUS PS5 Project Rumours Give Fans Fresh Hope",
+      "url": "https://www.pushsquare.com/news/2026/05/new-infamous-ps5-project-rumours-give-fans-fresh-hope",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
