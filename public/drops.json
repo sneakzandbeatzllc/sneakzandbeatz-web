@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-15T23:35:49+00:00",
+  "generated_utc": "2026-05-16T00:04:59+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -15,13 +15,13 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "7de612490f99",
+      "id": "43151d13faa3",
       "pillar": "sneakers",
-      "title": "Air Jordan 8 “BIN 23” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-8-bin-23/",
-      "thumbnail": "/drops/thumbs/7de612490f99.jpg",
-      "published": "2026-05-12T12:42:12",
+      "title": "RUMORED: Air Jordan 8 PRM “BIN 23” Set for Summer 2026 Release",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "2026-05-12T11:21:07",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -97,6 +97,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "5174d2b5a4e3",
+      "pillar": "hiphop",
+      "title": "Young Dolph Murder: Final Shooter Thrown In Prison For 20 Years",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/young-dolph-murder-final-shooter-thrown-in-prison-for-20-years/",
+      "thumbnail": "/drops/thumbs/5174d2b5a4e3.jpg",
+      "published": "2026-05-15T20:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     },
     {
       "id": "51ee11856ef1",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "2d88540d558c",
-      "pillar": "hiphop",
-      "title": "Today In Hip Hop History: Killer Mike Dropped His Fifth LP ‘R.A.P. Music’ 14 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/15/today-in-hip-hop-history-killer-mike-dropped-his-fifth-lp-r-a-p-music-14-years-ago/",
-      "thumbnail": "/drops/thumbs/2d88540d558c.jpg",
-      "published": "2026-05-15T11:54:44",
+      "id": "aa6d1a92882e",
+      "pillar": "anime",
+      "title": "Every Dragon Ball Arc Ranked from Worst to Best",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/every-dragon-ball-arc-ranked-worst-to-best/",
+      "thumbnail": "/drops/thumbs/aa6d1a92882e.png",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -225,18 +237,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-biggest-retcon-luffy-devil-fruit-nika-gear-5-powers-rubber/",
       "thumbnail": "/drops/thumbs/f353ae522785.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0e7494fa7de9",
-      "pillar": "anime",
-      "title": "One Piece Episode #1162 Release Date And Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-episode-1162-release-date-time/",
-      "thumbnail": "/drops/thumbs/0e7494fa7de9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "51ee11856ef1",
-    "7de612490f99",
-    "de94cf680d9c",
+    "5174d2b5a4e3",
+    "43151d13faa3",
+    "aa6d1a92882e",
     "e8acd9c337af",
     "c82c86bb7001"
   ]
