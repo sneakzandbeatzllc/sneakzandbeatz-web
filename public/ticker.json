@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T17:48:23+00:00",
+  "generated_utc": "2026-05-16T18:36:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Kodak Black Walks Out Of Broward Jail After Posting Bond On New Charges",
+      "url": "https://allhiphop.com/news/kodak-black-walks-out-of-broward-jail-after-posting-bond-on-new-charges/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Latto Announces Retirement From Music At 28 With Final Album “Big Mama”",
       "url": "https://allhiphop.com/news/latto-announces-retirement-from-music-at-28-with-final-album-big-mama/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Wale Explores Nigerian Roots in New Music Video for YSF",
-      "url": "https://thesource.com/2026/05/16/wale-ysf-music-video-teni-seyi-vibez-lagos/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Akira Toriyama's Biggest Dragon Ball Collaborator Hates Your Favorite Manga, And He Might Be Right",
       "url": "https://screenrant.com/dragon-ball-torishima-hates-modern-manga/",
       "pillar": "anime",
@@ -151,22 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "Bite Maker AK Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-16/bite-maker-ak-manga-ends/.237440",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sentenced to Be a Hero isn’t the only fantasy series rethinking revolution this year",
+      "url": "https://www.polygon.com/sentenced-to-be-a-hero-release-that-witch-anime/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "'Babies of Bread' Anime Short Gets TV Series",
       "url": "https://www.animenewsnetwork.com/news/2026-05-16/babies-of-bread-anime-short-gets-tv-series/.237439",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Den-noh Coil was right about everything",
-      "url": "https://www.polygon.com/19-years-later-den-noh-coil-remains-the-first-anime-to-normalize-a-networked-world/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Ogre's Bride Anime's Trailer Unveils More Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-16/the-ogre-bride-anime-trailer-unveils-more-cast/.237436",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,13 +179,6 @@
       "article_slug": null
     },
     {
-      "title": "Overwatch Fans Are Convinced Fortnite ‘Un-Nerfed’ Tracer’s Butt",
-      "url": "https://kotaku.com/overwatch-fortnite-tracer-butt-dva-models-skins-2000696542",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Overwatch Is Officially Answering The Call In Fortnite",
       "url": "https://gameranx.com/updates/id/562691/article/overwatch-is-officially-answering-the-call-in-fortnite/",
       "pillar": "gaming",
@@ -193,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "News You'll No Longer Need a Pricey Headset to Play Two of PSVR2's Best Games",
-      "url": "https://www.pushsquare.com/news/2026/05/youll-no-longer-need-a-pricey-headset-to-play-two-of-psvr2s-best-games",
+      "title": "Poll Are You Happy with Your PS Plus Extra, Premium Games for May 2026?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-may-2026",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "News New inFAMOUS PS5 Project Rumours Give Fans Fresh Hope",
-      "url": "https://www.pushsquare.com/news/2026/05/new-infamous-ps5-project-rumours-give-fans-fresh-hope",
+      "title": "Stores At A Loss For Words After Being Sent Sealed Copies Of Rare PS4 Game Poop Slinger",
+      "url": "https://kotaku.com/stores-at-a-loss-for-words-after-being-sent-sealed-copies-of-rare-ps4-game-poop-slinger-2000696767",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News You'll No Longer Need a Pricey Headset to Play Two of PSVR2's Best Games",
+      "url": "https://www.pushsquare.com/news/2026/05/youll-no-longer-need-a-pricey-headset-to-play-two-of-psvr2s-best-games",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Diablo 4 Bug Fix Accidentally Makes Players Basically Immortal Instead: ‘Yep This Broke The Game”",
-      "url": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580",
+      "title": "Prolific Repacker Of Pirated Games Announces They’re Stepping Back To Focus On Law Degree",
+      "url": "https://kotaku.com/prolific-repacker-of-pirated-games-announces-theyre-stepping-back-to-focus-on-law-degree-2000696765",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
