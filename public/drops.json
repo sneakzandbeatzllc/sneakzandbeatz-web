@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T02:39:16+00:00",
+  "generated_utc": "2026-05-16T03:37:00+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -195,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "aa6d1a92882e",
+      "id": "0cae244e3fc5",
       "pillar": "anime",
-      "title": "Every Dragon Ball Arc Ranked from Worst to Best",
+      "title": "Goku's 10 Greatest Kamehamehas in Dragon Ball History",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/every-dragon-ball-arc-ranked-worst-to-best/",
-      "thumbnail": "/drops/thumbs/aa6d1a92882e.png",
+      "source_url": "https://screenrant.com/dragon-ball-goku-greatest-kamehameha-ever/",
+      "thumbnail": "/drops/thumbs/0cae244e3fc5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "de94cf680d9c",
+      "id": "aa6d1a92882e",
       "pillar": "anime",
-      "title": "Jujutsu Kaisen and Demon Slayer Are Officially The Worst Modern Manga According To Dragon Ball Legend",
+      "title": "Every Dragon Ball Arc Ranked from Worst to Best",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-torishima-jujutsu-kaisen-demon-slayer-worst-manga/",
-      "thumbnail": "/drops/thumbs/de94cf680d9c.png",
+      "source_url": "https://screenrant.com/every-dragon-ball-arc-ranked-worst-to-best/",
+      "thumbnail": "/drops/thumbs/aa6d1a92882e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "5d4bbf488e7f",
     "b1c77e794895",
     "43151d13faa3",
-    "aa6d1a92882e",
+    "0cae244e3fc5",
     "37fc53e0f8e7",
     "c82c86bb7001"
   ]
