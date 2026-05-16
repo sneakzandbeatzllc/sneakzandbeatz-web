@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T01:38:19+00:00",
+  "generated_utc": "2026-05-16T02:39:16+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "b1c77e794895",
+      "pillar": "hiphop",
+      "title": "John Travolta Roasted For Accidentally Becoming Jack Harlow On Red Carpet",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/john-travolta-roasted-for-accidentally-becoming-jack-harlow-on-red-carpet/",
+      "thumbnail": "/drops/thumbs/b1c77e794895.jpg",
+      "published": "2026-05-15T22:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "89673fcb2a45",
+      "pillar": "hiphop",
+      "title": "Menace II Society Actor Samuel Monroe Jr. Reportedly Back On Life Support",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/menace-ii-society-actor-samuel-monroe-jr-reportedly-back-on-life-support/",
+      "thumbnail": "/drops/thumbs/89673fcb2a45.jpg",
+      "published": "2026-05-15T22:16:59",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b7dd5302a2fe",
       "pillar": "hiphop",
       "title": "Kanye West Shut Down In India Amid Ongoing Tour Cancellations",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/kim-kardashian-drops-500k-to-free-death-row-inmate-richard-glossip/",
       "thumbnail": "/drops/thumbs/5427428da6d5.png",
       "published": "2026-05-15T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9392ea58e420",
-      "pillar": "hiphop",
-      "title": "‘Is God Is’ Review: A Stylish Revenge Thriller With Rage And Resplendence",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/15/is-god-is-review-a-stylish-revenge-thriller-with-rage-and-resplendence/",
-      "thumbnail": "/drops/thumbs/9392ea58e420.jpg",
-      "published": "2026-05-15T12:44:49",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d2a53515a28a",
-      "pillar": "hiphop",
-      "title": "Rick Ross Talks Wingstop Franchises, Adversaries And Dreams Of Buying Part Of The Miami Dolphins",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/15/rick-ross-talks-wingstop-franchises-adversaries-and-dreams-of-buying-part-of-the-miami-dolphins/",
-      "thumbnail": "/drops/thumbs/d2a53515a28a.jpg",
-      "published": "2026-05-15T12:24:18",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "b7dd5302a2fe",
+    "b1c77e794895",
     "43151d13faa3",
     "aa6d1a92882e",
     "37fc53e0f8e7",
