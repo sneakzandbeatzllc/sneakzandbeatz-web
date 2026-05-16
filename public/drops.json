@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T20:51:53+00:00",
+  "generated_utc": "2026-05-16T21:50:58+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "60d10f299240",
+      "pillar": "hiphop",
+      "title": "Anderson .Paak Gets Tattoo Demanding No Posthumous Albums Released",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/anderson-paak-gets-tattoo-demanding-no-posthumous-albums-released/",
+      "thumbnail": "/drops/thumbs/60d10f299240.jpg",
+      "published": "2026-05-16T17:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "feab910537a6",
       "pillar": "hiphop",
       "title": "Twista Rocks Chicago’s City Winery, Launches Tour",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "0535aadeb905",
-      "pillar": "hiphop",
-      "title": "Today In Hip Hop History: Special Ed Released His Debut Album ‘Youngest In Charge’ 37 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/16/today-in-hip-hop-history-special-ed-released-his-debut-album-youngest-in-charge-37-years-ago/",
-      "thumbnail": "/drops/thumbs/0535aadeb905.jpg",
-      "published": "2026-05-16T11:47:37",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cf0a1889cdf4",
       "pillar": "anime",
       "title": "2026's Best Attack on Titan Replacement Anime Is Officially Here",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "f969b006078f",
+      "id": "4bc22d91d226",
       "pillar": "anime",
-      "title": "Bite Maker AK Manga Ends",
+      "title": "Darkroom Adds Haré+Guu Deluxe Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-16/bite-maker-ak-manga-ends/.237440",
-      "thumbnail": "/drops/thumbs/f969b006078f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-16/darkroom-adds-hare-guu-deluxe-anime/.237232",
+      "thumbnail": "/drops/thumbs/4bc22d91d226.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "cdea286abaef",
+      "id": "f969b006078f",
       "pillar": "anime",
-      "title": "'Babies of Bread' Anime Short Gets TV Series",
+      "title": "Bite Maker AK Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-16/babies-of-bread-anime-short-gets-tv-series/.237439",
-      "thumbnail": "/drops/thumbs/cdea286abaef.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-16/bite-maker-ak-manga-ends/.237440",
+      "thumbnail": "/drops/thumbs/f969b006078f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "feab910537a6",
+    "60d10f299240",
     "43151d13faa3",
     "cf0a1889cdf4",
     "37fc53e0f8e7",
