@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T18:49:17+00:00",
+  "generated_utc": "2026-05-16T19:38:54+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "9486e7226db8",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Diddy Ready To Fight Freak-Off Worker; Demands Trial Over Trafficking Claims",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/exclusive-diddy-ready-to-fight-freak-off-worker-demands-trial/",
+      "thumbnail": "/drops/thumbs/9486e7226db8.jpg",
+      "published": "2026-05-16T15:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "599618bd646a",
       "pillar": "hiphop",
       "title": "Kodak Black Walks Out Of Broward Jail After Posting Bond On New Charges",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/sza-adds-cocomelon-movie-to-growing-acting-resume/",
       "thumbnail": "/drops/thumbs/a1a30493a4af.png",
       "published": "2026-05-16T10:02:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d027a976131a",
-      "pillar": "hiphop",
-      "title": "Driver goes to Pennsylvania truck stop. Then he sees what the shower costs—and something else: ‘Gonna scar me for the rest of my life’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/pennsylvania-ta-truck-stop-man-showering/",
-      "thumbnail": "/drops/thumbs/d027a976131a.jpg",
-      "published": "2026-05-16T09:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "6eb9d75c6844",
+      "id": "43dab716bd29",
       "pillar": "gaming",
-      "title": "Poll Are You Happy with Your PS Plus Extra, Premium Games for May 2026?",
+      "title": "Feature Going Platinum: I Legit Forgot This Tiny, Unique PS4 Game Exists",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-may-2026",
-      "thumbnail": "/drops/thumbs/6eb9d75c6844.jpg",
+      "source_url": "https://www.pushsquare.com/features/going-platinum-i-legit-forgot-this-tiny-unique-ps4-game-exists",
+      "thumbnail": "/drops/thumbs/43dab716bd29.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "bc8a1d966b01",
+      "id": "6eb9d75c6844",
       "pillar": "gaming",
-      "title": "News You'll No Longer Need a Pricey Headset to Play Two of PSVR2's Best Games",
+      "title": "Poll Are You Happy with Your PS Plus Extra, Premium Games for May 2026?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/youll-no-longer-need-a-pricey-headset-to-play-two-of-psvr2s-best-games",
-      "thumbnail": "/drops/thumbs/bc8a1d966b01.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-may-2026",
+      "thumbnail": "/drops/thumbs/6eb9d75c6844.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "599618bd646a",
+    "9486e7226db8",
     "43151d13faa3",
     "f9755aae74e6",
     "37fc53e0f8e7",
