@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T13:44:42+00:00",
+  "generated_utc": "2026-05-16T14:12:22+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -27,13 +27,13 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "26df7af50eda",
+      "id": "37fc53e0f8e7",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “World’s Best Dad” Releases Today",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-worlds-best-dad-if4396-103-drop/",
-      "thumbnail": "/drops/thumbs/26df7af50eda.jpg",
-      "published": "2026-05-15T07:08:51",
+      "title": "The Air Jordan 3 “World’s Best Dad” Releases Tomorrow",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-worlds-best-dad-if4396-103/",
+      "thumbnail": "/drops/thumbs/37fc53e0f8e7.jpg",
+      "published": "2026-05-15T04:32:00",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
@@ -96,6 +96,18 @@
       "published": "2026-05-15T06:04:00",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a1a30493a4af",
+      "pillar": "hiphop",
+      "title": "SZA Adds “CoComelon”  Movie To Growing Acting Resume",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/sza-adds-cocomelon-movie-to-growing-acting-resume/",
+      "thumbnail": "/drops/thumbs/a1a30493a4af.png",
+      "published": "2026-05-16T10:02:00",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "4903e0696bcf",
-      "pillar": "hiphop",
-      "title": "Michael Jackson’s ‘Thriller’ Returns to No. 1 After 40 Years",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/16/michael-jackson-thriller-returns-to-number-one-billboard/",
-      "thumbnail": "/drops/thumbs/4903e0696bcf.jpg",
-      "published": "2026-05-16T05:16:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cf7b497b2103",
       "pillar": "anime",
       "title": "Gohan Is a Better Father Than Goku Ever Was And Dragon Ball's Best Movie Proves It",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "3c801d25b9b8",
+      "id": "934333afe26d",
       "pillar": "anime",
-      "title": "Naruto's Next Anime Will Introduce The Franchise's Strongest Susanoo Of All Time",
+      "title": "\"Something We Can Proudly Present\": The One Piece Director Hypes Remake After Major Update",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-sarada-susanoo/",
-      "thumbnail": "/drops/thumbs/3c801d25b9b8.png",
+      "source_url": "https://screenrant.com/netflix-one-piece-remake-director-quality/",
+      "thumbnail": "/drops/thumbs/934333afe26d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "f353ae522785",
+      "id": "3c801d25b9b8",
       "pillar": "anime",
-      "title": "One Piece's Biggest Retcon Confirms How Fans Completely Misunderstood Luffy's Rubber Powers",
+      "title": "Naruto's Next Anime Will Introduce The Franchise's Strongest Susanoo Of All Time",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-biggest-retcon-luffy-devil-fruit-nika-gear-5-powers-rubber/",
-      "thumbnail": "/drops/thumbs/f353ae522785.jpg",
+      "source_url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-sarada-susanoo/",
+      "thumbnail": "/drops/thumbs/3c801d25b9b8.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -303,18 +303,6 @@
       "release_badge": ""
     },
     {
-      "id": "af2726c947c4",
-      "pillar": "gaming",
-      "title": "News One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/one-year-later-doom-the-dark-ages-dlc-is-nowhere-to-be-seen",
-      "thumbnail": "/drops/thumbs/af2726c947c4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "32578bad58a0",
       "pillar": "gaming",
       "title": "Overwatch Fans Are Convinced Fortnite ‘Un-Nerfed’ Tracer’s Butt",
@@ -333,6 +321,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562691/article/overwatch-is-officially-answering-the-call-in-fortnite/",
       "thumbnail": "/drops/thumbs/20e4abeaa097.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c27b05e20b1b",
+      "pillar": "gaming",
+      "title": "News PS5's New Weekly Player Tracker Has Revealed Some Brutal Truths for Fans",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/ps5s-new-weekly-player-tracker-has-revealed-some-brutal-truths-for-fans",
+      "thumbnail": "/drops/thumbs/c27b05e20b1b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "d027a976131a",
+    "a1a30493a4af",
     "43151d13faa3",
     "cf7b497b2103",
-    "26df7af50eda",
+    "37fc53e0f8e7",
     "c82c86bb7001"
   ]
 }

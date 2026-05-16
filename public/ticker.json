@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T13:44:42+00:00",
+  "generated_utc": "2026-05-16T14:12:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -18,8 +18,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “World’s Best Dad” Releases Today",
-      "url": "https://www.nicekicks.com/air-jordan-3-worlds-best-dad-if4396-103-drop/",
+      "title": "The Air Jordan 3 “World’s Best Dad” Releases Tomorrow",
+      "url": "https://justfreshkicks.com/air-jordan-3-worlds-best-dad-if4396-103/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -57,6 +57,13 @@
       "url": "https://justfreshkicks.com/air-jordan-3-brazil-iv4871-400/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "SZA Adds “CoComelon”  Movie To Growing Acting Resume",
+      "url": "https://allhiphop.com/news/sza-adds-cocomelon-movie-to-growing-acting-resume/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Michael Jackson’s ‘Thriller’ Returns to No. 1 After 40 Years",
-      "url": "https://thesource.com/2026/05/16/michael-jackson-thriller-returns-to-number-one-billboard/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Gohan Is a Better Father Than Goku Ever Was And Dragon Ball's Best Movie Proves It",
       "url": "https://screenrant.com/dragon-ball-super-gohan-best-dad-not-goku/",
       "pillar": "anime",
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Naruto's Next Anime Will Introduce The Franchise's Strongest Susanoo Of All Time",
-      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-sarada-susanoo/",
+      "title": "\"Something We Can Proudly Present\": The One Piece Director Hypes Remake After Major Update",
+      "url": "https://screenrant.com/netflix-one-piece-remake-director-quality/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "One Piece's Biggest Retcon Confirms How Fans Completely Misunderstood Luffy's Rubber Powers",
-      "url": "https://screenrant.com/one-piece-biggest-retcon-luffy-devil-fruit-nika-gear-5-powers-rubber/",
+      "title": "Naruto's Next Anime Will Introduce The Franchise's Strongest Susanoo Of All Time",
+      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-sarada-susanoo/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,13 +179,6 @@
       "article_slug": null
     },
     {
-      "title": "News One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen",
-      "url": "https://www.pushsquare.com/news/2026/05/one-year-later-doom-the-dark-ages-dlc-is-nowhere-to-be-seen",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Overwatch Fans Are Convinced Fortnite ‘Un-Nerfed’ Tracer’s Butt",
       "url": "https://kotaku.com/overwatch-fortnite-tracer-butt-dva-models-skins-2000696542",
       "pillar": "gaming",
@@ -195,6 +188,13 @@
     {
       "title": "Overwatch Is Officially Answering The Call In Fortnite",
       "url": "https://gameranx.com/updates/id/562691/article/overwatch-is-officially-answering-the-call-in-fortnite/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News PS5's New Weekly Player Tracker Has Revealed Some Brutal Truths for Fans",
+      "url": "https://www.pushsquare.com/news/2026/05/ps5s-new-weekly-player-tracker-has-revealed-some-brutal-truths-for-fans",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
