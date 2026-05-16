@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T09:33:05+00:00",
+  "generated_utc": "2026-05-16T10:41:05+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "0954664e38ee",
+      "pillar": "hiphop",
+      "title": "Florida woman goes to H######. Then she says it’s because they went bankrupt: ‘Twin Peaks or nah’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/florida-hooters-girl-returns-after-bankruptcy/",
+      "thumbnail": "/drops/thumbs/0954664e38ee.jpg",
+      "published": "2026-05-16T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b81704622dbc",
       "pillar": "hiphop",
       "title": "Nick Cannon to Showcase Fatherhood Journey in New Netflix Series",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "ab1bf1124b72",
-      "pillar": "hiphop",
-      "title": "Dr. Cheyenne Bryant’s Past Included Video Vixen According To Her Haters",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/dr-cheyenne-bryants-past-included-video-vixen-according-to-her-haters/",
-      "thumbnail": "/drops/thumbs/ab1bf1124b72.jpg",
-      "published": "2026-05-15T16:49:48",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0cae244e3fc5",
       "pillar": "anime",
       "title": "Goku's 10 Greatest Kamehamehas in Dragon Ball History",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "44661fa29066",
+      "id": "339ee20ee947",
       "pillar": "anime",
-      "title": "I was not prepared for Daemons of the Shadow Realm's M. Night Shyamalan twist",
+      "title": "Den-noh Coil was right about everything",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/daemons-of-the-shadow-realm-steals-m-night-shyamalans-best-twist/",
-      "thumbnail": "/drops/thumbs/44661fa29066.jpg",
+      "source_url": "https://www.polygon.com/19-years-later-den-noh-coil-remains-the-first-anime-to-normalize-a-networked-world/",
+      "thumbnail": "/drops/thumbs/339ee20ee947.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "34b5ce58234a",
+      "id": "44661fa29066",
       "pillar": "anime",
-      "title": "Gundam now has an official holiday, and more anime are on the way",
+      "title": "I was not prepared for Daemons of the Shadow Realm's M. Night Shyamalan twist",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/gundam-day-official-holiday-seed-freedom-zero-new-anime/",
-      "thumbnail": "/drops/thumbs/34b5ce58234a.jpg",
+      "source_url": "https://www.polygon.com/daemons-of-the-shadow-realm-steals-m-night-shyamalans-best-twist/",
+      "thumbnail": "/drops/thumbs/44661fa29066.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "b81704622dbc",
+    "0954664e38ee",
     "43151d13faa3",
     "0cae244e3fc5",
     "37fc53e0f8e7",
