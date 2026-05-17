@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T19:46:00+00:00",
+  "generated_utc": "2026-05-17T20:06:39+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "a01bd4dc4a15",
+      "pillar": "hiphop",
+      "title": "50 Cent’s Shreveport Expansion Delayed by Major Infrastructure Issues",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/50-cents-shreveport-expansion-delayed-by-major-infrastructure-issues/",
+      "thumbnail": "/drops/thumbs/a01bd4dc4a15.jpg",
+      "published": "2026-05-17T16:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "40485fd98743",
+      "pillar": "hiphop",
+      "title": "Akon Renews Calls for Diaspora Return to Drive Africa’s Future",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/17/akon-renews-calls-for-diaspora-return-to-drive-africas-future/",
+      "thumbnail": "/drops/thumbs/40485fd98743.jpg",
+      "published": "2026-05-17T15:53:02",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "215ebad30a26",
       "pillar": "hiphop",
       "title": "50 Cent’s G-Unit Reebok Sneakers Are Making Their Official Return This Summer",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "ec0f05bde3d7",
-      "pillar": "hiphop",
-      "title": "2K Foundations Unveils Refurbished Basketball Court in San Francisco",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/17/2k-foundations-boys-and-girls-club-san-francisco-court/",
-      "thumbnail": "/drops/thumbs/ec0f05bde3d7.jpg",
-      "published": "2026-05-17T06:38:26",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f3fcd1ca22d9",
-      "pillar": "hiphop",
-      "title": "Netflix Sets Fall Premiere for ‘A Different World’ Sequel",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/17/a-different-world-sequel-netflix-fall-premiere/",
-      "thumbnail": "/drops/thumbs/f3fcd1ca22d9.jpg",
-      "published": "2026-05-17T06:25:46",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d85ff464e6db",
       "pillar": "anime",
       "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "f23569725308",
-      "pillar": "anime",
-      "title": "Hunter x Hunter Filler List: Every Episode Fans Can Skip",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/hunter-x-hunter-filler-list-every-episode-skip/",
-      "thumbnail": "/drops/thumbs/f23569725308.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "fb9f459213d3",
       "pillar": "anime",
       "title": "Anime Expo to Screen 'Macross: Do You Remember Love?' Film; to Host Voice Actors Masakazu Morita, Machico",
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-17/a-sign-of-affection-manga-exceeds-7.8-million-copies-in-circulation-worldwide/.237453",
       "thumbnail": "/drops/thumbs/4859de9ab148.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "31d54ee0fe5c",
+      "pillar": "anime",
+      "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
+      "thumbnail": "/drops/thumbs/31d54ee0fe5c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "215ebad30a26",
+    "a01bd4dc4a15",
     "43151d13faa3",
     "d85ff464e6db",
     "37fc53e0f8e7",
