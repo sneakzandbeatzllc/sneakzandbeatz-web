@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T11:42:30+00:00",
+  "generated_utc": "2026-05-17T12:59:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "To understand My Hero Academia you really have to watch its perfect spinoff",
+      "url": "https://www.polygon.com/my-hero-academia-vigilantes-mha-perfect-spinoff/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Boruto can never be the next Naruto, and that's OK",
       "url": "https://www.polygon.com/boruto-naruto-sequel-10-year-anniversary-flawed-legacy/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table 44: Cloudy Beach Anime Film Reveals New Visual, Trailer",
       "url": "https://www.animenewsnetwork.com/news/2026-05-17/shiboyugi-playing-death-games-to-put-food-on-the-table-44-cloudy-beach-anime-film-reveals-new-/.237451",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Sentenced to Be a Hero isn’t the only fantasy series rethinking revolution this year",
-      "url": "https://www.polygon.com/sentenced-to-be-a-hero-release-that-witch-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
