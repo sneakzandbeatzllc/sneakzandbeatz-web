@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T02:57:09+00:00",
+  "generated_utc": "2026-05-17T03:55:10+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "cf0a1889cdf4",
-      "pillar": "anime",
-      "title": "2026's Best Attack on Titan Replacement Anime Is Officially Here",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/attack-on-titan-replacement-anime-nippon-sangoku-2026/",
-      "thumbnail": "/drops/thumbs/cf0a1889cdf4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "254a561ec862",
       "pillar": "anime",
       "title": "Shangri-La Frontier Is Still The Best Anime To Watch After Solo Leveling",
@@ -225,6 +213,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/demon-slayer-sanemi-most-controversial-hashira-explained/",
       "thumbnail": "/drops/thumbs/17c4bd69062e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f7c823e88274",
+      "pillar": "anime",
+      "title": "Black Clover Filler List: Every Episode You Can Skip",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/every-black-clover-filler-episode/",
+      "thumbnail": "/drops/thumbs/f7c823e88274.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "5d4bbf488e7f",
     "ef3961c155e3",
     "43151d13faa3",
-    "cf0a1889cdf4",
+    "254a561ec862",
     "37fc53e0f8e7",
     "c82c86bb7001"
   ]

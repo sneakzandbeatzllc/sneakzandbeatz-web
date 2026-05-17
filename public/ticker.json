@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T02:57:09+00:00",
+  "generated_utc": "2026-05-17T03:55:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "2026's Best Attack on Titan Replacement Anime Is Officially Here",
-      "url": "https://screenrant.com/attack-on-titan-replacement-anime-nippon-sangoku-2026/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Shangri-La Frontier Is Still The Best Anime To Watch After Solo Leveling",
       "url": "https://screenrant.com/shangri-la-frontier-best-anime-watch-after-solo-leveling/",
       "pillar": "anime",
@@ -132,6 +125,13 @@
     {
       "title": "Demon Slayer: Infinity Castle Part 2 Is Finally Going To Give The Most Controversial Hashira His Time To Shine",
       "url": "https://screenrant.com/demon-slayer-sanemi-most-controversial-hashira-explained/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Black Clover Filler List: Every Episode You Can Skip",
+      "url": "https://screenrant.com/every-black-clover-filler-episode/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
