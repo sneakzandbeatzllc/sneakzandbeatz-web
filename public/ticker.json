@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T18:05:39+00:00",
+  "generated_utc": "2026-05-17T19:05:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "50 Cent’s G-Unit Reebok Sneakers Are Making Their Official Return This Summer",
+      "url": "https://allhiphop.com/news/50-cents-g-unit-reebok-sneakers-are-making-their-official-return-this-summer/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Royal Biographer Doubles Down On Diddy/Sarah Ferguson Affair, Says Mogul Was Eyeing Her Kids Too",
       "url": "https://allhiphop.com/news/royal-biographer-doubles-down-on-diddy-sarah-ferguson-affair-says-mogul-was-eyeing-her-kids-too/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Brett Ratner Joins Presidential Delegation to China for ‘Rush Hour 4’",
-      "url": "https://thesource.com/2026/05/17/brett-ratner-rush-hour-4-china-visit-trump/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
       "url": "https://screenrant.com/dragon-ball-editor-goku-adult-fandom-killed/",
       "pillar": "anime",
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "K2 Pictures Announces Gigant Anime, The Book of Human Insects Musical Film",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-17/k2-pictures-announces-gigant-anime-the-book-of-human-insects-musical-film/.237458",
+      "title": "A Sign of Affection Manga Exceeds 7.8 Million Copies in Circulation Worldwide",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-17/a-sign-of-affection-manga-exceeds-7.8-million-copies-in-circulation-worldwide/.237453",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Kagurabachi Manga Takes 1-Week Break Due to Author's Health",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-17/kagurabachi-manga-takes-1-week-break-due-to-author-health/.237452",
+      "title": "K2 Pictures Announces Gigant Anime, The Book of Human Insects Musical Film",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-17/k2-pictures-announces-gigant-anime-the-book-of-human-insects-musical-film/.237458",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Stores At A Loss For Words After Being Sent Sealed Copies Of Rare PS4 Game Poop Slinger",
-      "url": "https://kotaku.com/stores-at-a-loss-for-words-after-being-sent-sealed-copies-of-rare-ps4-game-poop-slinger-2000696767",
+      "title": "The Internet Reacts To Xbox Trying To Rebrand As XBOX",
+      "url": "https://kotaku.com/the-internet-reacts-to-xbox-trying-to-rebrand-as-xbox-2000696758",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Prolific Repacker Of Pirated Games Announces They’re Stepping Back To Focus On Law Degree",
-      "url": "https://kotaku.com/prolific-repacker-of-pirated-games-announces-theyre-stepping-back-to-focus-on-law-degree-2000696765",
+      "title": "The Entire Nintendo 64 Library Now Has Rollback Netcode",
+      "url": "https://kotaku.com/the-entire-nintendo-64-library-now-has-rollback-netcode-2000696785",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
