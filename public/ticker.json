@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T21:09:00+00:00",
+  "generated_utc": "2026-05-17T22:08:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Lauryn Hill Reveals Yet Again Why Another Album Never Came After “Miseducation”",
+      "url": "https://allhiphop.com/news/lauryn-hill-reveals-yet-again-why-another-album-never-came-after-miseducation/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "50 Cent’s Shreveport Expansion Delayed by Major Infrastructure Issues",
       "url": "https://allhiphop.com/news/50-cents-shreveport-expansion-delayed-by-major-infrastructure-issues/",
       "pillar": "hiphop",
@@ -109,22 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "‘I was overdue for a new bra’: Florida woman goes to Victoria’s Secret. Then she tries the new, viral T-shirt bra",
-      "url": "https://allhiphop.com/newsbreak/florida-victorias-secret-t-shit-bra/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
       "url": "https://screenrant.com/dragon-ball-editor-goku-adult-fandom-killed/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Shangri-La Frontier Is Still The Best Anime To Watch After Solo Leveling",
-      "url": "https://screenrant.com/shangri-la-frontier-best-anime-watch-after-solo-leveling/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
       "url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Anime Expo to Screen 'Macross: Do You Remember Love?' Film; to Host Voice Actors Masakazu Morita, Machico",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-17/anime-expo-to-screen-macross-do-you-remember-love-film-to-host-voice-actors-masakazu-morita-machico/.237444",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
