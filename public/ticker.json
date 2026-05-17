@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T16:03:31+00:00",
+  "generated_utc": "2026-05-17T17:03:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "George Clinton Takes UMG To Court Over Missing Millions",
+      "url": "https://allhiphop.com/news/george-clinton-takes-umg-to-court-over-missing-millions/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Florida woman sits at the bar next to a 50-something man. They strike up a conversation—then the server asks them something wild. It gets worse: ‘I got really creeped out’",
       "url": "https://allhiphop.com/newsbreak/florida-bar-older-man-creep/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Will Smith to Star in Amazon MGM Action Thriller ‘Supermax’",
-      "url": "https://thesource.com/2026/05/17/will-smith-supermax-david-gordon-green-amazon-mgm/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
       "url": "https://screenrant.com/dragon-ball-editor-goku-adult-fandom-killed/",
       "pillar": "anime",
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Kagurabachi Manga Takes 1-Week Break Due to Author's Health",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-17/kagurabachi-manga-takes-1-week-break-due-to-author-health/.237452",
+      "title": "K2 Pictures Announces Gigant Anime, The Book of Human Insects Musical Film",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-17/k2-pictures-announces-gigant-anime-the-book-of-human-insects-musical-film/.237458",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "TrySail Performs From Overshadowed to Overpowered Anime's Ending Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-17/trysail-performs-from-overshadowed-to-overpowered-anime-ending-song/.237456",
+      "title": "Kagurabachi Manga Takes 1-Week Break Due to Author's Health",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-17/kagurabachi-manga-takes-1-week-break-due-to-author-health/.237452",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

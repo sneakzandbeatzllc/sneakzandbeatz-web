@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T16:03:31+00:00",
+  "generated_utc": "2026-05-17T17:03:15+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "032c854c1e6e",
+      "pillar": "hiphop",
+      "title": "George Clinton Takes UMG To Court Over Missing Millions",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/george-clinton-takes-umg-to-court-over-missing-millions/",
+      "thumbnail": "/drops/thumbs/032c854c1e6e.jpg",
+      "published": "2026-05-17T13:01:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "14dcf802eb43",
       "pillar": "hiphop",
       "title": "Florida woman sits at the bar next to a 50-something man. They strike up a conversation—then the server asks them something wild. It gets worse: ‘I got really creeped out’",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "a83f75f42386",
-      "pillar": "hiphop",
-      "title": "Will Smith to Star in Amazon MGM Action Thriller ‘Supermax’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/17/will-smith-supermax-david-gordon-green-amazon-mgm/",
-      "thumbnail": "/drops/thumbs/a83f75f42386.jpg",
-      "published": "2026-05-17T05:54:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d85ff464e6db",
       "pillar": "anime",
       "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "99fe0714bc34",
+      "id": "a6dae44adbe9",
       "pillar": "anime",
-      "title": "Kagurabachi Manga Takes 1-Week Break Due to Author's Health",
+      "title": "K2 Pictures Announces Gigant Anime, The Book of Human Insects Musical Film",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-17/kagurabachi-manga-takes-1-week-break-due-to-author-health/.237452",
-      "thumbnail": "/drops/thumbs/99fe0714bc34.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-17/k2-pictures-announces-gigant-anime-the-book-of-human-insects-musical-film/.237458",
+      "thumbnail": "/drops/thumbs/a6dae44adbe9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d7d4aa74359c",
+      "id": "99fe0714bc34",
       "pillar": "anime",
-      "title": "TrySail Performs From Overshadowed to Overpowered Anime's Ending Song",
+      "title": "Kagurabachi Manga Takes 1-Week Break Due to Author's Health",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-17/trysail-performs-from-overshadowed-to-overpowered-anime-ending-song/.237456",
-      "thumbnail": "/drops/thumbs/d7d4aa74359c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-17/kagurabachi-manga-takes-1-week-break-due-to-author-health/.237452",
+      "thumbnail": "/drops/thumbs/99fe0714bc34.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "14dcf802eb43",
+    "032c854c1e6e",
     "43151d13faa3",
     "d85ff464e6db",
     "37fc53e0f8e7",
