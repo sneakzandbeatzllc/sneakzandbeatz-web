@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T09:57:11+00:00",
+  "generated_utc": "2026-05-17T10:41:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Nashville man looks at steak at Kroger—and opts for the cheapest possible: ‘We’ve all thought this.. he just did it’",
+      "url": "https://allhiphop.com/newsbreak/kroger-chuck-roast-vs-ribeye/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "EXCLUSIVE: Chad Hugo Has One Week To Save His Lawsuit Against Pharrell Or The Judge Kills It",
       "url": "https://allhiphop.com/news/chad-hugo-has-one-week-to-save-his-lawsuit-against-pharrell-or-the-judge-kills-it/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Latto Announces Retirement From Music At 28 With Final Album “Big Mama”",
-      "url": "https://allhiphop.com/news/latto-announces-retirement-from-music-at-28-with-final-album-big-mama/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Shangri-La Frontier Is Still The Best Anime To Watch After Solo Leveling",
       "url": "https://screenrant.com/shangri-la-frontier-best-anime-watch-after-solo-leveling/",
       "pillar": "anime",
@@ -125,6 +125,13 @@
     {
       "title": "Demon Slayer: Infinity Castle Part 2 Is Finally Going To Give The Most Controversial Hashira His Time To Shine",
       "url": "https://screenrant.com/demon-slayer-sanemi-most-controversial-hashira-explained/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Boruto can never be the next Naruto, and that's OK",
+      "url": "https://www.polygon.com/boruto-naruto-sequel-10-year-anniversary-flawed-legacy/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +158,6 @@
       "article_slug": null
     },
     {
-      "title": "Sentenced to Be a Hero isn’t the only fantasy series rethinking revolution this year",
-      "url": "https://www.polygon.com/sentenced-to-be-a-hero-release-that-witch-anime/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table 44: Cloudy Beach Anime Film Reveals New Visual, Trailer",
       "url": "https://www.animenewsnetwork.com/news/2026-05-17/shiboyugi-playing-death-games-to-put-food-on-the-table-44-cloudy-beach-anime-film-reveals-new-/.237451",
       "pillar": "anime",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Den-noh Coil was right about everything",
-      "url": "https://www.polygon.com/19-years-later-den-noh-coil-remains-the-first-anime-to-normalize-a-networked-world/",
+      "title": "Sentenced to Be a Hero isn’t the only fantasy series rethinking revolution this year",
+      "url": "https://www.polygon.com/sentenced-to-be-a-hero-release-that-witch-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS5's New Weekly Player Tracker Has Revealed Some Brutal Truths for Fans",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5s-new-weekly-player-tracker-has-revealed-some-brutal-truths-for-fans",
+      "title": "Poll Would You Buy an inFAMOUS Collection for PS5?",
+      "url": "https://www.pushsquare.com/news/2026/05/poll-would-you-buy-an-infamous-collection-for-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Guide These 24+ New PS5 and PS Plus Games Are Coming Out Next Week (18th-24th May)",
-      "url": "https://www.pushsquare.com/guides/these-24plus-new-ps5-and-ps-plus-games-are-coming-out-next-week-18th-24th-may",
+      "title": "News PS5's New Weekly Player Tracker Has Revealed Some Brutal Truths for Fans",
+      "url": "https://www.pushsquare.com/news/2026/05/ps5s-new-weekly-player-tracker-has-revealed-some-brutal-truths-for-fans",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

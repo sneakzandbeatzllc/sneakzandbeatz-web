@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T09:57:11+00:00",
+  "generated_utc": "2026-05-17T10:41:37+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "2b85aefd2524",
+      "pillar": "hiphop",
+      "title": "Nashville man looks at steak at Kroger—and opts for the cheapest possible: ‘We’ve all thought this.. he just did it’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/kroger-chuck-roast-vs-ribeye/",
+      "thumbnail": "/drops/thumbs/2b85aefd2524.jpg",
+      "published": "2026-05-17T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ef3961c155e3",
       "pillar": "hiphop",
       "title": "EXCLUSIVE: Chad Hugo Has One Week To Save His Lawsuit Against Pharrell Or The Judge Kills It",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "1536ea361740",
-      "pillar": "hiphop",
-      "title": "Latto Announces Retirement From Music At 28 With Final Album “Big Mama”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/latto-announces-retirement-from-music-at-28-with-final-album-big-mama/",
-      "thumbnail": "/drops/thumbs/1536ea361740.png",
-      "published": "2026-05-16T13:00:32",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "254a561ec862",
       "pillar": "anime",
       "title": "Shangri-La Frontier Is Still The Best Anime To Watch After Solo Leveling",
@@ -213,6 +213,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/demon-slayer-sanemi-most-controversial-hashira-explained/",
       "thumbnail": "/drops/thumbs/17c4bd69062e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9665f2a815bf",
+      "pillar": "anime",
+      "title": "Boruto can never be the next Naruto, and that's OK",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/boruto-naruto-sequel-10-year-anniversary-flawed-legacy/",
+      "thumbnail": "/drops/thumbs/9665f2a815bf.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "1fb115cc8e36",
-      "pillar": "anime",
-      "title": "Sentenced to Be a Hero isn’t the only fantasy series rethinking revolution this year",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/sentenced-to-be-a-hero-release-that-witch-anime/",
-      "thumbnail": "/drops/thumbs/1fb115cc8e36.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "316e51e37de1",
       "pillar": "anime",
       "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table 44: Cloudy Beach Anime Film Reveals New Visual, Trailer",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "339ee20ee947",
+      "id": "1fb115cc8e36",
       "pillar": "anime",
-      "title": "Den-noh Coil was right about everything",
+      "title": "Sentenced to Be a Hero isn’t the only fantasy series rethinking revolution this year",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/19-years-later-den-noh-coil-remains-the-first-anime-to-normalize-a-networked-world/",
-      "thumbnail": "/drops/thumbs/339ee20ee947.jpg",
+      "source_url": "https://www.polygon.com/sentenced-to-be-a-hero-release-that-witch-anime/",
+      "thumbnail": "/drops/thumbs/1fb115cc8e36.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "c27b05e20b1b",
+      "id": "c7e2f74c326e",
       "pillar": "gaming",
-      "title": "News PS5's New Weekly Player Tracker Has Revealed Some Brutal Truths for Fans",
+      "title": "Poll Would You Buy an inFAMOUS Collection for PS5?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/ps5s-new-weekly-player-tracker-has-revealed-some-brutal-truths-for-fans",
-      "thumbnail": "/drops/thumbs/c27b05e20b1b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/poll-would-you-buy-an-infamous-collection-for-ps5",
+      "thumbnail": "/drops/thumbs/c7e2f74c326e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "e8f9b405c4d7",
+      "id": "c27b05e20b1b",
       "pillar": "gaming",
-      "title": "Guide These 24+ New PS5 and PS Plus Games Are Coming Out Next Week (18th-24th May)",
+      "title": "News PS5's New Weekly Player Tracker Has Revealed Some Brutal Truths for Fans",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/these-24plus-new-ps5-and-ps-plus-games-are-coming-out-next-week-18th-24th-may",
-      "thumbnail": "/drops/thumbs/e8f9b405c4d7.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/ps5s-new-weekly-player-tracker-has-revealed-some-brutal-truths-for-fans",
+      "thumbnail": "/drops/thumbs/c27b05e20b1b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "ef3961c155e3",
+    "2b85aefd2524",
     "43151d13faa3",
     "254a561ec862",
     "37fc53e0f8e7",
