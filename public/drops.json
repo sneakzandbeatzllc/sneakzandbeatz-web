@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-16T23:54:54+00:00",
+  "generated_utc": "2026-05-17T00:54:03+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "ef3961c155e3",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Chad Hugo Has One Week To Save His Lawsuit Against Pharrell Or The Judge Kills It",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/chad-hugo-has-one-week-to-save-his-lawsuit-against-pharrell-or-the-judge-kills-it/",
+      "thumbnail": "/drops/thumbs/ef3961c155e3.jpg",
+      "published": "2026-05-16T20:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8e3d9bf34163",
       "pillar": "hiphop",
       "title": "Doja Cat Plans To Take Three Years Off From Music After Tour",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/latto-announces-retirement-from-music-at-28-with-final-album-big-mama/",
       "thumbnail": "/drops/thumbs/1536ea361740.png",
       "published": "2026-05-16T13:00:32",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "082d8a04ee8a",
-      "pillar": "hiphop",
-      "title": "Trina Protects Her Man After Onstage Altercation Goes Viral",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/trina-protects-her-man-after-onstage-altercation-goes-viral/",
-      "thumbnail": "/drops/thumbs/082d8a04ee8a.jpg",
-      "published": "2026-05-16T12:00:10",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "8e3d9bf34163",
+    "ef3961c155e3",
     "43151d13faa3",
     "cf0a1889cdf4",
     "37fc53e0f8e7",
