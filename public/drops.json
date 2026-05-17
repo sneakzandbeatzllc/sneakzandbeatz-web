@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T15:55:31+00:00",
+  "generated_utc": "2026-05-17T16:02:10+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "14dcf802eb43",
+      "pillar": "hiphop",
+      "title": "Florida woman sits at the bar next to a 50-something man. They strike up a conversation—then the server asks them something wild. It gets worse: ‘I got really creeped out’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/florida-bar-older-man-creep/",
+      "thumbnail": "/drops/thumbs/14dcf802eb43.jpg",
+      "published": "2026-05-17T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fbcaff4991e8",
       "pillar": "hiphop",
       "title": "Leaders Demand Apology From Kevin Hart & Netflix Over George Floyd Joke & Note Donald Trump Double Standard",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "4ef7fdbd2ead",
-      "pillar": "hiphop",
-      "title": "21 Savage Hosts Financial Literacy Graduation for Atlanta Youth",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/17/21-savage-hosts-financial-literacy-graduation-for-atlanta-youth/",
-      "thumbnail": "/drops/thumbs/4ef7fdbd2ead.jpg",
-      "published": "2026-05-17T05:47:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d85ff464e6db",
       "pillar": "anime",
       "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "f42c813a517a",
+      "id": "710cdc0db682",
       "pillar": "anime",
-      "title": "More My Hero Academia anime is coming sooner than you’d think",
+      "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/my-hero-academia-i-am-a-hero-too-release-date/",
-      "thumbnail": "/drops/thumbs/f42c813a517a.png",
+      "source_url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
+      "thumbnail": "/drops/thumbs/710cdc0db682.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "fbcaff4991e8",
+    "14dcf802eb43",
     "43151d13faa3",
     "d85ff464e6db",
     "37fc53e0f8e7",

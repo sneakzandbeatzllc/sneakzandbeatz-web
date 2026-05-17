@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T15:55:31+00:00",
+  "generated_utc": "2026-05-17T16:02:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Florida woman sits at the bar next to a 50-something man. They strike up a conversation—then the server asks them something wild. It gets worse: ‘I got really creeped out’",
+      "url": "https://allhiphop.com/newsbreak/florida-bar-older-man-creep/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Leaders Demand Apology From Kevin Hart & Netflix Over George Floyd Joke & Note Donald Trump Double Standard",
       "url": "https://allhiphop.com/news/leaders-demand-apology-from-kevin-hart-netflix-over-george-floyd-joke-note-donald-trump-double-standard/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "21 Savage Hosts Financial Literacy Graduation for Atlanta Youth",
-      "url": "https://thesource.com/2026/05/17/21-savage-hosts-financial-literacy-graduation-for-atlanta-youth/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
       "url": "https://screenrant.com/dragon-ball-editor-goku-adult-fandom-killed/",
       "pillar": "anime",
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "More My Hero Academia anime is coming sooner than you’d think",
-      "url": "https://www.polygon.com/my-hero-academia-i-am-a-hero-too-release-date/",
+      "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
+      "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
