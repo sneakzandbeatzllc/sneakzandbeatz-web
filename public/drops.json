@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T06:15:29+00:00",
+  "generated_utc": "2026-05-18T08:50:29+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -291,6 +291,18 @@
       "release_badge": ""
     },
     {
+      "id": "9313ad1fdfcf",
+      "pillar": "gaming",
+      "title": "Take-Two CEO Confirms GTA 6 Should Have Released Last May 2025, Restates It’s Coming This November",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562712/article/take-two-ceo-confirms-gta-6-should-have-released-last-may-2025-restates-its-coming-this-november/",
+      "thumbnail": "/drops/thumbs/9313ad1fdfcf.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c82c86bb7001",
       "pillar": "gaming",
       "title": "Rumor: GTA 6’s 3rd Trailer Will Come Out Before Pre-Orders Begin, With 6 Editions Available",
@@ -309,18 +321,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/looks-like-we-got-sucker-punched-ghost-of-yotei-fans-gutted-support-has-ended-for-free-co-op-mode",
       "thumbnail": "/drops/thumbs/e87d93f96d9d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "20e4abeaa097",
-      "pillar": "gaming",
-      "title": "Overwatch Is Officially Answering The Call In Fortnite",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562691/article/overwatch-is-officially-answering-the-call-in-fortnite/",
-      "thumbnail": "/drops/thumbs/20e4abeaa097.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "43151d13faa3",
     "a98004cbbb10",
     "37fc53e0f8e7",
-    "c82c86bb7001"
+    "9313ad1fdfcf"
   ]
 }
