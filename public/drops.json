@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T15:22:03+00:00",
+  "generated_utc": "2026-05-18T15:56:42+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "71918112828a",
+      "pillar": "hiphop",
+      "title": "Mass Protest In Selma Rebukes Supreme Court’s Voting Rights Act Dismantling",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/mass-protest-in-selma-rebukes-supreme-courts-voting-rights-act-dismantling/",
+      "thumbnail": "/drops/thumbs/71918112828a.jpg",
+      "published": "2026-05-18T11:50:06",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "974ac3fb4e3d",
       "pillar": "hiphop",
       "title": "Details From Kodak Black’s Latest Arrest Revealed & They Are Wild",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "59e69aba1865",
-      "pillar": "hiphop",
-      "title": "Best Wet Dry Vacuum Mop for Home Cleaning: Complete Buying Guide & Comparison (2026 U.S. Edition)",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/18/best-wet-dry-vacuum-mop-for-home-cleaning-complete-buying-guide-comparison-2026-u-s-edition/",
-      "thumbnail": "/drops/thumbs/59e69aba1865.jpg",
-      "published": "2026-05-18T01:26:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a98004cbbb10",
       "pillar": "anime",
       "title": "Dragon Ball’s Most Divisive Transformations Are Better Than They Get Credit For",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "d57f816841cc",
-      "pillar": "anime",
-      "title": "Netflix's Official Answer To Solo Leveling Isn't Just As Good As the Original, It's 1000% Better",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/cyberpunk-edgerunners-netflix-answer-solo-leveling-better/",
-      "thumbnail": "/drops/thumbs/d57f816841cc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "710cdc0db682",
       "pillar": "anime",
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
       "thumbnail": "/drops/thumbs/31d54ee0fe5c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "eb82b44a4e00",
+      "pillar": "anime",
+      "title": "Actor, Voice Actor Bill Wise Dies at 61",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/actor-voice-actor-bill-wise-dies-at-61/.237465",
+      "thumbnail": "/drops/thumbs/eb82b44a4e00.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "acc07bb2618f",
-      "pillar": "gaming",
-      "title": "Grand Theft Auto Fans Are Losing It Today Over A Rumored GTA 6 Pre-Order Announcement That Seems Unlikelier By The Minute",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/gta-6-fans-rumored-preorder-announcement-today-2000697037",
-      "thumbnail": "/drops/thumbs/acc07bb2618f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c3a5ccd611a8",
       "pillar": "gaming",
       "title": "News GTA 6 Originally Meant to Launch 18 Months Ago, But We're Still Waiting for Trailer 3 and Pre-Orders",
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "01a42f0179ad",
+      "id": "750eed3c542a",
       "pillar": "gaming",
-      "title": "Hideo Kojima has seen Return to Silent Hill, and his 8-word review says it all",
+      "title": "News Gravity Rush 2 Fans Find a Way to Play Sony's Neglected PS4 Classic at 4K, 60fps",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gravity-rush-2-fans-find-a-way-to-play-sonys-neglected-ps4-classic-at-4k-60fps",
+      "thumbnail": "/drops/thumbs/750eed3c542a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "92ac7a4c9efe",
+      "pillar": "gaming",
+      "title": "Borderlands' last-minute art style change cost the company $50 million, Take-Two CEO says",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/horror-movies/hideo-kojima-has-seen-return-to-silent-hill-and-his-8-word-review-says-it-all/",
-      "thumbnail": "/drops/thumbs/01a42f0179ad.jpg",
+      "source_url": "https://www.gamesradar.com/games/borderlands/borderlands-last-minute-art-style-change-cost-the-company-usd50-million-take-two-ceo-says-borderlands-wouldnt-have-been-a-hit/",
+      "thumbnail": "/drops/thumbs/92ac7a4c9efe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "974ac3fb4e3d",
+    "71918112828a",
     "5d4bbf488e7f",
     "a98004cbbb10",
     "43151d13faa3",
