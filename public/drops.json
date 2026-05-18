@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T16:57:41+00:00",
+  "generated_utc": "2026-05-18T17:05:05+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "0409e0345d49",
+      "pillar": "hiphop",
+      "title": "Foolio Murder Trial: Sean Launches Appeal Movement on Conviction",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/foolio-murder-trial-sean-launches-appeal-movement-on-conviction/",
+      "thumbnail": "/drops/thumbs/0409e0345d49.png",
+      "published": "2026-05-18T13:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ce6e6f5a83bb",
       "pillar": "hiphop",
       "title": "‘Y’all gotta go to QDoba’: Chicago woman spends $48 on 2 Cava bowls. Then she realizes she was bamboozled",
@@ -183,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "ac10d7cafb73",
-      "pillar": "hiphop",
-      "title": "Texas woman goes to Walmart. Then she looks at their fan display: ‘Walmart… I have a question’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/walmart-lasko-fans-display-dangerous/",
-      "thumbnail": "/drops/thumbs/ac10d7cafb73.jpg",
-      "published": "2026-05-18T06:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a98004cbbb10",
-      "pillar": "anime",
-      "title": "Dragon Ball’s Most Divisive Transformations Are Better Than They Get Credit For",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-beast-gohan-orange-piccolo-good/",
-      "thumbnail": "/drops/thumbs/a98004cbbb10.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8d96fe6536f5",
       "pillar": "anime",
       "title": "Demon Slayer: The Hinokami Chronicles 2 Game Adds Doma on May 28",
@@ -261,6 +249,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
       "thumbnail": "/drops/thumbs/31d54ee0fe5c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6e7a70d11b9f",
+      "pillar": "anime",
+      "title": "An Anime Giant Officially Declares Isekai A Threat To The Industry",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/kadokawa-isekai-killing-anime/",
+      "thumbnail": "/drops/thumbs/6e7a70d11b9f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "a93218058882",
+      "pillar": "gaming",
+      "title": "Final Fantasy 6 remake AI slop wows series creator, fellow JRPG veteran tells him to stop",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-6-remake-ai-slop-wows-series-creator-hironobu-sakaguchi-fellow-jrpg-veteran-tells-him-to-stop-but-agrees-the-game-deserves-the-final-fantasy-7-treatment/",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "750eed3c542a",
       "pillar": "gaming",
       "title": "News Gravity Rush 2 Fans Find a Way to Play Sony's Neglected PS4 Classic at 4K, 60fps",
@@ -373,25 +385,13 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "a3b66b782cbc",
-      "pillar": "gaming",
-      "title": "Tom Kane, Star Wars And Voice Acting Legend, Has Died At 64",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/tom-kane-yoda-voice-actor-death-died-powerpuff-girls-2000697073",
-      "thumbnail": "/drops/thumbs/a3b66b782cbc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "ce6e6f5a83bb",
+    "0409e0345d49",
     "5d4bbf488e7f",
-    "a98004cbbb10",
+    "8d96fe6536f5",
     "43151d13faa3",
     "1e3db91d3355"
   ]
