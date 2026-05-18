@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-17T23:48:11+00:00",
+  "generated_utc": "2026-05-18T00:10:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Black Clover Filler List: Every Episode You Can Skip",
-      "url": "https://screenrant.com/every-black-clover-filler-episode/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Shiro Kuroi's Dragon Hunt Tribe Manga Ends in 5th Volume",
       "url": "https://www.animenewsnetwork.com/news/2026-05-17/shiro-kuroi-dragon-hunt-tribe-manga-ends-in-5th-volume/.237464",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Anime Expo to Screen 'Macross: Do You Remember Love?' Film; to Host Voice Actors Masakazu Morita, Machico",
       "url": "https://www.animenewsnetwork.com/news/2026-05-17/anime-expo-to-screen-macross-do-you-remember-love-film-to-host-voice-actors-masakazu-morita-machico/.237444",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "25 Greatest Anime Movies of All Time",
+      "url": "https://screenrant.com/best-anime-movies-in-history-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "News Until Dawn Dev Still Going with Dark Pictures Series, Next Entry Teased",
-      "url": "https://www.pushsquare.com/news/2026/05/until-dawn-dev-still-going-with-dark-pictures-series-next-entry-teased",
+      "title": "News Mixtape Isn't Going Anywhere, Won't Be Delisted Over Music Licenses",
+      "url": "https://www.pushsquare.com/news/2026/05/mixtape-isnt-going-anywhere-wont-be-delisted-over-music-licenses",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
