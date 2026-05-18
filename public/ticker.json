@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T00:10:08+00:00",
+  "generated_utc": "2026-05-18T00:49:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Netflix's Official Answer To Solo Leveling Isn't Just As Good As the Original, It's 1000% Better",
+      "url": "https://screenrant.com/cyberpunk-edgerunners-netflix-answer-solo-leveling-better/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "Anime Expo to Screen 'Macross: Do You Remember Love?' Film; to Host Voice Actors Masakazu Morita, Machico",
       "url": "https://www.animenewsnetwork.com/news/2026-05-17/anime-expo-to-screen-macross-do-you-remember-love-film-to-host-voice-actors-masakazu-morita-machico/.237444",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "25 Greatest Anime Movies of All Time",
-      "url": "https://screenrant.com/best-anime-movies-in-history-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
