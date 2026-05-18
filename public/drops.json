@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T15:56:42+00:00",
+  "generated_utc": "2026-05-18T16:22:17+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "ce6e6f5a83bb",
+      "pillar": "hiphop",
+      "title": "‘Y’all gotta go to QDoba’: Chicago woman spends $48 on 2 Cava bowls. Then she realizes she was bamboozled",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/chicago-cava-48-dollars-2-bowls/",
+      "thumbnail": "/drops/thumbs/ce6e6f5a83bb.jpg",
+      "published": "2026-05-18T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "71918112828a",
       "pillar": "hiphop",
       "title": "Mass Protest In Selma Rebukes Supreme Court’s Voting Rights Act Dismantling",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/newsbreak/walmart-lasko-fans-display-dangerous/",
       "thumbnail": "/drops/thumbs/ac10d7cafb73.jpg",
       "published": "2026-05-18T06:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "35d237238b36",
-      "pillar": "hiphop",
-      "title": "Greentech software development: what companies need to know before they start",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/18/greentech-software-development-what-companies-need-to-know-before-they-start/",
-      "thumbnail": null,
-      "published": "2026-05-18T01:35:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "71918112828a",
+    "ce6e6f5a83bb",
     "5d4bbf488e7f",
     "a98004cbbb10",
     "43151d13faa3",

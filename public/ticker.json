@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T15:56:42+00:00",
+  "generated_utc": "2026-05-18T16:22:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "‘Y’all gotta go to QDoba’: Chicago woman spends $48 on 2 Cava bowls. Then she realizes she was bamboozled",
+      "url": "https://allhiphop.com/newsbreak/chicago-cava-48-dollars-2-bowls/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Mass Protest In Selma Rebukes Supreme Court’s Voting Rights Act Dismantling",
       "url": "https://allhiphop.com/news/mass-protest-in-selma-rebukes-supreme-courts-voting-rights-act-dismantling/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Texas woman goes to Walmart. Then she looks at their fan display: ‘Walmart… I have a question’",
       "url": "https://allhiphop.com/newsbreak/walmart-lasko-fans-display-dangerous/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Greentech software development: what companies need to know before they start",
-      "url": "https://thesource.com/2026/05/18/greentech-software-development-what-companies-need-to-know-before-they-start/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
