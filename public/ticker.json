@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T11:18:20+00:00",
+  "generated_utc": "2026-05-18T11:53:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Wasted Chef Anime Film Unveils Teaser Visual",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/wasted-chef-anime-film-unveils-teaser-visual/.237488",
+      "title": "Actor, Voice Actor Bill Wise Dies at 61",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/actor-voice-actor-bill-wise-dies-at-61/.237465",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "KAMUI: He's Behind You Anime Reveals Ending Song Artist in New Teaser Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/kamui-he-behind-you-anime-reveals-ending-song-artist-in-new-teaser-video/.237480",
+      "title": "Wasted Chef Anime Film Unveils Teaser Visual",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/wasted-chef-anime-film-unveils-teaser-visual/.237488",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: GTA 6’s 3rd Trailer Will Come Out Before Pre-Orders Begin, With 6 Editions Available",
-      "url": "https://gameranx.com/updates/id/562698/article/rumor-gta-6s-3rd-trailer-will-come-out-before-pre-orders-begin-with-6-editions-available/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News 'Looks Like We Got Sucker Punched': Ghost of Yotei Fans Gutted Support Has Ended for Free Co-Op Mode",
       "url": "https://www.pushsquare.com/news/2026/05/looks-like-we-got-sucker-punched-ghost-of-yotei-fans-gutted-support-has-ended-for-free-co-op-mode",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Bomberman 64 Is Still A Masterpiece Of 3D Platformers Without A Playbook",
       "url": "https://kotaku.com/bomberman-64-is-a-masterpiece-of-3d-platformers-without-a-playbook-2000696848",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Entire Nintendo 64 Library Now Has Rollback Netcode",
+      "url": "https://kotaku.com/the-entire-nintendo-64-library-now-has-rollback-netcode-2000696785",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
