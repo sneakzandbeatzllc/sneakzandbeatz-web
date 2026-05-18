@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T17:36:12+00:00",
+  "generated_utc": "2026-05-18T17:58:38+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "6e7a70d11b9f",
+      "id": "fdb26ff5a06e",
       "pillar": "anime",
-      "title": "An Anime Giant Officially Declares Isekai A Threat To The Industry",
+      "title": "Studio Ghibli Announces New Era With One Big Change Coming This Summer",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/kadokawa-isekai-killing-anime/",
-      "thumbnail": "/drops/thumbs/6e7a70d11b9f.jpg",
+      "source_url": "https://screenrant.com/studio-ghibli-new-president-era/",
+      "thumbnail": "/drops/thumbs/fdb26ff5a06e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "a3b9967a408d",
+      "id": "6e7a70d11b9f",
       "pillar": "anime",
-      "title": "Starbuck's Next Hello Kitty-Level Collaboration Is Officially Here, And It's Simply Too Adorable",
+      "title": "An Anime Giant Officially Declares Isekai A Threat To The Industry",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/starbucks-miffy-collaboration-hello-kitty/",
-      "thumbnail": "/drops/thumbs/a3b9967a408d.png",
+      "source_url": "https://screenrant.com/kadokawa-isekai-killing-anime/",
+      "thumbnail": "/drops/thumbs/6e7a70d11b9f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
