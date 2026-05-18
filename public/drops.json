@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T17:58:38+00:00",
+  "generated_utc": "2026-05-18T18:24:42+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "1016002c2bb6",
+      "pillar": "hiphop",
+      "title": "Yung Miami Floods Miami Gardens With Free Gas During Price Crisis",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/yung-miami-floods-miami-gardens-with-free-gas-during-price-crisis/",
+      "thumbnail": "/drops/thumbs/1016002c2bb6.jpg",
+      "published": "2026-05-18T14:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4af0ff9c283d",
       "pillar": "hiphop",
       "title": "J. Prince, Sauce Walka & Honeykomb Brazy Beef Heats Houston Up",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/18/trump-posts-bizarre-ai-alien-war-imagery-on-truth-social/",
       "thumbnail": "/drops/thumbs/a758c68132fc.jpg",
       "published": "2026-05-18T07:37:05",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e9ada6ca0c3c",
-      "pillar": "hiphop",
-      "title": "Lauryn Hill Details Reasons For Not Dropping Another Studio Album",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/18/lauryn-hill-explains-miseducation-studio-album-hiatus/",
-      "thumbnail": "/drops/thumbs/e9ada6ca0c3c.jpg",
-      "published": "2026-05-18T07:25:58",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -305,7 +305,7 @@
     {
       "id": "0bf595ed7c6d",
       "pillar": "gaming",
-      "title": "GTA 6 pre-orders could drop today after Best Buy leak, live updates",
+      "title": "GTA 6 pre-order rumors live: we're debunking speculation, verifying listings, and watching prices as they happen",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/live/news/gta-6-pre-orders-live-updates-may/",
       "thumbnail": "/drops/thumbs/0bf595ed7c6d.jpg",
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "45eed0a1e375",
+      "id": "fc2b8d2c05d2",
       "pillar": "gaming",
-      "title": "News 'Pretty Awesome, Huh?': Even the Father of Final Fantasy Can't Avoid AI Drama",
+      "title": "News PS5 Fans Vote Jak & Daxter As Their Most Wanted PlayStation Revival",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/pretty-awesome-huh-even-the-father-of-final-fantasy-cant-avoid-ai-drama",
-      "thumbnail": "/drops/thumbs/45eed0a1e375.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/ps5-fans-vote-jak-and-daxter-as-their-most-wanted-playstation-revival",
+      "thumbnail": "/drops/thumbs/fc2b8d2c05d2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "4af0ff9c283d",
+    "1016002c2bb6",
     "5d4bbf488e7f",
     "8d96fe6536f5",
     "43151d13faa3",
