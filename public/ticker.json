@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T01:11:18+00:00",
+  "generated_utc": "2026-05-18T02:12:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,8 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
-      "url": "https://screenrant.com/dragon-ball-editor-goku-adult-fandom-killed/",
+      "title": "Dragon Ball’s Most Divisive Transformations Are Better Than They Get Credit For",
+      "url": "https://screenrant.com/dragon-ball-beast-gohan-orange-piccolo-good/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "How Genya's Demon Powers Work In Demon Slayer, Explained",
+      "url": "https://screenrant.com/how-genya-demon-powers-work-demon-slayer/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +139,6 @@
     {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece Chapter #1183 Release Date & Time",
-      "url": "https://screenrant.com/one-piece-chapter-1183-release-date-time/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

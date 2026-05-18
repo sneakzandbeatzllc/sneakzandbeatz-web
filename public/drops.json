@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T01:11:18+00:00",
+  "generated_utc": "2026-05-18T02:12:18+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -195,12 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "d85ff464e6db",
+      "id": "a98004cbbb10",
       "pillar": "anime",
-      "title": "The Man Who Saved Dragon Ball Almost Killed The American Anime Fandom With One Disastrous Choice",
+      "title": "Dragon Ball’s Most Divisive Transformations Are Better Than They Get Credit For",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-editor-goku-adult-fandom-killed/",
-      "thumbnail": "/drops/thumbs/d85ff464e6db.jpg",
+      "source_url": "https://screenrant.com/dragon-ball-beast-gohan-orange-piccolo-good/",
+      "thumbnail": "/drops/thumbs/a98004cbbb10.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e4a77c05a49e",
+      "pillar": "anime",
+      "title": "How Genya's Demon Powers Work In Demon Slayer, Explained",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/how-genya-demon-powers-work-demon-slayer/",
+      "thumbnail": "/drops/thumbs/e4a77c05a49e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,18 +237,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "thumbnail": "/drops/thumbs/710cdc0db682.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "87c71b968689",
-      "pillar": "anime",
-      "title": "One Piece Chapter #1183 Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-chapter-1183-release-date-time/",
-      "thumbnail": "/drops/thumbs/87c71b968689.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "5d4bbf488e7f",
     "aa8a8778011a",
     "43151d13faa3",
-    "d85ff464e6db",
+    "a98004cbbb10",
     "37fc53e0f8e7",
     "c82c86bb7001"
   ]
