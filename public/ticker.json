@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T10:17:16+00:00",
+  "generated_utc": "2026-05-18T10:52:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "KAMUI: He's Behind You Anime Reveals Ending Song Artist in New Teaser Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/kamui-he-behind-you-anime-reveals-ending-song-artist-in-new-teaser-video/.237480",
+      "title": "Wasted Chef Anime Film Unveils Teaser Visual",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/wasted-chef-anime-film-unveils-teaser-visual/.237488",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Junji Ito's 'The Long Hair in the Attic' Manga Gets Live-Action Film",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/junji-ito-the-long-hair-in-the-attic-manga-gets-live-action-film/.237473",
+      "title": "KAMUI: He's Behind You Anime Reveals Ending Song Artist in New Teaser Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/kamui-he-behind-you-anime-reveals-ending-song-artist-in-new-teaser-video/.237480",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "Now Playing The Witcher 2 never made the jump to PlayStation, and I feel bad for those who've never played it",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-2-never-made-the-jump-to-playstation-and-i-feel-bad-for-those-whove-never-experienced-it/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Borderlands' last-minute art style change cost the company $50 million, Take-Two CEO says",
       "url": "https://www.gamesradar.com/games/borderlands/borderlands-last-minute-art-style-change-cost-the-company-usd50-million-take-two-ceo-says-borderlands-wouldnt-have-been-a-hit/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Bomberman 64 Is Still A Masterpiece Of 3D Platformers Without A Playbook",
       "url": "https://kotaku.com/bomberman-64-is-a-masterpiece-of-3d-platformers-without-a-playbook-2000696848",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Mixtape Isn't Going Anywhere, Won't Be Delisted Over Music Licenses",
+      "url": "https://www.pushsquare.com/news/2026/05/mixtape-isnt-going-anywhere-wont-be-delisted-over-music-licenses",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
