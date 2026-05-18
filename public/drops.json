@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T19:26:44+00:00",
+  "generated_utc": "2026-05-18T19:38:39+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "1e3db91d3355",
-      "pillar": "gaming",
-      "title": "News GTA 6 Trailer 3 Unlikely Today After Erroneous Pre-Order Emails",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-unlikely-today-after-erroneous-pre-order-emails",
-      "thumbnail": "/drops/thumbs/1e3db91d3355.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0bf595ed7c6d",
       "pillar": "gaming",
       "title": "GTA 6 pre-order rumors live: we're debunking speculation, verifying listings, and watching prices as they happen",
@@ -351,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "fc2b8d2c05d2",
+      "pillar": "gaming",
+      "title": "News PS5 Fans Vote Jak & Daxter As Their Most Wanted PlayStation Revival",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/ps5-fans-vote-jak-and-daxter-as-their-most-wanted-playstation-revival",
+      "thumbnail": "/drops/thumbs/fc2b8d2c05d2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6974306a80d4",
       "pillar": "gaming",
       "title": "Final Fantasy Creator Calls Viral AI-Generated Final Fantasy 6 Remake Video ‘Amazing’",
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "fc2b8d2c05d2",
+      "id": "45eed0a1e375",
       "pillar": "gaming",
-      "title": "News PS5 Fans Vote Jak & Daxter As Their Most Wanted PlayStation Revival",
+      "title": "News 'Pretty Awesome, Huh?': Even the Father of Final Fantasy Can't Avoid AI Drama",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/ps5-fans-vote-jak-and-daxter-as-their-most-wanted-playstation-revival",
-      "thumbnail": "/drops/thumbs/fc2b8d2c05d2.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/pretty-awesome-huh-even-the-father-of-final-fantasy-cant-avoid-ai-drama",
+      "thumbnail": "/drops/thumbs/45eed0a1e375.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "5d4bbf488e7f",
     "8d96fe6536f5",
     "43151d13faa3",
-    "1e3db91d3355"
+    "0bf595ed7c6d"
   ]
 }

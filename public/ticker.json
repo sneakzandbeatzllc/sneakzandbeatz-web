@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T19:26:44+00:00",
+  "generated_utc": "2026-05-18T19:38:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Trailer 3 Unlikely Today After Erroneous Pre-Order Emails",
-      "url": "https://www.pushsquare.com/news/2026/05/gta-6-trailer-3-unlikely-today-after-erroneous-pre-order-emails",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 pre-order rumors live: we're debunking speculation, verifying listings, and watching prices as they happen",
       "url": "https://www.gamesradar.com/live/news/gta-6-pre-orders-live-updates-may/",
       "pillar": "gaming",
@@ -207,6 +200,13 @@
       "article_slug": null
     },
     {
+      "title": "News PS5 Fans Vote Jak & Daxter As Their Most Wanted PlayStation Revival",
+      "url": "https://www.pushsquare.com/news/2026/05/ps5-fans-vote-jak-and-daxter-as-their-most-wanted-playstation-revival",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Final Fantasy Creator Calls Viral AI-Generated Final Fantasy 6 Remake Video ‘Amazing’",
       "url": "https://kotaku.com/final-fantasy-creator-says-viral-ai-generated-final-fantasy-6-remake-video-looks-awesome-2000697042",
       "pillar": "gaming",
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS5 Fans Vote Jak & Daxter As Their Most Wanted PlayStation Revival",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5-fans-vote-jak-and-daxter-as-their-most-wanted-playstation-revival",
+      "title": "News 'Pretty Awesome, Huh?': Even the Father of Final Fantasy Can't Avoid AI Drama",
+      "url": "https://www.pushsquare.com/news/2026/05/pretty-awesome-huh-even-the-father-of-final-fantasy-cant-avoid-ai-drama",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
