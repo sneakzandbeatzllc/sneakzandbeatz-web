@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T08:50:29+00:00",
+  "generated_utc": "2026-05-18T09:16:28+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Junji Ito's 'The Long Hair in the Attic' Manga Gets Live-Action Film",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/junji-ito-the-long-hair-in-the-attic-manga-gets-live-action-film/.237473",
+      "title": "KAMUI: He's Behind You Anime Reveals Ending Song Artist in New Teaser Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/kamui-he-behind-you-anime-reveals-ending-song-artist-in-new-teaser-video/.237480",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "'Go for It, Nakamura!' Anime Casts Kenshō Ono, Kenta Miyake",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-17/go-for-it-nakamura-anime-casts-kensho-ono-kenta-miyake/.237468",
+      "title": "Junji Ito's 'The Long Hair in the Attic' Manga Gets Live-Action Film",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/junji-ito-the-long-hair-in-the-attic-manga-gets-live-action-film/.237473",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -168,6 +168,13 @@
       "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
       "url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6 pre-orders could drop today after Best Buy leak, live updates",
+      "url": "https://www.gamesradar.com/live/news/gta-6-pre-orders-live-updates-may/",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -193,8 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "Subnautica 2 lays strong foundations for an improved sequel, but the depths of early access remain murky",
-      "url": "https://www.gamesradar.com/games/survival/subnautica-2-lays-strong-foundations-for-an-improved-sequel-but-the-depths-of-early-access-remain-murky/",
+      "title": "Now Playing The Witcher 2 never made the jump to PlayStation, and I feel bad for those who've never played it",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-2-never-made-the-jump-to-playstation-and-i-feel-bad-for-those-whove-never-experienced-it/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Borderlands' last-minute art style change cost the company $50 million, Take-Two CEO says",
+      "url": "https://www.gamesradar.com/games/borderlands/borderlands-last-minute-art-style-change-cost-the-company-usd50-million-take-two-ceo-says-borderlands-wouldnt-have-been-a-hit/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -209,20 +223,6 @@
     {
       "title": "News Mixtape Isn't Going Anywhere, Won't Be Delisted Over Music Licenses",
       "url": "https://www.pushsquare.com/news/2026/05/mixtape-isnt-going-anywhere-wont-be-delisted-over-music-licenses",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Forza Horizon 6 immediately beats its predecessor's all-time Steam record with over 130,000 concurrent players",
-      "url": "https://www.gamesradar.com/games/racing/forza-horizon-6-immediately-beats-its-predecessors-all-time-steam-record-with-130-000-concurrent-players-and-thats-only-counting-people-willing-to-pay-usd120-for-early-access/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Entire Nintendo 64 Library Now Has Rollback Netcode",
-      "url": "https://kotaku.com/the-entire-nintendo-64-library-now-has-rollback-netcode-2000696785",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

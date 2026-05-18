@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T08:50:29+00:00",
+  "generated_utc": "2026-05-18T09:16:28+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -255,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "824b9398bc87",
+      "pillar": "anime",
+      "title": "KAMUI: He's Behind You Anime Reveals Ending Song Artist in New Teaser Video",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/kamui-he-behind-you-anime-reveals-ending-song-artist-in-new-teaser-video/.237480",
+      "thumbnail": "/drops/thumbs/824b9398bc87.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ee9a1ff02084",
       "pillar": "anime",
       "title": "Junji Ito's 'The Long Hair in the Attic' Manga Gets Live-Action Film",
@@ -267,24 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "17c898d4e2f6",
-      "pillar": "anime",
-      "title": "'Go for It, Nakamura!' Anime Casts Kenshō Ono, Kenta Miyake",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-17/go-for-it-nakamura-anime-casts-kensho-ono-kenta-miyake/.237468",
-      "thumbnail": "/drops/thumbs/17c898d4e2f6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "31d54ee0fe5c",
       "pillar": "anime",
       "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
       "thumbnail": "/drops/thumbs/31d54ee0fe5c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0bf595ed7c6d",
+      "pillar": "gaming",
+      "title": "GTA 6 pre-orders could drop today after Best Buy leak, live updates",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/live/news/gta-6-pre-orders-live-updates-may/",
+      "thumbnail": "/drops/thumbs/0bf595ed7c6d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "9cb5e266f108",
+      "id": "dda2549ed369",
       "pillar": "gaming",
-      "title": "Subnautica 2 lays strong foundations for an improved sequel, but the depths of early access remain murky",
+      "title": "Now Playing The Witcher 2 never made the jump to PlayStation, and I feel bad for those who've never played it",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/survival/subnautica-2-lays-strong-foundations-for-an-improved-sequel-but-the-depths-of-early-access-remain-murky/",
-      "thumbnail": "/drops/thumbs/9cb5e266f108.jpg",
+      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-2-never-made-the-jump-to-playstation-and-i-feel-bad-for-those-whove-never-experienced-it/",
+      "thumbnail": "/drops/thumbs/dda2549ed369.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "92ac7a4c9efe",
+      "pillar": "gaming",
+      "title": "Borderlands' last-minute art style change cost the company $50 million, Take-Two CEO says",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/borderlands/borderlands-last-minute-art-style-change-cost-the-company-usd50-million-take-two-ceo-says-borderlands-wouldnt-have-been-a-hit/",
+      "thumbnail": "/drops/thumbs/92ac7a4c9efe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -361,30 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "54b419ee6081",
-      "pillar": "gaming",
-      "title": "Forza Horizon 6 immediately beats its predecessor's all-time Steam record with over 130,000 concurrent players",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/racing/forza-horizon-6-immediately-beats-its-predecessors-all-time-steam-record-with-130-000-concurrent-players-and-thats-only-counting-people-willing-to-pay-usd120-for-early-access/",
-      "thumbnail": "/drops/thumbs/54b419ee6081.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "676f98b45041",
-      "pillar": "gaming",
-      "title": "The Entire Nintendo 64 Library Now Has Rollback Netcode",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-entire-nintendo-64-library-now-has-rollback-netcode-2000696785",
-      "thumbnail": "/drops/thumbs/676f98b45041.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "43151d13faa3",
     "a98004cbbb10",
     "37fc53e0f8e7",
-    "9313ad1fdfcf"
+    "0bf595ed7c6d"
   ]
 }
