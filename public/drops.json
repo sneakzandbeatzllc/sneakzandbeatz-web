@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T17:24:50+00:00",
+  "generated_utc": "2026-05-18T17:36:12+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "4af0ff9c283d",
+      "pillar": "hiphop",
+      "title": "J. Prince, Sauce Walka & Honeykomb Brazy Beef Heats Houston Up",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/j-prince-sauce-walka-honeykomb-brazy-beef-heats-houston-up/",
+      "thumbnail": "/drops/thumbs/4af0ff9c283d.jpg",
+      "published": "2026-05-18T13:32:16",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0409e0345d49",
       "pillar": "hiphop",
       "title": "Foolio Murder Trial: Sean Launches Appeal Movement on Conviction",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "416cf700b525",
-      "pillar": "hiphop",
-      "title": "Today in Hip Hop History: Nas and Damian Marley Dropped Their ‘Distant Relatives’LP 16 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/18/today-in-hip-hop-history-nas-and-damian-marley-dropped-their-distant-relativeslp-16-years-ago/",
-      "thumbnail": "/drops/thumbs/416cf700b525.jpg",
-      "published": "2026-05-18T06:22:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8d96fe6536f5",
       "pillar": "anime",
       "title": "Demon Slayer: The Hinokami Chronicles 2 Game Adds Doma on May 28",
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "aefa1003de5c",
+      "id": "a85ba233d0c4",
       "pillar": "anime",
-      "title": "Bocchi the Rock Manga Resumes Serialization",
+      "title": "I Don't Know Which Is Love Yuri Harem Manga Ends With 8th Volume",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/bocchi-the-rock-manga-resumes-serialization/.237499",
-      "thumbnail": "/drops/thumbs/aefa1003de5c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/i-dont-know-which-is-love-yuri-harem-manga-ends-with-8th-volume/.237486",
+      "thumbnail": "/drops/thumbs/a85ba233d0c4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "81b98e760bf5",
+      "id": "aefa1003de5c",
       "pillar": "anime",
-      "title": "Kirio Fan Club Anime Casts Yōko Hikasa, Yui Kanari, Yū Serizawa",
+      "title": "Bocchi the Rock Manga Resumes Serialization",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/kirio-fan-club-anime-casts-yoko-hikasa-yui-kanari-yu-serizawa/.237491",
-      "thumbnail": "/drops/thumbs/81b98e760bf5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/bocchi-the-rock-manga-resumes-serialization/.237499",
+      "thumbnail": "/drops/thumbs/aefa1003de5c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "c3a5ccd611a8",
-      "pillar": "gaming",
-      "title": "News GTA 6 Originally Meant to Launch 18 Months Ago, But We're Still Waiting for Trailer 3 and Pre-Orders",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-originally-meant-to-launch-18-months-ago-but-were-still-waiting-for-trailer-3-and-pre-orders",
-      "thumbnail": "/drops/thumbs/c3a5ccd611a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3d637f3432cd",
       "pillar": "gaming",
       "title": "Rumor: Rockstar Will Make Reviewers Play GTA 6 In A Closed Door Location",
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
+      "id": "45eed0a1e375",
+      "pillar": "gaming",
+      "title": "News 'Pretty Awesome, Huh?': Even the Father of Final Fantasy Can't Avoid AI Drama",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/pretty-awesome-huh-even-the-father-of-final-fantasy-cant-avoid-ai-drama",
+      "thumbnail": "/drops/thumbs/45eed0a1e375.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a93218058882",
       "pillar": "gaming",
       "title": "Final Fantasy 6 remake AI slop wows series creator, fellow JRPG veteran tells him to stop",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-6-remake-ai-slop-wows-series-creator-hironobu-sakaguchi-fellow-jrpg-veteran-tells-him-to-stop-but-agrees-the-game-deserves-the-final-fantasy-7-treatment/",
-      "thumbnail": null,
+      "thumbnail": "/drops/thumbs/a93218058882.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "0409e0345d49",
+    "4af0ff9c283d",
     "5d4bbf488e7f",
     "8d96fe6536f5",
     "43151d13faa3",
