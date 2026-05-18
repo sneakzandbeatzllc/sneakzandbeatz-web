@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T20:27:38+00:00",
+  "generated_utc": "2026-05-18T21:01:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Floyd Mayweather Drops Defamation Case Against Reporter",
+      "url": "https://allhiphop.com/news/floyd-mayweather-drops-defamation-case-against-reporter/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Nas Cussed Out Warren Sapp Over Email Misunderstanding",
       "url": "https://allhiphop.com/news/nas-cursed-out-warren-sapp-over-email-misunderstanding/",
       "pillar": "hiphop",
@@ -109,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Timbaland says Janice STFU’ Will Be “Timeless” As Fans Decode Viral ‘ICEMAN’ Track",
-      "url": "https://thesource.com/2026/05/18/timbaland-says-janice-stfu-will-be-timeless-as-fans-decode-viral-iceman-track/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Demon Slayer: The Hinokami Chronicles 2 Game Adds Doma on May 28",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/demon-slayer-the-hinokami-chronicles-2-game-adds-doma-on-may-28/.237493",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
@@ -144,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Zoku Thermae Romae Manga Resumes Serialization",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/zoku-thermae-romae-manga-resumes-serialization/.237503",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
       "url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
       "pillar": "anime",
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Zoku Thermae Romae Manga Resumes Serialization",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/zoku-thermae-romae-manga-resumes-serialization/.237503",
+      "title": "I Don't Know Which Is Love Yuri Harem Manga Ends With 8th Volume",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/i-dont-know-which-is-love-yuri-harem-manga-ends-with-8th-volume/.237486",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

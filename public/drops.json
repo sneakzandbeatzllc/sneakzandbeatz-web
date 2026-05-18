@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T20:27:38+00:00",
+  "generated_utc": "2026-05-18T21:01:40+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "51e1f636c46e",
+      "pillar": "hiphop",
+      "title": "Floyd Mayweather Drops Defamation Case Against Reporter",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/floyd-mayweather-drops-defamation-case-against-reporter/",
+      "thumbnail": "/drops/thumbs/51e1f636c46e.jpg",
+      "published": "2026-05-18T17:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1bac1e4e02df",
       "pillar": "hiphop",
       "title": "Nas Cussed Out Warren Sapp Over Email Misunderstanding",
@@ -183,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "ffea70ef6c76",
-      "pillar": "hiphop",
-      "title": "Timbaland says Janice STFU’ Will Be “Timeless” As Fans Decode Viral ‘ICEMAN’ Track",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/18/timbaland-says-janice-stfu-will-be-timeless-as-fans-decode-viral-iceman-track/",
-      "thumbnail": "/drops/thumbs/ffea70ef6c76.jpg",
-      "published": "2026-05-18T07:37:52",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8d96fe6536f5",
-      "pillar": "anime",
-      "title": "Demon Slayer: The Hinokami Chronicles 2 Game Adds Doma on May 28",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/demon-slayer-the-hinokami-chronicles-2-game-adds-doma-on-may-28/.237493",
-      "thumbnail": "/drops/thumbs/8d96fe6536f5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "710cdc0db682",
       "pillar": "anime",
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
@@ -243,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "796a822edcda",
+      "pillar": "anime",
+      "title": "Zoku Thermae Romae Manga Resumes Serialization",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/zoku-thermae-romae-manga-resumes-serialization/.237503",
+      "thumbnail": "/drops/thumbs/796a822edcda.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "31d54ee0fe5c",
       "pillar": "anime",
       "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "796a822edcda",
+      "id": "a85ba233d0c4",
       "pillar": "anime",
-      "title": "Zoku Thermae Romae Manga Resumes Serialization",
+      "title": "I Don't Know Which Is Love Yuri Harem Manga Ends With 8th Volume",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/zoku-thermae-romae-manga-resumes-serialization/.237503",
-      "thumbnail": "/drops/thumbs/796a822edcda.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/i-dont-know-which-is-love-yuri-harem-manga-ends-with-8th-volume/.237486",
+      "thumbnail": "/drops/thumbs/a85ba233d0c4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "1bac1e4e02df",
+    "51e1f636c46e",
     "5d4bbf488e7f",
-    "8d96fe6536f5",
+    "710cdc0db682",
     "43151d13faa3",
     "0bf595ed7c6d"
   ]
