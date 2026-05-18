@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T09:51:25+00:00",
+  "generated_utc": "2026-05-18T10:16:29+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "ac10d7cafb73",
+      "pillar": "hiphop",
+      "title": "Texas woman goes to Walmart. Then she looks at their fan display: ‘Walmart… I have a question’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/walmart-lasko-fans-display-dangerous/",
+      "thumbnail": "/drops/thumbs/ac10d7cafb73.jpg",
+      "published": "2026-05-18T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f325c55a1b5b",
       "pillar": "hiphop",
       "title": "Did Jay-Z Quietly Step In To Cool Rick Ross Down?",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/george-clinton-takes-umg-to-court-over-missing-millions/",
       "thumbnail": "/drops/thumbs/032c854c1e6e.jpg",
       "published": "2026-05-17T13:01:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "14dcf802eb43",
-      "pillar": "hiphop",
-      "title": "Florida woman sits at the bar next to a 50-something man. They strike up a conversation—then the server asks them something wild. It gets worse: ‘I got really creeped out’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/florida-bar-older-man-creep/",
-      "thumbnail": "/drops/thumbs/14dcf802eb43.jpg",
-      "published": "2026-05-17T12:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -303,6 +303,18 @@
       "release_badge": ""
     },
     {
+      "id": "3d637f3432cd",
+      "pillar": "gaming",
+      "title": "Rumor: Rockstar Will Make Reviewers Play GTA 6 In A Closed Door Location",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562717/article/rumor-rockstar-will-make-reviewers-play-gta-6-in-a-closed-door-location/",
+      "thumbnail": "/drops/thumbs/3d637f3432cd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9313ad1fdfcf",
       "pillar": "gaming",
       "title": "Take-Two CEO Confirms GTA 6 Should Have Released Last May 2025, Restates It’s Coming This November",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "e0c125887144",
-      "pillar": "gaming",
-      "title": "News Mixtape Isn't Going Anywhere, Won't Be Delisted Over Music Licenses",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/mixtape-isnt-going-anywhere-wont-be-delisted-over-music-licenses",
-      "thumbnail": "/drops/thumbs/e0c125887144.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "f325c55a1b5b",
+    "ac10d7cafb73",
     "43151d13faa3",
     "a98004cbbb10",
     "37fc53e0f8e7",

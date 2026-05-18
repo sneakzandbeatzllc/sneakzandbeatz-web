@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T09:51:25+00:00",
+  "generated_utc": "2026-05-18T10:16:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Texas woman goes to Walmart. Then she looks at their fan display: ‘Walmart… I have a question’",
+      "url": "https://allhiphop.com/newsbreak/walmart-lasko-fans-display-dangerous/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Did Jay-Z Quietly Step In To Cool Rick Ross Down?",
       "url": "https://allhiphop.com/rumors/did-jay-z-quietly-step-in-to-cool-rick-ross-down/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "George Clinton Takes UMG To Court Over Missing Millions",
       "url": "https://allhiphop.com/news/george-clinton-takes-umg-to-court-over-missing-millions/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Florida woman sits at the bar next to a 50-something man. They strike up a conversation—then the server asks them something wild. It gets worse: ‘I got really creeped out’",
-      "url": "https://allhiphop.com/newsbreak/florida-bar-older-man-creep/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -179,6 +179,13 @@
       "article_slug": null
     },
     {
+      "title": "Rumor: Rockstar Will Make Reviewers Play GTA 6 In A Closed Door Location",
+      "url": "https://gameranx.com/updates/id/562717/article/rumor-rockstar-will-make-reviewers-play-gta-6-in-a-closed-door-location/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Take-Two CEO Confirms GTA 6 Should Have Released Last May 2025, Restates It’s Coming This November",
       "url": "https://gameranx.com/updates/id/562712/article/take-two-ceo-confirms-gta-6-should-have-released-last-may-2025-restates-its-coming-this-november/",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Bomberman 64 Is Still A Masterpiece Of 3D Platformers Without A Playbook",
       "url": "https://kotaku.com/bomberman-64-is-a-masterpiece-of-3d-platformers-without-a-playbook-2000696848",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Mixtape Isn't Going Anywhere, Won't Be Delisted Over Music Licenses",
-      "url": "https://www.pushsquare.com/news/2026/05/mixtape-isnt-going-anywhere-wont-be-delisted-over-music-licenses",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
