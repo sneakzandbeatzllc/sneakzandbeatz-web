@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T02:13:12+00:00",
+  "generated_utc": "2026-05-18T03:13:22+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f325c55a1b5b",
+      "pillar": "hiphop",
+      "title": "Did Jay-Z Quietly Step In To Cool Rick Ross Down?",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/did-jay-z-quietly-step-in-to-cool-rick-ross-down/",
+      "thumbnail": "/drops/thumbs/f325c55a1b5b.png",
+      "published": "2026-05-17T23:10:55",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "aa8a8778011a",
       "pillar": "hiphop",
       "title": "Lauryn Hill Reveals Yet Again Why Another Album Never Came After “Miseducation”",
@@ -183,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "fbcaff4991e8",
-      "pillar": "hiphop",
-      "title": "Leaders Demand Apology From Kevin Hart & Netflix Over George Floyd Joke & Note Donald Trump Double Standard",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/leaders-demand-apology-from-kevin-hart-netflix-over-george-floyd-joke-note-donald-trump-double-standard/",
-      "thumbnail": "/drops/thumbs/fbcaff4991e8.jpg",
-      "published": "2026-05-17T09:00:40",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a98004cbbb10",
       "pillar": "anime",
       "title": "Dragon Ball’s Most Divisive Transformations Are Better Than They Get Credit For",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-beast-gohan-orange-piccolo-good/",
       "thumbnail": "/drops/thumbs/a98004cbbb10.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "92a59de8fe67",
+      "pillar": "anime",
+      "title": "Jujutsu Kaisen Already Has 2026's Best Anime Quote, And It's Not Close (Exclusive)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-2026-best-anime-quote-cog/",
+      "thumbnail": "/drops/thumbs/92a59de8fe67.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
       "thumbnail": "/drops/thumbs/31d54ee0fe5c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fb9f459213d3",
-      "pillar": "anime",
-      "title": "Anime Expo to Screen 'Macross: Do You Remember Love?' Film; to Host Voice Actors Masakazu Morita, Machico",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-17/anime-expo-to-screen-macross-do-you-remember-love-film-to-host-voice-actors-masakazu-morita-machico/.237444",
-      "thumbnail": "/drops/thumbs/fb9f459213d3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "aa8a8778011a",
+    "f325c55a1b5b",
     "43151d13faa3",
     "a98004cbbb10",
     "37fc53e0f8e7",

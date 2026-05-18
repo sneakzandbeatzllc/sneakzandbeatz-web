@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T02:13:12+00:00",
+  "generated_utc": "2026-05-18T03:13:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Did Jay-Z Quietly Step In To Cool Rick Ross Down?",
+      "url": "https://allhiphop.com/rumors/did-jay-z-quietly-step-in-to-cool-rick-ross-down/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Lauryn Hill Reveals Yet Again Why Another Album Never Came After “Miseducation”",
       "url": "https://allhiphop.com/news/lauryn-hill-reveals-yet-again-why-another-album-never-came-after-miseducation/",
       "pillar": "hiphop",
@@ -109,15 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "Leaders Demand Apology From Kevin Hart & Netflix Over George Floyd Joke & Note Donald Trump Double Standard",
-      "url": "https://allhiphop.com/news/leaders-demand-apology-from-kevin-hart-netflix-over-george-floyd-joke-note-donald-trump-double-standard/",
-      "pillar": "hiphop",
+      "title": "Dragon Ball’s Most Divisive Transformations Are Better Than They Get Credit For",
+      "url": "https://screenrant.com/dragon-ball-beast-gohan-orange-piccolo-good/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Dragon Ball’s Most Divisive Transformations Are Better Than They Get Credit For",
-      "url": "https://screenrant.com/dragon-ball-beast-gohan-orange-piccolo-good/",
+      "title": "Jujutsu Kaisen Already Has 2026's Best Anime Quote, And It's Not Close (Exclusive)",
+      "url": "https://screenrant.com/jujutsu-kaisen-2026-best-anime-quote-cog/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
       "url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Anime Expo to Screen 'Macross: Do You Remember Love?' Film; to Host Voice Actors Masakazu Morita, Machico",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-17/anime-expo-to-screen-macross-do-you-remember-love-film-to-host-voice-actors-masakazu-morita-machico/.237444",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
