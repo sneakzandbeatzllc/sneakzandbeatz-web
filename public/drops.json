@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T10:52:17+00:00",
+  "generated_utc": "2026-05-18T11:17:32+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "e8cded529859",
+      "pillar": "hiphop",
+      "title": "Qurbani in Crisis Zones: How Qurbani Supports Families in Conflict Zones",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/18/qurbani/",
+      "thumbnail": "/drops/thumbs/e8cded529859.jpg",
+      "published": "2026-05-18T00:47:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f325c55a1b5b",
       "pillar": "hiphop",
       "title": "Did Jay-Z Quietly Step In To Cool Rick Ross Down?",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/royal-biographer-doubles-down-on-diddy-sarah-ferguson-affair-says-mogul-was-eyeing-her-kids-too/",
       "thumbnail": "/drops/thumbs/4b3bd1158b90.jpg",
       "published": "2026-05-17T14:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "032c854c1e6e",
-      "pillar": "hiphop",
-      "title": "George Clinton Takes UMG To Court Over Missing Millions",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/george-clinton-takes-umg-to-court-over-missing-millions/",
-      "thumbnail": "/drops/thumbs/032c854c1e6e.jpg",
-      "published": "2026-05-17T13:01:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,6 +291,18 @@
       "release_badge": ""
     },
     {
+      "id": "c3a5ccd611a8",
+      "pillar": "gaming",
+      "title": "News GTA 6 Originally Meant to Launch 18 Months Ago, But We're Still Waiting for Trailer 3 and Pre-Orders",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-originally-meant-to-launch-18-months-ago-but-were-still-waiting-for-trailer-3-and-pre-orders",
+      "thumbnail": "/drops/thumbs/c3a5ccd611a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0bf595ed7c6d",
       "pillar": "gaming",
       "title": "GTA 6 pre-orders could drop today after Best Buy leak, live updates",
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "e0c125887144",
-      "pillar": "gaming",
-      "title": "News Mixtape Isn't Going Anywhere, Won't Be Delisted Over Music Licenses",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/mixtape-isnt-going-anywhere-wont-be-delisted-over-music-licenses",
-      "thumbnail": "/drops/thumbs/e0c125887144.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "43151d13faa3",
     "a98004cbbb10",
     "37fc53e0f8e7",
-    "0bf595ed7c6d"
+    "c3a5ccd611a8"
   ]
 }
