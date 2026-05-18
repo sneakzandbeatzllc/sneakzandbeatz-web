@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-18T13:32:49+00:00",
+  "generated_utc": "2026-05-18T13:54:53+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -193,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "GTA 6 Was Originally Supposed To Be Out A Year Ago Before Facing 18 Month Delay",
+      "url": "https://kotaku.com/gta-6-was-originally-supposed-to-be-out-a-year-ago-before-facing-18-month-delay-2000697004",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rumor: Rockstar Will Make Reviewers Play GTA 6 In A Closed Door Location",
       "url": "https://gameranx.com/updates/id/562717/article/rumor-rockstar-will-make-reviewers-play-gta-6-in-a-closed-door-location/",
       "pillar": "gaming",
@@ -207,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News 'Looks Like We Got Sucker Punched': Ghost of Yotei Fans Gutted Support Has Ended for Free Co-Op Mode",
-      "url": "https://www.pushsquare.com/news/2026/05/looks-like-we-got-sucker-punched-ghost-of-yotei-fans-gutted-support-has-ended-for-free-co-op-mode",
+      "title": "News Gravity Rush 2 Fans Find a Way to Play Sony's Neglected PS4 Classic at 4K, 60fps",
+      "url": "https://www.pushsquare.com/news/2026/05/gravity-rush-2-fans-find-a-way-to-play-sonys-neglected-ps4-classic-at-4k-60fps",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Hideo Kojima has seen Return to Silent Hill, and his 8-word review says it all",
       "url": "https://www.gamesradar.com/entertainment/horror-movies/hideo-kojima-has-seen-return-to-silent-hill-and-his-8-word-review-says-it-all/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Borderlands' last-minute art style change cost the company $50 million, Take-Two CEO says",
-      "url": "https://www.gamesradar.com/games/borderlands/borderlands-last-minute-art-style-change-cost-the-company-usd50-million-take-two-ceo-says-borderlands-wouldnt-have-been-a-hit/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
