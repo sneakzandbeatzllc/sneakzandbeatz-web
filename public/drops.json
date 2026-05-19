@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T08:21:24+00:00",
+  "generated_utc": "2026-05-19T08:52:33+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Week"
     },
     {
-      "id": "7d4dc371b041",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Shop Jacket” (Workwear) Releases May 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-workwear/",
-      "thumbnail": "/drops/thumbs/7d4dc371b041.jpg",
-      "published": "2026-05-15T00:28:37",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "b7892b717b41",
       "pillar": "sneakers",
       "title": "Air Jordan 4 “Toro Bravo” 2026 May Release Date & Info",
@@ -96,6 +84,30 @@
       "published": "2026-05-18T15:32:31",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e146b07264a0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
+      "published": "2026-05-18T15:31:56",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "76bcc955a49b",
+      "pillar": "hiphop",
+      "title": "Ye and Travis Scott Score No. 1 Urban Radio Hit With “FATHER”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/19/ye-travis-scott-father-number-one/",
+      "thumbnail": "/drops/thumbs/76bcc955a49b.jpg",
+      "published": "2026-05-19T04:04:00",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/donald-trump-posts-shocking-image-of-himself-escorting-an-alien-in-chains/",
       "thumbnail": "/drops/thumbs/918eb2c5ceb8.jpg",
       "published": "2026-05-18T20:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4a6ae789260d",
-      "pillar": "hiphop",
-      "title": "Infamous Racist OJ Simpson Cop Mark Fuhrman Dead, Rappers Like Eminem & The Lox Kept His Name Alive",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/infamous-racist-oj-simpson-cop-mark-fuhrman-dead/",
-      "thumbnail": "/drops/thumbs/4a6ae789260d.jpg",
-      "published": "2026-05-18T19:21:54",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "5af48283c639",
+    "76bcc955a49b",
     "5d4bbf488e7f",
     "710cdc0db682",
     "43151d13faa3",

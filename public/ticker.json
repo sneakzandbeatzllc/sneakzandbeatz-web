@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T08:21:24+00:00",
+  "generated_utc": "2026-05-19T08:52:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,13 +32,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High OG “Shop Jacket” (Workwear) Releases May 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-workwear/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 4 “Toro Bravo” 2026 May Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-4-toro-bravo-fq8138-600-drop/",
       "pillar": "sneakers",
@@ -57,6 +50,20 @@
       "url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ye and Travis Scott Score No. 1 Urban Radio Hit With “FATHER”",
+      "url": "https://thesource.com/2026/05/19/ye-travis-scott-father-number-one/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Donald Trump Posts Shocking Image Of Himself Escorting An Alien In Chains",
       "url": "https://allhiphop.com/news/donald-trump-posts-shocking-image-of-himself-escorting-an-alien-in-chains/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Infamous Racist OJ Simpson Cop Mark Fuhrman Dead, Rappers Like Eminem & The Lox Kept His Name Alive",
-      "url": "https://allhiphop.com/news/infamous-racist-oj-simpson-cop-mark-fuhrman-dead/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
