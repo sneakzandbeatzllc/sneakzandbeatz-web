@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T15:38:29+00:00",
+  "generated_utc": "2026-05-19T16:14:33+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -37,18 +37,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
-    },
-    {
-      "id": "b7892b717b41",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Toro Bravo” 2026 May Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-toro-bravo-fq8138-600-drop/",
-      "thumbnail": "/drops/thumbs/b7892b717b41.jpg",
-      "published": "2026-05-12T12:28:47",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
     },
     {
       "id": "dd5fb84e4443",
@@ -96,6 +84,30 @@
       "published": "2026-05-18T15:28:55",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "50198589ca53",
+      "pillar": "sneakers",
+      "title": "First Look at the Air Jordan 4 “Birds of Paradise” Releasing Summer 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-4-birds-of-paradise-hv0823-101/",
+      "thumbnail": "/drops/thumbs/50198589ca53.webp",
+      "published": "2026-05-18T14:12:55",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9eee5af7d5a4",
+      "pillar": "hiphop",
+      "title": "Saweetie Sued For $3M Fraud After Allegedly Ghosting Japan Shows",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/saweetie-sued-for-3m-fraud-after-allegedly-ghosting-japan-shows/",
+      "thumbnail": "/drops/thumbs/9eee5af7d5a4.png",
+      "published": "2026-05-19T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "38148b6e6a17",
-      "pillar": "hiphop",
-      "title": "Spurs Outlast Thunder in Double OT Instant Classic to Seize Game 1 of WCF Finals",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/spurs-outlast-thunder-in-double-ot-instant-classic-to-seize-game-1-of-wcf-finals/",
-      "thumbnail": "/drops/thumbs/38148b6e6a17.jpg",
-      "published": "2026-05-19T07:19:13",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ff5b25a9a4b1",
-      "pillar": "anime",
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Presents Main Trailer",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-19/bleach-thousand-year-blood-war-the-calamity-anime-presents-main-trailer/.237517",
-      "thumbnail": "/drops/thumbs/ff5b25a9a4b1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "710cdc0db682",
       "pillar": "anime",
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
@@ -219,24 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "245c910a4da9",
+      "id": "1af10a848991",
       "pillar": "anime",
-      "title": "Bleach's Final Season Releases First Jaw-Dropping Trailer",
+      "title": "Netflix Unveils Stacked Summer Anime Slate, And One Piece Fans Are Eating",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-first-trailer/",
-      "thumbnail": "/drops/thumbs/245c910a4da9.jpg",
+      "source_url": "https://screenrant.com/netflix-summer-anime-releases-2026/",
+      "thumbnail": "/drops/thumbs/1af10a848991.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "c911b770ab9a",
+      "id": "245c910a4da9",
       "pillar": "anime",
-      "title": "Cyborg 009: Nemesis Anime Casts Yuu Hayashi as Cyborg 008",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-19/cyborg-009-nemesis-anime-casts-yuu-hayashi-as-cyborg-008/.237520",
-      "thumbnail": "/drops/thumbs/c911b770ab9a.jpg",
+      "title": "Bleach's Final Season Releases First Jaw-Dropping Trailer",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-first-trailer/",
+      "thumbnail": "/drops/thumbs/245c910a4da9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "14e0dfad4539",
-      "pillar": "anime",
-      "title": "Tubi TV Licenses Yokoso Scooby-Doo! Anime by OLM",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/tubi-tv-licenses-yokoso-scooby-doo-anime-by-olm/.237510",
-      "thumbnail": "/drops/thumbs/14e0dfad4539.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "54d415d18594",
       "pillar": "anime",
       "title": "Star Trek's Official New Deep Space Nine Series Is The Franchise Evolution Trek Has Needed",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/star-trek-new-deep-space-nine-franchise-evolution/",
       "thumbnail": "/drops/thumbs/54d415d18594.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d084fdbb62e7",
+      "pillar": "anime",
+      "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
+      "thumbnail": "/drops/thumbs/d084fdbb62e7.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1dde01591de8",
+      "pillar": "anime",
+      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
+      "thumbnail": "/drops/thumbs/1dde01591de8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,18 +309,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/the-witcher/we-learned-our-lesson-the-witcher-4-and-cyberpunk-2-wont-repeat-the-development-mistakes-of-cyberpunk-2077-cd-projekt-red-says/",
       "thumbnail": "/drops/thumbs/257f50911ae7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "10775b004c51",
-      "pillar": "gaming",
-      "title": "Game Pass Just Made It The Perfect Time To Try One Of The Best Final Fantasy Games",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/game-pass-just-made-it-the-perfect-time-to-try-one-of-the-best-final-fantasy-games-2000697410",
-      "thumbnail": "/drops/thumbs/10775b004c51.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "975b83878e1d",
-      "pillar": "gaming",
-      "title": "News Free on Xbox, PS5 Owners Made to Pay $10 for New Darksiders Upgrade",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/free-on-xbox-ps5-owners-made-to-pay-usd10-for-new-darksiders-upgrade",
-      "thumbnail": "/drops/thumbs/975b83878e1d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "dfe6cdd4f046",
       "pillar": "gaming",
       "title": "Star Wars: The Mandalorian And Grogu Reviews Say It’s Bringing Little Screen Energy And Lacking Anything Special",
@@ -385,13 +361,37 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "c0ebfa825abd",
+      "pillar": "gaming",
+      "title": "News 'It's a Clear Upgrade': Why 007 First Light Will Look and Play Best on PS5 Pro",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/its-a-clear-upgrade-why-007-first-light-will-look-and-play-best-on-ps5-pro",
+      "thumbnail": "/drops/thumbs/c0ebfa825abd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "706d3e62cc46",
+      "pillar": "gaming",
+      "title": "Two Months Later, Someone Has Finally Built (Most Of) Kanto In Pokémon Pokopia",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/someone-finally-built-kanto-pokemon-pokopia-2000697413",
+      "thumbnail": "/drops/thumbs/706d3e62cc46.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "126fbd451d6b",
+    "9eee5af7d5a4",
     "1f8cbf1d8983",
-    "ff5b25a9a4b1",
+    "710cdc0db682",
     "37fc53e0f8e7",
     "b1caddc0af78"
   ]

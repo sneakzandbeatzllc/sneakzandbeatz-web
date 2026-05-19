@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T15:38:29+00:00",
+  "generated_utc": "2026-05-19T16:14:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,13 +20,6 @@
     {
       "title": "The Air Jordan 3 “World’s Best Dad” Releases Tomorrow",
       "url": "https://justfreshkicks.com/air-jordan-3-worlds-best-dad-if4396-103/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Toro Bravo” 2026 May Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-4-toro-bravo-fq8138-600-drop/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -57,6 +50,20 @@
       "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "First Look at the Air Jordan 4 “Birds of Paradise” Releasing Summer 2026",
+      "url": "https://justfreshkicks.com/air-jordan-4-birds-of-paradise-hv0823-101/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Saweetie Sued For $3M Fraud After Allegedly Ghosting Japan Shows",
+      "url": "https://allhiphop.com/news/saweetie-sued-for-3m-fraud-after-allegedly-ghosting-japan-shows/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Spurs Outlast Thunder in Double OT Instant Classic to Seize Game 1 of WCF Finals",
-      "url": "https://thesource.com/2026/05/19/spurs-outlast-thunder-in-double-ot-instant-classic-to-seize-game-1-of-wcf-finals/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Presents Main Trailer",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/bleach-thousand-year-blood-war-the-calamity-anime-presents-main-trailer/.237517",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
@@ -130,15 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "Bleach's Final Season Releases First Jaw-Dropping Trailer",
-      "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-first-trailer/",
+      "title": "Netflix Unveils Stacked Summer Anime Slate, And One Piece Fans Are Eating",
+      "url": "https://screenrant.com/netflix-summer-anime-releases-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Cyborg 009: Nemesis Anime Casts Yuu Hayashi as Cyborg 008",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/cyborg-009-nemesis-anime-casts-yuu-hayashi-as-cyborg-008/.237520",
+      "title": "Bleach's Final Season Releases First Jaw-Dropping Trailer",
+      "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-first-trailer/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "Tubi TV Licenses Yokoso Scooby-Doo! Anime by OLM",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/tubi-tv-licenses-yokoso-scooby-doo-anime-by-olm/.237510",
+      "title": "Star Trek's Official New Deep Space Nine Series Is The Franchise Evolution Trek Has Needed",
+      "url": "https://screenrant.com/star-trek-new-deep-space-nine-franchise-evolution/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Star Trek's Official New Deep Space Nine Series Is The Franchise Evolution Trek Has Needed",
-      "url": "https://screenrant.com/star-trek-new-deep-space-nine-franchise-evolution/",
+      "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
+      "url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
+      "url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -181,13 +181,6 @@
     {
       "title": "\"We learned our lesson\": The Witcher 4 and Cyberpunk 2 won't repeat the development mistakes of Cyberpunk 2077, CDPR say",
       "url": "https://www.gamesradar.com/games/the-witcher/we-learned-our-lesson-the-witcher-4-and-cyberpunk-2-wont-repeat-the-development-mistakes-of-cyberpunk-2077-cd-projekt-red-says/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Game Pass Just Made It The Perfect Time To Try One Of The Best Final Fantasy Games",
-      "url": "https://kotaku.com/game-pass-just-made-it-the-perfect-time-to-try-one-of-the-best-final-fantasy-games-2000697410",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +207,22 @@
       "article_slug": null
     },
     {
-      "title": "News Free on Xbox, PS5 Owners Made to Pay $10 for New Darksiders Upgrade",
-      "url": "https://www.pushsquare.com/news/2026/05/free-on-xbox-ps5-owners-made-to-pay-usd10-for-new-darksiders-upgrade",
+      "title": "Star Wars: The Mandalorian And Grogu Reviews Say It’s Bringing Little Screen Energy And Lacking Anything Special",
+      "url": "https://kotaku.com/star-wars-the-mandalorian-and-grogu-reviews-say-its-bringing-little-screen-energy-and-lacking-anything-special-2000697398",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Star Wars: The Mandalorian And Grogu Reviews Say It’s Bringing Little Screen Energy And Lacking Anything Special",
-      "url": "https://kotaku.com/star-wars-the-mandalorian-and-grogu-reviews-say-its-bringing-little-screen-energy-and-lacking-anything-special-2000697398",
+      "title": "News 'It's a Clear Upgrade': Why 007 First Light Will Look and Play Best on PS5 Pro",
+      "url": "https://www.pushsquare.com/news/2026/05/its-a-clear-upgrade-why-007-first-light-will-look-and-play-best-on-ps5-pro",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Two Months Later, Someone Has Finally Built (Most Of) Kanto In Pokémon Pokopia",
+      "url": "https://kotaku.com/someone-finally-built-kanto-pokemon-pokopia-2000697413",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
