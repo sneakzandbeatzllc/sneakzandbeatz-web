@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T11:08:45+00:00",
+  "generated_utc": "2026-05-19T11:35:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Presents Main Trailer",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-19/bleach-thousand-year-blood-war-the-calamity-anime-presents-main-trailer/.237517",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
@@ -123,8 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Finally Delivered The Moment Fans Have Waited 20 Years For, And It Didn't Disappoint",
-      "url": "https://screenrant.com/one-piece-elbaph-payoff-20-years/",
+      "title": "Bleach's Final Season Releases First Jaw-Dropping Trailer",
+      "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-first-trailer/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Cyborg 009: Nemesis Anime Casts Yuu Hayashi as Cyborg 008",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-19/cyborg-009-nemesis-anime-casts-yuu-hayashi-as-cyborg-008/.237520",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,29 +158,15 @@
       "article_slug": null
     },
     {
+      "title": "Tubi TV Licenses Yokoso Scooby-Doo! Anime by OLM",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/tubi-tv-licenses-yokoso-scooby-doo-anime-by-olm/.237510",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
       "url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
-      "url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Anime Finally Has Its Official Gojo Replacement, And They're His Perfect Opposite",
-      "url": "https://screenrant.com/witch-hat-atelier-qifrey-gojo-replacement-jujutsu-kaisen/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Matthew Lillard Is Officially Returning For Scooby-Doo's Biggest Franchise Evolution In 57 Years",
-      "url": "https://screenrant.com/yokoso-scooby-doo-new-series-matthew-lillard-return-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -186,13 +186,6 @@
       "article_slug": null
     },
     {
-      "title": "Take-Two CEO Confirms GTA 6 Should Have Released Last May 2025, Restates It’s Coming This November",
-      "url": "https://gameranx.com/updates/id/562712/article/take-two-ceo-confirms-gta-6-should-have-released-last-may-2025-restates-its-coming-this-november/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Prominent PS5 Podcaster's Account Hacked, Social Engineering Concerns Amplified",
       "url": "https://www.pushsquare.com/news/2026/05/prominent-ps5-podcasters-account-hacked-social-engineering-concerns-amplified",
       "pillar": "gaming",
@@ -207,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Ex-Google CEO Can Barely Get A Word Out About AI As He’s Booed And Heckled",
-      "url": "https://kotaku.com/eric-schmidt-ai-graduation-speech-university-arizona-2000697034",
+      "title": "Nintendo Announces Completely Bonkers New Game That Turns Your Photos Into Minigames",
+      "url": "https://kotaku.com/nintendo-pictonico-mobile-game-wario-ware-freemium-2000697363",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "Lara Croft and Indiana Jones actors unite for the Future Games Show, followed by an Exodus deep-dive",
       "url": "https://www.gamesradar.com/games/an-exodus-deep-dive-accompanies-the-future-games-show-with-lara-croft-and-indiana-jones-actors-on-hosting-duties/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Even The Worst Pokémon Are Someone’s Favorite And Now There’s Proof",
+      "url": "https://kotaku.com/even-the-worst-pokemon-someones-favorites-now-theres-proof-2000697141",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
