@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T13:24:34+00:00",
+  "generated_utc": "2026-05-19T13:36:27+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Presents Main Trailer",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/bleach-thousand-year-blood-war-the-calamity-anime-presents-main-trailer/.237517",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
@@ -132,13 +125,6 @@
     {
       "title": "Bleach's Final Season Releases First Jaw-Dropping Trailer",
       "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-first-trailer/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Cyborg 009: Nemesis Anime Casts Yuu Hayashi as Cyborg 008",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/cyborg-009-nemesis-anime-casts-yuu-hayashi-as-cyborg-008/.237520",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +144,29 @@
       "article_slug": null
     },
     {
-      "title": "Tubi TV Licenses Yokoso Scooby-Doo! Anime by OLM",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/tubi-tv-licenses-yokoso-scooby-doo-anime-by-olm/.237510",
+      "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
+      "url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
-      "url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
+      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
+      "url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Anime Finally Has Its Official Gojo Replacement, And They're His Perfect Opposite",
+      "url": "https://screenrant.com/witch-hat-atelier-qifrey-gojo-replacement-jujutsu-kaisen/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Matthew Lillard Is Officially Returning For Scooby-Doo's Biggest Franchise Evolution In 57 Years",
+      "url": "https://screenrant.com/yokoso-scooby-doo-new-series-matthew-lillard-return-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "News Xbox Fans Flock to Online Suggestions Box to Tell Microsoft to Keep Games Off PS5",
-      "url": "https://www.pushsquare.com/news/2026/05/xbox-fans-flock-to-online-suggestions-box-to-tell-microsoft-to-keep-games-off-ps5",
+      "title": "News 5 PS Plus Extra Game Removals for June 2026 Confirmed",
+      "url": "https://www.pushsquare.com/news/2026/05/5-ps-plus-extra-game-removals-for-june-2026-confirmed",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,15 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "Nintendo Announces Completely Bonkers New Game That Turns Your Photos Into Minigames",
-      "url": "https://kotaku.com/nintendo-pictonico-mobile-game-wario-ware-freemium-2000697363",
+      "title": "Steam Deletes A Bunch Of Game Tags Like ‘Dungeons & Dragons,’ ‘Warhammer 40K,’ And ‘Lego’ In Rare Purge",
+      "url": "https://kotaku.com/steam-deletes-a-bunch-of-game-tags-like-dungeons-dragons-warhammer-40k-and-lego-in-rare-purge-2000697376",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Guide LEGO Batman: Legacy of the Dark Knight Guide: 100% Collectibles Walkthrough",
-      "url": "https://www.pushsquare.com/guides/lego-batman-legacy-of-the-dark-knight-guide-100percent-collectibles-walkthrough",
+      "title": "News Xbox Fans Flock to Online Suggestions Box to Tell Microsoft to Keep Games Off PS5",
+      "url": "https://www.pushsquare.com/news/2026/05/xbox-fans-flock-to-online-suggestions-box-to-tell-microsoft-to-keep-games-off-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Isekai Is Basically The Live-Service Gaming Of Manga And Anime As Publisher Blames It For Swallowing Up Profits",
-      "url": "https://kotaku.com/isekai-manga-anime-kadokawa-sword-art-online-2000697349",
+      "title": "Should You Play Subnautica 2 In Early Access? The Answer Is Complicated",
+      "url": "https://kotaku.com/should-i-play-subnautica-2-in-early-access-or-wait-unknown-worlds-2000697371",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
