@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T21:34:13+00:00",
+  "generated_utc": "2026-05-19T22:05:12+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -27,24 +27,24 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "37fc53e0f8e7",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 “World’s Best Dad” Releases Tomorrow",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-worlds-best-dad-if4396-103/",
-      "thumbnail": "/drops/thumbs/37fc53e0f8e7.jpg",
-      "published": "2026-05-15T04:32:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
-    },
-    {
       "id": "dd5fb84e4443",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “Brazil” Releases May 16th",
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-3-brazil-iv4871-400-release-date/",
       "thumbnail": "/drops/thumbs/dd5fb84e4443.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "4544ebd683e4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “World’s Best Dad” Now Available (May 2026)",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-3-worlds-best-dad/",
+      "thumbnail": "/drops/thumbs/4544ebd683e4.webp",
       "published": "",
       "relative_time": "today",
       "score": 3.0,
@@ -99,6 +99,78 @@
       "release_badge": ""
     },
     {
+      "id": "93503273b958",
+      "pillar": "hiphop",
+      "title": "Sheriff Says Arrests Coming Soon In Deadly Stockton Mass Shooting Targeting Rappers",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/sheriff-says-arrests-coming-soon-in-deadly-stockton-mass-shooting-targeting-rappers/",
+      "thumbnail": "/drops/thumbs/93503273b958.jpg",
+      "published": "2026-05-19T14:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7fa5147d1bc0",
+      "pillar": "hiphop",
+      "title": "G Herbo’s Fraud Manager Pleads Guilty In Stolen Credit Card Conspiracy",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/g-herbos-fraud-manager-pleads-guilty-in-stolen-credit-card-conspiracy/",
+      "thumbnail": "/drops/thumbs/7fa5147d1bc0.jpg",
+      "published": "2026-05-19T13:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "923fe2376ffe",
+      "pillar": "hiphop",
+      "title": "Boxers Alycia Baumgardner & Claressa Shields May Face Legal Showdown After Alleged Assault",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/boxers-alycia-baumgardner-claressa-shields-may-face-legal-showdown-after-alleged-assault/",
+      "thumbnail": "/drops/thumbs/923fe2376ffe.jpg",
+      "published": "2026-05-19T12:32:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9eee5af7d5a4",
+      "pillar": "hiphop",
+      "title": "Saweetie Sued For $3M Fraud After Allegedly Ghosting Japan Shows",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/saweetie-sued-for-3m-fraud-after-allegedly-ghosting-japan-shows/",
+      "thumbnail": "/drops/thumbs/9eee5af7d5a4.png",
+      "published": "2026-05-19T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "126fbd451d6b",
+      "pillar": "hiphop",
+      "title": "Cardi B Dominates 2026 BET Awards With Six Nominations",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/cardi-b-dominates-2026-bet-awards-with-six-nominations/",
+      "thumbnail": "/drops/thumbs/126fbd451d6b.jpg",
+      "published": "2026-05-19T11:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "06d3d82d454d",
+      "pillar": "hiphop",
+      "title": "Latto Confirms She Gave Birth To Her First Child With 21 Savage",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/latto-confirms-she-gave-birth-to-her-first-child-with-21-savage/",
+      "thumbnail": "/drops/thumbs/06d3d82d454d.jpg",
+      "published": "2026-05-19T10:47:32",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5aeb127606fe",
       "pillar": "hiphop",
       "title": "Honoring 101 Years Of Malcolm X, A Legacy That Still Speaks Truth To Power",
@@ -123,84 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "285f47c9422f",
-      "pillar": "hiphop",
-      "title": "Detective Mark Fuhrman, Central Figure In OJ Simpson Trial, Dead at 76",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/detective-mark-fuhrman-central-figure-in-oj-simpson-trial-dead-at-76/",
-      "thumbnail": "/drops/thumbs/285f47c9422f.jpg",
-      "published": "2026-05-19T07:31:28",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8cd7d34a0a91",
-      "pillar": "hiphop",
-      "title": "Michael Jackson’s ‘Billie Jean’ Hits No. 1 Globally After 43 Years",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/michael-jackson-billie-jean-global-200/",
-      "thumbnail": "/drops/thumbs/8cd7d34a0a91.jpg",
-      "published": "2026-05-19T07:25:29",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2bf43279bea2",
-      "pillar": "hiphop",
-      "title": "Hero Security Guard Murdered Protecting Children in San Diego Mosque Hate Filled Attack",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/security-guard-murdered-protecting-children-in-san-diego-mosque-hate-filled-attack/",
-      "thumbnail": "/drops/thumbs/2bf43279bea2.jpg",
-      "published": "2026-05-19T07:20:51",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "38148b6e6a17",
-      "pillar": "hiphop",
-      "title": "Spurs Outlast Thunder in Double OT Instant Classic to Seize Game 1 of WCF Finals",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/spurs-outlast-thunder-in-double-ot-instant-classic-to-seize-game-1-of-wcf-finals/",
-      "thumbnail": "/drops/thumbs/38148b6e6a17.jpg",
-      "published": "2026-05-19T07:19:13",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a0ff970bc4ba",
-      "pillar": "hiphop",
-      "title": "adidas Originals and Avavav Unveil Sculptural Spring/Summer 2026 Collection",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/adidas-originals-avavav-spring-summer-2026/",
-      "thumbnail": "/drops/thumbs/a0ff970bc4ba.jpg",
-      "published": "2026-05-19T05:49:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "73dda65746e7",
-      "pillar": "hiphop",
-      "title": "Jeremy Pope, Jay Ellis, and Christina Milian Attend Cannes as Rémy Martin Guests",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/remy-martin-cannes-film-festival-2026/",
-      "thumbnail": "/drops/thumbs/73dda65746e7.jpg",
-      "published": "2026-05-19T05:13:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "710cdc0db682",
       "pillar": "anime",
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "thumbnail": "/drops/thumbs/710cdc0db682.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7f545221e563",
+      "pillar": "anime",
+      "title": "One Piece Finally Confirms The One Pirate Who Has Surpassed Roger",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-roger-shanks-surpassed-roger-stronger/",
+      "thumbnail": "/drops/thumbs/7f545221e563.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-19/you-cant-be-in-a-rom-com-with-your-childhood-friends-manga-ends-in-3-chapters/.237523",
       "thumbnail": "/drops/thumbs/09d066cea84c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "559331b5444c",
-      "pillar": "anime",
-      "title": "Nana Fans Get a Stunning New Merch and Clothing Drop",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/nana-new-clothing-merchandise-drop-hot-topic-2026/",
-      "thumbnail": "/drops/thumbs/559331b5444c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "5aeb127606fe",
+    "93503273b958",
     "1f8cbf1d8983",
     "710cdc0db682",
-    "37fc53e0f8e7",
+    "dd5fb84e4443",
     "b1caddc0af78"
   ]
 }
