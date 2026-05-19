@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T02:46:05+00:00",
+  "generated_utc": "2026-05-19T03:30:49+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d7839edf4137",
+      "pillar": "hiphop",
+      "title": "Donald Trump’s Adviser Denies Nicki Minaj Seeking Favors From The Administration",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/donald-trumps-adviser-denies-nicki-minaj-seeking-favors-from-the-administration/",
+      "thumbnail": "/drops/thumbs/d7839edf4137.jpg",
+      "published": "2026-05-18T23:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b9296595297d",
       "pillar": "hiphop",
       "title": "Alabama Rapper Admits To Killing His Ex On Facebook, Then Himself In Graveyard",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "f076fd35c538",
-      "pillar": "hiphop",
-      "title": "‘My Lululemon bag is gone’: Dallas woman books $264 hair appointment on StyleSeat. Then the stylist walks out on her while she’s under the dryer",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/dallas-styleseat-264-dollar-hair-appointment/",
-      "thumbnail": "/drops/thumbs/f076fd35c538.jpg",
-      "published": "2026-05-18T18:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "710cdc0db682",
       "pillar": "anime",
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "fd3a5844e600",
+      "id": "14e0dfad4539",
       "pillar": "anime",
-      "title": "'You, Fireworks, and Our Promise' Anime Film's Trailer Unveils More Cast & Staff, Theme Song",
+      "title": "Tubi TV Licenses Yokoso Scooby-Doo! Anime by OLM",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/you-fireworks-and-our-promise-anime-film-trailer-unveils-more-cast-and-staff-theme-song/.237508",
-      "thumbnail": "/drops/thumbs/fd3a5844e600.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/tubi-tv-licenses-yokoso-scooby-doo-anime-by-olm/.237510",
+      "thumbnail": "/drops/thumbs/14e0dfad4539.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "8b56733d33ae",
+      "id": "fd3a5844e600",
       "pillar": "anime",
-      "title": "Manga Mavericks Licenses 'Tie Me Up, Stare Me Down' Manga",
+      "title": "'You, Fireworks, and Our Promise' Anime Film's Trailer Unveils More Cast & Staff, Theme Song",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/manga-mavericks-licenses-tie-me-up-stare-me-down-manga/.237500",
-      "thumbnail": "/drops/thumbs/8b56733d33ae.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/you-fireworks-and-our-promise-anime-film-trailer-unveils-more-cast-and-staff-theme-song/.237508",
+      "thumbnail": "/drops/thumbs/fd3a5844e600.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "796a822edcda",
+      "id": "8b56733d33ae",
       "pillar": "anime",
-      "title": "Zoku Thermae Romae Manga Resumes Serialization",
+      "title": "Manga Mavericks Licenses 'Tie Me Up, Stare Me Down' Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/zoku-thermae-romae-manga-resumes-serialization/.237503",
-      "thumbnail": "/drops/thumbs/796a822edcda.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/manga-mavericks-licenses-tie-me-up-stare-me-down-manga/.237500",
+      "thumbnail": "/drops/thumbs/8b56733d33ae.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "b9296595297d",
+    "d7839edf4137",
     "5d4bbf488e7f",
     "710cdc0db682",
     "43151d13faa3",

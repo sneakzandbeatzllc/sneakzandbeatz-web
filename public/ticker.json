@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T02:46:05+00:00",
+  "generated_utc": "2026-05-19T03:30:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Donald Trump’s Adviser Denies Nicki Minaj Seeking Favors From The Administration",
+      "url": "https://allhiphop.com/news/donald-trumps-adviser-denies-nicki-minaj-seeking-favors-from-the-administration/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Alabama Rapper Admits To Killing His Ex On Facebook, Then Himself In Graveyard",
       "url": "https://allhiphop.com/news/alabama-rapper-admits-to-killing-his-wife-on-facebook-then-himself-in-graveyard/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "‘My Lululemon bag is gone’: Dallas woman books $264 hair appointment on StyleSeat. Then the stylist walks out on her while she’s under the dryer",
-      "url": "https://allhiphop.com/newsbreak/dallas-styleseat-264-dollar-hair-appointment/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
@@ -130,15 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "'You, Fireworks, and Our Promise' Anime Film's Trailer Unveils More Cast & Staff, Theme Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/you-fireworks-and-our-promise-anime-film-trailer-unveils-more-cast-and-staff-theme-song/.237508",
+      "title": "Tubi TV Licenses Yokoso Scooby-Doo! Anime by OLM",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/tubi-tv-licenses-yokoso-scooby-doo-anime-by-olm/.237510",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Manga Mavericks Licenses 'Tie Me Up, Stare Me Down' Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/manga-mavericks-licenses-tie-me-up-stare-me-down-manga/.237500",
+      "title": "'You, Fireworks, and Our Promise' Anime Film's Trailer Unveils More Cast & Staff, Theme Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/you-fireworks-and-our-promise-anime-film-trailer-unveils-more-cast-and-staff-theme-song/.237508",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Zoku Thermae Romae Manga Resumes Serialization",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/zoku-thermae-romae-manga-resumes-serialization/.237503",
+      "title": "Manga Mavericks Licenses 'Tie Me Up, Stare Me Down' Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-18/manga-mavericks-licenses-tie-me-up-stare-me-down-manga/.237500",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
