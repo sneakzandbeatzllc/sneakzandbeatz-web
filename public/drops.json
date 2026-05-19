@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T22:44:42+00:00",
+  "generated_utc": "2026-05-19T23:21:19+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "229e72d649de",
+      "pillar": "hiphop",
+      "title": "Eminem’s Ex Was Totally Smashed & Almost 3X Legal Limit In Latest DUI Arrest",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/eminems-ex-was-totally-smashed-almost-3x-legal-limit-in-latest-dui-arrest/",
+      "thumbnail": "/drops/thumbs/229e72d649de.jpg",
+      "published": "2026-05-19T19:03:09",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4704d3a37ba3",
       "pillar": "hiphop",
       "title": "Singer Teedra Moses Delivers A Fierce Message About Aging & Self Worth",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/cardi-b-dominates-2026-bet-awards-with-six-nominations/",
       "thumbnail": "/drops/thumbs/126fbd451d6b.jpg",
       "published": "2026-05-19T11:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "06d3d82d454d",
-      "pillar": "hiphop",
-      "title": "Latto Confirms She Gave Birth To Her First Child With 21 Savage",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/latto-confirms-she-gave-birth-to-her-first-child-with-21-savage/",
-      "thumbnail": "/drops/thumbs/06d3d82d454d.jpg",
-      "published": "2026-05-19T10:47:32",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "4704d3a37ba3",
+    "229e72d649de",
     "1f8cbf1d8983",
     "710cdc0db682",
     "dd5fb84e4443",
