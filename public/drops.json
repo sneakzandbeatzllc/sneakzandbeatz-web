@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T17:15:53+00:00",
+  "generated_utc": "2026-05-19T18:17:12+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "93503273b958",
+      "pillar": "hiphop",
+      "title": "Sheriff Says Arrests Coming Soon In Deadly Stockton Mass Shooting Targeting Rappers",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/sheriff-says-arrests-coming-soon-in-deadly-stockton-mass-shooting-targeting-rappers/",
+      "thumbnail": "/drops/thumbs/93503273b958.jpg",
+      "published": "2026-05-19T14:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7fa5147d1bc0",
       "pillar": "hiphop",
       "title": "G Herbo’s Fraud Manager Pleads Guilty In Stolen Credit Card Conspiracy",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/19/today-in-hip-hop-history-the-roots-released-their-debut-album-organix-33-years-ago/",
       "thumbnail": "/drops/thumbs/65e53de7969f.jpg",
       "published": "2026-05-19T07:49:15",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "285f47c9422f",
-      "pillar": "hiphop",
-      "title": "Detective Mark Fuhrman, Central Figure In OJ Simpson Trial, Dead at 76",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/detective-mark-fuhrman-central-figure-in-oj-simpson-trial-dead-at-76/",
-      "thumbnail": "/drops/thumbs/285f47c9422f.jpg",
-      "published": "2026-05-19T07:31:28",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "dfe6cdd4f046",
+      "id": "ad8d5b3315d8",
       "pillar": "gaming",
-      "title": "Star Wars: The Mandalorian And Grogu Reviews Say It’s Bringing Little Screen Energy And Lacking Anything Special",
+      "title": "Pedro Pascal, Have You Considered Being In Things That Are Good?",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/star-wars-the-mandalorian-and-grogu-reviews-say-its-bringing-little-screen-energy-and-lacking-anything-special-2000697398",
-      "thumbnail": "/drops/thumbs/dfe6cdd4f046.jpg",
+      "source_url": "https://kotaku.com/pedro-pascal-have-you-considered-being-in-things-that-are-good-2000697454",
+      "thumbnail": "/drops/thumbs/ad8d5b3315d8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d33abfbd0fcd",
+      "id": "cb13d3a8d774",
       "pillar": "gaming",
-      "title": "Hands On The Adventures of Elliot Fixes My Biggest Problem with Square Enix's Modern RPGs",
+      "title": "News 'PS5 Is for the Payers': Just 18% Think PS Plus Essential Is Good Value for Money in 2026",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/hands-on-the-adventures-of-elliot-fixes-my-biggest-problem-with-square-enixs-modern-rpgs",
-      "thumbnail": "/drops/thumbs/d33abfbd0fcd.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/ps5-is-for-the-payers-just-18percent-think-ps-plus-essential-is-good-value-for-money-in-2026",
+      "thumbnail": "/drops/thumbs/cb13d3a8d774.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "7fa5147d1bc0",
+    "93503273b958",
     "1f8cbf1d8983",
     "710cdc0db682",
     "37fc53e0f8e7",
