@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T15:13:14+00:00",
+  "generated_utc": "2026-05-19T15:37:38+00:00",
   "items": [
+    {
+      "id": "5d4bbf488e7f",
+      "pillar": "sneakers",
+      "title": "Nigel Sylvester x Air Jordan 4 “Brick After Brick” May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
+      "thumbnail": "/drops/thumbs/5d4bbf488e7f.jpg",
+      "published": "2026-05-18T07:21:30",
+      "relative_time": "today",
+      "score": 7.5,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "1f8cbf1d8983",
       "pillar": "sneakers",
@@ -10,18 +22,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-12-bloodline-ct8013-003-drop/",
       "thumbnail": "/drops/thumbs/1f8cbf1d8983.jpg",
       "published": "2026-05-16T17:42:00",
-      "relative_time": "today",
-      "score": 7.5,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "5d4bbf488e7f",
-      "pillar": "sneakers",
-      "title": "Nigel Sylvester x Air Jordan 4 “Brick After Brick” May Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
-      "thumbnail": "/drops/thumbs/5d4bbf488e7f.jpg",
-      "published": "2026-05-16T07:21:30",
       "relative_time": "today",
       "score": 7.5,
       "release_badge": "🔥 Banger"
@@ -303,6 +303,18 @@
       "release_badge": ""
     },
     {
+      "id": "257f50911ae7",
+      "pillar": "gaming",
+      "title": "\"We learned our lesson\": The Witcher 4 and Cyberpunk 2 won't repeat the development mistakes of Cyberpunk 2077, CDPR say",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/the-witcher/we-learned-our-lesson-the-witcher-4-and-cyberpunk-2-wont-repeat-the-development-mistakes-of-cyberpunk-2077-cd-projekt-red-says/",
+      "thumbnail": "/drops/thumbs/257f50911ae7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "10775b004c51",
       "pillar": "gaming",
       "title": "Game Pass Just Made It The Perfect Time To Try One Of The Best Final Fantasy Games",
@@ -351,24 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "7a7c97d7988c",
+      "id": "975b83878e1d",
       "pillar": "gaming",
-      "title": "News Find Out What's Next for PS5's GTA-Like Anime Open World Later This Week",
+      "title": "News Free on Xbox, PS5 Owners Made to Pay $10 for New Darksiders Upgrade",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/find-out-whats-next-for-ps5s-gta-like-anime-open-world-later-this-week",
-      "thumbnail": "/drops/thumbs/7a7c97d7988c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8231c2713960",
-      "pillar": "gaming",
-      "title": "PlayStation reportedly confirms end of PC support for major single-player games 10 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/playstation-reportedly-confirms-end-of-pc-support-for-major-single-player-games-as-ceo-commits-to-console-exclusivity/",
-      "thumbnail": "/drops/thumbs/8231c2713960.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/free-on-xbox-ps5-owners-made-to-pay-usd10-for-new-darksiders-upgrade",
+      "thumbnail": "/drops/thumbs/975b83878e1d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,9 +388,9 @@
     }
   ],
   "homepage": [
-    "1f8cbf1d8983",
-    "126fbd451d6b",
     "5d4bbf488e7f",
+    "126fbd451d6b",
+    "1f8cbf1d8983",
     "ff5b25a9a4b1",
     "37fc53e0f8e7",
     "b1caddc0af78"
