@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T16:26:32+00:00",
+  "generated_utc": "2026-05-19T16:38:48+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "923fe2376ffe",
+      "pillar": "hiphop",
+      "title": "Boxers Alycia Baumgardner & Claressa Shields May Face Legal Showdown After Alleged Assault",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/boxers-alycia-baumgardner-claressa-shields-may-face-legal-showdown-after-alleged-assault/",
+      "thumbnail": "/drops/thumbs/923fe2376ffe.jpg",
+      "published": "2026-05-19T12:32:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9eee5af7d5a4",
       "pillar": "hiphop",
       "title": "Saweetie Sued For $3M Fraud After Allegedly Ghosting Japan Shows",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/19/michael-jackson-billie-jean-global-200/",
       "thumbnail": "/drops/thumbs/8cd7d34a0a91.jpg",
       "published": "2026-05-19T07:25:29",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2bf43279bea2",
-      "pillar": "hiphop",
-      "title": "Hero Security Guard Murdered Protecting Children in San Diego Mosque Hate Filled Attack",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/security-guard-murdered-protecting-children-in-san-diego-mosque-hate-filled-attack/",
-      "thumbnail": "/drops/thumbs/2bf43279bea2.jpg",
-      "published": "2026-05-19T07:20:51",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "9eee5af7d5a4",
+    "923fe2376ffe",
     "1f8cbf1d8983",
     "ff5b25a9a4b1",
     "37fc53e0f8e7",
