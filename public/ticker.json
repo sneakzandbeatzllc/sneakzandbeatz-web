@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T04:18:23+00:00",
+  "generated_utc": "2026-05-19T04:32:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Jake Paul’s MVP Bans Claressa Shields After Alleged Assault On Boxer",
+      "url": "https://allhiphop.com/ahhplus/jake-pauls-mvp-bans-claressa-shields-after-alleged-assault-on-boxer/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Donald Trump’s Adviser Denies Nicki Minaj Seeking Favors From The Administration",
       "url": "https://allhiphop.com/news/donald-trumps-adviser-denies-nicki-minaj-seeking-favors-from-the-administration/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Infamous Racist OJ Simpson Cop Mark Fuhrman Dead, Rappers Like Eminem & The Lox Kept His Name Alive",
       "url": "https://allhiphop.com/news/infamous-racist-oj-simpson-cop-mark-fuhrman-dead/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "6ix9ine Turns Into Preacher; Says Jesus Is Coming Back Soon, Says He Is Meant To Save People",
-      "url": "https://allhiphop.com/news/6ix9ine-turns-into-preacher-says-jesus-is-coming-back-soon-says-he-is-meant-to-save-people/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
