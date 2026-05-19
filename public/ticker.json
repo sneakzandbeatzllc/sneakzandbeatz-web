@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T14:12:00+00:00",
+  "generated_utc": "2026-05-19T14:37:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Presents Main Trailer",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/bleach-thousand-year-blood-war-the-calamity-anime-presents-main-trailer/.237517",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
@@ -132,13 +125,6 @@
     {
       "title": "Bleach's Final Season Releases First Jaw-Dropping Trailer",
       "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-first-trailer/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Cyborg 009: Nemesis Anime Casts Yuu Hayashi as Cyborg 008",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/cyborg-009-nemesis-anime-casts-yuu-hayashi-as-cyborg-008/.237520",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Tubi TV Licenses Yokoso Scooby-Doo! Anime by OLM",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-18/tubi-tv-licenses-yokoso-scooby-doo-anime-by-olm/.237510",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Star Trek's Official New Deep Space Nine Series Is The Franchise Evolution Trek Has Needed",
       "url": "https://screenrant.com/star-trek-new-deep-space-nine-franchise-evolution/",
       "pillar": "anime",
@@ -172,8 +151,36 @@
       "article_slug": null
     },
     {
+      "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
+      "url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
+      "url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Anime Finally Has Its Official Gojo Replacement, And They're His Perfect Opposite",
+      "url": "https://screenrant.com/witch-hat-atelier-qifrey-gojo-replacement-jujutsu-kaisen/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rumor Debunked? GTA 6 Community Believes Best Buy Got The Pre-Order Date Wrong",
       "url": "https://gameranx.com/updates/id/562722/article/rumor-debunked-gta-6-community-believes-best-buy-got-the-pre-order-date-wrong/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Finally, I Have a Reason to Play as My Street Fighter 6 Avatar on PS5, PS4 Again",
+      "url": "https://www.pushsquare.com/news/2026/05/finally-i-have-a-reason-to-play-as-my-street-fighter-6-avatar-on-ps5-ps4-again",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,22 +200,15 @@
       "article_slug": null
     },
     {
+      "title": "Zero Parades: For Dead Spies — The Kotaku Review",
+      "url": "https://kotaku.com/zero-parades-for-dead-spies-review-zaum-disco-elysium-pc-steam-2000697108",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News No PS5, PS4 Trophies for Time Crisis as Bandai Namco Continues Its Classics Losing Streak",
       "url": "https://www.pushsquare.com/news/2026/05/no-ps5-ps4-trophies-for-time-crisis-as-bandai-namco-continues-its-classics-losing-streak",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Steam Deletes A Bunch Of Game Tags Like ‘Dungeons & Dragons,’ ‘Warhammer 40K,’ And ‘Lego’ In Rare Purge",
-      "url": "https://kotaku.com/steam-deletes-a-bunch-of-game-tags-like-dungeons-dragons-warhammer-40k-and-lego-in-rare-purge-2000697376",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News 5 PS Plus Extra Game Removals for June 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/05/5-ps-plus-extra-game-removals-for-june-2026-confirmed",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Nintendo Announces Completely Bonkers New Game That Turns Your Photos Into Minigames",
-      "url": "https://kotaku.com/nintendo-pictonico-mobile-game-wario-ware-freemium-2000697363",
+      "title": "Steam Deletes A Bunch Of Game Tags Like ‘Dungeons & Dragons,’ ‘Warhammer 40K,’ And ‘Lego’ In Rare Purge",
+      "url": "https://kotaku.com/steam-deletes-a-bunch-of-game-tags-like-dungeons-dragons-warhammer-40k-and-lego-in-rare-purge-2000697376",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
