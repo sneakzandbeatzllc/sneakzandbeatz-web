@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T22:05:12+00:00",
+  "generated_utc": "2026-05-19T22:20:17+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "4704d3a37ba3",
+      "pillar": "hiphop",
+      "title": "Singer Teedra Moses Delivers A Fierce Message About Aging & Self Worth",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/singer-teedra-moses-delivers-a-fierce-message-about-aging-self-worth/",
+      "thumbnail": "/drops/thumbs/4704d3a37ba3.jpg",
+      "published": "2026-05-19T18:15:06",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "80607517fa56",
+      "pillar": "hiphop",
+      "title": "Kim Kardashian SKIMS Denies Involvement In Cocaine Dealing Operation",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/kim-kardashian-skims-denies-involvement-in-cocaine-dealing-operation/",
+      "thumbnail": "/drops/thumbs/80607517fa56.jpg",
+      "published": "2026-05-19T18:08:14",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "93503273b958",
       "pillar": "hiphop",
       "title": "Sheriff Says Arrests Coming Soon In Deadly Stockton Mass Shooting Targeting Rappers",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/latto-confirms-she-gave-birth-to-her-first-child-with-21-savage/",
       "thumbnail": "/drops/thumbs/06d3d82d454d.jpg",
       "published": "2026-05-19T10:47:32",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5aeb127606fe",
-      "pillar": "hiphop",
-      "title": "Honoring 101 Years Of Malcolm X, A Legacy That Still Speaks Truth To Power",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/honoring-101-years-of-malcolm-x-a-legacy-that-still-speaks-truth-to-power/",
-      "thumbnail": "/drops/thumbs/5aeb127606fe.jpg",
-      "published": "2026-05-19T08:08:49",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "65e53de7969f",
-      "pillar": "hiphop",
-      "title": "Today In Hip Hop History: The Roots Released Their Debut Album ‘Organix’ 33 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/19/today-in-hip-hop-history-the-roots-released-their-debut-album-organix-33-years-ago/",
-      "thumbnail": "/drops/thumbs/65e53de7969f.jpg",
-      "published": "2026-05-19T07:49:15",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "52f23813265b",
-      "pillar": "gaming",
-      "title": "News Finally, I Have a Reason to Play as My Street Fighter 6 Avatar on PS5, PS4 Again",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/finally-i-have-a-reason-to-play-as-my-street-fighter-6-avatar-on-ps5-ps4-again",
-      "thumbnail": "/drops/thumbs/52f23813265b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "69dd3caf29ba",
       "pillar": "gaming",
       "title": "Fortnite Has Returned To Apple App Store In Most Regions",
@@ -375,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "48b5cf0de3fb",
+      "pillar": "gaming",
+      "title": "News 'Every Detail Matters': Sony Drops New Promo for $900 PS5 Pro",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/every-detail-matters-sony-drops-new-promo-for-usd900-ps5-pro",
+      "thumbnail": "/drops/thumbs/48b5cf0de3fb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5a504012eada",
       "pillar": "gaming",
       "title": "News PS5's Kusan: City of Wolves Is Basically Hotline Miami But Somehow Even More Extreme",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "93503273b958",
+    "4704d3a37ba3",
     "1f8cbf1d8983",
     "710cdc0db682",
     "dd5fb84e4443",
