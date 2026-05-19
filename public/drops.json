@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T10:07:30+00:00",
+  "generated_utc": "2026-05-19T11:08:45+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -219,30 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "14e0dfad4539",
-      "pillar": "anime",
-      "title": "Tubi TV Licenses Yokoso Scooby-Doo! Anime by OLM",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/tubi-tv-licenses-yokoso-scooby-doo-anime-by-olm/.237510",
-      "thumbnail": "/drops/thumbs/14e0dfad4539.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fd3a5844e600",
-      "pillar": "anime",
-      "title": "'You, Fireworks, and Our Promise' Anime Film's Trailer Unveils More Cast & Staff, Theme Song",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/you-fireworks-and-our-promise-anime-film-trailer-unveils-more-cast-and-staff-theme-song/.237508",
-      "thumbnail": "/drops/thumbs/fd3a5844e600.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "31d54ee0fe5c",
       "pillar": "anime",
       "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
@@ -267,24 +243,48 @@
       "release_badge": ""
     },
     {
-      "id": "8b56733d33ae",
-      "pillar": "anime",
-      "title": "Manga Mavericks Licenses 'Tie Me Up, Stare Me Down' Manga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/manga-mavericks-licenses-tie-me-up-stare-me-down-manga/.237500",
-      "thumbnail": "/drops/thumbs/8b56733d33ae.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d084fdbb62e7",
       "pillar": "anime",
       "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
       "thumbnail": "/drops/thumbs/d084fdbb62e7.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1dde01591de8",
+      "pillar": "anime",
+      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
+      "thumbnail": "/drops/thumbs/1dde01591de8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "08881c63cccd",
+      "pillar": "anime",
+      "title": "Anime Finally Has Its Official Gojo Replacement, And They're His Perfect Opposite",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/witch-hat-atelier-qifrey-gojo-replacement-jujutsu-kaisen/",
+      "thumbnail": "/drops/thumbs/08881c63cccd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6d363cd35fbc",
+      "pillar": "anime",
+      "title": "Matthew Lillard Is Officially Returning For Scooby-Doo's Biggest Franchise Evolution In 57 Years",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/yokoso-scooby-doo-new-series-matthew-lillard-return-anime/",
+      "thumbnail": "/drops/thumbs/6d363cd35fbc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
