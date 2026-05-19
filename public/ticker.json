@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T19:18:09+00:00",
+  "generated_utc": "2026-05-19T19:31:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,20 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Giant Killing's Masaya Tsunamoto, Artist Demo Launch New Manga on July 15",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/giant-killing-masaya-tsunamoto-artist-demo-launch-new-manga-on-july-15/.237518",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Crunchyroll's Net Profit Drops 63% to 453 Million Yen",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/crunchyroll-net-profit-drops-63-percent-to-453-million-yen/.237531",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Witch Hat Atelier fixes the biggest problem with magic-focused anime",
       "url": "https://www.polygon.com/witch-hat-atelier-crunchyroll-popular-anime/",
       "pillar": "anime",
@@ -158,15 +144,29 @@
       "article_slug": null
     },
     {
-      "title": "Abrams ComicArts' Kana Licenses Tsubonari's Antengai: Twilight Metropolis Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-19/abrams-comicarts-kana-licenses-tsubonari-antengai-twilight-metropolis-manga/.237512",
+      "title": "Nana Fans Get a Stunning New Merch and Clothing Drop",
+      "url": "https://screenrant.com/nana-new-clothing-merchandise-drop-hot-topic-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Nana Fans Get a Stunning New Merch and Clothing Drop",
-      "url": "https://screenrant.com/nana-new-clothing-merchandise-drop-hot-topic-2026/",
+      "title": "Hello Kitty’s Upcoming Live-Action Movie Gets a Big Update",
+      "url": "https://screenrant.com/hello-kitty-live-action-movie-update/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Fullmetal Alchemist's True Successor Is Nothing Like The Generation-Defining Classic, And That's Why It's Great",
+      "url": "https://screenrant.com/daemons-shadow-realm-nothing-like-fullmetal-alchemist/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Star Trek's Official New Deep Space Nine Series Is The Franchise Evolution Trek Has Needed",
+      "url": "https://screenrant.com/star-trek-new-deep-space-nine-franchise-evolution/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
