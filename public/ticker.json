@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T01:30:56+00:00",
+  "generated_utc": "2026-05-19T02:31:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Alabama Rapper Admits To Killing His Ex On Facebook, Then Himself In Graveyard",
+      "url": "https://allhiphop.com/news/alabama-rapper-admits-to-killing-his-wife-on-facebook-then-himself-in-graveyard/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Max B Says He’s Better Than Big Daddy Kane, Internet Goes Off",
       "url": "https://allhiphop.com/rumors/max-b-says-hes-better-than-big-daddy-kane-internet-goes-off/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Floyd Mayweather Drops Defamation Case Against Reporter",
-      "url": "https://allhiphop.com/news/floyd-mayweather-drops-defamation-case-against-reporter/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
       "url": "https://www.polygon.com/mob-psycho-100-ten-year-anniversary/",
       "pillar": "anime",
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
-      "url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
+      "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
+      "url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Anime Finally Has Its Official Gojo Replacement, And They're His Perfect Opposite",
-      "url": "https://screenrant.com/witch-hat-atelier-qifrey-gojo-replacement-jujutsu-kaisen/",
+      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
+      "url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

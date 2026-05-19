@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T01:30:56+00:00",
+  "generated_utc": "2026-05-19T02:31:58+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b9296595297d",
+      "pillar": "hiphop",
+      "title": "Alabama Rapper Admits To Killing His Ex On Facebook, Then Himself In Graveyard",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/alabama-rapper-admits-to-killing-his-wife-on-facebook-then-himself-in-graveyard/",
+      "thumbnail": "/drops/thumbs/b9296595297d.jpg",
+      "published": "2026-05-18T22:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "105704e4e22b",
       "pillar": "hiphop",
       "title": "Max B Says He’s Better Than Big Daddy Kane, Internet Goes Off",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "51e1f636c46e",
-      "pillar": "hiphop",
-      "title": "Floyd Mayweather Drops Defamation Case Against Reporter",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/floyd-mayweather-drops-defamation-case-against-reporter/",
-      "thumbnail": "/drops/thumbs/51e1f636c46e.jpg",
-      "published": "2026-05-18T17:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "710cdc0db682",
       "pillar": "anime",
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "1dde01591de8",
+      "id": "d084fdbb62e7",
       "pillar": "anime",
-      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
+      "title": "Netflix's New Superhero Series Is The Perfect Successor To An Iconic 2017 Classic",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
-      "thumbnail": "/drops/thumbs/1dde01591de8.jpg",
+      "source_url": "https://screenrant.com/netflix-wonderfools-strong-girl-bong-soon-superhero-successor/",
+      "thumbnail": "/drops/thumbs/d084fdbb62e7.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "08881c63cccd",
+      "id": "1dde01591de8",
       "pillar": "anime",
-      "title": "Anime Finally Has Its Official Gojo Replacement, And They're His Perfect Opposite",
+      "title": "Trigun Stargaze's Milly Is 2026's Undisputed Queen Of Crunchyroll Anime (Exclusive)",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/witch-hat-atelier-qifrey-gojo-replacement-jujutsu-kaisen/",
-      "thumbnail": "/drops/thumbs/08881c63cccd.jpg",
+      "source_url": "https://screenrant.com/trigun-stargaze-milly-thompson-queen-2026-anime/",
+      "thumbnail": "/drops/thumbs/1dde01591de8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "105704e4e22b",
+    "b9296595297d",
     "5d4bbf488e7f",
     "710cdc0db682",
     "43151d13faa3",
