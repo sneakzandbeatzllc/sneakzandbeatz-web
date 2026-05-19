@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-19T00:29:42+00:00",
+  "generated_utc": "2026-05-19T01:05:52+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "105704e4e22b",
+      "pillar": "hiphop",
+      "title": "Max B Says He’s Better Than Big Daddy Kane, Internet Goes Off",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/max-b-says-hes-better-than-big-daddy-kane-internet-goes-off/",
+      "thumbnail": "/drops/thumbs/105704e4e22b.jpg",
+      "published": "2026-05-18T20:36:39",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "495ade97a45b",
       "pillar": "hiphop",
       "title": "Family Life in Phoenix: Activities, Events, and Things to Do with Kids",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "1bac1e4e02df",
-      "pillar": "hiphop",
-      "title": "Nas Cussed Out Warren Sapp Over Email Misunderstanding",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/nas-cursed-out-warren-sapp-over-email-misunderstanding/",
-      "thumbnail": "/drops/thumbs/1bac1e4e02df.jpg",
-      "published": "2026-05-18T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "710cdc0db682",
       "pillar": "anime",
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "8b56733d33ae",
+      "id": "fd3a5844e600",
       "pillar": "anime",
-      "title": "Manga Mavericks Licenses 'Tie Me Up, Stare Me Down' Manga",
+      "title": "'You, Fireworks, and Our Promise' Anime Film's Trailer Unveils More Cast & Staff, Theme Song",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/manga-mavericks-licenses-tie-me-up-stare-me-down-manga/.237500",
-      "thumbnail": "/drops/thumbs/8b56733d33ae.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/you-fireworks-and-our-promise-anime-film-trailer-unveils-more-cast-and-staff-theme-song/.237508",
+      "thumbnail": "/drops/thumbs/fd3a5844e600.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "796a822edcda",
+      "id": "8b56733d33ae",
       "pillar": "anime",
-      "title": "Zoku Thermae Romae Manga Resumes Serialization",
+      "title": "Manga Mavericks Licenses 'Tie Me Up, Stare Me Down' Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/zoku-thermae-romae-manga-resumes-serialization/.237503",
-      "thumbnail": "/drops/thumbs/796a822edcda.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/manga-mavericks-licenses-tie-me-up-stare-me-down-manga/.237500",
+      "thumbnail": "/drops/thumbs/8b56733d33ae.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "a85ba233d0c4",
+      "id": "796a822edcda",
       "pillar": "anime",
-      "title": "I Don't Know Which Is Love Yuri Harem Manga Ends With 8th Volume",
+      "title": "Zoku Thermae Romae Manga Resumes Serialization",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/i-dont-know-which-is-love-yuri-harem-manga-ends-with-8th-volume/.237486",
-      "thumbnail": "/drops/thumbs/a85ba233d0c4.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-18/zoku-thermae-romae-manga-resumes-serialization/.237503",
+      "thumbnail": "/drops/thumbs/796a822edcda.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "495ade97a45b",
+    "105704e4e22b",
     "5d4bbf488e7f",
     "710cdc0db682",
     "43151d13faa3",
