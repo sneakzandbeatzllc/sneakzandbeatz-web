@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T21:59:16+00:00",
+  "generated_utc": "2026-05-20T22:02:35+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "36636247befa",
+      "pillar": "hiphop",
+      "title": "Another No Jumper Host Gets Busted – For Murder",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/another-no-jumper-host-gets-busted-for-murder/",
+      "thumbnail": "/drops/thumbs/36636247befa.jpg",
+      "published": "2026-05-20T18:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3317048a6497",
       "pillar": "hiphop",
       "title": "Tony Yayo & Uncle Murda Respond To Rick Ross Over 50 Cent Threats – “You Soft”",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/wiz-khalifa-placed-on-romanias-wanted-list-faces-arrest-in-any-country-in-europe/",
       "thumbnail": "/drops/thumbs/4db59164e4b3.png",
       "published": "2026-05-20T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "92da242fedf5",
-      "pillar": "hiphop",
-      "title": "From Jordans to Dunks: The Best Outfits to Match Your Heat",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music-news/from-jordans-to-dunks-the-best-outfits-to-match-your-heat/",
-      "thumbnail": "/drops/thumbs/92da242fedf5.png",
-      "published": "2026-05-20T14:43:23",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "3317048a6497",
+    "36636247befa",
     "dd5fb84e4443",
     "051e641e1757",
     "4544ebd683e4",
