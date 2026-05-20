@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T07:50:52+00:00",
+  "generated_utc": "2026-05-20T09:23:45+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "239bd7113b4b",
+      "id": "d74a0c7f03df",
       "pillar": "anime",
-      "title": "Keiko Suenobu's Ochitara Owari Manga Gets Live-Action Series",
+      "title": "Tomo Nagawa's 'Would you like to be a tanuki?' Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-19/keiko-suenobu-ochitara-owari-manga-gets-live-action-series/.237539",
-      "thumbnail": "/drops/thumbs/239bd7113b4b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-20/tomo-nagawa-would-you-like-to-be-a-tanuki-manga-gets-tv-anime/.237542",
+      "thumbnail": "/drops/thumbs/d74a0c7f03df.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "daf59a38145f",
+      "id": "239bd7113b4b",
       "pillar": "anime",
-      "title": "GKIDS Streams 4K Remaster Tekkonkinkreet Anime Film's English Dub Trailer",
+      "title": "Keiko Suenobu's Ochitara Owari Manga Gets Live-Action Series",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-19/gkids-streams-4k-remaster-tekkonkinkreet-anime-film-english-dub-trailer/.237536",
-      "thumbnail": "/drops/thumbs/daf59a38145f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-19/keiko-suenobu-ochitara-owari-manga-gets-live-action-series/.237539",
+      "thumbnail": "/drops/thumbs/239bd7113b4b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "7a92cd00d06c",
+      "id": "daf59a38145f",
       "pillar": "anime",
-      "title": "TBS Reports 524 Million Yen Loss in Anime Division",
+      "title": "GKIDS Streams 4K Remaster Tekkonkinkreet Anime Film's English Dub Trailer",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-19/tbs-reports-524-million-yen-loss-in-anime-division/.237533",
-      "thumbnail": "/drops/thumbs/7a92cd00d06c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b1caddc0af78",
-      "pillar": "gaming",
-      "title": "Rumor Debunked? GTA 6 Community Believes Best Buy Got The Pre-Order Date Wrong",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562722/article/rumor-debunked-gta-6-community-believes-best-buy-got-the-pre-order-date-wrong/",
-      "thumbnail": "/drops/thumbs/b1caddc0af78.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-19/gkids-streams-4k-remaster-tekkonkinkreet-anime-film-english-dub-trailer/.237536",
+      "thumbnail": "/drops/thumbs/daf59a38145f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "e08fe564a2a9",
-      "pillar": "gaming",
-      "title": "As Halo and Forza Horizon 6 prepare to jump ship to PS5, Xbox fans use new community voting tool to tell Microsoft they want their exclusives back 6 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/forza-horizon/as-halo-and-forza-horizon-6-prepare-to-jump-ship-to-ps5-xbox-fans-use-new-community-voting-tool-to-tell-microsoft-they-want-their-exclusives-back/",
-      "thumbnail": "/drops/thumbs/e08fe564a2a9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "48b5cf0de3fb",
       "pillar": "gaming",
       "title": "News 'Every Detail Matters': Sony Drops New Promo for $900 PS5 Pro",
@@ -385,6 +361,30 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "0fc80dc066e3",
+      "pillar": "gaming",
+      "title": "Rumor: Nintendo Direct Coming Mid-June, Close To Summer Game Fest 2026",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562739/article/rumor-nintendo-direct-coming-mid-june-close-to-summer-game-fest-2026/",
+      "thumbnail": "/drops/thumbs/0fc80dc066e3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6ce220fd84b2",
+      "pillar": "gaming",
+      "title": "Yoshi And The Mysterious Book Reviews Make It Sound Perfect For People Going Into It With The Right Level Of Curiosity",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/yoshi-and-the-mysterious-book-reviews-make-it-sound-perfect-for-people-going-into-it-with-the-right-level-of-curiosity-2000697519",
+      "thumbnail": "/drops/thumbs/6ce220fd84b2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "1f8cbf1d8983",
     "70f850f97451",
     "dd5fb84e4443",
-    "b1caddc0af78"
+    "257f50911ae7"
   ]
 }
