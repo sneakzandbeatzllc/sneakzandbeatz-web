@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T20:58:10+00:00",
+  "generated_utc": "2026-05-20T21:01:36+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b097319fcedc",
+      "pillar": "hiphop",
+      "title": "French Montana, Rick Ross, Fetty Wap & Ice Spice Lead Summer Jam 2026 Lineup At Prudential Center",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/french-montana-rick-ross-fetty-wap-ice-spice-lead-summer-jam-2026-lineup-at-prudential-center/",
+      "thumbnail": "/drops/thumbs/b097319fcedc.jpg",
+      "published": "2026-05-20T17:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9aad2c6a8de4",
       "pillar": "hiphop",
       "title": "Lizzo vs. Everybody: A Love Story",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/rumors/as-ebola-spreads-americas-split-from-who-becomes-growing-concern/",
       "thumbnail": "/drops/thumbs/ce0fcd90065b.jpg",
       "published": "2026-05-20T14:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b0cbbb32105c",
-      "pillar": "hiphop",
-      "title": "Pooh Shiesty To Starnd Trial In July For Robbing Gucci Mane",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/pooh-shiesty-to-starnd-trial-for-robbing-gucci-mane-in-july/",
-      "thumbnail": "/drops/thumbs/b0cbbb32105c.jpg",
-      "published": "2026-05-20T14:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "9aad2c6a8de4",
+    "b097319fcedc",
     "dd5fb84e4443",
     "710cdc0db682",
     "4544ebd683e4",
