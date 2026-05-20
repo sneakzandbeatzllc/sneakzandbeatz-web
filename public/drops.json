@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T17:18:35+00:00",
+  "generated_utc": "2026-05-20T17:29:41+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "408406c094c2",
+      "pillar": "hiphop",
+      "title": "BeatsToRapOn Is Where Independent Artists Go To Look Official Before The Industry Finds Them",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/features/beatstorapon-is-where-independent-artists-go-to-look-official-before-the-industry-finds-them/",
+      "thumbnail": "/drops/thumbs/408406c094c2.png",
+      "published": "2026-05-20T13:23:59",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4df73e9350ad",
       "pillar": "hiphop",
       "title": "Rihanna Shooting Suspect Ordered To Take Mental Health Evaluation",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/20/happy-54th-birthday-to-the-one-and-only-busta-rhymes/",
       "thumbnail": "/drops/thumbs/a32fc6b3eba3.png",
       "published": "2026-05-20T10:52:27",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "91c86e3eb930",
-      "pillar": "hiphop",
-      "title": "Jada Pinkett Smith Wins Big Against Will Smith’s Former Friend, Even As He Makes More Wild Claims",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jada-pinkett-smith-wins-big-against-will-smiths-former-friend-even-as-he-makes-more-wild-claims/",
-      "thumbnail": "/drops/thumbs/91c86e3eb930.jpg",
-      "published": "2026-05-20T10:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "4df73e9350ad",
+    "408406c094c2",
     "dd5fb84e4443",
     "710cdc0db682",
     "4544ebd683e4",
