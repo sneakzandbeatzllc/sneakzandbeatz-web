@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T17:29:41+00:00",
+  "generated_utc": "2026-05-20T17:55:00+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "75fe3bb065de",
+      "pillar": "sneakers",
+      "title": "Georgetown Colors Land on the Air Jordan 4 for Spring 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-4-georgetown-fv5029-004/",
+      "thumbnail": "/drops/thumbs/75fe3bb065de.jpg",
+      "published": "2026-05-20T13:51:36",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "d74f496abc5f",
@@ -87,15 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "ff9bcc240957",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 Golf “Black Cement” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-golf-black-cement-2027/",
-      "thumbnail": "/drops/thumbs/ff9bcc240957.jpg",
-      "published": "2026-05-17T02:09:57",
+      "id": "10f238ccfe74",
+      "pillar": "hiphop",
+      "title": "Jess Hilarious Talks Co-Parenting, The Breakfast Club & Her New Bestselling Book",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/features/jess-hilarious-talks-co-parenting-the-breakfast-club-her-new-bestselling-book/",
+      "thumbnail": "/drops/thumbs/10f238ccfe74.jpg",
+      "published": "2026-05-20T13:30:00",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/rick-ross-threatens-to-slap-50-cent-come-get-it-as-feud-continues/",
       "thumbnail": "/drops/thumbs/213b6e66de52.png",
       "published": "2026-05-20T11:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a32fc6b3eba3",
-      "pillar": "hiphop",
-      "title": "Happy 54th Birthday To The One And Only Busta Rhymes!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/happy-54th-birthday-to-the-one-and-only-busta-rhymes/",
-      "thumbnail": "/drops/thumbs/a32fc6b3eba3.png",
-      "published": "2026-05-20T10:52:27",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "408406c094c2",
+    "10f238ccfe74",
     "dd5fb84e4443",
     "710cdc0db682",
     "4544ebd683e4",
