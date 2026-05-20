@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T12:25:44+00:00",
+  "generated_utc": "2026-05-20T12:49:45+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "81ad503c6cea",
+      "pillar": "hiphop",
+      "title": "Kars4Kids Crushed In California Court Over “Deceptive” Jingle",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/kars4kids-crushed-in-california-court-over-deceptive-jingle/",
+      "thumbnail": "/drops/thumbs/81ad503c6cea.jpg",
+      "published": "2026-05-20T08:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5c1b9eec97c5",
       "pillar": "hiphop",
       "title": "Cardi B Leads BET Awards 2026 Nominations With Six Nods",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/20/rolling-loud-the-movie-teaser/",
       "thumbnail": "/drops/thumbs/abc442a4b903.jpg",
       "published": "2026-05-20T04:15:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "51b4e7858ce5",
-      "pillar": "hiphop",
-      "title": "HOT 97 Summer Jam 2026 Returns to Newark With French Montana, Rick Ross, Ice Spice & More",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/hot-97-summer-jam-2026-lineup/",
-      "thumbnail": "/drops/thumbs/51b4e7858ce5.jpg",
-      "published": "2026-05-20T04:10:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -315,36 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "370b238ba4f4",
-      "pillar": "gaming",
-      "title": "Hironobu Sakaguchi Shares His Surprise At Everyone Hating On Final Fantasy 6 Remake AI Slop",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/hironobu-sakaguchi-shares-his-surprise-at-everyone-hating-on-final-fantasy-6-remake-ai-slop-2000697526",
-      "thumbnail": "/drops/thumbs/370b238ba4f4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "058cb99ef9ae",
       "pillar": "gaming",
       "title": "News 'We're Not Standing Still': Returnal Director Forms New Studio to Make Games That Trust You",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/were-not-standing-still-returnal-director-forms-new-studio-to-make-games-that-trust-you",
       "thumbnail": "/drops/thumbs/058cb99ef9ae.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cd5a86113716",
-      "pillar": "gaming",
-      "title": "Final Fantasy 14 Evercold sleuths think they've figured out the MMO's new jobs",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-evercold-sleuths-think-theyve-figured-out-the-mmos-new-jobs-and-its-thanks-to-the-new-expansions-theme-that-yoshi-p-hoped-we-wouldnt-notice-yet/",
-      "thumbnail": "/drops/thumbs/cd5a86113716.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +339,48 @@
       "release_badge": ""
     },
     {
-      "id": "b21e159a9aba",
+      "id": "7d20d4e3f537",
       "pillar": "gaming",
-      "title": "Mystery Solved: Yoshi and the Mysterious Book’s Developer Confirmed To Be Good-Feel",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562745/article/mystery-solved-yoshi-and-the-mysterious-books-developer-confirmed-to-be-good-feel/",
-      "thumbnail": "/drops/thumbs/b21e159a9aba.jpg",
+      "title": "Sony Reveals Big PlayStation Showcase For June Featuring Deep-Dive Into Wolverine And More",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/sony-reveals-big-playstation-showcase-for-june-featuring-deep-dive-into-wolverine-and-more-2000697825",
+      "thumbnail": "/drops/thumbs/7d20d4e3f537.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "568c8e41d6e7",
+      "id": "55d702e2095d",
       "pillar": "gaming",
-      "title": "This Stylish Brawler Is Already Great, But Fans Are Making It Incredible",
+      "title": "Kingdom Come: Deliverance 2 studio confirms Lord of the Rings rumors, Warhorse is making an \"open world Middle-earth RPG\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-studio-confirms-lord-of-the-rings-rumors-warhorse-is-making-an-open-world-middle-earth-rpg/",
+      "thumbnail": "/drops/thumbs/55d702e2095d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9141a7822b12",
+      "pillar": "gaming",
+      "title": "Rumor: Did A Free Game Break Through Steam’s Security Measures And Spread Malware?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562747/article/rumor-did-a-free-game-break-through-steams-security-measures-and-spread-malware/",
+      "thumbnail": "/drops/thumbs/9141a7822b12.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9399a0d3d953",
+      "pillar": "gaming",
+      "title": "Kingdom Come Dev Finally Announces Its Rumored Lord Of The Rings RPG",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/dead-as-disco-early-access-review-mods-custom-songs-2000697421",
-      "thumbnail": "/drops/thumbs/568c8e41d6e7.jpg",
+      "source_url": "https://kotaku.com/lord-of-the-rings-middle-earth-rpg-kingdom-come-warhorse-2000697829",
+      "thumbnail": "/drops/thumbs/9399a0d3d953.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "5c1b9eec97c5",
+    "81ad503c6cea",
     "1f8cbf1d8983",
     "70f850f97451",
     "dd5fb84e4443",
