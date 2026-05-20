@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T00:06:41+00:00",
+  "generated_utc": "2026-05-20T00:37:57+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -27,42 +27,6 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "c8d3a4f66c16",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 Joins the 2026 BIN 23 Collection",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
-      "thumbnail": "/drops/thumbs/c8d3a4f66c16.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "a3a8855af003",
-      "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low “Shy Pink” Releases in May 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-sail-iq7604-101/",
-      "thumbnail": "/drops/thumbs/a3a8855af003.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "4f9e304d1cce",
-      "pillar": "sneakers",
-      "title": "Travis Scott’s “Tropical Pink” Air Jordan 1 Low Arrives in May 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-tropical-pink-iq7604-101/",
-      "thumbnail": "/drops/thumbs/4f9e304d1cce.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "dd5fb84e4443",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “Brazil” Releases May 16th",
@@ -87,16 +51,52 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "d68700a4442e",
+      "id": "d74f496abc5f",
       "pillar": "sneakers",
-      "title": "The Air Jordan 1 Low in “Phantom” & “Pine Green” Lands in June 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-phantom-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/d68700a4442e.png",
-      "published": "",
+      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
+      "thumbnail": "/drops/thumbs/d74f496abc5f.jpg",
+      "published": "2026-05-19T14:33:09",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b2201e525307",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Utility” Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
+      "thumbnail": "/drops/thumbs/b2201e525307.jpg",
+      "published": "2026-05-18T15:32:31",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e146b07264a0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
+      "published": "2026-05-18T15:31:56",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0abfaadb2746",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
+      "published": "2026-05-18T15:28:55",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "fa9b6dc792df",
@@ -392,7 +392,7 @@
     "fa9b6dc792df",
     "1f8cbf1d8983",
     "70f850f97451",
-    "c8d3a4f66c16",
+    "dd5fb84e4443",
     "b1caddc0af78"
   ]
 }
