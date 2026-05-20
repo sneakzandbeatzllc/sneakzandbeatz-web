@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T16:16:15+00:00",
+  "generated_utc": "2026-05-20T16:28:45+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "9fda590ee2b4",
-      "pillar": "hiphop",
-      "title": "Kanye West’s Payment Problems Keep Piling Up In Court With Latest Lawsuit Over Design Work",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kanye-wests-payment-problems-keep-piling-up-in-court-with-latest-lawsuit-over-design-work/",
-      "thumbnail": "/drops/thumbs/9fda590ee2b4.jpg",
-      "published": "2026-05-20T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4a9545c27b6d",
       "pillar": "hiphop",
       "title": "Today In Hip Hop History: Dr. Dre Dropped “Dre Day” From ‘The Chronic’ LP 33 Years Ago",
@@ -135,18 +123,6 @@
       "release_badge": ""
     },
     {
-      "id": "213b6e66de52",
-      "pillar": "hiphop",
-      "title": "Rick Ross Threatens To Slap 50 Cent: “Come Get It” As Feud Continues",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/rick-ross-threatens-to-slap-50-cent-come-get-it-as-feud-continues/",
-      "thumbnail": "/drops/thumbs/213b6e66de52.png",
-      "published": "2026-05-20T11:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a32fc6b3eba3",
       "pillar": "hiphop",
       "title": "Happy 54th Birthday To The One And Only Busta Rhymes!",
@@ -159,30 +135,6 @@
       "release_badge": ""
     },
     {
-      "id": "91c86e3eb930",
-      "pillar": "hiphop",
-      "title": "Jada Pinkett Smith Wins Big Against Will Smith’s Former Friend, Even As He Makes More Wild Claims",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jada-pinkett-smith-wins-big-against-will-smiths-former-friend-even-as-he-makes-more-wild-claims/",
-      "thumbnail": "/drops/thumbs/91c86e3eb930.jpg",
-      "published": "2026-05-20T10:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "81ad503c6cea",
-      "pillar": "hiphop",
-      "title": "Kars4Kids Crushed In California Court Over “Deceptive” Jingle",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/kars4kids-crushed-in-california-court-over-deceptive-jingle/",
-      "thumbnail": "/drops/thumbs/81ad503c6cea.jpg",
-      "published": "2026-05-20T08:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5c1b9eec97c5",
       "pillar": "hiphop",
       "title": "Cardi B Leads BET Awards 2026 Nominations With Six Nods",
@@ -190,6 +142,54 @@
       "source_url": "https://thesource.com/2026/05/20/bet-awards-2026-nominations-cardi-b/",
       "thumbnail": "/drops/thumbs/5c1b9eec97c5.jpg",
       "published": "2026-05-20T07:02:10",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5110c56439f6",
+      "pillar": "hiphop",
+      "title": "Nashville Selected to Host Super Bowl LXIV in 2030",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/nashville-super-bowl-lxiv-2030/",
+      "thumbnail": "/drops/thumbs/5110c56439f6.jpg",
+      "published": "2026-05-20T05:49:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9e9ee5ea3419",
+      "pillar": "hiphop",
+      "title": "Nineteen85 Reflects on How dvsn’s ‘Sept. 5th’ Changed Modern R&B",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/nineteen85-dvsn-sept-5th-interview/",
+      "thumbnail": "/drops/thumbs/9e9ee5ea3419.jpg",
+      "published": "2026-05-20T05:33:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "50dc3f099816",
+      "pillar": "hiphop",
+      "title": "21 Savage Returns to London for Arsenal Victory at Emirates Stadium",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/21-savage-arsenal-london-return/",
+      "thumbnail": "/drops/thumbs/50dc3f099816.jpg",
+      "published": "2026-05-20T05:15:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0db01e70381f",
+      "pillar": "hiphop",
+      "title": "STARZ Releases Final Season Trailer for ‘Power Book III: Raising Kanan’",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/power-book-iii-raising-kanan-season-5-trailer/",
+      "thumbnail": "/drops/thumbs/0db01e70381f.jpg",
+      "published": "2026-05-20T04:39:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "8bd2e01d00fc",
+      "id": "947fcb93e132",
       "pillar": "gaming",
-      "title": "Forza Horizon 6 review: \"A sublime racing engine supercharges this stunning, Japan-set open world\"",
+      "title": "State of Play is returning ahead of Summer Game Fest 2026, with \"more than 60 minutes of updates, announcements, and gameplay reveals\"",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-review/",
-      "thumbnail": "/drops/thumbs/8bd2e01d00fc.jpg",
+      "source_url": "https://www.gamesradar.com/games/events-conferences/sonys-state-of-play-returns-next-month-promises-closer-look-at-marvels-wolverine-and-more-than-60-minutes-of-updates-announcements-and-gameplay-reveals/",
+      "thumbnail": "/drops/thumbs/947fcb93e132.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "aa6aae7f83b4",
+      "id": "55d702e2095d",
       "pillar": "gaming",
-      "title": "Everything you need to know about the Forza Horizon 6 launch time for PC and Xbox",
+      "title": "There's a new open-world RPG set in Middle-earth coming from the developers of Kingdom Come: Deliverance 2",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-release-time/",
-      "thumbnail": "/drops/thumbs/aa6aae7f83b4.jpg",
+      "source_url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-studio-confirms-lord-of-the-rings-rumors-warhorse-is-making-an-open-world-middle-earth-rpg/",
+      "thumbnail": "/drops/thumbs/55d702e2095d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "9fda590ee2b4",
+    "4a9545c27b6d",
     "dd5fb84e4443",
     "70f850f97451",
     "4544ebd683e4",
