@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T21:01:36+00:00",
+  "generated_utc": "2026-05-20T21:21:37+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "3317048a6497",
+      "pillar": "hiphop",
+      "title": "Tony Yayo & Uncle Murda Respond To Rick Ross Over 50 Cent Threats – “You Soft”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/tony-yayo-uncle-murda-respond-to-rick-ross-over-50-cent-threats-you-soft/",
+      "thumbnail": "/drops/thumbs/3317048a6497.png",
+      "published": "2026-05-20T17:13:49",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b097319fcedc",
       "pillar": "hiphop",
       "title": "French Montana, Rick Ross, Fetty Wap & Ice Spice Lead Summer Jam 2026 Lineup At Prudential Center",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "ce0fcd90065b",
-      "pillar": "hiphop",
-      "title": "As Ebola Spreads, America’s Split From WHO Becomes Growing Concern",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/as-ebola-spreads-americas-split-from-who-becomes-growing-concern/",
-      "thumbnail": "/drops/thumbs/ce0fcd90065b.jpg",
-      "published": "2026-05-20T14:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "710cdc0db682",
       "pillar": "anime",
       "title": "10 years ago, Mob Psycho 100 proved itself to be a cut above most shonen anime",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "fcb67c91c6f5",
+      "id": "c61ef0693587",
       "pillar": "anime",
-      "title": "Anime Expo Hosts Musical Artists ALI, Yōko Kanno",
+      "title": "K Manga Adds Keepsake Heartache Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-20/anime-expo-hosts-musical-artists-ali-yoko-kanno/.237551",
-      "thumbnail": "/drops/thumbs/fcb67c91c6f5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-20/k-manga-adds-keepsake-heartache-manga/.237574",
+      "thumbnail": "/drops/thumbs/c61ef0693587.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "0e07c85a3243",
+      "id": "fcb67c91c6f5",
       "pillar": "anime",
-      "title": "RetroCrush Streams Medabots Anime on FAST Channel on June 7",
+      "title": "Anime Expo Hosts Musical Artists ALI, Yōko Kanno",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-20/retrocrush-streams-medabots-anime-on-fast-channel-on-june-7/.237566",
-      "thumbnail": "/drops/thumbs/0e07c85a3243.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-20/anime-expo-hosts-musical-artists-ali-yoko-kanno/.237551",
+      "thumbnail": "/drops/thumbs/fcb67c91c6f5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "b097319fcedc",
+    "3317048a6497",
     "dd5fb84e4443",
     "710cdc0db682",
     "4544ebd683e4",
