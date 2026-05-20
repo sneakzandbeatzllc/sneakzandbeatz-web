@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T22:34:40+00:00",
+  "generated_utc": "2026-05-20T22:53:47+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "36636247befa",
-      "pillar": "hiphop",
-      "title": "Another No Jumper Host Gets Busted – For Murder",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/another-no-jumper-host-gets-busted-for-murder/",
-      "thumbnail": "/drops/thumbs/36636247befa.jpg",
-      "published": "2026-05-20T18:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5366270e2198",
       "pillar": "hiphop",
       "title": "Trump Rules Out Military Escalation as U.S. Indicts 94 Year-Old Former Cuban Leader Raúl Castro",
@@ -159,37 +147,49 @@
       "release_badge": ""
     },
     {
-      "id": "3317048a6497",
+      "id": "2440c3866038",
       "pillar": "hiphop",
-      "title": "Tony Yayo & Uncle Murda Respond To Rick Ross Over 50 Cent Threats – “You Soft”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/tony-yayo-uncle-murda-respond-to-rick-ross-over-50-cent-threats-you-soft/",
-      "thumbnail": "/drops/thumbs/3317048a6497.png",
-      "published": "2026-05-20T17:13:49",
+      "title": "‘No Jumper’ Co-Host Ant Jefe Arrested On Murder Charge In L.A.",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/no-jumper-co-host-ant-jefe-arrested-on-murder-charge-in-l-a/",
+      "thumbnail": "/drops/thumbs/2440c3866038.jpg",
+      "published": "2026-05-20T13:31:38",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b097319fcedc",
+      "id": "d5922d885c75",
       "pillar": "hiphop",
-      "title": "French Montana, Rick Ross, Fetty Wap & Ice Spice Lead Summer Jam 2026 Lineup At Prudential Center",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/french-montana-rick-ross-fetty-wap-ice-spice-lead-summer-jam-2026-lineup-at-prudential-center/",
-      "thumbnail": "/drops/thumbs/b097319fcedc.jpg",
-      "published": "2026-05-20T17:00:00",
+      "title": "Car Erupts Into Massive Fireball Near Wall Street’s Merrill Lynch Bull",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/car-erupts-into-massive-fireball-near-wall-streets-merrill-lynch-bull/",
+      "thumbnail": "/drops/thumbs/d5922d885c75.jpg",
+      "published": "2026-05-20T13:12:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "9aad2c6a8de4",
+      "id": "d87973141369",
       "pillar": "hiphop",
-      "title": "Lizzo vs. Everybody: A Love Story",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/lizzo-vs-everybody-a-love-story/",
-      "thumbnail": "/drops/thumbs/9aad2c6a8de4.png",
-      "published": "2026-05-20T16:30:00",
+      "title": "Vybz Kartel Announces June 5 Album",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/vybz-kartel-announces-june-5-album/",
+      "thumbnail": "/drops/thumbs/d87973141369.jpg",
+      "published": "2026-05-20T12:52:35",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4a9545c27b6d",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: Dr. Dre Dropped “Dre Day” From ‘The Chronic’ LP 33 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/today-in-hip-hop-history-dr-dre-dropped-dre-day-from-the-chronic-lp-33-years-ago/",
+      "thumbnail": "/drops/thumbs/4a9545c27b6d.jpg",
+      "published": "2026-05-20T11:11:22",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "36636247befa",
+    "5366270e2198",
     "dd5fb84e4443",
     "051e641e1757",
     "4544ebd683e4",
