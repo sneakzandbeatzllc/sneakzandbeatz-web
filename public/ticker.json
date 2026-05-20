@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T02:47:42+00:00",
+  "generated_utc": "2026-05-20T03:48:42+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Berserk Finally Returns With First New Release Of 2026",
+      "url": "https://screenrant.com/berserk-manga-return-chapter-384-release-date/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece Finally Confirms The One Pirate Who Has Surpassed Roger",
       "url": "https://screenrant.com/one-piece-roger-shanks-surpassed-roger-stronger/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "TBS Reports 524 Million Yen Loss in Anime Division",
       "url": "https://www.animenewsnetwork.com/news/2026-05-19/tbs-reports-524-million-yen-loss-in-anime-division/.237533",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Netflix May Have Found Its Hotel Del Luna Successor With Upcoming Summer Series",
-      "url": "https://screenrant.com/netflix-spooky-chilling-romance-hotel-del-luna-successor/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
