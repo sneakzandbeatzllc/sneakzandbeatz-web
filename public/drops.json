@@ -1,29 +1,17 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T15:45:08+00:00",
+  "generated_utc": "2026-05-20T15:52:52+00:00",
   "items": [
     {
-      "id": "5d4bbf488e7f",
+      "id": "315c8ac926db",
       "pillar": "sneakers",
-      "title": "Nigel Sylvester x Air Jordan 4 “Brick After Brick” May Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
-      "thumbnail": "/drops/thumbs/5d4bbf488e7f.jpg",
-      "published": "2026-05-18T07:21:30",
+      "title": "Where to Buy the Nigel Sylvester x Air Jordan 4 “Brick After Brick”",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/nigel-sylvester-air-jordan-4-fire-red-brick-after-brick/",
+      "thumbnail": "/drops/thumbs/315c8ac926db.webp",
+      "published": "2026-05-18T05:32:00",
       "relative_time": "today",
-      "score": 7.5,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "1f8cbf1d8983",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bloodline” (CT8013-003) May 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-12-bloodline-ct8013-003-drop/",
-      "thumbnail": "/drops/thumbs/1f8cbf1d8983.jpg",
-      "published": "2026-05-16T17:42:00",
-      "relative_time": "today",
-      "score": 7.5,
+      "score": 5.0,
       "release_badge": "🔥 Banger"
     },
     {
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
       "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
       "published": "2026-05-18T15:28:55",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ff9bcc240957",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 Golf “Black Cement” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-golf-black-cement-2027/",
+      "thumbnail": "/drops/thumbs/ff9bcc240957.jpg",
+      "published": "2026-05-17T02:09:57",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "5d4bbf488e7f",
+    "315c8ac926db",
     "4a9545c27b6d",
-    "1f8cbf1d8983",
-    "70f850f97451",
     "dd5fb84e4443",
+    "70f850f97451",
+    "4544ebd683e4",
     "2e2c63ca202c"
   ]
 }
