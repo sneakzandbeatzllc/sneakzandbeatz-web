@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T00:45:44+00:00",
+  "generated_utc": "2026-05-20T01:45:04+00:00",
   "items": [
     {
       "id": "5d4bbf488e7f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "77031a2311ce",
+      "pillar": "hiphop",
+      "title": "Wiz Khalifa & Sean Paul Concert Becomes Center Of Battle After Teen Sexually Assaulted",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/wiz-khalifa-sean-paul-concert-becomes-center-of-battle-after-teen-sexually-assaulted/",
+      "thumbnail": "/drops/thumbs/77031a2311ce.png",
+      "published": "2026-05-19T21:02:51",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fa9b6dc792df",
       "pillar": "hiphop",
       "title": "Whoo Kid Reveals Diddy Put Him In A Headlock For Leaking Biggie & 50 Cent Collab",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "9eee5af7d5a4",
-      "pillar": "hiphop",
-      "title": "Saweetie Sued For $3M Fraud After Allegedly Ghosting Japan Shows",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/saweetie-sued-for-3m-fraud-after-allegedly-ghosting-japan-shows/",
-      "thumbnail": "/drops/thumbs/9eee5af7d5a4.png",
-      "published": "2026-05-19T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "70f850f97451",
       "pillar": "anime",
       "title": "Goku's Entire Dragon Ball Family Tree, Explained",
@@ -225,18 +225,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-roger-shanks-surpassed-roger-stronger/",
       "thumbnail": "/drops/thumbs/7f545221e563.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1af10a848991",
-      "pillar": "anime",
-      "title": "Netflix Unveils Stacked Summer Anime Slate, And One Piece Fans Are Eating",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-summer-anime-releases-2026/",
-      "thumbnail": "/drops/thumbs/1af10a848991.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,6 +279,18 @@
       "release_badge": ""
     },
     {
+      "id": "3a29fbd1eee9",
+      "pillar": "anime",
+      "title": "Webtoon's Best Action Fantasy Creator Is Back With New Can't-Miss Series",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/the-god-of-high-school-best-action-fantasy-creator-mumumu/",
+      "thumbnail": "/drops/thumbs/3a29fbd1eee9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b1caddc0af78",
       "pillar": "gaming",
       "title": "Rumor Debunked? GTA 6 Community Believes Best Buy Got The Pre-Order Date Wrong",
@@ -305,7 +305,7 @@
     {
       "id": "257f50911ae7",
       "pillar": "gaming",
-      "title": "\"We learned our lesson\": The Witcher 4 and Cyberpunk 2 won't repeat the development mistakes of Cyberpunk 2077, CDPR say",
+      "title": "\"We learned our lesson\": The Witcher 4 and Cyberpunk 2 won't repeat the development mistakes of Cyberpunk 2077, CDPR say 5 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/the-witcher/we-learned-our-lesson-the-witcher-4-and-cyberpunk-2-wont-repeat-the-development-mistakes-of-cyberpunk-2077-cd-projekt-red-says/",
       "thumbnail": "/drops/thumbs/257f50911ae7.jpg",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5d4bbf488e7f",
-    "fa9b6dc792df",
+    "77031a2311ce",
     "1f8cbf1d8983",
     "70f850f97451",
     "dd5fb84e4443",

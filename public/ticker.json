@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T00:45:44+00:00",
+  "generated_utc": "2026-05-20T01:45:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Wiz Khalifa & Sean Paul Concert Becomes Center Of Battle After Teen Sexually Assaulted",
+      "url": "https://allhiphop.com/news/wiz-khalifa-sean-paul-concert-becomes-center-of-battle-after-teen-sexually-assaulted/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Whoo Kid Reveals Diddy Put Him In A Headlock For Leaking Biggie & 50 Cent Collab",
       "url": "https://allhiphop.com/news/whoo-kid-reveals-diddy-put-him-in-a-headlock-for-leaking-biggie-50-cent-collab/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Saweetie Sued For $3M Fraud After Allegedly Ghosting Japan Shows",
-      "url": "https://allhiphop.com/news/saweetie-sued-for-3m-fraud-after-allegedly-ghosting-japan-shows/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Goku's Entire Dragon Ball Family Tree, Explained",
       "url": "https://screenrant.com/goku-family-tree-dragon-ball-explained/",
       "pillar": "anime",
@@ -132,13 +132,6 @@
     {
       "title": "One Piece Finally Confirms The One Pirate Who Has Surpassed Roger",
       "url": "https://screenrant.com/one-piece-roger-shanks-surpassed-roger-stronger/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Netflix Unveils Stacked Summer Anime Slate, And One Piece Fans Are Eating",
-      "url": "https://screenrant.com/netflix-summer-anime-releases-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,6 +165,13 @@
       "article_slug": null
     },
     {
+      "title": "Webtoon's Best Action Fantasy Creator Is Back With New Can't-Miss Series",
+      "url": "https://screenrant.com/the-god-of-high-school-best-action-fantasy-creator-mumumu/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rumor Debunked? GTA 6 Community Believes Best Buy Got The Pre-Order Date Wrong",
       "url": "https://gameranx.com/updates/id/562722/article/rumor-debunked-gta-6-community-believes-best-buy-got-the-pre-order-date-wrong/",
       "pillar": "gaming",
@@ -179,7 +179,7 @@
       "article_slug": null
     },
     {
-      "title": "\"We learned our lesson\": The Witcher 4 and Cyberpunk 2 won't repeat the development mistakes of Cyberpunk 2077, CDPR say",
+      "title": "\"We learned our lesson\": The Witcher 4 and Cyberpunk 2 won't repeat the development mistakes of Cyberpunk 2077, CDPR say 5 Comments",
       "url": "https://www.gamesradar.com/games/the-witcher/we-learned-our-lesson-the-witcher-4-and-cyberpunk-2-wont-repeat-the-development-mistakes-of-cyberpunk-2077-cd-projekt-red-says/",
       "pillar": "gaming",
       "score": 1.0,
