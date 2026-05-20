@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T23:00:19+00:00",
+  "generated_utc": "2026-05-20T23:03:34+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "92b47fead87d",
+      "pillar": "hiphop",
+      "title": "Donald Trump Administration Indicts Fidel Castro’s Brother For 1996 Plane Downing",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/donald-trump-administration-indicts-fidel-castros-brother-for-1996-plane-downing/",
+      "thumbnail": "/drops/thumbs/92b47fead87d.jpg",
+      "published": "2026-05-20T19:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "36636247befa",
       "pillar": "hiphop",
       "title": "Another No Jumper Host Gets Busted – For Murder",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/french-montana-rick-ross-fetty-wap-ice-spice-lead-summer-jam-2026-lineup-at-prudential-center/",
       "thumbnail": "/drops/thumbs/b097319fcedc.jpg",
       "published": "2026-05-20T17:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9aad2c6a8de4",
-      "pillar": "hiphop",
-      "title": "Lizzo vs. Everybody: A Love Story",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/lizzo-vs-everybody-a-love-story/",
-      "thumbnail": "/drops/thumbs/9aad2c6a8de4.png",
-      "published": "2026-05-20T16:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "f3e25152a97b",
+      "id": "96810f96cb2b",
       "pillar": "gaming",
-      "title": "News PS Plus Price Increases Also Hit Extra, Premium Tiers - Here Are All the New Prices",
+      "title": "Guide When Is PlayStation's State of Play for June 2026?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/ps-plus-price-increases-also-hit-extra-premium-tiers-here-are-all-the-new-prices",
-      "thumbnail": "/drops/thumbs/f3e25152a97b.jpg",
+      "source_url": "https://www.pushsquare.com/guides/when-is-playstations-state-of-play-for-june-2026",
+      "thumbnail": "/drops/thumbs/96810f96cb2b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "36636247befa",
+    "92b47fead87d",
     "dd5fb84e4443",
     "051e641e1757",
     "4544ebd683e4",
