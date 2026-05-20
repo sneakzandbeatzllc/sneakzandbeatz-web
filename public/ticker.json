@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T22:22:51+00:00",
+  "generated_utc": "2026-05-20T22:34:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://sneakerbardetroit.com/air-jordan-3-worlds-best-dad/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 3 “White Cement” Rumored for a Spring 2027 Release",
+      "url": "https://justfreshkicks.com/air-jordan-3-white-cement-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 4 “Musik” Releases January 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
