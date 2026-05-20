@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-20T16:57:39+00:00",
+  "generated_utc": "2026-05-20T17:18:35+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -9,7 +9,7 @@
       "source": "JustFreshKicks",
       "source_url": "https://justfreshkicks.com/nigel-sylvester-air-jordan-4-fire-red-brick-after-brick/",
       "thumbnail": "/drops/thumbs/315c8ac926db.webp",
-      "published": "2026-05-18T05:32:00",
+      "published": "2026-05-20T05:32:00",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "4df73e9350ad",
+      "pillar": "hiphop",
+      "title": "Rihanna Shooting Suspect Ordered To Take Mental Health Evaluation",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/rihanna-shooting-suspect-ordered-to-take-mental-health-evaluation/",
+      "thumbnail": "/drops/thumbs/4df73e9350ad.png",
+      "published": "2026-05-20T13:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d87973141369",
+      "pillar": "hiphop",
+      "title": "Vybz Kartel Announces June 5 Album",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/20/vybz-kartel-announces-june-5-album/",
+      "thumbnail": "/drops/thumbs/d87973141369.jpg",
+      "published": "2026-05-20T12:52:35",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9fda590ee2b4",
       "pillar": "hiphop",
       "title": "Kanye West’s Payment Problems Keep Piling Up In Court With Latest Lawsuit Over Design Work",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/jada-pinkett-smith-wins-big-against-will-smiths-former-friend-even-as-he-makes-more-wild-claims/",
       "thumbnail": "/drops/thumbs/91c86e3eb930.jpg",
       "published": "2026-05-20T10:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "81ad503c6cea",
-      "pillar": "hiphop",
-      "title": "Kars4Kids Crushed In California Court Over “Deceptive” Jingle",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/kars4kids-crushed-in-california-court-over-deceptive-jingle/",
-      "thumbnail": "/drops/thumbs/81ad503c6cea.jpg",
-      "published": "2026-05-20T08:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5c1b9eec97c5",
-      "pillar": "hiphop",
-      "title": "Cardi B Leads BET Awards 2026 Nominations With Six Nods",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/bet-awards-2026-nominations-cardi-b/",
-      "thumbnail": "/drops/thumbs/5c1b9eec97c5.jpg",
-      "published": "2026-05-20T07:02:10",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "9fda590ee2b4",
+    "4df73e9350ad",
     "dd5fb84e4443",
     "710cdc0db682",
     "4544ebd683e4",
