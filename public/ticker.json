@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T04:05:49+00:00",
+  "generated_utc": "2026-05-21T05:05:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "JID Blasts BET And Takes Aim At J. Cole’s “Platinum” Lyric",
+      "url": "https://allhiphop.com/rumors/jid-blasts-bet-and-takes-aim-at-j-coles-platinum-lyric/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Mike Tyson Tells Wild Story About Busting Brad Pitt With Robin Givens",
       "url": "https://allhiphop.com/news/mike-tyson-tells-wild-story-about-busting-brad-pitt-with-robin-givens/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Rick Ross’ Orchestral Reunion Tour Reportedly Facing Slow Early Ticket Demand",
       "url": "https://thesource.com/2026/05/20/rick-ross-orchestral-reunion-tour-reportedly-facing-slow-early-ticket-demand/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Wiz Khalifa Reportedly Added to Romania’s Wanted List Following Drug Case",
-      "url": "https://thesource.com/2026/05/20/wiz-khalifa-reportedly-added-to-romanias-wanted-list-following-drug-case/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,15 +172,15 @@
       "article_slug": null
     },
     {
-      "title": "Fortnite Has Returned To Apple App Store In Most Regions",
-      "url": "https://gameranx.com/updates/id/562735/article/fortnite-has-returned-to-apple-app-store-in-most-regions/",
+      "title": "News 'We're Not Standing Still': Returnal Director Forms New Studio to Make Games That Trust You",
+      "url": "https://www.pushsquare.com/news/2026/05/were-not-standing-still-returnal-director-forms-new-studio-to-make-games-that-trust-you",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Sony to Show Latest State of Play in Theatres for First Time Since 2018",
-      "url": "https://www.pushsquare.com/news/2026/05/sony-to-show-latest-state-of-play-in-theatres-for-first-time-since-2018",
+      "title": "Fortnite Has Returned To Apple App Store In Most Regions",
+      "url": "https://gameranx.com/updates/id/562735/article/fortnite-has-returned-to-apple-app-store-in-most-regions/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Guide When Is PlayStation's State of Play for June 2026?",
-      "url": "https://www.pushsquare.com/guides/when-is-playstations-state-of-play-for-june-2026",
+      "title": "News Sony to Show Latest State of Play in Theatres for First Time Since 2018",
+      "url": "https://www.pushsquare.com/news/2026/05/sony-to-show-latest-state-of-play-in-theatres-for-first-time-since-2018",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
