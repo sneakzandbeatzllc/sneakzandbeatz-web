@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T20:50:05+00:00",
+  "generated_utc": "2026-05-21T21:16:38+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "4544ebd683e4",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “World’s Best Dad” Now Available (May 2026)",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-3-worlds-best-dad/",
-      "thumbnail": "/drops/thumbs/4544ebd683e4.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "778eafc4f8b8",
       "pillar": "sneakers",
       "title": "The Air Jordan 3 “White Cement” Rumored for a Spring 2027 Release",
@@ -96,6 +84,30 @@
       "published": "2026-05-19T14:33:09",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b2201e525307",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Utility” Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
+      "thumbnail": "/drops/thumbs/b2201e525307.jpg",
+      "published": "2026-05-18T15:32:31",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "caf9c406cc2c",
+      "pillar": "hiphop",
+      "title": "Berner Turned Down Diddy & Jay-Z To Build Cookies Cannabis Empire",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/berner-turned-down-diddy-jay-z-to-build-cookies-cannabis-empire/",
+      "thumbnail": "/drops/thumbs/caf9c406cc2c.jpg",
+      "published": "2026-05-21T17:00:58",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "2d7b8272d87e",
-      "pillar": "hiphop",
-      "title": "Ray J Rumored For Celebrity Boxing Match & We Are Concerned",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/ray-j-rumored-for-celebrity-boxing-match-we-are-concerned/",
-      "thumbnail": "/drops/thumbs/2d7b8272d87e.jpg",
-      "published": "2026-05-21T13:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c1861933267d",
       "pillar": "anime",
       "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "1c18abf81765",
+      "id": "516b8e7e0d74",
       "pillar": "anime",
-      "title": "Norainu to Tenshi-chan Manga Goes on Hiatus, Moves to Yanmaga Web",
+      "title": "North American Anime, Manga Releases, May 17-23",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/norainu-to-tenshi-chan-manga-goes-on-hiatus-moves-to-yanmaga-web/.237580",
-      "thumbnail": "/drops/thumbs/1c18abf81765.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/north-american-anime-manga-releases-may-17-23/.237507",
+      "thumbnail": "/drops/thumbs/516b8e7e0d74.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "f1583271ecc1",
+      "id": "1c18abf81765",
       "pillar": "anime",
-      "title": "Kamentotsu's The Creepy and Freaky Manga Ends",
+      "title": "Norainu to Tenshi-chan Manga Goes on Hiatus, Moves to Yanmaga Web",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/kamentotsu-the-creepy-and-freaky-manga-ends/.237578",
-      "thumbnail": "/drops/thumbs/f1583271ecc1.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/norainu-to-tenshi-chan-manga-goes-on-hiatus-moves-to-yanmaga-web/.237580",
+      "thumbnail": "/drops/thumbs/1c18abf81765.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "781af662d104",
+      "pillar": "gaming",
+      "title": "Everyone Can Relax, GTA 6 Isn’t Delayed, Still Releasing In November",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/everyone-can-relax-gta-6-isnt-delayed-and-still-releasing-in-november-2000698373",
+      "thumbnail": "/drops/thumbs/781af662d104.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,24 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "b56547df3a39",
-      "pillar": "gaming",
-      "title": "The Internet Reacts To The End Of Bungie’s Sci-Fi MMO Destiny",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-internet-reacts-to-the-end-of-bungies-sci-fi-mmo-destiny-2000698313",
-      "thumbnail": "/drops/thumbs/b56547df3a39.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d8d7fc2581ec",
       "pillar": "gaming",
       "title": "News Destiny 2 Support Ending After 9 Years, Sony Dev Bungie to Focus on a 'New Beginning'",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/destiny-2-support-ending-after-9-years-sony-dev-bungie-to-focus-on-a-new-beginning",
       "thumbnail": "/drops/thumbs/d8d7fc2581ec.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e44806b29d66",
+      "pillar": "gaming",
+      "title": "Destiny 2 Is Ending",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/destiny-2-is-ending-2000698288",
+      "thumbnail": "/drops/thumbs/e44806b29d66.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "8c88edc6002d",
-      "pillar": "gaming",
-      "title": "Dataminers Find Nintendo Switch Account Manager In Genshin Impact",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562760/article/dataminers-find-nintendo-switch-account-manager-in-genshin-impact/",
-      "thumbnail": "/drops/thumbs/8c88edc6002d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "cc2080be1e35",
+    "caf9c406cc2c",
     "5d4bbf488e7f",
     "c1861933267d",
     "f931c0c69400",
-    "a7a598e1ac4e"
+    "781af662d104"
   ]
 }

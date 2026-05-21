@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T20:50:05+00:00",
+  "generated_utc": "2026-05-21T21:16:38+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,13 +32,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “World’s Best Dad” Now Available (May 2026)",
-      "url": "https://sneakerbardetroit.com/air-jordan-3-worlds-best-dad/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "The Air Jordan 3 “White Cement” Rumored for a Spring 2027 Release",
       "url": "https://justfreshkicks.com/air-jordan-3-white-cement-2027/",
       "pillar": "sneakers",
@@ -57,6 +50,20 @@
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Utility” Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Berner Turned Down Diddy & Jay-Z To Build Cookies Cannabis Empire",
+      "url": "https://allhiphop.com/news/berner-turned-down-diddy-jay-z-to-build-cookies-cannabis-empire/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Ray J Rumored For Celebrity Boxing Match & We Are Concerned",
-      "url": "https://allhiphop.com/rumors/ray-j-rumored-for-celebrity-boxing-match-we-are-concerned/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
       "url": "https://screenrant.com/attack-on-titan-eren-yeager-best-quotes/",
       "pillar": "anime",
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Norainu to Tenshi-chan Manga Goes on Hiatus, Moves to Yanmaga Web",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-21/norainu-to-tenshi-chan-manga-goes-on-hiatus-moves-to-yanmaga-web/.237580",
+      "title": "North American Anime, Manga Releases, May 17-23",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-21/north-american-anime-manga-releases-may-17-23/.237507",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,9 +165,16 @@
       "article_slug": null
     },
     {
-      "title": "Kamentotsu's The Creepy and Freaky Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-21/kamentotsu-the-creepy-and-freaky-manga-ends/.237578",
+      "title": "Norainu to Tenshi-chan Manga Goes on Hiatus, Moves to Yanmaga Web",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-21/norainu-to-tenshi-chan-manga-goes-on-hiatus-moves-to-yanmaga-web/.237580",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Everyone Can Relax, GTA 6 Isn’t Delayed, Still Releasing In November",
+      "url": "https://kotaku.com/everyone-can-relax-gta-6-isnt-delayed-and-still-releasing-in-november-2000698373",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -186,15 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "The Internet Reacts To The End Of Bungie’s Sci-Fi MMO Destiny",
-      "url": "https://kotaku.com/the-internet-reacts-to-the-end-of-bungies-sci-fi-mmo-destiny-2000698313",
+      "title": "News Destiny 2 Support Ending After 9 Years, Sony Dev Bungie to Focus on a 'New Beginning'",
+      "url": "https://www.pushsquare.com/news/2026/05/destiny-2-support-ending-after-9-years-sony-dev-bungie-to-focus-on-a-new-beginning",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Destiny 2 Support Ending After 9 Years, Sony Dev Bungie to Focus on a 'New Beginning'",
-      "url": "https://www.pushsquare.com/news/2026/05/destiny-2-support-ending-after-9-years-sony-dev-bungie-to-focus-on-a-new-beginning",
+      "title": "Destiny 2 Is Ending",
+      "url": "https://kotaku.com/destiny-2-is-ending-2000698288",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Hands-on Hands-on with Assassin's Creed Black Flag Resynced",
       "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-hands-on-big-preview/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dataminers Find Nintendo Switch Account Manager In Genshin Impact",
-      "url": "https://gameranx.com/updates/id/562760/article/dataminers-find-nintendo-switch-account-manager-in-genshin-impact/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
