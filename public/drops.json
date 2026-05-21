@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T00:36:30+00:00",
+  "generated_utc": "2026-05-21T01:04:39+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "5b9114805aee",
+      "pillar": "anime",
+      "title": "Chainsaw Man's Final Release Just Stirred Up Another Controversy, And Fans Are Roasting It",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/chainsaw-man-volume-24-controversy-cover-explained/",
+      "thumbnail": "/drops/thumbs/5b9114805aee.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "051e641e1757",
       "pillar": "anime",
       "title": "November 8th Is Going To Be a Good Day For Spy x Family Fans Hungry For Season 4",
@@ -225,18 +237,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-robin-saul-reunion/",
       "thumbnail": "/drops/thumbs/e19660b38396.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c414be68e593",
-      "pillar": "anime",
-      "title": "Berserk Finally Returns With First New Release Of 2026",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/berserk-manga-return-chapter-384-release-date/",
-      "thumbnail": "/drops/thumbs/c414be68e593.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "315c8ac926db",
     "92b47fead87d",
     "dd5fb84e4443",
-    "051e641e1757",
+    "5b9114805aee",
     "4544ebd683e4",
     "69dd3caf29ba"
   ]

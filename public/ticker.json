@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T00:36:30+00:00",
+  "generated_utc": "2026-05-21T01:04:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Chainsaw Man's Final Release Just Stirred Up Another Controversy, And Fans Are Roasting It",
+      "url": "https://screenrant.com/chainsaw-man-volume-24-controversy-cover-explained/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "November 8th Is Going To Be a Good Day For Spy x Family Fans Hungry For Season 4",
       "url": "https://screenrant.com/spy-x-family-extra-mission-panel-season-4/",
       "pillar": "anime",
@@ -132,13 +139,6 @@
     {
       "title": "One Piece's Emotional Next Episode Is 20 Years In The Making",
       "url": "https://screenrant.com/one-piece-robin-saul-reunion/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Berserk Finally Returns With First New Release Of 2026",
-      "url": "https://screenrant.com/berserk-manga-return-chapter-384-release-date/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
