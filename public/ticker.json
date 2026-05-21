@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T22:23:29+00:00",
+  "generated_utc": "2026-05-21T22:49:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,6 +32,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 3 Flip “Super Bowl” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-flip-super-bowl-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "The Air Jordan 3 “White Cement” Rumored for a Spring 2027 Release",
       "url": "https://justfreshkicks.com/air-jordan-3-white-cement-2027/",
       "pillar": "sneakers",
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “Utility” Releases Spring 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
