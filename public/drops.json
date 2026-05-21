@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T17:46:09+00:00",
+  "generated_utc": "2026-05-21T18:10:15+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "db24ab97942c",
+      "pillar": "hiphop",
+      "title": "Tiffany Haddish’s Lazy Eye Defense Gets Her A Win In DUI Battle",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/tiffany-haddishs-lazy-eye-defense-gets-her-a-win-in-dui-battle/",
+      "thumbnail": "/drops/thumbs/db24ab97942c.jpg",
+      "published": "2026-05-21T14:00:35",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "355c03cc6b20",
+      "pillar": "hiphop",
+      "title": "Big Daddy Kane Doesn’t Need Your Validation, The Culture’s Verdict Is In",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/features/big-daddy-kane-doesnt-need-your-validation-the-cultures-verdict-is-in/",
+      "thumbnail": "/drops/thumbs/355c03cc6b20.png",
+      "published": "2026-05-21T13:54:12",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2d7b8272d87e",
       "pillar": "hiphop",
       "title": "Ray J Rumored For Celebrity Boxing Match & We Are Concerned",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/netflix-strikes-deal-to-livestream-the-breakfast-club-daily-as-video-podcast-strategy-intensifies/",
       "thumbnail": "/drops/thumbs/c6ffa57e90d5.jpg",
       "published": "2026-05-21T11:00:39",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cb28b8b235cf",
-      "pillar": "hiphop",
-      "title": "Nicki Minaj Finds Ally In Trump Buddy",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/nicki-minaj-finds-ally-in-trump-buddy/",
-      "thumbnail": "/drops/thumbs/cb28b8b235cf.jpg",
-      "published": "2026-05-21T09:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4f256900d35a",
-      "pillar": "hiphop",
-      "title": "Chelsea Handler Destroys “Racists” Shane Gillis & Tony Hinchcliffe Over Kevin Hart Roast",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/chelsea-handler-destroys-racists-shane-gillis-tony-hinchcliffe-over-kevin-hart-roast/",
-      "thumbnail": "/drops/thumbs/4f256900d35a.jpg",
-      "published": "2026-05-21T09:00:09",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "787d1253cd3c",
-      "pillar": "gaming",
-      "title": "Here’s Why Chinese Overwatch Players Keep Getting Cool Stuff The Rest Of Us Don’t",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/overwatch-china-exclusive-anniversary-event-skins-naraka-2000698276",
-      "thumbnail": "/drops/thumbs/787d1253cd3c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1fd9b5a255eb",
       "pillar": "gaming",
       "title": "Tom Henderson: Ubisoft’s AI Project Was Used For Far Cry 7 Dev’t “And It Looks Like Shit”",
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "93d7c6712a57",
+      "pillar": "gaming",
+      "title": "I Played 4 Hours Of The Assassin’s Creed Black Flag Remake And It’s Exactly What I Want",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/i-played-4-hours-of-the-assassins-creed-black-flag-remake-and-its-exactly-what-i-want-2000696586",
+      "thumbnail": "/drops/thumbs/93d7c6712a57.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "2d7b8272d87e",
+    "db24ab97942c",
     "5d4bbf488e7f",
     "c1861933267d",
     "f931c0c69400",
