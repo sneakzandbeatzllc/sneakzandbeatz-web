@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T16:45:14+00:00",
+  "generated_utc": "2026-05-21T17:08:06+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f899685d9b0a",
+      "pillar": "hiphop",
+      "title": "Elon Musk To Become World’s First Trillionaire With SpaceX IPO",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/elon-musk-to-become-worlds-first-trillionaire-with-spacex-ipo/",
+      "thumbnail": "/drops/thumbs/f899685d9b0a.jpg",
+      "published": "2026-05-21T13:00:47",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "387dca882b2b",
       "pillar": "hiphop",
       "title": "Snoop Dogg Denies Liability In Drakeo The Ruler Festival Stabbing Death",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "bb151cb334ae",
-      "pillar": "hiphop",
-      "title": "LeBron James Returning to Fanatics Fest NYC This July",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/21/lebron-james-fanatics-fest-nyc-2026/",
-      "thumbnail": "/drops/thumbs/bb151cb334ae.jpg",
-      "published": "2026-05-21T03:59:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c1861933267d",
       "pillar": "anime",
       "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "8b0f16511719",
+      "id": "f1583271ecc1",
       "pillar": "anime",
-      "title": "Titan Manga Reveals Cover Spreads for The Five Star Stories Manga's English Release",
+      "title": "Kamentotsu's The Creepy and Freaky Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/titan-manga-reveals-cover-spreads-for-the-five-star-stories-manga-english-release/.237605",
-      "thumbnail": "/drops/thumbs/8b0f16511719.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/kamentotsu-the-creepy-and-freaky-manga-ends/.237578",
+      "thumbnail": "/drops/thumbs/f1583271ecc1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "2847bec29a8b",
+      "id": "8b0f16511719",
       "pillar": "anime",
-      "title": "Sword Art Online's Echoes of Aincrad Game's Trailer Previews Abilities, Partners, Weapons",
+      "title": "Titan Manga Reveals Cover Spreads for The Five Star Stories Manga's English Release",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/sword-art-online-echoes-of-aincrad-game-trailer-previews-abilities-partners-weapons/.237612",
-      "thumbnail": "/drops/thumbs/2847bec29a8b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/titan-manga-reveals-cover-spreads-for-the-five-star-stories-manga-english-release/.237605",
+      "thumbnail": "/drops/thumbs/8b0f16511719.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "0b70ca5f6d9d",
+      "id": "2847bec29a8b",
       "pillar": "anime",
-      "title": "SkySet Entertainment to Stream, Produce English Dub for Go Forward Anime Series",
+      "title": "Sword Art Online's Echoes of Aincrad Game's Trailer Previews Abilities, Partners, Weapons",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/skyset-entertainment-to-stream-produce-english-dub-for-go-forward-anime-series/.237267",
-      "thumbnail": "/drops/thumbs/0b70ca5f6d9d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/sword-art-online-echoes-of-aincrad-game-trailer-previews-abilities-partners-weapons/.237612",
+      "thumbnail": "/drops/thumbs/2847bec29a8b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "6abf0e6e5d50",
+      "id": "787d1253cd3c",
       "pillar": "gaming",
-      "title": "At Its 10-Year Anniversary, Overwatch Leads Look Back At Highs And Lows: ‘When Marvel Rivals Launched, It Had A Meaningful Impact On Our Game’",
+      "title": "Here’s Why Chinese Overwatch Players Keep Getting Cool Stuff The Rest Of Us Don’t",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/overwatch-anniversary-event-season-3-new-heroes-2000698236",
-      "thumbnail": "/drops/thumbs/6abf0e6e5d50.jpg",
+      "source_url": "https://kotaku.com/overwatch-china-exclusive-anniversary-event-skins-naraka-2000698276",
+      "thumbnail": "/drops/thumbs/787d1253cd3c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "387dca882b2b",
+    "f899685d9b0a",
     "5d4bbf488e7f",
     "c1861933267d",
     "f931c0c69400",
