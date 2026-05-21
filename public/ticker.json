@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T23:24:29+00:00",
+  "generated_utc": "2026-05-21T23:53:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "The Internet Reacts To The End Of Bungie’s Sci-Fi MMO Destiny",
-      "url": "https://kotaku.com/the-internet-reacts-to-the-end-of-bungies-sci-fi-mmo-destiny-2000698313",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Destiny 2 Support Ending After 9 Years, Sony Dev Bungie to Focus on a 'New Beginning'",
       "url": "https://www.pushsquare.com/news/2026/05/destiny-2-support-ending-after-9-years-sony-dev-bungie-to-focus-on-a-new-beginning",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Hands-on Hands-on with Assassin's Creed Black Flag Resynced",
       "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-hands-on-big-preview/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dataminers Find Nintendo Switch Account Manager In Genshin Impact",
+      "url": "https://gameranx.com/updates/id/562760/article/dataminers-find-nintendo-switch-account-manager-in-genshin-impact/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
