@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T00:01:25+00:00",
+  "generated_utc": "2026-05-21T00:36:30+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -291,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "2e2c63ca202c",
-      "pillar": "gaming",
-      "title": "News Apr 2026 USA Sales: Unremarkable Start for Saros on PS5, as Circana Adds Digital Projections",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/apr-2026-usa-sales-unremarkable-start-for-saros-on-ps5-as-circana-adds-digital-projections",
-      "thumbnail": "/drops/thumbs/2e2c63ca202c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "69dd3caf29ba",
       "pillar": "gaming",
       "title": "Fortnite Has Returned To Apple App Store In Most Regions",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562735/article/fortnite-has-returned-to-apple-app-store-in-most-regions/",
       "thumbnail": "/drops/thumbs/69dd3caf29ba.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "abfa8fdc91ce",
+      "pillar": "gaming",
+      "title": "News Sony to Show Latest State of Play in Theatres for First Time Since 2018",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/sony-to-show-latest-state-of-play-in-theatres-for-first-time-since-2018",
+      "thumbnail": "/drops/thumbs/abfa8fdc91ce.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "dd5fb84e4443",
     "051e641e1757",
     "4544ebd683e4",
-    "2e2c63ca202c"
+    "69dd3caf29ba"
   ]
 }
