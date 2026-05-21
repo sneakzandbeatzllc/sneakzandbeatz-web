@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T14:43:00+00:00",
+  "generated_utc": "2026-05-21T15:12:35+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "c6ffa57e90d5",
+      "pillar": "hiphop",
+      "title": "Netflix Strikes Deal To Livestream “The Breakfast Club” Daily As Video Podcast Strategy Intensifies",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/netflix-strikes-deal-to-livestream-the-breakfast-club-daily-as-video-podcast-strategy-intensifies/",
+      "thumbnail": "/drops/thumbs/c6ffa57e90d5.jpg",
+      "published": "2026-05-21T11:00:39",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cb28b8b235cf",
       "pillar": "hiphop",
       "title": "Nicki Minaj Finds Ally In Trump Buddy",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "392d46fa1e11",
-      "pillar": "hiphop",
-      "title": "JID Blasts BET And Takes Aim At J. Cole’s “Platinum” Lyric",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/jid-blasts-bet-and-takes-aim-at-j-coles-platinum-lyric/",
-      "thumbnail": "/drops/thumbs/392d46fa1e11.jpg",
-      "published": "2026-05-21T00:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c1861933267d",
       "pillar": "anime",
       "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "0b70ca5f6d9d",
+      "id": "2847bec29a8b",
       "pillar": "anime",
-      "title": "SkySet Entertainment to Stream, Produce English Dub for Go Forward Anime Series",
+      "title": "Sword Art Online's Echoes of Aincrad Game's Trailer Previews Abilities, Partners, Weapons",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/skyset-entertainment-to-stream-produce-english-dub-for-go-forward-anime-series/.237267",
-      "thumbnail": "/drops/thumbs/0b70ca5f6d9d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/sword-art-online-echoes-of-aincrad-game-trailer-previews-abilities-partners-weapons/.237612",
+      "thumbnail": "/drops/thumbs/2847bec29a8b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "ad430ecd35c4",
+      "id": "0b70ca5f6d9d",
       "pillar": "anime",
-      "title": "ABEMA Announces Sequel of 'Poppin-Play Kitchen' Original Anime Pilot Film",
+      "title": "SkySet Entertainment to Stream, Produce English Dub for Go Forward Anime Series",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/abema-announces-sequel-of-poppin-play-kitchen-original-anime-pilot-film/.237606",
-      "thumbnail": "/drops/thumbs/ad430ecd35c4.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/skyset-entertainment-to-stream-produce-english-dub-for-go-forward-anime-series/.237267",
+      "thumbnail": "/drops/thumbs/0b70ca5f6d9d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "cb28b8b235cf",
+    "c6ffa57e90d5",
     "5d4bbf488e7f",
     "c1861933267d",
     "f931c0c69400",
