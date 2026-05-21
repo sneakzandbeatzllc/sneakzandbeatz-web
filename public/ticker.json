@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T17:08:06+00:00",
+  "generated_utc": "2026-05-21T17:14:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,6 +20,13 @@
     {
       "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -48,13 +55,6 @@
     {
       "title": "Georgetown Colors Land on the Air Jordan 4 for Spring 2027",
       "url": "https://justfreshkicks.com/air-jordan-4-georgetown-fv5029-004/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
