@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T12:32:39+00:00",
+  "generated_utc": "2026-05-21T12:41:09+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -159,37 +159,49 @@
       "release_badge": ""
     },
     {
-      "id": "5366270e2198",
+      "id": "392d46fa1e11",
       "pillar": "hiphop",
-      "title": "Trump Rules Out Military Escalation as U.S. Indicts 94 Year-Old Former Cuban Leader Raúl Castro",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/trump-rules-out-military-escalation-as-u-s-indicts-94-year-old-former-cuban-leader-raul-castro/",
-      "thumbnail": "/drops/thumbs/5366270e2198.jpg",
-      "published": "2026-05-20T17:51:32",
+      "title": "JID Blasts BET And Takes Aim At J. Cole’s “Platinum” Lyric",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/jid-blasts-bet-and-takes-aim-at-j-coles-platinum-lyric/",
+      "thumbnail": "/drops/thumbs/392d46fa1e11.jpg",
+      "published": "2026-05-21T00:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "c2b370cdbc8b",
+      "id": "f675b54963c8",
       "pillar": "hiphop",
-      "title": "Latto Reveals Birth of First Child and Confirms 21 Savage as Father in Personal Video Diary",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/latto-reveals-birth-of-first-child-and-confirms-21-savage-as-father-in-personal-video-diary/",
-      "thumbnail": "/drops/thumbs/c2b370cdbc8b.jpg",
-      "published": "2026-05-20T17:40:39",
+      "title": "Mike Tyson Tells Wild Story About Busting Brad Pitt With Robin Givens",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/mike-tyson-tells-wild-story-about-busting-brad-pitt-with-robin-givens/",
+      "thumbnail": "/drops/thumbs/f675b54963c8.jpg",
+      "published": "2026-05-20T22:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "825ab70e97d0",
+      "id": "eb522b4d02de",
       "pillar": "hiphop",
-      "title": "Rick Ross’ Orchestral Reunion Tour Reportedly Facing Slow Early Ticket Demand",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/rick-ross-orchestral-reunion-tour-reportedly-facing-slow-early-ticket-demand/",
-      "thumbnail": "/drops/thumbs/825ab70e97d0.jpg",
-      "published": "2026-05-20T17:35:42",
+      "title": "Eminem’s Ex-Wife Breaks Down In Tears During DUI Bust Caught On Video",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/eminems-ex-wife-breaks-down-in-tears-during-dui-bust-caught-on-video/",
+      "thumbnail": "/drops/thumbs/eb522b4d02de.png",
+      "published": "2026-05-20T21:03:57",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c1861933267d",
+      "pillar": "anime",
+      "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/attack-on-titan-eren-yeager-best-quotes/",
+      "thumbnail": "/drops/thumbs/c1861933267d.png",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -225,18 +237,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/boruto-two-blue-vortex-sakura-sarada-quote/",
       "thumbnail": "/drops/thumbs/3821e410f4a2.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e19660b38396",
-      "pillar": "anime",
-      "title": "One Piece's Emotional Next Episode Is 20 Years In The Making",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-robin-saul-reunion/",
-      "thumbnail": "/drops/thumbs/e19660b38396.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "1f8cbf1d8983",
     "f4b79696bdab",
     "5d4bbf488e7f",
-    "5b9114805aee",
+    "c1861933267d",
     "f931c0c69400",
     "e3bd11f70106"
   ]

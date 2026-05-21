@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T12:32:39+00:00",
+  "generated_utc": "2026-05-21T12:41:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,23 +95,30 @@
       "article_slug": null
     },
     {
-      "title": "Trump Rules Out Military Escalation as U.S. Indicts 94 Year-Old Former Cuban Leader Raúl Castro",
-      "url": "https://thesource.com/2026/05/20/trump-rules-out-military-escalation-as-u-s-indicts-94-year-old-former-cuban-leader-raul-castro/",
+      "title": "JID Blasts BET And Takes Aim At J. Cole’s “Platinum” Lyric",
+      "url": "https://allhiphop.com/rumors/jid-blasts-bet-and-takes-aim-at-j-coles-platinum-lyric/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Latto Reveals Birth of First Child and Confirms 21 Savage as Father in Personal Video Diary",
-      "url": "https://thesource.com/2026/05/20/latto-reveals-birth-of-first-child-and-confirms-21-savage-as-father-in-personal-video-diary/",
+      "title": "Mike Tyson Tells Wild Story About Busting Brad Pitt With Robin Givens",
+      "url": "https://allhiphop.com/news/mike-tyson-tells-wild-story-about-busting-brad-pitt-with-robin-givens/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Rick Ross’ Orchestral Reunion Tour Reportedly Facing Slow Early Ticket Demand",
-      "url": "https://thesource.com/2026/05/20/rick-ross-orchestral-reunion-tour-reportedly-facing-slow-early-ticket-demand/",
+      "title": "Eminem’s Ex-Wife Breaks Down In Tears During DUI Bust Caught On Video",
+      "url": "https://allhiphop.com/news/eminems-ex-wife-breaks-down-in-tears-during-dui-bust-caught-on-video/",
       "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
+      "url": "https://screenrant.com/attack-on-titan-eren-yeager-best-quotes/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -132,13 +139,6 @@
     {
       "title": "Boruto Just Silenced Every Sakura Critic With One Word That Hits Like A Freight Train",
       "url": "https://screenrant.com/boruto-two-blue-vortex-sakura-sarada-quote/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece's Emotional Next Episode Is 20 Years In The Making",
-      "url": "https://screenrant.com/one-piece-robin-saul-reunion/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
