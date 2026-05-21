@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T21:22:06+00:00",
+  "generated_utc": "2026-05-21T21:50:58+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "781af662d104",
-      "pillar": "gaming",
-      "title": "Everyone Can Relax, GTA 6 Isn’t Delayed, Still Releasing In November",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/everyone-can-relax-gta-6-isnt-delayed-and-still-releasing-in-november-2000698373",
-      "thumbnail": "/drops/thumbs/781af662d104.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a7a598e1ac4e",
       "pillar": "gaming",
       "title": "News 'We're Proud of What We've Been Building': Infinity Ward Teases New Call of Duty Ahead of Crucial Reveal",
@@ -327,6 +315,18 @@
       "release_badge": ""
     },
     {
+      "id": "e44806b29d66",
+      "pillar": "gaming",
+      "title": "Destiny 2 Is Ending",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/destiny-2-is-ending-2000698288",
+      "thumbnail": "/drops/thumbs/e44806b29d66.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d8d7fc2581ec",
       "pillar": "gaming",
       "title": "News Destiny 2 Support Ending After 9 Years, Sony Dev Bungie to Focus on a 'New Beginning'",
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "e44806b29d66",
+      "id": "b56547df3a39",
       "pillar": "gaming",
-      "title": "Destiny 2 Is Ending",
+      "title": "The Internet Reacts To The End Of Bungie’s Sci-Fi MMO Destiny",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/destiny-2-is-ending-2000698288",
-      "thumbnail": "/drops/thumbs/e44806b29d66.jpg",
+      "source_url": "https://kotaku.com/the-internet-reacts-to-the-end-of-bungies-sci-fi-mmo-destiny-2000698313",
+      "thumbnail": "/drops/thumbs/b56547df3a39.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "5d4bbf488e7f",
     "c1861933267d",
     "f931c0c69400",
-    "781af662d104"
+    "a7a598e1ac4e"
   ]
 }
