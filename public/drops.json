@@ -1,7 +1,21 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T21:50:58+00:00",
+  "generated_utc": "2026-05-21T22:14:42+00:00",
   "items": [
+    {
+      "id": "315c8ac926db",
+      "pillar": "sneakers",
+      "title": "The Nigel Sylvester x Air Jordan 4 “Brick After Brick” Releases Tomorrow",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/nigel-sylvester-air-jordan-4-fire-red-brick-after-brick/",
+      "thumbnail": "/drops/thumbs/315c8ac926db.webp",
+      "published": "2026-05-21T17:32:00",
+      "relative_time": "today",
+      "score": 7.5,
+      "release_badge": "🔥 Banger",
+      "affiliate_url": "https://stockx.com/search?s=The+Nigel+Sylvester+x+Air+Jordan+4+%E2%80%9CBrick+After+Brick%E2%80%9D+Releases+Tomorrow",
+      "affiliate_label": "StockX"
+    },
     {
       "id": "1f8cbf1d8983",
       "pillar": "sneakers",
@@ -12,19 +26,9 @@
       "published": "2026-05-20T17:42:00",
       "relative_time": "today",
       "score": 7.5,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "5d4bbf488e7f",
-      "pillar": "sneakers",
-      "title": "Nigel Sylvester x Air Jordan 4 “Brick After Brick” May Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
-      "thumbnail": "/drops/thumbs/5d4bbf488e7f.jpg",
-      "published": "2026-05-20T07:21:30",
-      "relative_time": "today",
-      "score": 7.5,
-      "release_badge": "🔥 Banger"
+      "release_badge": "🔥 Banger",
+      "affiliate_url": "https://stockx.com/search?s=Air+Jordan+12+%E2%80%9CBloodline%E2%80%9D+%28CT8013-003%29+May+2026+Release+Date+%26+Info",
+      "affiliate_label": "StockX"
     },
     {
       "id": "f931c0c69400",
@@ -36,7 +40,9 @@
       "published": "2026-05-20T15:44:38",
       "relative_time": "today",
       "score": 3.0,
-      "release_badge": "Drops This Month"
+      "release_badge": "Drops This Month",
+      "affiliate_url": "https://stockx.com/search?s=Air+Jordan+1+High+OG+WMNS+%E2%80%9CWorkwear%E2%80%9D+%28FD2596-201%29+May+Release+Date+%26+Info",
+      "affiliate_label": "StockX"
     },
     {
       "id": "b590d3f9fa64",
@@ -48,7 +54,9 @@
       "published": "2026-05-20T00:22:50",
       "relative_time": "today",
       "score": 3.0,
-      "release_badge": "Drops This Month"
+      "release_badge": "Drops This Month",
+      "affiliate_url": "https://stockx.com/search?s=Travis+Scott+x+Air+Jordan+1+Low+OG+SP+%E2%80%9CShy+Pink%E2%80%9D+%28IQ7604-100%29+May+Release+Date+%26+Info",
+      "affiliate_label": "StockX"
     },
     {
       "id": "778eafc4f8b8",
@@ -60,7 +68,9 @@
       "published": "2026-05-20T18:32:26",
       "relative_time": "today",
       "score": 2.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://stockx.com/search?s=The+Air+Jordan+3+%E2%80%9CWhite+Cement%E2%80%9D+Rumored+for+a+Spring+2027+Release",
+      "affiliate_label": "StockX"
     },
     {
       "id": "75fe3bb065de",
@@ -72,7 +82,9 @@
       "published": "2026-05-20T13:51:36",
       "relative_time": "today",
       "score": 2.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://stockx.com/search?s=Georgetown+Colors+Land+on+the+Air+Jordan+4+for+Spring+2027",
+      "affiliate_label": "StockX"
     },
     {
       "id": "d74f496abc5f",
@@ -84,7 +96,9 @@
       "published": "2026-05-19T14:33:09",
       "relative_time": "today",
       "score": 2.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://stockx.com/search?s=Air+Jordan+4+%E2%80%9CBirds+of+Paradise%E2%80%9D+Releases+July+2026",
+      "affiliate_label": "StockX"
     },
     {
       "id": "b2201e525307",
@@ -96,19 +110,9 @@
       "published": "2026-05-18T15:32:31",
       "relative_time": "today",
       "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "caf9c406cc2c",
-      "pillar": "hiphop",
-      "title": "Berner Turned Down Diddy & Jay-Z To Build Cookies Cannabis Empire",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/berner-turned-down-diddy-jay-z-to-build-cookies-cannabis-empire/",
-      "thumbnail": "/drops/thumbs/caf9c406cc2c.jpg",
-      "published": "2026-05-21T17:00:58",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://stockx.com/search?s=Air+Jordan+3+%E2%80%9CUtility%E2%80%9D+Releases+Spring+2027",
+      "affiliate_label": "StockX"
     },
     {
       "id": "cc2080be1e35",
@@ -171,25 +175,37 @@
       "release_badge": ""
     },
     {
-      "id": "db24ab97942c",
+      "id": "781d9130cfd5",
       "pillar": "hiphop",
-      "title": "Tiffany Haddish’s Lazy Eye Defense Gets Her A Win In DUI Battle",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/tiffany-haddishs-lazy-eye-defense-gets-her-a-win-in-dui-battle/",
-      "thumbnail": "/drops/thumbs/db24ab97942c.jpg",
-      "published": "2026-05-21T14:00:35",
+      "title": "Purpose Beyond the Pavement: How Stephen Curry’s Sneaker Free Agency is Transforming Oakland",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/21/purpose-beyond-the-pavement-how-stephen-currys-sneaker-free-agency-is-transforming-oakland/",
+      "thumbnail": "/drops/thumbs/781d9130cfd5.jpg",
+      "published": "2026-05-21T12:57:08",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "355c03cc6b20",
+      "id": "f4b79696bdab",
       "pillar": "hiphop",
-      "title": "Big Daddy Kane Doesn’t Need Your Validation, The Culture’s Verdict Is In",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/features/big-daddy-kane-doesnt-need-your-validation-the-cultures-verdict-is-in/",
-      "thumbnail": "/drops/thumbs/355c03cc6b20.png",
-      "published": "2026-05-21T13:54:12",
+      "title": "Aaron Rodgers Says 2026 Season With Steelers Will Be His Last",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/21/aaron-rodgers-final-season-steelers-2026/",
+      "thumbnail": "/drops/thumbs/f4b79696bdab.jpg",
+      "published": "2026-05-21T07:08:28",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d8f19ff52349",
+      "pillar": "hiphop",
+      "title": "Megan Thee Stallion Returning to Miami Swim Week With Hot Girl Summer Runway Show",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/21/megan-thee-stallion-hot-girl-summer-swimweek-2026/",
+      "thumbnail": "/drops/thumbs/d8f19ff52349.jpg",
+      "published": "2026-05-21T03:59:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -204,7 +220,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.crunchyroll.com/search?q=Eren+Yeager%27s+10+Greatest+Attack+on+Titan+Quotes",
+      "affiliate_label": "Crunchyroll"
     },
     {
       "id": "eaa762f0b5cf",
@@ -216,7 +234,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.crunchyroll.com/search?q=Anime+Expo+Screens+U.S.+Premiere+of+Sparks+of+Tomorrow+TV+Anime%2C+Hosts+Frieren%3A+Beyond+Journey%27s+End+Anime+Staff",
+      "affiliate_label": "Crunchyroll"
     },
     {
       "id": "5b9114805aee",
@@ -228,7 +248,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.crunchyroll.com/search?q=Chainsaw+Man%27s+Final+Release+Just+Stirred+Up+Another+Controversy%2C+And+Fans+Are+Roasting+It",
+      "affiliate_label": "Crunchyroll"
     },
     {
       "id": "051e641e1757",
@@ -240,7 +262,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.crunchyroll.com/search?q=November+8th+Is+Going+To+Be+a+Good+Day+For+Spy+x+Family+Fans+Hungry+For+Season+4",
+      "affiliate_label": "Crunchyroll"
     },
     {
       "id": "8c3fa0c1b0d1",
@@ -252,19 +276,23 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.crunchyroll.com/search?q=Kagurabachi+treats+swords+like+nuclear+weapons",
+      "affiliate_label": "Crunchyroll"
     },
     {
-      "id": "516b8e7e0d74",
+      "id": "2c0bcdd446a2",
       "pillar": "anime",
-      "title": "North American Anime, Manga Releases, May 17-23",
+      "title": "Hirohisa Satō's Mother Parasite Manga Enters Last Arc in 18th Volume",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/north-american-anime-manga-releases-may-17-23/.237507",
-      "thumbnail": "/drops/thumbs/516b8e7e0d74.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/hirohisa-sato-mother-parasite-manga-enters-last-arc-in-18th-volume/.237582",
+      "thumbnail": "/drops/thumbs/2c0bcdd446a2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.crunchyroll.com/search?q=Hirohisa+Sat%C5%8D%27s+Mother+Parasite+Manga+Enters+Last+Arc+in+18th+Volume",
+      "affiliate_label": "Crunchyroll"
     },
     {
       "id": "80b7b9d6b49f",
@@ -276,19 +304,23 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.crunchyroll.com/search?q=Forza+Horizon+6%27s+best+Easter+egg+is+a+cup+of+water",
+      "affiliate_label": "Crunchyroll"
     },
     {
-      "id": "1c18abf81765",
+      "id": "516b8e7e0d74",
       "pillar": "anime",
-      "title": "Norainu to Tenshi-chan Manga Goes on Hiatus, Moves to Yanmaga Web",
+      "title": "North American Anime, Manga Releases, May 17-23",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/norainu-to-tenshi-chan-manga-goes-on-hiatus-moves-to-yanmaga-web/.237580",
-      "thumbnail": "/drops/thumbs/1c18abf81765.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/north-american-anime-manga-releases-may-17-23/.237507",
+      "thumbnail": "/drops/thumbs/516b8e7e0d74.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.crunchyroll.com/search?q=North+American+Anime%2C+Manga+Releases%2C+May+17-23",
+      "affiliate_label": "Crunchyroll"
     },
     {
       "id": "a7a598e1ac4e",
@@ -300,7 +332,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.amazon.com/s?k=News+%27We%27re+Proud+of+What+We%27ve+Been+Building%27%3A+Infinity+Ward+Teases+New+Call+of+Duty+Ahead+of+Crucial+Reveal",
+      "affiliate_label": "Amazon"
     },
     {
       "id": "3a9eb0a39847",
@@ -312,7 +346,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.amazon.com/s?k=Destiny+2+is+dead%3A+%22active+development%22+ends+next+month+after+one+final+update",
+      "affiliate_label": "Amazon"
     },
     {
       "id": "e44806b29d66",
@@ -324,7 +360,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.amazon.com/s?k=Destiny+2+Is+Ending",
+      "affiliate_label": "Amazon"
     },
     {
       "id": "d8d7fc2581ec",
@@ -336,7 +374,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.amazon.com/s?k=News+Destiny+2+Support+Ending+After+9+Years%2C+Sony+Dev+Bungie+to+Focus+on+a+%27New+Beginning%27",
+      "affiliate_label": "Amazon"
     },
     {
       "id": "b56547df3a39",
@@ -348,7 +388,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.amazon.com/s?k=The+Internet+Reacts+To+The+End+Of+Bungie%E2%80%99s+Sci-Fi+MMO+Destiny",
+      "affiliate_label": "Amazon"
     },
     {
       "id": "689c4fd8badf",
@@ -360,7 +402,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.amazon.com/s?k=Review+Luna+Abyss+%28PS5%29+-+Don%27t+Skip+This+AA+DOOM-Like+Shooter",
+      "affiliate_label": "Amazon"
     },
     {
       "id": "1fd9b5a255eb",
@@ -372,7 +416,9 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.amazon.com/s?k=Tom+Henderson%3A+Ubisoft%E2%80%99s+AI+Project+Was+Used+For+Far+Cry+7+Dev%E2%80%99t+%E2%80%9CAnd+It+Looks+Like+Shit%E2%80%9D",
+      "affiliate_label": "Amazon"
     },
     {
       "id": "c6199ad0b706",
@@ -384,13 +430,15 @@
       "published": "",
       "relative_time": "today",
       "score": 1.0,
-      "release_badge": ""
+      "release_badge": "",
+      "affiliate_url": "https://www.amazon.com/s?k=Hands-on+Hands-on+with+Assassin%27s+Creed+Black+Flag+Resynced",
+      "affiliate_label": "Amazon"
     }
   ],
   "homepage": [
+    "315c8ac926db",
+    "cc2080be1e35",
     "1f8cbf1d8983",
-    "caf9c406cc2c",
-    "5d4bbf488e7f",
     "c1861933267d",
     "f931c0c69400",
     "a7a598e1ac4e"
