@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T12:01:29+00:00",
+  "generated_utc": "2026-05-21T12:08:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -15,6 +15,13 @@
       "url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
       "pillar": "sneakers",
       "score": 7.5,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “Utility” Releases Spring 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News 'No Comment': Darksiders Publisher Refuses to Explain $10 PS5 Upgrade Charge That's Free on Xbox",
-      "url": "https://www.pushsquare.com/news/2026/05/no-comment-darksiders-publisher-refuses-to-explain-usd10-ps5-upgrade-charge-thats-free-on-xbox",
+      "title": "News New Virtua Fighter PS5 Footage Leaks, And It's Blowing My Mind",
+      "url": "https://www.pushsquare.com/news/2026/05/new-virtua-fighter-ps5-footage-leaks-and-its-blowing-my-mind",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS5 Sci-Fi RPG The Expanse: Osiris Reborn Recasts Its Main Character Following Brutal Fan Feedback",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5-sci-fi-rpg-the-expanse-osiris-reborn-recasts-its-main-character-following-brutal-fan-feedback",
+      "title": "News 'No Comment': Darksiders Publisher Refuses to Explain $10 PS5 Upgrade Charge That's Free on Xbox",
+      "url": "https://www.pushsquare.com/news/2026/05/no-comment-darksiders-publisher-refuses-to-explain-usd10-ps5-upgrade-charge-thats-free-on-xbox",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

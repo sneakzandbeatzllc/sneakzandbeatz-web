@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T12:01:29+00:00",
+  "generated_utc": "2026-05-21T12:08:03+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -25,6 +25,18 @@
       "relative_time": "today",
       "score": 7.5,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "f931c0c69400",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
+      "thumbnail": "/drops/thumbs/f931c0c69400.jpg",
+      "published": "2026-05-20T15:44:38",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "dd5fb84e4443",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
       "thumbnail": "/drops/thumbs/d74f496abc5f.jpg",
       "published": "2026-05-19T14:33:09",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b2201e525307",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Utility” Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
-      "thumbnail": "/drops/thumbs/b2201e525307.jpg",
-      "published": "2026-05-18T15:32:31",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "7ea6b7bcccfe",
+      "id": "e3bd11f70106",
       "pillar": "gaming",
-      "title": "News 'No Comment': Darksiders Publisher Refuses to Explain $10 PS5 Upgrade Charge That's Free on Xbox",
+      "title": "News New Virtua Fighter PS5 Footage Leaks, And It's Blowing My Mind",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/no-comment-darksiders-publisher-refuses-to-explain-usd10-ps5-upgrade-charge-thats-free-on-xbox",
-      "thumbnail": "/drops/thumbs/7ea6b7bcccfe.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/new-virtua-fighter-ps5-footage-leaks-and-its-blowing-my-mind",
+      "thumbnail": "/drops/thumbs/e3bd11f70106.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "1ad8ec23fac6",
+      "id": "7ea6b7bcccfe",
       "pillar": "gaming",
-      "title": "News PS5 Sci-Fi RPG The Expanse: Osiris Reborn Recasts Its Main Character Following Brutal Fan Feedback",
+      "title": "News 'No Comment': Darksiders Publisher Refuses to Explain $10 PS5 Upgrade Charge That's Free on Xbox",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/ps5-sci-fi-rpg-the-expanse-osiris-reborn-recasts-its-main-character-following-brutal-fan-feedback",
-      "thumbnail": "/drops/thumbs/1ad8ec23fac6.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/no-comment-darksiders-publisher-refuses-to-explain-usd10-ps5-upgrade-charge-thats-free-on-xbox",
+      "thumbnail": "/drops/thumbs/7ea6b7bcccfe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -392,7 +392,7 @@
     "f4b79696bdab",
     "5d4bbf488e7f",
     "5b9114805aee",
-    "dd5fb84e4443",
-    "7ea6b7bcccfe"
+    "f931c0c69400",
+    "e3bd11f70106"
   ]
 }
