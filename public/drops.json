@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T20:18:49+00:00",
+  "generated_utc": "2026-05-21T20:21:11+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "dd5fb84e4443",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Brazil” Releases May 16th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-3-brazil-iv4871-400-release-date/",
-      "thumbnail": "/drops/thumbs/dd5fb84e4443.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "4544ebd683e4",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “World’s Best Dad” Now Available (May 2026)",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-4-georgetown-fv5029-004/",
       "thumbnail": "/drops/thumbs/75fe3bb065de.jpg",
       "published": "2026-05-20T13:51:36",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d74f496abc5f",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
+      "thumbnail": "/drops/thumbs/d74f496abc5f.jpg",
+      "published": "2026-05-19T14:33:09",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""

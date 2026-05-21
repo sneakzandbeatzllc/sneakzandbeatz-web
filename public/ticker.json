@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T20:18:49+00:00",
+  "generated_utc": "2026-05-21T20:21:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,13 +32,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “Brazil” Releases May 16th",
-      "url": "https://sneakerbardetroit.com/air-jordan-3-brazil-iv4871-400-release-date/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 3 “World’s Best Dad” Now Available (May 2026)",
       "url": "https://sneakerbardetroit.com/air-jordan-3-worlds-best-dad/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "Georgetown Colors Land on the Air Jordan 4 for Spring 2027",
       "url": "https://justfreshkicks.com/air-jordan-4-georgetown-fv5029-004/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
