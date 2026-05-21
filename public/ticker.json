@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T11:10:24+00:00",
+  "generated_utc": "2026-05-21T11:40:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Aaron Rodgers Says 2026 Season With Steelers Will Be His Last",
+      "url": "https://thesource.com/2026/05/21/aaron-rodgers-final-season-steelers-2026/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Megan Thee Stallion Returning to Miami Swim Week With Hot Girl Summer Runway Show",
       "url": "https://thesource.com/2026/05/21/megan-thee-stallion-hot-girl-summer-swimweek-2026/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Eminem’s Ex-Wife Breaks Down In Tears During DUI Bust Caught On Video",
       "url": "https://allhiphop.com/news/eminems-ex-wife-breaks-down-in-tears-during-dui-bust-caught-on-video/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Donald Trump Administration Indicts Fidel Castro’s Brother For 1996 Plane Downing",
-      "url": "https://allhiphop.com/news/donald-trump-administration-indicts-fidel-castros-brother-for-1996-plane-downing/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News Just Days from Release, Promising PS5 RPG Wandering Sword Delayed into 2027",
-      "url": "https://www.pushsquare.com/news/2026/05/just-days-from-release-promising-ps5-rpg-wandering-sword-delayed-into-2027",
+      "title": "News 'No Comment': Darksiders Publisher Refuses to Explain $10 PS5 Upgrade Charge That's Free on Xbox",
+      "url": "https://www.pushsquare.com/news/2026/05/no-comment-darksiders-publisher-refuses-to-explain-usd10-ps5-upgrade-charge-thats-free-on-xbox",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: Does This Mean Nintendo Will Keep Making Switch 1 Consoles In The Near Future?",
-      "url": "https://gameranx.com/updates/id/562753/article/rumor-does-this-mean-nintendo-will-keep-making-switch-1-consoles-in-the-near-future/",
+      "title": "Quantic Dream Claims Star Wars Eclipse Is Unaffected After Cancelling Spellcaster Chronicles",
+      "url": "https://gameranx.com/updates/id/562756/article/quantic-dream-claims-star-wars-eclipse-is-unaffected-after-cancelling-spellcaster-chronicles/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News Sony to Show Latest State of Play in Theatres for First Time Since 2018",
-      "url": "https://www.pushsquare.com/news/2026/05/sony-to-show-latest-state-of-play-in-theatres-for-first-time-since-2018",
+      "title": "News PS5 Sci-Fi RPG The Expanse: Osiris Reborn Recasts Its Main Character Following Brutal Fan Feedback",
+      "url": "https://www.pushsquare.com/news/2026/05/ps5-sci-fi-rpg-the-expanse-osiris-reborn-recasts-its-main-character-following-brutal-fan-feedback",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: State of Play Will Have More Sony Exclusives Than Marvel’s Wolverine, But Check Your Expectations",
-      "url": "https://gameranx.com/updates/id/562751/article/rumor-state-of-play-will-have-more-sony-exclusives-than-marvels-wolverine-but-check-your-expectations/",
+      "title": "Rumor: Does This Mean Nintendo Will Keep Making Switch 1 Consoles In The Near Future?",
+      "url": "https://gameranx.com/updates/id/562753/article/rumor-does-this-mean-nintendo-will-keep-making-switch-1-consoles-in-the-near-future/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

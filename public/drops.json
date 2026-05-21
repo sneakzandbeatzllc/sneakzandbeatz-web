@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T11:10:24+00:00",
+  "generated_utc": "2026-05-21T11:40:12+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f4b79696bdab",
+      "pillar": "hiphop",
+      "title": "Aaron Rodgers Says 2026 Season With Steelers Will Be His Last",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/21/aaron-rodgers-final-season-steelers-2026/",
+      "thumbnail": "/drops/thumbs/f4b79696bdab.jpg",
+      "published": "2026-05-21T07:08:28",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d8f19ff52349",
       "pillar": "hiphop",
       "title": "Megan Thee Stallion Returning to Miami Swim Week With Hot Girl Summer Runway Show",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/eminems-ex-wife-breaks-down-in-tears-during-dui-bust-caught-on-video/",
       "thumbnail": "/drops/thumbs/eb522b4d02de.png",
       "published": "2026-05-20T21:03:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "92b47fead87d",
-      "pillar": "hiphop",
-      "title": "Donald Trump Administration Indicts Fidel Castro’s Brother For 1996 Plane Downing",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/donald-trump-administration-indicts-fidel-castros-brother-for-1996-plane-downing/",
-      "thumbnail": "/drops/thumbs/92b47fead87d.jpg",
-      "published": "2026-05-20T19:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "be3d6e1fd103",
+      "id": "7ea6b7bcccfe",
       "pillar": "gaming",
-      "title": "News Just Days from Release, Promising PS5 RPG Wandering Sword Delayed into 2027",
+      "title": "News 'No Comment': Darksiders Publisher Refuses to Explain $10 PS5 Upgrade Charge That's Free on Xbox",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/just-days-from-release-promising-ps5-rpg-wandering-sword-delayed-into-2027",
-      "thumbnail": "/drops/thumbs/be3d6e1fd103.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/no-comment-darksiders-publisher-refuses-to-explain-usd10-ps5-upgrade-charge-thats-free-on-xbox",
+      "thumbnail": "/drops/thumbs/7ea6b7bcccfe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "6c300129bdc9",
+      "id": "c484f40b3e16",
       "pillar": "gaming",
-      "title": "Rumor: Does This Mean Nintendo Will Keep Making Switch 1 Consoles In The Near Future?",
+      "title": "Quantic Dream Claims Star Wars Eclipse Is Unaffected After Cancelling Spellcaster Chronicles",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562753/article/rumor-does-this-mean-nintendo-will-keep-making-switch-1-consoles-in-the-near-future/",
-      "thumbnail": "/drops/thumbs/6c300129bdc9.jpg",
+      "source_url": "https://gameranx.com/updates/id/562756/article/quantic-dream-claims-star-wars-eclipse-is-unaffected-after-cancelling-spellcaster-chronicles/",
+      "thumbnail": "/drops/thumbs/c484f40b3e16.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "abfa8fdc91ce",
+      "id": "1ad8ec23fac6",
       "pillar": "gaming",
-      "title": "News Sony to Show Latest State of Play in Theatres for First Time Since 2018",
+      "title": "News PS5 Sci-Fi RPG The Expanse: Osiris Reborn Recasts Its Main Character Following Brutal Fan Feedback",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/sony-to-show-latest-state-of-play-in-theatres-for-first-time-since-2018",
-      "thumbnail": "/drops/thumbs/abfa8fdc91ce.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/ps5-sci-fi-rpg-the-expanse-osiris-reborn-recasts-its-main-character-following-brutal-fan-feedback",
+      "thumbnail": "/drops/thumbs/1ad8ec23fac6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "8c2ead46410d",
+      "id": "6c300129bdc9",
       "pillar": "gaming",
-      "title": "Rumor: State of Play Will Have More Sony Exclusives Than Marvel’s Wolverine, But Check Your Expectations",
+      "title": "Rumor: Does This Mean Nintendo Will Keep Making Switch 1 Consoles In The Near Future?",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562751/article/rumor-state-of-play-will-have-more-sony-exclusives-than-marvels-wolverine-but-check-your-expectations/",
-      "thumbnail": "/drops/thumbs/8c2ead46410d.jpg",
+      "source_url": "https://gameranx.com/updates/id/562753/article/rumor-does-this-mean-nintendo-will-keep-making-switch-1-consoles-in-the-near-future/",
+      "thumbnail": "/drops/thumbs/6c300129bdc9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "d8f19ff52349",
+    "f4b79696bdab",
     "dd5fb84e4443",
     "5b9114805aee",
     "4544ebd683e4",
-    "be3d6e1fd103"
+    "7ea6b7bcccfe"
   ]
 }
