@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T07:06:53+00:00",
+  "generated_utc": "2026-05-21T08:07:47+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "7cb4c2304549",
+      "id": "bc9a6137e428",
       "pillar": "anime",
-      "title": "Cyborg 009: Nemesis Anime Casts Kentarō Tone as Cyborg 007",
+      "title": "Voice Actor Takahiro Fujiwara Dies at 43",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/cyborg-009-nemesis-anime-casts-kentaro-tone-as-cyborg-007/.237592",
-      "thumbnail": "/drops/thumbs/7cb4c2304549.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/voice-actor-takahiro-fujiwara-dies-at-43/.237598",
+      "thumbnail": "/drops/thumbs/bc9a6137e428.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "75a561f41eda",
+      "id": "7cb4c2304549",
       "pillar": "anime",
-      "title": "Red River Anime Unveils 7 Cast Members, July 7 TV Premiere",
+      "title": "Cyborg 009: Nemesis Anime Casts Kentarō Tone as Cyborg 007",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-20/red-river-anime-unveils-7-cast-members-july-7-tv-premiere/.237589",
-      "thumbnail": "/drops/thumbs/75a561f41eda.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/cyborg-009-nemesis-anime-casts-kentaro-tone-as-cyborg-007/.237592",
+      "thumbnail": "/drops/thumbs/7cb4c2304549.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "058cb99ef9ae",
-      "pillar": "gaming",
-      "title": "News 'We're Not Standing Still': Returnal Director Forms New Studio to Make Games That Trust You",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/were-not-standing-still-returnal-director-forms-new-studio-to-make-games-that-trust-you",
-      "thumbnail": "/drops/thumbs/058cb99ef9ae.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "69dd3caf29ba",
       "pillar": "gaming",
       "title": "Fortnite Has Returned To Apple App Store In Most Regions",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562735/article/fortnite-has-returned-to-apple-app-store-in-most-regions/",
       "thumbnail": "/drops/thumbs/69dd3caf29ba.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "abfa8fdc91ce",
+      "pillar": "gaming",
+      "title": "News Sony to Show Latest State of Play in Theatres for First Time Since 2018",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/sony-to-show-latest-state-of-play-in-theatres-for-first-time-since-2018",
+      "thumbnail": "/drops/thumbs/abfa8fdc91ce.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "abfa8fdc91ce",
+      "id": "96810f96cb2b",
       "pillar": "gaming",
-      "title": "News Sony to Show Latest State of Play in Theatres for First Time Since 2018",
+      "title": "Guide When Is PlayStation's State of Play for June 2026?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/sony-to-show-latest-state-of-play-in-theatres-for-first-time-since-2018",
-      "thumbnail": "/drops/thumbs/abfa8fdc91ce.jpg",
+      "source_url": "https://www.pushsquare.com/guides/when-is-playstations-state-of-play-for-june-2026",
+      "thumbnail": "/drops/thumbs/96810f96cb2b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "dd5fb84e4443",
     "5b9114805aee",
     "4544ebd683e4",
-    "058cb99ef9ae"
+    "69dd3caf29ba"
   ]
 }
