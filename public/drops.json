@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T08:07:47+00:00",
+  "generated_utc": "2026-05-21T09:06:36+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,54 @@
       "release_badge": ""
     },
     {
+      "id": "d8f19ff52349",
+      "pillar": "hiphop",
+      "title": "Megan Thee Stallion Returning to Miami Swim Week With Hot Girl Summer Runway Show",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/21/megan-thee-stallion-hot-girl-summer-swimweek-2026/",
+      "thumbnail": "/drops/thumbs/d8f19ff52349.jpg",
+      "published": "2026-05-21T03:59:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "bb151cb334ae",
+      "pillar": "hiphop",
+      "title": "LeBron James Returning to Fanatics Fest NYC This July",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/21/lebron-james-fanatics-fest-nyc-2026/",
+      "thumbnail": "/drops/thumbs/bb151cb334ae.jpg",
+      "published": "2026-05-21T03:59:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e54703f3e451",
+      "pillar": "hiphop",
+      "title": "Brent Faiyaz Releases Fan-Driven Visual for ‘butterflies.’",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/21/brent-faiyaz-butterflies-video/",
+      "thumbnail": "/drops/thumbs/e54703f3e451.jpg",
+      "published": "2026-05-21T03:59:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a13f30e89109",
+      "pillar": "hiphop",
+      "title": "THE-DREAM Releases Sultry “Bring That Body” Video Ahead of ‘Love/Hate II’",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/21/the-dream-bring-that-body-video/",
+      "thumbnail": "/drops/thumbs/a13f30e89109.jpg",
+      "published": "2026-05-21T03:59:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "392d46fa1e11",
       "pillar": "hiphop",
       "title": "JID Blasts BET And Takes Aim At J. Cole’s “Platinum” Lyric",
@@ -142,54 +190,6 @@
       "source_url": "https://allhiphop.com/news/donald-trump-administration-indicts-fidel-castros-brother-for-1996-plane-downing/",
       "thumbnail": "/drops/thumbs/92b47fead87d.jpg",
       "published": "2026-05-20T19:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "36636247befa",
-      "pillar": "hiphop",
-      "title": "Another No Jumper Host Gets Busted – For Murder",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/another-no-jumper-host-gets-busted-for-murder/",
-      "thumbnail": "/drops/thumbs/36636247befa.jpg",
-      "published": "2026-05-20T18:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5366270e2198",
-      "pillar": "hiphop",
-      "title": "Trump Rules Out Military Escalation as U.S. Indicts 94 Year-Old Former Cuban Leader Raúl Castro",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/trump-rules-out-military-escalation-as-u-s-indicts-94-year-old-former-cuban-leader-raul-castro/",
-      "thumbnail": "/drops/thumbs/5366270e2198.jpg",
-      "published": "2026-05-20T17:51:32",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c2b370cdbc8b",
-      "pillar": "hiphop",
-      "title": "Latto Reveals Birth of First Child and Confirms 21 Savage as Father in Personal Video Diary",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/latto-reveals-birth-of-first-child-and-confirms-21-savage-as-father-in-personal-video-diary/",
-      "thumbnail": "/drops/thumbs/c2b370cdbc8b.jpg",
-      "published": "2026-05-20T17:40:39",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "825ab70e97d0",
-      "pillar": "hiphop",
-      "title": "Rick Ross’ Orchestral Reunion Tour Reportedly Facing Slow Early Ticket Demand",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/20/rick-ross-orchestral-reunion-tour-reportedly-facing-slow-early-ticket-demand/",
-      "thumbnail": "/drops/thumbs/825ab70e97d0.jpg",
-      "published": "2026-05-20T17:35:42",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "392d46fa1e11",
+    "d8f19ff52349",
     "dd5fb84e4443",
     "5b9114805aee",
     "4544ebd683e4",
