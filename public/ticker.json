@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T22:14:42+00:00",
+  "generated_utc": "2026-05-21T22:18:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "King Charles Aiming To Be Real King Of Hip-Hop",
+      "url": "https://allhiphop.com/news/king-charles-aiming-to-be-real-king-of-hip-hop/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Berner Turned Down Diddy & Jay-Z To Build Cookies Cannabis Empire",
+      "url": "https://allhiphop.com/news/berner-turned-down-diddy-jay-z-to-build-cookies-cannabis-empire/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Cardi B Tops 2026 BET Awards Nominations Ahead of Los Angeles Ceremony",
       "url": "https://thesource.com/2026/05/21/cardi-b-tops-2026-bet-awards-nominations-ahead-of-los-angeles-ceremony/",
       "pillar": "hiphop",
@@ -95,22 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Purpose Beyond the Pavement: How Stephen Curry’s Sneaker Free Agency is Transforming Oakland",
-      "url": "https://thesource.com/2026/05/21/purpose-beyond-the-pavement-how-stephen-currys-sneaker-free-agency-is-transforming-oakland/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Aaron Rodgers Says 2026 Season With Steelers Will Be His Last",
-      "url": "https://thesource.com/2026/05/21/aaron-rodgers-final-season-steelers-2026/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Megan Thee Stallion Returning to Miami Swim Week With Hot Girl Summer Runway Show",
-      "url": "https://thesource.com/2026/05/21/megan-thee-stallion-hot-girl-summer-swimweek-2026/",
+      "title": "Tiffany Haddish’s Lazy Eye Defense Gets Her A Win In DUI Battle",
+      "url": "https://allhiphop.com/news/tiffany-haddishs-lazy-eye-defense-gets-her-a-win-in-dui-battle/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News 'We're Proud of What We've Been Building': Infinity Ward Teases New Call of Duty Ahead of Crucial Reveal",
-      "url": "https://www.pushsquare.com/news/2026/05/were-proud-of-what-weve-been-building-infinity-ward-teases-new-call-of-duty-ahead-of-crucial-reveal",
+      "title": "News GTA 6 Still Set for November Release, But Marketing Isn't Imminent",
+      "url": "https://www.pushsquare.com/news/2026/05/gta-6-still-set-for-november-release-but-marketing-isnt-imminent",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News Destiny 2 Support Ending After 9 Years, Sony Dev Bungie to Focus on a 'New Beginning'",
-      "url": "https://www.pushsquare.com/news/2026/05/destiny-2-support-ending-after-9-years-sony-dev-bungie-to-focus-on-a-new-beginning",
+      "title": "News 'We're Proud of What We've Been Building': Infinity Ward Teases New Call of Duty Ahead of Crucial Reveal",
+      "url": "https://www.pushsquare.com/news/2026/05/were-proud-of-what-weve-been-building-infinity-ward-teases-new-call-of-duty-ahead-of-crucial-reveal",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Review Luna Abyss (PS5) - Don't Skip This AA DOOM-Like Shooter",
-      "url": "https://www.pushsquare.com/reviews/ps5/luna-abyss",
+      "title": "News Destiny 2 Support Ending After 9 Years, Sony Dev Bungie to Focus on a 'New Beginning'",
+      "url": "https://www.pushsquare.com/news/2026/05/destiny-2-support-ending-after-9-years-sony-dev-bungie-to-focus-on-a-new-beginning",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
