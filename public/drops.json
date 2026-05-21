@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T01:04:39+00:00",
+  "generated_utc": "2026-05-21T02:02:43+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "f675b54963c8",
+      "pillar": "hiphop",
+      "title": "Mike Tyson Tells Wild Story About Busting Brad Pitt With Robin Givens",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/mike-tyson-tells-wild-story-about-busting-brad-pitt-with-robin-givens/",
+      "thumbnail": "/drops/thumbs/f675b54963c8.jpg",
+      "published": "2026-05-20T22:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "eb522b4d02de",
+      "pillar": "hiphop",
+      "title": "Eminem’s Ex-Wife Breaks Down In Tears During DUI Bust Caught On Video",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/eminems-ex-wife-breaks-down-in-tears-during-dui-bust-caught-on-video/",
+      "thumbnail": "/drops/thumbs/eb522b4d02de.png",
+      "published": "2026-05-20T21:03:57",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "92b47fead87d",
       "pillar": "hiphop",
       "title": "Donald Trump Administration Indicts Fidel Castro’s Brother For 1996 Plane Downing",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/05/20/wiz-khalifa-reportedly-added-to-romanias-wanted-list-following-drug-case/",
       "thumbnail": "/drops/thumbs/b932e0799745.jpg",
       "published": "2026-05-20T17:26:35",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3317048a6497",
-      "pillar": "hiphop",
-      "title": "Tony Yayo & Uncle Murda Respond To Rick Ross Over 50 Cent Threats – “You Soft”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/tony-yayo-uncle-murda-respond-to-rick-ross-over-50-cent-threats-you-soft/",
-      "thumbnail": "/drops/thumbs/3317048a6497.png",
-      "published": "2026-05-20T17:13:49",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b097319fcedc",
-      "pillar": "hiphop",
-      "title": "French Montana, Rick Ross, Fetty Wap & Ice Spice Lead Summer Jam 2026 Lineup At Prudential Center",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/french-montana-rick-ross-fetty-wap-ice-spice-lead-summer-jam-2026-lineup-at-prudential-center/",
-      "thumbnail": "/drops/thumbs/b097319fcedc.jpg",
-      "published": "2026-05-20T17:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "92b47fead87d",
+    "f675b54963c8",
     "dd5fb84e4443",
     "5b9114805aee",
     "4544ebd683e4",
