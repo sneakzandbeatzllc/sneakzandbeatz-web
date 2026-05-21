@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T09:08:40+00:00",
+  "generated_utc": "2026-05-21T09:29:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/nigel-sylvester-air-jordan-4-fire-red-brick-after-brick/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott x Air Jordan 1 Low “Shy Pink” Releases in May 2026",
+      "url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-sail-iq7604-101/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott’s “Tropical Pink” Air Jordan 1 Low Arrives in May 2026",
+      "url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-tropical-pink-iq7604-101/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -25,17 +39,10 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 3 “White Cement” Rumored for a Spring 2027 Release",
-      "url": "https://justfreshkicks.com/air-jordan-3-white-cement-2027/",
+      "title": "The Air Jordan 1 Low in “Phantom” & “Pine Green” Lands in June 2026",
+      "url": "https://justfreshkicks.com/air-jordan-1-low-phantom-green-ir2283-030/",
       "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Georgetown Colors Land on the Air Jordan 4 for Spring 2027",
-      "url": "https://justfreshkicks.com/air-jordan-4-georgetown-fv5029-004/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 3 “Utility” Releases Spring 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Musik” Releases January 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null

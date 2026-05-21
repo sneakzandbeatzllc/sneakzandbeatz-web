@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T09:08:40+00:00",
+  "generated_utc": "2026-05-21T09:29:10+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -9,10 +9,34 @@
       "source": "JustFreshKicks",
       "source_url": "https://justfreshkicks.com/nigel-sylvester-air-jordan-4-fire-red-brick-after-brick/",
       "thumbnail": "/drops/thumbs/315c8ac926db.webp",
-      "published": "2026-05-20T05:32:00",
+      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "a3a8855af003",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low “Shy Pink” Releases in May 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-sail-iq7604-101/",
+      "thumbnail": "/drops/thumbs/a3a8855af003.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "4f9e304d1cce",
+      "pillar": "sneakers",
+      "title": "Travis Scott’s “Tropical Pink” Air Jordan 1 Low Arrives in May 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-tropical-pink-iq7604-101/",
+      "thumbnail": "/drops/thumbs/4f9e304d1cce.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "dd5fb84e4443",
@@ -39,28 +63,16 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "778eafc4f8b8",
+      "id": "d68700a4442e",
       "pillar": "sneakers",
-      "title": "The Air Jordan 3 “White Cement” Rumored for a Spring 2027 Release",
+      "title": "The Air Jordan 1 Low in “Phantom” & “Pine Green” Lands in June 2026",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/778eafc4f8b8.jpg",
-      "published": "2026-05-20T18:32:26",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-phantom-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/d68700a4442e.png",
+      "published": "",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "75fe3bb065de",
-      "pillar": "sneakers",
-      "title": "Georgetown Colors Land on the Air Jordan 4 for Spring 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-georgetown-fv5029-004/",
-      "thumbnail": "/drops/thumbs/75fe3bb065de.jpg",
-      "published": "2026-05-20T13:51:36",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "d74f496abc5f",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
       "thumbnail": "/drops/thumbs/b2201e525307.jpg",
       "published": "2026-05-18T15:32:31",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e146b07264a0",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Musik” Releases January 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
-      "published": "2026-05-18T15:31:56",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -390,9 +390,9 @@
   "homepage": [
     "315c8ac926db",
     "d8f19ff52349",
-    "dd5fb84e4443",
+    "a3a8855af003",
     "5b9114805aee",
-    "4544ebd683e4",
+    "4f9e304d1cce",
     "69dd3caf29ba"
   ]
 }
