@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T22:52:05+00:00",
+  "generated_utc": "2026-05-21T23:22:17+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "15952e812959",
+      "pillar": "hiphop",
+      "title": "French Montana & Max B Complete Their Cosmic Reunion With Wave Gods 2",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/french-montana-max-b-complete-their-cosmic-reunion-with-wave-gods-2/",
+      "thumbnail": "/drops/thumbs/15952e812959.jpg",
+      "published": "2026-05-21T19:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "dd4551114323",
       "pillar": "hiphop",
       "title": "King Charles Aiming To Be Real King Of Hip-Hop",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "db24ab97942c",
-      "pillar": "hiphop",
-      "title": "Tiffany Haddish’s Lazy Eye Defense Gets Her A Win In DUI Battle",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/tiffany-haddishs-lazy-eye-defense-gets-her-a-win-in-dui-battle/",
-      "thumbnail": "/drops/thumbs/db24ab97942c.jpg",
-      "published": "2026-05-21T14:00:35",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c1861933267d",
       "pillar": "anime",
       "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "5b9114805aee",
+      "id": "ddf9b0040bf2",
       "pillar": "anime",
-      "title": "Chainsaw Man's Final Release Just Stirred Up Another Controversy, And Fans Are Roasting It",
+      "title": "One Piece's Ending Will Show Naruto How It's Done",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/chainsaw-man-volume-24-controversy-cover-explained/",
-      "thumbnail": "/drops/thumbs/5b9114805aee.jpg",
+      "source_url": "https://screenrant.com/one-piece-ending-show-naruto-how-done/",
+      "thumbnail": "/drops/thumbs/ddf9b0040bf2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "051e641e1757",
+      "id": "5b9114805aee",
       "pillar": "anime",
-      "title": "November 8th Is Going To Be a Good Day For Spy x Family Fans Hungry For Season 4",
+      "title": "Chainsaw Man's Final Release Just Stirred Up Another Controversy, And Fans Are Roasting It",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/spy-x-family-extra-mission-panel-season-4/",
-      "thumbnail": "/drops/thumbs/051e641e1757.png",
+      "source_url": "https://screenrant.com/chainsaw-man-volume-24-controversy-cover-explained/",
+      "thumbnail": "/drops/thumbs/5b9114805aee.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "dd4551114323",
+    "15952e812959",
     "1f8cbf1d8983",
     "c1861933267d",
     "f931c0c69400",
