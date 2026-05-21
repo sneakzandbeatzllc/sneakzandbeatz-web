@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T15:43:58+00:00",
+  "generated_utc": "2026-05-21T16:13:46+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "387dca882b2b",
+      "pillar": "hiphop",
+      "title": "Snoop Dogg Denies Liability In Drakeo The Ruler Festival Stabbing Death",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/snoop-dogg-denies-liability-in-drakeo-the-ruler-festival-stabbing-death/",
+      "thumbnail": "/drops/thumbs/387dca882b2b.jpg",
+      "published": "2026-05-21T12:00:24",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3f3d3b683727",
       "pillar": "hiphop",
       "title": "Kool G Rap’s Next Move Is A Crazy One",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "e54703f3e451",
-      "pillar": "hiphop",
-      "title": "Brent Faiyaz Releases Fan-Driven Visual for ‘butterflies.’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/21/brent-faiyaz-butterflies-video/",
-      "thumbnail": "/drops/thumbs/e54703f3e451.jpg",
-      "published": "2026-05-21T03:59:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c1861933267d",
       "pillar": "anime",
       "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
@@ -231,24 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "3821e410f4a2",
+      "id": "8b0f16511719",
       "pillar": "anime",
-      "title": "Boruto Just Silenced Every Sakura Critic With One Word That Hits Like A Freight Train",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/boruto-two-blue-vortex-sakura-sarada-quote/",
-      "thumbnail": "/drops/thumbs/3821e410f4a2.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2847bec29a8b",
-      "pillar": "anime",
-      "title": "Sword Art Online's Echoes of Aincrad Game's Trailer Previews Abilities, Partners, Weapons",
+      "title": "Titan Manga Reveals Cover Spreads for The Five Star Stories Manga's English Release",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/sword-art-online-echoes-of-aincrad-game-trailer-previews-abilities-partners-weapons/.237612",
-      "thumbnail": "/drops/thumbs/2847bec29a8b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/titan-manga-reveals-cover-spreads-for-the-five-star-stories-manga-english-release/.237605",
+      "thumbnail": "/drops/thumbs/8b0f16511719.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "0b70ca5f6d9d",
+      "id": "2847bec29a8b",
       "pillar": "anime",
-      "title": "SkySet Entertainment to Stream, Produce English Dub for Go Forward Anime Series",
+      "title": "Sword Art Online's Echoes of Aincrad Game's Trailer Previews Abilities, Partners, Weapons",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/skyset-entertainment-to-stream-produce-english-dub-for-go-forward-anime-series/.237267",
-      "thumbnail": "/drops/thumbs/0b70ca5f6d9d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/sword-art-online-echoes-of-aincrad-game-trailer-previews-abilities-partners-weapons/.237612",
+      "thumbnail": "/drops/thumbs/2847bec29a8b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,6 +279,18 @@
       "release_badge": ""
     },
     {
+      "id": "0b70ca5f6d9d",
+      "pillar": "anime",
+      "title": "SkySet Entertainment to Stream, Produce English Dub for Go Forward Anime Series",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/skyset-entertainment-to-stream-produce-english-dub-for-go-forward-anime-series/.237267",
+      "thumbnail": "/drops/thumbs/0b70ca5f6d9d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3ed99dc592d3",
       "pillar": "gaming",
       "title": "Capcom says generative AI \"still cannot match\" the devs who make Resident Evil and Monster Hunter",
@@ -303,12 +303,24 @@
       "release_badge": ""
     },
     {
-      "id": "361c74358d13",
+      "id": "689c4fd8badf",
       "pillar": "gaming",
-      "title": "News Copycat Gran Turismo Games Now Ripping Off PS5 Racer's Marketing",
+      "title": "Review Luna Abyss (PS5) - Don't Skip This AA DOOM-Like Shooter",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/copycat-gran-turismo-games-now-ripping-off-ps5-racers-marketing",
-      "thumbnail": "/drops/thumbs/361c74358d13.jpg",
+      "source_url": "https://www.pushsquare.com/reviews/ps5/luna-abyss",
+      "thumbnail": "/drops/thumbs/689c4fd8badf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6abf0e6e5d50",
+      "pillar": "gaming",
+      "title": "At Its 10-Year Anniversary, Overwatch Leads Look Back At Highs And Lows: ‘When Marvel Rivals Launched, It Had A Meaningful Impact On Our Game’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/overwatch-anniversary-event-season-3-new-heroes-2000698236",
+      "thumbnail": "/drops/thumbs/6abf0e6e5d50.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,36 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "21b2e4792103",
+      "id": "7c8dbcc68542",
       "pillar": "gaming",
-      "title": "‘Follower Of Jesus’ Who ‘Routinely Helps People Suffering From Demonic Oppression’ Fired From Popular Board Game Site For Rejecting Satan-Themed Game",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/possess-me-satan-board-game-geek-fired-advert-demon-possession-2000698197",
-      "thumbnail": "/drops/thumbs/21b2e4792103.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bd28eaf7f446",
-      "pillar": "gaming",
-      "title": "Review Bubsy 4D (PS5) - The Best of a Bad Bunch",
+      "title": "News Sony Trademarks New PS5 Game 'Break In', Registers Several Social Media Accounts",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/bubsy-4d",
-      "thumbnail": "/drops/thumbs/bd28eaf7f446.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/sony-trademarks-new-ps5-game-break-in-registers-several-social-media-accounts",
+      "thumbnail": "/drops/thumbs/7c8dbcc68542.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "a33a6b4c2561",
+      "id": "c6199ad0b706",
       "pillar": "gaming",
-      "title": "The Lord of the Rings: Battle for Middle-earth 2 is a career highlight for Civilization 7's director",
+      "title": "Hands-on Hands-on with Assassin's Creed Black Flag Resynced",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/strategy/after-20-years-the-lord-of-the-rings-battle-for-middle-earth-2-is-still-a-career-highlight-for-civilization-7s-creative-director-i-absolutely-love-that-game/",
-      "thumbnail": "/drops/thumbs/a33a6b4c2561.jpg",
+      "source_url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-hands-on-big-preview/",
+      "thumbnail": "/drops/thumbs/c6199ad0b706.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "f963141792a0",
+      "id": "41c3d65cc6d6",
       "pillar": "gaming",
-      "title": "Sony Just Raised PS Plus Prices In A Way Seemingly Designed To Make Everyone Mad",
+      "title": "Fans Hated The Expanse RPG Protagonist So Much He’s Being Recast",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/sony-just-raised-ps-plus-prices-in-a-way-seemingly-designed-to-make-everyone-mad-2000698216",
-      "thumbnail": "/drops/thumbs/f963141792a0.jpg",
+      "source_url": "https://kotaku.com/the-expanse-osiris-reborn-protagonist-voice-actor-male-recast-2000698200",
+      "thumbnail": "/drops/thumbs/41c3d65cc6d6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "3f3d3b683727",
+    "387dca882b2b",
     "5d4bbf488e7f",
     "c1861933267d",
     "f931c0c69400",
