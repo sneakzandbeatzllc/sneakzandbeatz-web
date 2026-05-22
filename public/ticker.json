@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T12:58:11+00:00",
+  "generated_utc": "2026-05-22T13:27:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -109,16 +109,9 @@
       "article_slug": null
     },
     {
-      "title": "Out of the Mud: Nike Celebrates DMV Hoops Culture with ‘Unseen Hours’ Exclusive Pack",
-      "url": "https://thesource.com/2026/05/22/out-of-the-mud-nike-celebrates-dmv-hoops-culture-with-unseen-hours-exclusive-pack/",
+      "title": "King Rimmy Steps Into Greatness With The Honorable",
+      "url": "https://thesource.com/2026/05/22/king-rimmy-steps-into-greatness-with-the-honorable/",
       "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dragon Ball's Strongest Transformation Ever Proves The Series Is Finally Returning To Its Roots",
-      "url": "https://screenrant.com/dragon-ball-beast-gohan-return-roots/",
-      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -139,6 +132,13 @@
     {
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
       "url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Piece Episode #1163 Release Date And Time",
+      "url": "https://screenrant.com/one-piece-episode-1163-release-date-time/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,15 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "Destiny 2 Is Ending",
-      "url": "https://kotaku.com/destiny-2-is-ending-2000698288",
+      "title": "Report: Bungie To Face ‘Significant’ Layoffs After The End Of Destiny 2",
+      "url": "https://kotaku.com/destiny-2-final-update-bungie-layoffs-sony-marathon-2000698425",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Bungie Is Not Making Destiny 3, Dev to Be Rocked by 'Significant' Layoffs",
-      "url": "https://www.pushsquare.com/news/2026/05/bungie-is-not-making-destiny-3-dev-to-be-rocked-by-significant-layoffs",
+      "title": "Reaction I'm Sad It's Over, But Destiny's End Was Overdue",
+      "url": "https://www.pushsquare.com/features/reaction-im-sad-its-over-but-destinys-end-was-overdue",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
-      "url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
+      "title": "Destiny 2 Is Ending",
+      "url": "https://kotaku.com/destiny-2-is-ending-2000698288",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

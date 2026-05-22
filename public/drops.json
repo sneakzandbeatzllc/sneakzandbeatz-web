@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T12:58:11+00:00",
+  "generated_utc": "2026-05-22T13:27:31+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -183,25 +183,13 @@
       "release_badge": ""
     },
     {
-      "id": "5317a9aec7d6",
+      "id": "51ae22ce36ef",
       "pillar": "hiphop",
-      "title": "Out of the Mud: Nike Celebrates DMV Hoops Culture with ‘Unseen Hours’ Exclusive Pack",
+      "title": "King Rimmy Steps Into Greatness With The Honorable",
       "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/22/out-of-the-mud-nike-celebrates-dmv-hoops-culture-with-unseen-hours-exclusive-pack/",
-      "thumbnail": "/drops/thumbs/5317a9aec7d6.jpg",
-      "published": "2026-05-22T00:07:23",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e1670267f552",
-      "pillar": "anime",
-      "title": "Dragon Ball's Strongest Transformation Ever Proves The Series Is Finally Returning To Its Roots",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-beast-gohan-return-roots/",
-      "thumbnail": "/drops/thumbs/e1670267f552.png",
-      "published": "",
+      "source_url": "https://thesource.com/2026/05/22/king-rimmy-steps-into-greatness-with-the-honorable/",
+      "thumbnail": "/drops/thumbs/51ae22ce36ef.jpg",
+      "published": "2026-05-22T01:55:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -237,6 +225,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "thumbnail": "/drops/thumbs/2e4abf109374.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ff128d57841a",
+      "pillar": "anime",
+      "title": "One Piece Episode #1163 Release Date And Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-episode-1163-release-date-time/",
+      "thumbnail": "/drops/thumbs/ff128d57841a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,24 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "e44806b29d66",
+      "id": "9e1219550b23",
       "pillar": "gaming",
-      "title": "Destiny 2 Is Ending",
+      "title": "Report: Bungie To Face ‘Significant’ Layoffs After The End Of Destiny 2",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/destiny-2-is-ending-2000698288",
-      "thumbnail": "/drops/thumbs/e44806b29d66.jpg",
+      "source_url": "https://kotaku.com/destiny-2-final-update-bungie-layoffs-sony-marathon-2000698425",
+      "thumbnail": "/drops/thumbs/9e1219550b23.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "9af7194fe9e1",
+      "id": "ec04c213a11a",
       "pillar": "gaming",
-      "title": "News Bungie Is Not Making Destiny 3, Dev to Be Rocked by 'Significant' Layoffs",
+      "title": "Reaction I'm Sad It's Over, But Destiny's End Was Overdue",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/bungie-is-not-making-destiny-3-dev-to-be-rocked-by-significant-layoffs",
-      "thumbnail": "/drops/thumbs/9af7194fe9e1.jpg",
+      "source_url": "https://www.pushsquare.com/features/reaction-im-sad-its-over-but-destinys-end-was-overdue",
+      "thumbnail": "/drops/thumbs/ec04c213a11a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "248db7fa7e90",
+      "id": "e44806b29d66",
       "pillar": "gaming",
-      "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
-      "thumbnail": "/drops/thumbs/248db7fa7e90.jpg",
+      "title": "Destiny 2 Is Ending",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/destiny-2-is-ending-2000698288",
+      "thumbnail": "/drops/thumbs/e44806b29d66.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "315c8ac926db",
     "ae3d8116e33b",
     "1f8cbf1d8983",
-    "e1670267f552",
+    "62410986dd2a",
     "f931c0c69400",
     "a3b093cdc693"
   ]
