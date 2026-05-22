@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T16:01:00+00:00",
+  "generated_utc": "2026-05-22T16:30:09+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -27,6 +27,18 @@
       "release_badge": "🔥 Banger"
     },
     {
+      "id": "a3a8855af003",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low “Shy Pink” Releases in May 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-sail-iq7604-101/",
+      "thumbnail": "/drops/thumbs/a3a8855af003.png",
+      "published": "2026-05-22T01:58:00",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
       "id": "f931c0c69400",
       "pillar": "sneakers",
       "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
@@ -39,16 +51,28 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "b590d3f9fa64",
+      "id": "b7892b717b41",
       "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
+      "title": "Air Jordan 4 “Toro Bravo” 2026 May Release Date & Info",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
-      "thumbnail": "/drops/thumbs/b590d3f9fa64.jpg",
-      "published": "2026-05-20T00:22:50",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-toro-bravo-fq8138-600-drop/",
+      "thumbnail": "/drops/thumbs/b7892b717b41.jpg",
+      "published": "2026-05-20T12:28:47",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "4f9e304d1cce",
+      "pillar": "sneakers",
+      "title": "Where to Buy the Travis Scott x Air Jordan 1 Low “Tropical Pink”",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-tropical-pink-iq7604-101/",
+      "thumbnail": "/drops/thumbs/4f9e304d1cce.png",
+      "published": "2026-05-22T11:48:00",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "108731db3cea",
@@ -70,30 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-3-white-cement-2027/",
       "thumbnail": "/drops/thumbs/778eafc4f8b8.jpg",
       "published": "2026-05-20T18:32:26",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "75fe3bb065de",
-      "pillar": "sneakers",
-      "title": "Georgetown Colors Land on the Air Jordan 4 for Spring 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-georgetown-fv5029-004/",
-      "thumbnail": "/drops/thumbs/75fe3bb065de.jpg",
-      "published": "2026-05-20T13:51:36",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d74f496abc5f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
-      "thumbnail": "/drops/thumbs/d74f496abc5f.jpg",
-      "published": "2026-05-19T14:33:09",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "99425e263c7b",
-      "pillar": "anime",
-      "title": "Solo Leveling's Sequel Success Only Continues To Highlight Its Greatest Isekai Rival",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-sequel-otome-isekai-rival-manhwa/",
-      "thumbnail": "/drops/thumbs/99425e263c7b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2e4abf109374",
       "pillar": "anime",
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
@@ -291,6 +279,18 @@
       "release_badge": ""
     },
     {
+      "id": "8c3fa0c1b0d1",
+      "pillar": "anime",
+      "title": "Kagurabachi treats swords like nuclear weapons",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/kagurabachi-anime-swords/",
+      "thumbnail": "/drops/thumbs/8c3fa0c1b0d1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e54212e60bb1",
       "pillar": "gaming",
       "title": "News Only GTA 6 Stands a Chance of Outdoing GTA 5's Unbelievable 230 Million Units Sold",
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "51e8c36f71af",
-      "pillar": "gaming",
-      "title": "Final Fantasy 7 Rebirth Director Promises More ‘Enjoyable’ Trophies In Part 3 And I Have Just One Request",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/final-fantasy-7-rebirth-director-promises-more-enjoyable-trophies-in-part-3-and-i-have-just-one-request-2000698681",
-      "thumbnail": "/drops/thumbs/51e8c36f71af.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4ca92f9d81ed",
       "pillar": "gaming",
       "title": "News Final Fantasy 7 Rebirth Dev Regrets Brutal PS5 Platinum Trophy",
@@ -385,6 +373,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "248db7fa7e90",
+      "pillar": "gaming",
+      "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
+      "thumbnail": "/drops/thumbs/248db7fa7e90.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -392,7 +392,7 @@
     "a739cadc691f",
     "1f8cbf1d8983",
     "62410986dd2a",
-    "f931c0c69400",
+    "a3a8855af003",
     "e54212e60bb1"
   ]
 }
