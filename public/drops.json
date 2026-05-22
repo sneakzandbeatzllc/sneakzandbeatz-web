@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T17:03:04+00:00",
+  "generated_utc": "2026-05-22T17:33:06+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -63,6 +63,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "ec5229f8feb6",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 4 “Tour Yellow” Returns in September After Twenty Years",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-4-tour-yellow-io2463-102/",
+      "thumbnail": "/drops/thumbs/ec5229f8feb6.jpg",
+      "published": "2026-05-22T13:15:42",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "4f9e304d1cce",
       "pillar": "sneakers",
       "title": "Where to Buy the Travis Scott x Air Jordan 1 Low “Tropical Pink”",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-flip-super-bowl-2027/",
       "thumbnail": "/drops/thumbs/108731db3cea.jpg",
       "published": "2026-05-21T15:28:07",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "778eafc4f8b8",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 “White Cement” Rumored for a Spring 2027 Release",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/778eafc4f8b8.jpg",
-      "published": "2026-05-20T18:32:26",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "e29d367a9960",
-      "pillar": "anime",
-      "title": "Netflix’s Next One Piece Has Never Been More Obvious",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-next-one-piece-jojos-bizarre-adventure-peak/",
-      "thumbnail": "/drops/thumbs/e29d367a9960.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0ed25647646b",
       "pillar": "anime",
       "title": "Deaf Crocodile to Release Frankenstein, Legend of Terror Anime With New 4K Restoration",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/kagurabachi-anime-swords/",
       "thumbnail": "/drops/thumbs/8c3fa0c1b0d1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5ed88b2257d7",
+      "pillar": "anime",
+      "title": "Ms. Isshiki Wants to Know About Love Anime's Teaser Unveils Cast, January 2027 Debut",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/ms-isshiki-wants-to-know-about-love-anime-teaser-unveils-cast-january-2027-debut/.237702",
+      "thumbnail": "/drops/thumbs/5ed88b2257d7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
