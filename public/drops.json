@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T09:31:24+00:00",
+  "generated_utc": "2026-05-22T09:56:28+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "3a9eb0a39847",
+      "id": "787be54cc5e2",
       "pillar": "gaming",
-      "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
+      "title": "The Witcher 1 Remake made CD Projekt Red realize the \"true impact\" of not recording its old work",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/destiny/destiny-2-is-dead-active-development-ends-next-month-after-one-final-update-but-bungie-says-the-mmo-will-still-be-playable/",
-      "thumbnail": "/drops/thumbs/3a9eb0a39847.jpg",
+      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-1-remake-made-cd-projekt-red-realize-the-true-impact-of-not-recording-its-old-work-we-had-little-to-no-technical-knowledge-preserved-from-that-time/",
+      "thumbnail": "/drops/thumbs/787be54cc5e2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "3a9eb0a39847",
+      "pillar": "gaming",
+      "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/destiny/destiny-2-is-dead-active-development-ends-next-month-after-one-final-update-but-bungie-says-the-mmo-will-still-be-playable/",
+      "thumbnail": "/drops/thumbs/3a9eb0a39847.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "248db7fa7e90",
       "pillar": "gaming",
       "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
@@ -369,18 +381,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562767/article/bungie-ends-active-development-on-destiny-2-in-2-weeks/",
       "thumbnail": "/drops/thumbs/56596b8b59b7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c6199ad0b706",
-      "pillar": "gaming",
-      "title": "Hands-on Hands-on with Assassin's Creed Black Flag Resynced",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-hands-on-big-preview/",
-      "thumbnail": "/drops/thumbs/c6199ad0b706.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

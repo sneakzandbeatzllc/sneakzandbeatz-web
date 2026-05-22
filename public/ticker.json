@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T09:31:24+00:00",
+  "generated_utc": "2026-05-22T09:56:28+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
-      "url": "https://www.gamesradar.com/games/destiny/destiny-2-is-dead-active-development-ends-next-month-after-one-final-update-but-bungie-says-the-mmo-will-still-be-playable/",
+      "title": "The Witcher 1 Remake made CD Projekt Red realize the \"true impact\" of not recording its old work",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-1-remake-made-cd-projekt-red-realize-the-true-impact-of-not-recording-its-old-work-we-had-little-to-no-technical-knowledge-preserved-from-that-time/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
+      "url": "https://www.gamesradar.com/games/destiny/destiny-2-is-dead-active-development-ends-next-month-after-one-final-update-but-bungie-says-the-mmo-will-still-be-playable/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
       "url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Bungie Ends Active Development On Destiny 2 In 2 Weeks",
       "url": "https://gameranx.com/updates/id/562767/article/bungie-ends-active-development-on-destiny-2-in-2-weeks/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hands-on Hands-on with Assassin's Creed Black Flag Resynced",
-      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-hands-on-big-preview/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
