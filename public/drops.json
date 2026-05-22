@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T15:00:01+00:00",
+  "generated_utc": "2026-05-22T15:28:54+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4f483a003a62",
+      "pillar": "hiphop",
+      "title": "Nicki Minaj Shouts Out Elon Musk During SpaceX Launch Event",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/22/nicki-minaj-shouts-out-elon-musk-during-spacex-launch-event/",
+      "thumbnail": "/drops/thumbs/4f483a003a62.jpg",
+      "published": "2026-05-22T10:55:11",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4eed13213985",
       "pillar": "hiphop",
       "title": "Meet Theron Bassett",
@@ -106,6 +118,18 @@
       "source_url": "https://allhiphop.com/uncategorized/meet-theron-bassett/",
       "thumbnail": "/drops/thumbs/4eed13213985.png",
       "published": "2026-05-22T10:45:08",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b16bd5f60ad0",
+      "pillar": "hiphop",
+      "title": "Joey Bada$$ Drops New 60-Second Freestyle",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/22/joey-bada-drops-new-60-second-freestyle/",
+      "thumbnail": "/drops/thumbs/b16bd5f60ad0.jpg",
+      "published": "2026-05-22T10:27:45",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/floyd-mayweather-ordered-to-pay-nearly-1-million-in-back-child-support-after-paternity-ruling/",
       "thumbnail": "/drops/thumbs/ae3d8116e33b.jpg",
       "published": "2026-05-22T07:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bc310be974e9",
-      "pillar": "hiphop",
-      "title": "Lil Wayne and Craig Carton to Debut ‘The Joint Venture’ at Fanatics Fest NYC",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/22/lil-wayne-craig-carton-joint-venture-fanatics-fest/",
-      "thumbnail": "/drops/thumbs/bc310be974e9.jpg",
-      "published": "2026-05-22T06:50:06",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "57b00bad4e2e",
-      "pillar": "hiphop",
-      "title": "Vince Staples Releases ‘White Flag’ Ahead of ‘Cry Baby’ Album Launch",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/22/vince-staples-white-flag-cry-baby/",
-      "thumbnail": "/drops/thumbs/57b00bad4e2e.jpg",
-      "published": "2026-05-22T06:49:57",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "a3b093cdc693",
+      "id": "e54212e60bb1",
       "pillar": "gaming",
-      "title": "News GTA 6 Still Set for November Release, But Marketing Isn't Imminent",
+      "title": "News Only GTA 6 Stands a Chance of Outdoing GTA 5's Unbelievable 230 Million Units Sold",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-still-set-for-november-release-but-marketing-isnt-imminent",
-      "thumbnail": "/drops/thumbs/a3b093cdc693.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/only-gta-6-stands-a-chance-of-outdoing-gta-5s-unbelievable-230-million-units-sold",
+      "thumbnail": "/drops/thumbs/e54212e60bb1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,6 +309,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562776/article/take-two-ceo-strauss-zelnick-doesnt-know-where-the-gta-6-best-buy-rumor-came-from/",
       "thumbnail": "/drops/thumbs/76b366a9c9d8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a3b093cdc693",
+      "pillar": "gaming",
+      "title": "News GTA 6 Still Set for November Release, But Marketing Isn't Imminent",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-still-set-for-november-release-but-marketing-isnt-imminent",
+      "thumbnail": "/drops/thumbs/a3b093cdc693.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "ec04c213a11a",
-      "pillar": "gaming",
-      "title": "Reaction I'm Sad It's Over, But Destiny's End Was Overdue",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/reaction-im-sad-its-over-but-destinys-end-was-overdue",
-      "thumbnail": "/drops/thumbs/ec04c213a11a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3a9eb0a39847",
       "pillar": "gaming",
       "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "9af7194fe9e1",
+      "id": "ec04c213a11a",
       "pillar": "gaming",
-      "title": "News Bungie Is Not Making Destiny 3, Dev to Be Rocked by 'Significant' Layoffs",
+      "title": "Reaction I'm Sad It's Over, But Destiny's End Was Overdue",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/bungie-is-not-making-destiny-3-dev-to-be-rocked-by-significant-layoffs",
-      "thumbnail": "/drops/thumbs/9af7194fe9e1.jpg",
+      "source_url": "https://www.pushsquare.com/features/reaction-im-sad-its-over-but-destinys-end-was-overdue",
+      "thumbnail": "/drops/thumbs/ec04c213a11a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "4eed13213985",
+    "4f483a003a62",
     "1f8cbf1d8983",
     "62410986dd2a",
     "f931c0c69400",
-    "a3b093cdc693"
+    "e54212e60bb1"
   ]
 }

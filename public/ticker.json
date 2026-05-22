@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T15:00:01+00:00",
+  "generated_utc": "2026-05-22T15:28:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,22 @@
       "article_slug": null
     },
     {
+      "title": "Nicki Minaj Shouts Out Elon Musk During SpaceX Launch Event",
+      "url": "https://thesource.com/2026/05/22/nicki-minaj-shouts-out-elon-musk-during-spacex-launch-event/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Meet Theron Bassett",
       "url": "https://allhiphop.com/uncategorized/meet-theron-bassett/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Joey Bada$$ Drops New 60-Second Freestyle",
+      "url": "https://thesource.com/2026/05/22/joey-bada-drops-new-60-second-freestyle/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -97,20 +111,6 @@
     {
       "title": "Floyd Mayweather Ordered To Pay Nearly $1 Million In Back Child Support After Paternity Ruling",
       "url": "https://allhiphop.com/news/floyd-mayweather-ordered-to-pay-nearly-1-million-in-back-child-support-after-paternity-ruling/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Lil Wayne and Craig Carton to Debut ‘The Joint Venture’ at Fanatics Fest NYC",
-      "url": "https://thesource.com/2026/05/22/lil-wayne-craig-carton-joint-venture-fanatics-fest/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Vince Staples Releases ‘White Flag’ Ahead of ‘Cry Baby’ Album Launch",
-      "url": "https://thesource.com/2026/05/22/vince-staples-white-flag-cry-baby/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Still Set for November Release, But Marketing Isn't Imminent",
-      "url": "https://www.pushsquare.com/news/2026/05/gta-6-still-set-for-november-release-but-marketing-isnt-imminent",
+      "title": "News Only GTA 6 Stands a Chance of Outdoing GTA 5's Unbelievable 230 Million Units Sold",
+      "url": "https://www.pushsquare.com/news/2026/05/only-gta-6-stands-a-chance-of-outdoing-gta-5s-unbelievable-230-million-units-sold",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -181,6 +181,13 @@
     {
       "title": "Take-Two CEO Strauss Zelnick Doesn’t Know Where The GTA 6 Best Buy Rumor Came From",
       "url": "https://gameranx.com/updates/id/562776/article/take-two-ceo-strauss-zelnick-doesnt-know-where-the-gta-6-best-buy-rumor-came-from/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News GTA 6 Still Set for November Release, But Marketing Isn't Imminent",
+      "url": "https://www.pushsquare.com/news/2026/05/gta-6-still-set-for-november-release-but-marketing-isnt-imminent",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "Reaction I'm Sad It's Over, But Destiny's End Was Overdue",
-      "url": "https://www.pushsquare.com/features/reaction-im-sad-its-over-but-destinys-end-was-overdue",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
       "url": "https://www.gamesradar.com/games/destiny/destiny-2-is-dead-active-development-ends-next-month-after-one-final-update-but-bungie-says-the-mmo-will-still-be-playable/",
       "pillar": "gaming",
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News Bungie Is Not Making Destiny 3, Dev to Be Rocked by 'Significant' Layoffs",
-      "url": "https://www.pushsquare.com/news/2026/05/bungie-is-not-making-destiny-3-dev-to-be-rocked-by-significant-layoffs",
+      "title": "Reaction I'm Sad It's Over, But Destiny's End Was Overdue",
+      "url": "https://www.pushsquare.com/features/reaction-im-sad-its-over-but-destinys-end-was-overdue",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
