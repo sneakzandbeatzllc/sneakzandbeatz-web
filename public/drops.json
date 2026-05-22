@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T19:38:40+00:00",
+  "generated_utc": "2026-05-22T20:06:46+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "2acbf92c112c",
+      "pillar": "hiphop",
+      "title": "Lizzo Helps Raise $20 Million At amfAR Cannes Gala For AIDS Research",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/lizzo-helps-raise-20-million-at-amfar-cannes-gala-for-aids-research/",
+      "thumbnail": "/drops/thumbs/2acbf92c112c.png",
+      "published": "2026-05-22T16:02:50",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ba6471e5c384",
+      "pillar": "hiphop",
+      "title": "The Comment Section Decides the Narrative Before the Second Listen",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/the-comment-section-decides-the-narrative-before-the-second-listen/",
+      "thumbnail": "/drops/thumbs/ba6471e5c384.png",
+      "published": "2026-05-22T15:53:31",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "483743fef59a",
       "pillar": "hiphop",
       "title": "50 Cent Expands GUnity Business Lab In Houston, Plans To Reach More Students",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "4eed13213985",
-      "pillar": "hiphop",
-      "title": "Meet Theron Bassett",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/meet-theron-bassett/",
-      "thumbnail": "/drops/thumbs/4eed13213985.png",
-      "published": "2026-05-22T10:45:08",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b16bd5f60ad0",
-      "pillar": "hiphop",
-      "title": "Joey Bada$$ Drops New 60-Second Freestyle",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/22/joey-bada-drops-new-60-second-freestyle/",
-      "thumbnail": "/drops/thumbs/b16bd5f60ad0.jpg",
-      "published": "2026-05-22T10:27:45",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "62410986dd2a",
       "pillar": "anime",
       "title": "All 13 Demon Slayer Hashira, Ranked Weakest To Strongest",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "bd143a155801",
+      "id": "d1493bd04092",
       "pillar": "anime",
-      "title": "Akane-banashi Anime Reveals Additional English Dub Cast",
+      "title": "Ririko Tsujita's 'To what lady Amane says.' 1-Shot Manga Gets Serialization",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/akane-banashi-anime-reveals-additional-english-dub-cast/.237705",
-      "thumbnail": "/drops/thumbs/bd143a155801.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/ririko-tsujita-to-what-lady-amane-says-1-shot-manga-gets-serialization/.237712",
+      "thumbnail": "/drops/thumbs/d1493bd04092.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "13f86bc18590",
+      "id": "bd143a155801",
       "pillar": "anime",
-      "title": "Satoshi Miyakawa's Namae no Nai Byōki Manga Ends in 3 Chapters",
+      "title": "Akane-banashi Anime Reveals Additional English Dub Cast",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/satoshi-miyakawa-namae-no-nai-byoki-manga-ends-in-3-chapters/.237709",
-      "thumbnail": "/drops/thumbs/13f86bc18590.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/akane-banashi-anime-reveals-additional-english-dub-cast/.237705",
+      "thumbnail": "/drops/thumbs/bd143a155801.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "0ed25647646b",
+      "id": "13f86bc18590",
       "pillar": "anime",
-      "title": "Deaf Crocodile to Release Frankenstein, Legend of Terror Anime With New 4K Restoration",
+      "title": "Satoshi Miyakawa's Namae no Nai Byōki Manga Ends in 3 Chapters",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/deaf-crocodile-to-release-frankenstein-legend-of-terror-anime-with-new-4k-restoration/.237710",
-      "thumbnail": "/drops/thumbs/0ed25647646b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/satoshi-miyakawa-namae-no-nai-byoki-manga-ends-in-3-chapters/.237709",
+      "thumbnail": "/drops/thumbs/13f86bc18590.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "483743fef59a",
+    "2acbf92c112c",
     "1f8cbf1d8983",
     "62410986dd2a",
     "a3a8855af003",
