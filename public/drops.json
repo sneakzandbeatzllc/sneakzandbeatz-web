@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T18:37:44+00:00",
+  "generated_utc": "2026-05-22T19:05:40+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -63,6 +63,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "b7d666c9a66f",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 3 Flip Returns in 2027 With a Super Bowl Special Release",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-flip-sb-varsity-red-ja7983-636/",
+      "thumbnail": "/drops/thumbs/b7d666c9a66f.webp",
+      "published": "2026-05-22T15:00:00",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "ec5229f8feb6",
       "pillar": "sneakers",
       "title": "The Air Jordan 4 “Tour Yellow” Returns in September After Twenty Years",
@@ -87,15 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "108731db3cea",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 Flip “Super Bowl” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-flip-super-bowl-2027/",
-      "thumbnail": "/drops/thumbs/108731db3cea.jpg",
-      "published": "2026-05-21T15:28:07",
+      "id": "483743fef59a",
+      "pillar": "hiphop",
+      "title": "50 Cent Expands GUnity Business Lab In Houston, Plans To Reach More Students",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/50-cent-expands-gunity-business-lab-in-houston-plans-to-reach-more-students/",
+      "thumbnail": "/drops/thumbs/483743fef59a.jpg",
+      "published": "2026-05-22T15:00:05",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/22/joey-bada-drops-new-60-second-freestyle/",
       "thumbnail": "/drops/thumbs/b16bd5f60ad0.jpg",
       "published": "2026-05-22T10:27:45",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c579eb3aef7a",
-      "pillar": "hiphop",
-      "title": "Happy 59th Birthday To Compton Legend MC Eiht!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/22/happy-59th-birthday-to-compton-legend-mc-eiht/",
-      "thumbnail": "/drops/thumbs/c579eb3aef7a.jpg",
-      "published": "2026-05-22T10:04:55",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "7dc64d3f87e3",
+    "483743fef59a",
     "1f8cbf1d8983",
     "62410986dd2a",
     "a3a8855af003",

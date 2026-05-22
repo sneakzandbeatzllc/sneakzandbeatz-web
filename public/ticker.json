@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T18:37:44+00:00",
+  "generated_utc": "2026-05-22T19:05:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,6 +39,13 @@
       "article_slug": null
     },
     {
+      "title": "The Air Jordan 3 Flip Returns in 2027 With a Super Bowl Special Release",
+      "url": "https://justfreshkicks.com/air-jordan-3-flip-sb-varsity-red-ja7983-636/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "The Air Jordan 4 “Tour Yellow” Returns in September After Twenty Years",
       "url": "https://justfreshkicks.com/air-jordan-4-tour-yellow-io2463-102/",
       "pillar": "sneakers",
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 Flip “Super Bowl” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-flip-super-bowl-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "50 Cent Expands GUnity Business Lab In Houston, Plans To Reach More Students",
+      "url": "https://allhiphop.com/news/50-cent-expands-gunity-business-lab-in-houston-plans-to-reach-more-students/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Joey Bada$$ Drops New 60-Second Freestyle",
       "url": "https://thesource.com/2026/05/22/joey-bada-drops-new-60-second-freestyle/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Happy 59th Birthday To Compton Legend MC Eiht!",
-      "url": "https://thesource.com/2026/05/22/happy-59th-birthday-to-compton-legend-mc-eiht/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
