@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T15:32:02+00:00",
+  "generated_utc": "2026-05-22T16:01:00+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "a739cadc691f",
+      "pillar": "hiphop",
+      "title": "Law Student Twerks For Votes In Congressional Bid & Its Working",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/law-student-twerks-for-votes-in-congressional-bid-its-working/",
+      "thumbnail": "/drops/thumbs/a739cadc691f.jpg",
+      "published": "2026-05-22T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a1f4c322a7af",
       "pillar": "hiphop",
       "title": "French Montana Trolls, Big Daddy Kane Shrugs & Max B. Catches Heat",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/22/ne-yo-ms-tundra-highway-79/",
       "thumbnail": "/drops/thumbs/2d58f877558d.jpg",
       "published": "2026-05-22T09:36:53",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f209804fd880",
-      "pillar": "hiphop",
-      "title": "50 Cent Or Dame Dash: Who Is Jim Jones Talking To?",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/50-cent-or-dame-dash-who-is-jim-jones-talking-to/",
-      "thumbnail": "/drops/thumbs/f209804fd880.png",
-      "published": "2026-05-22T09:32:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -315,18 +315,6 @@
       "release_badge": ""
     },
     {
-      "id": "a3b093cdc693",
-      "pillar": "gaming",
-      "title": "News GTA 6 Still Set for November Release, But Marketing Isn't Imminent",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gta-6-still-set-for-november-release-but-marketing-isnt-imminent",
-      "thumbnail": "/drops/thumbs/a3b093cdc693.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4d0eff19abe9",
       "pillar": "gaming",
       "title": "Rumor: GTA 6’s 3rd Trailer Releasing May 26 And Appearing In The Next State Of Play",
@@ -345,6 +333,30 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-1-remake-made-cd-projekt-red-realize-the-true-impact-of-not-recording-its-old-work-we-had-little-to-no-technical-knowledge-preserved-from-that-time/",
       "thumbnail": "/drops/thumbs/787be54cc5e2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "51e8c36f71af",
+      "pillar": "gaming",
+      "title": "Final Fantasy 7 Rebirth Director Promises More ‘Enjoyable’ Trophies In Part 3 And I Have Just One Request",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/final-fantasy-7-rebirth-director-promises-more-enjoyable-trophies-in-part-3-and-i-have-just-one-request-2000698681",
+      "thumbnail": "/drops/thumbs/51e8c36f71af.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4ca92f9d81ed",
+      "pillar": "gaming",
+      "title": "News Final Fantasy 7 Rebirth Dev Regrets Brutal PS5 Platinum Trophy",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/final-fantasy-7-rebirth-dev-regrets-brutal-ps5-platinum-trophy",
+      "thumbnail": "/drops/thumbs/4ca92f9d81ed.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "248db7fa7e90",
-      "pillar": "gaming",
-      "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
-      "thumbnail": "/drops/thumbs/248db7fa7e90.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "315c8ac926db",
-    "a1f4c322a7af",
+    "a739cadc691f",
     "1f8cbf1d8983",
     "62410986dd2a",
     "f931c0c69400",
