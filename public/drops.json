@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T17:36:51+00:00",
+  "generated_utc": "2026-05-22T18:04:18+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "a6f5da8be4e3",
+      "pillar": "hiphop",
+      "title": "Woman Gets 15 Years For Foolio Murder Plot; Shows No Emotion During Sentencing",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/woman-gets-15-years-for-foolio-murder-plot-shows-no-emotion-during-sentencing/",
+      "thumbnail": "/drops/thumbs/a6f5da8be4e3.jpg",
+      "published": "2026-05-22T14:00:30",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a739cadc691f",
       "pillar": "hiphop",
       "title": "Law Student Twerks For Votes In Congressional Bid & Its Working",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "2d58f877558d",
-      "pillar": "hiphop",
-      "title": "NE-YO Drops Country-Inspired Single “Ms. Tundra” Ahead of New Album Highway 79",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/22/ne-yo-ms-tundra-highway-79/",
-      "thumbnail": "/drops/thumbs/2d58f877558d.jpg",
-      "published": "2026-05-22T09:36:53",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "62410986dd2a",
       "pillar": "anime",
       "title": "All 13 Demon Slayer Hashira, Ranked Weakest To Strongest",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "0ed25647646b",
+      "id": "13f86bc18590",
       "pillar": "anime",
-      "title": "Deaf Crocodile to Release Frankenstein, Legend of Terror Anime With New 4K Restoration",
+      "title": "Satoshi Miyakawa's Namae no Nai Byōki Manga Ends in 3 Chapters",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/deaf-crocodile-to-release-frankenstein-legend-of-terror-anime-with-new-4k-restoration/.237710",
-      "thumbnail": "/drops/thumbs/0ed25647646b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/satoshi-miyakawa-namae-no-nai-byoki-manga-ends-in-3-chapters/.237709",
+      "thumbnail": "/drops/thumbs/13f86bc18590.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "778d5ca83dbc",
+      "id": "0ed25647646b",
       "pillar": "anime",
-      "title": "Victoria of Many Faces Anime's 1st Promo Video Previews Ending Theme Song",
+      "title": "Deaf Crocodile to Release Frankenstein, Legend of Terror Anime With New 4K Restoration",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/victoria-of-many-faces-anime-1st-promo-video-previews-ending-theme-song/.237703",
-      "thumbnail": "/drops/thumbs/778d5ca83dbc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/deaf-crocodile-to-release-frankenstein-legend-of-terror-anime-with-new-4k-restoration/.237710",
+      "thumbnail": "/drops/thumbs/0ed25647646b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "5ed88b2257d7",
+      "id": "778d5ca83dbc",
       "pillar": "anime",
-      "title": "Ms. Isshiki Wants to Know About Love Anime's Teaser Unveils Cast, January 2027 Debut",
+      "title": "Victoria of Many Faces Anime's 1st Promo Video Previews Ending Theme Song",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/ms-isshiki-wants-to-know-about-love-anime-teaser-unveils-cast-january-2027-debut/.237702",
-      "thumbnail": "/drops/thumbs/5ed88b2257d7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/victoria-of-many-faces-anime-1st-promo-video-previews-ending-theme-song/.237703",
+      "thumbnail": "/drops/thumbs/778d5ca83dbc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "a739cadc691f",
+    "a6f5da8be4e3",
     "1f8cbf1d8983",
     "62410986dd2a",
     "a3a8855af003",
