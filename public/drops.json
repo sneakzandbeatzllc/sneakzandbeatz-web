@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T15:28:54+00:00",
+  "generated_utc": "2026-05-22T15:32:02+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "a1f4c322a7af",
+      "pillar": "hiphop",
+      "title": "French Montana Trolls, Big Daddy Kane Shrugs & Max B. Catches Heat",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/french-montana-trolls-big-daddy-kane-shrugs-max-b-catches-heat/",
+      "thumbnail": "/drops/thumbs/a1f4c322a7af.png",
+      "published": "2026-05-22T11:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4f483a003a62",
       "pillar": "hiphop",
       "title": "Nicki Minaj Shouts Out Elon Musk During SpaceX Launch Event",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/rumors/50-cent-or-dame-dash-who-is-jim-jones-talking-to/",
       "thumbnail": "/drops/thumbs/f209804fd880.png",
       "published": "2026-05-22T09:32:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ae3d8116e33b",
-      "pillar": "hiphop",
-      "title": "Floyd Mayweather Ordered To Pay Nearly $1 Million In Back Child Support After Paternity Ruling",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/floyd-mayweather-ordered-to-pay-nearly-1-million-in-back-child-support-after-paternity-ruling/",
-      "thumbnail": "/drops/thumbs/ae3d8116e33b.jpg",
-      "published": "2026-05-22T07:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "4f483a003a62",
+    "a1f4c322a7af",
     "1f8cbf1d8983",
     "62410986dd2a",
     "f931c0c69400",
