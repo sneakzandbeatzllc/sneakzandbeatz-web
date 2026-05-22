@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T18:04:18+00:00",
+  "generated_utc": "2026-05-22T18:34:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Tyrese Blasts Netflix Over New Michael Jackson Trial Documentary",
+      "url": "https://allhiphop.com/news/tyrese-blasts-netflix-over-new-michael-jackson-trial-documentary/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Woman Gets 15 Years For Foolio Murder Plot; Shows No Emotion During Sentencing",
       "url": "https://allhiphop.com/news/woman-gets-15-years-for-foolio-murder-plot-shows-no-emotion-during-sentencing/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Happy 59th Birthday To Compton Legend MC Eiht!",
       "url": "https://thesource.com/2026/05/22/happy-59th-birthday-to-compton-legend-mc-eiht/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Nicki Minaj Brings Star Power To Elon Musk’s Failed Rocket Launch",
-      "url": "https://allhiphop.com/news/nicki-minaj-brings-star-power-to-elon-musks-failed-rocket-launch/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null

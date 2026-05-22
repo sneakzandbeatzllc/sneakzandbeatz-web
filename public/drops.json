@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T18:04:18+00:00",
+  "generated_utc": "2026-05-22T18:34:20+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "7dc64d3f87e3",
+      "pillar": "hiphop",
+      "title": "Tyrese Blasts Netflix Over New Michael Jackson Trial Documentary",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/tyrese-blasts-netflix-over-new-michael-jackson-trial-documentary/",
+      "thumbnail": "/drops/thumbs/7dc64d3f87e3.jpg",
+      "published": "2026-05-22T14:31:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a6f5da8be4e3",
       "pillar": "hiphop",
       "title": "Woman Gets 15 Years For Foolio Murder Plot; Shows No Emotion During Sentencing",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/22/happy-59th-birthday-to-compton-legend-mc-eiht/",
       "thumbnail": "/drops/thumbs/c579eb3aef7a.jpg",
       "published": "2026-05-22T10:04:55",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "13b4e71e6159",
-      "pillar": "hiphop",
-      "title": "Nicki Minaj Brings Star Power To Elon Musk’s Failed Rocket Launch",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/nicki-minaj-brings-star-power-to-elon-musks-failed-rocket-launch/",
-      "thumbnail": "/drops/thumbs/13b4e71e6159.jpg",
-      "published": "2026-05-22T10:04:49",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "a6f5da8be4e3",
+    "7dc64d3f87e3",
     "1f8cbf1d8983",
     "62410986dd2a",
     "a3a8855af003",
