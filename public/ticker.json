@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-21T23:53:02+00:00",
+  "generated_utc": "2026-05-22T00:20:32+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball's Strongest Transformation Ever Proves The Series Is Finally Returning To Its Roots",
+      "url": "https://screenrant.com/dragon-ball-beast-gohan-return-roots/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Anime Expo Screens U.S. Premiere of Sparks of Tomorrow TV Anime, Hosts Frieren: Beyond Journey's End Anime Staff",
       "url": "https://www.animenewsnetwork.com/news/2026-05-21/anime-expo-screens-u.s-premiere-of-sparks-of-tomorrow-tv-anime-hosts-frieren-beyond-journey-end-/.237614",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "Forza Horizon 6's best Easter egg is a cup of water",
       "url": "https://www.polygon.com/forza-horizon-6-best-easter-egg/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "North American Anime, Manga Releases, May 17-23",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-21/north-american-anime-manga-releases-may-17-23/.237507",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
