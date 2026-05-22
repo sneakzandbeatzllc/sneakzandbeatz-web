@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T11:29:00+00:00",
+  "generated_utc": "2026-05-22T11:32:18+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "ae3d8116e33b",
+      "pillar": "hiphop",
+      "title": "Floyd Mayweather Ordered To Pay Nearly $1 Million In Back Child Support After Paternity Ruling",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/floyd-mayweather-ordered-to-pay-nearly-1-million-in-back-child-support-after-paternity-ruling/",
+      "thumbnail": "/drops/thumbs/ae3d8116e33b.jpg",
+      "published": "2026-05-22T07:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bc310be974e9",
       "pillar": "hiphop",
       "title": "Lil Wayne and Craig Carton to Debut ‘The Joint Venture’ at Fanatics Fest NYC",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/22/out-of-the-mud-nike-celebrates-dmv-hoops-culture-with-unseen-hours-exclusive-pack/",
       "thumbnail": "/drops/thumbs/5317a9aec7d6.jpg",
       "published": "2026-05-22T00:07:23",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "15952e812959",
-      "pillar": "hiphop",
-      "title": "French Montana & Max B Complete Their Cosmic Reunion With Wave Gods 2",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/french-montana-max-b-complete-their-cosmic-reunion-with-wave-gods-2/",
-      "thumbnail": "/drops/thumbs/15952e812959.jpg",
-      "published": "2026-05-21T19:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "bc310be974e9",
+    "ae3d8116e33b",
     "1f8cbf1d8983",
     "e1670267f552",
     "f931c0c69400",
