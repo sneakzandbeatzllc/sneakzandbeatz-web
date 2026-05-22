@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T14:34:56+00:00",
+  "generated_utc": "2026-05-22T15:00:01+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4eed13213985",
+      "pillar": "hiphop",
+      "title": "Meet Theron Bassett",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/meet-theron-bassett/",
+      "thumbnail": "/drops/thumbs/4eed13213985.png",
+      "published": "2026-05-22T10:45:08",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c579eb3aef7a",
       "pillar": "hiphop",
       "title": "Happy 59th Birthday To Compton Legend MC Eiht!",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/22/vince-staples-white-flag-cry-baby/",
       "thumbnail": "/drops/thumbs/57b00bad4e2e.jpg",
       "published": "2026-05-22T06:49:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "719b26e0bbbd",
-      "pillar": "hiphop",
-      "title": "Candace Owens Apologizes to Hunter Biden for Calling Him a Crackhead: ‘I Feel Sh*tty’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/22/candace-owens-hunter-biden-interview/",
-      "thumbnail": "/drops/thumbs/719b26e0bbbd.jpg",
-      "published": "2026-05-22T06:49:51",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "0cd9f81739b4",
-      "pillar": "gaming",
-      "title": "It Shouldn’t Come As A Shock That There Are No Plans For Destiny 3 Right Now, A Game Fans Have Spent Years Begging For",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/it-shouldnt-come-as-a-shock-that-there-are-no-plans-for-destiny-3-right-now-a-game-fans-have-spent-years-begging-for-2000698643",
-      "thumbnail": "/drops/thumbs/0cd9f81739b4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ec04c213a11a",
       "pillar": "gaming",
       "title": "Reaction I'm Sad It's Over, But Destiny's End Was Overdue",
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "248db7fa7e90",
+      "pillar": "gaming",
+      "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
+      "thumbnail": "/drops/thumbs/248db7fa7e90.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "315c8ac926db",
-    "c579eb3aef7a",
+    "4eed13213985",
     "1f8cbf1d8983",
     "62410986dd2a",
     "f931c0c69400",
