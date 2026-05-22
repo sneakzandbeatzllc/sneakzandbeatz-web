@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T08:55:35+00:00",
+  "generated_utc": "2026-05-22T09:27:58+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "fb47765c72dc",
+      "pillar": "hiphop",
+      "title": "FakeFree KP Reimagines DMX Classic on New Single “What It Be”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/22/fakefree-kp-what-it-be-ruff-ryders/",
+      "thumbnail": "/drops/thumbs/fb47765c72dc.jpg",
+      "published": "2026-05-22T03:59:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5317a9aec7d6",
       "pillar": "hiphop",
       "title": "Out of the Mud: Nike Celebrates DMV Hoops Culture with ‘Unseen Hours’ Exclusive Pack",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/21/chelsea-handler-slams-roast-jokes-from-shane-gillis-and-tony-hinchcliffe-after-netflix-special/",
       "thumbnail": "/drops/thumbs/566dffb17f71.jpg",
       "published": "2026-05-21T15:06:44",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c8c591f2a949",
-      "pillar": "hiphop",
-      "title": "Spotify and UMG Strike AI Music Deal Giving Artists Control Over Fan-Made Covers",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/21/spotify-and-umg-strike-ai-music-deal-giving-artists-control-over-fan-made-covers/",
-      "thumbnail": "/drops/thumbs/c8c591f2a949.jpg",
-      "published": "2026-05-21T14:57:04",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "2c0bcdd446a2",
+      "id": "299212aaad50",
       "pillar": "anime",
-      "title": "Hirohisa Satō's Mother Parasite Manga Enters Last Arc in 18th Volume",
+      "title": "The Eccentric Doctor of the Moon Flower Kingdom Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-21/hirohisa-sato-mother-parasite-manga-enters-last-arc-in-18th-volume/.237582",
-      "thumbnail": "/drops/thumbs/2c0bcdd446a2.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/the-eccentric-doctor-of-the-moon-flower-kingdom-manga-gets-tv-anime/.237693",
+      "thumbnail": "/drops/thumbs/299212aaad50.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "248db7fa7e90",
+      "pillar": "gaming",
+      "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
+      "thumbnail": "/drops/thumbs/248db7fa7e90.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "56596b8b59b7",
       "pillar": "gaming",
       "title": "Bungie Ends Active Development On Destiny 2 In 2 Weeks",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "d8f67edf5f89",
-      "pillar": "gaming",
-      "title": "Wizards Of The Coast Begs Staff To Think Twice Before Voting To Unionize",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/wizards-of-the-coast-begs-staff-think-twice-unionize-2000698346",
-      "thumbnail": "/drops/thumbs/d8f67edf5f89.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "315c8ac926db",
-    "5317a9aec7d6",
+    "fb47765c72dc",
     "1f8cbf1d8983",
     "e1670267f552",
     "f931c0c69400",

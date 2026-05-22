@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T08:55:35+00:00",
+  "generated_utc": "2026-05-22T09:27:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "FakeFree KP Reimagines DMX Classic on New Single “What It Be”",
+      "url": "https://thesource.com/2026/05/22/fakefree-kp-what-it-be-ruff-ryders/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Out of the Mud: Nike Celebrates DMV Hoops Culture with ‘Unseen Hours’ Exclusive Pack",
       "url": "https://thesource.com/2026/05/22/out-of-the-mud-nike-celebrates-dmv-hoops-culture-with-unseen-hours-exclusive-pack/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Chelsea Handler Slams Roast Jokes From Shane Gillis and Tony Hinchcliffe After Netflix Special",
       "url": "https://thesource.com/2026/05/21/chelsea-handler-slams-roast-jokes-from-shane-gillis-and-tony-hinchcliffe-after-netflix-special/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Spotify and UMG Strike AI Music Deal Giving Artists Control Over Fan-Made Covers",
-      "url": "https://thesource.com/2026/05/21/spotify-and-umg-strike-ai-music-deal-giving-artists-control-over-fan-made-covers/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Hirohisa Satō's Mother Parasite Manga Enters Last Arc in 18th Volume",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-21/hirohisa-sato-mother-parasite-manga-enters-last-arc-in-18th-volume/.237582",
+      "title": "The Eccentric Doctor of the Moon Flower Kingdom Manga Gets TV Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-22/the-eccentric-doctor-of-the-moon-flower-kingdom-manga-gets-tv-anime/.237693",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
+      "url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Bungie Ends Active Development On Destiny 2 In 2 Weeks",
       "url": "https://gameranx.com/updates/id/562767/article/bungie-ends-active-development-on-destiny-2-in-2-weeks/",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Hands-on Hands-on with Assassin's Creed Black Flag Resynced",
       "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-hands-on-big-preview/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Wizards Of The Coast Begs Staff To Think Twice Before Voting To Unionize",
-      "url": "https://kotaku.com/wizards-of-the-coast-begs-staff-think-twice-unionize-2000698346",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
