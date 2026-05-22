@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T21:09:58+00:00",
+  "generated_utc": "2026-05-22T21:38:09+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -351,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "b29ad3676c91",
-      "pillar": "gaming",
-      "title": "Riot Says Its Valorant Anti-Cheat Update Can’t Brick PCs After A Joke Fuels Panic",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675",
-      "thumbnail": "/drops/thumbs/b29ad3676c91.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3a9eb0a39847",
       "pillar": "gaming",
       "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
@@ -381,6 +369,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
       "thumbnail": "/drops/thumbs/248db7fa7e90.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "56596b8b59b7",
+      "pillar": "gaming",
+      "title": "Bungie Ends Active Development On Destiny 2 In 2 Weeks",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562767/article/bungie-ends-active-development-on-destiny-2-in-2-weeks/",
+      "thumbnail": "/drops/thumbs/56596b8b59b7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
