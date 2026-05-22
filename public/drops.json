@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T21:41:00+00:00",
+  "generated_utc": "2026-05-22T22:09:36+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "8d9ff80748bc",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Lil Durk Case Grows Heavier As Prosecutors Weigh More Charges",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/exclusive-lil-durk-case-grows-heavier-as-prosecutors-weigh-more-charges/",
+      "thumbnail": "/drops/thumbs/8d9ff80748bc.png",
+      "published": "2026-05-22T18:00:40",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9693121a4672",
+      "pillar": "hiphop",
+      "title": "Rap Icon Rob Base Of “It Takes Two” Fame Dead At 59",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/rap-icon-rob-base-of-it-takes-two-fame-dead-at-59/",
+      "thumbnail": "/drops/thumbs/9693121a4672.png",
+      "published": "2026-05-22T17:38:50",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d7fb8e78bd81",
       "pillar": "hiphop",
       "title": "Lupita Nyong’o Shuts Down Snowflake Elon Musk & His Whining Over “Helen of Troy” Casting",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "a739cadc691f",
-      "pillar": "hiphop",
-      "title": "Law Student Twerks For Votes In Congressional Bid & Its Working",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/law-student-twerks-for-votes-in-congressional-bid-its-working/",
-      "thumbnail": "/drops/thumbs/a739cadc691f.jpg",
-      "published": "2026-05-22T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a1f4c322a7af",
-      "pillar": "hiphop",
-      "title": "French Montana Trolls, Big Daddy Kane Shrugs & Max B. Catches Heat",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/french-montana-trolls-big-daddy-kane-shrugs-max-b-catches-heat/",
-      "thumbnail": "/drops/thumbs/a1f4c322a7af.png",
-      "published": "2026-05-22T11:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "62410986dd2a",
       "pillar": "anime",
       "title": "All 13 Demon Slayer Hashira, Ranked Weakest To Strongest",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "fb0f11125e9a",
+      "id": "9bee975cb181",
       "pillar": "anime",
-      "title": "NUMBER 8, Ten Ishida's Salaryman Z Manga Ends",
+      "title": "Saru Lock Reboot Manga Ends on June 1",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/number-8-ten-ishida-salaryman-z-manga-ends/.237688",
-      "thumbnail": "/drops/thumbs/fb0f11125e9a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/saru-lock-reboot-manga-ends-on-june-1/.237686",
+      "thumbnail": "/drops/thumbs/9bee975cb181.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d1493bd04092",
+      "id": "fb0f11125e9a",
       "pillar": "anime",
-      "title": "Ririko Tsujita's 'To what lady Amane says.' 1-Shot Manga Gets Serialization",
+      "title": "NUMBER 8, Ten Ishida's Salaryman Z Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/ririko-tsujita-to-what-lady-amane-says-1-shot-manga-gets-serialization/.237712",
-      "thumbnail": "/drops/thumbs/d1493bd04092.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/number-8-ten-ishida-salaryman-z-manga-ends/.237688",
+      "thumbnail": "/drops/thumbs/fb0f11125e9a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "bd143a155801",
+      "id": "d1493bd04092",
       "pillar": "anime",
-      "title": "Akane-banashi Anime Reveals Additional English Dub Cast",
+      "title": "Ririko Tsujita's 'To what lady Amane says.' 1-Shot Manga Gets Serialization",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/akane-banashi-anime-reveals-additional-english-dub-cast/.237705",
-      "thumbnail": "/drops/thumbs/bd143a155801.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/ririko-tsujita-to-what-lady-amane-says-1-shot-manga-gets-serialization/.237712",
+      "thumbnail": "/drops/thumbs/d1493bd04092.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "315c8ac926db",
-    "d7fb8e78bd81",
+    "8d9ff80748bc",
     "1f8cbf1d8983",
     "62410986dd2a",
     "a3a8855af003",
