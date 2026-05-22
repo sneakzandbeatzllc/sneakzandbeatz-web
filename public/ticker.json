@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T11:32:18+00:00",
+  "generated_utc": "2026-05-22T11:57:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -179,6 +179,13 @@
       "article_slug": null
     },
     {
+      "title": "Take-Two CEO Strauss Zelnick Doesn’t Know Where The GTA 6 Best Buy Rumor Came From",
+      "url": "https://gameranx.com/updates/id/562776/article/take-two-ceo-strauss-zelnick-doesnt-know-where-the-gta-6-best-buy-rumor-came-from/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rumor: GTA 6’s 3rd Trailer Releasing May 26 And Appearing In The Next State Of Play",
       "url": "https://gameranx.com/updates/id/562770/article/rumor-gta-6s-3rd-trailer-releasing-may-26-and-appearing-in-the-next-state-of-play/",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
       "url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Bungie Ends Active Development On Destiny 2 In 2 Weeks",
-      "url": "https://gameranx.com/updates/id/562767/article/bungie-ends-active-development-on-destiny-2-in-2-weeks/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
