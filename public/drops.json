@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T00:54:03+00:00",
+  "generated_utc": "2026-05-22T01:21:53+00:00",
   "items": [
     {
       "id": "315c8ac926db",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "c1861933267d",
-      "pillar": "anime",
-      "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/attack-on-titan-eren-yeager-best-quotes/",
-      "thumbnail": "/drops/thumbs/c1861933267d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e1670267f552",
       "pillar": "anime",
       "title": "Dragon Ball's Strongest Transformation Ever Proves The Series Is Finally Returning To Its Roots",
@@ -243,24 +231,36 @@
       "release_badge": ""
     },
     {
-      "id": "ddf9b0040bf2",
+      "id": "2e4abf109374",
       "pillar": "anime",
-      "title": "One Piece's Ending Will Show Naruto How It's Done",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-ending-show-naruto-how-done/",
-      "thumbnail": "/drops/thumbs/ddf9b0040bf2.jpg",
+      "title": "Bleach turned one giant sword into a heartbreaking story about identity",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
+      "thumbnail": "/drops/thumbs/2e4abf109374.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "8c3fa0c1b0d1",
+      "id": "e29d367a9960",
       "pillar": "anime",
-      "title": "Kagurabachi treats swords like nuclear weapons",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/kagurabachi-anime-swords/",
-      "thumbnail": "/drops/thumbs/8c3fa0c1b0d1.jpg",
+      "title": "Netflix’s Next One Piece Has Never Been More Obvious",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/netflix-next-one-piece-jojos-bizarre-adventure-peak/",
+      "thumbnail": "/drops/thumbs/e29d367a9960.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ddf9b0040bf2",
+      "pillar": "anime",
+      "title": "One Piece's Ending Will Show Naruto How It's Done",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-ending-show-naruto-how-done/",
+      "thumbnail": "/drops/thumbs/ddf9b0040bf2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "80b7b9d6b49f",
+      "id": "8c3fa0c1b0d1",
       "pillar": "anime",
-      "title": "Forza Horizon 6's best Easter egg is a cup of water",
+      "title": "Kagurabachi treats swords like nuclear weapons",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/forza-horizon-6-best-easter-egg/",
-      "thumbnail": "/drops/thumbs/80b7b9d6b49f.jpg",
+      "source_url": "https://www.polygon.com/kagurabachi-anime-swords/",
+      "thumbnail": "/drops/thumbs/8c3fa0c1b0d1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "315c8ac926db",
     "6bdd6babbc02",
     "1f8cbf1d8983",
-    "c1861933267d",
+    "e1670267f552",
     "f931c0c69400",
     "a3b093cdc693"
   ]

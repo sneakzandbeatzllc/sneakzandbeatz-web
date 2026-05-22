@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-22T00:54:03+00:00",
+  "generated_utc": "2026-05-22T01:21:53+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Eren Yeager's 10 Greatest Attack on Titan Quotes",
-      "url": "https://screenrant.com/attack-on-titan-eren-yeager-best-quotes/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball's Strongest Transformation Ever Proves The Series Is Finally Returning To Its Roots",
       "url": "https://screenrant.com/dragon-ball-beast-gohan-return-roots/",
       "pillar": "anime",
@@ -144,15 +137,22 @@
       "article_slug": null
     },
     {
-      "title": "One Piece's Ending Will Show Naruto How It's Done",
-      "url": "https://screenrant.com/one-piece-ending-show-naruto-how-done/",
+      "title": "Bleach turned one giant sword into a heartbreaking story about identity",
+      "url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Kagurabachi treats swords like nuclear weapons",
-      "url": "https://www.polygon.com/kagurabachi-anime-swords/",
+      "title": "Netflix’s Next One Piece Has Never Been More Obvious",
+      "url": "https://screenrant.com/netflix-next-one-piece-jojos-bizarre-adventure-peak/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Piece's Ending Will Show Naruto How It's Done",
+      "url": "https://screenrant.com/one-piece-ending-show-naruto-how-done/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Forza Horizon 6's best Easter egg is a cup of water",
-      "url": "https://www.polygon.com/forza-horizon-6-best-easter-egg/",
+      "title": "Kagurabachi treats swords like nuclear weapons",
+      "url": "https://www.polygon.com/kagurabachi-anime-swords/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
