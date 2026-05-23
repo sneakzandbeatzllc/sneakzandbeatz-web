@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T15:00:35+00:00",
+  "generated_utc": "2026-05-23T15:58:26+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "04e4caa51073",
+      "pillar": "hiphop",
+      "title": "New York Giants Jaxson Dart’s Trump Rally Appearance Splits Giants Locker Room",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/new-york-giants-jaxson-darts-trump-rally-appearance-splits-giants-locker-room/",
+      "thumbnail": "/drops/thumbs/04e4caa51073.jpg",
+      "published": "2026-05-23T11:15:15",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "259896b28b4d",
       "pillar": "hiphop",
       "title": "Floyd Mayweather Claims $515 Million In Total Fraud, Says His Jet Vanished Without A Trace",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "52133ce3e171",
-      "pillar": "hiphop",
-      "title": "Ludacris Reunites With Dave Meyers for Wild “Pull Over” Music Video",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/23/ludacris-pull-over-video/",
-      "thumbnail": "/drops/thumbs/52133ce3e171.jpg",
-      "published": "2026-05-23T06:32:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a32ac9e5864a",
       "pillar": "anime",
       "title": "Only One Dragon Ball Anime Truly Lived Up To Akira Toriyama's Vision, So Why Was It So Controversial?",
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "cc99ce0a5f84",
-      "pillar": "anime",
-      "title": "Naruto's Next Anime Is Threatening To Kill The Original Series' Most Controversial Character",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-kill-sasuke/",
-      "thumbnail": "/drops/thumbs/cc99ce0a5f84.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1db5b225cff5",
       "pillar": "anime",
       "title": "Hana-Kimi Anime Season 2's Promo Video Unveils Theme Songs, July 1 Debut",
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
       "thumbnail": "/drops/thumbs/86f94b55b8e2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3b71e0890370",
+      "pillar": "anime",
+      "title": "Crunchyroll Anime Awards 2026 winners",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
+      "thumbnail": "/drops/thumbs/3b71e0890370.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "259896b28b4d",
+    "04e4caa51073",
     "315c8ac926db",
     "a32ac9e5864a",
     "a3a8855af003",

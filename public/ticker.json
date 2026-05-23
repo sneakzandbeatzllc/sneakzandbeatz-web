@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T15:00:35+00:00",
+  "generated_utc": "2026-05-23T15:58:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "New York Giants Jaxson Dart’s Trump Rally Appearance Splits Giants Locker Room",
+      "url": "https://allhiphop.com/news/new-york-giants-jaxson-darts-trump-rally-appearance-splits-giants-locker-room/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Floyd Mayweather Claims $515 Million In Total Fraud, Says His Jet Vanished Without A Trace",
       "url": "https://allhiphop.com/news/floyd-mayweather-claims-515-million-in-total-fraud-says-his-jet-vanished-without-a-trace/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Ludacris Reunites With Dave Meyers for Wild “Pull Over” Music Video",
-      "url": "https://thesource.com/2026/05/23/ludacris-pull-over-video/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Only One Dragon Ball Anime Truly Lived Up To Akira Toriyama's Vision, So Why Was It So Controversial?",
       "url": "https://screenrant.com/dragon-ball-daima-akira-toriyama-vision-controversy/",
       "pillar": "anime",
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Naruto's Next Anime Is Threatening To Kill The Original Series' Most Controversial Character",
-      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-kill-sasuke/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Hana-Kimi Anime Season 2's Promo Video Unveils Theme Songs, July 1 Debut",
       "url": "https://www.animenewsnetwork.com/news/2026-05-23/hana-kimi-anime-season-2-promo-video-unveils-theme-songs-july-1-debut/.237732",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Takopi's Original Sin Anime Gets Compilation Film",
       "url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Crunchyroll Anime Awards 2026 winners",
+      "url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
