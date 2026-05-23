@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T14:26:45+00:00",
+  "generated_utc": "2026-05-23T15:00:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Naruto Is Sabotaging Its Next Anime With One Disastrous Choice",
+      "url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-worst-arc/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Boruto Just Released Its Best Chapter Ever, But It Exposes A Major Series Flaw",
       "url": "https://screenrant.com/boruto-two-blue-vortex-best-chapter-naruto-problem/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "Takopi's Original Sin Anime Gets Compilation Film",
       "url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Crunchyroll Anime Awards 2026 winners",
-      "url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
