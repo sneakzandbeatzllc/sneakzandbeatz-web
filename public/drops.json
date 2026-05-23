@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T12:57:41+00:00",
+  "generated_utc": "2026-05-23T13:20:17+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -39,12 +39,12 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "f931c0c69400",
+      "id": "523c8ea02612",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
+      "title": "Air Jordan 1 High OG WMNS “Khaki” (FD2596-201) May Release Date & Info",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
-      "thumbnail": "/drops/thumbs/f931c0c69400.jpg",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-khaki-fd2596-201-drop/",
+      "thumbnail": "/drops/thumbs/523c8ea02612.jpg",
       "published": "2026-05-20T15:44:38",
       "relative_time": "today",
       "score": 3.0,
@@ -96,6 +96,18 @@
       "published": "2026-05-22T13:15:42",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "80a30ac15a1e",
+      "pillar": "hiphop",
+      "title": "Portland man records a woman in the park. Then she pulls an Uno Reverse: ‘Girl that last part took me out’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/portland-man-records-woman-in-park/",
+      "thumbnail": "/drops/thumbs/80a30ac15a1e.jpg",
+      "published": "2026-05-23T09:00:00",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "c6db761e5b69",
-      "pillar": "hiphop",
-      "title": "California woman becomes friends with man for $3,000 concert tickets to her favorite artist. Then he keeps hitting her up to hang out: ‘He was waiting for you in the car’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/ariana-grande-3000-dollar-tickets-bait-and-switch/",
-      "thumbnail": "/drops/thumbs/c6db761e5b69.jpg",
-      "published": "2026-05-23T06:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a486c40d0b44",
       "pillar": "anime",
       "title": "After 8 Years, Toei Is Finally Telling The Dragon Ball Story Everyone Wants",
@@ -207,24 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "9212403b89b8",
-      "pillar": "anime",
-      "title": "Jujutsu Kaisen's Anime Still Hasn't Shown The Main Villain's Final Form, And It's A Masterpiece",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-247-sukuna-cursed-technique-severed-hand/",
-      "thumbnail": "/drops/thumbs/9212403b89b8.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2e4abf109374",
       "pillar": "anime",
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "thumbnail": "/drops/thumbs/2e4abf109374.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "43c0776ea305",
+      "pillar": "anime",
+      "title": "Boruto Just Released Its Best Chapter Ever, But It Exposes A Major Series Flaw",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/boruto-two-blue-vortex-best-chapter-naruto-problem/",
+      "thumbnail": "/drops/thumbs/43c0776ea305.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "4ea7c49ceefc",
+    "80a30ac15a1e",
     "315c8ac926db",
     "a486c40d0b44",
     "a3a8855af003",

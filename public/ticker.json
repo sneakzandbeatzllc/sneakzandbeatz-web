@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T12:57:41+00:00",
+  "generated_utc": "2026-05-23T13:20:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -25,8 +25,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High OG WMNS “Workwear” (FD2596-201) May Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-workwear-fd2596-201-drop/",
+      "title": "Air Jordan 1 High OG WMNS “Khaki” (FD2596-201) May Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-khaki-fd2596-201-drop/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -57,6 +57,13 @@
       "url": "https://justfreshkicks.com/air-jordan-4-tour-yellow-io2463-102/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Portland man records a woman in the park. Then she pulls an Uno Reverse: ‘Girl that last part took me out’",
+      "url": "https://allhiphop.com/newsbreak/portland-man-records-woman-in-park/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "California woman becomes friends with man for $3,000 concert tickets to her favorite artist. Then he keeps hitting her up to hang out: ‘He was waiting for you in the car’",
-      "url": "https://allhiphop.com/newsbreak/ariana-grande-3000-dollar-tickets-bait-and-switch/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "After 8 Years, Toei Is Finally Telling The Dragon Ball Story Everyone Wants",
       "url": "https://screenrant.com/dragon-ball-galactic-patrol-story-fans-want/",
       "pillar": "anime",
@@ -123,15 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen's Anime Still Hasn't Shown The Main Villain's Final Form, And It's A Masterpiece",
-      "url": "https://screenrant.com/jujutsu-kaisen-247-sukuna-cursed-technique-severed-hand/",
+      "title": "Bleach turned one giant sword into a heartbreaking story about identity",
+      "url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Bleach turned one giant sword into a heartbreaking story about identity",
-      "url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
+      "title": "Boruto Just Released Its Best Chapter Ever, But It Exposes A Major Series Flaw",
+      "url": "https://screenrant.com/boruto-two-blue-vortex-best-chapter-naruto-problem/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
