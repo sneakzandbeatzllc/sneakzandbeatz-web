@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T21:09:44+00:00",
+  "generated_utc": "2026-05-23T22:07:31+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4b1f8ced3b6e",
+      "pillar": "hiphop",
+      "title": "Bizzy Bone Developing Documentary About His Kidnapping & Rise To Stardom",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/bizzy-bone-developing-documentary-about-his-kidnapping-rise-to-stardom/",
+      "thumbnail": "/drops/thumbs/4b1f8ced3b6e.jpg",
+      "published": "2026-05-23T18:00:10",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "687abdffddb9",
       "pillar": "hiphop",
       "title": "Wiz Khalifa & His Mom Sign Deal & Promote Family Cooking In The Kitchen",
@@ -183,36 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "4ea7c49ceefc",
-      "pillar": "hiphop",
-      "title": "Alicia Andrews Learned Her Fate In Foolio Killing Case",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/alicia-andrews-learned-her-fate-as-foolio-killing-case-moved-toward-closure/",
-      "thumbnail": "/drops/thumbs/4ea7c49ceefc.jpg",
-      "published": "2026-05-23T08:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "aad24076cc07",
-      "pillar": "anime",
-      "title": "Crunchyroll’s New ‘Jujutsu Kaisen Meets Bleach’ Anime Could Change Shonen History",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-torch-jujutsu-kaisen-meets-bleach-crunchyroll/",
-      "thumbnail": "/drops/thumbs/aad24076cc07.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2e4abf109374",
       "pillar": "anime",
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "thumbnail": "/drops/thumbs/2e4abf109374.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "60cc74d39107",
+      "pillar": "anime",
+      "title": "10 One Piece Characters With Strongest Haki",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-characters-strongest-haki/",
+      "thumbnail": "/drops/thumbs/60cc74d39107.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "de83726fb0ff",
+      "id": "80a688afb174",
       "pillar": "anime",
-      "title": "2026 Is Going To Be The Isekai Renaissance Fans Aren't Ready For",
+      "title": "15 Strongest Anime Characters Of All Time",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/2026-isekai-renaissance-manga-adaptations/",
-      "thumbnail": "/drops/thumbs/de83726fb0ff.jpg",
+      "source_url": "https://screenrant.com/strongest-anime-characters-ranked/",
+      "thumbnail": "/drops/thumbs/80a688afb174.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "e0d394b5cd22",
+      "id": "de83726fb0ff",
       "pillar": "anime",
-      "title": "Webtoon's Omniscient Reader's Viewpoint Has Never Been Easier To Binge",
+      "title": "2026 Is Going To Be The Isekai Renaissance Fans Aren't Ready For",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/omniscient-readers-viewpoint-webtoon-action-fantasy/",
-      "thumbnail": "/drops/thumbs/e0d394b5cd22.jpg",
+      "source_url": "https://screenrant.com/2026-isekai-renaissance-manga-adaptations/",
+      "thumbnail": "/drops/thumbs/de83726fb0ff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "04acd921fee9",
+      "id": "efe4956feb98",
       "pillar": "gaming",
-      "title": "News Gran Turismo 7 Is the Gift That Keeps on Giving, 5 Cars Added in Free PS5 Update",
+      "title": "News Friday the 13th's Game May Be Gone, But Jason Voorhees Is Back in Dead by Daylight",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/gran-turismo-7-is-the-gift-that-keeps-on-giving-5-cars-added-in-free-ps5-update",
-      "thumbnail": "/drops/thumbs/04acd921fee9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/friday-the-13ths-game-may-be-gone-but-jason-voorhees-is-back-in-dead-by-daylight",
+      "thumbnail": "/drops/thumbs/efe4956feb98.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "687abdffddb9",
+    "4b1f8ced3b6e",
     "315c8ac926db",
-    "aad24076cc07",
+    "2e4abf109374",
     "a3a8855af003",
     "76b366a9c9d8"
   ]
