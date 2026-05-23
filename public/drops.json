@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T17:00:09+00:00",
+  "generated_utc": "2026-05-23T17:03:32+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "da031bfbe8d2",
+      "pillar": "hiphop",
+      "title": "50 Cent Bringing Super Bowl Experience To UFL United Bowl Halftime Show",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/50-cent-bringing-super-bowl-experience-to-ufl-united-bowl-halftime-show/",
+      "thumbnail": "/drops/thumbs/da031bfbe8d2.jpg",
+      "published": "2026-05-23T13:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9ee7fe1f51ca",
       "pillar": "hiphop",
       "title": "Harvard psychologist splits housekeepers into 2 groups. Then she tells one something shocking: ‘I will never underestimate the power of the human mind again’",
@@ -183,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "b63d0b5d06c9",
-      "pillar": "hiphop",
-      "title": "McDonald’s, Devin Booker and Nike Unveil Limited-Edition Nike Book 2 Collaboration",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/23/devin-booker-mcdonalds-nike-book-2/",
-      "thumbnail": "/drops/thumbs/b63d0b5d06c9.jpg",
-      "published": "2026-05-23T06:34:19",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a32ac9e5864a",
       "pillar": "anime",
       "title": "Only One Dragon Ball Anime Truly Lived Up To Akira Toriyama's Vision, So Why Was It So Controversial?",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-daima-akira-toriyama-vision-controversy/",
       "thumbnail": "/drops/thumbs/a32ac9e5864a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "aad24076cc07",
+      "pillar": "anime",
+      "title": "Crunchyroll’s New ‘Jujutsu Kaisen Meets Bleach’ Anime Could Change Shonen History",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-torch-jujutsu-kaisen-meets-bleach-crunchyroll/",
+      "thumbnail": "/drops/thumbs/aad24076cc07.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
       "thumbnail": "/drops/thumbs/3b71e0890370.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "86f94b55b8e2",
-      "pillar": "anime",
-      "title": "Takopi's Original Sin Anime Gets Compilation Film",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
-      "thumbnail": "/drops/thumbs/86f94b55b8e2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "9ee7fe1f51ca",
+    "da031bfbe8d2",
     "315c8ac926db",
     "a32ac9e5864a",
     "a3a8855af003",
