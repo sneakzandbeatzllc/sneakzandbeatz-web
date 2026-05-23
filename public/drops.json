@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T16:02:06+00:00",
+  "generated_utc": "2026-05-23T16:23:19+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "6c532ba94b46",
+      "id": "bb3d20de380a",
       "pillar": "anime",
-      "title": "My Hero Academia Final Season Wins Anime of the Year",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/my-hero-academia-final-season-anime-year-2026-crunchyroll/",
-      "thumbnail": "/drops/thumbs/6c532ba94b46.jpg",
+      "title": "Japanese Animation TV Ranking, May 4-10",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-23/japanese-animation-tv-ranking-may-4-10/.237601",
+      "thumbnail": "/drops/thumbs/bb3d20de380a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "86f94b55b8e2",
-      "pillar": "anime",
-      "title": "Takopi's Original Sin Anime Gets Compilation Film",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
-      "thumbnail": "/drops/thumbs/86f94b55b8e2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3b71e0890370",
       "pillar": "anime",
       "title": "Crunchyroll Anime Awards 2026 winners",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
       "thumbnail": "/drops/thumbs/3b71e0890370.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86f94b55b8e2",
+      "pillar": "anime",
+      "title": "Takopi's Original Sin Anime Gets Compilation Film",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
+      "thumbnail": "/drops/thumbs/86f94b55b8e2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "9af7194fe9e1",
-      "pillar": "gaming",
-      "title": "News Bungie Is Not Making Destiny 3, Dev to Be Rocked by 'Significant' Layoffs",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/bungie-is-not-making-destiny-3-dev-to-be-rocked-by-significant-layoffs",
-      "thumbnail": "/drops/thumbs/9af7194fe9e1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3a9eb0a39847",
       "pillar": "gaming",
       "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
@@ -369,6 +357,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562767/article/bungie-ends-active-development-on-destiny-2-in-2-weeks/",
       "thumbnail": "/drops/thumbs/56596b8b59b7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "bf42b2d5ec7e",
+      "pillar": "gaming",
+      "title": "News First Major Update for PS5's NTE Will Let You Mute Its Worst Character",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/first-major-update-for-ps5s-nte-will-let-you-mute-its-worst-character",
+      "thumbnail": "/drops/thumbs/bf42b2d5ec7e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
