@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T04:52:55+00:00",
+  "generated_utc": "2026-05-23T05:15:19+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "e54212e60bb1",
-      "pillar": "gaming",
-      "title": "News Only GTA 6 Stands a Chance of Outdoing GTA 5's Unbelievable 230 Million Units Sold",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/only-gta-6-stands-a-chance-of-outdoing-gta-5s-unbelievable-230-million-units-sold",
-      "thumbnail": "/drops/thumbs/e54212e60bb1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "76b366a9c9d8",
       "pillar": "gaming",
       "title": "Take-Two CEO Strauss Zelnick Doesn’t Know Where The GTA 6 Best Buy Rumor Came From",
@@ -339,12 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "4ca92f9d81ed",
+      "id": "9af7194fe9e1",
       "pillar": "gaming",
-      "title": "News Final Fantasy 7 Rebirth Dev Regrets Brutal PS5 Platinum Trophy",
+      "title": "News Bungie Is Not Making Destiny 3, Dev to Be Rocked by 'Significant' Layoffs",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/final-fantasy-7-rebirth-dev-regrets-brutal-ps5-platinum-trophy",
-      "thumbnail": "/drops/thumbs/4ca92f9d81ed.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/bungie-is-not-making-destiny-3-dev-to-be-rocked-by-significant-layoffs",
+      "thumbnail": "/drops/thumbs/9af7194fe9e1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ec04c213a11a",
+      "pillar": "gaming",
+      "title": "Reaction I'm Sad It's Over, But Destiny's End Was Overdue",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/reaction-im-sad-its-over-but-destinys-end-was-overdue",
+      "thumbnail": "/drops/thumbs/ec04c213a11a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "315c8ac926db",
     "a725e836e0e3",
     "a3a8855af003",
-    "e54212e60bb1"
+    "76b366a9c9d8"
   ]
 }
