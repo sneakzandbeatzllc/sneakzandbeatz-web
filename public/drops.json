@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T19:06:37+00:00",
+  "generated_utc": "2026-05-23T20:05:20+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "687abdffddb9",
+      "pillar": "hiphop",
+      "title": "Wiz Khalifa & His Mom Sign Deal & Promote Family Cooking In The Kitchen",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/wiz-khalifa-his-mom-sign-deal-promote-family-cooking-in-the-kitchen/",
+      "thumbnail": "/drops/thumbs/687abdffddb9.jpg",
+      "published": "2026-05-23T16:00:49",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a54278452387",
       "pillar": "hiphop",
       "title": "Cardi B Claims Tasha K & Husband Had A Plan To Keep Assets Hidden",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "74e54fc18ca3",
-      "pillar": "hiphop",
-      "title": "Lionsgate Teases Expansive ‘Michael’ Sequel Featuring More of Michael Jackson’s Biggest Hits",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/23/michael-sequel-lionsgate-update/",
-      "thumbnail": "/drops/thumbs/74e54fc18ca3.jpg",
-      "published": "2026-05-23T06:41:36",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "aad24076cc07",
       "pillar": "anime",
       "title": "Crunchyroll’s New ‘Jujutsu Kaisen Meets Bleach’ Anime Could Change Shonen History",
@@ -213,18 +213,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "thumbnail": "/drops/thumbs/2e4abf109374.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d66fa72bbbf8",
-      "pillar": "anime",
-      "title": "Naruto Is Sabotaging Its Next Anime With One Disastrous Choice",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-worst-arc/",
-      "thumbnail": "/drops/thumbs/d66fa72bbbf8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,6 +249,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
       "thumbnail": "/drops/thumbs/3b71e0890370.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e0d394b5cd22",
+      "pillar": "anime",
+      "title": "Webtoon's Omniscient Reader's Viewpoint Has Never Been Easier To Binge",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/omniscient-readers-viewpoint-webtoon-action-fantasy/",
+      "thumbnail": "/drops/thumbs/e0d394b5cd22.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "a54278452387",
+    "687abdffddb9",
     "315c8ac926db",
     "aad24076cc07",
     "a3a8855af003",

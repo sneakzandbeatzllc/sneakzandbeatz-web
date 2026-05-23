@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T19:06:37+00:00",
+  "generated_utc": "2026-05-23T20:05:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Wiz Khalifa & His Mom Sign Deal & Promote Family Cooking In The Kitchen",
+      "url": "https://allhiphop.com/news/wiz-khalifa-his-mom-sign-deal-promote-family-cooking-in-the-kitchen/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Cardi B Claims Tasha K & Husband Had A Plan To Keep Assets Hidden",
       "url": "https://allhiphop.com/news/cardi-b-claims-tasha-k-husband-had-a-plan-to-keep-assets-hidden/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Lionsgate Teases Expansive ‘Michael’ Sequel Featuring More of Michael Jackson’s Biggest Hits",
-      "url": "https://thesource.com/2026/05/23/michael-sequel-lionsgate-update/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Crunchyroll’s New ‘Jujutsu Kaisen Meets Bleach’ Anime Could Change Shonen History",
       "url": "https://screenrant.com/black-torch-jujutsu-kaisen-meets-bleach-crunchyroll/",
       "pillar": "anime",
@@ -125,13 +125,6 @@
     {
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
       "url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naruto Is Sabotaging Its Next Anime With One Disastrous Choice",
-      "url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-worst-arc/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -153,6 +146,13 @@
     {
       "title": "Crunchyroll Anime Awards 2026 winners",
       "url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Webtoon's Omniscient Reader's Viewpoint Has Never Been Easier To Binge",
+      "url": "https://screenrant.com/omniscient-readers-viewpoint-webtoon-action-fantasy/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
