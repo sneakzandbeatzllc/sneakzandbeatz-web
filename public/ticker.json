@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T01:49:15+00:00",
+  "generated_utc": "2026-05-23T02:47:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,7 +67,7 @@
       "article_slug": null
     },
     {
-      "title": "New Jersey Man Charged After Reportedly Racially Charged Confrontation Caught on TikTok",
+      "title": "New Jersey Man Arrested After Reportedly Racially Charged Confrontation Posted on TikTok",
       "url": "https://thesource.com/2026/05/22/new-jersey-man-charged-after-reportedly-racially-charged-confrontation-caught-on-tiktok/",
       "pillar": "hiphop",
       "score": 1.0,
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "After 8 Years, Toei Is Finally Telling The Dragon Ball Story Everyone Wants",
+      "url": "https://screenrant.com/dragon-ball-galactic-patrol-story-fans-want/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jujutsu Kaisen's Anime Still Hasn't Shown The Main Villain's Final Form, And It's A Masterpiece",
       "url": "https://screenrant.com/jujutsu-kaisen-247-sukuna-cursed-technique-severed-hand/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "Kagurabachi treats swords like nuclear weapons",
       "url": "https://www.polygon.com/kagurabachi-anime-swords/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "NUMBER 8, Ten Ishida's Salaryman Z Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-22/number-8-ten-ishida-salaryman-z-manga-ends/.237688",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

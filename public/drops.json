@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T01:49:15+00:00",
+  "generated_utc": "2026-05-23T02:47:13+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -113,7 +113,7 @@
     {
       "id": "533caa0f71b1",
       "pillar": "hiphop",
-      "title": "New Jersey Man Charged After Reportedly Racially Charged Confrontation Caught on TikTok",
+      "title": "New Jersey Man Arrested After Reportedly Racially Charged Confrontation Posted on TikTok",
       "source": "The Source",
       "source_url": "https://thesource.com/2026/05/22/new-jersey-man-charged-after-reportedly-racially-charged-confrontation-caught-on-tiktok/",
       "thumbnail": "/drops/thumbs/533caa0f71b1.jpg",
@@ -207,6 +207,18 @@
       "release_badge": ""
     },
     {
+      "id": "a486c40d0b44",
+      "pillar": "anime",
+      "title": "After 8 Years, Toei Is Finally Telling The Dragon Ball Story Everyone Wants",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-galactic-patrol-story-fans-want/",
+      "thumbnail": "/drops/thumbs/a486c40d0b44.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9212403b89b8",
       "pillar": "anime",
       "title": "Jujutsu Kaisen's Anime Still Hasn't Shown The Main Villain's Final Form, And It's A Masterpiece",
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/kagurabachi-anime-swords/",
       "thumbnail": "/drops/thumbs/8c3fa0c1b0d1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fb0f11125e9a",
-      "pillar": "anime",
-      "title": "NUMBER 8, Ten Ishida's Salaryman Z Manga Ends",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-22/number-8-ten-ishida-salaryman-z-manga-ends/.237688",
-      "thumbnail": "/drops/thumbs/fb0f11125e9a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
