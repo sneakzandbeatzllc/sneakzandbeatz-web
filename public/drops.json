@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T09:54:47+00:00",
+  "generated_utc": "2026-05-23T10:18:42+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "c6db761e5b69",
+      "pillar": "hiphop",
+      "title": "California woman becomes friends with man for $3,000 concert tickets to her favorite artist. Then he keeps hitting her up to hang out: ‘He was waiting for you in the car’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/ariana-grande-3000-dollar-tickets-bait-and-switch/",
+      "thumbnail": "/drops/thumbs/c6db761e5b69.jpg",
+      "published": "2026-05-23T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ed16729b311f",
       "pillar": "hiphop",
       "title": "50 Cent Roasts Floyd Mayweather Over 5th Child",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/22/new-jersey-man-charged-after-reportedly-racially-charged-confrontation-caught-on-tiktok/",
       "thumbnail": "/drops/thumbs/533caa0f71b1.jpg",
       "published": "2026-05-22T18:35:58",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1870f41b4689",
-      "pillar": "hiphop",
-      "title": "Cam Newton’s Reaction to ‘Janice STFU’ And Athletes Push the ICEMAN Hit to Viral Status",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/22/cam-newtons-reaction-to-janice-stfu-and-athletes-push-the-iceman-hit-to-viral-status/",
-      "thumbnail": "/drops/thumbs/1870f41b4689.jpg",
-      "published": "2026-05-22T18:26:56",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "ed16729b311f",
+    "c6db761e5b69",
     "315c8ac926db",
     "a725e836e0e3",
     "a3a8855af003",
