@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T18:01:55+00:00",
+  "generated_utc": "2026-05-23T18:03:21+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "a54278452387",
+      "pillar": "hiphop",
+      "title": "Cardi B Claims Tasha K & Husband Had A Plan To Keep Assets Hidden",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/cardi-b-claims-tasha-k-husband-had-a-plan-to-keep-assets-hidden/",
+      "thumbnail": "/drops/thumbs/a54278452387.jpg",
+      "published": "2026-05-23T14:00:59",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "da031bfbe8d2",
       "pillar": "hiphop",
       "title": "50 Cent Bringing Super Bowl Experience To UFL United Bowl Halftime Show",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "4f5797c5c2b7",
-      "pillar": "hiphop",
-      "title": "Remy Ma Expands Acting Career With Lifetime Thriller ‘Don’t Trust the Girls Upstairs’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/23/remy-ma-dont-trust-the-girls-upstairs/",
-      "thumbnail": "/drops/thumbs/4f5797c5c2b7.jpg",
-      "published": "2026-05-23T06:34:25",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a32ac9e5864a",
       "pillar": "anime",
       "title": "Only One Dragon Ball Anime Truly Lived Up To Akira Toriyama's Vision, So Why Was It So Controversial?",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "43c0776ea305",
-      "pillar": "anime",
-      "title": "Boruto Just Released Its Best Chapter Ever, But It Exposes A Major Series Flaw",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/boruto-two-blue-vortex-best-chapter-naruto-problem/",
-      "thumbnail": "/drops/thumbs/43c0776ea305.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bb3d20de380a",
       "pillar": "anime",
       "title": "Japanese Animation TV Ranking, May 4-10",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
       "thumbnail": "/drops/thumbs/3b71e0890370.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86f94b55b8e2",
+      "pillar": "anime",
+      "title": "Takopi's Original Sin Anime Gets Compilation Film",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
+      "thumbnail": "/drops/thumbs/86f94b55b8e2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "da031bfbe8d2",
+    "a54278452387",
     "315c8ac926db",
     "a32ac9e5864a",
     "a3a8855af003",
