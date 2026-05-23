@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T18:26:41+00:00",
+  "generated_utc": "2026-05-23T19:03:39+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "a32ac9e5864a",
-      "pillar": "anime",
-      "title": "Only One Dragon Ball Anime Truly Lived Up To Akira Toriyama's Vision, So Why Was It So Controversial?",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-daima-akira-toriyama-vision-controversy/",
-      "thumbnail": "/drops/thumbs/a32ac9e5864a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "aad24076cc07",
       "pillar": "anime",
       "title": "Crunchyroll’s New ‘Jujutsu Kaisen Meets Bleach’ Anime Could Change Shonen History",
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
       "thumbnail": "/drops/thumbs/86f94b55b8e2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cd6be544ae4c",
+      "pillar": "anime",
+      "title": "Pokémon Finally Solves Two Red & Blue Mysteries That Have Haunted Players For 30 Years",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/pokemon-how-doduo-fly-rhydon-surf-answered/",
+      "thumbnail": "/drops/thumbs/cd6be544ae4c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "3111a2d5962f",
     "a54278452387",
     "315c8ac926db",
-    "a32ac9e5864a",
+    "aad24076cc07",
     "a3a8855af003",
     "76b366a9c9d8"
   ]

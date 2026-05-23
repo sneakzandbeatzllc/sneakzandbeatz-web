@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T18:26:41+00:00",
+  "generated_utc": "2026-05-23T19:03:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Only One Dragon Ball Anime Truly Lived Up To Akira Toriyama's Vision, So Why Was It So Controversial?",
-      "url": "https://screenrant.com/dragon-ball-daima-akira-toriyama-vision-controversy/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Crunchyroll’s New ‘Jujutsu Kaisen Meets Bleach’ Anime Could Change Shonen History",
       "url": "https://screenrant.com/black-torch-jujutsu-kaisen-meets-bleach-crunchyroll/",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Takopi's Original Sin Anime Gets Compilation Film",
       "url": "https://www.animenewsnetwork.com/news/2026-05-23/takopi-original-sin-anime-gets-compilation-film/.237731",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Pokémon Finally Solves Two Red & Blue Mysteries That Have Haunted Players For 30 Years",
+      "url": "https://screenrant.com/pokemon-how-doduo-fly-rhydon-surf-answered/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
