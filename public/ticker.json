@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T17:24:51+00:00",
+  "generated_utc": "2026-05-23T18:01:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,6 +32,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 1 Low OG “Phantom/Pine Green” Releases June 6th",
+      "url": "https://sneakerbardetroit.com/air-jordan-1-low-og-phantom-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 1 High OG WMNS “Khaki” Is Now Available",
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-khaki-fd2596-201-drop/",
       "pillar": "sneakers",
@@ -48,13 +55,6 @@
     {
       "title": "The Air Jordan 3 Flip Returns in 2027 With a Super Bowl Special Release",
       "url": "https://justfreshkicks.com/air-jordan-3-flip-sb-varsity-red-ja7983-636/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 4 “Tour Yellow” Returns in September After Twenty Years",
-      "url": "https://justfreshkicks.com/air-jordan-4-tour-yellow-io2463-102/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News First Major Update for PS5's NTE Will Let You Mute Its Worst Character",
-      "url": "https://www.pushsquare.com/news/2026/05/first-major-update-for-ps5s-nte-will-let-you-mute-its-worst-character",
+      "title": "News Gran Turismo 7 Is the Gift That Keeps on Giving, 5 Cars Added in Free PS5 Update",
+      "url": "https://www.pushsquare.com/news/2026/05/gran-turismo-7-is-the-gift-that-keeps-on-giving-5-cars-added-in-free-ps5-update",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

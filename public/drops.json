@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T17:24:51+00:00",
+  "generated_utc": "2026-05-23T18:01:55+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -51,6 +51,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "c30db6075cc7",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Phantom/Pine Green” Releases June 6th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-og-phantom-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/c30db6075cc7.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "523c8ea02612",
       "pillar": "sneakers",
       "title": "Air Jordan 1 High OG WMNS “Khaki” Is Now Available",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-3-flip-sb-varsity-red-ja7983-636/",
       "thumbnail": "/drops/thumbs/b7d666c9a66f.jpg",
       "published": "2026-05-22T15:00:00",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ec5229f8feb6",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 4 “Tour Yellow” Returns in September After Twenty Years",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-tour-yellow-io2463-102/",
-      "thumbnail": "/drops/thumbs/ec5229f8feb6.jpg",
-      "published": "2026-05-22T13:15:42",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "bf42b2d5ec7e",
+      "id": "04acd921fee9",
       "pillar": "gaming",
-      "title": "News First Major Update for PS5's NTE Will Let You Mute Its Worst Character",
+      "title": "News Gran Turismo 7 Is the Gift That Keeps on Giving, 5 Cars Added in Free PS5 Update",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/first-major-update-for-ps5s-nte-will-let-you-mute-its-worst-character",
-      "thumbnail": "/drops/thumbs/bf42b2d5ec7e.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/gran-turismo-7-is-the-gift-that-keeps-on-giving-5-cars-added-in-free-ps5-update",
+      "thumbnail": "/drops/thumbs/04acd921fee9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
