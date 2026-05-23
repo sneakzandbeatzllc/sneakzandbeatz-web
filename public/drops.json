@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T13:20:17+00:00",
+  "generated_utc": "2026-05-23T13:23:34+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -27,6 +27,18 @@
       "release_badge": "🔥 Banger"
     },
     {
+      "id": "523c8ea02612",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG WMNS “Khaki” (FD2596-201) May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-khaki-fd2596-201-drop/",
+      "thumbnail": "/drops/thumbs/523c8ea02612.jpg",
+      "published": "2026-05-22T15:44:38",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
       "id": "a3a8855af003",
       "pillar": "sneakers",
       "title": "Travis Scott x Air Jordan 1 Low “Shy Pink” Releases in May 2026",
@@ -34,18 +46,6 @@
       "source_url": "https://justfreshkicks.com/travis-scott-air-jordan-1-low-sail-iq7604-101/",
       "thumbnail": "/drops/thumbs/a3a8855af003.png",
       "published": "2026-05-22T01:58:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "523c8ea02612",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG WMNS “Khaki” (FD2596-201) May Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-khaki-fd2596-201-drop/",
-      "thumbnail": "/drops/thumbs/523c8ea02612.jpg",
-      "published": "2026-05-20T15:44:38",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -392,7 +392,7 @@
     "80a30ac15a1e",
     "315c8ac926db",
     "a486c40d0b44",
-    "a3a8855af003",
+    "523c8ea02612",
     "76b366a9c9d8"
   ]
 }
