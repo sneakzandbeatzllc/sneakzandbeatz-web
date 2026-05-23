@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T15:59:43+00:00",
+  "generated_utc": "2026-05-23T16:02:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Harvard psychologist splits housekeepers into 2 groups. Then she tells one something shocking: ‘I will never underestimate the power of the human mind again’",
+      "url": "https://allhiphop.com/newsbreak/harvard-exercise-placebo-effect-housekeeper-study/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "New York Giants Jaxson Dart’s Trump Rally Appearance Splits Giants Locker Room",
       "url": "https://allhiphop.com/news/new-york-giants-jaxson-darts-trump-rally-appearance-splits-giants-locker-room/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "McDonald’s, Devin Booker and Nike Unveil Limited-Edition Nike Book 2 Collaboration",
       "url": "https://thesource.com/2026/05/23/devin-booker-mcdonalds-nike-book-2/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Netflix to Stream The Breakfast Club Live Daily Beginning June 1",
-      "url": "https://thesource.com/2026/05/23/breakfast-club-live-netflix/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null

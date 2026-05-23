@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T15:59:43+00:00",
+  "generated_utc": "2026-05-23T16:02:06+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "9ee7fe1f51ca",
+      "pillar": "hiphop",
+      "title": "Harvard psychologist splits housekeepers into 2 groups. Then she tells one something shocking: ‘I will never underestimate the power of the human mind again’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/harvard-exercise-placebo-effect-housekeeper-study/",
+      "thumbnail": "/drops/thumbs/9ee7fe1f51ca.jpg",
+      "published": "2026-05-23T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "04e4caa51073",
       "pillar": "hiphop",
       "title": "New York Giants Jaxson Dart’s Trump Rally Appearance Splits Giants Locker Room",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/23/devin-booker-mcdonalds-nike-book-2/",
       "thumbnail": "/drops/thumbs/b63d0b5d06c9.jpg",
       "published": "2026-05-23T06:34:19",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6b1a0f08041f",
-      "pillar": "hiphop",
-      "title": "Netflix to Stream The Breakfast Club Live Daily Beginning June 1",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/23/breakfast-club-live-netflix/",
-      "thumbnail": "/drops/thumbs/6b1a0f08041f.jpg",
-      "published": "2026-05-23T06:32:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "04e4caa51073",
+    "9ee7fe1f51ca",
     "315c8ac926db",
     "a32ac9e5864a",
     "a3a8855af003",
