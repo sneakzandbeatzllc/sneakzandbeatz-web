@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T20:55:33+00:00",
+  "generated_utc": "2026-05-24T21:52:22+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -195,12 +195,36 @@
       "release_badge": ""
     },
     {
+      "id": "ba55ccfa74f2",
+      "pillar": "anime",
+      "title": "One Dragon Ball Fight Proves Akira Toriyama's Genius, And It's Not The One Fans Think",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-goku-vs-vegeta-proves-akira-toriyama-genius/",
+      "thumbnail": "/drops/thumbs/ba55ccfa74f2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "73167b66358c",
       "pillar": "anime",
       "title": "3 Years After His Death, Jujutsu Kaisen's Best Villain Ranks Among Shonen Jump's Greatest Of All Time",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/jujutsu-kaisen-best-villain-mahito-shonen-jump-greats/",
       "thumbnail": "/drops/thumbs/73167b66358c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2095b79c829b",
+      "pillar": "anime",
+      "title": "Chainsaw Man's Final Release Unveils Ultimate Glimpse Of Denji's Final Form",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/chainsaw-man-denji-manga-final-form-reveal/",
+      "thumbnail": "/drops/thumbs/2095b79c829b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,18 +249,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-season-3-netflix-early-review-eiichiro-oda/",
       "thumbnail": "/drops/thumbs/7713263f8a3c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "beed8efaa7dd",
-      "pillar": "anime",
-      "title": "Boruto's Best Sakura Moment In Years Is Ruined By One Simple Fact",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/boruto-naruto-best-sakura-moment-ruined-catchpharse/",
-      "thumbnail": "/drops/thumbs/beed8efaa7dd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-24/grand-blue-dreaming-anime-season-3-announces-opening-song-artists/.237759",
       "thumbnail": "/drops/thumbs/f12cfced0695.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "41b8b1b888b5",
-      "pillar": "anime",
-      "title": "10 most anticipated anime of the summer",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/10-most-anticipated-anime-of-the-summer/",
-      "thumbnail": "/drops/thumbs/41b8b1b888b5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "3111a2d5962f",
     "f8b3948638d9",
     "315c8ac926db",
-    "73167b66358c",
+    "ba55ccfa74f2",
     "a3a8855af003",
     "76b366a9c9d8"
   ]

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T20:55:33+00:00",
+  "generated_utc": "2026-05-24T21:52:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,8 +116,22 @@
       "article_slug": null
     },
     {
+      "title": "One Dragon Ball Fight Proves Akira Toriyama's Genius, And It's Not The One Fans Think",
+      "url": "https://screenrant.com/dragon-ball-goku-vs-vegeta-proves-akira-toriyama-genius/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "3 Years After His Death, Jujutsu Kaisen's Best Villain Ranks Among Shonen Jump's Greatest Of All Time",
       "url": "https://screenrant.com/jujutsu-kaisen-best-villain-mahito-shonen-jump-greats/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Chainsaw Man's Final Release Unveils Ultimate Glimpse Of Denji's Final Form",
+      "url": "https://screenrant.com/chainsaw-man-denji-manga-final-form-reveal/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +146,6 @@
     {
       "title": "Netflix’s One Piece Season 3 Gets Early Rave Review From Original Creator",
       "url": "https://screenrant.com/one-piece-season-3-netflix-early-review-eiichiro-oda/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Boruto's Best Sakura Moment In Years Is Ruined By One Simple Fact",
-      "url": "https://screenrant.com/boruto-naruto-best-sakura-moment-ruined-catchpharse/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Grand Blue Dreaming Anime Season 3 Announces Opening Song Artists",
       "url": "https://www.animenewsnetwork.com/news/2026-05-24/grand-blue-dreaming-anime-season-3-announces-opening-song-artists/.237759",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "10 most anticipated anime of the summer",
-      "url": "https://www.polygon.com/10-most-anticipated-anime-of-the-summer/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
