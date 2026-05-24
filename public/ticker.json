@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-23T23:12:45+00:00",
+  "generated_utc": "2026-05-24T00:14:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "White House Shooting Erupts As Donald Trump Signs Deal With Iran",
+      "url": "https://allhiphop.com/news/white-house-shooting-erupts-as-donald-trump-signs-deal-with-iran/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Bizzy Bone Developing Documentary About His Kidnapping & Rise To Stardom",
       "url": "https://allhiphop.com/news/bizzy-bone-developing-documentary-about-his-kidnapping-rise-to-stardom/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Portland man records a woman in the park. Then she pulls an Uno Reverse: ‘Girl that last part took me out’",
-      "url": "https://allhiphop.com/newsbreak/portland-man-records-woman-in-park/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
       "url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "pillar": "anime",
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "2023's Best Anime Is Finally On Crunchyroll, And It's A Must-Watch",
-      "url": "https://screenrant.com/crunchyroll-best-anime-2023-oshi-no-ko/",
+      "title": "One Of Crunchyroll's Biggest Competitors Just Landed 2026's Best New Shonen Anime",
+      "url": "https://screenrant.com/crunchyroll-rival-prime-video-nippon-sangoku-best-shonen/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "15 Strongest Anime Characters Of All Time",
-      "url": "https://screenrant.com/strongest-anime-characters-ranked/",
+      "title": "2023's Best Anime Is Finally On Crunchyroll, And It's A Must-Watch",
+      "url": "https://screenrant.com/crunchyroll-best-anime-2023-oshi-no-ko/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
