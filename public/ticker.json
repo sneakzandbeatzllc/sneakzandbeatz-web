@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T22:53:33+00:00",
+  "generated_utc": "2026-05-24T23:54:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Netflix’s One Piece Season 3 Gets Early Rave Review From Original Creator",
-      "url": "https://screenrant.com/one-piece-season-3-netflix-early-review-eiichiro-oda/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Manga UP! Global Adds My Pampering Turned the Cool Goddess Into a Clumsy Spoiled Girl , Dragon Quest: The Mark of Erdrick Manga",
       "url": "https://www.animenewsnetwork.com/news/2026-05-24/manga-up-global-adds-my-pampering-turned-the-cool-goddess-into-a-clumsy-spoiled-girl-dragon-quest-/.237747",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Grand Blue Dreaming Anime Season 3 Announces Opening Song Artists",
       "url": "https://www.animenewsnetwork.com/news/2026-05-24/grand-blue-dreaming-anime-season-3-announces-opening-song-artists/.237759",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Netflix's Princess Knight anime wants to inspire courage in the face of adversity",
+      "url": "https://www.polygon.com/netflix-ribbon-hero-princess-knight-anime-adaptation-yuki-igarashi-interview/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
