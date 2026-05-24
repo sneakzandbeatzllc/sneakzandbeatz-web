@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T12:44:43+00:00",
+  "generated_utc": "2026-05-24T13:14:12+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "c47bebdf9e1f",
+      "pillar": "hiphop",
+      "title": "Steve Harvey Warns Against Diddy’s Path: “Sin Costs You More Than You Want to Pay”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/steve-harvey-warns-against-diddys-path-sin-costs-you-more-than-you-want-to-pay/",
+      "thumbnail": "/drops/thumbs/c47bebdf9e1f.jpg",
+      "published": "2026-05-24T09:01:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fb6d93a65869",
+      "pillar": "hiphop",
+      "title": "Texas student suspects her D1 athlete boyfriend is cheating. Then she notices something off about his tutor: ‘Insane behavior’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/texas-d1-athlete-boyfriend-cheating/",
+      "thumbnail": "/drops/thumbs/fb6d93a65869.jpg",
+      "published": "2026-05-24T09:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "816d60f9b74c",
       "pillar": "hiphop",
       "title": "Stevie J Says He Cut Off Friends Who Didn’t Support Diddy During Trial",
@@ -171,25 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "4b1f8ced3b6e",
-      "pillar": "hiphop",
-      "title": "Bizzy Bone Developing Documentary About His Kidnapping & Rise To Stardom",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/bizzy-bone-developing-documentary-about-his-kidnapping-rise-to-stardom/",
-      "thumbnail": "/drops/thumbs/4b1f8ced3b6e.jpg",
-      "published": "2026-05-23T18:00:10",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "687abdffddb9",
-      "pillar": "hiphop",
-      "title": "Wiz Khalifa & His Mom Sign Deal & Promote Family Cooking In The Kitchen",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/wiz-khalifa-his-mom-sign-deal-promote-family-cooking-in-the-kitchen/",
-      "thumbnail": "/drops/thumbs/687abdffddb9.jpg",
-      "published": "2026-05-23T16:00:49",
+      "id": "7713263f8a3c",
+      "pillar": "anime",
+      "title": "Netflix’s One Piece Season 3 Gets Early Rave Review From Original Creator",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-season-3-netflix-early-review-eiichiro-oda/",
+      "thumbnail": "/drops/thumbs/7713263f8a3c.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-24/detective-conan-star-detective-precure-anime-get-crossover-episodes-in-may-june/.237746",
       "thumbnail": "/drops/thumbs/77dbd76a2800.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1f08a45d5f0c",
-      "pillar": "anime",
-      "title": "10 Greatest Anime Where the Underdog Hero Becomes Overpowered",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-anime-underdog-overpowered/",
-      "thumbnail": "/drops/thumbs/1f08a45d5f0c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "816d60f9b74c",
+    "c47bebdf9e1f",
     "315c8ac926db",
-    "beed8efaa7dd",
+    "7713263f8a3c",
     "a3a8855af003",
     "76b366a9c9d8"
   ]
