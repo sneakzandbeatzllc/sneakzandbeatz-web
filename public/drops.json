@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T17:50:41+00:00",
+  "generated_utc": "2026-05-24T18:52:20+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "da6b1c8bfed1",
+      "pillar": "hiphop",
+      "title": "Rap Legend DMC & Idina Menzel Deliver Performances At $1 Million Fundraiser",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/rap-legend-dmc-idina-menzel-deliver-performances-at-1-million-fundraiser/",
+      "thumbnail": "/drops/thumbs/da6b1c8bfed1.jpg",
+      "published": "2026-05-24T14:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6e79e233f513",
       "pillar": "hiphop",
       "title": "Did Ray J Try To Fix His MMA Fight? Fans Think So",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/ray-j-gets-knocked-out-by-supa-hot-fire-in-celebrity-mma-fight/",
       "thumbnail": "/drops/thumbs/34f8607d77ba.jpg",
       "published": "2026-05-24T09:49:16",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "729f68000131",
-      "pillar": "hiphop",
-      "title": "Enhanced Games Could Change Sports Forever With $25 Million Gamble",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/enhanced-games-could-change-sports-forever-with-25-million-gamble/",
-      "thumbnail": "/drops/thumbs/729f68000131.png",
-      "published": "2026-05-24T09:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "6e79e233f513",
+    "da6b1c8bfed1",
     "315c8ac926db",
     "73167b66358c",
     "a3a8855af003",
