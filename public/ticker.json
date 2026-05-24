@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T01:15:56+00:00",
+  "generated_utc": "2026-05-24T02:11:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "T.I. Explains How He Rihanna Ended Up On “Live Your Life”",
+      "url": "https://allhiphop.com/news/t-i-explains-how-he-rihanna-ended-up-on-live-your-life/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "White House Shooting Erupts As Donald Trump Signs Deal With Iran",
       "url": "https://allhiphop.com/news/white-house-shooting-erupts-as-donald-trump-signs-deal-with-iran/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Floyd Mayweather Claims $515 Million In Total Fraud, Says His Jet Vanished Without A Trace",
-      "url": "https://allhiphop.com/news/floyd-mayweather-claims-515-million-in-total-fraud-says-his-jet-vanished-without-a-trace/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
       "url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "pillar": "anime",
@@ -123,15 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "10 One Piece Characters With Strongest Haki",
-      "url": "https://screenrant.com/one-piece-characters-strongest-haki/",
+      "title": "Japanese Animation TV Ranking, May 4-10",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-23/japanese-animation-tv-ranking-may-4-10/.237601",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Japanese Animation TV Ranking, May 4-10",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-23/japanese-animation-tv-ranking-may-4-10/.237601",
+      "title": "The Most Important Anime Of The 2000s Is Being Forgotten, But It Deserves So Much Better",
+      "url": "https://screenrant.com/haruhi-forgotten-deserves-better-most-important-2000s-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "10 'Anime Of The Year' Winners From The Last Decade & Who Should Have Won Instead",
-      "url": "https://screenrant.com/anime-year-winners-last-decade-ranked/",
+      "title": "New Thriller The Scarecrow Is The Perfect Follow-Up To A Bong Joon Ho Classic",
+      "url": "https://screenrant.com/the-scarecrow-followup-memories-of-murder-bong-joon-ho/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "One Of Crunchyroll's Biggest Competitors Just Landed 2026's Best New Shonen Anime",
-      "url": "https://screenrant.com/crunchyroll-rival-prime-video-nippon-sangoku-best-shonen/",
+      "title": "10 'Anime Of The Year' Winners From The Last Decade & Who Should Have Won Instead",
+      "url": "https://screenrant.com/anime-year-winners-last-decade-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

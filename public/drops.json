@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T01:15:56+00:00",
+  "generated_utc": "2026-05-24T02:11:47+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "3f0c6fa57f25",
+      "pillar": "hiphop",
+      "title": "T.I. Explains How He Rihanna Ended Up On “Live Your Life”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/t-i-explains-how-he-rihanna-ended-up-on-live-your-life/",
+      "thumbnail": "/drops/thumbs/3f0c6fa57f25.png",
+      "published": "2026-05-23T22:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0494d5ca0335",
       "pillar": "hiphop",
       "title": "White House Shooting Erupts As Donald Trump Signs Deal With Iran",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "259896b28b4d",
-      "pillar": "hiphop",
-      "title": "Floyd Mayweather Claims $515 Million In Total Fraud, Says His Jet Vanished Without A Trace",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/floyd-mayweather-claims-515-million-in-total-fraud-says-his-jet-vanished-without-a-trace/",
-      "thumbnail": "/drops/thumbs/259896b28b4d.jpg",
-      "published": "2026-05-23T10:03:18",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2e4abf109374",
       "pillar": "anime",
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
@@ -207,24 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "60cc74d39107",
-      "pillar": "anime",
-      "title": "10 One Piece Characters With Strongest Haki",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-characters-strongest-haki/",
-      "thumbnail": "/drops/thumbs/60cc74d39107.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bb3d20de380a",
       "pillar": "anime",
       "title": "Japanese Animation TV Ranking, May 4-10",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-23/japanese-animation-tv-ranking-may-4-10/.237601",
       "thumbnail": "/drops/thumbs/bb3d20de380a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7e105185267e",
+      "pillar": "anime",
+      "title": "The Most Important Anime Of The 2000s Is Being Forgotten, But It Deserves So Much Better",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/haruhi-forgotten-deserves-better-most-important-2000s-anime/",
+      "thumbnail": "/drops/thumbs/7e105185267e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "99f587da6052",
+      "id": "74c554f79bd7",
       "pillar": "anime",
-      "title": "10 'Anime Of The Year' Winners From The Last Decade & Who Should Have Won Instead",
+      "title": "New Thriller The Scarecrow Is The Perfect Follow-Up To A Bong Joon Ho Classic",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/anime-year-winners-last-decade-ranked/",
-      "thumbnail": "/drops/thumbs/99f587da6052.jpg",
+      "source_url": "https://screenrant.com/the-scarecrow-followup-memories-of-murder-bong-joon-ho/",
+      "thumbnail": "/drops/thumbs/74c554f79bd7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "9562d23903c7",
+      "id": "99f587da6052",
       "pillar": "anime",
-      "title": "One Of Crunchyroll's Biggest Competitors Just Landed 2026's Best New Shonen Anime",
+      "title": "10 'Anime Of The Year' Winners From The Last Decade & Who Should Have Won Instead",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/crunchyroll-rival-prime-video-nippon-sangoku-best-shonen/",
-      "thumbnail": "/drops/thumbs/9562d23903c7.jpg",
+      "source_url": "https://screenrant.com/anime-year-winners-last-decade-ranked/",
+      "thumbnail": "/drops/thumbs/99f587da6052.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "0494d5ca0335",
+    "3f0c6fa57f25",
     "315c8ac926db",
     "2e4abf109374",
     "a3a8855af003",
