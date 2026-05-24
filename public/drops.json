@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T13:14:12+00:00",
+  "generated_utc": "2026-05-24T13:43:11+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "729f68000131",
+      "pillar": "hiphop",
+      "title": "Enhanced Games Could Change Sports Forever With $25 Million Gamble",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/enhanced-games-could-change-sports-forever-with-25-million-gamble/",
+      "thumbnail": "/drops/thumbs/729f68000131.png",
+      "published": "2026-05-24T09:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c47bebdf9e1f",
       "pillar": "hiphop",
       "title": "Steve Harvey Warns Against Diddy’s Path: “Sin Costs You More Than You Want to Pay”",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/t-i-explains-how-he-rihanna-ended-up-on-live-your-life/",
       "thumbnail": "/drops/thumbs/3f0c6fa57f25.png",
       "published": "2026-05-23T22:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0494d5ca0335",
-      "pillar": "hiphop",
-      "title": "White House Shooting Erupts As Donald Trump Signs Deal With Iran",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/white-house-shooting-erupts-as-donald-trump-signs-deal-with-iran/",
-      "thumbnail": "/drops/thumbs/0494d5ca0335.jpg",
-      "published": "2026-05-23T19:43:47",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "efe4956feb98",
+      "id": "5b04ce8f8e18",
       "pillar": "gaming",
-      "title": "News Friday the 13th's Game May Be Gone, But Jason Voorhees Is Back in Dead by Daylight",
+      "title": "News One of 2026's Best Games Is Coming to PS5 Later This Year",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/friday-the-13ths-game-may-be-gone-but-jason-voorhees-is-back-in-dead-by-daylight",
-      "thumbnail": "/drops/thumbs/efe4956feb98.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/one-of-2026s-best-games-is-coming-to-ps5-later-this-year",
+      "thumbnail": "/drops/thumbs/5b04ce8f8e18.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "c47bebdf9e1f",
+    "729f68000131",
     "315c8ac926db",
     "7713263f8a3c",
     "a3a8855af003",
