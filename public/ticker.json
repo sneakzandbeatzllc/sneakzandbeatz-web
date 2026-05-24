@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T02:17:32+00:00",
+  "generated_utc": "2026-05-24T03:13:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Chris Brown Added A Doctorate To His Resume As His Music Career Hit Another Milestone.",
+      "url": "https://allhiphop.com/news/chris-brown-added-a-doctorate-to-his-resume-as-his-music-career-hit-another-milestone/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "T.I. Explains How He Rihanna Ended Up On “Live Your Life”",
       "url": "https://allhiphop.com/news/t-i-explains-how-he-rihanna-ended-up-on-live-your-life/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "New York Giants Jaxson Dart’s Trump Rally Appearance Splits Giants Locker Room",
-      "url": "https://allhiphop.com/news/new-york-giants-jaxson-darts-trump-rally-appearance-splits-giants-locker-room/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
       "url": "https://www.polygon.com/bleachs-zangetsu-is-more-than-just-a-cool-sword/",
       "pillar": "anime",
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "The Most Important Anime Of The 2000s Is Being Forgotten, But It Deserves So Much Better",
-      "url": "https://screenrant.com/haruhi-forgotten-deserves-better-most-important-2000s-anime/",
+      "title": "10 Greatest Anime Where the Underdog Hero Becomes Overpowered",
+      "url": "https://screenrant.com/best-anime-underdog-overpowered/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "New Thriller The Scarecrow Is The Perfect Follow-Up To A Bong Joon Ho Classic",
-      "url": "https://screenrant.com/the-scarecrow-followup-memories-of-murder-bong-joon-ho/",
+      "title": "The Most Important Anime Of The 2000s Is Being Forgotten, But It Deserves So Much Better",
+      "url": "https://screenrant.com/haruhi-forgotten-deserves-better-most-important-2000s-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "10 'Anime Of The Year' Winners From The Last Decade & Who Should Have Won Instead",
-      "url": "https://screenrant.com/anime-year-winners-last-decade-ranked/",
+      "title": "New Thriller The Scarecrow Is The Perfect Follow-Up To A Bong Joon Ho Classic",
+      "url": "https://screenrant.com/the-scarecrow-followup-memories-of-murder-bong-joon-ho/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

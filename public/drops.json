@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T02:17:32+00:00",
+  "generated_utc": "2026-05-24T03:13:41+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "2146844c683a",
+      "pillar": "hiphop",
+      "title": "Chris Brown Added A Doctorate To His Resume As His Music Career Hit Another Milestone.",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/chris-brown-added-a-doctorate-to-his-resume-as-his-music-career-hit-another-milestone/",
+      "thumbnail": "/drops/thumbs/2146844c683a.png",
+      "published": "2026-05-23T22:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3f0c6fa57f25",
       "pillar": "hiphop",
       "title": "T.I. Explains How He Rihanna Ended Up On “Live Your Life”",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "04e4caa51073",
-      "pillar": "hiphop",
-      "title": "New York Giants Jaxson Dart’s Trump Rally Appearance Splits Giants Locker Room",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/new-york-giants-jaxson-darts-trump-rally-appearance-splits-giants-locker-room/",
-      "thumbnail": "/drops/thumbs/04e4caa51073.jpg",
-      "published": "2026-05-23T11:15:15",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2e4abf109374",
       "pillar": "anime",
       "title": "Bleach turned one giant sword into a heartbreaking story about identity",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "7e105185267e",
+      "id": "1f08a45d5f0c",
       "pillar": "anime",
-      "title": "The Most Important Anime Of The 2000s Is Being Forgotten, But It Deserves So Much Better",
+      "title": "10 Greatest Anime Where the Underdog Hero Becomes Overpowered",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/haruhi-forgotten-deserves-better-most-important-2000s-anime/",
-      "thumbnail": "/drops/thumbs/7e105185267e.jpg",
+      "source_url": "https://screenrant.com/best-anime-underdog-overpowered/",
+      "thumbnail": "/drops/thumbs/1f08a45d5f0c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "74c554f79bd7",
+      "id": "7e105185267e",
       "pillar": "anime",
-      "title": "New Thriller The Scarecrow Is The Perfect Follow-Up To A Bong Joon Ho Classic",
+      "title": "The Most Important Anime Of The 2000s Is Being Forgotten, But It Deserves So Much Better",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/the-scarecrow-followup-memories-of-murder-bong-joon-ho/",
-      "thumbnail": "/drops/thumbs/74c554f79bd7.jpg",
+      "source_url": "https://screenrant.com/haruhi-forgotten-deserves-better-most-important-2000s-anime/",
+      "thumbnail": "/drops/thumbs/7e105185267e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "99f587da6052",
+      "id": "74c554f79bd7",
       "pillar": "anime",
-      "title": "10 'Anime Of The Year' Winners From The Last Decade & Who Should Have Won Instead",
+      "title": "New Thriller The Scarecrow Is The Perfect Follow-Up To A Bong Joon Ho Classic",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/anime-year-winners-last-decade-ranked/",
-      "thumbnail": "/drops/thumbs/99f587da6052.jpg",
+      "source_url": "https://screenrant.com/the-scarecrow-followup-memories-of-murder-bong-joon-ho/",
+      "thumbnail": "/drops/thumbs/74c554f79bd7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "3f0c6fa57f25",
+    "2146844c683a",
     "315c8ac926db",
     "2e4abf109374",
     "a3a8855af003",
