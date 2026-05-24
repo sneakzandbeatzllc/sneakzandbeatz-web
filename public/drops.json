@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T13:46:09+00:00",
+  "generated_utc": "2026-05-24T14:46:10+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "34f8607d77ba",
+      "pillar": "hiphop",
+      "title": "Ray J Gets Knocked Out By Supa Hot Fire In Celebrity MMA Fight",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ray-j-gets-knocked-out-by-supa-hot-fire-in-celebrity-mma-fight/",
+      "thumbnail": "/drops/thumbs/34f8607d77ba.jpg",
+      "published": "2026-05-24T09:49:16",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "729f68000131",
       "pillar": "hiphop",
       "title": "Enhanced Games Could Change Sports Forever With $25 Million Gamble",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "3f0c6fa57f25",
-      "pillar": "hiphop",
-      "title": "T.I. Explains How He Rihanna Ended Up On “Live Your Life”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/t-i-explains-how-he-rihanna-ended-up-on-live-your-life/",
-      "thumbnail": "/drops/thumbs/3f0c6fa57f25.png",
-      "published": "2026-05-23T22:00:00",
+      "id": "73167b66358c",
+      "pillar": "anime",
+      "title": "3 Years After His Death, Jujutsu Kaisen's Best Villain Ranks Among Shonen Jump's Greatest Of All Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-best-villain-mahito-shonen-jump-greats/",
+      "thumbnail": "/drops/thumbs/73167b66358c.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -243,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "ec87243e49ce",
+      "id": "41b8b1b888b5",
       "pillar": "anime",
-      "title": "Steel Ball Run episode 2 could introduce a mind-blowing character you'll never see coming",
+      "title": "10 most anticipated anime of the summer",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/steel-ball-run-episode-2-second-stage-jesus-christ-explained/",
-      "thumbnail": "/drops/thumbs/ec87243e49ce.jpg",
+      "source_url": "https://www.polygon.com/10-most-anticipated-anime-of-the-summer/",
+      "thumbnail": "/drops/thumbs/41b8b1b888b5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "3b71e0890370",
+      "id": "74cb2177d946",
       "pillar": "anime",
-      "title": "Crunchyroll Anime Awards 2026 winners",
+      "title": "3 anime snubbed by the 2026 Anime Awards that should have won instead",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/crunchyroll-anime-awards-2026-all-winners-list-nominees/",
-      "thumbnail": "/drops/thumbs/3b71e0890370.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "77dbd76a2800",
-      "pillar": "anime",
-      "title": "Detective Conan , Star Detective Precure! Anime Get Crossover Episodes in May, June",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-24/detective-conan-star-detective-precure-anime-get-crossover-episodes-in-may-june/.237746",
-      "thumbnail": "/drops/thumbs/77dbd76a2800.jpg",
+      "source_url": "https://www.polygon.com/3-anime-that-should-have-won-in-crunchyrolls-2026-anime-awards-instead/",
+      "thumbnail": "/drops/thumbs/74cb2177d946.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "729f68000131",
+    "34f8607d77ba",
     "315c8ac926db",
-    "7713263f8a3c",
+    "73167b66358c",
     "a3a8855af003",
     "76b366a9c9d8"
   ]
