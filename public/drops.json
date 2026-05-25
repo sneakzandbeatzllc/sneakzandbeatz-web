@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T17:14:28+00:00",
+  "generated_utc": "2026-05-25T17:29:42+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -63,6 +63,30 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "52b3da8abc3c",
+      "pillar": "sneakers",
+      "title": "Jordan is Reportedly Reworking the Air Jordan 15 Into a New 23RE Version",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-15-muslin-iv7637-100/",
+      "thumbnail": "/drops/thumbs/52b3da8abc3c.webp",
+      "published": "2026-05-25T13:23:25",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a4e13f16aaab",
+      "pillar": "sneakers",
+      "title": "J Balvin’s “Multicolor” Air Jordan 4 Releases in Fall 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/j-balvin-air-jordan-4/",
+      "thumbnail": "/drops/thumbs/a4e13f16aaab.webp",
+      "published": "2026-05-25T13:16:31",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "64e7d2e034a3",
       "pillar": "sneakers",
       "title": "The Air Jordan 4 “Toro Bravo” Returns in 2026",
@@ -70,30 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-4-toro-bravo-fq8138-600/",
       "thumbnail": "/drops/thumbs/64e7d2e034a3.webp",
       "published": "2026-05-23T00:32:00",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a326c692ce01",
-      "pillar": "sneakers",
-      "title": "JAIDE Enters the Race to be the First Air Jordan 11 Collaborator with a “Fiberglass” Style",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/jaide-air-jordan-11-low-fiberglass-iw1882-300/",
-      "thumbnail": "/drops/thumbs/a326c692ce01.jpg",
-      "published": "2026-05-22T15:30:56",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b7d666c9a66f",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 Flip Returns in 2027 With a Super Bowl Special Release",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-flip-sb-varsity-red-ja7983-636/",
-      "thumbnail": "/drops/thumbs/b7d666c9a66f.jpg",
-      "published": "2026-05-22T15:00:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "5360406fab6d",
+      "id": "1a64ee1cd9ab",
       "pillar": "anime",
-      "title": "U-NEXT Holdings to Acquire GoHands Anime Studio as 100%-Owned Subsidiary",
+      "title": "Kan Takahama Launches New Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/u-next-holdings-to-acquire-gohands-anime-studio-as-100-percent-owned-subsidiary/.237795",
-      "thumbnail": "/drops/thumbs/5360406fab6d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/kan-takahama-launches-new-manga/.237767",
+      "thumbnail": "/drops/thumbs/1a64ee1cd9ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "ecaff2f8c2fd",
+      "id": "5360406fab6d",
       "pillar": "anime",
-      "title": "Historie Anime's 1st Promo Video Reveals 11 Cast Members",
+      "title": "U-NEXT Holdings to Acquire GoHands Anime Studio as 100%-Owned Subsidiary",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/historie-anime-1st-promo-video-reveals-11-cast-members/.237792",
-      "thumbnail": "/drops/thumbs/ecaff2f8c2fd.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/u-next-holdings-to-acquire-gohands-anime-studio-as-100-percent-owned-subsidiary/.237795",
+      "thumbnail": "/drops/thumbs/5360406fab6d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
