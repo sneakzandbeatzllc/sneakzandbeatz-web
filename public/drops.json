@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T08:04:38+00:00",
+  "generated_utc": "2026-05-25T09:55:08+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -207,12 +207,36 @@
       "release_badge": ""
     },
     {
-      "id": "c3052041d5db",
+      "id": "6be50d6a7693",
       "pillar": "anime",
-      "title": "Needy Girl Overdose Anime Streams 'Next Chapter' Promo Video",
+      "title": "The Insipid Prince's Furtive Grab for The Throne Anime Reveals 2 New Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/needy-girl-overdose-anime-streams-next-chapter-promo-video/.237781",
-      "thumbnail": "/drops/thumbs/c3052041d5db.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/the-insipid-prince-furtive-grab-for-the-throne-anime-reveals-2-new-cast-members/.237790",
+      "thumbnail": "/drops/thumbs/6be50d6a7693.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "be8f9430cb64",
+      "pillar": "anime",
+      "title": "Baki's Yujiro Hanma is the perfect fit for the Tekken franchise",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/yujiro-hanma-tekken-8-perfect-fit-baki/",
+      "thumbnail": "/drops/thumbs/be8f9430cb64.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7c6fcf393746",
+      "pillar": "anime",
+      "title": "You and I Are Polar Opposites 2nd Season Anime Unveils Theme Song Artist in New Promo Video",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/you-and-i-are-polar-opposites-2nd-season-anime-unveils-theme-song-artist-in-new-promo-video/.237778",
+      "thumbnail": "/drops/thumbs/7c6fcf393746.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,30 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "80ba33e26712",
-      "pillar": "anime",
-      "title": "Uso Tantei Tomanto Anime Casts Natsuki Hanae as Lemonade",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/uso-tantei-tomanto-anime-casts-natsuki-hanae-as-lemonade/.237773",
-      "thumbnail": "/drops/thumbs/80ba33e26712.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d46369ba7bbf",
-      "pillar": "anime",
-      "title": "Netflix's Princess Knight anime wants to inspire courage in the face of adversity",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/netflix-ribbon-hero-princess-knight-anime-adaptation-yuki-igarashi-interview/",
-      "thumbnail": "/drops/thumbs/d46369ba7bbf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5ce579306e8e",
       "pillar": "anime",
       "title": "Sorry Miyazaki, But Another Director Deserves The Throne Of Ghibli's Greatest Director",
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "b4fdcbaf769f",
+      "id": "c3052041d5db",
       "pillar": "anime",
-      "title": "Historie TV Anime Announces Lead Voice Actor, January 2027 Premiere",
+      "title": "Needy Girl Overdose Anime Streams 'Next Chapter' Promo Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-24/historie-tv-anime-announces-lead-voice-actor-january-2027-premiere/.237768",
-      "thumbnail": "/drops/thumbs/b4fdcbaf769f.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/needy-girl-overdose-anime-streams-next-chapter-promo-video/.237781",
+      "thumbnail": "/drops/thumbs/c3052041d5db.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "31998caacf71",
+      "pillar": "gaming",
+      "title": "Rumor: Bungie Didn’t Tell Their Devs About Destiny 2’s End Of Support – And They Still Won’t Talk About Layoffs",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562782/article/rumor-bungie-didnt-tell-their-devs-about-destiny-2s-end-of-support-and-they-still-wont-talk-about-layoffs/",
+      "thumbnail": "/drops/thumbs/31998caacf71.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "248db7fa7e90",
       "pillar": "gaming",
       "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
@@ -369,18 +381,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562767/article/bungie-ends-active-development-on-destiny-2-in-2-weeks/",
       "thumbnail": "/drops/thumbs/56596b8b59b7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2cd8e6aad439",
-      "pillar": "gaming",
-      "title": "First Look At Unreal Engine 6 Upgrade Shown Off In Rocket League Of All Things",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/rocket-league-upgrade-gives-us-our-first-look-at-unreal-engine-6-2000699032",
-      "thumbnail": "/drops/thumbs/2cd8e6aad439.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

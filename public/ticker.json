@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T08:04:38+00:00",
+  "generated_utc": "2026-05-25T09:55:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,8 +123,22 @@
       "article_slug": null
     },
     {
-      "title": "Needy Girl Overdose Anime Streams 'Next Chapter' Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-25/needy-girl-overdose-anime-streams-next-chapter-promo-video/.237781",
+      "title": "The Insipid Prince's Furtive Grab for The Throne Anime Reveals 2 New Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-25/the-insipid-prince-furtive-grab-for-the-throne-anime-reveals-2-new-cast-members/.237790",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Baki's Yujiro Hanma is the perfect fit for the Tekken franchise",
+      "url": "https://www.polygon.com/yujiro-hanma-tekken-8-perfect-fit-baki/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "You and I Are Polar Opposites 2nd Season Anime Unveils Theme Song Artist in New Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-25/you-and-i-are-polar-opposites-2nd-season-anime-unveils-theme-song-artist-in-new-promo-video/.237778",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,20 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Uso Tantei Tomanto Anime Casts Natsuki Hanae as Lemonade",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-25/uso-tantei-tomanto-anime-casts-natsuki-hanae-as-lemonade/.237773",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Netflix's Princess Knight anime wants to inspire courage in the face of adversity",
-      "url": "https://www.polygon.com/netflix-ribbon-hero-princess-knight-anime-adaptation-yuki-igarashi-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Sorry Miyazaki, But Another Director Deserves The Throne Of Ghibli's Greatest Director",
       "url": "https://screenrant.com/isao-takahata-best-ghibli-director-not-miyazaki/",
       "pillar": "anime",
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Historie TV Anime Announces Lead Voice Actor, January 2027 Premiere",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-24/historie-tv-anime-announces-lead-voice-actor-january-2027-premiere/.237768",
+      "title": "Needy Girl Overdose Anime Streams 'Next Chapter' Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-25/needy-girl-overdose-anime-streams-next-chapter-promo-video/.237781",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "Rumor: Bungie Didn’t Tell Their Devs About Destiny 2’s End Of Support – And They Still Won’t Talk About Layoffs",
+      "url": "https://gameranx.com/updates/id/562782/article/rumor-bungie-didnt-tell-their-devs-about-destiny-2s-end-of-support-and-they-still-wont-talk-about-layoffs/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
       "url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Bungie Ends Active Development On Destiny 2 In 2 Weeks",
       "url": "https://gameranx.com/updates/id/562767/article/bungie-ends-active-development-on-destiny-2-in-2-weeks/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "First Look At Unreal Engine 6 Upgrade Shown Off In Rocket League Of All Things",
-      "url": "https://kotaku.com/rocket-league-upgrade-gives-us-our-first-look-at-unreal-engine-6-2000699032",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
