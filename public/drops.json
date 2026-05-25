@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T14:10:43+00:00",
+  "generated_utc": "2026-05-25T15:02:48+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d7336a946fb9",
+      "pillar": "hiphop",
+      "title": "Dame Dash Returns With Dash Records & He’s Betting On The Next Generation",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/dame-dash-returns-with-dash-records-hes-betting-on-the-next-generation/",
+      "thumbnail": "/drops/thumbs/d7336a946fb9.jpg",
+      "published": "2026-05-25T10:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3f0d92287e73",
       "pillar": "hiphop",
       "title": "WATCH: Ray J Gets Knocked Out in Celebrity MMA Fight",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/donald-trump-adviser-blasts-creepy-ted-cruz-after-he-cornered-nicki-minaj-for-clout/",
       "thumbnail": "/drops/thumbs/e72c7c7bae79.jpg",
       "published": "2026-05-24T23:00:54",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8871d161ff9f",
-      "pillar": "hiphop",
-      "title": "Megan Thee Stallion’s Hot Girl Summer Takes Over Miami Swim Week Stage",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/megan-thee-stallions-hot-girl-summer-takes-over-miami-swim-week-stage/",
-      "thumbnail": "/drops/thumbs/8871d161ff9f.png",
-      "published": "2026-05-24T21:00:37",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,24 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "cf246339fb46",
+      "id": "abde492b9426",
       "pillar": "gaming",
-      "title": "News Now It's Raised the Price, PlayStation Wants Your Thoughts on PS Plus",
+      "title": "News 'Take My Goddamn Money': PS5 Fans Seem Ready for Electrifying inFAMOUS Collection",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/now-its-raised-the-price-playstation-wants-your-thoughts-on-ps-plus",
-      "thumbnail": "/drops/thumbs/cf246339fb46.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/take-my-goddamn-money-ps5-fans-seem-ready-for-electrifying-infamous-collection",
+      "thumbnail": "/drops/thumbs/abde492b9426.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b0b30590dab6",
+      "id": "cf246339fb46",
       "pillar": "gaming",
-      "title": "News Sony Wants to Make PS5 Matchmaking More Interesting, But It Could Lead to Ads",
+      "title": "News Now It's Raised the Price, PlayStation Wants Your Thoughts on PS Plus",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/sony-wants-to-make-ps5-matchmaking-more-interesting-but-it-could-lead-to-ads",
-      "thumbnail": "/drops/thumbs/b0b30590dab6.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/now-its-raised-the-price-playstation-wants-your-thoughts-on-ps-plus",
+      "thumbnail": "/drops/thumbs/cf246339fb46.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "a43fe597ce21",
+      "id": "645c38895f61",
       "pillar": "gaming",
-      "title": "AI Crashing Out While Dubbing A Fake WWE News Channel May Genuinely Be The Funniest Thing I’ve Seen In 2026",
+      "title": "CBS Says It Will Stop Copyright Striking Stephen Colbert’s Viral Public Access TV Show Appearance",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/ai-crashing-out-while-dubbing-a-fake-wwe-news-channel-may-genuinely-be-the-funniest-thing-ive-seen-in-2026-2000699013",
-      "thumbnail": "/drops/thumbs/a43fe597ce21.jpg",
+      "source_url": "https://kotaku.com/cbs-says-it-will-stop-copyright-striking-stephen-colberts-viral-public-access-tv-show-appearance-2000699187",
+      "thumbnail": "/drops/thumbs/645c38895f61.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "3f0d92287e73",
+    "d7336a946fb9",
     "315c8ac926db",
     "7d8d4fd6f4b9",
     "b7892b717b41",
