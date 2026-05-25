@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T16:04:27+00:00",
+  "generated_utc": "2026-05-25T16:11:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Pope Leo XIV Apologizes For Vatican’s Role In Slavery",
+      "url": "https://allhiphop.com/news/pope-leo-xiv-apologizes-for-vaticans-role-in-slavery/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "New Orleans woman goes to Sam’s Club. Then she notices something problematic about this inflatable pool toy: ‘Why??’",
       "url": "https://allhiphop.com/newsbreak/sams-club-inflatable-sprinkler-pool-toy/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "EXCLUSIVE: Beyoncé & Jay-Z Roll Through Hamptons In Rare Family Outing With Blue Ivy, Rumi, & Sir Carter",
       "url": "https://allhiphop.com/news/exclusive-beyonce-jay-z-roll-through-hamptons-in-rare-family-outing-with-blue-ivy-rumi-sir-carter/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Mandalorian & Grogu Review: A Fun Return To The Star Wars Galaxy",
-      "url": "https://allhiphop.com/uncategorized/the-mandalorian-grogu-review-a-fun-return-to-the-star-wars-galaxy/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,6 +172,13 @@
       "article_slug": null
     },
     {
+      "title": "Rumour Dragon Quest Has Multiple Major Reveals Lined Up for Its Big Day This Week",
+      "url": "https://www.pushsquare.com/news/2026/05/rumour-dragon-quest-has-multiple-major-reveals-lined-up-for-its-big-day-this-week",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The Witcher 1 Remake made CD Projekt Red realize the \"true impact\" of not recording its old work 7 Comments",
       "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-1-remake-made-cd-projekt-red-realize-the-true-impact-of-not-recording-its-old-work-we-had-little-to-no-technical-knowledge-preserved-from-that-time/",
       "pillar": "gaming",
@@ -193,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "News 'Take My Goddamn Money': PS5 Fans Seem Ready for Electrifying inFAMOUS Collection",
-      "url": "https://www.pushsquare.com/news/2026/05/take-my-goddamn-money-ps5-fans-seem-ready-for-electrifying-infamous-collection",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them",
       "url": "https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185",
       "pillar": "gaming",
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "News Now It's Raised the Price, PlayStation Wants Your Thoughts on PS Plus",
-      "url": "https://www.pushsquare.com/news/2026/05/now-its-raised-the-price-playstation-wants-your-thoughts-on-ps-plus",
+      "title": "News 'Take My Goddamn Money': PS5 Fans Seem Ready for Electrifying inFAMOUS Collection",
+      "url": "https://www.pushsquare.com/news/2026/05/take-my-goddamn-money-ps5-fans-seem-ready-for-electrifying-infamous-collection",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
