@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-24T23:57:15+00:00",
+  "generated_utc": "2026-05-25T00:19:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "3 Years After His Death, Jujutsu Kaisen's Best Villain Ranks Among Shonen Jump's Greatest Of All Time",
-      "url": "https://screenrant.com/jujutsu-kaisen-best-villain-mahito-shonen-jump-greats/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Chainsaw Man's Final Release Unveils Ultimate Glimpse Of Denji's Final Form",
       "url": "https://screenrant.com/chainsaw-man-denji-manga-final-form-reveal/",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Netflix's Princess Knight anime wants to inspire courage in the face of adversity",
       "url": "https://www.polygon.com/netflix-ribbon-hero-princess-knight-anime-adaptation-yuki-igarashi-interview/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Maebashi Witches Compilation Anime Film Reveals Title, Fall Opening",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-24/maebashi-witches-compilation-anime-film-reveals-title-fall-opening/.237745",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
