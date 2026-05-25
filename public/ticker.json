@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T03:59:47+00:00",
+  "generated_utc": "2026-05-25T04:03:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Attack on Titan Meets Fullmetal Alchemist In Spring 2026's Best New Dark Fantasy Anime",
-      "url": "https://screenrant.com/daemons-shadow-realm-attack-titan-meets-fullmetal-alchemist/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Boruto Filler List: Every Episode & Arc You Can Skip",
       "url": "https://screenrant.com/boruto-filler-list-every-episode-skip/",
       "pillar": "anime",
@@ -153,6 +146,13 @@
     {
       "title": "Netflix's Princess Knight anime wants to inspire courage in the face of adversity",
       "url": "https://www.polygon.com/netflix-ribbon-hero-princess-knight-anime-adaptation-yuki-igarashi-interview/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sorry Miyazaki, But Another Director Deserves The Throne Of Ghibli's Greatest Director",
+      "url": "https://screenrant.com/isao-takahata-best-ghibli-director-not-miyazaki/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

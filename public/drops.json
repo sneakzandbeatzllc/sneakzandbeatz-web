@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T03:59:47+00:00",
+  "generated_utc": "2026-05-25T04:03:01+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "8f74dae0028c",
-      "pillar": "anime",
-      "title": "Attack on Titan Meets Fullmetal Alchemist In Spring 2026's Best New Dark Fantasy Anime",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/daemons-shadow-realm-attack-titan-meets-fullmetal-alchemist/",
-      "thumbnail": "/drops/thumbs/8f74dae0028c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "74d731379e6b",
       "pillar": "anime",
       "title": "Boruto Filler List: Every Episode & Arc You Can Skip",
@@ -261,6 +249,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/netflix-ribbon-hero-princess-knight-anime-adaptation-yuki-igarashi-interview/",
       "thumbnail": "/drops/thumbs/d46369ba7bbf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5ce579306e8e",
+      "pillar": "anime",
+      "title": "Sorry Miyazaki, But Another Director Deserves The Throne Of Ghibli's Greatest Director",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/isao-takahata-best-ghibli-director-not-miyazaki/",
+      "thumbnail": "/drops/thumbs/5ce579306e8e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "3111a2d5962f",
     "e72c7c7bae79",
     "315c8ac926db",
-    "8f74dae0028c",
+    "74d731379e6b",
     "a3a8855af003",
     "76b366a9c9d8"
   ]
