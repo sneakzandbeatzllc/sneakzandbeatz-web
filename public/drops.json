@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T15:02:48+00:00",
+  "generated_utc": "2026-05-25T15:09:53+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "bbe02f0e104e",
+      "pillar": "hiphop",
+      "title": "Travis Scott Club Night Breaks Istanbul Ticket Records",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/travis-scott-club-night-breaks-istanbul-ticket-records/",
+      "thumbnail": "/drops/thumbs/bbe02f0e104e.jpg",
+      "published": "2026-05-25T11:02:49",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d7336a946fb9",
       "pillar": "hiphop",
       "title": "Dame Dash Returns With Dash Records & He’s Betting On The Next Generation",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/25/top-free-fire-characters-you-should-use-in-2026/",
       "thumbnail": "/drops/thumbs/f1f7a1c5ba14.jpg",
       "published": "2026-05-25T01:05:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e72c7c7bae79",
-      "pillar": "hiphop",
-      "title": "Donald Trump Adviser Blasts “Creepy” Ted Cruz After He Cornered Nicki Minaj For Clout",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/donald-trump-adviser-blasts-creepy-ted-cruz-after-he-cornered-nicki-minaj-for-clout/",
-      "thumbnail": "/drops/thumbs/e72c7c7bae79.jpg",
-      "published": "2026-05-24T23:00:54",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -303,18 +303,6 @@
       "release_badge": ""
     },
     {
-      "id": "8bde4b38f6e9",
-      "pillar": "gaming",
-      "title": "Tekken Director Katsuhiro Harada Finally Got It Figured Out At The Waffle House",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/tekken-8-katsuhiro-harada-waffle-house-fight-stage-2000699143",
-      "thumbnail": "/drops/thumbs/8bde4b38f6e9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "31998caacf71",
       "pillar": "gaming",
       "title": "Rumor: Bungie Didn’t Tell Their Devs About Destiny 2’s End Of Support – And They Still Won’t Talk About Layoffs",
@@ -345,6 +333,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/take-my-goddamn-money-ps5-fans-seem-ready-for-electrifying-infamous-collection",
       "thumbnail": "/drops/thumbs/abde492b9426.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cbae867f039f",
+      "pillar": "gaming",
+      "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185",
+      "thumbnail": "/drops/thumbs/cbae867f039f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "d7336a946fb9",
+    "bbe02f0e104e",
     "315c8ac926db",
     "7d8d4fd6f4b9",
     "b7892b717b41",
