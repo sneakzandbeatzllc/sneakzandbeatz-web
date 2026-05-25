@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T12:59:43+00:00",
+  "generated_utc": "2026-05-25T13:06:41+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "363422b6c15a",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Beyoncé & Jay-Z Roll Through Hamptons In Rare Family Outing With Blue Ivy, Rumi, & Sir Carter",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/exclusive-beyonce-jay-z-roll-through-hamptons-in-rare-family-outing-with-blue-ivy-rumi-sir-carter/",
+      "thumbnail": "/drops/thumbs/363422b6c15a.jpg",
+      "published": "2026-05-25T09:00:37",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "313d12148571",
+      "pillar": "hiphop",
+      "title": "The Mandalorian & Grogu Review: A Fun Return To The Star Wars Galaxy",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/the-mandalorian-grogu-review-a-fun-return-to-the-star-wars-galaxy/",
+      "thumbnail": "/drops/thumbs/313d12148571.png",
+      "published": "2026-05-25T09:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f1f7a1c5ba14",
       "pillar": "hiphop",
       "title": "Top Free Fire Characters You Should Use in 2026",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/eminem-approves-stage-destruction-on-stephen-colbert-community-access-special/",
       "thumbnail": "/drops/thumbs/f8b3948638d9.jpg",
       "published": "2026-05-24T15:00:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "da6b1c8bfed1",
-      "pillar": "hiphop",
-      "title": "Rap Legend DMC & Idina Menzel Deliver Performances At $1 Million Fundraiser",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/rap-legend-dmc-idina-menzel-deliver-performances-at-1-million-fundraiser/",
-      "thumbnail": "/drops/thumbs/da6b1c8bfed1.jpg",
-      "published": "2026-05-24T14:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6e79e233f513",
-      "pillar": "hiphop",
-      "title": "Did Ray J Try To Fix His MMA Fight? Fans Think So",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/did-ray-j-try-to-fix-his-mma-fight-fans-think-so/",
-      "thumbnail": "/drops/thumbs/6e79e233f513.jpg",
-      "published": "2026-05-24T12:32:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "595f5b2beda0",
+      "id": "304109fbe7ff",
       "pillar": "gaming",
-      "title": "News This Weird App Lets You Read a One-Shot Manga for Free on Your PS5",
+      "title": "News The Next Kingdom Come Game Is a Lot Closer Than You Think",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/this-weird-app-lets-you-read-a-one-shot-manga-for-free-on-your-ps5",
-      "thumbnail": "/drops/thumbs/595f5b2beda0.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/the-next-kingdom-come-game-is-a-lot-closer-than-you-think",
+      "thumbnail": "/drops/thumbs/304109fbe7ff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "f1f7a1c5ba14",
+    "363422b6c15a",
     "315c8ac926db",
     "7d8d4fd6f4b9",
     "a3a8855af003",
