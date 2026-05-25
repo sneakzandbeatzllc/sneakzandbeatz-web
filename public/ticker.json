@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T19:17:26+00:00",
+  "generated_utc": "2026-05-25T20:17:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "George Floyd Remembered In Minneapolis Post As Racist Replies Show America’s Ongoing Divide",
+      "url": "https://allhiphop.com/news/george-floyd-remembered-in-minneapolis-post-as-racist-replies-show-americas-ongoing-divide/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Boosie Says NBA Should Ban Nail Polish & Chaos Explodes",
       "url": "https://allhiphop.com/news/boosie-says-nba-should-ban-nail-polish-chaos-explodes/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "New Orleans woman goes to Sam’s Club. Then she notices something problematic about this inflatable pool toy: ‘Why??’",
-      "url": "https://allhiphop.com/newsbreak/sams-club-inflatable-sprinkler-pool-toy/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Jujutsu Kaisen Ranks #1 on Bookscan's April Adult Graphic Novel List in U.S.",
       "url": "https://www.animenewsnetwork.com/news/2026-05-25/jujutsu-kaisen-ranks-no.1-on-bookscan-april-adult-graphic-novel-list-in-u.s/.237761",
       "pillar": "anime",
@@ -151,22 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "Netflix's next sci-fi sleeper hit is a 12-part anime so great you'll finish it in one weekend",
+      "url": "https://www.polygon.com/milky-subway-the-galactic-limited-express-coming-to-netflix-movie/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Tsunami Umino's Kuroema Manga Ends in Next Chapter",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-25/tsunami-umino-kuroema-manga-ends-in-next-chapter/.237785",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Assassination Classroom is still one of anime’s most unique sci-fi stories and it’s hitting Netflix in June",
       "url": "https://www.polygon.com/netflix-assassination-classroom-anime-most-unique-school-story/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Sal Jiang's Wicked Spot Manga Ends in 2 Chapters",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-25/sal-jiang-wicked-spot-manga-ends-in-2-chapters/.237763",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Baki's Yujiro Hanma is the perfect fit for the Tekken franchise",
-      "url": "https://www.polygon.com/yujiro-hanma-tekken-8-perfect-fit-baki/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

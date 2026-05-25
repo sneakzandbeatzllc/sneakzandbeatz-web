@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T19:17:26+00:00",
+  "generated_utc": "2026-05-25T20:17:06+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d9db744b693a",
+      "pillar": "hiphop",
+      "title": "George Floyd Remembered In Minneapolis Post As Racist Replies Show America’s Ongoing Divide",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/george-floyd-remembered-in-minneapolis-post-as-racist-replies-show-americas-ongoing-divide/",
+      "thumbnail": "/drops/thumbs/d9db744b693a.jpg",
+      "published": "2026-05-25T16:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "eda7c6439f42",
       "pillar": "hiphop",
       "title": "Boosie Says NBA Should Ban Nail Polish & Chaos Explodes",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "d69918cbd018",
-      "pillar": "hiphop",
-      "title": "New Orleans woman goes to Sam’s Club. Then she notices something problematic about this inflatable pool toy: ‘Why??’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/sams-club-inflatable-sprinkler-pool-toy/",
-      "thumbnail": "/drops/thumbs/d69918cbd018.jpg",
-      "published": "2026-05-25T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "23dc0b6ee0fd",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Ranks #1 on Bookscan's April Adult Graphic Novel List in U.S.",
@@ -255,36 +255,36 @@
       "release_badge": ""
     },
     {
+      "id": "cbd64789f38f",
+      "pillar": "anime",
+      "title": "Netflix's next sci-fi sleeper hit is a 12-part anime so great you'll finish it in one weekend",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/milky-subway-the-galactic-limited-express-coming-to-netflix-movie/",
+      "thumbnail": "/drops/thumbs/cbd64789f38f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4b7858def1bc",
+      "pillar": "anime",
+      "title": "Tsunami Umino's Kuroema Manga Ends in Next Chapter",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/tsunami-umino-kuroema-manga-ends-in-next-chapter/.237785",
+      "thumbnail": "/drops/thumbs/4b7858def1bc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b9a49390c894",
       "pillar": "anime",
       "title": "Assassination Classroom is still one of anime’s most unique sci-fi stories and it’s hitting Netflix in June",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/netflix-assassination-classroom-anime-most-unique-school-story/",
       "thumbnail": "/drops/thumbs/b9a49390c894.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e6bfa8bf51f3",
-      "pillar": "anime",
-      "title": "Sal Jiang's Wicked Spot Manga Ends in 2 Chapters",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/sal-jiang-wicked-spot-manga-ends-in-2-chapters/.237763",
-      "thumbnail": "/drops/thumbs/e6bfa8bf51f3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "be8f9430cb64",
-      "pillar": "anime",
-      "title": "Baki's Yujiro Hanma is the perfect fit for the Tekken franchise",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/yujiro-hanma-tekken-8-perfect-fit-baki/",
-      "thumbnail": "/drops/thumbs/be8f9430cb64.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "eda7c6439f42",
+    "d9db744b693a",
     "315c8ac926db",
     "23dc0b6ee0fd",
     "b7892b717b41",
