@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T12:07:48+00:00",
+  "generated_utc": "2026-05-25T12:59:43+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f1f7a1c5ba14",
+      "pillar": "hiphop",
+      "title": "Top Free Fire Characters You Should Use in 2026",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/25/top-free-fire-characters-you-should-use-in-2026/",
+      "thumbnail": "/drops/thumbs/f1f7a1c5ba14.jpg",
+      "published": "2026-05-25T01:05:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e72c7c7bae79",
       "pillar": "hiphop",
       "title": "Donald Trump Adviser Blasts “Creepy” Ted Cruz After He Cornered Nicki Minaj For Clout",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/rumors/did-ray-j-try-to-fix-his-mma-fight-fans-think-so/",
       "thumbnail": "/drops/thumbs/6e79e233f513.jpg",
       "published": "2026-05-24T12:32:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ee0ffc0f8889",
-      "pillar": "hiphop",
-      "title": "Elon Musk Co-Sign’s Nicki Minaj As CGO At SpaceX",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/elon-musk-co-signs-nicki-minaj-as-cgo-at-spacex/",
-      "thumbnail": "/drops/thumbs/ee0ffc0f8889.jpg",
-      "published": "2026-05-24T12:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "8bde4b38f6e9",
+      "pillar": "gaming",
+      "title": "Tekken Director Katsuhiro Harada Finally Got It Figured Out At The Waffle House",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/tekken-8-katsuhiro-harada-waffle-house-fight-stage-2000699143",
+      "thumbnail": "/drops/thumbs/8bde4b38f6e9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3a9eb0a39847",
       "pillar": "gaming",
       "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
@@ -351,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "248db7fa7e90",
+      "id": "595f5b2beda0",
       "pillar": "gaming",
-      "title": "Rumor: Bungie Will Have Layoffs After Destiny 2, Destiny 3 Is Not In Development",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562773/article/rumor-bungie-will-have-layoffs-after-destiny-2-destiny-3-is-not-in-development/",
-      "thumbnail": "/drops/thumbs/248db7fa7e90.jpg",
+      "title": "News This Weird App Lets You Read a One-Shot Manga for Free on Your PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/this-weird-app-lets-you-read-a-one-shot-manga-for-free-on-your-ps5",
+      "thumbnail": "/drops/thumbs/595f5b2beda0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "2f54d8893361",
-      "pillar": "gaming",
-      "title": "News Let Out of PS3 Jail, Here's an Hour of Metal Gear Solid 4's New PS5 Version",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/let-out-of-ps3-jail-heres-an-hour-of-metal-gear-solid-4s-new-ps5-version",
-      "thumbnail": "/drops/thumbs/2f54d8893361.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "3111a2d5962f",
-    "e72c7c7bae79",
+    "f1f7a1c5ba14",
     "315c8ac926db",
     "7d8d4fd6f4b9",
     "a3a8855af003",
