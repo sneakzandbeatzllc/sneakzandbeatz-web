@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T18:33:27+00:00",
+  "generated_utc": "2026-05-25T19:04:53+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "eda7c6439f42",
+      "pillar": "hiphop",
+      "title": "Boosie Says NBA Should Ban Nail Polish & Chaos Explodes",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/boosie-says-nba-should-ban-nail-polish-chaos-explodes/",
+      "thumbnail": "/drops/thumbs/eda7c6439f42.png",
+      "published": "2026-05-25T15:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "32396e191ca4",
+      "pillar": "hiphop",
+      "title": "Texas mom goes to this ‘sports bar and grill’ for a family meal. Too bad she didn’t look it up beforehand: ‘The saxophones were loud asf’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/wild-pitch-texas-family-meal/",
+      "thumbnail": "/drops/thumbs/32396e191ca4.jpg",
+      "published": "2026-05-25T15:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f7df97d58ac5",
       "pillar": "hiphop",
       "title": "Naomi Osaka Fires Back At Critics & Defended All Black Tennis Celebration",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "ee833fd627cc",
-      "pillar": "hiphop",
-      "title": "50 Cent + Creflo Dollar? This Rumor Could Get Interesting",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/50-cent-creflo-dollar-this-rumor-could-get-interesting/",
-      "thumbnail": "/drops/thumbs/ee833fd627cc.png",
-      "published": "2026-05-25T11:29:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bbe02f0e104e",
-      "pillar": "hiphop",
-      "title": "Travis Scott Club Night Breaks Istanbul Ticket Records",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/travis-scott-club-night-breaks-istanbul-ticket-records/",
-      "thumbnail": "/drops/thumbs/bbe02f0e104e.jpg",
-      "published": "2026-05-25T11:02:49",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "23dc0b6ee0fd",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Ranks #1 on Bookscan's April Adult Graphic Novel List in U.S.",
@@ -213,6 +213,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/jujutsu-kaisen-best-manga-panels-all-time-masterpiece/",
       "thumbnail": "/drops/thumbs/7d8d4fd6f4b9.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f6756899bc77",
+      "pillar": "anime",
+      "title": "One Piece Confirms Another Straw Hat Swordsman Outclasses Zoro",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-brook-better-swordsman-zoro/",
+      "thumbnail": "/drops/thumbs/f6756899bc77.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "1a64ee1cd9ab",
-      "pillar": "anime",
-      "title": "Kan Takahama Launches New Manga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/kan-takahama-launches-new-manga/.237767",
-      "thumbnail": "/drops/thumbs/1a64ee1cd9ab.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "af2bed3a1f4c",
+      "id": "b75d2e77262d",
       "pillar": "gaming",
-      "title": "Feature This 007 Game You Didn't Play Was Basically PS2's Uncharted",
+      "title": "News It Seems Most PS5 Fans Prefer Returnal Over Saros, But It's Not That Straightforward",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/this-007-game-you-didnt-play-was-basically-ps2s-uncharted",
-      "thumbnail": "/drops/thumbs/af2bed3a1f4c.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/it-seems-most-ps5-fans-prefer-returnal-over-saros-but-its-not-that-straightforward",
+      "thumbnail": "/drops/thumbs/b75d2e77262d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,6 +309,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-1-remake-made-cd-projekt-red-realize-the-true-impact-of-not-recording-its-old-work-we-had-little-to-no-technical-knowledge-preserved-from-that-time/",
       "thumbnail": "/drops/thumbs/787be54cc5e2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "af2bed3a1f4c",
+      "pillar": "gaming",
+      "title": "Feature This 007 Game You Didn't Play Was Basically PS2's Uncharted",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/this-007-game-you-didnt-play-was-basically-ps2s-uncharted",
+      "thumbnail": "/drops/thumbs/af2bed3a1f4c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "645c38895f61",
-      "pillar": "gaming",
-      "title": "CBS Says It Will Stop Copyright Striking Stephen Colbert’s Viral Public Access TV Show Appearance",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/cbs-says-it-will-stop-copyright-striking-stephen-colberts-viral-public-access-tv-show-appearance-2000699187",
-      "thumbnail": "/drops/thumbs/645c38895f61.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "3111a2d5962f",
-    "f7df97d58ac5",
+    "eda7c6439f42",
     "315c8ac926db",
     "23dc0b6ee0fd",
     "b7892b717b41",
-    "af2bed3a1f4c"
+    "b75d2e77262d"
   ]
 }

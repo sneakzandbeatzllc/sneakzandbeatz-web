@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T18:33:27+00:00",
+  "generated_utc": "2026-05-25T19:04:53+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Boosie Says NBA Should Ban Nail Polish & Chaos Explodes",
+      "url": "https://allhiphop.com/news/boosie-says-nba-should-ban-nail-polish-chaos-explodes/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Texas mom goes to this ‘sports bar and grill’ for a family meal. Too bad she didn’t look it up beforehand: ‘The saxophones were loud asf’",
+      "url": "https://allhiphop.com/newsbreak/wild-pitch-texas-family-meal/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Naomi Osaka Fires Back At Critics & Defended All Black Tennis Celebration",
       "url": "https://allhiphop.com/ahhplus/naomi-osaka-fires-back-at-critics-defended-all-black-tennis-celebration/",
       "pillar": "hiphop",
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "50 Cent + Creflo Dollar? This Rumor Could Get Interesting",
-      "url": "https://allhiphop.com/rumors/50-cent-creflo-dollar-this-rumor-could-get-interesting/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Travis Scott Club Night Breaks Istanbul Ticket Records",
-      "url": "https://allhiphop.com/news/travis-scott-club-night-breaks-istanbul-ticket-records/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Jujutsu Kaisen Ranks #1 on Bookscan's April Adult Graphic Novel List in U.S.",
       "url": "https://www.animenewsnetwork.com/news/2026-05-25/jujutsu-kaisen-ranks-no.1-on-bookscan-april-adult-graphic-novel-list-in-u.s/.237761",
       "pillar": "anime",
@@ -125,6 +125,13 @@
     {
       "title": "10 Jujutsu Kaisen Manga Panels That Prove It's A Genuine Masterpiece",
       "url": "https://screenrant.com/jujutsu-kaisen-best-manga-panels-all-time-masterpiece/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Piece Confirms Another Straw Hat Swordsman Outclasses Zoro",
+      "url": "https://screenrant.com/one-piece-brook-better-swordsman-zoro/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,15 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "Kan Takahama Launches New Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-25/kan-takahama-launches-new-manga/.237767",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Feature This 007 Game You Didn't Play Was Basically PS2's Uncharted",
-      "url": "https://www.pushsquare.com/features/this-007-game-you-didnt-play-was-basically-ps2s-uncharted",
+      "title": "News It Seems Most PS5 Fans Prefer Returnal Over Saros, But It's Not That Straightforward",
+      "url": "https://www.pushsquare.com/news/2026/05/it-seems-most-ps5-fans-prefer-returnal-over-saros-but-its-not-that-straightforward",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -181,6 +181,13 @@
     {
       "title": "The Witcher 1 Remake made CD Projekt Red realize the \"true impact\" of not recording its old work 7 Comments",
       "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-1-remake-made-cd-projekt-red-realize-the-true-impact-of-not-recording-its-old-work-we-had-little-to-no-technical-knowledge-preserved-from-that-time/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Feature This 007 Game You Didn't Play Was Basically PS2's Uncharted",
+      "url": "https://www.pushsquare.com/features/this-007-game-you-didnt-play-was-basically-ps2s-uncharted",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Rumor: Sonic Frontiers Definitive Edition Getting A Physical Switch 2 Release – And A Price Drop",
       "url": "https://gameranx.com/updates/id/562795/article/rumor-sonic-frontiers-definitive-edition-getting-a-physical-switch-2-release-and-a-price-drop/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "CBS Says It Will Stop Copyright Striking Stephen Colbert’s Viral Public Access TV Show Appearance",
-      "url": "https://kotaku.com/cbs-says-it-will-stop-copyright-striking-stephen-colberts-viral-public-access-tv-show-appearance-2000699187",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
