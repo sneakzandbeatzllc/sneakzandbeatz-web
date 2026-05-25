@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T17:29:42+00:00",
+  "generated_utc": "2026-05-25T18:01:46+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,42 @@
       "release_badge": ""
     },
     {
+      "id": "d92d3981b896",
+      "pillar": "hiphop",
+      "title": "The U.S. Army Has Hired Its First Hip-Hop Artist to Reach Younger Audiences",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/the-u-s-army-has-hired-its-first-hip-hop-artist-to-reach-younger-audiences/",
+      "thumbnail": "/drops/thumbs/d92d3981b896.jpg",
+      "published": "2026-05-25T14:00:24",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9de909efd905",
+      "pillar": "hiphop",
+      "title": "The Future of Audio Engineering Education in the AI Era",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/the-future-of-audio-engineering-education-in-the-ai-era/",
+      "thumbnail": "/drops/thumbs/9de909efd905.jpg",
+      "published": "2026-05-25T13:52:57",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "beb81fedb213",
+      "pillar": "hiphop",
+      "title": "Who Is Emma Watson Dating History?: A Dive into Her Love Life",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/who-is-emma-watson-dating-history-a-dive-into-her-love-life-2/",
+      "thumbnail": "/drops/thumbs/beb81fedb213.png",
+      "published": "2026-05-25T13:43:59",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6451c4d4ed56",
       "pillar": "hiphop",
       "title": "Pope Leo XIV Apologizes For Vatican’s Role In Slavery",
@@ -154,42 +190,6 @@
       "source_url": "https://allhiphop.com/news/dame-dash-returns-with-dash-records-hes-betting-on-the-next-generation/",
       "thumbnail": "/drops/thumbs/d7336a946fb9.jpg",
       "published": "2026-05-25T10:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3f0d92287e73",
-      "pillar": "hiphop",
-      "title": "WATCH: Ray J Gets Knocked Out in Celebrity MMA Fight",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/25/watch-ray-j-gets-knocked-out-in-celebrity-mma-fight/",
-      "thumbnail": "/drops/thumbs/3f0d92287e73.png",
-      "published": "2026-05-25T09:42:42",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "96d1551c6a5a",
-      "pillar": "hiphop",
-      "title": "Jim Jones Announces New Album ‘The Landlord’ With Release of “In The Car”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/25/jim-jones-in-the-car-the-landlord/",
-      "thumbnail": "/drops/thumbs/96d1551c6a5a.jpg",
-      "published": "2026-05-25T09:17:12",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "363422b6c15a",
-      "pillar": "hiphop",
-      "title": "EXCLUSIVE: Beyoncé & Jay-Z Roll Through Hamptons In Rare Family Outing With Blue Ivy, Rumi, & Sir Carter",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/exclusive-beyonce-jay-z-roll-through-hamptons-in-rare-family-outing-with-blue-ivy-rumi-sir-carter/",
-      "thumbnail": "/drops/thumbs/363422b6c15a.jpg",
-      "published": "2026-05-25T09:00:37",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "6451c4d4ed56",
+    "d92d3981b896",
     "315c8ac926db",
     "23dc0b6ee0fd",
     "5e60dea9c293",
