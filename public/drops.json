@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T03:01:12+00:00",
+  "generated_utc": "2026-05-25T03:59:47+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "e72c7c7bae79",
+      "pillar": "hiphop",
+      "title": "Donald Trump Adviser Blasts “Creepy” Ted Cruz After He Cornered Nicki Minaj For Clout",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/donald-trump-adviser-blasts-creepy-ted-cruz-after-he-cornered-nicki-minaj-for-clout/",
+      "thumbnail": "/drops/thumbs/e72c7c7bae79.jpg",
+      "published": "2026-05-24T23:00:54",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8871d161ff9f",
       "pillar": "hiphop",
       "title": "Megan Thee Stallion’s Hot Girl Summer Takes Over Miami Swim Week Stage",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "ae61378ddd23",
-      "pillar": "hiphop",
-      "title": "‘So I wait for my Uber and he keeps trying’: Florida restaurant owner invites woman to dine at his establishment. Then the DMs start rolling in",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/jupiter-florida-restaurant-owner-creep/",
-      "thumbnail": "/drops/thumbs/ae61378ddd23.jpg",
-      "published": "2026-05-24T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8f74dae0028c",
       "pillar": "anime",
       "title": "Attack on Titan Meets Fullmetal Alchemist In Spring 2026's Best New Dark Fantasy Anime",
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "ba55ccfa74f2",
+      "id": "74d731379e6b",
       "pillar": "anime",
-      "title": "One Dragon Ball Fight Proves Akira Toriyama's Genius, And It's Not The One Fans Think",
+      "title": "Boruto Filler List: Every Episode & Arc You Can Skip",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-goku-vs-vegeta-proves-akira-toriyama-genius/",
-      "thumbnail": "/drops/thumbs/ba55ccfa74f2.jpg",
+      "source_url": "https://screenrant.com/boruto-filler-list-every-episode-skip/",
+      "thumbnail": "/drops/thumbs/74d731379e6b.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "cd8eb7f91c3f",
+      "id": "04fe60bf63da",
       "pillar": "anime",
-      "title": "Netflix's Densest New Revenge Drama Is Too Vast For A Weekend Binge",
+      "title": "2026 Is The Year Isekai Has Finally Been Dethroned As Anime's Top Genre",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-chinese-drama-pursuit-of-jade-long-binge/",
-      "thumbnail": "/drops/thumbs/cd8eb7f91c3f.png",
+      "source_url": "https://screenrant.com/fantasy-anime-beats-isekai-anime-2026/",
+      "thumbnail": "/drops/thumbs/04fe60bf63da.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "8871d161ff9f",
+    "e72c7c7bae79",
     "315c8ac926db",
     "8f74dae0028c",
     "a3a8855af003",
