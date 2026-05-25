@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T18:15:59+00:00",
+  "generated_utc": "2026-05-25T18:33:27+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f7df97d58ac5",
+      "pillar": "hiphop",
+      "title": "Naomi Osaka Fires Back At Critics & Defended All Black Tennis Celebration",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/ahhplus/naomi-osaka-fires-back-at-critics-defended-all-black-tennis-celebration/",
+      "thumbnail": "/drops/thumbs/f7df97d58ac5.jpg",
+      "published": "2026-05-25T14:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d92d3981b896",
       "pillar": "hiphop",
       "title": "The U.S. Army Has Hired Its First Hip-Hop Artist to Reach Younger Audiences",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "d7336a946fb9",
-      "pillar": "hiphop",
-      "title": "Dame Dash Returns With Dash Records & He’s Betting On The Next Generation",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/dame-dash-returns-with-dash-records-hes-betting-on-the-next-generation/",
-      "thumbnail": "/drops/thumbs/d7336a946fb9.jpg",
-      "published": "2026-05-25T10:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "23dc0b6ee0fd",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Ranks #1 on Bookscan's April Adult Graphic Novel List in U.S.",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "1a64ee1cd9ab",
+      "id": "e6bfa8bf51f3",
       "pillar": "anime",
-      "title": "Kan Takahama Launches New Manga",
+      "title": "Sal Jiang's Wicked Spot Manga Ends in 2 Chapters",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/kan-takahama-launches-new-manga/.237767",
-      "thumbnail": "/drops/thumbs/1a64ee1cd9ab.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/sal-jiang-wicked-spot-manga-ends-in-2-chapters/.237763",
+      "thumbnail": "/drops/thumbs/e6bfa8bf51f3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "5360406fab6d",
+      "id": "1a64ee1cd9ab",
       "pillar": "anime",
-      "title": "U-NEXT Holdings to Acquire GoHands Anime Studio as 100%-Owned Subsidiary",
+      "title": "Kan Takahama Launches New Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/u-next-holdings-to-acquire-gohands-anime-studio-as-100-percent-owned-subsidiary/.237795",
-      "thumbnail": "/drops/thumbs/5360406fab6d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-25/kan-takahama-launches-new-manga/.237767",
+      "thumbnail": "/drops/thumbs/1a64ee1cd9ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "d92d3981b896",
+    "f7df97d58ac5",
     "315c8ac926db",
     "23dc0b6ee0fd",
     "b7892b717b41",
