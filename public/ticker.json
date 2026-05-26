@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T22:28:29+00:00",
+  "generated_utc": "2026-05-26T22:30:42+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -186,13 +186,6 @@
       "article_slug": null
     },
     {
-      "title": "Twitch’s Infamous Rule Breaker Gets Banned For Playing Dark Souls On Her Feet",
-      "url": "https://kotaku.com/morgpie-twitch-stream-dark-souls-soles-feet-green-screen-ban-2000699433",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News The Witcher 3 Dev Announces Anniversary Stream, Gets Bombarded with Rumoured DLC Demands",
       "url": "https://www.pushsquare.com/news/2026/05/the-witcher-3-dev-announces-anniversary-stream-gets-bombarded-with-rumoured-dlc-demands",
       "pillar": "gaming",
@@ -202,6 +195,13 @@
     {
       "title": "The Next Kingdom Come Deliverance Could Come Out By 2028 “If Everything Goes Right”",
       "url": "https://gameranx.com/updates/id/562808/article/the-next-kingdom-come-deliverance-could-come-out-by-2028-if-everything-goes-right/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Marathon Goes Full Survival Horror Mode In New Nightfall Trailer And I Can’t Believe I’m About To Get Sucked In All Over Again",
+      "url": "https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
