@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T09:44:38+00:00",
+  "generated_utc": "2026-05-26T10:10:38+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "17995a274511",
+      "pillar": "anime",
+      "title": "One Piece finally gives Zoro the flashback he deserves in new novel",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/one-piece-novel-zoro-oda-flashback-new/",
+      "thumbnail": "/drops/thumbs/17995a274511.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0c4330bd45c1",
       "pillar": "anime",
       "title": "Sailor Moon Is Secretly The Reason Naruto Is So Great... No, Really",
@@ -231,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "cbd64789f38f",
-      "pillar": "anime",
-      "title": "Netflix's next sci-fi sleeper hit is a 12-part anime so great you'll finish it in one weekend",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/milky-subway-the-galactic-limited-express-coming-to-netflix-movie/",
-      "thumbnail": "/drops/thumbs/cbd64789f38f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d5055c6219a5",
       "pillar": "anime",
       "title": "Cyborg 009: Nemesis Anime Casts Mitsuaki Kanuka as Cyborg 006",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "b9a49390c894",
+      "id": "cbd64789f38f",
       "pillar": "anime",
-      "title": "Assassination Classroom is still one of anime’s most unique sci-fi stories and it’s hitting Netflix in June",
+      "title": "Netflix's next sci-fi sleeper hit is a 12-part anime so great you'll finish it in one weekend",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/netflix-assassination-classroom-anime-most-unique-school-story/",
-      "thumbnail": "/drops/thumbs/b9a49390c894.jpg",
+      "source_url": "https://www.polygon.com/milky-subway-the-galactic-limited-express-coming-to-netflix-movie/",
+      "thumbnail": "/drops/thumbs/cbd64789f38f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "b75d2e77262d",
-      "pillar": "gaming",
-      "title": "News It Seems Most PS5 Fans Prefer Returnal Over Saros, But It's Not That Straightforward",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/it-seems-most-ps5-fans-prefer-returnal-over-saros-but-its-not-that-straightforward",
-      "thumbnail": "/drops/thumbs/b75d2e77262d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ed5f9dfcb35b",
       "pillar": "gaming",
       "title": "News Tekken 8 Grabs One of the Craziest Guest Characters Yet",
@@ -363,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "e0f8fa2ef63d",
+      "pillar": "gaming",
+      "title": "Korean Game Rating May Have Leaked LEGO Skylines",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562803/article/korean-game-rating-may-have-leaked-lego-skylines/",
+      "thumbnail": "/drops/thumbs/e0f8fa2ef63d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f5774b384476",
       "pillar": "gaming",
       "title": "Rumor: Elsewhere Entertainment’s Open World, Multiplayer RPG Will Have PvE (To Rival GTA?)",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "722550c96a45",
+      "id": "cbae867f039f",
       "pillar": "gaming",
-      "title": "007 First Light Will Only Have Preloads For PS5 – But Other Platforms Still Get Early Access Privileges",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562799/article/007-first-light-will-only-have-preloads-for-ps5-but-other-platforms-still-get-early-access-privileges/",
-      "thumbnail": "/drops/thumbs/722550c96a45.png",
+      "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185",
+      "thumbnail": "/drops/thumbs/cbae867f039f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "1f8cbf1d8983",
     "d9717ed83794",
     "5d4bbf488e7f",
-    "0c4330bd45c1",
+    "17995a274511",
     "b7892b717b41",
     "dad1eb9dd86d"
   ]
