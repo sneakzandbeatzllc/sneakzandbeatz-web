@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T10:46:30+00:00",
+  "generated_utc": "2026-05-26T11:11:38+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News 'Absurd': Social Media Misquotes Journalist, Erroneously Claims Sony Is Angry at Naughty Dog",
-      "url": "https://www.pushsquare.com/news/2026/05/absurd-social-media-misquotes-journalist-erroneously-claims-sony-is-angry-at-naughty-dog",
+      "title": "News Persona 4 Revival Really Could Be Out in the Next 12 Months",
+      "url": "https://www.pushsquare.com/news/2026/05/persona-4-revival-really-could-be-out-in-the-next-12-months",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,6 +188,13 @@
     {
       "title": "CALX Is The Journey -Looking Action-RPG Soulslike I Never Knew I Needed Until I Played It",
       "url": "https://kotaku.com/calx-is-the-journey-looking-action-rpg-soulslike-i-never-knew-i-needed-until-i-played-it-2000699178",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 'Absurd': Social Media Misquotes Journalist, Erroneously Claims Sony Is Angry at Naughty Dog",
+      "url": "https://www.pushsquare.com/news/2026/05/absurd-social-media-misquotes-journalist-erroneously-claims-sony-is-angry-at-naughty-dog",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Rumor: Elsewhere Entertainment’s Open World, Multiplayer RPG Will Have PvE (To Rival GTA?)",
       "url": "https://gameranx.com/updates/id/562801/article/rumor-elsewhere-entertainments-open-world-multiplayer-rpg-will-have-pve-to-rival-gta/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them",
-      "url": "https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

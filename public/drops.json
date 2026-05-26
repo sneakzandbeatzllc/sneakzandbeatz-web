@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T10:46:30+00:00",
+  "generated_utc": "2026-05-26T11:11:38+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "dad1eb9dd86d",
+      "id": "3ba5631b2273",
       "pillar": "gaming",
-      "title": "News 'Absurd': Social Media Misquotes Journalist, Erroneously Claims Sony Is Angry at Naughty Dog",
+      "title": "News Persona 4 Revival Really Could Be Out in the Next 12 Months",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/absurd-social-media-misquotes-journalist-erroneously-claims-sony-is-angry-at-naughty-dog",
-      "thumbnail": "/drops/thumbs/dad1eb9dd86d.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/persona-4-revival-really-could-be-out-in-the-next-12-months",
+      "thumbnail": "/drops/thumbs/3ba5631b2273.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +321,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/calx-is-the-journey-looking-action-rpg-soulslike-i-never-knew-i-needed-until-i-played-it-2000699178",
       "thumbnail": "/drops/thumbs/476763f7a014.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dad1eb9dd86d",
+      "pillar": "gaming",
+      "title": "News 'Absurd': Social Media Misquotes Journalist, Erroneously Claims Sony Is Angry at Naughty Dog",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/absurd-social-media-misquotes-journalist-erroneously-claims-sony-is-angry-at-naughty-dog",
+      "thumbnail": "/drops/thumbs/dad1eb9dd86d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "cbae867f039f",
-      "pillar": "gaming",
-      "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185",
-      "thumbnail": "/drops/thumbs/cbae867f039f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "5d4bbf488e7f",
     "17995a274511",
     "b7892b717b41",
-    "dad1eb9dd86d"
+    "3ba5631b2273"
   ]
 }
