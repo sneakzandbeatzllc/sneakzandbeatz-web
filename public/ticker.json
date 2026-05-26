@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T23:11:37+00:00",
+  "generated_utc": "2026-05-26T00:13:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Jim Jones Puts Memorial Day To Work Calling Cam’ron Out For Costing Dipset The Verzuz",
+      "url": "https://allhiphop.com/news/jim-jones-puts-memorial-day-to-work-calling-camron-out-for-costing-dipset-the-verzuz/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kanye Returning To Tampa For The First Time In 10 Years",
       "url": "https://allhiphop.com/news/kanye-returning-to-tampa-for-the-first-time-in-10-years/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Naomi Osaka Fires Back At Critics & Defended All Black Tennis Celebration",
       "url": "https://allhiphop.com/ahhplus/naomi-osaka-fires-back-at-critics-defended-all-black-tennis-celebration/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The U.S. Army Has Hired Its First Hip-Hop Artist to Reach Younger Audiences",
-      "url": "https://allhiphop.com/news/the-u-s-army-has-hired-its-first-hip-hop-artist-to-reach-younger-audiences/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -186,6 +186,13 @@
       "article_slug": null
     },
     {
+      "title": "CALX Is The Journey -Looking Action-RPG Soulslike I Never Knew I Needed Until I Played It",
+      "url": "https://kotaku.com/calx-is-the-journey-looking-action-rpg-soulslike-i-never-knew-i-needed-until-i-played-it-2000699178",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News It Seems Most PS5 Fans Prefer Returnal Over Saros, But It's Not That Straightforward",
       "url": "https://www.pushsquare.com/news/2026/05/it-seems-most-ps5-fans-prefer-returnal-over-saros-but-its-not-that-straightforward",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Destiny 2 is dead: \"active development\" ends next month after one final update",
       "url": "https://www.gamesradar.com/games/destiny/destiny-2-is-dead-active-development-ends-next-month-after-one-final-update-but-bungie-says-the-mmo-will-still-be-playable/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them",
-      "url": "https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

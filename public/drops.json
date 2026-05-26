@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-25T23:11:37+00:00",
+  "generated_utc": "2026-05-26T00:13:02+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "47b382b330a2",
+      "pillar": "hiphop",
+      "title": "Jim Jones Puts Memorial Day To Work Calling Cam’ron Out For Costing Dipset The Verzuz",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/jim-jones-puts-memorial-day-to-work-calling-camron-out-for-costing-dipset-the-verzuz/",
+      "thumbnail": "/drops/thumbs/47b382b330a2.png",
+      "published": "2026-05-25T20:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4f2d1793cfe6",
       "pillar": "hiphop",
       "title": "Kanye Returning To Tampa For The First Time In 10 Years",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/ahhplus/naomi-osaka-fires-back-at-critics-defended-all-black-tennis-celebration/",
       "thumbnail": "/drops/thumbs/f7df97d58ac5.jpg",
       "published": "2026-05-25T14:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d92d3981b896",
-      "pillar": "hiphop",
-      "title": "The U.S. Army Has Hired Its First Hip-Hop Artist to Reach Younger Audiences",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/the-u-s-army-has-hired-its-first-hip-hop-artist-to-reach-younger-audiences/",
-      "thumbnail": "/drops/thumbs/d92d3981b896.jpg",
-      "published": "2026-05-25T14:00:24",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -315,6 +315,18 @@
       "release_badge": ""
     },
     {
+      "id": "476763f7a014",
+      "pillar": "gaming",
+      "title": "CALX Is The Journey -Looking Action-RPG Soulslike I Never Knew I Needed Until I Played It",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/calx-is-the-journey-looking-action-rpg-soulslike-i-never-knew-i-needed-until-i-played-it-2000699178",
+      "thumbnail": "/drops/thumbs/476763f7a014.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b75d2e77262d",
       "pillar": "gaming",
       "title": "News It Seems Most PS5 Fans Prefer Returnal Over Saros, But It's Not That Straightforward",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "cbae867f039f",
-      "pillar": "gaming",
-      "title": "Mark Zuckerberg Boasts He Bled His Employees For AI Training Right Before Firing Them",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/mark-zuckerberg-meta-ai-training-firings-data-2000699185",
-      "thumbnail": "/drops/thumbs/cbae867f039f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "3111a2d5962f",
-    "4f2d1793cfe6",
+    "47b382b330a2",
     "315c8ac926db",
     "23dc0b6ee0fd",
     "b7892b717b41",
