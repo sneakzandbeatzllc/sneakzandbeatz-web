@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T00:39:48+00:00",
+  "generated_utc": "2026-05-26T01:06:52+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "10 Jujutsu Kaisen Manga Panels That Prove It's A Genuine Masterpiece",
-      "url": "https://screenrant.com/jujutsu-kaisen-best-manga-panels-all-time-masterpiece/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "After 28 Years, Zoro Finally Gets The One Piece Origin Story He Deserves",
       "url": "https://screenrant.com/one-piece-zoro-origin-story-book/",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Assassination Classroom is still one of anime’s most unique sci-fi stories and it’s hitting Netflix in June",
       "url": "https://www.polygon.com/netflix-assassination-classroom-anime-most-unique-school-story/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sal Jiang's Wicked Spot Manga Ends in 2 Chapters",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-25/sal-jiang-wicked-spot-manga-ends-in-2-chapters/.237763",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
