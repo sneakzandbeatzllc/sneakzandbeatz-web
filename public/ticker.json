@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T16:23:35+00:00",
+  "generated_utc": "2026-05-26T16:55:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,10 +32,24 @@
       "article_slug": null
     },
     {
+      "title": "Travis Scott x Air Jordan 1 Low “Pink Pack” Releases May 29th",
+      "url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-pink-pack/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 1 Low OG “Phantom/Pine Green” Releases June 6th",
       "url": "https://sneakerbardetroit.com/air-jordan-1-low-og-phantom-pine-green-ir2283-030/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 3 is Getting a Utility Upgrade in Spring 2027",
+      "url": "https://justfreshkicks.com/air-jordan-3-utility-ix0198-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -46,17 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 4 “Musik” Pays Tribute to Hip-Hop’s Golden Era",
-      "url": "https://justfreshkicks.com/air-jordan-4-musik-ja8136-200/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 14 Low “Valentine’s Day” Arrives in 2027",
-      "url": "https://justfreshkicks.com/air-jordan-14-low-valentines-day-ix5170-600/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Looks Like Dr. Cheyenne Bryant Got Caught In Another BIG Lie",
+      "url": "https://allhiphop.com/rumors/looks-like-dr-cheyenne-bryant-got-caught-in-another-big-lie/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Happy 51st Birthday To The Illustrious Ms. Lauryn Hill!",
       "url": "https://thesource.com/2026/05/26/happy-51st-birthday-to-the-illustrious-ms-lauryn-hill/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "U.S. Debt Climbs Past $39 Trillion as Trump-Era Spending Intensifies",
-      "url": "https://thesource.com/2026/05/26/u-s-debt-climbs-past-39-trillion-as-trump-era-spending-intensifies/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null

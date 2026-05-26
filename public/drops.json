@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T16:23:35+00:00",
+  "generated_utc": "2026-05-26T16:55:18+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -51,6 +51,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "78eec618cda3",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low “Pink Pack” Releases May 29th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/travis-scott-air-jordan-1-low-pink-pack/",
+      "thumbnail": "/drops/thumbs/78eec618cda3.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
       "id": "c30db6075cc7",
       "pillar": "sneakers",
       "title": "Air Jordan 1 Low OG “Phantom/Pine Green” Releases June 6th",
@@ -61,6 +73,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "f22dc6e86f71",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 3 is Getting a Utility Upgrade in Spring 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-utility-ix0198-001/",
+      "thumbnail": "/drops/thumbs/f22dc6e86f71.webp",
+      "published": "2026-05-26T12:39:26",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "4f9e304d1cce",
@@ -75,27 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "c0a9e62c776f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Musik” Pays Tribute to Hip-Hop’s Golden Era",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-musik-ja8136-200/",
-      "thumbnail": "/drops/thumbs/c0a9e62c776f.jpg",
-      "published": "2026-05-26T03:00:48",
+      "id": "2b163d4e717f",
+      "pillar": "hiphop",
+      "title": "Looks Like Dr. Cheyenne Bryant Got Caught In Another BIG Lie",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/looks-like-dr-cheyenne-bryant-got-caught-in-another-big-lie/",
+      "thumbnail": "/drops/thumbs/2b163d4e717f.jpg",
+      "published": "2026-05-26T12:35:00",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "953c44d33075",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 14 Low “Valentine’s Day” Arrives in 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-14-low-valentines-day-ix5170-600/",
-      "thumbnail": "/drops/thumbs/953c44d33075.jpg",
-      "published": "2026-05-26T00:27:19",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/26/happy-51st-birthday-to-the-illustrious-ms-lauryn-hill/",
       "thumbnail": "/drops/thumbs/5d1c08bbf5e9.jpg",
       "published": "2026-05-26T08:51:37",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "790dbed89d7d",
-      "pillar": "hiphop",
-      "title": "U.S. Debt Climbs Past $39 Trillion as Trump-Era Spending Intensifies",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/26/u-s-debt-climbs-past-39-trillion-as-trump-era-spending-intensifies/",
-      "thumbnail": "/drops/thumbs/790dbed89d7d.jpg",
-      "published": "2026-05-26T08:50:06",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "d91cacebcd57",
+    "2b163d4e717f",
     "5d4bbf488e7f",
     "9e53f4ed78e4",
     "b7892b717b41",
