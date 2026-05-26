@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T01:06:52+00:00",
+  "generated_utc": "2026-05-26T02:06:53+00:00",
   "items": [
     {
       "id": "3111a2d5962f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "8da291857d56",
+      "pillar": "hiphop",
+      "title": "Cardi B Weighing Tour Offers, Planning Second Leg Starting In September",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/cardi-b-weighing-tour-offers-planning-second-leg-starting-in-september/",
+      "thumbnail": "/drops/thumbs/8da291857d56.jpg",
+      "published": "2026-05-25T22:01:57",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "47b382b330a2",
       "pillar": "hiphop",
       "title": "Jim Jones Puts Memorial Day To Work Calling Cam’ron Out For Costing Dipset The Verzuz",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/newsbreak/wild-pitch-texas-family-meal/",
       "thumbnail": "/drops/thumbs/32396e191ca4.jpg",
       "published": "2026-05-25T15:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f7df97d58ac5",
-      "pillar": "hiphop",
-      "title": "Naomi Osaka Fires Back At Critics & Defended All Black Tennis Celebration",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/ahhplus/naomi-osaka-fires-back-at-critics-defended-all-black-tennis-celebration/",
-      "thumbnail": "/drops/thumbs/f7df97d58ac5.jpg",
-      "published": "2026-05-25T14:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "3111a2d5962f",
-    "47b382b330a2",
+    "8da291857d56",
     "315c8ac926db",
     "23dc0b6ee0fd",
     "b7892b717b41",
