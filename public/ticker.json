@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T20:45:10+00:00",
+  "generated_utc": "2026-05-27T21:44:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Kevin Hart Defends HartBeat Downsizing “My Company Was Too Big",
+      "url": "https://allhiphop.com/news/kevin-hart-defends-hartbeat-downsizing-my-company-was-too-big/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "50 Cent Wasn’t Feeling Eminem At First: G-Unit’s DJ Domination Tells All",
       "url": "https://allhiphop.com/news/50-cent-wasnt-feeling-eminem-at-first-g-units-dj-domination-tells-all/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Sky Balla Sexual Assault Trial Starts In Las Vegas Court",
       "url": "https://allhiphop.com/news/sky-balla-sexual-assault-trial-starts-in-las-vegas-court/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Happy 51st Birthday To Hip Hop Icon Andre 3000!",
-      "url": "https://thesource.com/2026/05/27/happy-51st-birthday-to-hip-hop-icon-andre-3000/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null

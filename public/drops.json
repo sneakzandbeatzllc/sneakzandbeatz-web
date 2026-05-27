@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T20:45:10+00:00",
+  "generated_utc": "2026-05-27T21:44:15+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b0621ebfd9f8",
+      "pillar": "hiphop",
+      "title": "Kevin Hart Defends HartBeat Downsizing “My Company Was Too Big",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/kevin-hart-defends-hartbeat-downsizing-my-company-was-too-big/",
+      "thumbnail": "/drops/thumbs/b0621ebfd9f8.png",
+      "published": "2026-05-27T17:00:09",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "acfd0d976a39",
       "pillar": "hiphop",
       "title": "50 Cent Wasn’t Feeling Eminem At First: G-Unit’s DJ Domination Tells All",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/sky-balla-sexual-assault-trial-starts-in-las-vegas-court/",
       "thumbnail": "/drops/thumbs/f47e18427540.jpg",
       "published": "2026-05-27T11:02:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "77c980a65719",
-      "pillar": "hiphop",
-      "title": "Happy 51st Birthday To Hip Hop Icon Andre 3000!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/27/happy-51st-birthday-to-hip-hop-icon-andre-3000/",
-      "thumbnail": "/drops/thumbs/77c980a65719.jpg",
-      "published": "2026-05-27T10:43:18",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "acfd0d976a39",
+    "b0621ebfd9f8",
     "b7892b717b41",
     "a19ba5306490",
     "b590d3f9fa64",
