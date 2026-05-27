@@ -1,18 +1,11 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T17:17:52+00:00",
+  "generated_utc": "2026-05-27T17:40:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "Where To Buy the Air Jordan 12 “Bloodline”",
       "url": "https://www.nicekicks.com/air-jordan-12-bloodline-ct8013-003-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Where To Buy the Nigel Sylvester x Air Jordan 4 “Brick After Brick”",
-      "url": "https://www.nicekicks.com/nigel-sylvester-air-jordan-4-brick-after-brick-iq8055-100-drop/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -55,6 +48,13 @@
     {
       "title": "The Air Jordan 3 is Getting a Utility Upgrade in Spring 2027",
       "url": "https://justfreshkicks.com/air-jordan-3-utility-ix0198-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 14 Low “Valentines Day” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-14-low-valentines-day-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "News Dragon Quest Monsters Finally Drops Nintendo Exclusivity with a New PS5 Game",
-      "url": "https://www.pushsquare.com/news/2026/05/dragon-quest-monsters-finally-drops-nintendo-exclusivity-with-a-new-ps5-game",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Quest 12 Beyond Dreams announced, replacing the previous version of the JRPG as Square Enix hits the reset button",
       "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-12-beyond-dreams-announced-replacing-the-previous-the-previous-version-of-the-jrpg-as-square-enix-hits-reset/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Marathon Is Finally Going Free For A Week As Bungie Looks For A Season 2 Rebound",
       "url": "https://kotaku.com/marathon-is-finally-going-free-for-a-week-as-bungie-looks-for-a-rebound-2000699845",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Leaks Suggest This Year's Call of Duty Is Modern Warfare 4",
+      "url": "https://www.pushsquare.com/news/2026/05/leaks-suggest-this-years-call-of-duty-is-modern-warfare-4",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
