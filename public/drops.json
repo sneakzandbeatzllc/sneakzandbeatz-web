@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T13:31:07+00:00",
+  "generated_utc": "2026-05-27T13:36:22+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "224e8349cbf4",
+      "pillar": "hiphop",
+      "title": "Ruff Ryders Signs Philly Rapper FakeFree KP",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/ruff-ryders-signs-philly-rapper-fakefree-kp/",
+      "thumbnail": "/drops/thumbs/224e8349cbf4.png",
+      "published": "2026-05-27T09:19:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "08386bbc1a47",
+      "pillar": "hiphop",
+      "title": "Popular Rapper’s Barbershop Haircut Photo Leads To Jail Time",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/popular-rappers-barbershop-haircut-photo-leads-to-jail-time/",
+      "thumbnail": "/drops/thumbs/08386bbc1a47.png",
+      "published": "2026-05-27T09:07:36",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0be722ef1d69",
       "pillar": "hiphop",
       "title": "Meek Mill Calls Out Nike Over ‘Dreams and Nightmares’ LeBron Design",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/05/27/chicago-rb-brunch-deleon-bryan-michael-cox/",
       "thumbnail": "/drops/thumbs/ad1149227abd.png",
       "published": "2026-05-27T05:13:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c24e1ceb21a6",
-      "pillar": "hiphop",
-      "title": "Kehlani Announces 33-Date North American Tour",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/27/kehlani-world-tour-2026/",
-      "thumbnail": "/drops/thumbs/c24e1ceb21a6.jpg",
-      "published": "2026-05-27T05:01:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "311b1c83a756",
-      "pillar": "hiphop",
-      "title": "Fat Joe Claims Cavaliers Revoked His Courtside Seats Over Knicks Fandom",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/26/fat-joe-cavaliers-courtside-seats-knicks/",
-      "thumbnail": "/drops/thumbs/311b1c83a756.jpg",
-      "published": "2026-05-26T09:43:25",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "0be722ef1d69",
+    "224e8349cbf4",
     "5d4bbf488e7f",
     "cf5f902a47a4",
     "b7892b717b41",
