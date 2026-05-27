@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T00:39:51+00:00",
+  "generated_utc": "2026-05-27T01:30:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Rick Ross Makes An Offer To 50 Cent To Clean His Yacht",
+      "url": "https://allhiphop.com/news/rick-ross-makes-an-offer-to-50-cent-to-clean-his-yacht/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Meek Mill Calls Out Nike, LeBron Over 23 Dreams & Nightmares Drop & He Has A Right To Be Mad",
       "url": "https://allhiphop.com/news/meek-mill-calls-out-nike-lebron-over-23-dreams-nightmares-drop-he-has-a-right-to-be-mad/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Jazz Legend Sonny Rollins Dead At 95",
       "url": "https://allhiphop.com/news/jazz-legend-sonny-rollins-dead-at-95/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Cardi B Reaches Nine Total AMA Wins After 2026 Hip-Hop Sweep",
-      "url": "https://allhiphop.com/news/cardi-b-reaches-nine-total-ama-wins-after-2026-hip-hop-sweep/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS Store Days of Play Sale Live Now with 2,000+ PS5 Game Deals",
-      "url": "https://www.pushsquare.com/news/2026/05/ps-store-days-of-play-sale-live-now-with-2000plus-ps5-game-deals",
+      "title": "News With PS5 at Its Highest Ever Price, There'll Be No Console Discounts for Days of Play",
+      "url": "https://www.pushsquare.com/news/2026/05/with-ps5-at-its-highest-ever-price-therell-be-no-console-discounts-for-days-of-play",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
