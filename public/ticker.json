@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-26T23:37:52+00:00",
+  "generated_utc": "2026-05-27T00:08:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News In an Alternate Universe, We're All Playing GTA 6 on PS5 Now",
-      "url": "https://www.pushsquare.com/news/2026/05/in-an-alternate-universe-were-all-playing-gta-6-on-ps5-now",
+      "title": "News The Witcher 3 Dev Announces Anniversary Stream, Gets Bombarded with Rumoured DLC Demands",
+      "url": "https://www.pushsquare.com/news/2026/05/the-witcher-3-dev-announces-anniversary-stream-gets-bombarded-with-rumoured-dlc-demands",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -181,13 +181,6 @@
     {
       "title": "Final Fantasy creator Hironobu Sakaguchi is playing the Elden Ring DLC as we speak, it appears",
       "url": "https://www.gamesradar.com/games/action-rpg/final-fantasy-creator-hironobu-sakaguchi-is-playing-the-elden-ring-dlc-as-we-speak-it-appears-and-hes-using-the-king-of-all-shields/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News The Witcher 3 Dev Announces Anniversary Stream, Gets Bombarded with Rumoured DLC Demands",
-      "url": "https://www.pushsquare.com/news/2026/05/the-witcher-3-dev-announces-anniversary-stream-gets-bombarded-with-rumoured-dlc-demands",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -202,6 +195,13 @@
     {
       "title": "Marathon Goes Full Survival Horror Mode In New Nightfall Trailer And I Can’t Believe I’m About To Get Sucked In All Over Again",
       "url": "https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Can Season 2 Turn Bungie's Marathon Around?",
+      "url": "https://www.pushsquare.com/news/2026/05/can-season-2-turn-bungies-marathon-around",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
