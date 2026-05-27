@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T12:35:29+00:00",
+  "generated_utc": "2026-05-27T13:14:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -102,15 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "Wait, Is Lil Wayne Actually Engaged?",
-      "url": "https://allhiphop.com/rumors/wait-is-lil-wayne-actually-engaged/",
+      "title": "Fat Joe Claims Cavaliers Revoked His Courtside Seats Over Knicks Fandom",
+      "url": "https://thesource.com/2026/05/26/fat-joe-cavaliers-courtside-seats-knicks/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Lil Wayne Confirms New Music Is On The Horizon",
-      "url": "https://allhiphop.com/news/lil-wayne-confirms-new-music-is-on-the-horizon/",
+      "title": "Happy 51st Birthday To The Illustrious Ms. Lauryn Hill!",
+      "url": "https://thesource.com/2026/05/26/happy-51st-birthday-to-the-illustrious-ms-lauryn-hill/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "News The Witcher 3 Dev Announces Anniversary Stream, Gets Bombarded with Rumoured DLC Demands",
-      "url": "https://www.pushsquare.com/news/2026/05/the-witcher-3-dev-announces-anniversary-stream-gets-bombarded-with-rumoured-dlc-demands",
+      "title": "The Witcher 3 Is Getting Brand New DLC In 2027, CD Projekt Red Confirms",
+      "url": "https://kotaku.com/the-witcher-3-songs-of-the-past-dlc-cd-projekt-red-2000699754",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Sony's Smartphone Gambit Gets Underway with MLB The Show Mobile, Available Worldwide Now",
+      "url": "https://www.pushsquare.com/news/2026/05/sonys-smartphone-gambit-gets-underway-with-mlb-the-show-mobile-available-worldwide-now",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -209,13 +216,6 @@
     {
       "title": "Call of Duty: Black Ops 7 Season 4’s Cinematic Trailer Is Here",
       "url": "https://gameranx.com/updates/id/562815/article/call-of-duty-black-ops-7-season-4s-cinematic-trailer-is-here/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Sony's Smartphone Gambit Gets Underway with MLB The Show Mobile, Available Worldwide Now",
-      "url": "https://www.pushsquare.com/news/2026/05/sonys-smartphone-gambit-gets-underway-with-mlb-the-show-mobile-available-worldwide-now",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
