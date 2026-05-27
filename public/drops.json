@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T15:45:43+00:00",
+  "generated_utc": "2026-05-27T16:39:25+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "6baeb4316039",
+      "pillar": "hiphop",
+      "title": "Allstar JR Receives Federal Gun Charge Trial Date",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/27/allstar-jr-receives-federal-gun-charge-trial-date/",
+      "thumbnail": "/drops/thumbs/6baeb4316039.jpg",
+      "published": "2026-05-27T11:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5a2558afb69f",
       "pillar": "hiphop",
       "title": "Happy 51st Birthday To Jadakiss! One of The Top 5 DOA Of All Time!",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "714aa962cceb",
-      "pillar": "hiphop",
-      "title": "Ray J Hospitalized After Knockout in Vegas Amid Ongoing Health Concerns",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/27/ray-j-hospitalized-after-knockout-vegas/",
-      "thumbnail": "/drops/thumbs/714aa962cceb.png",
-      "published": "2026-05-27T07:12:35",
+      "id": "a19ba5306490",
+      "pillar": "anime",
+      "title": "Solo Leveling Is Officially Crunchyroll's Biggest Anime Of All Time, And It's Not Close",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-biggest-crunchyroll-anime-all-time/",
+      "thumbnail": "/drops/thumbs/a19ba5306490.png",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -213,18 +225,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/frieren-edges-out-one-piece-in-japanese-manga-sales-despite-far-fewer-chapters/",
       "thumbnail": "/drops/thumbs/a0bde27601d0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1bc61d21fc6b",
-      "pillar": "anime",
-      "title": "Naruto's Jiraiya Officially Returns In New Anime Trailer That Should Be The Franchise's Blueprint",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-jiraiya-return-new-anime-trailer-blueprint/",
-      "thumbnail": "/drops/thumbs/1bc61d21fc6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "3919b73038dc",
+      "id": "ccdcd691278e",
       "pillar": "anime",
-      "title": "Netflix's Best Dark Fantasy Anime, Dorohedoro, Is Officially Returning For Season 3",
+      "title": "Akira Toriyama's Final Project Has Been Officially Revealed, And It Looks Incredible",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dorohedoro-season-3-confirmed-netflix/",
-      "thumbnail": "/drops/thumbs/3919b73038dc.jpg",
+      "source_url": "https://screenrant.com/dragon-ball-creator-akira-toriyamas-final-project-has-been-officially-revealed-and-it-looks-incredible/",
+      "thumbnail": "/drops/thumbs/ccdcd691278e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "1d86a6cbf393",
-      "pillar": "gaming",
-      "title": "Dragon Quest 12 Will Take Longer To Come Out After The Team Decided To ‘Start From Scratch’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781",
-      "thumbnail": "/drops/thumbs/1d86a6cbf393.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b9d1ed9be3bb",
       "pillar": "gaming",
       "title": "News Dragon Quest Monsters Finally Drops Nintendo Exclusivity with a New PS5 Game",
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "4fa08db5dfbf",
+      "id": "8dbfbc21917d",
       "pillar": "gaming",
-      "title": "News Dragon Quest 12 Renamed and Re-Revealed After Development Restart, First Gameplay Shown",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/dragon-quest-12-renamed-and-re-revealed-after-development-restart-first-gameplay-shown",
-      "thumbnail": "/drops/thumbs/4fa08db5dfbf.jpg",
+      "title": "Mina the Hollower review: \"Classic Zelda vibes channel Bloodborne to create one of my new retro-style favorites\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/adventure/mina-the-hollower-review/",
+      "thumbnail": "/drops/thumbs/8dbfbc21917d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8954250cbe56",
+      "pillar": "gaming",
+      "title": "Marathon Is Finally Going Free For A Week As Bungie Looks For A Season 2 Rebound",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/marathon-is-finally-going-free-for-a-week-as-bungie-looks-for-a-rebound-2000699845",
+      "thumbnail": "/drops/thumbs/8954250cbe56.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "5a2558afb69f",
+    "6baeb4316039",
     "5d4bbf488e7f",
-    "cf5f902a47a4",
+    "a19ba5306490",
     "b7892b717b41",
     "26f32ce4b705"
   ]

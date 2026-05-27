@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T15:45:43+00:00",
+  "generated_utc": "2026-05-27T16:39:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Allstar JR Receives Federal Gun Charge Trial Date",
+      "url": "https://thesource.com/2026/05/27/allstar-jr-receives-federal-gun-charge-trial-date/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Happy 51st Birthday To Jadakiss! One of The Top 5 DOA Of All Time!",
       "url": "https://thesource.com/2026/05/27/happy-51st-birthday-to-jadakiss-one-of-the-top-5-doa-of-all-time/",
       "pillar": "hiphop",
@@ -109,9 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Ray J Hospitalized After Knockout in Vegas Amid Ongoing Health Concerns",
-      "url": "https://thesource.com/2026/05/27/ray-j-hospitalized-after-knockout-vegas/",
-      "pillar": "hiphop",
+      "title": "Solo Leveling Is Officially Crunchyroll's Biggest Anime Of All Time, And It's Not Close",
+      "url": "https://screenrant.com/solo-leveling-biggest-crunchyroll-anime-all-time/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -125,13 +132,6 @@
     {
       "title": "Frieren edges out One Piece in Japanese manga sales despite lengthy hiatus",
       "url": "https://www.polygon.com/frieren-edges-out-one-piece-in-japanese-manga-sales-despite-far-fewer-chapters/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naruto's Jiraiya Officially Returns In New Anime Trailer That Should Be The Franchise's Blueprint",
-      "url": "https://screenrant.com/naruto-jiraiya-return-new-anime-trailer-blueprint/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Netflix's Best Dark Fantasy Anime, Dorohedoro, Is Officially Returning For Season 3",
-      "url": "https://screenrant.com/dorohedoro-season-3-confirmed-netflix/",
+      "title": "Akira Toriyama's Final Project Has Been Officially Revealed, And It Looks Incredible",
+      "url": "https://screenrant.com/dragon-ball-creator-akira-toriyamas-final-project-has-been-officially-revealed-and-it-looks-incredible/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Quest 12 Will Take Longer To Come Out After The Team Decided To ‘Start From Scratch’",
-      "url": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Dragon Quest Monsters Finally Drops Nintendo Exclusivity with a New PS5 Game",
       "url": "https://www.pushsquare.com/news/2026/05/dragon-quest-monsters-finally-drops-nintendo-exclusivity-with-a-new-ps5-game",
       "pillar": "gaming",
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News Dragon Quest 12 Renamed and Re-Revealed After Development Restart, First Gameplay Shown",
-      "url": "https://www.pushsquare.com/news/2026/05/dragon-quest-12-renamed-and-re-revealed-after-development-restart-first-gameplay-shown",
+      "title": "Mina the Hollower review: \"Classic Zelda vibes channel Bloodborne to create one of my new retro-style favorites\"",
+      "url": "https://www.gamesradar.com/games/adventure/mina-the-hollower-review/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Marathon Is Finally Going Free For A Week As Bungie Looks For A Season 2 Rebound",
+      "url": "https://kotaku.com/marathon-is-finally-going-free-for-a-week-as-bungie-looks-for-a-rebound-2000699845",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
