@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T17:48:57+00:00",
+  "generated_utc": "2026-05-27T18:20:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "A$AP Rocky To Receive First-Ever Tribeca X Filmmaker Award",
+      "url": "https://allhiphop.com/news/aap-rocky-to-receive-first-ever-tribeca-x-filmmaker-award/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Bad Bunny Joins “Toy Story 5” Cast As Mysterious Toy Character",
       "url": "https://allhiphop.com/news/bad-bunny-joins-toy-story-5-cast-as-mysterious-toy-character/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Ruff Ryders Signs Philly Rapper FakeFree KP",
       "url": "https://allhiphop.com/rumors/ruff-ryders-signs-philly-rapper-fakefree-kp/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Popular Rapper’s Barbershop Haircut Photo Leads To Jail Time",
-      "url": "https://allhiphop.com/news/popular-rappers-barbershop-haircut-photo-leads-to-jail-time/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
