@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T01:31:20+00:00",
+  "generated_utc": "2026-05-27T02:31:29+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "020316e26fae",
+      "id": "55362d613cae",
       "pillar": "gaming",
-      "title": "News The Witcher 3 Dev Announces Anniversary Stream, Gets Bombarded with Rumoured DLC Demands",
+      "title": "News Try One of 2026's Best PS5 Games in New Resident Evil Requiem Demo",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/the-witcher-3-dev-announces-anniversary-stream-gets-bombarded-with-rumoured-dlc-demands",
-      "thumbnail": "/drops/thumbs/020316e26fae.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/try-one-of-2026s-best-ps5-games-in-new-resident-evil-requiem-demo",
+      "thumbnail": "/drops/thumbs/55362d613cae.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,6 +309,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action-rpg/final-fantasy-creator-hironobu-sakaguchi-is-playing-the-elden-ring-dlc-as-we-speak-it-appears-and-hes-using-the-king-of-all-shields/",
       "thumbnail": "/drops/thumbs/136175f8b4a9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "020316e26fae",
+      "pillar": "gaming",
+      "title": "News The Witcher 3 Dev Announces Anniversary Stream, Gets Bombarded with Rumoured DLC Demands",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/the-witcher-3-dev-announces-anniversary-stream-gets-bombarded-with-rumoured-dlc-demands",
+      "thumbnail": "/drops/thumbs/020316e26fae.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -333,18 +345,6 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604",
       "thumbnail": "/drops/thumbs/b093ebb2b2ad.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "025cab773f35",
-      "pillar": "gaming",
-      "title": "News With PS5 at Its Highest Ever Price, There'll Be No Console Discounts for Days of Play",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/with-ps5-at-its-highest-ever-price-therell-be-no-console-discounts-for-days-of-play",
-      "thumbnail": "/drops/thumbs/025cab773f35.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "5d4bbf488e7f",
     "9e53f4ed78e4",
     "b7892b717b41",
-    "020316e26fae"
+    "55362d613cae"
   ]
 }
