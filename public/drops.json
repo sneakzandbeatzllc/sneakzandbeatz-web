@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T16:46:52+00:00",
+  "generated_utc": "2026-05-27T17:17:52+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "34c8277c3b23",
+      "pillar": "hiphop",
+      "title": "Bad Bunny Joins “Toy Story 5” Cast As Mysterious Toy Character",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/bad-bunny-joins-toy-story-5-cast-as-mysterious-toy-character/",
+      "thumbnail": "/drops/thumbs/34c8277c3b23.png",
+      "published": "2026-05-27T13:00:06",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6baeb4316039",
       "pillar": "hiphop",
       "title": "Allstar JR Receives Federal Gun Charge Trial Date",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "0be722ef1d69",
-      "pillar": "hiphop",
-      "title": "Meek Mill Calls Out Nike Over ‘Dreams and Nightmares’ LeBron Design",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/27/meek-mill-nike-dreams-and-nightmares-lebron/",
-      "thumbnail": "/drops/thumbs/0be722ef1d69.jpg",
-      "published": "2026-05-27T07:17:04",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a19ba5306490",
       "pillar": "anime",
       "title": "Solo Leveling Is Officially Crunchyroll's Biggest Anime Of All Time, And It's Not Close",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "e99bc93e0b21",
+      "id": "41acbc04eb22",
       "pillar": "anime",
-      "title": "Dorohedoro Anime Gets 3rd Season",
+      "title": "Pokémon Horizons Anime Casts Kis-My-Ft2's Toshiya Miyata",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866",
-      "thumbnail": "/drops/thumbs/e99bc93e0b21.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/pokemon-horizons-anime-casts-kis-my-ft2-toshiya-miyata/.237867",
+      "thumbnail": "/drops/thumbs/41acbc04eb22.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "aaee2431a714",
+      "id": "e99bc93e0b21",
       "pillar": "anime",
-      "title": "Dragon Quest XI S Game Gets Switch 2 Version",
+      "title": "Dorohedoro Anime Gets 3rd Season",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/dragon-quest-xi-s-game-gets-switch-2-version/.237865",
-      "thumbnail": "/drops/thumbs/aaee2431a714.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866",
+      "thumbnail": "/drops/thumbs/e99bc93e0b21.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "10219f893c9f",
+      "id": "aaee2431a714",
       "pillar": "anime",
-      "title": "Square Enix Announces Dragon Quest Monsters: The Withered World Game",
+      "title": "Dragon Quest XI S Game Gets Switch 2 Version",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/square-enix-announces-dragon-quest-monsters-the-withered-world-game/.237863",
-      "thumbnail": "/drops/thumbs/10219f893c9f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/dragon-quest-xi-s-game-gets-switch-2-version/.237865",
+      "thumbnail": "/drops/thumbs/aaee2431a714.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "6baeb4316039",
+    "34c8277c3b23",
     "5d4bbf488e7f",
     "a19ba5306490",
     "b7892b717b41",

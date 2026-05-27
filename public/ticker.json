@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T16:46:52+00:00",
+  "generated_utc": "2026-05-27T17:17:52+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Bad Bunny Joins “Toy Story 5” Cast As Mysterious Toy Character",
+      "url": "https://allhiphop.com/news/bad-bunny-joins-toy-story-5-cast-as-mysterious-toy-character/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Allstar JR Receives Federal Gun Charge Trial Date",
       "url": "https://thesource.com/2026/05/27/allstar-jr-receives-federal-gun-charge-trial-date/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Meek Mill Calls Out Nike Over ‘Dreams and Nightmares’ LeBron Design",
-      "url": "https://thesource.com/2026/05/27/meek-mill-nike-dreams-and-nightmares-lebron/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling Is Officially Crunchyroll's Biggest Anime Of All Time, And It's Not Close",
       "url": "https://screenrant.com/solo-leveling-biggest-crunchyroll-anime-all-time/",
       "pillar": "anime",
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Dorohedoro Anime Gets 3rd Season",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866",
+      "title": "Pokémon Horizons Anime Casts Kis-My-Ft2's Toshiya Miyata",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-27/pokemon-horizons-anime-casts-kis-my-ft2-toshiya-miyata/.237867",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Dragon Quest XI S Game Gets Switch 2 Version",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-27/dragon-quest-xi-s-game-gets-switch-2-version/.237865",
+      "title": "Dorohedoro Anime Gets 3rd Season",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Square Enix Announces Dragon Quest Monsters: The Withered World Game",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-27/square-enix-announces-dragon-quest-monsters-the-withered-world-game/.237863",
+      "title": "Dragon Quest XI S Game Gets Switch 2 Version",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-27/dragon-quest-xi-s-game-gets-switch-2-version/.237865",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
