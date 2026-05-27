@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T19:53:17+00:00",
+  "generated_utc": "2026-05-27T20:24:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "50 Cent Wasn’t Feeling Eminem At First: G-Unit’s DJ Domination Tells All",
+      "url": "https://allhiphop.com/news/50-cent-wasnt-feeling-eminem-at-first-g-units-dj-domination-tells-all/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Gucci Mane Explains Bipolar Disorder & Schizophrenia: “Ticking Time Bomb”",
       "url": "https://allhiphop.com/news/gucci-mane-explains-bipolar-disorder-schizophrenia-ticking-time-bomb/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Key Glock Becomes CEO, Signs First Artist & Honors Young Dolph Legacy",
-      "url": "https://allhiphop.com/news/key-glock-becomes-ceo-signs-first-artist-honors-young-dolph-legacy/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling Is Officially Crunchyroll's Biggest Anime Of All Time, And It's Not Close",
       "url": "https://screenrant.com/solo-leveling-biggest-crunchyroll-anime-all-time/",
       "pillar": "anime",
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Pokémon Horizons Anime Casts Kis-My-Ft2's Toshiya Miyata",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-27/pokemon-horizons-anime-casts-kis-my-ft2-toshiya-miyata/.237867",
+      "title": "Aloha Comics Adds Ikuno Tajima's Ever After Manga in English",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-27/aloha-comics-adds-ikuno-tajima-ever-after-manga-in-english/.237799",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Dorohedoro Anime Gets 3rd Season",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866",
+      "title": "Pokémon Horizons Anime Casts Kis-My-Ft2's Toshiya Miyata",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-27/pokemon-horizons-anime-casts-kis-my-ft2-toshiya-miyata/.237867",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Quest XI S Game Gets Switch 2 Version",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-27/dragon-quest-xi-s-game-gets-switch-2-version/.237865",
+      "title": "Dorohedoro Anime Gets 3rd Season",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

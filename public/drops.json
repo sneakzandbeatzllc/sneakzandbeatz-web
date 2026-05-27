@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T19:53:17+00:00",
+  "generated_utc": "2026-05-27T20:24:26+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "acfd0d976a39",
+      "pillar": "hiphop",
+      "title": "50 Cent Wasn’t Feeling Eminem At First: G-Unit’s DJ Domination Tells All",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/50-cent-wasnt-feeling-eminem-at-first-g-units-dj-domination-tells-all/",
+      "thumbnail": "/drops/thumbs/acfd0d976a39.png",
+      "published": "2026-05-27T16:00:29",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b414ae322089",
       "pillar": "hiphop",
       "title": "Gucci Mane Explains Bipolar Disorder & Schizophrenia: “Ticking Time Bomb”",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "15043d1c8cea",
-      "pillar": "hiphop",
-      "title": "Key Glock Becomes CEO, Signs First Artist & Honors Young Dolph Legacy",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/key-glock-becomes-ceo-signs-first-artist-honors-young-dolph-legacy/",
-      "thumbnail": "/drops/thumbs/15043d1c8cea.jpg",
-      "published": "2026-05-27T10:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a19ba5306490",
       "pillar": "anime",
       "title": "Solo Leveling Is Officially Crunchyroll's Biggest Anime Of All Time, And It's Not Close",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "41acbc04eb22",
+      "id": "0f548720df07",
       "pillar": "anime",
-      "title": "Pokémon Horizons Anime Casts Kis-My-Ft2's Toshiya Miyata",
+      "title": "Aloha Comics Adds Ikuno Tajima's Ever After Manga in English",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/pokemon-horizons-anime-casts-kis-my-ft2-toshiya-miyata/.237867",
-      "thumbnail": "/drops/thumbs/41acbc04eb22.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/aloha-comics-adds-ikuno-tajima-ever-after-manga-in-english/.237799",
+      "thumbnail": "/drops/thumbs/0f548720df07.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "e99bc93e0b21",
+      "id": "41acbc04eb22",
       "pillar": "anime",
-      "title": "Dorohedoro Anime Gets 3rd Season",
+      "title": "Pokémon Horizons Anime Casts Kis-My-Ft2's Toshiya Miyata",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866",
-      "thumbnail": "/drops/thumbs/e99bc93e0b21.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/pokemon-horizons-anime-casts-kis-my-ft2-toshiya-miyata/.237867",
+      "thumbnail": "/drops/thumbs/41acbc04eb22.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "aaee2431a714",
+      "id": "e99bc93e0b21",
       "pillar": "anime",
-      "title": "Dragon Quest XI S Game Gets Switch 2 Version",
+      "title": "Dorohedoro Anime Gets 3rd Season",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/dragon-quest-xi-s-game-gets-switch-2-version/.237865",
-      "thumbnail": "/drops/thumbs/aaee2431a714.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/dorohedoro-anime-gets-3rd-season/.237866",
+      "thumbnail": "/drops/thumbs/e99bc93e0b21.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "b414ae322089",
+    "acfd0d976a39",
     "b7892b717b41",
     "a19ba5306490",
     "b590d3f9fa64",
