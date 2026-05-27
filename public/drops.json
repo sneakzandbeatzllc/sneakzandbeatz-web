@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T23:28:17+00:00",
+  "generated_utc": "2026-05-27T23:46:55+00:00",
   "items": [
-    {
-      "id": "1f8cbf1d8983",
-      "pillar": "sneakers",
-      "title": "Where To Buy the Air Jordan 12 “Bloodline”",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-12-bloodline-ct8013-003-drop/",
-      "thumbnail": "/drops/thumbs/1f8cbf1d8983.jpg",
-      "published": "2026-05-22T17:42:00",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "b7892b717b41",
       "pillar": "sneakers",
@@ -75,18 +63,6 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "a3e23bbf57cc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-05-22T17:50:18",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
       "id": "9f94cb6ecff6",
       "pillar": "sneakers",
       "title": "Air Jordan 1 Low OG “Sail” Release Date & Info",
@@ -94,6 +70,30 @@
       "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-sail-hq6998-100/",
       "thumbnail": "/drops/thumbs/9f94cb6ecff6.jpg",
       "published": "2026-05-27T18:14:17",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0e88b4d9893f",
+      "pillar": "sneakers",
+      "title": "Air Jordan 14 Low “Valentines Day” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-14-low-valentines-day-2027/",
+      "thumbnail": "/drops/thumbs/0e88b4d9893f.jpg",
+      "published": "2026-05-25T15:56:02",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "28499586271c",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 “Knicks” Releases December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-8-knicks-2026/",
+      "thumbnail": "/drops/thumbs/28499586271c.jpg",
+      "published": "2026-05-25T15:54:43",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "1f8cbf1d8983",
-    "3eb131526734",
     "b7892b717b41",
-    "a19ba5306490",
+    "3eb131526734",
     "b590d3f9fa64",
+    "a19ba5306490",
+    "5cf0911b3893",
     "74e58fc88afa"
   ]
 }
