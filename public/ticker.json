@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T00:30:16+00:00",
+  "generated_utc": "2026-05-27T00:32:28+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Has Officially Lost Its Throne As The World's Biggest Manga To Two All-Time Greats",
-      "url": "https://screenrant.com/one-piece-loses-best-selling-manga-frieren-jujutsu-kaisen/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rappa: Yankee Ninpū Chō Manga Goes on Hiatus, Changes Schedule",
       "url": "https://www.animenewsnetwork.com/news/2026-05-26/rappa-yankee-ninpu-cho-manga-goes-on-hiatus-changes-schedule/.237841",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Gundam NT Manga's Kōzō Ōmori Draws New Gundam Manga",
       "url": "https://www.animenewsnetwork.com/news/2026-05-26/gundam-nt-manga-kozo-omori-draws-new-gundam-manga/.237808",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "6 Years Later, It's The End Of An Era For Blue Lock After Shocking New Twist",
+      "url": "https://screenrant.com/blue-lock-chapter-347-massive-loss-great/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
