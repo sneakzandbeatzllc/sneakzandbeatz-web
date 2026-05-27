@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T18:51:06+00:00",
+  "generated_utc": "2026-05-27T19:22:09+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b414ae322089",
+      "pillar": "hiphop",
+      "title": "Gucci Mane Explains Bipolar Disorder & Schizophrenia: “Ticking Time Bomb”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/gucci-mane-explains-bipolar-disorder-schizophrenia-ticking-time-bomb/",
+      "thumbnail": "/drops/thumbs/b414ae322089.png",
+      "published": "2026-05-27T15:00:55",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "56a300335df1",
       "pillar": "hiphop",
       "title": "A$AP Rocky To Receive First-Ever Tribeca X Filmmaker Award",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/key-glock-becomes-ceo-signs-first-artist-honors-young-dolph-legacy/",
       "thumbnail": "/drops/thumbs/15043d1c8cea.jpg",
       "published": "2026-05-27T10:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "224e8349cbf4",
-      "pillar": "hiphop",
-      "title": "Ruff Ryders Signs Philly Rapper FakeFree KP",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/ruff-ryders-signs-philly-rapper-fakefree-kp/",
-      "thumbnail": "/drops/thumbs/224e8349cbf4.png",
-      "published": "2026-05-27T09:19:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "26f32ce4b705",
-      "pillar": "gaming",
-      "title": "News We Still Don't Know Sales Figures, But Saros PS5 Player Stats Reveal Some Big Numbers",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/we-still-dont-know-sales-figures-but-saros-ps5-player-stats-reveal-some-big-numbers",
-      "thumbnail": "/drops/thumbs/26f32ce4b705.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "74e58fc88afa",
       "pillar": "gaming",
       "title": "New The Witcher 3 DLC announced, as Songs of the Past pulls us back into the RPG in 2027",
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "1eefe330fc17",
+      "pillar": "gaming",
+      "title": "Call of Duty: Black Ops 7 Season 4’s Cinematic Trailer Is Here",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562815/article/call-of-duty-black-ops-7-season-4s-cinematic-trailer-is-here/",
+      "thumbnail": "/drops/thumbs/1eefe330fc17.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "1f8cbf1d8983",
-    "56a300335df1",
+    "b414ae322089",
     "b7892b717b41",
     "a19ba5306490",
     "b590d3f9fa64",
-    "26f32ce4b705"
+    "74e58fc88afa"
   ]
 }
