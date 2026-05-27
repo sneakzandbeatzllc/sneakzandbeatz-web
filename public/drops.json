@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T18:20:00+00:00",
+  "generated_utc": "2026-05-27T18:41:23+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -75,18 +75,6 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "f22dc6e86f71",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 is Getting a Utility Upgrade in Spring 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-utility-ix0198-001/",
-      "thumbnail": "/drops/thumbs/f22dc6e86f71.webp",
-      "published": "2026-05-26T12:39:26",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "0e88b4d9893f",
       "pillar": "sneakers",
       "title": "Air Jordan 14 Low “Valentines Day” Releases February 2027",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-14-low-valentines-day-2027/",
       "thumbnail": "/drops/thumbs/0e88b4d9893f.jpg",
       "published": "2026-05-25T15:56:02",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "28499586271c",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 “Knicks” Releases December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-8-knicks-2026/",
+      "thumbnail": "/drops/thumbs/28499586271c.jpg",
+      "published": "2026-05-25T15:54:43",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "8954250cbe56",
-      "pillar": "gaming",
-      "title": "Marathon Is Finally Going Free For A Week As Bungie Looks For A Season 2 Rebound",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/marathon-is-finally-going-free-for-a-week-as-bungie-looks-for-a-rebound-2000699845",
-      "thumbnail": "/drops/thumbs/8954250cbe56.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "77ce32b5a88f",
       "pillar": "gaming",
       "title": "News Leaks Suggest This Year's Call of Duty Is Modern Warfare 4",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/leaks-suggest-this-years-call-of-duty-is-modern-warfare-4",
       "thumbnail": "/drops/thumbs/77ce32b5a88f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "adbb14cd90e0",
+      "pillar": "gaming",
+      "title": "Destiny 2 YouTuber Aztecross Is Dropping Marathon Season 2, Claiming Gamers May Not Trust Bungie And Sony Ever Again",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562821/article/destiny-2-youtuber-aztecross-is-dropping-marathon-season-2-claiming-gamers-may-not-trust-bungie-and-sony-ever-again/",
+      "thumbnail": "/drops/thumbs/adbb14cd90e0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
