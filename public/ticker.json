@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T03:33:32+00:00",
+  "generated_utc": "2026-05-27T04:33:43+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Wait, Is Lil Wayne Actually Engaged?",
+      "url": "https://allhiphop.com/rumors/wait-is-lil-wayne-actually-engaged/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Lil Wayne Confirms New Music Is On The Horizon",
       "url": "https://allhiphop.com/news/lil-wayne-confirms-new-music-is-on-the-horizon/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Lizzo Drops “B*tch” Album Tracklist Amid Label Chaos",
       "url": "https://allhiphop.com/news/lizzo-drops-btch-album-tracklist-amid-label-chaos/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Yaya Mayweather Takes After Dad & Throws Hands In Houston Brawl With NBA YoungBoy’s Wife’s Sisters",
-      "url": "https://allhiphop.com/news/yaya-mayweather-takes-after-dad-throws-hands-in-houston-brawl-with-nba-youngboys-wifes-sisters/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
