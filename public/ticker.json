@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T13:14:08+00:00",
+  "generated_utc": "2026-05-27T13:31:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,6 +95,13 @@
       "article_slug": null
     },
     {
+      "title": "Bryan-Michael Cox Hosts Chicago R&B Brunch With DELEÓN Tequila",
+      "url": "https://thesource.com/2026/05/27/chicago-rb-brunch-deleon-bryan-michael-cox/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kehlani Announces 33-Date North American Tour",
       "url": "https://thesource.com/2026/05/27/kehlani-world-tour-2026/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Fat Joe Claims Cavaliers Revoked His Courtside Seats Over Knicks Fandom",
       "url": "https://thesource.com/2026/05/26/fat-joe-cavaliers-courtside-seats-knicks/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Happy 51st Birthday To The Illustrious Ms. Lauryn Hill!",
-      "url": "https://thesource.com/2026/05/26/happy-51st-birthday-to-the-illustrious-ms-lauryn-hill/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News Try One of 2026's Best PS5 Games in New Resident Evil Requiem Demo",
-      "url": "https://www.pushsquare.com/news/2026/05/try-one-of-2026s-best-ps5-games-in-new-resident-evil-requiem-demo",
+      "title": "News Dragon Quest 12 Renamed and Re-Revealed After Development Restart, First Gameplay Shown",
+      "url": "https://www.pushsquare.com/news/2026/05/dragon-quest-12-renamed-and-re-revealed-after-development-restart-first-gameplay-shown",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,15 +193,22 @@
       "article_slug": null
     },
     {
-      "title": "The Witcher 3 Is Getting Brand New DLC In 2027, CD Projekt Red Confirms",
-      "url": "https://kotaku.com/the-witcher-3-songs-of-the-past-dlc-cd-projekt-red-2000699754",
+      "title": "Dragon Quest 12 Will Take Longer To Come Out After The Team Decided To ‘Start From Scratch’",
+      "url": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Sony's Smartphone Gambit Gets Underway with MLB The Show Mobile, Available Worldwide Now",
-      "url": "https://www.pushsquare.com/news/2026/05/sonys-smartphone-gambit-gets-underway-with-mlb-the-show-mobile-available-worldwide-now",
+      "title": "News Try One of 2026's Best PS5 Games in New Resident Evil Requiem Demo",
+      "url": "https://www.pushsquare.com/news/2026/05/try-one-of-2026s-best-ps5-games-in-new-resident-evil-requiem-demo",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Witcher 3 Is Getting Brand New DLC In 2027, CD Projekt Red Confirms",
+      "url": "https://kotaku.com/the-witcher-3-songs-of-the-past-dlc-cd-projekt-red-2000699754",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Call of Duty: Black Ops 7 Season 4’s Cinematic Trailer Is Here",
       "url": "https://gameranx.com/updates/id/562815/article/call-of-duty-black-ops-7-season-4s-cinematic-trailer-is-here/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Destiny 2: Legacy Collection Joining PS Plus Library This June 9",
-      "url": "https://gameranx.com/updates/id/562810/article/destiny-2-legacy-collection-joining-ps-plus-library-this-june-9/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

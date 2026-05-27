@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-27T13:14:08+00:00",
+  "generated_utc": "2026-05-27T13:31:07+00:00",
   "items": [
     {
       "id": "1f8cbf1d8983",
@@ -159,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "ad1149227abd",
+      "pillar": "hiphop",
+      "title": "Bryan-Michael Cox Hosts Chicago R&B Brunch With DELEÓN Tequila",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/27/chicago-rb-brunch-deleon-bryan-michael-cox/",
+      "thumbnail": "/drops/thumbs/ad1149227abd.png",
+      "published": "2026-05-27T05:13:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c24e1ceb21a6",
       "pillar": "hiphop",
       "title": "Kehlani Announces 33-Date North American Tour",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/26/fat-joe-cavaliers-courtside-seats-knicks/",
       "thumbnail": "/drops/thumbs/311b1c83a756.jpg",
       "published": "2026-05-26T09:43:25",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5d1c08bbf5e9",
-      "pillar": "hiphop",
-      "title": "Happy 51st Birthday To The Illustrious Ms. Lauryn Hill!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/26/happy-51st-birthday-to-the-illustrious-ms-lauryn-hill/",
-      "thumbnail": "/drops/thumbs/5d1c08bbf5e9.jpg",
-      "published": "2026-05-26T08:51:37",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "55362d613cae",
+      "id": "4fa08db5dfbf",
       "pillar": "gaming",
-      "title": "News Try One of 2026's Best PS5 Games in New Resident Evil Requiem Demo",
+      "title": "News Dragon Quest 12 Renamed and Re-Revealed After Development Restart, First Gameplay Shown",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/try-one-of-2026s-best-ps5-games-in-new-resident-evil-requiem-demo",
-      "thumbnail": "/drops/thumbs/55362d613cae.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/dragon-quest-12-renamed-and-re-revealed-after-development-restart-first-gameplay-shown",
+      "thumbnail": "/drops/thumbs/4fa08db5dfbf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,36 @@
       "release_badge": ""
     },
     {
-      "id": "45d3fe431c88",
+      "id": "1d86a6cbf393",
       "pillar": "gaming",
-      "title": "The Witcher 3 Is Getting Brand New DLC In 2027, CD Projekt Red Confirms",
+      "title": "Dragon Quest 12 Will Take Longer To Come Out After The Team Decided To ‘Start From Scratch’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-witcher-3-songs-of-the-past-dlc-cd-projekt-red-2000699754",
-      "thumbnail": "/drops/thumbs/45d3fe431c88.jpg",
+      "source_url": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781",
+      "thumbnail": "/drops/thumbs/1d86a6cbf393.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "4803ad6c0e06",
+      "id": "55362d613cae",
       "pillar": "gaming",
-      "title": "News Sony's Smartphone Gambit Gets Underway with MLB The Show Mobile, Available Worldwide Now",
+      "title": "News Try One of 2026's Best PS5 Games in New Resident Evil Requiem Demo",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/sonys-smartphone-gambit-gets-underway-with-mlb-the-show-mobile-available-worldwide-now",
-      "thumbnail": "/drops/thumbs/4803ad6c0e06.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/try-one-of-2026s-best-ps5-games-in-new-resident-evil-requiem-demo",
+      "thumbnail": "/drops/thumbs/55362d613cae.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "45d3fe431c88",
+      "pillar": "gaming",
+      "title": "The Witcher 3 Is Getting Brand New DLC In 2027, CD Projekt Red Confirms",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/the-witcher-3-songs-of-the-past-dlc-cd-projekt-red-2000699754",
+      "thumbnail": "/drops/thumbs/45d3fe431c88.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "4f4252b25580",
-      "pillar": "gaming",
-      "title": "Destiny 2: Legacy Collection Joining PS Plus Library This June 9",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562810/article/destiny-2-legacy-collection-joining-ps-plus-library-this-june-9/",
-      "thumbnail": "/drops/thumbs/4f4252b25580.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "5d4bbf488e7f",
     "cf5f902a47a4",
     "b7892b717b41",
-    "55362d613cae"
+    "4fa08db5dfbf"
   ]
 }
