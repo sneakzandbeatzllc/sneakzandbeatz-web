@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T18:12:46+00:00",
+  "generated_utc": "2026-05-28T19:08:11+00:00",
   "items": [
     {
       "id": "5e60dea9c293",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "0b77f36f9ca8",
+      "pillar": "hiphop",
+      "title": "Google Engineer Accused Of Making $1.2M From Morbid Polymarket Bets Linked To d4vd",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/google-engineer-d4vd-search-spike-polymarket/",
+      "thumbnail": "/drops/thumbs/0b77f36f9ca8.jpg",
+      "published": "2026-05-28T15:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1a97ec5ae081",
+      "pillar": "hiphop",
+      "title": "Review: A$AP Rocky’s “Don’t Be Dumb” Tour Opens in Chicago With Big Ambition and Bigger Opening-Night Growing Pains",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/28/dont-be-dumb-tour-opener/",
+      "thumbnail": "/drops/thumbs/1a97ec5ae081.jpg",
+      "published": "2026-05-28T14:28:17",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f993a15f92a0",
       "pillar": "hiphop",
       "title": "Keefe D’s Big Mouth Could Send Him To Prison For Life With Latest Confession",
@@ -171,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "38b6625a370f",
-      "pillar": "hiphop",
-      "title": "Today In Hip Hop History: N.W.A. Dropped Their Second LP ‘Efil4zaggin’ 35 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/28/today-in-hip-hop-history-n-w-a-dropped-their-second-lp-efil4zaggin-35-years-ago/",
-      "thumbnail": "/drops/thumbs/38b6625a370f.jpg",
-      "published": "2026-05-28T10:25:51",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ba2abbb47b08",
-      "pillar": "hiphop",
-      "title": "Happy 58th Birthday To Brooklyn Rap Legend Chubb Rock!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/28/happy-58th-birthday-to-brooklyn-rap-legend-chubb-rock/",
-      "thumbnail": "/drops/thumbs/ba2abbb47b08.jpg",
-      "published": "2026-05-28T10:01:40",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "794eaac7385a",
+      "id": "9748fe5a939e",
       "pillar": "anime",
-      "title": "7 Best-Written Female Demon Slayer Characters",
+      "title": "Solo Leveling's New Anime Replacement, Tomb Raider King, Finally Arrives This Summer",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-demon-slayer-female-characters/",
-      "thumbnail": "/drops/thumbs/794eaac7385a.jpg",
+      "source_url": "https://screenrant.com/tomb-raider-king-anime-release-date-solo-leveling-replacement/",
+      "thumbnail": "/drops/thumbs/9748fe5a939e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "5e60dea9c293",
-    "f993a15f92a0",
+    "0b77f36f9ca8",
     "78eec618cda3",
-    "794eaac7385a",
+    "9748fe5a939e",
     "a550bf8488a7",
     "24b148e6d700"
   ]
