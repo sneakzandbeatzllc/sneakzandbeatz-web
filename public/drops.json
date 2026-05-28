@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T12:00:59+00:00",
+  "generated_utc": "2026-05-28T12:47:52+00:00",
   "items": [
     {
       "id": "b7892b717b41",
@@ -267,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "4a73f50001c8",
+      "pillar": "anime",
+      "title": "Kindergarten Wars Anime Casts Tetsu Inada",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/kindergarten-wars-anime-casts-tetsu-inada/.237905",
+      "thumbnail": "/drops/thumbs/4a73f50001c8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5c03ca78f7cc",
       "pillar": "anime",
       "title": "Yū Shimizu's Howling Blaze Fantasy Light Novels Get Manga",
@@ -279,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "b00b6ee360a1",
-      "pillar": "anime",
-      "title": "Yu Hibari's 'Kokō na Kanojo to, Kanojo no Heya de Shiteru Koto' Light Novel Gets Manga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/yu-hibari-koko-na-kanojo-to-kanojo-no-heya-de-shiteru-koto-light-novel-gets-manga/.237849",
-      "thumbnail": "/drops/thumbs/b00b6ee360a1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "24b148e6d700",
       "pillar": "gaming",
       "title": "\"Anyone run into Assassin's Creed?\": GTA 6 maker Rockstar has faced many challengers over the years, Take-Two CEO says",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/anyone-run-into-assassins-creed-gta-6-maker-rockstar-has-faced-many-challengers-over-the-years-take-two-ceo-says-but-theres-zero-evidence-ai-will-make-them-better/",
       "thumbnail": "/drops/thumbs/24b148e6d700.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cd0765fd7bb5",
+      "pillar": "gaming",
+      "title": "News The Witcher 3's New Songs of the Past Expansion Could Be as Big as Cyberpunk 2077: Phantom Liberty",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/the-witcher-3s-new-songs-of-the-past-expansion-could-be-as-big-as-cyberpunk-2077-phantom-liberty",
+      "thumbnail": "/drops/thumbs/cd0765fd7bb5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,24 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "8dbfbc21917d",
+      "id": "12c60754163e",
       "pillar": "gaming",
-      "title": "Mina the Hollower review: \"Classic Zelda vibes channel Bloodborne to create one of my new retro-style favorites\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/adventure/mina-the-hollower-review/",
-      "thumbnail": "/drops/thumbs/8dbfbc21917d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "db601eab16a1",
-      "pillar": "gaming",
-      "title": "News Following Leaks, Call of Duty Is Now Officially Teasing Modern Warfare 4",
+      "title": "News 'That's a Huge Bummer': Street Fighter 6 World Tour Support Ends with Ingrid on PS5, PS4",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/following-leaks-call-of-duty-is-now-officially-teasing-modern-warfare-4",
-      "thumbnail": "/drops/thumbs/db601eab16a1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/thats-a-huge-bummer-street-fighter-6-world-tour-support-ends-with-ingrid-on-ps5-ps4",
+      "thumbnail": "/drops/thumbs/12c60754163e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "9c030455c37d",
+      "id": "db601eab16a1",
       "pillar": "gaming",
-      "title": "SIGNAL LOST: Call Of Duty 2026 Teasers Triangulate Into A YouTube Livestream In South Korea",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562839/article/signal-lost-call-of-duty-2026-teasers-triangulate-into-a-youtube-livestream-in-south-korea/",
-      "thumbnail": "/drops/thumbs/9c030455c37d.jpg",
+      "title": "News Following Leaks, Call of Duty Is Now Officially Teasing Modern Warfare 4",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/following-leaks-call-of-duty-is-now-officially-teasing-modern-warfare-4",
+      "thumbnail": "/drops/thumbs/db601eab16a1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
