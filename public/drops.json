@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T16:00:06+00:00",
+  "generated_utc": "2026-05-28T16:02:02+00:00",
   "items": [
     {
       "id": "5e60dea9c293",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "24b148e6d700",
-      "pillar": "gaming",
-      "title": "\"Anyone run into Assassin's Creed?\": GTA 6 maker Rockstar has faced many challengers over the years, Take-Two CEO says",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/anyone-run-into-assassins-creed-gta-6-maker-rockstar-has-faced-many-challengers-over-the-years-take-two-ceo-says-but-theres-zero-evidence-ai-will-make-them-better/",
-      "thumbnail": "/drops/thumbs/24b148e6d700.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5b5a128e7256",
       "pillar": "gaming",
       "title": "News 'Have Fun in the Festering Slop Pit': Hideo Kojima Underfire for Generative AI Short",
@@ -333,18 +321,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/05/the-witcher-3s-new-songs-of-the-past-expansion-could-be-as-big-as-cyberpunk-2077-phantom-liberty",
       "thumbnail": "/drops/thumbs/cd0765fd7bb5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fd827bfac091",
-      "pillar": "gaming",
-      "title": "The Witcher 3 Songs of the Past is \"an expansion,\" says CD Projekt Red, teasing a \"major\" release",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-is-an-expansion-and-not-dlc-says-cd-projekt-red-teasing-a-major-release-with-lots-of-hours-of-gameplay/",
-      "thumbnail": "/drops/thumbs/fd827bfac091.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,6 +361,30 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "9c030455c37d",
+      "pillar": "gaming",
+      "title": "SIGNAL LOST: Call Of Duty 2026 Teasers Triangulate Into A YouTube Livestream In South Korea",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562839/article/signal-lost-call-of-duty-2026-teasers-triangulate-into-a-youtube-livestream-in-south-korea/",
+      "thumbnail": "/drops/thumbs/9c030455c37d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5b75d162c217",
+      "pillar": "gaming",
+      "title": "News Call of Duty: Modern Warfare 4 Is Official, Launching This October on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/call-of-duty-modern-warfare-4-is-official-launching-this-october-on-ps5",
+      "thumbnail": "/drops/thumbs/5b75d162c217.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "78eec618cda3",
     "794eaac7385a",
     "a550bf8488a7",
-    "24b148e6d700"
+    "5b5a128e7256"
   ]
 }

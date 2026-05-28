@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T16:00:06+00:00",
+  "generated_utc": "2026-05-28T16:02:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "\"Anyone run into Assassin's Creed?\": GTA 6 maker Rockstar has faced many challengers over the years, Take-Two CEO says",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/anyone-run-into-assassins-creed-gta-6-maker-rockstar-has-faced-many-challengers-over-the-years-take-two-ceo-says-but-theres-zero-evidence-ai-will-make-them-better/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News 'Have Fun in the Festering Slop Pit': Hideo Kojima Underfire for Generative AI Short",
       "url": "https://www.pushsquare.com/news/2026/05/have-fun-in-the-festering-slop-pit-hideo-kojima-underfire-for-generative-ai-short",
       "pillar": "gaming",
@@ -200,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "The Witcher 3 Songs of the Past is \"an expansion,\" says CD Projekt Red, teasing a \"major\" release",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-is-an-expansion-and-not-dlc-says-cd-projekt-red-teasing-a-major-release-with-lots-of-hours-of-gameplay/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition Coming To Switch 2",
       "url": "https://gameranx.com/updates/id/562823/article/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-coming-to-switch-2/",
       "pillar": "gaming",
@@ -223,6 +209,20 @@
     {
       "title": "Call Of Duty: Warzone Is Shutting Down On PS4 And Xbox One",
       "url": "https://kotaku.com/call-of-duty-warzone-is-shutting-down-on-ps4-and-xbox-one-2000700205",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "SIGNAL LOST: Call Of Duty 2026 Teasers Triangulate Into A YouTube Livestream In South Korea",
+      "url": "https://gameranx.com/updates/id/562839/article/signal-lost-call-of-duty-2026-teasers-triangulate-into-a-youtube-livestream-in-south-korea/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Call of Duty: Modern Warfare 4 Is Official, Launching This October on PS5",
+      "url": "https://www.pushsquare.com/news/2026/05/call-of-duty-modern-warfare-4-is-official-launching-this-october-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
