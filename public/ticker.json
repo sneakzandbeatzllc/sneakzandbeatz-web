@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T22:53:43+00:00",
+  "generated_utc": "2026-05-28T23:17:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Is Repeating The Same Major Mistake That Killed Naruto's Ending",
-      "url": "https://screenrant.com/one-piece-naruto-ending-mistake-big-twist-gods/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GKIDS Screens Adolescence of Utena Anime Film in U.S. Theaters on June 21-22",
       "url": "https://www.animenewsnetwork.com/news/2026-05-28/gkids-screens-adolescence-of-utena-anime-film-in-u.s-theaters-on-june-21-22/.237911",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Detective Conan , Star Detective Precure! Anime Preview Crossover Episodes in Trailer",
       "url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hello Kitty's Official Converse Collaboration Is Here, And It's Beyond Adorable",
+      "url": "https://screenrant.com/hello-kitty-converse-shoes-adorable/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
