@@ -1,13 +1,27 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T20:16:01+00:00",
+  "generated_utc": "2026-05-28T20:48:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 6 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
       "pillar": "sneakers",
-      "score": 5.0,
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Tropical Pink” (IQ7604-101) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-tropical-pink-iq7604-101-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Toro Bravo” (FQ8138-600) May 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-4-toro-bravo-fq8138-600-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -39,22 +53,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 14 Low “Valentines Day” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-14-low-valentines-day-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 “Knicks” Releases December 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-8-knicks-2026/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 Flip “Super Bowl” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-flip-super-bowl-2027/",
+      "title": "Air Jordan 1 Low OG “Sail” Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-sail-hq6998-100/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -62,13 +62,6 @@
     {
       "title": "Google Engineer Accused Of Making $1.2M From Morbid Polymarket Bets Linked To d4vd",
       "url": "https://allhiphop.com/news/google-engineer-d4vd-search-spike-polymarket/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Review: A$AP Rocky’s “Don’t Be Dumb” Tour Opens in Chicago With Big Ambition and Bigger Opening-Night Growing Pains",
-      "url": "https://thesource.com/2026/05/28/dont-be-dumb-tour-opener/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +95,22 @@
       "article_slug": null
     },
     {
-      "title": "Happy Heavenly Born Day To “The Robin Hood Of The Ghetto” Larry Davis(R.I.P.)!",
-      "url": "https://thesource.com/2026/05/28/happy-heavenly-born-day-to-the-robin-hood-of-the-ghetto-larry-davisr-i-p/",
+      "title": "Ray J Calls Out Adin Ross From Hospital Bed After Knockout",
+      "url": "https://allhiphop.com/news/ray-j-calls-out-adin-ross-from-hospital-bed-after-knockout/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Ray J Calls Out Adin Ross From Hospital Bed After Knockout",
-      "url": "https://allhiphop.com/news/ray-j-calls-out-adin-ross-from-hospital-bed-after-knockout/",
+      "title": "Amerie’s Husband Ordered To Hand Over Harddrives With Music & Pay Thousands In Child Support",
+      "url": "https://allhiphop.com/news/ameries-husband-ordered-to-hand-over-harddrives-with-music-pay-thousands-in-child-support/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Morris Day Confirms He’s Skipping MAGE Friendly Freedom 250 Performance",
+      "url": "https://allhiphop.com/news/morris-day-confirms-hes-skipping-mage-friendly-freedom-250-performance/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "Fans Think They’ve Figured Out Something Really Cool About Dragon Quest 12′ s Weirdly Bland Protagonist",
-      "url": "https://kotaku.com/whats-going-on-with-dragon-quest-12-protagonist-2000700186",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Witcher 3 Songs of the Past is \"an expansion,\" says CD Projekt Red, teasing a \"major\" release",
       "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-is-an-expansion-and-not-dlc-says-cd-projekt-red-teasing-a-major-release-with-lots-of-hours-of-gameplay/",
       "pillar": "gaming",
@@ -214,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "Call Of Duty: Modern Warfare 4 Is Making Some Exciting Changes To The Formula, But It Might Not Be Enough",
+      "url": "https://kotaku.com/call-of-duty-modern-warfare-4-is-making-some-exciting-changes-to-the-formula-but-it-might-not-be-enough-2000699884",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Modern Warfare 4 Wants You to Pre-Order to 'Help Ensure the Best Day One Experience'",
       "url": "https://www.pushsquare.com/news/2026/05/modern-warfare-4-wants-you-to-pre-order-to-help-ensure-the-best-day-one-experience",
       "pillar": "gaming",
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News Warzone to Be Delisted, Taken Offline on PS4 as Modern Warfare 4 Goes Current-Gen Only",
-      "url": "https://www.pushsquare.com/news/2026/05/warzone-to-be-delisted-taken-offline-on-ps4-as-modern-warfare-4-goes-current-gen-only",
+      "title": "Call Of Duty: Warzone Is Shutting Down On PS4 And Xbox One",
+      "url": "https://kotaku.com/call-of-duty-warzone-is-shutting-down-on-ps4-and-xbox-one-2000700205",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
