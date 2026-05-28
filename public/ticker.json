@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T17:03:40+00:00",
+  "generated_utc": "2026-05-28T17:06:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -179,6 +179,13 @@
       "article_slug": null
     },
     {
+      "title": "News The Witcher 3's New Expansion Will Be Fully Revealed at Gamescom in August",
+      "url": "https://www.pushsquare.com/news/2026/05/the-witcher-3s-new-expansion-will-be-fully-revealed-at-gamescom-in-august",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dragon Quest XII Development Has Started Over, Renamed Dragon Quest XII: Beyond Dreams",
       "url": "https://gameranx.com/updates/id/562829/article/dragon-quest-xii-development-has-started-over-renamed-dragon-quest-xii-beyond-dreams/",
       "pillar": "gaming",
@@ -209,13 +216,6 @@
     {
       "title": "News Tekken 8 Really Is Getting Back on Track After a Truly Terrible Start to the Year",
       "url": "https://www.pushsquare.com/news/2026/05/tekken-8-really-is-getting-back-on-track-after-a-truly-terrible-start-to-the-year",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Warzone to Be Delisted, Taken Offline on PS4 as Modern Warfare 4 Goes Current-Gen Only",
-      "url": "https://www.pushsquare.com/news/2026/05/warzone-to-be-delisted-taken-offline-on-ps4-as-modern-warfare-4-goes-current-gen-only",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
