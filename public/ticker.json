@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T17:38:01+00:00",
+  "generated_utc": "2026-05-28T18:06:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Keefe D’s Big Mouth Could Send Him To Prison For Life With Latest Confession",
+      "url": "https://allhiphop.com/news/keefe-ds-big-mouth-could-send-him-to-prison-for-life-with-latest-confession/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Hip-Hop Legends Split On Trump’s Freedom 250 Event",
       "url": "https://allhiphop.com/rumors/hip-hop-legends-split-on-trumps-freedom-250-event/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Amerie’s Husband Ordered To Hand Over Harddrives With Music & Pay Thousands In Child Support",
-      "url": "https://allhiphop.com/news/ameries-husband-ordered-to-hand-over-harddrives-with-music-pay-thousands-in-child-support/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "7 Best-Written Female Demon Slayer Characters",
       "url": "https://screenrant.com/best-demon-slayer-female-characters/",
       "pillar": "anime",
@@ -132,13 +132,6 @@
     {
       "title": "One Piece Is Repeating The Same Major Mistake That Killed Naruto's Ending",
       "url": "https://screenrant.com/one-piece-naruto-ending-mistake-big-twist-gods/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Naruto Franchise's Definitive Worst Villain Just Became Boruto's Most Important Character",
-      "url": "https://screenrant.com/naruto-franchise-worst-villain-boruto-code-important/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Toho's wildest anime is officially returning for season 3",
       "url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Detective Conan , Star Detective Precure! Anime Preview Crossover Episodes in Trailer",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News Tekken 8 Really Is Getting Back on Track After a Truly Terrible Start to the Year",
-      "url": "https://www.pushsquare.com/news/2026/05/tekken-8-really-is-getting-back-on-track-after-a-truly-terrible-start-to-the-year",
+      "title": "News Modern Warfare 4 Wants You to Pre-Order to 'Help Ensure the Best Day One Experience'",
+      "url": "https://www.pushsquare.com/news/2026/05/modern-warfare-4-wants-you-to-pre-order-to-help-ensure-the-best-day-one-experience",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Overwatch Just Teased Its New Hero And Maybe Redeemed One Of Its Old Ones In The Process",
-      "url": "https://kotaku.com/overwatch-season-3-hero-kiriko-genji-yaosobi-story-collab-2000700225",
+      "title": "News Warzone to Be Delisted, Taken Offline on PS4 as Modern Warfare 4 Goes Current-Gen Only",
+      "url": "https://www.pushsquare.com/news/2026/05/warzone-to-be-delisted-taken-offline-on-ps4-as-modern-warfare-4-goes-current-gen-only",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

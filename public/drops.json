@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T17:38:01+00:00",
+  "generated_utc": "2026-05-28T18:06:09+00:00",
   "items": [
     {
       "id": "b590d3f9fa64",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f993a15f92a0",
+      "pillar": "hiphop",
+      "title": "Keefe D’s Big Mouth Could Send Him To Prison For Life With Latest Confession",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/keefe-ds-big-mouth-could-send-him-to-prison-for-life-with-latest-confession/",
+      "thumbnail": "/drops/thumbs/f993a15f92a0.jpg",
+      "published": "2026-05-28T14:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4f5a0bde7c02",
       "pillar": "hiphop",
       "title": "Hip-Hop Legends Split On Trump’s Freedom 250 Event",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "c486a88da24b",
-      "pillar": "hiphop",
-      "title": "Amerie’s Husband Ordered To Hand Over Harddrives With Music & Pay Thousands In Child Support",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ameries-husband-ordered-to-hand-over-harddrives-with-music-pay-thousands-in-child-support/",
-      "thumbnail": "/drops/thumbs/c486a88da24b.jpg",
-      "published": "2026-05-28T10:00:35",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "794eaac7385a",
       "pillar": "anime",
       "title": "7 Best-Written Female Demon Slayer Characters",
@@ -225,18 +225,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-naruto-ending-mistake-big-twist-gods/",
       "thumbnail": "/drops/thumbs/75de87d82d93.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "beaf558e51c3",
-      "pillar": "anime",
-      "title": "The Naruto Franchise's Definitive Worst Villain Just Became Boruto's Most Important Character",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-franchise-worst-villain-boruto-code-important/",
-      "thumbnail": "/drops/thumbs/beaf558e51c3.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
       "thumbnail": "/drops/thumbs/b2f753e4dc52.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ed29de2ca389",
+      "pillar": "anime",
+      "title": "Detective Conan , Star Detective Precure! Anime Preview Crossover Episodes in Trailer",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
+      "thumbnail": "/drops/thumbs/ed29de2ca389.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "36add6790190",
+      "id": "ec38516139ee",
       "pillar": "gaming",
-      "title": "News Tekken 8 Really Is Getting Back on Track After a Truly Terrible Start to the Year",
+      "title": "News Modern Warfare 4 Wants You to Pre-Order to 'Help Ensure the Best Day One Experience'",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/05/tekken-8-really-is-getting-back-on-track-after-a-truly-terrible-start-to-the-year",
-      "thumbnail": "/drops/thumbs/36add6790190.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/05/modern-warfare-4-wants-you-to-pre-order-to-help-ensure-the-best-day-one-experience",
+      "thumbnail": "/drops/thumbs/ec38516139ee.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "094f6c5a4672",
+      "id": "dca9ffc32d5c",
       "pillar": "gaming",
-      "title": "Overwatch Just Teased Its New Hero And Maybe Redeemed One Of Its Old Ones In The Process",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/overwatch-season-3-hero-kiriko-genji-yaosobi-story-collab-2000700225",
-      "thumbnail": "/drops/thumbs/094f6c5a4672.jpg",
+      "title": "News Warzone to Be Delisted, Taken Offline on PS4 as Modern Warfare 4 Goes Current-Gen Only",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/05/warzone-to-be-delisted-taken-offline-on-ps4-as-modern-warfare-4-goes-current-gen-only",
+      "thumbnail": "/drops/thumbs/dca9ffc32d5c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "b590d3f9fa64",
-    "4f5a0bde7c02",
+    "f993a15f92a0",
     "5cf0911b3893",
     "794eaac7385a",
     "b7892b717b41",
