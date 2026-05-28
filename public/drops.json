@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T15:00:26+00:00",
+  "generated_utc": "2026-05-28T15:07:31+00:00",
   "items": [
     {
       "id": "b590d3f9fa64",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b5e1aa4341e7",
+      "pillar": "hiphop",
+      "title": "Ray J Calls Out Adin Ross From Hospital Bed After Knockout",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ray-j-calls-out-adin-ross-from-hospital-bed-after-knockout/",
+      "thumbnail": "/drops/thumbs/b5e1aa4341e7.jpg",
+      "published": "2026-05-28T11:00:26",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "38b6625a370f",
       "pillar": "hiphop",
       "title": "Today In Hip Hop History: N.W.A. Dropped Their Second LP ‘Efil4zaggin’ 35 Years Ago",
@@ -183,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "75cc7be9cad7",
-      "pillar": "hiphop",
-      "title": "Posthumous DMX Book ‘The Gospel According to DMX’ Set for Nov. 2026 Release",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/28/ospel-according-to-dmx-book-release-2026/",
-      "thumbnail": "/drops/thumbs/75cc7be9cad7.jpg",
-      "published": "2026-05-28T05:46:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "794eaac7385a",
       "pillar": "anime",
       "title": "7 Best-Written Female Demon Slayer Characters",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/best-demon-slayer-female-characters/",
       "thumbnail": "/drops/thumbs/794eaac7385a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a19ba5306490",
-      "pillar": "anime",
-      "title": "Solo Leveling Is Officially Crunchyroll's Biggest Anime Of All Time, And It's Not Close",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-biggest-crunchyroll-anime-all-time/",
-      "thumbnail": "/drops/thumbs/a19ba5306490.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "ed29de2ca389",
+      "id": "e522bf68b93e",
       "pillar": "anime",
-      "title": "Detective Conan , Star Detective Precure! Anime Preview Crossover Episodes in Trailer",
+      "title": "Takeshobo to Release Melt in Your Color , My Father's Lover , More Manga Digitally in English",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
-      "thumbnail": "/drops/thumbs/ed29de2ca389.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/takeshobo-to-release-melt-in-your-color-my-father-lover-more-manga-digitally-in-english/.237430",
+      "thumbnail": "/drops/thumbs/e522bf68b93e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "4a73f50001c8",
+      "id": "ed29de2ca389",
       "pillar": "anime",
-      "title": "Kindergarten Wars Anime Casts Tetsu Inada",
+      "title": "Detective Conan , Star Detective Precure! Anime Preview Crossover Episodes in Trailer",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/kindergarten-wars-anime-casts-tetsu-inada/.237905",
-      "thumbnail": "/drops/thumbs/4a73f50001c8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
+      "thumbnail": "/drops/thumbs/ed29de2ca389.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b2f753e4dc52",
+      "pillar": "anime",
+      "title": "Toho's wildest anime is officially returning for season 3",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
+      "thumbnail": "/drops/thumbs/b2f753e4dc52.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "b590d3f9fa64",
-    "38b6625a370f",
+    "b5e1aa4341e7",
     "5cf0911b3893",
     "794eaac7385a",
     "b7892b717b41",

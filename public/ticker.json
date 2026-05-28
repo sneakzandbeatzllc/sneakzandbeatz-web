@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T15:00:26+00:00",
+  "generated_utc": "2026-05-28T15:07:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Ray J Calls Out Adin Ross From Hospital Bed After Knockout",
+      "url": "https://allhiphop.com/news/ray-j-calls-out-adin-ross-from-hospital-bed-after-knockout/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Today In Hip Hop History: N.W.A. Dropped Their Second LP ‘Efil4zaggin’ 35 Years Ago",
       "url": "https://thesource.com/2026/05/28/today-in-hip-hop-history-n-w-a-dropped-their-second-lp-efil4zaggin-35-years-ago/",
       "pillar": "hiphop",
@@ -109,22 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Posthumous DMX Book ‘The Gospel According to DMX’ Set for Nov. 2026 Release",
-      "url": "https://thesource.com/2026/05/28/ospel-according-to-dmx-book-release-2026/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "7 Best-Written Female Demon Slayer Characters",
       "url": "https://screenrant.com/best-demon-slayer-female-characters/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Solo Leveling Is Officially Crunchyroll's Biggest Anime Of All Time, And It's Not Close",
-      "url": "https://screenrant.com/solo-leveling-biggest-crunchyroll-anime-all-time/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Detective Conan , Star Detective Precure! Anime Preview Crossover Episodes in Trailer",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
+      "title": "Takeshobo to Release Melt in Your Color , My Father's Lover , More Manga Digitally in English",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-28/takeshobo-to-release-melt-in-your-color-my-father-lover-more-manga-digitally-in-english/.237430",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Kindergarten Wars Anime Casts Tetsu Inada",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-28/kindergarten-wars-anime-casts-tetsu-inada/.237905",
+      "title": "Detective Conan , Star Detective Precure! Anime Preview Crossover Episodes in Trailer",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-28/detective-conan-star-detective-precure-anime-preview-crossover-episodes-in-trailer/.237907",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Toho's wildest anime is officially returning for season 3",
+      "url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
