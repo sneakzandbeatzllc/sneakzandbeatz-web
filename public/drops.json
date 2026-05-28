@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T09:56:21+00:00",
+  "generated_utc": "2026-05-28T10:51:35+00:00",
   "items": [
     {
       "id": "b7892b717b41",
@@ -267,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "e909e55693e2",
+      "pillar": "anime",
+      "title": "Kei Takano's Dōtei Dakedo Akuyaku Kizoku ni Tensei Shita no de Harem o Tsukuru Isekai Story Gets Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/kei-takano-dotei-dakedo-akuyaku-kizoku-ni-tensei-shita-no-de-harem-o-tsukuru-isekai-story-gets-manga/.237897",
+      "thumbnail": "/drops/thumbs/e909e55693e2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "220284c1290f",
       "pillar": "anime",
       "title": "Astra Awards Nominate Witch Hat Atelier , Dandelion , Sakamoto Days , JoJo Part 7 , MAO , Rooster Fighter for Best Anime",
@@ -279,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "f07743f6e691",
-      "pillar": "anime",
-      "title": "Cyborg 009: Nemesis Anime Casts Hiroki Yasumoto as Cyborg 005",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-28/cyborg-009-nemesis-anime-casts-hiroki-yasumoto-as-cyborg-005/.237896",
-      "thumbnail": "/drops/thumbs/f07743f6e691.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "74e58fc88afa",
+      "id": "24b148e6d700",
       "pillar": "gaming",
-      "title": "New The Witcher 3 DLC announced, as Songs of the Past pulls us back into the RPG in 2027",
+      "title": "\"Anyone run into Assassin's Creed?\": GTA 6 maker Rockstar has faced many challengers over the years, Take-Two CEO says",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-witcher/new-the-witcher-3-dlc-announced-as-songs-of-the-past-confirms-were-returning-to-geralts-adventure-in-2027/",
-      "thumbnail": "/drops/thumbs/74e58fc88afa.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/anyone-run-into-assassins-creed-gta-6-maker-rockstar-has-faced-many-challengers-over-the-years-take-two-ceo-says-but-theres-zero-evidence-ai-will-make-them-better/",
+      "thumbnail": "/drops/thumbs/24b148e6d700.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "d5961880d194",
+      "id": "fd827bfac091",
       "pillar": "gaming",
-      "title": "Dragon Quest 12 Beyond Dreams announced, replacing the previous version of the JRPG as Square Enix hits the reset button",
+      "title": "The Witcher 3 Songs of the Past is \"an expansion,\" says CD Projekt Red, teasing a \"major\" release",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-12-beyond-dreams-announced-replacing-the-previous-the-previous-version-of-the-jrpg-as-square-enix-hits-reset/",
-      "thumbnail": "/drops/thumbs/d5961880d194.png",
+      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-is-an-expansion-and-not-dlc-says-cd-projekt-red-teasing-a-major-release-with-lots-of-hours-of-gameplay/",
+      "thumbnail": "/drops/thumbs/fd827bfac091.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "b590d3f9fa64",
     "794eaac7385a",
     "5cf0911b3893",
-    "74e58fc88afa"
+    "24b148e6d700"
   ]
 }
