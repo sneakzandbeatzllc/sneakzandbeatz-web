@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T02:50:03+00:00",
+  "generated_utc": "2026-05-28T03:51:18+00:00",
   "items": [
     {
       "id": "b7892b717b41",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "454898917e81",
+      "pillar": "hiphop",
+      "title": "President Trump Confirms He’ll Go To Knicks NBA Finals Game At MSG",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/president-trump-confirms-hell-go-to-knicks-nba-finals-game-at-msg/",
+      "thumbnail": "/drops/thumbs/454898917e81.jpg",
+      "published": "2026-05-27T23:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9bbf9bdde5bc",
       "pillar": "hiphop",
       "title": "Gervonta Davis A Wanted Again & This Time He May Be Stuck In Jail When He’s Caught",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "8f49441227de",
-      "pillar": "hiphop",
-      "title": "SGA’s Free Throw to FG Comparison Fuel Debate",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/27/sgas-free-throw-to-fg-comparison-fuel-debate/",
-      "thumbnail": "/drops/thumbs/8f49441227de.jpg",
-      "published": "2026-05-27T18:04:20",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "794eaac7385a",
       "pillar": "anime",
       "title": "7 Best-Written Female Demon Slayer Characters",
@@ -225,6 +225,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/frieren-edges-out-one-piece-in-japanese-manga-sales-despite-far-fewer-chapters/",
       "thumbnail": "/drops/thumbs/a0bde27601d0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "03e71666147e",
+      "pillar": "anime",
+      "title": "Every One Piece Arc Ranked From Forgettable To Masterpiece",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-best-arcs-ranked/",
+      "thumbnail": "/drops/thumbs/03e71666147e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-27/writer-mochiko-mochida-artist-satsuki-urushiji-shiki-hime-hajimemashita-manga-ends/.237855",
       "thumbnail": "/drops/thumbs/c4e400f5cec7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b2f753e4dc52",
-      "pillar": "anime",
-      "title": "Mappa’s wildest anime is officially returning for season 3",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
-      "thumbnail": "/drops/thumbs/b2f753e4dc52.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "b7892b717b41",
-    "9bbf9bdde5bc",
+    "454898917e81",
     "b590d3f9fa64",
     "794eaac7385a",
     "5cf0911b3893",

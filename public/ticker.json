@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T02:50:03+00:00",
+  "generated_utc": "2026-05-28T03:51:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "President Trump Confirms He’ll Go To Knicks NBA Finals Game At MSG",
+      "url": "https://allhiphop.com/news/president-trump-confirms-hell-go-to-knicks-nba-finals-game-at-msg/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Gervonta Davis A Wanted Again & This Time He May Be Stuck In Jail When He’s Caught",
       "url": "https://allhiphop.com/news/gervonta-davis-a-wanted-again-this-time-he-may-be-stuck-in-jail-when-hes-caught/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "SGA’s Free Throw to FG Comparison Fuel Debate",
-      "url": "https://thesource.com/2026/05/27/sgas-free-throw-to-fg-comparison-fuel-debate/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "7 Best-Written Female Demon Slayer Characters",
       "url": "https://screenrant.com/best-demon-slayer-female-characters/",
       "pillar": "anime",
@@ -132,6 +132,13 @@
     {
       "title": "Frieren edges out One Piece in Japanese manga sales despite lengthy hiatus",
       "url": "https://www.polygon.com/frieren-edges-out-one-piece-in-japanese-manga-sales-despite-far-fewer-chapters/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Every One Piece Arc Ranked From Forgettable To Masterpiece",
+      "url": "https://screenrant.com/one-piece-best-arcs-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Writer Mochiko Mochida, Artist Satsuki Urushiji's 'Shiki-hime, Hajimemashita' Manga Ends",
       "url": "https://www.animenewsnetwork.com/news/2026-05-27/writer-mochiko-mochida-artist-satsuki-urushiji-shiki-hime-hajimemashita-manga-ends/.237855",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Mappa’s wildest anime is officially returning for season 3",
-      "url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
