@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-29T21:59:10+00:00",
+  "generated_utc": "2026-05-29T22:05:34+00:00",
   "items": [
     {
       "id": "5e60dea9c293",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "061948494908",
+      "pillar": "anime",
+      "title": "Akira Toriyama's Favorite Dragon Ball Character Was Actually A Massive Headache For Him",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/piccolo-dragon-ball-akira-toriyama-favorite-character-headache/",
+      "thumbnail": "/drops/thumbs/061948494908.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bc7db2b4d56e",
       "pillar": "anime",
       "title": "One Piece TV Anime's Elbaph Arc Reveals Trailer, Cast for Knights of God",
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
       "thumbnail": "/drops/thumbs/b2f753e4dc52.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "71ea4ea8cb92",
-      "pillar": "anime",
-      "title": "Pokémon Center Mega Tokyo Plans to Reopen in September After March Stabbing Incident",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-29/pokemon-center-mega-tokyo-plans-to-reopen-in-september-after-march-stabbing-incident/.237941",
-      "thumbnail": "/drops/thumbs/71ea4ea8cb92.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "5e60dea9c293",
     "f1aa4e4370d3",
     "78eec618cda3",
-    "bc7db2b4d56e",
+    "061948494908",
     "a550bf8488a7",
     "0606ca848b41"
   ]

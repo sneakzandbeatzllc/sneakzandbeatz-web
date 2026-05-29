@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-29T21:59:10+00:00",
+  "generated_utc": "2026-05-29T22:05:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Akira Toriyama's Favorite Dragon Ball Character Was Actually A Massive Headache For Him",
+      "url": "https://screenrant.com/piccolo-dragon-ball-akira-toriyama-favorite-character-headache/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece TV Anime's Elbaph Arc Reveals Trailer, Cast for Knights of God",
       "url": "https://www.animenewsnetwork.com/news/2026-05-29/one-piece-tv-anime-elbaph-arc-reveals-trailer-cast-for-knights-of-god/.237946",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "Toho's wildest anime is officially returning for season 3",
       "url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Pokémon Center Mega Tokyo Plans to Reopen in September After March Stabbing Incident",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-29/pokemon-center-mega-tokyo-plans-to-reopen-in-september-after-march-stabbing-incident/.237941",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
