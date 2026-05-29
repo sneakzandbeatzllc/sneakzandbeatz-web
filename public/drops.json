@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-29T15:48:17+00:00",
+  "generated_utc": "2026-05-29T16:16:36+00:00",
   "items": [
     {
       "id": "5e60dea9c293",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "08b98fb63c7d",
+      "pillar": "hiphop",
+      "title": "NBA Ben10 Permanently Paralyzed After Allstar JR Shooting",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/nba-ben10-permanently-paralyzed-after-allstar-jr-shooting/",
+      "thumbnail": "/drops/thumbs/08b98fb63c7d.jpg",
+      "published": "2026-05-29T12:00:31",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8005b3812f82",
       "pillar": "hiphop",
       "title": "Akon Discusses How Multiple Wives Work In Reality",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "b6685938ded0",
-      "pillar": "hiphop",
-      "title": "Jet Phynx Introduces “Camera Time”A Cinematic Hip-Hop Experience Blending Music, Film, AI & Media Obsession",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/jet-phynx-camera-timea/",
-      "thumbnail": "/drops/thumbs/b6685938ded0.jpg",
-      "published": "2026-05-28T18:31:41",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e031f482e5ce",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle Is Great, But 2025's True Anime Film Of The Year Is An All-Timer",
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "30938637cab0",
-      "pillar": "anime",
-      "title": "Crunchyroll Is Quietly Ending Dr. Stone, So Why Is No One Talking About It?",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/crunchyroll-ending-dr-stone/",
-      "thumbnail": "/drops/thumbs/30938637cab0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2b2e7c014f67",
       "pillar": "anime",
       "title": "One of anime's most celebrated arthouse movies is finally coming to theaters",
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-29/manga-up-global-adds-karino-takatsu-owl-night-manga/.237944",
       "thumbnail": "/drops/thumbs/79750ab04f5d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b2f753e4dc52",
+      "pillar": "anime",
+      "title": "Toho's wildest anime is officially returning for season 3",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
+      "thumbnail": "/drops/thumbs/b2f753e4dc52.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5e60dea9c293",
-    "8005b3812f82",
+    "08b98fb63c7d",
     "78eec618cda3",
     "e031f482e5ce",
     "a550bf8488a7",
