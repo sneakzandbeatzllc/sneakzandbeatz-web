@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-29T15:34:47+00:00",
+  "generated_utc": "2026-05-29T15:37:47+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -99,30 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "8005b3812f82",
-      "pillar": "hiphop",
-      "title": "Akon Discusses How Multiple Wives Work In Reality",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/akon-discusses-how-multiple-wives-work-in-reality/",
-      "thumbnail": "/drops/thumbs/8005b3812f82.png",
-      "published": "2026-05-29T11:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "094fee8f33bd",
-      "pillar": "hiphop",
-      "title": "Isaiah Rashad Wonders Where Are The Frank Ocean Perks Of Being “Bi Rapper”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/isaiah-rashad-wonders-where-are-the-frank-ocean-perks-of-being-bi-rapper/",
-      "thumbnail": "/drops/thumbs/094fee8f33bd.jpg",
-      "published": "2026-05-29T10:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "147ca9dabe76",
       "pillar": "hiphop",
       "title": "2 Chainz Previews New Album for OussiFooty for New World Cup Series ‘Boots Across America’",
@@ -171,25 +147,49 @@
       "release_badge": ""
     },
     {
-      "id": "0a4e0a15ac1c",
+      "id": "1a97ec5ae081",
       "pillar": "hiphop",
-      "title": "Court Rules Nelly Deserves $67,586 For Defending Country Grammar Rights",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/court-rules-nelly-deserves-67586-for-defending-country-grammar-rights/",
-      "thumbnail": "/drops/thumbs/0a4e0a15ac1c.jpg",
-      "published": "2026-05-28T20:04:12",
+      "title": "Review: A$AP Rocky’s “Don’t Be Dumb” Tour Opens in Chicago With Big Ambition and Bigger Opening-Night Growing Pains",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/28/dont-be-dumb-tour-opener/",
+      "thumbnail": "/drops/thumbs/1a97ec5ae081.jpg",
+      "published": "2026-05-28T14:28:17",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b6685938ded0",
+      "id": "c8321898a92b",
       "pillar": "hiphop",
-      "title": "Jet Phynx Introduces “Camera Time”A Cinematic Hip-Hop Experience Blending Music, Film, AI & Media Obsession",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/jet-phynx-camera-timea/",
-      "thumbnail": "/drops/thumbs/b6685938ded0.jpg",
-      "published": "2026-05-28T18:31:41",
+      "title": "Happy Heavenly Born Day To “The Robin Hood Of The Ghetto” Larry Davis(R.I.P.)!",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/28/happy-heavenly-born-day-to-the-robin-hood-of-the-ghetto-larry-davisr-i-p/",
+      "thumbnail": "/drops/thumbs/c8321898a92b.jpg",
+      "published": "2026-05-28T11:12:16",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "38b6625a370f",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: N.W.A. Dropped Their Second LP ‘Efil4zaggin’ 35 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/28/today-in-hip-hop-history-n-w-a-dropped-their-second-lp-efil4zaggin-35-years-ago/",
+      "thumbnail": "/drops/thumbs/38b6625a370f.jpg",
+      "published": "2026-05-28T10:25:51",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ba2abbb47b08",
+      "pillar": "hiphop",
+      "title": "Happy 58th Birthday To Brooklyn Rap Legend Chubb Rock!",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/28/happy-58th-birthday-to-brooklyn-rap-legend-chubb-rock/",
+      "thumbnail": "/drops/thumbs/ba2abbb47b08.jpg",
+      "published": "2026-05-28T10:01:40",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5cf0911b3893",
-    "8005b3812f82",
+    "147ca9dabe76",
     "b590d3f9fa64",
     "e031f482e5ce",
     "b7892b717b41",
