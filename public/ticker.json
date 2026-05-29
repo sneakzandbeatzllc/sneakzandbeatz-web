@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T23:25:40+00:00",
+  "generated_utc": "2026-05-29T00:21:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Court Rules Nelly Deserves $67,586 For Defending Country Grammar Rights",
+      "url": "https://allhiphop.com/news/court-rules-nelly-deserves-67586-for-defending-country-grammar-rights/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "EXCLUSIVE: Jay-Z Alleges Tony Buzbee Invented Death Threat To Cover Legal Violations, Makes Move That Could Leave Lawyer Broke",
       "url": "https://allhiphop.com/news/exclusive-jay-z-tony-buzbee-invented-threat-cover-legal-violations/",
       "pillar": "hiphop",
@@ -109,22 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Ray J Calls Out Adin Ross From Hospital Bed After Knockout",
-      "url": "https://allhiphop.com/news/ray-j-calls-out-adin-ross-from-hospital-bed-after-knockout/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling's New Anime Replacement, Tomb Raider King, Finally Arrives This Summer",
       "url": "https://screenrant.com/tomb-raider-king-anime-release-date-solo-leveling-replacement/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Every One Piece Arc Ranked From Forgettable To Masterpiece",
-      "url": "https://screenrant.com/one-piece-best-arcs-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -153,6 +146,13 @@
     {
       "title": "Toho's wildest anime is officially returning for season 3",
       "url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Madoka Magica Meets Studio Ghibli In New Anime, Another World (Exclusive)",
+      "url": "https://screenrant.com/another-world-madoka-magica-meets-ghibli/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

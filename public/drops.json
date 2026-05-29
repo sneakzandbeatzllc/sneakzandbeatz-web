@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-28T23:25:40+00:00",
+  "generated_utc": "2026-05-29T00:21:47+00:00",
   "items": [
     {
       "id": "b590d3f9fa64",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "0a4e0a15ac1c",
+      "pillar": "hiphop",
+      "title": "Court Rules Nelly Deserves $67,586 For Defending Country Grammar Rights",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/court-rules-nelly-deserves-67586-for-defending-country-grammar-rights/",
+      "thumbnail": "/drops/thumbs/0a4e0a15ac1c.jpg",
+      "published": "2026-05-28T20:04:12",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f78cde7935c7",
       "pillar": "hiphop",
       "title": "EXCLUSIVE: Jay-Z Alleges Tony Buzbee Invented Death Threat To Cover Legal Violations, Makes Move That Could Leave Lawyer Broke",
@@ -183,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "b5e1aa4341e7",
-      "pillar": "hiphop",
-      "title": "Ray J Calls Out Adin Ross From Hospital Bed After Knockout",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ray-j-calls-out-adin-ross-from-hospital-bed-after-knockout/",
-      "thumbnail": "/drops/thumbs/b5e1aa4341e7.jpg",
-      "published": "2026-05-28T11:00:26",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9748fe5a939e",
       "pillar": "anime",
       "title": "Solo Leveling's New Anime Replacement, Tomb Raider King, Finally Arrives This Summer",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/tomb-raider-king-anime-release-date-solo-leveling-replacement/",
       "thumbnail": "/drops/thumbs/9748fe5a939e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "03e71666147e",
-      "pillar": "anime",
-      "title": "Every One Piece Arc Ranked From Forgettable To Masterpiece",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-best-arcs-ranked/",
-      "thumbnail": "/drops/thumbs/03e71666147e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,6 +249,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
       "thumbnail": "/drops/thumbs/b2f753e4dc52.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "78bf72cb24c8",
+      "pillar": "anime",
+      "title": "Madoka Magica Meets Studio Ghibli In New Anime, Another World (Exclusive)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/another-world-madoka-magica-meets-ghibli/",
+      "thumbnail": "/drops/thumbs/78bf72cb24c8.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "b590d3f9fa64",
-    "f78cde7935c7",
+    "0a4e0a15ac1c",
     "5cf0911b3893",
     "9748fe5a939e",
     "b7892b717b41",
