@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-29T23:00:57+00:00",
+  "generated_utc": "2026-05-29T23:10:04+00:00",
   "items": [
     {
       "id": "5e60dea9c293",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "fa7884c2e8d5",
+      "pillar": "hiphop",
+      "title": "Kanye West European Tour Crumbles With Italy Cancellation",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/kanye-west-european-tour-crumbles-with-italy-cancellation/",
+      "thumbnail": "/drops/thumbs/fa7884c2e8d5.png",
+      "published": "2026-05-29T19:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "218ee9aaaf95",
       "pillar": "hiphop",
       "title": "Travis Scott and Air Jordan Break from Earth Tones with “Pink Pack” Drop",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "a52b5cd106fa",
-      "pillar": "hiphop",
-      "title": "Hip-Hop and Vegas: A High-Stakes Romance",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/hip-hop-and-vegas-a-high-stakes-romance/",
-      "thumbnail": "/drops/thumbs/a52b5cd106fa.jpg",
-      "published": "2026-05-29T15:42:53",
+      "id": "b3078fcafd3b",
+      "pillar": "anime",
+      "title": "Dragon Ball's Little-Known Prequel Is One Of Akira Toriyama's Best",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-prequel-jaco-akira-toriyama-best/",
+      "thumbnail": "/drops/thumbs/b3078fcafd3b.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -213,6 +225,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-29/one-piece-tv-anime-elbaph-arc-reveals-trailer-cast-for-knights-of-god/.237946",
       "thumbnail": "/drops/thumbs/bc7db2b4d56e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6908b6e44f71",
+      "pillar": "anime",
+      "title": "10 Years Later, Naruto Is Officially Returning In 2027",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-return-2027-25th-anniversary/",
+      "thumbnail": "/drops/thumbs/6908b6e44f71.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "f1753c3b2cca",
-      "pillar": "anime",
-      "title": "One Piece Episode #1164 Release Date And Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-episode-1164-release-date-time/",
-      "thumbnail": "/drops/thumbs/f1753c3b2cca.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2b2e7c014f67",
       "pillar": "anime",
       "title": "One of anime's most celebrated arthouse movies is finally coming to theaters",
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-29/north-american-anime-manga-releases-may-24-30/.237843",
       "thumbnail": "/drops/thumbs/6438d462f95e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b2f753e4dc52",
-      "pillar": "anime",
-      "title": "Toho's wildest anime is officially returning for season 3",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
-      "thumbnail": "/drops/thumbs/b2f753e4dc52.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "5e60dea9c293",
-    "218ee9aaaf95",
+    "fa7884c2e8d5",
     "64e7d2e034a3",
-    "061948494908",
+    "b3078fcafd3b",
     "78eec618cda3",
     "0606ca848b41"
   ]

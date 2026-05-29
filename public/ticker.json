@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-29T23:00:57+00:00",
+  "generated_utc": "2026-05-29T23:10:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Kanye West European Tour Crumbles With Italy Cancellation",
+      "url": "https://allhiphop.com/news/kanye-west-european-tour-crumbles-with-italy-cancellation/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Travis Scott and Air Jordan Break from Earth Tones with “Pink Pack” Drop",
       "url": "https://thesource.com/2026/05/29/travis-scott-and-air-jordan-break-from-earth-tones-with-pink-pack-drop/",
       "pillar": "hiphop",
@@ -109,9 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Hip-Hop and Vegas: A High-Stakes Romance",
-      "url": "https://allhiphop.com/uncategorized/hip-hop-and-vegas-a-high-stakes-romance/",
-      "pillar": "hiphop",
+      "title": "Dragon Ball's Little-Known Prequel Is One Of Akira Toriyama's Best",
+      "url": "https://screenrant.com/dragon-ball-prequel-jaco-akira-toriyama-best/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -125,6 +132,13 @@
     {
       "title": "One Piece TV Anime's Elbaph Arc Reveals Trailer, Cast for Knights of God",
       "url": "https://www.animenewsnetwork.com/news/2026-05-29/one-piece-tv-anime-elbaph-arc-reveals-trailer-cast-for-knights-of-god/.237946",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "10 Years Later, Naruto Is Officially Returning In 2027",
+      "url": "https://screenrant.com/naruto-return-2027-25th-anniversary/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,13 +158,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Episode #1164 Release Date And Time",
-      "url": "https://screenrant.com/one-piece-episode-1164-release-date-time/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One of anime's most celebrated arthouse movies is finally coming to theaters",
       "url": "https://www.polygon.com/one-of-animes-most-celebrated-arthouse-movies-is-finally-coming-to-theaters-27-years-after-it-debuted/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "North American Anime, Manga Releases, May 24-30",
       "url": "https://www.animenewsnetwork.com/news/2026-05-29/north-american-anime-manga-releases-may-24-30/.237843",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Toho's wildest anime is officially returning for season 3",
-      "url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
