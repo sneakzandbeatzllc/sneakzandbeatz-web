@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T00:02:56+00:00",
+  "generated_utc": "2026-05-30T00:12:43+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Demon Slayer Meets Dragon Ball in Netflix's Most Underrated Anime Gem, Yaiba",
+      "url": "https://screenrant.com/yaiba-samurai-hero-demon-slayer-meets-dragon-ball/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dragon Ball's Little-Known Prequel Is One Of Akira Toriyama's Best",
       "url": "https://screenrant.com/dragon-ball-prequel-jaco-akira-toriyama-best/",
       "pillar": "anime",
@@ -146,13 +153,6 @@
     {
       "title": "8 Best Madara Quotes In Naruto History",
       "url": "https://screenrant.com/madara-uchiha-best-naruto-quotes/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece Officially Unveils Its New God-Tier Villains, And The Straw Hats Don't Stand A Chance",
-      "url": "https://screenrant.com/one-piece-god-knights-villains-trailer/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

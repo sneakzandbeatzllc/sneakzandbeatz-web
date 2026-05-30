@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T00:02:56+00:00",
+  "generated_utc": "2026-05-30T00:12:43+00:00",
   "items": [
     {
       "id": "5e60dea9c293",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "e1eee5214ced",
+      "pillar": "anime",
+      "title": "Demon Slayer Meets Dragon Ball in Netflix's Most Underrated Anime Gem, Yaiba",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/yaiba-samurai-hero-demon-slayer-meets-dragon-ball/",
+      "thumbnail": "/drops/thumbs/e1eee5214ced.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b3078fcafd3b",
       "pillar": "anime",
       "title": "Dragon Ball's Little-Known Prequel Is One Of Akira Toriyama's Best",
@@ -249,18 +261,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/madara-uchiha-best-naruto-quotes/",
       "thumbnail": "/drops/thumbs/4b8f1305a78b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5ea74ea6606b",
-      "pillar": "anime",
-      "title": "One Piece Officially Unveils Its New God-Tier Villains, And The Straw Hats Don't Stand A Chance",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-god-knights-villains-trailer/",
-      "thumbnail": "/drops/thumbs/5ea74ea6606b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "5e60dea9c293",
     "fa7884c2e8d5",
     "64e7d2e034a3",
-    "b3078fcafd3b",
+    "e1eee5214ced",
     "78eec618cda3",
     "0606ca848b41"
   ]
