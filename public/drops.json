@@ -1,18 +1,30 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T00:12:43+00:00",
+  "generated_utc": "2026-05-30T00:44:52+00:00",
   "items": [
     {
-      "id": "5e60dea9c293",
+      "id": "5cf0911b3893",
       "pillar": "sneakers",
-      "title": "Air Jordan 6 PRM \"BIN 23\"",
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Tropical Pink” (IQ7604-101) May Release Date & Info",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
-      "thumbnail": "/drops/thumbs/5e60dea9c293.jpg",
-      "published": "",
+      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-tropical-pink-iq7604-101-drop/",
+      "thumbnail": "/drops/thumbs/5cf0911b3893.jpg",
+      "published": "2026-05-29T09:59:15",
       "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "b590d3f9fa64",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
+      "thumbnail": "/drops/thumbs/b590d3f9fa64.jpg",
+      "published": "2026-05-29T09:59:08",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "64e7d2e034a3",
@@ -63,6 +75,18 @@
       "release_badge": ""
     },
     {
+      "id": "9f94cb6ecff6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Sail” Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-sail-hq6998-100/",
+      "thumbnail": "/drops/thumbs/9f94cb6ecff6.jpg",
+      "published": "2026-05-27T18:14:17",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "0e88b4d9893f",
       "pillar": "sneakers",
       "title": "Air Jordan 14 Low “Valentines Day” Releases February 2027",
@@ -70,30 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-14-low-valentines-day-2027/",
       "thumbnail": "/drops/thumbs/0e88b4d9893f.jpg",
       "published": "2026-05-25T15:56:02",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "28499586271c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 “Knicks” Releases December 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-8-knicks-2026/",
-      "thumbnail": "/drops/thumbs/28499586271c.jpg",
-      "published": "2026-05-25T15:54:43",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "108731db3cea",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 Flip “Super Bowl” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-flip-super-bowl-2027/",
-      "thumbnail": "/drops/thumbs/108731db3cea.jpg",
-      "published": "2026-05-21T15:28:07",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "061948494908",
-      "pillar": "anime",
-      "title": "Akira Toriyama's Favorite Dragon Ball Character Was Actually A Massive Headache For Him",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/piccolo-dragon-ball-akira-toriyama-favorite-character-headache/",
-      "thumbnail": "/drops/thumbs/061948494908.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bc7db2b4d56e",
       "pillar": "anime",
       "title": "One Piece TV Anime's Elbaph Arc Reveals Trailer, Cast for Knights of God",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-05-29/one-piece-tv-anime-elbaph-arc-reveals-trailer-cast-for-knights-of-god/.237946",
       "thumbnail": "/drops/thumbs/bc7db2b4d56e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c888b5c4ecc0",
+      "pillar": "anime",
+      "title": "One Piece Chapter #1184 Release Date and Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-chapter-1184-release-date-time/",
+      "thumbnail": "/drops/thumbs/c888b5c4ecc0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "5e60dea9c293",
+    "5cf0911b3893",
     "fa7884c2e8d5",
-    "64e7d2e034a3",
+    "b590d3f9fa64",
     "e1eee5214ced",
-    "78eec618cda3",
+    "64e7d2e034a3",
     "0606ca848b41"
   ]
 }
