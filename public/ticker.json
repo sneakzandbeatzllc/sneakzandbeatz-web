@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T13:02:23+00:00",
+  "generated_utc": "2026-05-30T13:16:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,29 +60,8 @@
       "article_slug": null
     },
     {
-      "title": "Missouri woman looks at her aquarium. Then she notices an uninvited mystery hatchling slithering around: ‘I don’t have any fish in here’",
-      "url": "https://allhiphop.com/newsbreak/missouri-aquarium-mystery-creature/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Lexnour Teases New Single “Baby Don’t Play,” Hinting at a Genre-Blending Sound Fans Haven’t Heard Before",
-      "url": "https://allhiphop.com/music/lexnour-teases-new-single-baby-dont-play-hinting-at-a-genre-blending-sound-fans-havent-heard-before/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "BET Announces Premiere Date for Damon Dash’s ‘OG STORIES’ Docuseries",
       "url": "https://thesource.com/2026/05/30/bet-damon-dash-og-stories-premiere/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "‘So that was strike one’: Las Vegas woman goes on Hinge date. Then he asks her a question about her ring",
-      "url": "https://allhiphop.com/newsbreak/las-vegas-hinge-stack-dating/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +88,29 @@
       "article_slug": null
     },
     {
-      "title": "Kanye West European Tour Crumbles With Italy Cancellation",
-      "url": "https://allhiphop.com/news/kanye-west-european-tour-crumbles-with-italy-cancellation/",
+      "title": "DNC Calls Stephen Miller ‘Ugly F**k’ in Clash in Over Texas Senate Race",
+      "url": "https://thesource.com/2026/05/29/dnc-calls-stephen-miller-ugly-fk-in-clash-in-over-texas-senate-race/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Janice STFU Marks First Rap Song To Debut At #1 Since Eminem’s 2024 Record ‘Houdini’",
+      "url": "https://thesource.com/2026/05/29/janice-stfu-marks-first-rap-song-to-debut-at-1-since-eminems-2024-record-houdini/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott and Air Jordan Break from Earth Tones with “Pink Pack” Drop",
+      "url": "https://thesource.com/2026/05/29/travis-scott-and-air-jordan-break-from-earth-tones-with-pink-pack-drop/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Italian Authorities Cancel Travis Scott and Ye Concert Over Public Safety Concerns",
+      "url": "https://thesource.com/2026/05/29/italian-authorities-cancel-travis-scott-and-ye-concert-over-public-safety-concerns/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "10 Years Later, Naruto Is Officially Returning In 2027",
-      "url": "https://screenrant.com/naruto-return-2027-25th-anniversary/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One of anime's most celebrated arthouse movies is finally coming to theaters",
       "url": "https://www.polygon.com/one-of-animes-most-celebrated-arthouse-movies-is-finally-coming-to-theaters-27-years-after-it-debuted/",
       "pillar": "anime",
@@ -158,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Halca Performs Young Ladies Don't Play Fighting Games Anime's Ending Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-30/halca-performs-young-ladies-dont-play-fighting-games-anime-ending-song/.237958",
+      "title": "Singer adieu Performs Ascendance of a Bookworm Part 3 Anime's New Ending Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-30/singer-adieu-performs-ascendance-of-a-bookworm-part-3-anime-new-ending-song/.237968",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Toho's wildest anime is officially returning for season 3",
       "url": "https://www.polygon.com/dorohedoro-season-3-confirmed-netflix/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Halca Performs Young Ladies Don't Play Fighting Games Anime's Ending Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-30/halca-performs-young-ladies-dont-play-fighting-games-anime-ending-song/.237958",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News Free PS5 Upgrade Codes Sent to The Outer Worlds Owners After Obsidian Cock Up",
-      "url": "https://www.pushsquare.com/news/2026/05/free-ps5-upgrade-codes-sent-to-the-outer-worlds-owners-after-obsidian-cock-up",
+      "title": "Guide These 12+ PS5, PS Plus Games Are Coming Out Next Week (1st-7th June)",
+      "url": "https://www.pushsquare.com/guides/these-12plus-ps5-ps-plus-games-are-coming-out-next-week-1st-7th-june",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
