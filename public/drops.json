@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T09:56:56+00:00",
+  "generated_utc": "2026-05-30T10:11:14+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "e4ec9b0c8a36",
+      "pillar": "hiphop",
+      "title": "‘So that was strike one’: Las Vegas woman goes on Hinge date. Then he asks her a question about her ring",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/las-vegas-hinge-stack-dating/",
+      "thumbnail": "/drops/thumbs/e4ec9b0c8a36.jpg",
+      "published": "2026-05-30T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f8a856f6054e",
       "pillar": "hiphop",
       "title": "A$AP Rocky Launches Don’t Be Dumb World Tour with Sold-Out Chicago Show",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "bef1b93dec96",
-      "pillar": "hiphop",
-      "title": "Italian Authorities Cancel Travis Scott and Ye Concert Over Public Safety Concerns",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/29/italian-authorities-cancel-travis-scott-and-ye-concert-over-public-safety-concerns/",
-      "thumbnail": "/drops/thumbs/bef1b93dec96.jpg",
-      "published": "2026-05-29T18:04:56",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "09cdf86dc7a1",
       "pillar": "anime",
       "title": "Dragon Ball Is Officially Switching Genres In 2027, And It Will Be Epic",
@@ -213,6 +213,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/yaiba-samurai-hero-demon-slayer-meets-dragon-ball/",
       "thumbnail": "/drops/thumbs/e1eee5214ced.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dcba6f834dd3",
+      "pillar": "anime",
+      "title": "New Kaiju No. 8 Anime Short Unveils Story, Staff, Fall Debut",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/new-kaiju-no-8-anime-short-unveils-story-staff-fall-debut/.237963",
+      "thumbnail": "/drops/thumbs/dcba6f834dd3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,18 +273,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/one-of-animes-most-celebrated-arthouse-movies-is-finally-coming-to-theaters-27-years-after-it-debuted/",
       "thumbnail": "/drops/thumbs/2b2e7c014f67.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "373d66c3bad5",
-      "pillar": "anime",
-      "title": "CloverWorks' Original Omnibus Anime Film Grotesqqque Reveals 14 Cast Members",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/cloverworks-original-omnibus-anime-film-grotesqqque-reveals-14-cast-members/.237959",
-      "thumbnail": "/drops/thumbs/373d66c3bad5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5cf0911b3893",
-    "f8a856f6054e",
+    "e4ec9b0c8a36",
     "b590d3f9fa64",
     "09cdf86dc7a1",
     "64e7d2e034a3",
