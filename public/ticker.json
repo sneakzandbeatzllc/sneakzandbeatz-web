@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T14:00:46+00:00",
+  "generated_utc": "2026-05-30T14:04:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Taxstone Hit With Three Extra Years After Prison Contraband Operation Foiled",
+      "url": "https://allhiphop.com/news/taxstone-hit-with-three-extra-years-after-prison-contraband-operation-foiled/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Missouri woman looks at her aquarium. Then she notices an uninvited mystery hatchling slithering around: ‘I don’t have any fish in here’",
       "url": "https://allhiphop.com/newsbreak/missouri-aquarium-mystery-creature/",
       "pillar": "hiphop",
@@ -109,22 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Kanye West European Tour Crumbles With Italy Cancellation",
-      "url": "https://allhiphop.com/news/kanye-west-european-tour-crumbles-with-italy-cancellation/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball Is Officially Switching Genres In 2027, And It Will Be Epic",
       "url": "https://screenrant.com/dragon-ball-super-galactic-patrol-change-genre/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Demon Slayer Meets Dragon Ball in Netflix's Most Underrated Anime Gem, Yaiba",
-      "url": "https://screenrant.com/yaiba-samurai-hero-demon-slayer-meets-dragon-ball/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -139,6 +132,13 @@
     {
       "title": "Naruto has major new releases set for 2027",
       "url": "https://www.polygon.com/naruto-new-releases-2027/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ichi the Witch Is Officially Shonen Jump's Next Black Clover-Level Mega Hit",
+      "url": "https://screenrant.com/shonen-jump-ichi-the-witch-next-black-clover-hit/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

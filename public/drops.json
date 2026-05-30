@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T14:00:46+00:00",
+  "generated_utc": "2026-05-30T14:04:03+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "a458657b5d21",
+      "pillar": "hiphop",
+      "title": "Taxstone Hit With Three Extra Years After Prison Contraband Operation Foiled",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/taxstone-hit-with-three-extra-years-after-prison-contraband-operation-foiled/",
+      "thumbnail": "/drops/thumbs/a458657b5d21.jpg",
+      "published": "2026-05-30T10:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9b0e1ed5d623",
       "pillar": "hiphop",
       "title": "Missouri woman looks at her aquarium. Then she notices an uninvited mystery hatchling slithering around: ‘I don’t have any fish in here’",
@@ -183,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "fa7884c2e8d5",
-      "pillar": "hiphop",
-      "title": "Kanye West European Tour Crumbles With Italy Cancellation",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kanye-west-european-tour-crumbles-with-italy-cancellation/",
-      "thumbnail": "/drops/thumbs/fa7884c2e8d5.png",
-      "published": "2026-05-29T19:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "09cdf86dc7a1",
       "pillar": "anime",
       "title": "Dragon Ball Is Officially Switching Genres In 2027, And It Will Be Epic",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-super-galactic-patrol-change-genre/",
       "thumbnail": "/drops/thumbs/09cdf86dc7a1.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e1eee5214ced",
-      "pillar": "anime",
-      "title": "Demon Slayer Meets Dragon Ball in Netflix's Most Underrated Anime Gem, Yaiba",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/yaiba-samurai-hero-demon-slayer-meets-dragon-ball/",
-      "thumbnail": "/drops/thumbs/e1eee5214ced.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -237,6 +225,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/naruto-new-releases-2027/",
       "thumbnail": "/drops/thumbs/c33ecd831dbb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b1173084b597",
+      "pillar": "anime",
+      "title": "Ichi the Witch Is Officially Shonen Jump's Next Black Clover-Level Mega Hit",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/shonen-jump-ichi-the-witch-next-black-clover-hit/",
+      "thumbnail": "/drops/thumbs/b1173084b597.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5cf0911b3893",
-    "9b0e1ed5d623",
+    "a458657b5d21",
     "b590d3f9fa64",
     "09cdf86dc7a1",
     "64e7d2e034a3",
