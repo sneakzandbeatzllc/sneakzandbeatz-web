@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T00:44:52+00:00",
+  "generated_utc": "2026-05-30T01:05:00+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "09cdf86dc7a1",
+      "pillar": "anime",
+      "title": "Dragon Ball Is Officially Switching Genres In 2027, And It Will Be Epic",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-galactic-patrol-change-genre/",
+      "thumbnail": "/drops/thumbs/09cdf86dc7a1.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e1eee5214ced",
       "pillar": "anime",
       "title": "Demon Slayer Meets Dragon Ball in Netflix's Most Underrated Anime Gem, Yaiba",
@@ -249,18 +261,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-return-2027-25th-anniversary/",
       "thumbnail": "/drops/thumbs/6908b6e44f71.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4b8f1305a78b",
-      "pillar": "anime",
-      "title": "8 Best Madara Quotes In Naruto History",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/madara-uchiha-best-naruto-quotes/",
-      "thumbnail": "/drops/thumbs/4b8f1305a78b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "5cf0911b3893",
     "fa7884c2e8d5",
     "b590d3f9fa64",
-    "e1eee5214ced",
+    "09cdf86dc7a1",
     "64e7d2e034a3",
     "0606ca848b41"
   ]
