@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T11:14:15+00:00",
+  "generated_utc": "2026-05-30T12:14:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece TV Anime's Elbaph Arc Reveals Trailer, Cast for Knights of God",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-29/one-piece-tv-anime-elbaph-arc-reveals-trailer-cast-for-knights-of-god/.237946",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One Piece Chapter #1184 Release Date and Time",
       "url": "https://screenrant.com/one-piece-chapter-1184-release-date-time/",
       "pillar": "anime",
@@ -160,6 +153,13 @@
     {
       "title": "One of anime's most celebrated arthouse movies is finally coming to theaters",
       "url": "https://www.polygon.com/one-of-animes-most-celebrated-arthouse-movies-is-finally-coming-to-theaters-27-years-after-it-debuted/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Halca Performs Young Ladies Don't Play Fighting Games Anime's Ending Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-30/halca-performs-young-ladies-dont-play-fighting-games-anime-ending-song/.237958",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
