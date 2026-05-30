@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T13:16:01+00:00",
+  "generated_utc": "2026-05-30T13:48:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,29 @@
       "article_slug": null
     },
     {
+      "title": "Missouri woman looks at her aquarium. Then she notices an uninvited mystery hatchling slithering around: ‘I don’t have any fish in here’",
+      "url": "https://allhiphop.com/newsbreak/missouri-aquarium-mystery-creature/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Lexnour Teases New Single “Baby Don’t Play,” Hinting at a Genre-Blending Sound Fans Haven’t Heard Before",
+      "url": "https://allhiphop.com/music/lexnour-teases-new-single-baby-dont-play-hinting-at-a-genre-blending-sound-fans-havent-heard-before/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "BET Announces Premiere Date for Damon Dash’s ‘OG STORIES’ Docuseries",
       "url": "https://thesource.com/2026/05/30/bet-damon-dash-og-stories-premiere/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "‘So that was strike one’: Las Vegas woman goes on Hinge date. Then he asks her a question about her ring",
+      "url": "https://allhiphop.com/newsbreak/las-vegas-hinge-stack-dating/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -88,29 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "DNC Calls Stephen Miller ‘Ugly F**k’ in Clash in Over Texas Senate Race",
-      "url": "https://thesource.com/2026/05/29/dnc-calls-stephen-miller-ugly-fk-in-clash-in-over-texas-senate-race/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Janice STFU Marks First Rap Song To Debut At #1 Since Eminem’s 2024 Record ‘Houdini’",
-      "url": "https://thesource.com/2026/05/29/janice-stfu-marks-first-rap-song-to-debut-at-1-since-eminems-2024-record-houdini/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Travis Scott and Air Jordan Break from Earth Tones with “Pink Pack” Drop",
-      "url": "https://thesource.com/2026/05/29/travis-scott-and-air-jordan-break-from-earth-tones-with-pink-pack-drop/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Italian Authorities Cancel Travis Scott and Ye Concert Over Public Safety Concerns",
-      "url": "https://thesource.com/2026/05/29/italian-authorities-cancel-travis-scott-and-ye-concert-over-public-safety-concerns/",
+      "title": "Kanye West European Tour Crumbles With Italy Cancellation",
+      "url": "https://allhiphop.com/news/kanye-west-european-tour-crumbles-with-italy-cancellation/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
