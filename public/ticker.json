@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T02:19:17+00:00",
+  "generated_utc": "2026-05-30T02:51:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Kanye West European Tour Crumbles With Italy Cancellation",
+      "url": "https://allhiphop.com/news/kanye-west-european-tour-crumbles-with-italy-cancellation/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "DNC Calls Stephen Miller ‘Ugly F**k’ in Clash in Over Texas Senate Race",
       "url": "https://thesource.com/2026/05/29/dnc-calls-stephen-miller-ugly-fk-in-clash-in-over-texas-senate-race/",
       "pillar": "hiphop",
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "The OG Chaos Returns: The Wayans Brothers and Anna Faris Shutdown Miami for ‘Scary Movie’",
-      "url": "https://thesource.com/2026/05/29/the-og-chaos-returns-the-wayans-brothers-and-anna-faris-shutdown-miami-for-scary-movie/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Latto Releases Fourth Studio Album ‘Big Mama’",
-      "url": "https://thesource.com/2026/05/29/latto-drops-new-album-big-mama-featuring-doja-cat-and-teyana-taylor/",
+      "title": "EXCLUSIVE: Federal Judge Reinstates Megan Thee Stallion’s Defamation Claim Against Milagro Gramz, Slaps Blooger With $75K Award",
+      "url": "https://allhiphop.com/news/exclusive-judge-reinstates-megan-thee-stallions-defamation-claim-milagro-gramz-75k-award/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
