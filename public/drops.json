@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-30T12:46:18+00:00",
+  "generated_utc": "2026-05-30T13:02:23+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "9b0e1ed5d623",
+      "pillar": "hiphop",
+      "title": "Missouri woman looks at her aquarium. Then she notices an uninvited mystery hatchling slithering around: ‘I don’t have any fish in here’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/missouri-aquarium-mystery-creature/",
+      "thumbnail": "/drops/thumbs/9b0e1ed5d623.jpg",
+      "published": "2026-05-30T09:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b919f1f0479e",
       "pillar": "hiphop",
       "title": "Lexnour Teases New Single “Baby Don’t Play,” Hinting at a Genre-Blending Sound Fans Haven’t Heard Before",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/kanye-west-european-tour-crumbles-with-italy-cancellation/",
       "thumbnail": "/drops/thumbs/fa7884c2e8d5.png",
       "published": "2026-05-29T19:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b67ac4bac0a4",
-      "pillar": "hiphop",
-      "title": "DNC Calls Stephen Miller ‘Ugly F**k’ in Clash in Over Texas Senate Race",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/29/dnc-calls-stephen-miller-ugly-fk-in-clash-in-over-texas-senate-race/",
-      "thumbnail": "/drops/thumbs/b67ac4bac0a4.jpg",
-      "published": "2026-05-29T18:30:28",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5cf0911b3893",
-    "b919f1f0479e",
+    "9b0e1ed5d623",
     "b590d3f9fa64",
     "09cdf86dc7a1",
     "64e7d2e034a3",
