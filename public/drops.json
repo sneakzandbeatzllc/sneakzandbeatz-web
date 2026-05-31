@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T21:07:51+00:00",
+  "generated_utc": "2026-05-31T21:09:24+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "ff88f91dcbe8",
+      "pillar": "hiphop",
+      "title": "M.I.A. Sues Kid Cudi Over Death Threats & Lost Millions",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/m-i-a-sues-kid-cudi-over-death-threats-lost-millions/",
+      "thumbnail": "/drops/thumbs/ff88f91dcbe8.jpg",
+      "published": "2026-05-31T17:02:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d290e1016f79",
       "pillar": "hiphop",
       "title": "Soulja Boy Speaks on Reported Struggle With Lean Use, Working Through Relapse",
@@ -159,6 +171,18 @@
       "release_badge": ""
     },
     {
+      "id": "78e14c65bd73",
+      "pillar": "hiphop",
+      "title": "50 Cent Warns Diddy Will Get Away With More When Released From Prison",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/50-cent-warns-diddy-will-get-away-with-more-when-released-from-prison/",
+      "thumbnail": "/drops/thumbs/78e14c65bd73.jpg",
+      "published": "2026-05-31T16:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "eadfabf16cb2",
       "pillar": "hiphop",
       "title": "Jay-Z Takes Shots At Opps in Fiery Freestyle During Roots Picnic Performance",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/05/31/jay-z-takes-shots-at-opps-in-fiery-freestyle-during-roots-picnic-performance/",
       "thumbnail": "/drops/thumbs/eadfabf16cb2.jpg",
       "published": "2026-05-31T15:54:42",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c24bffd252cc",
-      "pillar": "hiphop",
-      "title": "Today in Hip Hop History: Boogie Down Productions Released Their Second LP ‘By All Means Necessary’ 38 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/31/today-in-hip-hop-history-boogie-down-productions-released-their-second-lp-by-all-means-necessary-38-years-ago/",
-      "thumbnail": "/drops/thumbs/c24bffd252cc.jpg",
-      "published": "2026-05-31T15:15:54",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b44597af54d7",
-      "pillar": "hiphop",
-      "title": "Happy Heavenly Birthday To The Legendary Big L!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/30/happy-heavenly-birthday-to-the-legendary-big-l/",
-      "thumbnail": "/drops/thumbs/b44597af54d7.jpg",
-      "published": "2026-05-30T15:05:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5cf0911b3893",
-    "d290e1016f79",
+    "ff88f91dcbe8",
     "b590d3f9fa64",
     "13ca87079ff0",
     "78eec618cda3",
