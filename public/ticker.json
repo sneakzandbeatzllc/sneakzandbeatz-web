@@ -1,13 +1,20 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T08:45:29+00:00",
+  "generated_utc": "2026-05-31T09:12:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 6 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Tropical Pink” (IQ7604-101) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-tropical-pink-iq7604-101-drop/",
       "pillar": "sneakers",
-      "score": 5.0,
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
       "url": "https://justfreshkicks.com/air-jordan-3-laser-io2365-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
-      "url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Chainsmoker Cat TV Anime Reveals Main Trailer, Theme Song Artists, More Staff Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/chainsmoker-cat-tv-anime-reveals-main-trailer-theme-song-artists-more-staff-members/.237984",
+      "title": "Daemons of the Shadow Realm Anime Unveils Additional Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/daemons-of-the-shadow-realm-anime-unveils-additional-cast-members/.237987",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Wasted Chef Anime Film Reveals Teaser Trailer, Manga Adaptation",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/wasted-chef-anime-film-reveals-teaser-trailer-manga-adaptation/.237983",
+      "title": "Chainsmoker Cat TV Anime Reveals Main Trailer, Theme Song Artists, More Staff Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/chainsmoker-cat-tv-anime-reveals-main-trailer-theme-song-artists-more-staff-members/.237984",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Perfect Addiction 'Light Anime' Reveals Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-30/perfect-addiction-light-anime-reveals-promo-video/.237961",
+      "title": "Wasted Chef Anime Film Reveals Teaser Trailer, Manga Adaptation",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/wasted-chef-anime-film-reveals-teaser-trailer-manga-adaptation/.237983",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
