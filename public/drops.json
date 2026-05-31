@@ -1,18 +1,30 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T23:14:25+00:00",
+  "generated_utc": "2026-05-31T23:31:12+00:00",
   "items": [
     {
-      "id": "5e60dea9c293",
+      "id": "5cf0911b3893",
       "pillar": "sneakers",
-      "title": "Air Jordan 6 PRM \"BIN 23\"",
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Tropical Pink” (IQ7604-101) May Release Date & Info",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
-      "thumbnail": "/drops/thumbs/5e60dea9c293.jpg",
-      "published": "",
+      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-tropical-pink-iq7604-101-drop/",
+      "thumbnail": "/drops/thumbs/5cf0911b3893.jpg",
+      "published": "2026-05-29T09:59:15",
       "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "b590d3f9fa64",
+      "pillar": "sneakers",
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
+      "thumbnail": "/drops/thumbs/b590d3f9fa64.jpg",
+      "published": "2026-05-29T09:59:08",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "78eec618cda3",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-3-laser-io2365-001/",
       "thumbnail": "/drops/thumbs/c70fa298063e.jpg",
       "published": "2026-05-30T15:09:11",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d52d12fee763",
-      "pillar": "sneakers",
-      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
-      "thumbnail": "/drops/thumbs/d52d12fee763.webp",
-      "published": "2026-05-30T15:05:15",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "5e60dea9c293",
+    "5cf0911b3893",
     "02056f08909b",
-    "78eec618cda3",
+    "b590d3f9fa64",
     "13ca87079ff0",
-    "a550bf8488a7",
+    "78eec618cda3",
     "2600b06ca2d2"
   ]
 }
