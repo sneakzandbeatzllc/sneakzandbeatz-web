@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T00:35:59+00:00",
+  "generated_utc": "2026-05-31T01:16:52+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "de09b75300f0",
+      "pillar": "hiphop",
+      "title": "Meek Mill Warns Students About Social Media, Violence & Finding Purpose",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/meek-mill-warns-students-about-social-media-violence-finding-purpose/",
+      "thumbnail": "/drops/thumbs/de09b75300f0.jpg",
+      "published": "2026-05-30T21:00:17",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f4d551d72b28",
       "pillar": "hiphop",
       "title": "Vanilla Ice Shrugs Off Freedom 250 Drama, Would Play For Any Politician & Even Iran",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "c3d37a91e7f7",
-      "pillar": "hiphop",
-      "title": "Kanye West Tour Survives in Netherlands As Europe Continues Bans",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kanye-west-tour-survives-in-netherlands-as-europe-continues-bans/",
-      "thumbnail": "/drops/thumbs/c3d37a91e7f7.jpg",
-      "published": "2026-05-30T13:00:36",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "dcba6f834dd3",
       "pillar": "anime",
       "title": "New Kaiju No. 8 Anime Short Unveils Story, Staff, Fall Debut",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "0b4be8655a47",
+      "id": "bd7c8b87a660",
       "pillar": "anime",
-      "title": "10 Most Controversial Anime Episodes Ever Released",
+      "title": "If You're Comparing Gon to Killua, You're Missing the Whole Point of Hunter x Hunter",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/most-controversial-anime-episodes-ever/",
-      "thumbnail": "/drops/thumbs/0b4be8655a47.jpg",
+      "source_url": "https://screenrant.com/hunter-x-hunter-gon-killua-best-anime-duo-opposites/",
+      "thumbnail": "/drops/thumbs/bd7c8b87a660.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "66ee457d9996",
+      "id": "0b4be8655a47",
       "pillar": "anime",
-      "title": "That Time I Got Reincarnated as a Slime Is Back To Raise The Bar For Every Crunchyroll Isekai",
+      "title": "10 Most Controversial Anime Episodes Ever Released",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/that-time-reincarnated-as-slime-back-season-4-crunchyroll-best-isekai/",
-      "thumbnail": "/drops/thumbs/66ee457d9996.png",
+      "source_url": "https://screenrant.com/most-controversial-anime-episodes-ever/",
+      "thumbnail": "/drops/thumbs/0b4be8655a47.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "a4b04dbdd5db",
+      "id": "66ee457d9996",
       "pillar": "anime",
-      "title": "Mushi-shi Silently Changed the Industry, And It’s Officially Been Removed from Streaming",
+      "title": "That Time I Got Reincarnated as a Slime Is Back To Raise The Bar For Every Crunchyroll Isekai",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/mushi-shi-changed-anime-industry-removed-streaming/",
-      "thumbnail": "/drops/thumbs/a4b04dbdd5db.jpg",
+      "source_url": "https://screenrant.com/that-time-reincarnated-as-slime-back-season-4-crunchyroll-best-isekai/",
+      "thumbnail": "/drops/thumbs/66ee457d9996.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5cf0911b3893",
-    "f4d551d72b28",
+    "de09b75300f0",
     "b590d3f9fa64",
     "dcba6f834dd3",
     "78eec618cda3",
