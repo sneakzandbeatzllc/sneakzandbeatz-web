@@ -1,30 +1,18 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T06:02:07+00:00",
+  "generated_utc": "2026-05-31T07:04:48+00:00",
   "items": [
     {
-      "id": "5cf0911b3893",
+      "id": "5e60dea9c293",
       "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low OG SP “Tropical Pink” (IQ7604-101) May Release Date & Info",
+      "title": "Air Jordan 6 PRM \"BIN 23\"",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-tropical-pink-iq7604-101-drop/",
-      "thumbnail": "/drops/thumbs/5cf0911b3893.jpg",
-      "published": "2026-05-29T09:59:15",
+      "source_url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
+      "thumbnail": "/drops/thumbs/5e60dea9c293.jpg",
+      "published": "",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "b590d3f9fa64",
-      "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
-      "thumbnail": "/drops/thumbs/b590d3f9fa64.jpg",
-      "published": "2026-05-29T09:59:08",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
     },
     {
       "id": "78eec618cda3",
@@ -49,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "b5eacd4f26ff",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "thumbnail": "/drops/thumbs/b5eacd4f26ff.jpg",
+      "published": "2026-05-30T23:47:04",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "718a0dc79f1a",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "8e383d0aac79",
+      "id": "a07ffca60b68",
       "pillar": "anime",
-      "title": "Perfect Addiction 'Light Anime' Reveals Promo Video",
+      "title": "Wasted Chef Anime Film Reveals Teaser Trailer, Manga Adaptation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/perfect-addiction-light-anime-reveals-promo-video/.237961",
-      "thumbnail": "/drops/thumbs/8e383d0aac79.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/wasted-chef-anime-film-reveals-teaser-trailer-manga-adaptation/.237983",
+      "thumbnail": "/drops/thumbs/a07ffca60b68.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "f39c2356e870",
+      "id": "8e383d0aac79",
       "pillar": "anime",
-      "title": "Japanese Animation TV Ranking, May 18-24",
+      "title": "Perfect Addiction 'Light Anime' Reveals Promo Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/japanese-animation-tv-ranking-may-18-24/.237936",
-      "thumbnail": "/drops/thumbs/f39c2356e870.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/perfect-addiction-light-anime-reveals-promo-video/.237961",
+      "thumbnail": "/drops/thumbs/8e383d0aac79.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "5cf0911b3893",
+    "5e60dea9c293",
     "de09b75300f0",
-    "b590d3f9fa64",
-    "970f90fb5548",
     "78eec618cda3",
+    "970f90fb5548",
+    "a550bf8488a7",
     "2600b06ca2d2"
   ]
 }
