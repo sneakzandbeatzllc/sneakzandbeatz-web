@@ -1,13 +1,20 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T14:24:33+00:00",
+  "generated_utc": "2026-05-31T14:26:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 6 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Tropical Pink” (IQ7604-101) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-tropical-pink-iq7604-101-drop/",
       "pillar": "sneakers",
-      "score": 5.0,
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
       "url": "https://justfreshkicks.com/air-jordan-3-laser-io2365-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
-      "url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,15 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "MediaOCD to Release Restored HD Vampire Princess Miyu Anime on BD on its Website Only on September 8",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/mediaocd-to-release-restored-hd-vampire-princess-miyu-anime-on-bd-on-its-website-only-on-september-8/.237964",
+      "title": "Fanfare / Ponent Mon to Reprint Manga From Jiro Taniguchi, Others",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/fanfare-ponent-mon-to-reprint-manga-from-jiro-taniguchi-others/.237967",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "'Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!' Anime's New Video Unveils More Cast, Songs, June 24 Early Streaming",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/heroine-saint-no-im-an-all-works-maid-anime-new-video-unveils-more-cast-songs-june-24-early-/.237990",
+      "title": "MediaOCD to Release Restored HD Vampire Princess Miyu Anime on BD on its Website Only on September 8",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/mediaocd-to-release-restored-hd-vampire-princess-miyu-anime-on-bd-on-its-website-only-on-september-8/.237964",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Amu Meguro's Midori Loves My Sister Manga Gets Live-Action Film on December 4",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/amu-meguro-midori-loves-my-sister-manga-gets-live-action-film-on-december-4/.237988",
+      "title": "'Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!' Anime's New Video Unveils More Cast, Songs, June 24 Early Streaming",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/heroine-saint-no-im-an-all-works-maid-anime-new-video-unveils-more-cast-songs-june-24-early-/.237990",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
