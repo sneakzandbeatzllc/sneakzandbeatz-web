@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T19:04:12+00:00",
+  "generated_utc": "2026-05-31T19:37:19+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "c24bffd252cc",
+      "pillar": "hiphop",
+      "title": "Today in Hip Hop History: Boogie Down Productions Released Their Second LP ‘By All Means Necessary’ 38 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/31/today-in-hip-hop-history-boogie-down-productions-released-their-second-lp-by-all-means-necessary-38-years-ago/",
+      "thumbnail": "/drops/thumbs/c24bffd252cc.jpg",
+      "published": "2026-05-31T15:15:54",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ffd00b476e0c",
       "pillar": "hiphop",
       "title": "JAŸ-Z: Reclaiming The Crown At Roots Picnic",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/newsbreak/ohio-man-accidentally-stealing-water-walmart/",
       "thumbnail": "/drops/thumbs/4b62854006ac.jpg",
       "published": "2026-05-31T06:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "de09b75300f0",
-      "pillar": "hiphop",
-      "title": "Meek Mill Warns Students About Social Media, Violence & Finding Purpose",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/meek-mill-warns-students-about-social-media-violence-finding-purpose/",
-      "thumbnail": "/drops/thumbs/de09b75300f0.jpg",
-      "published": "2026-05-30T21:00:17",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5cf0911b3893",
-    "ffd00b476e0c",
+    "c24bffd252cc",
     "b590d3f9fa64",
     "c33ecd831dbb",
     "78eec618cda3",
