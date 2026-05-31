@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T02:53:02+00:00",
+  "generated_utc": "2026-05-31T03:41:25+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "970f90fb5548",
+      "pillar": "anime",
+      "title": "Only One Z Fighter Earned Vegeta's Respect Before Goku",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/gohan-earned-vegeta-respect-before-goku/",
+      "thumbnail": "/drops/thumbs/970f90fb5548.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "dcba6f834dd3",
       "pillar": "anime",
       "title": "New Kaiju No. 8 Anime Short Unveils Story, Staff, Fall Debut",
@@ -231,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "f39c2356e870",
+      "id": "8e383d0aac79",
       "pillar": "anime",
-      "title": "Japanese Animation TV Ranking, May 18-24",
+      "title": "Perfect Addiction 'Light Anime' Reveals Promo Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/japanese-animation-tv-ranking-may-18-24/.237936",
-      "thumbnail": "/drops/thumbs/f39c2356e870.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/perfect-addiction-light-anime-reveals-promo-video/.237961",
+      "thumbnail": "/drops/thumbs/8e383d0aac79.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,36 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "2738ab56cd69",
+      "id": "f39c2356e870",
       "pillar": "anime",
-      "title": "Ghost in the Shell's New Anime Is The Genre Evolution True Fans Have Waited 31 Years For",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/ghost-in-the-shell-prime-video-cyberpunk-genre-evolution/",
-      "thumbnail": "/drops/thumbs/2738ab56cd69.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0b4be8655a47",
-      "pillar": "anime",
-      "title": "10 Most Controversial Anime Episodes Ever Released",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/most-controversial-anime-episodes-ever/",
-      "thumbnail": "/drops/thumbs/0b4be8655a47.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7d5e6f9e3836",
-      "pillar": "anime",
-      "title": "Singer adieu Performs Ascendance of a Bookworm Part 3 Anime's New Ending Song",
+      "title": "Japanese Animation TV Ranking, May 18-24",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/singer-adieu-performs-ascendance-of-a-bookworm-part-3-anime-new-ending-song/.237968",
-      "thumbnail": "/drops/thumbs/7d5e6f9e3836.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-30/japanese-animation-tv-ranking-may-18-24/.237936",
+      "thumbnail": "/drops/thumbs/f39c2356e870.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b768359d3852",
+      "pillar": "anime",
+      "title": "10 Major Manga Series That Are Ending Soon",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/major-manga-ending-soon/",
+      "thumbnail": "/drops/thumbs/b768359d3852.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "5cf0911b3893",
     "1fd6506d0931",
     "b590d3f9fa64",
-    "dcba6f834dd3",
+    "970f90fb5548",
     "78eec618cda3",
     "2600b06ca2d2"
   ]
