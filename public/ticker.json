@@ -1,13 +1,20 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T20:39:28+00:00",
+  "generated_utc": "2026-05-31T21:07:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 6 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Tropical Pink” (IQ7604-101) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-tropical-pink-iq7604-101-drop/",
       "pillar": "sneakers",
-      "score": 5.0,
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
+      "url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -53,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
-      "url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Soulja Boy Speaks on Reported Struggle With Lean Use, Working Through Relapse",
       "url": "https://thesource.com/2026/05/31/soulja-boy-speaks-on-ongoing-struggle-with-lean-use-working-through-relapse/",
       "pillar": "hiphop",
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "50 Cent Warns Diddy Will Get Away With More When Released From Prison",
-      "url": "https://allhiphop.com/news/50-cent-warns-diddy-will-get-away-with-more-when-released-from-prison/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Jay-Z Takes Shots At Opps in Fiery Freestyle During Roots Picnic Performance",
       "url": "https://thesource.com/2026/05/31/jay-z-takes-shots-at-opps-in-fiery-freestyle-during-roots-picnic-performance/",
       "pillar": "hiphop",
@@ -111,6 +104,13 @@
     {
       "title": "Today in Hip Hop History: Boogie Down Productions Released Their Second LP ‘By All Means Necessary’ 38 Years Ago",
       "url": "https://thesource.com/2026/05/31/today-in-hip-hop-history-boogie-down-productions-released-their-second-lp-by-all-means-necessary-38-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Happy Heavenly Birthday To The Legendary Big L!",
+      "url": "https://thesource.com/2026/05/30/happy-heavenly-birthday-to-the-legendary-big-l/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
