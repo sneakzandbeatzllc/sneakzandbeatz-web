@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T11:18:24+00:00",
+  "generated_utc": "2026-05-31T11:50:28+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "'Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!' Anime's New Video Unveils More Cast, Songs, June 24 Early Streaming",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/heroine-saint-no-im-an-all-works-maid-anime-new-video-unveils-more-cast-songs-june-24-early-/.237990",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Amu Meguro's Midori Loves My Sister Manga Gets Live-Action Film on December 4",
       "url": "https://www.animenewsnetwork.com/news/2026-05-31/amu-meguro-midori-loves-my-sister-manga-gets-live-action-film-on-december-4/.237988",
       "pillar": "anime",
@@ -144,22 +151,15 @@
       "article_slug": null
     },
     {
+      "title": "10 best anime on Prime Video to watch right now",
+      "url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Daemons of the Shadow Realm Anime Unveils Additional Cast Members",
       "url": "https://www.animenewsnetwork.com/news/2026-05-31/daemons-of-the-shadow-realm-anime-unveils-additional-cast-members/.237987",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One of anime's most celebrated arthouse movies is finally coming to theaters",
-      "url": "https://www.polygon.com/one-of-animes-most-celebrated-arthouse-movies-is-finally-coming-to-theaters-27-years-after-it-debuted/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Chainsmoker Cat TV Anime Reveals Main Trailer, Theme Song Artists, More Staff Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/chainsmoker-cat-tv-anime-reveals-main-trailer-theme-song-artists-more-staff-members/.237984",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News Wolverine PS5 Pre-Orders Expected to Open Next Week, After State of Play",
-      "url": "https://www.pushsquare.com/news/2026/05/wolverine-ps5-pre-orders-expected-to-open-next-week-after-state-of-play",
+      "title": "News Wuthering Waves' Cyberpunk: Edgerunners Collab Looks Stunning",
+      "url": "https://www.pushsquare.com/news/2026/05/wuthering-waves-cyberpunk-edgerunners-collab-looks-stunning",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
