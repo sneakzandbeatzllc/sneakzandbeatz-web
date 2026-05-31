@@ -1,30 +1,18 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T22:09:37+00:00",
+  "generated_utc": "2026-05-31T22:29:30+00:00",
   "items": [
     {
-      "id": "5cf0911b3893",
+      "id": "5e60dea9c293",
       "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low OG SP “Tropical Pink” (IQ7604-101) May Release Date & Info",
+      "title": "Air Jordan 6 PRM \"BIN 23\"",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-tropical-pink-iq7604-101-drop/",
-      "thumbnail": "/drops/thumbs/5cf0911b3893.jpg",
-      "published": "2026-05-29T09:59:15",
+      "source_url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
+      "thumbnail": "/drops/thumbs/5e60dea9c293.jpg",
+      "published": "",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "b590d3f9fa64",
-      "pillar": "sneakers",
-      "title": "Travis Scott x Air Jordan 1 Low OG SP “Shy Pink” (IQ7604-100) May Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/travis-scott-air-jordan-1-low-og-sp-shy-pink-iq7604-100-drop/",
-      "thumbnail": "/drops/thumbs/b590d3f9fa64.jpg",
-      "published": "2026-05-29T09:59:08",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
     },
     {
       "id": "78eec618cda3",
@@ -96,6 +84,30 @@
       "published": "2026-05-30T15:09:11",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d52d12fee763",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
+      "thumbnail": "/drops/thumbs/d52d12fee763.webp",
+      "published": "2026-05-30T15:05:15",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2d96327b50b5",
+      "pillar": "hiphop",
+      "title": "Dame Dash Responds To Jay-Z’s Shade At Roots Picnic",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/dame-dash-responds-to-jay-zs-shade-at-roots-picnic/",
+      "thumbnail": "/drops/thumbs/2d96327b50b5.png",
+      "published": "2026-05-31T18:23:19",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/31/stunna-girl-responds-after-arrest-on-longstanding-north-carolina-warrant/",
       "thumbnail": "/drops/thumbs/8f026770d9c4.jpg",
       "published": "2026-05-31T16:22:54",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "897433e7fdb4",
-      "pillar": "hiphop",
-      "title": "Clive Davis Expected to Recover After Brief New York Hospital Stay",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/31/clive-davis-expected-to-recover-after-brief-new-york-hospital-stay/",
-      "thumbnail": "/drops/thumbs/897433e7fdb4.jpg",
-      "published": "2026-05-31T16:16:48",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "5cf0911b3893",
-    "93221d1d64b2",
-    "b590d3f9fa64",
-    "13ca87079ff0",
+    "5e60dea9c293",
+    "2d96327b50b5",
     "78eec618cda3",
+    "13ca87079ff0",
+    "a550bf8488a7",
     "2600b06ca2d2"
   ]
 }
