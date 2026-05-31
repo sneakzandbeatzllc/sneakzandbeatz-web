@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T09:46:56+00:00",
+  "generated_utc": "2026-05-31T10:16:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Ohio man goes to Walmart. Then a worker catches him accidentally stealing water: ‘Don’t show your receipt’",
+      "url": "https://allhiphop.com/newsbreak/ohio-man-accidentally-stealing-water-walmart/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Meek Mill Warns Students About Social Media, Violence & Finding Purpose",
       "url": "https://allhiphop.com/news/meek-mill-warns-students-about-social-media-violence-finding-purpose/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Latto Blames Postpartum Crash Out For Retirement Announcment",
-      "url": "https://allhiphop.com/news/latto-blames-postpartum-crash-out-for-retirement-announcment/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Only One Z Fighter Earned Vegeta's Respect Before Goku",
       "url": "https://screenrant.com/gohan-earned-vegeta-respect-before-goku/",
       "pillar": "anime",
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Daemons of the Shadow Realm Anime Unveils Additional Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/daemons-of-the-shadow-realm-anime-unveils-additional-cast-members/.237987",
+      "title": "Amu Meguro's Midori Loves My Sister Manga Gets Live-Action Film on December 4",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/amu-meguro-midori-loves-my-sister-manga-gets-live-action-film-on-december-4/.237988",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Chainsmoker Cat TV Anime Reveals Main Trailer, Theme Song Artists, More Staff Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/chainsmoker-cat-tv-anime-reveals-main-trailer-theme-song-artists-more-staff-members/.237984",
+      "title": "Daemons of the Shadow Realm Anime Unveils Additional Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/daemons-of-the-shadow-realm-anime-unveils-additional-cast-members/.237987",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Wasted Chef Anime Film Reveals Teaser Trailer, Manga Adaptation",
-      "url": "https://www.animenewsnetwork.com/news/2026-05-31/wasted-chef-anime-film-reveals-teaser-trailer-manga-adaptation/.237983",
+      "title": "Chainsmoker Cat TV Anime Reveals Main Trailer, Theme Song Artists, More Staff Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/chainsmoker-cat-tv-anime-reveals-main-trailer-theme-song-artists-more-staff-members/.237984",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "10 Major Manga Series That Are Ending Soon",
-      "url": "https://screenrant.com/major-manga-ending-soon/",
+      "title": "15 Greatest Revenge Manhwa On Webtoon Too Addictive To Miss",
+      "url": "https://screenrant.com/best-revenge-manhwa-webtoons/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

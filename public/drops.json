@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-05-31T09:46:56+00:00",
+  "generated_utc": "2026-05-31T10:16:20+00:00",
   "items": [
     {
       "id": "5cf0911b3893",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4b62854006ac",
+      "pillar": "hiphop",
+      "title": "Ohio man goes to Walmart. Then a worker catches him accidentally stealing water: ‘Don’t show your receipt’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/ohio-man-accidentally-stealing-water-walmart/",
+      "thumbnail": "/drops/thumbs/4b62854006ac.jpg",
+      "published": "2026-05-31T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "de09b75300f0",
       "pillar": "hiphop",
       "title": "Meek Mill Warns Students About Social Media, Violence & Finding Purpose",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "b5b830d978bb",
-      "pillar": "hiphop",
-      "title": "Latto Blames Postpartum Crash Out For Retirement Announcment",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/latto-blames-postpartum-crash-out-for-retirement-announcment/",
-      "thumbnail": "/drops/thumbs/b5b830d978bb.jpg",
-      "published": "2026-05-30T14:00:55",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "970f90fb5548",
       "pillar": "anime",
       "title": "Only One Z Fighter Earned Vegeta's Respect Before Goku",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "cdd79da3b180",
+      "id": "ff40d3efddf8",
       "pillar": "anime",
-      "title": "Daemons of the Shadow Realm Anime Unveils Additional Cast Members",
+      "title": "Amu Meguro's Midori Loves My Sister Manga Gets Live-Action Film on December 4",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/daemons-of-the-shadow-realm-anime-unveils-additional-cast-members/.237987",
-      "thumbnail": "/drops/thumbs/cdd79da3b180.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/amu-meguro-midori-loves-my-sister-manga-gets-live-action-film-on-december-4/.237988",
+      "thumbnail": "/drops/thumbs/ff40d3efddf8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "fe1d6ad3dc28",
+      "id": "cdd79da3b180",
       "pillar": "anime",
-      "title": "Chainsmoker Cat TV Anime Reveals Main Trailer, Theme Song Artists, More Staff Members",
+      "title": "Daemons of the Shadow Realm Anime Unveils Additional Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/chainsmoker-cat-tv-anime-reveals-main-trailer-theme-song-artists-more-staff-members/.237984",
-      "thumbnail": "/drops/thumbs/fe1d6ad3dc28.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/daemons-of-the-shadow-realm-anime-unveils-additional-cast-members/.237987",
+      "thumbnail": "/drops/thumbs/cdd79da3b180.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "a07ffca60b68",
+      "id": "fe1d6ad3dc28",
       "pillar": "anime",
-      "title": "Wasted Chef Anime Film Reveals Teaser Trailer, Manga Adaptation",
+      "title": "Chainsmoker Cat TV Anime Reveals Main Trailer, Theme Song Artists, More Staff Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/wasted-chef-anime-film-reveals-teaser-trailer-manga-adaptation/.237983",
-      "thumbnail": "/drops/thumbs/a07ffca60b68.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/chainsmoker-cat-tv-anime-reveals-main-trailer-theme-song-artists-more-staff-members/.237984",
+      "thumbnail": "/drops/thumbs/fe1d6ad3dc28.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b768359d3852",
+      "id": "b5aadf9fd352",
       "pillar": "anime",
-      "title": "10 Major Manga Series That Are Ending Soon",
+      "title": "15 Greatest Revenge Manhwa On Webtoon Too Addictive To Miss",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/major-manga-ending-soon/",
-      "thumbnail": "/drops/thumbs/b768359d3852.jpg",
+      "source_url": "https://screenrant.com/best-revenge-manhwa-webtoons/",
+      "thumbnail": "/drops/thumbs/b5aadf9fd352.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "5cf0911b3893",
-    "de09b75300f0",
+    "4b62854006ac",
     "b590d3f9fa64",
     "970f90fb5548",
     "78eec618cda3",
