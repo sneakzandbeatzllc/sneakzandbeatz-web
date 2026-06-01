@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T12:58:13+00:00",
+  "generated_utc": "2026-06-01T13:32:01+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "eaa24ec2b3d7",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Man Who Claims Biggie’s Son Helped Diddy With Oral Assault Fighting Default Judgement",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/exclusive-man-who-claims-biggies-son-helped-diddy-with-oral-assault-fighting-default-judgement/",
+      "thumbnail": "/drops/thumbs/eaa24ec2b3d7.jpg",
+      "published": "2026-06-01T09:01:26",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b75922eeed2b",
+      "pillar": "hiphop",
+      "title": "‘Something happened to me’: California woman goes to McDonald’s with her man’s 7-year-old niece. Then something shocking happens at the PlayPlace",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/california-mcdonalds-playplace-male-bodily-fluid/",
+      "thumbnail": "/drops/thumbs/b75922eeed2b.jpg",
+      "published": "2026-06-01T09:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d3c06fb6978b",
       "pillar": "hiphop",
       "title": "BossMan Dlow Drops “Motion Party” Remix Featuring Megan Thee Stallion",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/05/31/today-in-hip-hop-history-doug-e-fresh-dropped-his-second-lp-the-worlds-greatest-entertainer-38-years-ago/",
       "thumbnail": "/drops/thumbs/f0d753ce2a63.jpg",
       "published": "2026-05-31T23:12:38",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "66e6e86f1e76",
-      "pillar": "hiphop",
-      "title": "Rumor Has It: Alleged Diddy, Daphne Joy & Sly Diggler Tape Sends Social Media To Hades",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/rumor-has-it-alleged-diddy-daphne-joy-sly-diggler-tape-sends-social-media-to-hades/",
-      "thumbnail": "/drops/thumbs/66e6e86f1e76.jpg",
-      "published": "2026-05-31T23:05:22",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "dee3dd542bdd",
-      "pillar": "hiphop",
-      "title": "From Rejection To Family: Martin Lawrence Explains Journey With Eddie Murphy",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/from-rejection-to-family-martin-lawrence-explains-journey-with-eddie-murphy/",
-      "thumbnail": "/drops/thumbs/dee3dd542bdd.jpg",
-      "published": "2026-05-31T23:00:21",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "90f00e67af50",
+      "pillar": "gaming",
+      "title": "Tekken 8 Exodus Has Fans Worried As 20-Year Veteran Exits Bandai Namco",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/the-tekken-8-exodus-continues-with-another-big-departure-worrying-fans-2000701072",
+      "thumbnail": "/drops/thumbs/90f00e67af50.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ed662c4551ab",
       "pillar": "gaming",
       "title": "News Following Harada's Exit, Tekken 8 Has Now Also Lost its Game Director",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "589826cd0c96",
-      "pillar": "gaming",
-      "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
-      "thumbnail": "/drops/thumbs/589826cd0c96.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "a550bf8488a7",
-    "d3c06fb6978b",
+    "eaa24ec2b3d7",
     "b5eacd4f26ff",
     "fbe3a813151b",
     "718a0dc79f1a",
