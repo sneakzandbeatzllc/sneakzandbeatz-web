@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T11:43:09+00:00",
+  "generated_utc": "2026-06-01T11:56:31+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f05d13cf74a2",
+      "pillar": "hiphop",
+      "title": "JAY-Z and The Roots Deliver Star-Studded Day One Performance at Roots Picnic",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/01/jay-z-roots-picnic-2026-day-one/",
+      "thumbnail": "/drops/thumbs/f05d13cf74a2.jpg",
+      "published": "2026-06-01T07:26:44",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f0d753ce2a63",
       "pillar": "hiphop",
       "title": "Today In Hip Hop History: Doug E. Fresh Dropped His Second Lp ‘The World’s Greatest Entertainer’ 38 Years Ago",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/50-cent-says-his-son-real-victim-in-diddy-drama-after-tape-leaks-featuring-daphne-joy/",
       "thumbnail": "/drops/thumbs/58fcb9365693.jpg",
       "published": "2026-05-31T21:00:07",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5193597f0489",
-      "pillar": "hiphop",
-      "title": "Miami-Born Graffiti Icon CROME Opens New Solo Show Benefiting Family of Fallen MSG Crewmate",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/31/miami-born-graffiti-icon-crome-opens-new-solo-show-benefiting-family-of-fallen-msg-crewmate/",
-      "thumbnail": "/drops/thumbs/5193597f0489.jpg",
-      "published": "2026-05-31T20:57:47",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "a550bf8488a7",
-    "f0d753ce2a63",
+    "f05d13cf74a2",
     "b5eacd4f26ff",
     "fbe3a813151b",
     "718a0dc79f1a",
