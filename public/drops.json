@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T19:08:50+00:00",
+  "generated_utc": "2026-06-01T19:31:46+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "48548d24c5e8",
+      "pillar": "sneakers",
+      "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
+      "thumbnail": "/drops/thumbs/48548d24c5e8.jpg",
+      "published": "2026-06-01T15:26:31",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "e9ab4b8188cb",
@@ -87,15 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "fc2bfab0b5a3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
-      "published": "2026-05-30T15:30:33",
+      "id": "98ed5ea5a580",
+      "pillar": "hiphop",
+      "title": "Erykah Badu Sparks Debate After Posting Beyoncé Backstage Video From Roots Picnic",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/erykah-badu-sparks-debate-after-posting-beyonce-backstage-video-from-roots-picnic/",
+      "thumbnail": "/drops/thumbs/98ed5ea5a580.jpg",
+      "published": "2026-06-01T15:15:00",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/uncategorized/from-studio-to-stage-the-fitness-and-beauty-routines-fueling-hip-hops-it-girls/",
       "thumbnail": "/drops/thumbs/d4cb221fc26f.jpg",
       "published": "2026-06-01T13:25:41",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "122b3f3201f1",
-      "pillar": "hiphop",
-      "title": "Ray J Signs Up For Back To School Brawl After Boxing K.O. Fiasco",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ray-j-signs-up-for-back-to-school-brawl-after-boxing-k-o-fiasco/",
-      "thumbnail": "/drops/thumbs/122b3f3201f1.jpg",
-      "published": "2026-06-01T13:00:13",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "d9beed4280da",
+      "id": "6b500ba04234",
       "pillar": "gaming",
-      "title": "Fortnite Kicks Off Pride Month By Adding Creator Who Used A Homophobic Slur On Stream",
+      "title": "Overwatch’s Pride Event Broke My Heart (Derogatory)",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/fortnite-theburntpeanut-slurs-stream-video-sidekick-2000701145",
-      "thumbnail": "/drops/thumbs/d9beed4280da.jpg",
+      "source_url": "https://kotaku.com/overwatch-pride-event-lifeweaver-venture-palak-baptiste-2000701160",
+      "thumbnail": "/drops/thumbs/6b500ba04234.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "d9beed4280da",
+      "pillar": "gaming",
+      "title": "Fortnite Kicks Off Pride Month By Adding Creator Who Used A Homophobic Slur On Stream",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/fortnite-theburntpeanut-slurs-stream-video-sidekick-2000701145",
+      "thumbnail": "/drops/thumbs/d9beed4280da.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "589826cd0c96",
       "pillar": "gaming",
       "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "41458687b334",
-      "pillar": "gaming",
-      "title": "Call of Duty: Modern Warfare 4’s Cosmetics And Collabs Will Be “Anchored” To The Narrative",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562856/article/call-of-duty-modern-warfare-4s-cosmetics-and-collabs-will-be-anchored-to-the-narrative/",
-      "thumbnail": "/drops/thumbs/41458687b334.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "a550bf8488a7",
-    "3ff0cea38e7d",
-    "e9ab4b8188cb",
+    "98ed5ea5a580",
+    "48548d24c5e8",
     "85cda8b96845",
-    "cbebce596dfb",
+    "e9ab4b8188cb",
     "d5df207522a2"
   ]
 }

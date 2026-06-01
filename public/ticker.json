@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T19:08:50+00:00",
+  "generated_utc": "2026-06-01T19:31:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
+      "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Erykah Badu Sparks Debate After Posting Beyoncé Backstage Video From Roots Picnic",
+      "url": "https://allhiphop.com/rumors/erykah-badu-sparks-debate-after-posting-beyonce-backstage-video-from-roots-picnic/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "From Studio to Stage: The Fitness and Beauty Routines Fueling Hip-Hop’s It-Girls",
       "url": "https://allhiphop.com/uncategorized/from-studio-to-stage-the-fitness-and-beauty-routines-fueling-hip-hops-it-girls/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ray J Signs Up For Back To School Brawl After Boxing K.O. Fiasco",
-      "url": "https://allhiphop.com/news/ray-j-signs-up-for-back-to-school-brawl-after-boxing-k-o-fiasco/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Fortnite Kicks Off Pride Month By Adding Creator Who Used A Homophobic Slur On Stream",
-      "url": "https://kotaku.com/fortnite-theburntpeanut-slurs-stream-video-sidekick-2000701145",
+      "title": "Overwatch’s Pride Event Broke My Heart (Derogatory)",
+      "url": "https://kotaku.com/overwatch-pride-event-lifeweaver-venture-palak-baptiste-2000701160",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
-      "url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
+      "title": "Fortnite Kicks Off Pride Month By Adding Creator Who Used A Homophobic Slur On Stream",
+      "url": "https://kotaku.com/fortnite-theburntpeanut-slurs-stream-video-sidekick-2000701145",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Call of Duty: Modern Warfare 4’s Cosmetics And Collabs Will Be “Anchored” To The Narrative",
-      "url": "https://gameranx.com/updates/id/562856/article/call-of-duty-modern-warfare-4s-cosmetics-and-collabs-will-be-anchored-to-the-narrative/",
+      "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
+      "url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
