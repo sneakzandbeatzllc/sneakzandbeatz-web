@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T18:29:32+00:00",
+  "generated_utc": "2026-06-01T18:41:38+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f634f75624ed",
+      "pillar": "hiphop",
+      "title": "The Source’s Father’s Day Gift Guide for Hip-Hop Loving Dads: From Turntables to Trivia Games",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/01/the-sources-fathers-day-gift-guide-for-hip-hop-loving-dads-from-turntables-to-trivia-games/",
+      "thumbnail": "/drops/thumbs/f634f75624ed.jpg",
+      "published": "2026-06-01T14:28:51",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "951efcd5bf15",
       "pillar": "hiphop",
       "title": "Bryan Chase Steps “OUTSIDE” with New Single Featuring BIG Naughty",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/01/today-in-hip-hop-history-ja-rule-dropped-his-venni-vetti-vecci-album-27-years-ago/",
       "thumbnail": "/drops/thumbs/c64df5d9a9a0.jpg",
       "published": "2026-06-01T12:11:15",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3d7d0dbd996d",
-      "pillar": "hiphop",
-      "title": "Philadelphia man goes to Walmart. Then he tries to buy the JBL Party dupe: ‘Speaker is LOUD’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/walmart-onn-party-speaker-jbl-dupe/",
-      "thumbnail": "/drops/thumbs/3d7d0dbd996d.jpg",
-      "published": "2026-06-01T12:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "a550bf8488a7",
-    "951efcd5bf15",
+    "f634f75624ed",
     "e9ab4b8188cb",
     "85cda8b96845",
     "cbebce596dfb",
