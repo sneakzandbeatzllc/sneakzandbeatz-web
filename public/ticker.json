@@ -1,8 +1,29 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T11:56:31+00:00",
+  "generated_utc": "2026-06-01T12:30:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 1 Low OG “Phantom Pine Green” Releases June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
@@ -34,27 +55,6 @@
     {
       "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
       "url": "https://justfreshkicks.com/air-jordan-3-laser-io2365-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
-      "url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Laser” Revives the 2005 Etch for 2026",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-laser-iv6750-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Comic” Gives the Retro 4 a Pop-Art Makeover",
-      "url": "https://justfreshkicks.com/air-jordan-4-comic-io2362-100/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,8 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "Naruto's Best Hokage Is Also The Most Underrated, And It's Not Close",
-      "url": "https://screenrant.com/naruto-best-hokage-tobirama-underrated/",
+      "title": "Hunter x Hunter's Next Major Release Is Coming Sooner Than Fans Thought",
+      "url": "https://screenrant.com/hunter-x-hunter-next-major-release-august/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Voice Actor Katsuji Mori Cancels Stage Performance in Reading Event Due to Injury",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/voice-actor-katsuji-mori-cancels-stage-performance-in-reading-event-due-to-injury/.238014",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Nao Iwamoto's The Seven Knights of the Marronnier Kingdom Manga Gets TV Anime in October",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/nao-iwamoto-the-seven-knights-of-the-marronnier-kingdom-manga-gets-tv-anime-in-october/.238017",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 best anime on Prime Video to watch right now",
       "url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
       "pillar": "anime",
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Apocalypse Hotel Original Anime & Spinoff Manga, Mecha Designer Ikuto Yamashita Win 57th Seiun Awards",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/apocalypse-hotel-original-anime-and-spinoff-manga-mecha-designer-ikuto-yamashita-win-57th-seiun-/.238011",
+      "title": "Nao Iwamoto's The Seven Knights of the Marronnier Kingdom Manga Gets TV Anime in October",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/nao-iwamoto-the-seven-knights-of-the-marronnier-kingdom-manga-gets-tv-anime-in-october/.238017",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
