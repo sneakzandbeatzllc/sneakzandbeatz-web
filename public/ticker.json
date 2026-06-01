@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T08:39:01+00:00",
+  "generated_utc": "2026-06-01T09:09:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 1 Low OG “Phantom Pine Green” Releases June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
@@ -55,6 +34,27 @@
     {
       "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
       "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
+      "url": "https://justfreshkicks.com/air-jordan-3-laser-io2365-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
+      "url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Laser” Revives the 2005 Etch for 2026",
+      "url": "https://justfreshkicks.com/air-jordan-1-low-laser-iv6750-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Kazumi Yamashita's Twisted Sisters Manga Gets Live-Action TV Series",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/kazumi-yamashita-twisted-sisters-manga-gets-live-action-tv-series/.237996",
+      "title": "Mr. Vamp is a Vampire Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/mr-vamp-is-a-vampire-manga-ends/.237994",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Rakuda's 'Shujinkō no Osananajimi ga, Wakiyaku no Ore ni Guiguikuru' Novel Series Gets Manga Adaptation",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/rakuda-shujinko-no-osananajimi-ga-wakiyaku-no-ore-ni-guiguikuru-novel-series-gets-manga-adaptation/.237998",
+      "title": "Kazumi Yamashita's Twisted Sisters Manga Gets Live-Action TV Series",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/kazumi-yamashita-twisted-sisters-manga-gets-live-action-tv-series/.237996",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Kogattuo, Ichika Kino Launch World Wide Web MIKO! Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/kogattuo-ichika-kino-launch-world-wide-web-miko-manga/.237989",
+      "title": "Rakuda's 'Shujinkō no Osananajimi ga, Wakiyaku no Ore ni Guiguikuru' Novel Series Gets Manga Adaptation",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/rakuda-shujinko-no-osananajimi-ga-wakiyaku-no-ore-ni-guiguikuru-novel-series-gets-manga-adaptation/.237998",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -174,6 +174,13 @@
     {
       "title": "Remedy CEO says releasing Control Resonant near GTA 6 is playing the long game: \"[We] will cut through the noise\" 5 Comments",
       "url": "https://www.gamesradar.com/games/rpg/remedy-ceo-says-releasing-control-resonant-near-gta-6-is-playing-the-long-game-you-can-expect-a-voice-that-will-cut-through-the-noise/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Blood Message Brings Uncharted-Like Action to Summer Game Fest",
+      "url": "https://www.pushsquare.com/news/2026/06/blood-message-brings-uncharted-like-action-to-summer-game-fest",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Rumor: Bungie Decided To Drop Destiny 2 At The Start Of 2026 – But They Considered Turning It To ‘Destiny Infinity’",
       "url": "https://gameranx.com/updates/id/562854/article/rumor-bungie-decided-to-drop-destiny-2-at-the-start-of-2026-but-they-considered-turning-it-to-destiny-infinity/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Call Of Duty: Modern Warfare 4 Officially Revealed – And Confirmed For Nintendo Switch 2",
-      "url": "https://gameranx.com/updates/id/562846/article/call-of-duty-modern-warfare-4-officially-revealed-and-confirmed-for-nintendo-switch-2/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
