@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T12:30:50+00:00",
+  "generated_utc": "2026-06-01T12:44:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 1 Low OG “Phantom Pine Green” Releases June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
@@ -55,6 +34,27 @@
     {
       "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
       "url": "https://justfreshkicks.com/air-jordan-3-laser-io2365-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
+      "url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Laser” Revives the 2005 Etch for 2026",
+      "url": "https://justfreshkicks.com/air-jordan-1-low-laser-iv6750-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Comic” Gives the Retro 4 a Pop-Art Makeover",
+      "url": "https://justfreshkicks.com/air-jordan-4-comic-io2362-100/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
