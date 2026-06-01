@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T20:45:09+00:00",
+  "generated_utc": "2026-06-01T21:38:15+00:00",
   "items": [
-    {
-      "id": "a550bf8488a7",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Phantom Pine Green” Releases June 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
-      "thumbnail": "/drops/thumbs/a550bf8488a7.jpg",
-      "published": "2026-05-26T15:24:30",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
     {
       "id": "48548d24c5e8",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
       "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
       "published": "2026-05-30T15:38:19",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fc2bfab0b5a3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
+      "published": "2026-05-30T15:30:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "03cfba6ce72c",
+      "pillar": "anime",
+      "title": "One Piece Just Dropped Its Cruelest Twist Ever With Major Straw Hat Reveal",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-cruelest-twist-brook-straw-hat/",
+      "thumbnail": "/drops/thumbs/03cfba6ce72c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d0c68de6443d",
       "pillar": "anime",
       "title": "It's Official, A New Kaiju No. 8 Anime Is Releasing This Fall",
@@ -243,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "88971053631e",
+      "id": "f685d595a6b1",
       "pillar": "anime",
-      "title": "Anime Expo Hosts World Premiere of From Old Country Bumpkin to Master Swordsman Season 2",
+      "title": "Crunchyroll 'Anime Nights' Program to Screen Skeleton Night in Another World , Young Ladies Don't Play Fighting Games , More Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-01/anime-expo-hosts-world-premiere-of-from-old-country-bumpkin-to-master-swordsman-season-2/.238029",
-      "thumbnail": "/drops/thumbs/88971053631e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-01/crunchyroll-anime-nights-program-to-screen-skeleton-night-in-another-world-young-ladies-dont-play-/.238031",
+      "thumbnail": "/drops/thumbs/f685d595a6b1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "46e13d7e3aef",
+      "id": "88971053631e",
       "pillar": "anime",
-      "title": "Manga Mavericks Licenses Taiyo Matsumoto's Brothers of Japan Manga",
+      "title": "Anime Expo Hosts World Premiere of From Old Country Bumpkin to Master Swordsman Season 2",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-01/manga-mavericks-licenses-taiyo-matsumoto-brothers-of-japan-manga/.238033",
-      "thumbnail": "/drops/thumbs/46e13d7e3aef.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-01/anime-expo-hosts-world-premiere-of-from-old-country-bumpkin-to-master-swordsman-season-2/.238029",
+      "thumbnail": "/drops/thumbs/88971053631e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,36 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "9e0409506b5a",
-      "pillar": "anime",
-      "title": "Discotek to Release Digimon Tamers , Hana Yori Dango Anime on Blu-ray Disc",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-01/discotek-to-release-digimon-tamers-hana-yori-dango-anime-on-blu-ray-disc/.238032",
-      "thumbnail": "/drops/thumbs/9e0409506b5a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d5df207522a2",
       "pillar": "gaming",
       "title": "News 007 First Light Only Behind Resident Evil Requiem for UK's Biggest Physical Launch of 2026",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/007-first-light-only-behind-resident-evil-requiem-for-uks-biggest-physical-launch-of-2026",
       "thumbnail": "/drops/thumbs/d5df207522a2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7ad0f165ac65",
-      "pillar": "gaming",
-      "title": "Spider-Noir star Nicolas Cage has revealed his favorite live-action Spider-Man, and it's not who I was expecting",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/spider-noir-star-nicolas-cage-has-revealed-his-favorite-live-action-spider-man-and-its-not-who-i-was-expecting/",
-      "thumbnail": "/drops/thumbs/7ad0f165ac65.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -333,6 +321,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/sonys-flexstrike-fight-stick-launches-alongside-ps5-pc-fighter-marvel-tokon-this-august",
       "thumbnail": "/drops/thumbs/c23dcaaab2c2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "44ad715c2480",
+      "pillar": "gaming",
+      "title": "People Are Going Wild Over Fortnite’ s Most Revealing Skin Yet",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/people-are-going-wild-over-fortnites-most-revealing-skin-yet-2000701201",
+      "thumbnail": "/drops/thumbs/44ad715c2480.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "141d51b6333a",
+      "id": "721b5f9f3a8a",
       "pillar": "gaming",
-      "title": "The Worst Part Of 007 First Light Is—DISCONNECTED",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-worst-part-of-007-first-light-is-disconnected-server-error-2000701169",
-      "thumbnail": "/drops/thumbs/141d51b6333a.jpg",
+      "title": "Features Why Pragmata disappeared for 6 years, and how Capcom built a new IP while the industry imploded",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/action/why-pragmata-disappeared-for-6-years-and-how-capcom-built-a-new-ip-while-the-games-industry-imploded/",
+      "thumbnail": "/drops/thumbs/721b5f9f3a8a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "a550bf8488a7",
-    "98ed5ea5a580",
     "48548d24c5e8",
-    "85cda8b96845",
+    "98ed5ea5a580",
     "e9ab4b8188cb",
+    "85cda8b96845",
+    "cbebce596dfb",
     "d5df207522a2"
   ]
 }

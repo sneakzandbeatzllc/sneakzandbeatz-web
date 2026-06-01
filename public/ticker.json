@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T20:45:09+00:00",
+  "generated_utc": "2026-06-01T21:38:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 1 Low OG “Phantom Pine Green” Releases June 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -55,6 +48,13 @@
     {
       "title": "The Air Jordan 8 “Chrome” Returns September 12th",
       "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "One Piece Just Dropped Its Cruelest Twist Ever With Major Straw Hat Reveal",
+      "url": "https://screenrant.com/one-piece-cruelest-twist-brook-straw-hat/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "It's Official, A New Kaiju No. 8 Anime Is Releasing This Fall",
       "url": "https://screenrant.com/new-kaiju-no-8-anime-narumi-week-work/",
       "pillar": "anime",
@@ -144,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Anime Expo Hosts World Premiere of From Old Country Bumpkin to Master Swordsman Season 2",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/anime-expo-hosts-world-premiere-of-from-old-country-bumpkin-to-master-swordsman-season-2/.238029",
+      "title": "Crunchyroll 'Anime Nights' Program to Screen Skeleton Night in Another World , Young Ladies Don't Play Fighting Games , More Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/crunchyroll-anime-nights-program-to-screen-skeleton-night-in-another-world-young-ladies-dont-play-/.238031",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Manga Mavericks Licenses Taiyo Matsumoto's Brothers of Japan Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/manga-mavericks-licenses-taiyo-matsumoto-brothers-of-japan-manga/.238033",
+      "title": "Anime Expo Hosts World Premiere of From Old Country Bumpkin to Master Swordsman Season 2",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/anime-expo-hosts-world-premiere-of-from-old-country-bumpkin-to-master-swordsman-season-2/.238029",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,22 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "Discotek to Release Digimon Tamers , Hana Yori Dango Anime on Blu-ray Disc",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/discotek-to-release-digimon-tamers-hana-yori-dango-anime-on-blu-ray-disc/.238032",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News 007 First Light Only Behind Resident Evil Requiem for UK's Biggest Physical Launch of 2026",
       "url": "https://www.pushsquare.com/news/2026/06/007-first-light-only-behind-resident-evil-requiem-for-uks-biggest-physical-launch-of-2026",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Spider-Noir star Nicolas Cage has revealed his favorite live-action Spider-Man, and it's not who I was expecting",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/spider-noir-star-nicolas-cage-has-revealed-his-favorite-live-action-spider-man-and-its-not-who-i-was-expecting/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -195,6 +188,13 @@
     {
       "title": "News Sony's FlexStrike Fight Stick Launches Alongside PS5, PC Fighter Marvel Tokon This August",
       "url": "https://www.pushsquare.com/news/2026/06/sonys-flexstrike-fight-stick-launches-alongside-ps5-pc-fighter-marvel-tokon-this-august",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "People Are Going Wild Over Fortnite’ s Most Revealing Skin Yet",
+      "url": "https://kotaku.com/people-are-going-wild-over-fortnites-most-revealing-skin-yet-2000701201",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "The Worst Part Of 007 First Light Is—DISCONNECTED",
-      "url": "https://kotaku.com/the-worst-part-of-007-first-light-is-disconnected-server-error-2000701169",
+      "title": "Features Why Pragmata disappeared for 6 years, and how Capcom built a new IP while the industry imploded",
+      "url": "https://www.gamesradar.com/games/action/why-pragmata-disappeared-for-6-years-and-how-capcom-built-a-new-ip-while-the-games-industry-imploded/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
