@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T00:19:27+00:00",
+  "generated_utc": "2026-06-01T00:32:48+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Goku’s 10 Most Impressive Feats Of Power In Dragon Ball, Ranked",
-      "url": "https://screenrant.com/goku-most-impressive-feats-dragon-ball-history/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: Infinity Castle Part 2 Will Finally Give the One Demon Scarier Than Muzan His Time To Shine",
       "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-kokushibo-demon-scarier-muzan/",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "10 best anime on Prime Video to watch right now",
       "url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "'Tis Time for \"Torture,\" Princess' Manga's Robinson Haruhara, We Never Learn's Taishi Tsutsui Launch New Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-05-31/tis-time-for-torture-princess-manga-robinson-haruhara-we-never-learn-taishi-tsutsui-launch-new-manga/.237991",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T00:19:27+00:00",
+  "generated_utc": "2026-06-01T00:32:48+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "13ca87079ff0",
-      "pillar": "anime",
-      "title": "Goku’s 10 Most Impressive Feats Of Power In Dragon Ball, Ranked",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/goku-most-impressive-feats-dragon-ball-history/",
-      "thumbnail": "/drops/thumbs/13ca87079ff0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c9fd1db5b479",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle Part 2 Will Finally Give the One Demon Scarier Than Muzan His Time To Shine",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
       "thumbnail": "/drops/thumbs/31d1d7f9fb1e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "df2ae22533a8",
+      "pillar": "anime",
+      "title": "'Tis Time for \"Torture,\" Princess' Manga's Robinson Haruhara, We Never Learn's Taishi Tsutsui Launch New Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/tis-time-for-torture-princess-manga-robinson-haruhara-we-never-learn-taishi-tsutsui-launch-new-manga/.237991",
+      "thumbnail": "/drops/thumbs/df2ae22533a8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "a550bf8488a7",
     "3b510dffb01b",
     "d74f496abc5f",
-    "13ca87079ff0",
+    "c9fd1db5b479",
     "b5eacd4f26ff",
     "2600b06ca2d2"
   ]
