@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T16:51:56+00:00",
+  "generated_utc": "2026-06-01T16:53:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 1 Low OG “Phantom Pine Green” Releases June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
@@ -60,6 +39,34 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
+      "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Foster Sylvers Dies, Leaving Behind A Soul Music & Hip-Hop Legacy",
+      "url": "https://allhiphop.com/features/foster-sylvers-dies-leaving-behind-a-soul-music-hip-hop-legacy/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Today In Hip Hop History: Ja Rule Dropped His ‘Venni Vetti Vecci’ Album 27 Years Ago",
       "url": "https://thesource.com/2026/06/01/today-in-hip-hop-history-ja-rule-dropped-his-venni-vetti-vecci-album-27-years-ago/",
       "pillar": "hiphop",
@@ -67,50 +74,43 @@
       "article_slug": null
     },
     {
+      "title": "Philadelphia man goes to Walmart. Then he tries to buy the JBL Party dupe: ‘Speaker is LOUD’",
+      "url": "https://allhiphop.com/newsbreak/walmart-onn-party-speaker-jbl-dupe/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Daphne Joy Speaks Out On Alleged Diddy Freak-Off Footage, Reveals Extortion Scheme Behind The Leak",
+      "url": "https://allhiphop.com/news/daphne-joy-speaks-out-on-alleged-diddy-freak-off-footage-reveals-extortion-scheme-behind-the-leak/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Waka Flocka Shares Emotional Baby Announcement On Social Media",
+      "url": "https://allhiphop.com/news/waka-flocka-shares-emotional-baby-announcement-on-social-media/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "EXCLUSIVE: Man Who Claims Biggie’s Son Helped Diddy With Oral Assault Fighting Default Judgement",
+      "url": "https://allhiphop.com/news/exclusive-man-who-claims-biggies-son-helped-diddy-with-oral-assault-fighting-default-judgement/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "‘Something happened to me’: California woman goes to McDonald’s with her man’s 7-year-old niece. Then something shocking happens at the PlayPlace",
+      "url": "https://allhiphop.com/newsbreak/california-mcdonalds-playplace-male-bodily-fluid/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "BossMan Dlow Drops “Motion Party” Remix Featuring Megan Thee Stallion",
       "url": "https://thesource.com/2026/06/01/bossman-dlow-motion-party-remix-megan-thee-stallion/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Future and Tyla Team Up for FIFA World Cup 2026 Anthem “Game Time”",
-      "url": "https://thesource.com/2026/06/01/future-tyla-game-time-fifa-world-cup-2026-album/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Russell Westbrook’s Why Not? Foundation Hosts 4th Annual Women’s Wellness Brunch in Los Angeles",
-      "url": "https://thesource.com/2026/06/01/why-not-foundation-4th-annual-womens-wellness-brunch/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "NBA Finals Court Art Returns as Larry O’Brien Trophy Logo Reclaims Center Stage",
-      "url": "https://thesource.com/2026/06/01/nba-finals-court-art-larry-obrien-logo-returns-2026/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "JAY-Z and The Roots Deliver Star-Studded Day One Performance at Roots Picnic",
-      "url": "https://thesource.com/2026/06/01/jay-z-roots-picnic-2026-day-one/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Today In Hip Hop History: Doug E. Fresh Dropped His Second Lp ‘The World’s Greatest Entertainer’ 38 Years Ago",
-      "url": "https://thesource.com/2026/05/31/today-in-hip-hop-history-doug-e-fresh-dropped-his-second-lp-the-worlds-greatest-entertainer-38-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Jay-Z Jokes About Tory Lanez’s Prison Time In Roots Picnic Freestyle",
-      "url": "https://thesource.com/2026/05/31/jay-z-jokes-about-tory-lanezs-prison-time-in-roots-picnic-freestyle/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -186,13 +186,6 @@
       "article_slug": null
     },
     {
-      "title": "The Witcher 3 lead recalls \"hardcore\" dev timeline of the RPG's past expansions like Blood and Wine",
-      "url": "https://www.gamesradar.com/games/the-witcher/not-enough-time-cant-afford-it-the-witcher-3-lead-recalls-hardcore-dev-timeline-of-the-rpgs-past-expansions-says-cdpr-had-to-change-strategy-with-blood-and-wine/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Sony's FlexStrike Fight Stick Launches Alongside PS5, PC Fighter Marvel Tokon This August",
       "url": "https://www.pushsquare.com/news/2026/06/sonys-flexstrike-fight-stick-launches-alongside-ps5-pc-fighter-marvel-tokon-this-august",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
       "url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4’s Cosmetics And Collabs Will Be “Anchored” To The Narrative",
+      "url": "https://gameranx.com/updates/id/562856/article/call-of-duty-modern-warfare-4s-cosmetics-and-collabs-will-be-anchored-to-the-narrative/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
