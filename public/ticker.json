@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T19:43:20+00:00",
+  "generated_utc": "2026-06-01T19:57:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Discotek to Release Digimon Tamers , Hana Yori Dango Anime on Blu-ray Disc",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/discotek-to-release-digimon-tamers-hana-yori-dango-anime-on-blu-ray-disc/.238032",
+      "title": "Manga Mavericks Licenses Taiyo Matsumoto's Brothers of Japan Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/manga-mavericks-licenses-taiyo-matsumoto-brothers-of-japan-manga/.238033",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Witch Hat Atelier Anime Reveals 2 More Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/witch-hat-atelier-anime-reveals-2-more-cast-members/.238024",
+      "title": "Discotek to Release Digimon Tamers , Hana Yori Dango Anime on Blu-ray Disc",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/discotek-to-release-digimon-tamers-hana-yori-dango-anime-on-blu-ray-disc/.238032",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "Overwatch’s Pride Event Broke My Heart (Derogatory)",
-      "url": "https://kotaku.com/overwatch-pride-event-lifeweaver-venture-palak-baptiste-2000701160",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "“Keep The Receipts” – Call Of Duty: Modern Warfare 4 Doubles Down On “No Clowny Skins”",
       "url": "https://gameranx.com/updates/id/562868/article/keep-the-receipts-call-of-duty-modern-warfare-4-doubles-down-on-no-clowny-skins/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Call of Duty: Modern Warfare 4’s Cosmetics And Collabs Will Be “Anchored” To The Narrative",
       "url": "https://gameranx.com/updates/id/562856/article/call-of-duty-modern-warfare-4s-cosmetics-and-collabs-will-be-anchored-to-the-narrative/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Worst Part Of 007 First Light Is—DISCONNECTED",
+      "url": "https://kotaku.com/the-worst-part-of-007-first-light-is-disconnected-server-error-2000701169",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
