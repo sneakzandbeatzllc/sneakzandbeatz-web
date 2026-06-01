@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T17:57:25+00:00",
+  "generated_utc": "2026-06-01T18:07:01+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "a550bf8488a7",
       "pillar": "sneakers",
@@ -96,6 +60,66 @@
       "published": "2026-06-01T12:23:52",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b5eacd4f26ff",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "thumbnail": "/drops/thumbs/b5eacd4f26ff.jpg",
+      "published": "2026-05-30T23:47:04",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "718a0dc79f1a",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
+      "published": "2026-05-30T15:38:19",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fc2bfab0b5a3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
+      "published": "2026-05-30T15:30:33",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c16a32cc09a3",
+      "pillar": "hiphop",
+      "title": "Lizzo’s Weight Release Journey Leads To Sports Illustrated Runway Glory",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/lizzos-weight-release-journey-leads-to-sports-illustrated-runway-glory/",
+      "thumbnail": "/drops/thumbs/c16a32cc09a3.png",
+      "published": "2026-06-01T14:01:34",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "46f0ea282e4f",
+      "pillar": "hiphop",
+      "title": "How Bitcoin Casinos Found a Home in Hip-Hop’s Culture of Risk and Reward",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/how-bitcoin-casinos-found-a-home-in-hip-hops-culture-of-risk-and-reward/",
+      "thumbnail": "/drops/thumbs/46f0ea282e4f.jpg",
+      "published": "2026-06-01T13:56:38",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -166,42 +190,6 @@
       "source_url": "https://allhiphop.com/news/daphne-joy-speaks-out-on-alleged-diddy-freak-off-footage-reveals-extortion-scheme-behind-the-leak/",
       "thumbnail": "/drops/thumbs/10a75cdee862.jpg",
       "published": "2026-06-01T11:03:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7b3bc4100240",
-      "pillar": "hiphop",
-      "title": "Waka Flocka Shares Emotional Baby Announcement On Social Media",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/waka-flocka-shares-emotional-baby-announcement-on-social-media/",
-      "thumbnail": "/drops/thumbs/7b3bc4100240.png",
-      "published": "2026-06-01T10:02:52",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "eaa24ec2b3d7",
-      "pillar": "hiphop",
-      "title": "EXCLUSIVE: Man Who Claims Biggie’s Son Helped Diddy With Oral Assault Fighting Default Judgement",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/exclusive-man-who-claims-biggies-son-helped-diddy-with-oral-assault-fighting-default-judgement/",
-      "thumbnail": "/drops/thumbs/eaa24ec2b3d7.jpg",
-      "published": "2026-06-01T09:01:26",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fbe3a813151b",
-      "pillar": "anime",
-      "title": "33 Years Later, Vegeta's Greatest Dragon Ball Scene Remains Akira Toriyama's Masterstroke",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/vegeta-apologize-gohan-greatest-dragon-ball-scene-akira-toriyama/",
-      "thumbnail": "/drops/thumbs/fbe3a813151b.png",
-      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-01/chiikawa-anime-film-trailer-reveals-cast-opening-theme-song/.238023",
       "thumbnail": "/drops/thumbs/437a9595fc2b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "25341980c640",
+      "pillar": "anime",
+      "title": "A Shonen Legend Is Officially Returning For A New High Fantasy Battle Series",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/shonen-jump-legendary-author-high-fantasy-battle-manga/",
+      "thumbnail": "/drops/thumbs/25341980c640.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
-    "d4cb221fc26f",
-    "43151d13faa3",
-    "fbe3a813151b",
-    "69fe11c3a7e6",
+    "a550bf8488a7",
+    "c16a32cc09a3",
+    "e9ab4b8188cb",
+    "060d65d5716f",
+    "cbebce596dfb",
     "d5df207522a2"
   ]
 }

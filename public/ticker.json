@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T17:57:25+00:00",
+  "generated_utc": "2026-06-01T18:07:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 1 Low OG “Phantom Pine Green” Releases June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
@@ -57,6 +36,41 @@
       "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
+      "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Lizzo’s Weight Release Journey Leads To Sports Illustrated Runway Glory",
+      "url": "https://allhiphop.com/news/lizzos-weight-release-journey-leads-to-sports-illustrated-runway-glory/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "How Bitcoin Casinos Found a Home in Hip-Hop’s Culture of Risk and Reward",
+      "url": "https://allhiphop.com/uncategorized/how-bitcoin-casinos-found-a-home-in-hip-hops-culture-of-risk-and-reward/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -98,27 +112,6 @@
       "title": "Daphne Joy Speaks Out On Alleged Diddy Freak-Off Footage, Reveals Extortion Scheme Behind The Leak",
       "url": "https://allhiphop.com/news/daphne-joy-speaks-out-on-alleged-diddy-freak-off-footage-reveals-extortion-scheme-behind-the-leak/",
       "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Waka Flocka Shares Emotional Baby Announcement On Social Media",
-      "url": "https://allhiphop.com/news/waka-flocka-shares-emotional-baby-announcement-on-social-media/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "EXCLUSIVE: Man Who Claims Biggie’s Son Helped Diddy With Oral Assault Fighting Default Judgement",
-      "url": "https://allhiphop.com/news/exclusive-man-who-claims-biggies-son-helped-diddy-with-oral-assault-fighting-default-judgement/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "33 Years Later, Vegeta's Greatest Dragon Ball Scene Remains Akira Toriyama's Masterstroke",
-      "url": "https://screenrant.com/vegeta-apologize-gohan-greatest-dragon-ball-scene-akira-toriyama/",
-      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -167,6 +160,13 @@
     {
       "title": "Chiikawa Anime Film's Trailer Reveals Cast, Opening Theme Song",
       "url": "https://www.animenewsnetwork.com/news/2026-06-01/chiikawa-anime-film-trailer-reveals-cast-opening-theme-song/.238023",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "A Shonen Legend Is Officially Returning For A New High Fantasy Battle Series",
+      "url": "https://screenrant.com/shonen-jump-legendary-author-high-fantasy-battle-manga/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
