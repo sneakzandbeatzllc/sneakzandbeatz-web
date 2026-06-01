@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T17:25:29+00:00",
+  "generated_utc": "2026-06-01T17:39:59+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d4cb221fc26f",
+      "pillar": "hiphop",
+      "title": "From Studio to Stage: The Fitness and Beauty Routines Fueling Hip-Hop’s It-Girls",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/from-studio-to-stage-the-fitness-and-beauty-routines-fueling-hip-hops-it-girls/",
+      "thumbnail": "/drops/thumbs/d4cb221fc26f.jpg",
+      "published": "2026-06-01T13:25:41",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "122b3f3201f1",
       "pillar": "hiphop",
       "title": "Ray J Signs Up For Back To School Brawl After Boxing K.O. Fiasco",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "b75922eeed2b",
-      "pillar": "hiphop",
-      "title": "‘Something happened to me’: California woman goes to McDonald’s with her man’s 7-year-old niece. Then something shocking happens at the PlayPlace",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/california-mcdonalds-playplace-male-bodily-fluid/",
-      "thumbnail": "/drops/thumbs/b75922eeed2b.jpg",
-      "published": "2026-06-01T09:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "fbe3a813151b",
       "pillar": "anime",
       "title": "33 Years Later, Vegeta's Greatest Dragon Ball Scene Remains Akira Toriyama's Masterstroke",
@@ -225,6 +225,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/naruto-new-releases-2027/",
       "thumbnail": "/drops/thumbs/c33ecd831dbb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d0c68de6443d",
+      "pillar": "anime",
+      "title": "It's Official, A New Kaiju No. 8 Anime Is Releasing This Fall",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/new-kaiju-no-8-anime-narumi-week-work/",
+      "thumbnail": "/drops/thumbs/d0c68de6443d.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-01/chiikawa-anime-film-trailer-reveals-cast-opening-theme-song/.238023",
       "thumbnail": "/drops/thumbs/437a9595fc2b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "207a54de5330",
-      "pillar": "anime",
-      "title": "A Lost Piece Of Studio Ghibli History Is Finally Releasing This September",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/studio-ghibli-chronicles-movie-history-english-release/",
-      "thumbnail": "/drops/thumbs/207a54de5330.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "a550bf8488a7",
-    "122b3f3201f1",
+    "d4cb221fc26f",
     "e9ab4b8188cb",
     "fbe3a813151b",
     "cbebce596dfb",

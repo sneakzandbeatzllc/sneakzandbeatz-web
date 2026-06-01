@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T17:25:29+00:00",
+  "generated_utc": "2026-06-01T17:39:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "From Studio to Stage: The Fitness and Beauty Routines Fueling Hip-Hop’s It-Girls",
+      "url": "https://allhiphop.com/uncategorized/from-studio-to-stage-the-fitness-and-beauty-routines-fueling-hip-hops-it-girls/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Ray J Signs Up For Back To School Brawl After Boxing K.O. Fiasco",
       "url": "https://allhiphop.com/news/ray-j-signs-up-for-back-to-school-brawl-after-boxing-k-o-fiasco/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "‘Something happened to me’: California woman goes to McDonald’s with her man’s 7-year-old niece. Then something shocking happens at the PlayPlace",
-      "url": "https://allhiphop.com/newsbreak/california-mcdonalds-playplace-male-bodily-fluid/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "33 Years Later, Vegeta's Greatest Dragon Ball Scene Remains Akira Toriyama's Masterstroke",
       "url": "https://screenrant.com/vegeta-apologize-gohan-greatest-dragon-ball-scene-akira-toriyama/",
       "pillar": "anime",
@@ -132,6 +132,13 @@
     {
       "title": "Naruto has major new releases set for 2027",
       "url": "https://www.polygon.com/naruto-new-releases-2027/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "It's Official, A New Kaiju No. 8 Anime Is Releasing This Fall",
+      "url": "https://screenrant.com/new-kaiju-no-8-anime-narumi-week-work/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Chiikawa Anime Film's Trailer Reveals Cast, Opening Theme Song",
       "url": "https://www.animenewsnetwork.com/news/2026-06-01/chiikawa-anime-film-trailer-reveals-cast-opening-theme-song/.238023",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "A Lost Piece Of Studio Ghibli History Is Finally Releasing This September",
-      "url": "https://screenrant.com/studio-ghibli-chronicles-movie-history-english-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
