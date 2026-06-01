@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T23:00:38+00:00",
+  "generated_utc": "2026-06-01T23:12:26+00:00",
   "items": [
     {
       "id": "48548d24c5e8",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "605f66c93d0c",
+      "pillar": "hiphop",
+      "title": "Why Big Daddy Kane’s Live Shows Are Super Special",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/exclusives/why-big-daddy-kanes-live-shows-are-super-special/",
+      "thumbnail": "/drops/thumbs/605f66c93d0c.jpg",
+      "published": "2026-06-01T19:00:14",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "17add12b4fd4",
       "pillar": "hiphop",
       "title": "Boosie Addresses Hookah Assault Charge & Calls Claims A “Money Grab”",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/lizzos-weight-release-journey-leads-to-sports-illustrated-runway-glory/",
       "thumbnail": "/drops/thumbs/c16a32cc09a3.png",
       "published": "2026-06-01T14:01:34",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "46f0ea282e4f",
-      "pillar": "hiphop",
-      "title": "How Bitcoin Casinos Found a Home in Hip-Hop’s Culture of Risk and Reward",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/uncategorized/how-bitcoin-casinos-found-a-home-in-hip-hops-culture-of-risk-and-reward/",
-      "thumbnail": "/drops/thumbs/46f0ea282e4f.jpg",
-      "published": "2026-06-01T13:56:38",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "48548d24c5e8",
-    "17add12b4fd4",
+    "605f66c93d0c",
     "e9ab4b8188cb",
     "8572a3fa7cde",
     "cbebce596dfb",
