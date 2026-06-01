@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T16:03:25+00:00",
+  "generated_utc": "2026-06-01T16:38:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
+      "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -53,64 +60,57 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 4 “Comic” Gives the Retro 4 a Pop-Art Makeover",
-      "url": "https://justfreshkicks.com/air-jordan-4-comic-io2362-100/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Foster Sylvers Dies, Leaving Behind A Soul Music & Hip-Hop Legacy",
+      "url": "https://allhiphop.com/features/foster-sylvers-dies-leaving-behind-a-soul-music-hip-hop-legacy/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Today In Hip Hop History: Ja Rule Dropped His ‘Venni Vetti Vecci’ Album 27 Years Ago",
+      "url": "https://thesource.com/2026/06/01/today-in-hip-hop-history-ja-rule-dropped-his-venni-vetti-vecci-album-27-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Philadelphia man goes to Walmart. Then he tries to buy the JBL Party dupe: ‘Speaker is LOUD’",
+      "url": "https://allhiphop.com/newsbreak/walmart-onn-party-speaker-jbl-dupe/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Daphne Joy Speaks Out On Alleged Diddy Freak-Off Footage, Reveals Extortion Scheme Behind The Leak",
+      "url": "https://allhiphop.com/news/daphne-joy-speaks-out-on-alleged-diddy-freak-off-footage-reveals-extortion-scheme-behind-the-leak/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Waka Flocka Shares Emotional Baby Announcement On Social Media",
+      "url": "https://allhiphop.com/news/waka-flocka-shares-emotional-baby-announcement-on-social-media/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "EXCLUSIVE: Man Who Claims Biggie’s Son Helped Diddy With Oral Assault Fighting Default Judgement",
+      "url": "https://allhiphop.com/news/exclusive-man-who-claims-biggies-son-helped-diddy-with-oral-assault-fighting-default-judgement/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "‘Something happened to me’: California woman goes to McDonald’s with her man’s 7-year-old niece. Then something shocking happens at the PlayPlace",
+      "url": "https://allhiphop.com/newsbreak/california-mcdonalds-playplace-male-bodily-fluid/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
       "title": "BossMan Dlow Drops “Motion Party” Remix Featuring Megan Thee Stallion",
       "url": "https://thesource.com/2026/06/01/bossman-dlow-motion-party-remix-megan-thee-stallion/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Future and Tyla Team Up for FIFA World Cup 2026 Anthem “Game Time”",
-      "url": "https://thesource.com/2026/06/01/future-tyla-game-time-fifa-world-cup-2026-album/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Russell Westbrook’s Why Not? Foundation Hosts 4th Annual Women’s Wellness Brunch in Los Angeles",
-      "url": "https://thesource.com/2026/06/01/why-not-foundation-4th-annual-womens-wellness-brunch/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "NBA Finals Court Art Returns as Larry O’Brien Trophy Logo Reclaims Center Stage",
-      "url": "https://thesource.com/2026/06/01/nba-finals-court-art-larry-obrien-logo-returns-2026/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "JAY-Z and The Roots Deliver Star-Studded Day One Performance at Roots Picnic",
-      "url": "https://thesource.com/2026/06/01/jay-z-roots-picnic-2026-day-one/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Today In Hip Hop History: Doug E. Fresh Dropped His Second Lp ‘The World’s Greatest Entertainer’ 38 Years Ago",
-      "url": "https://thesource.com/2026/05/31/today-in-hip-hop-history-doug-e-fresh-dropped-his-second-lp-the-worlds-greatest-entertainer-38-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Jay-Z Jokes About Tory Lanez’s Prison Time In Roots Picnic Freestyle",
-      "url": "https://thesource.com/2026/05/31/jay-z-jokes-about-tory-lanezs-prison-time-in-roots-picnic-freestyle/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Grammy Winning R&B Icon Peabo Bryson Recovering After Suffering Stroke",
-      "url": "https://thesource.com/2026/05/31/grammy-winning-rb-icon-peabo-bryson-recovering-after-suffering-stroke/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Yoroi-Shinden Samurai Troopers Anime's 2nd Part Unveils Theme Songs, More Cast, July 7 Debut in New Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/yoroi-shinden-samurai-troopers-anime-2nd-part-unveils-theme-songs-more-cast-july-7-debut-in-new-/.238022",
+      "title": "Chiikawa Anime Film's Trailer Reveals Cast, Opening Theme Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/chiikawa-anime-film-trailer-reveals-cast-opening-theme-song/.238023",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Voice Actor Katsuji Mori Cancels Stage Performance in Reading Event Due to Injury",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/voice-actor-katsuji-mori-cancels-stage-performance-in-reading-event-due-to-injury/.238014",
+      "title": "Yoroi-Shinden Samurai Troopers Anime's 2nd Part Unveils Theme Songs, More Cast, July 7 Debut in New Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-01/yoroi-shinden-samurai-troopers-anime-2nd-part-unveils-theme-songs-more-cast-july-7-debut-in-new-/.238022",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "25 Greatest Short Anime Series You Must See At Least Once",
-      "url": "https://screenrant.com/best-anime-short-series-watch-few-episodes/",
+      "title": "A Lost Piece Of Studio Ghibli History Is Finally Releasing This September",
+      "url": "https://screenrant.com/studio-ghibli-chronicles-movie-history-english-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Borderlands Boss Involved In Weirdest Tech Leak Of 2026",
-      "url": "https://kotaku.com/randy-pitchford-borderlands-weirdest-tech-leak-of-2026-pixel-watch-5-google-2000701121",
+      "title": "Fortnite Kicks Off Pride Month By Adding Creator Who Used A Homophobic Slur On Stream",
+      "url": "https://kotaku.com/fortnite-theburntpeanut-slurs-stream-video-sidekick-2000701145",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
-      "url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
+      "title": "Borderlands Boss Involved In Weirdest Tech Leak Of 2026",
+      "url": "https://kotaku.com/randy-pitchford-borderlands-weirdest-tech-leak-of-2026-pixel-watch-5-google-2000701121",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Call of Duty: Modern Warfare 4’s Cosmetics And Collabs Will Be “Anchored” To The Narrative",
-      "url": "https://gameranx.com/updates/id/562856/article/call-of-duty-modern-warfare-4s-cosmetics-and-collabs-will-be-anchored-to-the-narrative/",
+      "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
+      "url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
