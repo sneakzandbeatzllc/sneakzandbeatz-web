@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T22:48:39+00:00",
+  "generated_utc": "2026-06-01T23:00:38+00:00",
   "items": [
     {
       "id": "48548d24c5e8",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "8572a3fa7cde",
+      "pillar": "anime",
+      "title": "Jujutsu Kaisen Fans Hungry For Season 4 Should Look Forward To June 14th",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-mappa-new-info/",
+      "thumbnail": "/drops/thumbs/8572a3fa7cde.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "85cda8b96845",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Meets Chainsaw Man In The Latest Death Battle With A Shocking Ending",
@@ -237,18 +249,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/new-kaiju-no-8-anime-narumi-week-work/",
       "thumbnail": "/drops/thumbs/d0c68de6443d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4ebff9f7ac85",
-      "pillar": "anime",
-      "title": "Hunter x Hunter's Next Major Release Is Coming Sooner Than Fans Thought",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/hunter-x-hunter-next-major-release-august/",
-      "thumbnail": "/drops/thumbs/4ebff9f7ac85.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "48548d24c5e8",
     "17add12b4fd4",
     "e9ab4b8188cb",
-    "85cda8b96845",
+    "8572a3fa7cde",
     "cbebce596dfb",
     "d5df207522a2"
   ]

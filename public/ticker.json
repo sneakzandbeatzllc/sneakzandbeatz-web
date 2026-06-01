@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T22:48:39+00:00",
+  "generated_utc": "2026-06-01T23:00:38+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Jujutsu Kaisen Fans Hungry For Season 4 Should Look Forward To June 14th",
+      "url": "https://screenrant.com/jujutsu-kaisen-season-4-mappa-new-info/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jujutsu Kaisen Meets Chainsaw Man In The Latest Death Battle With A Shocking Ending",
       "url": "https://screenrant.com/jujutsu-kaisen-yuji-vs-denji-death-battle-ending-surprising/",
       "pillar": "anime",
@@ -139,13 +146,6 @@
     {
       "title": "It's Official, A New Kaiju No. 8 Anime Is Releasing This Fall",
       "url": "https://screenrant.com/new-kaiju-no-8-anime-narumi-week-work/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hunter x Hunter's Next Major Release Is Coming Sooner Than Fans Thought",
-      "url": "https://screenrant.com/hunter-x-hunter-next-major-release-august/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
