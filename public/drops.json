@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T17:53:33+00:00",
+  "generated_utc": "2026-06-01T17:57:25+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "a550bf8488a7",
       "pillar": "sneakers",
@@ -58,42 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "thumbnail": "/drops/thumbs/e7bddf38dff7.webp",
       "published": "2026-06-01T12:23:52",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b5eacd4f26ff",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
-      "thumbnail": "/drops/thumbs/b5eacd4f26ff.jpg",
-      "published": "2026-05-30T23:47:04",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "718a0dc79f1a",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
-      "published": "2026-05-30T15:38:19",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fc2bfab0b5a3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
-      "published": "2026-05-30T15:30:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "a550bf8488a7",
+    "094b1500b6a8",
     "d4cb221fc26f",
-    "e9ab4b8188cb",
+    "43151d13faa3",
     "fbe3a813151b",
-    "cbebce596dfb",
+    "69fe11c3a7e6",
     "d5df207522a2"
   ]
 }
