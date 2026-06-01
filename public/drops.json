@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T02:57:41+00:00",
+  "generated_utc": "2026-06-01T03:18:35+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "66e6e86f1e76",
+      "pillar": "hiphop",
+      "title": "Rumor Has It: Alleged Diddy, Daphne Joy & Sly Diggler Tape Sends Social Media To Hades",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/rumor-has-it-alleged-diddy-daphne-joy-sly-diggler-tape-sends-social-media-to-hades/",
+      "thumbnail": "/drops/thumbs/66e6e86f1e76.jpg",
+      "published": "2026-05-31T23:05:22",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dee3dd542bdd",
+      "pillar": "hiphop",
+      "title": "From Rejection To Family: Martin Lawrence Explains Journey With Eddie Murphy",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/from-rejection-to-family-martin-lawrence-explains-journey-with-eddie-murphy/",
+      "thumbnail": "/drops/thumbs/dee3dd542bdd.jpg",
+      "published": "2026-05-31T23:00:21",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "306a48974fe8",
       "pillar": "hiphop",
       "title": "Jay-Z Jokes About Tory Lanez’s Prison Time In Roots Picnic Freestyle",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "3b510dffb01b",
-      "pillar": "hiphop",
-      "title": "Ossoff Goes At Trump During Atlanta Rally As Senate Race Intensifies",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/31/ossoff-goes-at-trump-during-atlanta-rally-as-senate-race-intensifies/",
-      "thumbnail": "/drops/thumbs/3b510dffb01b.jpg",
-      "published": "2026-05-31T19:22:59",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0bfe25902294",
-      "pillar": "hiphop",
-      "title": "Ye Delivers Record-Breaking Stadium Show in Istanbul as 118,000 Fans Pack Atatürk Stadium",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/31/ye-delivers-record-breaking-stadium-show-in-istanbul-as-118000-fans-pack-ataturk-stadium/",
-      "thumbnail": "/drops/thumbs/0bfe25902294.jpg",
-      "published": "2026-05-31T19:18:11",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "fbe3a813151b",
       "pillar": "anime",
       "title": "33 Years Later, Vegeta's Greatest Dragon Ball Scene Remains Akira Toriyama's Masterstroke",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "1662485119db",
-      "pillar": "anime",
-      "title": "Hunter x Hunter Has Anime's Most Tragic Character, And It's Not Close",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/hunter-x-hunter-kurapika-most-tragic-anime-character/",
-      "thumbnail": "/drops/thumbs/1662485119db.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0dfc7a384cad",
       "pillar": "anime",
       "title": "Sakuyama Chocojiro Chocolate Biscuits Gets Short Anime Series",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
       "thumbnail": "/drops/thumbs/31d1d7f9fb1e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "df2ae22533a8",
+      "pillar": "anime",
+      "title": "'Tis Time for \"Torture,\" Princess' Manga's Robinson Haruhara, We Never Learn's Taishi Tsutsui Launch New Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-05-31/tis-time-for-torture-princess-manga-robinson-haruhara-we-never-learn-taishi-tsutsui-launch-new-manga/.237991",
+      "thumbnail": "/drops/thumbs/df2ae22533a8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "a550bf8488a7",
-    "306a48974fe8",
+    "66e6e86f1e76",
     "d74f496abc5f",
     "fbe3a813151b",
     "b5eacd4f26ff",
