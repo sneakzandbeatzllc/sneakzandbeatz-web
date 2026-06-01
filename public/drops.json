@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T18:55:19+00:00",
+  "generated_utc": "2026-06-01T19:08:50+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "3ff0cea38e7d",
+      "pillar": "hiphop",
+      "title": "A$AP Rocky Announces 30-Date European Tour Dates Including Stockholm, Sweden",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/aap-rocky-announces-30-date-european-tour-dates-including-stockholm-sweden/",
+      "thumbnail": "/drops/thumbs/3ff0cea38e7d.jpg",
+      "published": "2026-06-01T15:00:50",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8d98ae804e91",
+      "pillar": "hiphop",
+      "title": "Florida FedEx driver goes to Panda Express. Then she opens her to-go container and sees what they gave her: ‘U serious?’",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/florida-fedex-driver-panda-express/",
+      "thumbnail": "/drops/thumbs/8d98ae804e91.jpg",
+      "published": "2026-06-01T15:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f634f75624ed",
       "pillar": "hiphop",
       "title": "The Source’s Father’s Day Gift Guide for Hip-Hop Loving Dads: From Turntables to Trivia Games",
@@ -166,30 +190,6 @@
       "source_url": "https://allhiphop.com/news/ray-j-signs-up-for-back-to-school-brawl-after-boxing-k-o-fiasco/",
       "thumbnail": "/drops/thumbs/122b3f3201f1.jpg",
       "published": "2026-06-01T13:00:13",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ac5dbb1fd9fc",
-      "pillar": "hiphop",
-      "title": "Foster Sylvers Dies, Leaving Behind A Soul Music & Hip-Hop Legacy",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/features/foster-sylvers-dies-leaving-behind-a-soul-music-hip-hop-legacy/",
-      "thumbnail": "/drops/thumbs/ac5dbb1fd9fc.jpg",
-      "published": "2026-06-01T12:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c64df5d9a9a0",
-      "pillar": "hiphop",
-      "title": "Today In Hip Hop History: Ja Rule Dropped His ‘Venni Vetti Vecci’ Album 27 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/01/today-in-hip-hop-history-ja-rule-dropped-his-venni-vetti-vecci-album-27-years-ago/",
-      "thumbnail": "/drops/thumbs/c64df5d9a9a0.jpg",
-      "published": "2026-06-01T12:11:15",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "a550bf8488a7",
-    "f634f75624ed",
+    "3ff0cea38e7d",
     "e9ab4b8188cb",
     "85cda8b96845",
     "cbebce596dfb",
