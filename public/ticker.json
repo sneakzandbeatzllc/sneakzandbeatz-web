@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T03:18:35+00:00",
+  "generated_utc": "2026-06-01T03:35:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,20 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Rumor Has It: Alleged Diddy, Daphne Joy & Sly Diggler Tape Sends Social Media To Hades",
-      "url": "https://allhiphop.com/rumors/rumor-has-it-alleged-diddy-daphne-joy-sly-diggler-tape-sends-social-media-to-hades/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "From Rejection To Family: Martin Lawrence Explains Journey With Eddie Murphy",
-      "url": "https://allhiphop.com/news/from-rejection-to-family-martin-lawrence-explains-journey-with-eddie-murphy/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Jay-Z Jokes About Tory Lanez’s Prison Time In Roots Picnic Freestyle",
       "url": "https://thesource.com/2026/05/31/jay-z-jokes-about-tory-lanezs-prison-time-in-roots-picnic-freestyle/",
       "pillar": "hiphop",
@@ -95,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "50 Cent Says His Son Real Victim In Diddy Drama After Tape Leaks Featuring Daphne Joy",
-      "url": "https://allhiphop.com/news/50-cent-says-his-son-real-victim-in-diddy-drama-after-tape-leaks-featuring-daphne-joy/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Miami-Born Graffiti Icon CROME Opens New Solo Show Benefiting Family of Fallen MSG Crewmate",
       "url": "https://thesource.com/2026/05/31/miami-born-graffiti-icon-crome-opens-new-solo-show-benefiting-family-of-fallen-msg-crewmate/",
       "pillar": "hiphop",
@@ -111,6 +90,27 @@
     {
       "title": "Happy 64th Birthday to Darryl “D.M.C.” McDaniels of Run-D.M.C.!",
       "url": "https://thesource.com/2026/05/31/happy-64th-birthday-to-darryl-d-m-c-mcdaniels-of-run-d-m-c/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ossoff Goes At Trump During Atlanta Rally As Senate Race Intensifies",
+      "url": "https://thesource.com/2026/05/31/ossoff-goes-at-trump-during-atlanta-rally-as-senate-race-intensifies/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ye Delivers Record-Breaking Stadium Show in Istanbul as 118,000 Fans Pack Atatürk Stadium",
+      "url": "https://thesource.com/2026/05/31/ye-delivers-record-breaking-stadium-show-in-istanbul-as-118000-fans-pack-ataturk-stadium/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Mayor Zohran Mamdani Breaks 60 Year Tradition Skipping Israel Day Parade",
+      "url": "https://thesource.com/2026/05/31/mayor-zohran-mamdani-breaks-60-year-tradition-skipping-israel-day-parade/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "Mina the Hollower forces Devolver Digital to delay Dark Scrolls, which somehow isn't a Soulslike",
-      "url": "https://www.gamesradar.com/games/adventure/silksong-and-slay-the-spire-2-well-up-with-pride-as-mina-the-hollower-forces-devolver-digital-to-delay-dark-scrolls-which-somehow-isnt-a-soulslike/",
+      "title": "Remedy CEO says releasing Control Resonant near GTA 6 is playing the long game: \"[We] will cut through the noise\" 5 Comments",
+      "url": "https://www.gamesradar.com/games/rpg/remedy-ceo-says-releasing-control-resonant-near-gta-6-is-playing-the-long-game-you-can-expect-a-voice-that-will-cut-through-the-noise/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -186,8 +186,22 @@
       "article_slug": null
     },
     {
+      "title": "Spider-Noir star Nicolas Cage has revealed his favorite live-action Spider-Man, and it's not who I was expecting",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/spider-noir-star-nicolas-cage-has-revealed-his-favorite-live-action-spider-man-and-its-not-who-i-was-expecting/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
       "url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Bungie vet says OG Halo beats the remake because \"the constraints actually make it a stronger game\" 6 Comments",
+      "url": "https://www.gamesradar.com/platforms/xbox/bungie-vet-says-og-halo-beats-campaign-evolved-and-its-modern-aaa-fancy-unreal-graphics-because-the-constraints-actually-make-it-a-stronger-game/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -209,20 +223,6 @@
     {
       "title": "Call Of Duty: Modern Warfare 4 Officially Revealed – And Confirmed For Nintendo Switch 2",
       "url": "https://gameranx.com/updates/id/562846/article/call-of-duty-modern-warfare-4-officially-revealed-and-confirmed-for-nintendo-switch-2/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "SIGNAL LOST: Call Of Duty 2026 Teasers Triangulate Into A YouTube Livestream In South Korea",
-      "url": "https://gameranx.com/updates/id/562839/article/signal-lost-call-of-duty-2026-teasers-triangulate-into-a-youtube-livestream-in-south-korea/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rumour Onimusha Adds to Stacked September 2026 PS5 Release Line-Up",
-      "url": "https://www.pushsquare.com/news/2026/06/rumour-onimusha-adds-to-stacked-september-2026-ps5-release-line-up",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
