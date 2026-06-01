@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T01:15:02+00:00",
+  "generated_utc": "2026-06-01T01:23:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 6 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-6-prm-bin23-ii6558-001/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 1 Low OG “Phantom Pine Green” Releases June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-phantom-pine-green/",
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
       "url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Laser” Revives the 2005 Etch for 2026",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-laser-iv6750-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
