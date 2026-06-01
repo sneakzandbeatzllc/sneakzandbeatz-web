@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T09:09:05+00:00",
+  "generated_utc": "2026-06-01T09:25:30+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -13,18 +13,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "d74f496abc5f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
-      "thumbnail": "/drops/thumbs/d74f496abc5f.jpg",
-      "published": "2026-05-19T14:33:09",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "b5eacd4f26ff",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-low-laser-iv6750-001/",
       "thumbnail": "/drops/thumbs/26eea046d681.jpg",
       "published": "2026-05-30T15:02:12",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a4894ba291c2",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Comic” Gives the Retro 4 a Pop-Art Makeover",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-4-comic-io2362-100/",
+      "thumbnail": "/drops/thumbs/a4894ba291c2.webp",
+      "published": "2026-05-30T14:43:31",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "aefd6af70cce",
+      "id": "886d21dc07a4",
       "pillar": "gaming",
-      "title": "Rumor: State Of Play’s Big Game Reveal Is Faye’s God Of War Spinoff Game",
+      "title": "CD Projekt RED Is Ditching DLC To Release Three The Witcher Games In The Next Six Years",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562852/article/rumor-state-of-plays-big-game-reveal-is-fayes-god-of-war-spinoff-game/",
-      "thumbnail": "/drops/thumbs/aefd6af70cce.png",
+      "source_url": "https://gameranx.com/updates/id/562866/article/cd-projekt-red-is-ditching-dlc-to-release-three-the-witcher-games-in-the-next-six-years/",
+      "thumbnail": "/drops/thumbs/886d21dc07a4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "589826cd0c96",
+      "id": "aefd6af70cce",
       "pillar": "gaming",
-      "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
+      "title": "Rumor: State Of Play’s Big Game Reveal Is Faye’s God Of War Spinoff Game",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
-      "thumbnail": "/drops/thumbs/589826cd0c96.jpg",
+      "source_url": "https://gameranx.com/updates/id/562852/article/rumor-state-of-plays-big-game-reveal-is-fayes-god-of-war-spinoff-game/",
+      "thumbnail": "/drops/thumbs/aefd6af70cce.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "589826cd0c96",
+      "pillar": "gaming",
+      "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
+      "thumbnail": "/drops/thumbs/589826cd0c96.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "41458687b334",
       "pillar": "gaming",
       "title": "Call of Duty: Modern Warfare 4’s Cosmetics And Collabs Will Be “Anchored” To The Narrative",
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "2399189d56dc",
-      "pillar": "gaming",
-      "title": "Rumor: Bungie Decided To Drop Destiny 2 At The Start Of 2026 – But They Considered Turning It To ‘Destiny Infinity’",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562854/article/rumor-bungie-decided-to-drop-destiny-2-at-the-start-of-2026-but-they-considered-turning-it-to-destiny-infinity/",
-      "thumbnail": "/drops/thumbs/2399189d56dc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "a550bf8488a7",
     "f0d753ce2a63",
-    "d74f496abc5f",
-    "fbe3a813151b",
     "b5eacd4f26ff",
+    "fbe3a813151b",
+    "718a0dc79f1a",
     "347b2bba5a18"
   ]
 }
