@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T15:01:45+00:00",
+  "generated_utc": "2026-06-01T15:18:23+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "10a75cdee862",
+      "pillar": "hiphop",
+      "title": "Daphne Joy Speaks Out On Alleged Diddy Freak-Off Footage, Reveals Extortion Scheme Behind The Leak",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/daphne-joy-speaks-out-on-alleged-diddy-freak-off-footage-reveals-extortion-scheme-behind-the-leak/",
+      "thumbnail": "/drops/thumbs/10a75cdee862.jpg",
+      "published": "2026-06-01T11:03:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7b3bc4100240",
       "pillar": "hiphop",
       "title": "Waka Flocka Shares Emotional Baby Announcement On Social Media",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/01/nba-finals-court-art-larry-obrien-logo-returns-2026/",
       "thumbnail": "/drops/thumbs/e28566849151.jpg",
       "published": "2026-06-01T08:06:24",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f05d13cf74a2",
-      "pillar": "hiphop",
-      "title": "JAY-Z and The Roots Deliver Star-Studded Day One Performance at Roots Picnic",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/01/jay-z-roots-picnic-2026-day-one/",
-      "thumbnail": "/drops/thumbs/f05d13cf74a2.jpg",
-      "published": "2026-06-01T07:26:44",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "a550bf8488a7",
-    "7b3bc4100240",
+    "10a75cdee862",
     "b5eacd4f26ff",
     "fbe3a813151b",
     "718a0dc79f1a",
