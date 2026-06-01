@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T16:53:31+00:00",
+  "generated_utc": "2026-06-01T17:05:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Foster Sylvers Dies, Leaving Behind A Soul Music & Hip-Hop Legacy",
-      "url": "https://allhiphop.com/features/foster-sylvers-dies-leaving-behind-a-soul-music-hip-hop-legacy/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Today In Hip Hop History: Ja Rule Dropped His ‘Venni Vetti Vecci’ Album 27 Years Ago",
       "url": "https://thesource.com/2026/06/01/today-in-hip-hop-history-ja-rule-dropped-his-venni-vetti-vecci-album-27-years-ago/",
       "pillar": "hiphop",
@@ -74,43 +67,50 @@
       "article_slug": null
     },
     {
-      "title": "Philadelphia man goes to Walmart. Then he tries to buy the JBL Party dupe: ‘Speaker is LOUD’",
-      "url": "https://allhiphop.com/newsbreak/walmart-onn-party-speaker-jbl-dupe/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Daphne Joy Speaks Out On Alleged Diddy Freak-Off Footage, Reveals Extortion Scheme Behind The Leak",
-      "url": "https://allhiphop.com/news/daphne-joy-speaks-out-on-alleged-diddy-freak-off-footage-reveals-extortion-scheme-behind-the-leak/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Waka Flocka Shares Emotional Baby Announcement On Social Media",
-      "url": "https://allhiphop.com/news/waka-flocka-shares-emotional-baby-announcement-on-social-media/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "EXCLUSIVE: Man Who Claims Biggie’s Son Helped Diddy With Oral Assault Fighting Default Judgement",
-      "url": "https://allhiphop.com/news/exclusive-man-who-claims-biggies-son-helped-diddy-with-oral-assault-fighting-default-judgement/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "‘Something happened to me’: California woman goes to McDonald’s with her man’s 7-year-old niece. Then something shocking happens at the PlayPlace",
-      "url": "https://allhiphop.com/newsbreak/california-mcdonalds-playplace-male-bodily-fluid/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "BossMan Dlow Drops “Motion Party” Remix Featuring Megan Thee Stallion",
       "url": "https://thesource.com/2026/06/01/bossman-dlow-motion-party-remix-megan-thee-stallion/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Future and Tyla Team Up for FIFA World Cup 2026 Anthem “Game Time”",
+      "url": "https://thesource.com/2026/06/01/future-tyla-game-time-fifa-world-cup-2026-album/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Russell Westbrook’s Why Not? Foundation Hosts 4th Annual Women’s Wellness Brunch in Los Angeles",
+      "url": "https://thesource.com/2026/06/01/why-not-foundation-4th-annual-womens-wellness-brunch/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "NBA Finals Court Art Returns as Larry O’Brien Trophy Logo Reclaims Center Stage",
+      "url": "https://thesource.com/2026/06/01/nba-finals-court-art-larry-obrien-logo-returns-2026/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "JAY-Z and The Roots Deliver Star-Studded Day One Performance at Roots Picnic",
+      "url": "https://thesource.com/2026/06/01/jay-z-roots-picnic-2026-day-one/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Today In Hip Hop History: Doug E. Fresh Dropped His Second Lp ‘The World’s Greatest Entertainer’ 38 Years Ago",
+      "url": "https://thesource.com/2026/05/31/today-in-hip-hop-history-doug-e-fresh-dropped-his-second-lp-the-worlds-greatest-entertainer-38-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Jay-Z Jokes About Tory Lanez’s Prison Time In Roots Picnic Freestyle",
+      "url": "https://thesource.com/2026/05/31/jay-z-jokes-about-tory-lanezs-prison-time-in-roots-picnic-freestyle/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,6 +172,13 @@
       "article_slug": null
     },
     {
+      "title": "News 007 First Light Only Behind Resident Evil Requiem for UK's Biggest Physical Launch of 2026",
+      "url": "https://www.pushsquare.com/news/2026/06/007-first-light-only-behind-resident-evil-requiem-for-uks-biggest-physical-launch-of-2026",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Spider-Noir star Nicolas Cage has revealed his favorite live-action Spider-Man, and it's not who I was expecting",
       "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/spider-noir-star-nicolas-cage-has-revealed-his-favorite-live-action-spider-man-and-its-not-who-i-was-expecting/",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
       "url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4’s Cosmetics And Collabs Will Be “Anchored” To The Narrative",
-      "url": "https://gameranx.com/updates/id/562856/article/call-of-duty-modern-warfare-4s-cosmetics-and-collabs-will-be-anchored-to-the-narrative/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
