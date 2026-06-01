@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-01T03:35:02+00:00",
+  "generated_utc": "2026-06-01T03:52:43+00:00",
   "items": [
     {
       "id": "a550bf8488a7",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f0d753ce2a63",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: Doug E. Fresh Dropped His Second Lp ‘The World’s Greatest Entertainer’ 38 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/05/31/today-in-hip-hop-history-doug-e-fresh-dropped-his-second-lp-the-worlds-greatest-entertainer-38-years-ago/",
+      "thumbnail": "/drops/thumbs/f0d753ce2a63.jpg",
+      "published": "2026-05-31T23:12:38",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "306a48974fe8",
       "pillar": "hiphop",
       "title": "Jay-Z Jokes About Tory Lanez’s Prison Time In Roots Picnic Freestyle",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/05/31/ye-delivers-record-breaking-stadium-show-in-istanbul-as-118000-fans-pack-ataturk-stadium/",
       "thumbnail": "/drops/thumbs/0bfe25902294.jpg",
       "published": "2026-05-31T19:18:11",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7932184c09fb",
-      "pillar": "hiphop",
-      "title": "Mayor Zohran Mamdani Breaks 60 Year Tradition Skipping Israel Day Parade",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/05/31/mayor-zohran-mamdani-breaks-60-year-tradition-skipping-israel-day-parade/",
-      "thumbnail": "/drops/thumbs/7932184c09fb.jpg",
-      "published": "2026-05-31T18:53:59",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "a550bf8488a7",
-    "306a48974fe8",
+    "f0d753ce2a63",
     "d74f496abc5f",
     "fbe3a813151b",
     "b5eacd4f26ff",
