@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T17:21:52+00:00",
+  "generated_utc": "2026-06-02T17:32:19+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -55,6 +34,27 @@
     {
       "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
       "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
+      "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Masters of the Universe Reviews Say It’s A Fun Time, And That Jared Leto Is Surprisingly Good As Skeletor",
-      "url": "https://kotaku.com/masters-of-the-universe-movie-reviews-he-man-skeletor-jared-leto-is-it-good-2000701503",
+      "title": "All Those Toy Story Games You Loved As A Kid Are Getting Remastered",
+      "url": "https://kotaku.com/all-those-toy-story-games-you-loved-as-a-kid-are-getting-remastered-2000701571",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Hyped Marvel Fans Get Trolled When Avengers: Doomsday Trailer Reveal Turns Out To Be A Tease For Coffee",
-      "url": "https://kotaku.com/avengers-doomsday-trailer-sxsw-london-russo-coffee-shop-2000701482",
+      "title": "A New Chart Shows What Every PlayStation Fan Has Been Feeling This Generation",
+      "url": "https://kotaku.com/a-new-chart-shows-what-every-playstation-fan-has-been-feeling-this-generation-2000701465",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
