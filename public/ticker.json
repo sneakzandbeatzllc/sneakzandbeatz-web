@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T18:45:01+00:00",
+  "generated_utc": "2026-06-02T19:12:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -55,6 +34,27 @@
     {
       "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
       "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
+      "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,15 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen Meets Chainsaw Man In The Latest Death Battle With A Shocking Ending",
-      "url": "https://screenrant.com/jujutsu-kaisen-yuji-vs-denji-death-battle-ending-surprising/",
+      "title": "Naruto has major new releases set for 2027",
+      "url": "https://www.polygon.com/naruto-new-releases-2027/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Naruto has major new releases set for 2027",
-      "url": "https://www.polygon.com/naruto-new-releases-2027/",
+      "title": "One Piece's Most Tragic Straw Hat Death Confirms The One Way the Anime Is Superior To Oda's Manga",
+      "url": "https://screenrant.com/one-piece-brook-death-anime-superior-manga/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,15 +172,15 @@
       "article_slug": null
     },
     {
-      "title": "News Waiting for Titanfall 3? The Dev Behind Splitgate May Have Something for You",
-      "url": "https://www.pushsquare.com/news/2026/06/waiting-for-titanfall-3-the-dev-behind-splitgate-may-have-something-for-you",
+      "title": "Avengers: Doomsday event disappoints after trailer no-show and bizarre Doctor Doom coffee gifts",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-event-disappoints-after-trailer-no-show-and-bizarre-autographed-doctor-doom-coffee-gifts/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Avengers: Doomsday event disappoints after trailer no-show and bizarre Doctor Doom coffee gifts",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-event-disappoints-after-trailer-no-show-and-bizarre-autographed-doctor-doom-coffee-gifts/",
+      "title": "Live Watch Sony's PS5 State of Play Here (June 2026)",
+      "url": "https://www.pushsquare.com/features/live-watch-sonys-ps5-state-of-play-here-june-2026",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News New Tomb Raider PS5 Screenshots Leak Ahead of Today's State of Play",
-      "url": "https://www.pushsquare.com/news/2026/06/new-tomb-raider-ps5-screenshots-leak-ahead-of-todays-state-of-play",
+      "title": "News One of the Best Retro Action Games on PS5 Is Getting a Sequel",
+      "url": "https://www.pushsquare.com/news/2026/06/one-of-the-best-retro-action-games-on-ps5-is-getting-a-sequel",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Kotaku Debates Lego (Correct) Vs Legos (Disgusting)",
-      "url": "https://kotaku.com/kotaku-debates-lego-correct-vs-legos-disgusting-2000701492",
+      "title": "Mina The Hollower Dev Says They’ve ‘Talked A Lot About What Mina 2 Would Be’",
+      "url": "https://kotaku.com/mina-the-hollower-devs-sequel-2000701582",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

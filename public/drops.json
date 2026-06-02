@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T18:45:01+00:00",
+  "generated_utc": "2026-06-02T19:12:13+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "48548d24c5e8",
       "pillar": "sneakers",
@@ -94,6 +58,42 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "thumbnail": "/drops/thumbs/e7bddf38dff7.webp",
       "published": "2026-06-01T12:23:52",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b5eacd4f26ff",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "thumbnail": "/drops/thumbs/b5eacd4f26ff.jpg",
+      "published": "2026-05-30T23:47:04",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "718a0dc79f1a",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
+      "published": "2026-05-30T15:38:19",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fc2bfab0b5a3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
+      "published": "2026-05-30T15:30:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "85cda8b96845",
-      "pillar": "anime",
-      "title": "Jujutsu Kaisen Meets Chainsaw Man In The Latest Death Battle With A Shocking Ending",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-yuji-vs-denji-death-battle-ending-surprising/",
-      "thumbnail": "/drops/thumbs/85cda8b96845.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c33ecd831dbb",
       "pillar": "anime",
       "title": "Naruto has major new releases set for 2027",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/naruto-new-releases-2027/",
       "thumbnail": "/drops/thumbs/c33ecd831dbb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "bf7622f2c0d3",
+      "pillar": "anime",
+      "title": "One Piece's Most Tragic Straw Hat Death Confirms The One Way the Anime Is Superior To Oda's Manga",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-brook-death-anime-superior-manga/",
+      "thumbnail": "/drops/thumbs/bf7622f2c0d3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "6e1ac62bf5fb",
-      "pillar": "gaming",
-      "title": "News Waiting for Titanfall 3? The Dev Behind Splitgate May Have Something for You",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/waiting-for-titanfall-3-the-dev-behind-splitgate-may-have-something-for-you",
-      "thumbnail": "/drops/thumbs/6e1ac62bf5fb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "6c3680b7f544",
       "pillar": "gaming",
       "title": "Avengers: Doomsday event disappoints after trailer no-show and bizarre Doctor Doom coffee gifts",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-event-disappoints-after-trailer-no-show-and-bizarre-autographed-doctor-doom-coffee-gifts/",
       "thumbnail": "/drops/thumbs/6c3680b7f544.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8975dc3d5ce3",
+      "pillar": "gaming",
+      "title": "Live Watch Sony's PS5 State of Play Here (June 2026)",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/live-watch-sonys-ps5-state-of-play-here-june-2026",
+      "thumbnail": "/drops/thumbs/8975dc3d5ce3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "12469955f58a",
+      "id": "8a79a6fb35d7",
       "pillar": "gaming",
-      "title": "News New Tomb Raider PS5 Screenshots Leak Ahead of Today's State of Play",
+      "title": "News One of the Best Retro Action Games on PS5 Is Getting a Sequel",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/new-tomb-raider-ps5-screenshots-leak-ahead-of-todays-state-of-play",
-      "thumbnail": "/drops/thumbs/12469955f58a.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/one-of-the-best-retro-action-games-on-ps5-is-getting-a-sequel",
+      "thumbnail": "/drops/thumbs/8a79a6fb35d7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "0e2498b372ed",
+      "id": "6ac03166fa56",
       "pillar": "gaming",
-      "title": "Kotaku Debates Lego (Correct) Vs Legos (Disgusting)",
+      "title": "Mina The Hollower Dev Says They’ve ‘Talked A Lot About What Mina 2 Would Be’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/kotaku-debates-lego-correct-vs-legos-disgusting-2000701492",
-      "thumbnail": "/drops/thumbs/0e2498b372ed.jpg",
+      "source_url": "https://kotaku.com/mina-the-hollower-devs-sequel-2000701582",
+      "thumbnail": "/drops/thumbs/6ac03166fa56.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
+    "48548d24c5e8",
     "9f421f3d3221",
-    "43151d13faa3",
+    "e9ab4b8188cb",
     "2ad3ad60744f",
-    "69fe11c3a7e6",
-    "6e1ac62bf5fb"
+    "cbebce596dfb",
+    "6c3680b7f544"
   ]
 }
