@@ -1,7 +1,31 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T16:20:23+00:00",
+  "generated_utc": "2026-06-02T16:30:40+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "2026-06-01T22:47:18",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "a3e23bbf57cc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
+      "published": "2026-06-01T17:50:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "48548d24c5e8",
       "pillar": "sneakers",
@@ -63,37 +87,13 @@
       "release_badge": ""
     },
     {
-      "id": "b5eacd4f26ff",
+      "id": "4845dac37712",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
-      "thumbnail": "/drops/thumbs/b5eacd4f26ff.jpg",
-      "published": "2026-05-30T23:47:04",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "718a0dc79f1a",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
-      "published": "2026-05-30T15:38:19",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fc2bfab0b5a3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
-      "published": "2026-05-30T15:30:33",
+      "title": "APB x Air Jordan 11 Low “Sail” Fall 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/apb-air-jordan-11-low-sail/",
+      "thumbnail": "/drops/thumbs/4845dac37712.jpg",
+      "published": "2026-06-01T11:31:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "48548d24c5e8",
+    "094b1500b6a8",
     "ea1da3bc0d19",
-    "e9ab4b8188cb",
+    "a3e23bbf57cc",
     "2ad3ad60744f",
-    "cbebce596dfb",
+    "48548d24c5e8",
     "eae7915ebb4d"
   ]
 }
