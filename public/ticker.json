@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T14:28:29+00:00",
+  "generated_utc": "2026-06-02T14:38:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Monaleo & Teezo Touchdown Get Colorful-N-Lyrical On “Everythang Pinka”",
-      "url": "https://allhiphop.com/music/monaleo-teezo-touchdown-get-colorful-n-lyrical-on-everythang-pinka/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Target Unveils Exclusive 30th Anniversary Edition of JAY-Z’s Reasonable Doubt",
       "url": "https://thesource.com/2026/06/02/target-jay-z-reasonable-doubt-30th-anniversary-edition/",
       "pillar": "hiphop",
@@ -111,6 +104,13 @@
     {
       "title": "Latto Opens Up About Planned Pregnancy, Motherhood, and Choosing Herself",
       "url": "https://thesource.com/2026/06/02/latto-planned-pregnancy-motherhood-interview/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Bryson Tiller Announces 61-Date ‘Neo Trapsoul World Tour’ With Majid Jordan, Ty Dolla $ign, and Austin Millz",
+      "url": "https://thesource.com/2026/06/02/bryson-tiller-neo-trapsoul-tour-2026-2027/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News You've Got to Give This Hand Drawn Gem a Shot on PS5, Free Demo Out Now",
-      "url": "https://www.pushsquare.com/news/2026/06/youve-got-to-give-this-hand-drawn-gem-a-shot-on-ps5-free-demo-out-now",
+      "title": "News Overlooked PS5 Action RPG Scarlet Nexus Tops 2 Million Sales, Sparking Sequel Talk",
+      "url": "https://www.pushsquare.com/news/2026/06/overlooked-ps5-action-rpg-scarlet-nexus-tops-2-million-sales-sparking-sequel-talk",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
