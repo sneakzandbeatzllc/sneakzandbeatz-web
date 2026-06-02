@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T12:13:34+00:00",
+  "generated_utc": "2026-06-02T12:26:17+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "2026-06-01T22:47:18",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "48548d24c5e8",
       "pillar": "sneakers",
@@ -87,15 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "fc2bfab0b5a3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
-      "published": "2026-05-30T15:30:33",
+      "id": "83681d21d53c",
+      "pillar": "hiphop",
+      "title": "Target Unveils Exclusive 30th Anniversary Edition of JAY-Z’s Reasonable Doubt",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/02/target-jay-z-reasonable-doubt-30th-anniversary-edition/",
+      "thumbnail": "/drops/thumbs/83681d21d53c.jpg",
+      "published": "2026-06-02T07:37:20",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/02/bryson-tiller-neo-trapsoul-tour-2026-2027/",
       "thumbnail": "/drops/thumbs/1906b1434764.jpg",
       "published": "2026-06-02T04:59:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2887b8b1cc1a",
-      "pillar": "hiphop",
-      "title": "BET Launches First-Ever Board of Advisors to Help Shape Its Future",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/02/bet-first-board-of-advisors-announcement/",
-      "thumbnail": "/drops/thumbs/2887b8b1cc1a.png",
-      "published": "2026-06-02T04:55:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "6957a0b375d5",
+      "id": "4454268f0c6f",
       "pillar": "gaming",
-      "title": "News Clutch Is a New PS5 Open World Racer from Ex Forza Horizon Devs",
+      "title": "News Silent Hill: Townfall Appears Primed for State of Play Update",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/clutch-is-a-new-ps5-open-world-racer-from-ex-forza-horizon-devs",
-      "thumbnail": "/drops/thumbs/6957a0b375d5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/silent-hill-townfall-appears-primed-for-state-of-play-update",
+      "thumbnail": "/drops/thumbs/4454268f0c6f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "117b87be19a9",
+      "id": "6957a0b375d5",
       "pillar": "gaming",
-      "title": "News Crimson Desert DLC in Development, Second Content Roadmap Revealed",
+      "title": "News Clutch Is a New PS5 Open World Racer from Ex Forza Horizon Devs",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/crimson-desert-dlc-in-development-second-content-roadmap-revealed",
-      "thumbnail": "/drops/thumbs/117b87be19a9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/clutch-is-a-new-ps5-open-world-racer-from-ex-forza-horizon-devs",
+      "thumbnail": "/drops/thumbs/6957a0b375d5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
+    "094b1500b6a8",
+    "83681d21d53c",
     "48548d24c5e8",
-    "416778eeb564",
-    "e9ab4b8188cb",
     "8572a3fa7cde",
-    "cbebce596dfb",
+    "e9ab4b8188cb",
     "038c3d2664c9"
   ]
 }
