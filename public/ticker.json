@@ -1,8 +1,29 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T00:02:31+00:00",
+  "generated_utc": "2026-06-02T00:16:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -39,24 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
-      "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Kevin Hart Blamed After Republicans Hold Moment Of Silence For Cop Who Killed George Floyd",
+      "url": "https://allhiphop.com/news/kevin-hart-blamed-after-republicans-hold-moment-of-silence-for-cop-who-killed-george-floyd/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Lizzo’s Weight Release Journey Leads To Sports Illustrated Runway Glory",
-      "url": "https://allhiphop.com/news/lizzos-weight-release-journey-leads-to-sports-illustrated-runway-glory/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Jujutsu Kaisen Fans Hungry For Season 4 Should Look Forward To June 14th",
       "url": "https://screenrant.com/jujutsu-kaisen-season-4-mappa-new-info/",
       "pillar": "anime",
@@ -151,22 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll 'Anime Nights' Program to Screen Skeleton Night in Another World , Young Ladies Don't Play Fighting Games , More Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/crunchyroll-anime-nights-program-to-screen-skeleton-night-in-another-world-young-ladies-dont-play-/.238031",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Anime Expo Hosts World Premiere of From Old Country Bumpkin to Master Swordsman Season 2",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/anime-expo-hosts-world-premiere-of-from-old-country-bumpkin-to-master-swordsman-season-2/.238029",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 best anime on Prime Video to watch right now",
       "url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "A Shonen Legend Is Officially Returning For A New High Fantasy Battle Series",
+      "url": "https://screenrant.com/shonen-jump-legendary-author-high-fantasy-battle-manga/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "A Lost Piece Of Studio Ghibli History Is Finally Releasing This September",
+      "url": "https://screenrant.com/studio-ghibli-chronicles-movie-history-english-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
