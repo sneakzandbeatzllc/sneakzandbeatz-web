@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T21:29:15+00:00",
+  "generated_utc": "2026-06-02T21:36:48+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -15,28 +15,16 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "094b1500b6a8",
+      "id": "849348a5c1c0",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
+      "title": "First Look at Mowalola’s Air Jordan 14 Mule",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/mowalola-air-jordan-14-mule-ir0908-001/",
+      "thumbnail": "/drops/thumbs/849348a5c1c0.webp",
+      "published": "2026-06-02T17:28:31",
       "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "a3e23bbf57cc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-01T17:50:18",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "48548d24c5e8",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "thumbnail": "/drops/thumbs/e7bddf38dff7.webp",
       "published": "2026-06-01T12:23:52",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b5eacd4f26ff",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "thumbnail": "/drops/thumbs/b5eacd4f26ff.jpg",
+      "published": "2026-05-30T23:47:04",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "8975dc3d5ce3",
+      "id": "b359112c7cf9",
       "pillar": "gaming",
-      "title": "Live Watch Sony's PS5 State of Play Here (June 2026)",
+      "title": "News There's a Dino Crisis in The Lost Wild, Out on PS5 in 2027",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/live-watch-sonys-ps5-state-of-play-here-june-2026",
-      "thumbnail": "/drops/thumbs/8975dc3d5ce3.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/theres-a-dino-crisis-in-the-lost-wild-out-on-ps5-in-2027",
+      "thumbnail": "/drops/thumbs/b359112c7cf9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "083c3528a73c",
+      "id": "821590b1fdd5",
       "pillar": "gaming",
-      "title": "News New Tomb Raider PS5 Screenshots Leak Ahead of State of Play, Release Date Revealed",
+      "title": "News Marvel's Wolverine Looks Brutal and Bloody Brilliant in First Proper PS5 Gameplay",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/new-tomb-raider-ps5-screenshots-leak-ahead-of-state-of-play-release-date-revealed",
-      "thumbnail": "/drops/thumbs/083c3528a73c.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/marvels-wolverine-looks-brutal-and-bloody-brilliant-in-first-proper-ps5-gameplay",
+      "thumbnail": "/drops/thumbs/821590b1fdd5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "96c2c1b6e169",
+      "id": "c56b8034a26f",
       "pillar": "gaming",
-      "title": "Rayman Legends Retold Isn’t A Remake I Wanted, But After Playing It I’m Happy It’s Happening",
+      "title": "Gruesome Wolverine Gameplay Trailer Reveals Jean Grey Joining The Fight",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/rayman-legends-retold-3d-remake-visuals-release-date-ps5-trailer-origins-ubisoft-2000701140",
-      "thumbnail": "/drops/thumbs/96c2c1b6e169.jpg",
+      "source_url": "https://kotaku.com/gruesome-wolverine-gameplay-trailer-reveals-jean-grey-joining-the-fight-2000701655",
+      "thumbnail": "/drops/thumbs/c56b8034a26f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "c8d3a4f66c16",
     "ec7f6fe8365d",
-    "094b1500b6a8",
+    "849348a5c1c0",
     "2ad3ad60744f",
-    "a3e23bbf57cc",
+    "48548d24c5e8",
     "6c3680b7f544"
   ]
 }
