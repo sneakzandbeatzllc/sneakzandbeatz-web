@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T12:04:27+00:00",
+  "generated_utc": "2026-06-02T12:13:34+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "48548d24c5e8",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
       "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
       "published": "2026-05-30T15:38:19",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fc2bfab0b5a3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
+      "published": "2026-05-30T15:30:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "886d21dc07a4",
-      "pillar": "gaming",
-      "title": "CD Projekt RED Is Ditching DLC To Release Three The Witcher Games In The Next Six Years",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562866/article/cd-projekt-red-is-ditching-dlc-to-release-three-the-witcher-games-in-the-next-six-years/",
-      "thumbnail": "/drops/thumbs/886d21dc07a4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "038c3d2664c9",
       "pillar": "gaming",
       "title": "“Keep The Receipts” – Call Of Duty: Modern Warfare 4 Doubles Down On “No Clowny Skins”",
@@ -375,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "01e937de55a9",
+      "pillar": "gaming",
+      "title": "Rumor: Break In (FKA Fairgame$) Will Be In Today’s State of Play",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562885/article/rumor-break-in-fka-fairgame-will-be-in-todays-state-of-play/",
+      "thumbnail": "/drops/thumbs/01e937de55a9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4b6db1db4b1d",
       "pillar": "gaming",
       "title": "‘Mormon Mafia’ Conspiracy Trends Online After YouTuber Investigating $200,000 Lego Collection Dispute Flees To Mexico Following Arrest",
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
-    "416778eeb564",
     "48548d24c5e8",
-    "8572a3fa7cde",
+    "416778eeb564",
     "e9ab4b8188cb",
-    "886d21dc07a4"
+    "8572a3fa7cde",
+    "cbebce596dfb",
+    "038c3d2664c9"
   ]
 }

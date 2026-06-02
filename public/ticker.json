@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T12:04:27+00:00",
+  "generated_utc": "2026-06-02T12:13:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -55,6 +48,13 @@
     {
       "title": "The Air Jordan 8 “Chrome” Returns September 12th",
       "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "CD Projekt RED Is Ditching DLC To Release Three The Witcher Games In The Next Six Years",
-      "url": "https://gameranx.com/updates/id/562866/article/cd-projekt-red-is-ditching-dlc-to-release-three-the-witcher-games-in-the-next-six-years/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "“Keep The Receipts” – Call Of Duty: Modern Warfare 4 Doubles Down On “No Clowny Skins”",
       "url": "https://gameranx.com/updates/id/562868/article/keep-the-receipts-call-of-duty-modern-warfare-4-doubles-down-on-no-clowny-skins/",
       "pillar": "gaming",
@@ -216,6 +209,13 @@
     {
       "title": "Valve's Gabe Newell argued gamers \"have enormous choice\" when grilled over Steam's alleged monopoly 10 Comments",
       "url": "https://www.gamesradar.com/games/valves-gabe-newell-argued-gamers-have-enormous-choice-when-grilled-over-steams-alleged-monopoly-on-pc-gaming-report/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rumor: Break In (FKA Fairgame$) Will Be In Today’s State of Play",
+      "url": "https://gameranx.com/updates/id/562885/article/rumor-break-in-fka-fairgame-will-be-in-todays-state-of-play/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
