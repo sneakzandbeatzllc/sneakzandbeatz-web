@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T03:49:33+00:00",
+  "generated_utc": "2026-06-02T03:57:11+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "48548d24c5e8",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
       "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
       "published": "2026-05-30T15:38:19",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fc2bfab0b5a3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
+      "published": "2026-05-30T15:30:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
-    "1b645c07d564",
     "48548d24c5e8",
-    "8572a3fa7cde",
+    "1b645c07d564",
     "e9ab4b8188cb",
+    "8572a3fa7cde",
+    "cbebce596dfb",
     "d5df207522a2"
   ]
 }
