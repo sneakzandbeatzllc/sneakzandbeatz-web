@@ -1,7 +1,31 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T15:06:44+00:00",
+  "generated_utc": "2026-06-02T15:10:02+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "2026-06-01T22:47:18",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "a3e23bbf57cc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
+      "published": "2026-06-01T17:50:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "48548d24c5e8",
       "pillar": "sneakers",
@@ -75,27 +99,27 @@
       "release_badge": ""
     },
     {
-      "id": "718a0dc79f1a",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
-      "published": "2026-05-30T15:38:19",
+      "id": "3b563b585241",
+      "pillar": "hiphop",
+      "title": "Jay-Z Debuts Afro At Roots Picnic Using Beyoncé’s $28 Spray",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/jay-z-debuts-afro-at-roots-picnic-using-beyonces-28-spray/",
+      "thumbnail": "/drops/thumbs/3b563b585241.jpg",
+      "published": "2026-06-02T11:00:00",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "fc2bfab0b5a3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
-      "published": "2026-05-30T15:30:33",
+      "id": "820d0c3d3219",
+      "pillar": "hiphop",
+      "title": "Monaleo & Teezo Touchdown Get Colorful-N-Lyrical On “Everythang Pinka”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/music/monaleo-teezo-touchdown-get-colorful-n-lyrical-on-everythang-pinka/",
+      "thumbnail": "/drops/thumbs/820d0c3d3219.jpg",
+      "published": "2026-06-02T09:21:00",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/06/02/gld-wnba-season-30-chain-anniversary/",
       "thumbnail": "/drops/thumbs/f53bb3a20ed9.jpg",
       "published": "2026-06-02T05:31:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "44b2ad95f5f3",
-      "pillar": "hiphop",
-      "title": "Latto Opens Up About Planned Pregnancy, Motherhood, and Choosing Herself",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/02/latto-planned-pregnancy-motherhood-interview/",
-      "thumbnail": "/drops/thumbs/44b2ad95f5f3.jpg",
-      "published": "2026-06-02T05:06:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1906b1434764",
-      "pillar": "hiphop",
-      "title": "Bryson Tiller Announces 61-Date ‘Neo Trapsoul World Tour’ With Majid Jordan, Ty Dolla $ign, and Austin Millz",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/02/bryson-tiller-neo-trapsoul-tour-2026-2027/",
-      "thumbnail": "/drops/thumbs/1906b1434764.jpg",
-      "published": "2026-06-02T04:59:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "48548d24c5e8",
-    "83681d21d53c",
-    "e9ab4b8188cb",
+    "094b1500b6a8",
+    "3b563b585241",
+    "a3e23bbf57cc",
     "2ad3ad60744f",
-    "cbebce596dfb",
+    "48548d24c5e8",
     "eae7915ebb4d"
   ]
 }
