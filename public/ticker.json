@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T22:38:49+00:00",
+  "generated_utc": "2026-06-02T22:56:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -46,17 +60,24 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
-      "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Dame Dash Worried Jay-Z Is Broke, Addresses Freestyle: “It Was Terrible”",
+      "url": "https://allhiphop.com/news/dame-dash-worried-jay-z-is-broke-addresses-freestyle-it-was-terrible/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Ye Netherlands Concerts Face Government Intervention Warning",
+      "url": "https://allhiphop.com/news/ye-netherlands-concerts-face-government-intervention-warning/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Roots Picnic Day 1: Jay-Z Turned Philadelphia Into Roc-A-Fella’s Family Reunion",
+      "url": "https://allhiphop.com/features/roots-picnic-day-1-jay-z-turned-philadelphia-into-roc-a-fellas-family-reunion/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -81,36 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "EA SPORTS Reveals Cover Athletes for College Football 27",
-      "url": "https://thesource.com/2026/06/02/ea-sports-college-football-27-cover-athletes/",
+      "title": "Jay-Z’s Hidden $20M Loan Fuels Uncle Nearest Buyout Speculation",
+      "url": "https://allhiphop.com/news/jay-zs-hidden-20m-loan-fuels-uncle-nearest-buyout-speculation/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Target Unveils Exclusive 30th Anniversary Edition of JAY-Z’s Reasonable Doubt",
-      "url": "https://thesource.com/2026/06/02/target-jay-z-reasonable-doubt-30th-anniversary-edition/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Vince Staples Releases “Cotton” Ahead of New Album Cry Baby",
-      "url": "https://thesource.com/2026/06/02/vince-staples-cotton-cry-baby-single/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Shakira, Madonna, and BTS Are Bringing the Ultimate Stadium Energy to the 2026 World Cup",
-      "url": "https://thesource.com/2026/06/02/shakira-madonna-and-bts-are-bringing-the-ultimate-stadium-energy-to-the-2026-world-cup/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Boosie Badazz Faces Felony Charge Following Alleged Houston Nightclub Altercation",
-      "url": "https://thesource.com/2026/06/02/boosie-badazz-felony-charge-houston-nightclub/",
+      "title": "Ray J’s Latest Move Has People Worried And The Rumors Are Getting Dark",
+      "url": "https://allhiphop.com/rumors/ray-js-latest-move-has-people-worried-and-the-rumors-are-getting-dark/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -179,8 +179,22 @@
       "article_slug": null
     },
     {
-      "title": "Avengers: Doomsday event disappoints after trailer no-show and bizarre Doctor Doom coffee gifts",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-event-disappoints-after-trailer-no-show-and-bizarre-autographed-doctor-doom-coffee-gifts/",
+      "title": "The Internet Reacts To Phranque, The New God Of War’ s Talking Cube",
+      "url": "https://kotaku.com/new-god-of-war-talking-cube-phranque-laufey-faye-2000701723",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "PlayStation’s Showcase Chat Got Spammed The Whole Time On Twitch By People Demanding Destiny 3",
+      "url": "https://kotaku.com/playstations-showcase-chat-got-spammed-the-whole-time-on-twitch-by-people-demanding-destiny-3-2000701654",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Big Preview Assassin's Creed Black Flag Resynced: The Big Preview",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-the-big-preview-hub/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "Rayman Legends Retold Isn’t A Remake I Wanted, But After Playing It I’m Happy It’s Happening",
-      "url": "https://kotaku.com/rayman-legends-retold-3d-remake-visuals-release-date-ps5-trailer-origins-ubisoft-2000701140",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Poll How Would You Rate State of Play for June 2026?",
       "url": "https://www.pushsquare.com/features/poll-how-would-you-rate-state-of-play-for-june-2026",
       "pillar": "gaming",
@@ -207,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "Live PlayStation State of Play June 2026 live – all news, reveals, and announcements as they happen",
-      "url": "https://www.gamesradar.com/news/live/sony-ps5-state-of-play-live-coverage-june-2026-everything-announced/",
+      "title": "Hands-on Assassin's Creed Black Flag Resynced hands-on: \"Sailing on the edge of the series' best classic and modern entries\"",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-hands-on-big-preview/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "GTA Online Cheaters’ Personal Info Leaked – By Someone Who Fell For A Scam Himself",
       "url": "https://gameranx.com/updates/id/562888/article/gta-online-cheaters-personal-info-leaked-by-someone-who-fell-for-a-scam-himself/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New Stuntman Game Coming With Real Movies Including Fast And Furious And Back To The Future",
-      "url": "https://kotaku.com/new-stuntman-game-coming-with-real-movies-including-fast-and-furious-and-back-to-the-future-2000701686",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
