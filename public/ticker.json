@@ -1,25 +1,11 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T09:10:02+00:00",
+  "generated_utc": "2026-06-02T10:01:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 3 \"BIN 23\"",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -55,6 +41,20 @@
     {
       "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
       "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
+      "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -186,29 +186,15 @@
       "article_slug": null
     },
     {
-      "title": "90 % of Call of Duty: Modern Warfare 4’s Reveal Trailer Is “In-Engine” After Activision Pivots To PC First",
-      "url": "https://gameranx.com/updates/id/562859/article/90-of-call-of-duty-modern-warfare-4s-reveal-trailer-is-in-engine-after-activision-pivots-to-pc-first/",
+      "title": "News Crimson Desert DLC in Development, Second Content Roadmap Revealed",
+      "url": "https://www.pushsquare.com/news/2026/06/crimson-desert-dlc-in-development-second-content-roadmap-revealed",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Call of Duty: Modern Warfare 4’s Cosmetics And Collabs Will Be “Anchored” To The Narrative",
-      "url": "https://gameranx.com/updates/id/562856/article/call-of-duty-modern-warfare-4s-cosmetics-and-collabs-will-be-anchored-to-the-narrative/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News June 2026 PS Plus Essential Games Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/06/june-2026-ps-plus-essential-games-available-to-download-now",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Features Why Pragmata disappeared for 6 years, and how Capcom built a new IP while the industry imploded",
-      "url": "https://www.gamesradar.com/games/action/why-pragmata-disappeared-for-6-years-and-how-capcom-built-a-new-ip-while-the-games-industry-imploded/",
+      "title": "Crimson Desert DLC in the works, but Pearl Abyss also has its sights on story improvements and more",
+      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-officially-in-the-works-but-pearl-abyss-also-has-its-sights-on-story-improvements-new-combat-content-and-more-arriving-in-the-next-4-months/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +207,22 @@
       "article_slug": null
     },
     {
-      "title": "Guide What Time Is PlayStation's State of Play for June 2026?",
-      "url": "https://www.pushsquare.com/guides/what-time-is-playstations-state-of-play-for-june-2026",
+      "title": "News June 2026 PS Plus Essential Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/06/june-2026-ps-plus-essential-games-available-to-download-now",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Valve's Gabe Newell argued gamers \"have enormous choice\" when grilled over Steam's alleged monopoly 9 Comments",
+      "url": "https://www.gamesradar.com/games/valves-gabe-newell-argued-gamers-have-enormous-choice-when-grilled-over-steams-alleged-monopoly-on-pc-gaming-report/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "‘Mormon Mafia’ Conspiracy Trends Online After YouTuber Investigating $200,000 Lego Collection Dispute Flees To Mexico Following Arrest",
+      "url": "https://kotaku.com/star-wars-lego-collection-reckless-ben-bricks-minifigs-youtube-mormon-mafia-arrest-mexico-2000701091",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
