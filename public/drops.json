@@ -1,15 +1,39 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T07:25:44+00:00",
+  "generated_utc": "2026-06-02T08:07:35+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "title": "Air Jordan 3 \"BIN 23\"",
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
       "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -70,30 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "thumbnail": "/drops/thumbs/e7bddf38dff7.webp",
       "published": "2026-06-01T12:23:52",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b5eacd4f26ff",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
-      "thumbnail": "/drops/thumbs/b5eacd4f26ff.jpg",
-      "published": "2026-05-30T23:47:04",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "718a0dc79f1a",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
-      "published": "2026-05-30T15:38:19",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "539eceeee8c1",
+      "id": "8305317e7667",
       "pillar": "gaming",
-      "title": "Hands On Civ 7's Big Free PS5 Update Feels Like a Soft Relaunch",
+      "title": "Guide What Time Is PlayStation's State of Play for June 2026?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/hands-on-civ-7s-big-free-ps5-update-feels-like-a-soft-relaunch",
-      "thumbnail": "/drops/thumbs/539eceeee8c1.jpg",
+      "source_url": "https://www.pushsquare.com/guides/what-time-is-playstations-state-of-play-for-june-2026",
+      "thumbnail": "/drops/thumbs/8305317e7667.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "977d56c0c978",
+      "id": "539eceeee8c1",
       "pillar": "gaming",
-      "title": "News Push Your PS5 Pro to the Limit with PSSR2 Update for F1 25's New DLC",
+      "title": "Hands On Civ 7's Big Free PS5 Update Feels Like a Soft Relaunch",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/push-your-ps5-pro-to-the-limit-with-pssr2-update-for-f1-25s-new-dlc",
-      "thumbnail": "/drops/thumbs/977d56c0c978.jpg",
+      "source_url": "https://www.pushsquare.com/features/hands-on-civ-7s-big-free-ps5-update-feels-like-a-soft-relaunch",
+      "thumbnail": "/drops/thumbs/539eceeee8c1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "094b1500b6a8",
     "1b645c07d564",
-    "48548d24c5e8",
+    "43151d13faa3",
     "8572a3fa7cde",
-    "e9ab4b8188cb",
+    "69fe11c3a7e6",
     "886d21dc07a4"
   ]
 }
