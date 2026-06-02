@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T17:32:19+00:00",
+  "generated_utc": "2026-06-02T18:10:21+00:00",
   "items": [
     {
       "id": "48548d24c5e8",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "9f421f3d3221",
+      "pillar": "hiphop",
+      "title": "Roots Picnic Day 1: Jay-Z Turned Philadelphia Into Roc-A-Fella’s Family Reunion",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/features/roots-picnic-day-1-jay-z-turned-philadelphia-into-roc-a-fellas-family-reunion/",
+      "thumbnail": "/drops/thumbs/9f421f3d3221.jpg",
+      "published": "2026-06-02T13:57:08",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9fb1b728a896",
       "pillar": "hiphop",
       "title": "Today In Hip Hop History: AZ Released His Eighth LP ‘Legendary’ 17 Years Ago",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/music/monaleo-teezo-touchdown-get-colorful-n-lyrical-on-everythang-pinka/",
       "thumbnail": "/drops/thumbs/820d0c3d3219.jpg",
       "published": "2026-06-02T09:21:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "83681d21d53c",
-      "pillar": "hiphop",
-      "title": "Target Unveils Exclusive 30th Anniversary Edition of JAY-Z’s Reasonable Doubt",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/02/target-jay-z-reasonable-doubt-30th-anniversary-edition/",
-      "thumbnail": "/drops/thumbs/83681d21d53c.jpg",
-      "published": "2026-06-02T07:37:20",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "eae7915ebb4d",
-      "pillar": "gaming",
-      "title": "Amazon Prime members can watch Spider-Man: Brand New Day early",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/amazon-prime-members-can-watch-spider-man-brand-new-day-early-heres-how/",
-      "thumbnail": "/drops/thumbs/eae7915ebb4d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "6e1ac62bf5fb",
       "pillar": "gaming",
       "title": "News Waiting for Titanfall 3? The Dev Behind Splitgate May Have Something for You",
@@ -351,12 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "767ce20c26d5",
+      "id": "12469955f58a",
       "pillar": "gaming",
-      "title": "News You Share One Body With Multiple Souls in This Strange New PS5 Horror Game",
+      "title": "News New Tomb Raider PS5 Screenshots Leak Ahead of Today's State of Play",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/you-share-one-body-with-multiple-souls-in-this-strange-new-ps5-horror-game",
-      "thumbnail": "/drops/thumbs/767ce20c26d5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/new-tomb-raider-ps5-screenshots-leak-ahead-of-todays-state-of-play",
+      "thumbnail": "/drops/thumbs/12469955f58a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "63e355d224bb",
+      "pillar": "gaming",
+      "title": "Live PlayStation Stay of Play showcase live coverage – all the news and rumors ahead of the event",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/news/live/sony-ps5-state-of-play-live-coverage-june-2026-everything-announced/",
+      "thumbnail": "/drops/thumbs/63e355d224bb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "48548d24c5e8",
-    "9fb1b728a896",
+    "9f421f3d3221",
     "e9ab4b8188cb",
     "2ad3ad60744f",
     "cbebce596dfb",
-    "eae7915ebb4d"
+    "6e1ac62bf5fb"
   ]
 }
