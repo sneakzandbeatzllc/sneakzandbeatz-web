@@ -1,8 +1,29 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T09:01:13+00:00",
+  "generated_utc": "2026-06-02T09:10:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -34,27 +55,6 @@
     {
       "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
       "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Sail” Releases Summer 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-sail/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
-      "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Guide What Time Is PlayStation's State of Play for June 2026?",
-      "url": "https://www.pushsquare.com/guides/what-time-is-playstations-state-of-play-for-june-2026",
+      "title": "News June 2026 PS Plus Essential Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/06/june-2026-ps-plus-essential-games-available-to-download-now",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Hands On Civ 7's Big Free PS5 Update Feels Like a Soft Relaunch",
-      "url": "https://www.pushsquare.com/features/hands-on-civ-7s-big-free-ps5-update-feels-like-a-soft-relaunch",
+      "title": "Guide What Time Is PlayStation's State of Play for June 2026?",
+      "url": "https://www.pushsquare.com/guides/what-time-is-playstations-state-of-play-for-june-2026",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
