@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T04:52:12+00:00",
+  "generated_utc": "2026-06-02T05:04:59+00:00",
   "items": [
     {
       "id": "48548d24c5e8",
@@ -291,36 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "d5df207522a2",
-      "pillar": "gaming",
-      "title": "News 007 First Light Only Behind Resident Evil Requiem for UK's Biggest Physical Launch of 2026",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/007-first-light-only-behind-resident-evil-requiem-for-uks-biggest-physical-launch-of-2026",
-      "thumbnail": "/drops/thumbs/d5df207522a2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "886d21dc07a4",
       "pillar": "gaming",
       "title": "CD Projekt RED Is Ditching DLC To Release Three The Witcher Games In The Next Six Years",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562866/article/cd-projekt-red-is-ditching-dlc-to-release-three-the-witcher-games-in-the-next-six-years/",
       "thumbnail": "/drops/thumbs/886d21dc07a4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c23dcaaab2c2",
-      "pillar": "gaming",
-      "title": "News Sony's FlexStrike Fight Stick Launches Alongside PS5, PC Fighter Marvel Tokon This August",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/sonys-flexstrike-fight-stick-launches-alongside-ps5-pc-fighter-marvel-tokon-this-august",
-      "thumbnail": "/drops/thumbs/c23dcaaab2c2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "539eceeee8c1",
+      "pillar": "gaming",
+      "title": "Hands On Civ 7's Big Free PS5 Update Feels Like a Soft Relaunch",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/hands-on-civ-7s-big-free-ps5-update-feels-like-a-soft-relaunch",
+      "thumbnail": "/drops/thumbs/539eceeee8c1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "721b5f9f3a8a",
       "pillar": "gaming",
       "title": "Features Why Pragmata disappeared for 6 years, and how Capcom built a new IP while the industry imploded",
@@ -385,6 +373,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "977d56c0c978",
+      "pillar": "gaming",
+      "title": "News Push Your PS5 Pro to the Limit with PSSR2 Update for F1 25's New DLC",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/push-your-ps5-pro-to-the-limit-with-pssr2-update-for-f1-25s-new-dlc",
+      "thumbnail": "/drops/thumbs/977d56c0c978.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "e9ab4b8188cb",
     "8572a3fa7cde",
     "cbebce596dfb",
-    "d5df207522a2"
+    "886d21dc07a4"
   ]
 }

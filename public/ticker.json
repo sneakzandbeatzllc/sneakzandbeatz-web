@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T04:52:12+00:00",
+  "generated_utc": "2026-06-02T05:04:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,22 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News 007 First Light Only Behind Resident Evil Requiem for UK's Biggest Physical Launch of 2026",
-      "url": "https://www.pushsquare.com/news/2026/06/007-first-light-only-behind-resident-evil-requiem-for-uks-biggest-physical-launch-of-2026",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "CD Projekt RED Is Ditching DLC To Release Three The Witcher Games In The Next Six Years",
       "url": "https://gameranx.com/updates/id/562866/article/cd-projekt-red-is-ditching-dlc-to-release-three-the-witcher-games-in-the-next-six-years/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Sony's FlexStrike Fight Stick Launches Alongside PS5, PC Fighter Marvel Tokon This August",
-      "url": "https://www.pushsquare.com/news/2026/06/sonys-flexstrike-fight-stick-launches-alongside-ps5-pc-fighter-marvel-tokon-this-august",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,6 +200,13 @@
       "article_slug": null
     },
     {
+      "title": "Hands On Civ 7's Big Free PS5 Update Feels Like a Soft Relaunch",
+      "url": "https://www.pushsquare.com/features/hands-on-civ-7s-big-free-ps5-update-feels-like-a-soft-relaunch",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Features Why Pragmata disappeared for 6 years, and how Capcom built a new IP while the industry imploded",
       "url": "https://www.gamesradar.com/games/action/why-pragmata-disappeared-for-6-years-and-how-capcom-built-a-new-ip-while-the-games-industry-imploded/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "GameStop Snuck An Alarming AI Disclosure Into The Risks Section Of Its Latest Annual Report",
       "url": "https://kotaku.com/gamestop-ai-disclosure-risks-annual-report-2000701213",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Push Your PS5 Pro to the Limit with PSSR2 Update for F1 25's New DLC",
+      "url": "https://www.pushsquare.com/news/2026/06/push-your-ps5-pro-to-the-limit-with-pssr2-update-for-f1-25s-new-dlc",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
