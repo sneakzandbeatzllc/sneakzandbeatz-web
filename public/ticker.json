@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T08:27:45+00:00",
+  "generated_utc": "2026-06-02T08:59:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -55,6 +48,13 @@
     {
       "title": "The Air Jordan 8 “Chrome” Returns September 12th",
       "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Cyborg 009: Nemesis Anime Casts Tomokazu Sugita as Cyborg 004",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-02/cyborg-009-nemesis-anime-casts-tomokazu-sugita-as-cyborg-004/.238043",
+      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Miharu Hanai, Suzuna Kinoshita",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-02/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-miharu-hanai-suzuna-kinoshita/.238045",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Crunchyroll 'Anime Nights' Program to Screen Skeleton Night in Another World , Young Ladies Don't Play Fighting Games , More Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-01/crunchyroll-anime-nights-program-to-screen-skeleton-night-in-another-world-young-ladies-dont-play-/.238031",
+      "title": "Cyborg 009: Nemesis Anime Casts Tomokazu Sugita as Cyborg 004",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-02/cyborg-009-nemesis-anime-casts-tomokazu-sugita-as-cyborg-004/.238043",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
