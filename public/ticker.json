@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T13:15:13+00:00",
+  "generated_utc": "2026-06-02T14:16:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Monaleo & Teezo Touchdown Get Colorful-N-Lyrical On “Everythang Pinka”",
+      "url": "https://allhiphop.com/music/monaleo-teezo-touchdown-get-colorful-n-lyrical-on-everythang-pinka/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Target Unveils Exclusive 30th Anniversary Edition of JAY-Z’s Reasonable Doubt",
       "url": "https://thesource.com/2026/06/02/target-jay-z-reasonable-doubt-30th-anniversary-edition/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Latto Opens Up About Planned Pregnancy, Motherhood, and Choosing Herself",
       "url": "https://thesource.com/2026/06/02/latto-planned-pregnancy-motherhood-interview/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Bryson Tiller Announces 61-Date ‘Neo Trapsoul World Tour’ With Majid Jordan, Ty Dolla $ign, and Austin Millz",
-      "url": "https://thesource.com/2026/06/02/bryson-tiller-neo-trapsoul-tour-2026-2027/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,15 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "People Are Going Wild Over Fortnite’ s Most Revealing Skin Yet",
-      "url": "https://kotaku.com/people-are-going-wild-over-fortnites-most-revealing-skin-yet-2000701201",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PS5 First-Party Sales Have Fallen Sharply, But It Doesn't Tell the Full Story",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-first-party-sales-have-fallen-sharply-but-it-doesnt-tell-the-full-story",
+      "title": "News Waiting for Titanfall 3? The Dev Behind Splitgate May Have Something for You",
+      "url": "https://www.pushsquare.com/news/2026/06/waiting-for-titanfall-3-the-dev-behind-splitgate-may-have-something-for-you",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,14 +193,21 @@
       "article_slug": null
     },
     {
-      "title": "News Silent Hill: Townfall Appears Primed for State of Play Update",
-      "url": "https://www.pushsquare.com/news/2026/06/silent-hill-townfall-appears-primed-for-state-of-play-update",
+      "title": "Hyped Marvel Fans Get Trolled When Avengers: Doomsday Trailer Reveal Turns Out To Be A Tease For Coffee",
+      "url": "https://kotaku.com/avengers-doomsday-trailer-sxsw-london-russo-coffee-shop-2000701482",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Valve's Gabe Newell argued gamers \"have enormous choice\" when grilled over Steam's alleged monopoly 10 Comments",
+      "title": "News You've Got to Give This Hand Drawn Gem a Shot on PS5, Free Demo Out Now",
+      "url": "https://www.pushsquare.com/news/2026/06/youve-got-to-give-this-hand-drawn-gem-a-shot-on-ps5-free-demo-out-now",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Valve's Gabe Newell argued gamers \"have enormous choice\" when grilled over Steam's alleged monopoly 12 Comments",
       "url": "https://www.gamesradar.com/games/valves-gabe-newell-argued-gamers-have-enormous-choice-when-grilled-over-steams-alleged-monopoly-on-pc-gaming-report/",
       "pillar": "gaming",
       "score": 1.0,
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Crimson Desert Devs Preview The Next Four Months Of Updates While ‘Hard At Work’ On Big DLC",
-      "url": "https://kotaku.com/crimson-desert-devs-preview-the-next-four-months-of-updates-while-hard-at-work-on-big-dlc-2000701460",
+      "title": "Everything You Need To Know About Marathon Season 2 And Its First Free Week",
+      "url": "https://kotaku.com/everything-you-need-to-know-about-marathon-season-2-and-its-first-free-week-2000701243",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
