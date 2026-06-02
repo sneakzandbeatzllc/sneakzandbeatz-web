@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T12:26:17+00:00",
+  "generated_utc": "2026-06-02T13:04:45+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "48548d24c5e8",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
       "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
       "published": "2026-05-30T15:38:19",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fc2bfab0b5a3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
+      "published": "2026-05-30T15:30:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "5aee4102c4d2",
+      "id": "e7a6a3696362",
       "pillar": "anime",
-      "title": "'You, Fireworks, and Our Promise' Anime Film Casts 3 AVAM Idols",
+      "title": "Galaxy Express 999 TV Anime, Lupin III Film's Lyricist Jun Hashimoto Dies",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-02/you-fireworks-and-our-promise-anime-film-casts-3-avam-idols/.238050",
-      "thumbnail": "/drops/thumbs/5aee4102c4d2.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-02/galaxy-express-999-tv-anime-lupin-iii-film-lyricist-jun-hashimoto-dies/.238054",
+      "thumbnail": "/drops/thumbs/e7a6a3696362.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ca5c52ca4e6b",
+      "id": "5aee4102c4d2",
       "pillar": "anime",
-      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Miharu Hanai, Suzuna Kinoshita",
+      "title": "'You, Fireworks, and Our Promise' Anime Film Casts 3 AVAM Idols",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-02/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-miharu-hanai-suzuna-kinoshita/.238045",
-      "thumbnail": "/drops/thumbs/ca5c52ca4e6b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-02/you-fireworks-and-our-promise-anime-film-casts-3-avam-idols/.238050",
+      "thumbnail": "/drops/thumbs/5aee4102c4d2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "038c3d2664c9",
+      "id": "44ad715c2480",
       "pillar": "gaming",
-      "title": "“Keep The Receipts” – Call Of Duty: Modern Warfare 4 Doubles Down On “No Clowny Skins”",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562868/article/keep-the-receipts-call-of-duty-modern-warfare-4-doubles-down-on-no-clowny-skins/",
-      "thumbnail": "/drops/thumbs/038c3d2664c9.jpg",
+      "title": "People Are Going Wild Over Fortnite’ s Most Revealing Skin Yet",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/people-are-going-wild-over-fortnites-most-revealing-skin-yet-2000701201",
+      "thumbnail": "/drops/thumbs/44ad715c2480.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "4454268f0c6f",
+      "id": "f8111193805b",
       "pillar": "gaming",
-      "title": "News Silent Hill: Townfall Appears Primed for State of Play Update",
+      "title": "News PS5 First-Party Sales Have Fallen Sharply, But It Doesn't Tell the Full Story",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/silent-hill-townfall-appears-primed-for-state-of-play-update",
-      "thumbnail": "/drops/thumbs/4454268f0c6f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-first-party-sales-have-fallen-sharply-but-it-doesnt-tell-the-full-story",
+      "thumbnail": "/drops/thumbs/f8111193805b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "1740a7cf7a33",
+      "id": "a7661484abbf",
       "pillar": "gaming",
-      "title": "GameStop Snuck An Alarming AI Disclosure Into The Risks Section Of Its Latest Annual Report",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/gamestop-ai-disclosure-risks-annual-report-2000701213",
-      "thumbnail": "/drops/thumbs/1740a7cf7a33.jpg",
+      "title": "Silent Hill: Townfall Receives ESRB Rating Ahead Of State Of Play",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562890/article/silent-hill-townfall-receives-esrb-rating-ahead-of-state-of-play/",
+      "thumbnail": "/drops/thumbs/a7661484abbf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "6957a0b375d5",
+      "id": "4454268f0c6f",
       "pillar": "gaming",
-      "title": "News Clutch Is a New PS5 Open World Racer from Ex Forza Horizon Devs",
+      "title": "News Silent Hill: Townfall Appears Primed for State of Play Update",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/clutch-is-a-new-ps5-open-world-racer-from-ex-forza-horizon-devs",
-      "thumbnail": "/drops/thumbs/6957a0b375d5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/silent-hill-townfall-appears-primed-for-state-of-play-update",
+      "thumbnail": "/drops/thumbs/4454268f0c6f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "01e937de55a9",
+      "id": "9bf610f657f5",
       "pillar": "gaming",
-      "title": "Rumor: Break In (FKA Fairgame$) Will Be In Today’s State of Play",
+      "title": "GTA Online Cheaters’ Personal Info Leaked – By Someone Who Fell For A Scam Himself",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562885/article/rumor-break-in-fka-fairgame-will-be-in-todays-state-of-play/",
-      "thumbnail": "/drops/thumbs/01e937de55a9.jpg",
+      "source_url": "https://gameranx.com/updates/id/562888/article/gta-online-cheaters-personal-info-leaked-by-someone-who-fell-for-a-scam-himself/",
+      "thumbnail": "/drops/thumbs/9bf610f657f5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
-    "83681d21d53c",
     "48548d24c5e8",
-    "8572a3fa7cde",
+    "83681d21d53c",
     "e9ab4b8188cb",
-    "038c3d2664c9"
+    "8572a3fa7cde",
+    "cbebce596dfb",
+    "44ad715c2480"
   ]
 }

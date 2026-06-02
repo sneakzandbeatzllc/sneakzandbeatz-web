@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T12:26:17+00:00",
+  "generated_utc": "2026-06-02T13:04:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -55,6 +48,13 @@
     {
       "title": "The Air Jordan 8 “Chrome” Returns September 12th",
       "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "'You, Fireworks, and Our Promise' Anime Film Casts 3 AVAM Idols",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-02/you-fireworks-and-our-promise-anime-film-casts-3-avam-idols/.238050",
+      "title": "Galaxy Express 999 TV Anime, Lupin III Film's Lyricist Jun Hashimoto Dies",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-02/galaxy-express-999-tv-anime-lupin-iii-film-lyricist-jun-hashimoto-dies/.238054",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Miharu Hanai, Suzuna Kinoshita",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-02/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-miharu-hanai-suzuna-kinoshita/.238045",
+      "title": "'You, Fireworks, and Our Promise' Anime Film Casts 3 AVAM Idols",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-02/you-fireworks-and-our-promise-anime-film-casts-3-avam-idols/.238050",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,15 +172,15 @@
       "article_slug": null
     },
     {
-      "title": "“Keep The Receipts” – Call Of Duty: Modern Warfare 4 Doubles Down On “No Clowny Skins”",
-      "url": "https://gameranx.com/updates/id/562868/article/keep-the-receipts-call-of-duty-modern-warfare-4-doubles-down-on-no-clowny-skins/",
+      "title": "People Are Going Wild Over Fortnite’ s Most Revealing Skin Yet",
+      "url": "https://kotaku.com/people-are-going-wild-over-fortnites-most-revealing-skin-yet-2000701201",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Silent Hill: Townfall Appears Primed for State of Play Update",
-      "url": "https://www.pushsquare.com/news/2026/06/silent-hill-townfall-appears-primed-for-state-of-play-update",
+      "title": "News PS5 First-Party Sales Have Fallen Sharply, But It Doesn't Tell the Full Story",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5-first-party-sales-have-fallen-sharply-but-it-doesnt-tell-the-full-story",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,15 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "GameStop Snuck An Alarming AI Disclosure Into The Risks Section Of Its Latest Annual Report",
-      "url": "https://kotaku.com/gamestop-ai-disclosure-risks-annual-report-2000701213",
+      "title": "Silent Hill: Townfall Receives ESRB Rating Ahead Of State Of Play",
+      "url": "https://gameranx.com/updates/id/562890/article/silent-hill-townfall-receives-esrb-rating-ahead-of-state-of-play/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Clutch Is a New PS5 Open World Racer from Ex Forza Horizon Devs",
-      "url": "https://www.pushsquare.com/news/2026/06/clutch-is-a-new-ps5-open-world-racer-from-ex-forza-horizon-devs",
+      "title": "News Silent Hill: Townfall Appears Primed for State of Play Update",
+      "url": "https://www.pushsquare.com/news/2026/06/silent-hill-townfall-appears-primed-for-state-of-play-update",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: Break In (FKA Fairgame$) Will Be In Today’s State of Play",
-      "url": "https://gameranx.com/updates/id/562885/article/rumor-break-in-fka-fairgame-will-be-in-todays-state-of-play/",
+      "title": "GTA Online Cheaters’ Personal Info Leaked – By Someone Who Fell For A Scam Himself",
+      "url": "https://gameranx.com/updates/id/562888/article/gta-online-cheaters-personal-info-leaked-by-someone-who-fell-for-a-scam-himself/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
