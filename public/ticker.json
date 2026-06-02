@@ -1,11 +1,32 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T23:33:02+00:00",
+  "generated_utc": "2026-06-02T23:41:27+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "The Air Jordan 3 BIN 23 Releases Next Week",
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -34,27 +55,6 @@
     {
       "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
       "url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 8 “Knicks” Lands in Deceber 2026",
-      "url": "https://justfreshkicks.com/air-jordan-8-knicks-ix8479-010/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Howard University” Returns in 2026",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-howard-university-ix8478-410/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
-      "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "Round Up What Was Announced in Sony's State of Play Livestream for June 2026?",
-      "url": "https://www.pushsquare.com/features/round-up-what-was-announced-in-sonys-state-of-play-livestream-for-june-2026",
+      "title": "News Highly Anticipated PS5 Game ILL Looks Revolting, In the Best Possible Way",
+      "url": "https://www.pushsquare.com/news/2026/06/highly-anticipated-ps5-game-ill-looks-revolting-in-the-best-possible-way",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Poll How Would You Rate State of Play for June 2026?",
-      "url": "https://www.pushsquare.com/features/poll-how-would-you-rate-state-of-play-for-june-2026",
+      "title": "Round Up What Was Announced in Sony's State of Play Livestream for June 2026?",
+      "url": "https://www.pushsquare.com/features/round-up-what-was-announced-in-sonys-state-of-play-livestream-for-june-2026",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
