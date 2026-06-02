@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T14:38:18+00:00",
+  "generated_utc": "2026-06-02T15:06:44+00:00",
   "items": [
     {
       "id": "48548d24c5e8",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "2ad3ad60744f",
+      "pillar": "anime",
+      "title": "7 Years Later, Japan Is Officially Ending Solo Leveling",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-ending-japan-final-volume/",
+      "thumbnail": "/drops/thumbs/2ad3ad60744f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8572a3fa7cde",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Fans Hungry For Season 4 Should Look Forward To June 14th",
@@ -255,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "0e8a8f9b690b",
+      "pillar": "anime",
+      "title": "HIDIVE Adds Urashiman , Ippatsuman , Heavy Metal L-Gaim , Judo Boy , More Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-02/hidive-adds-urashiman-ippatsuman-heavy-metal-l-gaim-judo-boy-more-anime/.238057",
+      "thumbnail": "/drops/thumbs/0e8a8f9b690b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e7a6a3696362",
       "pillar": "anime",
       "title": "Galaxy Express 999 TV Anime, Lupin III Film's Lyricist Jun Hashimoto Dies",
@@ -267,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "5aee4102c4d2",
-      "pillar": "anime",
-      "title": "'You, Fireworks, and Our Promise' Anime Film Casts 3 AVAM Idols",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-02/you-fireworks-and-our-promise-anime-film-casts-3-avam-idols/.238050",
-      "thumbnail": "/drops/thumbs/5aee4102c4d2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "31d1d7f9fb1e",
-      "pillar": "anime",
-      "title": "10 best anime on Prime Video to watch right now",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
-      "thumbnail": "/drops/thumbs/31d1d7f9fb1e.jpg",
+      "id": "eae7915ebb4d",
+      "pillar": "gaming",
+      "title": "Amazon Prime members can watch Spider-Man: Brand New Day early",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/amazon-prime-members-can-watch-spider-man-brand-new-day-early-heres-how/",
+      "thumbnail": "/drops/thumbs/eae7915ebb4d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -303,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "fe4f5cd2693f",
+      "id": "6c3680b7f544",
       "pillar": "gaming",
-      "title": "Crimson Desert DLC in the works, but Pearl Abyss also has its sights on story improvements and more",
+      "title": "Avengers: Doomsday event disappoints after trailer no-show and bizarre Doctor Doom coffee gifts",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-officially-in-the-works-but-pearl-abyss-also-has-its-sights-on-story-improvements-new-combat-content-and-more-arriving-in-the-next-4-months/",
-      "thumbnail": "/drops/thumbs/fe4f5cd2693f.jpg",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-event-disappoints-after-trailer-no-show-and-bizarre-autographed-doctor-doom-coffee-gifts/",
+      "thumbnail": "/drops/thumbs/6c3680b7f544.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "d53e4a6b2d0e",
-      "pillar": "gaming",
-      "title": "Valve's Gabe Newell argued gamers \"have enormous choice\" when grilled over Steam's alleged monopoly 12 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/valves-gabe-newell-argued-gamers-have-enormous-choice-when-grilled-over-steams-alleged-monopoly-on-pc-gaming-report/",
-      "thumbnail": "/drops/thumbs/d53e4a6b2d0e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9bf610f657f5",
       "pillar": "gaming",
       "title": "GTA Online Cheaters’ Personal Info Leaked – By Someone Who Fell For A Scam Himself",
@@ -391,8 +391,8 @@
     "48548d24c5e8",
     "83681d21d53c",
     "e9ab4b8188cb",
-    "8572a3fa7cde",
+    "2ad3ad60744f",
     "cbebce596dfb",
-    "6e1ac62bf5fb"
+    "eae7915ebb4d"
   ]
 }
