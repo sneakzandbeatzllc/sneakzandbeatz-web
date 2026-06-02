@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-02T06:59:10+00:00",
+  "generated_utc": "2026-06-02T07:25:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
       "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
@@ -48,13 +55,6 @@
     {
       "title": "The Air Jordan 8 “Chrome” Returns September 12th",
       "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
-      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
