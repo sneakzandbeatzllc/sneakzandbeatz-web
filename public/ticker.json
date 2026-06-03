@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T06:40:21+00:00",
+  "generated_utc": "2026-06-03T07:34:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,20 +8,6 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "pillar": "sneakers",
-      "score": 3.0,
       "article_slug": null
     },
     {
@@ -55,6 +41,20 @@
     {
       "title": "The Air Jordan 8 “Knicks” Lands in Deceber 2026",
       "url": "https://justfreshkicks.com/air-jordan-8-knicks-ix8479-010/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Howard University” Returns in 2026",
+      "url": "https://justfreshkicks.com/air-jordan-1-low-howard-university-ix8478-410/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
+      "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "FROGMAN's Anime Studio DLE Starts AI Brand Focused on Studio's Older IP",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/frogman-anime-studio-dle-starts-ai-brand-focused-on-studio-older-ip/.238003",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi Anime's Summer Debut, More Staff Listed",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/star-wars-visions-presents-the-ninth-jedi-anime-summer-debut-more-staff-listed/.238082",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "REDICE Studio's Overgeared Webtoon Gets Tempal TV Anime in October",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-02/redice-studio-overgeared-webtoon-gets-tempal-tv-anime-in-october/.238075",
+      "title": "FROGMAN's Anime Studio DLE Starts AI Brand Focused on Studio's Older IP",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/frogman-anime-studio-dle-starts-ai-brand-focused-on-studio-older-ip/.238003",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
