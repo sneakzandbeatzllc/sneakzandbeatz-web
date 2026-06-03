@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T00:00:41+00:00",
+  "generated_utc": "2026-06-03T00:20:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,22 @@
       "article_slug": null
     },
     {
+      "title": "Peabo Bryson Dead At 75 After Stroke, Helped Shape Sound Of Hip-Hop",
+      "url": "https://allhiphop.com/news/peabo-bryson-dead-at-75-after-stroke-helped-shape-sound-of-hip-hop/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Former TV Doctor, Mehmet Oz Says Trump’s Latest Physical Delivered ‘Spectacular’ Results",
       "url": "https://thesource.com/2026/06/02/former-tv-doctor-mehmet-oz-says-trumps-latest-physical-delivered-spectacular-results/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Milli Vanilli Star Bails On Donald Trump’s Freedom 250",
+      "url": "https://allhiphop.com/news/milli-vanilli-star-bails-on-donald-trumps-freedom-250/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -74,43 +88,29 @@
       "article_slug": null
     },
     {
+      "title": "Dame Dash Worried Jay-Z Is Broke, Addresses Freestyle: “It Was Terrible”",
+      "url": "https://allhiphop.com/news/dame-dash-worried-jay-z-is-broke-addresses-freestyle-it-was-terrible/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ye Netherlands Concerts Face Government Intervention Warning",
+      "url": "https://allhiphop.com/news/ye-netherlands-concerts-face-government-intervention-warning/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Roots Picnic Day 1: Jay-Z Turned Philadelphia Into Roc-A-Fella’s Family Reunion",
+      "url": "https://allhiphop.com/features/roots-picnic-day-1-jay-z-turned-philadelphia-into-roc-a-fellas-family-reunion/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Monica Makes Surprise Appearance At Brandy’s Roots Picnic Set",
       "url": "https://thesource.com/2026/06/02/monica-makes-surprise-appearance-at-brandys-roots-picnic-set/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Today In Hip Hop History: The Late J Dilla Dropped ‘Jay Stay Paid’ 17 Years Ago",
-      "url": "https://thesource.com/2026/06/02/today-in-hip-hop-history-the-late-j-dilla-dropped-jay-stay-paid-17-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Today In Hip Hop History: AZ Released His Eighth LP ‘Legendary’ 17 Years Ago",
-      "url": "https://thesource.com/2026/06/02/today-in-hip-hop-history-az-released-his-eighth-lp-legendary-17-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "EA SPORTS Reveals Cover Athletes for College Football 27",
-      "url": "https://thesource.com/2026/06/02/ea-sports-college-football-27-cover-athletes/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Target Unveils Exclusive 30th Anniversary Edition of JAY-Z’s Reasonable Doubt",
-      "url": "https://thesource.com/2026/06/02/target-jay-z-reasonable-doubt-30th-anniversary-edition/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Vince Staples Releases “Cotton” Ahead of New Album Cry Baby",
-      "url": "https://thesource.com/2026/06/02/vince-staples-cotton-cry-baby-single/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "'Can I take your photo?' Manga Moves Serialization to Young King Magazine on June 22",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-02/can-i-take-your-photo-manga-moves-serialization-to-young-king-magazine-on-june-22/.238048",
+      "title": "Shinrei Tantei Yakumo Initial File Novels' Manga Adaptation Resumes",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-02/shinrei-tantei-yakumo-initial-file-novels-manga-adaptation-resumes/.238053",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Nyankees' Atsushi Okada Launches Tataki the Side Hustle Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-02/nyankees-atsushi-okada-launches-tataki-the-side-hustle-manga/.238039",
+      "title": "'Can I take your photo?' Manga Moves Serialization to Young King Magazine on June 22",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-02/can-i-take-your-photo-manga-moves-serialization-to-young-king-magazine-on-june-22/.238048",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "Round Up What Was Announced in Sony's State of Play Livestream for June 2026?",
-      "url": "https://www.pushsquare.com/features/round-up-what-was-announced-in-sonys-state-of-play-livestream-for-june-2026",
+      "title": "Guide Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages",
+      "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Poll How Would You Rate State of Play for June 2026?",
-      "url": "https://www.pushsquare.com/features/poll-how-would-you-rate-state-of-play-for-june-2026",
+      "title": "Round Up What Was Announced in Sony's State of Play Livestream for June 2026?",
+      "url": "https://www.pushsquare.com/features/round-up-what-was-announced-in-sonys-state-of-play-livestream-for-june-2026",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
