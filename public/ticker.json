@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T13:55:17+00:00",
+  "generated_utc": "2026-06-03T14:26:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -46,20 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 Low OG “Howard University” Returns in 2026",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-howard-university-ix8478-410/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
-      "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Official Family Statement Regarding the Passing Of R&B Legend Peabo Bryson",
       "url": "https://thesource.com/2026/06/03/official-family-statement-regarding-the-passing-of-rb-legend-peabo-bryson/",
       "pillar": "hiphop",
@@ -88,6 +88,13 @@
       "article_slug": null
     },
     {
+      "title": "LL Cool J & Queen Latifah Guiding BET’s Future As Advisers",
+      "url": "https://allhiphop.com/news/ll-cool-j-queen-latifah-guiding-bets-future-as-advisers/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Freedom to Stream: TextNow Adds iHeartRadio to Free Flex Plan for Zero-Data Music and Radio",
       "url": "https://thesource.com/2026/06/03/freedom-to-stream-textnow-adds-iheartradio-to-free-flex-plan-for-zero-data-music-and-radio/",
       "pillar": "hiphop",
@@ -95,22 +102,15 @@
       "article_slug": null
     },
     {
+      "title": "Cassie Exits USA Permanently After Diddy Abuse $30M Payout",
+      "url": "https://allhiphop.com/news/cassie-exits-usa-permanently-after-diddy-abuse-30m-payout/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "JAY-Z Rocks Fear of God Look During Roots Picnic Headlining Set",
       "url": "https://thesource.com/2026/06/03/jay-z-fear-of-god-roots-picnic-2026/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Stella Artois Launches ‘Work From Bar’ Campaign for FIFA World Cup 2026 Fans",
-      "url": "https://thesource.com/2026/06/03/stella-artois-work-from-bar-fifa-world-cup-2026/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Buju Banton Announces New Album ‘Too Too Bad,’ Releases “Butterflies” Video",
-      "url": "https://thesource.com/2026/06/03/buju-banton-too-too-bad-album/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -193,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "After Working With Christopher Nolan, Spider-Man Star Tom Holland Suddenly Realized Marvel Movies Are A Factory",
+      "url": "https://kotaku.com/after-working-with-christopher-nolan-spider-man-star-tom-holland-suddenly-realized-marvel-movies-are-a-factory-2000701960",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "No, God Of War Isn’t Leaving Kratos Behind: ‘We’ll Always Tell Stories About Kratos’",
       "url": "https://kotaku.com/god-of-war-laufey-kratos-faye-sindri-atreus-next-game-2000701959",
       "pillar": "gaming",
@@ -200,15 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "News Final Fantasy 7 Rebirth Cheats Live Now in New PS5 Patch",
-      "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-rebirth-cheats-live-now-in-new-ps5-patch",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Internet Reacts To Phranque, The New God Of War’ s Talking Cube Voiced By Jack Quaid",
-      "url": "https://kotaku.com/new-god-of-war-talking-cube-phranque-laufey-faye-2000701723",
+      "title": "News PS5's PS Store Shovelware Purge Continues with the Removal of More Garbage Games",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5s-ps-store-shovelware-purge-continues-with-the-removal-of-more-garbage-games",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
