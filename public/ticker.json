@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T15:43:18+00:00",
+  "generated_utc": "2026-06-03T15:57:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "7 Years Later, Japan Is Officially Ending Solo Leveling",
-      "url": "https://screenrant.com/solo-leveling-ending-japan-final-volume/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "27 Years Later, Naruto's Next Anime Is Officially Switching Genres",
       "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-change-genre/",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "10 best anime on Prime Video to watch right now",
       "url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Trapped in a Dating Sim 2 Anime Unveils New Cast Member, July 8 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/trapped-in-a-dating-sim-2-anime-unveils-new-cast-member-july-8-debut/.238084",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
