@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T20:52:52+00:00",
+  "generated_utc": "2026-06-03T21:03:39+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -10,6 +10,42 @@
       "source_url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "thumbnail": "/drops/thumbs/c8d3a4f66c16.jpg",
       "published": "2026-06-02T15:17:23",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -63,39 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "5234d80d2441",
-      "pillar": "sneakers",
-      "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
-      "thumbnail": "/drops/thumbs/5234d80d2441.jpg",
-      "published": "2026-06-03T00:52:26",
+      "id": "2edc9101d0d6",
+      "pillar": "hiphop",
+      "title": "NBA Finals Get Hip-Hop Treatment From Nas",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/nba-finals-get-hip-hop-treatment-from-nas/",
+      "thumbnail": "/drops/thumbs/2edc9101d0d6.png",
+      "published": "2026-06-03T17:02:13",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8a2bf5f3a799",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
-      "published": "2026-06-02T16:04:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6d8d7bd4256c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
-      "thumbnail": "/drops/thumbs/6d8d7bd4256c.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/exclusive-lil-zay-osama-drops-nameless-from-prison-on-his-29th-birthday/",
       "thumbnail": "/drops/thumbs/213572b7974b.png",
       "published": "2026-06-03T11:01:12",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ee007960179f",
-      "pillar": "hiphop",
-      "title": "Rick Ross & Freeway Rick Are Back At It",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/rick-ross-freeway-rick-are-back-at-it/",
-      "thumbnail": "/drops/thumbs/ee007960179f.png",
-      "published": "2026-06-03T10:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "f2ed43e5a7fe",
-    "6f835bbe3ddc",
+    "2edc9101d0d6",
+    "094b1500b6a8",
     "04ab6aa04045",
-    "38f41184bc1e",
+    "43151d13faa3",
     "4606e5eb11dc"
   ]
 }

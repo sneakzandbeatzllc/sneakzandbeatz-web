@@ -1,11 +1,32 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T20:52:52+00:00",
+  "generated_utc": "2026-06-03T21:03:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "The Air Jordan 3 BIN 23 Releases Next Week",
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -39,24 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
-      "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "NBA Finals Get Hip-Hop Treatment From Nas",
+      "url": "https://allhiphop.com/news/nba-finals-get-hip-hop-treatment-from-nas/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "EXCLUSIVE: Lil Zay Osama Drops “Nameless”  From Prison On His 29th Birthday",
       "url": "https://allhiphop.com/news/exclusive-lil-zay-osama-drops-nameless-from-prison-on-his-29th-birthday/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rick Ross & Freeway Rick Are Back At It",
-      "url": "https://allhiphop.com/rumors/rick-ross-freeway-rick-are-back-at-it/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
