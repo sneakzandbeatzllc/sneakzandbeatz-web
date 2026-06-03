@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T16:00:13+00:00",
+  "generated_utc": "2026-06-03T16:31:50+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -13,6 +13,30 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "2026-06-01T22:47:18",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "a3e23bbf57cc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
+      "published": "2026-06-01T17:50:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "a8f2819063e6",
@@ -75,27 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "cbebce596dfb",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Knicks” Lands in Deceber 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-knicks-ix8479-010/",
-      "thumbnail": "/drops/thumbs/cbebce596dfb.jpg",
-      "published": "2026-06-01T12:38:11",
+      "id": "f57dd5f263b7",
+      "pillar": "hiphop",
+      "title": "Jewish Council Sues To Block Ye’s Arnhem Performance Despite Government Approval",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/jewish-council-sues-to-block-yes-arnhem-performance-despite-government-approval/",
+      "thumbnail": "/drops/thumbs/f57dd5f263b7.jpg",
+      "published": "2026-06-03T12:02:06",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d91de9359166",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Howard University” Returns in 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-howard-university-ix8478-410/",
-      "thumbnail": "/drops/thumbs/d91de9359166.jpg",
-      "published": "2026-06-01T12:37:09",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "e4fdf0f36f68",
-      "pillar": "hiphop",
-      "title": "Lenny S Hosts Exclusive Jay-Z Legacy Celebration During Roots Picnic Weekend",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/lenny-s-jay-z-legacy-celebration-roots-picnic/",
-      "thumbnail": "/drops/thumbs/e4fdf0f36f68.jpg",
-      "published": "2026-06-03T09:12:10",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7a0bf9444aac",
       "pillar": "anime",
       "title": "Solo Leveling's Newest Series Is Facing A Challenge No One Could Have Predicted",
@@ -213,18 +213,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-change-genre/",
       "thumbnail": "/drops/thumbs/04ab6aa04045.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bf7622f2c0d3",
-      "pillar": "anime",
-      "title": "One Piece's Most Tragic Straw Hat Death Confirms The One Way the Anime Is Superior To Oda's Manga",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-brook-death-anime-superior-manga/",
-      "thumbnail": "/drops/thumbs/bf7622f2c0d3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-03/trapped-in-a-dating-sim-2-anime-unveils-new-cast-member-july-8-debut/.238084",
       "thumbnail": "/drops/thumbs/4dca372be7f0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4f3d38aea04e",
+      "pillar": "anime",
+      "title": "10 Years Later, Your Name Officially Returns With Big New Release",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/your-name-anime-movie-4k-remaster-release/",
+      "thumbnail": "/drops/thumbs/4f3d38aea04e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "213572b7974b",
-    "a8f2819063e6",
+    "f57dd5f263b7",
+    "094b1500b6a8",
     "7a0bf9444aac",
-    "5234d80d2441",
+    "a3e23bbf57cc",
     "13f97872a04f"
   ]
 }
