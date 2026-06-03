@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T12:51:39+00:00",
+  "generated_utc": "2026-06-03T12:53:19+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "843a97bc123f",
-      "pillar": "hiphop",
-      "title": "Cassie Exits USA Permanently After Diddy Abuse $30M Payout",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/cassie-exits-usa-permanently-after-diddy-abuse-30m-payout/",
-      "thumbnail": "/drops/thumbs/843a97bc123f.png",
-      "published": "2026-06-03T08:01:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b21a2681dd92",
       "pillar": "hiphop",
       "title": "Athletes, Artists And The New Fan Economy",
@@ -183,13 +171,25 @@
       "release_badge": ""
     },
     {
-      "id": "c0e4a8b530c0",
+      "id": "1ea3967d20e1",
       "pillar": "hiphop",
-      "title": "Diddy & 50 Cent Gets Messier With Exes Input On “Size”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/diddy-50-cent-gets-messier-with-exes-input-on-size/",
-      "thumbnail": "/drops/thumbs/c0e4a8b530c0.png",
-      "published": "2026-06-02T21:38:16",
+      "title": "Former TV Doctor, Mehmet Oz Says Trump’s Latest Physical Delivered ‘Spectacular’ Results",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/02/former-tv-doctor-mehmet-oz-says-trumps-latest-physical-delivered-spectacular-results/",
+      "thumbnail": "/drops/thumbs/1ea3967d20e1.jpg",
+      "published": "2026-06-02T19:07:18",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3e6ffd30bb5c",
+      "pillar": "hiphop",
+      "title": "GAME TRAILER: Sony Brings Back the Horror With ‘Until Dawn 2’",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/02/sony-brings-back-the-horror-with-until-dawn-2-arriving-on-ps5-in-2027/",
+      "thumbnail": "/drops/thumbs/3e6ffd30bb5c.jpg",
+      "published": "2026-06-02T18:59:24",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "843a97bc123f",
+    "b21a2681dd92",
     "5234d80d2441",
     "7a0bf9444aac",
     "849348a5c1c0",
