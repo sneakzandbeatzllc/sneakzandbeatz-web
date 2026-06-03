@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T22:55:28+00:00",
+  "generated_utc": "2026-06-03T23:06:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -46,17 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Jeezy Explains Why He Takes Himself On A Date For Sushi Every Wednesday",
+      "url": "https://allhiphop.com/news/jeezy-explains-why-he-takes-himself-on-a-date-for-sushi-every-wednesday/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,22 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "Jewish Council Sues To Block Ye’s Arnhem Performance Despite Government Approval",
-      "url": "https://allhiphop.com/news/jewish-council-sues-to-block-yes-arnhem-performance-despite-government-approval/",
-      "pillar": "hiphop",
+      "title": "Every Major Chainsaw Man Devil Definitively Ranked From Weakest To Strongest",
+      "url": "https://screenrant.com/chainsaw-man-strongest-devils-ranked-weakest-strongest-list/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
       "title": "Netflix's One Piece Is Secretly Making The Entire Franchise Better... No, Really",
       "url": "https://screenrant.com/one-piece-netflix-franchise-better-oda/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "27 Years Later, Naruto's Next Anime Is Officially Switching Genres",
-      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-anime-change-genre/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
