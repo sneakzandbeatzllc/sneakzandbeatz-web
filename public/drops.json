@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T13:53:17+00:00",
+  "generated_utc": "2026-06-03T13:55:17+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -147,18 +147,6 @@
       "release_badge": ""
     },
     {
-      "id": "94e2a4d9146f",
-      "pillar": "hiphop",
-      "title": "LL Cool J & Queen Latifah Guiding BET’s Future As Advisers",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ll-cool-j-queen-latifah-guiding-bets-future-as-advisers/",
-      "thumbnail": "/drops/thumbs/94e2a4d9146f.png",
-      "published": "2026-06-03T09:01:17",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "dff2043f22ea",
       "pillar": "hiphop",
       "title": "Freedom to Stream: TextNow Adds iHeartRadio to Free Flex Plan for Zero-Data Music and Radio",
@@ -171,18 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "843a97bc123f",
-      "pillar": "hiphop",
-      "title": "Cassie Exits USA Permanently After Diddy Abuse $30M Payout",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/cassie-exits-usa-permanently-after-diddy-abuse-30m-payout/",
-      "thumbnail": "/drops/thumbs/843a97bc123f.png",
-      "published": "2026-06-03T08:01:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c1d7d3ec6c62",
       "pillar": "hiphop",
       "title": "JAY-Z Rocks Fear of God Look During Roots Picnic Headlining Set",
@@ -190,6 +166,30 @@
       "source_url": "https://thesource.com/2026/06/03/jay-z-fear-of-god-roots-picnic-2026/",
       "thumbnail": "/drops/thumbs/c1d7d3ec6c62.jpg",
       "published": "2026-06-03T06:23:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "490dd9cb5a8c",
+      "pillar": "hiphop",
+      "title": "Stella Artois Launches ‘Work From Bar’ Campaign for FIFA World Cup 2026 Fans",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/stella-artois-work-from-bar-fifa-world-cup-2026/",
+      "thumbnail": "/drops/thumbs/490dd9cb5a8c.jpg",
+      "published": "2026-06-03T05:54:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "58705a499366",
+      "pillar": "hiphop",
+      "title": "Buju Banton Announces New Album ‘Too Too Bad,’ Releases “Butterflies” Video",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/buju-banton-too-too-bad-album/",
+      "thumbnail": "/drops/thumbs/58705a499366.jpg",
+      "published": "2026-06-03T05:23:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "f7bfa3e9605a",
-      "pillar": "gaming",
-      "title": "Sony’s State Of Play Showed That Every Publisher Is Terrified Of GTA 6",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/sonys-state-of-play-showed-that-every-publisher-is-terrified-of-gta-6-2000701746",
-      "thumbnail": "/drops/thumbs/f7bfa3e9605a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "13f97872a04f",
       "pillar": "gaming",
       "title": "News 'That Looks Like Sh*t': God of War Creator Predictably Tears New PS5 Game to Shreds",
@@ -333,6 +321,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562892/article/god-of-war-laufey-officially-revealed/",
       "thumbnail": "/drops/thumbs/dc31caabf2d3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "819bfb4f0eaa",
+      "pillar": "gaming",
+      "title": "No, God Of War Isn’t Leaving Kratos Behind: ‘We’ll Always Tell Stories About Kratos’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/god-of-war-laufey-kratos-faye-sindri-atreus-next-game-2000701959",
+      "thumbnail": "/drops/thumbs/819bfb4f0eaa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "5234d80d2441",
     "7a0bf9444aac",
     "849348a5c1c0",
-    "f7bfa3e9605a"
+    "13f97872a04f"
   ]
 }
