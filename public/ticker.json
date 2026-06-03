@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T23:07:37+00:00",
+  "generated_utc": "2026-06-03T23:17:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -41,20 +55,6 @@
     {
       "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
       "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "Manga UP! Global Adds Handa-kun Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/manga-up-global-adds-handa-kun-manga/.238111",
+      "title": "Daisaku Tsuru's Protocol Ryugu Manga Gets Japanese Serialization",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/daisaku-tsuru-protocol-ryugu-manga-gets-japanese-serialization/.238089",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Streams The Other World's Books Depend on the Bean Counter Anime's OVA",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/crunchyroll-streams-the-other-world-books-depend-on-the-bean-counter-anime-ova/.238110",
+      "title": "Manga UP! Global Adds Handa-kun Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/manga-up-global-adds-handa-kun-manga/.238111",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Beguiling's BDP Press Licenses Battan's THE GOLDEN FLY Manga for Release in English",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/beguiling-bdp-press-licenses-battan-the-golden-fly-manga-for-release-in-english/.238064",
+      "title": "Crunchyroll Streams The Other World's Books Depend on the Bean Counter Anime's OVA",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/crunchyroll-streams-the-other-world-books-depend-on-the-bean-counter-anime-ova/.238110",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -168,6 +168,13 @@
       "title": "Star Wars’ Samurai TV Spinoff Officially Sets Premiere Date (With A Catch)",
       "url": "https://screenrant.com/star-wars-ninth-jedi-release-window-confirmed/",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6 YouTuber Walks Into Rockstar Games Lobby And Allegedly Gets Police Called On Him",
+      "url": "https://kotaku.com/gta-6-youtuber-walks-into-rockstar-games-lobby-and-allegedly-gets-police-called-on-him-2000702118",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -207,13 +214,6 @@
       "article_slug": null
     },
     {
-      "title": "Patreon CEO Refuses To Remove YouTuber’s Viral Lego Investigation Despite Takedown Notice And Lawsuit: ‘Bricks & Minifigs Can Stuff It’",
-      "url": "https://kotaku.com/lego-star-wars-reckless-ben-youtube-bricks-minifigs-patreon-mormon-mafia-2000701942",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Marathon Season 2 Launch Falters Due To Technical Issues – Even The Game Discount Is Bugged",
       "url": "https://gameranx.com/updates/id/562912/article/marathon-season-2-launch-falters-due-to-technical-issues-even-the-game-discount-is-bugged/",
       "pillar": "gaming",
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "We Need To Talk About The Violence In That Wolverine Reveal",
-      "url": "https://kotaku.com/wolverine-trailer-violence-gore-sony-playstation-insomniac-2000701947",
+      "title": "Patreon CEO Refuses To Remove YouTuber’s Viral Lego Investigation Despite Takedown Notice And Lawsuit: ‘Bricks & Minifigs Can Stuff It’",
+      "url": "https://kotaku.com/lego-star-wars-reckless-ben-youtube-bricks-minifigs-patreon-mormon-mafia-2000701942",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
