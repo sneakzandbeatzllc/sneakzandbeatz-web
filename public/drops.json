@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T16:31:50+00:00",
+  "generated_utc": "2026-06-03T16:44:41+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -17,26 +17,38 @@
     {
       "id": "094b1500b6a8",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "title": "Air Jordan 3 \"BIN 23\"",
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
       "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
+      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "a3e23bbf57cc",
+      "id": "43151d13faa3",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-01T17:50:18",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
     },
     {
       "id": "a8f2819063e6",
@@ -49,6 +61,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "38f41184bc1e",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
+      "thumbnail": "/drops/thumbs/38f41184bc1e.jpg",
+      "published": "2026-06-03T12:40:40",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "5234d80d2441",
@@ -70,30 +94,6 @@
       "source_url": "https://justfreshkicks.com/mowalola-air-jordan-14-mule-ir0908-001/",
       "thumbnail": "/drops/thumbs/849348a5c1c0.webp",
       "published": "2026-06-02T17:28:31",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8a2bf5f3a799",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
-      "published": "2026-06-02T16:04:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e9ab4b8188cb",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
-      "thumbnail": "/drops/thumbs/e9ab4b8188cb.jpg",
-      "published": "2026-06-01T12:40:08",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "7a0bf9444aac",
-      "pillar": "anime",
-      "title": "Solo Leveling's Newest Series Is Facing A Challenge No One Could Have Predicted",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-new-series-jinwoo-action-challenge/",
-      "thumbnail": "/drops/thumbs/7a0bf9444aac.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "04ab6aa04045",
       "pillar": "anime",
       "title": "27 Years Later, Naruto's Next Anime Is Officially Switching Genres",
@@ -267,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "7df94345efba",
+      "pillar": "anime",
+      "title": "Star Wars’ Samurai TV Spinoff Officially Sets Premiere Date (With A Catch)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/star-wars-ninth-jedi-release-window-confirmed/",
+      "thumbnail": "/drops/thumbs/7df94345efba.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4dca372be7f0",
       "pillar": "anime",
       "title": "Trapped in a Dating Sim 2 Anime Unveils New Cast Member, July 8 Debut",
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "b5cce6f72688",
+      "id": "1feefcd555b3",
       "pillar": "gaming",
-      "title": "God of War Laufey announced: The new PS5 exclusive starring Kratos' wife Faye gets 20 minutes of footage",
+      "title": "Summer Preview God of War Laufey is exactly how I want the series' combat to evolve",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/god-of-war/new-god-of-war-game-starring-kratos-wife-faye-announced-with-20-minutes-of-footage/",
-      "thumbnail": "/drops/thumbs/b5cce6f72688.jpg",
+      "source_url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-is-exactly-how-i-want-the-series-combat-to-evolve-from-the-return-of-aerial-combos-to-hitting-dudes-so-hard-their-souls-fly-out/",
+      "thumbnail": "/drops/thumbs/1feefcd555b3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,24 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "fa75e588f3c4",
+      "id": "afc032856249",
       "pillar": "gaming",
-      "title": "News There's No Collector's Edition for Marvel's Wolverine PS5, and Fans Aren't Happy",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/theres-no-collectors-edition-for-marvels-wolverine-ps5-and-fans-arent-happy",
-      "thumbnail": "/drops/thumbs/fa75e588f3c4.jpg",
+      "title": "Like The Witcher 4 and Cyberpunk 2, CDPR's new IP Hadar is \"an emotional, open-world experience\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/like-the-witcher-4-and-cyberpunk-2-cd-projekt-reds-new-ip-hadar-is-an-emotional-open-world-experience/",
+      "thumbnail": "/drops/thumbs/afc032856249.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "63e355d224bb",
+      "id": "068a30975efa",
       "pillar": "gaming",
-      "title": "Live Everything announced at the PlayStation State of Play June 2026",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/news/live/sony-ps5-state-of-play-live-coverage-june-2026-everything-announced/",
-      "thumbnail": "/drops/thumbs/63e355d224bb.jpg",
+      "title": "News The Most Viewed Trailers from PS5's Latest State of Play",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/the-most-viewed-trailers-from-ps5s-latest-state-of-play",
+      "thumbnail": "/drops/thumbs/068a30975efa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,8 +391,8 @@
     "c8d3a4f66c16",
     "f57dd5f263b7",
     "094b1500b6a8",
-    "7a0bf9444aac",
-    "a3e23bbf57cc",
+    "04ab6aa04045",
+    "43151d13faa3",
     "13f97872a04f"
   ]
 }
