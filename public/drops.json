@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T13:39:18+00:00",
+  "generated_utc": "2026-06-03T13:53:17+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -13,30 +13,6 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "a3e23bbf57cc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-01T17:50:18",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
     },
     {
       "id": "5234d80d2441",
@@ -99,6 +75,78 @@
       "release_badge": ""
     },
     {
+      "id": "d91de9359166",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Howard University” Returns in 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-howard-university-ix8478-410/",
+      "thumbnail": "/drops/thumbs/d91de9359166.jpg",
+      "published": "2026-06-01T12:37:09",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e7bddf38dff7",
+      "pillar": "sneakers",
+      "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
+      "thumbnail": "/drops/thumbs/e7bddf38dff7.webp",
+      "published": "2026-06-01T12:23:52",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a97ecfde59de",
+      "pillar": "hiphop",
+      "title": "Official Family Statement Regarding the Passing Of R&B Legend Peabo Bryson",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/official-family-statement-regarding-the-passing-of-rb-legend-peabo-bryson/",
+      "thumbnail": "/drops/thumbs/a97ecfde59de.jpg",
+      "published": "2026-06-03T09:46:10",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ba7b02e34714",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: Wu Tang Clan Released Their Epic ‘Wu Tang Forever’ Double CD LP 29 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/today-in-hip-hop-history-wu-tang-clan-released-their-epic-wu-tang-forever-double-cd-lp-29-years-ago/",
+      "thumbnail": "/drops/thumbs/ba7b02e34714.jpg",
+      "published": "2026-06-03T09:24:37",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e4fdf0f36f68",
+      "pillar": "hiphop",
+      "title": "Lenny S Hosts Exclusive Jay-Z Legacy Celebration During Roots Picnic Weekend",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/lenny-s-jay-z-legacy-celebration-roots-picnic/",
+      "thumbnail": "/drops/thumbs/e4fdf0f36f68.jpg",
+      "published": "2026-06-03T09:12:10",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "bad3e66aea8c",
+      "pillar": "hiphop",
+      "title": "Iceman Turnt: Caleb Williams Makes History as First Chicago Bears Player on Madden NFL Cover",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/caleb-williams-madden-nfl-27-cover-athlete/",
+      "thumbnail": "/drops/thumbs/bad3e66aea8c.jpg",
+      "published": "2026-06-03T09:01:32",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "94e2a4d9146f",
       "pillar": "hiphop",
       "title": "LL Cool J & Queen Latifah Guiding BET’s Future As Advisers",
@@ -106,6 +154,18 @@
       "source_url": "https://allhiphop.com/news/ll-cool-j-queen-latifah-guiding-bets-future-as-advisers/",
       "thumbnail": "/drops/thumbs/94e2a4d9146f.png",
       "published": "2026-06-03T09:01:17",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dff2043f22ea",
+      "pillar": "hiphop",
+      "title": "Freedom to Stream: TextNow Adds iHeartRadio to Free Flex Plan for Zero-Data Music and Radio",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/freedom-to-stream-textnow-adds-iheartradio-to-free-flex-plan-for-zero-data-music-and-radio/",
+      "thumbnail": "/drops/thumbs/dff2043f22ea.jpg",
+      "published": "2026-06-03T09:01:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -123,18 +183,6 @@
       "release_badge": ""
     },
     {
-      "id": "b21a2681dd92",
-      "pillar": "hiphop",
-      "title": "Athletes, Artists And The New Fan Economy",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/athletes-artists-and-the-new-fan-economy/",
-      "thumbnail": null,
-      "published": "2026-06-03T07:13:44",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c1d7d3ec6c62",
       "pillar": "hiphop",
       "title": "JAY-Z Rocks Fear of God Look During Roots Picnic Headlining Set",
@@ -142,54 +190,6 @@
       "source_url": "https://thesource.com/2026/06/03/jay-z-fear-of-god-roots-picnic-2026/",
       "thumbnail": "/drops/thumbs/c1d7d3ec6c62.jpg",
       "published": "2026-06-03T06:23:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "490dd9cb5a8c",
-      "pillar": "hiphop",
-      "title": "Stella Artois Launches ‘Work From Bar’ Campaign for FIFA World Cup 2026 Fans",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/stella-artois-work-from-bar-fifa-world-cup-2026/",
-      "thumbnail": "/drops/thumbs/490dd9cb5a8c.jpg",
-      "published": "2026-06-03T05:54:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "58705a499366",
-      "pillar": "hiphop",
-      "title": "Buju Banton Announces New Album ‘Too Too Bad,’ Releases “Butterflies” Video",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/buju-banton-too-too-bad-album/",
-      "thumbnail": "/drops/thumbs/58705a499366.jpg",
-      "published": "2026-06-03T05:23:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4d1295de3b65",
-      "pillar": "hiphop",
-      "title": "Fanatics Expands NASCAR Presence with New York Racing Team Sponsorship Deal",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/fanatics-new-york-racing-team-nascar/",
-      "thumbnail": "/drops/thumbs/4d1295de3b65.jpg",
-      "published": "2026-06-03T05:06:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f30b81facf16",
-      "pillar": "hiphop",
-      "title": "Roots Picnic 2026 Draws 80,000 Fans as JAY-Z and The Roots Deliver Historic Anniversary Celebration",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/roots-picnic-2026-jay-z-the-roots-philadelphia/",
-      "thumbnail": "/drops/thumbs/f30b81facf16.jpg",
-      "published": "2026-06-03T04:43:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "94e2a4d9146f",
-    "094b1500b6a8",
+    "a97ecfde59de",
+    "5234d80d2441",
     "7a0bf9444aac",
-    "a3e23bbf57cc",
+    "849348a5c1c0",
     "f7bfa3e9605a"
   ]
 }
