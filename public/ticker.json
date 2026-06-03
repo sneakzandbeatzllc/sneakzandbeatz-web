@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T12:53:19+00:00",
+  "generated_utc": "2026-06-03T13:24:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -46,17 +60,17 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 Low OG “Howard University” Returns in 2026",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-howard-university-ix8478-410/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "LL Cool J & Queen Latifah Guiding BET’s Future As Advisers",
+      "url": "https://allhiphop.com/news/ll-cool-j-queen-latifah-guiding-bets-future-as-advisers/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
-      "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Cassie Exits USA Permanently After Diddy Abuse $30M Payout",
+      "url": "https://allhiphop.com/news/cassie-exits-usa-permanently-after-diddy-abuse-30m-payout/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Former TV Doctor, Mehmet Oz Says Trump’s Latest Physical Delivered ‘Spectacular’ Results",
-      "url": "https://thesource.com/2026/06/02/former-tv-doctor-mehmet-oz-says-trumps-latest-physical-delivered-spectacular-results/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "GAME TRAILER: Sony Brings Back the Horror With ‘Until Dawn 2’",
-      "url": "https://thesource.com/2026/06/02/sony-brings-back-the-horror-with-until-dawn-2-arriving-on-ps5-in-2027/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling's Newest Series Is Facing A Challenge No One Could Have Predicted",
       "url": "https://screenrant.com/solo-leveling-new-series-jinwoo-action-challenge/",
       "pillar": "anime",
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Who Is Asta's Father In Black Clover? Explained",
-      "url": "https://screenrant.com/black-clover-asta-father-identity-theory-anime/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "New Hokuto no Ken -Fist of the North Star- Anime Announces 3 Cast Members",
       "url": "https://www.animenewsnetwork.com/news/2026-06-03/new-hokuto-no-ken-fist-of-the-north-star-anime-announces-3-cast-members/.238091",
       "pillar": "anime",
@@ -168,6 +161,20 @@
       "title": "Trapped in a Dating Sim 2 Anime Unveils New Cast Member, July 8 Debut",
       "url": "https://www.animenewsnetwork.com/news/2026-06-03/trapped-in-a-dating-sim-2-anime-unveils-new-cast-member-july-8-debut/.238084",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "10 best anime on Prime Video to watch right now",
+      "url": "https://www.polygon.com/10-best-anime-on-amazon-prime-video-streaming/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sony’s State Of Play Showed That Every Publisher Is Terrified Of GTA 6",
+      "url": "https://kotaku.com/sonys-state-of-play-showed-that-every-publisher-is-terrified-of-gta-6-2000701746",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -193,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "The Internet Reacts To Phranque, The New God Of War’ s Talking Cube Voiced By Jack Quaid",
-      "url": "https://kotaku.com/new-god-of-war-talking-cube-phranque-laufey-faye-2000701723",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Final Fantasy 7 Rebirth Cheats Live Now in New PS5 Patch",
       "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-rebirth-cheats-live-now-in-new-ps5-patch",
       "pillar": "gaming",
@@ -207,8 +207,15 @@
       "article_slug": null
     },
     {
-      "title": "God Of War Spin-Off Starring Faye Finally Confirmed After Months Of Rumors",
-      "url": "https://kotaku.com/god-of-war-prequel-faye-ps5-state-of-play-laufey-2000701635",
+      "title": "The Internet Reacts To Phranque, The New God Of War’ s Talking Cube Voiced By Jack Quaid",
+      "url": "https://kotaku.com/new-god-of-war-talking-cube-phranque-laufey-faye-2000701723",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Server Issues Plague Marathon ‘s Big Comeback Moment [Update: Bungie Is Giving Players Free Loot]",
+      "url": "https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Live Everything announced at the PlayStation State of Play June 2026",
       "url": "https://www.gamesradar.com/news/live/sony-ps5-state-of-play-live-coverage-june-2026-everything-announced/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Marathon Season 2 Launch Falters Due To Technical Issues – Even The Game Discount Is Bugged",
-      "url": "https://gameranx.com/updates/id/562912/article/marathon-season-2-launch-falters-due-to-technical-issues-even-the-game-discount-is-bugged/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
