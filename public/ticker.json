@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T14:56:57+00:00",
+  "generated_utc": "2026-06-03T15:43:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “True Blue” Releases July 18th",
+      "url": "https://sneakerbardetroit.com/air-jordan-3-true-blue-2026-release-date/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 8 “Knicks” Lands in Deceber 2026",
-      "url": "https://justfreshkicks.com/air-jordan-8-knicks-ix8479-010/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "EXCLUSIVE: Lil Zay Osama Drops “Nameless”  From Prison On His 29th Birthday",
+      "url": "https://allhiphop.com/news/exclusive-lil-zay-osama-drops-nameless-from-prison-on-his-29th-birthday/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Iceman Turnt: Caleb Williams Makes History as First Chicago Bears Player on Madden NFL Cover",
-      "url": "https://thesource.com/2026/06/03/caleb-williams-madden-nfl-27-cover-athlete/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling's Newest Series Is Facing A Challenge No One Could Have Predicted",
       "url": "https://screenrant.com/solo-leveling-new-series-jinwoo-action-challenge/",
       "pillar": "anime",
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "New Hokuto no Ken -Fist of the North Star- Anime Announces 3 Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/new-hokuto-no-ken-fist-of-the-north-star-anime-announces-3-cast-members/.238091",
+      "title": "Good Smile Company Announces Jyuо̄ Mujin Dandivine Mecha Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/good-smile-company-announces-jyu-mujin-dandivine-mecha-anime/.238095",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Trapped in a Dating Sim 2 Anime Unveils New Cast Member, July 8 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/trapped-in-a-dating-sim-2-anime-unveils-new-cast-member-july-8-debut/.238084",
+      "title": "New Hokuto no Ken -Fist of the North Star- Anime Announces 3 Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/new-hokuto-no-ken-fist-of-the-north-star-anime-announces-3-cast-members/.238091",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,15 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "No, God Of War Isn’t Leaving Kratos Behind: ‘We’ll Always Tell Stories About Kratos’",
-      "url": "https://kotaku.com/god-of-war-laufey-kratos-faye-sindri-atreus-next-game-2000701959",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PS5 Early Access Pre-Orders Truly Are Getting Out of Hand",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-early-access-pre-orders-truly-are-getting-out-of-hand",
+      "title": "News There's No Collector's Edition for Marvel's Wolverine PS5, and Fans Aren't Happy",
+      "url": "https://www.pushsquare.com/news/2026/06/theres-no-collectors-edition-for-marvels-wolverine-ps5-and-fans-arent-happy",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "Marathon Season 2 Launch Falters Due To Technical Issues – Even The Game Discount Is Bugged",
       "url": "https://gameranx.com/updates/id/562912/article/marathon-season-2-launch-falters-due-to-technical-issues-even-the-game-discount-is-bugged/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "We Need To Talk About The Violence In That Wolverine Reveal",
+      "url": "https://kotaku.com/wolverine-trailer-violence-gore-sony-playstation-insomniac-2000701947",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
