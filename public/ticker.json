@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T07:43:01+00:00",
+  "generated_utc": "2026-06-03T08:15:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
+      "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -20,13 +27,6 @@
     {
       "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "First Look at APB’s Air Jordan 11 Low Pack for 2026",
-      "url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Star Wars: Visions Presents - The Ninth Jedi Anime's Summer Debut, More Staff Listed",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/star-wars-visions-presents-the-ninth-jedi-anime-summer-debut-more-staff-listed/.238082",
+      "title": "Trapped in a Dating Sim 2 Anime Unveils New Cast Member, July 8 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/trapped-in-a-dating-sim-2-anime-unveils-new-cast-member-july-8-debut/.238084",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "FROGMAN's Anime Studio DLE Starts AI Brand Focused on Studio's Older IP",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/frogman-anime-studio-dle-starts-ai-brand-focused-on-studio-older-ip/.238003",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi Anime's Summer Debut, More Staff Listed",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-03/star-wars-visions-presents-the-ninth-jedi-anime-summer-debut-more-staff-listed/.238082",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "God Of War Laufey Officially Revealed",
+      "url": "https://gameranx.com/updates/id/562892/article/god-of-war-laufey-officially-revealed/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News 'What Happens to Gods When They Die?': PS5's New God of War Pulls All Pantheons into One Magical Place",
       "url": "https://www.pushsquare.com/news/2026/06/what-happens-to-gods-when-they-die-ps5s-new-god-of-war-pulls-all-pantheons-into-one-magical-place",
       "pillar": "gaming",
@@ -207,13 +214,6 @@
       "article_slug": null
     },
     {
-      "title": "Silent Hill: Townfall Receives ESRB Rating Ahead Of State Of Play",
-      "url": "https://gameranx.com/updates/id/562890/article/silent-hill-townfall-receives-esrb-rating-ahead-of-state-of-play/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Live Everything announced at the PlayStation State of Play June 2026",
       "url": "https://www.gamesradar.com/news/live/sony-ps5-state-of-play-live-coverage-june-2026-everything-announced/",
       "pillar": "gaming",
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "GTA Online Cheaters’ Personal Info Leaked – By Someone Who Fell For A Scam Himself",
-      "url": "https://gameranx.com/updates/id/562888/article/gta-online-cheaters-personal-info-leaked-by-someone-who-fell-for-a-scam-himself/",
+      "title": "Silent Hill: Townfall Receives ESRB Rating Ahead Of State Of Play",
+      "url": "https://gameranx.com/updates/id/562890/article/silent-hill-townfall-receives-esrb-rating-ahead-of-state-of-play/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
