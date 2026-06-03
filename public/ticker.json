@@ -1,11 +1,32 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T19:02:15+00:00",
+  "generated_utc": "2026-06-03T19:10:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "The Air Jordan 3 BIN 23 Releases Next Week",
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -34,27 +55,6 @@
     {
       "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
       "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "First Look at Mowalola’s Air Jordan 14 Mule",
-      "url": "https://justfreshkicks.com/mowalola-air-jordan-14-mule-ir0908-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Poll What Was the Best PS5 Game at State of Play?",
-      "url": "https://www.pushsquare.com/features/poll-what-was-the-best-ps5-game-at-state-of-play",
+      "title": "Reaction Leaks Robbed State of Play of Its Biggest Surprise, But Show Still Spotlighted Many PS5 Games I'll Buy",
+      "url": "https://www.pushsquare.com/features/reaction-leaks-robbed-state-of-play-of-its-biggest-surprise-but-show-still-spotlighted-many-ps5-games-ill-buy",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
