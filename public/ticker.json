@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T17:48:46+00:00",
+  "generated_utc": "2026-06-03T17:59:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -41,20 +55,6 @@
     {
       "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
-      "url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
-      "url": "https://sneakerbardetroit.com/air-jordan-4-tour-yellow-2026/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Hands On Onimusha: Way of the Sword Is Set to Continue Capcom's Generational Winning Streak",
-      "url": "https://www.pushsquare.com/features/hands-on-onimusha-way-of-the-sword-is-set-to-continue-capcoms-generational-winning-streak",
+      "title": "News Yare Yare Daze! More JoJo's Bizarre Adventure Coming to PS5",
+      "url": "https://www.pushsquare.com/news/2026/06/yare-yare-daze-more-jojos-bizarre-adventure-coming-to-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

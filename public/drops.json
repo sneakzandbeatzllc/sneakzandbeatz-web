@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T17:48:46+00:00",
+  "generated_utc": "2026-06-03T17:59:35+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -13,6 +13,30 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "2026-06-01T22:47:18",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "a3e23bbf57cc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
+      "published": "2026-06-01T17:50:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "a8f2819063e6",
@@ -70,30 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
       "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
       "published": "2026-06-02T16:04:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e9ab4b8188cb",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
-      "thumbnail": "/drops/thumbs/e9ab4b8188cb.jpg",
-      "published": "2026-06-01T12:40:08",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "965e96fa1cd0",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-4-tour-yellow-2026/",
-      "thumbnail": "/drops/thumbs/965e96fa1cd0.webp",
-      "published": "",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -351,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "76ec6619c8c4",
+      "id": "833e9f948122",
       "pillar": "gaming",
-      "title": "Hands On Onimusha: Way of the Sword Is Set to Continue Capcom's Generational Winning Streak",
+      "title": "News Yare Yare Daze! More JoJo's Bizarre Adventure Coming to PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/hands-on-onimusha-way-of-the-sword-is-set-to-continue-capcoms-generational-winning-streak",
-      "thumbnail": "/drops/thumbs/76ec6619c8c4.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/yare-yare-daze-more-jojos-bizarre-adventure-coming-to-ps5",
+      "thumbnail": "/drops/thumbs/833e9f948122.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "c8d3a4f66c16",
     "5090a72d7c51",
-    "a8f2819063e6",
+    "094b1500b6a8",
     "04ab6aa04045",
-    "38f41184bc1e",
+    "a3e23bbf57cc",
     "4606e5eb11dc"
   ]
 }
