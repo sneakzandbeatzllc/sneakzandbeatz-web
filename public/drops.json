@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T22:06:23+00:00",
+  "generated_utc": "2026-06-03T22:55:28+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "69e3a0f011c3",
+      "id": "2aefbfe716ca",
       "pillar": "anime",
-      "title": "Crunchyroll Streams The Other World's Books Depend on the Bean Counter Anime's OVA",
+      "title": "Manga UP! Global Adds Handa-kun Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-03/crunchyroll-streams-the-other-world-books-depend-on-the-bean-counter-anime-ova/.238110",
-      "thumbnail": "/drops/thumbs/69e3a0f011c3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-03/manga-up-global-adds-handa-kun-manga/.238111",
+      "thumbnail": "/drops/thumbs/2aefbfe716ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "86ebeafad111",
+      "id": "69e3a0f011c3",
       "pillar": "anime",
-      "title": "Beguiling's BDP Press Licenses Battan's THE GOLDEN FLY Manga for Release in English",
+      "title": "Crunchyroll Streams The Other World's Books Depend on the Bean Counter Anime's OVA",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-03/beguiling-bdp-press-licenses-battan-the-golden-fly-manga-for-release-in-english/.238064",
-      "thumbnail": "/drops/thumbs/86ebeafad111.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-03/crunchyroll-streams-the-other-world-books-depend-on-the-bean-counter-anime-ova/.238110",
+      "thumbnail": "/drops/thumbs/69e3a0f011c3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "8e23b588d593",
+      "id": "86ebeafad111",
       "pillar": "anime",
-      "title": "Always a Catch! Anime Casts Kana Hanazawa",
+      "title": "Beguiling's BDP Press Licenses Battan's THE GOLDEN FLY Manga for Release in English",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-03/always-a-catch-anime-casts-kana-hanazawa/.238109",
-      "thumbnail": "/drops/thumbs/8e23b588d593.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-03/beguiling-bdp-press-licenses-battan-the-golden-fly-manga-for-release-in-english/.238064",
+      "thumbnail": "/drops/thumbs/86ebeafad111.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "e9c17224de3e",
-      "pillar": "gaming",
-      "title": "In Less Than A Day, God Of War Laufey Has Created One Of The Fandom’s Funniest Memes",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/god-of-war-laufey-kratos-atreus-faye-mother-grief-jokes-2000702119",
-      "thumbnail": "/drops/thumbs/e9c17224de3e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "afc032856249",
       "pillar": "gaming",
       "title": "Like The Witcher 4 and Cyberpunk 2, CDPR's new IP Hadar is \"an emotional, open-world experience\"",
@@ -351,12 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "bd507942e374",
+      "id": "feb4c09a4e1b",
       "pillar": "gaming",
-      "title": "Reaction Leaks Robbed State of Play of Its Biggest Surprise, But Show Still Spotlighted Many PS5 Games I'll Buy",
+      "title": "News Anticipated Avatar Fighting Game Delayed, But Only 3 Weeks",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/reaction-leaks-robbed-state-of-play-of-its-biggest-surprise-but-show-still-spotlighted-many-ps5-games-ill-buy",
-      "thumbnail": "/drops/thumbs/bd507942e374.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/anticipated-avatar-fighting-game-delayed-but-only-3-weeks",
+      "thumbnail": "/drops/thumbs/feb4c09a4e1b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8b7aefc77494",
+      "pillar": "gaming",
+      "title": "Patreon CEO Refuses To Remove YouTuber’s Viral Lego Investigation Despite Takedown Notice And Lawsuit: ‘Bricks & Minifigs Can Stuff It’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/lego-star-wars-reckless-ben-youtube-bricks-minifigs-patreon-mormon-mafia-2000701942",
+      "thumbnail": "/drops/thumbs/8b7aefc77494.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
