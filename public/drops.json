@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T08:46:52+00:00",
+  "generated_utc": "2026-06-03T09:45:20+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -13,30 +13,6 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "a3e23bbf57cc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-01T17:50:18",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
     },
     {
       "id": "5234d80d2441",
@@ -94,6 +70,30 @@
       "source_url": "https://justfreshkicks.com/air-jordan-8-knicks-ix8479-010/",
       "thumbnail": "/drops/thumbs/cbebce596dfb.jpg",
       "published": "2026-06-01T12:38:11",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d91de9359166",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Howard University” Returns in 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-howard-university-ix8478-410/",
+      "thumbnail": "/drops/thumbs/d91de9359166.jpg",
+      "published": "2026-06-01T12:37:09",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e7bddf38dff7",
+      "pillar": "sneakers",
+      "title": "Air Jordan 14 Low “Black Pack” Drops in All-Black for October 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
+      "thumbnail": "/drops/thumbs/e7bddf38dff7.webp",
+      "published": "2026-06-01T12:23:52",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -390,9 +390,9 @@
   "homepage": [
     "c8d3a4f66c16",
     "c0e4a8b530c0",
-    "094b1500b6a8",
+    "5234d80d2441",
     "7a0bf9444aac",
-    "a3e23bbf57cc",
+    "849348a5c1c0",
     "f7bfa3e9605a"
   ]
 }
