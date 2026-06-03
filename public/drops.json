@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T16:44:41+00:00",
+  "generated_utc": "2026-06-03T16:58:29+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -10,42 +10,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "thumbnail": "/drops/thumbs/c8d3a4f66c16.jpg",
       "published": "2026-06-02T15:17:23",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -94,6 +58,42 @@
       "source_url": "https://justfreshkicks.com/mowalola-air-jordan-14-mule-ir0908-001/",
       "thumbnail": "/drops/thumbs/849348a5c1c0.webp",
       "published": "2026-06-02T17:28:31",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8a2bf5f3a799",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
+      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
+      "published": "2026-06-02T16:04:05",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e9ab4b8188cb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
+      "thumbnail": "/drops/thumbs/e9ab4b8188cb.jpg",
+      "published": "2026-06-01T12:40:08",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "965e96fa1cd0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-4-tour-yellow-2026/",
+      "thumbnail": "/drops/thumbs/965e96fa1cd0.webp",
+      "published": "",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "c78ddc11867f",
+      "id": "412e25751786",
       "pillar": "gaming",
-      "title": "After Working With Christopher Nolan, Spider-Man Star Tom Holland Suddenly Realized Marvel Movies Are A Factory",
+      "title": "God Of War Laufey May Answer One Of The Series’ Strangest Mysteries",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/after-working-with-christopher-nolan-spider-man-star-tom-holland-suddenly-realized-marvel-movies-are-a-factory-2000701960",
-      "thumbnail": "/drops/thumbs/c78ddc11867f.jpg",
+      "source_url": "https://kotaku.com/god-of-war-laufey-who-blew-horn-faye-world-serpent-2000702043",
+      "thumbnail": "/drops/thumbs/412e25751786.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -345,6 +345,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/rpg/like-the-witcher-4-and-cyberpunk-2-cd-projekt-reds-new-ip-hadar-is-an-emotional-open-world-experience/",
       "thumbnail": "/drops/thumbs/afc032856249.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c78ddc11867f",
+      "pillar": "gaming",
+      "title": "After Working With Christopher Nolan, Spider-Man Star Tom Holland Suddenly Realized Marvel Movies Are A Factory",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/after-working-with-christopher-nolan-spider-man-star-tom-holland-suddenly-realized-marvel-movies-are-a-factory-2000701960",
+      "thumbnail": "/drops/thumbs/c78ddc11867f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "06a5ea6bf1b7",
-      "pillar": "gaming",
-      "title": "We Need To Talk About The Violence In That Wolverine Reveal",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/wolverine-trailer-violence-gore-sony-playstation-insomniac-2000701947",
-      "thumbnail": "/drops/thumbs/06a5ea6bf1b7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "c8d3a4f66c16",
     "f57dd5f263b7",
-    "094b1500b6a8",
+    "a8f2819063e6",
     "04ab6aa04045",
-    "43151d13faa3",
+    "38f41184bc1e",
     "13f97872a04f"
   ]
 }
