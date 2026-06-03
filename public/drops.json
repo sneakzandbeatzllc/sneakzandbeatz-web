@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-03T19:01:07+00:00",
+  "generated_utc": "2026-06-03T19:02:15+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "334c502af707",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Eminem Shady Battle With Real Housewives Stretching To 2027",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/exclusive-eminem-shady-battle-with-real-housewives-stretching-to-2027/",
+      "thumbnail": "/drops/thumbs/334c502af707.jpg",
+      "published": "2026-06-03T15:00:12",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cf6274f7e8e3",
       "pillar": "hiphop",
       "title": "Turkish Government Slam Kanye West Concert Over “I Am A God”  Chants",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/03/cassie-has-permanently-moved-out-of-the-u-s-following-20m-diddy-settlement/",
       "thumbnail": "/drops/thumbs/e85778450ab4.jpg",
       "published": "2026-06-03T10:03:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "51733c3a1d6b",
-      "pillar": "hiphop",
-      "title": "“The Drop: A Snowfall Saga” Set as New Title For Spinoff Series Coming Later This Year on FX and Hulu",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/the-drop-a-snowfall-saga-set-as-new-title-for-spinoff-series-coming-later-this-year-on-fx-and-hulu/",
-      "thumbnail": "/drops/thumbs/51733c3a1d6b.jpg",
-      "published": "2026-06-03T09:53:37",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "cf6274f7e8e3",
+    "334c502af707",
     "6f835bbe3ddc",
     "04ab6aa04045",
     "38f41184bc1e",
