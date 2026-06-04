@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T22:20:29+00:00",
+  "generated_utc": "2026-06-04T23:19:50+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "097c26d4a7b2",
+      "pillar": "hiphop",
+      "title": "Fetty Wap Sends Flowers To  Principal After Yearbook Lyric Disaster",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/fetty-wap-sends-flowers-to-principal-after-yearbook-lyric-disaster/",
+      "thumbnail": "/drops/thumbs/097c26d4a7b2.jpg",
+      "published": "2026-06-04T19:00:18",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4b326d4f21c6",
       "pillar": "hiphop",
       "title": "Cardi B Reveals Multiple Reconciliation Attempts With Latto, Without Much Success",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/04/neil-degrasse-tyson-goes-viral-explaining-why-humanitys-story-begins-in-africa/",
       "thumbnail": "/drops/thumbs/0c6515b2cf58.jpg",
       "published": "2026-06-04T14:31:55",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0b71f8f759ae",
-      "pillar": "hiphop",
-      "title": "Jews Lose: Dutch Court Allows Ye To Perform Despite Push Back",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jews-lose-dutch-court-allows-ye-to-perform-despite-push-back/",
-      "thumbnail": "/drops/thumbs/0b71f8f759ae.jpg",
-      "published": "2026-06-04T14:02:23",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "2524a37888e3",
+      "id": "e92198dbe04d",
       "pillar": "gaming",
-      "title": "News The Witcher, Cyberpunk Dev's Mysterious 'Hadar' Is an 'Immersive' and 'Emotional' Open World Game",
+      "title": "News God of War Laufey Voted Best PS5 Game at State of Play",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/the-witcher-cyberpunk-devs-mysterious-hadar-is-an-immersive-and-emotional-open-world-game",
-      "thumbnail": "/drops/thumbs/2524a37888e3.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-voted-best-ps5-game-at-state-of-play",
+      "thumbnail": "/drops/thumbs/e92198dbe04d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "58f9718df2dc",
+      "id": "2524a37888e3",
       "pillar": "gaming",
-      "title": "News PS5 vs Pepperoni Pizza: New God of War Sparks Tense Exchange Between Sony and Domino's",
+      "title": "News The Witcher, Cyberpunk Dev's Mysterious 'Hadar' Is an 'Immersive' and 'Emotional' Open World Game",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-vs-pepperoni-pizza-new-god-of-war-sparks-tense-exchange-between-sony-and-dominos",
-      "thumbnail": "/drops/thumbs/58f9718df2dc.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/the-witcher-cyberpunk-devs-mysterious-hadar-is-an-immersive-and-emotional-open-world-game",
+      "thumbnail": "/drops/thumbs/2524a37888e3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "f41be302652f",
+      "id": "58f9718df2dc",
       "pillar": "gaming",
-      "title": "News Elden Ring's New Tarnished DLC Pack Locked in for August",
+      "title": "News PS5 vs Pepperoni Pizza: New God of War Sparks Tense Exchange Between Sony and Domino's",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/elden-rings-new-tarnished-dlc-pack-locked-in-for-august",
-      "thumbnail": "/drops/thumbs/f41be302652f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-vs-pepperoni-pizza-new-god-of-war-sparks-tense-exchange-between-sony-and-dominos",
+      "thumbnail": "/drops/thumbs/58f9718df2dc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "4b326d4f21c6",
+    "097c26d4a7b2",
     "6f835bbe3ddc",
     "bfe6133d50ab",
     "38f41184bc1e",
-    "2524a37888e3"
+    "e92198dbe04d"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T22:20:29+00:00",
+  "generated_utc": "2026-06-04T23:19:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Fetty Wap Sends Flowers To  Principal After Yearbook Lyric Disaster",
+      "url": "https://allhiphop.com/news/fetty-wap-sends-flowers-to-principal-after-yearbook-lyric-disaster/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Cardi B Reveals Multiple Reconciliation Attempts With Latto, Without Much Success",
       "url": "https://allhiphop.com/news/cardi-b-reveals-multiple-reconciliation-attempts-with-latto-without-much-success/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Neil deGrasse Tyson Goes Viral Explaining Why Humanity’s Story Begins in Africa",
       "url": "https://thesource.com/2026/06/04/neil-degrasse-tyson-goes-viral-explaining-why-humanitys-story-begins-in-africa/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Jews Lose: Dutch Court Allows Ye To Perform Despite Push Back",
-      "url": "https://allhiphop.com/news/jews-lose-dutch-court-allows-ye-to-perform-despite-push-back/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News The Witcher, Cyberpunk Dev's Mysterious 'Hadar' Is an 'Immersive' and 'Emotional' Open World Game",
-      "url": "https://www.pushsquare.com/news/2026/06/the-witcher-cyberpunk-devs-mysterious-hadar-is-an-immersive-and-emotional-open-world-game",
+      "title": "News God of War Laufey Voted Best PS5 Game at State of Play",
+      "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-voted-best-ps5-game-at-state-of-play",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS5 vs Pepperoni Pizza: New God of War Sparks Tense Exchange Between Sony and Domino's",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-vs-pepperoni-pizza-new-god-of-war-sparks-tense-exchange-between-sony-and-dominos",
+      "title": "News The Witcher, Cyberpunk Dev's Mysterious 'Hadar' Is an 'Immersive' and 'Emotional' Open World Game",
+      "url": "https://www.pushsquare.com/news/2026/06/the-witcher-cyberpunk-devs-mysterious-hadar-is-an-immersive-and-emotional-open-world-game",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News Elden Ring's New Tarnished DLC Pack Locked in for August",
-      "url": "https://www.pushsquare.com/news/2026/06/elden-rings-new-tarnished-dlc-pack-locked-in-for-august",
+      "title": "News PS5 vs Pepperoni Pizza: New God of War Sparks Tense Exchange Between Sony and Domino's",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5-vs-pepperoni-pizza-new-god-of-war-sparks-tense-exchange-between-sony-and-dominos",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
