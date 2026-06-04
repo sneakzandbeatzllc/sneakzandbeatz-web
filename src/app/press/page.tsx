@@ -21,9 +21,7 @@ export const metadata = {
 
 const FACTS: Array<[string, string]> = [
   ["Brand", "Sneakz & Beatz"],
-  ["Operating company", "Sneakz & Beatz LLC"],
-  ["Entity #", "B20260195169 (California)"],
-  ["EIN", "42-2192032"],
+  ["Operating company", "Sneakz & Beatz LLC (California)"],
   ["Founded", "April 23, 2026"],
   ["Headquarters", "San Diego, California"],
   ["Founder · CEO", "PHRHX (Raymond Miller)"],
@@ -75,7 +73,7 @@ export default function PressPage() {
           <h2 className="press-h2">About</h2>
           <p className="press-p">
             Sneakz &amp; Beatz is operated by <strong>Sneakz &amp; Beatz LLC</strong>,
-            a California limited liability company (Entity #B20260195169) headquartered
+            a California limited liability company headquartered
             in San Diego. The brand publishes a daily culture feed at sneakzandbeatz.com,
             runs a producer-grade 96-beat catalog (the Beat Store with $34.99 leases +
             $79 Vault Bundle + $10K Rap Challenge), hosts <em>The PHRHX Show</em> on

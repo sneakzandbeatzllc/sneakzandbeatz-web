@@ -65,7 +65,7 @@ export default function RapChallengeRulesPage() {
             <p>
               The &ldquo;$10K Rap Challenge&rdquo; (&ldquo;Promotion&rdquo;) is sponsored by{" "}
               <strong>Sneakz &amp; Beatz LLC</strong> (&ldquo;Sponsor&rdquo;), a California
-              limited liability company (Entity #B20260195169). Mailing address:
+              limited liability company. Mailing address:
               7465 Mission Gorge Road, Suite 142, San Diego, CA 92120.
             </p>
           </section>

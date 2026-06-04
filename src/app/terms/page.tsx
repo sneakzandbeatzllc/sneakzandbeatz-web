@@ -38,8 +38,8 @@ export default function TermsPage() {
           <h2>1. Agreement</h2>
           <p>
             These Terms of Service ("Terms") form a binding agreement between you and
-            Sneakz &amp; Beatz LLC, a California limited liability company (Entity
-            #B20260195169) doing business as "Sneakz &amp; Beatz" ("S&amp;B", "we", "us").
+            Sneakz &amp; Beatz LLC, a California limited liability company
+            doing business as "Sneakz &amp; Beatz" ("S&amp;B", "we", "us").
             They govern your use of sneakzandbeatz.com, related subdomains, our newsletter,
             and any beat or bundle you purchase from us. If you don't agree with any of the
             Terms, please do not use the site.

@@ -37,7 +37,7 @@ export default function PrivacyPage() {
           <h2>1. Who we are</h2>
           <p>
             "Sneakz &amp; Beatz" is a brand operated by Sneakz &amp; Beatz LLC ("S&amp;B",
-            "we", "us"), a California limited liability company (Entity #B20260195169). This
+            "we", "us"), a California limited liability company. This
             Privacy Policy applies to the website at sneakzandbeatz.com and to email
             newsletters, beat-store transactions, and customer-support correspondence we
             conduct under the Sneakz &amp; Beatz brand.
@@ -178,8 +178,7 @@ export default function PrivacyPage() {
             <strong>Sneakz &amp; Beatz LLC</strong><br />
             7465 Mission Gorge Road, Suite 142<br />
             San Diego, CA 92120<br />
-            <em>(Entity #B20260195169 with the California Secretary of State — see{" "}
-            <Link href="/contact">contact</Link>.)</em>
+            <em>(See <Link href="/contact">contact</Link>.)</em>
           </p>
         </section>
 
