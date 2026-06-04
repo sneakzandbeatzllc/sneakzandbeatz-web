@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T15:19:55+00:00",
+  "generated_utc": "2026-06-04T15:44:13+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -13,6 +13,30 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "2026-06-01T22:47:18",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "a3e23bbf57cc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
+      "published": "2026-06-01T17:50:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "6f835bbe3ddc",
@@ -75,27 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "8a2bf5f3a799",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
-      "published": "2026-06-02T16:04:05",
+      "id": "a09dc34f86a3",
+      "pillar": "hiphop",
+      "title": "George Clinton To Unveil New Mothership For Essence Festival 2026: “It’s Going To Fly Forever”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/george-clinton-to-unveil-new-mothership-for-essence-festival-2026-its-going-to-fly-forever/",
+      "thumbnail": "/drops/thumbs/a09dc34f86a3.jpg",
+      "published": "2026-06-04T11:30:00",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6d8d7bd4256c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
-      "thumbnail": "/drops/thumbs/6d8d7bd4256c.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/04/asap-rocky-reflects-home-security-incident-family/",
       "thumbnail": "/drops/thumbs/2bcccf0025eb.jpg",
       "published": "2026-06-04T07:39:02",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "821fe6b7316e",
-      "pillar": "hiphop",
-      "title": "FX Unveils ‘The Drop: A Snowfall Saga’ Spinoff Set in 1990s Los Angeles",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/04/he-drop-a-snowfall-saga-fx-spinoff/",
-      "thumbnail": "/drops/thumbs/821fe6b7316e.jpg",
-      "published": "2026-06-04T04:40:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "e11ecb62f065",
-    "6f835bbe3ddc",
+    "a09dc34f86a3",
+    "094b1500b6a8",
     "fd98eab68769",
-    "38f41184bc1e",
+    "a3e23bbf57cc",
     "dba89ee5e6a7"
   ]
 }
