@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T08:11:01+00:00",
+  "generated_utc": "2026-06-04T08:28:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -88,6 +88,13 @@
       "article_slug": null
     },
     {
+      "title": "How Kendrick Lamar’s Furniture Choices Became One of Hip-Hop’s Most Bold Statements",
+      "url": "https://allhiphop.com/uncategorized/kendrick-lamar-furniture-choices-one-of-hip-hops-most-bold-statements/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "EXCLUSIVE: Roc Nation Pounces On Tyrone Blackburn For Sanctions In $20M Battle Over Fat Joe Allegations",
       "url": "https://allhiphop.com/news/exclusive-roc-nation-pounces-on-tyrone-blackburn-for-sanctions-20m-battle-over-fat-joe-allegations/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "EXCLUSIVE: Eminem Shady Battle With Real Housewives Stretching To 2027",
       "url": "https://allhiphop.com/news/exclusive-eminem-shady-battle-with-real-housewives-stretching-to-2027/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Turkish Government Slam Kanye West Concert Over “I Am A God”  Chants",
-      "url": "https://allhiphop.com/news/turkish-government-slam-kanye-west-concert-over-i-am-a-god-chants/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "This 13-part sci-fi thriller is so good cyberpunk fans will binge it in one night",
-      "url": "https://www.polygon.com/one-of-animes-greatest-mind-benders-is-still-bingeworthy-nearly-30-years-after-release/",
+      "title": "The Kagurabachi World Tour will premiere the anime's first episode this summer",
+      "url": "https://www.polygon.com/kagurabachi-anime-world-tour-premiere-episode/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Death Battle!’s Yuji vs. Denji is the best analysis of these characters I’ve seen in a while",
-      "url": "https://www.polygon.com/death-battle-yuji-vs-denji-winner-character-analysis/",
+      "title": "This 13-part sci-fi thriller is so good cyberpunk fans will binge it in one night",
+      "url": "https://www.polygon.com/one-of-animes-greatest-mind-benders-is-still-bingeworthy-nearly-30-years-after-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News 'We Have Many More Stories to Tell with Kratos': Sony Confirms New Games with God of War's Protagonist",
-      "url": "https://www.pushsquare.com/news/2026/06/we-have-many-more-stories-to-tell-with-kratos-sony-confirms-new-games-with-god-of-wars-protagonist",
+      "title": "News Anticipated Avatar Fighting Game Delayed, But Only 3 Weeks",
+      "url": "https://www.pushsquare.com/news/2026/06/anticipated-avatar-fighting-game-delayed-but-only-3-weeks",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Anticipated Avatar Fighting Game Delayed, But Only 3 Weeks",
-      "url": "https://www.pushsquare.com/news/2026/06/anticipated-avatar-fighting-game-delayed-but-only-3-weeks",
+      "title": "Crystal Dynamics Promises Tomb Raider: Legacy Of Atlantis’ Final Work Was “Human-Crafted” After Using AI Tools",
+      "url": "https://gameranx.com/updates/id/562919/article/crystal-dynamics-promises-tomb-raider-legacy-of-atlantis-final-work-was-human-crafted-after-using-ai-tools/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
