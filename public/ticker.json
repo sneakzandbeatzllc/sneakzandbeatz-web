@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T01:59:38+00:00",
+  "generated_utc": "2026-06-04T02:51:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Netflix's Chainsaw Man Meets Berserk Dark Fantasy Masterpiece Is So Good, It's Already Renewed For A Third Season",
+      "url": "https://screenrant.com/dorohedoro-chainsaw-man-berserk-dark-fantasy-anime-netflix/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Every Major Chainsaw Man Devil Definitively Ranked From Weakest To Strongest",
       "url": "https://screenrant.com/chainsaw-man-strongest-devils-ranked-weakest-strongest-list/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "Death Battle!’s Yuji vs. Denji is the best analysis of these characters I’ve seen in a while",
       "url": "https://www.polygon.com/death-battle-yuji-vs-denji-winner-character-analysis/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Shigemitsu Harada, Takumi Kobayashi Launch New Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/shigemitsu-harada-takumi-kobayashi-launch-new-manga/.238063",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
