@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T14:11:13+00:00",
+  "generated_utc": "2026-06-04T14:15:53+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "04b02046b873",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: Nas Dropped “If I Ruled The World(Imagine That)” Feat. Lauryn Hill 30 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/04/today-in-hip-hop-history-nas-dropped-if-i-ruled-the-worldimagine-that-single-feat-lauryn-hill-30-years-ago/",
+      "thumbnail": "/drops/thumbs/04b02046b873.jpg",
+      "published": "2026-06-04T10:03:58",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d239be325ebf",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: The Lost Boyz’s Debut LP ‘Legal Drug Money’ Turns 30 Years Old!",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/04/today-in-hip-hop-history-the-lost-boyzs-debut-lp-legal-drug-money-turns-30-years-old/",
+      "thumbnail": "/drops/thumbs/d239be325ebf.jpg",
+      "published": "2026-06-04T09:56:20",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2bcccf0025eb",
       "pillar": "hiphop",
       "title": "A$AP Rocky Reflects on Family’s Lost Sense of Peace After Home Security Scare",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/06/04/how-mobile-technology-is-shaping-the-future-of-gaming/",
       "thumbnail": "/drops/thumbs/d53add91bc23.jpg",
       "published": "2026-06-04T01:24:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e85778450ab4",
-      "pillar": "hiphop",
-      "title": "Cassie Has Permanently Moved Out Of The U.S. Following $20M Diddy Settlement",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/cassie-has-permanently-moved-out-of-the-u-s-following-20m-diddy-settlement/",
-      "thumbnail": "/drops/thumbs/e85778450ab4.jpg",
-      "published": "2026-06-03T10:03:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "51733c3a1d6b",
-      "pillar": "hiphop",
-      "title": "“The Drop: A Snowfall Saga” Set as New Title For Spinoff Series Coming Later This Year on FX and Hulu",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/the-drop-a-snowfall-saga-set-as-new-title-for-spinoff-series-coming-later-this-year-on-fx-and-hulu/",
-      "thumbnail": "/drops/thumbs/51733c3a1d6b.jpg",
-      "published": "2026-06-03T09:53:37",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "2bcccf0025eb",
+    "04b02046b873",
     "094b1500b6a8",
     "fd98eab68769",
     "a3e23bbf57cc",
