@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T14:18:39+00:00",
+  "generated_utc": "2026-06-04T14:41:57+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "24a9b1dd2a11",
+      "pillar": "hiphop",
+      "title": "Doja Cat Roasts “Hairless No-Neck Having Chimpanzee” Elon Musk On X",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/doja-cat-roasts-hairless-no-neck-having-chimpanzee-elon-musk-on-x/",
+      "thumbnail": "/drops/thumbs/24a9b1dd2a11.jpg",
+      "published": "2026-06-04T10:16:50",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "04b02046b873",
       "pillar": "hiphop",
       "title": "Today In Hip Hop History: Nas Dropped “If I Ruled The World(Imagine That)” Feat. Lauryn Hill 30 Years Ago",
@@ -118,6 +130,30 @@
       "source_url": "https://thesource.com/2026/06/04/today-in-hip-hop-history-the-lost-boyzs-debut-lp-legal-drug-money-turns-30-years-old/",
       "thumbnail": "/drops/thumbs/d239be325ebf.jpg",
       "published": "2026-06-04T09:56:20",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "31a2453b218a",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Milagro Gramz Begs Judge For Mercy From Megan Thee Stallion’s $75K Wrath",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/exclusive-milagro-gramz-begs-judge-for-mercy-from-megan-thee-stallions-75k-wrath/",
+      "thumbnail": "/drops/thumbs/31a2453b218a.jpg",
+      "published": "2026-06-04T09:14:03",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d8359c7b3368",
+      "pillar": "hiphop",
+      "title": "Can Jay-Z Still Go No. 1 in the Streaming Era?",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/can-jay-z-still-go-no-1-in-the-streaming-era/",
+      "thumbnail": "/drops/thumbs/d8359c7b3368.jpg",
+      "published": "2026-06-04T08:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -159,48 +195,36 @@
       "release_badge": ""
     },
     {
-      "id": "3092a80d9ff5",
-      "pillar": "hiphop",
-      "title": "Jimmy Jam & Terry Lewis Bring ‘Nothing But Hits’ Back to Las Vegas for 10 New Shows",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/04/jimmy-jam-terry-lewis-nothing-but-hits-las-vegas/",
-      "thumbnail": "/drops/thumbs/3092a80d9ff5.jpg",
-      "published": "2026-06-04T04:26:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "34f44ca82d8d",
-      "pillar": "hiphop",
-      "title": "Summer Walker Makes Brooklyn Headlining Debut at Barclays Center on ‘Still Finally Over It’ Tour",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/04/summer-walker-barclays-center-still-finally-over-it-tour/",
-      "thumbnail": "/drops/thumbs/34f44ca82d8d.jpg",
-      "published": "2026-06-04T04:26:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d53add91bc23",
-      "pillar": "hiphop",
-      "title": "How Mobile Technology Is Shaping the Future of Gaming",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/04/how-mobile-technology-is-shaping-the-future-of-gaming/",
-      "thumbnail": "/drops/thumbs/d53add91bc23.jpg",
-      "published": "2026-06-04T01:24:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "fd98eab68769",
       "pillar": "anime",
       "title": "34 Years Later, Crunchyroll's Best '90s Anime Is Still The Hit Shonen That's Dragon Ball Meets Jujutsu Kaisen",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/yuyu-hakusho-1992-best-anime-dragon-ball-meets-jujutsu-kaisen/",
       "thumbnail": "/drops/thumbs/fd98eab68769.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8dd97c644d1e",
+      "pillar": "anime",
+      "title": "Netflix's One Piece Season 3 Will Change How You See Luffy Forever",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-season-3-netflix-luffy-change/",
+      "thumbnail": "/drops/thumbs/8dd97c644d1e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3424610e8bb6",
+      "pillar": "anime",
+      "title": "After 11 Years, Japan Is Officially Ending Black Clover With One Last Epic Release",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/after-11-years-japan-is-officially-ending-black-clover-with-one-last-epic-release/",
+      "thumbnail": "/drops/thumbs/3424610e8bb6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,24 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "07abb0d64446",
+      "id": "132590eaa49e",
       "pillar": "anime",
-      "title": "Netflix's One Piece Is Secretly Making The Entire Franchise Better... No, Really",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-netflix-franchise-better-oda/",
-      "thumbnail": "/drops/thumbs/07abb0d64446.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "583f480a76ab",
-      "pillar": "anime",
-      "title": "Seimaru Amagi, Rima Amamiya's Gifted Manga Gets Anime in 2027",
+      "title": "Luna Night's Hiru Morino, Miss Bernard said.'s Yūki Shikawa Launch New Manga Next Month",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/seimaru-amagi-rima-amamiya-gifted-manga-gets-anime-in-2027/.238136",
-      "thumbnail": "/drops/thumbs/583f480a76ab.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/luna-night-hiru-morino-miss-bernard-said.s-yuki-shikawa-launch-new-manga-next-month/.238037",
+      "thumbnail": "/drops/thumbs/132590eaa49e.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,36 +279,36 @@
       "release_badge": ""
     },
     {
-      "id": "2855b6ce2f02",
+      "id": "583f480a76ab",
       "pillar": "anime",
-      "title": "The Cat and the Dragon Anime Unveils 1st Promo Video, 3 More Cast Members, July 4 Debut",
+      "title": "Seimaru Amagi, Rima Amamiya's Gifted Manga Gets Anime in 2027",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/the-cat-and-the-dragon-anime-unveils-1st-promo-video-3-more-cast-members-july-4-debut/.238134",
-      "thumbnail": "/drops/thumbs/2855b6ce2f02.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/seimaru-amagi-rima-amamiya-gifted-manga-gets-anime-in-2027/.238136",
+      "thumbnail": "/drops/thumbs/583f480a76ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "5f541521de21",
-      "pillar": "anime",
-      "title": "This 13-part sci-fi thriller is so good cyberpunk fans will binge it in one night",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/one-of-animes-greatest-mind-benders-is-still-bingeworthy-nearly-30-years-after-release/",
-      "thumbnail": "/drops/thumbs/5f541521de21.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1feefcd555b3",
+      "id": "f4396be3774f",
       "pillar": "gaming",
-      "title": "Summer Preview God of War Laufey is exactly how I want the series' combat to evolve",
+      "title": "Rumour Final Fantasy 7 Remake Part 3 Reveal Is a Lock for Summer Game Fest",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/rumour-final-fantasy-7-remake-part-3-reveal-is-a-lock-for-summer-game-fest",
+      "thumbnail": "/drops/thumbs/f4396be3774f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c21fc7dca242",
+      "pillar": "gaming",
+      "title": "New Elden Ring DLC and Nintendo Switch 2 Tarnished Edition finally get a release date",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-is-exactly-how-i-want-the-series-combat-to-evolve-from-the-return-of-aerial-combos-to-hitting-dudes-so-hard-their-souls-fly-out/",
-      "thumbnail": "/drops/thumbs/1feefcd555b3.jpg",
+      "source_url": "https://www.gamesradar.com/games/action-rpg/new-elden-ring-dlc-and-nintendo-switch-2-tarnished-edition-finally-get-a-release-date/",
+      "thumbnail": "/drops/thumbs/c21fc7dca242.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "f2390ee04688",
+      "id": "e9c17224de3e",
       "pillar": "gaming",
-      "title": "I Hope Kratos Doesn’t Show Up Anymore In God of War Laufey",
+      "title": "In Less Than A Day, God Of War Laufey Has Created One Of The Fandom’s Funniest Memes",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/i-hope-kratos-doesnt-show-up-anymore-in-god-of-war-laufey-2000702440",
-      "thumbnail": "/drops/thumbs/f2390ee04688.jpg",
+      "source_url": "https://kotaku.com/god-of-war-laufey-kratos-atreus-faye-mother-grief-jokes-2000702119",
+      "thumbnail": "/drops/thumbs/e9c17224de3e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,36 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "afc032856249",
+      "id": "f2390ee04688",
       "pillar": "gaming",
-      "title": "Like The Witcher 4 and Cyberpunk 2, CDPR's new IP Hadar is \"an emotional, open-world experience\"",
+      "title": "I Hope Kratos Doesn’t Show Up Anymore In God of War Laufey",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/i-hope-kratos-doesnt-show-up-anymore-in-god-of-war-laufey-2000702440",
+      "thumbnail": "/drops/thumbs/f2390ee04688.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1feefcd555b3",
+      "pillar": "gaming",
+      "title": "Summer Preview God of War Laufey is exactly how I want the series' combat to evolve",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/like-the-witcher-4-and-cyberpunk-2-cd-projekt-reds-new-ip-hadar-is-an-emotional-open-world-experience/",
-      "thumbnail": "/drops/thumbs/afc032856249.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "78cac2fe29a0",
-      "pillar": "gaming",
-      "title": "News Amazon Is Stepping in to Publish Future James Bond Games After Smash Hit 007 First Light",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/amazon-is-stepping-in-to-publish-future-james-bond-games-after-smash-hit-007-first-light",
-      "thumbnail": "/drops/thumbs/78cac2fe29a0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f66fd37ae292",
-      "pillar": "gaming",
-      "title": "Preview Ace Combat 8: Wings of Theve - Journal of an FCU Pilot in Training",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/previews/ace-combat-8-wings-of-theve-journal-of-an-fcu-pilot-in-training",
-      "thumbnail": "/drops/thumbs/f66fd37ae292.jpg",
+      "source_url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-is-exactly-how-i-want-the-series-combat-to-evolve-from-the-return-of-aerial-combos-to-hitting-dudes-so-hard-their-souls-fly-out/",
+      "thumbnail": "/drops/thumbs/1feefcd555b3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "04b02046b873",
+    "24a9b1dd2a11",
     "6f835bbe3ddc",
     "fd98eab68769",
     "38f41184bc1e",
-    "1feefcd555b3"
+    "f4396be3774f"
   ]
 }
