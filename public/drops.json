@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T09:00:11+00:00",
+  "generated_utc": "2026-06-04T09:05:08+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -17,26 +17,38 @@
     {
       "id": "094b1500b6a8",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "title": "Air Jordan 3 \"BIN 23\"",
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
       "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-01T22:47:18",
+      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "a3e23bbf57cc",
+      "id": "43151d13faa3",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-01T17:50:18",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
     },
     {
       "id": "6f835bbe3ddc",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-tour-yellow-2026/",
       "thumbnail": "/drops/thumbs/0e7f7e8527c2.jpg",
       "published": "2026-06-03T11:59:25",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5234d80d2441",
-      "pillar": "sneakers",
-      "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
-      "thumbnail": "/drops/thumbs/5234d80d2441.jpg",
-      "published": "2026-06-03T00:52:26",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "c77610ac7c73",
+      "id": "457fa4ad5d7e",
       "pillar": "anime",
-      "title": "Crunchyroll Debuts 12 'Mini-Episodes' of Smoking Behind the Supermarket with You Anime Ahead of July Premiere",
+      "title": "Mebius Dust Anime's 1st Main Trailer Unveils More Cast & Staff Members, Ending Song, July 9 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/crunchyroll-debuts-12-mini-episodes-of-smoking-behind-the-supermarket-with-you-anime-ahead-of-july-/.238124",
-      "thumbnail": "/drops/thumbs/c77610ac7c73.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/mebius-dust-anime-1st-main-trailer-unveils-more-cast-and-staff-members-ending-song-july-9-debut/.238122",
+      "thumbnail": "/drops/thumbs/457fa4ad5d7e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "801ac1039a30",
+      "id": "c77610ac7c73",
       "pillar": "anime",
-      "title": "Cyborg 009: Nemesis Anime Casts Saori Hayami as Cyborg 003",
+      "title": "Crunchyroll Debuts 12 'Mini-Episodes' of Smoking Behind the Supermarket with You Anime Ahead of July Premiere",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/cyborg-009-nemesis-anime-casts-saori-hayami-as-cyborg-003/.238120",
-      "thumbnail": "/drops/thumbs/801ac1039a30.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/crunchyroll-debuts-12-mini-episodes-of-smoking-behind-the-supermarket-with-you-anime-ahead-of-july-/.238124",
+      "thumbnail": "/drops/thumbs/c77610ac7c73.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -392,7 +392,7 @@
     "dc299e70917d",
     "094b1500b6a8",
     "fd98eab68769",
-    "a3e23bbf57cc",
+    "43151d13faa3",
     "79c2145e1157"
   ]
 }
