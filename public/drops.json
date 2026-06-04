@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T13:14:23+00:00",
+  "generated_utc": "2026-06-04T13:17:22+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d8359c7b3368",
+      "pillar": "hiphop",
+      "title": "Can Jay-Z Still Go No. 1 in the Streaming Era?",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/can-jay-z-still-go-no-1-in-the-streaming-era/",
+      "thumbnail": "/drops/thumbs/d8359c7b3368.jpg",
+      "published": "2026-06-04T08:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2bcccf0025eb",
       "pillar": "hiphop",
       "title": "A$AP Rocky Reflects on Family’s Lost Sense of Peace After Home Security Scare",
@@ -171,25 +183,13 @@
       "release_badge": ""
     },
     {
-      "id": "e85778450ab4",
+      "id": "dc299e70917d",
       "pillar": "hiphop",
-      "title": "Cassie Has Permanently Moved Out Of The U.S. Following $20M Diddy Settlement",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/cassie-has-permanently-moved-out-of-the-u-s-following-20m-diddy-settlement/",
-      "thumbnail": "/drops/thumbs/e85778450ab4.jpg",
-      "published": "2026-06-03T10:03:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "51733c3a1d6b",
-      "pillar": "hiphop",
-      "title": "“The Drop: A Snowfall Saga” Set as New Title For Spinoff Series Coming Later This Year on FX and Hulu",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/03/the-drop-a-snowfall-saga-set-as-new-title-for-spinoff-series-coming-later-this-year-on-fx-and-hulu/",
-      "thumbnail": "/drops/thumbs/51733c3a1d6b.jpg",
-      "published": "2026-06-03T09:53:37",
+      "title": "EXCLUSIVE: Feds Planning To Charge Lil Durk With New Racketeering Murder Charges In Federal Case",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/feds-planning-to-charge-lil-durk-with-new-racketeering-murder-charges/",
+      "thumbnail": "/drops/thumbs/dc299e70917d.jpg",
+      "published": "2026-06-03T20:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "2bcccf0025eb",
+    "d8359c7b3368",
     "094b1500b6a8",
     "fd98eab68769",
     "43151d13faa3",
