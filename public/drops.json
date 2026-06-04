@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T11:15:05+00:00",
+  "generated_utc": "2026-06-04T11:35:02+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -17,38 +17,26 @@
     {
       "id": "094b1500b6a8",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
       "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
+      "published": "2026-06-01T22:47:18",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "43151d13faa3",
+      "id": "a3e23bbf57cc",
       "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
+      "published": "2026-06-01T17:50:18",
       "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "6f835bbe3ddc",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-tour-yellow-2026/",
       "thumbnail": "/drops/thumbs/0e7f7e8527c2.jpg",
       "published": "2026-06-03T11:59:25",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5234d80d2441",
+      "pillar": "sneakers",
+      "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
+      "thumbnail": "/drops/thumbs/5234d80d2441.jpg",
+      "published": "2026-06-03T00:52:26",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "fd0b3f7b4cef",
+      "id": "9459786917bf",
       "pillar": "gaming",
-      "title": "Persona 4 Revival Gets Xbox Store Listing & ESRB Rating",
+      "title": "Rumor: God Of War Laufey Releasing The First Half Of 2027",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562923/article/persona-4-revival-gets-xbox-store-listing-esrb-rating/",
-      "thumbnail": "/drops/thumbs/fd0b3f7b4cef.jpg",
+      "source_url": "https://gameranx.com/updates/id/562930/article/rumor-god-of-war-laufey-releasing-the-first-half-of-2027/",
+      "thumbnail": "/drops/thumbs/9459786917bf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -345,6 +345,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-star-deborah-ann-woll-says-kratos-gameplay-is-so-fantastic-because-hes-such-a-heavy-hitter-but-new-protagonist-faye-is-just-as-strong-and-just-as-good-a-warrior/",
       "thumbnail": "/drops/thumbs/68a5f5141f01.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fd0b3f7b4cef",
+      "pillar": "gaming",
+      "title": "Persona 4 Revival Gets Xbox Store Listing & ESRB Rating",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562923/article/persona-4-revival-gets-xbox-store-listing-esrb-rating/",
+      "thumbnail": "/drops/thumbs/fd0b3f7b4cef.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "a83ae66453c9",
-      "pillar": "gaming",
-      "title": "Rumor: Nintendo Direct Happening Tuesday Next Week",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562928/article/rumor-nintendo-direct-happening-tuesday-next-week/",
-      "thumbnail": "/drops/thumbs/a83ae66453c9.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -392,7 +392,7 @@
     "dc299e70917d",
     "094b1500b6a8",
     "fd98eab68769",
-    "43151d13faa3",
+    "a3e23bbf57cc",
     "79c2145e1157"
   ]
 }
