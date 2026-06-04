@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T14:10:23+00:00",
+  "generated_utc": "2026-06-04T14:11:13+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,30 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "31a2453b218a",
-      "pillar": "hiphop",
-      "title": "EXCLUSIVE: Milagro Gramz Begs Judge For Mercy From Megan Thee Stallion’s $75K Wrath",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/exclusive-milagro-gramz-begs-judge-for-mercy-from-megan-thee-stallions-75k-wrath/",
-      "thumbnail": "/drops/thumbs/31a2453b218a.jpg",
-      "published": "2026-06-04T09:14:03",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d8359c7b3368",
-      "pillar": "hiphop",
-      "title": "Can Jay-Z Still Go No. 1 in the Streaming Era?",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/can-jay-z-still-go-no-1-in-the-streaming-era/",
-      "thumbnail": "/drops/thumbs/d8359c7b3368.jpg",
-      "published": "2026-06-04T08:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2bcccf0025eb",
       "pillar": "hiphop",
       "title": "A$AP Rocky Reflects on Family’s Lost Sense of Peace After Home Security Scare",
@@ -190,6 +166,30 @@
       "source_url": "https://thesource.com/2026/06/04/how-mobile-technology-is-shaping-the-future-of-gaming/",
       "thumbnail": "/drops/thumbs/d53add91bc23.jpg",
       "published": "2026-06-04T01:24:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e85778450ab4",
+      "pillar": "hiphop",
+      "title": "Cassie Has Permanently Moved Out Of The U.S. Following $20M Diddy Settlement",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/cassie-has-permanently-moved-out-of-the-u-s-following-20m-diddy-settlement/",
+      "thumbnail": "/drops/thumbs/e85778450ab4.jpg",
+      "published": "2026-06-03T10:03:57",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "51733c3a1d6b",
+      "pillar": "hiphop",
+      "title": "“The Drop: A Snowfall Saga” Set as New Title For Spinoff Series Coming Later This Year on FX and Hulu",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/03/the-drop-a-snowfall-saga-set-as-new-title-for-spinoff-series-coming-later-this-year-on-fx-and-hulu/",
+      "thumbnail": "/drops/thumbs/51733c3a1d6b.jpg",
+      "published": "2026-06-03T09:53:37",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "31a2453b218a",
+    "2bcccf0025eb",
     "094b1500b6a8",
     "fd98eab68769",
     "a3e23bbf57cc",
