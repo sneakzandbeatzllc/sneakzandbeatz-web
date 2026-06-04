@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T16:21:16+00:00",
+  "generated_utc": "2026-06-04T17:15:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -46,17 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "EXCLUSIVE: Cardi B Hits Tasha K With $110K Attorneys’ Fees Bill After Lawyer’s  AI Slop Backfire",
+      "url": "https://allhiphop.com/news/exclusive-cardi-b-hits-tasha-k-with-110k-attorneys-fees-bill-after-lawyers-ai-slop-backfire/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Today In Hip Hop History: The Lost Boyz’s Debut LP ‘Legal Drug Money’ Turns 30 Years Old!",
       "url": "https://thesource.com/2026/06/04/today-in-hip-hop-history-the-lost-boyzs-debut-lp-legal-drug-money-turns-30-years-old/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "EXCLUSIVE: Milagro Gramz Begs Judge For Mercy From Megan Thee Stallion’s $75K Wrath",
-      "url": "https://allhiphop.com/news/exclusive-milagro-gramz-begs-judge-for-mercy-from-megan-thee-stallions-75k-wrath/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "After Performance Troubles And A Delay, Elden Ring Is Finally Coming To Switch 2",
-      "url": "https://kotaku.com/elden-ring-switch-2-tarnished-edition-release-date-shadow-2000702487",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News God of War Laufey Is Much Closer to Releasing on PS5 Than You Think",
       "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-is-much-closer-to-releasing-on-ps5-than-you-think",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Rumour Final Fantasy 7 Remake Part 3 Reveal Is a Lock for Summer Game Fest",
       "url": "https://www.pushsquare.com/news/2026/06/rumour-final-fantasy-7-remake-part-3-reveal-is-a-lock-for-summer-game-fest",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Features The 9 God of War collectibles to see you through the wait for Laufey",
+      "url": "https://www.gamesradar.com/games/god-of-war/the-9-god-of-war-collectibles-to-see-you-through-the-wait-for-laufey/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
