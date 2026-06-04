@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T08:28:47+00:00",
+  "generated_utc": "2026-06-04T09:00:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Cyborg 009: Nemesis Anime Casts Saori Hayami as Cyborg 003",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-04/cyborg-009-nemesis-anime-casts-saori-hayami-as-cyborg-003/.238120",
+      "title": "Crunchyroll Debuts 12 'Mini-Episodes' of Smoking Behind the Supermarket with You Anime Ahead of July Premiere",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-04/crunchyroll-debuts-12-mini-episodes-of-smoking-behind-the-supermarket-with-you-anime-ahead-of-july-/.238124",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Squid Girl's Masahiro Anbe to Launch Badokon! Badminton Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-03/squid-girl-masahiro-anbe-to-launch-badokon-badminton-manga/.238114",
+      "title": "Cyborg 009: Nemesis Anime Casts Saori Hayami as Cyborg 003",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-04/cyborg-009-nemesis-anime-casts-saori-hayami-as-cyborg-003/.238120",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "God Of War Laufey Officially Revealed",
-      "url": "https://gameranx.com/updates/id/562892/article/god-of-war-laufey-officially-revealed/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Final Fantasy 7 Rebirth Cheats Live Now in New PS5 Patch",
       "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-rebirth-cheats-live-now-in-new-ps5-patch",
       "pillar": "gaming",
@@ -216,6 +209,13 @@
     {
       "title": "News Anticipated Avatar Fighting Game Delayed, But Only 3 Weeks",
       "url": "https://www.pushsquare.com/news/2026/06/anticipated-avatar-fighting-game-delayed-but-only-3-weeks",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Bungie Pulls A Fast One On Players Who Bought Marathon Deluxe Edition On Season 2 “Discount”",
+      "url": "https://gameranx.com/updates/id/562921/article/bungie-pulls-a-fast-one-on-players-who-bought-marathon-deluxe-edition-on-season-2-discount/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
