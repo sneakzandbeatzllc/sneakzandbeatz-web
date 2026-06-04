@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T13:38:53+00:00",
+  "generated_utc": "2026-06-04T14:10:23+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -41,20 +55,6 @@
     {
       "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
       "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Preview Ace Combat 8: Wings of Theve - Journal of an FCU Pilot in Training",
-      "url": "https://www.pushsquare.com/previews/ace-combat-8-wings-of-theve-journal-of-an-fcu-pilot-in-training",
+      "title": "News Amazon Is Stepping in to Publish Future James Bond Games After Smash Hit 007 First Light",
+      "url": "https://www.pushsquare.com/news/2026/06/amazon-is-stepping-in-to-publish-future-james-bond-games-after-smash-hit-007-first-light",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Live Service MMO Horizon Steel Frontiers Delayed Until 2027",
-      "url": "https://www.pushsquare.com/news/2026/06/live-service-mmo-horizon-steel-frontiers-delayed-until-2027",
+      "title": "Preview Ace Combat 8: Wings of Theve - Journal of an FCU Pilot in Training",
+      "url": "https://www.pushsquare.com/previews/ace-combat-8-wings-of-theve-journal-of-an-fcu-pilot-in-training",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
