@@ -2,16 +2,19 @@
  * PHRHXShow.tsx
  *
  * Homepage section. Pulls the latest 3 videos from the The PHRHX Show
- * YouTube channel via RSS. Renders thumbnail + play overlay; clicking
- * opens the YouTube watch page in a new tab.
+ * YouTube channel via RSS, then filters out anything older than 365
+ * days so a sparse upload schedule doesn't put a year-old episode in
+ * the featured grid.
  *
- * Fallback: if the YouTube fetch fails or returns 0 videos, renders 3
- * branded placeholder cards (each linking to the YouTube channel) so
- * the homepage never ships with bare empty cards.
+ * Fallback: if the YouTube fetch fails or returns 0 videos, renders
+ * up to 2 branded fallback cards (each linking to the YouTube channel)
+ * so the homepage never ships with bare empty cards.
  *
  * Fetches 3 (not 4) so it fits cleanly in the 3-column auto-fit grid
  * without orphan-wrapping the 4th card to a new row.
  */
+
+const FRESHNESS_DAYS = 365;
 
 import Link from "next/link";
 import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
@@ -42,22 +45,6 @@ const FALLBACK_EPISODES: Episode[] = [
     publishedLabel: "",
     isReal: true,
   },
-  {
-    id: "MpvEDKUeNes",
-    title: "Rap's BIGGEST Flop Stars of 2025!",
-    href: "https://www.youtube.com/watch?v=MpvEDKUeNes",
-    thumbnail: "https://i.ytimg.com/vi/MpvEDKUeNes/hqdefault.jpg",
-    publishedLabel: "",
-    isReal: true,
-  },
-  {
-    id: "YamAo3IAhao",
-    title: "Sneakz & Beatz Live Stream",
-    href: "https://www.youtube.com/watch?v=YamAo3IAhao",
-    thumbnail: "https://i.ytimg.com/vi/YamAo3IAhao/hqdefault.jpg",
-    publishedLabel: "",
-    isReal: true,
-  },
 ];
 
 function videoToEpisode(v: YouTubeVideo): Episode {
@@ -73,8 +60,17 @@ function videoToEpisode(v: YouTubeVideo): Episode {
 
 export default async function PHRHXShow() {
   const videos = await fetchYouTubeVideos(undefined, 3);
+  // Drop anything older than FRESHNESS_DAYS so a stale Jan-2025 episode
+  // doesn't appear as a "featured" homepage card alongside one from
+  // yesterday. If the channel goes quiet for a year we fall back to the
+  // hardcoded fallback cards.
+  const cutoffMs = Date.now() - FRESHNESS_DAYS * 24 * 60 * 60 * 1000;
+  const fresh = videos.filter((v) => {
+    const ts = v.publishedAt ? Date.parse(v.publishedAt) : NaN;
+    return Number.isFinite(ts) && ts >= cutoffMs;
+  });
   const episodes: Episode[] =
-    videos.length > 0 ? videos.map(videoToEpisode) : FALLBACK_EPISODES;
+    fresh.length > 0 ? fresh.map(videoToEpisode) : FALLBACK_EPISODES;
 
   return (
     <section className="show-section" id="show">

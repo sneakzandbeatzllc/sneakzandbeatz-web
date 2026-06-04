@@ -74,7 +74,7 @@ export default function ShopPage() {
                 <span className="shop-tier-price">$79</span>
               </span>
               <p className="shop-tier-desc">
-                100 beats. Untagged WAVs. Stems for select tracks. Full lease rights.
+                96 beats. Untagged WAVs. Stems for select tracks. Full lease rights.
                 Build a whole project — never touch a credit card for beats again.
               </p>
               <Link href="/bundle" className="btn btn-primary btn-arrow">Unlock The Vault</Link>

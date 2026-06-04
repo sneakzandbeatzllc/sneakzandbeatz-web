@@ -87,7 +87,7 @@ Joe Budden's podcast world has the audience. JBP listeners overlap heavily with 
 Sneakz & Beatz operates four content pillars on one editorial schedule, in one voice:
 
 - **Sneakers.** Drop reports, retro returns, collab heat-checks. The drops feed at sneakzandbeatz.com aggregates and links out — we don't republish.
-- **Hip-Hop.** New music, scene reports, producer spotlights. Plus our own 100-beat producer-grade catalog at /beats.
+- **Hip-Hop.** New music, scene reports, producer spotlights. Plus our own 96-beat producer-grade catalog at /beats.
 - **Anime.** Releases, manga arcs, industry shifts, and the hip-hop crossover that the anime press won't write and the hip-hop press won't acknowledge.
 - **Gaming.** Releases, patches, indies, and the gaming-meets-streetwear coverage that Kotaku doesn't do.
 
@@ -231,7 +231,7 @@ Each of these models works for what it is. None of them is what Sneakz & Beatz i
 Sneakz & Beatz operates three layers from one brand:
 
 - **Editorial** — the daily drops feed at sneakzandbeatz.com, the four pillar pages (sneakers, hip-hop, anime, gaming), and The Lane longform. Every article aggregates and links out — Sneakz curates the culture, doesn't republish other publishers' work. That keeps the editorial cost structure honest while still owning the framing.
-- **Commerce** — the 100-beat producer-grade catalog at /beats, the $79 Vault Bundle at /bundle, the Sneakz Pass membership at $12/mo. All real products. All margin-positive. None requires an ad-revenue dependency.
+- **Commerce** — the 96-beat producer-grade catalog at /beats, the $79 Vault Bundle at /bundle, the Sneakz Pass membership at $12/mo. All real products. All margin-positive. None requires an ad-revenue dependency.
 - **Community** — The PHRHX Show at /show, the Discord server, the $10K Rap Challenge at /rap-challenge. Each gives the audience a reason to *return*, not just *visit*.
 
 The reason this works as one brand instead of three separate operations: each layer feeds the next. Editorial brings the audience in. Commerce funds the editorial. Community keeps both sticky.

@@ -24,7 +24,7 @@ export default function Hero() {
           <div className="hero-ctas">
             {/* Single primary CTA — most-monetizable wedge. */}
             <a href="/beats/bundles" className="btn btn-primary btn-arrow">
-              Get The $79 Vault — 100 Beats
+              Get The $79 Vault — 96 Beats
             </a>
             <a href="/show" className="btn-link">
               ▶ Watch The PHRHX Show

@@ -12,7 +12,7 @@ import Footer from "@/components/Footer";
 export const metadata = {
   title: "Links — Sneakz & Beatz",
   description:
-    "Every Sneakz & Beatz offer in one place. Watch The PHRHX Show, get 100 beats for $79, win $10K in the Rap Challenge, join Sneakz Pass.",
+    "Every Sneakz & Beatz offer in one place. Watch The PHRHX Show, get 96 beats for $79, win $10K in the Rap Challenge, join Sneakz Pass.",
   alternates: { canonical: "/links" },
 };
 

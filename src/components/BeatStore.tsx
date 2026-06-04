@@ -11,7 +11,7 @@ export default async function BeatStore() {
           <span className="eyebrow">Beat Store · Powered by Sneakz &amp; Beatz LLC</span>
           <h2>Need Beats For Your Next Drop?</h2>
           <p>
-            Hard-hitting production for artists who move different. Lease, exclusive,
+            Producer-grade hip-hop for artists who move different. Lease, exclusive,
             and stem options.
           </p>
         </div>
@@ -48,7 +48,7 @@ export default async function BeatStore() {
         <Link href="/get-100-beats" className="bundle-card">
           <div>
             <span className="funnel-tag">↗ Bundle · Save 99%</span>
-            <h3>Get 100 Beats<br />+ Mix Pack</h3>
+            <h3>Get 96 Beats<br />+ Mix Pack</h3>
           </div>
           <div>
             <p>Instant download. Trap, East Coast, West Coast, Rage. Stems included.</p>

@@ -166,7 +166,7 @@ const URL_DENYLIST: RegExp[] = [
 const FALLBACK: TrendingItem[] = [
   { title: "New drops from Sneakz & Beatz — fresh beats every week" },
   { title: "Browse the catalog: 96 mastered beats, MP3 + WAV, instant delivery" },
-  { title: "Bundle deal: 100 beats + stems + mix pack — $79 today" },
+  { title: "Bundle deal: 96 beats + stems + mix pack — $79 today" },
   { title: "Subscribe to The PHRHX Show on Substack for early access" },
 ];
 
