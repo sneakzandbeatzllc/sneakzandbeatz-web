@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-04T09:12:10+00:00",
+  "generated_utc": "2026-06-04T10:02:00+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -13,6 +13,30 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "2026-06-01T22:47:18",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "a3e23bbf57cc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
+      "published": "2026-06-01T17:50:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "6f835bbe3ddc",
@@ -70,30 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
       "thumbnail": "/drops/thumbs/5234d80d2441.jpg",
       "published": "2026-06-03T00:52:26",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8a2bf5f3a799",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
-      "published": "2026-06-02T16:04:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6d8d7bd4256c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
-      "thumbnail": "/drops/thumbs/6d8d7bd4256c.webp",
-      "published": "",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "0b86759496c0",
+      "id": "4e84a0893b2b",
       "pillar": "anime",
-      "title": "Nippon Sangoku The Three Nations of the Crimson Sun Manga Goes on Hiatus",
+      "title": "Bungo Stray Dogs Gets New Spinoff Manga on July 3",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/nippon-sangoku-the-three-nations-of-the-crimson-sun-manga-goes-on-hiatus/.238121",
-      "thumbnail": "/drops/thumbs/0b86759496c0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/bungo-stray-dogs-gets-new-spinoff-manga-on-july-3/.238115",
+      "thumbnail": "/drops/thumbs/4e84a0893b2b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "457fa4ad5d7e",
+      "id": "0b86759496c0",
       "pillar": "anime",
-      "title": "Mebius Dust Anime's 1st Main Trailer Unveils More Cast & Staff Members, Ending Song, July 9 Debut",
+      "title": "Nippon Sangoku The Three Nations of the Crimson Sun Manga Goes on Hiatus",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/mebius-dust-anime-1st-main-trailer-unveils-more-cast-and-staff-members-ending-song-july-9-debut/.238122",
-      "thumbnail": "/drops/thumbs/457fa4ad5d7e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/nippon-sangoku-the-three-nations-of-the-crimson-sun-manga-goes-on-hiatus/.238121",
+      "thumbnail": "/drops/thumbs/0b86759496c0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,36 @@
       "release_badge": ""
     },
     {
+      "id": "fd0b3f7b4cef",
+      "pillar": "gaming",
+      "title": "Persona 4 Revival Gets Xbox Store Listing & ESRB Rating",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562923/article/persona-4-revival-gets-xbox-store-listing-esrb-rating/",
+      "thumbnail": "/drops/thumbs/fd0b3f7b4cef.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4518ff1a2f85",
       "pillar": "gaming",
       "title": "News Final Fantasy 7 Rebirth Cheats Live Now in New PS5 Patch",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-rebirth-cheats-live-now-in-new-ps5-patch",
       "thumbnail": "/drops/thumbs/4518ff1a2f85.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "68a5f5141f01",
+      "pillar": "gaming",
+      "title": "God of War Laufey star says new hero Faye is \"just as strong and just as good a warrior\" as Kratos, but more \"acrobatic\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-star-deborah-ann-woll-says-kratos-gameplay-is-so-fantastic-because-hes-such-a-heavy-hitter-but-new-protagonist-faye-is-just-as-strong-and-just-as-good-a-warrior/",
+      "thumbnail": "/drops/thumbs/68a5f5141f01.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -361,38 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "05baae558059",
-      "pillar": "gaming",
-      "title": "Bungie Pulls A Fast One On Players Who Bought Marathon Deluxe Edition On Season 2 “Discount”",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562921/article/bungie-pulls-a-fast-one-on-players-who-bought-marathon-deluxe-edition-on-season-2-discount/",
-      "thumbnail": "/drops/thumbs/05baae558059.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bf73baf3719f",
-      "pillar": "gaming",
-      "title": "Crystal Dynamics Promises Tomb Raider: Legacy Of Atlantis’ Final Work Was “Human-Crafted” After Using AI Tools",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562919/article/crystal-dynamics-promises-tomb-raider-legacy-of-atlantis-final-work-was-human-crafted-after-using-ai-tools/",
-      "thumbnail": "/drops/thumbs/bf73baf3719f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "c8d3a4f66c16",
     "dc299e70917d",
-    "6f835bbe3ddc",
+    "094b1500b6a8",
     "fd98eab68769",
-    "38f41184bc1e",
+    "a3e23bbf57cc",
     "79c2145e1157"
   ]
 }
