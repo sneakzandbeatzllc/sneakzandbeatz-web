@@ -4,6 +4,7 @@ import RapChallengeBanner from "@/components/RapChallengeBanner";
 import TrendingTicker from "@/components/TrendingTicker";
 import DropsFeed from "@/components/DropsFeed";
 import FeaturedStory from "@/components/FeaturedStory";
+import FeaturedLaneEssay from "@/components/FeaturedLaneEssay";
 import BrandPhotos from "@/components/BrandPhotos";
 import TikTokFeed from "@/components/TikTokFeed";
 import CreatorsCTA from "@/components/CreatorsCTA";
@@ -111,10 +112,12 @@ export default async function HomePage() {
   // Server-side fetch from the SOC engine. Falls back to defaults if engine is offline.
   const trending = await fetchTrending();
 
-  // Reordered for conversion: Hero → Rap Challenge banner (above-fold revenue
-  // driver) → PHRHX Show (the audience flywheel) → Beat Store (entry product)
-  // → Drops Feed (cultural pulse) → Featured Story → Brand Photos → TikTok →
-  // Creators CTA → Substack signup → Footer.
+  // Reordered for culture-media positioning (post-ChatGPT-audit, 2026-06-04):
+  // editorial signals first (ticker + drops + featured Lane essay + featured
+  // story + show), THEN newsletter, THEN commerce (Beat Store + Rap Challenge),
+  // THEN brand/community surfaces (photos + TikTok + S&B Girls), THEN footer.
+  // The shift: first impression now reads "culture media that owns a beat
+  // label" instead of "beat producer with a culture website."
   return (
     <>
       <script
@@ -123,19 +126,32 @@ export default async function HomePage() {
       />
       <Header />
       <Hero />
-      <RapChallengeBanner />
+
+      {/* Editorial above the fold — what we cover, before what we sell. */}
       <TrendingTicker items={trending} />
-      <PHRHXShow />
-      <BeatStore />
       <DropsFeed
         title="What's dropping"
         subtitle="Sneakers leads. Then music, anime, and gaming. Tap any card — we link out to the source. No fluff, no rewrites, just the culture refresh."
       />
+      <FeaturedLaneEssay />
       <FeaturedStory />
-      <CreatorsCTA />
+
+      {/* Audience flywheel — the show + newsletter. */}
+      <PHRHXShow />
+      <SubstackSticker />
+
+      {/* Commerce — beats first, then the rap challenge. Both behind the
+          editorial proof points. */}
+      <BeatStore />
+      <RapChallengeBanner />
+
+      {/* Brand + community — photos, TikTok, the S&B Girls ambassador
+          program lives near the bottom now per the audit (was up front;
+          reads too forward for a brand still building audience). */}
       <BrandPhotos />
       <TikTokFeed />
-      <SubstackSticker />
+      <CreatorsCTA />
+
       <Footer />
     </>
   );

@@ -114,7 +114,13 @@ function decodeXmlEntities(s: string): string {
 
 /**
  * Format a YouTube `published` ISO date as a human-friendly relative string:
- * "3 days ago", "2 weeks ago", "Apr 28, 2026".
+ * "3 days ago", "2 weeks ago", or empty for anything older than 90 days.
+ *
+ * Cutoff is intentional — the show currently has a mix of recent uploads
+ * and older fallback videos, and showing "May 2023" on a homepage card
+ * reads as abandoned even when the channel is actively publishing. Better
+ * to show no date than a stale one. Once the cadence stabilizes this can
+ * be relaxed.
  */
 export function formatPublishedAgo(iso: string): string {
   if (!iso) return "";
@@ -123,14 +129,11 @@ export function formatPublishedAgo(iso: string): string {
   if (!Number.isFinite(then)) return "";
   const diffMs = now - then;
   const day = 24 * 3600 * 1000;
+  // Hide anything older than 90 days — stale dates kill perception.
+  if (diffMs > 90 * day) return "";
   if (diffMs < day) return "today";
   if (diffMs < 2 * day) return "yesterday";
   if (diffMs < 7 * day) return `${Math.floor(diffMs / day)} days ago`;
   if (diffMs < 30 * day) return `${Math.floor(diffMs / (7 * day))} weeks ago`;
-  if (diffMs < 365 * day) return `${Math.floor(diffMs / (30 * day))} months ago`;
-  return new Date(iso).toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "short",
-    day: "numeric",
-  });
+  return `${Math.floor(diffMs / (30 * day))} months ago`;
 }
