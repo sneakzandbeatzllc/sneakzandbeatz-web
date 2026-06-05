@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T19:50:03+00:00",
+  "generated_utc": "2026-06-05T20:34:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Hip-Hop Legend Jean-Michel Basquiat Gets Netflix Documentary Treatment",
+      "url": "https://allhiphop.com/news/hip-hop-legend-jean-michel-basquiat-gets-netflix-documentary-treatment/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dre Dupre Finds Purpose & Power On If It’s Worth It To You",
       "url": "https://allhiphop.com/breeding-ground/dre-dupre-finds-purpose-power-on-if-its-worth-it-to-you/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Lizzo Uses Nicki Minaj Disses To Promote New Album",
       "url": "https://allhiphop.com/rumors/lizzo-uses-nicki-minaj-disses-to-promote-new-album/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Lil Durk Fires Back After Feds Drop Third Indictment With Racketeering Murder Charge",
-      "url": "https://allhiphop.com/news/lil-durk-fires-back-after-feds-drop-third-indictment-with-racketeering-murder-charge/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -221,7 +221,7 @@
       "article_slug": null
     },
     {
-      "title": "Live Summer Game Fest 2026 Live Coverage – All the news as it happens",
+      "title": "Live Summer Game Fest 2026 Live Coverage – All the news, reveals, and announcements as they happen",
       "url": "https://www.gamesradar.com/news/live/summer-game-fest-live-coverage-2026-everything-announced/",
       "pillar": "gaming",
       "score": 1.0,

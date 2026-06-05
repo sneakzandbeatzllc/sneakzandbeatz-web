@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T19:50:03+00:00",
+  "generated_utc": "2026-06-05T20:34:33+00:00",
   "items": [
     {
       "id": "7c06fa47f1e9",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "dce714dd5fbc",
+      "pillar": "hiphop",
+      "title": "Hip-Hop Legend Jean-Michel Basquiat Gets Netflix Documentary Treatment",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/hip-hop-legend-jean-michel-basquiat-gets-netflix-documentary-treatment/",
+      "thumbnail": "/drops/thumbs/dce714dd5fbc.jpg",
+      "published": "2026-06-05T16:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ef830771a7c3",
       "pillar": "hiphop",
       "title": "Dre Dupre Finds Purpose & Power On If It’s Worth It To You",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/rumors/lizzo-uses-nicki-minaj-disses-to-promote-new-album/",
       "thumbnail": "/drops/thumbs/15b87c2a7e27.jpg",
       "published": "2026-06-05T12:23:59",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9ca552e7d5a4",
-      "pillar": "hiphop",
-      "title": "Lil Durk Fires Back After Feds Drop Third Indictment With Racketeering Murder Charge",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/lil-durk-fires-back-after-feds-drop-third-indictment-with-racketeering-murder-charge/",
-      "thumbnail": "/drops/thumbs/9ca552e7d5a4.jpg",
-      "published": "2026-06-05T12:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -377,7 +377,7 @@
     {
       "id": "a5d50edeb46a",
       "pillar": "gaming",
-      "title": "Live Summer Game Fest 2026 Live Coverage – All the news as it happens",
+      "title": "Live Summer Game Fest 2026 Live Coverage – All the news, reveals, and announcements as they happen",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/news/live/summer-game-fest-live-coverage-2026-everything-announced/",
       "thumbnail": "/drops/thumbs/a5d50edeb46a.jpg",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "7c06fa47f1e9",
-    "ef830771a7c3",
+    "dce714dd5fbc",
     "a3e23bbf57cc",
     "a664b60d04e8",
     "6f835bbe3ddc",
