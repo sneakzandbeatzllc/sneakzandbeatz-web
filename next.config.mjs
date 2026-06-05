@@ -17,6 +17,15 @@ const nextConfig = {
     return [
       { source: "/articles", destination: "/the-lane", permanent: true },
       { source: "/articles/:path*", destination: "/the-lane", permanent: true },
+      // Retired Lane essay — the "four-pillar reader" piece was pulled
+      // 2026-06-04 per a brand-positioning decision. Any inbound links
+      // (search engines, social shares, AI citations) route to the
+      // editorial home so they don't 404.
+      {
+        source: "/the-lane/four-pillar-reader",
+        destination: "/the-lane",
+        permanent: true,
+      },
     ];
   },
 };

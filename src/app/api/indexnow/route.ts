@@ -17,7 +17,7 @@
  *   curl -X POST https://www.sneakzandbeatz.com/api/indexnow \
  *     -H "Content-Type: application/json" \
  *     -H "x-indexnow-key: 98f2853719ae05a58c82baae8a0acbc6" \
- *     -d '{"urls":["https://www.sneakzandbeatz.com/the-lane/four-pillar-reader"]}'
+ *     -d '{"urls":["https://www.sneakzandbeatz.com/the-lane/black-owned-editorial-commerce"]}'
  */
 
 const KEY = "98f2853719ae05a58c82baae8a0acbc6";

@@ -14,10 +14,12 @@ import { LANE_ESSAYS } from "@/data/lane-essays";
  * a thesis before they see a price.
  */
 export default function FeaturedLaneEssay() {
-  // Strategic pick — the four-pillar reader essay reads as the brand thesis.
-  // If you want to rotate, change this to LANE_ESSAYS[0] or filter by slug.
+  // Strategic pick — the editorial-commerce essay reads as the brand thesis
+  // (why we operate the way we do). If you want to rotate, change this to
+  // LANE_ESSAYS[0] or filter by slug.
   const featured =
-    LANE_ESSAYS.find((e) => e.slug === "four-pillar-reader") ?? LANE_ESSAYS[0];
+    LANE_ESSAYS.find((e) => e.slug === "black-owned-editorial-commerce") ??
+    LANE_ESSAYS[0];
 
   if (!featured) return null;
 
