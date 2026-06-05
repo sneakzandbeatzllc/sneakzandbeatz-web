@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T16:55:28+00:00",
+  "generated_utc": "2026-06-05T17:41:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,27 @@
       "article_slug": null
     },
     {
+      "title": "Nick Cannon Says He’s Not MAGA, But The Internet Isn’t Buying It",
+      "url": "https://allhiphop.com/rumors/nick-cannon-says-hes-not-maga-but-the-internet-isnt-buying-it/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Famous Actress Caught Smoking Crack In Ex’s Closet With His Dog",
+      "url": "https://allhiphop.com/news/famous-actress-caught-smoking-crack-in-exs-closet-with-his-dog/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "New Music Friday: Fivio Foreign, Loui Paso, and Jon Z Bridge Drill and Latin Trap on “Untouchable”",
+      "url": "https://thesource.com/2026/06/05/new-music-friday-fivio-foreign-loui-paso-and-jon-z-bridge-drill-and-latin-trap-on-untouchable/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Lizzo Uses Nicki Minaj Disses To Promote New Album",
       "url": "https://allhiphop.com/rumors/lizzo-uses-nicki-minaj-disses-to-promote-new-album/",
       "pillar": "hiphop",
@@ -95,29 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "Fanatics Markets Launches Fanatics ONE Rewards Program and New Trading Features",
-      "url": "https://thesource.com/2026/06/05/fanatics-markets-fanatics-one-rewards-launch/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Latto Addresses Cardi B Tension on The Breakfast Club as Cardi Responds Publicly",
-      "url": "https://thesource.com/2026/06/05/latto-cardi-b-beef-breakfast-club-response/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Latto Opens Up About Reconciling With Ice Spice During Breakfast Club Interview",
-      "url": "https://thesource.com/2026/06/05/latto-ice-spice-reconciliation-breakfast-club/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Next series from Solo Leveling studio coming to Crunchyroll this fall",
       "url": "https://www.polygon.com/overgeared-anime-release-date-trailer-solo-leveling/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "A New Era Begins As Solo Leveling Drops The Spinoff Fans Have Waited 9 Years For",
+      "url": "https://screenrant.com/solo-leveling-liu-zhigang-spinoff/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +139,6 @@
     {
       "title": "Demon Slayer: Infinity Castle Part 2 Is Going To Settle The Strongest Hashira Debate For Good",
       "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-gyomei-strongest-hashira/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Solo Leveling Meets Rising of the Shield Hero In New Crunchyroll Isekai That Already Looks Epic",
-      "url": "https://screenrant.com/exiled-heavy-knight-game-system-solo-leveling-meets-shield-hero-crunchyroll/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Wizards Of The Coast Deadnamed Trans Employees In Front Of Their Colleagues During Union Election, Apologized, Then Did It Again",
-      "url": "https://kotaku.com/wizards-of-the-coast-trans-employees-magic-the-gathering-arena-2000702039",
+      "title": "Leak Reveals Microsoft Wants Its AI To Be ‘Addictive,’ CEO Satya Nadella Feigns Astonishment",
+      "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
