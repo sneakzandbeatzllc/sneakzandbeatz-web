@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T21:49:25+00:00",
+  "generated_utc": "2026-06-05T21:53:55+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "971d69f96f83",
+      "id": "671f43c18df6",
       "pillar": "gaming",
-      "title": "Yakuza Studio’s Next Big Game Will Revive Tupac Digitally, For Some Reason",
+      "title": "The Next Big Resident Evil Remake Is Code Veronica",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097",
-      "thumbnail": "/drops/thumbs/971d69f96f83.jpg",
+      "source_url": "https://kotaku.com/the-next-big-resident-evil-remake-is-code-veronica-2000703078",
+      "thumbnail": "/drops/thumbs/671f43c18df6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -345,6 +345,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562939/article/elden-ring-tarnished-edition-releasing-on-nintendo-switch-2-this-august-28/",
       "thumbnail": "/drops/thumbs/51f158dd904f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "971d69f96f83",
+      "pillar": "gaming",
+      "title": "Yakuza Studio’s Next Big Game Will Revive Tupac Digitally, For Some Reason",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097",
+      "thumbnail": "/drops/thumbs/971d69f96f83.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -369,18 +381,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/alien-isolation-2-unveiled-in-first-teaser-trailer",
       "thumbnail": "/drops/thumbs/39aa05e02320.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a5d50edeb46a",
-      "pillar": "gaming",
-      "title": "Live Summer Game Fest 2026 Live Coverage – All the news, reveals, and announcements as they happen",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/news/live/summer-game-fest-live-coverage-2026-everything-announced/",
-      "thumbnail": "/drops/thumbs/a5d50edeb46a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

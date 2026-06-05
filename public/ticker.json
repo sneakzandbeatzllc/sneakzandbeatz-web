@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T21:49:25+00:00",
+  "generated_utc": "2026-06-05T21:53:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "Yakuza Studio’s Next Big Game Will Revive Tupac Digitally, For Some Reason",
-      "url": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097",
+      "title": "The Next Big Resident Evil Remake Is Code Veronica",
+      "url": "https://kotaku.com/the-next-big-resident-evil-remake-is-code-veronica-2000703078",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -202,6 +202,13 @@
     {
       "title": "Elden Ring Tarnished Edition Releasing On Nintendo Switch 2 This August 28",
       "url": "https://gameranx.com/updates/id/562939/article/elden-ring-tarnished-edition-releasing-on-nintendo-switch-2-this-august-28/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Yakuza Studio’s Next Big Game Will Revive Tupac Digitally, For Some Reason",
+      "url": "https://kotaku.com/yakuza-studios-next-big-game-will-revive-tupac-digitally-for-some-reason-2000703097",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "News Alien Isolation 2 Unveiled in First Teaser Trailer",
       "url": "https://www.pushsquare.com/news/2026/06/alien-isolation-2-unveiled-in-first-teaser-trailer",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Live Summer Game Fest 2026 Live Coverage – All the news, reveals, and announcements as they happen",
-      "url": "https://www.gamesradar.com/news/live/summer-game-fest-live-coverage-2026-everything-announced/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
