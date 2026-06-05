@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T01:24:50+00:00",
+  "generated_utc": "2026-06-05T02:21:26+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "e689fac83fa0",
+      "pillar": "hiphop",
+      "title": "Detroit Rapper Thrown In Prison Over $63 Million Mail Theft Conspiracy",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/detroit-rapper-thrown-in-prison-over-63-million-mail-theft-conspiracy/",
+      "thumbnail": "/drops/thumbs/e689fac83fa0.jpg",
+      "published": "2026-06-04T22:00:05",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "482e89a806bc",
       "pillar": "hiphop",
       "title": "Travis Scott And Kim Kardashian Lead Nike’s World Cup Takeover",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "8c98e7ed0c53",
-      "pillar": "hiphop",
-      "title": "Sean Strickland Vows White House UFC Protest After Claiming Ban Over Israel Criticism",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/04/sean-strickland-vows-white-house-ufc-protest-after-claiming-ban-over-israel-criticism/",
-      "thumbnail": "/drops/thumbs/8c98e7ed0c53.jpg",
-      "published": "2026-06-04T14:41:48",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7aaab7b972f7",
       "pillar": "anime",
       "title": "Solo Leveling Meets Rising of the Shield Hero In New Crunchyroll Isekai That Already Looks Epic",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "f530cb2a7dad",
+      "id": "b8873caf09d2",
       "pillar": "anime",
-      "title": "The Irregular at Magic High School Anime Launches Production on 'Part II'",
+      "title": "My Cold Co-worker Obsessively Loves Me Manga Gets Live-Action Series",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/the-irregular-at-magic-high-school-anime-launches-production-on-part-ii/.238154",
-      "thumbnail": "/drops/thumbs/f530cb2a7dad.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/my-cold-co-worker-obsessively-loves-me-manga-gets-live-action-series/.238155",
+      "thumbnail": "/drops/thumbs/b8873caf09d2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "563d3068d79b",
+      "id": "f530cb2a7dad",
       "pillar": "anime",
-      "title": "North American Anime, Manga Releases, May 31-June 6",
+      "title": "The Irregular at Magic High School Anime Launches Production on 'Part II'",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/north-american-anime-manga-releases-may-31-june-6/.238034",
-      "thumbnail": "/drops/thumbs/563d3068d79b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-04/the-irregular-at-magic-high-school-anime-launches-production-on-part-ii/.238154",
+      "thumbnail": "/drops/thumbs/f530cb2a7dad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "850de1202021",
+      "id": "b32a63f171f2",
       "pillar": "gaming",
-      "title": "Police Force Involved In Lego Investigation ‘Hacked,’ YouTuber Claims, As New Footage Is Released",
+      "title": "What To Expect From Geoff Keighley’s Summer Game Fest 2026 Showcase",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/reckless-ben-lego-star-wars-bricks-minifigs-mormon-mafia-youtube-2000702473",
-      "thumbnail": "/drops/thumbs/850de1202021.jpg",
+      "source_url": "https://kotaku.com/summer-game-fest-2026-showcase-geoff-keighley-what-to-expect-2000702483",
+      "thumbnail": "/drops/thumbs/b32a63f171f2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "482e89a806bc",
+    "e689fac83fa0",
     "6f835bbe3ddc",
     "7aaab7b972f7",
     "38f41184bc1e",
