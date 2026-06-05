@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T22:55:38+00:00",
+  "generated_utc": "2026-06-05T23:07:51+00:00",
   "items": [
+    {
+      "id": "7c06fa47f1e9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
+      "thumbnail": "/drops/thumbs/7c06fa47f1e9.jpg",
+      "published": "2026-06-05T08:04:32",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "d68700a4442e",
       "pillar": "sneakers",
@@ -87,15 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "8a2bf5f3a799",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
-      "published": "2026-06-02T16:04:05",
+      "id": "7010534aa1a5",
+      "pillar": "hiphop",
+      "title": "50 Cent Brings Back “Power” Icons For Biggest Franchise Chapter Yet",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/50-cent-brings-back-power-icons-for-biggest-franchise-chapter-yet/",
+      "thumbnail": "/drops/thumbs/7010534aa1a5.png",
+      "published": "2026-06-05T19:00:39",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "cd28a99f9f29",
-      "pillar": "hiphop",
-      "title": "Nick Cannon Says He’s Not MAGA, But The Internet Isn’t Buying It",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/nick-cannon-says-hes-not-maga-but-the-internet-isnt-buying-it/",
-      "thumbnail": "/drops/thumbs/cd28a99f9f29.jpg",
-      "published": "2026-06-05T13:29:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3c29ee870c69",
       "pillar": "anime",
       "title": "Crunchyroll Adds Jujutsu Kaisen Compilation Film, English Dubs for Given Movies",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "2d21cbe82392",
-      "pillar": "anime",
-      "title": "It's Time To Admit That Gojo Hasn't Been Jujutsu Kaisen's Strongest Hero For 5 Years",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-gojo-not-strongest-character-takaba-yuji-yuta-sukuna/",
-      "thumbnail": "/drops/thumbs/2d21cbe82392.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0a7d077a84b1",
       "pillar": "anime",
       "title": "One Piece Episode #1165 Release Date And Time",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/chrunchyroll-best-summer-romance-anime/",
       "thumbnail": "/drops/thumbs/8243b7d2c7dd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9b8a351820b9",
+      "pillar": "anime",
+      "title": "Manga Creator Ritsuhiro Mikami Dies",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-05/manga-creator-ritsuhiro-mikami-dies/.238182",
+      "thumbnail": "/drops/thumbs/9b8a351820b9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "bea7e63a24a0",
+      "id": "82c00ad42e3d",
       "pillar": "gaming",
-      "title": "This New Game Wants To Change Cover Shooters Forever",
+      "title": "It’s Finally Time For Guild Wars 3",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/this-new-game-wants-to-change-cover-shooters-forever-2000702568",
-      "thumbnail": "/drops/thumbs/bea7e63a24a0.jpg",
+      "source_url": "https://kotaku.com/its-finally-time-for-guild-wars-3-2000703153",
+      "thumbnail": "/drops/thumbs/82c00ad42e3d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
+    "7c06fa47f1e9",
+    "7010534aa1a5",
     "d68700a4442e",
-    "8ee4b37898bd",
-    "6f835bbe3ddc",
     "3c29ee870c69",
-    "502011f4c522",
+    "6f835bbe3ddc",
     "3f972667fe08"
   ]
 }
