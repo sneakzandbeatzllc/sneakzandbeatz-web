@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T23:52:48+00:00",
+  "generated_utc": "2026-06-05T23:57:17+00:00",
   "items": [
     {
       "id": "d68700a4442e",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "d4782dc4f72b",
+      "pillar": "anime",
+      "title": "Koei Tecmo Reveals Attack on Titan 3 Game",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-05/koei-tecmo-reveals-attack-on-titan-3-game/.238199",
+      "thumbnail": "/drops/thumbs/d4782dc4f72b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a664b60d04e8",
       "pillar": "anime",
       "title": "Next series from Solo Leveling studio coming to Crunchyroll this fall",
@@ -279,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "761f0b030c10",
-      "pillar": "anime",
-      "title": "Sailor Moon Meets Evangelion In The 1990s Anime So Good, It's The Decade's Best-Aged Series",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/revolutionary-girl-utena-evangelion-meets-sailor-moon-aged-perfectly/",
-      "thumbnail": "/drops/thumbs/761f0b030c10.jpg",
+      "id": "80a0e6f07fca",
+      "pillar": "gaming",
+      "title": "News Crossfire Is a Single Player PS5 Shooter with Soul from Ex-Naughty Dog Devs",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/crossfire-is-a-single-player-ps5-shooter-with-soul-from-ex-naughty-dog-devs",
+      "thumbnail": "/drops/thumbs/80a0e6f07fca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "6d4c86b97138",
-      "pillar": "gaming",
-      "title": "Poll How Would You Rate Summer Game Fest 2026?",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-how-would-you-rate-summer-game-fest-2026",
-      "thumbnail": "/drops/thumbs/6d4c86b97138.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "d68700a4442e",
     "73772c24d536",
     "6f835bbe3ddc",
-    "a664b60d04e8",
+    "d4782dc4f72b",
     "461c608b662e",
-    "681f27a68fd3"
+    "80a0e6f07fca"
   ]
 }

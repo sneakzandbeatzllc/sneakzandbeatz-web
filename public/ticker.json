@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T23:52:48+00:00",
+  "generated_utc": "2026-06-05T23:57:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Koei Tecmo Reveals Attack on Titan 3 Game",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-05/koei-tecmo-reveals-attack-on-titan-3-game/.238199",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Next series from Solo Leveling studio coming to Crunchyroll this fall",
       "url": "https://www.polygon.com/overgeared-anime-release-date-trailer-solo-leveling/",
       "pillar": "anime",
@@ -165,9 +172,9 @@
       "article_slug": null
     },
     {
-      "title": "Sailor Moon Meets Evangelion In The 1990s Anime So Good, It's The Decade's Best-Aged Series",
-      "url": "https://screenrant.com/revolutionary-girl-utena-evangelion-meets-sailor-moon-aged-perfectly/",
-      "pillar": "anime",
+      "title": "News Crossfire Is a Single Player PS5 Shooter with Soul from Ex-Naughty Dog Devs",
+      "url": "https://www.pushsquare.com/news/2026/06/crossfire-is-a-single-player-ps5-shooter-with-soul-from-ex-naughty-dog-devs",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -216,13 +223,6 @@
     {
       "title": "Round Up What Was Announced at Summer Game Fest 2026?",
       "url": "https://www.pushsquare.com/features/round-up-what-was-announced-at-summer-game-fest-2026",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Poll How Would You Rate Summer Game Fest 2026?",
-      "url": "https://www.pushsquare.com/features/poll-how-would-you-rate-summer-game-fest-2026",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
