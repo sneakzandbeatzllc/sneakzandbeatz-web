@@ -1,13 +1,27 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T23:07:51+00:00",
+  "generated_utc": "2026-06-05T23:40:23+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
       "pillar": "sneakers",
-      "score": 3.0,
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
       "article_slug": null
     },
     {
@@ -25,36 +39,22 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "The Air Jordan 1 High Arrives in a “Love the Game” Style in August",
       "url": "https://justfreshkicks.com/air-jordan-1-high-love-the-game-dz5485-201/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
-      "url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-tour-yellow-2026/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
-      "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Adds Jujutsu Kaisen Compilation Film, English Dubs for Given Movies",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-05/crunchyroll-adds-jujutsu-kaisen-compilation-film-english-dubs-for-given-movies/.238184",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Next series from Solo Leveling studio coming to Crunchyroll this fall",
       "url": "https://www.polygon.com/overgeared-anime-release-date-trailer-solo-leveling/",
       "pillar": "anime",
@@ -165,15 +158,22 @@
       "article_slug": null
     },
     {
-      "title": "Manga Creator Ritsuhiro Mikami Dies",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-05/manga-creator-ritsuhiro-mikami-dies/.238182",
+      "title": "10 Brilliant Manga Under 100 Chapters Readers Can Binge In One Night",
+      "url": "https://screenrant.com/best-manga-under-100-chapters-binge/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Stellar Blade: Blood Rain Is the PS5 Sequel You've Been Waiting For",
-      "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rain-is-the-ps5-sequel-youve-been-waiting-for",
+      "title": "Sailor Moon Meets Evangelion In The 1990s Anime So Good, It's The Decade's Best-Aged Series",
+      "url": "https://screenrant.com/revolutionary-girl-utena-evangelion-meets-sailor-moon-aged-perfectly/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Street Fighter 6 Does What Tekken Won't - Add Final Fantasy 7's Tifa",
+      "url": "https://www.pushsquare.com/news/2026/06/street-fighter-6-does-what-tekken-wont-add-final-fantasy-7s-tifa",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News This Single Player PS5 Action RPG Draws from the Strange Tales of Chinese Literature",
-      "url": "https://www.pushsquare.com/news/2026/06/this-single-player-ps5-action-rpg-draws-from-the-strange-tales-of-chinese-literature",
+      "title": "Stellar Blade Is Back With A New Game But The Same Jiggle",
+      "url": "https://kotaku.com/stellar-blade-is-back-with-a-new-game-but-the-same-jiggle-2000703186",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "It’s Finally Time For Guild Wars 3",
-      "url": "https://kotaku.com/its-finally-time-for-guild-wars-3-2000703153",
+      "title": "Round Up What Was Announced at Summer Game Fest 2026?",
+      "url": "https://www.pushsquare.com/features/round-up-what-was-announced-at-summer-game-fest-2026",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
