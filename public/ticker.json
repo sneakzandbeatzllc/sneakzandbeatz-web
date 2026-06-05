@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T16:39:37+00:00",
+  "generated_utc": "2026-06-05T16:41:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,20 @@
       "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -41,20 +55,6 @@
     {
       "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
       "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 “Team USA” Pack Comes Ready For 4th of July",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-team-usa-pack-dq8426-406-dc0774-608/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Ami Maeshima Joins Cast, Performs Ending Theme for Rich Girl Caretaker Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-05/ami-maeshima-joins-cast-performs-ending-theme-for-rich-girl-caretaker-anime/.238176",
+      "title": "Hell Mode Anime Season 2 Reveals, Promo Video, More Cast, Opening Theme Song, July 3 Premiere",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-05/hell-mode-anime-season-2-reveals-promo-video-more-cast-opening-theme-song-july-3-premiere/.238180",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Black Torch TV Anime Reveals, Previews Theme Songs in Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-05/black-torch-tv-anime-reveals-previews-theme-songs-in-video/.238175",
+      "title": "Ami Maeshima Joins Cast, Performs Ending Theme for Rich Girl Caretaker Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-05/ami-maeshima-joins-cast-performs-ending-theme-for-rich-girl-caretaker-anime/.238176",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
