@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T16:45:29+00:00",
+  "generated_utc": "2026-06-05T16:55:28+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -13,6 +13,30 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "7c06fa47f1e9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
+      "thumbnail": "/drops/thumbs/7c06fa47f1e9.jpg",
+      "published": "2026-06-05T08:04:32",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "a3e23bbf57cc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
+      "published": "2026-06-04T17:50:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "6f835bbe3ddc",
@@ -70,30 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
       "thumbnail": "/drops/thumbs/5234d80d2441.jpg",
       "published": "2026-06-03T00:52:26",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8a2bf5f3a799",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
-      "published": "2026-06-02T16:04:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b24d10b32737",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 “Team USA” Pack Comes Ready For 4th of July",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-team-usa-pack-dq8426-406-dc0774-608/",
-      "thumbnail": "/drops/thumbs/b24d10b32737.jpg",
-      "published": "",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -351,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "7214898733dc",
+      "id": "76977d8b0043",
       "pillar": "gaming",
-      "title": "Someone Has Found A Secret Bad Ending To Mina The Hollower",
+      "title": "Wizards Of The Coast Deadnamed Trans Employees In Front Of Their Colleagues During Union Election, Apologized, Then Did It Again",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/mina-the-hollower-secret-ending-2000702945",
-      "thumbnail": "/drops/thumbs/7214898733dc.jpg",
+      "source_url": "https://kotaku.com/wizards-of-the-coast-trans-employees-magic-the-gathering-arena-2000702039",
+      "thumbnail": "/drops/thumbs/76977d8b0043.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "c8d3a4f66c16",
     "15b87c2a7e27",
-    "6f835bbe3ddc",
+    "7c06fa47f1e9",
     "a664b60d04e8",
-    "38f41184bc1e",
+    "a3e23bbf57cc",
     "06f45771bc3b"
   ]
 }
