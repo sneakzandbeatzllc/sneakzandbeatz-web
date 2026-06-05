@@ -102,7 +102,9 @@ export default function FeaturedYTPlayer({
         aria-hidden="true"
         style={{
           position: "absolute",
-          top: "50%",
+          // Lower-third anchor — keeps the play button off the subject's
+          // face in YouTube auto-frames.
+          top: "72%",
           left: "50%",
           transform: "translate(-50%, -50%)",
           display: "flex",

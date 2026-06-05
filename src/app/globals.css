@@ -405,12 +405,16 @@ nav.primary a:hover { color: var(--highlight); }
   content: ""; position: absolute; inset: 0;
   background: linear-gradient(180deg, rgba(0,0,0,0.25), rgba(0,0,0,0.65));
 }
-/* Play button sits in upper portion of card so it doesn't collide with the
-   .meta band at the bottom (where the title + runtime live). */
+/* Play overlay sits in the LOWER-THIRD of the thumbnail. Was top: 0
+   bottom: 38% which placed the icon at ~31% from the top — directly on
+   guests' (and PHRHX's) face in most YouTube auto-frames. Lower-third
+   keeps the face visible above the button. The .meta band still sits
+   below the button at bottom: 12px and stays readable thanks to its
+   text shadow. */
 .episode .play {
   position: absolute;
-  top: 0; left: 0; right: 0;
-  bottom: 38%;
+  top: 55%; left: 0; right: 0;
+  bottom: 8%;
   display: grid; place-items: center;
   pointer-events: none;
 }
@@ -2770,7 +2774,11 @@ nav.primary a:hover { color: var(--highlight); }
   pointer-events: none;
 }
 .yt-card-play {
-  position: absolute; top: 50%; left: 50%;
+  /* Lower-third anchor — keeps the play button off PHRHX's / guests' faces
+     in YouTube auto-extracted frames. Was top: 50% centered, which sat
+     directly on the subject. New center-y of icon = 72% from the top of
+     the thumbnail. */
+  position: absolute; top: 72%; left: 50%;
   transform: translate(-50%, -50%);
   width: 56px; height: 56px;
   border-radius: 50%;
