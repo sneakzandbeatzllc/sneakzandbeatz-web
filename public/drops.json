@@ -1,31 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T18:48:28+00:00",
+  "generated_utc": "2026-06-05T19:01:58+00:00",
   "items": [
-    {
-      "id": "7c06fa47f1e9",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
-      "thumbnail": "/drops/thumbs/7c06fa47f1e9.jpg",
-      "published": "2026-06-05T08:04:32",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "a3e23bbf57cc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-04T17:50:18",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
     {
       "id": "6f835bbe3ddc",
       "pillar": "sneakers",
@@ -94,6 +70,30 @@
       "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
       "thumbnail": "/drops/thumbs/5234d80d2441.jpg",
       "published": "2026-06-03T00:52:26",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8a2bf5f3a799",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
+      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
+      "published": "2026-06-02T16:04:05",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "40fd4c818914",
+      "pillar": "sneakers",
+      "title": "First Look At The Air Jordan 6 Low GS “China Rose”",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/40fd4c818914.webp",
+      "published": "",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "06f45771bc3b",
+      "id": "681f27a68fd3",
       "pillar": "gaming",
-      "title": "God of War Laufey is \"every bit as God of War as all of the things that we've done,\" says director",
+      "title": "Marvel 1943: Rise of Hydra and the Star Wars game from former Uncharted lead Amy Hennig are still alive",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-is-every-bit-as-god-of-war-as-all-of-the-things-that-weve-done-director-ariel-lawrence-says-i-hope-to-win-over-the-skeptics-in-the-future/",
-      "thumbnail": "/drops/thumbs/06f45771bc3b.jpg",
+      "source_url": "https://www.gamesradar.com/games/action/marvel-1943-rise-of-hydra-and-the-star-wars-game-from-former-uncharted-lead-amy-hennig-are-still-alive/",
+      "thumbnail": "/drops/thumbs/681f27a68fd3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "a698ba716cf8",
+      "id": "a5d50edeb46a",
       "pillar": "gaming",
-      "title": "GamesRadar+ Summer Preview: The biggest games of Summer Game Fest 2026",
+      "title": "Live Summer Game Fest 2026 Live Coverage – All the news as it happens",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/gamesradar-summer-preview-the-biggest-games-of-summer-game-fest-2026/",
-      "thumbnail": "/drops/thumbs/a698ba716cf8.jpg",
+      "source_url": "https://www.gamesradar.com/news/live/summer-game-fest-live-coverage-2026-everything-announced/",
+      "thumbnail": "/drops/thumbs/a5d50edeb46a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "7c06fa47f1e9",
-    "36ba8742e8ed",
-    "a3e23bbf57cc",
-    "a664b60d04e8",
     "6f835bbe3ddc",
-    "06f45771bc3b"
+    "36ba8742e8ed",
+    "502011f4c522",
+    "a664b60d04e8",
+    "38f41184bc1e",
+    "681f27a68fd3"
   ]
 }

@@ -1,22 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T18:48:28+00:00",
+  "generated_utc": "2026-06-05T19:01:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 3 OG “True Blue” Returns July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-3-true-blue-2026/",
@@ -55,6 +41,20 @@
     {
       "title": "APB x Air Jordan 11 Low Pack Releases September 2026",
       "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-pack/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "First Look At The Air Jordan 6 Low GS “China Rose”",
+      "url": "https://sneakerbardetroit.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "God of War Laufey is \"every bit as God of War as all of the things that we've done,\" says director",
-      "url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-is-every-bit-as-god-of-war-as-all-of-the-things-that-weve-done-director-ariel-lawrence-says-i-hope-to-win-over-the-skeptics-in-the-future/",
+      "title": "Marvel 1943: Rise of Hydra and the Star Wars game from former Uncharted lead Amy Hennig are still alive",
+      "url": "https://www.gamesradar.com/games/action/marvel-1943-rise-of-hydra-and-the-star-wars-game-from-former-uncharted-lead-amy-hennig-are-still-alive/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "GamesRadar+ Summer Preview: The biggest games of Summer Game Fest 2026",
-      "url": "https://www.gamesradar.com/games/gamesradar-summer-preview-the-biggest-games-of-summer-game-fest-2026/",
+      "title": "Live Summer Game Fest 2026 Live Coverage – All the news as it happens",
+      "url": "https://www.gamesradar.com/news/live/summer-game-fest-live-coverage-2026-everything-announced/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
