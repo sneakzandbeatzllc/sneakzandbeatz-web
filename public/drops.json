@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T14:42:18+00:00",
+  "generated_utc": "2026-06-05T14:51:04+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "ff98e992caf4",
+      "pillar": "hiphop",
+      "title": "Key Glock Album Release Party Rocked By Shooting In Houston",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/key-glock-album-release-party-rocked-by-shooting-in-houston/",
+      "thumbnail": "/drops/thumbs/ff98e992caf4.jpg",
+      "published": "2026-06-05T10:18:19",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "01082c741965",
       "pillar": "hiphop",
       "title": "Blaqbonez Surpasses 700 Million Career Streams As “Chanel” Feat. Asake Charts In 97 Countries",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/05/how-hip-hop-culture-became-the-blueprint-for-the-digital-gaming-generation/",
       "thumbnail": "/drops/thumbs/f51939d6e0d2.jpg",
       "published": "2026-06-05T06:42:58",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5bdff07d10b2",
-      "pillar": "hiphop",
-      "title": "Lizzo Releases New Album ‘Bitch’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/05/lizzo-bitch-album-release/",
-      "thumbnail": "/drops/thumbs/5bdff07d10b2.jpg",
-      "published": "2026-06-05T06:37:10",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "01082c741965",
+    "ff98e992caf4",
     "7c06fa47f1e9",
     "2d21cbe82392",
     "a3e23bbf57cc",
