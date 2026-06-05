@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T18:29:58+00:00",
+  "generated_utc": "2026-06-05T18:44:57+00:00",
   "items": [
-    {
-      "id": "c8d3a4f66c16",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 BIN 23 Releases Next Week",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
-      "thumbnail": "/drops/thumbs/c8d3a4f66c16.jpg",
-      "published": "2026-06-02T15:17:23",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "7c06fa47f1e9",
       "pillar": "sneakers",
@@ -49,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "502011f4c522",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 1 High Arrives in a “Love the Game” Style in August",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-high-love-the-game-dz5485-201/",
+      "thumbnail": "/drops/thumbs/502011f4c522.jpg",
+      "published": "2026-06-05T14:35:08",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "38f41184bc1e",
@@ -351,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "8a13b55f65a2",
+      "id": "5be0b61001ce",
       "pillar": "gaming",
-      "title": "Leak Reveals Microsoft Wants Its AI To Be ‘Addictive,’ CEO Satya Nadella Feigns Astonishment",
+      "title": "Xbox CEO Says It’s Not In A Heatlhy Spot: ‘The Next 100 Days Is Going To Be About Resetting The Business’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
-      "thumbnail": "/drops/thumbs/8a13b55f65a2.jpg",
+      "source_url": "https://kotaku.com/xbox-ceo-says-its-not-in-a-heatlhy-spot-the-next-100-days-is-going-to-be-about-resetting-the-business-2000702973",
+      "thumbnail": "/drops/thumbs/5be0b61001ce.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "c8d3a4f66c16",
-    "36ba8742e8ed",
     "7c06fa47f1e9",
-    "a664b60d04e8",
+    "36ba8742e8ed",
     "a3e23bbf57cc",
+    "a664b60d04e8",
+    "6f835bbe3ddc",
     "06f45771bc3b"
   ]
 }
