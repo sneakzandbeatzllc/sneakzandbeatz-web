@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T00:24:41+00:00",
+  "generated_utc": "2026-06-05T01:23:14+00:00",
   "items": [
     {
       "id": "c8d3a4f66c16",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "482e89a806bc",
+      "pillar": "hiphop",
+      "title": "Travis Scott And Kim Kardashian Lead Nike’s World Cup Takeover",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/travis-scott-and-kim-kardashian-lead-nikes-world-cup-takeover/",
+      "thumbnail": "/drops/thumbs/482e89a806bc.png",
+      "published": "2026-06-04T21:00:53",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fc8a11e3fad4",
       "pillar": "hiphop",
       "title": "Marco Rubio Quotes Kanye West While Testifying About Hezbollah Threat To Lebanon & Israel",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/04/sean-strickland-vows-white-house-ufc-protest-after-claiming-ban-over-israel-criticism/",
       "thumbnail": "/drops/thumbs/8c98e7ed0c53.jpg",
       "published": "2026-06-04T14:41:48",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "59d5e3435d1f",
-      "pillar": "hiphop",
-      "title": "Sticker Shock: Average New Vehicle Price Climbs to More Than $51,600 Across U.S.",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/04/sticker-shock-average-new-vehicle-price-climbs-to-more-than-51600-across-u-s/",
-      "thumbnail": "/drops/thumbs/59d5e3435d1f.jpg",
-      "published": "2026-06-04T14:35:52",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "c8d3a4f66c16",
-    "fc8a11e3fad4",
+    "482e89a806bc",
     "6f835bbe3ddc",
     "7aaab7b972f7",
     "38f41184bc1e",
