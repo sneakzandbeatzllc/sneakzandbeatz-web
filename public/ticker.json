@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-05T12:39:15+00:00",
+  "generated_utc": "2026-06-05T13:35:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -53,10 +53,17 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High Releases Expected To Significantly Slow Down In 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-releases-slow-down-2027/",
+      "title": "Air Jordan 1 “Team USA” Pack Comes Ready For 4th of July",
+      "url": "https://sneakerbardetroit.com/air-jordan-1-team-usa-pack-dq8426-406-dc0774-608/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naomi Sharon Releases New Single “Weak”",
+      "url": "https://thesource.com/2026/06/05/naomi-sharon-new-single-weak-no-sleep-in-paradise/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,9 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Ms. Lauryn Hill to Receive Living Legend Icon Award at BET Awards 2026",
-      "url": "https://thesource.com/2026/06/05/lauryn-hill-living-legend-icon-award-bet-awards-2026/",
-      "pillar": "hiphop",
+      "title": "Demon Slayer: Infinity Castle Part 2 Is Going To Settle The Strongest Hashira Debate For Good",
+      "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-gyomei-strongest-hashira/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -139,13 +146,6 @@
     {
       "title": "Netflix's One Piece Season 3 Will Change How You See Luffy Forever",
       "url": "https://screenrant.com/one-piece-season-3-netflix-luffy-change/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "After 11 Years, Japan Is Officially Ending Black Clover With One Last Epic Release",
-      "url": "https://screenrant.com/black-clover-final-epilogue-chapter-end/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "Persona 4 Revival Gets Xbox Store Listing & ESRB Rating",
-      "url": "https://gameranx.com/updates/id/562923/article/persona-4-revival-gets-xbox-store-listing-esrb-rating/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GamesRadar+ Summer Preview: The biggest games of Summer Game Fest 2026",
       "url": "https://www.gamesradar.com/games/gamesradar-summer-preview-the-biggest-games-of-summer-game-fest-2026/",
       "pillar": "gaming",
@@ -214,15 +207,22 @@
       "article_slug": null
     },
     {
-      "title": "Valve Confirms Steam Machine Will Ship This Summer",
-      "url": "https://kotaku.com/valve-confirms-steam-machine-will-ship-this-summer-2000702624",
+      "title": "Leak Reveals Microsoft Wants Its AI To Be ‘Addictive,’ CEO Satya Nadella Feigns Astonishment",
+      "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News After Describing Them as 'Antiquated', Xbox Now Says It 'Must Have Exclusive Content and Services'",
-      "url": "https://www.pushsquare.com/news/2026/06/after-describing-them-as-antiquated-xbox-now-says-it-must-have-exclusive-content-and-services",
+      "title": "News Netflix's Highly Successful Devil May Cry Series Will Return for One Final Season",
+      "url": "https://www.pushsquare.com/news/2026/06/netflixs-highly-successful-devil-may-cry-series-will-return-for-one-final-season",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Summer Preview I'm glad PS5's Wolverine is a comic-accurate deadly predator, and not just a mindless hack and slasher",
+      "url": "https://www.gamesradar.com/games/action/im-glad-ps5s-wolverine-is-a-comic-accurate-deadly-predator-and-not-just-a-mindless-hack-and-slasher/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
