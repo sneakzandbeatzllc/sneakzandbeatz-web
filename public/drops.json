@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T08:38:17+00:00",
+  "generated_utc": "2026-06-06T09:37:35+00:00",
   "items": [
-    {
-      "id": "7c06fa47f1e9",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
-      "thumbnail": "/drops/thumbs/7c06fa47f1e9.jpg",
-      "published": "2026-06-05T08:04:32",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
     {
       "id": "d68700a4442e",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
       "thumbnail": "/drops/thumbs/20e0c889b0b9.jpg",
       "published": "2026-06-03T12:18:14",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0e7f7e8527c2",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-tour-yellow-2026/",
+      "thumbnail": "/drops/thumbs/0e7f7e8527c2.jpg",
+      "published": "2026-06-03T11:59:25",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "d4782dc4f72b",
-      "pillar": "anime",
-      "title": "Koei Tecmo Reveals Attack on Titan 3 Game",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-05/koei-tecmo-reveals-attack-on-titan-3-game/.238199",
-      "thumbnail": "/drops/thumbs/d4782dc4f72b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e37fab488126",
       "pillar": "anime",
       "title": "3 Years After The Anime's Finale, Attack on Titan Is Officially Back With Next Major Release",
@@ -261,6 +249,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-striker-chrono-trigger-meets-one-piece-disney/",
       "thumbnail": "/drops/thumbs/932c48e48e78.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ea5c1b95dd82",
+      "pillar": "anime",
+      "title": "Tomica & Tom TV Anime Shorts Get 2nd Season on July 5 With Song by May J.",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-06/tomica-and-tom-tv-anime-shorts-get-2nd-season-on-july-5-with-song-by-may-j/.238217",
+      "thumbnail": "/drops/thumbs/ea5c1b95dd82.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "3f972667fe08",
-      "pillar": "gaming",
-      "title": "News Stellar Blade: Blood Rain Is the PS5 Sequel You've Been Waiting For",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rain-is-the-ps5-sequel-youve-been-waiting-for",
-      "thumbnail": "/drops/thumbs/3f972667fe08.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bd0ae9254eef",
       "pillar": "gaming",
       "title": "Stellar Blade 2 is actually Stellar Blade: Blood Rain, and it looks nothing like the first game",
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "9459786917bf",
+      "pillar": "gaming",
+      "title": "Rumor: God Of War Laufey Releasing The First Half Of 2027",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562930/article/rumor-god-of-war-laufey-releasing-the-first-half-of-2027/",
+      "thumbnail": "/drops/thumbs/9459786917bf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "7c06fa47f1e9",
-    "7d7ef2123120",
     "d68700a4442e",
-    "d4782dc4f72b",
+    "7d7ef2123120",
     "6f835bbe3ddc",
+    "e37fab488126",
+    "461c608b662e",
     "52a191c2c561"
   ]
 }
