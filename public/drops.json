@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T15:47:53+00:00",
+  "generated_utc": "2026-06-06T16:45:09+00:00",
   "items": [
     {
       "id": "d68700a4442e",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "5a7114b80666",
+      "pillar": "hiphop",
+      "title": "‘Too stunned to speak’: Woman checks into South Carolina hotel. Then a housekeeper barges in when she’d least want her to. Then she lies",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/dunes-village-myrtle-beach-housekeeper-invades-privacy/",
+      "thumbnail": "/drops/thumbs/5a7114b80666.jpg",
+      "published": "2026-06-06T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "341c9a7f6b21",
       "pillar": "hiphop",
       "title": "Megan Thee Stallion Plays Hardball With Stylist In $1.2 Million Wardrobe Battle",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/06/lena-the-plug-files-divorce-adam22/",
       "thumbnail": "/drops/thumbs/ffabc08b191c.jpg",
       "published": "2026-06-06T06:02:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "adf5ebbda432",
-      "pillar": "hiphop",
-      "title": "‘I’d be demanding that refund’: Seattle woman flies with Alaska Airlines. Then she notices they gave away her pre-ordered food",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/alaska-airlines-pre-ordered-beechers-mac-cheese/",
-      "thumbnail": "/drops/thumbs/adf5ebbda432.jpg",
-      "published": "2026-06-06T06:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "d68700a4442e",
-    "341c9a7f6b21",
+    "5a7114b80666",
     "a6a205f3962a",
     "e37fab488126",
     "6f835bbe3ddc",
