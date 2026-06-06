@@ -1,8 +1,29 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T09:39:48+00:00",
+  "generated_utc": "2026-06-06T10:39:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "The Air Jordan 1 Low OG “Pine Green” Releases Tomorrow",
       "url": "https://justfreshkicks.com/air-jordan-1-low-phantom-green-ir2283-030/",
@@ -39,24 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
-      "url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-tour-yellow-2026/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "‘I’d be demanding that refund’: Seattle woman flies with Alaska Airlines. Then she notices they gave away her pre-ordered food",
+      "url": "https://allhiphop.com/newsbreak/alaska-airlines-pre-ordered-beechers-mac-cheese/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Dre Dupre Finds Purpose & Power On If It’s Worth It To You",
       "url": "https://allhiphop.com/breeding-ground/dre-dupre-finds-purpose-power-on-if-its-worth-it-to-you/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Diddy Lawyer Tapped To Defend Deposed Venezuelan President Nicolas Maduro",
-      "url": "https://allhiphop.com/news/diddy-lawyer-tapped-to-defend-deposed-venezuelan-president-nicolas-maduro/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "News Resident Evil Veronica Confirmed for PS5, Out in 2027",
-      "url": "https://www.pushsquare.com/news/2026/06/resident-evil-veronica-confirmed-for-ps5-out-in-2027",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Final Fantasy 7 Revelation brings the JRPG remake trilogy to a close in 2027 \"on all platforms\"",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-brings-the-jrpg-remake-trilogy-to-a-close-in-2027-and-yes-its-launching-simultaneously-on-all-platforms/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Rumor: God Of War Laufey Releasing The First Half Of 2027",
       "url": "https://gameranx.com/updates/id/562930/article/rumor-god-of-war-laufey-releasing-the-first-half-of-2027/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Mission Accomplished: PS5 Hit 007 First Light Sells Nearly 3 Million Copies in Its First Week",
+      "url": "https://www.pushsquare.com/news/2026/06/mission-accomplished-ps5-hit-007-first-light-sells-nearly-3-million-copies-in-its-first-week",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

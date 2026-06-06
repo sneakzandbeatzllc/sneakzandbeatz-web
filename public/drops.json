@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T09:39:48+00:00",
+  "generated_utc": "2026-06-06T10:39:22+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "d68700a4442e",
       "pillar": "sneakers",
@@ -63,39 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "38f41184bc1e",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
-      "thumbnail": "/drops/thumbs/38f41184bc1e.jpg",
-      "published": "2026-06-03T12:40:40",
+      "id": "adf5ebbda432",
+      "pillar": "hiphop",
+      "title": "‘I’d be demanding that refund’: Seattle woman flies with Alaska Airlines. Then she notices they gave away her pre-ordered food",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/alaska-airlines-pre-ordered-beechers-mac-cheese/",
+      "thumbnail": "/drops/thumbs/adf5ebbda432.jpg",
+      "published": "2026-06-06T06:00:00",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "20e0c889b0b9",
-      "pillar": "sneakers",
-      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
-      "thumbnail": "/drops/thumbs/20e0c889b0b9.jpg",
-      "published": "2026-06-03T12:18:14",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0e7f7e8527c2",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-tour-yellow-2026/",
-      "thumbnail": "/drops/thumbs/0e7f7e8527c2.jpg",
-      "published": "2026-06-03T11:59:25",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/breeding-ground/dre-dupre-finds-purpose-power-on-if-its-worth-it-to-you/",
       "thumbnail": "/drops/thumbs/ef830771a7c3.png",
       "published": "2026-06-05T15:24:23",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5689570c7ce2",
-      "pillar": "hiphop",
-      "title": "Diddy Lawyer Tapped To Defend Deposed Venezuelan President Nicolas Maduro",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/diddy-lawyer-tapped-to-defend-deposed-venezuelan-president-nicolas-maduro/",
-      "thumbnail": "/drops/thumbs/5689570c7ce2.jpg",
-      "published": "2026-06-05T15:00:46",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "52a191c2c561",
-      "pillar": "gaming",
-      "title": "News Resident Evil Veronica Confirmed for PS5, Out in 2027",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/resident-evil-veronica-confirmed-for-ps5-out-in-2027",
-      "thumbnail": "/drops/thumbs/52a191c2c561.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3c1f6eb35114",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Revelation brings the JRPG remake trilogy to a close in 2027 \"on all platforms\"",
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "d44fa276e0a0",
+      "pillar": "gaming",
+      "title": "News Mission Accomplished: PS5 Hit 007 First Light Sells Nearly 3 Million Copies in Its First Week",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/mission-accomplished-ps5-hit-007-first-light-sells-nearly-3-million-copies-in-its-first-week",
+      "thumbnail": "/drops/thumbs/d44fa276e0a0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "d68700a4442e",
-    "7d7ef2123120",
-    "6f835bbe3ddc",
+    "094b1500b6a8",
+    "adf5ebbda432",
+    "43151d13faa3",
     "e37fab488126",
-    "461c608b662e",
-    "52a191c2c561"
+    "69fe11c3a7e6",
+    "3c1f6eb35114"
   ]
 }
