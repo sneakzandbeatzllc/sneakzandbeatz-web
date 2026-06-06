@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T00:59:09+00:00",
+  "generated_utc": "2026-06-06T01:56:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "3 Years After The Anime's Finale, Attack on Titan Is Officially Back With Next Major Release",
+      "url": "https://screenrant.com/attack-on-titan-3-new-release/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Next series from Solo Leveling studio coming to Crunchyroll this fall",
       "url": "https://www.polygon.com/overgeared-anime-release-date-trailer-solo-leveling/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "10 Near-Perfect Retro Anime That Deserve To Be Classics",
       "url": "https://screenrant.com/near-perfect-retro-anime-classics/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "10 Brilliant Manga Under 100 Chapters Readers Can Binge In One Night",
-      "url": "https://screenrant.com/best-manga-under-100-chapters-binge/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Round Up What Was Announced at Summer Game Fest 2026?",
-      "url": "https://www.pushsquare.com/features/round-up-what-was-announced-at-summer-game-fest-2026",
+      "title": "News 'The Best Single Player Campaign and the Best Fighting Game': Virtua Fighter Crossroads Is the Biggest PS5 Brawler Yet",
+      "url": "https://www.pushsquare.com/news/2026/06/the-best-single-player-campaign-and-the-best-fighting-game-virtua-fighter-crossroads-is-the-biggest-ps5-brawler-yet",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
