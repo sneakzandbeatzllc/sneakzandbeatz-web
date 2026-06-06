@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T21:00:31+00:00",
+  "generated_utc": "2026-06-06T21:28:55+00:00",
   "items": [
+    {
+      "id": "779db71fc001",
+      "pillar": "sneakers",
+      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
+      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
+      "published": "2026-06-06T16:07:15",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "a3e23bbf57cc",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-high-love-the-game-dz5485-201/",
       "thumbnail": "/drops/thumbs/502011f4c522.jpg",
       "published": "2026-06-05T14:35:08",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "38f41184bc1e",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
-      "thumbnail": "/drops/thumbs/38f41184bc1e.jpg",
-      "published": "2026-06-03T12:40:40",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -291,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "da7c3de7ee2f",
+      "id": "63672b96f095",
       "pillar": "gaming",
-      "title": "News The Remaster of This Retro All-Timer Is Plucky Enough to Go Head-to-Head with GTA 6",
+      "title": "News Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/the-remaster-of-this-retro-all-timer-is-plucky-enough-to-go-head-to-head-with-gta-6",
-      "thumbnail": "/drops/thumbs/da7c3de7ee2f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/godzilla-vs-gta-6-retro-remake-makes-playstation-debut-on-ps5-this-november",
+      "thumbnail": "/drops/thumbs/63672b96f095.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "3c1f6eb35114",
+      "id": "39ec33ed2130",
       "pillar": "gaming",
-      "title": "Final Fantasy 7 Revelation brings the JRPG remake trilogy to a close in 2027 \"on all platforms\"",
+      "title": "Hands-on Exodus hands-on: \"Carries the Mass Effect baton well into deep space with ambitious RPG mechanics that let me get tactical\"",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-brings-the-jrpg-remake-trilogy-to-a-close-in-2027-and-yes-its-launching-simultaneously-on-all-platforms/",
-      "thumbnail": "/drops/thumbs/3c1f6eb35114.jpg",
+      "source_url": "https://www.gamesradar.com/games/rpg/exodus-hands-on-big-preview/",
+      "thumbnail": "/drops/thumbs/39ec33ed2130.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -333,6 +333,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/stellar-blade-blood-rains-reveal-trailer-is-raising-genai-alarm-bells-for-some-people-2000703444",
       "thumbnail": "/drops/thumbs/34545e9deed7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4b29c07d13a7",
+      "pillar": "gaming",
+      "title": "ILL is the most violent horror game I've ever seen, making Resident Evil and Dying Light look kinda cute",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/horror/ill-is-the-most-violent-horror-game-ive-ever-seen-it-makes-resident-evil-and-dying-light-look-kinda-cute/",
+      "thumbnail": "/drops/thumbs/4b29c07d13a7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "0d23f84d1575",
-      "pillar": "gaming",
-      "title": "News PSVR2 Fave Arizona Sunshine Sheds Virtual Reality, Goes Third-Person on PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/psvr2-fave-arizona-sunshine-sheds-virtual-reality-goes-third-person-on-ps5",
-      "thumbnail": "/drops/thumbs/0d23f84d1575.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
-    "a3e23bbf57cc",
+    "779db71fc001",
     "1d922b829e99",
-    "7c06fa47f1e9",
+    "a3e23bbf57cc",
     "e37fab488126",
-    "a6a205f3962a",
-    "da7c3de7ee2f"
+    "7c06fa47f1e9",
+    "63672b96f095"
   ]
 }
