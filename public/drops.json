@@ -1,42 +1,18 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T06:03:26+00:00",
+  "generated_utc": "2026-06-06T06:27:28+00:00",
   "items": [
     {
-      "id": "094b1500b6a8",
+      "id": "7c06fa47f1e9",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
+      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
+      "source_url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
+      "thumbnail": "/drops/thumbs/7c06fa47f1e9.jpg",
+      "published": "2026-06-05T08:04:32",
       "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "d68700a4442e",
@@ -94,6 +70,30 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-high-love-the-game-dz5485-201/",
       "thumbnail": "/drops/thumbs/502011f4c522.jpg",
       "published": "2026-06-05T14:35:08",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "38f41184bc1e",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
+      "thumbnail": "/drops/thumbs/38f41184bc1e.jpg",
+      "published": "2026-06-03T12:40:40",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "20e0c889b0b9",
+      "pillar": "sneakers",
+      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
+      "thumbnail": "/drops/thumbs/20e0c889b0b9.jpg",
+      "published": "2026-06-03T12:18:14",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
+    "7c06fa47f1e9",
     "7d7ef2123120",
-    "43151d13faa3",
+    "d68700a4442e",
     "d4782dc4f72b",
-    "69fe11c3a7e6",
+    "6f835bbe3ddc",
     "52a191c2c561"
   ]
 }
