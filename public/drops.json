@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T04:21:19+00:00",
+  "generated_utc": "2026-06-06T04:53:50+00:00",
   "items": [
     {
       "id": "d68700a4442e",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "7d7ef2123120",
+      "pillar": "hiphop",
+      "title": "Megan Thee Stallion Fires Back At $1.2 Million Wardrobe Lawsuit, Say Claims Are “Fraudulent”",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/megan-thee-stallion-fires-back-at-1-2-million-wardrobe-lawsuit-say-claims-are-fraudulent/",
+      "thumbnail": "/drops/thumbs/7d7ef2123120.png",
+      "published": "2026-06-06T00:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7010534aa1a5",
       "pillar": "hiphop",
       "title": "50 Cent Brings Back “Power” Icons For Biggest Franchise Chapter Yet",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/diddy-lawyer-tapped-to-defend-deposed-venezuelan-president-nicolas-maduro/",
       "thumbnail": "/drops/thumbs/5689570c7ce2.jpg",
       "published": "2026-06-05T15:00:46",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "36ba8742e8ed",
-      "pillar": "hiphop",
-      "title": "MAGA Florida Senator Rick Scott Demands Tampa Cancel Kanye’s Stadium Shows",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/maga-florida-senator-rick-scott-demands-tampa-cancel-kanyes-stadium-shows/",
-      "thumbnail": "/drops/thumbs/36ba8742e8ed.jpg",
-      "published": "2026-06-05T14:00:27",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "d68700a4442e",
-    "7010534aa1a5",
+    "7d7ef2123120",
     "6f835bbe3ddc",
     "d4782dc4f72b",
     "461c608b662e",
