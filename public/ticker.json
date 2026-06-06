@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T13:41:22+00:00",
+  "generated_utc": "2026-06-06T14:42:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Dr. Dre Rumored To Be Getting A New Netflix Documentary",
+      "url": "https://allhiphop.com/rumors/dr-dre-rumored-to-be-getting-a-new-netflix-documentary/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Woman goes to Mexico City-themed Houston bar. Then they delete her Google Review: ‘We had a reservation’",
+      "url": "https://allhiphop.com/newsbreak/1111-houston-delete-google-review/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Celine Dion Honors Peabo Bryson in Emotional Tribute After His Death",
       "url": "https://thesource.com/2026/06/06/celine-dion-peabo-bryson-tribute/",
       "pillar": "hiphop",
@@ -88,29 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "New Music Friday: Fivio Foreign, Loui Paso, and Jon Z Bridge Drill and Latin Trap on “Untouchable”",
-      "url": "https://thesource.com/2026/06/05/new-music-friday-fivio-foreign-loui-paso-and-jon-z-bridge-drill-and-latin-trap-on-untouchable/",
+      "title": "‘I’d be demanding that refund’: Seattle woman flies with Alaska Airlines. Then she notices they gave away her pre-ordered food",
+      "url": "https://allhiphop.com/newsbreak/alaska-airlines-pre-ordered-beechers-mac-cheese/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Blaqbonez Surpasses 700 Million Career Streams As “Chanel” Feat. Asake Charts In 97 Countries",
-      "url": "https://thesource.com/2026/06/05/blaqbonez-surpasses-700-million-career-streams-as-chanel-feat-asake-charts-in-97-countries/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naomi Sharon Releases New Single “Weak”",
-      "url": "https://thesource.com/2026/06/05/naomi-sharon-new-single-weak-no-sleep-in-paradise/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Fanatics Markets Launches Fanatics ONE Rewards Program and New Trading Features",
-      "url": "https://thesource.com/2026/06/05/fanatics-markets-fanatics-one-rewards-launch/",
+      "title": "Megan Thee Stallion Fires Back At $1.2 Million Wardrobe Lawsuit, Say Claims Are “Fraudulent”",
+      "url": "https://allhiphop.com/news/megan-thee-stallion-fires-back-at-1-2-million-wardrobe-lawsuit-say-claims-are-fraudulent/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +132,6 @@
     {
       "title": "Demon Slayer Infinity Castle Drops Big Announcement, And Fans Are Not Happy",
       "url": "https://screenrant.com/demon-slayer-infinity-castle-return-theater-latin-america/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "A New Era Begins As Solo Leveling Drops The Spinoff Fans Have Waited 9 Years For",
-      "url": "https://screenrant.com/solo-leveling-liu-zhigang-spinoff/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,6 +165,13 @@
       "article_slug": null
     },
     {
+      "title": "The Oblivious Saint Can't Contain Her Power TV Anime Reveals More Cast, June 30 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-06/the-oblivious-saint-cant-contain-her-power-tv-anime-reveals-more-cast-june-30-debut/.238215",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Final Fantasy 7 Revelation brings the JRPG remake trilogy to a close in 2027 \"on all platforms\"",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-brings-the-jrpg-remake-trilogy-to-a-close-in-2027-and-yes-its-launching-simultaneously-on-all-platforms/",
       "pillar": "gaming",
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy 7 Remake: Part 3 Is Officially Titled Revelation , Coming Next Spring",
-      "url": "https://kotaku.com/final-fantasy-7-remake-part-3-is-officially-titled-revelation-2000703021",
+      "title": "Fans Are Sad And Confused After Discovering Final Fantasy 7 Revelation Will Change The Actor Who Plays Sephiroth",
+      "url": "https://kotaku.com/fans-are-sad-and-confused-after-discovering-final-fantasy-7-revelation-will-change-the-actor-who-plays-sephiroth-2000703224",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Stellar Blade Is Back With A New Game But The Same Jiggle",
-      "url": "https://kotaku.com/stellar-blade-is-back-with-a-new-game-but-the-same-jiggle-2000703186",
+      "title": "A Beloved Final Fantasy 7 Character Is Getting Rebuilt From The Ground Up For Street Fighter 6",
+      "url": "https://kotaku.com/a-beloved-final-fantasy-7-character-is-getting-rebuilt-from-the-ground-up-for-street-fighter-6-2000703222",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Guide These 7+ PS5 Games Are Coming Out Next Week (8th-14th June)",
-      "url": "https://www.pushsquare.com/guides/these-7plus-ps5-games-are-coming-out-next-week-8th-14th-june",
+      "title": "Final Fantasy 7 Remake: Part 3 Is Officially Titled Revelation , Coming Next Spring",
+      "url": "https://kotaku.com/final-fantasy-7-remake-part-3-is-officially-titled-revelation-2000703021",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
