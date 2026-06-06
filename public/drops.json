@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-06T04:53:50+00:00",
+  "generated_utc": "2026-06-06T05:23:45+00:00",
   "items": [
     {
       "id": "d68700a4442e",
@@ -291,6 +291,18 @@
       "release_badge": ""
     },
     {
+      "id": "52a191c2c561",
+      "pillar": "gaming",
+      "title": "News Resident Evil Veronica Confirmed for PS5, Out in 2027",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/resident-evil-veronica-confirmed-for-ps5-out-in-2027",
+      "thumbnail": "/drops/thumbs/52a191c2c561.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3c1f6eb35114",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Revelation brings the JRPG remake trilogy to a close in 2027 \"on all platforms\"",
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "4f980878a6e4",
-      "pillar": "gaming",
-      "title": "News 'The Best Single Player Campaign and the Best Fighting Game': Virtua Fighter Crossroads Is the Biggest PS5 Brawler Yet",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/the-best-single-player-campaign-and-the-best-fighting-game-virtua-fighter-crossroads-is-the-biggest-ps5-brawler-yet",
-      "thumbnail": "/drops/thumbs/4f980878a6e4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "6f835bbe3ddc",
     "d4782dc4f72b",
     "461c608b662e",
-    "3c1f6eb35114"
+    "52a191c2c561"
   ]
 }
