@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-07T20:13:50+00:00",
+  "generated_utc": "2026-06-07T20:44:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "News First-Person Soulslike Valor Mortis Adds to PS5's September of Dread",
-      "url": "https://www.pushsquare.com/news/2026/06/first-person-soulslike-valor-mortis-adds-to-ps5s-september-of-dread",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Hands-on Exodus hands-on: \"Carries the Mass Effect baton well into deep space with ambitious RPG mechanics that let me get tactical\"",
       "url": "https://www.gamesradar.com/games/rpg/exodus-hands-on-big-preview/",
       "pillar": "gaming",
@@ -209,6 +202,13 @@
     {
       "title": "Rumor: God Of War Laufey Releasing The First Half Of 2027",
       "url": "https://gameranx.com/updates/id/562930/article/rumor-god-of-war-laufey-releasing-the-first-half-of-2027/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Call of Duty: Modern Warfare 4 Guns for ARC Raiders with Tense PS5 Extraction Mode",
+      "url": "https://www.pushsquare.com/news/2026/06/call-of-duty-modern-warfare-4-guns-for-arc-raiders-with-tense-ps5-extraction-mode",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

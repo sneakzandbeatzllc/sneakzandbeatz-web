@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-07T20:13:50+00:00",
+  "generated_utc": "2026-06-07T20:44:50+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "547b8648418b",
-      "pillar": "gaming",
-      "title": "News First-Person Soulslike Valor Mortis Adds to PS5's September of Dread",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/first-person-soulslike-valor-mortis-adds-to-ps5s-september-of-dread",
-      "thumbnail": "/drops/thumbs/547b8648418b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "39ec33ed2130",
       "pillar": "gaming",
       "title": "Hands-on Exodus hands-on: \"Carries the Mass Effect baton well into deep space with ambitious RPG mechanics that let me get tactical\"",
@@ -363,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "0d0259b196e9",
+      "pillar": "gaming",
+      "title": "News Call of Duty: Modern Warfare 4 Guns for ARC Raiders with Tense PS5 Extraction Mode",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/call-of-duty-modern-warfare-4-guns-for-arc-raiders-with-tense-ps5-extraction-mode",
+      "thumbnail": "/drops/thumbs/0d0259b196e9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4df21cc363e3",
       "pillar": "gaming",
       "title": "Why Do You Need Generative AI To Make Crazy Taxi ?",
@@ -393,6 +393,6 @@
     "d68700a4442e",
     "47a11aa775a1",
     "6f835bbe3ddc",
-    "547b8648418b"
+    "39ec33ed2130"
   ]
 }
