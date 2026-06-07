@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-07T19:12:03+00:00",
+  "generated_utc": "2026-06-07T19:13:37+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "959ace2824fe",
-      "pillar": "gaming",
-      "title": "News Immersive Sim Clockwork Revolution Joins Gears of War in Skipping PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/immersive-sim-clockwork-revolution-joins-gears-of-war-in-skipping-ps5",
-      "thumbnail": "/drops/thumbs/959ace2824fe.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8889f8973dcc",
       "pillar": "gaming",
       "title": "Persona 6′ s Big Reveal Was…Kind Of A Let-Down",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/persona-6-finally-officially-revealed-2000703045",
       "thumbnail": "/drops/thumbs/8889f8973dcc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1190163eaafe",
+      "pillar": "gaming",
+      "title": "LIVE Xbox Games Showcase 2026 live coverage – all the news, reveals, and announcements as they happen",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/news/live/xbox-games-showcase-live-coverage-2026-everything-announced/",
+      "thumbnail": "/drops/thumbs/1190163eaafe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
