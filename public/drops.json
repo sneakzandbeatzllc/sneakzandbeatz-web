@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-07T17:11:42+00:00",
+  "generated_utc": "2026-06-07T18:09:38+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "fd54c6c723c4",
+      "pillar": "hiphop",
+      "title": "Ye Performs In Netherlands While Police Focus On Holocaust Denier Arrests",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/ye-performs-in-netherlands-while-police-focus-on-holocaust-denier-arrests/",
+      "thumbnail": "/drops/thumbs/fd54c6c723c4.png",
+      "published": "2026-06-07T14:00:56",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3cefb0a8d8b8",
       "pillar": "hiphop",
       "title": "Jaguar Wright Responds To Jay-Z Diss With Epstein Files Jab “Won’t Say A Word In DC”",
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/newsbreak/newark-uber-eats-ghost-sighting/",
       "thumbnail": "/drops/thumbs/4da803f6edde.jpg",
       "published": "2026-06-07T09:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4fe4812d2632",
-      "pillar": "hiphop",
-      "title": "Charlotte woman sends entrepreneur $5,000 for Houston Airbnb. Then she tries to move in and realizes she was bamboozled: ‘She gotta strategy alright’",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/houston-airbnb-class-5000-dollar-scam/",
-      "thumbnail": "/drops/thumbs/4fe4812d2632.jpg",
-      "published": "2026-06-07T06:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "63672b96f095",
+      "id": "e92368c5d464",
       "pillar": "gaming",
-      "title": "News Godzilla vs GTA 6: Retro Remake Makes PlayStation Debut on PS5 This November",
+      "title": "News Persona 4 Revival Includes P4G Content, Confirms February 2027 Release Date on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/godzilla-vs-gta-6-retro-remake-makes-playstation-debut-on-ps5-this-november",
-      "thumbnail": "/drops/thumbs/63672b96f095.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/persona-4-revival-includes-p4g-content-confirms-february-2027-release-date-on-ps5",
+      "thumbnail": "/drops/thumbs/e92368c5d464.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "e94029ae0737",
+      "id": "ff411eb9b519",
       "pillar": "gaming",
-      "title": "Hideo Kojima Says He’s Not Interested In AI: ‘Maybe AI Could Create Art, But While I Live, I Don’t Think I’ll See It’",
+      "title": "Persona 4 Remake Coming In February",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/hideo-kojima-says-hes-not-interested-in-ai-maybe-ai-could-create-art-but-while-i-live-i-dont-think-ill-see-it-2000703473",
-      "thumbnail": "/drops/thumbs/e94029ae0737.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3de8b7560414",
-      "pillar": "gaming",
-      "title": "News Stellar Blade: Blood Rain's Reveal Is Allegedly Riddled with Generative AI",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/stellar-blade-blood-rains-reveal-is-allegedly-riddled-with-generative-ai",
-      "thumbnail": "/drops/thumbs/3de8b7560414.jpg",
+      "source_url": "https://kotaku.com/persona-4-remake-coming-in-february-2000703641",
+      "thumbnail": "/drops/thumbs/ff411eb9b519.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "8b1431098f89",
+      "id": "80055f7cdd8e",
       "pillar": "gaming",
-      "title": "Rumour Gears of War: E-Day Was Coming to PS5, Xbox Only Just Cancelled Port",
+      "title": "News Halo PS5 Finally Brings Master Chief to Sony's System Next Month",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/rumour-gears-of-war-e-day-was-coming-to-ps5-xbox-only-just-cancelled-port",
-      "thumbnail": "/drops/thumbs/8b1431098f89.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/halo-ps5-finally-brings-master-chief-to-sonys-system-next-month",
+      "thumbnail": "/drops/thumbs/80055f7cdd8e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "31f60d43a4c1",
+      "pillar": "gaming",
+      "title": "News Gears of War: E-Day Is Not Coming to PS5, Xbox Confirms Console Exclusivity",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gears-of-war-e-day-is-not-coming-to-ps5-xbox-confirms-console-exclusivity",
+      "thumbnail": "/drops/thumbs/31f60d43a4c1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "8362d1bf79ba",
-    "3cefb0a8d8b8",
+    "fd54c6c723c4",
     "d68700a4442e",
     "47a11aa775a1",
     "6f835bbe3ddc",
-    "63672b96f095"
+    "e92368c5d464"
   ]
 }
