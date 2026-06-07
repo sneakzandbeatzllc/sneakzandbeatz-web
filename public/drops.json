@@ -1,54 +1,30 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-07T05:22:24+00:00",
+  "generated_utc": "2026-06-07T05:53:16+00:00",
   "items": [
     {
-      "id": "779db71fc001",
+      "id": "8362d1bf79ba",
       "pillar": "sneakers",
-      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
-      "published": "2026-06-06T16:07:15",
+      "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
+      "thumbnail": "/drops/thumbs/8362d1bf79ba.jpg",
+      "published": "2026-06-06T22:42:50",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
     },
     {
-      "id": "a3e23bbf57cc",
+      "id": "d68700a4442e",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-05T17:50:18",
+      "title": "The Air Jordan 1 Low OG “Pine Green” Releases Tomorrow",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-phantom-green-ir2283-030/",
+      "thumbnail": "/drops/thumbs/d68700a4442e.png",
+      "published": "2026-06-05T01:12:00",
       "relative_time": "today",
       "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "7c06fa47f1e9",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
-      "thumbnail": "/drops/thumbs/7c06fa47f1e9.jpg",
-      "published": "2026-06-05T08:04:32",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "a6a205f3962a",
-      "pillar": "sneakers",
-      "title": "Air Jordan 5 “Black/University Blue” Returns June 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-5-black-university-blue-2026/",
-      "thumbnail": "/drops/thumbs/a6a205f3962a.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "release_badge": "Drops This Week"
     },
     {
       "id": "6f835bbe3ddc",
@@ -94,6 +70,30 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-high-love-the-game-dz5485-201/",
       "thumbnail": "/drops/thumbs/502011f4c522.jpg",
       "published": "2026-06-05T14:35:08",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "38f41184bc1e",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
+      "thumbnail": "/drops/thumbs/38f41184bc1e.jpg",
+      "published": "2026-06-03T12:40:40",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "20e0c889b0b9",
+      "pillar": "sneakers",
+      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
+      "thumbnail": "/drops/thumbs/20e0c889b0b9.jpg",
+      "published": "2026-06-03T12:18:14",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "779db71fc001",
+    "8362d1bf79ba",
     "f656958e35ab",
-    "a3e23bbf57cc",
+    "d68700a4442e",
     "47a11aa775a1",
-    "7c06fa47f1e9",
+    "6f835bbe3ddc",
     "63672b96f095"
   ]
 }
