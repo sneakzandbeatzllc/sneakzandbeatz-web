@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T17:02:46+00:00",
+  "generated_utc": "2026-06-08T17:32:54+00:00",
   "items": [
+    {
+      "id": "cdb12351ad98",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 5 in Black & University Blue Returns in June 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
+      "thumbnail": "/drops/thumbs/cdb12351ad98.jpg",
+      "published": "2026-06-08T13:14:42",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
       "thumbnail": "/drops/thumbs/38f41184bc1e.jpg",
       "published": "2026-06-03T12:40:40",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3b30e64441e8",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 OG “True Blue” Will Return in Fall 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-og-true-blue-2026/",
-      "thumbnail": "/drops/thumbs/3b30e64441e8.jpg",
-      "published": "2026-06-03T12:33:48",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "66c41938c6b7",
+      "id": "e262eb036a13",
       "pillar": "anime",
-      "title": "Studio Ghibli meets Stardew Valley in Vivarium, the cozy life sim that stole the Xbox Showcase",
+      "title": "Summer’s best new romance anime just became one of the highest-rated shows on Crunchyroll",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/studio-ghibli-stardew-vivarium-trailer/",
-      "thumbnail": "/drops/thumbs/66c41938c6b7.png",
+      "source_url": "https://www.polygon.com/smoking-behind-supermarket-with-you-crunchyroll-highest-rated/",
+      "thumbnail": "/drops/thumbs/e262eb036a13.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "9fb11ea8face",
+      "id": "66c41938c6b7",
       "pillar": "anime",
-      "title": "Netflix's eccentric 12-part dark fantasy is a masterpiece you'll finish in one weekend",
+      "title": "Studio Ghibli meets Stardew Valley in Vivarium, the cozy life sim that stole the Xbox Showcase",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/eccentric-horror-anime-binge-watch-psychedelic-visuals/",
-      "thumbnail": "/drops/thumbs/9fb11ea8face.jpg",
+      "source_url": "https://www.polygon.com/studio-ghibli-stardew-vivarium-trailer/",
+      "thumbnail": "/drops/thumbs/66c41938c6b7.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "ba872c56824f",
+      "id": "05498b45d8a2",
       "pillar": "gaming",
-      "title": "News Halo PS5 Collector's Edition Instantly Sells Out, and for Good Reason",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/halo-ps5-collectors-edition-instantly-sells-out-and-for-good-reason",
-      "thumbnail": "/drops/thumbs/ba872c56824f.jpg",
+      "title": "Gears of War E-Day pre-orders are live, but PS5 players will have to sit this one out",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/gears-of-war-e-day-pre-orders-are-live-but-ps5-players-will-have-to-sit-this-one-out/",
+      "thumbnail": "/drops/thumbs/05498b45d8a2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "8362d1bf79ba",
+    "cdb12351ad98",
     "62d8cd837b64",
-    "d68700a4442e",
+    "8362d1bf79ba",
     "78c4890c972c",
-    "e21281229ce9",
+    "d68700a4442e",
     "c29a8cd50d5b"
   ]
 }
