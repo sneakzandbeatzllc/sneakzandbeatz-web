@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T19:41:14+00:00",
+  "generated_utc": "2026-06-08T19:42:39+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "cdb12351ad98",
       "pillar": "sneakers",
@@ -58,42 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
       "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
       "published": "2026-06-06T23:06:07",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "461c608b662e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
-      "thumbnail": "/drops/thumbs/461c608b662e.jpg",
-      "published": "2026-06-05T16:31:21",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0abfaadb2746",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
-      "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
-      "published": "2026-06-05T16:30:27",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "38f41184bc1e",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
-      "thumbnail": "/drops/thumbs/38f41184bc1e.jpg",
-      "published": "2026-06-03T12:40:40",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "cdb12351ad98",
+    "094b1500b6a8",
     "b8312ed670fd",
-    "8362d1bf79ba",
+    "43151d13faa3",
     "78c4890c972c",
-    "d68700a4442e",
+    "69fe11c3a7e6",
     "72cc5901744a"
   ]
 }
