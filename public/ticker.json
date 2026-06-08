@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T18:34:34+00:00",
+  "generated_utc": "2026-06-08T18:37:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -207,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "New Halo Remake Trailer Is All Footage From PS5 Pro, Confusing Xbox Fans",
+      "url": "https://kotaku.com/new-halo-remake-trailer-is-all-footage-from-ps5-pro-confusing-xbox-fans-2000704022",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Gears of War E-Day pre-orders are live, but PS5 players will have to sit this one out",
       "url": "https://www.gamesradar.com/games/gears-of-war-e-day-pre-orders-are-live-but-ps5-players-will-have-to-sit-this-one-out/",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Call of Duty: Modern Warfare 4 Delivers The “Definitive” DMZ In The Center Of Korea",
       "url": "https://gameranx.com/updates/id/562949/article/call-of-duty-modern-warfare-4-delivers-the-definitive-dmz-in-the-center-of-korea/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Gears Of War: E-Day Is Xbox’s Return To Console Exclusives",
-      "url": "https://gameranx.com/updates/id/562946/article/gears-of-war-e-day-is-xboxs-return-to-console-exclusives/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
