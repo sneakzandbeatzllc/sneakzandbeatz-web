@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T17:32:54+00:00",
+  "generated_utc": "2026-06-08T17:34:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "News Mass Effect Fans, Feast Your Eyes on a Full 20 Minutes of Exodus Gameplay",
-      "url": "https://www.pushsquare.com/news/2026/06/mass-effect-fans-feast-your-eyes-on-a-full-20-minutes-of-exodus-gameplay",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Final Fantasy 7 Revelation's story changes based on your choices, but it'll have a \"singular ending\"",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-story-changes-based-on-your-choices-but-director-naoki-hamaguchi-says-the-jrpg-will-have-a-singular-ending/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Gears of War E-Day pre-orders are live, but PS5 players will have to sit this one out",
       "url": "https://www.gamesradar.com/games/gears-of-war-e-day-pre-orders-are-live-but-ps5-players-will-have-to-sit-this-one-out/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 Delivers The “Definitive” DMZ In The Center Of Korea",
+      "url": "https://gameranx.com/updates/id/562949/article/call-of-duty-modern-warfare-4-delivers-the-definitive-dmz-in-the-center-of-korea/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T17:32:54+00:00",
+  "generated_utc": "2026-06-08T17:34:16+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "c29a8cd50d5b",
-      "pillar": "gaming",
-      "title": "News Mass Effect Fans, Feast Your Eyes on a Full 20 Minutes of Exodus Gameplay",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/mass-effect-fans-feast-your-eyes-on-a-full-20-minutes-of-exodus-gameplay",
-      "thumbnail": "/drops/thumbs/c29a8cd50d5b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "72cc5901744a",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Revelation's story changes based on your choices, but it'll have a \"singular ending\"",
@@ -385,6 +373,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "a276f588219e",
+      "pillar": "gaming",
+      "title": "Call of Duty: Modern Warfare 4 Delivers The “Definitive” DMZ In The Center Of Korea",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562949/article/call-of-duty-modern-warfare-4-delivers-the-definitive-dmz-in-the-center-of-korea/",
+      "thumbnail": "/drops/thumbs/a276f588219e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "8362d1bf79ba",
     "78c4890c972c",
     "d68700a4442e",
-    "c29a8cd50d5b"
+    "72cc5901744a"
   ]
 }
