@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T15:31:44+00:00",
+  "generated_utc": "2026-06-08T16:00:19+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "10 GL Anime You Don't Want to Miss",
-      "url": "https://screenrant.com/best-gl-yuri-anime-pride/",
+      "title": "Blue Lock Season 3 Confirmed Alongside New Movie",
+      "url": "https://screenrant.com/blue-lock-season-3-movie-confirmed/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -188,13 +188,6 @@
     {
       "title": "Final Fantasy VII Revelation Revealed; 3rd Chapter Coming On All Platforms At The Same Time Spring 2027",
       "url": "https://gameranx.com/updates/id/562957/article/final-fantasy-vii-revelation-revealed-3rd-chapter-coming-on-all-platforms-at-the-same-time-spring-2027/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "9 Details From The Final Fantasy 7 Revelation Reveal Trailer We Can’t Stop Thinking About",
-      "url": "https://kotaku.com/9-details-from-the-final-fantasy-7-revelation-reveal-trailer-we-cant-stop-thinking-about-2000703598",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "Atlus Warns Public After Katsura Hashino Impersonator Fools Persona and Metaphor ReFantazio Fans",
       "url": "https://gameranx.com/updates/id/562941/article/atlus-warns-public-after-katsura-hashino-impersonator-fools-persona-and-metaphor-refantazio-fans/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News As Xbox Returns to Exclusives, Halo Remake Embraces PS5 with PS5 Pro Gameplay Trailer",
+      "url": "https://www.pushsquare.com/news/2026/06/as-xbox-returns-to-exclusives-halo-remake-embraces-ps5-with-ps5-pro-gameplay-trailer",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
