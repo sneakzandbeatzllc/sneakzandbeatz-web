@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T08:28:21+00:00",
+  "generated_utc": "2026-06-08T08:42:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,13 +32,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 OG “True Blue” Returns July 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-true-blue-2026/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null

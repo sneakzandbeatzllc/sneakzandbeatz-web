@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T08:28:21+00:00",
+  "generated_utc": "2026-06-08T08:42:45+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "6f835bbe3ddc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 OG “True Blue” Returns July 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-true-blue-2026/",
-      "thumbnail": "/drops/thumbs/6f835bbe3ddc.jpg",
-      "published": "2026-06-03T11:49:36",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
       "id": "e21281229ce9",
       "pillar": "sneakers",
       "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
       "thumbnail": "/drops/thumbs/461c608b662e.jpg",
       "published": "2026-06-05T16:31:21",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0abfaadb2746",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
+      "published": "2026-06-05T16:30:27",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
