@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T00:22:21+00:00",
+  "generated_utc": "2026-06-08T01:21:48+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -60,65 +39,79 @@
       "article_slug": null
     },
     {
-      "title": "EXCLUSIVE: Cassie Overdosed On GHB &  Freak-Off Kept Going As Diddy Panicked",
-      "url": "https://allhiphop.com/news/cassie-overdosed-on-ghb-freak-off-kept-going-as-diddy-panicked/",
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
+      "url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "InvestInStockz Is Hip-Hop’s Greenprint for Ownership, Risk, and Generational Motion",
+      "url": "https://thesource.com/2026/06/06/investinstockz-is-hip-hops-greenprint-for-ownership-risk-and-generational-motion/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Clayton Howard Fires Back At Cassie Ventura In Fiery Video",
-      "url": "https://allhiphop.com/rumors/clayton-howard-fires-back-at-cassie-ventura-in-fiery-video/",
+      "title": "Celine Dion Honors Peabo Bryson in Emotional Tribute After His Death",
+      "url": "https://thesource.com/2026/06/06/celine-dion-peabo-bryson-tribute/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Baby Keem Reveals Five-Year Health Battle Nearly Ended His Career",
-      "url": "https://allhiphop.com/news/baby-keem-reveals-five-year-health-battle-nearly-ended-his-career/",
+      "title": "Rob49 Teams Up With Skillibeng for New Summer Anthem “Bad B*tch”",
+      "url": "https://thesource.com/2026/06/06/rob49-bad-bitch-featuring-skillibeng/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Chris Brown Refuses Limited Visitation In Custody Battle",
-      "url": "https://allhiphop.com/news/chris-brown-refuses-limited-visitation-in-custody-battle/",
+      "title": "Steve Lacy Announces Third Album ‘Oh yeah?,’ Shares New Single “the feeling”",
+      "url": "https://thesource.com/2026/06/06/steve-lacy-oh-yeah-album-the-feeling/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Bankruptcy Technicality Costs 2 Live Crew Their Recorded Music Copyrights",
-      "url": "https://allhiphop.com/news/bankruptcy-technicality-costs-2-live-crew-their-recorded-music-copyrights/",
+      "title": "Lena the Plug Files for Divorce From Adam22, Seeks Custody of Daughter",
+      "url": "https://thesource.com/2026/06/06/lena-the-plug-files-divorce-adam22/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "EBK Jaaybo Pleads Guilty To Federal Machine Gun Charges",
-      "url": "https://allhiphop.com/news/ebk-jaaybo-pleads-guilty-to-federal-machine-gun-charges/",
+      "title": "Hundred Stacks Blends Street Motivation and Business Savvy on New Single “Run It Up”",
+      "url": "https://thesource.com/2026/06/06/hundred-stacks-blends-street-motivation-and-business-savvy-on-new-single-run-it-up/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Megan Thee Stallion Brings The Heat To Baywatch Reboot In Long Beach",
-      "url": "https://allhiphop.com/news/megan-thee-stallion-brings-the-heat-to-baywatch-reboot-in-long-beach/",
+      "title": "New Music Friday: Fivio Foreign, Loui Paso, and Jon Z Bridge Drill and Latin Trap on “Untouchable”",
+      "url": "https://thesource.com/2026/06/05/new-music-friday-fivio-foreign-loui-paso-and-jon-z-bridge-drill-and-latin-trap-on-untouchable/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Ye Performs In Netherlands While Police Focus On Holocaust Denier Arrests",
-      "url": "https://allhiphop.com/news/ye-performs-in-netherlands-while-police-focus-on-holocaust-denier-arrests/",
+      "title": "Blaqbonez Surpasses 700 Million Career Streams As “Chanel” Feat. Asake Charts In 97 Countries",
+      "url": "https://thesource.com/2026/06/05/blaqbonez-surpasses-700-million-career-streams-as-chanel-feat-asake-charts-in-97-countries/",
       "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Attack on Titan's ending debate is about to explode again thanks to an anime remake",
-      "url": "https://www.polygon.com/attack-on-titan-3-might-reignite-the-animes-biggest-debate/",
-      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -137,22 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "My Hero Academia Meets Detective Conan In Shonen Jump's Biggest Sleeper Hit Of 2026",
-      "url": "https://screenrant.com/kill-blue-my-hero-academia-meets-detective-conan-2026/",
+      "title": "13 Years Later, Naruto Still Has The Best Villain In Shonen History, And It's Not Close",
+      "url": "https://screenrant.com/naruto-madara-best-villain-shonen-history/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Kaiju Girl Caramelise Anime's New Video Unveils More Staff, Theme Songs, July 2 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/kaiju-girl-caramelise-anime-new-video-unveils-more-staff-theme-songs-july-2-debut/.238245",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dara-san of Reiwa Anime's 2nd Trailer Reveals More Cast Members, Ending Song, July 2 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/dara-san-of-reiwa-anime-2nd-trailer-reveals-more-cast-members-ending-song-july-2-debut/.238238",
+      "title": "Studio Ghibli meets Stardew Valley in Vivarium, the cozy life sim that stole the Xbox Showcase",
+      "url": "https://www.polygon.com/studio-ghibli-stardew-vivarium-trailer/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,9 +151,30 @@
       "article_slug": null
     },
     {
-      "title": "The Villager of Level 999 Anime's Main Promo Video Unveils More Staff Members, Ending Song, July 1 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/the-villager-of-level-999-anime-main-promo-video-unveils-more-staff-members-ending-song-july-1-debut/.238241",
+      "title": "Crunchyroll's Cutest Romance Of 2026 Is So Great, It's Already Returning For Season 2 This Summer",
+      "url": "https://screenrant.com/you-and-i-polar-opposites-returning-summer/",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "2026's Most Anticipated Webtoon Announces Major New Release, And It's Glorious",
+      "url": "https://screenrant.com/eleceed-webtoon-return-print/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Even Gundam's Creator Admits That BL Saved The Mecha Genre",
+      "url": "https://screenrant.com/gundam-saved-cancellation-bl-saved-mecha-genre/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Stellar Blade Dev Explains New Hero Design, Praises Sony's Publishing Support",
+      "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-dev-explains-new-hero-design-praises-sonys-publishing-support",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -207,13 +214,6 @@
       "article_slug": null
     },
     {
-      "title": "News 'There's a Finished Version of Gears of War PS5 Sitting on a Drive': New Game E-Day Was Almost Done",
-      "url": "https://www.pushsquare.com/news/2026/06/theres-a-finished-version-of-gears-of-war-ps5-sitting-on-a-drive-new-game-e-day-was-almost-done",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Everything We Learned From The Gears Of War: E-Day Direct",
       "url": "https://kotaku.com/everything-we-learned-from-the-gears-of-war-e-day-direct-2000703747",
       "pillar": "gaming",
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Round Up All the PS5 Reveals from the Xbox Showcase 2026",
-      "url": "https://www.pushsquare.com/features/round-up-all-the-ps5-reveals-from-the-xbox-showcase-2026",
+      "title": "News 'There's a Finished Version of Gears of War PS5 Sitting on a Drive': New Game E-Day Was Almost Done",
+      "url": "https://www.pushsquare.com/news/2026/06/theres-a-finished-version-of-gears-of-war-ps5-sitting-on-a-drive-new-game-e-day-was-almost-done",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
