@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T09:44:55+00:00",
+  "generated_utc": "2026-06-08T10:32:03+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "95685fd42725",
+      "pillar": "hiphop",
+      "title": "‘I’d probably walk out’: Phoenix woman goes on first date. So, she brings along an Uno Reverse card just in case",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/phoenix-woman-brings-friend-first-date/",
+      "thumbnail": "/drops/thumbs/95685fd42725.jpg",
+      "published": "2026-06-08T06:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0b2e45114901",
       "pillar": "hiphop",
       "title": "Today In Hip Hop History: Cult Classic ‘Beat Street’ Premiered In Theaters 43 Years Ago",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "6643d4e743d5",
-      "pillar": "hiphop",
-      "title": "Chris Brown Refuses Limited Visitation In Custody Battle",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/chris-brown-refuses-limited-visitation-in-custody-battle/",
-      "thumbnail": "/drops/thumbs/6643d4e743d5.png",
-      "published": "2026-06-07T18:00:56",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "78c4890c972c",
       "pillar": "anime",
       "title": "Dragon Ball Meets One-Punch Man In 2026's Most Underrated Action Anime",
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "669ae90a3829",
+      "id": "94b089b3e48f",
       "pillar": "anime",
-      "title": "Tamamori's Fantasies Never Stop Manga's Tatsuwaipu Launches New Series",
+      "title": "'Draw This, Then Die!' Anime's 2nd Promo Video Reveals Ending Song",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-07/tamamori-fantasies-never-stop-manga-tatsuwaipu-launches-new-series/.238227",
-      "thumbnail": "/drops/thumbs/669ae90a3829.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/draw-this-then-die-anime-2nd-promo-video-reveals-ending-song/.238274",
+      "thumbnail": "/drops/thumbs/94b089b3e48f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +225,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/studio-ghibli-stardew-vivarium-trailer/",
       "thumbnail": "/drops/thumbs/66c41938c6b7.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "669ae90a3829",
+      "pillar": "anime",
+      "title": "Tamamori's Fantasies Never Stop Manga's Tatsuwaipu Launches New Series",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-07/tamamori-fantasies-never-stop-manga-tatsuwaipu-launches-new-series/.238227",
+      "thumbnail": "/drops/thumbs/669ae90a3829.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "5c78a32a9043",
-      "pillar": "anime",
-      "title": "Crunchyroll's Witch Hat Atelier Episode #11 Sets Up Major Risks In Second Exam Arc (Review)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/crunchyroll-witch-hat-atelier-episode-11-review/",
-      "thumbnail": "/drops/thumbs/5c78a32a9043.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8ba4b8fcca37",
       "pillar": "gaming",
       "title": "News Stellar Blade Dev Explains New Hero Design, Praises Sony's Publishing Support",
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "26c819f9853b",
+      "id": "100785bf0e20",
       "pillar": "gaming",
-      "title": "Resident Evil Veronica Releasing 2027 For PS5, Xbox Series X|S, Switch 2, and PC",
+      "title": "Final Fantasy VII Revelation Revealed; 3rd Chapter Coming On All Platforms At The Same Time Spring 2027",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562953/article/resident-evil-veronica-releasing-2027-for-ps5-xbox-series-xs-switch-2-and-pc/",
-      "thumbnail": "/drops/thumbs/26c819f9853b.jpg",
+      "source_url": "https://gameranx.com/updates/id/562957/article/final-fantasy-vii-revelation-revealed-3rd-chapter-coming-on-all-platforms-at-the-same-time-spring-2027/",
+      "thumbnail": "/drops/thumbs/100785bf0e20.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "f4f475d53211",
+      "id": "26c819f9853b",
       "pillar": "gaming",
-      "title": "Atlus Warns Public After Katsura Hashino Impersonator Fools Persona and Metaphor ReFantazio Fans",
+      "title": "Resident Evil Veronica Releasing 2027 For PS5, Xbox Series X|S, Switch 2, and PC",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562941/article/atlus-warns-public-after-katsura-hashino-impersonator-fools-persona-and-metaphor-refantazio-fans/",
-      "thumbnail": "/drops/thumbs/f4f475d53211.jpg",
+      "source_url": "https://gameranx.com/updates/id/562953/article/resident-evil-veronica-releasing-2027-for-ps5-xbox-series-xs-switch-2-and-pc/",
+      "thumbnail": "/drops/thumbs/26c819f9853b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "f4f475d53211",
+      "pillar": "gaming",
+      "title": "Atlus Warns Public After Katsura Hashino Impersonator Fools Persona and Metaphor ReFantazio Fans",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562941/article/atlus-warns-public-after-katsura-hashino-impersonator-fools-persona-and-metaphor-refantazio-fans/",
+      "thumbnail": "/drops/thumbs/f4f475d53211.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "51f158dd904f",
       "pillar": "gaming",
       "title": "Elden Ring Tarnished Edition Releasing On Nintendo Switch 2 This August 28",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "a068c8ae5c6b",
-      "pillar": "gaming",
-      "title": "Everything We Learned From The Gears Of War: E-Day Direct",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/everything-we-learned-from-the-gears-of-war-e-day-direct-2000703747",
-      "thumbnail": "/drops/thumbs/a068c8ae5c6b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "8362d1bf79ba",
-    "0b2e45114901",
+    "95685fd42725",
     "779db71fc001",
     "78c4890c972c",
     "a3e23bbf57cc",
