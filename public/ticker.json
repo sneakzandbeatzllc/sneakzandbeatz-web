@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T20:43:46+00:00",
+  "generated_utc": "2026-06-08T21:14:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Photo Recap: Prince Celebration 2026 Draws Thousands to Minneapolis for a Week Honoring a Music Legend",
+      "url": "https://thesource.com/2026/06/08/prince-celebration-2026-minneapolis-recap/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Seven Reasons Why Prince Celebration 2026 Was a Gift to Prince Fans and Music Lovers",
+      "url": "https://thesource.com/2026/06/08/prince-celebration-2026/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Omega Sparx & Joshua Penn “C.G.C.",
       "url": "https://allhiphop.com/music/omega-sparx-joshua-penn-c-g-c/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "Could Diddy Leave Prison Early? New Federal Policy Pushes Rumors Forward",
       "url": "https://allhiphop.com/rumors/could-diddy-leave-prison-early-new-federal-policy-pushes-rumors-forward/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Idris Elba Says James Bond Casting Rumors Were “Never Legit”",
-      "url": "https://thesource.com/2026/06/08/idris-elba-james-bond-rumors-never-legit/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Prince Estate Announces Timeless Collection Featuring Unreleased Music",
-      "url": "https://thesource.com/2026/06/08/prince-timeless-unreleased-album-stone/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "New Halo Remake Trailer Is All Footage From PS5 Pro, Confusing Xbox Fans",
-      "url": "https://kotaku.com/new-halo-remake-trailer-is-all-footage-from-ps5-pro-confusing-xbox-fans-2000704022",
+      "title": "Avengers: Doomsday toy leaks give best look yet at Doctor Doom and a slightly new look for Captain America",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-toy-leaks-give-best-look-yet-at-doctor-doom-and-a-slightly-new-look-for-captain-america/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
