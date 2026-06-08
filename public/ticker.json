@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T11:35:22+00:00",
+  "generated_utc": "2026-06-08T11:49:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "‘I’d probably walk out’: Phoenix woman goes on first date. So, she brings along an Uno Reverse card just in case",
+      "url": "https://allhiphop.com/newsbreak/phoenix-woman-brings-friend-first-date/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Today In Hip Hop History: Cult Classic ‘Beat Street’ Premiered In Theaters 43 Years Ago",
       "url": "https://thesource.com/2026/06/08/today-in-hip-hop-history-cult-classic-beat-street-premiered-in-theaters-43-years-ago/",
       "pillar": "hiphop",
@@ -67,50 +74,43 @@
       "article_slug": null
     },
     {
-      "title": "InvestInStockz Is Hip-Hop’s Greenprint for Ownership, Risk, and Generational Motion",
-      "url": "https://thesource.com/2026/06/06/investinstockz-is-hip-hops-greenprint-for-ownership-risk-and-generational-motion/",
+      "title": "Doechii Discovered Jay-Z’s Catalog Late & Came Away Stunned By His Artistic Growth",
+      "url": "https://allhiphop.com/news/doechii-discovered-jay-zs-catalog-late-and-came-away-stunned-by-his-growth/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Celine Dion Honors Peabo Bryson in Emotional Tribute After His Death",
-      "url": "https://thesource.com/2026/06/06/celine-dion-peabo-bryson-tribute/",
+      "title": "Ye Visit Rejected By Holocaust Museum After Mayor’s Invite In Netherlands",
+      "url": "https://allhiphop.com/news/ye-visit-rejected-by-holocaust-museum-after-mayors-invite-in-netherlands/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Rob49 Teams Up With Skillibeng for New Summer Anthem “Bad B*tch”",
-      "url": "https://thesource.com/2026/06/06/rob49-bad-bitch-featuring-skillibeng/",
+      "title": "BroRilla Revives GloRilla Beef With “Therapy Session” Video",
+      "url": "https://allhiphop.com/uncategorized/brorilla-revives-glorilla-beef-with-therapy-session-video/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Steve Lacy Announces Third Album ‘Oh yeah?,’ Shares New Single “the feeling”",
-      "url": "https://thesource.com/2026/06/06/steve-lacy-oh-yeah-album-the-feeling/",
+      "title": "EXCLUSIVE: Cassie Overdosed On GHB &  Freak-Off Kept Going As Diddy Panicked",
+      "url": "https://allhiphop.com/news/cassie-overdosed-on-ghb-freak-off-kept-going-as-diddy-panicked/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Lena the Plug Files for Divorce From Adam22, Seeks Custody of Daughter",
-      "url": "https://thesource.com/2026/06/06/lena-the-plug-files-divorce-adam22/",
+      "title": "Clayton Howard Fires Back At Cassie Ventura In Fiery Video",
+      "url": "https://allhiphop.com/rumors/clayton-howard-fires-back-at-cassie-ventura-in-fiery-video/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Hundred Stacks Blends Street Motivation and Business Savvy on New Single “Run It Up”",
-      "url": "https://thesource.com/2026/06/06/hundred-stacks-blends-street-motivation-and-business-savvy-on-new-single-run-it-up/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New Music Friday: Fivio Foreign, Loui Paso, and Jon Z Bridge Drill and Latin Trap on “Untouchable”",
-      "url": "https://thesource.com/2026/06/05/new-music-friday-fivio-foreign-loui-paso-and-jon-z-bridge-drill-and-latin-trap-on-untouchable/",
+      "title": "Baby Keem Reveals Five-Year Health Battle Nearly Ended His Career",
+      "url": "https://allhiphop.com/news/baby-keem-reveals-five-year-health-battle-nearly-ended-his-career/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News Stellar Blade Dev Explains New Hero Design, Praises Sony's Publishing Support",
-      "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-dev-explains-new-hero-design-praises-sonys-publishing-support",
+      "title": "News Persona 4 Revival Story and Gameplay Blowout Airs Next Week",
+      "url": "https://www.pushsquare.com/news/2026/06/persona-4-revival-story-and-gameplay-blowout-airs-next-week",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,6 +188,13 @@
     {
       "title": "Final Fantasy VII Revelation Revealed; 3rd Chapter Coming On All Platforms At The Same Time Spring 2027",
       "url": "https://gameranx.com/updates/id/562957/article/final-fantasy-vii-revelation-revealed-3rd-chapter-coming-on-all-platforms-at-the-same-time-spring-2027/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Stellar Blade Dev Explains New Hero Design, Praises Sony's Publishing Support",
+      "url": "https://www.pushsquare.com/news/2026/06/stellar-blade-dev-explains-new-hero-design-praises-sonys-publishing-support",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Atlus Warns Public After Katsura Hashino Impersonator Fools Persona and Metaphor ReFantazio Fans",
       "url": "https://gameranx.com/updates/id/562941/article/atlus-warns-public-after-katsura-hashino-impersonator-fools-persona-and-metaphor-refantazio-fans/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Elden Ring Tarnished Edition Releasing On Nintendo Switch 2 This August 28",
-      "url": "https://gameranx.com/updates/id/562939/article/elden-ring-tarnished-edition-releasing-on-nintendo-switch-2-this-august-28/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
