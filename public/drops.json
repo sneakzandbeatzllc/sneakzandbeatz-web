@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T02:30:09+00:00",
+  "generated_utc": "2026-06-08T03:29:07+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -195,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "f2f565b3f9d8",
-      "pillar": "anime",
-      "title": "Demon Slayer Infinity Castle Part 2 Will Confirm The Series' Female Cast Is Way Better Than Fans Think",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-female-cast-good/",
-      "thumbnail": "/drops/thumbs/f2f565b3f9d8.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5420f346feeb",
-      "pillar": "anime",
-      "title": "Epic New Action Series Apollyon Is The Jujutsu Kaisen Successor Fans Have Been Waiting For (Exclusive)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/apollyon-jujutsu-kaisen-successor-action/",
-      "thumbnail": "/drops/thumbs/5420f346feeb.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "33c68d46005f",
       "pillar": "anime",
       "title": "13 Years Later, Naruto Still Has The Best Villain In Shonen History, And It's Not Close",
@@ -249,6 +225,30 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/eccentric-horror-anime-binge-watch-psychedelic-visuals/",
       "thumbnail": "/drops/thumbs/9fb11ea8face.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b562afecc38d",
+      "pillar": "anime",
+      "title": "10 Greatest Shonen Anime Every Fan Needs to Watch At Least Once",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/greatest-shonen-anime-watch-once/",
+      "thumbnail": "/drops/thumbs/b562afecc38d.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c2d1ab2d13d3",
+      "pillar": "anime",
+      "title": "Crunchyroll's Mushoku Tensei Is Returning, And the Controversial Isekai Already Looks Stunning",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/mushoku-tensei-return-2026-crunchyroll/",
+      "thumbnail": "/drops/thumbs/c2d1ab2d13d3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "8362d1bf79ba",
     "951ab3aa65a1",
     "d68700a4442e",
-    "f2f565b3f9d8",
+    "33c68d46005f",
     "6f835bbe3ddc",
     "8ba4b8fcca37"
   ]
