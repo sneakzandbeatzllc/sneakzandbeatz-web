@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T16:00:19+00:00",
+  "generated_utc": "2026-06-08T16:31:12+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "62d8cd837b64",
+      "pillar": "hiphop",
+      "title": "‘They do this all the time’: Zara employees chase woman who didn’t shoplift out of store. Then a former North Carolina Lululemon manager weighs in",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/newsbreak/zara-shoplifting-false-accusation-lululemon-manager-opinion/",
+      "thumbnail": "/drops/thumbs/62d8cd837b64.jpg",
+      "published": "2026-06-08T12:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "aac7440ede78",
       "pillar": "hiphop",
       "title": "Young Boss Tevo Arrest: Durham Man Charged With Murder In 83 Babies Rapper Shooting",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "78c285733643",
-      "pillar": "hiphop",
-      "title": "‘Scary Movie 6’ Scores Record-Breaking $105 Million Global Debut",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/08/scary-movie-6-record-breaking-box-office/",
-      "thumbnail": "/drops/thumbs/78c285733643.jpg",
-      "published": "2026-06-08T08:05:12",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "78c4890c972c",
       "pillar": "anime",
       "title": "Dragon Ball Meets One-Punch Man In 2026's Most Underrated Action Anime",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "1f91a573f06a",
+      "id": "2de9345d76d8",
       "pillar": "anime",
-      "title": "EXCLUSIVE: X² - Double X OVA Gets 1st-Ever Digital Release on Crunchyroll, X Japan's Yoshiki Talks to ANN About Work's Significance",
+      "title": "Fuji TV Launches Webtoon Label TOON8, Enters Industry with LINE Manga Partnership",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/exclusive-x-2-double-x-ova-gets-1st-ever-digital-release-on-crunchyroll-x-japan-yoshiki-talks-to-/.238231",
-      "thumbnail": "/drops/thumbs/1f91a573f06a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/fuji-tv-launches-webtoon-label-toon8-enters-industry-with-line-manga-partnership/.238221",
+      "thumbnail": "/drops/thumbs/2de9345d76d8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "f8a7dd0b198a",
+      "id": "bc127e71583d",
       "pillar": "anime",
-      "title": "Japanese Animation TV Ranking, May 25-31",
+      "title": "Blue Lock Season 3 Reveals 'Neo Egoist League' Subtitle, Visual",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/japanese-animation-tv-ranking-may-25-31/.238166",
-      "thumbnail": "/drops/thumbs/f8a7dd0b198a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/blue-lock-season-3-reveals-neo-egoist-league-subtitle-visual/.238281",
+      "thumbnail": "/drops/thumbs/bc127e71583d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "94b089b3e48f",
+      "id": "1f91a573f06a",
       "pillar": "anime",
-      "title": "'Draw This, Then Die!' Anime's 2nd Promo Video Reveals Ending Song",
+      "title": "EXCLUSIVE: X² - Double X OVA Gets 1st-Ever Digital Release on Crunchyroll, X Japan's Yoshiki Talks to ANN About Work's Significance",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/draw-this-then-die-anime-2nd-promo-video-reveals-ending-song/.238274",
-      "thumbnail": "/drops/thumbs/94b089b3e48f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/exclusive-x-2-double-x-ova-gets-1st-ever-digital-release-on-crunchyroll-x-japan-yoshiki-talks-to-/.238231",
+      "thumbnail": "/drops/thumbs/1f91a573f06a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "39ec33ed2130",
-      "pillar": "gaming",
-      "title": "Hands-on Exodus hands-on: \"Carries the Mass Effect baton well into deep space with ambitious RPG mechanics that let me get tactical\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/exodus-hands-on-big-preview/",
-      "thumbnail": "/drops/thumbs/39ec33ed2130.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f4f475d53211",
       "pillar": "gaming",
       "title": "Atlus Warns Public After Katsura Hashino Impersonator Fools Persona and Metaphor ReFantazio Fans",
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "ba872c56824f",
+      "pillar": "gaming",
+      "title": "News Halo PS5 Collector's Edition Instantly Sells Out, and for Good Reason",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/halo-ps5-collectors-edition-instantly-sells-out-and-for-good-reason",
+      "thumbnail": "/drops/thumbs/ba872c56824f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "8362d1bf79ba",
-    "aac7440ede78",
+    "62d8cd837b64",
     "d68700a4442e",
     "78c4890c972c",
     "e21281229ce9",

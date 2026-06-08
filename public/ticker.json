@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T16:00:19+00:00",
+  "generated_utc": "2026-06-08T16:31:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "‘They do this all the time’: Zara employees chase woman who didn’t shoplift out of store. Then a former North Carolina Lululemon manager weighs in",
+      "url": "https://allhiphop.com/newsbreak/zara-shoplifting-false-accusation-lululemon-manager-opinion/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Young Boss Tevo Arrest: Durham Man Charged With Murder In 83 Babies Rapper Shooting",
       "url": "https://allhiphop.com/news/young-boss-tevo-arrest-durham-man-charged-with-murder-in-83-babies-rapper-shooting/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "‘Scary Movie 6’ Scores Record-Breaking $105 Million Global Debut",
-      "url": "https://thesource.com/2026/06/08/scary-movie-6-record-breaking-box-office/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball Meets One-Punch Man In 2026's Most Underrated Action Anime",
       "url": "https://screenrant.com/rooster-fighter-underrated-action-anime/",
       "pillar": "anime",
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "EXCLUSIVE: X² - Double X OVA Gets 1st-Ever Digital Release on Crunchyroll, X Japan's Yoshiki Talks to ANN About Work's Significance",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-08/exclusive-x-2-double-x-ova-gets-1st-ever-digital-release-on-crunchyroll-x-japan-yoshiki-talks-to-/.238231",
+      "title": "Fuji TV Launches Webtoon Label TOON8, Enters Industry with LINE Manga Partnership",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-08/fuji-tv-launches-webtoon-label-toon8-enters-industry-with-line-manga-partnership/.238221",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Japanese Animation TV Ranking, May 25-31",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-08/japanese-animation-tv-ranking-may-25-31/.238166",
+      "title": "Blue Lock Season 3 Reveals 'Neo Egoist League' Subtitle, Visual",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-08/blue-lock-season-3-reveals-neo-egoist-league-subtitle-visual/.238281",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "'Draw This, Then Die!' Anime's 2nd Promo Video Reveals Ending Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-08/draw-this-then-die-anime-2nd-promo-video-reveals-ending-song/.238274",
+      "title": "EXCLUSIVE: X² - Double X OVA Gets 1st-Ever Digital Release on Crunchyroll, X Japan's Yoshiki Talks to ANN About Work's Significance",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-08/exclusive-x-2-double-x-ova-gets-1st-ever-digital-release-on-crunchyroll-x-japan-yoshiki-talks-to-/.238231",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "Hands-on Exodus hands-on: \"Carries the Mass Effect baton well into deep space with ambitious RPG mechanics that let me get tactical\"",
-      "url": "https://www.gamesradar.com/games/rpg/exodus-hands-on-big-preview/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Atlus Warns Public After Katsura Hashino Impersonator Fools Persona and Metaphor ReFantazio Fans",
       "url": "https://gameranx.com/updates/id/562941/article/atlus-warns-public-after-katsura-hashino-impersonator-fools-persona-and-metaphor-refantazio-fans/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "News As Xbox Returns to Exclusives, Halo Remake Embraces PS5 with PS5 Pro Gameplay Trailer",
       "url": "https://www.pushsquare.com/news/2026/06/as-xbox-returns-to-exclusives-halo-remake-embraces-ps5-with-ps5-pro-gameplay-trailer",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Halo PS5 Collector's Edition Instantly Sells Out, and for Good Reason",
+      "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-collectors-edition-instantly-sells-out-and-for-good-reason",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
