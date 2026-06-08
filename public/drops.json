@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-07T23:22:10+00:00",
+  "generated_utc": "2026-06-08T00:19:28+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -63,39 +99,27 @@
       "release_badge": ""
     },
     {
-      "id": "461c608b662e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
-      "thumbnail": "/drops/thumbs/461c608b662e.jpg",
-      "published": "2026-06-05T16:31:21",
+      "id": "b5262697a3d4",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Cassie Overdosed On GHB &  Freak-Off Kept Going As Diddy Panicked",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/cassie-overdosed-on-ghb-freak-off-kept-going-as-diddy-panicked/",
+      "thumbnail": "/drops/thumbs/b5262697a3d4.jpg",
+      "published": "2026-06-07T20:00:52",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "0abfaadb2746",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
-      "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
-      "published": "2026-06-05T16:30:27",
+      "id": "55ab97a3acb7",
+      "pillar": "hiphop",
+      "title": "Clayton Howard Fires Back At Cassie Ventura In Fiery Video",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/clayton-howard-fires-back-at-cassie-ventura-in-fiery-video/",
+      "thumbnail": "/drops/thumbs/55ab97a3acb7.jpg",
+      "published": "2026-06-07T19:30:00",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "38f41184bc1e",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
-      "thumbnail": "/drops/thumbs/38f41184bc1e.jpg",
-      "published": "2026-06-03T12:40:40",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -171,36 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "3cefb0a8d8b8",
-      "pillar": "hiphop",
-      "title": "Jaguar Wright Responds To Jay-Z Diss With Epstein Files Jab “Won’t Say A Word In DC”",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/jaguar-wright-responds-to-jay-z-diss-with-epstein-files-jab-wont-say-a-word-in-dc/",
-      "thumbnail": "/drops/thumbs/3cefb0a8d8b8.jpg",
-      "published": "2026-06-07T13:00:56",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cf736efc1e94",
-      "pillar": "hiphop",
-      "title": "Boosie Says “No Trans Women” To His Pool Party",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/boosie-says-no-trans-women-to-his-pool-party/",
-      "thumbnail": "/drops/thumbs/cf736efc1e94.jpg",
-      "published": "2026-06-07T12:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "47a11aa775a1",
       "pillar": "anime",
       "title": "Attack on Titan's ending debate is about to explode again thanks to an anime remake",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/attack-on-titan-3-might-reignite-the-animes-biggest-debate/",
       "thumbnail": "/drops/thumbs/47a11aa775a1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f2f565b3f9d8",
+      "pillar": "anime",
+      "title": "Demon Slayer Infinity Castle Part 2 Will Confirm The Series' Female Cast Is Way Better Than Fans Think",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-female-cast-good/",
+      "thumbnail": "/drops/thumbs/f2f565b3f9d8.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-07/the-villager-of-level-999-anime-main-promo-video-unveils-more-staff-members-ending-song-july-1-debut/.238241",
       "thumbnail": "/drops/thumbs/cb316d18a0c5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ab581f1b7d2d",
-      "pillar": "anime",
-      "title": "2026's Most Anticipated Webtoon Announces Major New Release, And It's Glorious",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/eleceed-webtoon-return-print/",
-      "thumbnail": "/drops/thumbs/ab581f1b7d2d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "8362d1bf79ba",
-    "ecce40013ab3",
-    "d68700a4442e",
+    "094b1500b6a8",
+    "b5262697a3d4",
+    "43151d13faa3",
     "47a11aa775a1",
-    "6f835bbe3ddc",
+    "69fe11c3a7e6",
     "39ec33ed2130"
   ]
 }
