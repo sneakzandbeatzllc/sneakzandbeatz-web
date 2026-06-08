@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T11:17:30+00:00",
+  "generated_utc": "2026-06-08T11:33:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "The Air Jordan 3 BIN 23 Releases Next Week",
-      "url": "https://justfreshkicks.com/air-jordan-3-bin-23-io7744-600/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
