@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T16:33:40+00:00",
+  "generated_utc": "2026-06-08T17:02:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,8 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "Fuji TV Launches Webtoon Label TOON8, Enters Industry with LINE Manga Partnership",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-08/fuji-tv-launches-webtoon-label-toon8-enters-industry-with-line-manga-partnership/.238221",
+      "title": "A Free Anime Streaming Service Just Stole My Hero Academia From Crunchyroll",
+      "url": "https://screenrant.com/samsung-tv-steels-my-hero-academia-from-crunchyroll/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Anime Expo Hosts Sega's Takashi Iizuka, Kazuhisa Wada, Shigenori Soejima, More Guests",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-08/anime-expo-hosts-sega-takashi-iizuka-kazuhisa-wada-shigenori-soejima-more-guests/.238280",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Blue Lock Season 3 Reveals 'Neo Egoist League' Subtitle, Visual",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-08/blue-lock-season-3-reveals-neo-egoist-league-subtitle-visual/.238281",
+      "title": "Fuji TV Launches Webtoon Label TOON8, Enters Industry with LINE Manga Partnership",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-08/fuji-tv-launches-webtoon-label-toon8-enters-industry-with-line-manga-partnership/.238221",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "EXCLUSIVE: X² - Double X OVA Gets 1st-Ever Digital Release on Crunchyroll, X Japan's Yoshiki Talks to ANN About Work's Significance",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-08/exclusive-x-2-double-x-ova-gets-1st-ever-digital-release-on-crunchyroll-x-japan-yoshiki-talks-to-/.238231",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Blue Lock Season 3 Confirmed Alongside New Movie",
-      "url": "https://screenrant.com/blue-lock-season-3-movie-confirmed/",
+      "title": "Blue Lock Season 3 Reveals 'Neo Egoist League' Subtitle, Visual",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-08/blue-lock-season-3-reveals-neo-egoist-league-subtitle-visual/.238281",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
