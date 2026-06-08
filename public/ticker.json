@@ -1,8 +1,29 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T13:53:11+00:00",
+  "generated_utc": "2026-06-08T14:39:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -39,29 +60,29 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 1 “Brogues” Brings Dress Shoe Styling to the Sneaker Icon",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-brogues-io0759-100/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 3 OG “True Blue” Will Return in Fall 2026",
-      "url": "https://justfreshkicks.com/air-jordan-3-og-true-blue-2026/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "DaBaby Settles Bowling Alley Legal For Slapping DaniLeigh’s Brother Around",
+      "url": "https://allhiphop.com/news/dababy-settles-bowling-alley-legal-for-slapping-danileighs-brother-around/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
       "title": "Could Diddy Leave Prison Early? New Federal Policy Pushes Rumors Forward",
       "url": "https://allhiphop.com/rumors/could-diddy-leave-prison-early-new-federal-policy-pushes-rumors-forward/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Idris Elba Says James Bond Casting Rumors Were “Never Legit”",
+      "url": "https://thesource.com/2026/06/08/idris-elba-james-bond-rumors-never-legit/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Prince Estate Announces Timeless Collection Featuring Unreleased Music",
+      "url": "https://thesource.com/2026/06/08/prince-timeless-unreleased-album-stone/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -95,27 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Kodak Black Announces New Album ‘Kodak The Blessing’",
-      "url": "https://thesource.com/2026/06/08/kodak-black-kodak-the-blessing-album/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Grand Agent Launches #250Bars Campaign to Explore Hip-Hop’s Collective Power",
-      "url": "https://thesource.com/2026/06/08/grand-agent-250bars-hip-hop-power-campaign/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "5 Iconic Hip Hop Style Elements Defining Modern Fashion",
-      "url": "https://thesource.com/2026/06/08/5-iconic-hip-hop-style-elements-defining-modern-fashion/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball Meets One-Punch Man In 2026's Most Underrated Action Anime",
       "url": "https://screenrant.com/rooster-fighter-underrated-action-anime/",
       "pillar": "anime",
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "'Draw This, Then Die!' Anime's 2nd Promo Video Reveals Ending Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-08/draw-this-then-die-anime-2nd-promo-video-reveals-ending-song/.238274",
+      "title": "Japanese Animation TV Ranking, May 25-31",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-08/japanese-animation-tv-ranking-may-25-31/.238166",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Tamamori's Fantasies Never Stop Manga's Tatsuwaipu Launches New Series",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-07/tamamori-fantasies-never-stop-manga-tatsuwaipu-launches-new-series/.238227",
+      "title": "'Draw This, Then Die!' Anime's 2nd Promo Video Reveals Ending Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-08/draw-this-then-die-anime-2nd-promo-video-reveals-ending-song/.238274",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,6 +158,13 @@
       "article_slug": null
     },
     {
+      "title": "Tamamori's Fantasies Never Stop Manga's Tatsuwaipu Launches New Series",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-07/tamamori-fantasies-never-stop-manga-tatsuwaipu-launches-new-series/.238227",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "10 GL Anime You Don't Want to Miss",
       "url": "https://screenrant.com/best-gl-yuri-anime-pride/",
       "pillar": "anime",
@@ -165,15 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "10 Incredible Isekai Anime Where the Underdog Hero Becomes Overpowered",
-      "url": "https://screenrant.com/incredible-isekai-anime-underdog-overpowered/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Persona 4 Revival Story and Gameplay Blowout Airs Next Week",
-      "url": "https://www.pushsquare.com/news/2026/06/persona-4-revival-story-and-gameplay-blowout-airs-next-week",
+      "title": "News Mass Effect Fans, Feast Your Eyes on a Full 20 Minutes of Exodus Gameplay",
+      "url": "https://www.pushsquare.com/news/2026/06/mass-effect-fans-feast-your-eyes-on-a-full-20-minutes-of-exodus-gameplay",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
