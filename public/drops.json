@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T03:29:07+00:00",
+  "generated_utc": "2026-06-08T04:31:52+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "28c16252b7eb",
+      "pillar": "hiphop",
+      "title": "Doechii Discovered Jay-Z’s Catalog Late & Came Away Stunned By His Artistic Growth",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/doechii-discovered-jay-zs-catalog-late-and-came-away-stunned-by-his-growth/",
+      "thumbnail": "/drops/thumbs/28c16252b7eb.jpg",
+      "published": "2026-06-07T23:29:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "951ab3aa65a1",
       "pillar": "hiphop",
       "title": "Ye Visit Rejected By Holocaust Museum After Mayor’s Invite In Netherlands",
@@ -183,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "de1a08b86dab",
-      "pillar": "hiphop",
-      "title": "EBK Jaaybo Pleads Guilty To Federal Machine Gun Charges",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/ebk-jaaybo-pleads-guilty-to-federal-machine-gun-charges/",
-      "thumbnail": "/drops/thumbs/de1a08b86dab.jpg",
-      "published": "2026-06-07T16:00:56",
+      "id": "78c4890c972c",
+      "pillar": "anime",
+      "title": "Dragon Ball Meets One-Punch Man In 2026's Most Underrated Action Anime",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/rooster-fighter-underrated-action-anime/",
+      "thumbnail": "/drops/thumbs/78c4890c972c.png",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "33c68d46005f",
+      "id": "669ae90a3829",
       "pillar": "anime",
-      "title": "13 Years Later, Naruto Still Has The Best Villain In Shonen History, And It's Not Close",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-madara-best-villain-shonen-history/",
-      "thumbnail": "/drops/thumbs/33c68d46005f.jpg",
+      "title": "Tamamori's Fantasies Never Stop Manga's Tatsuwaipu Launches New Series",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-07/tamamori-fantasies-never-stop-manga-tatsuwaipu-launches-new-series/.238227",
+      "thumbnail": "/drops/thumbs/669ae90a3829.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +237,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/eccentric-horror-anime-binge-watch-psychedelic-visuals/",
       "thumbnail": "/drops/thumbs/9fb11ea8face.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5f557f5b4dc4",
+      "pillar": "anime",
+      "title": "10 Incredible Isekai Anime Where the Underdog Hero Becomes Overpowered",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/incredible-isekai-anime-underdog-overpowered/",
+      "thumbnail": "/drops/thumbs/5f557f5b4dc4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,30 +285,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/crunchyroll-witch-hat-atelier-episode-11-review/",
       "thumbnail": "/drops/thumbs/5c78a32a9043.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6b1d9a54f4b9",
-      "pillar": "anime",
-      "title": "10 Strongest Anime Weapons Of All Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/strongest-anime-weapons-ever/",
-      "thumbnail": "/drops/thumbs/6b1d9a54f4b9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4023f25cd153",
-      "pillar": "anime",
-      "title": "Crunchyroll's Cutest Romance Of 2026 Is So Great, It's Already Returning For Season 2 This Summer",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/you-and-i-polar-opposites-returning-summer/",
-      "thumbnail": "/drops/thumbs/4023f25cd153.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "8362d1bf79ba",
-    "951ab3aa65a1",
+    "28c16252b7eb",
     "d68700a4442e",
-    "33c68d46005f",
+    "78c4890c972c",
     "6f835bbe3ddc",
     "8ba4b8fcca37"
   ]
