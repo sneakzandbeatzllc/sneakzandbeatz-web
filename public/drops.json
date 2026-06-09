@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-08T23:48:59+00:00",
+  "generated_utc": "2026-06-09T00:44:55+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "c629349fef4d",
+      "pillar": "hiphop",
+      "title": "EXCLUSIVE: Pooh Shiesty Trial Pushed Back To 2027 As His Dad & Big30 Get Bond",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/exclusive-pooh-shiesty-trial-pushed-back-to-2027-as-his-dad-big30-get-bond/",
+      "thumbnail": "/drops/thumbs/c629349fef4d.jpg",
+      "published": "2026-06-08T20:00:41",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ebdc4b2a5ca1",
       "pillar": "hiphop",
       "title": "Fat Joe Explains Drunk Night At NBA Finals & Calls Out Shaq For Not Believing In The Knicks",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "62d8cd837b64",
-      "pillar": "hiphop",
-      "title": "‘They do this all the time’: Zara employees chase woman who didn’t shoplift out of store. Then a former North Carolina Lululemon manager weighs in",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/newsbreak/zara-shoplifting-false-accusation-lululemon-manager-opinion/",
-      "thumbnail": "/drops/thumbs/62d8cd837b64.jpg",
-      "published": "2026-06-08T12:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bc4c55241e64",
       "pillar": "anime",
       "title": "Solo Leveling Has Officially Lost Its Throne As The World's Biggest Manhwa To An All-Time Great",
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "6cae706775da",
+      "id": "122d6d6ce10e",
       "pillar": "anime",
-      "title": "Takashi Sano's Bakudan Manga Ends",
+      "title": "Yū Nomiya Launches New Koroshiya no Eigyōjutsu Manga on June 15",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/takashi-sano-bakudan-manga-ends/.238261",
-      "thumbnail": "/drops/thumbs/6cae706775da.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/yu-nomiya-launches-new-koroshiya-no-eigyojutsu-manga-on-june-15/.238263",
+      "thumbnail": "/drops/thumbs/122d6d6ce10e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "121cf813ffde",
+      "id": "6cae706775da",
       "pillar": "anime",
-      "title": "Live-Action Look Back Film Reveals English-Subbed Trailer, Posters",
+      "title": "Takashi Sano's Bakudan Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/live-action-look-back-film-reveals-english-subbed-trailer-posters/.238294",
-      "thumbnail": "/drops/thumbs/121cf813ffde.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/takashi-sano-bakudan-manga-ends/.238261",
+      "thumbnail": "/drops/thumbs/6cae706775da.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "4d2cd71ae963",
+      "id": "121cf813ffde",
       "pillar": "anime",
-      "title": "Rurouni Kenshin: Hokkaido Arc Manga Takes 1-Issue Break",
+      "title": "Live-Action Look Back Film Reveals English-Subbed Trailer, Posters",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/rurouni-kenshin-hokkaido-arc-manga-takes-1-issue-break/.238225",
-      "thumbnail": "/drops/thumbs/4d2cd71ae963.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-08/live-action-look-back-film-reveals-english-subbed-trailer-posters/.238294",
+      "thumbnail": "/drops/thumbs/121cf813ffde.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "cdb12351ad98",
-    "ebdc4b2a5ca1",
+    "c629349fef4d",
     "8362d1bf79ba",
     "bc4c55241e64",
     "779db71fc001",
