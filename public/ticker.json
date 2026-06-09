@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T08:52:43+00:00",
+  "generated_utc": "2026-06-09T09:54:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy 7 Revelation's story changes based on your choices, but it'll have a \"singular ending\"",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-story-changes-based-on-your-choices-but-director-naoki-hamaguchi-says-the-jrpg-will-have-a-singular-ending/",
+      "title": "Persona 4 Revival's most exciting change is hidden in plain sight",
+      "url": "https://www.gamesradar.com/games/persona/persona-4-revivals-most-exciting-change-is-hidden-in-plain-sight/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "Persona 4 Revival avoids Persona 3 Reload's biggest mistake and looks like a definitive remake",
-      "url": "https://www.gamesradar.com/games/persona/persona-4-revival-avoids-persona-3-reloads-biggest-mistake-and-im-so-relieved-this-jrpg-looks-like-a-definitive-remake/",
+      "title": "Final Fantasy 7 Revelation has a \"far bigger\" open world map than Rebirth, says director",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-has-a-far-bigger-open-world-map-than-rebirth-says-director-and-some-rebirth-locations-arent-the-way-you-remember-them/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -202,13 +202,6 @@
     {
       "title": "Resident Evil Veronica Releasing 2027 For PS5, Xbox Series X|S, Switch 2, and PC",
       "url": "https://gameranx.com/updates/id/562953/article/resident-evil-veronica-releasing-2027-for-ps5-xbox-series-xs-switch-2-and-pc/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Atlus Warns Public After Katsura Hashino Impersonator Fools Persona and Metaphor ReFantazio Fans",
-      "url": "https://gameranx.com/updates/id/562941/article/atlus-warns-public-after-katsura-hashino-impersonator-fools-persona-and-metaphor-refantazio-fans/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "News Two Classic Call of Duty: Black Ops Games Seem Poised for PS5",
       "url": "https://www.pushsquare.com/news/2026/06/two-classic-call-of-duty-black-ops-games-seem-poised-for-ps5",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 'There's a Finished Version of Gears of War PS5 Sitting on a Drive': New Game E-Day Was Almost Done",
+      "url": "https://www.pushsquare.com/news/2026/06/theres-a-finished-version-of-gears-of-war-ps5-sitting-on-a-drive-new-game-e-day-was-almost-done",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

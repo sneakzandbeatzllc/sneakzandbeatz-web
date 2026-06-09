@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T08:52:43+00:00",
+  "generated_utc": "2026-06-09T09:54:13+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "72cc5901744a",
+      "id": "2890e64db4ad",
       "pillar": "gaming",
-      "title": "Final Fantasy 7 Revelation's story changes based on your choices, but it'll have a \"singular ending\"",
+      "title": "Persona 4 Revival's most exciting change is hidden in plain sight",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-story-changes-based-on-your-choices-but-director-naoki-hamaguchi-says-the-jrpg-will-have-a-singular-ending/",
-      "thumbnail": "/drops/thumbs/72cc5901744a.jpg",
+      "source_url": "https://www.gamesradar.com/games/persona/persona-4-revivals-most-exciting-change-is-hidden-in-plain-sight/",
+      "thumbnail": "/drops/thumbs/2890e64db4ad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "4971b08a6641",
+      "id": "4eac5103639a",
       "pillar": "gaming",
-      "title": "Persona 4 Revival avoids Persona 3 Reload's biggest mistake and looks like a definitive remake",
+      "title": "Final Fantasy 7 Revelation has a \"far bigger\" open world map than Rebirth, says director",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/persona/persona-4-revival-avoids-persona-3-reloads-biggest-mistake-and-im-so-relieved-this-jrpg-looks-like-a-definitive-remake/",
-      "thumbnail": "/drops/thumbs/4971b08a6641.jpg",
+      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-has-a-far-bigger-open-world-map-than-rebirth-says-director-and-some-rebirth-locations-arent-the-way-you-remember-them/",
+      "thumbnail": "/drops/thumbs/4eac5103639a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -345,18 +345,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562953/article/resident-evil-veronica-releasing-2027-for-ps5-xbox-series-xs-switch-2-and-pc/",
       "thumbnail": "/drops/thumbs/26c819f9853b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f4f475d53211",
-      "pillar": "gaming",
-      "title": "Atlus Warns Public After Katsura Hashino Impersonator Fools Persona and Metaphor ReFantazio Fans",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562941/article/atlus-warns-public-after-katsura-hashino-impersonator-fools-persona-and-metaphor-refantazio-fans/",
-      "thumbnail": "/drops/thumbs/f4f475d53211.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,6 +373,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "44142370d674",
+      "pillar": "gaming",
+      "title": "News 'There's a Finished Version of Gears of War PS5 Sitting on a Drive': New Game E-Day Was Almost Done",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/theres-a-finished-version-of-gears-of-war-ps5-sitting-on-a-drive-new-game-e-day-was-almost-done",
+      "thumbnail": "/drops/thumbs/44142370d674.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "8362d1bf79ba",
     "f1b19ea83158",
     "d68700a4442e",
-    "72cc5901744a"
+    "2890e64db4ad"
   ]
 }
