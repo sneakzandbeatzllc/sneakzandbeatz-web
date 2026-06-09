@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T12:07:16+00:00",
+  "generated_utc": "2026-06-09T12:58:52+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "The Air Jordan 5 in Black & University Blue Returns in June 2026",
       "url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
@@ -55,6 +34,27 @@
     {
       "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
+      "url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -137,8 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "Though I Am an Inept Villainess Anime's Trailer Unveils milet's Opening Song, More Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-09/though-i-am-an-inept-villainess-anime-trailer-unveils-milet-opening-song-more-cast/.238308",
+      "title": "I Want to Love You Till Your Dying Day Anime's 2nd Video Unveils Theme Songs, July 7 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-09/i-want-to-love-you-till-your-dying-day-anime-2nd-video-unveils-theme-songs-july-7-debut/.238313",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Clevatess II Anime Reveals 3rd Promo Video, 2 Cast Members, Ending Song, July 8 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-09/clevatess-ii-anime-reveals-3rd-promo-video-2-cast-members-ending-song-july-8-debut/.238311",
+      "title": "Though I Am an Inept Villainess Anime's Trailer Unveils milet's Opening Song, More Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-09/though-i-am-an-inept-villainess-anime-trailer-unveils-milet-opening-song-more-cast/.238308",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,9 +165,16 @@
       "article_slug": null
     },
     {
-      "title": "Cyborg 009: Nemesis Anime Casts Mamoru Miyano as Cyborg 002",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-09/cyborg-009-nemesis-anime-casts-mamoru-miyano-as-cyborg-002/.238306",
+      "title": "Clevatess II Anime Reveals 3rd Promo Video, 2 Cast Members, Ending Song, July 8 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-09/clevatess-ii-anime-reveals-3rd-promo-video-2-cast-members-ending-song-july-8-debut/.238311",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 'There Is Only One Ending': Final Fantasy 7 Revelation Director Confirms Linear Story",
+      "url": "https://www.pushsquare.com/news/2026/06/there-is-only-one-ending-final-fantasy-7-revelation-director-confirms-linear-story",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -202,13 +209,6 @@
     {
       "title": "Resident Evil Veronica Releasing 2027 For PS5, Xbox Series X|S, Switch 2, and PC",
       "url": "https://gameranx.com/updates/id/562953/article/resident-evil-veronica-releasing-2027-for-ps5-xbox-series-xs-switch-2-and-pc/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Whoops! Xbox Accidentally Uploads Gears of War PS5 Trailer",
-      "url": "https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
