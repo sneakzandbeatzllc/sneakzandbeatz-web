@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T15:03:41+00:00",
+  "generated_utc": "2026-06-09T15:42:53+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -207,6 +207,18 @@
       "release_badge": ""
     },
     {
+      "id": "1c70964e33f8",
+      "pillar": "anime",
+      "title": "Jujutsu Kaisen gets a surprise video game from a legendary studio",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/jujutsu-kaisen-gets-a-surprise-video-game-from-a-legendary-studio/",
+      "thumbnail": "/drops/thumbs/1c70964e33f8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "377e2b2a694a",
       "pillar": "anime",
       "title": "Solo Leveling's Live-Action Series Casts A Major Villain, And It Confirms A Major Difference From The Anime",
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "e262eb036a13",
-      "pillar": "anime",
-      "title": "Summer’s best new romance anime just became one of the highest-rated shows on Crunchyroll",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/smoking-behind-supermarket-with-you-crunchyroll-highest-rated/",
-      "thumbnail": "/drops/thumbs/e262eb036a13.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2318f5620650",
       "pillar": "anime",
       "title": "Though I Am an Inept Villainess Anime's Trailer Unveils milet's Opening Song, More Cast",
@@ -279,24 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "66c41938c6b7",
+      "id": "e262eb036a13",
       "pillar": "anime",
-      "title": "Studio Ghibli meets Stardew Valley in Vivarium, the cozy life sim that stole the Xbox Showcase",
+      "title": "Summer’s best new romance anime just became one of the highest-rated shows on Crunchyroll",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/studio-ghibli-stardew-vivarium-trailer/",
-      "thumbnail": "/drops/thumbs/66c41938c6b7.png",
+      "source_url": "https://www.polygon.com/smoking-behind-supermarket-with-you-crunchyroll-highest-rated/",
+      "thumbnail": "/drops/thumbs/e262eb036a13.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ef631930ea35",
+      "id": "36d046784403",
       "pillar": "gaming",
-      "title": "News Dragon's Dogma 2 DLC Is Real, Huge Dark Arisen Expansion Releases on PS5 in October",
+      "title": "News Sony's Stellar Blade Will Let You Goon on the Go with Switch 2 Port",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dlc-is-real-huge-dark-arisen-expansion-releases-on-ps5-in-october",
-      "thumbnail": "/drops/thumbs/ef631930ea35.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/sonys-stellar-blade-will-let-you-goon-on-the-go-with-switch-2-port",
+      "thumbnail": "/drops/thumbs/36d046784403.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "100785bf0e20",
+      "id": "ef631930ea35",
       "pillar": "gaming",
-      "title": "Final Fantasy VII Revelation Revealed; 3rd Chapter Coming On All Platforms At The Same Time Spring 2027",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562957/article/final-fantasy-vii-revelation-revealed-3rd-chapter-coming-on-all-platforms-at-the-same-time-spring-2027/",
-      "thumbnail": "/drops/thumbs/100785bf0e20.jpg",
+      "title": "News Dragon's Dogma 2 DLC Is Real, Huge Dark Arisen Expansion Releases on PS5 in October",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dlc-is-real-huge-dark-arisen-expansion-releases-on-ps5-in-october",
+      "thumbnail": "/drops/thumbs/ef631930ea35.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,48 +339,48 @@
       "release_badge": ""
     },
     {
-      "id": "4eac5103639a",
-      "pillar": "gaming",
-      "title": "Final Fantasy 7 Revelation has a \"far bigger\" open world map than Rebirth, says director",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-has-a-far-bigger-open-world-map-than-rebirth-says-director-and-some-rebirth-locations-arent-the-way-you-remember-them/",
-      "thumbnail": "/drops/thumbs/4eac5103639a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "26c819f9853b",
-      "pillar": "gaming",
-      "title": "Resident Evil Veronica Releasing 2027 For PS5, Xbox Series X|S, Switch 2, and PC",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562953/article/resident-evil-veronica-releasing-2027-for-ps5-xbox-series-xs-switch-2-and-pc/",
-      "thumbnail": "/drops/thumbs/26c819f9853b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3bffaa42364c",
-      "pillar": "gaming",
-      "title": "News 'There Is Only One Ending': Final Fantasy 7 Revelation Director Confirms Linear Story",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/there-is-only-one-ending-final-fantasy-7-revelation-director-confirms-linear-story",
-      "thumbnail": "/drops/thumbs/3bffaa42364c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f637ac3aec91",
       "pillar": "gaming",
       "title": "Was Gears Of War: E-Day Made Xbox Exclusive At The Last Minute? No! Aaron Greenberg Explains",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562970/article/was-gears-of-war-e-day-made-xbox-exclusive-at-the-last-minute-no-aaron-greenberg-explains/",
       "thumbnail": "/drops/thumbs/f637ac3aec91.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "959f475d5d1a",
+      "pillar": "gaming",
+      "title": "Everything We Saw At The June 2026 Nintendo Direct",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/nintendo-direct-zelda-ocarina-time-kingdom-hearts-4-2000704336",
+      "thumbnail": "/drops/thumbs/959f475d5d1a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9a2e352be004",
+      "pillar": "gaming",
+      "title": "Live Everything announced at the Nintendo Direct June 2026",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/news/live/nintendo-direct-live-coverage-june-2026-everything-announced/",
+      "thumbnail": "/drops/thumbs/9a2e352be004.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4e1293693cc9",
+      "pillar": "gaming",
+      "title": "New The Legend Of Zelda: Ocarina Of Time Releasing In 2026",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562989/article/new-the-legend-of-zelda-ocarina-of-time-releasing-in-2026/",
+      "thumbnail": "/drops/thumbs/4e1293693cc9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "8362d1bf79ba",
     "f1b19ea83158",
     "d68700a4442e",
-    "ef631930ea35"
+    "36d046784403"
   ]
 }
