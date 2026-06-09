@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T10:57:14+00:00",
+  "generated_utc": "2026-06-09T11:56:08+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,6 +99,42 @@
       "release_badge": ""
     },
     {
+      "id": "e7629a463b5a",
+      "pillar": "hiphop",
+      "title": "Charles Barkley Highlights Cardi B’s “Cardi D’s” During Knicks-Spurs NBA Finals Halftime Show",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/09/charles-barkley-cardi-b-game-3-halftime-show/",
+      "thumbnail": "/drops/thumbs/e7629a463b5a.jpg",
+      "published": "2026-06-09T07:29:46",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4ac2c6823dd1",
+      "pillar": "hiphop",
+      "title": "Trump’s Knicks Finals Appearance Draws Boos as New York Falls to Spurs in Game 3",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/09/donald-trump-knicks-game-3-spurs-finals/",
+      "thumbnail": "/drops/thumbs/4ac2c6823dd1.jpg",
+      "published": "2026-06-09T07:24:23",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f17e391c1b68",
+      "pillar": "hiphop",
+      "title": "French Montana Drops Knicks-Themed Remix of ‘Ever Since U Left Me’ Featuring Remy Ma and Max B",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/09/french-montana-knicks-remix-ever-since-u-left-me/",
+      "thumbnail": "/drops/thumbs/f17e391c1b68.jpg",
+      "published": "2026-06-09T06:37:08",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7cea17e04250",
       "pillar": "hiphop",
       "title": "Chlöe and Timbaland Announce Joint Mixtape ‘Resurrection’ Set for June 19 Release",
@@ -154,42 +190,6 @@
       "source_url": "https://allhiphop.com/rumors/donald-trump-gets-booed-at-knicks-game-as-new-york-chases-history/",
       "thumbnail": "/drops/thumbs/ac3af0ae06d1.jpg",
       "published": "2026-06-08T22:09:37",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a045c068596d",
-      "pillar": "hiphop",
-      "title": "Tom Brady Wants You To Have A Good Nut – A Lot Of Them!",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/tom-brady-wants-you-to-have-a-good-nut-a-lot-of-them/",
-      "thumbnail": "/drops/thumbs/a045c068596d.jpg",
-      "published": "2026-06-08T21:15:43",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7532eb44c662",
-      "pillar": "hiphop",
-      "title": "Druski DC Auditions Bring Out Massive Crowds In Washington, DC",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/druski-dc-auditions-bring-out-massive-crowds-in-washington-dc/",
-      "thumbnail": "/drops/thumbs/7532eb44c662.jpg",
-      "published": "2026-06-08T21:00:40",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c629349fef4d",
-      "pillar": "hiphop",
-      "title": "EXCLUSIVE: Pooh Shiesty Trial Pushed Back To 2027 As His Dad & Big30 Get Bond",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/exclusive-pooh-shiesty-trial-pushed-back-to-2027-as-his-dad-big30-get-bond/",
-      "thumbnail": "/drops/thumbs/c629349fef4d.jpg",
-      "published": "2026-06-08T20:00:41",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "05498b45d8a2",
+      "id": "f637ac3aec91",
       "pillar": "gaming",
-      "title": "Gears of War E-Day pre-orders are live, but PS5 players will have to sit this one out",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/gears-of-war-e-day-pre-orders-are-live-but-ps5-players-will-have-to-sit-this-one-out/",
-      "thumbnail": "/drops/thumbs/05498b45d8a2.jpg",
+      "title": "Was Gears Of War: E-Day Made Xbox Exclusive At The Last Minute? No! Aaron Greenberg Explains",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562970/article/was-gears-of-war-e-day-made-xbox-exclusive-at-the-last-minute-no-aaron-greenberg-explains/",
+      "thumbnail": "/drops/thumbs/f637ac3aec91.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "cdb12351ad98",
-    "7cea17e04250",
+    "e7629a463b5a",
     "8362d1bf79ba",
     "f1b19ea83158",
     "d68700a4442e",
