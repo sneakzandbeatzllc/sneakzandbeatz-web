@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T00:50:28+00:00",
+  "generated_utc": "2026-06-09T01:22:37+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "a045c068596d",
+      "pillar": "hiphop",
+      "title": "Tom Brady Wants You To Have A Good Nut – A Lot Of Them!",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/tom-brady-wants-you-to-have-a-good-nut-a-lot-of-them/",
+      "thumbnail": "/drops/thumbs/a045c068596d.jpg",
+      "published": "2026-06-08T21:15:43",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7532eb44c662",
+      "pillar": "hiphop",
+      "title": "Druski DC Auditions Bring Out Massive Crowds In Washington, DC",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/druski-dc-auditions-bring-out-massive-crowds-in-washington-dc/",
+      "thumbnail": "/drops/thumbs/7532eb44c662.jpg",
+      "published": "2026-06-08T21:00:40",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c629349fef4d",
       "pillar": "hiphop",
       "title": "EXCLUSIVE: Pooh Shiesty Trial Pushed Back To 2027 As His Dad & Big30 Get Bond",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/06/08/prince-celebration-2026/",
       "thumbnail": "/drops/thumbs/6ce85d4f7c62.jpg",
       "published": "2026-06-08T16:43:32",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b8312ed670fd",
-      "pillar": "hiphop",
-      "title": "Omega Sparx & Joshua Penn “C.G.C.",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/music/omega-sparx-joshua-penn-c-g-c/",
-      "thumbnail": "/drops/thumbs/b8312ed670fd.png",
-      "published": "2026-06-08T14:26:51",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a72869de05d3",
-      "pillar": "hiphop",
-      "title": "EXCLUSIVE: 50 Cent Uses Trump Family NDA Case To Crush Shaniqua Tompkins’ Free Speech Defense",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/50-cent-uses-trump-family-nda-crush-shaniqua-tompkins/",
-      "thumbnail": "/drops/thumbs/a72869de05d3.jpg",
-      "published": "2026-06-08T14:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "cdb12351ad98",
-    "c629349fef4d",
+    "a045c068596d",
     "8362d1bf79ba",
     "bc4c55241e64",
     "779db71fc001",
