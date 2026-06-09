@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T16:14:50+00:00",
+  "generated_utc": "2026-06-09T16:47:42+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Fast Furniture Is the New Fast Fashion, and It’s Filling Landfills",
+      "url": "https://allhiphop.com/uncategorized/fast-furniture-is-the-new-fast-fashion-and-its-filling-landfills/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Summer Grays Is Building Businesses Across Healthcare, Tech And Media",
+      "url": "https://allhiphop.com/features/summer-grays-is-building-businesses-across-healthcare-tech-and-media/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jay-Z Adds International Dates After Roots Picnic Triumph",
       "url": "https://allhiphop.com/news/jay-z-adds-international-dates-after-roots-picnic-triumph/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "Trump’s Knicks Finals Appearance Draws Boos as New York Falls to Spurs in Game 3",
       "url": "https://thesource.com/2026/06/09/donald-trump-knicks-game-3-spurs-finals/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "French Montana Drops Knicks-Themed Remix of ‘Ever Since U Left Me’ Featuring Remy Ma and Max B",
-      "url": "https://thesource.com/2026/06/09/french-montana-knicks-remix-ever-since-u-left-me/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Chlöe and Timbaland Announce Joint Mixtape ‘Resurrection’ Set for June 19 Release",
-      "url": "https://thesource.com/2026/06/09/chloe-timbaland-resurrection-mixtape-june-2026/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News Classic Action RPG Tales of Eternia Is the Series' Next Remaster, Enhanced on PS5",
-      "url": "https://www.pushsquare.com/news/2026/06/classic-action-rpg-tales-of-eternia-is-the-series-next-remaster-enhanced-on-ps5",
+      "title": "News For the First Time in Decades, Dragon Quest Monsters Is Coming to PlayStation",
+      "url": "https://www.pushsquare.com/news/2026/06/for-the-first-time-in-decades-dragon-quest-monsters-is-coming-to-playstation",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -181,6 +181,13 @@
     {
       "title": "Persona 4 Revival's most exciting change is hidden in plain sight",
       "url": "https://www.gamesradar.com/games/persona/persona-4-revivals-most-exciting-change-is-hidden-in-plain-sight/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Classic Action RPG Tales of Eternia Is the Series' Next Remaster, Enhanced on PS5",
+      "url": "https://www.pushsquare.com/news/2026/06/classic-action-rpg-tales-of-eternia-is-the-series-next-remaster-enhanced-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -195,13 +202,6 @@
     {
       "title": "News Dragon's Dogma 2 DLC Is Real, Huge Dark Arisen Expansion Releases on PS5 in October",
       "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dlc-is-real-huge-dark-arisen-expansion-releases-on-ps5-in-october",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News A Brand New Final Fantasy RPG Has Been Announced for PS5",
-      "url": "https://www.pushsquare.com/news/2026/06/a-brand-new-final-fantasy-rpg-has-been-announced-for-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

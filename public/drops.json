@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T16:14:50+00:00",
+  "generated_utc": "2026-06-09T16:47:42+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "e235f35b9002",
+      "pillar": "hiphop",
+      "title": "Fast Furniture Is the New Fast Fashion, and It’s Filling Landfills",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/uncategorized/fast-furniture-is-the-new-fast-fashion-and-its-filling-landfills/",
+      "thumbnail": "/drops/thumbs/e235f35b9002.png",
+      "published": "2026-06-09T12:38:14",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3e9241bb5685",
+      "pillar": "hiphop",
+      "title": "Summer Grays Is Building Businesses Across Healthcare, Tech And Media",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/features/summer-grays-is-building-businesses-across-healthcare-tech-and-media/",
+      "thumbnail": "/drops/thumbs/3e9241bb5685.jpg",
+      "published": "2026-06-09T12:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f2e4dd766cf4",
       "pillar": "hiphop",
       "title": "Jay-Z Adds International Dates After Roots Picnic Triumph",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "f17e391c1b68",
-      "pillar": "hiphop",
-      "title": "French Montana Drops Knicks-Themed Remix of ‘Ever Since U Left Me’ Featuring Remy Ma and Max B",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/09/french-montana-knicks-remix-ever-since-u-left-me/",
-      "thumbnail": "/drops/thumbs/f17e391c1b68.jpg",
-      "published": "2026-06-09T06:37:08",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7cea17e04250",
-      "pillar": "hiphop",
-      "title": "Chlöe and Timbaland Announce Joint Mixtape ‘Resurrection’ Set for June 19 Release",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/09/chloe-timbaland-resurrection-mixtape-june-2026/",
-      "thumbnail": "/drops/thumbs/7cea17e04250.jpg",
-      "published": "2026-06-09T06:33:13",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f1b19ea83158",
       "pillar": "anime",
       "title": "After 38 Years, Dragon Ball's Next Anime Will Finally Return Yamcha To His Badass Roots",
@@ -224,7 +224,7 @@
       "title": "Solo Leveling Season 3 Gets Official Release Window",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/solo-leveling-season-3-release-window/",
-      "thumbnail": "/drops/thumbs/13a304c2914d.png",
+      "thumbnail": "/drops/thumbs/13a304c2914d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "aafa20ae4fc9",
+      "id": "916d5eeea157",
       "pillar": "gaming",
-      "title": "News Classic Action RPG Tales of Eternia Is the Series' Next Remaster, Enhanced on PS5",
+      "title": "News For the First Time in Decades, Dragon Quest Monsters Is Coming to PlayStation",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/classic-action-rpg-tales-of-eternia-is-the-series-next-remaster-enhanced-on-ps5",
-      "thumbnail": "/drops/thumbs/aafa20ae4fc9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/for-the-first-time-in-decades-dragon-quest-monsters-is-coming-to-playstation",
+      "thumbnail": "/drops/thumbs/916d5eeea157.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,6 +309,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/persona/persona-4-revivals-most-exciting-change-is-hidden-in-plain-sight/",
       "thumbnail": "/drops/thumbs/2890e64db4ad.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "aafa20ae4fc9",
+      "pillar": "gaming",
+      "title": "News Classic Action RPG Tales of Eternia Is the Series' Next Remaster, Enhanced on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/classic-action-rpg-tales-of-eternia-is-the-series-next-remaster-enhanced-on-ps5",
+      "thumbnail": "/drops/thumbs/aafa20ae4fc9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -333,18 +345,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dlc-is-real-huge-dark-arisen-expansion-releases-on-ps5-in-october",
       "thumbnail": "/drops/thumbs/ef631930ea35.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6191a04a5d3e",
-      "pillar": "gaming",
-      "title": "News A Brand New Final Fantasy RPG Has Been Announced for PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/a-brand-new-final-fantasy-rpg-has-been-announced-for-ps5",
-      "thumbnail": "/drops/thumbs/6191a04a5d3e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "cdb12351ad98",
-    "f2e4dd766cf4",
+    "e235f35b9002",
     "8362d1bf79ba",
     "f1b19ea83158",
     "d68700a4442e",
-    "aafa20ae4fc9"
+    "916d5eeea157"
   ]
 }
