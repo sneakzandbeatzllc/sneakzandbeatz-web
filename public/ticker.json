@@ -1,36 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T22:33:41+00:00",
+  "generated_utc": "2026-06-09T23:05:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 5 in Black & University Blue Returns in June 2026",
-      "url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -55,6 +27,34 @@
     {
       "title": "Air Jordan 4 “Musik” Releases January 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "After 38 Years, Dragon Ball's Next Anime Will Finally Return Yamcha To His Badass Roots",
-      "url": "https://screenrant.com/dragon-ball-super-next-anime-yamcha-redemption-galactic-patrol/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Vampire Survivors Developer poncle Announces New Jujutsu Kaisen Rumble: Survivaton Game",
       "url": "https://www.animenewsnetwork.com/news/2026-06-09/vampire-survivors-developer-poncle-announces-new-jujutsu-kaisen-rumble-survivaton-game/.238324",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "Summer’s best new romance anime just became one of the highest-rated shows on Crunchyroll",
       "url": "https://www.polygon.com/smoking-behind-supermarket-with-you-crunchyroll-highest-rated/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Netflix Loses Zom 100 In Major Win For Crunchyroll's Anime Streaming Dominance",
+      "url": "https://screenrant.com/netflix-loses-zom-100-crunchyroll-win/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
