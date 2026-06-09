@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T19:25:44+00:00",
+  "generated_utc": "2026-06-09T20:10:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Long Beach Honors Snoop Dogg With Historic Key To The City",
+      "url": "https://allhiphop.com/news/long-beach-honors-snoop-dogg-with-historic-key-to-the-city/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Diddy Blasts Former Child Actor Trying To Get On “Gravy Train” Over Assault Lawsuit",
       "url": "https://allhiphop.com/news/diddy-blasts-former-child-actor-trying-to-get-on-gravy-train-over-assault-lawsuit/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Summer Grays Is Building Businesses Across Healthcare, Tech And Media",
       "url": "https://allhiphop.com/features/summer-grays-is-building-businesses-across-healthcare-tech-and-media/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Jay-Z Adds International Dates After Roots Picnic Triumph",
-      "url": "https://allhiphop.com/news/jay-z-adds-international-dates-after-roots-picnic-triumph/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
