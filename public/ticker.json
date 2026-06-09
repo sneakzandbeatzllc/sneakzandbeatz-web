@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T15:42:53+00:00",
+  "generated_utc": "2026-06-09T16:02:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "The Air Jordan 5 in Black & University Blue Returns in June 2026",
       "url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
@@ -18,8 +25,22 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 1 Low OG “Pine Green” Releases Tomorrow",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-phantom-green-ir2283-030/",
+      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -34,27 +55,6 @@
     {
       "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
-      "url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Solo Leveling Season 3 Gets Official Release Window",
+      "url": "https://screenrant.com/solo-leveling-season-3-release-window/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Solo Leveling's Live-Action Series Casts A Major Villain, And It Confirms A Major Difference From The Anime",
       "url": "https://screenrant.com/solo-leveling-live-action-casts-baruka-difference-anime/",
       "pillar": "anime",
@@ -139,13 +146,6 @@
     {
       "title": "Chainsaw Man Creator's First Big Live-Action Adaptation, Look Back, Drops First Preview",
       "url": "https://screenrant.com/look-back-live-action-chainsaw-man-tastuki-fujimoto/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "A Free Anime Streaming Service Just Stole My Hero Academia From Crunchyroll",
-      "url": "https://screenrant.com/samsung-tv-steels-my-hero-academia-from-crunchyroll/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News Sony's Stellar Blade Will Let You Goon on the Go with Switch 2 Port",
-      "url": "https://www.pushsquare.com/news/2026/06/sonys-stellar-blade-will-let-you-goon-on-the-go-with-switch-2-port",
+      "title": "News Classic Action RPG Tales of Eternia Is the Series' Next Remaster, Enhanced on PS5",
+      "url": "https://www.pushsquare.com/news/2026/06/classic-action-rpg-tales-of-eternia-is-the-series-next-remaster-enhanced-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -181,6 +181,13 @@
     {
       "title": "Persona 4 Revival's most exciting change is hidden in plain sight",
       "url": "https://www.gamesradar.com/games/persona/persona-4-revivals-most-exciting-change-is-hidden-in-plain-sight/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Ex-PS5 Exclusive Stellar Blade Will Let You Goon on the Go with Switch 2 Port",
+      "url": "https://www.pushsquare.com/news/2026/06/ex-ps5-exclusive-stellar-blade-will-let-you-goon-on-the-go-with-switch-2-port",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Live Everything announced at the Nintendo Direct June 2026",
       "url": "https://www.gamesradar.com/news/live/nintendo-direct-live-coverage-june-2026-everything-announced/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New The Legend Of Zelda: Ocarina Of Time Releasing In 2026",
-      "url": "https://gameranx.com/updates/id/562989/article/new-the-legend-of-zelda-ocarina-of-time-releasing-in-2026/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
