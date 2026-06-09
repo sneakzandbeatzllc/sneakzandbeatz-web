@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T14:01:50+00:00",
+  "generated_utc": "2026-06-09T14:59:59+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "14f1b7ffd92c",
+      "pillar": "hiphop",
+      "title": "Freeway, AllHipHop, Grand G Honored At VBS Fest Community & Culture Celebration",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/freeway-allhiphop-grand-gee-honored-at-vbs-fest-community-culture-celebration/",
+      "thumbnail": "/drops/thumbs/14f1b7ffd92c.jpg",
+      "published": "2026-06-09T10:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0138e1740bde",
       "pillar": "hiphop",
       "title": "JAŸ-Z Announces Paris and Los Angeles ‘JAŸ-Z 30’ Stadium Shows",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/09/spike-lee-fanatics-fan-wagon-knicks-finals/",
       "thumbnail": "/drops/thumbs/ccced12c0c7e.png",
       "published": "2026-06-09T06:30:32",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ef276bcdaead",
-      "pillar": "hiphop",
-      "title": "Queens to Host Free FIFA World Cup 2026 Fan Festival Featuring Nas, Wyclef Jean and Global Entertainment",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/09/fifa-world-cup-2026-queens-group-stage-hq-fan-festival/",
-      "thumbnail": "/drops/thumbs/ef276bcdaead.jpg",
-      "published": "2026-06-09T06:24:42",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "3bffaa42364c",
+      "id": "ef631930ea35",
       "pillar": "gaming",
-      "title": "News 'There Is Only One Ending': Final Fantasy 7 Revelation Director Confirms Linear Story",
+      "title": "News Dragon's Dogma 2 DLC Is Real, Huge Dark Arisen Expansion Releases on PS5 in October",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/there-is-only-one-ending-final-fantasy-7-revelation-director-confirms-linear-story",
-      "thumbnail": "/drops/thumbs/3bffaa42364c.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dlc-is-real-huge-dark-arisen-expansion-releases-on-ps5-in-october",
+      "thumbnail": "/drops/thumbs/ef631930ea35.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "6191a04a5d3e",
+      "pillar": "gaming",
+      "title": "News A Brand New Final Fantasy RPG Has Been Announced for PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/a-brand-new-final-fantasy-rpg-has-been-announced-for-ps5",
+      "thumbnail": "/drops/thumbs/6191a04a5d3e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4eac5103639a",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Revelation has a \"far bigger\" open world map than Rebirth, says director",
@@ -351,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "c7699ca59eb8",
+      "id": "3bffaa42364c",
       "pillar": "gaming",
-      "title": "Xbox Says Decision To Make Gears Of War Exclusive Happened A Month Ago After It Hides Official Podcast Showing PS5 Logo",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/xbox-says-decision-to-make-gears-of-war-exclusive-happened-a-month-ago-after-it-hides-official-podcast-showing-ps5-logo-2000704317",
-      "thumbnail": "/drops/thumbs/c7699ca59eb8.jpg",
+      "title": "News 'There Is Only One Ending': Final Fantasy 7 Revelation Director Confirms Linear Story",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/there-is-only-one-ending-final-fantasy-7-revelation-director-confirms-linear-story",
+      "thumbnail": "/drops/thumbs/3bffaa42364c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "a276f588219e",
-      "pillar": "gaming",
-      "title": "Call of Duty: Modern Warfare 4 Delivers The “Definitive” DMZ In The Center Of Korea",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/562949/article/call-of-duty-modern-warfare-4-delivers-the-definitive-dmz-in-the-center-of-korea/",
-      "thumbnail": "/drops/thumbs/a276f588219e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "cdb12351ad98",
-    "0138e1740bde",
+    "14f1b7ffd92c",
     "8362d1bf79ba",
     "f1b19ea83158",
     "d68700a4442e",
-    "3bffaa42364c"
+    "ef631930ea35"
   ]
 }

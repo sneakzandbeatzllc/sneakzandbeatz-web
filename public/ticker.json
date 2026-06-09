@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T14:01:50+00:00",
+  "generated_utc": "2026-06-09T14:59:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Freeway, AllHipHop, Grand G Honored At VBS Fest Community & Culture Celebration",
+      "url": "https://allhiphop.com/news/freeway-allhiphop-grand-gee-honored-at-vbs-fest-community-culture-celebration/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "JAŸ-Z Announces Paris and Los Angeles ‘JAŸ-Z 30’ Stadium Shows",
       "url": "https://thesource.com/2026/06/09/jay-z-30-concerts-paris-los-angeles-2026/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Spike Lee Helps Kick Off Fanatics Fan Wagon as Knicks Fever Sweeps New York",
       "url": "https://thesource.com/2026/06/09/spike-lee-fanatics-fan-wagon-knicks-finals/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Queens to Host Free FIFA World Cup 2026 Fan Festival Featuring Nas, Wyclef Jean and Global Entertainment",
-      "url": "https://thesource.com/2026/06/09/fifa-world-cup-2026-queens-group-stage-hq-fan-festival/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News 'There Is Only One Ending': Final Fantasy 7 Revelation Director Confirms Linear Story",
-      "url": "https://www.pushsquare.com/news/2026/06/there-is-only-one-ending-final-fantasy-7-revelation-director-confirms-linear-story",
+      "title": "News Dragon's Dogma 2 DLC Is Real, Huge Dark Arisen Expansion Releases on PS5 in October",
+      "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dlc-is-real-huge-dark-arisen-expansion-releases-on-ps5-in-october",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "News A Brand New Final Fantasy RPG Has Been Announced for PS5",
+      "url": "https://www.pushsquare.com/news/2026/06/a-brand-new-final-fantasy-rpg-has-been-announced-for-ps5",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Final Fantasy 7 Revelation has a \"far bigger\" open world map than Rebirth, says director",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-has-a-far-bigger-open-world-map-than-rebirth-says-director-and-some-rebirth-locations-arent-the-way-you-remember-them/",
       "pillar": "gaming",
@@ -207,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "Xbox Says Decision To Make Gears Of War Exclusive Happened A Month Ago After It Hides Official Podcast Showing PS5 Logo",
-      "url": "https://kotaku.com/xbox-says-decision-to-make-gears-of-war-exclusive-happened-a-month-ago-after-it-hides-official-podcast-showing-ps5-logo-2000704317",
+      "title": "News 'There Is Only One Ending': Final Fantasy 7 Revelation Director Confirms Linear Story",
+      "url": "https://www.pushsquare.com/news/2026/06/there-is-only-one-ending-final-fantasy-7-revelation-director-confirms-linear-story",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Was Gears Of War: E-Day Made Xbox Exclusive At The Last Minute? No! Aaron Greenberg Explains",
       "url": "https://gameranx.com/updates/id/562970/article/was-gears-of-war-e-day-made-xbox-exclusive-at-the-last-minute-no-aaron-greenberg-explains/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Call of Duty: Modern Warfare 4 Delivers The “Definitive” DMZ In The Center Of Korea",
-      "url": "https://gameranx.com/updates/id/562949/article/call-of-duty-modern-warfare-4-delivers-the-definitive-dmz-in-the-center-of-korea/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
