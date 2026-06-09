@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T17:07:09+00:00",
+  "generated_utc": "2026-06-09T18:05:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://justfreshkicks.com/air-jordan-1-low-phantom-green-ir2283-030/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “True Blue” Releases July 18th",
+      "url": "https://sneakerbardetroit.com/air-jordan-3-true-blue-2026-release-date/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
-      "url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "President Trump Claims NYC Loves Him After Getting Booed At NBA Finals",
+      "url": "https://allhiphop.com/news/president-trump-claims-nyc-loves-him-after-getting-booed-at-nba-finals/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "JAŸ-Z Announces Paris and Los Angeles ‘JAŸ-Z 30’ Stadium Shows",
-      "url": "https://thesource.com/2026/06/09/jay-z-30-concerts-paris-los-angeles-2026/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "After 38 Years, Dragon Ball's Next Anime Will Finally Return Yamcha To His Badass Roots",
       "url": "https://screenrant.com/dragon-ball-super-next-anime-yamcha-redemption-galactic-patrol/",
       "pillar": "anime",
@@ -151,20 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "I Want to Love You Till Your Dying Day Anime's 2nd Video Unveils Theme Songs, July 7 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-09/i-want-to-love-you-till-your-dying-day-anime-2nd-video-unveils-theme-songs-july-7-debut/.238313",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Though I Am an Inept Villainess Anime's Trailer Unveils milet's Opening Song, More Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-09/though-i-am-an-inept-villainess-anime-trailer-unveils-milet-opening-song-more-cast/.238308",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Summer’s best new romance anime just became one of the highest-rated shows on Crunchyroll",
       "url": "https://www.polygon.com/smoking-behind-supermarket-with-you-crunchyroll-highest-rated/",
       "pillar": "anime",
@@ -172,8 +158,22 @@
       "article_slug": null
     },
     {
-      "title": "News For the First Time in Decades, Dragon Quest Monsters Is Coming to PlayStation",
-      "url": "https://www.pushsquare.com/news/2026/06/for-the-first-time-in-decades-dragon-quest-monsters-is-coming-to-playstation",
+      "title": "Fairy Tail Officially Returns With Epic New Mini Series",
+      "url": "https://screenrant.com/fairy-tail-fantasia-new-miniseries/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "15 Greatest Shonen Anime Movies Of All Time, Ranked",
+      "url": "https://screenrant.com/best-shonen-anime-movies-all-time/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Major Dragon's Dogma 2 Patches Incoming to Improve Base Game Ahead of Dark Arisen DLC",
+      "url": "https://www.pushsquare.com/news/2026/06/major-dragons-dogma-2-patches-incoming-to-improve-base-game-ahead-of-dark-arisen-dlc",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -181,6 +181,13 @@
     {
       "title": "Persona 4 Revival's most exciting change is hidden in plain sight",
       "url": "https://www.gamesradar.com/games/persona/persona-4-revivals-most-exciting-change-is-hidden-in-plain-sight/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News For the First Time in Decades, Dragon Quest Monsters Is Coming to PlayStation",
+      "url": "https://www.pushsquare.com/news/2026/06/for-the-first-time-in-decades-dragon-quest-monsters-is-coming-to-playstation",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "News Dragon's Dogma 2 DLC Is Real, Huge Dark Arisen Expansion Releases on PS5 in October",
-      "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dlc-is-real-huge-dark-arisen-expansion-releases-on-ps5-in-october",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Was Gears Of War: E-Day Made Xbox Exclusive At The Last Minute? No! Aaron Greenberg Explains",
       "url": "https://gameranx.com/updates/id/562970/article/was-gears-of-war-e-day-made-xbox-exclusive-at-the-last-minute-no-aaron-greenberg-explains/",
       "pillar": "gaming",
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "Reckless Ben Shares ‘Final Message’ Regarding Episode 3 Of Bricks & Minifigs Lego Drama: ‘I Can’t Post It, Or Else I’ll Go To Jail’",
-      "url": "https://kotaku.com/reckless-ben-lego-star-wars-part-3-investigation-bricks-minifigs-2000704363",
+      "title": "Everything We Saw At The June 2026 Nintendo Direct",
+      "url": "https://kotaku.com/nintendo-direct-zelda-ocarina-time-kingdom-hearts-4-2000704336",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
