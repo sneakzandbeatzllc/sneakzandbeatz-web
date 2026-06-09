@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-09T11:57:33+00:00",
+  "generated_utc": "2026-06-09T12:07:16+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "cdb12351ad98",
       "pillar": "sneakers",
@@ -58,42 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
       "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
       "published": "2026-06-06T23:06:07",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "461c608b662e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
-      "thumbnail": "/drops/thumbs/461c608b662e.jpg",
-      "published": "2026-06-05T16:31:21",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0abfaadb2746",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
-      "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
-      "published": "2026-06-05T16:30:27",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "20e0c889b0b9",
-      "pillar": "sneakers",
-      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
-      "thumbnail": "/drops/thumbs/20e0c889b0b9.jpg",
-      "published": "2026-06-03T12:18:14",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -363,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "2b5f51e6e950",
-      "pillar": "gaming",
-      "title": "News Two Classic Call of Duty: Black Ops Games Seem Poised for PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/two-classic-call-of-duty-black-ops-games-seem-poised-for-ps5",
-      "thumbnail": "/drops/thumbs/2b5f51e6e950.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f637ac3aec91",
       "pillar": "gaming",
       "title": "Was Gears Of War: E-Day Made Xbox Exclusive At The Last Minute? No! Aaron Greenberg Explains",
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "a276f588219e",
+      "pillar": "gaming",
+      "title": "Call of Duty: Modern Warfare 4 Delivers The “Definitive” DMZ In The Center Of Korea",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/562949/article/call-of-duty-modern-warfare-4-delivers-the-definitive-dmz-in-the-center-of-korea/",
+      "thumbnail": "/drops/thumbs/a276f588219e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "cdb12351ad98",
+    "094b1500b6a8",
     "e7629a463b5a",
-    "8362d1bf79ba",
+    "43151d13faa3",
     "f1b19ea83158",
-    "d68700a4442e",
+    "69fe11c3a7e6",
     "2890e64db4ad"
   ]
 }
