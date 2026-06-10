@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T18:40:22+00:00",
+  "generated_utc": "2026-06-10T18:43:53+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -55,6 +34,27 @@
     {
       "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -137,6 +137,20 @@
       "article_slug": null
     },
     {
+      "title": "27th Detective Conan Film Screens at Anime Expo",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-10/27th-detective-conan-film-screens-at-anime-expo/.238355",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Drecom, Manga Box Launch New Label with 4 Titles",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-10/drecom-manga-box-launch-new-label-with-4-titles/.238292",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The studio behind Fate/Stay Night is reviving a beloved, 20-year-old manga",
       "url": "https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/",
       "pillar": "anime",
@@ -144,29 +158,15 @@
       "article_slug": null
     },
     {
+      "title": "New Hokuto no Ken -Fist of the North Star- Anime Casts Kazuya Ichijō",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-10/new-hokuto-no-ken-fist-of-the-north-star-anime-casts-kazuya-ichijo/.238380",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The Next Major Apothecary Diaries Release Is Here As Palace Chronicles Gets Release Date (Exclusive)",
       "url": "https://screenrant.com/apothecary-diaries-palace-chronicles-release-date/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hello Kitty Just Got The Wildest Food Collaboration Yet, And It's Going To Be Massive",
-      "url": "https://screenrant.com/hello-kitty-spam-collab-collectible-can/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "10 Greatest Goth Girls In Anime History",
-      "url": "https://screenrant.com/greatest-goth-girls-in-anime-history/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Marvel's Manga Imprint Officially Returns with Major Hero Redesign",
-      "url": "https://screenrant.com/marvel-mangaverse-returns-new-series/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

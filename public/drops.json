@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T18:40:22+00:00",
+  "generated_utc": "2026-06-10T18:43:53+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -94,6 +58,42 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
       "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
       "published": "2026-06-06T23:31:29",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86085068f6a4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
+      "published": "2026-06-06T23:06:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "461c608b662e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "thumbnail": "/drops/thumbs/461c608b662e.jpg",
+      "published": "2026-06-05T16:31:21",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0abfaadb2746",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
+      "published": "2026-06-05T16:30:27",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -231,6 +231,30 @@
       "release_badge": ""
     },
     {
+      "id": "6e34a2bd00c1",
+      "pillar": "anime",
+      "title": "27th Detective Conan Film Screens at Anime Expo",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-10/27th-detective-conan-film-screens-at-anime-expo/.238355",
+      "thumbnail": "/drops/thumbs/6e34a2bd00c1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "49af41b10e77",
+      "pillar": "anime",
+      "title": "Drecom, Manga Box Launch New Label with 4 Titles",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-10/drecom-manga-box-launch-new-label-with-4-titles/.238292",
+      "thumbnail": "/drops/thumbs/49af41b10e77.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c751c9c3ac1d",
       "pillar": "anime",
       "title": "The studio behind Fate/Stay Night is reviving a beloved, 20-year-old manga",
@@ -243,48 +267,24 @@
       "release_badge": ""
     },
     {
+      "id": "6d707e5a55f8",
+      "pillar": "anime",
+      "title": "New Hokuto no Ken -Fist of the North Star- Anime Casts Kazuya Ichijō",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-10/new-hokuto-no-ken-fist-of-the-north-star-anime-casts-kazuya-ichijo/.238380",
+      "thumbnail": "/drops/thumbs/6d707e5a55f8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e38362c53962",
       "pillar": "anime",
       "title": "The Next Major Apothecary Diaries Release Is Here As Palace Chronicles Gets Release Date (Exclusive)",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/apothecary-diaries-palace-chronicles-release-date/",
       "thumbnail": "/drops/thumbs/e38362c53962.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d6e53be39038",
-      "pillar": "anime",
-      "title": "Hello Kitty Just Got The Wildest Food Collaboration Yet, And It's Going To Be Massive",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/hello-kitty-spam-collab-collectible-can/",
-      "thumbnail": "/drops/thumbs/d6e53be39038.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0c741fa5932b",
-      "pillar": "anime",
-      "title": "10 Greatest Goth Girls In Anime History",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/greatest-goth-girls-in-anime-history/",
-      "thumbnail": "/drops/thumbs/0c741fa5932b.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "462436757823",
-      "pillar": "anime",
-      "title": "Marvel's Manga Imprint Officially Returns with Major Hero Redesign",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/marvel-mangaverse-returns-new-series/",
-      "thumbnail": "/drops/thumbs/462436757823.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
+    "8362d1bf79ba",
     "76c6ff0d562c",
-    "43151d13faa3",
+    "a8f2819063e6",
     "39e3b0382765",
-    "69fe11c3a7e6",
+    "9117a67223d5",
     "0f6329576082"
   ]
 }
