@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T21:46:52+00:00",
+  "generated_utc": "2026-06-10T22:03:13+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -63,39 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "e21281229ce9",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
-      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
-      "published": "2026-06-06T23:31:29",
+      "id": "7a309542c8db",
+      "pillar": "hiphop",
+      "title": "Biggie’s Son Says Man Accusing Him & Diddy Of Assault Ducked Lawsuit For Months & Now He Must Pay",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/biggies-son-says-man-accusing-him-diddy-of-assault-ducked-lawsuit-for-months-now-he-must-pay/",
+      "thumbnail": "/drops/thumbs/7a309542c8db.png",
+      "published": "2026-06-10T18:00:00",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "86085068f6a4",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
-      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
-      "published": "2026-06-06T23:06:07",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "35fe51b276ca",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-4-georgetown-2027/",
-      "thumbnail": "/drops/thumbs/35fe51b276ca.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/10/las-vegas-aces-latest-pro-basketball-team-skipping-white-house-during-trump-admin/",
       "thumbnail": "/drops/thumbs/4fa2ee593602.jpg",
       "published": "2026-06-10T12:10:16",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "594a71df7cf1",
-      "pillar": "hiphop",
-      "title": "Cardi B Reacts To Karmelo Anthony Verdict With Strong Words For The Court",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/cardi-b-reacts-to-karmelo-anthony-verdict-with-strong-words-for-the-court/",
-      "thumbnail": "/drops/thumbs/594a71df7cf1.jpg",
-      "published": "2026-06-10T12:02:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "8362d1bf79ba",
-    "684720817c2a",
-    "6f835bbe3ddc",
+    "094b1500b6a8",
+    "7a309542c8db",
+    "43151d13faa3",
     "39e3b0382765",
-    "67d4186d382d",
+    "69fe11c3a7e6",
     "7326e7281880"
   ]
 }
