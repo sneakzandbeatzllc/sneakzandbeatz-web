@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T14:36:55+00:00",
+  "generated_utc": "2026-06-10T15:09:53+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -57,6 +36,34 @@
       "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
       "pillar": "sneakers",
       "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Kanye’s Pastor Adam Tyson Allegedly Showed Nude Photos To Woman’s Father",
+      "url": "https://allhiphop.com/news/kanyes-pastor-adam-tyson-allegedly-showed-nude-photos-to-womans-father/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Teyana Taylor to Receive Icon of the Year Award at BET Awards 2026",
       "url": "https://thesource.com/2026/06/10/teyana-taylor-icon-of-the-year-bet-awards-2026/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ambré Announces New Album ‘PEYOTE’",
-      "url": "https://thesource.com/2026/06/10/ambre-peyote-album-july-2026/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -186,13 +186,6 @@
       "article_slug": null
     },
     {
-      "title": "News Dragon's Dogma 2 Patch 3.1 Out Now, Big Improvements Prepare for Dark Arisen DLC",
-      "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-patch-3-1-out-now-big-improvements-prepare-for-dark-arisen-dlc",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: Xbox Tried To Cancel Fable and Halo Campaign Evolved For PS5, Like They Did For Gears Of War: E-Day",
       "url": "https://gameranx.com/updates/id/562995/article/rumor-xbox-tried-to-cancel-fable-and-halo-campaign-evolved-for-ps5-like-they-did-for-gears-of-war-e-day/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "1666 Amsterdam’s Big Comeback After Going Missing For 15 Years Ruined By Gen AI",
       "url": "https://gameranx.com/updates/id/563004/article/1666-amsterdams-big-comeback-after-going-missing-for-15-years-ruined-by-gen-ai/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hands-On: Alien: Isolation 2 Remembers What Made The First Game Great",
+      "url": "https://kotaku.com/alien-isolation-2-preview-summer-game-fest-sega-sequel-2000704851",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

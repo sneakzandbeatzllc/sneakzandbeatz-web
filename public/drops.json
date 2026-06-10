@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T14:36:55+00:00",
+  "generated_utc": "2026-06-10T15:09:53+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -96,6 +60,54 @@
       "published": "2026-06-06T23:31:29",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86085068f6a4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
+      "published": "2026-06-06T23:06:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "461c608b662e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "thumbnail": "/drops/thumbs/461c608b662e.jpg",
+      "published": "2026-06-05T16:31:21",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0abfaadb2746",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
+      "published": "2026-06-05T16:30:27",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9f053f68f5a7",
+      "pillar": "hiphop",
+      "title": "Kanye’s Pastor Adam Tyson Allegedly Showed Nude Photos To Woman’s Father",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/kanyes-pastor-adam-tyson-allegedly-showed-nude-photos-to-womans-father/",
+      "thumbnail": "/drops/thumbs/9f053f68f5a7.png",
+      "published": "2026-06-10T11:00:00",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/10/teyana-taylor-icon-of-the-year-bet-awards-2026/",
       "thumbnail": "/drops/thumbs/b6014fe41a55.jpg",
       "published": "2026-06-10T07:07:22",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "797f752e6ac9",
-      "pillar": "hiphop",
-      "title": "Ambré Announces New Album ‘PEYOTE’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/10/ambre-peyote-album-july-2026/",
-      "thumbnail": "/drops/thumbs/797f752e6ac9.jpg",
-      "published": "2026-06-10T07:04:48",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -315,18 +315,6 @@
       "release_badge": ""
     },
     {
-      "id": "a1ebdbc30751",
-      "pillar": "gaming",
-      "title": "News Dragon's Dogma 2 Patch 3.1 Out Now, Big Improvements Prepare for Dark Arisen DLC",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-patch-3-1-out-now-big-improvements-prepare-for-dark-arisen-dlc",
-      "thumbnail": "/drops/thumbs/a1ebdbc30751.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9a486e1a9802",
       "pillar": "gaming",
       "title": "Rumor: Xbox Tried To Cancel Fable and Halo Campaign Evolved For PS5, Like They Did For Gears Of War: E-Day",
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "56df1bd52b32",
+      "pillar": "gaming",
+      "title": "Hands-On: Alien: Isolation 2 Remembers What Made The First Game Great",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/alien-isolation-2-preview-summer-game-fest-sega-sequel-2000704851",
+      "thumbnail": "/drops/thumbs/56df1bd52b32.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "094b1500b6a8",
-    "50f7c850f338",
-    "43151d13faa3",
+    "8362d1bf79ba",
+    "9f053f68f5a7",
+    "a8f2819063e6",
     "39e3b0382765",
-    "69fe11c3a7e6",
+    "9117a67223d5",
     "999ed98ed7bb"
   ]
 }
