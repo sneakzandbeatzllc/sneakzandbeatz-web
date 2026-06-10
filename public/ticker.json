@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T12:23:57+00:00",
+  "generated_utc": "2026-06-10T12:25:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -200,6 +200,13 @@
       "article_slug": null
     },
     {
+      "title": "News Destiny 3 Isn't in Development, But It May Have Been the Most Talked About Game of the Last Week",
+      "url": "https://www.pushsquare.com/news/2026/06/destiny-3-isnt-in-development-but-it-may-have-been-the-most-talked-about-game-of-the-last-week",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Whoops! Xbox Accidentally Uploads Gears of War PS5 Trailer",
       "url": "https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Pokemon Pokopia makes splash with free underwater update and paid DLC, coming later this summer",
       "url": "https://www.gamesradar.com/games/pokemon/pokemon-pokopia-makes-a-splash-with-new-free-underwater-update-and-paid-dlc-coming-later-this-summer/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rumor: The Legend of Zelda: Ocarina of Time Co-Developed By Nintendo And External Studio",
-      "url": "https://gameranx.com/updates/id/562999/article/rumor-the-legend-of-zelda-ocarina-of-time-co-developed-by-nintendo-and-external-studio/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
