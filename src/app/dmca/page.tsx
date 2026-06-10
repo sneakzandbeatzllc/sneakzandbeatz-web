@@ -165,7 +165,7 @@ export default function DMCAPage() {
           <p className="legal-effective">
             DMCA Agent — Sneakz &amp; Beatz LLC<br />
             c/o Sneakz &amp; Beatz<br />
-            iPostal1 — San Diego, CA<br />
+            7465 Mission Gorge Road, Suite 142, San Diego, CA 92120<br />
             Email: <a href="mailto:dmca@sneakzandbeatz.com">dmca@sneakzandbeatz.com</a>
           </p>
           <p>

@@ -181,11 +181,11 @@ export default function EntryCompletionPage() {
           }}
         >
           <h2 style={{ fontSize: "1.2rem", fontWeight: 700, margin: "0 0 8px" }}>
-            🎫 Want priority judging next round?
+            🎫 Want free entry to every round?
           </h2>
           <p style={{ fontSize: "0.95rem", lineHeight: 1.55, margin: "0 0 12px" }}>
-            <strong>Sneakz Pass</strong> ($12/mo) members get free Verified Entry to every
-            future Rap Challenge — priority panel review + written feedback from PHRHX +
+            <strong>Sneakz Pass</strong> ($12/mo) members get free entry to every
+            future Rap Challenge — entry fee waived + written feedback from PHRHX after results +
             finalist shoutout if you make the cut. Plus 2 bonus episodes/month, members-only
             Discord, monthly free exclusive beat, and 10% off every drop forever.
           </p>

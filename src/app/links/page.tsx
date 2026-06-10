@@ -12,7 +12,7 @@ import Footer from "@/components/Footer";
 export const metadata = {
   title: "Links — Sneakz & Beatz",
   description:
-    "Every Sneakz & Beatz offer in one place. Watch The PHRHX Show, get 96 beats for $79, win $10K in the Rap Challenge, join Sneakz Pass.",
+    "Every Sneakz & Beatz offer in one place. Watch The PHRHX Show, get 100 beats for $79, win $10K in the Rap Challenge, join Sneakz Pass.",
   alternates: { canonical: "/links" },
 };
 
@@ -40,7 +40,7 @@ const LINKS: LinkItem[] = [
   {
     label: "🏆  Submit a Rap. Win $10K.",
     href: "/rap-challenge",
-    hint: "Standard $35 / Verified $99 / Free with bundle / Free via AMOE",
+    hint: "Standard $25 / Free with bundle opt-in / Free via AMOE",
     highlight: true,
   },
   {
@@ -62,7 +62,7 @@ const LINKS: LinkItem[] = [
   {
     label: "🔥  Browse The Beat Store",
     href: "/beats",
-    hint: "96 mastered beats — 26 paid leases at $34.99, 70 free",
+    hint: "100 mastered beats — 26 paid leases at $34.99, 70 free",
   },
   {
     label: "🛒  Shop merch",

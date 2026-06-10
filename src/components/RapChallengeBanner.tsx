@@ -63,7 +63,7 @@ export default function RapChallengeBanner() {
             }}
           >
             $2,500 cash · PS5 Pro · $500 StockX · custom 1-of-1 sneaker · monthly
-            exclusive beats. Standard Entry $35. Free with the $79 bundle.
+            exclusive beats. Standard Entry $25. Free with the $79 bundle.
             Free via AMOE.
           </p>
         </div>

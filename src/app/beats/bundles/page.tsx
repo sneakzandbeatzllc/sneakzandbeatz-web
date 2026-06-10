@@ -15,7 +15,7 @@ type Tier = {
   name: string;
   tagline: string;
   priceUSD: number;
-  anchorUSD: number;
+  anchorUSD?: number;
   isFeatured?: boolean;
   bullets: string[];
   bonusValue?: number;
@@ -29,7 +29,6 @@ const TIERS: Tier[] = [
     name: "Starter",
     tagline: "Get Your Foot In",
     priceUSD: 47,
-    anchorUSD: 1249,
     bullets: [
       "25 curated beats from the catalog",
       "MP3 only delivery",
@@ -45,10 +44,10 @@ const TIERS: Tier[] = [
     name: "Standard",
     tagline: "Your Whole Year of Drops",
     priceUSD: 79,
-    anchorUSD: 2500,
+    anchorUSD: 4799,
     isFeatured: true,
     bullets: [
-      "ALL 96 beats — every single one in the catalog (free ones included)",
+      "ALL 100 beats — every single one in the catalog (free ones included)",
       "MP3 + WAV + trackouts (mixable stems)",
       "500K stream cap per track",
       "3 music videos per beat",
@@ -57,7 +56,7 @@ const TIERS: Tier[] = [
       "15-min mix consultation Zoom",
       "Bundle license auto-delivered with download",
     ],
-    bonusValue: 2500,
+    bonusValue: 1300,
     ctaLabel: "Get Standard — $79",
     ctaHref: STRIPE_LINKS.standardBundle,
   },
@@ -66,7 +65,6 @@ const TIERS: Tier[] = [
     name: "Producer Pack",
     tagline: "Level Up The Studio",
     priceUSD: 149,
-    anchorUSD: 1799,
     bullets: [
       "Everything in Standard, plus:",
       "5 free Premium Lease upgrades (untagged WAV + stems)",
@@ -83,7 +81,6 @@ const TIERS: Tier[] = [
     name: "Industry Pack",
     tagline: "Own The Sound",
     priceUSD: 399,
-    anchorUSD: 1497,
     bullets: [
       "Everything in Producer Pack, plus:",
       "1 fully exclusive beat — your pick (that beat gets bought out)",
@@ -135,12 +132,14 @@ export default function BundlesPage() {
               <p className="bundle-tier-tagline">{tier.tagline}</p>
 
               <div className="bundle-tier-pricing">
-                <div className="bundle-tier-anchor">
-                  Was{" "}
-                  <span className="bundle-tier-anchor-value">
-                    ${tier.anchorUSD.toLocaleString()}
-                  </span>
-                </div>
+                {tier.anchorUSD && (
+                  <div className="bundle-tier-anchor">
+                    <span className="bundle-tier-anchor-value">
+                      ${tier.anchorUSD.toLocaleString()}
+                    </span>{" "}
+                    stand-alone value
+                  </div>
+                )}
                 <div className="bundle-tier-price">
                   <span className="bundle-tier-currency">$</span>
                   {tier.priceUSD}
@@ -186,13 +185,13 @@ export default function BundlesPage() {
       <section className="container bundles-value-stack">
         <h2 className="bundles-value-h">Why The Standard Bundle Is The Move.</h2>
         <p className="bundles-value-sub">
-          Perceived value: <s>$2,500</s>. Today: <strong>$79</strong>. Same beats other producers
+          Stand-alone value: <s>$4,799</s>. Today: <strong>$79</strong>. Same beats other producers
           are charging hundreds for.
         </p>
         <div className="bundles-value-table">
           <div className="bundles-value-row">
             <span>100 mastered beats (curated catalog)</span>
-            <span>$1,200</span>
+            <span>$3,499</span>
           </div>
           <div className="bundles-value-row">
             <span>S&amp;B drum kits + sample pack</span>
@@ -212,7 +211,7 @@ export default function BundlesPage() {
           </div>
           <div className="bundles-value-row total">
             <span>Perceived total value</span>
-            <span>$2,500</span>
+            <span>$4,799</span>
           </div>
           <div className="bundles-value-row today">
             <span>Today, all-in</span>
@@ -229,8 +228,8 @@ export default function BundlesPage() {
           <p>
             A lease lets you use the beat with limits (stream cap, music video count). Multiple
             artists can lease the same beat. Exclusive = you own that beat forever; nobody else
-            can lease or buy it. Standard bundle is leases. Exclusive tier swaps 5 of those leases
-            into actual full ownership.
+            can lease or buy it. Standard bundle is leases. The Industry Pack ($399) includes 1 fully exclusive
+            beat of your choice; additional per-beat exclusives are $250–$1,500, negotiated by email.
           </p>
         </details>
         <details className="bundles-faq-item">
@@ -244,7 +243,7 @@ export default function BundlesPage() {
           <summary>How do "future drops" work?</summary>
           <p>
             Standard subscribers get every new beat we drop in the 6 months after purchase added to
-            their download library automatically. Exclusive tier extends that to lifetime — every
+            their download library automatically. The Industry Pack extends that to lifetime — every
             beat we ever release, free for you.
           </p>
         </details>
@@ -252,7 +251,7 @@ export default function BundlesPage() {
           <summary>What's the producer credit requirement?</summary>
           <p>
             Standard tier requires "Prod. by Sneakz &amp; Beatz" in your track credits / DSP
-            metadata. Exclusive tier waives this — when you buy out a beat, you can credit yourself.
+            metadata. The Industry Pack waives this — when you buy out a beat, you can credit yourself.
           </p>
         </details>
         <details className="bundles-faq-item">

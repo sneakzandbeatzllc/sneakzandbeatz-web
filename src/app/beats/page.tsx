@@ -8,13 +8,13 @@ import { jsonLd, beatCatalogItemList } from "@/lib/schema";
 export const metadata = {
   title: "Beat Store",
   description:
-    "96 mastered beats across East Coast, West Coast, Trap, Rage, and Free. Producer-grade hip-hop for artists who move different.",
+    "100 mastered beats across East Coast, West Coast, Trap, Rage, and Free. Producer-grade hip-hop for artists who move different.",
   alternates: { canonical: "/beats" },
   openGraph: {
     url: "https://www.sneakzandbeatz.com/beats",
     title: "Beat Store — Sneakz & Beatz",
     description:
-      "96 mastered beats. East Coast, West Coast, Trap, Rage, Free. Lease, buy, or get the $79 Vault.",
+      "100 mastered beats. East Coast, West Coast, Trap, Rage, Free. Lease, buy, or get the $79 Vault.",
     type: "website",
     // images intentionally omitted — file-based opengraph-image.tsx wins.
   },

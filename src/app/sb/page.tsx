@@ -21,7 +21,7 @@ type Link = {
 const LINKS: Link[] = [
   {
     href: "/beats/bundles",
-    label: "Get The $79 Vault — 200+ Beats",
+    label: "Get The $79 Vault — 100 Beats",
     sub: "Hero offer · WAV + drum kit + samples + tee + free Rap Challenge entry",
     icon: "⚡",
     accent: true,
@@ -35,7 +35,7 @@ const LINKS: Link[] = [
   {
     href: "/rap-challenge",
     label: "$10K Rap Challenge",
-    sub: "Waitlist open · submissions launch at 5,000 newsletter subs",
+    sub: "Waitlist open · submissions launch at 250 waitlist signups",
     icon: "🎤",
   },
   {

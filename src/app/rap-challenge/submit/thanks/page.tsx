@@ -63,7 +63,7 @@ export default function RapChallengeThanksPage() {
           <p className="submit-trust" style={{ marginTop: 32 }}>
             Want to enter again with a different recording?{" "}
             <Link href="/rap-challenge/submit">Submit another entry</Link> — each entry needs
-            its own bundle purchase or $35 Standard or $99 Verified entry fee or AMOE submission.
+            its own bundle purchase, $25 standard entry fee, or AMOE submission.
           </p>
         </section>
       </main>

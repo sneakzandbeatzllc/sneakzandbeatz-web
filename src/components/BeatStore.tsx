@@ -47,8 +47,8 @@ export default async function BeatStore() {
             For the 3-tier compare view see /beats/bundles. */}
         <Link href="/get-100-beats" className="bundle-card">
           <div>
-            <span className="funnel-tag">↗ Bundle · Save 99%</span>
-            <h3>Get 96 Beats<br />+ Mix Pack</h3>
+            <span className="funnel-tag">↗ Bundle · Save 97%</span>
+            <h3>Get 100 Beats<br />+ Mix Pack</h3>
           </div>
           <div>
             <p>Instant download. Trap, East Coast, West Coast, Rage. Stems included.</p>

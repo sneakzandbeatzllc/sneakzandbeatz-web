@@ -8,7 +8,7 @@ import { BEATS } from "@/data/beats";
 export const metadata = {
   title: "Shop — Beats & Merch — Sneakz & Beatz",
   description:
-    "S&B Shop — producer-grade beats ($34.99 lease, The Vault bundle starting at $79, exclusive ownership) and color-matched merch (heavyweight tee, hoodie, dad cap, track shorts). Beats live now. Merch pre-order opens August 1, 2026.",
+    "S&B Shop — producer-grade beats ($34.99 lease, The Vault bundle starting at $79, exclusive ownership) and color-matched merch (heavyweight tee, hoodie, dad cap, track shorts). Beats live now. Merch pre-order opens August 15, 2026.",
   alternates: { canonical: "/shop" },
 };
 
@@ -51,8 +51,8 @@ export default function ShopPage() {
           </div>
           <p className="shop-helper">
             For rappers ready to drop. Free Standard license to test the waters,
-            $34.99 lease per beat for unlimited uses, or grab the full bundle for
-            the price of a couple beats with full ownership terms.
+            $34.99 lease per beat (100K-stream cap, upgrade path built in), or grab
+            the full bundle for the price of a couple beats.
           </p>
 
           <div className="shop-beats-tiers">
@@ -74,7 +74,7 @@ export default function ShopPage() {
                 <span className="shop-tier-price">$79</span>
               </span>
               <p className="shop-tier-desc">
-                96 beats. Untagged WAVs. Stems for select tracks. Full lease rights.
+                100 beats. Untagged WAVs. Stems for select tracks. Full lease rights.
                 Build a whole project — never touch a credit card for beats again.
               </p>
               <Link href="/bundle" className="btn btn-primary btn-arrow">Unlock The Vault</Link>

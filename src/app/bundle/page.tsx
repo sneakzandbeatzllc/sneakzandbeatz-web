@@ -15,14 +15,14 @@ import { BEATS } from "@/data/beats";
  * "Standard Bundle — $79" payment link.
  */
 export const metadata = {
-  title: "Producer Bundle — All 96 Beats For $79 | Sneakz & Beatz",
+  title: "Producer Bundle — All 100 Beats For $79 | Sneakz & Beatz",
   description:
-    "All 96 mastered beats. WAV stems, drum kit, mix consultation, and 6 months of future drops. Was $2,500. Today: $79. Bundle license auto-delivered.",
+    "All 100 mastered beats. WAV stems, drum kit, mix consultation, and 6 months of future drops. Over $4,700 in stand-alone value. Today: $79. Bundle license auto-delivered.",
   alternates: { canonical: "/bundle" },
   openGraph: {
-    title: "All 96 Beats. $79. — Sneakz & Beatz Producer Bundle",
+    title: "All 100 Beats. $79. — Sneakz & Beatz Producer Bundle",
     description:
-      "All 96 mastered beats — including the free ones — with WAV stems, drum kit, mix consult, and 6 months of future drops. Bundle license auto-attached.",
+      "All 100 mastered beats — including the free ones — with WAV stems, drum kit, mix consult, and 6 months of future drops. Bundle license auto-attached.",
     url: "https://sneakzandbeatz.com/bundle",
     siteName: "Sneakz & Beatz",
     type: "website",
@@ -31,13 +31,13 @@ export const metadata = {
         url: "/og-bundle.png",
         width: 1200,
         height: 630,
-        alt: "Sneakz & Beatz Producer Bundle — All 96 beats for $79",
+        alt: "Sneakz & Beatz Producer Bundle — All 100 beats for $79",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "All 96 Beats. $79.",
+    title: "All 100 Beats. $79.",
     description:
       "Sneakz & Beatz Producer Bundle. WAV + stems + drum kit + mix consult + 6 mo of future drops.",
     images: ["/og-bundle.png"],
@@ -46,7 +46,7 @@ export const metadata = {
 
 const PROOF_POINTS = [
   ["96", "mastered beats included"],
-  ["$0.82", "per beat (regular $34.99)"],
+  ["$0.79", "per beat (regular $34.99)"],
   ["6 mo", "of future drops included"],
   ["50/50", "publishing — same as a label"],
 ];
@@ -54,11 +54,11 @@ const PROOF_POINTS = [
 const FAQ: Array<[string, string]> = [
   [
     "Are the free beats really included?",
-    "Yes. All 96 beats currently in the catalog — including the 70 tagged 'Free' on the public store — ship with the bundle. The Free Standard License only covers MP3, no sync, low caps. The Bundle license unlocks WAV + stems + sync rights on every single beat. Same beats, real license.",
+    "Yes. All 100 beats currently in the catalog — including the 70 tagged 'Free' on the public store — ship with the bundle. The Free Standard License only covers MP3, no sync, low caps. The Bundle license unlocks WAV + stems + sync rights on every single beat. Same beats, real license.",
   ],
   [
     "What if I already grabbed a free beat?",
-    "Nothing changes. Your free download stays under the Free Standard License. When you buy the bundle, you get the upgraded license + WAV + stems on that same beat (plus all 95 others).",
+    "Nothing changes. Your free download stays under the Free Standard License. When you buy the bundle, you get the upgraded license + WAV + stems on that same beat (plus all 99 others).",
   ],
   [
     "When do I get the files?",
@@ -66,7 +66,7 @@ const FAQ: Array<[string, string]> = [
   ],
   [
     "Refund policy?",
-    "30-day satisfaction guarantee. Email licensing@sneakzandbeatz.com inside 30 days, full refund, no interrogation. You agree to delete the files if you take the refund — that's the only ask.",
+    "30-day satisfaction guarantee. Email support@sneakzandbeatz.com inside 30 days, full refund, no interrogation. You agree to delete the files if you take the refund — that's the only ask.",
   ],
   [
     "What's the catch with the price?",
@@ -109,33 +109,20 @@ export default function BundleSqueezePage() {
           library at no extra charge.
         </p>
 
-        {/* VSL placeholder — replace with the YouTube embed when ready */}
-        <div className="bundle-vsl-frame" aria-label="Sales video">
-          <div className="bundle-vsl-inner">
-            <span className="bundle-vsl-label">▶ Sales Video — Coming Soon</span>
-            <p className="bundle-vsl-helper">
-              PHRHX walks you through every beat in the catalog, the
-              license, and exactly what you can do with it. Watch this once
-              before you buy. (Embed slot — drop the YouTube unlisted URL
-              into <code>BUNDLE_VSL_URL</code> in <code>page.tsx</code>.)
-            </p>
-          </div>
-        </div>
-
         {/* Anchor + price reveal */}
         <div className="bundle-price-block">
           <div className="bundle-price-anchor">
             <span className="bundle-price-anchor-label">If you bought it piece by piece:</span>
-            <span className="bundle-price-anchor-amount">$2,879.04</span>
+            <span className="bundle-price-anchor-amount">$4,799</span>
             <span className="bundle-price-anchor-detail">
-              {totalBeats} beats × $34.99 + drum kit ($60) + mix consult ($35)
+              {totalBeats} beats × $34.99 + drum kit, mix consult, 6 months of drops & community
             </span>
           </div>
           <div className="bundle-price-today">
             <span className="bundle-price-today-label">Today, one-time:</span>
             <span className="bundle-price-today-amount">$79</span>
             <span className="bundle-price-today-detail">
-              That's <strong>$0.82 per beat</strong>, fully licensed.
+              That's <strong>$0.79 per beat</strong>, fully licensed.
             </span>
           </div>
         </div>
@@ -183,7 +170,7 @@ export default function BundleSqueezePage() {
               full trackouts (drums, melody, bass, FX as separate stems).
               Mastered and voice-tag-free.
             </p>
-            <p className="bundle-stack-value">Stand-alone value: $2,879</p>
+            <p className="bundle-stack-value">Stand-alone value: $3,499</p>
           </article>
 
           <article className="bundle-stack-card">
@@ -194,7 +181,7 @@ export default function BundleSqueezePage() {
               the catalog. Drop them in your DAW and start cooking
               immediately.
             </p>
-            <p className="bundle-stack-value">Stand-alone value: $60</p>
+            <p className="bundle-stack-value">Stand-alone value: $300</p>
           </article>
 
           <article className="bundle-stack-card">
@@ -205,7 +192,7 @@ export default function BundleSqueezePage() {
               levels, glue, the cut your record needs. Recorded so you can
               go back to it.
             </p>
-            <p className="bundle-stack-value">Stand-alone value: $35</p>
+            <p className="bundle-stack-value">Stand-alone value: $150</p>
           </article>
 
           <article className="bundle-stack-card">
@@ -216,7 +203,7 @@ export default function BundleSqueezePage() {
               library automatically. New drops every week — by month 6 you
               have a meaningfully bigger catalog than you started with.
             </p>
-            <p className="bundle-stack-value">Stand-alone value: $300+</p>
+            <p className="bundle-stack-value">Stand-alone value: $600+</p>
           </article>
 
           <article className="bundle-stack-card">
@@ -239,13 +226,13 @@ export default function BundleSqueezePage() {
               about the next bundle expansion before everyone else. PHRHX
               is in there daily.
             </p>
-            <p className="bundle-stack-value">Stand-alone value: priceless</p>
+            <p className="bundle-stack-value">Stand-alone value: $250</p>
           </article>
         </div>
 
         <div className="bundle-total-line">
           <span>Total stand-alone value:</span>
-          <span className="bundle-total-strike">$3,274+</span>
+          <span className="bundle-total-strike">$4,799</span>
           <span className="bundle-total-arrow">→</span>
           <span className="bundle-total-now">$79 today</span>
         </div>
@@ -258,7 +245,7 @@ export default function BundleSqueezePage() {
           If the bundle doesn't slap, take your $79 back.
         </h2>
         <p className="bundle-guarantee-p">
-          Email <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>{" "}
+          Email <a href="mailto:support@sneakzandbeatz.com">support@sneakzandbeatz.com</a>{" "}
           inside 30 days, full refund. You agree to stop using the files,
           that's the only condition. We'd rather lose the $79 than have
           someone using the catalog who isn't feeling it.
@@ -300,7 +287,7 @@ export default function BundleSqueezePage() {
           Want even more? <Link href="/beats/bundles">See Starter / Standard / Exclusive →</Link>
         </p>
         <p className="bundle-foot-fine">
-          Producer of record: Sneakz &amp; Beatz LLC, Los Angeles County, CA
+          Producer of record: Sneakz &amp; Beatz LLC, San Diego, CA · Publishing administered by Black Royal Music Media Group Inc.
           ·{" "}
           <Link href="/licensing">Full license terms</Link> ·{" "}
           <Link href="/terms">Terms</Link> · <Link href="/privacy">Privacy</Link>

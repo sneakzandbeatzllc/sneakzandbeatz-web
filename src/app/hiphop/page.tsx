@@ -4,11 +4,11 @@ import HipHopBeatBlock from "@/components/HipHopBeatBlock";
 export const metadata = {
   title: "Hip-Hop — News, Type Beats, Producer Spotlights, Black-Culture-First",
   description:
-    "Hip-hop news, releases, scene reports, producer spotlights, and the 96-beat Sneakz & Beatz catalog. Knowledgeable, not explanatory.",
+    "Hip-hop news, releases, scene reports, producer spotlights, and the 100-beat Sneakz & Beatz catalog. Knowledgeable, not explanatory.",
   alternates: { canonical: "/hiphop" },
   openGraph: {
     title: "Hip-Hop — Sneakz & Beatz",
-    description: "Hip-hop editorial + 96-beat producer-grade catalog. Black-owned.",
+    description: "Hip-hop editorial + 100-beat producer-grade catalog. Black-owned.",
     url: "https://www.sneakzandbeatz.com/hiphop",
     siteName: "Sneakz & Beatz",
     type: "website",
@@ -23,7 +23,7 @@ export default function HipHopPage() {
       pillarNumber="02 / Pillar"
       pillarName="HIP-HOP · BEATZ"
       pillarTagline="The Sound. The Stories."
-      lead="Hip-hop is the operating system of culture in 2026. We cover the music — releases, scenes, beefs that actually mean something — and the production side: who's making the beats, why a sound takes off, what's next. Plus we drop our own beats. 96 mastered tracks live in the Beat Store right now."
+      lead="Hip-hop is the operating system of culture in 2026. We cover the music — releases, scenes, beefs that actually mean something — and the production side: who's making the beats, why a sound takes off, what's next. Plus we drop our own beats. 100 mastered tracks live in the Beat Store right now."
       covers={[
         {
           tag: "New Music",

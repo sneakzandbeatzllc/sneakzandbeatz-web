@@ -89,7 +89,7 @@ export default function AboutPage() {
             <li>
               <strong>The Beat Store</strong> at{" "}
               <Link href="/beats">/beats</Link>
-              {" "}— 96 mastered tracks across East Coast, West Coast, Trap, Rage, and Free
+              {" "}— 100 mastered tracks across East Coast, West Coast, Trap, Rage, and Free
             </li>
             <li>
               <strong>Beat Bundles</strong> at{" "}

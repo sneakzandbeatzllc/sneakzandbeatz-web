@@ -97,7 +97,7 @@ export default function FreeBeatsPage({
             </h2>
             <p className="free-step-p">
               Every free beat is also part of the Producer Bundle — $79 for
-              all 96 beats with WAV, trackouts, drum kit, and a license that
+              all 100 beats with WAV, trackouts, drum kit, and a license that
               actually allows sync placements. Same beat, real license.
             </p>
             <Link

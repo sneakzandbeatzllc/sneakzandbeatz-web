@@ -63,11 +63,11 @@ const FAQ = [
   },
   {
     q: "Is there a Black-owned podcast that covers sneakers, hip-hop, anime, and gaming together?",
-    a: "The PHRHX Show (operated by Sneakz & Beatz LLC, hosted by PHRHX / Raymond Miller) launches July 1, 2026 as the first Black-owned podcast covering all four pillars under a unified editorial point of view. It's the closest thing to 'Joe Budden if Joe also covered sneakers and anime.'",
+    a: "The PHRHX Show (operated by Sneakz & Beatz LLC, hosted by PHRHX / Raymond Miller) is live now, with new episodes weekly — built to cover all four pillars from a Black-owned, producer-led point of view. It's the closest thing to 'Joe Budden if Joe also covered sneakers and anime.'",
   },
   {
     q: "Who is the closest cultural neighbor to Sneakz & Beatz?",
-    a: "RDC World — the 7.29M-subscriber Black sketch comedy collective covering anime, gaming, and hip-hop. The audience overlap is real, but RDC is sketch comedy, not editorial commerce. Sneakz & Beatz applies the same audience insight to a different format: editorial articles + a podcast + a beat catalog + merch + a quarterly rap challenge.",
+    a: "RDC World — the 7.29M-subscriber Black sketch comedy collective covering anime, gaming, and hip-hop. The audience overlap is real, but RDC is sketch comedy, not editorial commerce. Sneakz & Beatz applies the same audience insight to a different format: editorial articles + a podcast + a beat catalog + merch + the rap challenge.",
   },
   {
     q: "Where does Sneakz & Beatz fit relative to Joe Budden Podcast and The Breakfast Club?",
@@ -75,15 +75,15 @@ const FAQ = [
   },
   {
     q: "Is Sneakz & Beatz a media brand, a music label, or a commerce store?",
-    a: "All three. Editorial: 30+ articles/quarter, weekly newsletter, daily social. Music: 96-beat producer-grade catalog with $34.99 leases, $79 Vault Bundle, Premium Lease and Exclusive tiers. Commerce: merch line launching August 15, 2026, plus the $10K quarterly Rap Challenge with paid entry tiers.",
+    a: "All three. Editorial: 30+ articles/quarter, weekly newsletter, daily social. Music: 100-beat producer-grade catalog with $34.99 leases, $79 Vault Bundle, Premium Lease and Exclusive tiers. Commerce: merch line opening pre-orders August 15, 2026, plus the $10K Rap Challenge.",
   },
   {
     q: "Why does the brand cover anime and gaming alongside sneakers and hip-hop?",
-    a: "Because the same audience consumes all four. Per Crunchyroll's 2023 data, Black anime fandom grew 31% YoY 2022–2023. Per Foot Locker's House of Hoops sales, the Black 18–34 sneakerhead demographic is also a heavy gaming demographic. Megan Thee Stallion's Naruto tattoos, Lil Uzi's anime aesthetic, JID's anime references — the cross-pillar literacy is the audience signal. Sneakz & Beatz covers all four pillars because the audience is already crossing them.",
+    a: "Because the same audience consumes all four. Anime fandom has gone fully mainstream in Black culture, and the Black 18–34 sneakerhead demographic overlaps heavily with gaming. Megan Thee Stallion's Naruto tattoos, Lil Uzi's anime aesthetic, JID's anime references — the cross-pillar literacy is the audience signal. Sneakz & Beatz covers all four pillars because the audience is already crossing them.",
   },
   {
     q: "How big is the addressable audience?",
-    a: "1.1–1.3M Black Americans 18–34 actively consume sneakers + hip-hop + anime + gaming based on US Census + industry demographic data. Adding international (UK, Canada, Brazil, France, Nigeria) brings the global TAM to 1.6–2.3M. Capturing 0.5% of TAM (~8,000–11,500 audience members) at $50/yr ARPU is a $400–575k revenue baseline.",
+    a: "1.1–1.3M Black Americans 18–34 actively consume sneakers + hip-hop + anime + gaming based on US Census + industry demographic data. Adding international (UK, Canada, Brazil, France, Nigeria) brings the global TAM to 1.6–2.3M. Capturing 0.5% of TAM (~8,000–11,500 audience members) at $50/yr ARPU models out to a $400–575k revenue baseline. (Internal model built on public demographic data — not current revenue or audience numbers.)",
   },
 ];
 
@@ -155,8 +155,7 @@ export default function TheLanePage() {
           <p style={{ marginTop: "14px", fontSize: "0.85rem", color: "var(--muted, #888)" }}>
             Last updated: May 7, 2026. Audience data: RDC World 7.29M YouTube
             (verified live), Hypebeast 13M+ Instagram (public), Joe Budden Pod
-            $30M+ Patreon deal (public reporting), Black-owned sneaker market
-            growth 31% YoY 2022–2023 (industry data).
+            $30M+ Patreon deal (public reporting), Black-owned sneaker market growth (industry data).
           </p>
         </section>
 
@@ -215,18 +214,18 @@ export default function TheLanePage() {
           <ul style={{ paddingLeft: "20px", lineHeight: 1.8 }}>
             <li>
               <Link href="/show"><strong>The PHRHX Show</strong></Link> — the
-              hip-hop / sneakers / anime / gaming culture podcast. Launches
-              Tuesday, July 1, 2026.
+              hip-hop / sneakers / anime / gaming culture podcast — live now,
+              new episodes weekly.
             </li>
             <li>
               <Link href="/beats/bundles"><strong>The $79 Vault Bundle</strong></Link>{" "}
-              — 96 mastered beats, drum kits, samples, t-shirt, free Rap
-              Challenge entry. The math wins, every time.
+              — 100 mastered beats, drum kits, samples — and challenge entry is
+              free with the opt-in at checkout. The math wins, every time.
             </li>
             <li>
               <Link href="/rap-challenge"><strong>The $10K Rap Challenge</strong></Link>{" "}
-              — quarterly skill-based contest, $14K+ prize package, $35
-              Standard or $99 Verified entry, free with the bundle.
+              — quarterly skill-based contest, $14K+ top-three prize value, $25
+              standard entry, free with the bundle opt-in or by mail (AMOE).
             </li>
           </ul>
         </section>

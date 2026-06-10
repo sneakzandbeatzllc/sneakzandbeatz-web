@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sneakz & Beatz — For Sneakerheads Who Live Hip-Hop, Anime & Gaming",
     description:
-      "Black-owned culture brand. The PHRHX Show, 96 mastered beats, the $79 Vault, the $10K Rap Challenge. Sneakers leads. Then hip-hop, anime, gaming.",
+      "Black-owned culture brand. The PHRHX Show, 100 mastered beats, the $79 Vault, the $10K Rap Challenge. Sneakers leads. Then hip-hop, anime, gaming.",
     url: "https://www.sneakzandbeatz.com",
     siteName: "Sneakz & Beatz",
     type: "website",
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     creator: "@sneakz_beatz",
     title: "Sneakz & Beatz",
     description:
-      "For sneakerheads who live hip-hop, anime, and gaming. Black-owned culture brand. The PHRHX Show. 96 beats for $79. $10K Rap Challenge.",
+      "For sneakerheads who live hip-hop, anime, and gaming. Black-owned culture brand. The PHRHX Show. 100 beats for $79. $10K Rap Challenge.",
     // images omitted — falls back to og:image automatically.
   },
   robots: {

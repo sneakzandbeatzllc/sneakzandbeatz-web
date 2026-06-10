@@ -73,8 +73,8 @@ const PERKS = [
   },
   {
     icon: "🎤",
-    h: "Free Verified Entry to every Rap Challenge",
-    p: "Skip the $35 standard fee. Get priority judging + written feedback from PHRHX.",
+    h: "Free entry to every Rap Challenge",
+    p: "Your $25 standard entry fee is waived, plus written feedback from PHRHX on your submission after results are announced.",
   },
   {
     icon: "🎙️",
@@ -178,7 +178,7 @@ export default function SneakzPassPage() {
             $12/month gets you the equivalent of: 2 bonus episodes ($0 — they
             don't exist publicly), one exclusive untagged WAV beat per month
             (worth $34.99 standalone), 10% off your next merch purchase (worth
-            ~$8 on a hoodie), free Verified Entry to the Rap Challenge ($99 if
+            ~$8 on a hoodie), free Rap Challenge entry ($25 if
             bought standalone), and the members-only Discord lounge.
           </p>
           <p>

@@ -24,7 +24,7 @@ const STEPS = [
   {
     n: "01",
     h: "Get the bundle",
-    body: "Cop any tier of the Sneakz & Beatz bundle — Standard Vault ($79), Producer Pack ($149), or Industry Pack ($399). All tiers include 200+ mastered beats + drum kit + vocal kit + sample pack + a t-shirt. The bundle is the gate — paid entry to the challenge runs through it. (Free AMOE path also available — see Official Rules.)",
+    body: "Cop any tier of the Sneakz & Beatz bundle — Standard Vault ($79), Producer Pack ($149), or Industry Pack ($399). All tiers include 100 mastered beats + drum kit + sample pack. Or skip the bundle: $25 standalone entry and a free mailed-in path (AMOE) both work too — see Official Rules.",
   },
   {
     n: "02",
@@ -92,7 +92,7 @@ const PRIZES: PrizeTier[] = [
     items: [
       "$200 CASH (Cash App / Zelle / check)",
       "$100 StockX Gift Card",
-      "Standard Bundle (96 mastered beats + t-shirt)",
+      "Standard Bundle (100 mastered beats)",
       "2 vocal kits",
       "Cypher tape feature track (slots #15-25)",
     ],
@@ -114,7 +114,7 @@ const PRIZES: PrizeTier[] = [
 const FAQ = [
   {
     q: "Wait — does buying the bundle automatically enter me?",
-    a: "No. The Standard Bundle ($79) is its own product — 96 mastered beats + drum kits + sample pack + a t-shirt. Plenty of people will buy the bundle just for the beats and have zero interest in the challenge. To ENTER the challenge you go to the entry form and explicitly opt in (checkbox), confirm you follow @sneakz_beatz on IG / TikTok / X / YouTube, and confirm you're in the Discord. Then you either pay Standard Entry ($35), Verified Entry ($99 — priority judging + written feedback from PHRHX + finalist shoutout), attach proof of bundle purchase to waive the Standard fee, or use the free mailed-in entry (AMOE).",
+    a: "No. The Standard Bundle ($79) is its own product — 100 mastered beats + drum kits + sample pack. Plenty of people will buy the bundle just for the beats and have zero interest in the challenge. To ENTER the challenge you go to the entry form and explicitly opt in (checkbox), confirm you follow @sneakz_beatz on IG / TikTok / X / YouTube, and confirm you're in the Discord. Then you either pay the $25 standard entry fee, attach proof of bundle purchase to waive the fee, or use the free mailed-in entry (AMOE).",
   },
   {
     q: "What does the cash prize actually look like?",
@@ -126,11 +126,11 @@ const FAQ = [
   },
   {
     q: "Who actually judges this?",
-    a: "Sneakz & Beatz + PHRHX is the permanent panel. 3 guest judges rotate per cycle — names announced 14 days before voting opens. Final score: 70% panel + 30% community vote (held in the Discord with bot-enforced one-vote-per-member, self-votes blocked).",
+    a: "Sneakz & Beatz + PHRHX is the permanent panel. 3 guest judges rotate per cycle — names announced 14 days before voting opens. Final score: 50% judges panel + 30% Discord community vote (bot-enforced one-vote-per-member, self-votes blocked) + 20% public YouTube vote.",
   },
   {
     q: "Can I submit more than once?",
-    a: "Yes — each submission is its own entry, and each requires its own paid path (bundle, $35 Standard or $99 Verified fee, or AMOE). Quality not quantity though — judges aren't going to score you 3 times because you sent 3 verses.",
+    a: "Yes — each submission is its own entry, and each requires its own paid path (bundle, $25 standard fee, or AMOE). Quality not quantity though — judges aren't going to score you 3 times because you sent 3 verses.",
   },
   {
     q: "When are submissions open?",
@@ -192,16 +192,16 @@ export default function RapChallengePage() {
               <p style={{ margin: 0, fontSize: "0.95rem", lineHeight: 1.55 }}>
                 <strong>📌 Entry path locked while we build the audience.</strong>
                 {" "}Submissions open once we hit{" "}
-                <strong>5,000 newsletter subscribers</strong>. We&rsquo;re running this
+                <strong>250 waitlist signups</strong>. We&rsquo;re running this
                 contest at scale or not at all — funded prize pool, real judges, real
                 community vote. Drop your email below, follow on socials, jump in the
-                Discord. When subs hit the threshold we send you the official rules,
+                Discord. When the waitlist hits the threshold we send you the official rules,
                 judges, and the submission window 7 days in advance.
               </p>
               <p style={{ margin: "10px 0 0", fontSize: "0.88rem", opacity: 0.85 }}>
-                When entry opens, the only way in is: (1) buy any tier of the bundle
-                with the &ldquo;enter the challenge&rdquo; checkbox at checkout, or
-                (2) free mailed-in entry (AMOE).
+                When entry opens, three ways in: (1) any bundle tier with the &ldquo;enter
+                the challenge&rdquo; checkbox at checkout, (2) $25 standalone entry, or
+                (3) free mailed-in entry (AMOE). No path affects judging.
               </p>
             </div>
 
@@ -225,7 +225,7 @@ export default function RapChallengePage() {
             </form>
             <p className="rap-trust">
               Free to join · 7-day heads-up before submissions open · Threshold:
-              5,000 newsletter subscribers
+              250 waitlist signups
             </p>
           </div>
         </section>
@@ -248,8 +248,8 @@ export default function RapChallengePage() {
         <section className="container rap-block">
           <h2 className="rap-h2">The Prize Pool</h2>
           <p className="rap-prize-intro">
-            Total prize-pool value: <strong>$14,000+</strong> with <strong>$3,200 in cash</strong>
-            {" "}across the top three. Cash gets paid via Cash App, Zelle, or check —
+            Top-three prize value: <strong>$14,000+</strong> with <strong>$3,200 in cash</strong>.
+            Full pool including all 25 finalist packages: approx. <strong>$21,500</strong> ARV. Cash gets paid via Cash App, Zelle, or check —
             winner&rsquo;s choice. Every other prize is physical product, gift cards, kits we own
             and ship, or paid ad spend that actually runs. No fake collabs, no &ldquo;mystery
             features,&rdquo; no streaming-number promises we can&rsquo;t guarantee. Prizes ≥
@@ -284,8 +284,8 @@ export default function RapChallengePage() {
               The bundle is its own product. The challenge is its own thing. Pick one or both.
             </h2>
             <p className="rap-bundle-sub">
-              The <strong>Standard Bundle ($79)</strong> = 96 mastered beats + drum kits +
-              sample pack + Sneakz & Beatz t-shirt. It is a standalone product. <strong>Buying
+              The <strong>Standard Bundle ($79)</strong> = 100 mastered beats + drum kits +
+              sample pack. It is a standalone product. <strong>Buying
               it does not enter you in the challenge.</strong> Plenty of people will buy it
               just because they want the beats and the merch — that's fine, you get every
               dollar of value either way.
@@ -293,7 +293,7 @@ export default function RapChallengePage() {
             <p className="rap-bundle-sub">
               If you also want to enter the challenge, you use the entry form, opt in
               explicitly, follow us on socials, join the Discord, and either pay the
-              <strong> $35 Standard or $99 Verified entry fee</strong>, show proof of bundle purchase to waive the fee,
+              <strong> $25 standard entry fee</strong>, show proof of bundle purchase to waive the fee,
               or use the free <strong>mailed-in entry (AMOE)</strong>.
             </p>
             <a

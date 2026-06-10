@@ -552,7 +552,7 @@ export default function CreatorsPage() {
             </li>
             <li>
               <strong>Governing law:</strong> State of California. Disputes
-              resolved in Los Angeles County.
+              resolved in San Diego County.
             </li>
           </ul>
         </section>

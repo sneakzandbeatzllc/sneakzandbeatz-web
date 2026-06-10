@@ -29,10 +29,10 @@ export default function LicensingPage() {
           </p>
           <p className="licensing-effective">
             Effective: April 1, 2026 · Producer of record: Sneakz &amp; Beatz LLC,
-            Los Angeles County, CA. Questions: <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>
+            San Diego, CA. Questions: <a href="mailto:licensing@sneakzandbeatz.com">licensing@sneakzandbeatz.com</a>
           </p>
           <div className="licensing-callout">
-            <strong>Read this once:</strong> All <strong>96 beats</strong> on the site —
+            <strong>Read this once:</strong> All <strong>100 beats</strong> on the site —
             including the <strong>70 tagged "Free"</strong> — are part of the Producer
             Bundle ($79). The "Free" tag means you can also download those beats at no
             cost under the <em>Free Standard License</em> below (MP3 only, lower caps).
@@ -47,7 +47,7 @@ export default function LicensingPage() {
             <span>Free Standard</span>
             <span>Lease ($34.99)</span>
             <span>Bundle ($79+)</span>
-            <span>Exclusive ($399+)</span>
+            <span>Industry Pack ($399)</span>
           </div>
           {COMPARE_ROWS.map((r, i) => (
             <div key={i} className="licensing-compare-row">
@@ -270,7 +270,7 @@ const TIERS = [
     name: "Free Standard — $0",
     priceLabel: "Free Tier · $0",
     summary:
-      "70 of the 96 beats on the site are tagged 'Free' and download free of charge under this license. MP3 only, lower caps, no sync rights. Great for demo cuts, mixtape work, or testing how a record lands before going wide.",
+      "70 of the 100 beats on the site are tagged 'Free' and download free of charge under this license. MP3 only, lower caps, no sync rights. Great for demo cuts, mixtape work, or testing how a record lands before going wide.",
     sections: [
       {
         heading: "How to grab one",
@@ -366,16 +366,16 @@ const TIERS = [
   {
     slug: "premium",
     name: "Producer Bundle — $79",
-    priceLabel: "Bundle · $47 / $79 / $399",
+    priceLabel: "Bundle · $47 / $79 / $149 / $399",
     summary:
-      "Standard Bundle ($79) covers ALL 96 beats on the site — including the 70 tagged 'Free.' Starter ($47) is 25 of your choice. Exclusive ($399) is everything in Standard plus 5 fully exclusive beats pulled from the public catalog. Higher caps, full stems, drum kit + samples, mix consult.",
+      "Standard Bundle ($79) covers ALL 100 beats on the site — including the 70 tagged 'Free.' Starter ($47) is 25 of your choice. Industry Pack ($399) is everything in Standard plus 1 fully exclusive beat pulled from the public catalog. Higher caps, full stems, drum kit + samples, mix consult.",
     sections: [
       {
         heading: "What you get",
         bullets: [
-          "ALL 96 beats (Standard) — yes, the 70 Free ones are bundled in too",
+          "ALL 100 beats (Standard) — yes, the 70 Free ones are bundled in too",
           "25 beats of your pick (Starter)",
-          "Standard + 5 fully exclusive beats removed from the catalog (Exclusive)",
+          "Standard + 1 fully exclusive beat removed from the catalog (Industry Pack)",
           "MP3 + WAV + trackouts (separate stems for drums, melody, bass, etc.)",
           "S&amp;B drum kit + sample pack",
           "15-minute mix consultation Zoom (Standard tier only)",
@@ -413,19 +413,19 @@ const TIERS = [
   },
   {
     slug: "exclusive",
-    name: "Exclusive — $399+",
-    priceLabel: "Exclusive · $399 (5 beats)",
+    name: "Industry Pack — $399",
+    priceLabel: "Industry Pack · $399 (1 exclusive beat)",
     summary:
-      "Buy a beat out — it leaves the catalog and nobody else can use it. Available as part of the Exclusive Bundle (5 of your choice) or per-beat by request.",
+      "Buy a beat out — it leaves the catalog and nobody else can use it. The Industry Pack ($399) includes 1 fully exclusive beat of your choice; additional exclusives are available per-beat by request.",
     sections: [
       {
         heading: "What you get",
         bullets: [
-          "Everything in the Standard Bundle, plus:",
-          "5 fully exclusive beats — your pick from the entire catalog",
+          "Everything in the Producer Pack, plus:",
+          "1 fully exclusive beat — your pick from the entire catalog",
           "Each exclusive beat is removed from the public catalog after purchase",
           "Lifetime updates — every beat we ever release is yours, free",
-          "Producer credit waived on the 5 exclusive beats",
+          "Producer credit waived on the exclusive beat",
           "Direct DM / email access for custom requests + sample-flip ideas",
           "DistroKid affiliate kit so you can release your projects efficiently",
         ],
@@ -433,19 +433,19 @@ const TIERS = [
       {
         heading: "Stream + sales caps",
         paragraphs: [
-          "No caps on the 5 exclusive beats. Stream and sell as much as you want. Standard-bundle caps still apply to the 95 non-exclusive beats included in the bundle.",
+          "No caps on your exclusive beat. Stream and sell as much as you want. Standard-bundle caps still apply to the 99 non-exclusive beats included in the bundle.",
         ],
       },
       {
         heading: "Producer credit",
         paragraphs: [
-          "Waived on the 5 exclusive beats. You may credit yourself as sole producer or use a co-producer credit, your call. Producer credit on the other 95 bundle beats remains required.",
+          "Waived on the exclusive beat. You may credit yourself as sole producer or use a co-producer credit, your call. Producer credit on the other 99 bundle beats remains required.",
         ],
       },
       {
         heading: "Splits",
         paragraphs: [
-          "On the 5 exclusive beats: 100% publishing transfers to you, 100% master is yours, 100% of sync income is yours. On the other 95 bundle beats: same splits as the Standard Bundle (50/50 publishing, 100% master).",
+          "On the exclusive beat: 100% publishing transfers to you, 100% master is yours, 100% of sync income is yours. On the other 99 bundle beats: same splits as the Standard Bundle (50/50 publishing, 100% master).",
         ],
       },
       {
@@ -455,7 +455,7 @@ const TIERS = [
         ],
       },
     ],
-    ctaLabel: "Get Exclusive Bundle →",
+    ctaLabel: "Get The Industry Pack →",
     ctaHref: "/beats/bundles",
     licenseHref: "/licenses/producer-bundle-license.md",
   },

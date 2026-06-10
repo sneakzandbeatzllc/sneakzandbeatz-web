@@ -19,12 +19,13 @@ export default function Hero() {
           </h1>
           <p className="lead">
             For sneakerheads who live hip-hop, anime, and gaming. Drops, beats,
-            episodes, and the stories shaping the culture.
+            episodes, and the stories shaping the culture. If you live this,
+            you&rsquo;re home.
           </p>
           <div className="hero-ctas">
             {/* Single primary CTA — most-monetizable wedge. */}
             <a href="/beats/bundles" className="btn btn-primary btn-arrow">
-              Get The $79 Vault — 96 Beats
+              Get The $79 Vault — 100 Beats
             </a>
             <a href="/show" className="btn-link">
               ▶ Watch The PHRHX Show

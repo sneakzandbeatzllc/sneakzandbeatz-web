@@ -99,11 +99,11 @@ export default function RapChallengeRulesPage() {
           <section id="entry-period">
             <h2>3. Entry Period</h2>
             <p>
-              The Promotion will run only after the Sponsor confirms a minimum of five
-              thousand (5,000) verified email subscribers to the official Sneakz &amp; Beatz
-              newsletter at sneakzandbeatz.substack.com (the &ldquo;Audience Threshold&rdquo;).
+              The Promotion will run only after the Sponsor confirms a minimum of two
+              hundred fifty (250) verified signups on the official Rap Challenge waitlist
+              at sneakzandbeatz.com/rap-challenge (the &ldquo;Audience Threshold&rdquo;).
               Once the Audience Threshold is met, Sponsor will publicly announce the start
-              and end dates of the Submission Period by email to all subscribers and on
+              and end dates of the Submission Period by email to all waitlist members and on
               sneakzandbeatz.com at least seven (7) calendar days before submissions open.
             </p>
             <p>
@@ -138,15 +138,16 @@ export default function RapChallengeRulesPage() {
               <li>Provide their Discord username on the entry form for cross-verification</li>
             </ul>
             <p>
-              There are two (2) methods of entry. Each method counts as one (1) entry per
-              eligible Submission:
+              There are three (3) methods of entry. Each method counts as one (1) entry per
+              eligible Submission. No entry method affects judging, scoring, or odds of
+              winning in any way:
             </p>
             <p>
               <strong>(a) Bundle entry — opt-in at checkout:</strong> Purchase any tier of
               the Sneakz &amp; Beatz Bundle (Standard Vault $79, Producer Pack $149, or
               Industry Pack $399) and check the box at checkout reading &ldquo;Enter the
-              $10K Rap Challenge.&rdquo; The bundle includes 200+ mastered beats, drum kit,
-              vocal kit, sample pack, t-shirt, and merchandise. Buying the bundle without
+              $10K Rap Challenge.&rdquo; The bundle includes 100 mastered beats, drum kit,
+              and sample pack. Buying the bundle without
               checking the box gives you the bundle product only — no contest entry.
               Entry is initiated at the moment of bundle purchase + checkbox tick, but
               entry is NOT COMPLETE until all four (4) post-purchase steps are completed
@@ -154,16 +155,27 @@ export default function RapChallengeRulesPage() {
               social accounts; (2) join the Sneakz &amp; Beatz Discord; (3) submit the
               video meeting the Submission Requirements; (4) acknowledge these Official
               Rules via the entry-completion form. Failure to complete all four steps
-              within the deadline forfeits the Promotion entry. The bundle product itself
-              is non-refundable regardless of entry status.
+              within the deadline forfeits the Promotion entry. The bundle product follows the standard 30-day
+              satisfaction guarantee; accepting a bundle refund voids any Promotion entry
+              initiated with that purchase.
             </p>
             <p>
-              <strong>(b) Free entry — see Section 5 (AMOE).</strong>
+              <strong>(b) Standalone paid entry — $25:</strong> Pay the twenty-five dollar
+              ($25.00) standalone entry fee via the entry form at
+              sneakzandbeatz.com/rap-challenge/submit and complete all entry requirements
+              (social follows, Discord membership, Submission, and acknowledgment of these
+              Official Rules) within fourteen (14) calendar days of payment. The entry fee
+              is refundable in full if the Promotion is cancelled or rescheduled, and is
+              non-refundable once the entrant&rsquo;s Submission has been judged.
             </p>
             <p>
-              An entrant may submit multiple entries via the AMOE path. Each entry must be
-              a different recording and must independently satisfy one of the entry methods
-              above. Identical or substantially similar recordings submitted multiple times
+              <strong>(c) Free entry — see Section 5 (AMOE).</strong>
+            </p>
+            <p>
+              An entrant may submit multiple entries. Each entry must be a different
+              recording and must independently satisfy one of the entry methods above
+              (one bundle purchase supports one entry; each additional entry requires its
+              own $25 standalone fee or AMOE entry). Identical or substantially similar recordings submitted multiple times
               will be treated as a single entry. All entries must verify the social-follow
               and Discord membership requirements above. Bundle entries are limited to one
               (1) per bundle purchase.
@@ -180,8 +192,8 @@ export default function RapChallengeRulesPage() {
             </p>
             <p style={{ paddingLeft: 24, fontFamily: "monospace" }}>
               Sneakz & Beatz Rap Challenge — Free Entry<br />
-              [iPostal1 mailbox — confirm before publish]<br />
-              Los Angeles, CA 90001
+              7465 Mission Gorge Road, Suite 142<br />
+              San Diego, CA 92120
             </p>
             <p>
               Mailed entries must be postmarked during the Submission Period and received
@@ -385,8 +397,11 @@ export default function RapChallengeRulesPage() {
                 purchased; Sneakz & Beatz follow + 1 promo Reel mention.
               </li>
               <li>
-                <strong>Total Prize Pool ARV:</strong> approximately $21,500, of which
-                approximately $3,200 is cash.
+                <strong>Total Prize Pool ARV:</strong> approximately $21,500 across all
+                twenty-eight (28) prize winners, including approximately $14,000+ across the
+                top three placements, of which approximately $3,200 is cash. The
+                &ldquo;$10K&rdquo; in the Promotion name refers to the 1st-place package ARV
+                of $10,000+.
               </li>
             </ul>
             <p>
@@ -501,7 +516,7 @@ export default function RapChallengeRulesPage() {
               These Official Rules will be governed by, and interpreted in accordance with,
               the laws of the State of California, without regard to its conflict-of-laws
               provisions. Any disputes will be resolved exclusively in the state or federal
-              courts located in Los Angeles County, California.
+              binding arbitration in San Diego County, California, under the rules of the American Arbitration Association.
             </p>
           </section>
 

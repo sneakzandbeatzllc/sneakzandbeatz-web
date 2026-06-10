@@ -85,7 +85,7 @@ export default function TermsPage() {
           <h2>5. License — what you're actually buying</h2>
           <p>
             When you purchase a beat or bundle you are not buying the underlying composition.
-            You are buying a license under one of three tiers (Lease, Premium / Bundle, or
+            You are buying a license under one of four tiers (Free Standard, Lease, Premium / Bundle, or
             Exclusive) detailed in our{" "}
             <Link href="/licensing">Beat Licensing Terms</Link>. That document is
             incorporated into these Terms by reference. Read it before you purchase.
@@ -96,7 +96,7 @@ export default function TermsPage() {
           <h2>6. 30-day satisfaction guarantee + refunds</h2>
           <p>
             All beat and bundle purchases include a 30-day satisfaction guarantee. To request
-            a refund, email terms@sneakzandbeatz.com within 30 days of purchase with
+            a refund, email support@sneakzandbeatz.com within 30 days of purchase with
             your order email and the beat or bundle title. Refunds are issued to the
             original payment method within 5 business days of approval. By accepting a refund
             you forfeit any license rights you were granted and agree to delete the

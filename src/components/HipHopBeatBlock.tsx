@@ -11,7 +11,7 @@ import { BEATS } from "@/data/beats";
 export default function HipHopBeatBlock() {
   // Surface 4 paid beats — first one from each category if we can find them,
   // else just the first 4. Keeps the strip varied across the four sounds the
-  // 96-beat catalog covers.
+  // 100-beat catalog covers.
   const paidBeats = BEATS.filter((b) => !b.isFree);
   const totalPaid = paidBeats.length;
   const featured = ["east-coast", "west-coast", "trap", "rage"]
@@ -43,7 +43,7 @@ export default function HipHopBeatBlock() {
         }}
       >
         <div style={{ flex: "1 1 360px", minWidth: 280 }}>
-          <span className="eyebrow">Beats · 96 In The Catalog</span>
+          <span className="eyebrow">Beats · 100 In The Catalog</span>
           <h2
             style={{
               fontSize: "clamp(1.5rem, 2.6vw, 2.1rem)",
@@ -156,7 +156,7 @@ export default function HipHopBeatBlock() {
                 lineHeight: 1.15,
               }}
             >
-              96 mastered beats. Drum kits. Sample pack. T-shirt.
+              100 mastered beats. Drum kits. Sample pack. T-shirt.
             </h3>
             <p style={{ margin: "8px 0 0", fontSize: "0.95rem", opacity: 0.95 }}>
               Build a whole project for the price of a couple beats. Free entry

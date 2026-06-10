@@ -36,14 +36,25 @@ export default function RefundPage() {
         <section className="legal-section">
           <h2>1. Digital goods — beats, bundles, exclusives</h2>
           <p>
-            All beat sales (Free Standard download, $34.99 Single Beat Lease,
-            $79+ Vault bundle, $399 Exclusive) are <strong>final once the
-            download link is delivered</strong>. This is industry-standard for
-            digital audio and matches Stripe + most card-network expectations
-            for non-tangible goods.
+            Every beat lease and bundle ($34.99 Single Beat Lease, $79+ Vault
+            bundle) comes with a <strong>30-day satisfaction guarantee</strong>.
+            Email <a href="mailto:support@sneakzandbeatz.com">support@sneakzandbeatz.com</a>
+            {" "}within 30 days of purchase with your order email and the beat or
+            bundle title — full refund to your original payment method within 5
+            business days, no questions asked. By accepting a refund you agree
+            that your license terminates immediately: delete the delivered files
+            and take down any published songs or videos that use the refunded
+            beat(s).
+          </p>
+          <p>
+            <strong>Exception — exclusives:</strong> exclusive beat purchases
+            ($399 Industry Pack exclusive or per-beat exclusives) are final once
+            the WAV + stems have been delivered or the beat has been registered
+            to you with a rights organization, because the beat is removed from
+            the market for your exclusive use.
           </p>
 
-          <h3>Exceptions — we WILL refund when:</h3>
+          <h3>We also refund immediately, even outside the 30 days:</h3>
           <ul>
             <li>
               <strong>Duplicate purchase.</strong> If you accidentally bought
@@ -66,9 +77,7 @@ export default function RefundPage() {
 
           <h3>What we WON&rsquo;T refund:</h3>
           <ul>
-            <li>Buyer&rsquo;s remorse / change of mind after download</li>
-            <li>Beats you decided you don&rsquo;t want to use after listening to the full untagged WAV</li>
-            <li>Bundles where you&rsquo;ve already downloaded any portion of the catalog</li>
+            <li>Requests made more than 30 days after purchase (except the cases above)</li>
             <li>Exclusive beat purchases after the WAV + stems have been delivered (the beat is then taken off the market for the buyer&rsquo;s exclusive use)</li>
           </ul>
         </section>
@@ -76,9 +85,12 @@ export default function RefundPage() {
         <section className="legal-section">
           <h2>2. Subscription and recurring charges</h2>
           <p>
-            Sneakz &amp; Beatz does not currently sell subscription products.
-            Every transaction is a one-time charge. If a recurring charge
-            appears on your statement claiming to be from us, it is fraudulent —
+            Sneakz &amp; Beatz currently sells one-time purchases only. Sneakz
+            Pass, our $12/month membership, launches October 1, 2026 — when it
+            does, your first month is covered by a 30-day refund; after that,
+            cancelling stops future renewals and the current month is
+            non-refundable. Any other recurring charge claiming to be from us is
+            fraudulent —
             email <a href="mailto:support@sneakzandbeatz.com">support@sneakzandbeatz.com</a>
             {" "}immediately and we will help you dispute it.
           </p>
@@ -88,7 +100,7 @@ export default function RefundPage() {
           <h2>3. Merch (when it launches)</h2>
           <p>
             Physical merch is print-on-demand and made-to-order. Once we
-            officially launch (target: August 1, 2026), the merch refund policy
+            officially launch (target: August 15, 2026), the merch refund policy
             will be:
           </p>
           <ul>
@@ -120,9 +132,10 @@ export default function RefundPage() {
         <section className="legal-section">
           <h2>4. Rap Challenge entry fees</h2>
           <p>
-            Rap Challenge entry fees are non-refundable once submission is
-            received. See the{" "}
-            <Link href="/rap-challenge/rules">Official Sweepstakes Rules</Link>
+            Rap Challenge entry fees ($25 standalone) are refunded in full if
+            the challenge is cancelled or rescheduled, and are non-refundable
+            once your submission has been judged. See the{" "}
+            <Link href="/rap-challenge/rules">Official Contest Rules</Link>
             {" "}for the full eligibility, judging, and prize-distribution terms.
           </p>
         </section>

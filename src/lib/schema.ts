@@ -218,20 +218,11 @@ export function rapChallengeEvent() {
       {
         "@type": "Offer",
         name: "Standard Entry",
-        price: "35.00",
+        price: "25.00",
         priceCurrency: "USD",
         availability: "https://schema.org/InStock",
         url: `${SITE}/rap-challenge`,
         category: "Contest entry — Standard",
-      },
-      {
-        "@type": "Offer",
-        name: "Verified Entry — priority judging + written feedback from PHRHX",
-        price: "99.00",
-        priceCurrency: "USD",
-        availability: "https://schema.org/InStock",
-        url: `${SITE}/rap-challenge`,
-        category: "Contest entry — Verified",
       },
       {
         "@type": "Offer",

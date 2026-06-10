@@ -87,7 +87,7 @@ export default function MerchInterestForm() {
         <h3 className="creators-success-h">First pull when pre-orders drop.</h3>
         <p className="creators-success-body">
           We email the interest list 24 hours before the public Stripe link goes
-          live on August 1. Your colorway pick is reserved while supply lasts.
+          live on August 15. Your colorway pick is reserved while supply lasts.
         </p>
       </div>
     );
@@ -249,7 +249,7 @@ export default function MerchInterestForm() {
       </button>
 
       <p className="submit-trust">
-        First-come first-served when pre-orders open August 1. We never sell or
+        First-come first-served when pre-orders open August 15. We never sell or
         share your email.
       </p>
     </form>

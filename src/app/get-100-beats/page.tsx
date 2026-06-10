@@ -6,12 +6,12 @@ import { STRIPE_LINKS } from "@/data/stripe-links";
 export const metadata = {
   title: "Get 100 Mastered Beats For $79 — Sneakz & Beatz",
   description:
-    "100 mastered beats. MP3 + WAV + Stems. Drum kit + sample pack. 15-minute mix consult. Six months of future drops. $2,500 perceived value, $79 today.",
+    "100 mastered beats. MP3 + WAV + Stems. Drum kit + sample pack. 15-minute mix consult. Six months of future drops. Over $4,700 in stand-alone value, $79 today.",
   alternates: { canonical: "/get-100-beats" },
 };
 
 const VALUE_STACK = [
-  { item: "100 mastered beats — full curated catalog",                value: 1200 },
+  { item: "100 mastered beats — full curated catalog",                value: 3499 },
   { item: "S&amp;B drum kits + sample pack",                              value: 300 },
   { item: "15-minute 1-on-1 mix consultation (Zoom)",                  value: 150 },
   { item: "6 months of future beat drops added to your library",       value: 600 },
@@ -48,11 +48,11 @@ const FAQ = [
   },
   {
     q: "What if I don't like them?",
-    a: "30-day money-back guarantee. Email blackroyalmusicmedia@gmail.com within 30 days, full refund, no questions, no clawbacks. We'd rather you be happy than have your $79.",
+    a: "30-day money-back guarantee. Email support@sneakzandbeatz.com within 30 days, full refund, no questions, no clawbacks. We'd rather you be happy than have your $79.",
   },
   {
     q: "Is this an exclusive?",
-    a: "No. The bundle gives you a Premium Lease license on each beat — multiple artists can lease the same beat. If you want to OWN a beat (nobody else can use it), see the Exclusive tier on /beats/bundles ($399) or email us about per-beat exclusives.",
+    a: "No. The bundle gives you a Premium Lease license on each beat — multiple artists can lease the same beat. If you want to OWN a beat (nobody else can use it), see the Industry Pack on /beats/bundles ($399) or email us about per-beat exclusives.",
   },
   {
     q: "What format are the files?",
@@ -139,7 +139,7 @@ export default function Get100BeatsPage() {
             ))}
             <div className="funnel-stack-row funnel-stack-total">
               <span>Perceived total value</span>
-              <span>$2,500</span>
+              <span>$4,799</span>
             </div>
             <div className="funnel-stack-row funnel-stack-today">
               <span>Today, all-in</span>
@@ -206,7 +206,7 @@ export default function Get100BeatsPage() {
             <Link href="/beats/bundles" style={{ color: "var(--highlight)", textDecoration: "underline" }}>
               /beats/bundles
             </Link>{" "}
-            (Starter $47 · Standard $79 · Exclusive $399).
+            (Starter $47 · Standard $79 · Producer $149 · Industry $399).
           </p>
         </section>
       </main>
