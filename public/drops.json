@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T22:03:13+00:00",
+  "generated_utc": "2026-06-10T22:35:14+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -94,6 +58,42 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
       "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
       "published": "2026-06-09T15:29:01",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-06-06T23:31:29",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86085068f6a4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
+      "published": "2026-06-06T23:06:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "35fe51b276ca",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-4-georgetown-2027/",
+      "thumbnail": "/drops/thumbs/35fe51b276ca.webp",
+      "published": "",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "716d9d612a64",
+      "id": "42244a2c905a",
       "pillar": "anime",
-      "title": "22 Years Later, Boruto's Strongest Uchiha Is Inspiring The Sasuke Retrieval Arc's Epic Sequel",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-boruto-strongest-uchiha-sasuke-retrieval-sequel/",
-      "thumbnail": "/drops/thumbs/716d9d612a64.png",
+      "title": "Hiroshi Shimomoto's Delinquent Gacha Manga Enters Last Arc",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-10/hiroshi-shimomoto-delinquent-gacha-manga-enters-last-arc/.238361",
+      "thumbnail": "/drops/thumbs/42244a2c905a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "6e34a2bd00c1",
-      "pillar": "anime",
-      "title": "27th Detective Conan Film Screens at Anime Expo",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-10/27th-detective-conan-film-screens-at-anime-expo/.238355",
-      "thumbnail": "/drops/thumbs/6e34a2bd00c1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c751c9c3ac1d",
       "pillar": "anime",
       "title": "The studio behind Fate/Stay Night is reviving a beloved, 20-year-old manga",
@@ -267,12 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "49af41b10e77",
+      "id": "6e7cd3cc0316",
       "pillar": "anime",
-      "title": "Drecom, Manga Box Launch New Label with 4 Titles",
+      "title": "Haikyu!!’s 2027 Return Is Official & Its First Look Is Here",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/haikyu-anime-movies-new-trailer-2027-release-update/",
+      "thumbnail": "/drops/thumbs/6e7cd3cc0316.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6e34a2bd00c1",
+      "pillar": "anime",
+      "title": "27th Detective Conan Film Screens at Anime Expo",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-10/drecom-manga-box-launch-new-label-with-4-titles/.238292",
-      "thumbnail": "/drops/thumbs/49af41b10e77.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-10/27th-detective-conan-film-screens-at-anime-expo/.238355",
+      "thumbnail": "/drops/thumbs/6e34a2bd00c1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
+    "8362d1bf79ba",
     "7a309542c8db",
-    "43151d13faa3",
+    "6f835bbe3ddc",
     "39e3b0382765",
-    "69fe11c3a7e6",
+    "67d4186d382d",
     "7326e7281880"
   ]
 }
