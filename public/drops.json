@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T20:43:54+00:00",
+  "generated_utc": "2026-06-10T20:47:26+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-09T10:51:24",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -22,42 +10,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
       "thumbnail": "/drops/thumbs/8362d1bf79ba.jpg",
       "published": "2026-06-06T22:42:50",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "779db71fc001",
-      "pillar": "sneakers",
-      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
-      "published": "2026-06-06T16:07:15",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "a3e23bbf57cc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-05T17:50:18",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "7c06fa47f1e9",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
-      "thumbnail": "/drops/thumbs/7c06fa47f1e9.jpg",
-      "published": "2026-06-05T08:04:32",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -94,6 +46,54 @@
       "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
       "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
       "published": "2026-06-09T15:29:21",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e146b07264a0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
+      "published": "2026-06-09T15:29:01",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-06-06T23:31:29",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86085068f6a4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
+      "published": "2026-06-06T23:06:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "35fe51b276ca",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-4-georgetown-2027/",
+      "thumbnail": "/drops/thumbs/35fe51b276ca.webp",
+      "published": "",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
-    "db45627768d4",
     "8362d1bf79ba",
+    "db45627768d4",
+    "6f835bbe3ddc",
     "39e3b0382765",
-    "779db71fc001",
+    "67d4186d382d",
     "7326e7281880"
   ]
 }
