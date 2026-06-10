@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T15:42:36+00:00",
+  "generated_utc": "2026-06-10T16:15:19+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -99,25 +63,85 @@
       "release_badge": ""
     },
     {
-      "id": "9f053f68f5a7",
+      "id": "86085068f6a4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
+      "published": "2026-06-06T23:06:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "461c608b662e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "thumbnail": "/drops/thumbs/461c608b662e.jpg",
+      "published": "2026-06-05T16:31:21",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0abfaadb2746",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
+      "thumbnail": "/drops/thumbs/0abfaadb2746.jpg",
+      "published": "2026-06-05T16:30:27",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4fa2ee593602",
       "pillar": "hiphop",
-      "title": "Kanye’s Pastor Adam Tyson Allegedly Showed Nude Photos To Woman’s Father",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/kanyes-pastor-adam-tyson-allegedly-showed-nude-photos-to-womans-father/",
-      "thumbnail": "/drops/thumbs/9f053f68f5a7.png",
-      "published": "2026-06-10T11:00:00",
+      "title": "Las Vegas Aces’ Latest Pro Basketball Team Skipping White House During Trump Admin",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/10/las-vegas-aces-latest-pro-basketball-team-skipping-white-house-during-trump-admin/",
+      "thumbnail": "/drops/thumbs/4fa2ee593602.jpg",
+      "published": "2026-06-10T12:10:16",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "50f7c850f338",
+      "id": "d83e8f054175",
       "pillar": "hiphop",
-      "title": "Mayor Mamdani Approves New Paid Watch Party After Post-Knicks Game Violence",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/mayor-mamdani-approves-new-paid-watch-party-after-post-knicks-game-violence/",
-      "thumbnail": "/drops/thumbs/50f7c850f338.png",
-      "published": "2026-06-10T08:30:00",
+      "title": "Karmelo Anthony Verdict Fuels Debate Over Texas Self-Defense Cases And Perceived Racial Bias",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/10/karmelo-anthony-verdict-fuels-debate-over-texas-self-defense-cases-and-perceived-racial-bias/",
+      "thumbnail": "/drops/thumbs/d83e8f054175.jpg",
+      "published": "2026-06-10T11:58:48",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "250d67fa5cf5",
+      "pillar": "hiphop",
+      "title": "‘The Social Reckoning’ Movie Teaser Revisits Facebook’s Biggest Whistleblower Scandal",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/10/the-social-reckoning-movie-teaser-revisits-facebooks-biggest-whistleblower-scandal/",
+      "thumbnail": "/drops/thumbs/250d67fa5cf5.jpg",
+      "published": "2026-06-10T11:45:47",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2fcfd1e9c10f",
+      "pillar": "hiphop",
+      "title": "YouTuber Posts Rick Ross Flying Commercial With Viral Airport Pics Sending Chat in a Frenzy",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/10/youtuber-posts-rick-ross-flying-commercial-with-viral-airport-pics-sending-chat-in-a-frenzy/",
+      "thumbnail": "/drops/thumbs/2fcfd1e9c10f.jpg",
+      "published": "2026-06-10T11:38:18",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "3ab00997a520",
-      "pillar": "hiphop",
-      "title": "Former Diddy Executive Scores Early Legal Victory In Sex Trafficking Allegations",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/10/former-diddy-executive-scores-early-legal-victory-in-sex-trafficking-allegations/",
-      "thumbnail": "/drops/thumbs/3ab00997a520.jpg",
-      "published": "2026-06-10T07:14:33",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b6014fe41a55",
-      "pillar": "hiphop",
-      "title": "Teyana Taylor to Receive Icon of the Year Award at BET Awards 2026",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/10/teyana-taylor-icon-of-the-year-bet-awards-2026/",
-      "thumbnail": "/drops/thumbs/b6014fe41a55.jpg",
-      "published": "2026-06-10T07:07:22",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "39e3b0382765",
       "pillar": "anime",
       "title": "Solo Leveling season 3 official release window is bad news for fans",
@@ -243,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "e38362c53962",
+      "pillar": "anime",
+      "title": "The Next Major Apothecary Diaries Release Is Here As Palace Chronicles Gets Release Date (Exclusive)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/apothecary-diaries-palace-chronicles-release-date/",
+      "thumbnail": "/drops/thumbs/e38362c53962.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d6e53be39038",
       "pillar": "anime",
       "title": "Hello Kitty Just Got The Wildest Food Collaboration Yet, And It's Going To Be Massive",
@@ -279,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "3f7641858155",
-      "pillar": "anime",
-      "title": "Netflix Loses Zom 100 In Major Win For Crunchyroll's Anime Streaming Dominance",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-loses-zom-100-crunchyroll-win/",
-      "thumbnail": "/drops/thumbs/3f7641858155.jpg",
+      "id": "f3ef8f6399b2",
+      "pillar": "gaming",
+      "title": "Shift Up CEO Brushes Off Complaints That Stellar Blade: Blood Rain’ s Protagonist Looks Too Young, While Promising ‘Even More Appealing’ Outfits",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/stellar-blade-blood-rain-evie-young-appearance-eve-sexualized-shift-up-2000704314",
+      "thumbnail": "/drops/thumbs/f3ef8f6399b2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "999ed98ed7bb",
+      "id": "8f753cfa93e0",
       "pillar": "gaming",
-      "title": "News Final Fantasy 7 Revelation Will Address Rebirth's Excessive Minigame Problem",
+      "title": "News Destiny 3 Isn't in Development, But It May Have Been the Most Talked About Game of the Last Week",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-revelation-will-address-rebirths-excessive-minigame-problem",
-      "thumbnail": "/drops/thumbs/999ed98ed7bb.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/destiny-3-isnt-in-development-but-it-may-have-been-the-most-talked-about-game-of-the-last-week",
+      "thumbnail": "/drops/thumbs/8f753cfa93e0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "8f753cfa93e0",
+      "id": "0ec1dcf68076",
       "pillar": "gaming",
-      "title": "News Destiny 3 Isn't in Development, But It May Have Been the Most Talked About Game of the Last Week",
+      "title": "News Sony 'Exploring New Ways' to Deliver PS Plus Games",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/destiny-3-isnt-in-development-but-it-may-have-been-the-most-talked-about-game-of-the-last-week",
-      "thumbnail": "/drops/thumbs/8f753cfa93e0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1cdc8ba288ef",
-      "pillar": "gaming",
-      "title": "Nintendo Might Be Making Its Biggest, Most Costly Mistake",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/nintendo-direct-mario-share-price-crashing-mistake-zelda-2000704845",
-      "thumbnail": "/drops/thumbs/1cdc8ba288ef.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/sony-exploring-new-ways-to-deliver-ps-plus-games",
+      "thumbnail": "/drops/thumbs/0ec1dcf68076.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "60aea0f3383b",
+      "id": "f8b88faf4ff4",
       "pillar": "gaming",
-      "title": "Doctor Who Is In A Whole Heap Of Trouble",
+      "title": "Killer Bean Is A Very, Very Bad Game",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/doctor-who-showrunner-abandons-show-christmas-special-cancelled-2000704853",
-      "thumbnail": "/drops/thumbs/60aea0f3383b.jpg",
+      "source_url": "https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867",
+      "thumbnail": "/drops/thumbs/f8b88faf4ff4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
-    "9f053f68f5a7",
-    "43151d13faa3",
+    "8362d1bf79ba",
+    "4fa2ee593602",
+    "a8f2819063e6",
     "39e3b0382765",
-    "69fe11c3a7e6",
-    "999ed98ed7bb"
+    "9117a67223d5",
+    "f3ef8f6399b2"
   ]
 }
