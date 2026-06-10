@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T12:34:29+00:00",
+  "generated_utc": "2026-06-10T13:25:47+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "1c70964e33f8",
+      "id": "39e3b0382765",
       "pillar": "anime",
-      "title": "Jujutsu Kaisen gets a surprise video game from a legendary studio",
+      "title": "Solo Leveling season 3 official release window is bad news for fans",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/jujutsu-kaisen-gets-a-surprise-video-game-from-a-legendary-studio/",
-      "thumbnail": "/drops/thumbs/1c70964e33f8.jpg",
+      "source_url": "https://www.polygon.com/solo-leveling-season-3-official-release-window-bad-news/",
+      "thumbnail": "/drops/thumbs/39e3b0382765.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,18 +225,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/shonen-jump-animal-signal-my-hero-academia-meets-beastars/",
       "thumbnail": "/drops/thumbs/f3b3d330fa26.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7e41926a87c1",
-      "pillar": "anime",
-      "title": "10 Years Later, Chainsaw Man's Studio Teases Anime Adaptation Of Shonen Jump's Most Controversial Manga",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/chainsaw-man-fire-punch-studio-mappa-new-anime/",
-      "thumbnail": "/drops/thumbs/7e41926a87c1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-10/the-greatest-magicmaster-retirement-plan-light-novels-get-tv-anime-in-2027/.238375",
       "thumbnail": "/drops/thumbs/07d940c6b252.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d6e53be39038",
+      "pillar": "anime",
+      "title": "Hello Kitty Just Got The Wildest Food Collaboration Yet, And It's Going To Be Massive",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/hello-kitty-spam-collab-collectible-can/",
+      "thumbnail": "/drops/thumbs/d6e53be39038.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "03ab4168706f",
-      "pillar": "gaming",
-      "title": "News Whoops! Xbox Accidentally Uploads Gears of War PS5 Trailer",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer",
-      "thumbnail": "/drops/thumbs/03ab4168706f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9a2e352be004",
       "pillar": "gaming",
       "title": "Live Everything announced at the Nintendo Direct June 2026",
@@ -385,13 +373,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "d5882d70380c",
+      "pillar": "gaming",
+      "title": "1666 Amsterdam’s Big Comeback After Going Missing For 15 Years Ruined By Gen AI",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563004/article/1666-amsterdams-big-comeback-after-going-missing-for-15-years-ruined-by-gen-ai/",
+      "thumbnail": "/drops/thumbs/d5882d70380c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "8362d1bf79ba",
     "50f7c850f338",
     "a8f2819063e6",
-    "1c70964e33f8",
+    "39e3b0382765",
     "9117a67223d5",
     "a7a5c748de15"
   ]

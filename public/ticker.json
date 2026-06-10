@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T12:34:29+00:00",
+  "generated_utc": "2026-06-10T13:25:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,8 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen gets a surprise video game from a legendary studio",
-      "url": "https://www.polygon.com/jujutsu-kaisen-gets-a-surprise-video-game-from-a-legendary-studio/",
+      "title": "Solo Leveling season 3 official release window is bad news for fans",
+      "url": "https://www.polygon.com/solo-leveling-season-3-official-release-window-bad-news/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +132,6 @@
     {
       "title": "Shonen Jump's Newest Series Is My Hero Academia Meets Beastars With An Addictive Mystery Hook",
       "url": "https://screenrant.com/shonen-jump-animal-signal-my-hero-academia-meets-beastars/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "10 Years Later, Chainsaw Man's Studio Teases Anime Adaptation Of Shonen Jump's Most Controversial Manga",
-      "url": "https://screenrant.com/chainsaw-man-fire-punch-studio-mappa-new-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "The Greatest Magicmaster's Retirement Plan Light Novels Get TV Anime in 2027",
       "url": "https://www.animenewsnetwork.com/news/2026-06-10/the-greatest-magicmaster-retirement-plan-light-novels-get-tv-anime-in-2027/.238375",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hello Kitty Just Got The Wildest Food Collaboration Yet, And It's Going To Be Massive",
+      "url": "https://screenrant.com/hello-kitty-spam-collab-collectible-can/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "News Whoops! Xbox Accidentally Uploads Gears of War PS5 Trailer",
-      "url": "https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Live Everything announced at the Nintendo Direct June 2026",
       "url": "https://www.gamesradar.com/news/live/nintendo-direct-live-coverage-june-2026-everything-announced/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Pokemon Pokopia makes splash with free underwater update and paid DLC, coming later this summer",
       "url": "https://www.gamesradar.com/games/pokemon/pokemon-pokopia-makes-a-splash-with-new-free-underwater-update-and-paid-dlc-coming-later-this-summer/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "1666 Amsterdam’s Big Comeback After Going Missing For 15 Years Ruined By Gen AI",
+      "url": "https://gameranx.com/updates/id/563004/article/1666-amsterdams-big-comeback-after-going-missing-for-15-years-ruined-by-gen-ai/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
