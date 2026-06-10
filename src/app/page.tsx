@@ -1,17 +1,17 @@
 import Header from "@/components/Header";
-import Hero from "@/components/Hero";
-import RapChallengeBanner from "@/components/RapChallengeBanner";
-import TrendingTicker from "@/components/TrendingTicker";
-import DropsFeed from "@/components/DropsFeed";
-import FeaturedStory from "@/components/FeaturedStory";
-import BrandPhotos from "@/components/BrandPhotos";
 import TikTokFeed from "@/components/TikTokFeed";
-import CreatorsCTA from "@/components/CreatorsCTA";
-import PHRHXShow from "@/components/PHRHXShow";
-import BeatStore from "@/components/BeatStore";
 import SubstackSticker from "@/components/SubstackSticker";
 import Footer from "@/components/Footer";
-import { fetchTrending } from "@/lib/soc-engine";
+import {
+  OnAirBar,
+  RoomHero,
+  ProgramGuide,
+  TheFeedV3,
+  BeatLabV3,
+  MerchZone,
+  GirlsZone,
+  AdBreak,
+} from "@/components/HomeV3";
 import { SOCIAL } from "@/data/social";
 
 // Use `title.absolute` so the layout's "%s — Sneakz & Beatz" template doesn't
@@ -108,48 +108,27 @@ const STRUCTURED_DATA = {
 };
 
 export default async function HomePage() {
-  // Server-side fetch from the SOC engine. Falls back to defaults if engine is offline.
-  const trending = await fetchTrending();
-
-  // Reordered for culture-media positioning (post-ChatGPT-audit, 2026-06-04):
-  // editorial signals first (ticker + drops + featured Lane essay + featured
-  // story + show), THEN newsletter, THEN commerce (Beat Store + Rap Challenge),
-  // THEN brand/community surfaces (photos + TikTok + S&B Girls), THEN footer.
-  // The shift: first impression now reads "culture media that owns a beat
-  // label" instead of "beat producer with a culture website."
+  // "Shop × Channel" composition (2026-06 redesign). One room, one customer:
+  // broadcast spine (OnAir + ProgramGuide) over boutique zones (RoomHero,
+  // TheFeed, BeatLab, Merch, S&B Girls). All sections read from the same
+  // systems as before — SOC drops engine, YouTube RSS, Stripe, merch.ts.
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(STRUCTURED_DATA) }}
       />
+      <OnAirBar />
       <Header />
-      <Hero />
-
-      {/* Editorial above the fold — what we cover, before what we sell. */}
-      <TrendingTicker items={trending} />
-      <DropsFeed
-        title="What's dropping"
-        subtitle="Sneakers leads. Then music, anime, and gaming. Tap any card — we link out to the source. No fluff, no rewrites, just the culture refresh."
-      />
-      <FeaturedStory />
-
-      {/* Audience flywheel — the show + newsletter. */}
-      <PHRHXShow />
-      <SubstackSticker />
-
-      {/* Commerce — beats first, then the rap challenge. Both behind the
-          editorial proof points. */}
-      <BeatStore />
-      <RapChallengeBanner />
-
-      {/* Brand + community — photos, TikTok, the S&B Girls ambassador
-          program lives near the bottom now per the audit (was up front;
-          reads too forward for a brand still building audience). */}
-      <BrandPhotos />
+      <RoomHero />
+      <ProgramGuide />
+      <TheFeedV3 />
+      <BeatLabV3 />
+      <MerchZone />
+      <GirlsZone />
       <TikTokFeed />
-      <CreatorsCTA />
-
+      <AdBreak />
+      <SubstackSticker />
       <Footer />
     </>
   );
