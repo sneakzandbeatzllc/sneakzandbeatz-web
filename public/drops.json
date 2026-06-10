@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T12:25:14+00:00",
+  "generated_utc": "2026-06-10T12:31:58+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -75,6 +75,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "c089dedc1409",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Bucks” September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-12-bucks-ct8013-103-drop/",
+      "thumbnail": "/drops/thumbs/c089dedc1409.png",
+      "published": "2026-06-10T07:30:05",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "9117a67223d5",
       "pillar": "sneakers",
       "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
@@ -87,15 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "e146b07264a0",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Musik” Releases January 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
-      "published": "2026-06-09T15:29:01",
+      "id": "50f7c850f338",
+      "pillar": "hiphop",
+      "title": "Mayor Mamdani Approves New Paid Watch Party After Post-Knicks Game Violence",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/mayor-mamdani-approves-new-paid-watch-party-after-post-knicks-game-violence/",
+      "thumbnail": "/drops/thumbs/50f7c850f338.png",
+      "published": "2026-06-10T08:30:00",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/10/ambre-peyote-album-july-2026/",
       "thumbnail": "/drops/thumbs/797f752e6ac9.jpg",
       "published": "2026-06-10T07:04:48",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a106a27606e4",
-      "pillar": "hiphop",
-      "title": "The Source Magazine Remembers The Geto Boys’ Bushwick Bill Seven Years Later",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/10/the-source-magazine-remembers-the-geto-boys-bushwick-bill-seven-years-later/",
-      "thumbnail": "/drops/thumbs/a106a27606e4.jpg",
-      "published": "2026-06-10T06:39:16",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "094b1500b6a8",
-    "705de9a5721e",
+    "50f7c850f338",
     "8362d1bf79ba",
     "1c70964e33f8",
     "779db71fc001",
