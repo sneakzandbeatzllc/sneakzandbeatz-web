@@ -1,15 +1,39 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T16:38:47+00:00",
+  "generated_utc": "2026-06-10T17:18:21+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
+      "title": "Air Jordan 3 \"BIN 23\"",
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
       "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-09T10:51:24",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -27,42 +51,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "779db71fc001",
-      "pillar": "sneakers",
-      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
-      "published": "2026-06-06T16:07:15",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "a3e23bbf57cc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-05T17:50:18",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "7c06fa47f1e9",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
-      "thumbnail": "/drops/thumbs/7c06fa47f1e9.jpg",
-      "published": "2026-06-05T08:04:32",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "a8f2819063e6",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “True Blue” Releases July 18th",
@@ -75,18 +63,6 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "c089dedc1409",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-12-bucks-ct8013-103-drop/",
-      "thumbnail": "/drops/thumbs/c089dedc1409.png",
-      "published": "2026-06-10T07:30:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "9117a67223d5",
       "pillar": "sneakers",
       "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
@@ -96,6 +72,42 @@
       "published": "2026-06-09T15:29:21",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e146b07264a0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
+      "published": "2026-06-09T15:29:01",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-06-06T23:31:29",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "15ed6c0b4580",
+      "pillar": "hiphop",
+      "title": "Big Tigger Stays Silent, Co-Host Releases Statement Denying Affair As Missing Daughter Case Resurfaces",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/big-tigger-stays-silent-co-host-releases-statement-denying-affair-as-missing-daughter-case-resurfaces/",
+      "thumbnail": "/drops/thumbs/15ed6c0b4580.jpg",
+      "published": "2026-06-10T13:02:12",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/mayor-mamdani-approves-new-paid-watch-party-after-post-knicks-game-violence/",
       "thumbnail": "/drops/thumbs/50f7c850f338.png",
       "published": "2026-06-10T08:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "705de9a5721e",
-      "pillar": "hiphop",
-      "title": "Jaÿ-Z and Eminem Set to Reunite on Upcoming Rakim, Kurupt and Masta Killa Album",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/10/jay-z-eminem-reunion-rakim-kurupt-masta-killa-album/",
-      "thumbnail": "/drops/thumbs/705de9a5721e.jpg",
-      "published": "2026-06-10T07:25:33",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "8f753cfa93e0",
+      "id": "2138c907ff99",
       "pillar": "gaming",
-      "title": "News Destiny 3 Isn't in Development, But It May Have Been the Most Talked About Game of the Last Week",
+      "title": "News Halo: Campaign Evolved Is Another PS5 Disc That Requires a Download to Actually Play",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/destiny-3-isnt-in-development-but-it-may-have-been-the-most-talked-about-game-of-the-last-week",
-      "thumbnail": "/drops/thumbs/8f753cfa93e0.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/halo-campaign-evolved-is-another-ps5-disc-that-requires-a-download-to-actually-play",
+      "thumbnail": "/drops/thumbs/2138c907ff99.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "0ec1dcf68076",
+      "id": "540a1a7884e5",
       "pillar": "gaming",
-      "title": "News Sony 'Exploring New Ways' to Deliver PS Plus Games",
+      "title": "News Xbox Will 'Try to Do More' Console Exclusives if the Health of Its Business Improves",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/sony-exploring-new-ways-to-deliver-ps-plus-games",
-      "thumbnail": "/drops/thumbs/0ec1dcf68076.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/xbox-will-try-to-do-more-console-exclusives-if-the-health-of-its-business-improves",
+      "thumbnail": "/drops/thumbs/540a1a7884e5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -353,7 +353,7 @@
     {
       "id": "473e41417425",
       "pillar": "gaming",
-      "title": "Summer Preview Hands-on with Alien Isolation 2: A smarter, meaner Xenomorph headlines the long-awaited horror sequel",
+      "title": "Summer Preview Alien Isolation 2 hands-on: A smarter, meaner Xenomorph headlines the long-awaited horror sequel",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/survival-horror/15-years-after-the-first-game-made-horror-history-alien-isolation-2-unleashes-a-smarter-meaner-xenomorph/",
       "thumbnail": "/drops/thumbs/473e41417425.jpg",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "1cdc8ba288ef",
+      "id": "861729a0b2e6",
       "pillar": "gaming",
-      "title": "Nintendo Might Be Making Its Biggest, Most Costly Mistake",
+      "title": "Ubisoft Closing Two Studios And Cutting Up To 380 Staff As Tough Restructuring Continues",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/nintendo-direct-mario-share-price-crashing-mistake-zelda-2000704845",
-      "thumbnail": "/drops/thumbs/1cdc8ba288ef.jpg",
+      "source_url": "https://kotaku.com/ubisoft-closing-two-studios-and-cutting-up-to-380-staff-as-tough-restructuring-continues-2000704940",
+      "thumbnail": "/drops/thumbs/861729a0b2e6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "094b1500b6a8",
-    "4fa2ee593602",
-    "8362d1bf79ba",
+    "15ed6c0b4580",
+    "43151d13faa3",
     "39e3b0382765",
-    "779db71fc001",
+    "69fe11c3a7e6",
     "f3ef8f6399b2"
   ]
 }
