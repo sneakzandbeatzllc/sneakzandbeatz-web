@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T20:47:26+00:00",
+  "generated_utc": "2026-06-10T21:31:10+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -63,39 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "e21281229ce9",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
-      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
-      "published": "2026-06-06T23:31:29",
+      "id": "684720817c2a",
+      "pillar": "hiphop",
+      "title": "Serial Killer Rapper Cliff Mac Found Guilty, Heading To Prison For Life",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/serial-killer-rapper-cliff-mac-found-guilty-heading-to-prison-for-life/",
+      "thumbnail": "/drops/thumbs/684720817c2a.jpg",
+      "published": "2026-06-10T17:01:00",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "86085068f6a4",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
-      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
-      "published": "2026-06-06T23:06:07",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "35fe51b276ca",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-4-georgetown-2027/",
-      "thumbnail": "/drops/thumbs/35fe51b276ca.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/06/10/karmelo-anthony-verdict-fuels-debate-over-texas-self-defense-cases-and-perceived-racial-bias/",
       "thumbnail": "/drops/thumbs/d83e8f054175.jpg",
       "published": "2026-06-10T11:58:48",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "250d67fa5cf5",
-      "pillar": "hiphop",
-      "title": "‘The Social Reckoning’ Movie Teaser Revisits Facebook’s Biggest Whistleblower Scandal",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/10/the-social-reckoning-movie-teaser-revisits-facebooks-biggest-whistleblower-scandal/",
-      "thumbnail": "/drops/thumbs/250d67fa5cf5.jpg",
-      "published": "2026-06-10T11:45:47",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -303,12 +303,24 @@
       "release_badge": ""
     },
     {
-      "id": "f3ef8f6399b2",
+      "id": "2e363cc3401d",
       "pillar": "gaming",
-      "title": "Shift Up CEO Brushes Off Complaints That Stellar Blade: Blood Rain’ s Protagonist Looks Too Young, While Promising ‘Even More Appealing’ Outfits",
+      "title": "Capcom producer confirms Resident Evil Veronica is fully third-person",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/resident-evil/resident-evil-veronicas-first-person-trailer-was-a-deliberate-misdirect-capcom-producer-confirms-the-horror-game-is-fully-third-person/",
+      "thumbnail": "/drops/thumbs/2e363cc3401d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1358e1d0460d",
+      "pillar": "gaming",
+      "title": "Don’t Nerf One Of Dragon Dogma 2 ‘s Best (Worst) Features, You Cowards",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/stellar-blade-blood-rain-evie-young-appearance-eve-sexualized-shift-up-2000704314",
-      "thumbnail": "/drops/thumbs/f3ef8f6399b2.jpg",
+      "source_url": "https://kotaku.com/dont-nerf-one-of-dragon-dogma-2s-best-worst-features-you-cowards-2000704983",
+      "thumbnail": "/drops/thumbs/1358e1d0460d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "7a0f573024f9",
-      "pillar": "gaming",
-      "title": "How Street Fighter 6 Landed Tifa And Why She’s Not The Start Of A Flood Of New Guest Characters",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/how-street-fighter-6-landed-tifa-and-why-shes-not-the-start-of-a-flood-of-new-guest-characters-2000704984",
-      "thumbnail": "/drops/thumbs/7a0f573024f9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "69daf1e70db8",
       "pillar": "gaming",
       "title": "News Street Fighter 6 Has Been Trying to Get Tifa for 3 Years",
@@ -351,24 +351,24 @@
       "release_badge": ""
     },
     {
-      "id": "8e585fa44f0f",
-      "pillar": "gaming",
-      "title": "Destiny 2 becomes Steam's top seller after the final update, as fans hope Sony might change course",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/destiny/destiny-2-shoots-to-the-top-of-steams-top-sellers-as-fans-of-the-mmo-jump-in-for-the-final-update-hoping-sony-and-bungie-might-change-course/",
-      "thumbnail": "/drops/thumbs/8e585fa44f0f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9a486e1a9802",
       "pillar": "gaming",
       "title": "Rumor: Xbox Tried To Cancel Fable and Halo Campaign Evolved For PS5, Like They Did For Gears Of War: E-Day",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/562995/article/rumor-xbox-tried-to-cancel-fable-and-halo-campaign-evolved-for-ps5-like-they-did-for-gears-of-war-e-day/",
       "thumbnail": "/drops/thumbs/9a486e1a9802.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8e585fa44f0f",
+      "pillar": "gaming",
+      "title": "Destiny 2 becomes Steam's top seller after the final update, as fans hope Sony might change course",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/destiny/destiny-2-shoots-to-the-top-of-steams-top-sellers-as-fans-of-the-mmo-jump-in-for-the-final-update-hoping-sony-and-bungie-might-change-course/",
+      "thumbnail": "/drops/thumbs/8e585fa44f0f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "8362d1bf79ba",
-    "db45627768d4",
-    "6f835bbe3ddc",
+    "094b1500b6a8",
+    "684720817c2a",
+    "43151d13faa3",
     "39e3b0382765",
-    "67d4186d382d",
+    "69fe11c3a7e6",
     "7326e7281880"
   ]
 }
