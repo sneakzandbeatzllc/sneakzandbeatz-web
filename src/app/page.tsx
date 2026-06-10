@@ -4,7 +4,6 @@ import RapChallengeBanner from "@/components/RapChallengeBanner";
 import TrendingTicker from "@/components/TrendingTicker";
 import DropsFeed from "@/components/DropsFeed";
 import FeaturedStory from "@/components/FeaturedStory";
-import FeaturedLaneEssay from "@/components/FeaturedLaneEssay";
 import BrandPhotos from "@/components/BrandPhotos";
 import TikTokFeed from "@/components/TikTokFeed";
 import CreatorsCTA from "@/components/CreatorsCTA";
@@ -133,7 +132,6 @@ export default async function HomePage() {
         title="What's dropping"
         subtitle="Sneakers leads. Then music, anime, and gaming. Tap any card — we link out to the source. No fluff, no rewrites, just the culture refresh."
       />
-      <FeaturedLaneEssay />
       <FeaturedStory />
 
       {/* Audience flywheel — the show + newsletter. */}

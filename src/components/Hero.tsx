@@ -18,9 +18,8 @@ export default function Hero() {
             Collide.
           </h1>
           <p className="lead">
-            For sneakerheads who live hip-hop, anime, and gaming. Drops, beats,
-            episodes, and the stories shaping the culture. If you live this,
-            you&rsquo;re home.
+            Jordan retros first. Beats that knock. Episodes with zero filter.
+            If your rotation matters as much as your playlist — you&rsquo;re home.
           </p>
           <div className="hero-ctas">
             {/* Single primary CTA — most-monetizable wedge. */}

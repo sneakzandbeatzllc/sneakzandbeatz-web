@@ -36,11 +36,9 @@ export const PINNED_VIDEOS: PinnedTikTok[] = [
   // (the user's signature shelf — rotate when they re-pin).
   {
     id: "7634635822251183374",
-    caption: "Drake — smooth to savage in seconds.",
   },
   {
     id: "7635657877922811149",
-    caption: "Stealth mode with a twist. That 'PEEL OFF' detail is tough.",
   },
   {
     id: "7634286614184758541",
