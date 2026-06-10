@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T21:31:10+00:00",
+  "generated_utc": "2026-06-10T21:43:16+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -99,6 +63,42 @@
       "release_badge": ""
     },
     {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-06-06T23:31:29",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86085068f6a4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
+      "published": "2026-06-06T23:06:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "35fe51b276ca",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-4-georgetown-2027/",
+      "thumbnail": "/drops/thumbs/35fe51b276ca.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "684720817c2a",
       "pillar": "hiphop",
       "title": "Serial Killer Rapper Cliff Mac Found Guilty, Heading To Prison For Life",
@@ -106,6 +106,18 @@
       "source_url": "https://allhiphop.com/news/serial-killer-rapper-cliff-mac-found-guilty-heading-to-prison-for-life/",
       "thumbnail": "/drops/thumbs/684720817c2a.jpg",
       "published": "2026-06-10T17:01:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2f2f59ba108e",
+      "pillar": "hiphop",
+      "title": "Bars vs. The Business: Nick Grant Talks JID Debate and Industry Realities on The Breakfast Club",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/06/10/bars-vs-the-business-nick-grant-talks-jid-debate-and-industry-realities-on-the-breakfast-club/",
+      "thumbnail": "/drops/thumbs/2f2f59ba108e.jpg",
+      "published": "2026-06-10T16:55:29",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -178,18 +190,6 @@
       "source_url": "https://allhiphop.com/news/cardi-b-reacts-to-karmelo-anthony-verdict-with-strong-words-for-the-court/",
       "thumbnail": "/drops/thumbs/594a71df7cf1.jpg",
       "published": "2026-06-10T12:02:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d83e8f054175",
-      "pillar": "hiphop",
-      "title": "Karmelo Anthony Verdict Fuels Debate Over Texas Self-Defense Cases And Perceived Racial Bias",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/10/karmelo-anthony-verdict-fuels-debate-over-texas-self-defense-cases-and-perceived-racial-bias/",
-      "thumbnail": "/drops/thumbs/d83e8f054175.jpg",
-      "published": "2026-06-10T11:58:48",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
+    "8362d1bf79ba",
     "684720817c2a",
-    "43151d13faa3",
+    "6f835bbe3ddc",
     "39e3b0382765",
-    "69fe11c3a7e6",
+    "67d4186d382d",
     "7326e7281880"
   ]
 }

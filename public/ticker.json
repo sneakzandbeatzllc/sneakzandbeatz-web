@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T21:31:10+00:00",
+  "generated_utc": "2026-06-10T21:43:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -60,8 +39,36 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://sneakerbardetroit.com/air-jordan-4-georgetown-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Serial Killer Rapper Cliff Mac Found Guilty, Heading To Prison For Life",
       "url": "https://allhiphop.com/news/serial-killer-rapper-cliff-mac-found-guilty-heading-to-prison-for-life/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Bars vs. The Business: Nick Grant Talks JID Debate and Industry Realities on The Breakfast Club",
+      "url": "https://thesource.com/2026/06/10/bars-vs-the-business-nick-grant-talks-jid-debate-and-industry-realities-on-the-breakfast-club/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -104,13 +111,6 @@
     {
       "title": "Cardi B Reacts To Karmelo Anthony Verdict With Strong Words For The Court",
       "url": "https://allhiphop.com/news/cardi-b-reacts-to-karmelo-anthony-verdict-with-strong-words-for-the-court/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Karmelo Anthony Verdict Fuels Debate Over Texas Self-Defense Cases And Perceived Racial Bias",
-      "url": "https://thesource.com/2026/06/10/karmelo-anthony-verdict-fuels-debate-over-texas-self-defense-cases-and-perceived-racial-bias/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
