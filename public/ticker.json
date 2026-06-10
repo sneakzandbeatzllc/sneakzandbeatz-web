@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-10T13:36:33+00:00",
+  "generated_utc": "2026-06-10T14:29:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -55,6 +34,27 @@
     {
       "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Berlin” Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-berlin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Georgetown” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-georgetown-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "Look, You Can’t All Avoid GTA 6 By Hiding In September And October",
-      "url": "https://kotaku.com/look-you-cant-all-avoid-gta-6-by-hiding-in-october-and-september-2000703984",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Final Fantasy 7 Revelation Will Address Rebirth's Excessive Minigame Problem",
       "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-revelation-will-address-rebirths-excessive-minigame-problem",
       "pillar": "gaming",
@@ -209,6 +202,13 @@
     {
       "title": "Live Everything announced at the Nintendo Direct June 2026",
       "url": "https://www.gamesradar.com/news/live/nintendo-direct-live-coverage-june-2026-everything-announced/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hands-On: An Unorthodox Sonic Game Was My Biggest Summer Game Fest Surprise",
+      "url": "https://kotaku.com/sonic-pico-park-summer-game-fest-preview-characters-shadow-2000704863",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
