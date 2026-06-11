@@ -330,7 +330,7 @@ export function MerchZone() {
         </p>
         <div className="merchzone-grid">
           {products.map((p) => (
-            <Link key={p.slug} href="/shop" className="merchzone-card">
+            <Link key={p.slug} href="/merch" className="merchzone-card">
               <div className="merchzone-ph">
                 {p.imagePath ? (
                   /* eslint-disable-next-line @next/next/no-img-element */
@@ -356,7 +356,7 @@ export function MerchZone() {
           ))}
         </div>
         <div className="merchzone-cta">
-          <Link className="btn btn-ghost" href="/shop">
+          <Link className="btn btn-ghost" href="/merch">
             Reserve Your Colorway
           </Link>
         </div>

@@ -103,7 +103,7 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
     sizes: ["S", "M", "L"],
     colorways: BEATS_COLORWAYS,
     status: "preorder",
-    imagePath: "/merch/girls-crop-pink-logo.jpg",
+    imagePath: "/merch/girls-crop-pink-sb.jpg",
   },
   {
     slug: "sb-cap",

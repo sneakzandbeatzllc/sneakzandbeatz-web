@@ -198,10 +198,11 @@ export default function ShopPage() {
           </div>
         </section>
 
-        {/* The Classics — colorway gallery */}
+        {/* The Classics — colorway gallery (teaser; full shop at /merch) */}
         <section className="container shop-block classicrow">
           <span className="eyebrow">The Classics · Unisex · Pre-order opens {launchLabel}</span>
           <h2 className="shop-h2" style={{ marginTop: 10 }}>One graphic. Five ways.</h2>
+          <p className="shop-helper">The full merch shop — both lines, every colorway — lives at <a href="/merch"><strong>/merch</strong></a>.</p>
           <div className="classicrow-grid">
             {[
               ["/merch/classic-black.jpg", "Black"],
@@ -228,11 +229,10 @@ export default function ShopPage() {
                 Arctic Pink first.<br />The whole line behind it.
               </h2>
               <p className="shop-helper">
-                Crop hoodies, oversized fleece, biker shorts, track shorts, ribbed
-                minis, matching sets — Arctic Pink, Heather Grey, Cream, and Black,
-                all built to pair with your Js. Embroidered &ldquo;beats.&rdquo;
-                Crop hoodie leads the launch; reserve below and the full collection
-                drops behind it.
+                Heavyweight crop hoodies in Arctic Pink, Heather Grey, Cream,
+                and Black — embroidered &ldquo;beats.&rdquo; and &ldquo;dope.&rdquo;
+                Built to pair with your Js. The crop leads the launch; the full
+                collection drops behind it.
               </p>
               <a className="btn btn-primary" href="#interest" style={{ marginTop: 18 }}>
                 Reserve The beats. Crop
@@ -240,12 +240,8 @@ export default function ShopPage() {
             </div>
             <div className="beatsline-ph">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/merch/girls-crop-pink-beatz.jpg" alt="beats. crop hoodie — Arctic Pink, front and back" loading="lazy" />
+              <img src="/merch/girls-crop-pink-sb.jpg" alt="beats. crop hoodie — Arctic Pink" loading="lazy" />
             </div>
-          </div>
-          <div className="beatsline-sheet">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/merch/girls-collection-sheet.jpg" alt="beats. women's collection line sheet — bottoms, sets, and colorways" loading="lazy" />
           </div>
         </section>
 

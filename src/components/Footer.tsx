@@ -45,6 +45,7 @@ export default function Footer() {
             <h5>Shop</h5>
             <ul>
               <li><Link href="/shop">Beats &amp; Merch</Link></li>
+          <li><Link href="/merch">Merch Shop</Link></li>
               <li><Link href="/bundle">The Vault — from $79</Link></li>
               <li><Link href="/sneakz-pass">Sneakz Pass — $12/mo</Link></li>
               <li><Link href="/licensing">Licensing</Link></li>
