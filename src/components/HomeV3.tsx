@@ -332,7 +332,12 @@ export function MerchZone() {
           {products.map((p) => (
             <Link key={p.slug} href="/shop" className="merchzone-card">
               <div className="merchzone-ph">
-                <span className="display">{p.type}</span>
+                {p.imagePath ? (
+                  /* eslint-disable-next-line @next/next/no-img-element */
+                  <img src={p.imagePath} alt={p.name} loading="lazy" />
+                ) : (
+                  <span className="display">{p.type}</span>
+                )}
               </div>
               <h3>{p.name}</h3>
               <div className="merchzone-pr display">${p.priceUSD}</div>

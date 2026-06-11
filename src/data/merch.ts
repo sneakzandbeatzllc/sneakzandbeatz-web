@@ -61,6 +61,14 @@ export const MERCH_COLORWAYS: MerchColorway[] = [
   { slug: "atmosphere",    name: "Atmosphere",    swatch: { from: "#f5b8c1", to: "#ffffff" }, pairsWith: "AJ1 Atmosphere · AJ4 Pink Oreo · AJ12 Easter" },
 ];
 
+/** beats. — the women's line. Colorways from the launch line sheet. */
+export const BEATS_COLORWAYS: MerchColorway[] = [
+  { slug: "arctic-pink",  name: "Arctic Pink",  swatch: { from: "#F4C2CE", to: "#F8DDE4" }, pairsWith: "AJ1 Atmosphere · AJ4 Pink Oreo · AJ12 Easter" },
+  { slug: "heather-grey", name: "Heather Grey", swatch: { from: "#B8B8B8", to: "#8E8E8E" }, pairsWith: "AJ3/4/5/11 Cool Grey · AJ12 Stealth" },
+  { slug: "cream",        name: "Cream",        swatch: { from: "#F1E8D8", to: "#E2D5BD" }, pairsWith: "AJ1 Pale Ivory · AJ4 Sail · AJ11 Platinum Tint" },
+  { slug: "girls-black",  name: "Black",        swatch: { from: "#0a0a0a", to: "#1d1d1d" }, pairsWith: "AJ1 Black Toe · AJ11 72-10 · AJ4 Royalty" },
+];
+
 export const MERCH_PRODUCTS: MerchProduct[] = [
   {
     slug: "sb-tee",
@@ -75,14 +83,27 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
   },
   {
     slug: "sb-hoodie",
-    name: "S&B Heavyweight Hoodie",
+    name: "S&B Heavyweight Hoodie — Classic",
     type: "hoodie",
     description:
-      "400gsm fleece-back. Embroidered S&B mark left chest, blank back ready for graphic drops. Boxy fit — works over the matching tee.",
+      "400gsm fleece-back, unisex. Full S&B graphic on the chest, blank back ready for graphic drops. Boxy fit — works over the matching tee.",
     priceUSD: 79,
     sizes: ["S", "M", "L", "XL", "XXL"],
     colorways: MERCH_COLORWAYS,
     status: "preorder",
+    imagePath: "/merch/studio_9859.jpg",
+  },
+  {
+    slug: "beats-crop-hoodie",
+    name: "beats. Crop Hoodie",
+    type: "hoodie",
+    description:
+      "The women's line. Heavyweight cropped fleece, drop shoulder, oversized fit, embroidered 'beats.' — launch colorway Arctic Pink first, Heather Grey / Cream / Black behind it.",
+    priceUSD: 69,
+    sizes: ["S", "M", "L"],
+    colorways: BEATS_COLORWAYS,
+    status: "preorder",
+    imagePath: "/merch/girls-crop-pink-logo.jpg",
   },
   {
     slug: "sb-cap",

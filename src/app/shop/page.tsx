@@ -198,6 +198,36 @@ export default function ShopPage() {
           </div>
         </section>
 
+        {/* beats. — the women's line showcase */}
+        <section className="container shop-block beatsline">
+          <div className="beatsline-grid">
+            <div>
+              <span className="eyebrow">beats. · The women&rsquo;s line · Pretty girls make beats</span>
+              <h2 className="shop-h2" style={{ marginTop: 10 }}>
+                Arctic Pink first.<br />The whole line behind it.
+              </h2>
+              <p className="shop-helper">
+                Crop hoodies, oversized fleece, biker shorts, track shorts, ribbed
+                minis, matching sets — Arctic Pink, Heather Grey, Cream, and Black,
+                all built to pair with your Js. Embroidered &ldquo;beats.&rdquo;
+                Crop hoodie leads the launch; reserve below and the full collection
+                drops behind it.
+              </p>
+              <a className="btn btn-primary" href="#interest" style={{ marginTop: 18 }}>
+                Reserve The beats. Crop
+              </a>
+            </div>
+            <div className="beatsline-ph">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/merch/girls-crop-pink-beatz.jpg" alt="beats. crop hoodie — Arctic Pink, front and back" loading="lazy" />
+            </div>
+          </div>
+          <div className="beatsline-sheet">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/merch/girls-collection-sheet.jpg" alt="beats. women's collection line sheet — bottoms, sets, and colorways" loading="lazy" />
+          </div>
+        </section>
+
         {/* Interactive merch picker / interest form */}
         <section id="interest" className="container shop-block shop-interest-block">
           <h2 className="shop-h2">Reserve your colorway</h2>

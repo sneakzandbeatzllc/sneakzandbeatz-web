@@ -6457,3 +6457,13 @@ input[type="email"]:focus, input[type="text"]:focus, textarea:focus {
   .merchzone-grid{grid-template-columns:1fr 1fr}
   .adbreak-price{text-align:left}
 }
+
+/* beats. women's line (shop) + merch zone images */
+.merchzone-ph img{width:100%;height:100%;object-fit:cover;border-radius:0}
+.beatsline{padding-top:clamp(40px,6vw,70px)}
+.beatsline-grid{display:grid;grid-template-columns:1fr 1fr;gap:44px;align-items:center;background:linear-gradient(135deg,#171012,#0c0a0b 60%);border:1px solid var(--line);border-radius:var(--radius);padding:clamp(24px,4vw,44px)}
+.beatsline-ph{border-radius:var(--radius);overflow:hidden;border:1px solid var(--line);box-shadow:var(--shadow)}
+.beatsline-ph img{border-radius:0}
+.beatsline-sheet{margin-top:14px;border-radius:var(--radius);overflow:hidden;border:1px solid var(--line)}
+.beatsline-sheet img{width:100%;border-radius:0}
+@media(max-width:880px){.beatsline-grid{grid-template-columns:1fr}}
