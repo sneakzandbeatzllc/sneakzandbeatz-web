@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T13:36:39+00:00",
+  "generated_utc": "2026-06-11T13:59:12+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -291,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "19166948936c",
+      "id": "15e1fc953021",
       "pillar": "gaming",
-      "title": "News PS5 Fans Think Sony Is Pushing God of War Laufey Harder Than Wolverine",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-fans-think-sony-is-pushing-god-of-war-laufey-harder-than-wolverine",
-      "thumbnail": "/drops/thumbs/19166948936c.jpg",
+      "title": "Fable delay was a \"disappointment,\" Playground boss says, but avoiding GTA 6 can give the RPG \"the attention this game deserves\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/fable-delay-was-a-disappointment-playground-boss-says-but-avoiding-gta-6-can-give-the-rpg-the-attention-this-game-deserves/",
+      "thumbnail": "/drops/thumbs/15e1fc953021.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "2e363cc3401d",
+      "id": "19166948936c",
       "pillar": "gaming",
-      "title": "Capcom producer confirms Resident Evil Veronica is fully third-person",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/resident-evil/resident-evil-veronicas-first-person-trailer-was-a-deliberate-misdirect-capcom-producer-confirms-the-horror-game-is-fully-third-person/",
-      "thumbnail": "/drops/thumbs/2e363cc3401d.jpg",
+      "title": "News PS5 Fans Think Sony Is Pushing God of War Laufey Harder Than Wolverine",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-fans-think-sony-is-pushing-god-of-war-laufey-harder-than-wolverine",
+      "thumbnail": "/drops/thumbs/19166948936c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,36 +351,36 @@
       "release_badge": ""
     },
     {
+      "id": "86b775be1a00",
+      "pillar": "gaming",
+      "title": "Everything We Know About Xbox’s Big Halo 1 Remake",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/everything-we-know-about-xboxs-big-halo-1-remake-2000704982",
+      "thumbnail": "/drops/thumbs/86b775be1a00.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a03d476a5b44",
+      "pillar": "gaming",
+      "title": "As Destiny 2 waves goodbye in its final update, Warframe commemorates the Bungie MMO with an in-game reward",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/destiny/as-destiny-2-waves-goodbye-in-its-final-update-warframe-commemorates-the-beloved-bungie-mmo-with-an-in-game-reward/",
+      "thumbnail": "/drops/thumbs/a03d476a5b44.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "03ab154fc3e4",
       "pillar": "gaming",
       "title": "Gears of War: E-Day Is The Longest Game In The Franchise At 14 Hours",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563014/article/gears-of-war-e-day-is-the-longest-game-in-the-franchise-at-14-hours/",
       "thumbnail": "/drops/thumbs/03ab154fc3e4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7c82f4a0fba6",
-      "pillar": "gaming",
-      "title": "This Cannot Continue",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/this-cannot-continue-xbox-layoffs-2000705049",
-      "thumbnail": "/drops/thumbs/7c82f4a0fba6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "473e41417425",
-      "pillar": "gaming",
-      "title": "Summer Preview Alien Isolation 2 hands-on: A smarter, meaner Xenomorph headlines the long-awaited horror sequel",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/survival-horror/15-years-after-the-first-game-made-horror-history-alien-isolation-2-unleashes-a-smarter-meaner-xenomorph/",
-      "thumbnail": "/drops/thumbs/473e41417425.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "6f835bbe3ddc",
     "7e358eea1d96",
     "ed9bd14cfe51",
-    "19166948936c"
+    "15e1fc953021"
   ]
 }
