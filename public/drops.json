@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T21:19:24+00:00",
+  "generated_utc": "2026-06-11T21:58:34+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -25,6 +25,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "993ac8a3c27d",
+      "pillar": "sneakers",
+      "title": "J Balvin Officially Reveals his Air Jordan 4 “Lemonade” During World Cup Ceremonies",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/j-balvin-air-jordan-4-lemonade-iw2872-700/",
+      "thumbnail": "/drops/thumbs/993ac8a3c27d.webp",
+      "published": "2026-06-11T17:42:21",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "a4894ba291c2",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
       "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
       "published": "2026-06-09T15:29:01",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e21281229ce9",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
-      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
-      "published": "2026-06-06T23:31:29",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -351,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "2922a1471f78",
-      "pillar": "gaming",
-      "title": "Everything We Know About Gears Of War: E-Day , Xbox’s Big Exclusive For 2026",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/everything-we-know-about-gears-of-war-e-day-xboxs-big-exclusive-for-2026-2000705633",
-      "thumbnail": "/drops/thumbs/2922a1471f78.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b28bfc78dd7b",
       "pillar": "gaming",
       "title": "Come The Hell On, Overwatch",
@@ -385,6 +373,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "a698ba716cf8",
+      "pillar": "gaming",
+      "title": "GamesRadar+ Summer Preview: The biggest games of Summer Game Fest 2026",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/gamesradar-summer-preview-the-biggest-games-of-summer-game-fest-2026/",
+      "thumbnail": "/drops/thumbs/a698ba716cf8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -392,7 +392,7 @@
     "b3431bd50687",
     "6f835bbe3ddc",
     "39e3b0382765",
-    "a4894ba291c2",
+    "993ac8a3c27d",
     "46365bc5c0a0"
   ]
 }
