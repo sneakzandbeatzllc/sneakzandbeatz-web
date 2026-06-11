@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T15:14:52+00:00",
+  "generated_utc": "2026-06-11T16:04:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Daz Dillinger Reveals Why Tupac Went “Ballistic” After Biggie’s Radio Broadcast",
+      "url": "https://allhiphop.com/news/daz-dillinger-reveals-why-tupac-went-ballistic-after-biggies-radio-broadcast/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rick Ross Fires Back At Uncle Murda & 50 Cent After Airport Trolling",
       "url": "https://allhiphop.com/rumors/rick-ross-fires-back-at-uncle-murda-50-cent-after-airport-trolling/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Cardi B Reveals First-Ever Visit to Five Below in Viral Reaction",
-      "url": "https://thesource.com/2026/06/11/cardi-b-first-visit-five-below/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball: Every Super Saiyan Form, Definitively Ranked Weakest to Strongest",
       "url": "https://screenrant.com/dragon-ball-every-level-super-saiyan-ranked-weakest-strongest/",
       "pillar": "anime",
@@ -125,6 +125,13 @@
     {
       "title": "Solo Leveling season 3 official release window is bad news for fans",
       "url": "https://www.polygon.com/solo-leveling-season-3-official-release-window-bad-news/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "10 Greatest One Piece Quotes Of All Time",
+      "url": "https://screenrant.com/one-piece-best-quotes-greatest-moments-luffy/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "Smoking Behind the Supermarket with You Anime's 2nd Trailer Unveils Opening Song, July 9 TV Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-11/smoking-behind-the-supermarket-with-you-anime-2nd-trailer-unveils-opening-song-july-9-tv-debut/.238416",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Fable delay was a \"disappointment,\" Playground boss says, but avoiding GTA 6 can give the RPG \"the attention this game deserves\"",
       "url": "https://www.gamesradar.com/games/rpg/fable-delay-was-a-disappointment-playground-boss-says-but-avoiding-gta-6-can-give-the-rpg-the-attention-this-game-deserves/",
       "pillar": "gaming",
@@ -179,8 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS5's God of War Laufey Dominated Summer Game Fest",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
+      "title": "News Resident Evil Veronica PS5 Remake in Demand with One Million Wishlists",
+      "url": "https://www.pushsquare.com/news/2026/06/resident-evil-veronica-ps5-remake-in-demand-with-one-million-wishlists",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,15 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "Capcom Explains Why Resident Evil Veronica Is So Important And What Fans Should Expect From The RE2 -Style Remake",
-      "url": "https://kotaku.com/resident-evil-code-veronica-remake-timeline-dreamcast-claire-2000704967",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PS5 Fans Think Sony Is Pushing God of War Laufey Harder Than Wolverine",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-fans-think-sony-is-pushing-god-of-war-laufey-harder-than-wolverine",
+      "title": "News PS5's God of War Laufey Dominated Summer Game Fest",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,6 +209,13 @@
     {
       "title": "Elden Ring Tarnished Edition Now Available For Pre-Order On Switch 2",
       "url": "https://gameranx.com/updates/id/563010/article/elden-ring-tarnished-edition-now-available-for-pre-order-on-switch-2/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News PS5 Fans Think Sony Is Pushing God of War Laufey Harder Than Wolverine",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5-fans-think-sony-is-pushing-god-of-war-laufey-harder-than-wolverine",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T15:14:52+00:00",
+  "generated_utc": "2026-06-11T16:04:16+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "0fcc7d1bc8bb",
+      "pillar": "hiphop",
+      "title": "Daz Dillinger Reveals Why Tupac Went “Ballistic” After Biggie’s Radio Broadcast",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/news/daz-dillinger-reveals-why-tupac-went-ballistic-after-biggies-radio-broadcast/",
+      "thumbnail": "/drops/thumbs/0fcc7d1bc8bb.jpg",
+      "published": "2026-06-11T12:00:08",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "778da9544c2e",
       "pillar": "hiphop",
       "title": "Rick Ross Fires Back At Uncle Murda & 50 Cent After Airport Trolling",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "57e14885b56a",
-      "pillar": "hiphop",
-      "title": "Cardi B Reveals First-Ever Visit to Five Below in Viral Reaction",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/11/cardi-b-first-visit-five-below/",
-      "thumbnail": null,
-      "published": "2026-06-11T07:04:53",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7e358eea1d96",
       "pillar": "anime",
       "title": "Dragon Ball: Every Super Saiyan Form, Definitively Ranked Weakest to Strongest",
@@ -213,6 +213,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/solo-leveling-season-3-official-release-window-bad-news/",
       "thumbnail": "/drops/thumbs/39e3b0382765.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d9b8d15f00cb",
+      "pillar": "anime",
+      "title": "10 Greatest One Piece Quotes Of All Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-best-quotes-greatest-moments-luffy/",
+      "thumbnail": "/drops/thumbs/d9b8d15f00cb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "228dd23db417",
-      "pillar": "anime",
-      "title": "Smoking Behind the Supermarket with You Anime's 2nd Trailer Unveils Opening Song, July 9 TV Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-11/smoking-behind-the-supermarket-with-you-anime-2nd-trailer-unveils-opening-song-july-9-tv-debut/.238416",
-      "thumbnail": "/drops/thumbs/228dd23db417.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "15e1fc953021",
       "pillar": "gaming",
       "title": "Fable delay was a \"disappointment,\" Playground boss says, but avoiding GTA 6 can give the RPG \"the attention this game deserves\"",
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "199b346038be",
+      "id": "9c376d7ed552",
       "pillar": "gaming",
-      "title": "News PS5's God of War Laufey Dominated Summer Game Fest",
+      "title": "News Resident Evil Veronica PS5 Remake in Demand with One Million Wishlists",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
-      "thumbnail": "/drops/thumbs/199b346038be.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/resident-evil-veronica-ps5-remake-in-demand-with-one-million-wishlists",
+      "thumbnail": "/drops/thumbs/9c376d7ed552.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "56fd5d2e9bb8",
+      "id": "199b346038be",
       "pillar": "gaming",
-      "title": "Capcom Explains Why Resident Evil Veronica Is So Important And What Fans Should Expect From The RE2 -Style Remake",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/resident-evil-code-veronica-remake-timeline-dreamcast-claire-2000704967",
-      "thumbnail": "/drops/thumbs/56fd5d2e9bb8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "19166948936c",
-      "pillar": "gaming",
-      "title": "News PS5 Fans Think Sony Is Pushing God of War Laufey Harder Than Wolverine",
+      "title": "News PS5's God of War Laufey Dominated Summer Game Fest",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-fans-think-sony-is-pushing-god-of-war-laufey-harder-than-wolverine",
-      "thumbnail": "/drops/thumbs/19166948936c.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
+      "thumbnail": "/drops/thumbs/199b346038be.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "19166948936c",
+      "pillar": "gaming",
+      "title": "News PS5 Fans Think Sony Is Pushing God of War Laufey Harder Than Wolverine",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-fans-think-sony-is-pushing-god-of-war-laufey-harder-than-wolverine",
+      "thumbnail": "/drops/thumbs/19166948936c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ddea4bf27f26",
       "pillar": "gaming",
       "title": "News Saros Adds Photo Mode and New PS5 Trophies to Make You Use It",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "8362d1bf79ba",
-    "778da9544c2e",
+    "0fcc7d1bc8bb",
     "6f835bbe3ddc",
     "7e358eea1d96",
     "ed9bd14cfe51",
