@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T16:07:21+00:00",
+  "generated_utc": "2026-06-11T16:16:46+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -94,6 +58,42 @@
       "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
       "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
       "published": "2026-06-09T15:29:21",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e146b07264a0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
+      "published": "2026-06-09T15:29:01",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-06-06T23:31:29",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86085068f6a4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
+      "published": "2026-06-06T23:06:07",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "ee56b156da47",
-      "pillar": "anime",
-      "title": "Naruto's Next Anime Will Officially Crown Sakura As Team 7's Strongest Ninja, And It's Not Close",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-sakura-strongest-team-7/",
-      "thumbnail": "/drops/thumbs/ee56b156da47.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "93e5f70612a2",
       "pillar": "anime",
       "title": "Mr. Osomatsu Season 4 Anime Streams Unaired 13th Episode",
@@ -291,6 +279,18 @@
       "release_badge": ""
     },
     {
+      "id": "296cb813c46a",
+      "pillar": "anime",
+      "title": "Fall in Love, You False Angels Manga Gets TV Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-11/fall-in-love-you-false-angels-manga-gets-tv-anime/.238419",
+      "thumbnail": "/drops/thumbs/296cb813c46a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "15e1fc953021",
       "pillar": "gaming",
       "title": "Fable delay was a \"disappointment,\" Playground boss says, but avoiding GTA 6 can give the RPG \"the attention this game deserves\"",
@@ -309,18 +309,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/resident-evil-veronica-ps5-remake-in-demand-with-one-million-wishlists",
       "thumbnail": "/drops/thumbs/9c376d7ed552.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7f0277575f72",
-      "pillar": "gaming",
-      "title": "Resident Evil Veronica Is Only In 3rd Person Perspective, Trailer Was Intended To Fool Players",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563012/article/resident-evil-veronica-is-only-in-3rd-person-perspective-trailer-was-intended-to-fool-players/",
-      "thumbnail": "/drops/thumbs/7f0277575f72.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "0ae24c09c358",
-      "pillar": "gaming",
-      "title": "Elden Ring Tarnished Edition Now Available For Pre-Order On Switch 2",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563010/article/elden-ring-tarnished-edition-now-available-for-pre-order-on-switch-2/",
-      "thumbnail": "/drops/thumbs/0ae24c09c358.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "19166948936c",
       "pillar": "gaming",
       "title": "News PS5 Fans Think Sony Is Pushing God of War Laufey Harder Than Wolverine",
@@ -385,14 +361,38 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "7b1e92a1588a",
+      "pillar": "gaming",
+      "title": "Stranger Than Heaven Devs Say Adding Tupac To The Game Was A ‘Good Idea’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/stranger-than-heaven-devs-say-adding-tupac-to-the-game-was-a-good-idea-2000705565",
+      "thumbnail": "/drops/thumbs/7b1e92a1588a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7c82f4a0fba6",
+      "pillar": "gaming",
+      "title": "This Cannot Continue",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/this-cannot-continue-xbox-layoffs-2000705049",
+      "thumbnail": "/drops/thumbs/7c82f4a0fba6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "094b1500b6a8",
+    "8362d1bf79ba",
     "0fcc7d1bc8bb",
-    "43151d13faa3",
+    "6f835bbe3ddc",
     "7e358eea1d96",
-    "69fe11c3a7e6",
+    "ed9bd14cfe51",
     "15e1fc953021"
   ]
 }

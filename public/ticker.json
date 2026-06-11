@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T16:07:21+00:00",
+  "generated_utc": "2026-06-11T16:16:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -55,6 +34,27 @@
     {
       "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
       "url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Naruto's Next Anime Will Officially Crown Sakura As Team 7's Strongest Ninja, And It's Not Close",
-      "url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-sakura-strongest-team-7/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Mr. Osomatsu Season 4 Anime Streams Unaired 13th Episode",
       "url": "https://www.animenewsnetwork.com/news/2026-06-11/mr-osomatsu-season-4-anime-streams-unaired-13th-episode/.238424",
       "pillar": "anime",
@@ -172,6 +165,13 @@
       "article_slug": null
     },
     {
+      "title": "Fall in Love, You False Angels Manga Gets TV Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-11/fall-in-love-you-false-angels-manga-gets-tv-anime/.238419",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Fable delay was a \"disappointment,\" Playground boss says, but avoiding GTA 6 can give the RPG \"the attention this game deserves\"",
       "url": "https://www.gamesradar.com/games/rpg/fable-delay-was-a-disappointment-playground-boss-says-but-avoiding-gta-6-can-give-the-rpg-the-attention-this-game-deserves/",
       "pillar": "gaming",
@@ -181,13 +181,6 @@
     {
       "title": "News Resident Evil Veronica PS5 Remake in Demand with One Million Wishlists",
       "url": "https://www.pushsquare.com/news/2026/06/resident-evil-veronica-ps5-remake-in-demand-with-one-million-wishlists",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Resident Evil Veronica Is Only In 3rd Person Perspective, Trailer Was Intended To Fool Players",
-      "url": "https://gameranx.com/updates/id/563012/article/resident-evil-veronica-is-only-in-3rd-person-perspective-trailer-was-intended-to-fool-players/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "Elden Ring Tarnished Edition Now Available For Pre-Order On Switch 2",
-      "url": "https://gameranx.com/updates/id/563010/article/elden-ring-tarnished-edition-now-available-for-pre-order-on-switch-2/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News PS5 Fans Think Sony Is Pushing God of War Laufey Harder Than Wolverine",
       "url": "https://www.pushsquare.com/news/2026/06/ps5-fans-think-sony-is-pushing-god-of-war-laufey-harder-than-wolverine",
       "pillar": "gaming",
@@ -223,6 +209,20 @@
     {
       "title": "As Destiny 2 waves goodbye in its final update, Warframe commemorates the Bungie MMO with an in-game reward",
       "url": "https://www.gamesradar.com/games/destiny/as-destiny-2-waves-goodbye-in-its-final-update-warframe-commemorates-the-beloved-bungie-mmo-with-an-in-game-reward/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Stranger Than Heaven Devs Say Adding Tupac To The Game Was A ‘Good Idea’",
+      "url": "https://kotaku.com/stranger-than-heaven-devs-say-adding-tupac-to-the-game-was-a-good-idea-2000705565",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "This Cannot Continue",
+      "url": "https://kotaku.com/this-cannot-continue-xbox-layoffs-2000705049",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
