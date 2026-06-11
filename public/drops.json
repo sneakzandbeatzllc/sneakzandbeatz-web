@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T22:21:54+00:00",
+  "generated_utc": "2026-06-11T23:24:25+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "199b346038be",
-      "pillar": "gaming",
-      "title": "News PS5's God of War Laufey Dominated Summer Game Fest",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
-      "thumbnail": "/drops/thumbs/199b346038be.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b28bfc78dd7b",
       "pillar": "gaming",
       "title": "Come The Hell On, Overwatch",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/overwatch-new-hero-season-3-shion-trailer-reveal-face-2000705630",
       "thumbnail": "/drops/thumbs/b28bfc78dd7b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "03ab154fc3e4",
+      "pillar": "gaming",
+      "title": "Gears of War: E-Day Is The Longest Game In The Franchise At 14 Hours",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563014/article/gears-of-war-e-day-is-the-longest-game-in-the-franchise-at-14-hours/",
+      "thumbnail": "/drops/thumbs/03ab154fc3e4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
