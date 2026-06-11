@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T05:01:35+00:00",
+  "generated_utc": "2026-06-11T05:22:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News Oxygen Levels, Shoe Types, Cigarette Butts: GTA 6's Most Unhinged Fan Is Investigating Rockstar",
-      "url": "https://www.pushsquare.com/news/2026/06/oxygen-levels-shoe-types-cigarette-butts-gta-6s-most-unhinged-fan-is-investigating-rockstar",
+      "title": "News Dragon's Dogma 2 Patch 3.1 Out Now, Big Improvements Prepare for Dark Arisen DLC",
+      "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-patch-3-1-out-now-big-improvements-prepare-for-dark-arisen-dlc",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,20 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "News Unlike Its Reveal Trailer, Resident Evil Veronica on PS5 Will Be Fully Third-Person",
-      "url": "https://www.pushsquare.com/news/2026/06/unlike-its-reveal-trailer-resident-evil-veronica-on-ps5-will-be-fully-third-person",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Street Fighter 6 Has Been Trying to Get Tifa for 3 Years",
-      "url": "https://www.pushsquare.com/news/2026/06/street-fighter-6-has-been-trying-to-get-tifa-for-3-years",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: Xbox Tried To Cancel Fable and Halo Campaign Evolved For PS5, Like They Did For Gears Of War: E-Day",
       "url": "https://gameranx.com/updates/id/562995/article/rumor-xbox-tried-to-cancel-fable-and-halo-campaign-evolved-for-ps5-like-they-did-for-gears-of-war-e-day/",
       "pillar": "gaming",
@@ -221,8 +207,22 @@
       "article_slug": null
     },
     {
-      "title": "News Halo's PS5 Debut Can Be Played Entirely in Third-Person if You Want",
-      "url": "https://www.pushsquare.com/news/2026/06/halos-ps5-debut-can-be-played-entirely-in-third-person-if-you-want",
+      "title": "News Ubisoft Shutting Multiple Studios, as the News Just Keeps Getting Worse",
+      "url": "https://www.pushsquare.com/news/2026/06/ubisoft-shutting-multiple-studios-as-the-news-just-keeps-getting-worse",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "1666 Amsterdam’s Big Comeback After Going Missing For 15 Years Ruined By Gen AI",
+      "url": "https://gameranx.com/updates/id/563004/article/1666-amsterdams-big-comeback-after-going-missing-for-15-years-ruined-by-gen-ai/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Xbox Will Reportedly Undergo Major Layoffs Next Month",
+      "url": "https://kotaku.com/xbox-reportedly-major-layoffs-next-month-2000705023",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
