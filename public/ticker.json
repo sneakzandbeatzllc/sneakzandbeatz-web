@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T21:17:08+00:00",
+  "generated_utc": "2026-06-11T21:19:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -55,6 +34,27 @@
     {
       "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
       "url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -172,20 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "Fable delay was a \"disappointment,\" Playground boss says, but avoiding GTA 6 can give the RPG \"the attention this game deserves\"",
-      "url": "https://www.gamesradar.com/games/rpg/fable-delay-was-a-disappointment-playground-boss-says-but-avoiding-gta-6-can-give-the-rpg-the-attention-this-game-deserves/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "GTA 6 scared so many games into September launches that other games are now getting scared into October",
-      "url": "https://www.gamesradar.com/games/action/gta-6-scared-so-many-games-into-september-launches-that-other-games-are-now-getting-scared-into-october/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Fascinating PS5 Sales Estimates Peg Ghost of Yotei as a Triumph",
       "url": "https://www.pushsquare.com/news/2026/06/fascinating-ps5-sales-estimates-peg-ghost-of-yotei-as-a-triumph",
       "pillar": "gaming",
@@ -223,6 +209,20 @@
     {
       "title": "Everything We Know About Gears Of War: E-Day , Xbox’s Big Exclusive For 2026",
       "url": "https://kotaku.com/everything-we-know-about-gears-of-war-e-day-xboxs-big-exclusive-for-2026-2000705633",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Come The Hell On, Overwatch",
+      "url": "https://kotaku.com/overwatch-new-hero-season-3-shion-trailer-reveal-face-2000705630",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Gears of War: E-Day Is The Longest Game In The Franchise At 14 Hours",
+      "url": "https://gameranx.com/updates/id/563014/article/gears-of-war-e-day-is-the-longest-game-in-the-franchise-at-14-hours/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

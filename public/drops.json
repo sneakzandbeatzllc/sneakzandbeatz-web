@@ -1,43 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T21:17:08+00:00",
+  "generated_utc": "2026-06-11T21:19:24+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "43151d13faa3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "thumbnail": "/drops/thumbs/43151d13faa3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -94,6 +58,42 @@
       "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
       "thumbnail": "/drops/thumbs/e9ab4b8188cb.webp",
       "published": "2026-06-10T18:51:19",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9117a67223d5",
+      "pillar": "sneakers",
+      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
+      "published": "2026-06-09T15:29:21",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e146b07264a0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
+      "published": "2026-06-09T15:29:01",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-06-06T23:31:29",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -291,30 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "15e1fc953021",
-      "pillar": "gaming",
-      "title": "Fable delay was a \"disappointment,\" Playground boss says, but avoiding GTA 6 can give the RPG \"the attention this game deserves\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/fable-delay-was-a-disappointment-playground-boss-says-but-avoiding-gta-6-can-give-the-rpg-the-attention-this-game-deserves/",
-      "thumbnail": "/drops/thumbs/15e1fc953021.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c398ae3d7b00",
-      "pillar": "gaming",
-      "title": "GTA 6 scared so many games into September launches that other games are now getting scared into October",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/action/gta-6-scared-so-many-games-into-september-launches-that-other-games-are-now-getting-scared-into-october/",
-      "thumbnail": "/drops/thumbs/c398ae3d7b00.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "46365bc5c0a0",
       "pillar": "gaming",
       "title": "News Fascinating PS5 Sales Estimates Peg Ghost of Yotei as a Triumph",
@@ -385,14 +361,38 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "b28bfc78dd7b",
+      "pillar": "gaming",
+      "title": "Come The Hell On, Overwatch",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/overwatch-new-hero-season-3-shion-trailer-reveal-face-2000705630",
+      "thumbnail": "/drops/thumbs/b28bfc78dd7b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "03ab154fc3e4",
+      "pillar": "gaming",
+      "title": "Gears of War: E-Day Is The Longest Game In The Franchise At 14 Hours",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563014/article/gears-of-war-e-day-is-the-longest-game-in-the-franchise-at-14-hours/",
+      "thumbnail": "/drops/thumbs/03ab154fc3e4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "094b1500b6a8",
+    "8362d1bf79ba",
     "b3431bd50687",
-    "43151d13faa3",
+    "6f835bbe3ddc",
     "39e3b0382765",
-    "69fe11c3a7e6",
-    "15e1fc953021"
+    "a4894ba291c2",
+    "46365bc5c0a0"
   ]
 }
