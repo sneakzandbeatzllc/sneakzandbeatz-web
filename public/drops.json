@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T13:09:48+00:00",
+  "generated_utc": "2026-06-11T13:32:33+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b3aee6059d60",
+      "pillar": "hiphop",
+      "title": "Oschino Fires Back At Jay-Z With Insane Diss After Roots Picnic",
+      "source": "AllHipHop",
+      "source_url": "https://allhiphop.com/rumors/oschino-fires-back-at-jay-z-with-insane-diss-after-roots-picnic/",
+      "thumbnail": "/drops/thumbs/b3aee6059d60.jpg",
+      "published": "2026-06-11T09:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "74cacf19532c",
       "pillar": "hiphop",
       "title": "NBA Finals Game 3 Draws Biggest Audience in Since Jordan’s Last Ring",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "9a9922df1100",
-      "pillar": "hiphop",
-      "title": "Meagan Good to Direct New Comedy-Drama Series ’15 Minutes of Fame’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/11/meagan-good-ricky-bell-15-minutes-of-fame-series/",
-      "thumbnail": "/drops/thumbs/9a9922df1100.jpg",
-      "published": "2026-06-11T06:54:21",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7e358eea1d96",
       "pillar": "anime",
       "title": "Dragon Ball: Every Super Saiyan Form, Definitively Ranked Weakest to Strongest",
@@ -213,6 +213,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/solo-leveling-season-3-official-release-window-bad-news/",
       "thumbnail": "/drops/thumbs/39e3b0382765.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "63bf690b7e56",
+      "pillar": "anime",
+      "title": "Berserk Is Officially Returning With A New Chapter Miura Agonized Over For 20 Years",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/berserk-creator-manga-return-obsession-20-years/",
+      "thumbnail": "/drops/thumbs/63bf690b7e56.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/aniplex-is-reviving-this-beloved-romance-manga-nearly-20-years-after-its-debut/",
       "thumbnail": "/drops/thumbs/c751c9c3ac1d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c35b4775033f",
-      "pillar": "anime",
-      "title": "Thunder 3 TV Anime Reveals Ending Song, July 8 Debut in New Video",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-11/thunder-3-tv-anime-reveals-ending-song-july-8-debut-in-new-video/.238414",
-      "thumbnail": "/drops/thumbs/c35b4775033f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "094b1500b6a8",
-    "74cacf19532c",
+    "b3aee6059d60",
     "43151d13faa3",
     "7e358eea1d96",
     "69fe11c3a7e6",
