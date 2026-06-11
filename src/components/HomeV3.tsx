@@ -15,6 +15,7 @@ import fs from "node:fs";
 import path from "node:path";
 import Link from "next/link";
 import { fetchYouTubeVideos, formatPublishedAgo } from "@/lib/youtube";
+import { isBannedItem } from "@/lib/soc-engine";
 import { STRIPE_LINKS } from "@/data/stripe-links";
 import { MERCH_PRODUCTS, MERCH_LAUNCH_DATE } from "@/data/merch";
 
@@ -52,7 +53,7 @@ function loadDrops(): Drop[] {
     const file = path.join(process.cwd(), "public", "drops.json");
     const payload = JSON.parse(fs.readFileSync(file, "utf-8"));
     const items: Drop[] = (payload.items ?? []).filter(
-      (d: Drop) => !d.is_placeholder
+      (d: Drop) => !d.is_placeholder && !isBannedItem(d)
     );
     return items;
   } catch {

@@ -13,6 +13,7 @@
  */
 
 import fs from "node:fs";
+import { isBannedItem } from "@/lib/soc-engine";
 import path from "node:path";
 
 type Pillar = "sneakers" | "hiphop" | "anime" | "gaming";
@@ -59,13 +60,16 @@ interface DropsPayload {
 }
 
 function loadDrops(): DropsPayload {
+  // NOTE: every item passes the brand ban filter (AllHipHop etc.) below.
   try {
     const file = path.join(process.cwd(), "public", "drops.json");
     if (!fs.existsSync(file)) return { items: [] };
     const raw = fs.readFileSync(file, "utf-8");
     const data = JSON.parse(raw);
     return {
-      items: Array.isArray(data?.items) ? (data.items as Drop[]) : [],
+      items: (Array.isArray(data?.items) ? (data.items as Drop[]) : []).filter(
+        (d) => !isBannedItem(d)
+      ),
       homepage: Array.isArray(data?.homepage) ? (data.homepage as string[]) : undefined,
     };
   } catch {

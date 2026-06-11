@@ -56,7 +56,7 @@ const FEEDS: { url: string; pillar: string }[] = [
  * (Mother's Day gift roundups, "Save 50% off X" listicles, "Best Buy/Prime
  * Day" deals, etc.).
  */
-const TITLE_DENYLIST: RegExp[] = [
+export const TITLE_DENYLIST: RegExp[] = [
   /\bdeal[s]?\b/i,
   /\b\d+%\s*off\b/i,
   /\bsave\s+(?:\$|up to|big)/i,
@@ -153,7 +153,7 @@ const TITLE_DENYLIST: RegExp[] = [
  * brand. Whole domain is blocked, not just the /newsbreak/ section.
  * The other rules block obvious gossip/dating paths on any source.
  */
-const URL_DENYLIST: RegExp[] = [
+export const URL_DENYLIST: RegExp[] = [
   /(?:^|\/\/|\.)allhiphop\.com\b/i,
   /\/newsbreak\//i,
   /\/gossip\//i,
@@ -353,4 +353,19 @@ function sanitize(raw: string): string {
     .replace(/&#8211;/g, "–")
     .replace(/\s+/g, " ");
   return t.trim();
+}
+
+
+/**
+ * Hard ban check for feed items — source name, URL, or title.
+ * AllHipHop is permanently banned per brand direction (June 2026):
+ * drama/tabloid coverage, not music. Apply to EVERY drops.json consumer.
+ */
+export function isBannedItem(it: { title?: string; url?: string; source?: string; source_url?: string }): boolean {
+  const url = it.source_url || it.url || "";
+  const src = (it.source || "").toLowerCase();
+  if (src.includes("allhiphop")) return true;
+  if (URL_DENYLIST.some((re) => re.test(url))) return true;
+  if (it.title && TITLE_DENYLIST.some((re) => re.test(it.title))) return true;
+  return false;
 }
