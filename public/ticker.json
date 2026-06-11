@@ -1,8 +1,29 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T16:04:16+00:00",
+  "generated_utc": "2026-06-11T16:07:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -34,27 +55,6 @@
     {
       "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
       "url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Musik” Releases January 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High OG “Love The Game” Releases August 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Fall in Love, You False Angels Manga Gets TV Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-11/fall-in-love-you-false-angels-manga-gets-tv-anime/.238419",
+      "title": "Mr. Osomatsu Season 4 Anime Streams Unaired 13th Episode",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-11/mr-osomatsu-season-4-anime-streams-unaired-13th-episode/.238424",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Nobunaga Concerto Manga Resumes in July, Ends in 3 Chapters",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-11/nobunaga-concerto-manga-resumes-in-july-ends-in-3-chapters/.238411",
+      "title": "The Beloved Imperial Bride Manga Ends With 10th Volume",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-11/the-beloved-imperial-bride-manga-ends-with-10th-volume/.238394",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News Saros Adds Photo Mode and New PS5 Trophies to Make You Use It",
-      "url": "https://www.pushsquare.com/news/2026/06/saros-adds-photo-mode-and-new-ps5-trophies-to-make-you-use-it",
+      "title": "As Destiny 2 waves goodbye in its final update, Warframe commemorates the Bungie MMO with an in-game reward",
+      "url": "https://www.gamesradar.com/games/destiny/as-destiny-2-waves-goodbye-in-its-final-update-warframe-commemorates-the-beloved-bungie-mmo-with-an-in-game-reward/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
