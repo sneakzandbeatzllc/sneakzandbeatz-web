@@ -6467,3 +6467,11 @@ input[type="email"]:focus, input[type="text"]:focus, textarea:focus {
 .beatsline-sheet{margin-top:14px;border-radius:var(--radius);overflow:hidden;border:1px solid var(--line)}
 .beatsline-sheet img{width:100%;border-radius:0}
 @media(max-width:880px){.beatsline-grid{grid-template-columns:1fr}}
+
+/* Classics colorway gallery (shop) */
+.classicrow-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:26px}
+.classicrow-card{margin:0;border-radius:var(--radius);overflow:hidden;border:1px solid var(--line);background:var(--card);transition:transform .35s var(--ease),box-shadow .35s var(--ease)}
+.classicrow-card:hover{transform:translateY(-4px);box-shadow:var(--shadow)}
+.classicrow-card img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:0}
+.classicrow-card figcaption{padding:10px 12px;font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--text-soft);text-align:center}
+@media(max-width:880px){.classicrow-grid{grid-template-columns:repeat(2,1fr)}.classicrow-card:last-child{grid-column:span 2}}

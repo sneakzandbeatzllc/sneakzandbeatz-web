@@ -198,6 +198,27 @@ export default function ShopPage() {
           </div>
         </section>
 
+        {/* The Classics — colorway gallery */}
+        <section className="container shop-block classicrow">
+          <span className="eyebrow">The Classics · Unisex · Pre-order opens {launchLabel}</span>
+          <h2 className="shop-h2" style={{ marginTop: 10 }}>One graphic. Five ways.</h2>
+          <div className="classicrow-grid">
+            {[
+              ["/merch/classic-black.jpg", "Black"],
+              ["/merch/classic-cream.jpg", "Cream"],
+              ["/merch/classic-navy.jpg", "Navy"],
+              ["/merch/classic-red.jpg", "Red"],
+              ["/merch/classic-grey.jpg", "Grey"],
+            ].map(([src, name]) => (
+              <figure key={name} className="classicrow-card">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={src} alt={`S&B Classic Hoodie — ${name}`} loading="lazy" />
+                <figcaption>{name}</figcaption>
+              </figure>
+            ))}
+          </div>
+        </section>
+
         {/* beats. — the women's line showcase */}
         <section className="container shop-block beatsline">
           <div className="beatsline-grid">

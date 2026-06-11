@@ -91,7 +91,7 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
     sizes: ["S", "M", "L", "XL", "XXL"],
     colorways: MERCH_COLORWAYS,
     status: "preorder",
-    imagePath: "/merch/studio_9859.jpg",
+    imagePath: "/merch/classic-red.jpg",
   },
   {
     slug: "beats-crop-hoodie",
