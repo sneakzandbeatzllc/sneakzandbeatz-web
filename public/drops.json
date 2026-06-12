@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-12T14:48:37+00:00",
+  "generated_utc": "2026-06-12T14:50:10+00:00",
   "items": [
     {
       "id": "8362d1bf79ba",
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "18be198c905e",
+      "id": "389305acae3e",
       "pillar": "anime",
-      "title": "Jaadugar: A Witch in Mongolia Anime Casts Mongolian Sumo Wrestlers Tamawashi, Tamashoho",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-12/jaadugar-a-witch-in-mongolia-anime-casts-mongolian-sumo-wrestlers-tamawashi-tamashoho/.238452",
-      "thumbnail": null,
+      "title": "Re:Zero season 4 has to pull a Memento to find its lost charm",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
+      "thumbnail": "/drops/thumbs/389305acae3e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "753d81a507c9",
+      "id": "e0afc98027aa",
       "pillar": "anime",
-      "title": "Victoria of Many Faces Anime's New Short Promo Video Highlights Victoria, Nonna",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-12/victoria-of-many-faces-anime-new-short-promo-video-highlights-victoria-nonna/.238451",
-      "thumbnail": null,
+      "title": "Sentenced to Be a Hero, 2026's Biggest Dark Fantasy, Finally Gets English Release",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/sentenced-to-be-a-hero-manga-english-release/",
+      "thumbnail": "/drops/thumbs/e0afc98027aa.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "f8a5bf083848",
+      "pillar": "gaming",
+      "title": "Demand For Xbox Series X|S Worldwide Exceeds Supply – And Memory Is A Huge Reason Why",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563051/article/demand-for-xbox-series-xs-worldwide-exceeds-supply-and-memory-is-a-huge-reason-why/",
+      "thumbnail": "/drops/thumbs/f8a5bf083848.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f63754424a6a",
       "pillar": "gaming",
       "title": "Interview The Blood of Dawnwalker's modern-day twist promises an RPG \"saga\" with carried-over saves, devs say",
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "cac11bae483b",
+      "id": "9272fa1b50ed",
       "pillar": "gaming",
-      "title": "The Adventures Of Elliot Devs Were ‘Surprised’ That Fans Think The Game’s Fairy Companion Talks Too Much",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-adventures-of-elliot-devs-surprised-fans-think-fairy-talks-too-much-2000704876",
-      "thumbnail": "/drops/thumbs/cac11bae483b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7f7ea49ae98d",
-      "pillar": "gaming",
-      "title": "Features Total War: Warhammer 40K is getting a closed beta, and its latest gameplay has sold me",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/total-war/warhammer-40k-closed-beta-gameplay-reveal/",
-      "thumbnail": "/drops/thumbs/7f7ea49ae98d.jpg",
+      "title": "ESRB Rating For The Elder Scrolls IV: Oblivion Remastered Adds Nintendo Switch 2",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563049/article/esrb-rating-for-the-elder-scrolls-iv-oblivion-remastered-adds-nintendo-switch-2/",
+      "thumbnail": "/drops/thumbs/9272fa1b50ed.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
