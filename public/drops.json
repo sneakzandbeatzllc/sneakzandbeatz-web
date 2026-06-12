@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-12T18:58:13+00:00",
+  "generated_utc": "2026-06-12T18:59:10+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "0bd599b97230",
+      "pillar": "anime",
+      "title": "Viz Media to Release Jujutsu Kaisen Modulo , Detective Conan , Slam Dunk Deluxe Edition , Junji Ito: Dissection , More Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-12/viz-media-to-release-jujutsu-kaisen-modulo-detective-conan-slam-dunk-deluxe-edition-junji-ito-/.238454",
+      "thumbnail": "/drops/thumbs/0bd599b97230.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1f764befbdf0",
       "pillar": "anime",
       "title": "The Next Major Jujutsu Kaisen Release Lands Official Release Date",
@@ -159,36 +171,24 @@
       "release_badge": ""
     },
     {
+      "id": "e83b70de6ed5",
+      "pillar": "anime",
+      "title": "Yen Press Licenses Witches Can't Be Collared , 'Alma-chan Wants to Be a Family!' , Yamada's Class Diary , More Manga/Novels",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-12/yen-press-licenses-witches-cant-be-collared-alma-chan-wants-to-be-a-family-yamada-class-diary-more-/.238455",
+      "thumbnail": "/drops/thumbs/e83b70de6ed5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "389305acae3e",
       "pillar": "anime",
       "title": "Re:Zero season 4 has to pull a Memento to find its lost charm",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
       "thumbnail": "/drops/thumbs/389305acae3e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "39d1e29af047",
-      "pillar": "anime",
-      "title": "After 8 Years, The Greatest Modern Manga Creator Is Finally Returning With A New Series",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naoki-urasawa-new-series-final-manga-classroom/",
-      "thumbnail": "/drops/thumbs/39d1e29af047.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e0afc98027aa",
-      "pillar": "anime",
-      "title": "Sentenced to Be a Hero, 2026's Biggest Dark Fantasy, Finally Gets English Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/sentenced-to-be-a-hero-manga-english-release/",
-      "thumbnail": "/drops/thumbs/e0afc98027aa.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "094b1500b6a8",
     "8362d1bf79ba",
     "779db71fc001",
-    "1f764befbdf0",
+    "0bd599b97230",
     "a3e23bbf57cc",
     "b3b2fcbd1187"
   ]
