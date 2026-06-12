@@ -361,11 +361,70 @@ function sanitize(raw: string): string {
  * AllHipHop is permanently banned per brand direction (June 2026):
  * drama/tabloid coverage, not music. Apply to EVERY drops.json consumer.
  */
-export function isBannedItem(it: { title?: string; url?: string; source?: string; source_url?: string }): boolean {
+/** Outlets that can never appear as a source — brand ban list. */
+const BANNED_SOURCES = ["allhiphop", "tmz", "akademiks", "trap lore", "vlad"];
+
+/** Names banned on the hip-hop pillar per brand editorial rules. */
+const BANNED_NAMES: RegExp[] = [
+  /\bcam'?ron\b/i,
+  /\bdrake\b/i,
+  /\bma\$e\b/i,
+  /\bit is what it is\b/i,
+];
+
+/** Drama patterns — beef/feud coverage is off-brand everywhere. */
+const DRAMA_PATTERNS: RegExp[] = [
+  /\bfires? back\b/i,
+  /\bclaps? back\b/i,
+  /\bdiss(?:es|ed|ing)?\b/i,
+  /\bbeef\b/i,
+  /\bfeud\b/i,
+  /\bresponds? to\b/i,
+  /\bslams?\b/i,
+  /\bdrag(?:s|ged)\b/i,
+  /\bcalls? out\b/i,
+  /\bblasts?\b/i,
+  /\btrolling\b/i,
+  /\btrolls?\b/i,
+  /\bshots? (?:at|fired)\b/i,
+  /\bgoes? off on\b/i,
+  /\bwent (?:ballistic|off)\b/i,
+  /\bdrama\b/i,
+  /\barrest(?:ed)?\b/i,
+  /\bexplains? why\b/i,
+  /\breignites?\b/i,
+  /\bdivorce\b/i,
+  /\bcheating\b/i,
+];
+
+/**
+ * Music-first allowlist for the hip-hop pillar. A hip-hop story must be
+ * ABOUT THE MUSIC — releases, songs, freestyles, albums, shows — or it
+ * does not run. Per brand direction June 2026: no drama, period.
+ */
+const MUSIC_PATTERNS: RegExp[] = [
+  /\balbum\b/i, /\bsingle\b/i, /\bsong\b/i, /\btrack\b/i, /\bfreestyle\b/i,
+  /\bmixtape\b/i, /\b(?:^|\s)ep\b/i, /\blp\b/i, /\bdrops?\b/i, /\breleases?\b/i,
+  /\bpremieres?\b/i, /\bmusic video\b/i, /\bvisual\b/i, /\btour\b/i,
+  /\bconcert\b/i, /\bperform(?:s|ance|ed)?\b/i, /\bverse\b/i, /\bproduc(?:ed|er|tion)\b/i,
+  /\bbeat\b/i, /\bcharts?\b/i, /\bbillboard\b/i, /\bstream(?:s|ing)?\b/i,
+  /\bdeluxe\b/i, /\bremix\b/i, /\bcollab(?:oration)?\b/i, /\bfeature\b/i,
+  /\banniversary\b/i, /\bvinyl\b/i, /\bsetlist\b/i, /\bfestival\b/i, /\bcypher\b/i,
+];
+
+export function isBannedItem(it: { title?: string; url?: string; source?: string; source_url?: string; pillar?: string }): boolean {
   const url = it.source_url || it.url || "";
   const src = (it.source || "").toLowerCase();
-  if (src.includes("allhiphop")) return true;
+  const title = it.title || "";
+  if (BANNED_SOURCES.some((b) => src.includes(b))) return true;
   if (URL_DENYLIST.some((re) => re.test(url))) return true;
-  if (it.title && TITLE_DENYLIST.some((re) => re.test(it.title))) return true;
+  if (title !== "" && TITLE_DENYLIST.some((re) => re.test(title))) return true;
+  if (title !== "" && BANNED_NAMES.some((re) => re.test(title))) return true;
+  if (title !== "" && DRAMA_PATTERNS.some((re) => re.test(title))) return true;
+  // Hip-hop pillar: music stories only.
+  const pillar = (it.pillar || "").toLowerCase();
+  if (pillar.includes("hip") && title !== "" && !MUSIC_PATTERNS.some((re) => re.test(title))) {
+    return true;
+  }
   return false;
 }
