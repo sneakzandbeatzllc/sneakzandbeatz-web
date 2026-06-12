@@ -1,25 +1,11 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-11T23:24:25+00:00",
+  "generated_utc": "2026-06-12T00:26:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 3 \"BIN 23\"",
+      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -27,6 +13,27 @@
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 15 “Black Muslin” (IV7637-100) June 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-15-black-muslin-iv7637-100/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Slam Jam to Release a Pair of Air Jordan 8 Styles in 2027",
-      "url": "https://justfreshkicks.com/slam-jam-air-jordan-8-pack/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Man Accused Of Ordering Young Dolph Hit Busted For Threatening To Shoot Up Woman’s House",
+      "url": "https://allhiphop.com/news/man-accused-of-ordering-young-dolph-hit-busted-for-threatening-to-shoot-up-womans-house/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Inside the Trump White House’s Push to Get Ahead of the Epstein Files Firestorm",
       "url": "https://thesource.com/2026/06/11/inside-the-trump-white-houses-push-to-get-ahead-of-the-epstein-files-firestorm/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Cam’ron Explains Why He Didn’t Freestyle At The Verzuz Battle",
-      "url": "https://allhiphop.com/news/camron-explains-why-he-didnt-freestyle-at-the-verzuz-battle/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "News Resident Evil Veronica PS5 Remake in Demand with One Million Wishlists",
-      "url": "https://www.pushsquare.com/news/2026/06/resident-evil-veronica-ps5-remake-in-demand-with-one-million-wishlists",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Elden Ring Tarnished Edition Now Available For Pre-Order On Switch 2",
       "url": "https://gameranx.com/updates/id/563010/article/elden-ring-tarnished-edition-now-available-for-pre-order-on-switch-2/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Gears of War: E-Day Is The Longest Game In The Franchise At 14 Hours",
       "url": "https://gameranx.com/updates/id/563014/article/gears-of-war-e-day-is-the-longest-game-in-the-franchise-at-14-hours/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Starfield Patch Promises to Fix Its Biggest Crashing Issue on PS5, Two Months After Launch",
+      "url": "https://www.pushsquare.com/news/2026/06/starfield-patch-promises-to-fix-its-biggest-crashing-issue-on-ps5-two-months-after-launch",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
