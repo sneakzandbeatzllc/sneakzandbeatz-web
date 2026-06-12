@@ -1,29 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-12T04:35:00+00:00",
+  "generated_utc": "2026-06-12T14:48:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
@@ -60,10 +39,24 @@
       "article_slug": null
     },
     {
-      "title": "Solo Leveling season 3 official release window is bad news for fans",
-      "url": "https://www.polygon.com/solo-leveling-season-3-official-release-window-bad-news/",
-      "pillar": "anime",
-      "score": 1.0,
+      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
+      "url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -81,15 +74,15 @@
       "article_slug": null
     },
     {
-      "title": "Hunter x Hunter Nen x Impact Game Adds DLC Character Zeno on June 18",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-11/hunter-x-hunter-nen-x-impact-game-adds-dlc-character-zeno-on-june-18/.238425",
+      "title": "Berserk returns with a chapter Kentaro Miura spent 20 years trying to get right",
+      "url": "https://www.polygon.com/berserk-new-chapter-384-kentaro-miura-20-years/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Trump’s anime posts spark backlash in Japan over use of Naruto and Pokémon imagery",
-      "url": "https://www.polygon.com/trump-anime-japan-backlash-naruto-pokemon/",
+      "title": "One Piece Episode #1166 Release Date And Time",
+      "url": "https://screenrant.com/one-piece-episode-1166-release-date-time/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,64 +102,71 @@
       "article_slug": null
     },
     {
-      "title": "10 Greatest One Piece Quotes Of All Time",
-      "url": "https://screenrant.com/one-piece-best-quotes-greatest-moments-luffy/",
+      "title": "Jaadugar: A Witch in Mongolia Anime Casts Mongolian Sumo Wrestlers Tamawashi, Tamashoho",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-12/jaadugar-a-witch-in-mongolia-anime-casts-mongolian-sumo-wrestlers-tamawashi-tamashoho/.238452",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Fable delay was a \"disappointment,\" Playground boss says, but avoiding GTA 6 can give the RPG \"the attention this game deserves\"",
-      "url": "https://www.gamesradar.com/games/rpg/fable-delay-was-a-disappointment-playground-boss-says-but-avoiding-gta-6-can-give-the-rpg-the-attention-this-game-deserves/",
+      "title": "Victoria of Many Faces Anime's New Short Promo Video Highlights Victoria, Nonna",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-12/victoria-of-many-faces-anime-new-short-promo-video-highlights-victoria-nonna/.238451",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Out in Late October, Phantom Blade Zero Dev Doesn't Care How Close It Is to GTA 6",
+      "url": "https://www.pushsquare.com/news/2026/06/out-in-late-october-phantom-blade-zero-dev-doesnt-care-how-close-it-is-to-gta-6",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "GTA 6 scared so many games into September launches that other games are now getting scared into October",
-      "url": "https://www.gamesradar.com/games/action/gta-6-scared-so-many-games-into-september-launches-that-other-games-are-now-getting-scared-into-october/",
+      "title": "Final Fantasy 7 Revelation Director Calls Watching Streamers A ‘Crisis’ For RPGs That Don’t Offer Enough Choice",
+      "url": "https://kotaku.com/final-fantasy-7-revelation-director-calls-watching-streamers-a-crisis-for-rpgs-that-dont-offer-enough-choice-2000705983",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Fascinating PS5 Sales Estimates Peg Ghost of Yotei as a Triumph",
-      "url": "https://www.pushsquare.com/news/2026/06/fascinating-ps5-sales-estimates-peg-ghost-of-yotei-as-a-triumph",
+      "title": "Gallery Still Can't Believe the Dragon's Dogma 2 DLC Is Real? Here's 38 Dark Arisen Screenshots",
+      "url": "https://www.pushsquare.com/features/gallery-still-cant-believe-the-dragons-dogma-2-dlc-is-real-heres-38-dark-arisen-screenshots",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Resident Evil Veronica Is Only In 3rd Person Perspective, Trailer Was Intended To Fool Players",
-      "url": "https://gameranx.com/updates/id/563012/article/resident-evil-veronica-is-only-in-3rd-person-perspective-trailer-was-intended-to-fool-players/",
+      "title": "News Turn-Based RPG Final Fantasy Resonance Is Not a Port or Remake of Shuttered Gacha Game",
+      "url": "https://www.pushsquare.com/news/2026/06/turn-based-rpg-final-fantasy-resonance-is-not-a-port-or-remake-of-shuttered-gacha-game",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Elden Ring Tarnished Edition Now Available For Pre-Order On Switch 2",
-      "url": "https://gameranx.com/updates/id/563010/article/elden-ring-tarnished-edition-now-available-for-pre-order-on-switch-2/",
+      "title": "Spyro: A Realm Beyond dev says the \"loud and consistent\" fans helped manifest the series' first new game in years",
+      "url": "https://www.gamesradar.com/games/platformer/spyro-a-realm-beyond-dev-says-the-loud-and-consistent-fans-who-bought-11-million-copies-of-the-reignited-trilogy-helped-manifest-the-series-first-new-game-in-years/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Gears of War: E-Day Is The Longest Game In The Franchise At 14 Hours",
-      "url": "https://gameranx.com/updates/id/563014/article/gears-of-war-e-day-is-the-longest-game-in-the-franchise-at-14-hours/",
+      "title": "Demand For Xbox Series X|S Worldwide Exceeds Supply – And Memory Is A Huge Reason Why",
+      "url": "https://gameranx.com/updates/id/563051/article/demand-for-xbox-series-xs-worldwide-exceeds-supply-and-memory-is-a-huge-reason-why/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "It’s Time To Admit Zelda: Ocarina Of Time’ s Water Temple Is Good, Actually",
-      "url": "https://kotaku.com/nintendo-fixed-zelda-ocarina-of-time-terrible-water-temple-2000705629",
+      "title": "Interview The Blood of Dawnwalker's modern-day twist promises an RPG \"saga\" with carried-over saves, devs say",
+      "url": "https://www.gamesradar.com/games/rpg/as-the-blood-of-dawnwalker-reveals-a-modern-day-twist-devs-confirm-our-choices-in-the-vampire-rpg-will-carry-into-a-saga-of-sequels/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Starfield Patch Promises to Fix Its Biggest Crashing Issue on PS5, Two Months After Launch",
-      "url": "https://www.pushsquare.com/news/2026/06/starfield-patch-promises-to-fix-its-biggest-crashing-issue-on-ps5-two-months-after-launch",
+      "title": "ESRB Rating For The Elder Scrolls IV: Oblivion Remastered Adds Nintendo Switch 2",
+      "url": "https://gameranx.com/updates/id/563049/article/esrb-rating-for-the-elder-scrolls-iv-oblivion-remastered-adds-nintendo-switch-2/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
