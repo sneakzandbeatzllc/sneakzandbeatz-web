@@ -6362,6 +6362,17 @@ input[type="email"]:focus, input[type="text"]:focus, textarea:focus {
 @keyframes roomheroCut{0%{opacity:0}2%{opacity:1}25%{opacity:1}27%{opacity:0}100%{opacity:0}}
 .roomhero-bg::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.78) 0%,rgba(0,0,0,.86) 55%,var(--bg) 100%)}
 @media (prefers-reduced-motion:reduce){.roomhero-bg img{animation:none}.roomhero-bg img:first-child{opacity:1}}
+
+/* Phase 2 — Shop×Channel zone hero (inner pages) */
+.zonehero{position:relative;overflow:hidden;padding:clamp(72px,11vw,140px) 0 clamp(56px,8vw,100px);border-bottom:1px solid var(--line)}
+.zonehero-bg{position:absolute;inset:0;z-index:0;pointer-events:none}
+.zonehero-bg img{width:100%;height:100%;object-fit:cover}
+.zonehero-bg::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.74) 0%,rgba(0,0,0,.85) 55%,var(--bg) 100%)}
+.zonehero>.container{position:relative;z-index:2}
+.zonehero-h1{font-size:clamp(46px,7.4vw,104px);color:var(--highlight);margin:12px 0 0;max-width:16ch}
+.zonehero-h1 em{font-style:normal;color:var(--accent)}
+.zonehero-sub{max-width:640px;margin:18px 0 0;color:var(--text-soft);font-size:18px}
+.zonehero .bundles-trust{margin-top:26px}
 .roomhero-h1{font-size:clamp(50px,8.4vw,118px);color:var(--highlight);margin:10px 0 0}
 .roomhero-h1 em{font-style:normal;color:var(--accent)}
 .roomhero-sub{max-width:600px;margin:20px 0 30px;color:var(--text-soft);font-size:19px}

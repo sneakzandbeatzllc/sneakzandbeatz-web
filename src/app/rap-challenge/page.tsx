@@ -167,11 +167,17 @@ export default function RapChallengePage() {
 
       <main className="rap-challenge">
         {/* HERO */}
-        <section className="rap-hero">
+        <section className="zonehero">
+          <div className="zonehero-bg" aria-hidden="true">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/photos/sb-studio-keys.jpg" alt="" loading="eager" />
+          </div>
           <div className="container">
-            <span className="rap-eyebrow">⚡ The $10K Rap Challenge · Waitlist Open</span>
-            <h1 className="rap-headline">
-              Submit a verse. <span className="accent">Win a $10K prize package.</span>
+            <span className="eyebrow">⚡ On air · The $10K Rap Challenge · Waitlist open</span>
+            <h1 className="display zonehero-h1">
+              Our beat. Your verse.
+              <br />
+              <em>the whole pack if you win.</em>
             </h1>
             <p className="rap-sub">
               <strong>$2,500 cash</strong> (Cash App / Zelle / check). <strong>PS5 Pro</strong>.{" "}

@@ -99,17 +99,21 @@ export default function BundlesPage() {
     <>
       <Header />
 
-      <section className="bundles-hero">
+      <section className="zonehero">
+        <div className="zonehero-bg" aria-hidden="true">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/photos/sb-producer-monitors.jpg" alt="" loading="eager" />
+        </div>
         <div className="container">
-          <span className="eyebrow">Beat Bundles · Limited Drop</span>
-          <h1 className="bundles-headline">
-            100 Mastered Beats. <span className="accent">One Year of Drops.</span>
+          <span className="eyebrow">The back room · The Vault · Limited drop</span>
+          <h1 className="display zonehero-h1">
+            One shelf.
             <br />
-            Pick Your Path.
+            <em>four ways to carry it out.</em>
           </h1>
-          <p className="lead bundles-lead">
-            Lease beats individually at $34.99 — or grab the whole catalog plus 6 months of new
-            drops for less than 3 leases. Math wins, every time.
+          <p className="zonehero-sub">
+            Leases run $34.99 each. The Vault is the whole catalog plus 6 months of new drops
+            for $79 — the math isn&rsquo;t close. Pick the tier that fits the project.
           </p>
           <div className="bundles-trust">
             <span className="bundles-trust-item">⚡ Instant download</span>

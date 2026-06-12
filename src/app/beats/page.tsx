@@ -50,21 +50,24 @@ export default function BeatsPage() {
       />
       <Header />
 
-      <section className="beat-store-hero">
+      <section className="zonehero">
+        <div className="zonehero-bg" aria-hidden="true">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/photos/sb-producer-monitors.jpg" alt="" loading="eager" />
+        </div>
         <div className="container">
           <span className="eyebrow">
-            Beat Store · {totalCount} mastered beats · {paidCount} for lease · {freeCount} free
+            The back room · Beat Lab · {totalCount} mastered beats · {paidCount} for lease · {freeCount} free
           </span>
-          <h1 className="beat-store-title">
-            Beats For
+          <h1 className="display zonehero-h1">
+            The beat wall.
             <br />
-            Artists Who
-            <br />
-            <span className="accent">Move Different.</span>
+            <em>take what fits.</em>
           </h1>
-          <p className="lead beat-store-lead">
-            All beats below are produced by Sneakz &amp; Beatz / S&amp;B. 60-second previews stream
-            inline. Lease beats are MP3 + WAV delivery. Free beats unlock with a Substack signup.
+          <p className="zonehero-sub">
+            Every beat on this wall came out of this room — produced, mixed, mastered in-house.
+            Previews stream inline. Leases ship MP3 + WAV. Free beats unlock with a Substack
+            signup.
           </p>
         </div>
       </section>
