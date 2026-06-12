@@ -23,7 +23,7 @@ export default function HipHopPage() {
       pillarNumber="02 / Pillar"
       pillarName="HIP-HOP · BEATZ"
       pillarTagline="The Sound. The Stories."
-      lead="Hip-hop is the operating system of culture in 2026. We cover the music — releases, scenes, beefs that actually mean something — and the production side: who's making the beats, why a sound takes off, what's next. Plus we drop our own beats. 100 mastered tracks live in the Beat Store right now."
+      lead="Hip-hop is the operating system of culture in 2026. We cover the music — releases, scenes, the records that move the culture — and the production side: who's making the beats, why a sound takes off, what's next. Plus we drop our own beats. 100 mastered tracks live in the Beat Store right now."
       covers={[
         {
           tag: "New Music",
