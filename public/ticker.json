@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-12T15:54:12+00:00",
+  "generated_utc": "2026-06-12T16:53:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "The Next Major Jujutsu Kaisen Release Lands Official Release Date",
+      "url": "https://screenrant.com/jujutsu-kaisen-modulo-english-release-date/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "9 Years Later, Crunchyroll's Solo Leveling Meets Death Note Anime Is Going Off The Rails In The Best Way",
       "url": "https://screenrant.com/classroom-elite-solo-leveling-meets-death-note-off-rails/",
       "pillar": "anime",
@@ -95,22 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "Spy x Family Announces Unexpected Hiatus Ahead Of Explosive Return",
-      "url": "https://screenrant.com/spy-x-family-announces-unexpected-hiatus-ahead-of-explosive-return/",
+      "title": "Re:Zero season 4 has to pull a Memento to find its lost charm",
+      "url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Jaadugar: A Witch in Mongolia Anime Casts Mongolian Sumo Wrestlers Tamawashi, Tamashoho",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-12/jaadugar-a-witch-in-mongolia-anime-casts-mongolian-sumo-wrestlers-tamawashi-tamashoho/.238452",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Victoria of Many Faces Anime's New Short Promo Video Highlights Victoria, Nonna",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-12/victoria-of-many-faces-anime-new-short-promo-video-highlights-victoria-nonna/.238451",
+      "title": "Sentenced to Be a Hero, 2026's Biggest Dark Fantasy, Finally Gets English Release",
+      "url": "https://screenrant.com/sentenced-to-be-a-hero-manga-english-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -118,13 +118,6 @@
     {
       "title": "News Out in Late October, Phantom Blade Zero Dev Doesn't Care How Close It Is to GTA 6",
       "url": "https://www.pushsquare.com/news/2026/06/out-in-late-october-phantom-blade-zero-dev-doesnt-care-how-close-it-is-to-gta-6",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Director Calls Watching Streamers A ‘Crisis’ For RPGs That Don’t Offer Enough Choice",
-      "url": "https://kotaku.com/final-fantasy-7-revelation-director-calls-watching-streamers-a-crisis-for-rpgs-that-dont-offer-enough-choice-2000705983",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -153,6 +146,13 @@
     {
       "title": "Demand For Xbox Series X|S Worldwide Exceeds Supply – And Memory Is A Huge Reason Why",
       "url": "https://gameranx.com/updates/id/563051/article/demand-for-xbox-series-xs-worldwide-exceeds-supply-and-memory-is-a-huge-reason-why/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "I Hate What Stranger Than Heaven Is Doing With Tupac But At Least They’re Being Honest About It",
+      "url": "https://kotaku.com/i-hate-what-stranger-than-heaven-is-doing-with-tupac-but-at-least-theyre-being-honest-about-it-2000705998",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
