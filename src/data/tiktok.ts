@@ -32,17 +32,22 @@ export type PinnedTikTok = {
  * embed pulls a heavy iframe).
  */
 export const PINNED_VIDEOS: PinnedTikTok[] = [
-  // Pulled from @SneakzandBeatzOfficial's 3 pinned videos
-  // (the user's signature shelf — rotate when they re-pin).
+  // One per pillar — sneakers leads (brand hierarchy), then hip-hop, anime, gaming.
   {
-    id: "7634635822251183374",
+    id: "7649481375103454477",
+    caption: "Kobe 4 “Draft Day” — pick your pair (6/26)",
   },
   {
-    id: "7635657877922811149",
+    id: "7648404370291215630",
+    caption: "Travis Scott feature on “OH CHET” — timeline woke up",
   },
   {
-    id: "7634286614184758541",
-    caption: "",
+    id: "7649111122636721422",
+    caption: "Offset × the Vegeta statue — hip-hop meets anime",
+  },
+  {
+    id: "7649451035647331598",
+    caption: "The Gjallarhorn scene still gives chills",
   },
 ];
 

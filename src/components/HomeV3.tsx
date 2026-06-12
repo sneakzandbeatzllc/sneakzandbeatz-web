@@ -423,7 +423,7 @@ export function GirlsZone() {
         </div>
         <div className="girlszone-ph">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/photos/sb-neon-street.jpg" alt="S&B Girls creator program" loading="lazy" />
+          <img src="/merch/girls-crop-pink-sb.jpg" alt="S&B Girls creator program — beats. crop hoodie" loading="lazy" />
         </div>
       </div>
     </section>
