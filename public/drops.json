@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-12T03:32:58+00:00",
+  "generated_utc": "2026-06-12T04:35:00+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -60,138 +96,6 @@
       "published": "2026-06-10T20:28:03",
       "relative_time": "today",
       "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e9ab4b8188cb",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
-      "thumbnail": "/drops/thumbs/e9ab4b8188cb.webp",
-      "published": "2026-06-10T18:51:19",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9117a67223d5",
-      "pillar": "sneakers",
-      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
-      "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
-      "published": "2026-06-09T15:29:21",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e146b07264a0",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Musik” Releases January 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
-      "published": "2026-06-09T15:29:01",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "04dbcb418141",
-      "pillar": "hiphop",
-      "title": "Blueface’s Music Checks Now Belong To Soulja Boy’s Baby Mama",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/bluefaces-music-checks-now-belong-to-soulja-boys-baby-mama/",
-      "thumbnail": "/drops/thumbs/04dbcb418141.png",
-      "published": "2026-06-11T23:02:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a9b1a1774e91",
-      "pillar": "hiphop",
-      "title": "Lil Wayne Court Victory Leaves Ex-Bodyguard With $29K Bill",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/lil-wayne-court-victory-leaves-ex-bodyguard-with-29k-bill/",
-      "thumbnail": "/drops/thumbs/a9b1a1774e91.jpg",
-      "published": "2026-06-11T22:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "af5b844af4ec",
-      "pillar": "hiphop",
-      "title": "Big Tigger Faces Police Investigation Over Wife’s Injuries",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/big-tigger-faces-police-investigation-over-wifes-injuries/",
-      "thumbnail": "/drops/thumbs/af5b844af4ec.jpg",
-      "published": "2026-06-11T21:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "92a1f363db01",
-      "pillar": "hiphop",
-      "title": "Man Accused Of Ordering Young Dolph Hit Busted For Threatening To Shoot Up Woman’s House",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/man-accused-of-ordering-young-dolph-hit-busted-for-threatening-to-shoot-up-womans-house/",
-      "thumbnail": "/drops/thumbs/92a1f363db01.jpg",
-      "published": "2026-06-11T20:18:03",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bb89718e16ac",
-      "pillar": "hiphop",
-      "title": "GoGo Morrow: Where Real R&B Still Bleeds",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/11/gogo-morrow-where-real-rb-still-bleeds/",
-      "thumbnail": "/drops/thumbs/bb89718e16ac.jpg",
-      "published": "2026-06-11T18:44:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b3431bd50687",
-      "pillar": "hiphop",
-      "title": "Did Nas & Wu-Tang Clan Power The Knicks To Record-Breaking Victory?",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/rumors/did-nas-wu-tang-clan-power-the-knicks-to-record-breaking-victory/",
-      "thumbnail": "/drops/thumbs/b3431bd50687.jpg",
-      "published": "2026-06-11T16:30:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6f106315a459",
-      "pillar": "hiphop",
-      "title": "Nike Brings Back the Air Force 1 Shape Sneaker Purists Have Been Asking For",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/06/11/nike-brings-back-the-air-force-1-shape-sneaker-purists-have-been-asking-for/",
-      "thumbnail": "/drops/thumbs/6f106315a459.jpg",
-      "published": "2026-06-11T15:12:45",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6c4b83a91b67",
-      "pillar": "hiphop",
-      "title": "A$AP Rocky Celebrated For Ghetto Sci-Fi At Tribeca Festival",
-      "source": "AllHipHop",
-      "source_url": "https://allhiphop.com/news/aap-rocky-celebrated-for-ghetto-sci-fi-at-tribeca-festival/",
-      "thumbnail": "/drops/thumbs/6c4b83a91b67.jpg",
-      "published": "2026-06-11T15:02:00",
-      "relative_time": "today",
-      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -388,11 +292,11 @@
     }
   ],
   "homepage": [
-    "8362d1bf79ba",
-    "04dbcb418141",
-    "6f835bbe3ddc",
+    "094b1500b6a8",
+    "43151d13faa3",
+    "69fe11c3a7e6",
     "39e3b0382765",
-    "993ac8a3c27d",
+    "8362d1bf79ba",
     "15e1fc953021"
   ]
 }
