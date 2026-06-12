@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-12T18:01:20+00:00",
+  "generated_utc": "2026-06-12T18:33:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "The Call Of Duty Of It All",
+      "url": "https://kotaku.com/the-call-of-duty-of-it-all-2000706006",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Spyro: A Realm Beyond dev says the \"loud and consistent\" fans helped manifest the series' first new game in years",
       "url": "https://www.gamesradar.com/games/platformer/spyro-a-realm-beyond-dev-says-the-loud-and-consistent-fans-who-bought-11-million-copies-of-the-reignited-trilogy-helped-manifest-the-series-first-new-game-in-years/",
       "pillar": "gaming",
@@ -146,13 +153,6 @@
     {
       "title": "Demand For Xbox Series X|S Worldwide Exceeds Supply – And Memory Is A Huge Reason Why",
       "url": "https://gameranx.com/updates/id/563051/article/demand-for-xbox-series-xs-worldwide-exceeds-supply-and-memory-is-a-huge-reason-why/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "I Hate What Stranger Than Heaven Is Doing With Tupac But At Least They’re Being Honest About It",
-      "url": "https://kotaku.com/i-hate-what-stranger-than-heaven-is-doing-with-tupac-but-at-least-theyre-being-honest-about-it-2000705998",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
