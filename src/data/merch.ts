@@ -117,6 +117,7 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
       ["bred", "all-black", "all-white", "cool-grey"].includes(c.slug)
     ),
     status: "preorder",
+    imagePath: "/merch/hat-black-dad.jpg",
   },
   {
     slug: "sb-shorts",

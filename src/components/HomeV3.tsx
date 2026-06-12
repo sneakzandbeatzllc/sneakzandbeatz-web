@@ -116,6 +116,17 @@ const ZONES = [
 export function RoomHero() {
   return (
     <section className="roomhero">
+      <div className="roomhero-bg" aria-hidden="true">
+        {[
+          "/photos/pillars/sneakers.webp",
+          "/photos/pillars/hiphop.jpg",
+          "/photos/pillars/anime.png",
+          "/photos/pillars/gaming.webp",
+        ].map((src) => (
+          /* eslint-disable-next-line @next/next/no-img-element */
+          <img key={src} src={src} alt="" loading="eager" />
+        ))}
+      </div>
       <div className="container">
         <span className="eyebrow">One shop · One customer · Your whole world</span>
         <h1 className="display roomhero-h1">
@@ -253,7 +264,7 @@ export function TheFeedV3() {
           ))}
           <Link className="feedv3-card c-sm feedv3-house" href="/rap-challenge">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/photos/sb-pathway-black-sneakers.jpg" alt="" loading="lazy" />
+            <img src="/photos/sb-studio-keys.jpg" alt="" loading="lazy" />
             <span className="feedv3-in">
               <small>Challenge</small>
               <h3>$10K Rap Challenge — waitlist heating up</h3>
@@ -318,7 +329,9 @@ export function MerchZone() {
     month: "long",
     day: "numeric",
   });
-  const products = MERCH_PRODUCTS.filter((p) => p.status !== "draft").slice(0, 4);
+  const products = MERCH_PRODUCTS.filter(
+    (p) => p.status !== "draft" && p.imagePath
+  ).slice(0, 4);
   return (
     <section className="merchzone">
       <div className="container">

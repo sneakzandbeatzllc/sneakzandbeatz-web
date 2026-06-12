@@ -6353,7 +6353,15 @@ input[type="email"]:focus, input[type="text"]:focus, textarea:focus {
 /* Room hero */
 .roomhero{padding:clamp(56px,8vw,100px) 0 0;position:relative;overflow:hidden}
 .roomhero::before{content:"";position:absolute;inset:-30% -10% auto;height:70%;background:radial-gradient(55% 60% at 50% 0%,rgba(200,38,44,.14),transparent 70%);pointer-events:none}
-.roomhero>.container{position:relative}
+.roomhero>.container{position:relative;z-index:2}
+.roomhero-bg{position:absolute;inset:0;z-index:0;overflow:hidden;pointer-events:none}
+.roomhero-bg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;animation:roomheroCut 10s linear infinite;will-change:opacity}
+.roomhero-bg img:nth-child(2){animation-delay:2.5s}
+.roomhero-bg img:nth-child(3){animation-delay:5s}
+.roomhero-bg img:nth-child(4){animation-delay:7.5s}
+@keyframes roomheroCut{0%{opacity:0}2%{opacity:1}25%{opacity:1}27%{opacity:0}100%{opacity:0}}
+.roomhero-bg::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.78) 0%,rgba(0,0,0,.86) 55%,var(--bg) 100%)}
+@media (prefers-reduced-motion:reduce){.roomhero-bg img{animation:none}.roomhero-bg img:first-child{opacity:1}}
 .roomhero-h1{font-size:clamp(50px,8.4vw,118px);color:var(--highlight);margin:10px 0 0}
 .roomhero-h1 em{font-style:normal;color:var(--accent)}
 .roomhero-sub{max-width:600px;margin:20px 0 30px;color:var(--text-soft);font-size:19px}
@@ -6415,7 +6423,7 @@ input[type="email"]:focus, input[type="text"]:focus, textarea:focus {
 .merchzone-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:38px}
 .merchzone-card{background:linear-gradient(var(--cream-tint),var(--cream-tint)),var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:0 0 20px;text-align:center;transition:transform .35s var(--ease),box-shadow .35s var(--ease);display:block}
 .merchzone-card:hover{transform:translateY(-5px);box-shadow:var(--shadow)}
-.merchzone-ph{height:170px;border-radius:var(--radius) var(--radius) 0 0;background:radial-gradient(80% 90% at 50% 20%,#1a1a1a,#0e0e0e);display:grid;place-items:center;border-bottom:1px solid var(--line)}
+.merchzone-ph{aspect-ratio:1/1;overflow:hidden;border-radius:var(--radius) var(--radius) 0 0;background:radial-gradient(80% 90% at 50% 20%,#1a1a1a,#0e0e0e);display:grid;place-items:center;border-bottom:1px solid var(--line)}
 .merchzone-ph span{font-size:34px;color:var(--highlight);letter-spacing:.06em;text-transform:uppercase}
 .merchzone-card h3{font-size:15.5px;font-weight:800;color:var(--highlight);margin:16px 0 2px}
 .merchzone-pr{font-size:26px;color:var(--accent);margin-top:6px}
