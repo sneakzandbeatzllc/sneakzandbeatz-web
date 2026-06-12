@@ -1,7 +1,43 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-12T17:27:30+00:00",
+  "generated_utc": "2026-06-12T17:56:50+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "8362d1bf79ba",
       "pillar": "sneakers",
@@ -63,39 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "e9ab4b8188cb",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
-      "thumbnail": "/drops/thumbs/e9ab4b8188cb.webp",
-      "published": "2026-06-10T18:51:19",
+      "id": "0bd599b97230",
+      "pillar": "anime",
+      "title": "Viz Media to Release Jujutsu Kaisen Modulo , Detective Conan , Slam Dunk Deluxe Edition , Junji Ito: Dissection , More Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-12/viz-media-to-release-jujutsu-kaisen-modulo-detective-conan-slam-dunk-deluxe-edition-junji-ito-/.238454",
+      "thumbnail": "/drops/thumbs/0bd599b97230.jpg",
+      "published": "",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9117a67223d5",
-      "pillar": "sneakers",
-      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
-      "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
-      "published": "2026-06-09T15:29:21",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e146b07264a0",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Musik” Releases January 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
-      "published": "2026-06-09T15:29:01",
-      "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -171,24 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "389305acae3e",
+      "id": "e83b70de6ed5",
       "pillar": "anime",
-      "title": "Re:Zero season 4 has to pull a Memento to find its lost charm",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
-      "thumbnail": "/drops/thumbs/389305acae3e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e0afc98027aa",
-      "pillar": "anime",
-      "title": "Sentenced to Be a Hero, 2026's Biggest Dark Fantasy, Finally Gets English Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/sentenced-to-be-a-hero-manga-english-release/",
-      "thumbnail": "/drops/thumbs/e0afc98027aa.png",
+      "title": "Yen Press Licenses Witches Can't Be Collared , 'Alma-chan Wants to Be a Family!' , Yamada's Class Diary , More Manga/Novels",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-12/yen-press-licenses-witches-cant-be-collared-alma-chan-wants-to-be-a-family-yamada-class-diary-more-/.238455",
+      "thumbnail": "/drops/thumbs/e83b70de6ed5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "094b1500b6a8",
+    "43151d13faa3",
+    "69fe11c3a7e6",
+    "0bd599b97230",
     "8362d1bf79ba",
-    "6f835bbe3ddc",
-    "993ac8a3c27d",
-    "1f764befbdf0",
-    "a4894ba291c2",
     "07087d3b73e0"
   ]
 }
