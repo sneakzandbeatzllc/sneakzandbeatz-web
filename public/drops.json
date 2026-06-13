@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-12T23:04:14+00:00",
+  "generated_utc": "2026-06-13T00:03:30+00:00",
   "items": [
-    {
-      "id": "094b1500b6a8",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-09T10:51:24",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "15fa64d17ff5",
       "pillar": "sneakers",
@@ -34,30 +22,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
       "thumbnail": "/drops/thumbs/8362d1bf79ba.jpg",
       "published": "2026-06-06T22:42:50",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "779db71fc001",
-      "pillar": "sneakers",
-      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
-      "published": "2026-06-06T16:07:15",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "a3e23bbf57cc",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
-      "thumbnail": "/drops/thumbs/a3e23bbf57cc.jpg",
-      "published": "2026-06-05T17:50:18",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -94,6 +58,42 @@
       "source_url": "https://justfreshkicks.com/air-jordan-4-comic-io2362-100/",
       "thumbnail": "/drops/thumbs/a4894ba291c2.webp",
       "published": "2026-06-11T13:59:34",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ed9bd14cfe51",
+      "pillar": "sneakers",
+      "title": "Slam Jam to Release a Pair of Air Jordan 8 Styles in 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/slam-jam-air-jordan-8-pack/",
+      "thumbnail": "/drops/thumbs/ed9bd14cfe51.webp",
+      "published": "2026-06-10T20:28:03",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e9ab4b8188cb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
+      "thumbnail": "/drops/thumbs/e9ab4b8188cb.webp",
+      "published": "2026-06-10T18:51:19",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9117a67223d5",
+      "pillar": "sneakers",
+      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
+      "published": "2026-06-09T15:29:21",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -159,18 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "362c8bcd8390",
-      "pillar": "anime",
-      "title": "Black Clover Season 2 Confirms Release Window With Major Update",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-season-2-release-window/",
-      "thumbnail": "/drops/thumbs/362c8bcd8390.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "641b6ac494ad",
       "pillar": "anime",
       "title": "North American Anime, Manga Releases, June 7-13",
@@ -189,6 +177,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
       "thumbnail": "/drops/thumbs/389305acae3e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1f33c11a5c54",
+      "pillar": "anime",
+      "title": "Scholastic's Graphix to Release Yusuke Saitoh's Chuck and the Girl Manga in English",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-12/scholastic-graphix-to-release-yusuke-saitoh-chuck-and-the-girl-manga-in-english/.238457",
+      "thumbnail": "/drops/thumbs/1f33c11a5c54.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "094b1500b6a8",
     "15fa64d17ff5",
     "8362d1bf79ba",
+    "6f835bbe3ddc",
     "0bd599b97230",
-    "779db71fc001",
+    "993ac8a3c27d",
     "b3b2fcbd1187"
   ]
 }
