@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-13T22:21:15+00:00",
+  "generated_utc": "2026-06-13T23:19:32+00:00",
   "items": [
     {
       "id": "15fa64d17ff5",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4717d822dd98",
+      "pillar": "anime",
+      "title": "Demon Slayer: Infinity Castle Part 2's Release Date May Get First Update This Summer",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-release-date-not-2026/",
+      "thumbnail": "/drops/thumbs/4717d822dd98.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e87978635dd6",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Season 4 Is Going To Finally Reveal Sukuna's Strongest Form Ever",
@@ -129,18 +141,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/saddest-one-piece-moments-greatest-anime/",
       "thumbnail": "/drops/thumbs/2e0863ef2b72.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0e7198b550bb",
-      "pillar": "anime",
-      "title": "My Hero Academia's Creator Officially Recommends Shonen Jump's Brand-New Mega Hit",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/my-hero-academia-creator-under-doctor-shonen-jump-hit/",
-      "thumbnail": "/drops/thumbs/0e7198b550bb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "7964a7288f8b",
+      "id": "6ec1325e6ce6",
       "pillar": "gaming",
-      "title": "Feature 'We Wanted to Avoid Pretending the Industry Is Perfect': How K-pop Idol Stories Is Delivering the Ultimate PS5 Fantasy for K-pop Fans",
+      "title": "News Atelier Karia Makes Eating a Gameplay Mechanic on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/we-wanted-to-avoid-pretending-the-industry-is-perfect-how-k-pop-idol-stories-is-delivering-the-ultimate-ps5-fantasy-for-k-pop-fans",
-      "thumbnail": "/drops/thumbs/7964a7288f8b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/atelier-karia-makes-eating-a-gameplay-mechanic-on-ps5",
+      "thumbnail": "/drops/thumbs/6ec1325e6ce6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "15fa64d17ff5",
     "8362d1bf79ba",
     "6f835bbe3ddc",
-    "e87978635dd6",
+    "4717d822dd98",
     "993ac8a3c27d",
     "271e450515b0"
   ]
