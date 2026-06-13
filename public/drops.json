@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-13T06:28:33+00:00",
+  "generated_utc": "2026-06-13T07:00:33+00:00",
   "items": [
+    {
+      "id": "094b1500b6a8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
+      "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "15fa64d17ff5",
       "pillar": "sneakers",
@@ -9,6 +21,30 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-bloodline-553558-076/",
       "thumbnail": "/drops/thumbs/15fa64d17ff5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "43151d13faa3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "thumbnail": "/drops/thumbs/43151d13faa3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
       "published": "",
       "relative_time": "today",
       "score": 5.0,
@@ -58,42 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-4-comic-io2362-100/",
       "thumbnail": "/drops/thumbs/a4894ba291c2.webp",
       "published": "2026-06-11T13:59:34",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ed9bd14cfe51",
-      "pillar": "sneakers",
-      "title": "Slam Jam to Release a Pair of Air Jordan 8 Styles in 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/slam-jam-air-jordan-8-pack/",
-      "thumbnail": "/drops/thumbs/ed9bd14cfe51.webp",
-      "published": "2026-06-10T20:28:03",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e9ab4b8188cb",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
-      "thumbnail": "/drops/thumbs/e9ab4b8188cb.webp",
-      "published": "2026-06-10T18:51:19",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9117a67223d5",
-      "pillar": "sneakers",
-      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
-      "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
-      "published": "2026-06-09T15:29:21",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "094b1500b6a8",
     "15fa64d17ff5",
-    "8362d1bf79ba",
-    "6f835bbe3ddc",
+    "43151d13faa3",
     "993b7c9681ee",
-    "993ac8a3c27d",
+    "69fe11c3a7e6",
     "13af2f828d15"
   ]
 }
