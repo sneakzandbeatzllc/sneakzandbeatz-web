@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-13T13:09:58+00:00",
+  "generated_utc": "2026-06-13T14:09:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,13 +74,6 @@
       "article_slug": null
     },
     {
-      "title": "The Next Major Jujutsu Kaisen Release Lands Official Release Date",
-      "url": "https://screenrant.com/jujutsu-kaisen-modulo-english-release-date/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Berserk returns with a chapter Kentaro Miura spent 20 years trying to get right",
       "url": "https://www.polygon.com/berserk-new-chapter-384-kentaro-miura-20-years/",
       "pillar": "anime",
@@ -90,6 +83,13 @@
     {
       "title": "Re:Zero season 4 has to pull a Memento to find its lost charm",
       "url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hello Kitty Unveils The Adorably Unofficial Mario Party Successor Fans Need",
+      "url": "https://screenrant.com/hello-kitty-party-land-mario-party-successor/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Guide These 7+ PS5 and PS Plus Games Are Coming Out Next Week (15th-21st June)",
-      "url": "https://www.pushsquare.com/guides/these-7plus-ps5-and-ps-plus-games-are-coming-out-next-week-15th-21st-june",
+      "title": "Game of the Month 007 First Light (May 2026)",
+      "url": "https://www.pushsquare.com/features/game-of-the-month-007-first-light-may-2026",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

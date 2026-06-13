@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-13T13:09:58+00:00",
+  "generated_utc": "2026-06-13T14:09:41+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -9,7 +9,7 @@
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
       "thumbnail": "/drops/thumbs/094b1500b6a8.jpg",
-      "published": "2026-06-09T10:51:24",
+      "published": "2026-06-12T10:51:24",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -123,18 +123,6 @@
       "release_badge": ""
     },
     {
-      "id": "1f764befbdf0",
-      "pillar": "anime",
-      "title": "The Next Major Jujutsu Kaisen Release Lands Official Release Date",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-modulo-english-release-date/",
-      "thumbnail": "/drops/thumbs/1f764befbdf0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f474f14a9025",
       "pillar": "anime",
       "title": "Berserk returns with a chapter Kentaro Miura spent 20 years trying to get right",
@@ -153,6 +141,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
       "thumbnail": "/drops/thumbs/389305acae3e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b027455d2909",
+      "pillar": "anime",
+      "title": "Hello Kitty Unveils The Adorably Unofficial Mario Party Successor Fans Need",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/hello-kitty-party-land-mario-party-successor/",
+      "thumbnail": "/drops/thumbs/b027455d2909.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "8b1829004ad1",
+      "id": "88540f1916b6",
       "pillar": "gaming",
-      "title": "Guide These 7+ PS5 and PS Plus Games Are Coming Out Next Week (15th-21st June)",
+      "title": "Game of the Month 007 First Light (May 2026)",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/these-7plus-ps5-and-ps-plus-games-are-coming-out-next-week-15th-21st-june",
-      "thumbnail": "/drops/thumbs/8b1829004ad1.jpg",
+      "source_url": "https://www.pushsquare.com/features/game-of-the-month-007-first-light-may-2026",
+      "thumbnail": "/drops/thumbs/88540f1916b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
