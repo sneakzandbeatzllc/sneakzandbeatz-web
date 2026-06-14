@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-14T13:31:22+00:00",
+  "generated_utc": "2026-06-14T14:23:38+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "K Manga Adds Onijoroku's Twisted Devotion Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-14/k-manga-adds-onijoroku-twisted-devotion-manga/.238469",
+      "title": "Kickstarter to Launch for Princess Ai Manga's 20th Anniversary Collection",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-14/kickstarter-to-launch-for-princess-ai-manga-20th-anniversary-collection/.238468",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Manga Up! Global Adds Venus in December , Paranormal Agent Adashino Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-14/manga-up-global-adds-venus-in-december-paranormal-agent-adashino-manga/.238476",
+      "title": "K Manga Adds Onijoroku's Twisted Devotion Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-14/k-manga-adds-onijoroku-twisted-devotion-manga/.238469",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -123,15 +123,8 @@
       "article_slug": null
     },
     {
-      "title": "Shareholders Are Trying To Bully Elden Ring Maker FromSoftware Into Divorcing Bandai Namco",
-      "url": "https://kotaku.com/activist-investors-elden-ring-developer-fromsoftware-2000706037",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Xbox CEO Reportedly Wants To Speed Up Release Of Next Halo And Fallout Games, But Spinning Off The Business Entirely Isn’t Completely Off The Table",
-      "url": "https://kotaku.com/xbox-ceo-reportedly-wants-to-speed-up-release-of-new-halo-and-fallout-games-but-spinning-off-the-business-entirely-isnt-completely-off-the-table-2000706047",
+      "title": "Capcom’s President Explains The Secret Behind The Resident Evil Maker’s Recent Winning Streak",
+      "url": "https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "ESRB Rating For The Elder Scrolls IV: Oblivion Remastered Adds Nintendo Switch 2",
       "url": "https://gameranx.com/updates/id/563049/article/esrb-rating-for-the-elder-scrolls-iv-oblivion-remastered-adds-nintendo-switch-2/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Firefighters Investigating Explosion Caused By Meta Quest 3 In Maine Home",
+      "url": "https://kotaku.com/maine-firefighters-investigating-explosion-caused-by-meta-quest-3-2000706237",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
