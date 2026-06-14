@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-14T14:32:01+00:00",
+  "generated_utc": "2026-06-14T15:24:19+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -111,18 +111,6 @@
       "release_badge": ""
     },
     {
-      "id": "9578c8f24cf9",
-      "pillar": "anime",
-      "title": "Dragon Ball's Next Anime Can Fix The Entire Franchise's Timeline With One Move",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-remake-fix-timeline-saiyan-4/",
-      "thumbnail": "/drops/thumbs/9578c8f24cf9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e30da14cda83",
       "pillar": "anime",
       "title": "Tokyo Revengers: War of the Three Titans Arc's 3rd Trailer Reveals October 2 Debut",
@@ -159,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "ab5247e11d0c",
+      "id": "81dcb26434fa",
       "pillar": "anime",
-      "title": "Kickstarter to Launch for Princess Ai Manga's 20th Anniversary Collection",
+      "title": "Kikori Morino's Shōkan Skill wo Keishōshita node Kiwamete Miyō to Omoimasu! Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-14/kickstarter-to-launch-for-princess-ai-manga-20th-anniversary-collection/.238468",
-      "thumbnail": "/drops/thumbs/ab5247e11d0c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-14/kikori-morino-shokan-skill-wo-keishoshita-node-kiwamete-miyo-to-omoimasu-manga-ends/.237788",
+      "thumbnail": "/drops/thumbs/81dcb26434fa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,24 +171,36 @@
       "release_badge": ""
     },
     {
-      "id": "ef5fa6008f16",
+      "id": "ab5247e11d0c",
       "pillar": "anime",
-      "title": "K Manga Adds Onijoroku's Twisted Devotion Manga",
+      "title": "Kickstarter to Launch for Princess Ai Manga's 20th Anniversary Collection",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-14/k-manga-adds-onijoroku-twisted-devotion-manga/.238469",
-      "thumbnail": "/drops/thumbs/ef5fa6008f16.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-14/kickstarter-to-launch-for-princess-ai-manga-20th-anniversary-collection/.238468",
+      "thumbnail": "/drops/thumbs/ab5247e11d0c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "271e450515b0",
+      "id": "0afad9a20c46",
+      "pillar": "anime",
+      "title": "Yu-Gi-Oh! Already Perfected The Anime Reboot 26 Years Ago, And Nobody Noticed",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/yugioh-anime-reboot-amazing/",
+      "thumbnail": "/drops/thumbs/0afad9a20c46.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8734a2caf087",
       "pillar": "gaming",
-      "title": "Feature Going Platinum: Ratchet & Clank: Rift Apart Is Still One of PS5's Best-Looking Games",
+      "title": "Opinion PS Plus Users, You Should Play Final Fantasy 16 (But Only If You Play It Like This)",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/going-platinum-ratchet-and-clank-rift-apart-is-still-one-of-ps5s-best-looking-games",
-      "thumbnail": "/drops/thumbs/271e450515b0.jpg",
+      "source_url": "https://www.pushsquare.com/features/opinion-ps-plus-users-you-should-play-final-fantasy-16-but-only-if-you-play-it-like-this",
+      "thumbnail": "/drops/thumbs/8734a2caf087.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "48208ee67e37",
+      "id": "a29b2c52181f",
       "pillar": "gaming",
-      "title": "News PS5 Controller's Best Features Are Finally Working Over Bluetooth on PC",
+      "title": "News Xbox Wants Faster Fallout, Elder Scrolls Games to Bolster Business",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-controllers-best-features-are-finally-working-over-bluetooth-on-pc",
-      "thumbnail": "/drops/thumbs/48208ee67e37.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/xbox-wants-faster-fallout-elder-scrolls-games-to-bolster-business",
+      "thumbnail": "/drops/thumbs/a29b2c52181f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "8362d1bf79ba",
     "08c1420cd2ae",
     "779db71fc001",
-    "271e450515b0"
+    "8734a2caf087"
   ]
 }
