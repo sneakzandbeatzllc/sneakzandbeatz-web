@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-14T20:35:37+00:00",
+  "generated_utc": "2026-06-14T22:36:31+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b23435114837",
+      "pillar": "anime",
+      "title": "All 11 Titan Types In Attack On Titan Explained",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/attack-titan-types-versions-explained/",
+      "thumbnail": "/drops/thumbs/b23435114837.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f14badf7b205",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Season 4 Is Going To Introduce Sukuna's God-Tier Opposite",
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "54bc443d6c58",
-      "pillar": "anime",
-      "title": "10 New-Gen Mangaka Fit To Be The Next Akira Toriyama",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/new-gen-mangaka-next-akira-toriyama/",
-      "thumbnail": "/drops/thumbs/54bc443d6c58.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "81dcb26434fa",
       "pillar": "anime",
       "title": "Kikori Morino's Shōkan Skill wo Keishōshita node Kiwamete Miyō to Omoimasu! Manga Ends",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "57295c7321e2",
+      "id": "54bc443d6c58",
       "pillar": "anime",
-      "title": "Sorry Shonen Anime Fans, But There's No Anime Too \"Dark\" For Kids",
+      "title": "10 New-Gen Mangaka Fit To Be The Next Akira Toriyama",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dark-shonen-anime-labels-stop/",
-      "thumbnail": "/drops/thumbs/57295c7321e2.jpg",
+      "source_url": "https://screenrant.com/new-gen-mangaka-next-akira-toriyama/",
+      "thumbnail": "/drops/thumbs/54bc443d6c58.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "094b1500b6a8",
     "15fa64d17ff5",
     "8362d1bf79ba",
-    "f14badf7b205",
+    "b23435114837",
     "779db71fc001",
     "8734a2caf087"
   ]
