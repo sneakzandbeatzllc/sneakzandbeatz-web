@@ -1,32 +1,11 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-14T01:25:13+00:00",
+  "generated_utc": "2026-06-14T02:26:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 3 \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 1 Low Joins The “Bloodline” Family",
       "url": "https://sneakerbardetroit.com/air-jordan-1-low-bloodline-553558-076/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 8 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -60,15 +39,36 @@
       "article_slug": null
     },
     {
-      "title": "Solo Leveling's Biggest Anime Rival, Tomb Raider King, Just Dropped A New Trailer",
-      "url": "https://screenrant.com/tomb-raider-king-trailer-solo-leveling-anime-rival/",
+      "title": "Slam Jam to Release a Pair of Air Jordan 8 Styles in 2027",
+      "url": "https://justfreshkicks.com/slam-jam-air-jordan-8-pack/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
+      "url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dragon Ball's Next Anime Can Fix The Entire Franchise's Timeline With One Move",
+      "url": "https://screenrant.com/dragon-ball-super-remake-fix-timeline-saiyan-4/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Demon Slayer: Infinity Castle Part 2's Release Date May Get First Update This Summer",
-      "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-release-date-not-2026/",
+      "title": "Solo Leveling's Biggest Anime Rival, Tomb Raider King, Just Dropped A New Trailer",
+      "url": "https://screenrant.com/tomb-raider-king-trailer-solo-leveling-anime-rival/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
