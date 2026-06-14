@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-14T03:29:30+00:00",
+  "generated_utc": "2026-06-14T04:01:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 1 Low Joins The “Bloodline” Family",
       "url": "https://sneakerbardetroit.com/air-jordan-1-low-bloodline-553558-076/",
@@ -20,20 +13,6 @@
     {
       "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Pine Green” June 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-low-og-pine-green-ir2283-030/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -60,6 +39,27 @@
       "article_slug": null
     },
     {
+      "title": "Slam Jam to Release a Pair of Air Jordan 8 Styles in 2027",
+      "url": "https://justfreshkicks.com/slam-jam-air-jordan-8-pack/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
+      "url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Dragon Ball's Next Anime Can Fix The Entire Franchise's Timeline With One Move",
       "url": "https://screenrant.com/dragon-ball-super-remake-fix-timeline-saiyan-4/",
       "pillar": "anime",
@@ -81,15 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "Berserk Drops Major Guts Reveal 40 Years In The Making, And It Changes Everything",
-      "url": "https://screenrant.com/berserk-major-guts-lore-reveal/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Crunchyroll's Witch Hat Atelier Isn't The Frieren Replacement Fans Think It Is",
-      "url": "https://screenrant.com/witch-hat-atelier-not-frieren-replacement-crunchyroll-fantasy/",
+      "title": "New Berserk Chapter Breaks A 4 Year Tradition, And It's The Start Of A New Era",
+      "url": "https://screenrant.com/berserk-chapter-385-tradition-broken-new-era/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -111,6 +104,13 @@
     {
       "title": "Re:Zero season 4 has to pull a Memento to find its lost charm",
       "url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Grow Up Show: Himawari no Circus-dan Anime's Ads Reveal Theme Song Artists, July 4 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-13/grow-up-show-himawari-no-circus-dan-anime-ads-reveal-theme-song-artists-july-4-debut/.238477",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
