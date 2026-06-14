@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-14T16:33:20+00:00",
+  "generated_utc": "2026-06-14T17:34:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "New Berserk Chapter Breaks A 4 Year Tradition, And It's The Start Of A New Era",
-      "url": "https://screenrant.com/berserk-chapter-385-tradition-broken-new-era/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Japanese Animation TV Ranking, June 1-7",
       "url": "https://www.animenewsnetwork.com/news/2026-06-14/japanese-animation-tv-ranking-june-1-7/.238494",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Re:Zero season 4 has to pull a Memento to find its lost charm",
       "url": "https://www.polygon.com/re-zero-season-4-subaru-memory-loss-memento/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Godzilla Meets Classic Romance In Gloriously Weird New Anime That Already Looks Epic",
+      "url": "https://screenrant.com/kaiju-girl-carmelise-godzilla-kaiju-romance/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
