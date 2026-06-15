@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T17:50:09+00:00",
+  "generated_utc": "2026-06-15T18:21:37+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -123,6 +123,18 @@
       "release_badge": ""
     },
     {
+      "id": "dba3ca8756c0",
+      "pillar": "anime",
+      "title": "Black Clover Just Shadow Dropped Its Next Major Release, And It's Essential Viewing",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-clover-recap-essential-season-2-october/",
+      "thumbnail": "/drops/thumbs/dba3ca8756c0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6c95896d33e3",
       "pillar": "anime",
       "title": "HIDIVE to Stream I'm Dating a Dark Summoner Anime",
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "ec2eb4814e5d",
-      "pillar": "anime",
-      "title": "33 Years Later, Ninja Scroll Finally Returns With New Theatrical Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/ninja-scroll-new-theatrical-release/",
-      "thumbnail": "/drops/thumbs/ec2eb4814e5d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d512010facab",
       "pillar": "anime",
       "title": "School of Horns' Mito Aoi Launches New Manga",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "6de1572714d7",
+      "id": "ec2eb4814e5d",
       "pillar": "anime",
-      "title": "25 Years Later, The Objective Best Digimon Series Is Officially Returning",
+      "title": "33 Years Later, Ninja Scroll Finally Returns With New Theatrical Release",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/digimon-tamers-rerelease-hd/",
-      "thumbnail": "/drops/thumbs/6de1572714d7.png",
+      "source_url": "https://screenrant.com/ninja-scroll-new-theatrical-release/",
+      "thumbnail": "/drops/thumbs/ec2eb4814e5d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "3646b107a075",
+      "id": "6d7cda21840a",
       "pillar": "gaming",
-      "title": "News South of Midnight Maker Said to Be Shuttered by Xbox",
+      "title": "Site News Oh, Hi Everyone! Did You Notice Anything Different Here Recently?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/south-of-midnight-maker-said-to-be-shuttered-by-xbox",
-      "thumbnail": "/drops/thumbs/3646b107a075.jpg",
+      "source_url": "https://www.pushsquare.com/features/site-news-oh-hi-everyone-did-you-notice-anything-different-here-recently",
+      "thumbnail": "/drops/thumbs/6d7cda21840a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "36b85c070cfd",
+      "id": "6d17c83038ba",
       "pillar": "gaming",
-      "title": "Fans Find Hidden Info On Zelda: Ocarina Of Time Remake, Nintendo Promptly Deletes It",
+      "title": "Pokémon Theme Song Singer Denies Scamming Kids Out Of Valuable Cards And Does ‘Gengar Dance’ In AI Diss Track Music Video",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626",
-      "thumbnail": "/drops/thumbs/36b85c070cfd.jpg",
+      "source_url": "https://kotaku.com/jason-paige-pokemon-song-gengar-card-ripoff-controversy-2000706689",
+      "thumbnail": "/drops/thumbs/6d17c83038ba.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
