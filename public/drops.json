@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T19:40:57+00:00",
+  "generated_utc": "2026-06-15T19:51:05+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -255,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "b11c367d5ca3",
+      "pillar": "gaming",
+      "title": "Call Of Duty Studio Treyarch Is Losing Its Studio Head Of Nearly A Decade",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
+      "thumbnail": "/drops/thumbs/b11c367d5ca3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6d7cda21840a",
       "pillar": "gaming",
       "title": "Site News Oh, Hi Everyone! Did You Notice Anything Different Here Recently?",
@@ -273,18 +285,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-and-red-dead-redemption-2-writer-dan-houser-says-the-most-fun-thing-about-the-game-isnt-any-rubbish-we-write-its-the-systems-that-we-make/",
       "thumbnail": "/drops/thumbs/a574706302af.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7237da29f042",
-      "pillar": "gaming",
-      "title": "Exploring Steam Next Fest With An AI-Blocking Extension Is Very Depressing",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
-      "thumbnail": "/drops/thumbs/7237da29f042.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

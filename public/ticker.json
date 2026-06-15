@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T19:40:57+00:00",
+  "generated_utc": "2026-06-15T19:51:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "Call Of Duty Studio Treyarch Is Losing Its Studio Head Of Nearly A Decade",
+      "url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Site News Oh, Hi Everyone! Did You Notice Anything Different Here Recently?",
       "url": "https://www.pushsquare.com/features/site-news-oh-hi-everyone-did-you-notice-anything-different-here-recently",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "GTA 5 and Red Dead Redemption 2 lead says \"the most fun thing\" in any Rockstar game is \"the systems that we make\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-and-red-dead-redemption-2-writer-dan-houser-says-the-most-fun-thing-about-the-game-isnt-any-rubbish-we-write-its-the-systems-that-we-make/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Exploring Steam Next Fest With An AI-Blocking Extension Is Very Depressing",
-      "url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
