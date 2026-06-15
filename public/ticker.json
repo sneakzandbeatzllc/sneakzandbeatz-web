@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T15:18:06+00:00",
+  "generated_utc": "2026-06-15T15:35:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,15 +74,15 @@
       "article_slug": null
     },
     {
-      "title": "Black Clover Anime Season 2 Unveils Director, October TV Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-14/black-clover-anime-season-2-unveils-director-october-tv-debut/.238515",
+      "title": "11 anime to watch if you like Frieren",
+      "url": "https://www.polygon.com/best-anime-like-frieren/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "11 anime to watch if you like Frieren",
-      "url": "https://www.polygon.com/best-anime-like-frieren/",
+      "title": "School of Horns' Mito Aoi Launches New Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-15/school-of-horns-mito-aoi-launches-new-manga/.238512",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "News Dragon's Dogma 2 Stripped of All PS5 Microtransactions as DLC Nears",
-      "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-stripped-of-all-ps5-microtransactions-as-dlc-nears",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: Marathon Sponsor Deal Asks Streamers Not To Talk About Destiny 3",
       "url": "https://gameranx.com/updates/id/563061/article/rumor-marathon-sponsor-deal-asks-streamers-not-to-talk-about-destiny-3/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "GTA 5 and Red Dead Redemption 2 lead says \"the most fun thing\" in any Rockstar game is \"the systems that we make\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-and-red-dead-redemption-2-writer-dan-houser-says-the-most-fun-thing-about-the-game-isnt-any-rubbish-we-write-its-the-systems-that-we-make/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Fans Find Hidden Info On Zelda: Ocarina Of Time Remake, Nintendo Promptly Deletes It",
+      "url": "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
