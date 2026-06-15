@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T18:21:37+00:00",
+  "generated_utc": "2026-06-15T18:38:53+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -111,18 +111,6 @@
       "release_badge": ""
     },
     {
-      "id": "765f606a55e1",
-      "pillar": "anime",
-      "title": "11 anime to watch if you like Frieren",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/best-anime-like-frieren/",
-      "thumbnail": "/drops/thumbs/765f606a55e1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "dba3ca8756c0",
       "pillar": "anime",
       "title": "Black Clover Just Shadow Dropped Its Next Major Release, And It's Essential Viewing",
@@ -141,6 +129,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-15/hidive-to-stream-im-dating-a-dark-summoner-anime/.238547",
       "thumbnail": "/drops/thumbs/6c95896d33e3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2ce2197f2513",
+      "pillar": "anime",
+      "title": "Studio Ghibli officially gets its first-ever store in the US, but there's a catch",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/studio-ghibli-us-store-pop-up-2026/",
+      "thumbnail": "/drops/thumbs/2ce2197f2513.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
