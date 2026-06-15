@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T00:38:15+00:00",
+  "generated_utc": "2026-06-15T01:27:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,8 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "Berserk returns with a chapter Kentaro Miura spent 20 years trying to get right",
-      "url": "https://www.polygon.com/berserk-new-chapter-384-kentaro-miura-20-years/",
+      "title": "11 anime to watch if you like Frieren",
+      "url": "https://www.polygon.com/best-anime-like-frieren/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "News Campaign Early Access Now Included in Modern Warfare 4 PS5 Pre-Orders",
+      "url": "https://www.pushsquare.com/news/2026/06/campaign-early-access-now-included-in-modern-warfare-4-ps5-pre-orders",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World",
       "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-poised-to-sell-extremely-well-topping-ps-store-charts-around-the-world",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "ESRB Rating For The Elder Scrolls IV: Oblivion Remastered Adds Nintendo Switch 2",
       "url": "https://gameranx.com/updates/id/563049/article/esrb-rating-for-the-elder-scrolls-iv-oblivion-remastered-adds-nintendo-switch-2/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Microsoft CEO Complains About Poor Gaming Profits: ‘There’s More Monetization Of Xbox Games Happening On YouTube’",
-      "url": "https://kotaku.com/microsoft-ceo-complains-about-poor-gaming-profits-theres-more-monetization-of-xbox-games-happening-on-youtube-2000706326",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

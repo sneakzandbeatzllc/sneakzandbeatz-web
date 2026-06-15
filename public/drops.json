@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T00:38:15+00:00",
+  "generated_utc": "2026-06-15T01:27:41+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "f474f14a9025",
+      "id": "765f606a55e1",
       "pillar": "anime",
-      "title": "Berserk returns with a chapter Kentaro Miura spent 20 years trying to get right",
+      "title": "11 anime to watch if you like Frieren",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/berserk-new-chapter-384-kentaro-miura-20-years/",
-      "thumbnail": "/drops/thumbs/f474f14a9025.jpg",
+      "source_url": "https://www.polygon.com/best-anime-like-frieren/",
+      "thumbnail": "/drops/thumbs/765f606a55e1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "10c88b965d4f",
+      "pillar": "gaming",
+      "title": "News Campaign Early Access Now Included in Modern Warfare 4 PS5 Pre-Orders",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/campaign-early-access-now-included-in-modern-warfare-4-ps5-pre-orders",
+      "thumbnail": "/drops/thumbs/10c88b965d4f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "50ef78f27474",
       "pillar": "gaming",
       "title": "News Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World",
@@ -273,18 +285,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563049/article/esrb-rating-for-the-elder-scrolls-iv-oblivion-remastered-adds-nintendo-switch-2/",
       "thumbnail": "/drops/thumbs/9272fa1b50ed.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e903adea96e9",
-      "pillar": "gaming",
-      "title": "Microsoft CEO Complains About Poor Gaming Profits: ‘There’s More Monetization Of Xbox Games Happening On YouTube’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/microsoft-ceo-complains-about-poor-gaming-profits-theres-more-monetization-of-xbox-games-happening-on-youtube-2000706326",
-      "thumbnail": "/drops/thumbs/e903adea96e9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
