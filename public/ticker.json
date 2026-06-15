@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T19:51:05+00:00",
+  "generated_utc": "2026-06-15T20:43:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -25,15 +25,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 5 “Black University Blue” Returns June 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-5-black-university-blue-2026/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 7 “Miro” (IQ6573-100) July 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-7-miro-iq6573-100-2026-drop/",
+      "title": "Air Jordan 7 “Miro” Returns July 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-7-miro-2026/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
+      "url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Move Over Goku and Vegeta, Beerus Has Already Chosen His True Heir",
       "url": "https://screenrant.com/dragon-ball-beerus-successor-broly-not-vegeta-goku/",
       "pillar": "anime",
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "HIDIVE to Stream I'm Dating a Dark Summoner Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-15/hidive-to-stream-im-dating-a-dark-summoner-anime/.238547",
+      "title": "TV Asahi Announces New Short Anime Programming Block 'PicoAni'",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-15/tv-asahi-announces-new-short-anime-programming-block-picoani/.238537",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Liar Game Anime Casts Jun Fukuyama as Nearco",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-15/liar-game-anime-casts-jun-fukuyama-as-nearco/.238545",
+      "title": "HIDIVE to Stream I'm Dating a Dark Summoner Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-15/hidive-to-stream-im-dating-a-dark-summoner-anime/.238547",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "School of Horns' Mito Aoi Launches New Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-15/school-of-horns-mito-aoi-launches-new-manga/.238512",
+      "title": "Liar Game Anime Casts Jun Fukuyama as Nearco",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-15/liar-game-anime-casts-jun-fukuyama-as-nearco/.238545",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,8 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "Trump Uses Persona 5 , A Game About Fighting Corrupt Politicians And Sex Offenders, To Spread Propaganda",
-      "url": "https://kotaku.com/donald-trump-white-house-meme-persona-5-all-out-attack-2000706632",
+      "title": "Call Of Duty Studio Treyarch Is Losing Its Studio Head Of Nearly A Decade",
+      "url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -151,15 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Call Of Duty Studio Treyarch Is Losing Its Studio Head Of Nearly A Decade",
-      "url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Site News Oh, Hi Everyone! Did You Notice Anything Different Here Recently?",
-      "url": "https://www.pushsquare.com/features/site-news-oh-hi-everyone-did-you-notice-anything-different-here-recently",
+      "title": "News Three Xbox Studios at Risk of Closure, in Talks to Become Independent",
+      "url": "https://www.pushsquare.com/news/2026/06/three-xbox-studios-at-risk-of-closure-in-talks-to-become-independent",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "GTA 5 and Red Dead Redemption 2 lead says \"the most fun thing\" in any Rockstar game is \"the systems that we make\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-and-red-dead-redemption-2-writer-dan-houser-says-the-most-fun-thing-about-the-game-isnt-any-rubbish-we-write-its-the-systems-that-we-make/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Xbox Is Planning To Shutter Peabody-Award-Winning South Of Midnight Studio Compulsion Games",
+      "url": "https://kotaku.com/xbox-shuttering-south-of-midnight-peabody-award-compulsion-games-2000706065",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
