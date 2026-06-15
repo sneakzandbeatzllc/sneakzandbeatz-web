@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T16:47:23+00:00",
+  "generated_utc": "2026-06-15T17:36:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "Demon Slayer Infinity Castle Part 2 Is Finally Going To Give Fans The One Villain Death They've Waited 4 Years For",
-      "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-doma-death/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "11 anime to watch if you like Frieren",
       "url": "https://www.polygon.com/best-anime-like-frieren/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Nearly 40 years after its release, Ghost in the Shell is going back to its roots",
       "url": "https://www.polygon.com/ghost-in-the-shell-remake-manga-relationship/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "33 Years Later, Ninja Scroll Finally Returns With New Theatrical Release",
+      "url": "https://screenrant.com/ninja-scroll-new-theatrical-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "News Sony 'Hopes' to Launch PS5's God of War Laufey in the First Half of 2027",
-      "url": "https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: Marathon Sponsor Deal Asks Streamers Not To Talk About Destiny 3",
       "url": "https://gameranx.com/updates/id/563061/article/rumor-marathon-sponsor-deal-asks-streamers-not-to-talk-about-destiny-3/",
       "pillar": "gaming",
@@ -153,6 +146,13 @@
     {
       "title": "The Head Of Xbox Game Studios Resigns Ahead Of Mass Layoffs",
       "url": "https://kotaku.com/the-head-of-xbox-game-studios-resigns-ahead-of-mass-layoffs-2000706634",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News South of Midnight Maker Said to Be Shuttered by Xbox",
+      "url": "https://www.pushsquare.com/news/2026/06/south-of-midnight-maker-said-to-be-shuttered-by-xbox",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
