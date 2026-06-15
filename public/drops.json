@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T09:30:35+00:00",
+  "generated_utc": "2026-06-15T10:31:17+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "31ff589041d6",
+      "id": "a17a102be00f",
       "pillar": "anime",
-      "title": "Within the Villainess Anime Casts Ayane Sakura as Star Maiden",
+      "title": "Sasaki and Peeps 2nd Season Anime Reveals October Debut, More Returning Staff in New Promo Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-14/within-the-villainess-anime-casts-ayane-sakura-as-star-maiden/.238513",
-      "thumbnail": "/drops/thumbs/31ff589041d6.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-15/sasaki-and-peeps-2nd-season-anime-reveals-october-debut-more-returning-staff-in-new-promo-video/.238535",
+      "thumbnail": "/drops/thumbs/a17a102be00f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "b654bb1fba62",
+      "id": "31ff589041d6",
       "pillar": "anime",
-      "title": "CLAMP's xxxHOLiC: Rei Manga Teases Plan for 'Final Battle'",
+      "title": "Within the Villainess Anime Casts Ayane Sakura as Star Maiden",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-14/clamp-xxxholic-rei-manga-teases-plan-for-final-battle/.238508",
-      "thumbnail": "/drops/thumbs/b654bb1fba62.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-14/within-the-villainess-anime-casts-ayane-sakura-as-star-maiden/.238513",
+      "thumbnail": "/drops/thumbs/31ff589041d6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "8734a2caf087",
+      "id": "612e1e2764b3",
       "pillar": "gaming",
-      "title": "Opinion PS Plus Users, You Should Play Final Fantasy 16 (But Only If You Play It Like This)",
+      "title": "News Dragon's Dogma 2 Stripped of All PS5 Microtransactions as DLC Nears",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/opinion-ps-plus-users-you-should-play-final-fantasy-16-but-only-if-you-play-it-like-this",
-      "thumbnail": "/drops/thumbs/8734a2caf087.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-stripped-of-all-ps5-microtransactions-as-dlc-nears",
+      "thumbnail": "/drops/thumbs/612e1e2764b3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,6 +213,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/capcoms-president-explains-the-secret-behind-the-resident-evil-makers-recent-winning-streak-2000706227",
       "thumbnail": "/drops/thumbs/535ed0e73432.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8734a2caf087",
+      "pillar": "gaming",
+      "title": "Opinion PS Plus Users, You Should Play Final Fantasy 16 (But Only If You Play It Like This)",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/opinion-ps-plus-users-you-should-play-final-fantasy-16-but-only-if-you-play-it-like-this",
+      "thumbnail": "/drops/thumbs/8734a2caf087.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "b4af0d4e7a6a",
-      "pillar": "gaming",
-      "title": "Rumor: When PlayStation Dropped Single Player Games On PC, They Also Dropped The Chinese Market",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563057/article/rumor-when-playstation-dropped-single-player-games-on-pc-they-also-dropped-the-chinese-market/",
-      "thumbnail": "/drops/thumbs/b4af0d4e7a6a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "8362d1bf79ba",
     "b22cda778a39",
     "779db71fc001",
-    "8734a2caf087"
+    "612e1e2764b3"
   ]
 }
