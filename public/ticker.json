@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T14:34:26+00:00",
+  "generated_utc": "2026-06-15T14:45:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Trump Uses Persona 5 , A Game About Fighting Corrupt Politicians And Sex Offenders, To Spread Propaganda",
+      "url": "https://kotaku.com/donald-trump-white-house-meme-persona-5-all-out-attack-2000706632",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Final Fantasy 7 Remake and Rebirth Sales Seemingly Spike After Revelation Reveal",
       "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-remake-and-rebirth-sales-seemingly-spike-after-revelation-reveal",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "News Campaign Early Access Now Included in Modern Warfare 4 PS5 Pre-Orders",
       "url": "https://www.pushsquare.com/news/2026/06/campaign-early-access-now-included-in-modern-warfare-4-ps5-pre-orders",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Fans Find Hidden Info On Zelda: Ocarina Of Time Remake, Nintendo Promptly Deletes It",
-      "url": "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
