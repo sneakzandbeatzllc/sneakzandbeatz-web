@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-15T12:45:25+00:00",
+  "generated_utc": "2026-06-15T13:16:12+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -63,6 +63,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "aa087d5a1590",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Miro” (IQ6573-100) July 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-7-miro-iq6573-100-2026-drop/",
+      "thumbnail": "/drops/thumbs/aa087d5a1590.jpg",
+      "published": "2026-06-15T08:08:53",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "6f835bbe3ddc",
       "pillar": "sneakers",
       "title": "Air Jordan 3 OG “True Blue” Returns July 2026",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/j-balvin-air-jordan-4-lemonade-iw2872-700/",
       "thumbnail": "/drops/thumbs/993ac8a3c27d.webp",
       "published": "2026-06-11T17:42:21",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a4894ba291c2",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Comic” Gives the Retro 4 a Pop-Art Makeover",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-comic-io2362-100/",
-      "thumbnail": "/drops/thumbs/a4894ba291c2.webp",
-      "published": "2026-06-11T13:59:34",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "a9446293dd50",
+      "id": "e8515f1015b8",
       "pillar": "gaming",
-      "title": "News Final Fantasy 7 Remake and Rebirth Sales Seemingly Spike After Revelation Reveal",
+      "title": "News Sony 'Hopes' to Launch PS5's God of War Laufey in the First Half of 2027",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-remake-and-rebirth-sales-seemingly-spike-after-revelation-reveal",
-      "thumbnail": "/drops/thumbs/a9446293dd50.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/sony-hopes-to-launch-ps5s-god-of-war-laufey-in-the-first-half-of-2027",
+      "thumbnail": "/drops/thumbs/e8515f1015b8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "612e1e2764b3",
+      "id": "a9446293dd50",
       "pillar": "gaming",
-      "title": "News Dragon's Dogma 2 Stripped of All PS5 Microtransactions as DLC Nears",
+      "title": "News Final Fantasy 7 Remake and Rebirth Sales Seemingly Spike After Revelation Reveal",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-stripped-of-all-ps5-microtransactions-as-dlc-nears",
-      "thumbnail": "/drops/thumbs/612e1e2764b3.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/final-fantasy-7-remake-and-rebirth-sales-seemingly-spike-after-revelation-reveal",
+      "thumbnail": "/drops/thumbs/a9446293dd50.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "8734a2caf087",
+      "id": "612e1e2764b3",
       "pillar": "gaming",
-      "title": "Opinion PS Plus Users, You Should Play Final Fantasy 16 (But Only If You Play It Like This)",
+      "title": "News Dragon's Dogma 2 Stripped of All PS5 Microtransactions as DLC Nears",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/opinion-ps-plus-users-you-should-play-final-fantasy-16-but-only-if-you-play-it-like-this",
-      "thumbnail": "/drops/thumbs/8734a2caf087.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-stripped-of-all-ps5-microtransactions-as-dlc-nears",
+      "thumbnail": "/drops/thumbs/612e1e2764b3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "779db71fc001",
     "b22cda778a39",
     "8362d1bf79ba",
-    "a9446293dd50"
+    "e8515f1015b8"
   ]
 }
