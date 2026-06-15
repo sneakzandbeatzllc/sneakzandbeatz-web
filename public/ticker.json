@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-14T23:37:31+00:00",
+  "generated_utc": "2026-06-15T00:26:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "10 Anime That Are Actually Better Than Their Manga",
-      "url": "https://screenrant.com/anime-better-than-manga-source/",
+      "title": "One Of The 2000s' Most Nostalgic Animated Barbie Movies Is Now Streaming For Free",
+      "url": "https://screenrant.com/barbie-12-dancing-princesses-streaming-free/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "News Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World",
+      "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-poised-to-sell-extremely-well-topping-ps-store-charts-around-the-world",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Microsoft considered cutting Xbox off entirely and making it easier to sell, report says",
       "url": "https://www.gamesradar.com/games/microsoft-considered-cutting-xbox-off-entirely-and-making-it-easier-to-sell-report-says/",
       "pillar": "gaming",
@@ -139,13 +146,6 @@
     {
       "title": "Demand For Xbox Series X|S Worldwide Exceeds Supply – And Memory Is A Huge Reason Why",
       "url": "https://gameranx.com/updates/id/563051/article/demand-for-xbox-series-xs-worldwide-exceeds-supply-and-memory-is-a-huge-reason-why/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Opinion I'm So Glad Racing Games Are Finally Getting Interesting Again",
-      "url": "https://www.pushsquare.com/features/opinion-im-so-glad-racing-games-are-finally-getting-interesting-again",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
