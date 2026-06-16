@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T01:02:24+00:00",
+  "generated_utc": "2026-06-16T02:04:32+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -63,6 +63,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "cdb12351ad98",
+      "pillar": "sneakers",
+      "title": "Where to Buy the Air Jordan 5 “Black/University Blue”",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
+      "thumbnail": "/drops/thumbs/cdb12351ad98.jpg",
+      "published": "2026-06-15T01:14:00",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "993ac8a3c27d",
       "pillar": "sneakers",
       "title": "J Balvin Officially Reveals his Air Jordan 4 “Lemonade” During World Cup Ceremonies",
@@ -87,24 +99,12 @@
       "release_badge": ""
     },
     {
-      "id": "9117a67223d5",
-      "pillar": "sneakers",
-      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
-      "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
-      "published": "2026-06-09T15:29:21",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b22cda778a39",
+      "id": "862329a5e627",
       "pillar": "anime",
-      "title": "Move Over Goku and Vegeta, Beerus Has Already Chosen His True Heir",
+      "title": "Crunchyroll's Berserk Heir Is Back, And It's A Dark Fantasy Masterpiece",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-beerus-successor-broly-not-vegeta-goku/",
-      "thumbnail": "/drops/thumbs/b22cda778a39.png",
+      "source_url": "https://screenrant.com/crunchyroll-berserk-successor-clevatess-season-2-episode-1-review/",
+      "thumbnail": "/drops/thumbs/862329a5e627.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "2ce2197f2513",
+      "id": "e48eda14ee7d",
       "pillar": "anime",
-      "title": "Studio Ghibli officially gets its first-ever store in the US, but there's a catch",
+      "title": "Billy Bat, Bug Ego, and more lead 2026 American Manga Awards nominees",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/studio-ghibli-us-store-pop-up-2026/",
-      "thumbnail": "/drops/thumbs/2ce2197f2513.jpg",
+      "source_url": "https://www.polygon.com/2026-best-manga-american-awards-nominees-list/",
+      "thumbnail": "/drops/thumbs/e48eda14ee7d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "d9ec91b643d5",
+      "id": "2ce2197f2513",
       "pillar": "anime",
-      "title": "Nearly 40 years after its release, Ghost in the Shell is going back to its roots",
+      "title": "Studio Ghibli officially gets its first-ever store in the US, but there's a catch",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/ghost-in-the-shell-remake-manga-relationship/",
-      "thumbnail": "/drops/thumbs/d9ec91b643d5.jpg",
+      "source_url": "https://www.polygon.com/studio-ghibli-us-store-pop-up-2026/",
+      "thumbnail": "/drops/thumbs/2ce2197f2513.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "094b1500b6a8",
     "15fa64d17ff5",
     "779db71fc001",
-    "b22cda778a39",
+    "862329a5e627",
     "ff07f49af52d",
     "1bc159d6ea5f"
   ]
