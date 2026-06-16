@@ -18,6 +18,7 @@ import { fetchYouTubeVideos, formatPublishedAgo } from "@/lib/youtube";
 import { isBannedItem } from "@/lib/soc-engine";
 import { STRIPE_LINKS } from "@/data/stripe-links";
 import { MERCH_PRODUCTS, MERCH_LAUNCH_DATE } from "@/data/merch";
+import SneakerOfTheDay from "./SneakerOfTheDay";
 
 /* ---------------------------------------------------------------- drops */
 
@@ -106,11 +107,11 @@ export async function OnAirBar() {
 /* ------------------------------------------------------------- ROOM HERO */
 
 const ZONES = [
-  { img: "/photos/sb-urban-clothesline.jpg", tag: "The Kicks Wall", href: "/sneakers", span: true },
+  { img: "/photos/sb-urban-clothesline.jpg", tag: "Sneakz of the Day", href: "/sneakers", span: true },
   { img: "/photos/sb-producer-monitors.jpg", tag: "The Beat Lab", href: "/beats" },
-  { img: "/photos/sb-neon-street.jpg", tag: "The Walls", href: "/anime" },
+  { img: "/merch/girls-crop-pink-sb.jpg", tag: "S&B Girls", href: "/creators" },
   { img: "/photos/sb-arcade-joystick.jpg", tag: "The Arcade Corner", href: "/gaming" },
-  { img: "/photos/sb-arcade-night.jpg", tag: "After Hours", href: "/show" },
+  { img: "/photos/sb-neon-street.jpg", tag: "The Frames", href: "/anime" },
 ];
 
 export function RoomHero() {
@@ -128,6 +129,8 @@ export function RoomHero() {
         ))}
       </div>
       <div className="container">
+        <div style={{ display: "flex", gap: 32, alignItems: "center", flexWrap: "wrap", justifyContent: "space-between", marginBottom: 8 }}>
+        <div style={{ flex: "1 1 440px", minWidth: 300 }}>
         <span className="eyebrow">One shop · One customer · Your whole world</span>
         <h1 className="display roomhero-h1">
           Sneakz &amp; Beatz —<br />
@@ -145,6 +148,11 @@ export function RoomHero() {
           <a href="/show" className="btn-link">
             ▶ Watch The Show
           </a>
+        </div>
+        </div>
+        <div style={{ flex: "0 0 300px", maxWidth: 320, width: "100%" }}>
+          <SneakerOfTheDay />
+        </div>
         </div>
 
         <div className="roomgrid">

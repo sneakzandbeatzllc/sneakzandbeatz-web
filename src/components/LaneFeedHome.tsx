@@ -10,13 +10,15 @@ const PILLAR_LABEL: Record<string, string> = {
 
 /**
  * LaneFeedHome — surfaces the latest articles (newest first) on the homepage.
- * Reads the same LANE_ESSAYS source as /the-lane and the pillar feeds, so a
- * new article shows up here automatically the moment it ships.
+ * Shows ONLY pillar-tagged articles the desk writes — the cornerstone Lane
+ * essays (no pillar) are intentionally excluded here so this stays a feed of
+ * fresh, real coverage.
  */
 export default function LaneFeedHome() {
   const articles = [...LANE_ESSAYS]
+    .filter((e) => e.pillar)
     .sort((a, b) => (a.publishedAt < b.publishedAt ? 1 : -1))
-    .slice(0, 6);
+    .slice(0, 8);
 
   if (articles.length === 0) return null;
 

@@ -91,7 +91,7 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
     sizes: ["S", "M", "L", "XL", "XXL"],
     colorways: MERCH_COLORWAYS,
     status: "preorder",
-    imagePath: "/merch/classic-red.jpg",
+    imagePath: "/merch/classic-grey.jpg",
   },
   {
     slug: "beats-crop-hoodie",
@@ -103,7 +103,7 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
     sizes: ["S", "M", "L"],
     colorways: BEATS_COLORWAYS,
     status: "preorder",
-    imagePath: "/merch/girls-crop-pink-sb.jpg",
+    imagePath: "/merch/girls-crop-pink-minimal.jpg",
   },
   {
     slug: "sb-cap",
@@ -131,5 +131,19 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
       ["bred", "all-black", "royal", "cool-grey"].includes(c.slug)
     ),
     status: "preorder",
+  },
+  {
+    slug: "sb-snapback",
+    name: "S&B Snapback",
+    type: "hat",
+    description:
+      "Structured 6-panel snapback, flat brim, raised 3D-embroidered S&B mark. The on-stage cap — sits high, snaps clean.",
+    priceUSD: 36,
+    sizes: ["OS"],
+    colorways: MERCH_COLORWAYS.filter((c) =>
+      ["bred", "all-black", "all-white", "cool-grey"].includes(c.slug)
+    ),
+    status: "preorder",
+    imagePath: "/merch/hat-red-snapback.jpg",
   },
 ];
