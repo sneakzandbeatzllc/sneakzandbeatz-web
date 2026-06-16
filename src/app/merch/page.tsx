@@ -53,7 +53,7 @@ export default function MerchPage() {
   const renderCard = (p: (typeof MERCH_PRODUCTS)[number]) => {
     const live = p.status === "live" && p.stripeLinks;
     return (
-      <article key={p.slug} className="shop-card">
+      <article key={p.slug} id={p.slug} className="shop-card" style={{ scrollMarginTop: 90 }}>
         <div className="shop-card-image">
           {p.imagePath ? (
             /* eslint-disable-next-line @next/next/no-img-element */

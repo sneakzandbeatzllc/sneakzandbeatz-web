@@ -8,109 +8,80 @@ const PILLAR_LABEL: Record<string, string> = {
   gaming: "Gaming",
 };
 
+// Fallback cover per pillar when an article has no hero image yet (operator
+// drops real shoe pics later → heroImage overrides this).
+const PILLAR_FALLBACK: Record<string, string> = {
+  sneakers: "/photos/pillars/sneakers.webp",
+  hiphop: "/photos/pillars/hiphop.jpg",
+  anime: "/photos/pillars/anime.png",
+  gaming: "/photos/pillars/gaming.webp",
+};
+
 /**
- * LaneFeedHome — surfaces the latest articles (newest first) on the homepage.
- * Shows ONLY pillar-tagged articles the desk writes — the cornerstone Lane
- * essays (no pillar) are intentionally excluded here so this stays a feed of
- * fresh, real coverage.
+ * LaneFeedHome — homepage feed of OUR articles, styled like the "No aisles.
+ * One rack." stream (reuses the .feedv3 grid: big hero card + mediums +
+ * smalls, large image thumbnails with overlaid title). Only pillar-tagged
+ * articles the desk writes appear here; cornerstone essays are excluded.
  */
 export default function LaneFeedHome() {
   const articles = [...LANE_ESSAYS]
     .filter((e) => e.pillar)
     .sort((a, b) => (a.publishedAt < b.publishedAt ? 1 : -1))
-    .slice(0, 8);
+    .slice(0, 5);
 
   if (articles.length === 0) return null;
 
+  const sizes = ["c-lg", "c-md", "c-md", "c-sm", "c-sm"];
+
   return (
-    <section className="container" style={{ padding: "48px 0" }}>
-      <h2 className="pillar-section-h" style={{ marginBottom: 4 }}>
-        Latest Articles
-      </h2>
-      <p style={{ margin: "0 0 22px", opacity: 0.7, fontSize: "0.95rem" }}>
-        Written by PHRHX &amp; the Sneakz desk. New drops daily.
-      </p>
-
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))",
-          gap: 18,
-        }}
-      >
-        {articles.map((a) => (
-          <Link
-            key={a.slug}
-            href={`/the-lane/${a.slug}`}
-            style={{
-              display: "block",
-              border: "1px solid var(--rule, #2a2a30)",
-              borderRadius: 12,
-              overflow: "hidden",
-              textDecoration: "none",
-              background: "var(--card, rgba(255,255,255,0.02))",
-            }}
-          >
-            {a.heroImage && (
-              // eslint-disable-next-line @next/next/no-img-element
+    <section className="feedv3">
+      <div className="container">
+        <div className="feedv3-head">
+          <h2 className="display">Latest articles.</h2>
+          <span className="feedv3-sub">
+            Written by PHRHX &amp; the Sneakz desk — every one ours. New drops daily.
+          </span>
+        </div>
+        <div className="feedv3-stream">
+          {articles.map((a, i) => (
+            <Link
+              key={a.slug}
+              className={`feedv3-card ${sizes[i] ?? "c-sm"}`}
+              href={`/the-lane/${a.slug}`}
+            >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src={a.heroImage}
-                alt={a.title}
-                style={{
-                  width: "100%",
-                  height: 160,
-                  objectFit: "cover",
-                  display: "block",
-                }}
+                src={
+                  a.heroImage ||
+                  PILLAR_FALLBACK[a.pillar as string] ||
+                  "/photos/pillars/sneakers.webp"
+                }
+                alt=""
+                loading="lazy"
               />
-            )}
-            <div style={{ padding: "16px 18px" }}>
-              <span
-                style={{
-                  fontSize: "0.72rem",
-                  letterSpacing: "0.08em",
-                  textTransform: "uppercase",
-                  color: "var(--accent, #FF6A1A)",
-                  fontWeight: 700,
-                }}
-              >
-                {a.pillar ? PILLAR_LABEL[a.pillar] ?? "The Lane" : "The Lane"}
+              <span className="feedv3-in">
+                <small>{PILLAR_LABEL[a.pillar as string] ?? "The Lane"}</small>
+                <h3>{a.title}</h3>
+                <em>
+                  {a.heroCredit ? `Photo: ${a.heroCredit}` : "Sneakz & Beatz"} ·{" "}
+                  {new Date(a.publishedAt).toLocaleDateString("en-US", {
+                    month: "short",
+                    day: "numeric",
+                  })}
+                </em>
               </span>
-              <h3
-                style={{
-                  margin: "8px 0 6px",
-                  fontSize: "1.05rem",
-                  lineHeight: 1.25,
-                  color: "var(--text, #f4f4f5)",
-                }}
-              >
-                {a.title}
-              </h3>
-              <p
-                style={{
-                  margin: 0,
-                  fontSize: "0.9rem",
-                  opacity: 0.75,
-                  lineHeight: 1.4,
-                  color: "var(--text, #f4f4f5)",
-                }}
-              >
-                {a.subhead}
-              </p>
-              {a.heroCredit && (
-                <p style={{ margin: "10px 0 0", fontSize: "0.72rem", opacity: 0.5 }}>
-                  Photo: {a.heroCredit}
-                </p>
-              )}
-            </div>
+            </Link>
+          ))}
+          <Link className="feedv3-card c-sm feedv3-house" href="/the-lane">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/photos/sb-studio-keys.jpg" alt="" loading="lazy" />
+            <span className="feedv3-in">
+              <small>The Lane</small>
+              <h3>All articles — the full desk</h3>
+              <em>Sneakz &amp; Beatz · editorial</em>
+            </span>
           </Link>
-        ))}
-      </div>
-
-      <div style={{ marginTop: 22 }}>
-        <Link href="/the-lane" className="btn btn-ghost btn-arrow">
-          All Articles
-        </Link>
+        </div>
       </div>
     </section>
   );

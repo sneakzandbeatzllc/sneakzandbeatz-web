@@ -337,9 +337,12 @@ export function MerchZone() {
     month: "long",
     day: "numeric",
   });
+  const HOME_ORDER = ["sb-hoodie", "sb-cap", "sb-snapback", "beats-crop-hoodie"];
   const products = MERCH_PRODUCTS.filter(
     (p) => p.status !== "draft" && p.imagePath
-  ).slice(0, 4);
+  )
+    .sort((a, b) => HOME_ORDER.indexOf(a.slug) - HOME_ORDER.indexOf(b.slug))
+    .slice(0, 4);
   return (
     <section className="merchzone">
       <div className="container">
@@ -352,7 +355,7 @@ export function MerchZone() {
         </p>
         <div className="merchzone-grid">
           {products.map((p) => (
-            <Link key={p.slug} href="/merch" className="merchzone-card">
+            <Link key={p.slug} href={`/merch#${p.slug}`} className="merchzone-card">
               <div className="merchzone-ph">
                 {p.imagePath ? (
                   /* eslint-disable-next-line @next/next/no-img-element */

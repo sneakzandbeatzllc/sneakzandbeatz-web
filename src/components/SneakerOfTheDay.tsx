@@ -1,8 +1,8 @@
 /**
- * SneakerOfTheDay — vertical (9:16) hero card for PHRHX's own clip of the
- * day's shoe. Rendered beside the RoomHero headline. Operator drops a clip
- * at public/sneaker-of-the-day.mp4; until then the branded SVG poster shows.
- * Bare card (no section wrapper) so it slots into the hero's right column.
+ * SneakerOfTheDay — vertical (9:16) hero card beside the RoomHero headline.
+ * Plays PHRHX's own clip of the day's shoe on autoplay + loop (muted so
+ * browsers allow autoplay; controls let viewers unmute). Operator updates it
+ * by dropping a new public/sneaker-of-the-day.mp4. Bare card (no section).
  */
 export default function SneakerOfTheDay() {
   return (
@@ -20,8 +20,11 @@ export default function SneakerOfTheDay() {
       >
         {/* eslint-disable-next-line jsx-a11y/media-has-caption */}
         <video
-          controls
+          autoPlay
+          loop
+          muted
           playsInline
+          controls
           preload="metadata"
           poster="/sneaker-of-the-day-poster.svg"
           style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
