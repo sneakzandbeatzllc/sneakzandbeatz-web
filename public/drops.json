@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T18:50:26+00:00",
+  "generated_utc": "2026-06-16T19:08:38+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -135,12 +135,36 @@
       "release_badge": ""
     },
     {
+      "id": "d7e5ddf98c14",
+      "pillar": "anime",
+      "title": "Komi Can't Communicate Manga Gets New Chapter",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/komi-cant-communicate-manga-gets-new-chapter/.238561",
+      "thumbnail": "/drops/thumbs/d7e5ddf98c14.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e3c1f1b11944",
       "pillar": "anime",
       "title": "Kiki's Delivery Service is being turned into a live-action TV show",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
       "thumbnail": "/drops/thumbs/e3c1f1b11944.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e5f53950bb6a",
+      "pillar": "anime",
+      "title": "My Clueless First Friend's Taku Kawamura Launches New Manga on July 30",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/my-clueless-first-friend-taku-kawamura-launches-new-manga-on-july-30/.238531",
+      "thumbnail": "/drops/thumbs/e5f53950bb6a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,36 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "130746c1c1a3",
+      "id": "3c3fd923e818",
       "pillar": "anime",
-      "title": "Prime Video's The Ghost in the Shell Just Dropped The First 10/10 Trailer Of 2026",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/ghost-shell-prime-video-new-trailer-perfect/",
-      "thumbnail": "/drops/thumbs/130746c1c1a3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "615ce9d34e20",
-      "pillar": "anime",
-      "title": "Komi Can't Communicate Officially Drops New Timeskip Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/komi-cant-communicate-timeskip-chapter-release-college-years/",
-      "thumbnail": "/drops/thumbs/615ce9d34e20.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c683cc03cad8",
-      "pillar": "anime",
-      "title": "Studio Ghibli Sets First-Ever Live-Action Remake Of Kiki’s Delivery Service 37 Years Later",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/studio-ghibli-kikis-delivery-service-live-action-remake-bbc/",
-      "thumbnail": "/drops/thumbs/c683cc03cad8.jpg",
+      "title": "GKIDS to Screen Cocoon Wartime Anime on September 4",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/gkids-to-screen-cocoon-wartime-anime-on-september-4/.238580",
+      "thumbnail": "/drops/thumbs/3c3fd923e818.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
