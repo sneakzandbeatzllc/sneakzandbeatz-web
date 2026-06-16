@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T16:02:46+00:00",
+  "generated_utc": "2026-06-16T16:15:11+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "8f8c3f0b4c6e",
+      "id": "a3fe065ace20",
       "pillar": "anime",
-      "title": "New Ghost in the Shell Anime's Prime Video Trailer Unveils July 7 Net Debut",
+      "title": "Death Note the Musical Announces Cast for London Run",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/new-ghost-in-the-shell-anime-prime-video-trailer-unveils-july-7-net-debut/.238571",
-      "thumbnail": "/drops/thumbs/8f8c3f0b4c6e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/death-note-the-musical-announces-cast-for-london-run/.238579",
+      "thumbnail": "/drops/thumbs/a3fe065ace20.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "58ee1f57c5c2",
+      "id": "8f8c3f0b4c6e",
       "pillar": "anime",
-      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime's Video Reveals Theme Songs, July 3 Debut",
+      "title": "New Ghost in the Shell Anime's Prime Video Trailer Unveils July 7 Net Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/i-became-a-legend-after-my-10-year-long-last-stand-anime-video-reveals-theme-songs-july-3-debut/.238563",
-      "thumbnail": "/drops/thumbs/58ee1f57c5c2.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/new-ghost-in-the-shell-anime-prime-video-trailer-unveils-july-7-net-debut/.238571",
+      "thumbnail": "/drops/thumbs/8f8c3f0b4c6e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -201,6 +201,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563063/article/rumor-clair-obscur-expedition-33-coming-to-switch-2-this-year/",
       "thumbnail": "/drops/thumbs/6d5094e7044d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7700713b13f4",
+      "pillar": "gaming",
+      "title": "Airships, Fresh FITS, And Queen’s Blood: 7 Things We Learned about Final Fantasy VII Revelation",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/airships-fresh-fits-and-queens-blood-7-things-we-learned-about-final-fantasy-vii-revelation-2000707110",
+      "thumbnail": "/drops/thumbs/7700713b13f4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "a3688ffa90e8",
-      "pillar": "gaming",
-      "title": "Nintendo Finally Did It: The eShop On Switch Isn’t A Slow, Horrible Mess Anymore",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/nintendo-finally-did-it-the-eshop-on-switch-isnt-a-slow-horrible-mess-anymore-2000707097",
-      "thumbnail": "/drops/thumbs/a3688ffa90e8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "376346113ebd",
       "pillar": "gaming",
       "title": "News Another Sony Security Concern: PS5 Games People Don't Own Are Appearing on Their Profiles",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "34c2bce07120",
+      "id": "a3688ffa90e8",
       "pillar": "gaming",
-      "title": "Forza Horizon 6 Devs Delete Stolen Cash After Players Discover Easy Exploit For Earning 20 Million Credits In Minutes",
+      "title": "Nintendo Finally Did It: The eShop On Switch Isn’t A Slow, Horrible Mess Anymore",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/forza-horizon-6-devs-delete-stolen-cash-after-players-discover-easy-exploit-for-earning-20-million-credits-in-minutes-2000707080",
-      "thumbnail": "/drops/thumbs/34c2bce07120.jpg",
+      "source_url": "https://kotaku.com/nintendo-finally-did-it-the-eshop-on-switch-isnt-a-slow-horrible-mess-anymore-2000707097",
+      "thumbnail": "/drops/thumbs/a3688ffa90e8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
