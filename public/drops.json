@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T02:04:32+00:00",
+  "generated_utc": "2026-06-16T04:07:20+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -99,24 +99,48 @@
       "release_badge": ""
     },
     {
-      "id": "862329a5e627",
+      "id": "7a6e88f7214c",
       "pillar": "anime",
-      "title": "Crunchyroll's Berserk Heir Is Back, And It's A Dark Fantasy Masterpiece",
+      "title": "It Took 32 Years, But Dragon Ball's Next Anime May Finally Top Vegeta's Best Arc",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/crunchyroll-berserk-successor-clevatess-season-2-episode-1-review/",
-      "thumbnail": "/drops/thumbs/862329a5e627.png",
+      "source_url": "https://screenrant.com/dragon-ball-super-next-anime-vegeta-best-arc/",
+      "thumbnail": "/drops/thumbs/7a6e88f7214c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "dba3ca8756c0",
+      "id": "41f982c76338",
       "pillar": "anime",
-      "title": "Black Clover Just Shadow Dropped Its Next Major Release, And It's Essential Viewing",
+      "title": "After 10 Years, Solo Leveling Officially Changes Genres With One Major Twist",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-recap-essential-season-2-october/",
-      "thumbnail": "/drops/thumbs/dba3ca8756c0.jpg",
+      "source_url": "https://screenrant.com/solo-leveling-change-genre-twist-ragnarok/",
+      "thumbnail": "/drops/thumbs/41f982c76338.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "397570a0a0ac",
+      "pillar": "anime",
+      "title": "Every Hashira's Sword In Demon Slayer Ranked From Weakest To Strongest",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/demon-slayer-every-hashira-sword-ranked-weakest-strongest/",
+      "thumbnail": "/drops/thumbs/397570a0a0ac.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "862329a5e627",
+      "pillar": "anime",
+      "title": "Crunchyroll's Berserk Heir Is Back, And It's A Dark Fantasy Masterpiece",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/crunchyroll-berserk-successor-clevatess-season-2-episode-1-review/",
+      "thumbnail": "/drops/thumbs/862329a5e627.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -165,30 +189,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/studio-ghibli-us-store-pop-up-2026/",
       "thumbnail": "/drops/thumbs/2ce2197f2513.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ad2d877e9246",
-      "pillar": "anime",
-      "title": "Sword Art Online's Echoes of Aincrad Game's Trailer Previews Demo",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-15/sword-art-online-echoes-of-aincrad-game-trailer-previews-demo/.238554",
-      "thumbnail": "/drops/thumbs/ad2d877e9246.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1bbbd8cb9e6a",
-      "pillar": "anime",
-      "title": "Webtoon's Weirdest Isekai Is Only 40 Chapters, and It Needs An Anime ASAP",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/mr-delivery-knight-webtoon-isekai-weird/",
-      "thumbnail": "/drops/thumbs/1bbbd8cb9e6a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "094b1500b6a8",
     "15fa64d17ff5",
     "779db71fc001",
-    "862329a5e627",
+    "7a6e88f7214c",
     "ff07f49af52d",
     "1bc159d6ea5f"
   ]
