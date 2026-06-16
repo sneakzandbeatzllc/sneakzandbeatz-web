@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T18:05:28+00:00",
+  "generated_utc": "2026-06-16T18:17:15+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -75,18 +75,6 @@
       "release_badge": ""
     },
     {
-      "id": "993ac8a3c27d",
-      "pillar": "sneakers",
-      "title": "J Balvin Officially Reveals his Air Jordan 4 “Lemonade” During World Cup Ceremonies",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/j-balvin-air-jordan-4-lemonade-iw2872-700/",
-      "thumbnail": "/drops/thumbs/993ac8a3c27d.webp",
-      "published": "2026-06-11T17:42:21",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "67d4186d382d",
       "pillar": "sneakers",
       "title": "Air Jordan 12 “Bucks” Releases September 2026",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
       "thumbnail": "/drops/thumbs/67d4186d382d.jpg",
       "published": "2026-06-10T12:26:39",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9117a67223d5",
+      "pillar": "sneakers",
+      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
+      "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
+      "published": "2026-06-09T15:29:21",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "06cfa00ae22f",
+      "pillar": "gaming",
+      "title": "GTA 6 Release Date Confirmed By Take-Two Boss In The Strangest Way",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059",
+      "thumbnail": "/drops/thumbs/06cfa00ae22f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6d5094e7044d",
       "pillar": "gaming",
       "title": "Rumor: Clair Obscur: Expedition 33 Coming To Switch 2 This Year",
@@ -207,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "7700713b13f4",
+      "id": "fcc03f0fd9c9",
       "pillar": "gaming",
-      "title": "Airships, Fresh FITS, And Queen’s Blood: 7 Things We Learned about Final Fantasy VII Revelation",
+      "title": "Saros Dev Wants To Mimic FromSoftware’s Dark Souls Journey: ‘We Will Keep Educating The Market That These Are The Coolest Games You Can Play’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/airships-fresh-fits-and-queens-blood-7-things-we-learned-about-final-fantasy-vii-revelation-2000707110",
-      "thumbnail": "/drops/thumbs/7700713b13f4.jpg",
+      "source_url": "https://kotaku.com/saros-housemarque-returnal-new-content-dlc-fromsoftware-2000707113",
+      "thumbnail": "/drops/thumbs/fcc03f0fd9c9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "cf78e026d909",
+      "id": "648098d24319",
       "pillar": "gaming",
-      "title": "Double Fine, Ninja Theory reportedly among multiple Xbox studios rushing to negotiate an exit",
+      "title": "Helldivers 2 patch overhauls Major Orders with Galactic Campaigns, adds new biome, and more",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/double-fine-ninja-theory-reportedly-among-multiple-xbox-studios-rushing-to-negotiate-an-exit-as-microsoft-plans-more-layoffs/",
-      "thumbnail": "/drops/thumbs/cf78e026d909.jpg",
+      "source_url": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2-overhauls-major-orders-with-galactic-campaigns-adds-a-new-biome-buffs-exo-suits-and-much-more-in-a-massive-patch/",
+      "thumbnail": "/drops/thumbs/648098d24319.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "f208af630a01",
-      "pillar": "gaming",
-      "title": "Shrek And Donkey Are So Detailed In The New Trailer And It’s Breaking My Brain",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/shrek-and-donkey-are-so-detailed-in-the-new-trailer-and-its-breaking-my-brain-2000707117",
-      "thumbnail": "/drops/thumbs/f208af630a01.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "779db71fc001",
     "7a6e88f7214c",
     "ff07f49af52d",
-    "6d5094e7044d"
+    "06cfa00ae22f"
   ]
 }
