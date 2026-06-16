@@ -108,10 +108,10 @@ export async function OnAirBar() {
 
 const ZONES = [
   { img: "/photos/sb-urban-clothesline.jpg", tag: "Sneakz of the Day", href: "/sneakers", span: true },
-  { img: "/photos/sb-producer-monitors.jpg", tag: "The Beat Lab", href: "/beats" },
-  { img: "/merch/girls-crop-pink-sb.jpg", tag: "S&B Girls", href: "/creators" },
-  { img: "/photos/sb-arcade-joystick.jpg", tag: "The Arcade Corner", href: "/gaming" },
-  { img: "/photos/sb-neon-street.jpg", tag: "The Frames", href: "/anime" },
+  { img: "/beat-lab-promo.jpg", tag: "The Beat Lab", href: "/beats" },
+  { img: "/merch/girls-crop-pink-sb.jpg", tag: "S&B Girls", href: "/creators", pos: "center 28%" },
+  { img: "/photos/pillars/gaming.webp", tag: "The Arcade Corner", href: "/gaming" },
+  { img: "/photos/pillars/anime.png", tag: "The Frames", href: "/anime" },
 ];
 
 export function RoomHero() {
@@ -163,7 +163,7 @@ export function RoomHero() {
               className={"roomzone" + (z.span ? " roomzone-tall" : "")}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={z.img} alt={z.tag} loading="lazy" />
+              <img src={z.img} alt={z.tag} loading="lazy" style={(z as { pos?: string }).pos ? { objectPosition: (z as { pos?: string }).pos } : undefined} />
               <span className="roomzone-tag">
                 <b>●</b> {z.tag}
               </span>

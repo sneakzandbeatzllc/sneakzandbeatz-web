@@ -1,8 +1,8 @@
 /**
  * SneakerOfTheDay — vertical (9:16) hero card beside the RoomHero headline.
- * Plays PHRHX's own clip of the day's shoe on autoplay + loop (muted so
- * browsers allow autoplay; controls let viewers unmute). Operator updates it
- * by dropping a new public/sneaker-of-the-day.mp4. Bare card (no section).
+ * Plays PHRHX's own clip on autoplay + loop (muted; controls let viewers
+ * unmute). No caption under it. Operator updates by dropping a new
+ * public/sneaker-of-the-day.mp4.
  */
 export default function SneakerOfTheDay() {
   return (
@@ -32,19 +32,6 @@ export default function SneakerOfTheDay() {
           <source src="/sneaker-of-the-day.mp4" type="video/mp4" />
         </video>
       </div>
-      <p
-        style={{
-          textAlign: "center",
-          margin: "10px 0 0",
-          fontSize: "0.75rem",
-          letterSpacing: "0.08em",
-          textTransform: "uppercase",
-          color: "var(--accent, #FF6A1A)",
-          fontWeight: 700,
-        }}
-      >
-        Sneaker of the Day
-      </p>
     </div>
   );
 }

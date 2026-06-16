@@ -1,16 +1,22 @@
-import { fetchYouTubeVideos, formatPublishedAgo } from "@/lib/youtube";
+import { fetchYouTubeVideos, formatPublishedAgo, PHRHX_CHANNEL_ID } from "@/lib/youtube";
 
 /**
- * ShowEmbed — auto-pulls the latest PHRHX Show episode from the channel's
- * YouTube RSS (same source as OnAirBar/ProgramGuide) and plays it inline on
- * the homepage. Recent episodes show below as a clickable rail. Returns null
- * if the feed can't be reached, so the page degrades gracefully.
+ * ShowEmbed — big PHRHX Show player on the homepage, ABOVE Latest Articles.
+ * ALWAYS renders. If the YouTube RSS fetch returns the latest episode we embed
+ * it directly; if that fetch is empty on a given build we fall back to the
+ * channel's uploads playlist (UC… → UU…), which is always embeddable. The
+ * section never disappears again.
  */
 export default async function ShowEmbed() {
   const videos = await fetchYouTubeVideos(undefined, 4);
   const latest = videos[0];
-  if (!latest) return null;
   const more = videos.slice(1, 4);
+
+  // Uploads playlist id = channel id with the "UC" prefix swapped to "UU".
+  const uploadsList = "UU" + PHRHX_CHANNEL_ID.slice(2);
+  const embedSrc = latest
+    ? latest.embedUrl
+    : `https://www.youtube.com/embed/videoseries?list=${uploadsList}`;
 
   return (
     <section className="container" style={{ padding: "48px 0" }}>
@@ -43,8 +49,8 @@ export default async function ShowEmbed() {
         }}
       >
         <iframe
-          src={latest.embedUrl}
-          title={latest.title}
+          src={embedSrc}
+          title="The PHRHX Show"
           loading="lazy"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowFullScreen
@@ -53,8 +59,10 @@ export default async function ShowEmbed() {
       </div>
 
       <p style={{ margin: "12px 0 0", fontSize: "0.95rem", color: "var(--text, #f4f4f5)" }}>
-        <strong>{latest.title}</strong>{" "}
-        <span style={{ opacity: 0.6 }}>· {formatPublishedAgo(latest.publishedAt)}</span>
+        <strong>{latest ? latest.title : "The PHRHX Show — new episodes weekly"}</strong>
+        {latest && (
+          <span style={{ opacity: 0.6 }}> · {formatPublishedAgo(latest.publishedAt)}</span>
+        )}
       </p>
 
       {more.length > 0 && (
@@ -88,14 +96,7 @@ export default async function ShowEmbed() {
                 style={{ width: "100%", height: 120, objectFit: "cover", display: "block" }}
               />
               <div style={{ padding: "10px 12px" }}>
-                <p
-                  style={{
-                    margin: 0,
-                    fontSize: "0.85rem",
-                    lineHeight: 1.35,
-                    color: "var(--text, #f4f4f5)",
-                  }}
-                >
+                <p style={{ margin: 0, fontSize: "0.85rem", lineHeight: 1.35, color: "var(--text, #f4f4f5)" }}>
                   {v.title}
                 </p>
               </div>
