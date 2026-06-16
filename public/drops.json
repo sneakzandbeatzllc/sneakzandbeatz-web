@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T20:34:37+00:00",
+  "generated_utc": "2026-06-16T21:07:37+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -63,6 +63,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "74db885a190b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
+      "thumbnail": "/drops/thumbs/74db885a190b.jpg",
+      "published": "2026-06-16T13:49:25",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "cdb12351ad98",
       "pillar": "sneakers",
       "title": "Where to Buy the Air Jordan 5 “Black/University Blue”",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
       "thumbnail": "/drops/thumbs/67d4186d382d.jpg",
       "published": "2026-06-10T12:26:39",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9117a67223d5",
-      "pillar": "sneakers",
-      "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
-      "thumbnail": "/drops/thumbs/9117a67223d5.jpg",
-      "published": "2026-06-09T15:29:21",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "89b08ea8c4dc",
+      "id": "ad15b42bd392",
       "pillar": "anime",
-      "title": "Eden of Witches Manga Ends in Next Chapter on August 12",
+      "title": "Isabella Bird in Wonderland - Unbeaten Tracks in Japan Manga Ends on September 15",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/eden-of-witches-manga-ends-in-next-chapter-on-august-12/.238562",
-      "thumbnail": "/drops/thumbs/89b08ea8c4dc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/isabella-bird-in-wonderland-unbeaten-tracks-in-japan-manga-ends-on-september-15/.238572",
+      "thumbnail": "/drops/thumbs/ad15b42bd392.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "d7e5ddf98c14",
+      "id": "0faa6dfdfbe5",
       "pillar": "anime",
-      "title": "Komi Can't Communicate Manga Gets New Chapter",
+      "title": "Samurai Deeper Kyo's Akimine Kamijyō Launches New KILLER+SITTER Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/komi-cant-communicate-manga-gets-new-chapter/.238561",
-      "thumbnail": "/drops/thumbs/d7e5ddf98c14.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/samurai-deeper-kyo-akimine-kamijyo-launches-new-killer-sitter-manga/.238584",
+      "thumbnail": "/drops/thumbs/0faa6dfdfbe5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "e5f53950bb6a",
+      "id": "89b08ea8c4dc",
       "pillar": "anime",
-      "title": "My Clueless First Friend's Taku Kawamura Launches New Manga on July 30",
+      "title": "Eden of Witches Manga Ends in Next Chapter on August 12",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/my-clueless-first-friend-taku-kawamura-launches-new-manga-on-july-30/.238531",
-      "thumbnail": "/drops/thumbs/e5f53950bb6a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/eden-of-witches-manga-ends-in-next-chapter-on-august-12/.238562",
+      "thumbnail": "/drops/thumbs/89b08ea8c4dc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "b359742a22b6",
+      "id": "0b034604b589",
       "pillar": "gaming",
-      "title": "Double Fine Acknowledges Shutdown Talks With Xbox In A Single Emoji",
+      "title": "Epic Shows GenAI Riddling Fortnite Characters And Buildings With Mistakes Its Artists Then Have To Fix",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/double-fine-acknowledges-xbox-shutdown-talks-with-a-single-emoji-2000707095",
-      "thumbnail": "/drops/thumbs/b359742a22b6.jpg",
+      "source_url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
+      "thumbnail": "/drops/thumbs/0b034604b589.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "6821f88c68d2",
+      "id": "387ab820dea3",
       "pillar": "gaming",
-      "title": "News Hellraiser: Revival Will Become PS5's Most Gruesome Horror Game This October",
+      "title": "News PS5's 'Recently Played' Section Wiped as Sony Contends with Another Security Concern",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/hellraiser-revival-will-become-ps5s-most-gruesome-horror-game-this-october",
-      "thumbnail": "/drops/thumbs/6821f88c68d2.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5s-recently-played-section-wiped-as-sony-contends-with-another-security-concern",
+      "thumbnail": "/drops/thumbs/387ab820dea3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "f208af630a01",
+      "id": "b359742a22b6",
       "pillar": "gaming",
-      "title": "Shrek And Donkey Are So Detailed In The New Trailer And It’s Breaking My Brain",
+      "title": "Double Fine Acknowledges Shutdown Talks With Xbox In A Single Emoji",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/shrek-and-donkey-are-so-detailed-in-the-new-trailer-and-its-breaking-my-brain-2000707117",
-      "thumbnail": "/drops/thumbs/f208af630a01.jpg",
+      "source_url": "https://kotaku.com/double-fine-acknowledges-xbox-shutdown-talks-with-a-single-emoji-2000707095",
+      "thumbnail": "/drops/thumbs/b359742a22b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
