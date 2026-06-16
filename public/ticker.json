@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T09:09:30+00:00",
+  "generated_utc": "2026-06-16T09:54:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime's Video Reveals Theme Songs, July 3 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/i-became-a-legend-after-my-10-year-long-last-stand-anime-video-reveals-theme-songs-july-3-debut/.238563",
+      "title": "New Ghost in the Shell Anime's Prime Video Trailer Unveils July 7 Net Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-16/new-ghost-in-the-shell-anime-prime-video-trailer-unveils-july-7-net-debut/.238571",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Cyborg 009: Nemesis Anime Casts Kazuhiro Yamaji, Tōru Nara",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/cyborg-009-nemesis-anime-casts-kazuhiro-yamaji-toru-nara/.238566",
+      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime's Video Reveals Theme Songs, July 3 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-16/i-became-a-legend-after-my-10-year-long-last-stand-anime-video-reveals-theme-songs-july-3-debut/.238563",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -118,13 +118,6 @@
     {
       "title": "Rumor: Clair Obscur: Expedition 33 Coming To Switch 2 This Year",
       "url": "https://gameranx.com/updates/id/563063/article/rumor-clair-obscur-expedition-33-coming-to-switch-2-this-year/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World",
-      "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-poised-to-sell-extremely-well-topping-ps-store-charts-around-the-world",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -146,6 +139,13 @@
     {
       "title": "Rumor: Marathon Sponsor Deal Asks Streamers Not To Talk About Destiny 3",
       "url": "https://gameranx.com/updates/id/563061/article/rumor-marathon-sponsor-deal-asks-streamers-not-to-talk-about-destiny-3/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News The 13-Year-Old PS4 Has a New Firmware Update, Here Are the Patch Notes",
+      "url": "https://www.pushsquare.com/news/2026/06/the-13-year-old-ps4-has-a-new-firmware-update-here-are-the-patch-notes",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
