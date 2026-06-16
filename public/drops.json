@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T20:00:19+00:00",
+  "generated_utc": "2026-06-16T20:12:14+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "d7e5ddf98c14",
+      "id": "89b08ea8c4dc",
       "pillar": "anime",
-      "title": "Komi Can't Communicate Manga Gets New Chapter",
+      "title": "Eden of Witches Manga Ends in Next Chapter on August 12",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/komi-cant-communicate-manga-gets-new-chapter/.238561",
-      "thumbnail": "/drops/thumbs/d7e5ddf98c14.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/eden-of-witches-manga-ends-in-next-chapter-on-august-12/.238562",
+      "thumbnail": "/drops/thumbs/89b08ea8c4dc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "e5f53950bb6a",
+      "id": "d7e5ddf98c14",
       "pillar": "anime",
-      "title": "My Clueless First Friend's Taku Kawamura Launches New Manga on July 30",
+      "title": "Komi Can't Communicate Manga Gets New Chapter",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/my-clueless-first-friend-taku-kawamura-launches-new-manga-on-july-30/.238531",
-      "thumbnail": "/drops/thumbs/e5f53950bb6a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/komi-cant-communicate-manga-gets-new-chapter/.238561",
+      "thumbnail": "/drops/thumbs/d7e5ddf98c14.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,24 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "3c3fd923e818",
+      "id": "e5f53950bb6a",
       "pillar": "anime",
-      "title": "GKIDS to Screen Cocoon Wartime Anime on September 4",
+      "title": "My Clueless First Friend's Taku Kawamura Launches New Manga on July 30",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/gkids-to-screen-cocoon-wartime-anime-on-september-4/.238580",
-      "thumbnail": "/drops/thumbs/3c3fd923e818.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "06cfa00ae22f",
-      "pillar": "gaming",
-      "title": "GTA 6 Release Date Confirmed By Take-Two Boss In The Strangest Way",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059",
-      "thumbnail": "/drops/thumbs/06cfa00ae22f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/my-clueless-first-friend-taku-kawamura-launches-new-manga-on-july-30/.238531",
+      "thumbnail": "/drops/thumbs/e5f53950bb6a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -237,6 +225,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-xbox-games-showcase-2026-preview-interview/",
       "thumbnail": "/drops/thumbs/864814328d1f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b359742a22b6",
+      "pillar": "gaming",
+      "title": "Double Fine Acknowledges Xbox Shutdown Talks With A Single Emoji",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/double-fine-acknowledges-xbox-shutdown-talks-with-a-single-emoji-2000707095",
+      "thumbnail": "/drops/thumbs/b359742a22b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "779db71fc001",
     "7a6e88f7214c",
     "ff07f49af52d",
-    "06cfa00ae22f"
+    "6d5094e7044d"
   ]
 }

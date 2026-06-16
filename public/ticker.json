@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T20:00:19+00:00",
+  "generated_utc": "2026-06-16T20:12:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,8 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "Komi Can't Communicate Manga Gets New Chapter",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/komi-cant-communicate-manga-gets-new-chapter/.238561",
+      "title": "Eden of Witches Manga Ends in Next Chapter on August 12",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-16/eden-of-witches-manga-ends-in-next-chapter-on-august-12/.238562",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "My Clueless First Friend's Taku Kawamura Launches New Manga on July 30",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/my-clueless-first-friend-taku-kawamura-launches-new-manga-on-july-30/.238531",
+      "title": "Komi Can't Communicate Manga Gets New Chapter",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-16/komi-cant-communicate-manga-gets-new-chapter/.238561",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,16 +109,9 @@
       "article_slug": null
     },
     {
-      "title": "GKIDS to Screen Cocoon Wartime Anime on September 4",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/gkids-to-screen-cocoon-wartime-anime-on-september-4/.238580",
+      "title": "My Clueless First Friend's Taku Kawamura Launches New Manga on July 30",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-16/my-clueless-first-friend-taku-kawamura-launches-new-manga-on-july-30/.238531",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "GTA 6 Release Date Confirmed By Take-Two Boss In The Strangest Way",
-      "url": "https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -139,6 +132,13 @@
     {
       "title": "Summer Preview The Coalition says that Gears of War: E-Day \"isn't a reaction to Gears 5\" – it's a return to the series' roots",
       "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-xbox-games-showcase-2026-preview-interview/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Double Fine Acknowledges Xbox Shutdown Talks With A Single Emoji",
+      "url": "https://kotaku.com/double-fine-acknowledges-xbox-shutdown-talks-with-a-single-emoji-2000707095",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
