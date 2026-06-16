@@ -108,7 +108,7 @@ export async function OnAirBar() {
 
 const ZONES = [
   { img: "/photos/sb-urban-clothesline.jpg", tag: "Sneakz of the Day", href: "/sneakers", span: true },
-  { img: "/beat-lab-promo.jpg", tag: "The Beat Lab", href: "/beats" },
+  { img: "/photos/sb-producer-monitors.jpg", tag: "The Beat Lab", href: "/beats" },
   { img: "/merch/girls-crop-pink-sb.jpg", tag: "S&B Girls", href: "/creators", pos: "center 28%" },
   { img: "/photos/pillars/gaming.webp", tag: "The Arcade Corner", href: "/gaming" },
   { img: "/photos/pillars/anime.png", tag: "The Frames", href: "/anime" },
@@ -298,6 +298,13 @@ export function BeatLabV3() {
         <div className="beatlab-art">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src="/photos/sb-producer-monitors.jpg" alt="The Beat Lab" loading="lazy" />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/beat-lab-promo.jpg"
+            alt="The Vault — 100 mastered beats for $79"
+            loading="lazy"
+            style={{ display: "block", width: "100%", height: "auto" }}
+          />
         </div>
         <div>
           <span className="eyebrow">The back room · Beat Lab</span>
