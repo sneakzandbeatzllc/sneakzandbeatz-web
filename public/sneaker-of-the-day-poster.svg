@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16161a"/>
+      <stop offset="1" stop-color="#070708"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1000" height="1840" rx="36" fill="none" stroke="#2a2a30" stroke-width="3"/>
+  <text x="540" y="900" text-anchor="middle" fill="#FF6A1A" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="6">SNEAKER OF THE DAY</text>
+  <text x="540" y="990" text-anchor="middle" fill="#f4f4f5" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="400">Today&#8217;s clip drops here</text>
+  <text x="540" y="1060" text-anchor="middle" fill="#8a8a93" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400">PHRHX · original content</text>
+  <polygon points="510,1180 510,1320 630,1250" fill="#FF6A1A"/>
+</svg>

@@ -110,6 +110,40 @@ export default async function LaneEssayPage({
               day: "numeric",
             })}
           </p>
+          {essay.heroImage && (
+            <figure style={{ margin: "24px 0 0" }}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={essay.heroImage}
+                alt={essay.title}
+                style={{ width: "100%", borderRadius: 12, display: "block" }}
+              />
+              {essay.heroCredit && (
+                <figcaption style={{ fontSize: "0.78rem", opacity: 0.6, marginTop: 8 }}>
+                  Photo:{" "}
+                  {essay.heroCreditUrl ? (
+                    <a href={essay.heroCreditUrl} target="_blank" rel="noopener noreferrer">
+                      {essay.heroCredit}
+                    </a>
+                  ) : (
+                    essay.heroCredit
+                  )}
+                </figcaption>
+              )}
+            </figure>
+          )}
+          {!essay.heroImage && essay.heroCredit && (
+            <p style={{ fontSize: "0.78rem", opacity: 0.6, marginTop: 12 }}>
+              Lead image source:{" "}
+              {essay.heroCreditUrl ? (
+                <a href={essay.heroCreditUrl} target="_blank" rel="noopener noreferrer">
+                  {essay.heroCredit}
+                </a>
+              ) : (
+                essay.heroCredit
+              )}
+            </p>
+          )}
         </header>
 
         <article className="legal-section lane-essay-body">

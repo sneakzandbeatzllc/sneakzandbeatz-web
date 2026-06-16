@@ -1,5 +1,7 @@
 import Header from "@/components/Header";
 import TikTokFeed from "@/components/TikTokFeed";
+import LaneFeedHome from "@/components/LaneFeedHome";
+import SneakerOfTheDay from "@/components/SneakerOfTheDay";
 import SubstackSticker from "@/components/SubstackSticker";
 import Footer from "@/components/Footer";
 import {
@@ -122,11 +124,13 @@ export default async function HomePage() {
       <Header />
       <RoomHero />
       <ProgramGuide />
+      <LaneFeedHome />
       <TheFeedV3 />
       <BeatLabV3 />
       <MerchZone />
       <GirlsZone />
       <TikTokFeed />
+      <SneakerOfTheDay />
       <AdBreak />
       <SubstackSticker />
       <Footer />

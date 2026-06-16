@@ -22,6 +22,10 @@ export type LaneEssay = {
   ogHeadline: string;       // multi-line OG image headline (use \n for breaks)
   ogAccent: string;         // hex accent color for the OG card gradient (without #)
   body: string;             // Markdown body
+  pillar?: "sneakers" | "hiphop" | "anime" | "gaming";
+  heroImage?: string;
+  heroCredit?: string;
+  heroCreditUrl?: string;
 };
 
 export const LANE_ESSAYS: LaneEssay[] = [
@@ -264,6 +268,9 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     slug: "air-jordan-7-miro-2026-return",
+    pillar: "sneakers",
+    heroCredit: "SneakerFiles",
+    heroCreditUrl: "https://www.sneakerfiles.com/air-jordan-7-miro-2026/",
     title: "The 1,000-Pair Jordan 7 ‘Miro’ Is Now a General Release",
     headline: "The Grail That Became\nA General Release.",
     subhead:
