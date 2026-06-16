@@ -269,6 +269,7 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   {
     slug: "air-jordan-7-miro-2026-return",
     pillar: "sneakers",
+    heroImage: "/miro-7.png",
     heroCredit: "SneakerFiles",
     heroCreditUrl: "https://www.sneakerfiles.com/air-jordan-7-miro-2026/",
     title: "The 1,000-Pair Jordan 7 ‘Miro’ Is Now a General Release",
