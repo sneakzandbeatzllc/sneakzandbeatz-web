@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T08:39:47+00:00",
+  "generated_utc": "2026-06-16T08:52:43+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy 7 Revelation lead thinks a potential Final Fantasy 6 remake would \"be in better hands\" with another dev",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lead-thinks-a-potential-final-fantasy-6-remake-would-be-in-better-hands-if-it-went-to-another-creator-in-square-enix/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: Clair Obscur: Expedition 33 Coming To Switch 2 This Year",
       "url": "https://gameranx.com/updates/id/563063/article/rumor-clair-obscur-expedition-33-coming-to-switch-2-this-year/",
       "pillar": "gaming",
@@ -132,6 +125,13 @@
     {
       "title": "News Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World",
       "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-poised-to-sell-extremely-well-topping-ps-store-charts-around-the-world",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Summer Preview The Coalition says that Gears of War: E-Day \"isn't a reaction to Gears 5\" – it's a return to the series' roots",
+      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-xbox-games-showcase-2026-preview-interview/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "GTA 5 and Red Dead Redemption 2 lead says \"the most fun thing\" in any Rockstar game is \"the systems that we make\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-and-red-dead-redemption-2-writer-dan-houser-says-the-most-fun-thing-about-the-game-isnt-any-rubbish-we-write-its-the-systems-that-we-make/",
+      "title": "Double Fine, Ninja Theory reportedly among multiple Xbox studios rushing to negotiate an exit",
+      "url": "https://www.gamesradar.com/games/double-fine-ninja-theory-reportedly-among-multiple-xbox-studios-rushing-to-negotiate-an-exit-as-microsoft-plans-more-layoffs/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
