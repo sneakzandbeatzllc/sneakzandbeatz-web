@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T18:20:16+00:00",
+  "generated_utc": "2026-06-16T18:50:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,22 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "My Clueless First Friend's Taku Kawamura Launches New Manga on July 30",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/my-clueless-first-friend-taku-kawamura-launches-new-manga-on-july-30/.238531",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Kiki's Delivery Service is being turned into a live-action TV show",
       "url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "GKIDS to Screen Cocoon Wartime Anime on September 4",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/gkids-to-screen-cocoon-wartime-anime-on-september-4/.238580",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +95,22 @@
       "article_slug": null
     },
     {
-      "title": "Death Note the Musical Announces Cast for London Run",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-16/death-note-the-musical-announces-cast-for-london-run/.238579",
+      "title": "Prime Video's The Ghost in the Shell Just Dropped The First 10/10 Trailer Of 2026",
+      "url": "https://screenrant.com/ghost-shell-prime-video-new-trailer-perfect/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Komi Can't Communicate Officially Drops New Timeskip Release",
+      "url": "https://screenrant.com/komi-cant-communicate-timeskip-chapter-release-college-years/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Studio Ghibli Sets First-Ever Live-Action Remake Of Kiki’s Delivery Service 37 Years Later",
+      "url": "https://screenrant.com/studio-ghibli-kikis-delivery-service-live-action-remake-bbc/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -125,13 +125,6 @@
     {
       "title": "Rumor: Clair Obscur: Expedition 33 Coming To Switch 2 This Year",
       "url": "https://gameranx.com/updates/id/563063/article/rumor-clair-obscur-expedition-33-coming-to-switch-2-this-year/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Saros Dev Wants To Mimic FromSoftware’s Dark Souls Journey: ‘We Will Keep Educating The Market That These Are The Coolest Games You Can Play’",
-      "url": "https://kotaku.com/saros-housemarque-returnal-new-content-dlc-fromsoftware-2000707113",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Best New Games Announced In May 2026",
       "url": "https://gameranx.com/features/id/563080/article/best-new-games-announced-in-may-2026/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sega Put Sonic’s DNA In A Chaos Emerald, Your Move Nintendo",
+      "url": "https://kotaku.com/sega-put-sonics-dna-in-a-chaos-emerald-your-move-nintendo-2000707158",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
