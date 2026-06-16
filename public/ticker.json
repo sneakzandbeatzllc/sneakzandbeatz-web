@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T11:56:20+00:00",
+  "generated_utc": "2026-06-16T12:57:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "Call Of Duty Studio Treyarch Is Losing Its Studio Head Of Nearly A Decade",
-      "url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: Marathon Sponsor Deal Asks Streamers Not To Talk About Destiny 3",
       "url": "https://gameranx.com/updates/id/563061/article/rumor-marathon-sponsor-deal-asks-streamers-not-to-talk-about-destiny-3/",
       "pillar": "gaming",
@@ -144,15 +137,22 @@
       "article_slug": null
     },
     {
-      "title": "News 12 PS Plus Extra Game Removals for July 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/06/12-ps-plus-extra-game-removals-for-july-2026-confirmed",
+      "title": "Rumour Gaming Industry 'Bloodbath' Imminent, as Sony, Microsoft, and More Brace for Mass Layoffs",
+      "url": "https://www.pushsquare.com/news/2026/06/rumour-gaming-industry-bloodbath-imminent-as-sony-microsoft-and-more-brace-for-mass-layoffs",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Put Echoes of Aincrad: Sword Art Online to the Test in Lengthy PS5 Demo, Out Now",
-      "url": "https://www.pushsquare.com/news/2026/06/put-echoes-of-aincrad-sword-art-online-to-the-test-in-lengthy-ps5-demo-out-now",
+      "title": "Xbox In Talks To Close Double Fine And Ninja Theory, Which Just Revealed Its New Game",
+      "url": "https://kotaku.com/psychonauts-hellblade-south-of-midnight-studios-negotiating-xbox-closure-2000706718",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News PS Plus Premium's Brilliant PS2 Classic Gitaroo Man Arrives with Full Trophy Support",
+      "url": "https://www.pushsquare.com/news/2026/06/ps-plus-premiums-brilliant-ps2-classic-gitaroo-man-arrives-with-full-trophy-support",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
