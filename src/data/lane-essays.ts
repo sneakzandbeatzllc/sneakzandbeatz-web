@@ -262,6 +262,59 @@ That's the brand. That's the lane. That's what we own.
 
 Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars, daily.`,
   },
+  {
+    slug: "air-jordan-7-miro-2026-return",
+    title: "The 1,000-Pair Jordan 7 ‘Miro’ Is Now a General Release",
+    headline: "The Grail That Became\nA General Release.",
+    subhead:
+      "The Air Jordan 7 “Miro” — a ~1,000-pair Beijing 2008 grail tied to the Dream Team and Joan Miró — returns July 10 at $255. First retro in 18 years, and the first you don’t need a connect to own.",
+    description:
+      "The Air Jordan 7 'Miro' returns July 10, 2026 at $255 (IQ6573-100) — its first retro since the ~1,000-pair Beijing 2008 release. Sneakz & Beatz on what happens to a grail when Jordan Brand turns it into a GR.",
+    publishedAt: "2026-06-15",
+    keywords: [
+      "Air Jordan 7 Miro",
+      "AJ7 Miro 2026",
+      "IQ6573-100",
+      "Jordan 7 Olympic",
+      "Joan Miro Jordan",
+      "Sneakz and Beatz",
+      "PHRHX",
+      "Jordan retro 2026",
+    ],
+    ogHeadline: "The grail that became\na general release.",
+    ogAccent: "FF6A1A",
+    body: `## TL;DR
+
+The Air Jordan 7 "Miro" was a ~1,000-pair Beijing 2008 grail — the kind of shoe you kept in the box, not on your feet. On **July 10, 2026** it comes back at **$255** (style code IQ6573-100) as a general release: its first retro in 18 years, and the first time it's a shoe anyone can buy. The story isn't the colorway. **It's what happens to a grail when Jordan Brand decides scarcity has done its job.**
+
+---
+
+## What's actually dropping
+
+July 10, 2026, on SNKRS and select Jordan retailers. $255. Style code IQ6573-100. White/Metallic Gold-Sport Red-Varsity Royal: white leather overlays over black nubuck, with the paint-splatter graphics that made the original unmistakable, on Tinker Hatfield's silhouette. This is the AJ7's first proper return since 2008. It lands in a stacked July — a week after the True Blue 3s, ahead of the AJ41 "Metallic Silver" — which makes it a Jordan double-header week for anyone tracking the calendar.
+
+## The original was barely a release
+
+The 2008 "Miro Olympic" wasn't a drop, it was a rumor with a receipt. Roughly 1,000 pairs worldwide, out July 3, 2008, timed to the Beijing Games. If you had a pair, you didn't wear them to the function — you kept the box. That number is why this 2026 retro is complicated: a thousand pairs becoming a general release is a different shoe doing a different job.
+
+## Why "Miro" — and who the art belonged to
+
+The name comes from Joan Miró, the Catalan surrealist, and specifically his Barcelona sculpture *Dona i Ocell* ("Woman and Bird"). The reds, yellows, blues and greens scattered across the upper are lifted from that public artwork. Sit with that for a second: a piece of public Catalan art becomes a luxury basketball graphic, and the markup runs in exactly one direction. The culture supplies the image; the brand supplies the invoice. We've seen that movie on every silhouette we cover.
+
+## The Dream Team thread is the real anchor
+
+The 7 is welded to 1992 — MJ in Barcelona, the Dream Team, the gold medal, the bench as a coronation. The Olympic colorways have always been the AJ7's strongest chapter because they point back to the moment basketball went global and Jordan went from player to property. "Miro" carries that weight even though the art is Spanish and the medal was American — the shoe is doing diplomacy and merch at the same time.
+
+## Grail to GR: democratized or diluted?
+
+Here's the live debate. Making a 1,000-pair shoe a $255 general release means the kid who never had a shot at the 2008 pair gets a clean one in 2026 — that's the good version. The other read: scarcity was the whole point, and a wide release turns a grail into another retro on the shelf by August. Both can be true. Either way, the people who profited from the original thousand — resellers, not the culture that built the demand — already got paid.
+
+## Where this sits for us
+
+A-tier drop, 24/30 on our scoring — worth a top-three slot in the drops feed, this article, and a [PHRHX Show](/show) segment built on the grail-to-GR tension, not the colorway. The hook for the next person on the chain: *Jordan turned a 1,000-pair grail into a GR — democratizing a classic or printing over its scarcity?* Run it July 10, pair it with the True Blue 3s as the week's Jordan double-header, and let the comments argue the dilution question.
+
+Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.`,
+  },
 ];
 
 export function getEssay(slug: string): LaneEssay | undefined {
