@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T17:03:32+00:00",
+  "generated_utc": "2026-06-16T17:15:52+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "News Halo: Campaign Evolved Goes All-In on PS5 Pro Support as Xbox Bets Big on Rival Console",
+      "url": "https://www.pushsquare.com/news/2026/06/halo-campaign-evolved-goes-all-in-on-ps5-pro-support-as-xbox-bets-big-on-rival-console",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Summer Preview The Coalition says that Gears of War: E-Day \"isn't a reaction to Gears 5\" – it's a return to the series' roots",
       "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-xbox-games-showcase-2026-preview-interview/",
       "pillar": "gaming",
@@ -146,13 +153,6 @@
     {
       "title": "News Hellraiser: Revival Will Become PS5's Most Gruesome Horror Game This October",
       "url": "https://www.pushsquare.com/news/2026/06/hellraiser-revival-will-become-ps5s-most-gruesome-horror-game-this-october",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Another Sony Security Concern: PS5 Games People Don't Own Are Appearing on Their Profiles",
-      "url": "https://www.pushsquare.com/news/2026/06/another-sony-security-concern-ps5-games-people-dont-own-are-appearing-on-their-profiles",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
