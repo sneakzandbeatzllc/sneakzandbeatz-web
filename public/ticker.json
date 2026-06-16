@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T04:07:20+00:00",
+  "generated_utc": "2026-06-16T07:08:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "1st U.S. Store for Ghibli Goods Opens as Pop-Up in Southern California",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-15/1st-u.s-store-for-ghibli-goods-opens-as-pop-up-in-southern-california/.238557",
+      "title": "Cyborg 009: Nemesis Anime Casts Kazuhiro Yamaji, Tōru Nara",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-16/cyborg-009-nemesis-anime-casts-kazuhiro-yamaji-toru-nara/.238566",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "The Exiled Heavy Knight Knows How to Game the System Anime's New VIdeo Unveils ReoNa's Ending Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-15/the-exiled-heavy-knight-knows-how-to-game-the-system-anime-new-video-unveils-reona-ending-song/.238558",
+      "title": "1st U.S. Store for Ghibli Goods Opens as Pop-Up in Southern California",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-15/1st-u.s-store-for-ghibli-goods-opens-as-pop-up-in-southern-california/.238557",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -112,13 +112,6 @@
       "title": "Studio Ghibli officially gets its first-ever store in the US, but there's a catch",
       "url": "https://www.polygon.com/studio-ghibli-us-store-pop-up-2026/",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rumour The Witcher Co-Op Action RPG in Development, and You Make Your Own Character",
-      "url": "https://www.pushsquare.com/news/2026/06/rumour-the-witcher-co-op-action-rpg-in-development-and-you-make-your-own-character",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -132,6 +125,13 @@
     {
       "title": "Rumor: Clair Obscur: Expedition 33 Coming To Switch 2 This Year",
       "url": "https://gameranx.com/updates/id/563063/article/rumor-clair-obscur-expedition-33-coming-to-switch-2-this-year/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World",
+      "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-poised-to-sell-extremely-well-topping-ps-store-charts-around-the-world",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

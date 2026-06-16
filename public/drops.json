@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-16T04:07:20+00:00",
+  "generated_utc": "2026-06-16T07:08:34+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "92b70598ae38",
+      "id": "4a1cab1102d8",
       "pillar": "anime",
-      "title": "1st U.S. Store for Ghibli Goods Opens as Pop-Up in Southern California",
+      "title": "Cyborg 009: Nemesis Anime Casts Kazuhiro Yamaji, Tōru Nara",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-15/1st-u.s-store-for-ghibli-goods-opens-as-pop-up-in-southern-california/.238557",
-      "thumbnail": "/drops/thumbs/92b70598ae38.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/cyborg-009-nemesis-anime-casts-kazuhiro-yamaji-toru-nara/.238566",
+      "thumbnail": "/drops/thumbs/4a1cab1102d8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "32883b9296f8",
+      "id": "92b70598ae38",
       "pillar": "anime",
-      "title": "The Exiled Heavy Knight Knows How to Game the System Anime's New VIdeo Unveils ReoNa's Ending Song",
+      "title": "1st U.S. Store for Ghibli Goods Opens as Pop-Up in Southern California",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-15/the-exiled-heavy-knight-knows-how-to-game-the-system-anime-new-video-unveils-reona-ending-song/.238558",
-      "thumbnail": "/drops/thumbs/32883b9296f8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-15/1st-u.s-store-for-ghibli-goods-opens-as-pop-up-in-southern-california/.238557",
+      "thumbnail": "/drops/thumbs/92b70598ae38.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,18 +189,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/studio-ghibli-us-store-pop-up-2026/",
       "thumbnail": "/drops/thumbs/2ce2197f2513.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1bc159d6ea5f",
-      "pillar": "gaming",
-      "title": "Rumour The Witcher Co-Op Action RPG in Development, and You Make Your Own Character",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/rumour-the-witcher-co-op-action-rpg-in-development-and-you-make-your-own-character",
-      "thumbnail": "/drops/thumbs/1bc159d6ea5f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +213,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563063/article/rumor-clair-obscur-expedition-33-coming-to-switch-2-this-year/",
       "thumbnail": "/drops/thumbs/6d5094e7044d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "50ef78f27474",
+      "pillar": "gaming",
+      "title": "News Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/halo-ps5-poised-to-sell-extremely-well-topping-ps-store-charts-around-the-world",
+      "thumbnail": "/drops/thumbs/50ef78f27474.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "779db71fc001",
     "7a6e88f7214c",
     "ff07f49af52d",
-    "1bc159d6ea5f"
+    "53d668079e16"
   ]
 }
