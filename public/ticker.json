@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T16:35:55+00:00",
+  "generated_utc": "2026-06-17T17:06:30+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -88,6 +88,13 @@
       "article_slug": null
     },
     {
+      "title": "Chainsaw Man's Live-Action Adaptation Is Officially Coming To America This Summer",
+      "url": "https://screenrant.com/chainsaw-man-live-action-america-release/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "K Manga Adds Daisaku Tsuru's Protocol Ryugu Manga",
       "url": "https://www.animenewsnetwork.com/news/2026-06-17/k-manga-adds-daisaku-tsuru-protocol-ryugu-manga/.238616",
       "pillar": "anime",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Yoshitaka Amano's ZAN Limited Anime Series Debuts 1st Trailer at Anime Expo on July 3",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-17/yoshitaka-amano-zan-limited-anime-series-debuts-1st-trailer-at-anime-expo-on-july-3/.238614",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News GTA 5 Pushing Players onto PS5 Ahead of GTA 6 with Free Upgrade and 'Easy Migration'",
       "url": "https://www.pushsquare.com/news/2026/06/gta-5-pushing-players-onto-ps5-ahead-of-gta-6-with-free-upgrade-and-easy-migration",
       "pillar": "gaming",
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "News Dragon's Dogma 2: Dark Arisen Details Will Be Absolutely Everywhere in August",
+      "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-details-will-be-absolutely-everywhere-in-august",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Persona 4 Fans Torn Over Remake's Totally New English Voice Cast",
       "url": "https://www.pushsquare.com/news/2026/06/persona-4-fans-torn-over-remakes-totally-new-english-voice-cast",
       "pillar": "gaming",
@@ -139,13 +146,6 @@
     {
       "title": "News Sony Reiterates God of War Laufey Is 'Coming Soon' to PS5",
       "url": "https://www.pushsquare.com/news/2026/06/sony-reiterates-god-of-war-laufey-is-coming-soon-to-ps5",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Final Fantasy Tactics Remaster Gets Surprise PS5 Patch, Adding New Game+, Settings, and More",
-      "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-tactics-remaster-gets-surprise-ps5-patch-adding-new-gameplus-settings-and-more",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
