@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T11:02:17+00:00",
+  "generated_utc": "2026-06-17T12:02:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,13 +74,6 @@
       "article_slug": null
     },
     {
-      "title": "10 Highest Rated Anime On Crunchyroll (#1 Beats One Piece)",
-      "url": "https://screenrant.com/highest-rated-anime-crunchyroll/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "CloverWorks' Omnibus Anime Film Grotesqqque Reveals 35 Musical Contributors",
       "url": "https://www.animenewsnetwork.com/news/2026-06-17/cloverworks-omnibus-anime-film-grotesqqque-reveals-35-musical-contributors/.238605",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "The Insipid Prince's Furtive Grab for The Throne Anime Unveils 2nd Video, Theme Songs, July 6 Debut",
       "url": "https://www.animenewsnetwork.com/news/2026-06-17/the-insipid-prince-furtive-grab-for-the-throne-anime-unveils-2nd-video-theme-songs-july-6-debut/.238604",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Kagurabachi Announces Sudden Hiatus Ahead Of Anime Release",
+      "url": "https://screenrant.com/kagurabachi-announces-sudden-hiatus-ahead-of-anime-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: The Latest Senua Was Revealed In Xbox Game Showcase To Help XBOX Sell Off Ninja Theory",
-      "url": "https://gameranx.com/updates/id/563093/article/rumor-the-latest-senua-was-revealed-in-xbox-game-showcase-to-help-xbox-sell-off-ninja-theory/",
+      "title": "Stop Killing Games Campaign Faces Huge Setback After EU Rejects Policy Proposal",
+      "url": "https://gameranx.com/updates/id/563098/article/stop-killing-games-campaign-faces-huge-setback-after-eu-rejects-policy-proposal/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Nintendo Of America Dismisses Data Breach, Says No Personal Or Financial Info Were Accessed",
-      "url": "https://gameranx.com/updates/id/563091/article/nintendo-of-america-dismisses-data-breach-says-no-personal-or-financial-info-were-accessed/",
+      "title": "The Latest Official PlayStation 5 SSDs Have Jumped In Price 4 X To As Much As $ 3000",
+      "url": "https://gameranx.com/updates/id/563096/article/the-latest-official-playstation-5-ssds-have-jumped-in-price-4-x-to-as-much-as-3000/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

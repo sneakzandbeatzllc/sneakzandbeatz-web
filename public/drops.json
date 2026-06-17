@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T11:02:17+00:00",
+  "generated_utc": "2026-06-17T12:02:11+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -123,18 +123,6 @@
       "release_badge": ""
     },
     {
-      "id": "113ca7c76747",
-      "pillar": "anime",
-      "title": "10 Highest Rated Anime On Crunchyroll (#1 Beats One Piece)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/highest-rated-anime-crunchyroll/",
-      "thumbnail": "/drops/thumbs/113ca7c76747.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "00ef7c10149f",
       "pillar": "anime",
       "title": "CloverWorks' Omnibus Anime Film Grotesqqque Reveals 35 Musical Contributors",
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/the-insipid-prince-furtive-grab-for-the-throne-anime-unveils-2nd-video-theme-songs-july-6-debut/.238604",
       "thumbnail": "/drops/thumbs/46b3d3304231.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "701f9fb210fd",
+      "pillar": "anime",
+      "title": "Kagurabachi Announces Sudden Hiatus Ahead Of Anime Release",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/kagurabachi-announces-sudden-hiatus-ahead-of-anime-release/",
+      "thumbnail": "/drops/thumbs/701f9fb210fd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "6b9c58a9f5bb",
+      "id": "e32e86b201ff",
       "pillar": "gaming",
-      "title": "Rumor: The Latest Senua Was Revealed In Xbox Game Showcase To Help XBOX Sell Off Ninja Theory",
+      "title": "Stop Killing Games Campaign Faces Huge Setback After EU Rejects Policy Proposal",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563093/article/rumor-the-latest-senua-was-revealed-in-xbox-game-showcase-to-help-xbox-sell-off-ninja-theory/",
-      "thumbnail": "/drops/thumbs/6b9c58a9f5bb.jpg",
+      "source_url": "https://gameranx.com/updates/id/563098/article/stop-killing-games-campaign-faces-huge-setback-after-eu-rejects-policy-proposal/",
+      "thumbnail": "/drops/thumbs/e32e86b201ff.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "43ba7f5649fd",
+      "id": "ee89dfb2e9be",
       "pillar": "gaming",
-      "title": "Nintendo Of America Dismisses Data Breach, Says No Personal Or Financial Info Were Accessed",
+      "title": "The Latest Official PlayStation 5 SSDs Have Jumped In Price 4 X To As Much As $ 3000",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563091/article/nintendo-of-america-dismisses-data-breach-says-no-personal-or-financial-info-were-accessed/",
-      "thumbnail": "/drops/thumbs/43ba7f5649fd.jpg",
+      "source_url": "https://gameranx.com/updates/id/563096/article/the-latest-official-playstation-5-ssds-have-jumped-in-price-4-x-to-as-much-as-3000/",
+      "thumbnail": "/drops/thumbs/ee89dfb2e9be.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
