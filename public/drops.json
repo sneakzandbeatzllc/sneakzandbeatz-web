@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T17:37:52+00:00",
+  "generated_utc": "2026-06-17T18:07:11+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -63,6 +63,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "4c0c135c5fd0",
+      "pillar": "sneakers",
+      "title": "First Look at Free the Youth’s Air Jordan 16",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
+      "thumbnail": "/drops/thumbs/4c0c135c5fd0.webp",
+      "published": "2026-06-17T13:57:57",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "462a17807e3e",
       "pillar": "sneakers",
       "title": "Jordan Celebrates Mike’s Last Dance at the Garden with a Special Air Jordan 1 Low",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
       "thumbnail": "/drops/thumbs/74db885a190b.jpg",
       "published": "2026-06-16T13:49:25",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cdb12351ad98",
-      "pillar": "sneakers",
-      "title": "Where to Buy the Air Jordan 5 “Black/University Blue”",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
-      "thumbnail": "/drops/thumbs/cdb12351ad98.jpg",
-      "published": "2026-06-15T01:14:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -159,24 +159,24 @@
       "release_badge": ""
     },
     {
-      "id": "f0a92e920899",
+      "id": "78e47acf0639",
       "pillar": "anime",
-      "title": "K Manga Adds Daisaku Tsuru's Protocol Ryugu Manga",
+      "title": "Crunchyroll Announces Release Schedule for Summer 2026 Season",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/k-manga-adds-daisaku-tsuru-protocol-ryugu-manga/.238616",
-      "thumbnail": "/drops/thumbs/f0a92e920899.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/crunchyroll-announces-release-schedule-for-summer-2026-season/.238615",
+      "thumbnail": "/drops/thumbs/78e47acf0639.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "3257473122f3",
+      "id": "f0a92e920899",
       "pillar": "anime",
-      "title": "Manga Up! Global Adds Haimiya Is Scary Cute Manga",
+      "title": "K Manga Adds Daisaku Tsuru's Protocol Ryugu Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/manga-up-global-adds-haimiya-is-scary-cute-manga/.238612",
-      "thumbnail": "/drops/thumbs/3257473122f3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/k-manga-adds-daisaku-tsuru-protocol-ryugu-manga/.238616",
+      "thumbnail": "/drops/thumbs/f0a92e920899.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "89711b253b71",
+      "pillar": "gaming",
+      "title": "There’s A Very Good Reason Why Jack Quaid Is Wearing A Mocap Suit To Play A Gelatinous Cube In The New God Of War",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/jack-quaid-mocap-suit-god-of-war-laufey-2000707608",
+      "thumbnail": "/drops/thumbs/89711b253b71.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1253eefa6b63",
       "pillar": "gaming",
       "title": "News Dragon's Dogma 2: Dark Arisen Details Will Be Absolutely Everywhere in August",
@@ -255,36 +267,24 @@
       "release_badge": ""
     },
     {
+      "id": "71824f289c97",
+      "pillar": "gaming",
+      "title": "Vampire Survivors Studio ‘Reviewing’ Future Fortnite Collab After Epic’s GenAI Announcements",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/vampire-survivors-studio-reviewing-future-fortnite-collab-after-epics-genai-annoumcents-2000707634",
+      "thumbnail": "/drops/thumbs/71824f289c97.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e32e86b201ff",
       "pillar": "gaming",
       "title": "Stop Killing Games Campaign Faces Huge Setback After EU Rejects Policy Proposal",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563098/article/stop-killing-games-campaign-faces-huge-setback-after-eu-rejects-policy-proposal/",
       "thumbnail": "/drops/thumbs/e32e86b201ff.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ddf3dfec1bed",
-      "pillar": "gaming",
-      "title": "The Adventures of Elliot: The Millennium Tales : The Kotaku Review",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-adventures-of-elliot-the-millennium-tales-the-kotaku-review-2000707122",
-      "thumbnail": "/drops/thumbs/ddf3dfec1bed.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f89bb12d52d9",
-      "pillar": "gaming",
-      "title": "Interview Why so many game developers don't want to use generative AI",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/why-so-many-game-developers-dont-want-to-use-generative-ai/",
-      "thumbnail": "/drops/thumbs/f89bb12d52d9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
