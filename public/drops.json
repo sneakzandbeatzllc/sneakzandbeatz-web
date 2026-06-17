@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T18:08:58+00:00",
+  "generated_utc": "2026-06-17T19:07:53+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "e3c1f1b11944",
+      "id": "3b2d79c11ae1",
       "pillar": "anime",
-      "title": "Kiki's Delivery Service is being turned into a live-action TV show",
+      "title": "Mushoku Tensei season 3 release date officially revealed as part of Crunchyroll's summer lineup",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
-      "thumbnail": "/drops/thumbs/e3c1f1b11944.jpg",
+      "source_url": "https://www.polygon.com/jobless-reincarnation-season-3-crunchyroll-summer-slate-release/",
+      "thumbnail": "/drops/thumbs/3b2d79c11ae1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "89711b253b71",
+      "id": "b3670a66b646",
       "pillar": "gaming",
-      "title": "There’s A Very Good Reason Why Jack Quaid Is Wearing A Mocap Suit To Play A Gelatinous Cube In The New God Of War",
+      "title": "Final Fantasy Tactics Finally Gets A New Game Plus Mode 29 Years Later And Fans Are Already Being Complete Sickos About It",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/jack-quaid-mocap-suit-god-of-war-laufey-2000707608",
-      "thumbnail": "/drops/thumbs/89711b253b71.jpg",
+      "source_url": "https://kotaku.com/final-fantasy-tactics-finally-gets-a-new-game-plus-mode-29-years-later-and-fans-are-already-being-complete-sickos-about-it-2000707558",
+      "thumbnail": "/drops/thumbs/b3670a66b646.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -237,6 +237,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-details-will-be-absolutely-everywhere-in-august",
       "thumbnail": "/drops/thumbs/1253eefa6b63.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cd6a1447468e",
+      "pillar": "gaming",
+      "title": "Yakuza Creator’s New Game Seems To Have Lost Its Director After NetEase Reportedly Pulled Funding",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/yakuza-creators-new-game-lost-director-2000707635",
+      "thumbnail": "/drops/thumbs/cd6a1447468e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "71824f289c97",
+      "id": "32db490f8b68",
       "pillar": "gaming",
-      "title": "Vampire Survivors Studio ‘Reviewing’ Future Fortnite Collab After Epic’s GenAI Announcements",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/vampire-survivors-studio-reviewing-future-fortnite-collab-after-epics-genai-annoumcents-2000707634",
-      "thumbnail": "/drops/thumbs/71824f289c97.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e32e86b201ff",
-      "pillar": "gaming",
-      "title": "Stop Killing Games Campaign Faces Huge Setback After EU Rejects Policy Proposal",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563098/article/stop-killing-games-campaign-faces-huge-setback-after-eu-rejects-policy-proposal/",
-      "thumbnail": "/drops/thumbs/e32e86b201ff.png",
+      "title": "News Vampire Survivors Dev 'Reviewing' Fortnite Collaboration Due to Epic's Use of Generative AI",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/vampire-survivors-dev-reviewing-fortnite-collaboration-due-to-epics-use-of-generative-ai",
+      "thumbnail": "/drops/thumbs/32db490f8b68.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
