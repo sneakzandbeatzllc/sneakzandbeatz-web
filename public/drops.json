@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T17:07:45+00:00",
+  "generated_utc": "2026-06-17T17:37:52+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -99,24 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "7aef60a4c2ff",
+      "id": "43a7a76378d1",
       "pillar": "anime",
-      "title": "Dragon Ball Xenoverse 3 will let you summon Goku's spirit",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dragon-ball-xenoverse-3-gameplay-mechanics-reveals/",
-      "thumbnail": "/drops/thumbs/7aef60a4c2ff.jpg",
+      "title": "Attack on Titan Unveils Glorious New Mikasa Design For 15th Anniversary",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/attack-on-titan-new-mikasa-design-15th-anniversary/",
+      "thumbnail": "/drops/thumbs/43a7a76378d1.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "611f3efb9ef9",
+      "id": "7aef60a4c2ff",
       "pillar": "anime",
-      "title": "10 Years Later, A Dragon Ball Icon's Brutal Berserk Critique Is Aging Like Milk",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-kazuhiro-torishima-berserk-critique/",
-      "thumbnail": "/drops/thumbs/611f3efb9ef9.png",
+      "title": "Dragon Ball Xenoverse 3 will let you summon Goku's spirit",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dragon-ball-xenoverse-3-gameplay-mechanics-reveals/",
+      "thumbnail": "/drops/thumbs/7aef60a4c2ff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "094b1500b6a8",
     "15fa64d17ff5",
     "779db71fc001",
-    "7aef60a4c2ff",
+    "43a7a76378d1",
     "ff07f49af52d",
     "01204bafde98"
   ]
