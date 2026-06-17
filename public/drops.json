@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T01:28:46+00:00",
+  "generated_utc": "2026-06-17T02:15:34+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "7a6e88f7214c",
-      "pillar": "anime",
-      "title": "It Took 32 Years, But Dragon Ball's Next Anime May Finally Top Vegeta's Best Arc",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-next-anime-vegeta-best-arc/",
-      "thumbnail": "/drops/thumbs/7a6e88f7214c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "155511f8bff9",
       "pillar": "anime",
       "title": "One Piece Is Officially Too Dark For Shonen Jump",
@@ -135,12 +123,36 @@
       "release_badge": ""
     },
     {
+      "id": "9f5bb0a2a82e",
+      "pillar": "anime",
+      "title": "Bandai Namco Filmworks Reveals 'Sunrise 50th Anniversary' Project Including 6 Short Film Projects",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/bandai-namco-filmworks-reveals-sunrise-50th-anniversary-project-including-6-short-film-projects/.238575",
+      "thumbnail": "/drops/thumbs/9f5bb0a2a82e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e3c1f1b11944",
       "pillar": "anime",
       "title": "Kiki's Delivery Service is being turned into a live-action TV show",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
       "thumbnail": "/drops/thumbs/e3c1f1b11944.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ad15b42bd392",
+      "pillar": "anime",
+      "title": "Isabella Bird in Wonderland - Unbeaten Tracks in Japan Manga Ends on September 15",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/isabella-bird-in-wonderland-unbeaten-tracks-in-japan-manga-ends-on-september-15/.238572",
+      "thumbnail": "/drops/thumbs/ad15b42bd392.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,36 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "130746c1c1a3",
+      "id": "0faa6dfdfbe5",
       "pillar": "anime",
-      "title": "Prime Video's The Ghost in the Shell Just Dropped The First 10/10 Trailer Of 2026",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/ghost-shell-prime-video-new-trailer-perfect/",
-      "thumbnail": "/drops/thumbs/130746c1c1a3.jpg",
+      "title": "Samurai Deeper Kyo's Akimine Kamijyō Launches New KILLER+SITTER Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-16/samurai-deeper-kyo-akimine-kamijyo-launches-new-killer-sitter-manga/.238584",
+      "thumbnail": "/drops/thumbs/0faa6dfdfbe5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "615ce9d34e20",
+      "id": "f9f7ba9eed36",
       "pillar": "anime",
-      "title": "Komi Can't Communicate Officially Drops New Timeskip Release",
+      "title": "Sword Art Online Meets Mushoku Tensei In 2026's Best Isekai That No One Talks About",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/komi-cant-communicate-timeskip-chapter-release-college-years/",
-      "thumbnail": "/drops/thumbs/615ce9d34e20.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c683cc03cad8",
-      "pillar": "anime",
-      "title": "Studio Ghibli Sets First-Ever Live-Action Remake Of Kiki’s Delivery Service 37 Years Later",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/studio-ghibli-kikis-delivery-service-live-action-remake-bbc/",
-      "thumbnail": "/drops/thumbs/c683cc03cad8.jpg",
+      "source_url": "https://screenrant.com/hell-mode-sword-art-online-meets-mushoku-tensei/",
+      "thumbnail": "/drops/thumbs/f9f7ba9eed36.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "094b1500b6a8",
     "15fa64d17ff5",
     "779db71fc001",
-    "7a6e88f7214c",
+    "155511f8bff9",
     "ff07f49af52d",
     "a304cddfe649"
   ]
