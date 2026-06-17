@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T13:33:47+00:00",
+  "generated_utc": "2026-06-17T14:04:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Is Officially Too Dark For Shonen Jump",
-      "url": "https://screenrant.com/one-piece-dark-shonen-elbaph-mature/",
+      "title": "Solo Leveling's Next Series May Be Coming Sooner Than Fans Think",
+      "url": "https://screenrant.com/netflix-solo-leveling-new-series-release-date-window/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Epic Shows GenAI Riddling Fortnite Characters And Buildings With Mistakes Its Artists Then Have To Fix",
-      "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Here's How You Unlock Halo's PS5 Platinum Trophy Next Month",
       "url": "https://www.pushsquare.com/news/2026/06/heres-how-you-unlock-halos-ps5-platinum-trophy-next-month",
       "pillar": "gaming",
@@ -153,6 +146,13 @@
     {
       "title": "Stop Killing Games Campaign Faces Huge Setback After EU Rejects Policy Proposal",
       "url": "https://gameranx.com/updates/id/563098/article/stop-killing-games-campaign-faces-huge-setback-after-eu-rejects-policy-proposal/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Xbox Reportedly Announced Hellblade 3 Despite Plans To Close Ninja Theory To Help Sell The Studio",
+      "url": "https://kotaku.com/xbox-reportedly-announced-hellblade-3-despite-plans-to-close-ninja-theory-to-help-sell-the-studio-2000707251",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
