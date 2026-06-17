@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T12:03:23+00:00",
+  "generated_utc": "2026-06-17T12:32:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball Xenoverse 3 will let you summon Goku's spirit",
+      "url": "https://www.polygon.com/dragon-ball-xenoverse-3-gameplay-mechanics-reveals/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "10 Years Later, A Dragon Ball Icon's Brutal Berserk Critique Is Aging Like Milk",
       "url": "https://screenrant.com/dragon-ball-kazuhiro-torishima-berserk-critique/",
       "pillar": "anime",
@@ -81,13 +88,6 @@
       "article_slug": null
     },
     {
-      "title": "Kiki's Delivery Service is being turned into a live-action TV show",
-      "url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Psyren Anime Streams 1st Teaser With Anime Footage",
       "url": "https://www.animenewsnetwork.com/news/2026-06-17/psyren-anime-streams-1st-teaser-with-anime-footage/.238603",
       "pillar": "anime",
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Billy Bat, Bug Ego, and more lead 2026 American Manga Awards nominees",
-      "url": "https://www.polygon.com/2026-best-manga-american-awards-nominees-list/",
+      "title": "Kiki's Delivery Service is being turned into a live-action TV show",
+      "url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -112,6 +112,13 @@
       "title": "Kagurabachi Announces Sudden Hiatus Ahead Of Anime Release",
       "url": "https://screenrant.com/kagurabachi-announces-sudden-hiatus-ahead-of-anime-release/",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Final Fantasy Tactics Remaster Gets Surprise PS5 Patch, Adding New Game+, Settings, and More",
+      "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-tactics-remaster-gets-surprise-ps5-patch-adding-new-gameplus-settings-and-more",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -137,15 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "News Here's How You Unlock Halo's PS5 Platinum Trophy Next Month",
-      "url": "https://www.pushsquare.com/news/2026/06/heres-how-you-unlock-halos-ps5-platinum-trophy-next-month",
+      "title": "Epic Shows GenAI Riddling Fortnite Characters And Buildings With Mistakes Its Artists Then Have To Fix",
+      "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Epic Shows GenAI Riddling Fortnite Characters And Buildings With Mistakes Its Artists Then Have To Fix",
-      "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
+      "title": "News Here's How You Unlock Halo's PS5 Platinum Trophy Next Month",
+      "url": "https://www.pushsquare.com/news/2026/06/heres-how-you-unlock-halos-ps5-platinum-trophy-next-month",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Helldivers 2 patch overhauls Major Orders with Galactic Campaigns, adds new biome, and more",
       "url": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2-overhauls-major-orders-with-galactic-campaigns-adds-a-new-biome-buffs-exo-suits-and-much-more-in-a-massive-patch/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Latest Official PlayStation 5 SSDs Have Jumped In Price 4 X To As Much As $ 3000",
-      "url": "https://gameranx.com/updates/id/563096/article/the-latest-official-playstation-5-ssds-have-jumped-in-price-4-x-to-as-much-as-3000/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T12:03:23+00:00",
+  "generated_utc": "2026-06-17T12:32:57+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "7aef60a4c2ff",
+      "pillar": "anime",
+      "title": "Dragon Ball Xenoverse 3 will let you summon Goku's spirit",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dragon-ball-xenoverse-3-gameplay-mechanics-reveals/",
+      "thumbnail": "/drops/thumbs/7aef60a4c2ff.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "611f3efb9ef9",
       "pillar": "anime",
       "title": "10 Years Later, A Dragon Ball Icon's Brutal Berserk Critique Is Aging Like Milk",
@@ -135,18 +147,6 @@
       "release_badge": ""
     },
     {
-      "id": "e3c1f1b11944",
-      "pillar": "anime",
-      "title": "Kiki's Delivery Service is being turned into a live-action TV show",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
-      "thumbnail": "/drops/thumbs/e3c1f1b11944.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ec96d014c90f",
       "pillar": "anime",
       "title": "Psyren Anime Streams 1st Teaser With Anime Footage",
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "e48eda14ee7d",
+      "id": "e3c1f1b11944",
       "pillar": "anime",
-      "title": "Billy Bat, Bug Ego, and more lead 2026 American Manga Awards nominees",
+      "title": "Kiki's Delivery Service is being turned into a live-action TV show",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/2026-best-manga-american-awards-nominees-list/",
-      "thumbnail": "/drops/thumbs/e48eda14ee7d.jpg",
+      "source_url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
+      "thumbnail": "/drops/thumbs/e3c1f1b11944.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,6 +189,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/kagurabachi-announces-sudden-hiatus-ahead-of-anime-release/",
       "thumbnail": "/drops/thumbs/701f9fb210fd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6ffef8b59e7d",
+      "pillar": "gaming",
+      "title": "News Final Fantasy Tactics Remaster Gets Surprise PS5 Patch, Adding New Game+, Settings, and More",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/final-fantasy-tactics-remaster-gets-surprise-ps5-patch-adding-new-gameplus-settings-and-more",
+      "thumbnail": "/drops/thumbs/6ffef8b59e7d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "86834568f654",
-      "pillar": "gaming",
-      "title": "News Here's How You Unlock Halo's PS5 Platinum Trophy Next Month",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/heres-how-you-unlock-halos-ps5-platinum-trophy-next-month",
-      "thumbnail": "/drops/thumbs/86834568f654.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0b034604b589",
       "pillar": "gaming",
       "title": "Epic Shows GenAI Riddling Fortnite Characters And Buildings With Mistakes Its Artists Then Have To Fix",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
       "thumbnail": "/drops/thumbs/0b034604b589.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86834568f654",
+      "pillar": "gaming",
+      "title": "News Here's How You Unlock Halo's PS5 Platinum Trophy Next Month",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/heres-how-you-unlock-halos-ps5-platinum-trophy-next-month",
+      "thumbnail": "/drops/thumbs/86834568f654.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,26 +289,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "ee89dfb2e9be",
-      "pillar": "gaming",
-      "title": "The Latest Official PlayStation 5 SSDs Have Jumped In Price 4 X To As Much As $ 3000",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563096/article/the-latest-official-playstation-5-ssds-have-jumped-in-price-4-x-to-as-much-as-3000/",
-      "thumbnail": "/drops/thumbs/ee89dfb2e9be.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "094b1500b6a8",
     "15fa64d17ff5",
     "779db71fc001",
-    "611f3efb9ef9",
+    "7aef60a4c2ff",
     "ff07f49af52d",
-    "a304cddfe649"
+    "6ffef8b59e7d"
   ]
 }
