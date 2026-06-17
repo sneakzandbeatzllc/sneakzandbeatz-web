@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T12:32:57+00:00",
+  "generated_utc": "2026-06-17T13:03:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Xbox Promises Gears Of War: E-Day Exclusivity Is Not A Limited-Time Fake Out",
-      "url": "https://kotaku.com/xbox-promises-gears-of-war-e-day-exclusivity-is-not-a-limited-time-fake-out-2000707199",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Epic Shows GenAI Riddling Fortnite Characters And Buildings With Mistakes Its Artists Then Have To Fix",
       "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Helldivers 2 patch overhauls Major Orders with Galactic Campaigns, adds new biome, and more",
       "url": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2-overhauls-major-orders-with-galactic-campaigns-adds-a-new-biome-buffs-exo-suits-and-much-more-in-a-massive-patch/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Latest Official PlayStation 5 SSDs Have Jumped In Price 4 X To As Much As $ 3000",
+      "url": "https://gameranx.com/updates/id/563096/article/the-latest-official-playstation-5-ssds-have-jumped-in-price-4-x-to-as-much-as-3000/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
