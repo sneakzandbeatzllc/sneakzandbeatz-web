@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T14:04:38+00:00",
+  "generated_utc": "2026-06-17T15:04:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,22 @@
       "article_slug": null
     },
     {
+      "title": "Solo Leveling Movie Confirmed, And It's Releasing Before Season 3",
+      "url": "https://screenrant.com/solo-leveling-movie-release-before-season-3/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Solo Leveling's Next Series May Be Coming Sooner Than Fans Think",
       "url": "https://screenrant.com/netflix-solo-leveling-new-series-release-date-window/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Yoshitaka Amano's ZAN Limited Anime Series Debuts 1st Trailer at Anime Expo on July 3",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-17/yoshitaka-amano-zan-limited-anime-series-debuts-1st-trailer-at-anime-expo-on-july-3/.238614",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Psyren Anime Streams 1st Teaser With Anime Footage",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-17/psyren-anime-streams-1st-teaser-with-anime-footage/.238603",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Kiki's Delivery Service is being turned into a live-action TV show",
       "url": "https://www.polygon.com/kikis-delivery-service-live-action-series-in-development/",
       "pillar": "anime",
@@ -102,22 +109,15 @@
       "article_slug": null
     },
     {
-      "title": "The Insipid Prince's Furtive Grab for The Throne Anime Unveils 2nd Video, Theme Songs, July 6 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-17/the-insipid-prince-furtive-grab-for-the-throne-anime-unveils-2nd-video-theme-songs-july-6-debut/.238604",
+      "title": "Psyren Anime Streams 1st Teaser With Anime Footage",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-17/psyren-anime-streams-1st-teaser-with-anime-footage/.238603",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Kagurabachi Announces Sudden Hiatus Ahead Of Anime Release",
-      "url": "https://screenrant.com/kagurabachi-announces-sudden-hiatus-ahead-of-anime-release/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Final Fantasy Tactics Remaster Gets Surprise PS5 Patch, Adding New Game+, Settings, and More",
-      "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-tactics-remaster-gets-surprise-ps5-patch-adding-new-gameplus-settings-and-more",
+      "title": "News GTA 5 Pushing Players onto PS5 Ahead of GTA 6 with Free Upgrade and 'Easy Migration'",
+      "url": "https://www.pushsquare.com/news/2026/06/gta-5-pushing-players-onto-ps5-ahead-of-gta-6-with-free-upgrade-and-easy-migration",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -130,15 +130,22 @@
       "article_slug": null
     },
     {
-      "title": "News Housemarque Hints Its Next PS5 Game Could Be Smaller Than Saros",
-      "url": "https://www.pushsquare.com/news/2026/06/housemarque-hints-its-next-ps5-game-could-be-smaller-than-saros",
+      "title": "News Persona 4 Fans Torn Over Remake's Totally New English Voice Cast",
+      "url": "https://www.pushsquare.com/news/2026/06/persona-4-fans-torn-over-remakes-totally-new-english-voice-cast",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Here's How You Unlock Halo's PS5 Platinum Trophy Next Month",
-      "url": "https://www.pushsquare.com/news/2026/06/heres-how-you-unlock-halos-ps5-platinum-trophy-next-month",
+      "title": "News Sony Reiterates God of War Laufey Is 'Coming Soon' to PS5",
+      "url": "https://www.pushsquare.com/news/2026/06/sony-reiterates-god-of-war-laufey-is-coming-soon-to-ps5",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Final Fantasy Tactics Remaster Gets Surprise PS5 Patch, Adding New Game+, Settings, and More",
+      "url": "https://www.pushsquare.com/news/2026/06/final-fantasy-tactics-remaster-gets-surprise-ps5-patch-adding-new-gameplus-settings-and-more",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Xbox Reportedly Announced Hellblade 3 Despite Plans To Close Ninja Theory To Help Sell The Studio",
-      "url": "https://kotaku.com/xbox-reportedly-announced-hellblade-3-despite-plans-to-close-ninja-theory-to-help-sell-the-studio-2000707251",
+      "title": "Some People Still Can’t Play Xbox 360 Games On Their Xbox Series Console, Nearly Two Months After Xbox Said The Issue Was Fixed",
+      "url": "https://kotaku.com/xbox-360-games-xbox-series-console-broken-months-later-2000707563",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Helldivers 2 patch overhauls Major Orders with Galactic Campaigns, adds new biome, and more",
       "url": "https://www.gamesradar.com/games/third-person-shooter/helldivers-2-overhauls-major-orders-with-galactic-campaigns-adds-a-new-biome-buffs-exo-suits-and-much-more-in-a-massive-patch/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Latest Official PlayStation 5 SSDs Have Jumped In Price 4 X To As Much As $ 3000",
-      "url": "https://gameranx.com/updates/id/563096/article/the-latest-official-playstation-5-ssds-have-jumped-in-price-4-x-to-as-much-as-3000/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

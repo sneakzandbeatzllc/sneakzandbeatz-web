@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T14:04:38+00:00",
+  "generated_utc": "2026-06-17T15:04:45+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -123,12 +123,36 @@
       "release_badge": ""
     },
     {
+      "id": "509e67d5dea9",
+      "pillar": "anime",
+      "title": "Solo Leveling Movie Confirmed, And It's Releasing Before Season 3",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-movie-release-before-season-3/",
+      "thumbnail": "/drops/thumbs/509e67d5dea9.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b355056cf01a",
       "pillar": "anime",
       "title": "Solo Leveling's Next Series May Be Coming Sooner Than Fans Think",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/netflix-solo-leveling-new-series-release-date-window/",
       "thumbnail": "/drops/thumbs/b355056cf01a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "01e1a55a741f",
+      "pillar": "anime",
+      "title": "Yoshitaka Amano's ZAN Limited Anime Series Debuts 1st Trailer at Anime Expo on July 3",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/yoshitaka-amano-zan-limited-anime-series-debuts-1st-trailer-at-anime-expo-on-july-3/.238614",
+      "thumbnail": "/drops/thumbs/01e1a55a741f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "ec96d014c90f",
-      "pillar": "anime",
-      "title": "Psyren Anime Streams 1st Teaser With Anime Footage",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/psyren-anime-streams-1st-teaser-with-anime-footage/.238603",
-      "thumbnail": "/drops/thumbs/ec96d014c90f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e3c1f1b11944",
       "pillar": "anime",
       "title": "Kiki's Delivery Service is being turned into a live-action TV show",
@@ -171,36 +183,24 @@
       "release_badge": ""
     },
     {
-      "id": "46b3d3304231",
+      "id": "ec96d014c90f",
       "pillar": "anime",
-      "title": "The Insipid Prince's Furtive Grab for The Throne Anime Unveils 2nd Video, Theme Songs, July 6 Debut",
+      "title": "Psyren Anime Streams 1st Teaser With Anime Footage",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/the-insipid-prince-furtive-grab-for-the-throne-anime-unveils-2nd-video-theme-songs-july-6-debut/.238604",
-      "thumbnail": "/drops/thumbs/46b3d3304231.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/psyren-anime-streams-1st-teaser-with-anime-footage/.238603",
+      "thumbnail": "/drops/thumbs/ec96d014c90f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "701f9fb210fd",
-      "pillar": "anime",
-      "title": "Kagurabachi Announces Sudden Hiatus Ahead Of Anime Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/kagurabachi-announces-sudden-hiatus-ahead-of-anime-release/",
-      "thumbnail": "/drops/thumbs/701f9fb210fd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6ffef8b59e7d",
+      "id": "01204bafde98",
       "pillar": "gaming",
-      "title": "News Final Fantasy Tactics Remaster Gets Surprise PS5 Patch, Adding New Game+, Settings, and More",
+      "title": "News GTA 5 Pushing Players onto PS5 Ahead of GTA 6 with Free Upgrade and 'Easy Migration'",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/final-fantasy-tactics-remaster-gets-surprise-ps5-patch-adding-new-gameplus-settings-and-more",
-      "thumbnail": "/drops/thumbs/6ffef8b59e7d.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-5-pushing-players-onto-ps5-ahead-of-gta-6-with-free-upgrade-and-easy-migration",
+      "thumbnail": "/drops/thumbs/01204bafde98.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,24 +219,36 @@
       "release_badge": ""
     },
     {
-      "id": "a304cddfe649",
+      "id": "b92019acf7c6",
       "pillar": "gaming",
-      "title": "News Housemarque Hints Its Next PS5 Game Could Be Smaller Than Saros",
+      "title": "News Persona 4 Fans Torn Over Remake's Totally New English Voice Cast",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/housemarque-hints-its-next-ps5-game-could-be-smaller-than-saros",
-      "thumbnail": "/drops/thumbs/a304cddfe649.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/persona-4-fans-torn-over-remakes-totally-new-english-voice-cast",
+      "thumbnail": "/drops/thumbs/b92019acf7c6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "86834568f654",
+      "id": "8b6c09ac1818",
       "pillar": "gaming",
-      "title": "News Here's How You Unlock Halo's PS5 Platinum Trophy Next Month",
+      "title": "News Sony Reiterates God of War Laufey Is 'Coming Soon' to PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/heres-how-you-unlock-halos-ps5-platinum-trophy-next-month",
-      "thumbnail": "/drops/thumbs/86834568f654.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/sony-reiterates-god-of-war-laufey-is-coming-soon-to-ps5",
+      "thumbnail": "/drops/thumbs/8b6c09ac1818.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6ffef8b59e7d",
+      "pillar": "gaming",
+      "title": "News Final Fantasy Tactics Remaster Gets Surprise PS5 Patch, Adding New Game+, Settings, and More",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/final-fantasy-tactics-remaster-gets-surprise-ps5-patch-adding-new-gameplus-settings-and-more",
+      "thumbnail": "/drops/thumbs/6ffef8b59e7d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "bb534e2a9c65",
+      "id": "b61b4d5e7331",
       "pillar": "gaming",
-      "title": "Xbox Reportedly Announced Hellblade 3 Despite Plans To Close Ninja Theory To Help Sell The Studio",
+      "title": "Some People Still Can’t Play Xbox 360 Games On Their Xbox Series Console, Nearly Two Months After Xbox Said The Issue Was Fixed",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/xbox-reportedly-announced-hellblade-3-despite-plans-to-close-ninja-theory-to-help-sell-the-studio-2000707251",
-      "thumbnail": "/drops/thumbs/bb534e2a9c65.jpg",
+      "source_url": "https://kotaku.com/xbox-360-games-xbox-series-console-broken-months-later-2000707563",
+      "thumbnail": "/drops/thumbs/b61b4d5e7331.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "ee89dfb2e9be",
-      "pillar": "gaming",
-      "title": "The Latest Official PlayStation 5 SSDs Have Jumped In Price 4 X To As Much As $ 3000",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563096/article/the-latest-official-playstation-5-ssds-have-jumped-in-price-4-x-to-as-much-as-3000/",
-      "thumbnail": "/drops/thumbs/ee89dfb2e9be.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "779db71fc001",
     "7aef60a4c2ff",
     "ff07f49af52d",
-    "6ffef8b59e7d"
+    "01204bafde98"
   ]
 }
