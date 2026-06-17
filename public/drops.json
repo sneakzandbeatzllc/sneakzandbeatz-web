@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T19:40:46+00:00",
+  "generated_utc": "2026-06-17T20:08:41+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "01204bafde98",
+      "id": "d80da05da082",
       "pillar": "gaming",
-      "title": "News GTA 5 Pushing Players onto PS5 Ahead of GTA 6 with Free Upgrade and 'Easy Migration'",
+      "title": "News Spider-Man 2 PS5 Gets New Suit from Brand New Day Movie on 28th July",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-5-pushing-players-onto-ps5-ahead-of-gta-6-with-free-upgrade-and-easy-migration",
-      "thumbnail": "/drops/thumbs/01204bafde98.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/spider-man-2-ps5-gets-new-suit-from-brand-new-day-movie-on-28th-july",
+      "thumbnail": "/drops/thumbs/d80da05da082.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "d80da05da082",
-      "pillar": "gaming",
-      "title": "News Spider-Man 2 PS5 Gets New Suit from Brand New Day Movie on 28th July",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/spider-man-2-ps5-gets-new-suit-from-brand-new-day-movie-on-28th-july",
-      "thumbnail": "/drops/thumbs/d80da05da082.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1253eefa6b63",
       "pillar": "gaming",
       "title": "News Dragon's Dogma 2: Dark Arisen Details Will Be Absolutely Everywhere in August",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-details-will-be-absolutely-everywhere-in-august",
       "thumbnail": "/drops/thumbs/1253eefa6b63.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ee5235925d2a",
+      "pillar": "gaming",
+      "title": "New Spider-Man: Brand New Day trailer sees Peter Parker take on an invisible villain causing Hulk-level havoc",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
+      "thumbnail": "/drops/thumbs/ee5235925d2a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "32db490f8b68",
+      "id": "7132fd9199f8",
       "pillar": "gaming",
-      "title": "News Vampire Survivors Dev 'Reviewing' Fortnite Collaboration Due to Epic's Use of Generative AI",
+      "title": "News Call of Duty: Black Ops 1 and 2 PS5 Ports Now Official, Launching in July",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/vampire-survivors-dev-reviewing-fortnite-collaboration-due-to-epics-use-of-generative-ai",
-      "thumbnail": "/drops/thumbs/32db490f8b68.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/call-of-duty-black-ops-1-and-2-ps5-ports-now-official-launching-in-july",
+      "thumbnail": "/drops/thumbs/7132fd9199f8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "e32e86b201ff",
+      "id": "32db490f8b68",
       "pillar": "gaming",
-      "title": "Stop Killing Games Campaign Faces Huge Setback After EU Rejects Policy Proposal",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563098/article/stop-killing-games-campaign-faces-huge-setback-after-eu-rejects-policy-proposal/",
-      "thumbnail": "/drops/thumbs/e32e86b201ff.png",
+      "title": "News Vampire Survivors Dev 'Reviewing' Fortnite Collaboration Due to Epic's Use of Generative AI",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/vampire-survivors-dev-reviewing-fortnite-collaboration-due-to-epics-use-of-generative-ai",
+      "thumbnail": "/drops/thumbs/32db490f8b68.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "779db71fc001",
     "43a7a76378d1",
     "ff07f49af52d",
-    "01204bafde98"
+    "d80da05da082"
   ]
 }
