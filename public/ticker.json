@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T21:11:50+00:00",
+  "generated_utc": "2026-06-17T22:10:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,15 +95,15 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Announces Release Schedule for Summer 2026 Season",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-17/crunchyroll-announces-release-schedule-for-summer-2026-season/.238615",
+      "title": "'She Loves to Cook, and She Loves to Eat' Manga Resumes After 2 Years",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-17/she-loves-to-cook-and-she-loves-to-eat-manga-resumes-after-2-years/.238588",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "K Manga Adds Daisaku Tsuru's Protocol Ryugu Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-17/k-manga-adds-daisaku-tsuru-protocol-ryugu-manga/.238616",
+      "title": "Crunchyroll Announces Release Schedule for Summer 2026 Season",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-17/crunchyroll-announces-release-schedule-for-summer-2026-season/.238615",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "New Spider-Man: Brand New Day Trailer Reveals The Hulk And Keeps Sadie Sink Under A Hood",
-      "url": "https://kotaku.com/spider-man-brand-new-day-trailer-ps5-update-hulk-2000707682",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Persona 4 Fans Torn Over Remake's Totally New English Voice Cast",
       "url": "https://www.pushsquare.com/news/2026/06/persona-4-fans-torn-over-remakes-totally-new-english-voice-cast",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Fan-Favorite Call Of Duty: Black Ops Games Are Getting New PlayStation Ports",
       "url": "https://kotaku.com/fan-favorite-call-of-duty-black-ops-games-are-getting-new-playstation-ports-2000707681",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Call of Duty: Black Ops 1 and 2 PS5 Ports Now Official, Launching in July",
+      "url": "https://www.pushsquare.com/news/2026/06/call-of-duty-black-ops-1-and-2-ps5-ports-now-official-launching-in-july",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
