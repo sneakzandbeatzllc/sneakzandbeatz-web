@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T14:20:07+00:00",
+  "generated_utc": "2026-06-18T15:18:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,15 +60,8 @@
       "article_slug": null
     },
     {
-      "title": "Attack on Titan Unveils Glorious New Mikasa Design For 15th Anniversary",
-      "url": "https://screenrant.com/attack-on-titan-new-mikasa-design-15th-anniversary/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "After 24 years, Bleach is officially entering its final era",
-      "url": "https://www.polygon.com/the-best-looking-shonen-on-tv-enters-its-final-era-next-month/",
+      "title": "Naruto Confirms Next Major Release For 2027, And One Piece Should Be Scared",
+      "url": "https://screenrant.com/naruto-trading-card-game-worldwide-release-2027/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +95,22 @@
       "article_slug": null
     },
     {
-      "title": "MAO Anime Announces 2nd Part Opening Song by Boy Group 20th Century",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-18/mao-anime-announces-2nd-part-opening-song-by-boy-group-20th-century/.238666",
+      "title": "Corrector Yui Manga Creator Keiko Okamoto Dies",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/corrector-yui-manga-creator-keiko-okamoto-dies/.238669",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Plans to Expand to Taiwan, S. Korea",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-18/crunchyroll-plans-to-expand-to-taiwan-s-korea/.238655",
+      "title": "Re:Zero delivers record-breaking episode ahead of season 4 part 2 announcement",
+      "url": "https://www.polygon.com/re-zero-season-4-episode-11-records-next-season-announced/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "MAO Anime Announces 2nd Part Opening Song by Boy Group 20th Century",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/mao-anime-announces-2nd-part-opening-song-by-boy-group-20th-century/.238666",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,8 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Here’s How I Know We Are Entering Rockstar’s End Game For Launching GTA 6",
-      "url": "https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079",
+      "title": "GTA 6′ s Cover Continues The Weird Rule Rockstar Has Followed For 25 Years",
+      "url": "https://kotaku.com/gta-6s-cover-continues-the-weird-rule-rockstar-has-followed-for-25-years-2000708095",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6 Pre-Orders Start Next Week As Rockstar Reveals The Game’s Official Cover Art",
+      "url": "https://kotaku.com/gta-6-pre-orders-start-next-week-as-rockstar-reveals-the-games-official-cover-art-2000708063",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -146,13 +153,6 @@
     {
       "title": "New Spider-Man: Brand New Day trailer sees Peter Parker take on an invisible villain causing Hulk-level havoc",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Filipino Fighter Yasmine Rushes into Street Fighter 6 with First PS5 Gameplay",
-      "url": "https://www.pushsquare.com/news/2026/06/filipino-fighter-yasmine-rushes-into-street-fighter-6-with-first-ps5-gameplay",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
