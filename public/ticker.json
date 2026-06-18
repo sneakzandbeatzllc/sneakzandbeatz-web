@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T12:20:12+00:00",
+  "generated_utc": "2026-06-18T13:17:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 1 Low Joins The “Bloodline” Family",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-low-bloodline-553558-076/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 12 “Bucks” Releases September 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Attack on Titan Unveils Glorious New Mikasa Design For 15th Anniversary",
       "url": "https://screenrant.com/attack-on-titan-new-mikasa-design-15th-anniversary/",
       "pillar": "anime",
@@ -69,6 +69,13 @@
     {
       "title": "After 24 years, Bleach is officially entering its final era",
       "url": "https://www.polygon.com/the-best-looking-shonen-on-tv-enters-its-final-era-next-month/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "14 Later, The Cowboy Bebop Meets One Piece Anime Is Aging Like Fine Wine",
+      "url": "https://screenrant.com/lupin-third-woman-called-fujiko-mine-cowboy-bebop-meets-one-piece/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,23 +102,23 @@
       "article_slug": null
     },
     {
-      "title": "Chainsaw Man's Live-Action Adaptation Is Officially Coming To America This Summer",
-      "url": "https://screenrant.com/chainsaw-man-live-action-america-release/",
+      "title": "MAO Anime Announces 2nd Part Opening Song by Boy Group 20th Century",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/mao-anime-announces-2nd-part-opening-song-by-boy-group-20th-century/.238666",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "The World's Strongest Rearguard - Labyrinth Country's Novice Seeker Anime's 2nd Promo Video Reveals Theme Songs",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-18/the-world-strongest-rearguard-labyrinth-country-novice-seeker-anime-2nd-promo-video-reveals-theme-/.238665",
+      "title": "Crunchyroll Plans to Expand to Taiwan, S. Korea",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/crunchyroll-plans-to-expand-to-taiwan-s-korea/.238655",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Super Psychic Policeman Chojo Anime's Video Reveals Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-18/super-psychic-policeman-chojo-anime-video-reveals-cast/.238639",
-      "pillar": "anime",
+      "title": "News GTA 6 PS5 Pre-Orders Open on 25th June, Cover Art Revealed",
+      "url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-open-on-25th-june-cover-art-revealed",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -130,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "News Yakuza Creator's Gang of Dragon PS5 Game Really Does Seem Dead",
-      "url": "https://www.pushsquare.com/news/2026/06/yakuza-creators-gang-of-dragon-ps5-game-really-does-seem-dead",
+      "title": "News Filipino Fighter Yasmine Rushes into Street Fighter 6 with First PS5 Gameplay",
+      "url": "https://www.pushsquare.com/news/2026/06/filipino-fighter-yasmine-rushes-into-street-fighter-6-with-first-ps5-gameplay",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Filipino Fighter Yasmine Rushes into Street Fighter 6 with First PS5 Gameplay",
-      "url": "https://www.pushsquare.com/news/2026/06/filipino-fighter-yasmine-rushes-into-street-fighter-6-with-first-ps5-gameplay",
+      "title": "“I’m Not Sure There Would Have Been A Number” – Paul Tassi Says Destiny 2 Peaks Haven’t Changed Anything For Bungie",
+      "url": "https://gameranx.com/updates/id/563130/article/im-not-sure-there-would-have-been-a-number-paul-tassi-says-destiny-2-peaks-havent-changed-anything-for-bungie/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Xbox’s Recent Moves Demonstrate A ‘Basic Misunderstanding’ Of The Industry, Former Sony Gaming Boss Says",
-      "url": "https://kotaku.com/former-sony-gaming-boss-shawn-layden-xbox-basic-misunderstanding-industry-2000707632",
+      "title": "Deus Ex Creator’s New Immersive Sim Is Cancelled, With 17 Staff Laid Off",
+      "url": "https://kotaku.com/deus-ex-spector-argos-riders-on-the-storm-job-loss-otherside-2000708036",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Interview Why so many game developers don't want to use generative AI",
       "url": "https://www.gamesradar.com/games/why-so-many-game-developers-dont-want-to-use-generative-ai/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Epic Has Announced Lumen Lite For Unreal 5.8, Making Global Illumination Available To Switch 2 At 60 FPS",
-      "url": "https://gameranx.com/updates/id/563127/article/epic-has-announced-lumen-lite-for-unreal-5-8-making-global-illumination-available-to-switch-2-at-60-fps/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
