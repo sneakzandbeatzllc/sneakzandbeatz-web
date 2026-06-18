@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T10:14:56+00:00",
+  "generated_utc": "2026-06-18T10:17:26+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "33ec347b7521",
-      "pillar": "gaming",
-      "title": "Unreal Engine 6 AI Integration Gets Instant Backlash As Poncle Threatens To Cancel Vampire Survivors Fortnite Collab",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563123/article/unreal-engine-6-ai-integration-gets-instant-backlash-as-poncle-threatens-to-cancel-vampire-survivors-fortnite-collab/",
-      "thumbnail": "/drops/thumbs/33ec347b7521.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e5db76719524",
       "pillar": "gaming",
       "title": "Fan-Favorite Call Of Duty: Black Ops Games Are Getting New PlayStation Ports",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "6de8a77bbcba",
+      "id": "133723690df1",
       "pillar": "gaming",
-      "title": "Epic Has Announced Lumen Lite For Unreal 5.8, Making Global Illumination Available To Switch 2 At 60 FPS",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563127/article/epic-has-announced-lumen-lite-for-unreal-5-8-making-global-illumination-available-to-switch-2-at-60-fps/",
-      "thumbnail": "/drops/thumbs/6de8a77bbcba.png",
+      "title": "Tim Sweeney Pitches Epic As A Savior For An AAA Gaming Industry Being Devoured by Roblox",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/tim-sweeney-pitches-epic-as-a-savior-for-an-aaa-gaming-industry-being-devoured-by-roblox-2000707706",
+      "thumbnail": "/drops/thumbs/133723690df1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "83dbc1a11bbe",
+      "pillar": "gaming",
+      "title": "\"Gamers don't want it\": Palworld lead says Pocketpair doesn't touch AI because players hate it 5 Comments",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/survival/gamers-dont-want-it-palworld-lead-says-pocketpair-doesnt-touch-ai-because-players-hate-it-and-artists-like-doing-stuff-themselves/",
+      "thumbnail": "/drops/thumbs/83dbc1a11bbe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

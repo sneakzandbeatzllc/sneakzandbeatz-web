@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T10:14:56+00:00",
+  "generated_utc": "2026-06-18T10:17:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Unreal Engine 6 AI Integration Gets Instant Backlash As Poncle Threatens To Cancel Vampire Survivors Fortnite Collab",
-      "url": "https://gameranx.com/updates/id/563123/article/unreal-engine-6-ai-integration-gets-instant-backlash-as-poncle-threatens-to-cancel-vampire-survivors-fortnite-collab/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Fan-Favorite Call Of Duty: Black Ops Games Are Getting New PlayStation Ports",
       "url": "https://kotaku.com/fan-favorite-call-of-duty-black-ops-games-are-getting-new-playstation-ports-2000707681",
       "pillar": "gaming",
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Epic Has Announced Lumen Lite For Unreal 5.8, Making Global Illumination Available To Switch 2 At 60 FPS",
-      "url": "https://gameranx.com/updates/id/563127/article/epic-has-announced-lumen-lite-for-unreal-5-8-making-global-illumination-available-to-switch-2-at-60-fps/",
+      "title": "Tim Sweeney Pitches Epic As A Savior For An AAA Gaming Industry Being Devoured by Roblox",
+      "url": "https://kotaku.com/tim-sweeney-pitches-epic-as-a-savior-for-an-aaa-gaming-industry-being-devoured-by-roblox-2000707706",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "\"Gamers don't want it\": Palworld lead says Pocketpair doesn't touch AI because players hate it 5 Comments",
+      "url": "https://www.gamesradar.com/games/survival/gamers-dont-want-it-palworld-lead-says-pocketpair-doesnt-touch-ai-because-players-hate-it-and-artists-like-doing-stuff-themselves/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
