@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T00:12:17+00:00",
+  "generated_utc": "2026-06-18T01:11:43+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "d80da05da082",
+      "id": "2de5c640cdd2",
       "pillar": "gaming",
-      "title": "News Spider-Man 2 PS5 Gets New Suit from Brand New Day Movie on 28th July",
+      "title": "News Yakuza Creator's Gang of Dragon PS5 Game Really Does Seem Dead",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/spider-man-2-ps5-gets-new-suit-from-brand-new-day-movie-on-28th-july",
-      "thumbnail": "/drops/thumbs/d80da05da082.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/yakuza-creators-gang-of-dragon-ps5-game-really-does-seem-dead",
+      "thumbnail": "/drops/thumbs/2de5c640cdd2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,24 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "cd6a1447468e",
+      "id": "d80da05da082",
       "pillar": "gaming",
-      "title": "Yakuza Creator’s New Game Seems To Have Lost Its Director After NetEase Reportedly Pulled Funding",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/yakuza-creators-new-game-lost-director-2000707635",
-      "thumbnail": "/drops/thumbs/cd6a1447468e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1253eefa6b63",
-      "pillar": "gaming",
-      "title": "News Dragon's Dogma 2: Dark Arisen Details Will Be Absolutely Everywhere in August",
+      "title": "News Spider-Man 2 PS5 Gets New Suit from Brand New Day Movie on 28th July",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-details-will-be-absolutely-everywhere-in-august",
-      "thumbnail": "/drops/thumbs/1253eefa6b63.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/spider-man-2-ps5-gets-new-suit-from-brand-new-day-movie-on-28th-july",
+      "thumbnail": "/drops/thumbs/d80da05da082.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -249,6 +237,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
       "thumbnail": "/drops/thumbs/ee5235925d2a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1253eefa6b63",
+      "pillar": "gaming",
+      "title": "News Dragon's Dogma 2: Dark Arisen Details Will Be Absolutely Everywhere in August",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-details-will-be-absolutely-everywhere-in-august",
+      "thumbnail": "/drops/thumbs/1253eefa6b63.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "779db71fc001",
     "43a7a76378d1",
     "ff07f49af52d",
-    "d80da05da082"
+    "2de5c640cdd2"
   ]
 }
