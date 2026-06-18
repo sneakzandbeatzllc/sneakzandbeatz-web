@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T12:16:36+00:00",
+  "generated_utc": "2026-06-18T12:18:49+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "7132fd9199f8",
-      "pillar": "gaming",
-      "title": "News Call of Duty: Black Ops 1 and 2 PS5 Ports Now Official, Launching in July",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/call-of-duty-black-ops-1-and-2-ps5-ports-now-official-launching-in-july",
-      "thumbnail": "/drops/thumbs/7132fd9199f8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a89692e8959f",
       "pillar": "gaming",
       "title": "Xbox’s Recent Moves Demonstrate A ‘Basic Misunderstanding’ Of The Industry, Former Sony Gaming Boss Says",
@@ -285,6 +273,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/why-so-many-game-developers-dont-want-to-use-generative-ai/",
       "thumbnail": "/drops/thumbs/f89bb12d52d9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6de8a77bbcba",
+      "pillar": "gaming",
+      "title": "Epic Has Announced Lumen Lite For Unreal 5.8, Making Global Illumination Available To Switch 2 At 60 FPS",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563127/article/epic-has-announced-lumen-lite-for-unreal-5-8-making-global-illumination-available-to-switch-2-at-60-fps/",
+      "thumbnail": "/drops/thumbs/6de8a77bbcba.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
