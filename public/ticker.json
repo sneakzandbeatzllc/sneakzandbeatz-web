@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T10:17:26+00:00",
+  "generated_utc": "2026-06-18T11:15:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -102,15 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "Animation Studios Sunrise, Shaft Tease 1st Anime Collaboration",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-18/animation-studios-sunrise-shaft-tease-1st-anime-collaboration/.238654",
+      "title": "Super Psychic Policeman Chojo Anime's Video Reveals Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/super-psychic-policeman-chojo-anime-video-reveals-cast/.238639",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Writer Jirō Sugiura, Artist Umemaru's The Fake Alchemist Manga Gets TV Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-18/writer-jiro-sugiura-artist-umemaru-the-fake-alchemist-manga-gets-tv-anime/.238660",
+      "title": "Ojisan wa Kawaii Mono ga Osuki. Anime's Video Reveals Cast, Staff, October TV Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/ojisan-wa-kawaii-mono-ga-osuki-anime-video-reveals-cast-staff-october-tv-debut/.238657",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Unreal Engine 6 AI Integration Gets Instant Backlash As Poncle Threatens To Cancel Vampire Survivors Fortnite Collab",
+      "url": "https://gameranx.com/updates/id/563123/article/unreal-engine-6-ai-integration-gets-instant-backlash-as-poncle-threatens-to-cancel-vampire-survivors-fortnite-collab/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Fan-Favorite Call Of Duty: Black Ops Games Are Getting New PlayStation Ports",
       "url": "https://kotaku.com/fan-favorite-call-of-duty-black-ops-games-are-getting-new-playstation-ports-2000707681",
       "pillar": "gaming",
@@ -158,15 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Tim Sweeney Pitches Epic As A Savior For An AAA Gaming Industry Being Devoured by Roblox",
-      "url": "https://kotaku.com/tim-sweeney-pitches-epic-as-a-savior-for-an-aaa-gaming-industry-being-devoured-by-roblox-2000707706",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "\"Gamers don't want it\": Palworld lead says Pocketpair doesn't touch AI because players hate it 5 Comments",
-      "url": "https://www.gamesradar.com/games/survival/gamers-dont-want-it-palworld-lead-says-pocketpair-doesnt-touch-ai-because-players-hate-it-and-artists-like-doing-stuff-themselves/",
+      "title": "Epic Has Announced Lumen Lite For Unreal 5.8, Making Global Illumination Available To Switch 2 At 60 FPS",
+      "url": "https://gameranx.com/updates/id/563127/article/epic-has-announced-lumen-lite-for-unreal-5-8-making-global-illumination-available-to-switch-2-at-60-fps/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
