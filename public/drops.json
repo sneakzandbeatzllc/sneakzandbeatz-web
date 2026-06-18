@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T17:54:10+00:00",
+  "generated_utc": "2026-06-18T18:21:34+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "698fc588100a",
-      "pillar": "gaming",
-      "title": "News GTA 6 PS5 Pre-Orders Open on 25th June, Cover Art Revealed",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-open-on-25th-june-cover-art-revealed",
-      "thumbnail": "/drops/thumbs/698fc588100a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "fefaa67dfcd8",
       "pillar": "gaming",
       "title": "GTA 6 official cover art revealed as Rockstar sets a date for pre-orders to begin",
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "33ec347b7521",
+      "pillar": "gaming",
+      "title": "Unreal Engine 6 AI Integration Gets Instant Backlash As Poncle Threatens To Cancel Vampire Survivors Fortnite Collab",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563123/article/unreal-engine-6-ai-integration-gets-instant-backlash-as-poncle-threatens-to-cancel-vampire-survivors-fortnite-collab/",
+      "thumbnail": "/drops/thumbs/33ec347b7521.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "6f835bbe3ddc",
     "bf38bf0928e7",
     "4c0c135c5fd0",
-    "698fc588100a"
+    "fefaa67dfcd8"
   ]
 }

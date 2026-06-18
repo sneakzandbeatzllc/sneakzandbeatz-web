@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T17:54:10+00:00",
+  "generated_utc": "2026-06-18T18:21:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 PS5 Pre-Orders Open on 25th June, Cover Art Revealed",
-      "url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-open-on-25th-june-cover-art-revealed",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 official cover art revealed as Rockstar sets a date for pre-orders to begin",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cover-art-reveal/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "“I’m Not Sure There Would Have Been A Number” – Paul Tassi Says Destiny 2 Peaks Haven’t Changed Anything For Bungie",
       "url": "https://gameranx.com/updates/id/563130/article/im-not-sure-there-would-have-been-a-number-paul-tassi-says-destiny-2-peaks-havent-changed-anything-for-bungie/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Unreal Engine 6 AI Integration Gets Instant Backlash As Poncle Threatens To Cancel Vampire Survivors Fortnite Collab",
+      "url": "https://gameranx.com/updates/id/563123/article/unreal-engine-6-ai-integration-gets-instant-backlash-as-poncle-threatens-to-cancel-vampire-survivors-fortnite-collab/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
