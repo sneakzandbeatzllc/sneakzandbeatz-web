@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T15:20:46+00:00",
+  "generated_utc": "2026-06-18T16:19:59+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -99,12 +99,48 @@
       "release_badge": ""
     },
     {
+      "id": "bf38bf0928e7",
+      "pillar": "anime",
+      "title": "My Hero Academia: All's Justice Game Gets Switch 2 Version With New Minigame Mode",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/my-hero-academia-all-justice-game-gets-switch-2-version-with-new-minigame-mode/.238672",
+      "thumbnail": "/drops/thumbs/bf38bf0928e7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7311d1ca01b8",
+      "pillar": "anime",
+      "title": "Naruto's long-awaited TCG comeback is finally happening",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/naruto-card-game-tcg-announcement/",
+      "thumbnail": "/drops/thumbs/7311d1ca01b8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2a26cc51f643",
       "pillar": "anime",
       "title": "Naruto Confirms Next Major Release For 2027, And One Piece Should Be Scared",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-trading-card-game-worldwide-release-2027/",
       "thumbnail": "/drops/thumbs/2a26cc51f643.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "727881f8a226",
+      "pillar": "anime",
+      "title": "Bandai Announces New Naruto Card Game",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/bandai-announces-new-naruto-card-game/.238670",
+      "thumbnail": "/drops/thumbs/727881f8a226.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,42 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "1f6e9035e259",
-      "pillar": "anime",
-      "title": "Corrector Yui Manga Creator Keiko Okamoto Dies",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/corrector-yui-manga-creator-keiko-okamoto-dies/.238669",
-      "thumbnail": "/drops/thumbs/1f6e9035e259.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3b2b737b9353",
-      "pillar": "anime",
-      "title": "Re:Zero delivers record-breaking episode ahead of season 4 part 2 announcement",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/re-zero-season-4-episode-11-records-next-season-announced/",
-      "thumbnail": "/drops/thumbs/3b2b737b9353.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "903654a72045",
-      "pillar": "anime",
-      "title": "MAO Anime Announces 2nd Part Opening Song by Boy Group 20th Century",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/mao-anime-announces-2nd-part-opening-song-by-boy-group-20th-century/.238666",
-      "thumbnail": "/drops/thumbs/903654a72045.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "698fc588100a",
       "pillar": "gaming",
       "title": "News GTA 6 PS5 Pre-Orders Open on 25th June, Cover Art Revealed",
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "71304027dbe4",
+      "id": "9709766057f7",
       "pillar": "gaming",
-      "title": "GTA 6′ s Cover Continues The Weird Rule Rockstar Has Followed For 25 Years",
+      "title": "Here’s How I Know We Are Entering Rockstar’s End Game For Launching GTA 6",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/gta-6s-cover-continues-the-weird-rule-rockstar-has-followed-for-25-years-2000708095",
-      "thumbnail": "/drops/thumbs/71304027dbe4.jpg",
+      "source_url": "https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079",
+      "thumbnail": "/drops/thumbs/9709766057f7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "3d46212191c9",
+      "pillar": "gaming",
+      "title": "News PS5's Call of Duty: Black Ops Ports Get More Likes Than Modern Warfare 4",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5s-call-of-duty-black-ops-ports-get-more-likes-than-modern-warfare-4",
+      "thumbnail": "/drops/thumbs/3d46212191c9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "63e7a1766822",
       "pillar": "gaming",
       "title": "“I’m Not Sure There Would Have Been A Number” – Paul Tassi Says Destiny 2 Peaks Haven’t Changed Anything For Bungie",
@@ -277,25 +289,13 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "33ec347b7521",
-      "pillar": "gaming",
-      "title": "Unreal Engine 6 AI Integration Gets Instant Backlash As Poncle Threatens To Cancel Vampire Survivors Fortnite Collab",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563123/article/unreal-engine-6-ai-integration-gets-instant-backlash-as-poncle-threatens-to-cancel-vampire-survivors-fortnite-collab/",
-      "thumbnail": "/drops/thumbs/33ec347b7521.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "779db71fc001",
     "ff07f49af52d",
     "6f835bbe3ddc",
-    "2a26cc51f643",
+    "bf38bf0928e7",
     "4c0c135c5fd0",
     "698fc588100a"
   ]
