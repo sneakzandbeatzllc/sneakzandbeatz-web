@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T11:18:04+00:00",
+  "generated_utc": "2026-06-18T11:49:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,15 +67,15 @@
       "article_slug": null
     },
     {
-      "title": "Solo Leveling Movie Confirmed, And It's Releasing Before Season 3",
-      "url": "https://screenrant.com/solo-leveling-movie-release-before-season-3/",
+      "title": "After 24 years, Bleach is officially entering its final era",
+      "url": "https://www.polygon.com/the-best-looking-shonen-on-tv-enters-its-final-era-next-month/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "After 24 years, Bleach is officially entering its final era",
-      "url": "https://www.polygon.com/the-best-looking-shonen-on-tv-enters-its-final-era-next-month/",
+      "title": "The Wait Is Over, Hunter x Hunter Is Officially Back",
+      "url": "https://screenrant.com/hunter-x-hunter-chapter-411-return/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "Super Psychic Policeman Chojo Anime's Video Reveals Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-18/super-psychic-policeman-chojo-anime-video-reveals-cast/.238639",
+      "title": "The World's Strongest Rearguard - Labyrinth Country's Novice Seeker Anime's 2nd Promo Video Reveals Theme Songs",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/the-world-strongest-rearguard-labyrinth-country-novice-seeker-anime-2nd-promo-video-reveals-theme-/.238665",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Ojisan wa Kawaii Mono ga Osuki. Anime's Video Reveals Cast, Staff, October TV Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-18/ojisan-wa-kawaii-mono-ga-osuki-anime-video-reveals-cast-staff-october-tv-debut/.238657",
+      "title": "Super Psychic Policeman Chojo Anime's Video Reveals Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-18/super-psychic-policeman-chojo-anime-video-reveals-cast/.238639",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -132,6 +132,13 @@
     {
       "title": "News Yakuza Creator's Gang of Dragon PS5 Game Really Does Seem Dead",
       "url": "https://www.pushsquare.com/news/2026/06/yakuza-creators-gang-of-dragon-ps5-game-really-does-seem-dead",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Filipino Fighter Yasmine Rushes into Street Fighter 6 with First PS5 Gameplay",
+      "url": "https://www.pushsquare.com/news/2026/06/filipino-fighter-yasmine-rushes-into-street-fighter-6-with-first-ps5-gameplay",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Interview Why so many game developers don't want to use generative AI",
       "url": "https://www.gamesradar.com/games/why-so-many-game-developers-dont-want-to-use-generative-ai/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Epic Has Announced Lumen Lite For Unreal 5.8, Making Global Illumination Available To Switch 2 At 60 FPS",
-      "url": "https://gameranx.com/updates/id/563127/article/epic-has-announced-lumen-lite-for-unreal-5-8-making-global-illumination-available-to-switch-2-at-60-fps/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
