@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T04:15:33+00:00",
+  "generated_utc": "2026-06-18T05:12:43+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,22 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "News Spider-Man 2 PS5 Gets New Suit from Brand New Day Movie on 28th July",
-      "url": "https://www.pushsquare.com/news/2026/06/spider-man-2-ps5-gets-new-suit-from-brand-new-day-movie-on-28th-july",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "New Spider-Man: Brand New Day trailer sees Peter Parker take on an invisible villain causing Hulk-level havoc",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Dragon's Dogma 2: Dark Arisen Details Will Be Absolutely Everywhere in August",
-      "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-details-will-be-absolutely-everywhere-in-august",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "News Vampire Survivors Dev 'Reviewing' Fortnite Collaboration Due to Epic's Use of Generative AI",
-      "url": "https://www.pushsquare.com/news/2026/06/vampire-survivors-dev-reviewing-fortnite-collaboration-due-to-epics-use-of-generative-ai",
+      "title": "Stop Killing Games Campaign Faces Huge Setback After EU Rejects Policy Proposal",
+      "url": "https://gameranx.com/updates/id/563098/article/stop-killing-games-campaign-faces-huge-setback-after-eu-rejects-policy-proposal/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Latest Official PlayStation 5 SSDs Have Jumped In Price 4 X To As Much As $ 3000",
+      "url": "https://gameranx.com/updates/id/563096/article/the-latest-official-playstation-5-ssds-have-jumped-in-price-4-x-to-as-much-as-3000/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Tim Sweeney Pitches Epic As A Savior For An AAA Gaming Industry Being Devoured by Roblox",
+      "url": "https://kotaku.com/tim-sweeney-pitches-epic-as-a-savior-for-an-aaa-gaming-industry-being-devoured-by-roblox-2000707706",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
