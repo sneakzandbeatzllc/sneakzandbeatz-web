@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T23:14:12+00:00",
+  "generated_utc": "2026-06-18T00:12:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball Xenoverse 3 will let you summon Goku's spirit",
-      "url": "https://www.polygon.com/dragon-ball-xenoverse-3-gameplay-mechanics-reveals/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling Movie Confirmed, And It's Releasing Before Season 3",
       "url": "https://screenrant.com/solo-leveling-movie-release-before-season-3/",
       "pillar": "anime",
@@ -83,6 +76,13 @@
     {
       "title": "Solo Leveling's Next Series May Be Coming Sooner Than Fans Think",
       "url": "https://screenrant.com/netflix-solo-leveling-new-series-release-date-window/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto: All Of The Tailed Beasts & Jinchuriki In The Franchise",
+      "url": "https://screenrant.com/naruto-tailed-beasts-bijuu-jinchuriki-powers-explained/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "'She Loves to Cook, and She Loves to Eat' Manga Resumes After 2 Years",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-17/she-loves-to-cook-and-she-loves-to-eat-manga-resumes-after-2-years/.238588",
+      "title": "10 best anime to watch with your girlfriend that even non-anime fans will love",
+      "url": "https://www.polygon.com/best-anime-to-watch-with-your-girlfriend-boyfriend-wife-husband-spouse/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Mushoku Tensei season 3 release date officially revealed as part of Crunchyroll's summer lineup",
-      "url": "https://www.polygon.com/jobless-reincarnation-season-3-crunchyroll-summer-slate-release/",
+      "title": "'She Loves to Cook, and She Loves to Eat' Manga Resumes After 2 Years",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-17/she-loves-to-cook-and-she-loves-to-eat-manga-resumes-after-2-years/.238588",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

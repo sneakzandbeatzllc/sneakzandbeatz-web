@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-17T23:14:12+00:00",
+  "generated_utc": "2026-06-18T00:12:17+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -111,18 +111,6 @@
       "release_badge": ""
     },
     {
-      "id": "7aef60a4c2ff",
-      "pillar": "anime",
-      "title": "Dragon Ball Xenoverse 3 will let you summon Goku's spirit",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dragon-ball-xenoverse-3-gameplay-mechanics-reveals/",
-      "thumbnail": "/drops/thumbs/7aef60a4c2ff.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "509e67d5dea9",
       "pillar": "anime",
       "title": "Solo Leveling Movie Confirmed, And It's Releasing Before Season 3",
@@ -141,6 +129,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/netflix-solo-leveling-new-series-release-date-window/",
       "thumbnail": "/drops/thumbs/b355056cf01a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "630724fccc92",
+      "pillar": "anime",
+      "title": "Naruto: All Of The Tailed Beasts & Jinchuriki In The Franchise",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-tailed-beasts-bijuu-jinchuriki-powers-explained/",
+      "thumbnail": "/drops/thumbs/630724fccc92.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "c6742549b75f",
+      "id": "ed30a7d2d133",
       "pillar": "anime",
-      "title": "'She Loves to Cook, and She Loves to Eat' Manga Resumes After 2 Years",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/she-loves-to-cook-and-she-loves-to-eat-manga-resumes-after-2-years/.238588",
-      "thumbnail": "/drops/thumbs/c6742549b75f.jpg",
+      "title": "10 best anime to watch with your girlfriend that even non-anime fans will love",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/best-anime-to-watch-with-your-girlfriend-boyfriend-wife-husband-spouse/",
+      "thumbnail": "/drops/thumbs/ed30a7d2d133.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "3b2d79c11ae1",
+      "id": "c6742549b75f",
       "pillar": "anime",
-      "title": "Mushoku Tensei season 3 release date officially revealed as part of Crunchyroll's summer lineup",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/jobless-reincarnation-season-3-crunchyroll-summer-slate-release/",
-      "thumbnail": "/drops/thumbs/3b2d79c11ae1.jpg",
+      "title": "'She Loves to Cook, and She Loves to Eat' Manga Resumes After 2 Years",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-17/she-loves-to-cook-and-she-loves-to-eat-manga-resumes-after-2-years/.238588",
+      "thumbnail": "/drops/thumbs/c6742549b75f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
