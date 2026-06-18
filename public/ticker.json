@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T12:18:49+00:00",
+  "generated_utc": "2026-06-18T12:20:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 3 “BIN 23” (IO7744-600): 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-bin-23-io7744-600-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 1 Low Joins The “Bloodline” Family",
       "url": "https://sneakerbardetroit.com/air-jordan-1-low-bloodline-553558-076/",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Where to Buy the Air Jordan 5 “Black/University Blue”",
+      "url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
