@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T13:21:07+00:00",
+  "generated_utc": "2026-06-18T14:18:15+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -207,12 +207,36 @@
       "release_badge": ""
     },
     {
-      "id": "ab8923fe1225",
+      "id": "fefaa67dfcd8",
       "pillar": "gaming",
-      "title": "News This Business Is Observing a Day Off for GTA 6 Launch, and It Won't Be the Only One",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/this-business-is-observing-a-day-off-for-gta-6-launch-and-it-wont-be-the-only-one",
-      "thumbnail": "/drops/thumbs/ab8923fe1225.jpg",
+      "title": "GTA 6 official cover art revealed as Rockstar sets a date for pre-orders to begin",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cover-art-reveal/",
+      "thumbnail": "/drops/thumbs/fefaa67dfcd8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9cd08d4dcb6b",
+      "pillar": "gaming",
+      "title": "GTA 6 Pre-Orders Start June 25, Official Cover Art Finally Revealed",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
+      "thumbnail": "/drops/thumbs/9cd08d4dcb6b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9709766057f7",
+      "pillar": "gaming",
+      "title": "Here’s How I Know We Are Entering Rockstar’s End Game For Launching GTA 6",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079",
+      "thumbnail": "/drops/thumbs/9709766057f7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,30 +285,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563123/article/unreal-engine-6-ai-integration-gets-instant-backlash-as-poncle-threatens-to-cancel-vampire-survivors-fortnite-collab/",
       "thumbnail": "/drops/thumbs/33ec347b7521.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b2943e241dbb",
-      "pillar": "gaming",
-      "title": "Deus Ex Creator’s New Immersive Sim Is Cancelled, With 17 Staff Laid Off",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/deus-ex-spector-argos-riders-on-the-storm-job-loss-otherside-2000708036",
-      "thumbnail": "/drops/thumbs/b2943e241dbb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f89bb12d52d9",
-      "pillar": "gaming",
-      "title": "Interview Why so many game developers don't want to use generative AI",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/why-so-many-game-developers-dont-want-to-use-generative-ai/",
-      "thumbnail": "/drops/thumbs/f89bb12d52d9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
