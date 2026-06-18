@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T09:16:29+00:00",
+  "generated_utc": "2026-06-18T10:14:56+00:00",
   "items": [
     {
       "id": "094b1500b6a8",
@@ -171,6 +171,18 @@
       "release_badge": ""
     },
     {
+      "id": "34f957844fad",
+      "pillar": "anime",
+      "title": "Animation Studios Sunrise, Shaft Tease 1st Anime Collaboration",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/animation-studios-sunrise-shaft-tease-1st-anime-collaboration/.238654",
+      "thumbnail": "/drops/thumbs/34f957844fad.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f4ccf5c8b969",
       "pillar": "anime",
       "title": "Writer Jirō Sugiura, Artist Umemaru's The Fake Alchemist Manga Gets TV Anime",
@@ -183,24 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "3096b852aaab",
-      "pillar": "anime",
-      "title": "The Reincarnated Elf Left on a Journey to Master His Magic and With His Extra Lifespan Became a Living Legend TV Anime Unveils Teaser Video, Main Cast, Staff, 2027 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/the-reincarnated-elf-left-on-a-journey-to-master-his-magic-and-with-his-extra-lifespan-became-a-/.238602",
-      "thumbnail": "/drops/thumbs/3096b852aaab.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2de5c640cdd2",
+      "id": "ab8923fe1225",
       "pillar": "gaming",
-      "title": "News Yakuza Creator's Gang of Dragon PS5 Game Really Does Seem Dead",
+      "title": "News This Business Is Observing a Day Off for GTA 6 Launch, and It Won't Be the Only One",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/yakuza-creators-gang-of-dragon-ps5-game-really-does-seem-dead",
-      "thumbnail": "/drops/thumbs/2de5c640cdd2.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/this-business-is-observing-a-day-off-for-gta-6-launch-and-it-wont-be-the-only-one",
+      "thumbnail": "/drops/thumbs/ab8923fe1225.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,6 +213,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
       "thumbnail": "/drops/thumbs/ee5235925d2a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2de5c640cdd2",
+      "pillar": "gaming",
+      "title": "News Yakuza Creator's Gang of Dragon PS5 Game Really Does Seem Dead",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/yakuza-creators-gang-of-dragon-ps5-game-really-does-seem-dead",
+      "thumbnail": "/drops/thumbs/2de5c640cdd2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "a71a0f0e9203",
+      "id": "6de8a77bbcba",
       "pillar": "gaming",
-      "title": "Rumor: Sony Has A “Desire For Revenge” Vs. Bungie Over Live Service Failures",
+      "title": "Epic Has Announced Lumen Lite For Unreal 5.8, Making Global Illumination Available To Switch 2 At 60 FPS",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563121/article/rumor-sony-has-a-desire-for-revenge-vs-bungie-over-live-service-failures/",
-      "thumbnail": "/drops/thumbs/a71a0f0e9203.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "133723690df1",
-      "pillar": "gaming",
-      "title": "Tim Sweeney Pitches Epic As A Savior For An AAA Gaming Industry Being Devoured by Roblox",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/tim-sweeney-pitches-epic-as-a-savior-for-an-aaa-gaming-industry-being-devoured-by-roblox-2000707706",
-      "thumbnail": "/drops/thumbs/133723690df1.jpg",
+      "source_url": "https://gameranx.com/updates/id/563127/article/epic-has-announced-lumen-lite-for-unreal-5-8-making-global-illumination-available-to-switch-2-at-60-fps/",
+      "thumbnail": "/drops/thumbs/6de8a77bbcba.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "779db71fc001",
     "43a7a76378d1",
     "ff07f49af52d",
-    "2de5c640cdd2"
+    "ab8923fe1225"
   ]
 }
