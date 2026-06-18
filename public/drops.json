@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-18T19:22:33+00:00",
+  "generated_utc": "2026-06-18T19:26:40+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -34,6 +34,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-true-blue-2026/",
       "thumbnail": "/drops/thumbs/6f835bbe3ddc.jpg",
       "published": "2026-06-10T12:36:33",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "470ddf79af2c",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love Letter” Releases July 2nd",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
+      "thumbnail": "/drops/thumbs/470ddf79af2c.webp",
+      "published": "",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
       "thumbnail": "/drops/thumbs/74db885a190b.jpg",
       "published": "2026-06-16T13:49:25",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "67d4186d382d",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
-      "thumbnail": "/drops/thumbs/67d4186d382d.jpg",
-      "published": "2026-06-10T12:26:39",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "9cd08d4dcb6b",
-      "pillar": "gaming",
-      "title": "GTA 6 Pre-Orders Start June 25, Official Cover Art Finally Revealed",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
-      "thumbnail": "/drops/thumbs/9cd08d4dcb6b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4f9ec530549a",
       "pillar": "gaming",
       "title": "White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "63e7a1766822",
+      "id": "0fdde2f3ebf5",
       "pillar": "gaming",
-      "title": "“I’m Not Sure There Would Have Been A Number” – Paul Tassi Says Destiny 2 Peaks Haven’t Changed Anything For Bungie",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563130/article/im-not-sure-there-would-have-been-a-number-paul-tassi-says-destiny-2-peaks-havent-changed-anything-for-bungie/",
-      "thumbnail": "/drops/thumbs/63e7a1766822.jpg",
+      "title": "News GTA 5's Free PS4 to PS5 Upgrade Available for All Players Now",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-5s-free-ps4-to-ps5-upgrade-available-for-all-players-now",
+      "thumbnail": "/drops/thumbs/0fdde2f3ebf5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cb0ab770d471",
+      "pillar": "gaming",
+      "title": "Opinion This PS5 Magic Shooter Has Been the Perfect Summer Distraction",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/opinion-this-ps5-magic-shooter-has-been-the-perfect-summer-distraction",
+      "thumbnail": "/drops/thumbs/cb0ab770d471.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -296,7 +296,7 @@
     "ff07f49af52d",
     "6f835bbe3ddc",
     "bf38bf0928e7",
-    "dd42a8d6c69e",
+    "470ddf79af2c",
     "fefaa67dfcd8"
   ]
 }
