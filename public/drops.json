@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T04:29:26+00:00",
+  "generated_utc": "2026-06-19T07:04:31+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "698fc588100a",
+      "pillar": "gaming",
+      "title": "News GTA 6 PS5 Pre-Orders Open on 25th June, Cover Art Revealed",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-open-on-25th-june-cover-art-revealed",
+      "thumbnail": "/drops/thumbs/698fc588100a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fefaa67dfcd8",
       "pillar": "gaming",
       "title": "GTA 6 official cover art revealed as Rockstar sets a date for pre-orders to begin",
@@ -267,18 +279,6 @@
       "release_badge": ""
     },
     {
-      "id": "3d46212191c9",
-      "pillar": "gaming",
-      "title": "News PS5's Call of Duty: Black Ops Ports Get More Likes Than Modern Warfare 4",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5s-call-of-duty-black-ops-ports-get-more-likes-than-modern-warfare-4",
-      "thumbnail": "/drops/thumbs/3d46212191c9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "63e7a1766822",
       "pillar": "gaming",
       "title": "“I’m Not Sure There Would Have Been A Number” – Paul Tassi Says Destiny 2 Peaks Haven’t Changed Anything For Bungie",
@@ -297,6 +297,6 @@
     "6f835bbe3ddc",
     "83cf1a419afa",
     "470ddf79af2c",
-    "fefaa67dfcd8"
+    "698fc588100a"
   ]
 }
