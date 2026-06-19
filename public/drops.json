@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T13:32:23+00:00",
+  "generated_utc": "2026-06-19T14:32:15+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -99,30 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "c4c7fb08912b",
-      "pillar": "anime",
-      "title": "Jujutsu Kaisen Season 4: The Culling Game Part 2 Anime Reveals Teaser Video",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-19/jujutsu-kaisen-season-4-the-culling-game-part-2-anime-reveals-teaser-video/.238700",
-      "thumbnail": "/drops/thumbs/c4c7fb08912b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "eb574aa66b68",
-      "pillar": "anime",
-      "title": "Jujutsu Kaisen season 4 first trailer shows release is closer than expected",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/jujutsu-kaisen-season-4-first-trailer-mappa/",
-      "thumbnail": "/drops/thumbs/eb574aa66b68.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1a947fea91f5",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Season 4 Officially Reveals First Trailer",
@@ -183,12 +159,36 @@
       "release_badge": ""
     },
     {
+      "id": "8f9b07335c86",
+      "pillar": "anime",
+      "title": "One Piece Episode #1167 Release Date And Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-episode-1167-release-date-time/",
+      "thumbnail": "/drops/thumbs/8f9b07335c86.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "651306eceead",
       "pillar": "anime",
       "title": "Chainsaw Man's Anime Return Officially Drops New Trailer For Its Brutal Next Arc",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/chainsaw-man-season-2-anime-trailer-assassins-arc/",
       "thumbnail": "/drops/thumbs/651306eceead.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "70429bcab84e",
+      "pillar": "anime",
+      "title": "One Piece Filler Guide: A List Of Every Episode You Can Skip",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-filler-list-every-episode-skip/",
+      "thumbnail": "/drops/thumbs/70429bcab84e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "779db71fc001",
     "86085068f6a4",
     "ff07f49af52d",
-    "c4c7fb08912b",
+    "1a947fea91f5",
     "6f835bbe3ddc",
     "698fc588100a"
   ]
