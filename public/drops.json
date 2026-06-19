@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T16:40:03+00:00",
+  "generated_utc": "2026-06-19T17:33:47+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "ef2ee172a873",
+      "pillar": "anime",
+      "title": "Dragon Ball Super Artist Unveils Goku's Final Timeskip Design",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-goku-final-timeskip-design/",
+      "thumbnail": "/drops/thumbs/ef2ee172a873.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1a947fea91f5",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Season 4 Officially Reveals First Trailer",
@@ -117,18 +129,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-first-trailer-major-announcement/",
       "thumbnail": "/drops/thumbs/8278f0ea82c9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "83cf1a419afa",
-      "pillar": "anime",
-      "title": "Demon Slayer Infinity Castle's Streaming Delay Is Breaking Another Anime Record",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-delay-streaming-break-anime-record/",
-      "thumbnail": "/drops/thumbs/83cf1a419afa.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "779db71fc001",
     "86085068f6a4",
     "ff07f49af52d",
-    "1a947fea91f5",
+    "ef2ee172a873",
     "6f835bbe3ddc",
     "64c6baab0951"
   ]

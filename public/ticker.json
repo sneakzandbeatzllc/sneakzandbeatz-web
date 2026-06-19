@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T16:40:03+00:00",
+  "generated_utc": "2026-06-19T17:33:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball Super Artist Unveils Goku's Final Timeskip Design",
+      "url": "https://screenrant.com/dragon-ball-goku-final-timeskip-design/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jujutsu Kaisen Season 4 Officially Reveals First Trailer",
       "url": "https://screenrant.com/jujutsu-kaisen-season-4-first-trailer-revealed/",
       "pillar": "anime",
@@ -69,13 +76,6 @@
     {
       "title": "Jujutsu Kaisen Drops First Major Season 4 Announcement",
       "url": "https://screenrant.com/jujutsu-kaisen-season-4-first-trailer-major-announcement/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Demon Slayer Infinity Castle's Streaming Delay Is Breaking Another Anime Record",
-      "url": "https://screenrant.com/demon-slayer-delay-streaming-break-anime-record/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
