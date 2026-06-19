@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T16:33:04+00:00",
+  "generated_utc": "2026-06-19T16:34:36+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -219,18 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "9cd08d4dcb6b",
-      "pillar": "gaming",
-      "title": "GTA 6 Pre-Orders Start June 25, Official Cover Art Finally Revealed",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
-      "thumbnail": "/drops/thumbs/9cd08d4dcb6b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4f9ec530549a",
       "pillar": "gaming",
       "title": "White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "ea0a42e59b0a",
+      "id": "ee5235925d2a",
       "pillar": "gaming",
-      "title": "Here’s What’s New In Persona 4 Revival",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563143/article/heres-whats-new-in-persona-4-revival/",
-      "thumbnail": "/drops/thumbs/ea0a42e59b0a.png",
+      "title": "New Spider-Man: Brand New Day trailer sees Peter Parker take on an invisible villain causing Hulk-level havoc",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
+      "thumbnail": "/drops/thumbs/ee5235925d2a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "62024a9e2444",
+      "pillar": "gaming",
+      "title": "Amazon Ditches Almost Complete Sam Altman Movie After Signing $50 Billion OpenAI Deal",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/amazon-sam-altman-movie-openai-ai-chatgpt-andrew-garfield-2000708507",
+      "thumbnail": "/drops/thumbs/62024a9e2444.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
