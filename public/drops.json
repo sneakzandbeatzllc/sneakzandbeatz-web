@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T15:33:55+00:00",
+  "generated_utc": "2026-06-19T16:33:04+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -51,6 +51,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "da35c49d2b7a",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Sweet Beet” Releases July 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-4-gs-sweet-beet-io2829-600/",
+      "thumbnail": "/drops/thumbs/da35c49d2b7a.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "dd42a8d6c69e",
       "pillar": "sneakers",
       "title": "The Air Jordan 13 “Flint” Blue Returns in Summer 2026",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-low-last-dance-at-the-garden-ir0088-001/",
       "thumbnail": "/drops/thumbs/462a17807e3e.jpg",
       "published": "2026-06-16T17:45:27",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "74db885a190b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
-      "thumbnail": "/drops/thumbs/74db885a190b.jpg",
-      "published": "2026-06-16T13:49:25",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -183,24 +183,24 @@
       "release_badge": ""
     },
     {
-      "id": "70429bcab84e",
+      "id": "cbea9c076569",
       "pillar": "anime",
-      "title": "One Piece Filler Guide: A List Of Every Episode You Can Skip",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-filler-list-every-episode-skip/",
-      "thumbnail": "/drops/thumbs/70429bcab84e.png",
+      "title": "The Cat and the Dragon Anime's 2nd Video Announces More Cast, Theme Songs, June 27 Net Debut",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-19/the-cat-and-the-dragon-anime-2nd-video-announces-more-cast-theme-songs-june-27-net-debut/.238715",
+      "thumbnail": "/drops/thumbs/cbea9c076569.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "698fc588100a",
+      "id": "64c6baab0951",
       "pillar": "gaming",
-      "title": "News GTA 6 PS5 Pre-Orders Open on 25th June, Cover Art Revealed",
+      "title": "Poll How Much Will GTA 6 Cost?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-open-on-25th-june-cover-art-revealed",
-      "thumbnail": "/drops/thumbs/698fc588100a.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-how-much-will-gta-6-cost",
+      "thumbnail": "/drops/thumbs/64c6baab0951.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +225,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
       "thumbnail": "/drops/thumbs/9cd08d4dcb6b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4f9ec530549a",
+      "pillar": "gaming",
+      "title": "White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
+      "thumbnail": "/drops/thumbs/4f9ec530549a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "ee5235925d2a",
-      "pillar": "gaming",
-      "title": "New Spider-Man: Brand New Day trailer sees Peter Parker take on an invisible villain causing Hulk-level havoc",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
-      "thumbnail": "/drops/thumbs/ee5235925d2a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "ff07f49af52d",
     "1a947fea91f5",
     "6f835bbe3ddc",
-    "698fc588100a"
+    "64c6baab0951"
   ]
 }
