@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T07:35:22+00:00",
+  "generated_utc": "2026-06-19T08:06:07+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "86085068f6a4",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love Letter” Releases July 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "thumbnail": "/drops/thumbs/86085068f6a4.jpg",
+      "published": "2026-06-19T00:53:31",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "ff07f49af52d",
@@ -34,18 +46,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-true-blue-2026/",
       "thumbnail": "/drops/thumbs/6f835bbe3ddc.jpg",
       "published": "2026-06-10T12:36:33",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "470ddf79af2c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Love Letter” Releases July 2nd",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
-      "thumbnail": "/drops/thumbs/470ddf79af2c.webp",
-      "published": "",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "779db71fc001",
+    "86085068f6a4",
     "ff07f49af52d",
-    "6f835bbe3ddc",
     "83cf1a419afa",
-    "470ddf79af2c",
+    "6f835bbe3ddc",
     "698fc588100a"
   ]
 }

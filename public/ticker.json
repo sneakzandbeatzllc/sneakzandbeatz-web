@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T07:35:22+00:00",
+  "generated_utc": "2026-06-19T08:06:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love Letter” Releases July 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-love-the-game-shadow-brown/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -20,13 +27,6 @@
     {
       "title": "Air Jordan 3 OG “True Blue” Returns July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-3-true-blue-2026/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High OG “Love Letter” Releases July 2nd",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
