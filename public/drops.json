@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T00:31:05+00:00",
+  "generated_utc": "2026-06-19T01:26:24+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -135,18 +135,6 @@
       "release_badge": ""
     },
     {
-      "id": "727881f8a226",
-      "pillar": "anime",
-      "title": "Bandai Announces New Naruto Card Game",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/bandai-announces-new-naruto-card-game/.238670",
-      "thumbnail": "/drops/thumbs/727881f8a226.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2a26cc51f643",
       "pillar": "anime",
       "title": "Naruto Confirms Next Major Release For 2027, And One Piece Should Be Scared",
@@ -189,6 +177,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-louis-arnot-explainer/",
       "thumbnail": "/drops/thumbs/a4614e6877e1.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4535b695df93",
+      "pillar": "anime",
+      "title": "You are Ms. Servant Manga Resumes After 4 Months",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/you-are-ms-servant-manga-resumes-after-4-months/.238623",
+      "thumbnail": "/drops/thumbs/4535b695df93.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
