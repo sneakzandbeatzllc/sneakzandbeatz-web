@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T01:27:21+00:00",
+  "generated_utc": "2026-06-19T02:27:22+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -99,24 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "bf38bf0928e7",
-      "pillar": "anime",
-      "title": "My Hero Academia: All's Justice Game Gets Switch 2 Version With New Minigame Mode",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/my-hero-academia-all-justice-game-gets-switch-2-version-with-new-minigame-mode/.238672",
-      "thumbnail": "/drops/thumbs/bf38bf0928e7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7311d1ca01b8",
       "pillar": "anime",
       "title": "Naruto's long-awaited TCG comeback is finally happening",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/naruto-card-game-tcg-announcement/",
       "thumbnail": "/drops/thumbs/7311d1ca01b8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "70429bcab84e",
+      "pillar": "anime",
+      "title": "One Piece Filler Guide: A List Of Every Episode You Can Skip",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-filler-list-every-episode-skip/",
+      "thumbnail": "/drops/thumbs/70429bcab84e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "a4614e6877e1",
-      "pillar": "anime",
-      "title": "One Piece's Elbaph Warning Mystery Explained: Who Is Louis Arnot?",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-louis-arnot-explainer/",
-      "thumbnail": "/drops/thumbs/a4614e6877e1.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4535b695df93",
       "pillar": "anime",
       "title": "You are Ms. Servant Manga Resumes After 4 Months",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/you-are-ms-servant-manga-resumes-after-4-months/.238623",
       "thumbnail": "/drops/thumbs/4535b695df93.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fe963ec90a84",
+      "pillar": "anime",
+      "title": "WATATEN!'s Nanatsu Mukunoki Launches Barikyari JK Mone-senpai Manga on July 16",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-18/wataten-s-nanatsu-mukunoki-launches-barikyari-jk-mone-senpai-manga-on-july-16/.238625",
+      "thumbnail": "/drops/thumbs/fe963ec90a84.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "779db71fc001",
     "ff07f49af52d",
     "6f835bbe3ddc",
-    "bf38bf0928e7",
+    "7311d1ca01b8",
     "470ddf79af2c",
     "fefaa67dfcd8"
   ]
