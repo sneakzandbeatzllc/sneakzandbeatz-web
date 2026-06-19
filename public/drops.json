@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T10:30:26+00:00",
+  "generated_utc": "2026-06-19T11:30:07+00:00",
   "items": [
     {
       "id": "779db71fc001",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "8278f0ea82c9",
+      "pillar": "anime",
+      "title": "Jujutsu Kaisen Drops First Major Season 4 Announcement",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-first-trailer-major-announcement/",
+      "thumbnail": "/drops/thumbs/8278f0ea82c9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "83cf1a419afa",
       "pillar": "anime",
       "title": "Demon Slayer Infinity Castle's Streaming Delay Is Breaking Another Anime Record",
@@ -159,36 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "03fe86a80c39",
+      "id": "6f68219a030b",
       "pillar": "anime",
-      "title": "14 Later, The Cowboy Bebop Meets One Piece Anime Is Aging Like Fine Wine",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/lupin-third-woman-called-fujiko-mine-cowboy-bebop-meets-one-piece/",
-      "thumbnail": "/drops/thumbs/03fe86a80c39.png",
+      "title": "Kana Nishino Performs Ascendance of a Bookworm Part 3 Anime's New Opening Theme Song",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-19/kana-nishino-performs-ascendance-of-a-bookworm-part-3-anime-new-opening-theme-song/.238698",
+      "thumbnail": "/drops/thumbs/6f68219a030b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "cafe3f9bc0b3",
+      "id": "d900a92715dc",
       "pillar": "anime",
-      "title": "The Frontier Lord Begins with Zero Subjects Anime Reveals 3rd Promo Video, More Cast, Early Debut on Prime Video",
+      "title": "' Oh Boy, Was I Wrong About Her ' TV Anime's 2nd Promo Video Reveals July 6 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-19/the-frontier-lord-begins-with-zero-subjects-anime-reveals-3rd-promo-video-more-cast-early-debut-on-/.238696",
-      "thumbnail": "/drops/thumbs/cafe3f9bc0b3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7fb603b1ed59",
-      "pillar": "anime",
-      "title": "Rich Girl Caretaker TV Anime Reveals 2nd Promo Video, More Cast",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-19/rich-girl-caretaker-tv-anime-reveals-2nd-promo-video-more-cast/.238693",
-      "thumbnail": "/drops/thumbs/7fb603b1ed59.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-19/oh-boy-was-i-wrong-about-her-tv-anime-2nd-promo-video-reveals-july-6-debut/.238699",
+      "thumbnail": "/drops/thumbs/d900a92715dc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "779db71fc001",
     "86085068f6a4",
     "ff07f49af52d",
-    "83cf1a419afa",
+    "8278f0ea82c9",
     "6f835bbe3ddc",
     "698fc588100a"
   ]
