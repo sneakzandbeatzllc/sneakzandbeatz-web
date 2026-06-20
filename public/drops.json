@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-20T13:43:03+00:00",
+  "generated_utc": "2026-06-20T14:11:18+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -69,7 +69,7 @@
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
       "thumbnail": "/drops/thumbs/779db71fc001.jpg",
-      "published": "2026-06-19T07:31:40",
+      "published": "2026-06-20T09:00:07",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -135,6 +135,18 @@
       "release_badge": ""
     },
     {
+      "id": "49ab5e3f8296",
+      "pillar": "anime",
+      "title": "Crunchyroll Confirms Witch Hat Atelier Has Officially Dethroned Spy x Family In One Way",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/witch-hat-atelier-dethrones-spy-x-family-crunchyroll/",
+      "thumbnail": "/drops/thumbs/49ab5e3f8296.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2569355cdccb",
       "pillar": "anime",
       "title": "Hunter x Hunter's Latest Release Proves 2026 Is The Year Of Its Comeback",
@@ -177,18 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-20/goodbye-lara-anime-3rd-promo-video-reveals-hana-hope-ending-theme/.238728",
       "thumbnail": "/drops/thumbs/c2aab488dfb2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b077eaca17ec",
-      "pillar": "anime",
-      "title": "Ghibli's Original Version Of Grave of the Fireflies Has Been Found, And It's Somehow Even Darker",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/ghiblis-original-version-of-grave-of-the-fireflies-has-been-found-and-its-somehow-even-darker/",
-      "thumbnail": "/drops/thumbs/b077eaca17ec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
