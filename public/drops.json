@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-20T14:11:18+00:00",
+  "generated_utc": "2026-06-20T14:42:39+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4fbd776b0266",
+      "pillar": "anime",
+      "title": "After 3 Years, MAPPA Returns To Attack On Titan One Last Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/mappa-attack-on-titan-3-trailer/",
+      "thumbnail": "/drops/thumbs/4fbd776b0266.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a1abdb8a7dfe",
       "pillar": "anime",
       "title": "The 11 best MAPPA anime that aren't Jujutsu Kaisen or Chainsaw Man",
@@ -177,18 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-20/viz-media-releases-yukiaki-kurando-wooma-kiss-me-with-your-face-manga-in-english/.238726",
       "thumbnail": "/drops/thumbs/5190ca79159c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c2aab488dfb2",
-      "pillar": "anime",
-      "title": "'Goodbye, Lara' Anime's 3rd Promo Video Reveals Hana Hope's Ending Theme",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-20/goodbye-lara-anime-3rd-promo-video-reveals-hana-hope-ending-theme/.238728",
-      "thumbnail": "/drops/thumbs/c2aab488dfb2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "cdb12351ad98",
     "86085068f6a4",
     "ff07f49af52d",
-    "a1abdb8a7dfe",
+    "4fbd776b0266",
     "6f835bbe3ddc",
     "fefaa67dfcd8"
   ]

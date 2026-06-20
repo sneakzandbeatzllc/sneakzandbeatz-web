@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-20T14:11:18+00:00",
+  "generated_utc": "2026-06-20T14:42:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "After 3 Years, MAPPA Returns To Attack On Titan One Last Time",
+      "url": "https://screenrant.com/mappa-attack-on-titan-3-trailer/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The 11 best MAPPA anime that aren't Jujutsu Kaisen or Chainsaw Man",
       "url": "https://www.polygon.com/11-best-mappa-anime-that-arent-jujutsu-kaisen/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Viz Media Releases Yukiaki Kurando, Wooma's Kiss Me With Your Face Manga in English",
       "url": "https://www.animenewsnetwork.com/news/2026-06-20/viz-media-releases-yukiaki-kurando-wooma-kiss-me-with-your-face-manga-in-english/.238726",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "'Goodbye, Lara' Anime's 3rd Promo Video Reveals Hana Hope's Ending Theme",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-20/goodbye-lara-anime-3rd-promo-video-reveals-hana-hope-ending-theme/.238728",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
