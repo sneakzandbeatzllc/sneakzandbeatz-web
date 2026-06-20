@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-20T06:39:16+00:00",
+  "generated_utc": "2026-06-20T09:40:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Chainsaw Man Anime Gets Smartphone Game With Opening Animation by MAPPA",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-19/chainsaw-man-anime-gets-smartphone-game-with-opening-animation-by-mappa/.238713",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Chainsaw Man's first official video game gets MAPPA-animated intro movie",
       "url": "https://www.polygon.com/chainsaw-man-first-official-video-game-mappa/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Hunter x Hunter's Latest Release Proves 2026 Is The Year Of Its Comeback",
       "url": "https://screenrant.com/hunter-x-hunter-new-anime-nen-survivor-special-2026/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "'Goodbye, Lara' Anime's 3rd Promo Video Reveals Hana Hope's Ending Theme",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-20/goodbye-lara-anime-3rd-promo-video-reveals-hana-hope-ending-theme/.238728",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
