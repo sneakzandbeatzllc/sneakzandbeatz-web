@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-20T12:42:27+00:00",
+  "generated_utc": "2026-06-20T13:41:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,13 +74,6 @@
       "article_slug": null
     },
     {
-      "title": "15 Greatest Gojo Quotes In Jujutsu Kaisen",
-      "url": "https://screenrant.com/best-gojo-satoru-quotes-in-jujutsu-kaisen-anime-manga/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Chainsaw Man's first official video game gets MAPPA-animated intro movie",
       "url": "https://www.polygon.com/chainsaw-man-first-official-video-game-mappa/",
       "pillar": "anime",
@@ -90,6 +83,13 @@
     {
       "title": "Hunter x Hunter's Latest Release Proves 2026 Is The Year Of Its Comeback",
       "url": "https://screenrant.com/hunter-x-hunter-new-anime-nen-survivor-special-2026/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Crunchyroll Adds Zombie Land Saga Film, Miss Kobayashi's Dragon Maid Film, Given OVA",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-20/crunchyroll-adds-zombie-land-saga-film-miss-kobayashi-dragon-maid-film-given-ova/.238725",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,16 +109,9 @@
       "article_slug": null
     },
     {
-      "title": "The Warrior Princess and the Barbaric King Anime Previews Climax in New Video, Visual",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-20/the-warrior-princess-and-the-barbaric-king-anime-previews-climax-in-new-video-visual/.238722",
+      "title": "Ghibli's Original Version Of Grave of the Fireflies Has Been Found, And It's Somehow Even Darker",
+      "url": "https://screenrant.com/ghiblis-original-version-of-grave-of-the-fireflies-has-been-found-and-its-somehow-even-darker/",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Poll How Much Will GTA 6 Cost?",
-      "url": "https://www.pushsquare.com/features/poll-how-much-will-gta-6-cost",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -132,13 +125,6 @@
     {
       "title": "GTA 6 Pre-Orders Start June 25, Official Cover Art Finally Revealed",
       "url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew",
-      "url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +153,20 @@
     {
       "title": "New Spider-Man: Brand New Day trailer sees Peter Parker take on an invisible villain causing Hulk-level havoc",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Uproar as Halo PS5 Demands 2 PS Plus Subscriptions for Local Co-Op",
+      "url": "https://www.pushsquare.com/news/2026/06/uproar-as-halo-ps5-demands-2-ps-plus-subscriptions-for-local-co-op",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "“I’m Not Sure There Would Have Been A Number” – Paul Tassi Says Destiny 2 Peaks Haven’t Changed Anything For Bungie",
+      "url": "https://gameranx.com/updates/id/563130/article/im-not-sure-there-would-have-been-a-number-paul-tassi-says-destiny-2-peaks-havent-changed-anything-for-bungie/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

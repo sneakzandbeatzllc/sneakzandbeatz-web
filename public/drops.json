@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-20T12:42:27+00:00",
+  "generated_utc": "2026-06-20T13:41:58+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -123,18 +123,6 @@
       "release_badge": ""
     },
     {
-      "id": "33e65d0cd674",
-      "pillar": "anime",
-      "title": "15 Greatest Gojo Quotes In Jujutsu Kaisen",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-gojo-satoru-quotes-in-jujutsu-kaisen-anime-manga/",
-      "thumbnail": "/drops/thumbs/33e65d0cd674.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "022940d6606d",
       "pillar": "anime",
       "title": "Chainsaw Man's first official video game gets MAPPA-animated intro movie",
@@ -153,6 +141,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/hunter-x-hunter-new-anime-nen-survivor-special-2026/",
       "thumbnail": "/drops/thumbs/2569355cdccb.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "125a1502b662",
+      "pillar": "anime",
+      "title": "Crunchyroll Adds Zombie Land Saga Film, Miss Kobayashi's Dragon Maid Film, Given OVA",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-20/crunchyroll-adds-zombie-land-saga-film-miss-kobayashi-dragon-maid-film-given-ova/.238725",
+      "thumbnail": "/drops/thumbs/125a1502b662.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,24 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "2f15d2a40941",
+      "id": "b077eaca17ec",
       "pillar": "anime",
-      "title": "The Warrior Princess and the Barbaric King Anime Previews Climax in New Video, Visual",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-20/the-warrior-princess-and-the-barbaric-king-anime-previews-climax-in-new-video-visual/.238722",
-      "thumbnail": "/drops/thumbs/2f15d2a40941.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "64c6baab0951",
-      "pillar": "gaming",
-      "title": "Poll How Much Will GTA 6 Cost?",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-how-much-will-gta-6-cost",
-      "thumbnail": "/drops/thumbs/64c6baab0951.jpg",
+      "title": "Ghibli's Original Version Of Grave of the Fireflies Has Been Found, And It's Somehow Even Darker",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/ghiblis-original-version-of-grave-of-the-fireflies-has-been-found-and-its-somehow-even-darker/",
+      "thumbnail": "/drops/thumbs/b077eaca17ec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,18 +213,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
       "thumbnail": "/drops/thumbs/9cd08d4dcb6b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4f9ec530549a",
-      "pillar": "gaming",
-      "title": "White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
-      "thumbnail": "/drops/thumbs/4f9ec530549a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +265,30 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "8899ac697634",
+      "pillar": "gaming",
+      "title": "News Uproar as Halo PS5 Demands 2 PS Plus Subscriptions for Local Co-Op",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/uproar-as-halo-ps5-demands-2-ps-plus-subscriptions-for-local-co-op",
+      "thumbnail": "/drops/thumbs/8899ac697634.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "63e7a1766822",
+      "pillar": "gaming",
+      "title": "“I’m Not Sure There Would Have Been A Number” – Paul Tassi Says Destiny 2 Peaks Haven’t Changed Anything For Bungie",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563130/article/im-not-sure-there-would-have-been-a-number-paul-tassi-says-destiny-2-peaks-havent-changed-anything-for-bungie/",
+      "thumbnail": "/drops/thumbs/63e7a1766822.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "ff07f49af52d",
     "a1abdb8a7dfe",
     "6f835bbe3ddc",
-    "64c6baab0951"
+    "fefaa67dfcd8"
   ]
 }
