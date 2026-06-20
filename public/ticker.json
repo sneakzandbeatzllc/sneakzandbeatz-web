@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-20T17:44:57+00:00",
+  "generated_utc": "2026-06-20T18:45:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Confirms Witch Hat Atelier Has Officially Dethroned Spy x Family In One Way",
-      "url": "https://screenrant.com/witch-hat-atelier-dethrones-spy-x-family-crunchyroll/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Akane-banashi Anime Gets 2nd Season in January 2027",
       "url": "https://www.animenewsnetwork.com/news/2026-06-20/akane-banashi-anime-gets-2nd-season-in-january-2027/.238723",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Crunchyroll Adds Zombie Land Saga Film, Miss Kobayashi's Dragon Maid Film, Given OVA",
       "url": "https://www.animenewsnetwork.com/news/2026-06-20/crunchyroll-adds-zombie-land-saga-film-miss-kobayashi-dragon-maid-film-given-ova/.238725",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Viz Media Releases Yukiaki Kurando, Wooma's Kiss Me With Your Face Manga in English",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-20/viz-media-releases-yukiaki-kurando-wooma-kiss-me-with-your-face-manga-in-english/.238726",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
