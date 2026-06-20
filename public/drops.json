@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-19T22:37:02+00:00",
+  "generated_utc": "2026-06-20T00:13:41+00:00",
   "items": [
+    {
+      "id": "cdb12351ad98",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 5 “Black/University Blue” Releases Tomorrow",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
+      "thumbnail": "/drops/thumbs/cdb12351ad98.jpg",
+      "published": "2026-06-19T01:14:00",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Week"
+    },
     {
       "id": "779db71fc001",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
       "thumbnail": "/drops/thumbs/4c0c135c5fd0.webp",
       "published": "2026-06-17T13:57:57",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "462a17807e3e",
-      "pillar": "sneakers",
-      "title": "Jordan Celebrates Mike’s Last Dance at the Garden with a Special Air Jordan 1 Low",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-last-dance-at-the-garden-ir0088-001/",
-      "thumbnail": "/drops/thumbs/462a17807e3e.jpg",
-      "published": "2026-06-16T17:45:27",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "cdb12351ad98",
     "779db71fc001",
     "86085068f6a4",
-    "ff07f49af52d",
     "ef2ee172a873",
-    "6f835bbe3ddc",
+    "ff07f49af52d",
     "64c6baab0951"
   ]
 }
