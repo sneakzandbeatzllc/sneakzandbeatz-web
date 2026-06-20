@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-20T11:41:51+00:00",
+  "generated_utc": "2026-06-20T12:40:18+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -13,18 +13,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
-    },
-    {
-      "id": "779db71fc001",
-      "pillar": "sneakers",
-      "title": "Air Jordan 5 “Black Carolina” (DD0587-008) June 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
-      "published": "2026-06-16T07:31:40",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
     },
     {
       "id": "86085068f6a4",
@@ -75,6 +63,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "779db71fc001",
+      "pillar": "sneakers",
+      "title": "Where To Buy the Air Jordan 5 “Black Carolina”",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
+      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
+      "published": "2026-06-19T07:31:40",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "dd42a8d6c69e",
       "pillar": "sneakers",
       "title": "The Air Jordan 13 “Flint” Blue Returns in Summer 2026",
@@ -99,24 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "ef2ee172a873",
-      "pillar": "anime",
-      "title": "Dragon Ball Super Artist Unveils Goku's Final Design",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-goku-final-timeskip-design/",
-      "thumbnail": "/drops/thumbs/ef2ee172a873.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a1abdb8a7dfe",
       "pillar": "anime",
       "title": "The 11 best MAPPA anime that aren't Jujutsu Kaisen or Chainsaw Man",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/11-best-mappa-anime-that-arent-jujutsu-kaisen/",
       "thumbnail": "/drops/thumbs/a1abdb8a7dfe.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "31682af207cc",
+      "pillar": "anime",
+      "title": "Hell's Paradise JRPG Is The Jujutsu Kaisen Meets Demon Slayer Game Fans Have Waited For",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/hells-paradise-jrpg-jujutsu-kaisen-meets-demon-slayer/",
+      "thumbnail": "/drops/thumbs/31682af207cc.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "71b4c3e53d06",
-      "pillar": "gaming",
-      "title": "News Persona 4 Revival Gameplay Showcase Covers Combat Changes, New Content, and More",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/persona-4-revival-gameplay-showcase-covers-combat-changes-new-content-and-more",
-      "thumbnail": "/drops/thumbs/71b4c3e53d06.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ea0a42e59b0a",
       "pillar": "gaming",
       "title": "Here’s What’s New In Persona 4 Revival",
@@ -289,14 +277,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "ee5235925d2a",
+      "pillar": "gaming",
+      "title": "New Spider-Man: Brand New Day trailer sees Peter Parker take on an invisible villain causing Hulk-level havoc",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
+      "thumbnail": "/drops/thumbs/ee5235925d2a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "cdb12351ad98",
-    "779db71fc001",
     "86085068f6a4",
-    "ef2ee172a873",
     "ff07f49af52d",
+    "a1abdb8a7dfe",
+    "6f835bbe3ddc",
     "64c6baab0951"
   ]
 }
