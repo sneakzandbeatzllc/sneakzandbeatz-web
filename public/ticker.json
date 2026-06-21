@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-21T02:50:30+00:00",
+  "generated_utc": "2026-06-21T04:51:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen Confirms Gojo's Season 4 Return",
-      "url": "https://screenrant.com/jujutsu-kaisen-season-4-gojo-return-confirmed/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Boruto Hints At Romance For Major Series Villain, And It Changes Naruto Lore Forever",
       "url": "https://screenrant.com/boruto-two-blue-vortex-jura-hidari-naruto-lore/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Mistress Kanan is Devilishly Easy Anime Gets 2nd Season",
       "url": "https://www.animenewsnetwork.com/news/2026-06-20/mistress-kanan-is-devilishly-easy-anime-gets-2nd-season/.238739",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "14 Major Manga Series Ended Or Expected To End In 2026",
+      "url": "https://screenrant.com/manga-series-ending-in-2026-guide/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
