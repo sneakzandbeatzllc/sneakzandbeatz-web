@@ -132,17 +132,45 @@ export default async function LaneEssayPage({
               )}
             </figure>
           )}
-          {!essay.heroImage && essay.heroCredit && (
-            <p style={{ fontSize: "0.78rem", opacity: 0.6, marginTop: 12 }}>
-              Lead image source:{" "}
-              {essay.heroCreditUrl ? (
-                <a href={essay.heroCreditUrl} target="_blank" rel="noopener noreferrer">
-                  {essay.heroCredit}
-                </a>
-              ) : (
-                essay.heroCredit
-              )}
-            </p>
+          {!essay.heroImage && (
+            <div
+              style={{
+                margin: "24px 0 0",
+                minHeight: 220,
+                borderRadius: 12,
+                background: `radial-gradient(120% 140% at 100% 0%, #${essay.ogAccent} 0%, rgba(10,10,10,0.15) 55%), #0a0a0a`,
+                position: "relative",
+                overflow: "hidden",
+                display: "flex",
+                alignItems: "flex-end",
+                padding: 22,
+              }}
+            >
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/logo-mark-512.png"
+                alt=""
+                aria-hidden
+                style={{ position: "absolute", right: -24, top: -24, width: 210, opacity: 0.12 }}
+              />
+              <span
+                style={{
+                  position: "relative",
+                  fontSize: "0.72rem",
+                  letterSpacing: "0.14em",
+                  textTransform: "uppercase",
+                  color: "rgba(255,255,255,0.9)",
+                  fontWeight: 800,
+                }}
+              >
+                {essay.pillar === "hiphop"
+                  ? "Hip-Hop"
+                  : essay.pillar
+                  ? essay.pillar.charAt(0).toUpperCase() + essay.pillar.slice(1)
+                  : "The Lane"}{" "}
+                · Sneakz &amp; Beatz
+              </span>
+            </div>
           )}
         </header>
 
