@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-21T07:40:54+00:00",
+  "generated_utc": "2026-06-21T17:45:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,15 +60,15 @@
       "article_slug": null
     },
     {
-      "title": "8 best anime to watch if you like Solo Leveling (#3 will blow your mind)",
-      "url": "https://www.polygon.com/best-anime-like-solo-leveling/",
+      "title": "Shonen Jump's Last New Summer Series Is Demon Slayer Meets Attack on Titan",
+      "url": "https://screenrant.com/shonen-jump-demon-slayer-meets-attack-on-titan-cannon-master/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Demon Slayer Infinity Castle's Replacement Is One Of Hulu's Best Kept Secret",
-      "url": "https://screenrant.com/sword-demon-hunter-demon-slayer-replacement-hulu/",
+      "title": "8 best anime to watch if you like Solo Leveling (#3 will blow your mind)",
+      "url": "https://www.polygon.com/best-anime-like-solo-leveling/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -81,43 +81,50 @@
       "article_slug": null
     },
     {
-      "title": "Boruto Hints At Romance For Major Series Villain, And It Changes Naruto Lore Forever",
-      "url": "https://screenrant.com/boruto-two-blue-vortex-jura-hidari-naruto-lore/",
+      "title": "19 Years Later, A Forgotten Shonen Jump Classic Returns With The Anime That Will Replace Jujutsu Kaisen",
+      "url": "https://screenrant.com/psyren-forgotten-shonen-jump-classic-replace-jujutsu-kaisen/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Mission: Yozakura Family Season 2 Anime Casts Hiroshi Kamiya",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-21/mission-yozakura-family-season-2-anime-casts-hiroshi-kamiya/.238747",
+      "title": "Jujutsu Kaisen's Yuji Is Actually Stronger Than Gojo, And It's Not Close",
+      "url": "https://screenrant.com/yuji-itadori-stronger-satoru-gojo-jujutsu-kaisen-modulo/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Pandora Hearts Manga Gets New Stage Musical",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-21/pandora-hearts-manga-gets-new-stage-musical/.238736",
+      "title": "Hunter x Hunter Manga Resumes Serialization on June 29",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-21/hunter-x-hunter-manga-resumes-serialization-on-june-29/.238751",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "The Stunned Hero and the Assassin Princesses Manga Goes on Hiatus Due to Artist's Health",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-20/the-stunned-hero-and-the-assassin-princesses-manga-goes-on-hiatus-due-to-artist-health/.238737",
+      "title": "Crunchyroll Bids Well To Dr. Stone, The Shonen Masterpiece Nobody Talks About",
+      "url": "https://screenrant.com/crunchyroll-bids-well-to-dr-stone-the-shonen-masterpiece-nobody-talks-about/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "14 Major Manga Series Ended Or Expected To End In 2026",
-      "url": "https://screenrant.com/manga-series-ending-in-2026-guide/",
+      "title": "Bleach: Thousand-Year Blood War Is Fantastic, But It Still Can't Fix The Series' One Fatal Flaw",
+      "url": "https://screenrant.com/bleach-thousand-year-blood-war-fatal-flaw-dialogue/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "GTA 6 official cover art revealed as Rockstar sets a date for pre-orders to begin",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cover-art-reveal/",
+      "title": "Rumour GTA 6 Price Potentially Leaked by European Retailer",
+      "url": "https://www.pushsquare.com/news/2026/06/rumour-gta-6-price-potentially-leaked-by-european-retailer",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6 prices potentially leak off a European retailer, and it looks like Rockstar Games is charging between €90 and €200",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-prices-potentially-leak-off-a-european-retailer-and-it-looks-like-rockstar-games-is-charging-between-eur90-and-eur200/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -125,13 +132,6 @@
     {
       "title": "GTA 6 Pre-Orders Start June 25, Official Cover Art Finally Revealed",
       "url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Analysis A new aerial shot of Vice City teases a world of possibilities in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/yes-its-okay-to-get-very-excited-about-a-small-new-look-at-gta-6s-stunning-vice-city/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -151,22 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "New Spider-Man: Brand New Day trailer sees Peter Parker take on an invisible villain causing Hulk-level havoc",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc/",
+      "title": "Despite playing a key role in Final Fantasy 7, Tetsuya Nomura says \"Kingdom Hearts has become my life's work\"",
+      "url": "https://www.gamesradar.com/games/kingdom-hearts/despite-playing-a-key-role-in-final-fantasy-7-jrpg-icon-tetsuya-nomura-says-kingdom-hearts-has-become-my-lifes-work/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Uproar as Halo PS5 Demands 2 PS Plus Subscriptions for Local Co-Op",
-      "url": "https://www.pushsquare.com/news/2026/06/uproar-as-halo-ps5-demands-2-ps-plus-subscriptions-for-local-co-op",
+      "title": "The Witcher 4 studio wants to make more games without \"launching a big game every year\"",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-and-cyberpunk-2077-studio-wants-to-make-more-games-without-turning-cdpr-into-a-company-thats-going-to-be-launching-a-big-game-every-year/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Doom, Duke Nukem Composer And Overall MIDI Maestro Bobby Prince Dies At 81",
-      "url": "https://kotaku.com/doom-duke-nukem-composer-and-overall-midi-maestro-bobby-prince-dies-at-81-2000708674",
+      "title": "News Halo PS5 Backtracks PS Plus Co-Op Demands, Says They Were a Mistake",
+      "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-backtracks-ps-plus-co-op-demands-says-they-were-a-mistake",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
