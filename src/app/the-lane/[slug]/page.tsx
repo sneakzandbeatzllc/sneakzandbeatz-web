@@ -5,8 +5,23 @@ import Footer from "@/components/Footer";
 import { LANE_ESSAYS, getEssay, getAllEssaySlugs } from "@/data/lane-essays";
 import { renderMarkdown } from "@/lib/render-md";
 import { jsonLd, articleSchema, phrhxPerson, breadcrumbList } from "@/lib/schema";
+import fs from "node:fs";
+import path from "node:path";
 
 const SITE = "https://www.sneakzandbeatz.com";
+
+// Auto-hero: if an image named after the slug sits in /public/lane, use it.
+// Lets the owner add a real hero by just dropping <slug>.jpg in public/lane/
+// — no code edits. Falls back to the branded banner when absent.
+const LANE_IMG_DIR = path.join(process.cwd(), "public", "lane");
+function findHeroFile(slug: string): string | null {
+  for (const ext of ["jpg", "jpeg", "png", "webp"]) {
+    if (fs.existsSync(path.join(LANE_IMG_DIR, `${slug}.${ext}`))) {
+      return `/lane/${slug}.${ext}`;
+    }
+  }
+  return null;
+}
 
 export async function generateStaticParams() {
   return getAllEssaySlugs();
@@ -110,68 +125,73 @@ export default async function LaneEssayPage({
               day: "numeric",
             })}
           </p>
-          {essay.heroImage && (
-            <figure style={{ margin: "24px 0 0" }}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={essay.heroImage}
-                alt={essay.title}
-                style={{ width: "100%", borderRadius: 12, display: "block" }}
-              />
-              {essay.heroCredit && (
-                <figcaption style={{ fontSize: "0.78rem", opacity: 0.6, marginTop: 8 }}>
-                  Photo:{" "}
-                  {essay.heroCreditUrl ? (
-                    <a href={essay.heroCreditUrl} target="_blank" rel="noopener noreferrer">
-                      {essay.heroCredit}
-                    </a>
-                  ) : (
-                    essay.heroCredit
+          {(() => {
+            const heroSrc = essay.heroImage ?? findHeroFile(essay.slug);
+            if (heroSrc) {
+              return (
+                <figure style={{ margin: "24px 0 0" }}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={heroSrc}
+                    alt={essay.title}
+                    style={{ width: "100%", borderRadius: 12, display: "block" }}
+                  />
+                  {essay.heroCredit && (
+                    <figcaption style={{ fontSize: "0.78rem", opacity: 0.6, marginTop: 8 }}>
+                      Photo:{" "}
+                      {essay.heroCreditUrl ? (
+                        <a href={essay.heroCreditUrl} target="_blank" rel="noopener noreferrer">
+                          {essay.heroCredit}
+                        </a>
+                      ) : (
+                        essay.heroCredit
+                      )}
+                    </figcaption>
                   )}
-                </figcaption>
-              )}
-            </figure>
-          )}
-          {!essay.heroImage && (
-            <div
-              style={{
-                margin: "24px 0 0",
-                minHeight: 220,
-                borderRadius: 12,
-                background: `radial-gradient(120% 140% at 100% 0%, #${essay.ogAccent} 0%, rgba(10,10,10,0.15) 55%), #0a0a0a`,
-                position: "relative",
-                overflow: "hidden",
-                display: "flex",
-                alignItems: "flex-end",
-                padding: 22,
-              }}
-            >
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src="/logo-mark-512.png"
-                alt=""
-                aria-hidden
-                style={{ position: "absolute", right: -24, top: -24, width: 210, opacity: 0.12 }}
-              />
-              <span
+                </figure>
+              );
+            }
+            return (
+              <div
                 style={{
+                  margin: "24px 0 0",
+                  minHeight: 220,
+                  borderRadius: 12,
+                  background: `radial-gradient(120% 140% at 100% 0%, #${essay.ogAccent} 0%, rgba(10,10,10,0.15) 55%), #0a0a0a`,
                   position: "relative",
-                  fontSize: "0.72rem",
-                  letterSpacing: "0.14em",
-                  textTransform: "uppercase",
-                  color: "rgba(255,255,255,0.9)",
-                  fontWeight: 800,
+                  overflow: "hidden",
+                  display: "flex",
+                  alignItems: "flex-end",
+                  padding: 22,
                 }}
               >
-                {essay.pillar === "hiphop"
-                  ? "Hip-Hop"
-                  : essay.pillar
-                  ? essay.pillar.charAt(0).toUpperCase() + essay.pillar.slice(1)
-                  : "The Lane"}{" "}
-                · Sneakz &amp; Beatz
-              </span>
-            </div>
-          )}
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="/logo-mark-512.png"
+                  alt=""
+                  aria-hidden
+                  style={{ position: "absolute", right: -24, top: -24, width: 210, opacity: 0.12 }}
+                />
+                <span
+                  style={{
+                    position: "relative",
+                    fontSize: "0.72rem",
+                    letterSpacing: "0.14em",
+                    textTransform: "uppercase",
+                    color: "rgba(255,255,255,0.9)",
+                    fontWeight: 800,
+                  }}
+                >
+                  {essay.pillar === "hiphop"
+                    ? "Hip-Hop"
+                    : essay.pillar
+                    ? essay.pillar.charAt(0).toUpperCase() + essay.pillar.slice(1)
+                    : "The Lane"}{" "}
+                  · Sneakz &amp; Beatz
+                </span>
+              </div>
+            );
+          })()}
         </header>
 
         <article className="legal-section lane-essay-body">

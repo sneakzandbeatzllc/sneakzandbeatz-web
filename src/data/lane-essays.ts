@@ -325,6 +325,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-3-true-blue-2026-return",
+    "heroCredit": "House of Heat",
+    "heroCreditUrl": "https://houseofheat.co/jordan/air-jordan-3-true-blue-fall-2026",
     "title": "True Blue Returns After a Decade",
     "headline": "True Blue Returns After a Decade",
     "subhead": "The only original AJ3 that broke from Bulls colors comes back July 18 in full-family OG spec, ten years after its last retro.",
@@ -345,6 +347,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-5-sunset-womens-exclusive-2026",
+    "heroCredit": "House of Heat",
+    "heroCreditUrl": "https://houseofheat.co/jordan/air-jordan-5-white-sunset-iv5678-102",
     "title": "The Sunset 5 Was a Women's Exclusive First",
     "headline": "The Sunset 5 Was a Women's Exclusive First",
     "subhead": "Twenty years after debuting as the first women's-only Air Jordan 5, the Sunset returns July 1 — and the story of who it was built for matters.",
@@ -365,6 +369,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-9-space-jam-30th-anniversary-2026",
+    "heroCredit": "House of Heat",
+    "heroCreditUrl": "https://houseofheat.co/jordan/air-jordan-9-space-jam-2026-ix6179-100",
     "title": "The 9 Mike Never Played In",
     "headline": "The 9 Mike Never Played In",
     "subhead": "The OG Space Jam Air Jordan 9 returns August 29 for the film's 30th — a shoe built during the years Jordan was playing baseball, not basketball.",
@@ -385,6 +391,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-4-tour-yellow-rare-air-2026",
+    "heroCredit": "House of Heat",
+    "heroCreditUrl": "https://houseofheat.co/jordan/air-jordan-4-tour-yellow-rare-air-2026",
     "title": "Peel the Tongue, Read Rare Air",
     "headline": "Peel the Tongue, Read Rare Air",
     "subhead": "The Air Jordan 4 Tour Yellow returns September 5 for its 20th — the elusive cousin of the Lightning, with the Velcro tongue secret intact.",
@@ -405,6 +413,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-8-chrome-kobe-playoff-2026",
+    "heroCredit": "House of Heat",
+    "heroCreditUrl": "https://houseofheat.co/jordan/air-jordan-8-chrome-2026",
     "title": "The Chrome 8 Kobe Wore in the Playoffs",
     "headline": "The Chrome 8 Kobe Wore in the Playoffs",
     "subhead": "The Air Jordan 8 Chrome returns September 12 after a decade gone — a 2003 colorway whose biggest moment came on Kobe's feet, not Mike's.",
@@ -425,6 +435,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-1-high-og-royal-2026",
+    "heroCredit": "Nice Kicks",
+    "heroCreditUrl": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
     "title": "Royal Returns in OG Leather at Last",
     "headline": "Royal Returns in OG Leather at Last",
     "subhead": "The black-and-royal AJ1 High comes back October 10 in standard OG cut — the first leather Royal in nine years and only the fourth ever.",
@@ -445,6 +457,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-6-white-infrared-35th-anniversary-2026",
+    "heroCredit": "Sneaker News",
+    "heroCreditUrl": "https://sneakernews.com/2025/11/18/air-jordan-6-white-infrared-2026/",
     "title": "White Infrared, OG Mold, Nike Air Heel",
     "headline": "White Infrared, OG Mold, Nike Air Heel",
     "subhead": "The Air Jordan 6 White Infrared returns November 7 for the model's 35th — true 1991 mold, original Nike Air heel branding restored.",
@@ -466,6 +480,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-4-bred-og-black-friday-2026",
+    "heroCredit": "Hypebeast",
+    "heroCreditUrl": "https://hypebeast.com/2026/2/the-2026-air-jordan-4-bred-receives-a-release-date",
     "title": "Bred 4s Land on Black Friday Weekend",
     "headline": "Bred 4s Land on Black Friday Weekend",
     "subhead": "The Air Jordan 4 Bred returns in true OG spec over Black Friday weekend — face box, white edges, Fire Red, the works.",
@@ -487,6 +503,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-10-sacramento-first-retro-ever-2026",
+    "heroCredit": "Sneaker News",
+    "heroCreditUrl": "https://sneakernews.com/2025/12/10/air-jordan-10-sacramento-2026/",
     "title": "The Sacramento 10 Has Never Retro'd",
     "headline": "The Sacramento 10 Has Never Retro'd",
     "subhead": "Thirty-one years after the City Series, the Sacramento Air Jordan 10 finally gets its first-ever retro — December 5, black and purple.",
@@ -507,6 +525,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-11-space-jam-30th-anniversary-2026",
+    "heroCredit": "Sneaker News",
+    "heroCreditUrl": "https://sneakernews.com/2025/12/08/air-jordan-11-space-jam-2026/",
     "title": "Space Jam 11 Closes Out the Year",
     "headline": "Space Jam 11 Closes Out the Year",
     "subhead": "The Air Jordan 11 Space Jam returns December 12 at $235 — the holiday anchor, with the price creep telling its own story.",
@@ -527,6 +547,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "vince-staples-cry-baby-independent",
+    "heroCredit": "Wikipedia",
+    "heroCreditUrl": "https://en.wikipedia.org/wiki/Vince_Staples",
     "title": "Vince Staples Cry Baby Album Review",
     "headline": "Vince Staples Bet On Himself And Won",
     "subhead": "Cry Baby is the Long Beach rapper's first album as an independent artist, and the freedom shows in every guitar line.",
@@ -548,6 +570,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "tay-keith-death-memphis-producer",
+    "heroCredit": "NBC News",
+    "heroCreditUrl": "https://www.nbcnews.com/news/us-news/tay-keith-grammy-nominated-record-producer-found-dead-nashville-29-rcna350807",
     "title": "Tay Keith Dead At 29",
     "headline": "Tay Keith Built A Sound And A Fight",
     "subhead": "The Memphis producer behind some of rap's biggest hits died at 29 with a royalty lawsuit still unsettled.",
@@ -569,6 +593,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "jay-z-roots-picnic-2026-reasonable-doubt",
+    "heroCredit": "Variety",
+    "heroCreditUrl": "https://variety.com/2026/music/news/jay-z-perform-with-the-roots-headliner-roots-picnic-2026-1236690851/",
     "title": "JAY-Z Headlines Roots Picnic 2026",
     "headline": "Jay Took Philly Back To 1996",
     "subhead": "JAY-Z headlined a sold-out Roots Picnic with The Roots, marking 30 years of Reasonable Doubt and reuniting State Property.",
@@ -590,6 +616,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "clipse-five-grammy-nominations-2026",
+    "heroCredit": "REVOLT",
+    "heroCreditUrl": "https://www.revolt.tv/article/2026-grammy-nominations-kendrick-lamar-clipse",
     "title": "Clipse Earn Five Grammy Nominations",
     "headline": "Clipse Came Back And Took Five",
     "subhead": "Sixteen years between albums, and Let God Sort Em Out pulled Album of the Year and four more Grammy nods.",
@@ -611,6 +639,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "d12-forever-vol-1-first-album-22-years",
+    "heroCredit": "Wikipedia",
+    "heroCreditUrl": "https://en.wikipedia.org/wiki/D12",
     "title": "D12 Returns Without Eminem",
     "headline": "D12 Came Back For Proof",
     "subhead": "Twenty-two years later, Kuniva and Swifty released D12 Forever (Vol. 1) — the group's first album since Proof died.",
@@ -633,6 +663,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "yg-gentlemens-club-10k-major-deal",
+    "heroCredit": "Billboard",
+    "heroCreditUrl": "https://www.billboard.com/music/rb-hip-hop/yg-the-gentlemens-club-album-announcement-1236258342/",
     "title": "YG Signs A New Major Deal",
     "headline": "YG Cashed In On His Own Terms",
     "subhead": "The Gentlemen's Club is YG's first major-label deal in nearly five years, landing through 4Hunnid and 10K Projects.",
@@ -655,6 +687,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "cardi-b-leads-bet-awards-2026-nominations",
+    "heroCredit": "Billboard",
+    "heroCreditUrl": "https://www.billboard.com/lists/2026-bet-awards-nominations-full-list/",
     "title": "Cardi B Leads BET Awards 2026",
     "headline": "Cardi B Turned The Wait Into Six Nods",
     "subhead": "Am I the Drama? made Cardi the only female rapper with back-to-back No. 1 debuts, and the BET Awards noticed.",
@@ -675,6 +709,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "freddie-gibbs-you-only-die-1nce-deluxe-awal",
+    "heroCredit": "Stereogum",
+    "heroCreditUrl": "https://stereogum.com/2501566/freddie-gibbs-releases-you-only-die-1nce-deluxe-edition-with-new-songs/news",
     "title": "Freddie Gibbs Goes Independent Again",
     "headline": "Gibbs Keeps Winning Off His Own Catalog",
     "subhead": "You Only Die 1nce (Deluxe) stacks 10 new songs onto a 2024 surprise drop, all of it through AWAL.",
@@ -696,6 +732,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "grammys-100-categories-2027-expansion",
+    "heroCredit": "Recording Academy",
+    "heroCreditUrl": "https://www.grammy.com/news/2027-grammys-new-categories-rule-updates/",
     "title": "The Grammys Hit 100 Categories",
     "headline": "The Grammys Got Bigger, Not Sharper",
     "subhead": "Five new categories push the 2027 Grammys to 100 awards — and rap fans have heard the bloat argument before.",
@@ -716,6 +754,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "mariah-the-scientist-bet-2026-breakout",
+    "heroCredit": "Rated R&B",
+    "heroCreditUrl": "https://ratedrnb.com/2026/05/bet-awards-2026-nominations-mariah-the-scientist-leads-rb-acts/",
     "title": "Mariah The Scientist's Breakout Year",
     "headline": "Mariah The Scientist Crashed The Rap Room",
     "subhead": "Five BET nominations and a No. 1 R&B album put Mariah the Scientist in the conversation rap usually keeps to itself.",
@@ -737,6 +777,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "demon-slayer-infinity-castle-billion-dollar-blueprint",
+    "heroCredit": "Wikipedia",
+    "heroCreditUrl": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Infinity_Castle",
     "title": "Demon Slayer's billion-dollar theatrical blueprint",
     "headline": "Demon Slayer rewrote the anime box-office ceiling",
     "subhead": "Infinity Castle's first film cleared $793 million worldwide and the biggest international opening the U.S. has ever logged. The model behind it now sets the terms for every studio chasing the theater.",
@@ -758,6 +800,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "chainsaw-man-reze-arc-movie-mappa",
+    "heroCredit": "Wikipedia",
+    "heroCreditUrl": "https://en.wikipedia.org/wiki/Chainsaw_Man_%E2%80%93_The_Movie:_Reze_Arc",
     "title": "Chainsaw Man proved the theatrical model isn't a fluke",
     "headline": "Chainsaw Man's Reze Arc topped the U.S. box office",
     "subhead": "MAPPA skipped a TV season and put Reze in theaters. The film grossed $191.4 million worldwide and opened number one in America, confirming the finale-to-multiplex pipeline is now standard play.",
@@ -779,6 +823,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "one-piece-nike-air-max-plus-devil-fruit",
+    "heroCredit": "Sneaker News",
+    "heroCreditUrl": "https://sneakernews.com/2025/12/12/one-piece-nike-air-max-plus-2026/",
     "title": "One Piece x Nike puts Devil Fruits on Air Max Plus",
     "headline": "One Piece is getting its own Nike Air Max Plus pack",
     "subhead": "Three Devil Fruit colorways, $180 each, dropping Fall 2026. Nike's second anime collab in a year confirms the anime-sneaker pipeline is now a planned revenue lane, not a gimmick.",
@@ -800,6 +846,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "megan-thee-stallion-hotties-anime-prime-video",
+    "heroCredit": "Collider",
+    "heroCreditUrl": "https://collider.com/megan-thee-stallion-anime-carl-jones-prime-video/",
     "title": "Megan Thee Stallion is building her own anime",
     "headline": "Megan Thee Stallion's anime 'Hotties' is in production",
     "subhead": "Working with Boondocks producer Carl Jones, Megan is voicing and co-creating an original series for Prime Video. It's a rare case of a Black artist owning the anime crossover instead of just referencing it.",
@@ -821,6 +869,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "creepy-nuts-otonoke-dandadan-hip-hop-anime-opening",
+    "heroCredit": "Billboard",
+    "heroCreditUrl": "https://www.billboard.com/music/chart-beat/creepy-nuts-otonoke-billboard-japan-hot-100-1235809485/",
     "title": "How an anime opening became a global rap hit",
     "headline": "Creepy Nuts turned a Dandadan opening into a global hit",
     "subhead": "\"Otonoke\" topped Billboard Japan, charted in the U.S., went RIAA gold, and crossed 100 million YouTube views. The anime opening is now a legitimate path to a worldwide hip-hop record.",
@@ -842,6 +892,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "anime-market-25-billion-overseas-record",
+    "heroCredit": "Variety",
+    "heroCreditUrl": "https://variety.com/2025/film/markets-festivals/japans-anime-market-25-billion-global-boom-1236565413/",
     "title": "Anime is a $25 billion business now",
     "headline": "Anime hit a record $25 billion, led by overseas demand",
     "subhead": "Japan's anime market reached 3.84 trillion yen in its latest report, with overseas revenue topping the domestic market for the first time at scale. The audience abroad is now the business.",
@@ -863,6 +915,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "jujutsu-kaisen-culling-game-part-2-season-4",
+    "heroCredit": "Anime News Network",
+    "heroCreditUrl": "https://www.animenewsnetwork.com/news/2026-06-19/jujutsu-kaisen-season-4-the-culling-game-part-2-anime-reveals-teaser-video/.238700",
     "title": "Jujutsu Kaisen's Culling Game isn't done",
     "headline": "Jujutsu Kaisen Season 4 continues the Culling Game",
     "subhead": "MAPPA confirmed The Culling Game Part 2 with a new teaser and a new director. The franchise that ran on its anime momentum is staying in the conversation while a tie-in game arrives.",
@@ -884,6 +938,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "crunchyroll-summer-2026-anime-lineup",
+    "heroCredit": "AniTrendz",
+    "heroCreditUrl": "https://anitrendz.net/news/2026/06/17/crunchyroll-announces-summer-2026-anime-simulcast-lineup/",
     "title": "Crunchyroll's Summer 2026 slate is stacked",
     "headline": "Crunchyroll's Summer 2026 lineup tops 50 simulcasts",
     "subhead": "Mushoku Tensei Season 3, Black Torch, and a wave of returning hits anchor a summer schedule that doubles as a map of where the next year's hype is heading.",
@@ -905,6 +961,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "witch-hat-atelier-anime-2026-best-new-series",
+    "heroCredit": "Crunchyroll",
+    "heroCreditUrl": "https://www.crunchyroll.com/news/latest/2026/2/20/witch-hat-atelier-anime-april-6-premiere-new-trailer-visual",
     "title": "Witch Hat Atelier is 2026's quiet powerhouse",
     "headline": "Witch Hat Atelier set the bar for 2026 anime",
     "subhead": "After a long delay, Kamome Shirahama's beloved manga finally got its anime — and the craft on display is reframing what a fantasy adaptation is allowed to look like.",
@@ -926,6 +984,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "kagurabachi-anime-world-tour-2027",
+    "heroCredit": "Crunchyroll",
+    "heroCreditUrl": "https://www.crunchyroll.com/news/latest/2026/4/27/kagurabachi-tv-anime-announced-april-2027-premiere-trailer-visual",
     "title": "Kagurabachi's anime is taking a world tour first",
     "headline": "Kagurabachi's anime hits a world tour before its 2027 premiere",
     "subhead": "The manga that became a meme before it became a hit lands its anime in April 2027 — and Anime Expo gets the first 20 minutes of episode one this July.",
@@ -947,6 +1007,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "god-of-war-laufey-faye-leads",
+    "heroCredit": "PlayStation Blog",
+    "heroCreditUrl": "https://blog.playstation.com/2026/06/02/first-look-at-god-of-war-laufey/",
     "title": "God of War: Laufey Hands the Axe to Faye",
     "headline": "God of War Finally Lets Faye Carry the Story",
     "subhead": "Santa Monica's next PS5 entry benches Kratos and builds a faster, agile combat system around his late wife.",
@@ -968,6 +1030,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "marvels-wolverine-september-15-2026",
+    "heroCredit": "PlayStation Blog",
+    "heroCreditUrl": "https://blog.playstation.com/2026/06/02/marvels-wolverine-new-gameplay-story-details-from-state-of-play/",
     "title": "Marvel's Wolverine Locks September 15",
     "headline": "Insomniac's Wolverine Lands Before GTA 6",
     "subhead": "The studio that nailed Spider-Man finally showed Logan's combat, and the September date is a strategic gift.",
@@ -989,6 +1053,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "forza-horizon-6-ps5-delay-microsoft",
+    "heroCredit": "GamingBolt",
+    "heroCreditUrl": "https://gamingbolt.com/forza-horizon-6s-ps5-delay-is-getting-harder-to-defend",
     "title": "Forza Horizon 6's PS5 Delay Stings",
     "headline": "Microsoft Left Money on the Table With Forza",
     "subhead": "Fable and Halo hit PS5 day one. Forza Horizon 6 didn't, and the official excuse keeps getting thinner.",
@@ -1010,6 +1076,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "esdeekid-fortnite-icon-series-uk-drill",
+    "heroCredit": "Esports.gg",
+    "heroCreditUrl": "https://esports.gg/news/fortnite/esdeekid-fortnite-skin/",
     "title": "EsDeeKid Brings UK Drill to Fortnite",
     "headline": "Fortnite Bet on UK Drill, Not a US Headliner",
     "subhead": "Epic skipped the obvious superstar and added Liverpool's EsDeeKid to its Icon Series. The choice says plenty.",
@@ -1031,6 +1099,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "marathon-season-2-bungie-player-count",
+    "heroCredit": "PlayStation Blog",
+    "heroCreditUrl": "https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/",
     "title": "Marathon's Season 2 Bounce Didn't Hold",
     "headline": "Marathon's Comeback Lasted About One Week",
     "subhead": "A free week pushed Bungie's extraction shooter to 40K players. Then Destiny 2's farewell update buried it.",
@@ -1052,6 +1122,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "until-dawn-2-firesprite-ghost-hunters",
+    "heroCredit": "PlayStation Blog",
+    "heroCreditUrl": "https://blog.playstation.com/2026/06/02/until-dawn-2-is-coming-to-ps5-in-2027/",
     "title": "Until Dawn 2 Goes Ghost-Hunting",
     "headline": "Until Dawn 2 Trades the Mountain for an Island",
     "subhead": "Firesprite revives Sony's branching-horror series with a new cast and a found-footage TV-crew premise.",
@@ -1073,6 +1145,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "marvel-tokon-fighting-souls-august-launch",
+    "heroCredit": "PlayStation Blog",
+    "heroCreditUrl": "https://blog.playstation.com/2026/06/02/magneto-green-goblin-carnage-announced-for-marvel-tokon-fighting-souls/",
     "title": "Marvel Tokon Bets on the Tag Team",
     "headline": "Arc System Works Aims a Marvel Fighter at August",
     "subhead": "A 4v4 tag fighter from the GranBlue and Guilty Gear studio lands August 6, with Magneto, Carnage, and Goblin in.",
@@ -1094,6 +1168,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "mewgenics-mina-hollower-indie-2026",
+    "heroCredit": "TheGamer",
+    "heroCreditUrl": "https://www.thegamer.com/best-indie-games-of-2026-so-far/",
     "title": "Two Indies Outscored the Blockbusters",
     "headline": "A Cat-Breeding Roguelite Is 2026's Best-Reviewed Game",
     "subhead": "Mewgenics and Mina the Hollower prove the indie shelf is carrying the year's critical weight, not the AAA slate.",
@@ -1115,6 +1191,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "ps5-horror-september-24-traffic-jam",
+    "heroCredit": "PlayStation Blog",
+    "heroCreditUrl": "https://blog.playstation.com/2026/06/02/control-resonant-launches-september-24-on-ps5/",
     "title": "Three Horror Games Share September 24",
     "headline": "PS5 Stacked Three Horrors on One Day",
     "subhead": "Control Resonant and Silent Hill: Townfall both date September 24, with Onimusha right behind on the 25th.",
@@ -1136,6 +1214,8 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "pokemon-adidas-2026-gaming-sneaker-crossover",
+    "heroCredit": "Sneaker News",
+    "heroCreditUrl": "https://sneakernews.com/2025/10/09/pokemon-adidas-fall-2026/",
     "title": "Pokemon and Adidas Time a 30th Anniversary",
     "headline": "Adidas Bets Pokemon Nostalgia Sells Sambas",
     "subhead": "A September 2026 capsule puts Pokemon on the Samba, Superstar and Adistar, the clearest gaming-sneaker tie of the year.",
