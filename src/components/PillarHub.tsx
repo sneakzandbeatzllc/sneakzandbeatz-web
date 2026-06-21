@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Header from "./Header";
 import Footer from "./Footer";
-import DropsFeed from "./DropsFeed";
 import { fetchSubstackPostsForPillar, type SubstackPost } from "@/lib/substack";
 import { jsonLd, pillarCollectionPage } from "@/lib/schema";
 import { LANE_ESSAYS } from "@/data/lane-essays";
@@ -153,17 +152,6 @@ export default async function PillarHub({
               ))}
             </div>
           </section>
-        )}
-        {/* DropsFeed — Path A. Link aggregation across the pillar, sorted
-            by SOC score, with outbound links to the original publishers.
-            We don't republish — we curate the cultural pulse. */}
-        {pillarKey && (
-          <DropsFeed
-            pillar={pillarKey}
-            title={`What's dropping in ${pillarName.toLowerCase()}`}
-            subtitle="Sourced from the publishers we trust most. Tap any card to read it at the source."
-            limit={9}
-          />
         )}
 
         {showCovers && (
