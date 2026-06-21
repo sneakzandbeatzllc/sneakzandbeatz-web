@@ -75,7 +75,7 @@ const FAQ = [
   },
   {
     q: "Is Sneakz & Beatz a media brand, a music label, or a commerce store?",
-    a: "All three. Editorial: 30+ articles/quarter, weekly newsletter, daily social. Music: 100-beat producer-grade catalog with $34.99 leases, $79 Vault Bundle, Premium Lease and Exclusive tiers. Commerce: merch line opening pre-orders August 15, 2026, plus the $10K Rap Challenge.",
+    a: "All three. Editorial: 30+ articles/quarter, weekly newsletter, daily social. Music: 100-beat producer-grade catalog with $34.99 leases, $79 Vault Bundle, Premium Lease and Exclusive tiers. Commerce: merch line opening pre-orders March 1, 2027, plus the $10K Rap Challenge.",
   },
   {
     q: "Why does the brand cover anime and gaming alongside sneakers and hip-hop?",

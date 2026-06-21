@@ -46,6 +46,8 @@ export type PillarHubProps = {
   /** Optional pillar-specific section rendered after "What We Cover".
       Used by /hiphop to inject the tailored Beat Store + Bundle block. */
   extraSection?: React.ReactNode;
+  /** Hide the "What We Cover" cards (e.g. /anime). Defaults to shown. */
+  showCovers?: boolean;
 };
 
 export default async function PillarHub({
@@ -61,6 +63,7 @@ export default async function PillarHub({
   secondaryCta,
   pillarKey,
   extraSection,
+  showCovers = true,
 }: PillarHubProps) {
   const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
   const ctaIsExternal = primaryCta.href.startsWith("http");
@@ -123,6 +126,15 @@ export default async function PillarHub({
                   className="pillar-cover-card"
                   style={{ textDecoration: "none" }}
                 >
+                  {a.heroImage && (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={a.heroImage}
+                      alt={a.title}
+                      loading="lazy"
+                      style={{ width: "100%", aspectRatio: "16 / 9", objectFit: "cover", borderRadius: 12, marginBottom: 14 }}
+                    />
+                  )}
                   <span className="pillar-cover-tag">
                     {new Date(a.publishedAt).toLocaleDateString("en-US", {
                       month: "short",
@@ -154,18 +166,20 @@ export default async function PillarHub({
           />
         )}
 
-        <section className="pillar-covers">
-          <h2 className="pillar-section-h">What We Cover</h2>
-          <div className="pillar-covers-grid">
-            {covers.map((c, i) => (
-              <article key={i} className="pillar-cover-card">
-                <span className="pillar-cover-tag">{c.tag}</span>
-                <h3 className="pillar-cover-h">{c.heading}</h3>
-                <p className="pillar-cover-body">{c.body}</p>
-              </article>
-            ))}
-          </div>
-        </section>
+        {showCovers && (
+          <section className="pillar-covers">
+            <h2 className="pillar-section-h">What We Cover</h2>
+            <div className="pillar-covers-grid">
+              {covers.map((c, i) => (
+                <article key={i} className="pillar-cover-card">
+                  <span className="pillar-cover-tag">{c.tag}</span>
+                  <h3 className="pillar-cover-h">{c.heading}</h3>
+                  <p className="pillar-cover-body">{c.body}</p>
+                </article>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Optional pillar-specific section (e.g. Hip-Hop's Beat Store + Bundle block) */}
         {extraSection}
@@ -238,34 +252,6 @@ export default async function PillarHub({
           )}
         </section>
 
-        {/* From The Lane — links every pillar page to the four cornerstone
-            essays. Internal cross-linking + brand-entity reinforcement on
-            every pillar visit. */}
-        <section className="pillar-newsletter">
-          <h2 className="pillar-section-h">From The Lane</h2>
-          <p className="pillar-newsletter-sub">
-            Cornerstone editorial — why Sneakz &amp; Beatz exists and what the
-            four-pillar audience actually looks like.
-          </p>
-          <ul style={{ listStyle: "none", padding: 0, margin: "20px 0 0" }}>
-            <li style={{ margin: "0 0 14px" }}>
-              <Link href="/the-lane">
-                <strong>The Lane — why Sneakz &amp; Beatz exists and where it sits</strong>
-              </Link>
-              {" — "}
-              The positioning essay. The competitor matrix. The map.
-            </li>
-            {LANE_ESSAYS.map((e) => (
-              <li key={e.slug} style={{ margin: "0 0 14px" }}>
-                <Link href={`/the-lane/${e.slug}`}>
-                  <strong>{e.title}</strong>
-                </Link>
-                {" — "}
-                {e.subhead}
-              </li>
-            ))}
-          </ul>
-        </section>
       </section>
 
       <Footer />

@@ -4,11 +4,12 @@ import Footer from "@/components/Footer";
 import MerchInterestForm from "@/components/MerchInterestForm";
 import { MERCH_PRODUCTS, MERCH_LAUNCH_DATE } from "@/data/merch";
 import { BEATS } from "@/data/beats";
+import BeatPreviewList from "@/components/BeatPreviewList";
 
 export const metadata = {
   title: "Shop — Beats & Merch — Sneakz & Beatz",
   description:
-    "S&B Shop — producer-grade beats ($34.99 lease, The Vault bundle starting at $79, exclusive ownership) and color-matched merch (heavyweight tee, hoodie, dad cap, track shorts). Beats live now. Merch pre-order opens August 15, 2026.",
+    "S&B Shop — producer-grade beats ($34.99 lease, The Vault bundle starting at $79, exclusive ownership) and color-matched merch (hoodie, dad cap, snapback). Beats live now. Merch pre-order opens March 1, 2027.",
   alternates: { canonical: "/shop" },
 };
 
@@ -113,23 +114,16 @@ export default function ShopPage() {
                 See all {totalBeats}
               </Link>
             </div>
-            <div className="shop-beats-preview-grid">
-              {featuredBeats.map((beat) => (
-                <Link
-                  key={beat.id}
-                  href={`/beats#${beat.slug}`}
-                  className="shop-beat-tile"
-                >
-                  <span className="shop-beat-tile-cat">{beat.categoryLabel}</span>
-                  <span className="shop-beat-tile-title">{beat.title}</span>
-                  <span className="shop-beat-tile-meta">
-                    {beat.bpm ? `${beat.bpm} BPM` : ""}
-                    {beat.bpm && beat.priceUSD ? " · " : ""}
-                    ${beat.priceUSD}
-                  </span>
-                </Link>
-              ))}
-            </div>
+            <BeatPreviewList
+              beats={featuredBeats.map((beat) => ({
+                slug: beat.slug,
+                title: beat.title,
+                categoryLabel: beat.categoryLabel,
+                bpm: beat.bpm,
+                priceUSD: beat.priceUSD,
+                previewUrl: beat.previewUrl,
+              }))}
+            />
           </div>
         </section>
 
@@ -146,7 +140,7 @@ export default function ShopPage() {
             before public.
           </p>
           <div className="shop-grid">
-            {MERCH_PRODUCTS.map((p) => (
+            {MERCH_PRODUCTS.filter((p) => !["sb-tee", "sb-shorts"].includes(p.slug)).map((p) => (
               <article key={p.slug} className="shop-card">
                 <div className="shop-card-image">
                   {p.imagePath ? (

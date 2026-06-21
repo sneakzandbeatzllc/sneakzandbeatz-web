@@ -16,7 +16,7 @@ import { MERCH_PRODUCTS, MERCH_LAUNCH_DATE } from "@/data/merch";
 export const metadata = {
   title: "Merch — The Classics + beats. | Sneakz & Beatz",
   description:
-    "S&B merch built to pair with your Js. The Classics (unisex hoodies, tees, caps, shorts) and beats. — the women's line. Color-matched to Jordan Retros 1–17. Pre-orders open August 15, 2026.",
+    "S&B merch built to pair with your Js. The Classics (unisex hoodies, tees, caps, shorts) and beats. — the women's line. Color-matched to Jordan Retros 1–17. Pre-orders open March 1, 2027.",
   alternates: { canonical: "https://www.sneakzandbeatz.com/merch" },
 };
 

@@ -67,7 +67,7 @@ const LINKS: LinkItem[] = [
   {
     label: "🛒  Shop merch",
     href: "/shop",
-    hint: "Bred colorway drop — first units ship August 15, 2026",
+    hint: "Bred colorway drop — first units ship March 1, 2027",
   },
   {
     label: "📰  Read the latest articles",

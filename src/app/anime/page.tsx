@@ -19,6 +19,7 @@ export default function AnimePage() {
   return (
     <PillarHub
       pillarKey="anime"
+      showCovers={false}
       pillarNumber="03 / Pillar"
       pillarName="ANIME"
       pillarTagline="Releases. Manga. Crossover."

@@ -100,7 +100,7 @@ export default function RefundPage() {
           <h2>3. Merch (when it launches)</h2>
           <p>
             Physical merch is print-on-demand and made-to-order. Once we
-            officially launch (target: August 15, 2026), the merch refund policy
+            officially launch (target: March 1, 2027), the merch refund policy
             will be:
           </p>
           <ul>

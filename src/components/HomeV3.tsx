@@ -18,6 +18,8 @@ import { fetchYouTubeVideos, formatPublishedAgo } from "@/lib/youtube";
 import { isBannedItem } from "@/lib/soc-engine";
 import { STRIPE_LINKS } from "@/data/stripe-links";
 import { MERCH_PRODUCTS, MERCH_LAUNCH_DATE } from "@/data/merch";
+import { BEATS } from "@/data/beats";
+import BeatPreviewList from "./BeatPreviewList";
 import SneakerOfTheDay from "./SneakerOfTheDay";
 
 /* ---------------------------------------------------------------- drops */
@@ -138,8 +140,7 @@ export function RoomHero() {
         </h1>
         <p className="roomhero-sub">
           Kicks on the wall. Beats in the back. Anime in the frames. A PS5
-          that actually works. Built by one producer for the people who never
-          had to pick a lane.
+          that actually works. For the people who never had to pick a lane.
         </p>
         <div className="roomhero-ctas">
           <a href="/beats/bundles" className="btn btn-primary btn-arrow">
@@ -292,6 +293,17 @@ export function TheFeedV3() {
 /* -------------------------------------------------------------- BEAT LAB */
 
 export function BeatLabV3() {
+  const previewBeats = ["east-coast", "west-coast", "trap", "rage"]
+    .map((cat) => BEATS.find((b) => !b.isFree && b.category === cat))
+    .filter((b): b is NonNullable<typeof b> => Boolean(b))
+    .map((b) => ({
+      slug: b.slug,
+      title: b.title,
+      categoryLabel: b.categoryLabel,
+      bpm: b.bpm,
+      priceUSD: b.priceUSD,
+      previewUrl: b.previewUrl,
+    }));
   return (
     <section className="beatlab">
       <div className="container beatlab-grid">
@@ -326,6 +338,12 @@ export function BeatLabV3() {
             <a className="btn btn-primary" href={STRIPE_LINKS.standardBundle}>
               Unlock It
             </a>
+          </div>
+          <div style={{ margin: "20px 0 4px" }}>
+            <span className="eyebrow" style={{ display: "block", marginBottom: 10 }}>
+              Hear a few — straight from the vault
+            </span>
+            <BeatPreviewList beats={previewBeats} variant="strip" />
           </div>
           <p className="beatlab-alt">
             Want one beat? <Link href="/beats">Browse the catalog</Link> —

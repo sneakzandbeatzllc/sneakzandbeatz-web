@@ -32,22 +32,31 @@ export type PinnedTikTok = {
  * embed pulls a heavy iframe).
  */
 export const PINNED_VIDEOS: PinnedTikTok[] = [
-  // One per pillar — sneakers leads (brand hierarchy), then hip-hop, anime, gaming.
+  // Most-viewed first — pulled from the TikTok "Popular" sort on 2026-06-21.
+  // Re-pull from tiktok.com/@SneakzandBeatzOfficial (Popular tab) to refresh.
   {
-    id: "7649481375103454477",
-    caption: "Kobe 4 “Draft Day” — pick your pair (6/26)",
+    id: "7650994261726465293", // 6.2M views
+    caption: "Lil Uzi sends North West a “Hello Northyyy” 👀",
   },
   {
-    id: "7648404370291215630",
-    caption: "Travis Scott feature on “OH CHET” — timeline woke up",
+    id: "7650972569608277261", // 98.6K views
+    caption: "50 Cent playing Drake’s “Broke Boys” — what’s going on here?",
   },
   {
-    id: "7649111122636721422",
-    caption: "Offset × the Vegeta statue — hip-hop meets anime",
+    id: "7634635822251183374", // 52.1K views
+    caption: "",
   },
   {
-    id: "7649451035647331598",
-    caption: "The Gjallarhorn scene still gives chills",
+    id: "7635053007721270542",
+    caption: "",
+  },
+  {
+    id: "7635011893551172878",
+    caption: "",
+  },
+  {
+    id: "7635005544402668813",
+    caption: "",
   },
 ];
 

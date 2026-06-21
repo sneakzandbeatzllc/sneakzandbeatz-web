@@ -60,7 +60,7 @@ const LINKS: Link[] = [
   {
     href: "/shop",
     label: "Shop merch",
-    sub: "Bred colorway · launches August 15, 2026",
+    sub: "Bred colorway · launches March 1, 2027",
     icon: "👕",
   },
   {

@@ -45,10 +45,10 @@ export type MerchProduct = {
   imagePath?: string;
 };
 
-// Merch v1 launch: August 15, 2026. Bred-only first drop (50 units each
+// Merch v1 launch: March 1, 2027 (canonical per SITE_FIX_PACKAGE/00_CANONICAL_VALUES.md). Bred-only first drop (50 units each
 // of tee + hoodie + cap). Subsequent drops layer in colorways based on
 // sell-through data. UGC creator program decoupled — that ramps Year 2.
-export const MERCH_LAUNCH_DATE = "2026-08-15";
+export const MERCH_LAUNCH_DATE = "2027-03-01";
 
 export const MERCH_COLORWAYS: MerchColorway[] = [
   { slug: "bred",          name: "Bred",          swatch: { from: "#000000", to: "#c8262c" }, pairsWith: "AJ1 Bred · AJ4 Bred · AJ11 Bred · AJ12 Flu Game · AJ13 Bred" },

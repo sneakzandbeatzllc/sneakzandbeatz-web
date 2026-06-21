@@ -1,6 +1,5 @@
 import Header from "@/components/Header";
 import TikTokFeed from "@/components/TikTokFeed";
-import LaneFeedHome from "@/components/LaneFeedHome";
 import ShowEmbed from "@/components/ShowEmbed";
 import SubstackSticker from "@/components/SubstackSticker";
 import Footer from "@/components/Footer";
@@ -124,7 +123,6 @@ export default async function HomePage() {
       <RoomHero />
       <ProgramGuide />
       <ShowEmbed />
-      <LaneFeedHome />
       <BeatLabV3 />
       <MerchZone />
       <GirlsZone />

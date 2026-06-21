@@ -15,6 +15,8 @@ const nextConfig = {
   // SEO signal that may have already been earned by those URLs.
   async redirects() {
     return [
+      // Merch merged into the single Shop page (2026-06-21).
+      { source: "/merch", destination: "/shop", permanent: true },
       { source: "/articles", destination: "/the-lane", permanent: true },
       { source: "/articles/:path*", destination: "/the-lane", permanent: true },
       // Retired Lane essay — the "four-pillar reader" piece was pulled

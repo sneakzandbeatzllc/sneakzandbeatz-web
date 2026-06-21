@@ -88,7 +88,7 @@ export default function BeatsPage() {
           </div>
           <div className="bundle-promo-right">
             <div className="bundle-promo-anchor">
-              Was <s>$2,500</s>
+              Over $3,500 value
             </div>
             <div className="bundle-promo-price">
               <span className="bundle-promo-price-cur">$</span>79
