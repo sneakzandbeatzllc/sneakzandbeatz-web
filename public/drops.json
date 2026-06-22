@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T11:55:40+00:00",
+  "generated_utc": "2026-06-22T12:50:21+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -63,6 +63,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "f326a8cd9b49",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 8 “Chrome” Returns in Fall 2026",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
+      "thumbnail": "/drops/thumbs/f326a8cd9b49.jpg",
+      "published": "2026-06-22T07:33:54",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "779db71fc001",
       "pillar": "sneakers",
       "title": "Where To Buy the Air Jordan 5 “Black Carolina”",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-13-flint-2026/",
       "thumbnail": "/drops/thumbs/dd42a8d6c69e.jpg",
       "published": "2026-06-18T14:54:26",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4c0c135c5fd0",
-      "pillar": "sneakers",
-      "title": "First Look at Free the Youth’s Air Jordan 16",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
-      "thumbnail": "/drops/thumbs/4c0c135c5fd0.webp",
-      "published": "2026-06-17T13:57:57",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -159,24 +159,24 @@
       "release_badge": ""
     },
     {
-      "id": "a2cc6fa3e2b7",
+      "id": "fa8f94992a23",
       "pillar": "anime",
-      "title": "Saved by the Ice Cold Prince's Embrace Light Anime's 2nd Teaser Unveils Ending Song, More Cast Members, July 7 Debut",
+      "title": "The Oblivious Saint Can't Contain Her Power Anime's New Video Reveals More Staff, Theme Songs",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/saved-by-the-ice-cold-prince-embrace-light-anime-2nd-teaser-unveils-ending-song-more-cast-members-/.238791",
-      "thumbnail": "/drops/thumbs/a2cc6fa3e2b7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/the-oblivious-saint-cant-contain-her-power-anime-new-video-reveals-more-staff-theme-songs/.238794",
+      "thumbnail": "/drops/thumbs/fa8f94992a23.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "8a42a73f50ab",
+      "id": "ab5aad689d84",
       "pillar": "anime",
-      "title": "Azusa Banjo's I Think I Turned My Childhood Friend Into a Girl Manga Gets TV Anime",
+      "title": "Ray Kindo's The Knight of Blasphemy 1-Shot Manga from Young Magazine US Starts Serialization on July 16",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/azusa-banjo-i-think-i-turned-my-childhood-friend-into-a-girl-manga-gets-tv-anime/.238789",
-      "thumbnail": "/drops/thumbs/8a42a73f50ab.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/ray-kindo-the-knight-of-blasphemy-1-shot-manga-from-young-magazine-us-starts-serialization-on-july-/.238772",
+      "thumbnail": "/drops/thumbs/ab5aad689d84.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "74eea8d7f3d6",
-      "pillar": "gaming",
-      "title": "GTA 6 pre-orders are incoming: here's where and how to secure your copy on June 25",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/where-to-pre-order-gta-6/",
-      "thumbnail": "/drops/thumbs/74eea8d7f3d6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c1b5b4397647",
       "pillar": "gaming",
       "title": "Rumor Debunked: billbil-kun Says Early GTA 6 Price Listings Are Placeholders",
@@ -267,24 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "ea0a42e59b0a",
-      "pillar": "gaming",
-      "title": "Here’s What’s New In Persona 4 Revival",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563143/article/heres-whats-new-in-persona-4-revival/",
-      "thumbnail": "/drops/thumbs/ea0a42e59b0a.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ce1066a67ed5",
       "pillar": "gaming",
       "title": "The Witcher 4 studio wants to make more games without \"launching a big game every year\"",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-and-cyberpunk-2077-studio-wants-to-make-more-games-without-turning-cdpr-into-a-company-thats-going-to-be-launching-a-big-game-every-year/",
       "thumbnail": "/drops/thumbs/ce1066a67ed5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9e628e78f9f5",
+      "pillar": "gaming",
+      "title": "Warframe Developers Express Their Heartbreak Over The End Of Destiny 2",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/destiny-2-bungie-warframe-digital-extremes-live-service-playstation-2000708927",
+      "thumbnail": "/drops/thumbs/9e628e78f9f5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d4079b16af17",
+      "pillar": "gaming",
+      "title": "News The Call of Duty: Black Ops PS5 Ports Might Be $40 Each without Any DLC",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/the-call-of-duty-black-ops-ps5-ports-might-be-usd40-each-without-any-dlc",
+      "thumbnail": "/drops/thumbs/d4079b16af17.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
