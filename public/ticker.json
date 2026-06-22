@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T00:50:06+00:00",
+  "generated_utc": "2026-06-22T01:50:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,6 +95,13 @@
       "article_slug": null
     },
     {
+      "title": "After 16 Years, Naruto's Next Anime Is Making A Classic Filler Episode Official Canon",
+      "url": "https://screenrant.com/naruto-makes-sasuke-filler-episode-canon-cats/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Frieren Is Destined To Become The Next Hunter x Hunter, And That's Not A Good Thing",
       "url": "https://screenrant.com/frieren-next-hunter-x-hunter-doomed-manga-hiatus/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "New Naruto Trailer Finally Lets Hinata Be The True Badass She's Always Been",
       "url": "https://screenrant.com/naruto-trailer-hinata-badass/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Square Enix Manga & Books Announces Final Fantasy XIV: Dawntrail – The Art of Succession -Relics of Eternity- Artbook",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-21/square-enix-manga-and-books-announces-final-fantasy-xiv-dawntrail-the-art-of-succession-relics-of-/.238734",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
