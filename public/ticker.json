@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T19:58:47+00:00",
+  "generated_utc": "2026-06-22T20:58:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "1 Year Later, Demon Slayer: Infinity Castle's Home Release Is Now One Month Away",
+      "url": "https://screenrant.com/demon-slayer-infinity-castle-home-release-date-catch/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Hunter x Hunter's official return confirmed in manga's new trailer",
       "url": "https://www.polygon.com/hunter-x-hunter-manga-return-june-28-trailer/",
       "pillar": "anime",
@@ -88,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Chainsaw Man's New Trailer Teases The Series' Most Nightmarish Devil Of All Time",
-      "url": "https://screenrant.com/chainsaw-man-assassins-arc-teases-darkness-devil/",
+      "title": "HIDIVE Premieres Hell Mode Season 2, The Forsaken Saintess and Her Foodie Road Trip Anime at Anime Expo",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-22/hidive-premieres-hell-mode-season-2-the-forsaken-saintess-and-her-foodie-road-trip-anime-at-anime-/.238812",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -97,13 +104,6 @@
     {
       "title": "New Ghost in the Shell Anime Reveals English Dub Cast",
       "url": "https://www.animenewsnetwork.com/news/2026-06-22/new-ghost-in-the-shell-anime-reveals-english-dub-cast/.238803",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Liar Game Anime Reveals Trailer, Visual, Cast, Theme Song Artists for 2nd Part",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-22/liar-game-anime-reveals-trailer-visual-cast-theme-song-artists-for-2nd-part/.238796",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,6 +144,13 @@
       "article_slug": null
     },
     {
+      "title": "Final Fantasy VII Revelation Director Says Queer Romances Make The World Feel More Real",
+      "url": "https://kotaku.com/final-fantasy-7-ff7-remake-revelation-queer-gay-characters-director-hamaguchi-2000709062",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News 'Absolutely Sensational': Tom Holland and Zendaya Love the Marvel's Spider-Man Games",
       "url": "https://www.pushsquare.com/news/2026/06/absolutely-sensational-tom-holland-and-zendaya-love-the-marvels-spider-man-games",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "News The Witcher 4 Can't Be Another Cyberpunk 2077, and CD Projekt Red Knows It",
       "url": "https://www.pushsquare.com/news/2026/06/the-witcher-4-cant-be-another-cyberpunk-2077-and-cd-projekt-red-knows-it",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News God of War Laufey Part of PS5 Dev's Plans from the Start, Pitched in 2018",
-      "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-part-of-ps5-devs-plans-from-the-start-pitched-in-2018",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
