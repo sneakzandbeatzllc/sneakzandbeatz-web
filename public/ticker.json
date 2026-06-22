@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T14:57:41+00:00",
+  "generated_utc": "2026-06-22T15:52:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,8 +67,15 @@
       "article_slug": null
     },
     {
-      "title": "8 best anime to watch if you like Solo Leveling (#3 will blow your mind)",
-      "url": "https://www.polygon.com/best-anime-like-solo-leveling/",
+      "title": "Hunter x Hunter's official return confirmed in manga's new trailer",
+      "url": "https://www.polygon.com/hunter-x-hunter-manga-return-june-28-trailer/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Piece Just Lost Its Crown As Shonen Jump's King To A New Gen Masterpiece",
+      "url": "https://screenrant.com/jujutsu-kaisen-new-king-shonen-jump-beats-one-piece/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,22 +95,15 @@
       "article_slug": null
     },
     {
-      "title": "After 16 Years, Naruto's Next Anime Is Making A Classic Filler Episode Official Canon",
-      "url": "https://screenrant.com/naruto-makes-sasuke-filler-episode-canon-cats/",
+      "title": "Liar Game Anime Reveals Trailer, Visual, Cast, Theme Song Artists for 2nd Part",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-22/liar-game-anime-reveals-trailer-visual-cast-theme-song-artists-for-2nd-part/.238796",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "'Shut Up, Takamori!' Author Kamiharu Haruno Launches New Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-22/shut-up-takamori-author-kamiharu-haruno-launches-new-manga/.238775",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Oblivious Saint Can't Contain Her Power Anime's New Video Reveals More Staff, Theme Songs",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-22/the-oblivious-saint-cant-contain-her-power-anime-new-video-reveals-more-staff-theme-songs/.238794",
+      "title": "Go Nagai, Dynamic Pro Draw New Manga to Celebrate Weekly Manga Goraku's 3,000th Issue",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-22/go-nagai-dynamic-pro-draw-new-manga-to-celebrate-weekly-manga-goraku-3000th-issue/.238760",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Rumor Debunked: billbil-kun Says Early GTA 6 Price Listings Are Placeholders",
-      "url": "https://gameranx.com/updates/id/563157/article/rumor-debunked-billbil-kun-says-early-gta-6-price-listings-are-placeholders/",
+      "title": "GTA 6 Fans Are Obsessed With Why This Ferris Wheel Has No Reflection",
+      "url": "https://kotaku.com/gta-6-fans-are-obsessed-with-why-this-ferris-wheel-has-no-reflection-2000708985",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Resident Evil Director Shinji Mikami Believes If Viewers Are ‘Satisfied’ With Watching A Playthrough Of His Game, Then It Wasn’t ‘That Good Of A Game’",
-      "url": "https://kotaku.com/resident-evil-twitch-streaming-spoilers-mikami-dragon-quest-yuji-horii-2000708934",
+      "title": "Rumor Debunked: billbil-kun Says Early GTA 6 Price Listings Are Placeholders",
+      "url": "https://gameranx.com/updates/id/563157/article/rumor-debunked-billbil-kun-says-early-gta-6-price-listings-are-placeholders/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "CD Projkect Red Boss Feels The Studio Still Needs To Right The Wrongs Of Cyberpunk 2077 ‘s Terrible Launch",
-      "url": "https://kotaku.com/cd-projkect-red-boss-feels-the-studio-still-needs-to-right-the-wrongs-of-cyberpunk-2077s-terrible-launch-2000708933",
+      "title": "News God of War Laufey Part of PS5 Dev's Plans from the Start, Pitched in 2018",
+      "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-part-of-ps5-devs-plans-from-the-start-pitched-in-2018",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News God of War Laufey Part of PS5 Dev's Plans from the Start, Pitched in 2018",
-      "url": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-part-of-ps5-devs-plans-from-the-start-pitched-in-2018",
+      "title": "The Coalition says making four-player co-op in Gears of War: E-Day was \"a huge investment\"",
+      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-brings-back-a-feature-the-series-hasnt-supported-in-over-10-years-and-the-coalition-says-making-it-work-was-a-huge-investment/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
