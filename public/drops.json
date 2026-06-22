@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T10:55:03+00:00",
+  "generated_utc": "2026-06-22T11:50:18+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -135,18 +135,6 @@
       "release_badge": ""
     },
     {
-      "id": "a1abdb8a7dfe",
-      "pillar": "anime",
-      "title": "The 11 best MAPPA anime that aren't Jujutsu Kaisen or Chainsaw Man",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/11-best-mappa-anime-that-arent-jujutsu-kaisen/",
-      "thumbnail": "/drops/thumbs/a1abdb8a7dfe.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "68aca586245f",
       "pillar": "anime",
       "title": "Chainsaw Man's New Trailer Teases The Series' Most Nightmarish Devil Of All Time",
@@ -195,6 +183,18 @@
       "release_badge": ""
     },
     {
+      "id": "56c34b4d536b",
+      "pillar": "anime",
+      "title": "11 best anime you can watch for free on streaming right now",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/best-free-anime-to-watch-on-streaming-pluto-roku-tubi/",
+      "thumbnail": "/drops/thumbs/56c34b4d536b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2e61e6e0c29b",
       "pillar": "gaming",
       "title": "Rumour GTA 6 Price Potentially Leaked by European Retailer",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "c1b5b4397647",
+      "id": "77272629b1ec",
       "pillar": "gaming",
-      "title": "Rumor Debunked: billbil-kun Says Early GTA 6 Price Listings Are Placeholders",
+      "title": "Is This Venezuelan DJ Model Really GTA 6’s Newest Cover Girl?",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563157/article/rumor-debunked-billbil-kun-says-early-gta-6-price-listings-are-placeholders/",
-      "thumbnail": "/drops/thumbs/c1b5b4397647.jpg",
+      "source_url": "https://gameranx.com/updates/id/563162/article/is-this-venezuelan-dj-model-really-gta-6s-newest-cover-girl/",
+      "thumbnail": "/drops/thumbs/77272629b1ec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "ea0a42e59b0a",
+      "id": "c1b5b4397647",
       "pillar": "gaming",
-      "title": "Here’s What’s New In Persona 4 Revival",
+      "title": "Rumor Debunked: billbil-kun Says Early GTA 6 Price Listings Are Placeholders",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563143/article/heres-whats-new-in-persona-4-revival/",
-      "thumbnail": "/drops/thumbs/ea0a42e59b0a.png",
+      "source_url": "https://gameranx.com/updates/id/563157/article/rumor-debunked-billbil-kun-says-early-gta-6-price-listings-are-placeholders/",
+      "thumbnail": "/drops/thumbs/c1b5b4397647.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "ce1066a67ed5",
+      "id": "ea0a42e59b0a",
       "pillar": "gaming",
-      "title": "The Witcher 4 studio wants to make more games without \"launching a big game every year\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-and-cyberpunk-2077-studio-wants-to-make-more-games-without-turning-cdpr-into-a-company-thats-going-to-be-launching-a-big-game-every-year/",
-      "thumbnail": "/drops/thumbs/ce1066a67ed5.jpg",
+      "title": "Here’s What’s New In Persona 4 Revival",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563143/article/heres-whats-new-in-persona-4-revival/",
+      "thumbnail": "/drops/thumbs/ea0a42e59b0a.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d4079b16af17",
+      "id": "ce1066a67ed5",
       "pillar": "gaming",
-      "title": "News The Call of Duty: Black Ops PS5 Ports Might Be $40 Each without Any DLC",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/the-call-of-duty-black-ops-ps5-ports-might-be-usd40-each-without-any-dlc",
-      "thumbnail": "/drops/thumbs/d4079b16af17.jpg",
+      "title": "The Witcher 4 studio wants to make more games without \"launching a big game every year\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-and-cyberpunk-2077-studio-wants-to-make-more-games-without-turning-cdpr-into-a-company-thats-going-to-be-launching-a-big-game-every-year/",
+      "thumbnail": "/drops/thumbs/ce1066a67ed5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
