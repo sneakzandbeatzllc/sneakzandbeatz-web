@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T15:58:29+00:00",
+  "generated_utc": "2026-06-22T16:23:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,6 +39,13 @@
       "article_slug": null
     },
     {
+      "title": "The Comme des Garçon Homme Air Jordan 11 Releases in Fall 2026",
+      "url": "https://justfreshkicks.com/comme-des-garcon-air-jordan-11/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "The Air Jordan 8 “Chrome” Returns in Fall 2026",
       "url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
       "pillar": "sneakers",
@@ -48,13 +55,6 @@
     {
       "title": "Where To Buy the Air Jordan 5 “Black Carolina”",
       "url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 13 “Flint” Blue Returns in Summer 2026",
-      "url": "https://justfreshkicks.com/air-jordan-13-flint-2026/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Fans Are Obsessed With Why This Ferris Wheel Has No Reflection",
-      "url": "https://kotaku.com/gta-6-fans-are-obsessed-with-why-this-ferris-wheel-has-no-reflection-2000708985",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor Debunked: billbil-kun Says Early GTA 6 Price Listings Are Placeholders",
       "url": "https://gameranx.com/updates/id/563157/article/rumor-debunked-billbil-kun-says-early-gta-6-price-listings-are-placeholders/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "The Coalition says making four-player co-op in Gears of War: E-Day was \"a huge investment\"",
       "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-brings-back-a-feature-the-series-hasnt-supported-in-over-10-years-and-the-coalition-says-making-it-work-was-a-huge-investment/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Halo Campaign Evolved Is The Latest PS5 Game That Requires A Microsoft Account",
+      "url": "https://gameranx.com/updates/id/563155/article/halo-campaign-evolved-is-the-latest-ps5-game-that-requires-a-microsoft-account/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
