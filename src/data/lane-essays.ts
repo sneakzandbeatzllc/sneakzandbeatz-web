@@ -1234,7 +1234,213 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
     "ogAccent": "2E6BE0",
     "body": "The gaming-and-sneakers overlap usually lives in concept renders and one-off player-exclusives that never hit shelves. The most concrete crossover of 2026 is refreshingly simple: Pokemon turns 30, and adidas is putting it on the silhouettes that actually sell.\n\n## The drop, grounded\n\nPer SneakerNews, the Pokemon x adidas anniversary capsule is slated for September 2026, timed to the franchise's 30th. The reported lineup leans on adidas's current heavy hitters: the Samba, the Superstar, and the Adistar XLG 2.0.\n\nThat silhouette choice is the whole strategy. The Samba has been the most culturally dominant sneaker of the last several years, and the Superstar is a permanent streetwear staple. Putting a nostalgia license on those two, rather than a forgettable performance model, is how you make a collab people actually wear instead of safe-keep.\n\n## Why gaming x sneakers usually fails\n\nThe history here is littered with vaporware. Highsnobiety and others have tracked the long tease of gaming as \"the next big thing in streetwear,\" and Nike has talked up going \"way deeper\" into video-game fashion, much of it routed through digital collectibles and NFT plays that never translated to a shoe on a foot.\n\nThe distinction matters. Nike itself separated \"digital collectibles\" from \"in-game wearables,\" and most gaming-sneaker hype has lived in that digital, speculative lane. A physical adidas capsule on proven silhouettes is the opposite of that, it's a product, not a promise.\n\n## The culture read\n\nPokemon is the highest-grossing media franchise on earth, and a generation that grew up on Game Boy is now the one with disposable income and a sneaker rotation. That's the exact demographic adidas is aiming at, the nostalgia-plus-spending-power sweet spot that makes anniversary collabs print.\n\n## The skeptic's note\n\nAnniversary capsules can curdle into lazy logo-slaps, a Pikachu on a tongue tag and a 40% markup. The execution is unverified until on-foot looks land, and \"slated for September\" is a window, not a confirmed date. Treat hype accordingly.\n\nBut as a marker of where gaming and sneaker culture genuinely intersect in 2026, this is the cleanest example going: a real shoe, on a real grail silhouette, riding three decades of one of gaming's foundational brands. That's the crossover this lane has been promised for years and rarely gets in a box you can actually buy.\n\n## Sources\n\n- [Pokemon adidas Collection Releasing In 2026 – SneakerNews](https://sneakernews.com/2025/10/09/pokemon-adidas-fall-2026/) — 2025-10-09\n- [Video Games Might Just Be the Next Big Thing in Streetwear – Highsnobiety](https://www.highsnobiety.com/p/video-games-streetwear/) — 2025-11-01\n- [Nike Will 'Go Way Deeper' Into Video Game Fashion – Decrypt](https://decrypt.co/212723/nike-will-go-way-deeper-video-game-fashion-amid-nft-push) — 2025-09-01",
     "pillar": "gaming"
+  },,
+  {
+    "slug": "kanye-west-bully-deluxe-2026",
+    "title": "Ye Drops BULLY (Deluxe), Stretches the Run",
+    "headline": "Ye Drops BULLY (Deluxe), Stretches the Run",
+    "subhead": "BULLY gets a Deluxe edition on June 19, and the tour keeps adding stadiums even as London falls off the map.",
+    "description": "Ye released BULLY (Deluxe) on June 19, 2026, off 'Gemini Season,' added Tampa, San Antonio and Chicago dates, and lost Wireless after a visa pull.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "Kanye West BULLY Deluxe",
+      "Ye BULLY Deluxe 2026",
+      "Gemini Season Kanye",
+      "Kanye West tour dates 2026",
+      "Kanye West Wireless cancelled",
+      "Ye Tampa Raymond James Stadium",
+      "Kanye West San Antonio Chicago"
+    ],
+    "ogHeadline": "BULLY goes Deluxe\nThe run keeps growing",
+    "ogAccent": "C8901E",
+    "body": "Ye put out **BULLY (Deluxe)** on June 19, 2026, and the rollout is the story as much as the record. He set it up with **\"Gemini Season\"** on June 8, then dropped the expanded version eleven days later. No long lead, no traditional album cycle. The music shows up when he says it does.\n\nThis is how the BULLY project has moved from the jump. Songs surface, the tracklist breathes, and the tour absorbs whatever the studio puts out. The Deluxe is the next layer on a release that's been treated like a living thing rather than a fixed object.\n\n## The Deluxe lands eleven days after the single\n\n\"Gemini Season\" hit June 8. **BULLY (Deluxe)** followed June 19. That gap tells you the pace. Ye isn't waiting on a quarterly calendar or a label's release window. The record expands in close to real time, and fans are tracking it the way they'd track a mixtape run, not a major-label LP.\n\n## The U.S. run keeps adding stadiums\n\nThe tour grew again. **Tampa's Raymond James Stadium** got two nights, June 26 and 28. **San Antonio** lands July 4. **Chicago** takes two dates, September 3 and 4 — a return to the city that made him. According to [IQ Magazine](https://www.iqmagazine.com/2026/06/tour-news-kanye-west-adds-us-shows-to-ongoing-run/), these are additions to an already ongoing run, which means the schedule is being built out as the project moves, not locked in advance.\n\n## London comes off the board\n\nNot every market held. **Wireless Festival cancelled its 2026 edition** after Ye's visa was revoked, per [Rolling Stone](https://www.rollingstone.com/music/music-news/ye-kanye-west-tbilisi-georgia-concert-live-nation-israel-1235561670/). A festival pulling its whole year over one headliner's paperwork is rare. It also draws a clean line: the U.S. dates stack up while the international ones get harder to keep on the calendar.\n\n## The shape of the rollout is the point\n\nStadiums added on short notice. A Deluxe dropped without warning. A major festival scrapped. Read together, it's a release that refuses to sit still — built around what's in front of it rather than a plan set months back. For an artist this far into his catalog, moving like an upstart is its own statement.\n\n---\n\nFor our audience, the takeaway isn't the noise around the visa. It's the model. The biggest acts in the music are now running releases like independents — drop first, organize later, let the tour and the tracklist update each other in motion. Ye's been pointing at this for years. BULLY (Deluxe) is him doing it at stadium scale.\n\n## Sources\n\n- [IQ Magazine — Kanye West adds US shows to ongoing run](https://www.iqmagazine.com/2026/06/tour-news-kanye-west-adds-us-shows-to-ongoing-run/)\n- [Rolling Stone — Ye / Live Nation tour news](https://www.rollingstone.com/music/music-news/ye-kanye-west-tbilisi-georgia-concert-live-nation-israel-1235561670/)",
+    "pillar": "hiphop",
+    "heroCredit": "IQ Magazine",
+    "heroCreditUrl": "https://www.iqmagazine.com/2026/06/tour-news-kanye-west-adds-us-shows-to-ongoing-run/"
   },
+  {
+    "slug": "young-thug-plaqueboymax-ysl-compilation",
+    "title": "Young Thug Plays a YSL Album Live on Stream",
+    "headline": "Young Thug Plays a YSL Album Live on Stream",
+    "subhead": "Thug joined PlaqueBoyMax's Twitch, premiered an unreleased YSL compilation for the chat, and said he's re-signing Nine Vicious.",
+    "description": "Young Thug debuted a YSL compilation live on PlaqueBoyMax's 'In The Booth' stream, branded #FiveStarSummer, and announced re-signing Nine Vicious to YSL.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "Young Thug YSL compilation",
+      "Young Thug PlaqueBoyMax",
+      "PlaqueBoyMax In The Booth Young Thug",
+      "Five Star Summer YSL",
+      "Young Thug Nine Vicious re-sign",
+      "Young Thug Twitch stream album",
+      "YSL compilation album 2026"
+    ],
+    "ogHeadline": "Thug premiered a YSL\nalbum on Twitch",
+    "ogAccent": "C8901E",
+    "body": "Young Thug pulled up to **PlaqueBoyMax's \"In The Booth\" Twitch stream** and treated the chat like A&Rs. He revealed a **YSL compilation album** is in the works and played it live, straight through, for everyone watching. No embargo, no listening session for press. The first ears on it were a stream.\n\nThe whole stretch got branded **#FiveStarSummer**. That's not a marketing line a label cooked up in a meeting — it's the kind of tag that gets made on air and lives in the chat. The rollout and the room are the same thing now.\n\n## The premiere happened on a stream, not a press cycle\n\nThug played the YSL comp on [PlaqueBoyMax's stream](https://x.com/Kurrco/status/2067766008543051933) while the chat reacted in real time. Think about what that replaces: the embargoed early-listen, the staggered single plan, the trade-publication first look. He skipped all of it and went straight to the audience. [Complex Music](https://x.com/ComplexMusic/status/2068465226484228321) ran the moment because the moment already happened in public.\n\n## YSL is being rebuilt out loud\n\nIt's not just music. Thug said he's **re-signing Nine Vicious to YSL**, announced casually in the same stream. Roster moves used to leak through press releases and contract whispers. Here it's said on camera, to the people, while a beat plays. The label's next chapter is being narrated live.\n\n## #FiveStarSummer is a campaign that named itself\n\nThe branding stuck because it came from the room, not a deck. **#FiveStarSummer** frames a whole run — the comp, the signings, whatever drops next — under a banner the audience adopted on the spot. That's the inversion: the campaign grew out of the broadcast instead of the broadcast serving a pre-built campaign.\n\n## Streamers are the new rollout\n\nMax isn't a label exec or a radio program director. He's a streamer with a booth and an audience that shows up. An artist of Thug's weight choosing that venue to break new music says where the leverage sits. The room with the most engaged listeners wins, and right now that room is a Twitch channel.\n\n---\n\nFor our audience, this is the shift worth clocking. Music doesn't get made or broken on label rollouts anymore — it happens on streams, in front of the people, with the chat as the first focus group. Thug premiering a YSL comp on Max's channel is the clearest version of that we've seen. The gatekeepers didn't get a copy. The audience got the whole thing.\n\n## Sources\n\n- [Complex Music on X — Young Thug on PlaqueBoyMax's stream](https://x.com/ComplexMusic/status/2068465226484228321)\n- [Kurrco on X — Young Thug 'In The Booth' YSL compilation](https://x.com/Kurrco/status/2067766008543051933)",
+    "pillar": "hiphop",
+    "heroCredit": "Complex Music",
+    "heroCreditUrl": "https://x.com/ComplexMusic/status/2068465226484228321"
+  },
+  {
+    "slug": "tsu-surf-brizz-rawsteen-battle-rap-x-beef",
+    "title": "Tsu Surf and Brizz Rawsteen Take It to the Timeline",
+    "headline": "Tsu Surf and Brizz Rawsteen Take It to the Timeline",
+    "subhead": "Two of battle rap's heavy hitters traded shots on X this week, and the scene watched it spread without a single stage involved.",
+    "description": "Tsu Surf and Brizz Rawsteen traded jabs on X this week, going niche-viral and proving battle rap now lives on the timeline between live events.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "Tsu Surf Brizz Rawsteen",
+      "Tsu Surf vs Brizz Rawsteen",
+      "battle rap beef X Twitter",
+      "battle rap leagues URL Smack",
+      "Tsu Surf battle rap 2026",
+      "Brizz Rawsteen battle",
+      "Queen of the Ring RBE battle rap"
+    ],
+    "ogHeadline": "Tsu Surf vs Brizz\non the timeline",
+    "ogAccent": "C8901E",
+    "body": "**Tsu Surf** and **Brizz Rawsteen** went back and forth on X this week, and it went niche-viral without anybody booking a room. No stage, no host league, no PPV. Just two battle rappers trading shots on the [timeline](https://x.com/tsusurf) while the culture screenshotted and quoted in real time.\n\nThat's the state of the sport now. The battle is the event, but the timeline is where the war lives between events. The shots, the clowning, the reads — it all plays out in public, and the scene treats it like a card in motion.\n\n## The exchange spread without a stage\n\nThe back-and-forth happened entirely on X and still moved through the community fast. No promoter announced it. No venue sold tickets. It was two respected names, a [public conversation](https://x.com/tsusurf), and an audience that knows the context well enough to fill in the rest. That reach, off pure text, tells you how plugged-in the base is.\n\n## Battle rap lives on the timeline between events\n\nLive battles still anchor the sport. But the timeline is where the storylines breathe — where beef builds, angles get set, and matchups get demanded before a league ever puts them on a card. A run like this keeps two names hot and keeps the conversation churning in the stretch between performances. The internet isn't a sidebar here. It's the off-season.\n\n## Black-owned leagues run the whole machine\n\nThe scene isn't an accident. It runs on Black-owned institutions that built it from the ground up — **URL/Smack**, **RBE**, **Queen of the Ring**, **Bullpen**, **iBattleTV**, **Takeova**, **Black Ice Cartel**. These leagues created the stages, the rivalries, and the economy that makes a two-man exchange on X matter to thousands of people who follow it like a league standings page.\n\n## The mainstream sleeps on it, the culture doesn't\n\nThis lane rarely touches the charts and barely registers in the mainstream music press. The people inside it don't need it to. There's a full ecosystem of writers, fighters, leagues, and fans operating on its own clock, with its own canon. A Tsu Surf and Brizz exchange is hip-hop — just hip-hop the algorithms outside the scene don't bother to surface.\n\n---\n\nFor our audience, this is the reminder that the genre is bigger than the radio. Battle rap is some of the sharpest writing in the culture, built and owned by the people, and most of the action now happens on the timeline before it ever reaches a stage. We watch this lane because it's where the pen still rules and the leagues still belong to us.\n\n## Sources\n\n- [Tsu Surf on X](https://x.com/tsusurf)\n- The live X conversation between Tsu Surf and Brizz Rawsteen (this week)",
+    "pillar": "hiphop",
+    "heroCredit": "Tsu Surf on X",
+    "heroCreditUrl": "https://x.com/tsusurf"
+  },
+  {
+    "slug": "akai-mpc-one-g2-key-37-g2-2026",
+    "title": "Akai's Gen 2 MPCs Land: One G2 and Key 37 G2",
+    "headline": "Akai's Gen 2 MPCs Land: One G2 and Key 37 G2",
+    "subhead": "The new standalones bring four times the processing power, a fatter spec sheet, and MPC OS 3.9 — at $799 and $999.",
+    "description": "Akai's MPC One G2 ($799) and MPC Key 37 G2 ($999) arrived June 18, 2026 with an 8-core chip, 4GB RAM, MPC OS 3.9 synthesis and arrangement mode.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "Akai MPC One G2",
+      "MPC Key 37 G2",
+      "Akai MPC Gen 2 2026",
+      "MPC OS 3.9",
+      "standalone MPC beat maker",
+      "MPC One G2 price specs",
+      "Akai MPC producer gear 2026"
+    ],
+    "ogHeadline": "Gen 2 MPCs land\n4x the power",
+    "ogAccent": "C8901E",
+    "body": "Akai dropped the second generation of its standalone MPCs on **June 18, 2026** — the **MPC One G2 at $799** and the **MPC Key 37 G2 at $999**. These are the boxes a lot of beatmakers actually work on, and the spec jump is real, not cosmetic.\n\nThe headline is the brain. A new **8-core processor with roughly four times the power** of the last generation, **4GB of RAM**, and **64GB of storage**. That's the difference between a sketchpad and a finishing machine — enough to build a full record without bouncing to a laptop.\n\n## The processor is the whole story\n\nThe Gen 2 chip is the upgrade everything else hangs on. Per [MusicRadar](https://www.musicradar.com/music-tech/the-most-powerful-standalone-mpcs-we-have-ever-built-at-these-prices-akais-mpc-one-and-mpc-key-37-get-second-gen-upgrades), Akai is calling these the most powerful standalone MPCs it's built at these prices. The four-times-power claim shows up in what you can run at once, which is where the old standalones used to choke.\n\n## You can run a real session now\n\nThe new ceiling: up to **32 simultaneous plugin instruments** and **16 stereo audio tracks**. That's a full arrangement, not a loop. As [MusicTech](https://musictech.com/news/gear/akai-mpc-one-g2-mpc-key-37-g2/) lays out, the headroom means producers can stack ideas without the box tapping out — the kind of count you'd expect from a DAW, running on a standalone you can carry to the session.\n\n## MPC OS 3.9 adds synthesis and arrangement\n\nThe hardware ships on **MPC OS 3.9**, which brings **built-in synthesis** and a proper **arrangement mode**. Synthesis on board means you're not only chopping samples — you're generating sounds. Arrangement mode means you take a beat from loop to finished structure inside the same machine. That's the gap between making a pattern and making a song.\n\n## Built to plug into a modern setup\n\nThe Gen 2 boxes handle **multi-channel audio streaming over USB-C**, so the MPC drops into a computer rig cleanly when you want it to. Standalone when you're moving, integrated when you're at the desk. No forced choice between the two.\n\n---\n\nThis is the producer's world, and it's our world too. Sneakz & Beatz isn't only writing about the music — we sell beats over at **[/beats](https://sneakzandbeatz.com/beats)**, and the tools the culture builds on matter to us directly. A $799 standalone that can finish a record lowers the barrier for the next kid in the room with ideas and no studio. That's always been the MPC's real job. The Gen 2 just makes it harder to outgrow.\n\n## Sources\n\n- [MusicRadar — Akai MPC One and MPC Key 37 get second-gen upgrades](https://www.musicradar.com/music-tech/the-most-powerful-standalone-mpcs-we-have-ever-built-at-these-prices-akais-mpc-one-and-mpc-key-37-get-second-gen-upgrades)\n- [MusicTech — Akai MPC One G2 / MPC Key 37 G2](https://musictech.com/news/gear/akai-mpc-one-g2-mpc-key-37-g2/)",
+    "pillar": "hiphop",
+    "heroCredit": "MusicRadar",
+    "heroCreditUrl": "https://www.musicradar.com/music-tech/the-most-powerful-standalone-mpcs-we-have-ever-built-at-these-prices-akais-mpc-one-and-mpc-key-37-get-second-gen-upgrades"
+  },
+  {
+    "slug": "gta-6-trailer-price-leak-preorders-2026",
+    "title": "GTA 6 Price Leak: What's Real Before Pre-Orders",
+    "headline": "GTA 6 Has a Date. The Price Is Still a Guess.",
+    "subhead": "Rockstar dropped a fresh trailer and locked pre-orders for June 25. A European retailer leaked the price first. Don't trust it yet.",
+    "description": "GTA 6 pre-orders open June 25, 2026, launch November 19. A FNAC price leak hit early, but a trusted leaker says the SKUs are fake.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "GTA 6 release date",
+      "GTA 6 price",
+      "GTA 6 pre-order",
+      "GTA 6 price leak",
+      "GTA 6 editions",
+      "GTA 6 collectors edition",
+      "GTA 6 trailer"
+    ],
+    "ogHeadline": "GTA 6 pre-orders open June 25.\nThe leaked price isn't confirmed.",
+    "ogAccent": "1F6FEB",
+    "body": "Rockstar put out a new GTA 6 trailer on June 18, 2026. Pre-orders open June 25. The game lands November 19. Those are the facts you can build a calendar around. The price floating across timelines right now is not one of them.\n\nHere's the take: the date is locked, the money isn't, and a retailer jumped the gun before anybody official said a word. Treat the numbers as a rumor until Rockstar speaks.\n\n## The trailer reset the clock\n\nThe June 18 trailer wasn't a tease for a tease. It came with a hard pre-order window — **June 25** — and a launch date that's held: **November 19, 2026**. After years of slips, that specificity matters. [Rockstar's Newswire](https://www.rockstargames.com/newswire) is the only feed that counts here.\n\n## Take-Two says no more delays\n\nTake-Two's CEO went on record that GTA 6 won't move again. Read that how you want — confidence or a man who knows another slip would get him cooked online — but it's the company line, and it lines up with locking a pre-order date a week out. They don't open pre-orders on a game they're about to push.\n\n## A French retailer leaked the editions\n\nDays before pre-orders, European retailer **FNAC** posted listings: a base edition around **€89.99**, with tiers climbing to **€109.99**, **€129.99**, and **€199.99**. That's where the \"$80 to $100\" chatter started — a price wall built on one store's placeholder page. [GamingBible](https://www.gamingbible.com/news/gta-6-price-tag-debunked-collectors-edition-confirmed-205413-20260622) ran it down.\n\n## The leak got debunked fast\n\nThis is the part the hype skipped. Reliable leaker **Billbil-kun** said those FNAC SKUs are placeholders — the EAN barcodes don't match Take-Two's actual prefixes. So the editions might be directionally real, but the prices attached to them are not confirmed. A **$70** GTA 6 is still on the table. [NotebookCheck](https://www.notebookcheck.net/70-GTA-6-price-still-possible-as-reliable-leaker-debunks-80-pre-order-listing.1325967.0.html) laid out why.\n\n## What actually drops June 25\n\nOfficial pricing is expected with pre-orders on June 25. That's the number to quote. Anything before it is a placeholder dressed up as news — and the gap between €89.99 and $70 is the difference between a normal pre-order and a panic one.\n\n---\n\nThe single-player crowd has waited longer than anyone, and we're the ones most likely to drop full collector's-edition money on day one. So know what you're buying before you buy it. The date is real. The price is a guess until Rockstar says otherwise. Wait the week.\n\n## Sources\n\n- [Rockstar Games Newswire](https://www.rockstargames.com/newswire)\n- [GamingBible — GTA 6 price tag debunked, collector's edition confirmed](https://www.gamingbible.com/news/gta-6-price-tag-debunked-collectors-edition-confirmed-205413-20260622)\n- [NotebookCheck — $70 GTA 6 price still possible as leaker debunks $80 listing](https://www.notebookcheck.net/70-GTA-6-price-still-possible-as-reliable-leaker-debunks-80-pre-order-listing.1325967.0.html)",
+    "pillar": "gaming",
+    "heroCredit": "Rockstar Games Newswire",
+    "heroCreditUrl": "https://www.rockstargames.com/newswire"
+  },
+  {
+    "slug": "phantom-blade-zero-release-date-october-2026",
+    "title": "Phantom Blade Zero Release Date: October 29, 2026",
+    "headline": "Phantom Blade Zero Moves to October 29",
+    "subhead": "S-Game's kung-fu-punk action-RPG slid from September to late October. And no, the devs say, it's not a soulslike.",
+    "description": "Phantom Blade Zero releases October 29, 2026 on PS5 and PC. S-Game's kung-fu-punk action-RPG is not a soulslike, devs stress.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "Phantom Blade Zero release date",
+      "Phantom Blade Zero PS5",
+      "Phantom Blade Zero gameplay",
+      "Phantom Blade Zero soulslike",
+      "Phantom Blade Zero PC",
+      "Phantom Blade Zero S-Game"
+    ],
+    "ogHeadline": "Phantom Blade Zero lands Oct 29.\nNot a soulslike. Don't say it.",
+    "ogAccent": "1F6FEB",
+    "body": "Phantom Blade Zero has a new date: **October 29, 2026**, on PS5 and PC. It was set for September 9 — announced at The Game Awards — and S-Game pushed it about seven weeks. Short slip, not a panic. The kind of move that reads like polish, not trouble.\n\nThe take: this is one of the most-watched single-player action-RPGs on the board, and the studio is fighting harder against a label than against the calendar. They do not want you calling it a soulslike.\n\n## Kung-fu-punk, their words\n\nS-Game describes Phantom Blade Zero as **\"kung-fu-punk\"** — martial-arts cinema energy welded to a darker, stylized world. It's a single-player action-RPG, built for PS5 and PC. That genre tag is doing real work: it's how the studio signals this isn't another entry in a crowded subgenre. [The PlayStation listing](https://www.playstation.com/en-us/games/phantom-blade-zero/) carries the official framing.\n\n## The date moved seven weeks\n\nThe Game Awards reveal slated it for **September 9, 2026**. The studio reset to **October 29, 2026**. No drama in the gap — late October is prime release real estate, clear of the bigger fall traffic by a hair. [GameBrief](https://www.gamebrief.net/blog/phantom-blade-zero-release-date-platforms) tracked the change and the platforms.\n\n## Not a soulslike. Say it again.\n\nThis is the line the devs keep repeating: Phantom Blade Zero is **not a soulslike** and **not a hack-and-slash**. That's a real stance, not marketing fog. It tells you the combat is built around something other than stamina-gated punishment or mindless crowd-clearing — closer to the rhythm and reading of a fighting game than the death-loop of the genre everyone defaults to. [Wikipedia's entry](https://en.wikipedia.org/wiki/Phantom_Blade_Zero) collects the studio's framing.\n\n## Why the label fight matters\n\nEvery stylish action game with a difficulty curve gets stamped \"soulslike\" by default now. S-Game is refusing the shorthand because the shorthand sets the wrong expectations — and wrong expectations kill word of mouth on launch week. Telling you what it isn't is how they protect what it is.\n\n---\n\nFor the single-player heads, this is the one to keep a tab open on. A studio this protective of its own combat identity usually has something specific to show. October 29. PS5 and PC. Don't call it a soulslike to the devs' faces.\n\n## Sources\n\n- [PlayStation — Phantom Blade Zero](https://www.playstation.com/en-us/games/phantom-blade-zero/)\n- [GameBrief — Phantom Blade Zero release date and platforms](https://www.gamebrief.net/blog/phantom-blade-zero-release-date-platforms)\n- [Wikipedia — Phantom Blade Zero](https://en.wikipedia.org/wiki/Phantom_Blade_Zero)",
+    "pillar": "gaming",
+    "heroCredit": "PlayStation",
+    "heroCreditUrl": "https://www.playstation.com/en-us/games/phantom-blade-zero/"
+  },
+  {
+    "slug": "fable-gameplay-deep-dive-2026",
+    "title": "Fable Gameplay Deep Dive: 1,000+ NPCs, Real Lives",
+    "headline": "Fable's Deep Dive Sells a World That Lives",
+    "subhead": "Playground Games put out 30 minutes of Fable gameplay. The pitch: a town of 1,000-plus NPCs you can befriend, marry, hire, fire and roast.",
+    "description": "Playground Games' 30-minute Fable deep dive reveals 1,000+ voiced NPCs, morality, melee-and-magic combat and the return of Jack of Blades.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "Fable gameplay",
+      "Fable gameplay deep dive",
+      "Fable reboot",
+      "Fable release date",
+      "Fable Living Population",
+      "Fable Jack of Blades",
+      "Fable Game Pass"
+    ],
+    "ogHeadline": "Fable's 30-minute deep dive.\n1,000+ NPCs with real lives.",
+    "ogAccent": "1F6FEB",
+    "body": "Playground Games dropped roughly **30 minutes** of Fable gameplay, and the centerpiece is a system that does what most open worlds only pretend to: make the town feel alive. They call it the **Living Population** — over **1,000 fully voiced NPCs**, each one a person you can actually do something with.\n\nThe take: this is a single-player RPG built around relationships, not just quests. Befriend them. Romance them. Marry them, have kids, hire them, fire them, build a business off them. That's the whole pitch, and the deep dive exists to make you believe it.\n\n## The Living Population is the headline\n\nThe deep dive leads with people. **1,000-plus voiced NPCs** you can befriend, romance, marry, raise children with, employ, or cut loose — and build businesses around. Most worlds give you a hub of scripted faces; this one is selling a town where everyone is a thread you can pull. [Windows Central](https://www.windowscentral.com/gaming/fable-has-received-a-30-minute-gameplay-deep-dive-and-its-finally-convinced-me-that-its-a-true-reimagining-of-the-original-fable-i-grew-up-with) walked through it and came away convinced.\n\n## Morality, the Fable way\n\nThe reputation and morality system is back — the original's whole identity. How the town reads you depends on what you actually do, and that's the spine the Living Population hangs on. A world full of people only matters if those people remember.\n\n## Combat: melee, magic, and chickens\n\nCombat blends melee and magic, and the deep dive showed off the part everyone's going to clip: you can turn enemies into **chickens** and then roast them. That's classic Fable — dark mechanics with a wink. It signals the reboot kept the series' sense of humor instead of sanding it into another grimdark fantasy.\n\n## Jack of Blades returns\n\nThe villain **Jack of Blades** is back. For anyone who grew up on the original, that's the name that matters — bringing him back is a statement that this is a real reimagining of the Fable people remember, not a reboot wearing the logo.\n\n## The date is the catch\n\nHere's why the deep dive came when it did: Fable got pushed to **February 23, 2027** — Xbox, PC and PS5, day one on Game Pass. The delay is the reason for the 30 minutes of footage. They moved the date, so they showed the game to hold the room. [VGC](https://www.videogameschronicle.com/news/after-being-delayed-to-2027-fable-finally-has-an-actual-release-date/) has the timeline.\n\n---\n\nFor the single-player RPG faithful, a world where 1,000 people have names, voices and memories is the dream — the kind of systems-deep town that turns a playthrough into a life. The wait runs to February 2027. The deep dive is the studio's way of saying it'll be worth it. Show, don't promise. They showed.\n\n## Sources\n\n- [Windows Central — Fable's 30-minute gameplay deep dive](https://www.windowscentral.com/gaming/fable-has-received-a-30-minute-gameplay-deep-dive-and-its-finally-convinced-me-that-its-a-true-reimagining-of-the-original-fable-i-grew-up-with)\n- [Video Games Chronicle — Fable finally has an actual release date](https://www.videogameschronicle.com/news/after-being-delayed-to-2027-fable-finally-has-an-actual-release-date/)",
+    "pillar": "gaming",
+    "heroCredit": "Windows Central",
+    "heroCreditUrl": "https://www.windowscentral.com/gaming/fable-has-received-a-30-minute-gameplay-deep-dive-and-its-finally-convinced-me-that-its-a-true-reimagining-of-the-original-fable-i-grew-up-with"
+  },
+  {
+    "slug": "cyberpunk-edgerunners-2-in-production",
+    "title": "Cyberpunk: Edgerunners 2 Is Now in Production",
+    "headline": "Edgerunners 2 Is Officially in Production",
+    "subhead": "Trigger and CD PROJEKT RED are back in Night City for Netflix, with a standalone 10-episode story and a first look set for July 3.",
+    "description": "Cyberpunk: Edgerunners 2 is in production at Trigger and CD PROJEKT RED for Netflix. A standalone 10-episode Night City story, first look July 3, 2026.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "cyberpunk edgerunners 2",
+      "edgerunners season 2",
+      "cyberpunk edgerunners 2 release date",
+      "edgerunners 2 netflix",
+      "cyberpunk edgerunners 2 trigger",
+      "edgerunners 2 anime expo",
+      "cyberpunk 2077 anime"
+    ],
+    "ogHeadline": "EDGERUNNERS 2\nNIGHT CITY, AGAIN",
+    "ogAccent": "B5179E",
+    "body": "Cyberpunk: Edgerunners 2 is officially in production. CD PROJEKT RED and studio Trigger are back together for Netflix, and the first look lands July 3 at Anime Expo.\n\nThe first season did something most game tie-ins never pull off: it stood on its own. David and Lucy's run through Night City sent people back into Cyberpunk 2077 in waves, and it turned a chunk of the Black gaming and anime crowd onto a story they hadn't touched. Season two isn't chasing that. It's a fresh story in the same city, and that's the smarter play.\n\n## It's a standalone story, not a David sequel\n\nEdgerunners 2 is a new 10-episode arc set in Night City, separate from season one. CD PROJEKT RED describes it as a chronicle of redemption and revenge. No forced continuation, no reaching for a cast that already got its ending. Same world, new bodies in it.\n\n## Trigger and CD PROJEKT RED ran it back\n\nThe team that made the first season click is intact. Studio Trigger is animating again, with CD PROJEKT RED steering the source material. That pairing is the whole reason season one hit the way it did, and keeping it together is the clearest signal that this isn't a cash-grab handoff to whoever was available.\n\n## The names behind the desk\n\nKai Ikarashi directs. Bartosz Sztybor returns as showrunner, story writer, and producer, the throughline from season one. Kanno Ichigo is lead character designer, which matters in a show where the look did half the storytelling. Faces, chrome, and silhouette are how Night City talks.\n\n## A first look on July 3\n\nThe first look drops July 3 at Anime Expo. No full trailer promised, no release window locked, but a hard date to circle. For a project that was a rumor a minute ago, a confirmed reveal slot is the difference between hope and a calendar entry.\n\n## Where gaming meets anime for us\n\nThis is the bridge our gaming and anime sides keep talking about. Season one wasn't just an anime that referenced a game, it was a game and an anime feeding each other, and the people who showed up for it weren't the usual single-lane crowd. A second season in Night City keeps that door open. Watch the trailer, then go run the streets in 2077. That loop is the point.\n\n## Sources\n\n- [Cyberpunk: Edgerunners 2 Is Now in Production — cyberpunk.net](https://www.cyberpunk.net/en/news/51617/cyberpunk-edgerunners-2-is-now-in-production)\n- [Cyberpunk: Edgerunners 2 confirms date for next Netflix update — ComicBook.com](https://comicbook.com/anime/news/cyberpunk-edgerunners-2-confirms-release-date-for-next-netflix-update/)",
+    "pillar": "anime",
+    "heroCredit": "CD PROJEKT RED",
+    "heroCreditUrl": "https://www.cyberpunk.net/en/news/51617/cyberpunk-edgerunners-2-is-now-in-production"
+  },
+  {
+    "slug": "air-jordan-5-unc-university-blue-2026",
+    "title": "Air Jordan 5 UNC University Blue 2026 Release Date, Price",
+    "headline": "The UNC Air Jordan 5 Is Back After 20 Years",
+    "subhead": "The Air Jordan 5 \"Black/University Blue\" returned June 20, 2026 at $220, the first time this Chapel Hill nod has surfaced in roughly two decades.",
+    "description": "Air Jordan 5 \"Black/University Blue\" (DD0587-008) released June 20, 2026 for $220 on SNKRS. Release date, price, and why the 2026 resale market matters.",
+    "publishedAt": "2026-06-22",
+    "keywords": [
+      "air jordan 5 university blue",
+      "air jordan 5 university blue 2026 release date",
+      "air jordan 5 unc price",
+      "air jordan 5 black university blue",
+      "DD0587-008",
+      "air jordan 5 university blue resale",
+      "jordan 5 unc 2026"
+    ],
+    "ogHeadline": "AJ5 UNC\nBACK AFTER 20 YEARS",
+    "ogAccent": "C8262C",
+    "body": "The Air Jordan 5 Retro \"Black/University Blue\" came back June 20, 2026 at $220, style code DD0587-008. It dropped on Nike SNKRS and select Jordan Brand retailers in full-family sizing. This is the Chapel Hill nod, and it's the first time this UNC-themed 5 has returned in roughly 20 years.\n\nMJ played his college ball at North Carolina, and the Carolina blue thread runs through Jordan Brand like a bloodline. But the UNC treatment on the 5 specifically has been gone since around 2006. Two decades. Most people building rotations right now have never had a real shot at this one at retail.\n\n## Black nubuck, Carolina blue underneath\n\nThe build is black nubuck up top with University Blue accents pulling through. It keeps the 5's signature furniture: the shark-tooth midsole, the reflective tongue, the see-through outsole. The blue does the talking against the dark base instead of shouting over it. Restrained, which is the right call on a silhouette that's already loud.\n\n## The release details\n\nIt launched June 20, 2026 for $220 under style code DD0587-008. Distribution ran through Nike SNKRS and select Jordan Brand retailers, and it released in full-family sizing, so it wasn't a men's-only grail lock-out. That sizing spread matters for who actually gets to wear it versus who flips it.\n\n## First UNC AJ5 return in about 20 years\n\nThe headline is the gap. The last time this UNC-themed Air Jordan 5 surfaced was around 2006. A 20-year absence on a Carolina colorway tied to MJ's own school is the kind of detail that should move it, regardless of what the market's doing. Some shoes are worth it for the lineage alone.\n\n## The 2026 resale reality\n\nHere's the part nobody pushing you to cop will say out loud: the Jordan resale market softened in 2026. General-release retros like this one don't automatically clear above retail anymore. That's not a knock on the shoe, it's a correction on the flip. If you want it, want it to wear. The days of treating every $220 retro as a guaranteed payday are thinning out, and that's healthier for the people who actually lace them.\n\n## What it means for the rotation\n\nA UNC 5 back after 20 years, at retail, in full sizing, in a market where you might not have to fight a bot to get one. That's a buyer's setup, not a reseller's. Cop it because the lineage is real and the blue hits, not because someone told you it'll double. The culture's better when the shoe goes on a foot.\n\n## Sources\n\n- [Air Jordan 5 Retro University Blue release date — Sole Retriever](https://www.soleretriever.com/news/articles/air-jordan-5-retro-university-blue-release-date-june-2026)\n- [Air Jordan 5 \"Black/University Blue\" 2026 — Sneaker Bar Detroit](https://sneakerbardetroit.com/air-jordan-5-black-university-blue-2026/)",
+    "pillar": "sneakers",
+    "heroCredit": "Sole Retriever",
+    "heroCreditUrl": "https://www.soleretriever.com/news/articles/air-jordan-5-retro-university-blue-release-date-june-2026"
+  }
 ];
 
 export function getEssay(slug: string): LaneEssay | undefined {
