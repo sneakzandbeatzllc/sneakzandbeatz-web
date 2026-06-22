@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T17:56:33+00:00",
+  "generated_utc": "2026-06-22T17:59:50+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "39e2823402e0",
+      "pillar": "gaming",
+      "title": "GTA 6 prices potentially leak off a European retailer, and it looks like Rockstar Games is charging between €90 and €200",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-prices-potentially-leak-off-a-european-retailer-and-it-looks-like-rockstar-games-is-charging-between-eur90-and-eur200/",
+      "thumbnail": "/drops/thumbs/39e2823402e0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "77272629b1ec",
       "pillar": "gaming",
       "title": "Is This Venezuelan DJ Model Really GTA 6’s Newest Cover Girl?",
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "9308a448abad",
+      "id": "773b943cc0d1",
       "pillar": "gaming",
-      "title": "Halo Campaign Evolved Is The Latest PS5 Game That Requires A Microsoft Account",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563155/article/halo-campaign-evolved-is-the-latest-ps5-game-that-requires-a-microsoft-account/",
-      "thumbnail": "/drops/thumbs/9308a448abad.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d4079b16af17",
-      "pillar": "gaming",
-      "title": "News The Call of Duty: Black Ops PS5 Ports Might Be $40 Each without Any DLC",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/the-call-of-duty-black-ops-ps5-ports-might-be-usd40-each-without-any-dlc",
-      "thumbnail": "/drops/thumbs/d4079b16af17.jpg",
+      "title": "The Coalition says making four-player co-op in Gears of War: E-Day was \"a huge investment\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-brings-back-a-feature-the-series-hasnt-supported-in-over-10-years-and-the-coalition-says-making-it-work-was-a-huge-investment/",
+      "thumbnail": "/drops/thumbs/773b943cc0d1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "ff07f49af52d",
     "730b3b638955",
     "6f835bbe3ddc",
-    "77272629b1ec"
+    "39e2823402e0"
   ]
 }
