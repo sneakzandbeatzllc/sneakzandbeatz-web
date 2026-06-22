@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T16:23:51+00:00",
+  "generated_utc": "2026-06-22T17:56:33+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -159,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "0fe3d77efb9d",
+      "pillar": "anime",
+      "title": "New Ghost in the Shell Anime Reveals English Dub Cast",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/new-ghost-in-the-shell-anime-reveals-english-dub-cast/.238803",
+      "thumbnail": "/drops/thumbs/0fe3d77efb9d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "767d91e4375c",
       "pillar": "anime",
       "title": "Liar Game Anime Reveals Trailer, Visual, Cast, Theme Song Artists for 2nd Part",
@@ -171,48 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "799e8fdf457a",
-      "pillar": "anime",
-      "title": "Go Nagai, Dynamic Pro Draw New Manga to Celebrate Weekly Manga Goraku's 3,000th Issue",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/go-nagai-dynamic-pro-draw-new-manga-to-celebrate-weekly-manga-goraku-3000th-issue/.238760",
-      "thumbnail": "/drops/thumbs/799e8fdf457a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "56c34b4d536b",
       "pillar": "anime",
       "title": "11 best anime you can watch for free on streaming right now",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/best-free-anime-to-watch-on-streaming-pluto-roku-tubi/",
       "thumbnail": "/drops/thumbs/56c34b4d536b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2e61e6e0c29b",
-      "pillar": "gaming",
-      "title": "Rumour GTA 6 Price Potentially Leaked by European Retailer",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/rumour-gta-6-price-potentially-leaked-by-european-retailer",
-      "thumbnail": "/drops/thumbs/2e61e6e0c29b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "39e2823402e0",
-      "pillar": "gaming",
-      "title": "GTA 6 prices potentially leak off a European retailer, and it looks like Rockstar Games is charging between €90 and €200",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-prices-potentially-leak-off-a-european-retailer-and-it-looks-like-rockstar-games-is-charging-between-eur90-and-eur200/",
-      "thumbnail": "/drops/thumbs/39e2823402e0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "d9c943f9f91e",
+      "pillar": "gaming",
+      "title": "News The Last of Us 2 Is Finally Getting Multiplayer, But Naughty Dog Ain't Making It",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/the-last-of-us-2-is-finally-getting-multiplayer-but-naughty-dog-aint-making-it",
+      "thumbnail": "/drops/thumbs/d9c943f9f91e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "22f07afe46a1",
       "pillar": "gaming",
       "title": "News The Witcher 4 Can't Be Another Cyberpunk 2077, and CD Projekt Red Knows It",
@@ -267,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "773b943cc0d1",
+      "id": "da3f9c06764f",
       "pillar": "gaming",
-      "title": "The Coalition says making four-player co-op in Gears of War: E-Day was \"a huge investment\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-brings-back-a-feature-the-series-hasnt-supported-in-over-10-years-and-the-coalition-says-making-it-work-was-a-huge-investment/",
-      "thumbnail": "/drops/thumbs/773b943cc0d1.jpg",
+      "title": "The Halo Remake’s Version Of The Big Space Ring Is Getting Roasted Online: ‘Absolutely Mogged By A 25 Year Old Game’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/the-halo-remakes-version-of-the-big-space-ring-is-getting-roasted-online-absolutely-mogged-by-a-25-year-old-game-2000708953",
+      "thumbnail": "/drops/thumbs/da3f9c06764f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "d4079b16af17",
+      "pillar": "gaming",
+      "title": "News The Call of Duty: Black Ops PS5 Ports Might Be $40 Each without Any DLC",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/the-call-of-duty-black-ops-ps5-ports-might-be-usd40-each-without-any-dlc",
+      "thumbnail": "/drops/thumbs/d4079b16af17.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "ff07f49af52d",
     "730b3b638955",
     "6f835bbe3ddc",
-    "2e61e6e0c29b"
+    "77272629b1ec"
   ]
 }
