@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T09:48:58+00:00",
+  "generated_utc": "2026-06-22T09:54:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Pre-Orders Start June 25, Official Cover Art Finally Revealed",
-      "url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 pre-orders are incoming: here's where and how to secure your copy on June 25",
       "url": "https://www.gamesradar.com/games/where-to-pre-order-gta-6/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "News Halo PS5 Backtracks PS Plus Co-Op Demands, Says They Were a Mistake",
       "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-backtracks-ps-plus-co-op-demands-says-they-were-a-mistake",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Halo Campaign Evolved Is The Latest PS5 Game That Requires A Microsoft Account",
+      "url": "https://gameranx.com/updates/id/563155/article/halo-campaign-evolved-is-the-latest-ps5-game-that-requires-a-microsoft-account/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

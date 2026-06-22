@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T09:48:58+00:00",
+  "generated_utc": "2026-06-22T09:54:25+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -219,18 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "9cd08d4dcb6b",
-      "pillar": "gaming",
-      "title": "GTA 6 Pre-Orders Start June 25, Official Cover Art Finally Revealed",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563132/article/gta-6-pre-orders-start-june-25-official-cover-art-finally-revealed/",
-      "thumbnail": "/drops/thumbs/9cd08d4dcb6b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "74eea8d7f3d6",
       "pillar": "gaming",
       "title": "GTA 6 pre-orders are incoming: here's where and how to secure your copy on June 25",
@@ -285,6 +273,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/halo-ps5-backtracks-ps-plus-co-op-demands-says-they-were-a-mistake",
       "thumbnail": "/drops/thumbs/3db3b9c93781.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9308a448abad",
+      "pillar": "gaming",
+      "title": "Halo Campaign Evolved Is The Latest PS5 Game That Requires A Microsoft Account",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563155/article/halo-campaign-evolved-is-the-latest-ps5-game-that-requires-a-microsoft-account/",
+      "thumbnail": "/drops/thumbs/9308a448abad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
