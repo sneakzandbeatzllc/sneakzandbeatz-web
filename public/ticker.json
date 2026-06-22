@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T01:50:50+00:00",
+  "generated_utc": "2026-06-22T03:51:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,8 @@
       "article_slug": null
     },
     {
-      "title": "Shonen Jump's Last New Summer Series Is Demon Slayer Meets Attack on Titan",
-      "url": "https://screenrant.com/shonen-jump-demon-slayer-meets-attack-on-titan-cannon-master/",
+      "title": "35 Years Ago, Dragon Ball Changed Anime Forever With One Moment The Series Never Topped",
+      "url": "https://screenrant.com/dragon-ball-changed-anime-forever-super-saiyan/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,6 +95,13 @@
       "article_slug": null
     },
     {
+      "title": "Chainsaw Man's New Trailer Teases The Series' Most Nightmarish Devil Of All Time",
+      "url": "https://screenrant.com/chainsaw-man-assassins-arc-teases-darkness-devil/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "After 16 Years, Naruto's Next Anime Is Making A Classic Filler Episode Official Canon",
       "url": "https://screenrant.com/naruto-makes-sasuke-filler-episode-canon-cats/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Frieren Is Destined To Become The Next Hunter x Hunter, And That's Not A Good Thing",
       "url": "https://screenrant.com/frieren-next-hunter-x-hunter-doomed-manga-hiatus/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New Naruto Trailer Finally Lets Hinata Be The True Badass She's Always Been",
-      "url": "https://screenrant.com/naruto-trailer-hinata-badass/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

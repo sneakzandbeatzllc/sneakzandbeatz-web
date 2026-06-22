@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T01:50:50+00:00",
+  "generated_utc": "2026-06-22T03:51:37+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,12 +99,12 @@
       "release_badge": ""
     },
     {
-      "id": "76bc194b96b6",
+      "id": "730b3b638955",
       "pillar": "anime",
-      "title": "Shonen Jump's Last New Summer Series Is Demon Slayer Meets Attack on Titan",
+      "title": "35 Years Ago, Dragon Ball Changed Anime Forever With One Moment The Series Never Topped",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/shonen-jump-demon-slayer-meets-attack-on-titan-cannon-master/",
-      "thumbnail": "/drops/thumbs/76bc194b96b6.png",
+      "source_url": "https://screenrant.com/dragon-ball-changed-anime-forever-super-saiyan/",
+      "thumbnail": "/drops/thumbs/730b3b638955.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "68aca586245f",
+      "pillar": "anime",
+      "title": "Chainsaw Man's New Trailer Teases The Series' Most Nightmarish Devil Of All Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/chainsaw-man-assassins-arc-teases-darkness-devil/",
+      "thumbnail": "/drops/thumbs/68aca586245f.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ec879f199bcb",
       "pillar": "anime",
       "title": "After 16 Years, Naruto's Next Anime Is Making A Classic Filler Episode Official Canon",
@@ -177,18 +189,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/frieren-next-hunter-x-hunter-doomed-manga-hiatus/",
       "thumbnail": "/drops/thumbs/04bd2f2dbca8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "14c35ed255a6",
-      "pillar": "anime",
-      "title": "New Naruto Trailer Finally Lets Hinata Be The True Badass She's Always Been",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-trailer-hinata-badass/",
-      "thumbnail": "/drops/thumbs/14c35ed255a6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "cdb12351ad98",
     "86085068f6a4",
     "ff07f49af52d",
-    "76bc194b96b6",
+    "730b3b638955",
     "6f835bbe3ddc",
     "2e61e6e0c29b"
   ]
