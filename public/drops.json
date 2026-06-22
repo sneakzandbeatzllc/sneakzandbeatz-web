@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-22T09:54:25+00:00",
+  "generated_utc": "2026-06-22T10:49:39+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "d6683e77d7f7",
+      "id": "8a42a73f50ab",
       "pillar": "anime",
-      "title": "The Insipid Prince's Furtive Grab for The Throne Anime Reveals 2 New Cast Members",
+      "title": "Azusa Banjo's I Think I Turned My Childhood Friend Into a Girl Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/the-insipid-prince-furtive-grab-for-the-throne-anime-reveals-2-new-cast-members/.238788",
-      "thumbnail": "/drops/thumbs/d6683e77d7f7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/azusa-banjo-i-think-i-turned-my-childhood-friend-into-a-girl-manga-gets-tv-anime/.238789",
+      "thumbnail": "/drops/thumbs/8a42a73f50ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,6 +213,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-prices-potentially-leak-off-a-european-retailer-and-it-looks-like-rockstar-games-is-charging-between-eur90-and-eur200/",
       "thumbnail": "/drops/thumbs/39e2823402e0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c1b5b4397647",
+      "pillar": "gaming",
+      "title": "Rumor Debunked: billbil-kun Says Early GTA 6 Price Listings Are Placeholders",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563157/article/rumor-debunked-billbil-kun-says-early-gta-6-price-listings-are-placeholders/",
+      "thumbnail": "/drops/thumbs/c1b5b4397647.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "3db3b9c93781",
+      "id": "d4079b16af17",
       "pillar": "gaming",
-      "title": "News Halo PS5 Backtracks PS Plus Co-Op Demands, Says They Were a Mistake",
+      "title": "News The Call of Duty: Black Ops PS5 Ports Might Be $40 Each without Any DLC",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/halo-ps5-backtracks-ps-plus-co-op-demands-says-they-were-a-mistake",
-      "thumbnail": "/drops/thumbs/3db3b9c93781.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9308a448abad",
-      "pillar": "gaming",
-      "title": "Halo Campaign Evolved Is The Latest PS5 Game That Requires A Microsoft Account",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563155/article/halo-campaign-evolved-is-the-latest-ps5-game-that-requires-a-microsoft-account/",
-      "thumbnail": "/drops/thumbs/9308a448abad.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/the-call-of-duty-black-ops-ps5-ports-might-be-usd40-each-without-any-dlc",
+      "thumbnail": "/drops/thumbs/d4079b16af17.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
