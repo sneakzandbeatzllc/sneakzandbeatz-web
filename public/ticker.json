@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T19:13:56+00:00",
+  "generated_utc": "2026-06-23T19:40:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,6 +32,13 @@
       "article_slug": null
     },
     {
+      "title": "First Look at the Air Jordan 15 “Snakeskin” From the Black pack",
+      "url": "https://justfreshkicks.com/air-jordan-15-snakeskin-iz2585-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Jordan Brand Unveils the 2026 Quai54 Collection, Releasing in July",
       "url": "https://justfreshkicks.com/jordan-quai54-2026-collection/",
       "pillar": "sneakers",
@@ -50,20 +57,6 @@
       "url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
       "pillar": "sneakers",
       "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Where To Buy the Air Jordan 5 “Black Carolina”",
-      "url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dragon Ball Xenoverse 3 Game's Trailer Previews Story, New Characters, West City",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-23/dragon-ball-xenoverse-3-game-trailer-previews-story-new-characters-west-city/.238839",
-      "pillar": "anime",
-      "score": 1.0,
       "article_slug": null
     },
     {
@@ -88,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "Bubbles Zine Licenses Suehiro Maruo's New National Kid Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-23/bubbles-zine-licenses-suehiro-maruo-new-national-kid-manga/.238840",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Netflix just united 2 iconic anime studios to make the most intriguing sci-fi show of 2026",
       "url": "https://www.polygon.com/one-of-2026s-most-intriguing-anime-comes-from-an-unlikely-studio-team-up/",
       "pillar": "anime",
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Bubbles Zine Licenses Suehiro Maruo's New National Kid Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-23/bubbles-zine-licenses-suehiro-maruo-new-national-kid-manga/.238840",
+      "title": "Sparks of Tomorrow Anime Streams Video Message from Director Minoru Ōta",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-23/sparks-of-tomorrow-anime-streams-video-message-from-director-minoru-ota/.238844",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Sparks of Tomorrow Anime Streams Video Message from Director Minoru Ōta",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-23/sparks-of-tomorrow-anime-streams-video-message-from-director-minoru-ota/.238844",
+      "title": "Fool Night Manga Gets TV Anime From Sunrise, Shaft on Netflix Worldwide This Year",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-23/fool-night-manga-gets-tv-anime-from-sunrise-shaft-on-netflix-worldwide-this-year/.238801",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS5 Shovelware Dev Confirms 'Stricter' Publishing Guidelines from Sony",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-shovelware-dev-confirms-stricter-publishing-guidelines-from-sony",
+      "title": "News Sonic Racing: CrossWorlds May Not Have Sold Well, But It Gets More Awesome by the Month",
+      "url": "https://www.pushsquare.com/news/2026/06/sonic-racing-crossworlds-may-not-have-sold-well-but-it-gets-more-awesome-by-the-month",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
