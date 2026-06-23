@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T13:09:54+00:00",
+  "generated_utc": "2026-06-23T14:07:46+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "c203dca3fb05",
-      "pillar": "gaming",
-      "title": "Hideo Kojima Shares New Screenshot Of Upcoming Horror Game OD And…Hey, That Looks Like PT !",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/hideo-kojima-shares-new-screenshot-od-looks-like-pt-2000709099",
-      "thumbnail": "/drops/thumbs/c203dca3fb05.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c22192f49ba0",
       "pillar": "gaming",
       "title": "Hideo Kojima Credits Previous Xbox Head Phil Spencer For Believing In OD When Other Publishers Didn’t",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "81357770488c",
+      "id": "c3ec3f3f023d",
       "pillar": "gaming",
-      "title": "News Even Sea of Thieves Is Getting a Movie Adaptation, with a Marvel Filmmaker Involved",
+      "title": "Steam Machine Reviews Are In And They Are Far From Glowing: ‘There Is No Path That I Can Trace That Will Lead To Acceptable Performance On This Hardware’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/steam-machine-reviews-are-in-and-they-are-far-from-glowing-there-is-no-path-that-i-can-trace-that-will-lead-to-acceptable-performance-on-this-hardware-2000709043",
+      "thumbnail": "/drops/thumbs/c3ec3f3f023d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "06758c7519a6",
+      "pillar": "gaming",
+      "title": "News 'Absolutely Terrible Idea': Nobody Likes Sony's New PS Plus Experiment",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/even-sea-of-thieves-is-getting-a-movie-adaptation-with-a-marvel-filmmaker-involved",
-      "thumbnail": "/drops/thumbs/81357770488c.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/absolutely-terrible-idea-nobody-likes-sonys-new-ps-plus-experiment",
+      "thumbnail": "/drops/thumbs/06758c7519a6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
