@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T22:16:32+00:00",
+  "generated_utc": "2026-06-23T22:46:15+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "5944be8cfbd8",
+      "pillar": "anime",
+      "title": "5 Masterpiece Action Anime Better Than Demon Slayer",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/action-anime-better-demon-slayer/",
+      "thumbnail": "/drops/thumbs/5944be8cfbd8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "02290248060f",
       "pillar": "anime",
       "title": "One Piece's Anime Fans Aren't Ready For The Biggest Lore Dump Of All Time",
@@ -129,18 +141,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/cannon-masters-shonen-jump-next-one-piece/",
       "thumbnail": "/drops/thumbs/34d7c880b4af.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "98f20ee3280c",
-      "pillar": "anime",
-      "title": "Naruto Shippuden Filler List: Every Episode You Can Watch Or Skip",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-shippuden-filler-episodes-guide/",
-      "thumbnail": "/drops/thumbs/98f20ee3280c.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "cdb12351ad98",
     "70ced94e4a3b",
     "ff07f49af52d",
-    "02290248060f",
+    "5944be8cfbd8",
     "6f835bbe3ddc",
     "13d5b112f3e9"
   ]

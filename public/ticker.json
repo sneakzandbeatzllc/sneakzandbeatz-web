@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T22:16:32+00:00",
+  "generated_utc": "2026-06-23T22:46:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "5 Masterpiece Action Anime Better Than Demon Slayer",
+      "url": "https://screenrant.com/action-anime-better-demon-slayer/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece's Anime Fans Aren't Ready For The Biggest Lore Dump Of All Time",
       "url": "https://screenrant.com/one-piece-harley-mural-anime-reveal/",
       "pillar": "anime",
@@ -76,13 +83,6 @@
     {
       "title": "29 Years Later, Shonen Jump Has Finally Found Its Next One Piece",
       "url": "https://screenrant.com/cannon-masters-shonen-jump-next-one-piece/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naruto Shippuden Filler List: Every Episode You Can Watch Or Skip",
-      "url": "https://screenrant.com/naruto-shippuden-filler-episodes-guide/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
