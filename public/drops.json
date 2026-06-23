@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T17:12:30+00:00",
+  "generated_utc": "2026-06-23T18:09:48+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -195,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "13d5b112f3e9",
-      "pillar": "gaming",
-      "title": "Retailers Have Been Caught Preparing For GTA 6 – Even In Datamining",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563178/article/retailers-have-been-caught-preparing-for-gta-6-even-in-datamining/",
-      "thumbnail": "/drops/thumbs/13d5b112f3e9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "77272629b1ec",
-      "pillar": "gaming",
-      "title": "Is This Venezuelan DJ Model Really GTA 6’s Newest Cover Girl?",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563162/article/is-this-venezuelan-dj-model-really-gta-6s-newest-cover-girl/",
-      "thumbnail": "/drops/thumbs/77272629b1ec.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a7e9771d7e99",
       "pillar": "gaming",
       "title": "Sorry Kingdom Hearts nerds, Final Fantasy 7 Rebirth lead says sea salt ice cream \"isn't a homage\"",
@@ -255,36 +231,60 @@
       "release_badge": ""
     },
     {
-      "id": "c22192f49ba0",
-      "pillar": "gaming",
-      "title": "Hideo Kojima Credits Previous Xbox Head Phil Spencer For Believing In OD When Other Publishers Didn’t",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563176/article/hideo-kojima-credits-previous-xbox-head-phil-spencer-for-believing-in-od-when-other-publishers-didnt/",
-      "thumbnail": "/drops/thumbs/c22192f49ba0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d8bfe848d707",
-      "pillar": "gaming",
-      "title": "XBOX CEO Asha Sharma Claims Call of Duty Is Now Bigger Than The Marvel Cinematic Universe",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563170/article/xbox-ceo-asha-sharma-claims-call-of-duty-is-now-bigger-than-the-marvel-cinematic-universe/",
-      "thumbnail": "/drops/thumbs/d8bfe848d707.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7a079d360c5d",
       "pillar": "gaming",
       "title": "News One of 2026's Most Fiendishly Addictive PS5 Games Is Getting Even Bigger and Better",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/one-of-2026s-most-fiendishly-addictive-ps5-games-is-getting-even-bigger-and-better",
       "thumbnail": "/drops/thumbs/7a079d360c5d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b4c0e7887a99",
+      "pillar": "gaming",
+      "title": "Preview Dragon Ball XenoVerse 3 Could Be the Bigger Budget Sequel the Series Needs",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/previews/dragon-ball-xenoverse-3-could-be-the-bigger-budget-sequel-the-series-needs",
+      "thumbnail": "/drops/thumbs/b4c0e7887a99.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "869a2744c64d",
+      "pillar": "gaming",
+      "title": "Star Wars: Galactic Racer Looks And Feels Awesome",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/star-wars-galactic-racer-looks-and-feels-awesome-2000709494",
+      "thumbnail": "/drops/thumbs/869a2744c64d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "17e5913ba556",
+      "pillar": "gaming",
+      "title": "Preview 5 Things That Surprised Me Playing Star Wars: Galactic Racer on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/previews/5-things-that-surprised-me-playing-star-wars-galactic-racer-on-ps5",
+      "thumbnail": "/drops/thumbs/17e5913ba556.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f56ff5c31b58",
+      "pillar": "gaming",
+      "title": "Valve says Steam Machine is $1,049 because it \"doesn't align with our beliefs\" to subsidize the cost 8 Comments",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/hardware/desktop-pc/steam-machine-is-usd1-049-because-it-doesnt-align-with-our-beliefs-to-subsidize-the-cost/",
+      "thumbnail": "/drops/thumbs/f56ff5c31b58.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "ff07f49af52d",
     "0a5e7952fb78",
     "6f835bbe3ddc",
-    "13d5b112f3e9"
+    "a7e9771d7e99"
   ]
 }
