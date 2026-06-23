@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T00:01:05+00:00",
+  "generated_utc": "2026-06-23T01:02:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "35 Years Ago, Dragon Ball Changed Anime Forever With One Moment The Series Never Topped",
-      "url": "https://screenrant.com/dragon-ball-changed-anime-forever-super-saiyan/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "1 Year Later, Demon Slayer: Infinity Castle's Home Release Is Now One Month Away",
       "url": "https://screenrant.com/demon-slayer-infinity-castle-home-release-date-catch/",
       "pillar": "anime",
@@ -76,6 +69,13 @@
     {
       "title": "Hunter x Hunter's official return confirmed in manga's new trailer",
       "url": "https://www.polygon.com/hunter-x-hunter-manga-return-june-28-trailer/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Wait Is Over: One Piece's Anime Spinoff Just Dropped Its First Trailer",
+      "url": "https://screenrant.com/one-piece-heroines-first-trailer-spinoff-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

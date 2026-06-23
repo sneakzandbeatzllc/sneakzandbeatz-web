@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T00:01:05+00:00",
+  "generated_utc": "2026-06-23T01:02:18+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "730b3b638955",
-      "pillar": "anime",
-      "title": "35 Years Ago, Dragon Ball Changed Anime Forever With One Moment The Series Never Topped",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-changed-anime-forever-super-saiyan/",
-      "thumbnail": "/drops/thumbs/730b3b638955.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "89772bb96972",
       "pillar": "anime",
       "title": "1 Year Later, Demon Slayer: Infinity Castle's Home Release Is Now One Month Away",
@@ -129,6 +117,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/hunter-x-hunter-manga-return-june-28-trailer/",
       "thumbnail": "/drops/thumbs/2660f1c7e21c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b45af3d87c57",
+      "pillar": "anime",
+      "title": "The Wait Is Over: One Piece's Anime Spinoff Just Dropped Its First Trailer",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-heroines-first-trailer-spinoff-anime/",
+      "thumbnail": "/drops/thumbs/b45af3d87c57.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "cdb12351ad98",
     "70ced94e4a3b",
     "ff07f49af52d",
-    "730b3b638955",
+    "89772bb96972",
     "6f835bbe3ddc",
     "39e2823402e0"
   ]
