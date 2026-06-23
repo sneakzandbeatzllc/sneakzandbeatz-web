@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T20:12:19+00:00",
+  "generated_utc": "2026-06-23T20:14:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Call Of Duty’s Persona 5 Skins Are The Stuff Of Crossover Nightmares",
-      "url": "https://kotaku.com/call-of-duty-mobile-persona-5-royal-skins-crossover-event-2000709586",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Hideo Kojima says his pitch for OD sounded \"crazy\" to every publisher except Xbox",
       "url": "https://www.gamesradar.com/games/horror/hideo-kojima-says-his-pitch-for-od-sounded-crazy-to-every-publisher-except-xbox/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "News Sonic Racing: CrossWorlds May Not Have Sold Well, But It Gets More Awesome by the Month",
       "url": "https://www.pushsquare.com/news/2026/06/sonic-racing-crossworlds-may-not-have-sold-well-but-it-gets-more-awesome-by-the-month",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Tom Cruise’s Next Movie Has The Weirdest Trailer I’ve Seen In A Long Time",
+      "url": "https://kotaku.com/tom-cruises-next-movie-has-the-weirdest-trailer-ive-seen-in-a-long-time-2000709604",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
