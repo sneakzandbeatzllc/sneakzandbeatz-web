@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T10:09:11+00:00",
+  "generated_utc": "2026-06-23T11:05:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "News SEGA Shares Lifetime Sales Update for Persona, Metaphor, and Like a Dragon",
-      "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Only Xbox Was Interested In Kojima’s Horror Game, Other Companies Didn’t ‘Understand The Concept’",
       "url": "https://kotaku.com/only-xbox-was-interested-in-kojimas-horror-game-other-companies-didnt-understand-the-concept-2000709107",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "XBOX CEO Asha Sharma Claims Call of Duty Is Now Bigger Than The Marvel Cinematic Universe",
       "url": "https://gameranx.com/updates/id/563170/article/xbox-ceo-asha-sharma-claims-call-of-duty-is-now-bigger-than-the-marvel-cinematic-universe/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Halo Campaign Evolved Is The Latest PS5 Game That Requires A Microsoft Account",
+      "url": "https://gameranx.com/updates/id/563155/article/halo-campaign-evolved-is-the-latest-ps5-game-that-requires-a-microsoft-account/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

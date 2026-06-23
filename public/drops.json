@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T10:09:11+00:00",
+  "generated_utc": "2026-06-23T11:05:46+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "920ff8c6e12d",
-      "pillar": "gaming",
-      "title": "News SEGA Shares Lifetime Sales Update for Persona, Metaphor, and Like a Dragon",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
-      "thumbnail": "/drops/thumbs/920ff8c6e12d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "32365519c89e",
       "pillar": "gaming",
       "title": "Only Xbox Was Interested In Kojima’s Horror Game, Other Companies Didn’t ‘Understand The Concept’",
@@ -285,6 +273,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563170/article/xbox-ceo-asha-sharma-claims-call-of-duty-is-now-bigger-than-the-marvel-cinematic-universe/",
       "thumbnail": "/drops/thumbs/d8bfe848d707.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9308a448abad",
+      "pillar": "gaming",
+      "title": "Halo Campaign Evolved Is The Latest PS5 Game That Requires A Microsoft Account",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563155/article/halo-campaign-evolved-is-the-latest-ps5-game-that-requires-a-microsoft-account/",
+      "thumbnail": "/drops/thumbs/9308a448abad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
