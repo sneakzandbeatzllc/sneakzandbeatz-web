@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T09:04:28+00:00",
+  "generated_utc": "2026-06-23T10:05:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 prices potentially leak off a European retailer, and it looks like Rockstar Games is charging between €90 and €200",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-prices-potentially-leak-off-a-european-retailer-and-it-looks-like-rockstar-games-is-charging-between-eur90-and-eur200/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Is This Venezuelan DJ Model Really GTA 6’s Newest Cover Girl?",
       "url": "https://gameranx.com/updates/id/563162/article/is-this-venezuelan-dj-model-really-gta-6s-newest-cover-girl/",
       "pillar": "gaming",
@@ -139,6 +132,13 @@
     {
       "title": "News Capcom Showcase Confirmed for This Week, Onimusha and Dragon's Dogma 2 DLC in the Spotlight",
       "url": "https://www.pushsquare.com/news/2026/06/capcom-showcase-confirmed-for-this-week-onimusha-and-dragons-dogma-2-dlc-in-the-spotlight",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sorry Kingdom Hearts nerds, Final Fantasy 7 Rebirth lead says sea salt ice cream \"isn't a homage\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/sorry-kingdom-hearts-nerds-final-fantasy-7-rebirth-director-naoki-hamaguchi-says-sea-salt-ice-cream-isnt-a-homage/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Halo Campaign Evolved Is The Latest PS5 Game That Requires A Microsoft Account",
-      "url": "https://gameranx.com/updates/id/563155/article/halo-campaign-evolved-is-the-latest-ps5-game-that-requires-a-microsoft-account/",
+      "title": "XBOX CEO Asha Sharma Claims Call of Duty Is Now Bigger Than The Marvel Cinematic Universe",
+      "url": "https://gameranx.com/updates/id/563170/article/xbox-ceo-asha-sharma-claims-call-of-duty-is-now-bigger-than-the-marvel-cinematic-universe/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
