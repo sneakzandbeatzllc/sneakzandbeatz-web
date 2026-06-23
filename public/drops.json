@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T16:11:37+00:00",
+  "generated_utc": "2026-06-23T17:08:04+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -51,6 +51,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "66e2ded4a37a",
+      "pillar": "sneakers",
+      "title": "Jordan Brand Unveils the 2026 Quai54 Collection, Releasing in July",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/jordan-quai54-2026-collection/",
+      "thumbnail": "/drops/thumbs/66e2ded4a37a.jpg",
+      "published": "2026-06-23T12:53:48",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "69d7dd730031",
       "pillar": "sneakers",
       "title": "The Comme des Garçon Homme Air Jordan 11 Releases in Fall 2026",
@@ -87,36 +99,12 @@
       "release_badge": ""
     },
     {
-      "id": "dd42a8d6c69e",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 13 “Flint” Blue Returns in Summer 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-13-flint-2026/",
-      "thumbnail": "/drops/thumbs/dd42a8d6c69e.jpg",
-      "published": "2026-06-18T14:54:26",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "0a5e7952fb78",
       "pillar": "anime",
       "title": "Dragon Ball Xenoverse 3 Game's Trailer Previews Story, New Characters, West City",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-23/dragon-ball-xenoverse-3-game-trailer-previews-story-new-characters-west-city/.238839",
       "thumbnail": "/drops/thumbs/0a5e7952fb78.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2660f1c7e21c",
-      "pillar": "anime",
-      "title": "Hunter x Hunter's official return confirmed in manga's new trailer",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/hunter-x-hunter-manga-return-june-28-trailer/",
-      "thumbnail": "/drops/thumbs/2660f1c7e21c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +147,24 @@
       "release_badge": ""
     },
     {
-      "id": "709df040f21a",
+      "id": "00fe89ba7a9f",
       "pillar": "anime",
-      "title": "Fool Night Manga Gets TV Anime From Sunrise, Shaft on Netflix Worldwide This Year",
+      "title": "Netflix just united 2 iconic anime studios to make the most intriguing sci-fi show of 2026",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/one-of-2026s-most-intriguing-anime-comes-from-an-unlikely-studio-team-up/",
+      "thumbnail": "/drops/thumbs/00fe89ba7a9f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "aaba9b1063ad",
+      "pillar": "anime",
+      "title": "Bubbles Zine Licenses Suehiro Maruo's New National Kid Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-23/fool-night-manga-gets-tv-anime-from-sunrise-shaft-on-netflix-worldwide-this-year/.238801",
-      "thumbnail": "/drops/thumbs/709df040f21a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-23/bubbles-zine-licenses-suehiro-maruo-new-national-kid-manga/.238840",
+      "thumbnail": "/drops/thumbs/aaba9b1063ad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "226433d2e950",
+      "id": "c6dccdfc164d",
       "pillar": "anime",
-      "title": "The Ribbon Hero Anime Film's 2nd Trailer Unveils More Cast, Theme Song",
+      "title": "Sparks of Tomorrow Anime Streams Video Message from Director Minoru Ōta",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-23/the-ribbon-hero-anime-film-2nd-trailer-unveils-more-cast-theme-song/.238837",
-      "thumbnail": "/drops/thumbs/226433d2e950.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-23/sparks-of-tomorrow-anime-streams-video-message-from-director-minoru-ota/.238844",
+      "thumbnail": "/drops/thumbs/c6dccdfc164d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,6 +231,30 @@
       "release_badge": ""
     },
     {
+      "id": "a06678c26082",
+      "pillar": "gaming",
+      "title": "God Of War Laufey’s Star Just Sent Fans On A Scavenger Hunt",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/god-of-war-laufey-deborah-ann-woll-ragnarok-interview-2000709565",
+      "thumbnail": "/drops/thumbs/a06678c26082.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "36b6834cf72e",
+      "pillar": "gaming",
+      "title": "Hideo Kojima says his pitch for OD sounded \"crazy\" to every publisher except Xbox",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/horror/hideo-kojima-says-his-pitch-for-od-sounded-crazy-to-every-publisher-except-xbox/",
+      "thumbnail": "/drops/thumbs/36b6834cf72e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c22192f49ba0",
       "pillar": "gaming",
       "title": "Hideo Kojima Credits Previous Xbox Head Phil Spencer For Believing In OD When Other Publishers Didn’t",
@@ -261,30 +285,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/one-of-2026s-most-fiendishly-addictive-ps5-games-is-getting-even-bigger-and-better",
       "thumbnail": "/drops/thumbs/7a079d360c5d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "869a2744c64d",
-      "pillar": "gaming",
-      "title": "Star Wars: Galactic Racer Looks And Feels Awesome",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/star-wars-galactic-racer-looks-and-feels-awesome-2000709494",
-      "thumbnail": "/drops/thumbs/869a2744c64d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b4c0e7887a99",
-      "pillar": "gaming",
-      "title": "Preview Dragon Ball XenoVerse 3 Could Be the Bigger Budget Sequel the Series Needs",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/previews/dragon-ball-xenoverse-3-could-be-the-bigger-budget-sequel-the-series-needs",
-      "thumbnail": "/drops/thumbs/b4c0e7887a99.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
