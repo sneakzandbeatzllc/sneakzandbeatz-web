@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T01:04:21+00:00",
+  "generated_utc": "2026-06-23T02:05:49+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "13cac3c9e4a2",
+      "pillar": "anime",
+      "title": "One Piece Heroines Anime's Trailer Unveils Aina the End's Theme Song",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/one-piece-heroines-anime-trailer-unveils-aina-the-end-theme-song/.238820",
+      "thumbnail": "/drops/thumbs/13cac3c9e4a2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2660f1c7e21c",
       "pillar": "anime",
       "title": "Hunter x Hunter's official return confirmed in manga's new trailer",
@@ -147,18 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "8ce9c9a283a5",
-      "pillar": "anime",
-      "title": "One Piece's Newest Release Officially Settles A Major Imu Debate",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-gunko-imu-devil-color-debate-finished/",
-      "thumbnail": "/drops/thumbs/8ce9c9a283a5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7fbaf629d0ee",
       "pillar": "anime",
       "title": "HIDIVE Premieres Hell Mode Season 2, The Forsaken Saintess and Her Foodie Road Trip Anime at Anime Expo",
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "0fe3d77efb9d",
-      "pillar": "anime",
-      "title": "New Ghost in the Shell Anime Reveals English Dub Cast",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/new-ghost-in-the-shell-anime-reveals-english-dub-cast/.238803",
-      "thumbnail": "/drops/thumbs/0fe3d77efb9d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5379b5411028",
       "pillar": "anime",
       "title": "Final Fantasy’s Yoshitaka Amano is making an anime",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/final-fantasys-yoshitaka-amano-has-an-anime-coming/",
       "thumbnail": "/drops/thumbs/5379b5411028.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0fe3d77efb9d",
+      "pillar": "anime",
+      "title": "New Ghost in the Shell Anime Reveals English Dub Cast",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-22/new-ghost-in-the-shell-anime-reveals-english-dub-cast/.238803",
+      "thumbnail": "/drops/thumbs/0fe3d77efb9d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
