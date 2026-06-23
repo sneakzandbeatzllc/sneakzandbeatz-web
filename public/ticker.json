@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-23T15:10:57+00:00",
+  "generated_utc": "2026-06-23T16:09:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Netflix's One Piece Remake Just Got Its First Look, And Toei Should Be Worried",
+      "url": "https://screenrant.com/one-piece-netflix-remake-anime-poster-trailer-announcement/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "29 Years Later, Shonen Jump Has Finally Found Its Next One Piece",
       "url": "https://screenrant.com/cannon-masters-shonen-jump-next-one-piece/",
       "pillar": "anime",
@@ -88,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "The Ribbon Hero Anime Film's 2nd Trailer Unveils More Cast, Theme Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-23/the-ribbon-hero-anime-film-2nd-trailer-unveils-more-cast-theme-song/.238837",
+      "title": "Fool Night Manga Gets TV Anime From Sunrise, Shaft on Netflix Worldwide This Year",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-23/fool-night-manga-gets-tv-anime-from-sunrise-shaft-on-netflix-worldwide-this-year/.238801",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Yuki Kodama's Ao no Hana Utsuwa no Mori Manga Gets Live-Action Series",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-23/yuki-kodama-ao-no-hana-utsuwa-no-mori-manga-gets-live-action-series/.238825",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "5 Anime Just As Visually Stunning As Witch Hat Atelier",
-      "url": "https://screenrant.com/best-looking-anime-watch-after-witch-hat-atelier/",
+      "title": "The Ribbon Hero Anime Film's 2nd Trailer Unveils More Cast, Theme Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-23/the-ribbon-hero-anime-film-2nd-trailer-unveils-more-cast-theme-song/.238837",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,22 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "Preview 5 Things That Surprised Me Playing Star Wars: Galactic Racer on PS5",
-      "url": "https://www.pushsquare.com/previews/5-things-that-surprised-me-playing-star-wars-galactic-racer-on-ps5",
+      "title": "News One of 2026's Most Fiendishly Addictive PS5 Games Is Getting Even Bigger and Better",
+      "url": "https://www.pushsquare.com/news/2026/06/one-of-2026s-most-fiendishly-addictive-ps5-games-is-getting-even-bigger-and-better",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Rhythm Heaven Groove Isn’t Even Out Yet, But I Already Hate The Smarmy Person Throwing Frisbees",
-      "url": "https://kotaku.com/rhythm-heaven-groove-demo-disc-dog-2000709512",
+      "title": "Star Wars: Galactic Racer Looks And Feels Awesome",
+      "url": "https://kotaku.com/star-wars-galactic-racer-looks-and-feels-awesome-2000709494",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News One of PS5's Most Promising Open World Games Is Finally Being Showcased in August",
-      "url": "https://www.pushsquare.com/news/2026/06/one-of-ps5s-most-promising-open-world-games-is-finally-being-showcased-in-august",
+      "title": "Preview Dragon Ball XenoVerse 3 Could Be the Bigger Budget Sequel the Series Needs",
+      "url": "https://www.pushsquare.com/previews/dragon-ball-xenoverse-3-could-be-the-bigger-budget-sequel-the-series-needs",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
