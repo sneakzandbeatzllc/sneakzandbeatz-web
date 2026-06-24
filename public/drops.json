@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T22:34:11+00:00",
+  "generated_utc": "2026-06-24T23:27:03+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "c01b0d6437ba",
+      "id": "d16ccc629ad1",
       "pillar": "gaming",
-      "title": "News Sony Restores GTA 6 Marketing and How It 'Plays Best on PS5'",
+      "title": "Guide Where to Pre-Order GTA 6 on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/sony-restores-gta-6-marketing-and-how-it-plays-best-on-ps5",
-      "thumbnail": "/drops/thumbs/c01b0d6437ba.jpg",
+      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
+      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "749cea70e9f6",
+      "id": "c01b0d6437ba",
       "pillar": "gaming",
-      "title": "News GTA 6 PS5 Pre-Orders Come with a Bonus, But You Must Be Very Careful",
+      "title": "News Sony Restores GTA 6 Marketing and How It 'Plays Best on PS5'",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-come-with-a-bonus-but-you-must-be-very-careful",
-      "thumbnail": "/drops/thumbs/749cea70e9f6.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/sony-restores-gta-6-marketing-and-how-it-plays-best-on-ps5",
+      "thumbnail": "/drops/thumbs/c01b0d6437ba.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "742fac42a9ed",
+      "id": "749cea70e9f6",
       "pillar": "gaming",
-      "title": "Pre-order GTA 6 pre-orders live: it's the quiet before the storm as we get prepared for today's carnage",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
-      "thumbnail": "/drops/thumbs/742fac42a9ed.jpg",
+      "title": "News GTA 6 PS5 Pre-Orders Come with a Bonus, But You Must Be Very Careful",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-come-with-a-bonus-but-you-must-be-very-careful",
+      "thumbnail": "/drops/thumbs/749cea70e9f6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "cd1c4a9f3289",
     "00a30e22f9da",
     "70ced94e4a3b",
-    "c01b0d6437ba"
+    "d16ccc629ad1"
   ]
 }
