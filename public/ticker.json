@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T07:19:35+00:00",
+  "generated_utc": "2026-06-24T07:50:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Free The Youth x Air Jordan 16 Releases July 2026",
+      "url": "https://www.sneakerfiles.com/free-the-youth-air-jordan-16/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 14 Low “Ostrich” Drops in October for the Black Pack",
       "url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "First Look at the Air Jordan 15 “Snakeskin” From the Black pack",
-      "url": "https://justfreshkicks.com/air-jordan-15-snakeskin-iz2585-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T07:19:35+00:00",
+  "generated_utc": "2026-06-24T07:50:22+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
+    },
+    {
+      "id": "cd1c4a9f3289",
+      "pillar": "sneakers",
+      "title": "Free The Youth x Air Jordan 16 Releases July 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/free-the-youth-air-jordan-16/",
+      "thumbnail": "/drops/thumbs/cd1c4a9f3289.jpg",
+      "published": "2026-06-24T00:25:54",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "70ced94e4a3b",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "thumbnail": "/drops/thumbs/e7bddf38dff7.webp",
       "published": "2026-06-23T17:55:24",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "727373063a77",
-      "pillar": "sneakers",
-      "title": "First Look at the Air Jordan 15 “Snakeskin” From the Black pack",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-15-snakeskin-iz2585-001/",
-      "thumbnail": "/drops/thumbs/727373063a77.webp",
-      "published": "2026-06-23T15:15:04",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "cdb12351ad98",
+    "cd1c4a9f3289",
     "70ced94e4a3b",
-    "ff07f49af52d",
     "00a30e22f9da",
-    "6f835bbe3ddc",
+    "ff07f49af52d",
     "13d5b112f3e9"
   ]
 }
