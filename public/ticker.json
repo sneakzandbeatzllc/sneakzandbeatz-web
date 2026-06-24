@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T03:19:53+00:00",
+  "generated_utc": "2026-06-24T04:20:38+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball's Next Anime Is Giving Goku A God-Tier New Form Straight Out Of Naruto",
+      "url": "https://screenrant.com/dragon-ball-super-galactic-patrol-ultra-instinct-naruto-susanoo/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "5 Masterpiece Action Anime Better Than Demon Slayer",
       "url": "https://screenrant.com/action-anime-better-demon-slayer/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Uchū Nanchara Kotetsu-kun: Space Academy Manga Gets Anime Film",
       "url": "https://www.animenewsnetwork.com/news/2026-06-23/uchu-nanchara-kotetsu-kun-space-academy-manga-gets-anime-film/.238860",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Final Fantasy’s Yoshitaka Amano is making an anime",
-      "url": "https://www.polygon.com/final-fantasys-yoshitaka-amano-has-an-anime-coming/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

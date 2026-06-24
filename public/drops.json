@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T03:19:53+00:00",
+  "generated_utc": "2026-06-24T04:20:38+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "00a30e22f9da",
+      "pillar": "anime",
+      "title": "Dragon Ball's Next Anime Is Giving Goku A God-Tier New Form Straight Out Of Naruto",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-galactic-patrol-ultra-instinct-naruto-susanoo/",
+      "thumbnail": "/drops/thumbs/00a30e22f9da.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5944be8cfbd8",
       "pillar": "anime",
       "title": "5 Masterpiece Action Anime Better Than Demon Slayer",
@@ -177,18 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-23/uchu-nanchara-kotetsu-kun-space-academy-manga-gets-anime-film/.238860",
       "thumbnail": "/drops/thumbs/36cc9e64dbce.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5379b5411028",
-      "pillar": "anime",
-      "title": "Final Fantasy’s Yoshitaka Amano is making an anime",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/final-fantasys-yoshitaka-amano-has-an-anime-coming/",
-      "thumbnail": "/drops/thumbs/5379b5411028.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "cdb12351ad98",
     "70ced94e4a3b",
     "ff07f49af52d",
-    "5944be8cfbd8",
+    "00a30e22f9da",
     "6f835bbe3ddc",
     "13d5b112f3e9"
   ]
