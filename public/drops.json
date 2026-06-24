@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T11:24:29+00:00",
+  "generated_utc": "2026-06-24T11:55:14+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "47ef3f592fb1",
+      "id": "382e346f6ab6",
       "pillar": "gaming",
-      "title": "News GTA 6 'Plays Best on PS5', All Console Features Revealed",
+      "title": "News GTA 6 Is a 'Single Player Experience', No Word on GTA Online at Launch",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-plays-best-on-ps5-all-console-features-revealed",
-      "thumbnail": "/drops/thumbs/47ef3f592fb1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-is-a-single-player-experience-no-word-on-gta-online-at-launch",
+      "thumbnail": "/drops/thumbs/382e346f6ab6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,6 +213,54 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-price/",
       "thumbnail": "/drops/thumbs/2f971f350d87.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6b59b0579948",
+      "pillar": "gaming",
+      "title": "Did Rockstar Just Confirm That GTA 6 Won’t Have GTA Online?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563190/article/did-rockstar-just-confirm-that-gta-6-wont-have-gta-online/",
+      "thumbnail": "/drops/thumbs/6b59b0579948.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a12fdd7324ac",
+      "pillar": "gaming",
+      "title": "‘Physical’ Copies Of GTA 6 Will Just Be A Code In A Box With No Disc At Launch",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/physical-copies-of-gta-6-will-just-be-a-code-in-a-box-with-no-disc-at-launch-2000709919",
+      "thumbnail": "/drops/thumbs/a12fdd7324ac.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "47ef3f592fb1",
+      "pillar": "gaming",
+      "title": "News GTA 6 'Plays Best on PS5', All Console Features Revealed",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-plays-best-on-ps5-all-console-features-revealed",
+      "thumbnail": "/drops/thumbs/47ef3f592fb1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c82da89522b1",
+      "pillar": "gaming",
+      "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
+      "thumbnail": "/drops/thumbs/c82da89522b1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -241,54 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "c82da89522b1",
-      "pillar": "gaming",
-      "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
-      "thumbnail": "/drops/thumbs/c82da89522b1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2b5c6e09a950",
-      "pillar": "gaming",
-      "title": "GTA 6 Is $ 80, With A $ 100 Special Edition",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563186/article/gta-6-is-80-with-a-100-special-edition/",
-      "thumbnail": "/drops/thumbs/2b5c6e09a950.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "38fdbb8c4610",
-      "pillar": "gaming",
-      "title": "News GTA 6 Physical Edition Doesn't Come with Discs, It's a Code in the Box",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-physical-edition-doesnt-come-with-discs-its-a-code-in-the-box",
-      "thumbnail": "/drops/thumbs/38fdbb8c4610.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "13d5b112f3e9",
-      "pillar": "gaming",
-      "title": "Retailers Have Been Caught Preparing For GTA 6 – Even In Datamining",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563178/article/retailers-have-been-caught-preparing-for-gta-6-even-in-datamining/",
-      "thumbnail": "/drops/thumbs/13d5b112f3e9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "535dbfc6cf56",
     "00a30e22f9da",
     "cd1c4a9f3289",
-    "47ef3f592fb1"
+    "382e346f6ab6"
   ]
 }
