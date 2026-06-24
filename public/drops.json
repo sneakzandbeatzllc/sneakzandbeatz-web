@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T09:21:34+00:00",
+  "generated_utc": "2026-06-24T09:52:53+00:00",
   "items": [
+    {
+      "id": "01215be0285b",
+      "pillar": "sneakers",
+      "title": "Quai 54 x Air Jordan 11 Low IE “Gunsmoke” Releases June 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/quai-54-air-jordan-11-low-ie-gunsmoke/",
+      "thumbnail": "/drops/thumbs/01215be0285b.jpg",
+      "published": "2026-06-24T02:22:58",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "cdb12351ad98",
       "pillar": "sneakers",
@@ -63,37 +75,25 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "6f835bbe3ddc",
+      "id": "f819ee9b9d42",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 OG “True Blue” Returns July 2026",
+      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-true-blue-2026/",
-      "thumbnail": "/drops/thumbs/6f835bbe3ddc.jpg",
-      "published": "2026-06-10T12:36:33",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "1e12b67073f9",
-      "pillar": "sneakers",
-      "title": "Comme des Garcons Homme Plus x Air Jordan 11 Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
-      "thumbnail": "/drops/thumbs/1e12b67073f9.jpg",
-      "published": "2026-06-24T00:59:45",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
+      "thumbnail": "/drops/thumbs/f819ee9b9d42.jpg",
+      "published": "2026-06-24T02:41:03",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
     },
     {
-      "id": "545d3b650dbf",
+      "id": "f6b0e8e12d6b",
       "pillar": "sneakers",
-      "title": "Air Jordan 8 “Chrome” Returns September 2026",
+      "title": "Air Jordan 14 Low “Black Ostrich” Releases October 2026",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-8-chrome-2026/",
-      "thumbnail": "/drops/thumbs/545d3b650dbf.jpg",
-      "published": "2026-06-24T00:09:02",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-14-low-black-ostrich/",
+      "thumbnail": "/drops/thumbs/f6b0e8e12d6b.jpg",
+      "published": "2026-06-24T02:31:05",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "01215be0285b",
     "cdb12351ad98",
     "535dbfc6cf56",
-    "cd1c4a9f3289",
     "00a30e22f9da",
-    "70ced94e4a3b",
+    "cd1c4a9f3289",
     "cdf9fda6419d"
   ]
 }
