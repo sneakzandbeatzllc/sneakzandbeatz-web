@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T18:30:23+00:00",
+  "generated_utc": "2026-06-24T19:01:14+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "749cea70e9f6",
+      "id": "22fabe0ad87e",
       "pillar": "gaming",
-      "title": "News GTA 6 PS5 Pre-Orders Come with a Bonus, But You Must Be Very Careful",
+      "title": "News Sony Scrubs Most Mentions of GTA 6 'Playing Best' on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-come-with-a-bonus-but-you-must-be-very-careful",
-      "thumbnail": "/drops/thumbs/749cea70e9f6.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/sony-scrubs-most-mentions-of-gta-6-playing-best-on-ps5",
+      "thumbnail": "/drops/thumbs/22fabe0ad87e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "353fc7187e54",
+      "id": "749cea70e9f6",
       "pillar": "gaming",
-      "title": "News Physical Retailers Refuse to Sell GTA 6 Over Decision to Skip Discs",
+      "title": "News GTA 6 PS5 Pre-Orders Come with a Bonus, But You Must Be Very Careful",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/physical-retailers-refuse-to-sell-gta-6-over-decision-to-skip-discs",
-      "thumbnail": "/drops/thumbs/353fc7187e54.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-pre-orders-come-with-a-bonus-but-you-must-be-very-careful",
+      "thumbnail": "/drops/thumbs/749cea70e9f6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "daaa738373b3",
+      "id": "353fc7187e54",
       "pillar": "gaming",
-      "title": "News You Can Upgrade to GTA 6's Ultimate Edition Whenever You Like",
+      "title": "News Physical Retailers Refuse to Sell GTA 6 Over Decision to Skip Discs",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/you-can-upgrade-to-gta-6s-ultimate-edition-whenever-you-like",
-      "thumbnail": "/drops/thumbs/daaa738373b3.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/physical-retailers-refuse-to-sell-gta-6-over-decision-to-skip-discs",
+      "thumbnail": "/drops/thumbs/353fc7187e54.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "cd1c4a9f3289",
     "00a30e22f9da",
     "70ced94e4a3b",
-    "749cea70e9f6"
+    "22fabe0ad87e"
   ]
 }
