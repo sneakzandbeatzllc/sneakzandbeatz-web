@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T04:20:38+00:00",
+  "generated_utc": "2026-06-24T05:16:19+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "News SEGA Shares Lifetime Sales Update for Persona, Metaphor, and Like a Dragon",
+      "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Sorry Kingdom Hearts nerds, Final Fantasy 7 Rebirth lead says sea salt ice cream \"isn't a homage\"",
       "url": "https://www.gamesradar.com/games/final-fantasy/sorry-kingdom-hearts-nerds-final-fantasy-7-rebirth-director-naoki-hamaguchi-says-sea-salt-ice-cream-isnt-a-homage/",
       "pillar": "gaming",
@@ -153,13 +160,6 @@
     {
       "title": "XBOX CEO Asha Sharma Claims Call of Duty Is Now Bigger Than The Marvel Cinematic Universe",
       "url": "https://gameranx.com/updates/id/563170/article/xbox-ceo-asha-sharma-claims-call-of-duty-is-now-bigger-than-the-marvel-cinematic-universe/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News 'It May Seem Like We're Only Doing It for Attention': Stranger Than Heaven Dev Discusses Celebrity Castings, Including Tupac",
-      "url": "https://www.pushsquare.com/news/2026/06/it-may-seem-like-were-only-doing-it-for-attention-stranger-than-heaven-dev-discusses-celebrity-castings-including-tupac",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
