@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T09:52:53+00:00",
+  "generated_utc": "2026-06-24T10:17:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,22 +39,22 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 7 “Miro” Returns July 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-7-miro-2026/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
+      "title": "Air Jordan 13 “Flint” Returns August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-13-flint-2026/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 14 Low “Black Ostrich” Releases October 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-14-low-black-ostrich/",
+      "title": "Mowalola x Air Jordan 14 Mule Releases September 2026",
+      "url": "https://www.sneakerfiles.com/mowalola-air-jordan-14-mule/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Mika Pikazo's Re:bel Robotica Project Gets Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-23/mika-pikazo-re-bel-robotica-project-gets-anime/.238858",
+      "title": "Iron Wok Jan! Anime's 'Alternate' Promo Video Reveals New Cast Member, Ending Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-24/iron-wok-jan-anime-alternate-promo-video-reveals-new-cast-member-ending-song/.238884",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Uchū Nanchara Kotetsu-kun: Space Academy Manga Gets Anime Film",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-23/uchu-nanchara-kotetsu-kun-space-academy-manga-gets-anime-film/.238860",
+      "title": "Mika Pikazo's Re:bel Robotica Project Gets Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-23/mika-pikazo-re-bel-robotica-project-gets-anime/.238858",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,20 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Is This Venezuelan DJ Model Really GTA 6’s Newest Cover Girl?",
-      "url": "https://gameranx.com/updates/id/563162/article/is-this-venezuelan-dj-model-really-gta-6s-newest-cover-girl/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News SEGA Shares Lifetime Sales Update for Persona, Metaphor, and Like a Dragon",
-      "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Hideo Kojima Credits Previous Xbox Head Phil Spencer For Believing In OD When Other Publishers Didn’t",
       "url": "https://gameranx.com/updates/id/563176/article/hideo-kojima-credits-previous-xbox-head-phil-spencer-for-believing-in-od-when-other-publishers-didnt/",
       "pillar": "gaming",
@@ -167,6 +153,20 @@
     {
       "title": "XBOX CEO Asha Sharma Claims Call of Duty Is Now Bigger Than The Marvel Cinematic Universe",
       "url": "https://gameranx.com/updates/id/563170/article/xbox-ceo-asha-sharma-claims-call-of-duty-is-now-bigger-than-the-marvel-cinematic-universe/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "A24 Fans Mourn Its Death After The Backrooms Studio Signs $75 Million Google AI Deal: ‘Membership Cancelled’",
+      "url": "https://kotaku.com/a24-ai-backrooms-google-deepmind-deal-2000709598",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Toy Story Producer Reacts To Possibility Of Disney Doing A Live-Action Remake: ‘Please God, No!’",
+      "url": "https://kotaku.com/toy-story-producer-reacts-to-possibility-of-disney-doing-a-live-action-remake-please-god-no-2000709667",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
