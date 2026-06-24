@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T22:03:26+00:00",
+  "generated_utc": "2026-06-24T22:29:35+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -51,6 +51,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "3b557c6e398e",
+      "pillar": "sneakers",
+      "title": "First Look at Mowalola’s Non-Mule Air Jordan 14 in “Burnt Red”",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/mowalola-air-jordan-14-iq5708-001/",
+      "thumbnail": "/drops/thumbs/3b557c6e398e.webp",
+      "published": "2026-06-24T18:28:55",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "dcf5851da4f4",
       "pillar": "sneakers",
       "title": "Mowalola x Air Jordan 14 Releases September 2026",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
       "thumbnail": "/drops/thumbs/f819ee9b9d42.jpg",
       "published": "2026-06-24T02:41:03",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f6b0e8e12d6b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 14 Low “Black Ostrich” Releases October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-14-low-black-ostrich/",
-      "thumbnail": "/drops/thumbs/f6b0e8e12d6b.jpg",
-      "published": "2026-06-24T02:31:05",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "d45d81a0a0b8",
+      "id": "a30dfe12d275",
       "pillar": "anime",
-      "title": "Hiro Fujiwara's Maid-sama! Manga Gets Special Chapter",
+      "title": "Mikase Hayashi's Soredemo Otōto wa Koishitagaru Manga Gets Special Epilogue Chapter",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-24/hiro-fujiwara-maid-sama-manga-gets-special-chapter/.238856",
-      "thumbnail": "/drops/thumbs/d45d81a0a0b8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-24/mikase-hayashi-soredemo-ototo-wa-koishitagaru-manga-gets-special-epilogue-chapter/.238881",
+      "thumbnail": "/drops/thumbs/a30dfe12d275.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "9d4d5a76c418",
+      "id": "d45d81a0a0b8",
       "pillar": "anime",
-      "title": "My Stepmother and Stepsisters Aren't Wicked Anime Reveals 2 More Cast Members",
+      "title": "Hiro Fujiwara's Maid-sama! Manga Gets Special Chapter",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-24/my-stepmother-and-stepsisters-arent-wicked-anime-reveals-2-more-cast-members/.238894",
-      "thumbnail": "/drops/thumbs/9d4d5a76c418.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-24/hiro-fujiwara-maid-sama-manga-gets-special-chapter/.238856",
+      "thumbnail": "/drops/thumbs/d45d81a0a0b8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
