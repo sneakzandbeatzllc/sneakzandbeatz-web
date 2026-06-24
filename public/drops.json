@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T05:16:19+00:00",
+  "generated_utc": "2026-06-24T07:19:35+00:00",
   "items": [
     {
       "id": "cdb12351ad98",
@@ -51,6 +51,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "545d3b650dbf",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 “Chrome” Returns September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-8-chrome-2026/",
+      "thumbnail": "/drops/thumbs/545d3b650dbf.jpg",
+      "published": "2026-06-24T00:09:02",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "849348a5c1c0",
       "pillar": "sneakers",
       "title": "First Look at Mowalola’s Air Jordan 14 Mule",
@@ -70,18 +82,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-low-black-pack-iz3884-001/",
       "thumbnail": "/drops/thumbs/e7bddf38dff7.webp",
       "published": "2026-06-23T17:55:24",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "718a0dc79f1a",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Chrome” Returns September 12th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "thumbnail": "/drops/thumbs/718a0dc79f1a.webp",
-      "published": "2026-06-23T16:57:17",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
