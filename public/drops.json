@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-24T17:59:33+00:00",
+  "generated_utc": "2026-06-24T18:23:55+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -13,18 +13,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "cdb12351ad98",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 5 “Black/University Blue” Releases Tomorrow",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-5-black-university-blue-dd0587-008/",
-      "thumbnail": "/drops/thumbs/cdb12351ad98.jpg",
-      "published": "2026-06-19T01:14:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
     },
     {
       "id": "535dbfc6cf56",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
       "thumbnail": "/drops/thumbs/f819ee9b9d42.jpg",
       "published": "2026-06-24T02:41:03",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f6b0e8e12d6b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 14 Low “Black Ostrich” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-14-low-black-ostrich/",
+      "thumbnail": "/drops/thumbs/f6b0e8e12d6b.jpg",
+      "published": "2026-06-24T02:31:05",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "7d2426d0abf6",
+      "id": "daaa738373b3",
       "pillar": "gaming",
-      "title": "The Internet Reacts To Grand Theft Auto 6’s Price And Missing Physical Disc",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/grand-theft-auto-6-gta6-price-physical-disc-ultimate-2000709959",
-      "thumbnail": "/drops/thumbs/7d2426d0abf6.jpg",
+      "title": "News You Can Upgrade to GTA 6's Ultimate Edition Whenever You Like",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/you-can-upgrade-to-gta-6s-ultimate-edition-whenever-you-like",
+      "thumbnail": "/drops/thumbs/daaa738373b3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "01215be0285b",
-    "cdb12351ad98",
     "535dbfc6cf56",
-    "00a30e22f9da",
     "cd1c4a9f3289",
+    "00a30e22f9da",
+    "70ced94e4a3b",
     "749cea70e9f6"
   ]
 }
