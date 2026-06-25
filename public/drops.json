@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T05:31:10+00:00",
+  "generated_utc": "2026-06-25T06:32:01+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "c5520e768e70",
+      "id": "2ec73306f4a7",
       "pillar": "anime",
-      "title": "Mebius Dust Anime Announces 6 Cast Members of LAMPs Team",
+      "title": "I am the only one who is not attacked in the world filled with zombies Anime's Teaser Unveils Cast & Staff, January Delay",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-24/mebius-dust-anime-announces-6-cast-members-of-lamps-team/.238915",
-      "thumbnail": "/drops/thumbs/c5520e768e70.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-anime-teaser-unveils-cast-/.238918",
+      "thumbnail": "/drops/thumbs/2ec73306f4a7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "43805487687b",
+      "id": "c5520e768e70",
       "pillar": "anime",
-      "title": "Cyborg 009: Nemesis Anime's Main Trailer Unveils Sukima Switch's Ending Theme Song",
+      "title": "Mebius Dust Anime Announces 6 Cast Members of LAMPs Team",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-24/cyborg-009-nemesis-anime-main-trailer-unveils-sukima-switch-ending-theme-song/.238875",
-      "thumbnail": "/drops/thumbs/43805487687b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-24/mebius-dust-anime-announces-6-cast-members-of-lamps-team/.238915",
+      "thumbnail": "/drops/thumbs/c5520e768e70.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "14567959d1b9",
+      "id": "d16ccc629ad1",
       "pillar": "gaming",
-      "title": "News PS5 Adds Custom GTA 6 Start-Up Screen, Sony Rebrands PS App as Pre-Orders Go Live",
+      "title": "Guide Where to Pre-Order GTA 6 on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-adds-custom-gta-6-start-up-screen-sony-rebrands-ps-app-as-pre-orders-go-live",
-      "thumbnail": "/drops/thumbs/14567959d1b9.jpg",
+      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
+      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "d16ccc629ad1",
+      "id": "14567959d1b9",
       "pillar": "gaming",
-      "title": "Guide Where to Pre-Order GTA 6 on PS5",
+      "title": "News PS5 Adds Custom GTA 6 Start-Up Screen, Sony Rebrands PS App as Pre-Orders Go Live",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
-      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-adds-custom-gta-6-start-up-screen-sony-rebrands-ps-app-as-pre-orders-go-live",
+      "thumbnail": "/drops/thumbs/14567959d1b9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "cd1c4a9f3289",
     "8828b99b0476",
     "70ced94e4a3b",
-    "14567959d1b9"
+    "d16ccc629ad1"
   ]
 }
