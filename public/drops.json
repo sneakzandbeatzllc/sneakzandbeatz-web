@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T10:39:42+00:00",
+  "generated_utc": "2026-06-25T11:35:42+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -147,12 +147,36 @@
       "release_badge": ""
     },
     {
-      "id": "e59f5c75034a",
+      "id": "62dec5ecb5e3",
       "pillar": "anime",
-      "title": "Makoto Morishita's The Fledgling Demon Lord's Starter Shop Manga Gets TV Anime in January 2027",
+      "title": "Are You a Landmine, Chihara-san? Anime Unveils More Cast & Staff, January Delay, Music Project",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/makoto-morishita-the-fledgling-demon-lord-starter-shop-manga-gets-tv-anime-in-january-2027/.238934",
-      "thumbnail": "/drops/thumbs/e59f5c75034a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/are-you-a-landmine-chihara-san-anime-unveils-more-cast-and-staff-january-delay-music-project/.238939",
+      "thumbnail": "/drops/thumbs/62dec5ecb5e3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "be7b5f2085a2",
+      "pillar": "anime",
+      "title": "Japanese government's bid to fight anime piracy will endorse AI translations",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/japanese-government-anime-piracy-ai-translations/",
+      "thumbnail": "/drops/thumbs/be7b5f2085a2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7b807584ef11",
+      "pillar": "anime",
+      "title": "Writer Juntarō Aoki, artist Shin Moriyama's Nabe ni Dangan wo Ukenagara Gets TV Anime in 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/writer-juntaro-aoki-artist-shin-moriyama-nabe-ni-dangan-wo-ukenagara-gets-tv-anime-in-2027/.238937",
+      "thumbnail": "/drops/thumbs/7b807584ef11.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "3d771943180f",
-      "pillar": "anime",
-      "title": "Gacha Girls Corps Light Novel Series Gets TV Anime in January 2027",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/gacha-girls-corps-light-novel-series-gets-tv-anime-in-january-2027/.238935",
-      "thumbnail": "/drops/thumbs/3d771943180f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "15b7f6ffdd5b",
-      "pillar": "anime",
-      "title": "Cyberpunk: Edgerunners 2 gets new tease ahead of bigger reveal next week",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/cyberpunk-edgerunners-2-tease-reveal-next-week/",
-      "thumbnail": "/drops/thumbs/15b7f6ffdd5b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "71012b27273d",
+      "id": "dc184c849752",
       "pillar": "gaming",
-      "title": "News UK GTA 6 Buyers Pleasantly Surprised by No PS5 Pre-Order Price Hike",
+      "title": "Rumour GTA 6 Will Get a Disc-Based Physical Release After Its Initial Launch",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/uk-gta-6-buyers-pleasantly-surprised-by-no-ps5-pre-order-price-hike",
-      "thumbnail": "/drops/thumbs/71012b27273d.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/rumour-gta-6-will-get-a-disc-based-physical-release-after-its-initial-launch",
+      "thumbnail": "/drops/thumbs/dc184c849752.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "d16ccc629ad1",
+      "id": "71012b27273d",
       "pillar": "gaming",
-      "title": "Guide Where to Pre-Order GTA 6 on PS5",
+      "title": "News UK GTA 6 Buyers Pleasantly Surprised by No PS5 Pre-Order Price Hike",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
-      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/uk-gta-6-buyers-pleasantly-surprised-by-no-ps5-pre-order-price-hike",
+      "thumbnail": "/drops/thumbs/71012b27273d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "14567959d1b9",
+      "id": "d16ccc629ad1",
       "pillar": "gaming",
-      "title": "News PS5 Adds Custom GTA 6 Start-Up Screen, Sony Rebrands PS App as Pre-Orders Go Live",
+      "title": "Guide Where to Pre-Order GTA 6 on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-adds-custom-gta-6-start-up-screen-sony-rebrands-ps-app-as-pre-orders-go-live",
-      "thumbnail": "/drops/thumbs/14567959d1b9.jpg",
+      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
+      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "8828b99b0476",
     "3b557c6e398e",
-    "71012b27273d"
+    "dc184c849752"
   ]
 }
