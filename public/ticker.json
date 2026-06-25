@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T19:06:12+00:00",
+  "generated_utc": "2026-06-25T19:36:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Kindergarten Wars Anime Casts Mirei Kumagai",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-25/kindergarten-wars-anime-casts-mirei-kumagai/.238949",
+      "title": "DC Studios, Warner Bros. Animation Announce Joker: Laugh Riot Anime With Sola Entertainment",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-25/dc-studios-warner-bros-animation-announce-joker-laugh-riot-anime-with-sola-entertainment/.238951",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "'Gokigenyō, Ikkyoku Ikaga?' Mahjong Manga Gets TV Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-25/gokigenyo-ikkyoku-ikaga-mahjong-manga-gets-tv-anime/.238943",
+      "title": "Kindergarten Wars Anime Casts Mirei Kumagai",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-25/kindergarten-wars-anime-casts-mirei-kumagai/.238949",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -125,6 +125,13 @@
     {
       "title": "PlayStation Has Locked In Marketing For GTA 6 – But They Had To Make One Correction",
       "url": "https://gameranx.com/updates/id/563208/article/playstation-has-locked-in-marketing-for-gta-6-but-they-had-to-make-one-correction/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Fans Debate If GTA 6 Is Actually A $100 Game As Anger Grows Around The Ultimate Edition Locking Content Away",
+      "url": "https://kotaku.com/fans-debate-if-gta-6-is-actually-a-100-game-as-anger-grows-around-the-ultimate-edition-locking-content-away-2000710588",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "PlayStation Says GTA 6 “Plays Best” On PS5 – But Only Mentions Immersion, Not Performance",
       "url": "https://gameranx.com/updates/id/563192/article/playstation-says-gta-6-plays-best-on-ps5-but-only-mentions-immersion-not-performance/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Did Rockstar Just Confirm That GTA 6 Won’t Have GTA Online?",
-      "url": "https://gameranx.com/updates/id/563190/article/did-rockstar-just-confirm-that-gta-6-wont-have-gta-online/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
