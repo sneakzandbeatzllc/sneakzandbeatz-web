@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T16:46:21+00:00",
+  "generated_utc": "2026-06-25T17:40:21+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "7f568f122308",
-      "pillar": "gaming",
-      "title": "Grand Theft Auto 6’s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/grand-theft-auto-6-gta6-pre-orders-physical-disc-scalper-2000710491",
-      "thumbnail": "/drops/thumbs/7f568f122308.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "dc184c849752",
       "pillar": "gaming",
       "title": "Rumour GTA 6 Will Get a Disc-Based Physical Release After Its Initial Launch",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "71012b27273d",
+      "id": "c82da89522b1",
       "pillar": "gaming",
-      "title": "News UK GTA 6 Buyers Pleasantly Surprised by No PS5 Pre-Order Price Hike",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/uk-gta-6-buyers-pleasantly-surprised-by-no-ps5-pre-order-price-hike",
-      "thumbnail": "/drops/thumbs/71012b27273d.jpg",
+      "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
+      "thumbnail": "/drops/thumbs/c82da89522b1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dc1c36164125",
+      "pillar": "gaming",
+      "title": "Multiple Retailers Won’t Sell GTA 6 Over Only Selling A Code-In-A-Box At Retail",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563195/article/multiple-retailers-wont-sell-gta-6-over-only-selling-a-code-in-a-box-at-retail/",
+      "thumbnail": "/drops/thumbs/dc1c36164125.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
