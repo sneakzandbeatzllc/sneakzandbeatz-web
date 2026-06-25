@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T22:08:56+00:00",
+  "generated_utc": "2026-06-25T22:39:02+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "a71da97d0d37",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
+      "thumbnail": "/drops/thumbs/a71da97d0d37.jpg",
+      "published": "2026-06-25T15:28:28",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "3b557c6e398e",
@@ -87,36 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "f819ee9b9d42",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
-      "thumbnail": "/drops/thumbs/f819ee9b9d42.jpg",
-      "published": "2026-06-24T02:41:03",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8828b99b0476",
-      "pillar": "anime",
-      "title": "Dragon Ball's Next Anime Will Unlock The Ultimate Reverse Spirit Bomb",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-next-anime-reverse-spirit-bomb-fission-vegeta/",
-      "thumbnail": "/drops/thumbs/8828b99b0476.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "91f66c47beea",
       "pillar": "anime",
       "title": "The Wait Is Over, Demon Slayer: Infinity Castle Lands Streaming Release Date",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/demon-slayer-infinity-castle-streaming-release-date/",
       "thumbnail": "/drops/thumbs/91f66c47beea.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1acdaa13db15",
+      "pillar": "anime",
+      "title": "Netflix Confirms Next One Piece Spin-Off Is Coming In 2 Weeks",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/netflix-one-piece-heroines-streaming-release-date/",
+      "thumbnail": "/drops/thumbs/1acdaa13db15.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "0f658131eec8",
-      "pillar": "gaming",
-      "title": "Fans Debate If GTA 6 Is Actually A $100 Game As Anger Grows Around The Ultimate Edition Locking Content Away",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/fans-debate-if-gta-6-is-actually-a-100-game-as-anger-grows-around-the-ultimate-edition-locking-content-away-2000710588",
-      "thumbnail": "/drops/thumbs/0f658131eec8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c82da89522b1",
       "pillar": "gaming",
       "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
@@ -289,14 +277,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "8f2d94aceecd",
+      "pillar": "gaming",
+      "title": "PlayStation Says GTA 6 “Plays Best” On PS5 – But Only Mentions Immersion, Not Performance",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563192/article/playstation-says-gta-6-plays-best-on-ps5-but-only-mentions-immersion-not-performance/",
+      "thumbnail": "/drops/thumbs/8f2d94aceecd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "8828b99b0476",
-    "3b557c6e398e",
+    "91f66c47beea",
+    "a71da97d0d37",
     "2b0f4bb7e3ab"
   ]
 }

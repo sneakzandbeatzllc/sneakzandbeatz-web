@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T22:08:56+00:00",
+  "generated_utc": "2026-06-25T22:39:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -53,22 +60,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dragon Ball's Next Anime Will Unlock The Ultimate Reverse Spirit Bomb",
-      "url": "https://screenrant.com/dragon-ball-super-next-anime-reverse-spirit-bomb-fission-vegeta/",
+      "title": "The Wait Is Over, Demon Slayer: Infinity Castle Lands Streaming Release Date",
+      "url": "https://screenrant.com/demon-slayer-infinity-castle-streaming-release-date/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "The Wait Is Over, Demon Slayer: Infinity Castle Lands Streaming Release Date",
-      "url": "https://screenrant.com/demon-slayer-infinity-castle-streaming-release-date/",
+      "title": "Netflix Confirms Next One Piece Spin-Off Is Coming In 2 Weeks",
+      "url": "https://screenrant.com/netflix-one-piece-heroines-streaming-release-date/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Fans Debate If GTA 6 Is Actually A $100 Game As Anger Grows Around The Ultimate Edition Locking Content Away",
-      "url": "https://kotaku.com/fans-debate-if-gta-6-is-actually-a-100-game-as-anger-grows-around-the-ultimate-edition-locking-content-away-2000710588",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
       "url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Multiple Retailers Won’t Sell GTA 6 Over Only Selling A Code-In-A-Box At Retail",
       "url": "https://gameranx.com/updates/id/563195/article/multiple-retailers-wont-sell-gta-6-over-only-selling-a-code-in-a-box-at-retail/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "PlayStation Says GTA 6 “Plays Best” On PS5 – But Only Mentions Immersion, Not Performance",
+      "url": "https://gameranx.com/updates/id/563192/article/playstation-says-gta-6-plays-best-on-ps5-but-only-mentions-immersion-not-performance/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
