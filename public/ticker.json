@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T21:07:53+00:00",
+  "generated_utc": "2026-06-25T22:08:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Naruto's 2027 Return With New Anime Is Officially The Start Of An Era",
+      "url": "https://screenrant.com/naruto-2027-new-anime-start-era/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Inside Set Sail: Netflix Production Reveals How One Piece Beat The Live-Action Adaptation Curse",
       "url": "https://screenrant.com/viz-set-sail-book-behind-the-scenes-of-netflix-live-action-one-piece-adaptation/",
       "pillar": "anime",
@@ -83,13 +90,6 @@
     {
       "title": "Dr. Stone Ending Explained: What Happens To Senku In The Finale?",
       "url": "https://screenrant.com/dr-stone-ending-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "It's Official, One Piece Is Now Less Than 1 Year Away From Its Absolute Peak",
-      "url": "https://screenrant.com/netflix-one-piece-remake-february-peak/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
