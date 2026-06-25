@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T18:35:41+00:00",
+  "generated_utc": "2026-06-25T19:06:12+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "756d00aa441c",
-      "pillar": "gaming",
-      "title": "News Red Dead Redemption 2's PS5 Port May Have Been Delayed While Rockstar Focuses on GTA 6",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/red-dead-redemption-2s-ps5-port-may-have-been-delayed-while-rockstar-focuses-on-gta-6",
-      "thumbnail": "/drops/thumbs/756d00aa441c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2b0f4bb7e3ab",
       "pillar": "gaming",
       "title": "Multiple retailers drop GTA 6 after physical version is confirmed to be a code in a box 7 Comments",
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "6b59b0579948",
+      "pillar": "gaming",
+      "title": "Did Rockstar Just Confirm That GTA 6 Won’t Have GTA Online?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563190/article/did-rockstar-just-confirm-that-gta-6-wont-have-gta-online/",
+      "thumbnail": "/drops/thumbs/6b59b0579948.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "8828b99b0476",
     "3b557c6e398e",
-    "756d00aa441c"
+    "2b0f4bb7e3ab"
   ]
 }
