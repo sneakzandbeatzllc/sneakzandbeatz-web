@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T17:44:30+00:00",
+  "generated_utc": "2026-06-25T18:05:22+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "a64825394a30",
+      "id": "d18c9dc991d6",
       "pillar": "anime",
-      "title": "'Gokigenyō, Ikkyoku Ikaga?' Mahjong Manga Gets TV Anime",
+      "title": "Kindergarten Wars Anime Casts Mirei Kumagai",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/gokigenyo-ikkyoku-ikaga-mahjong-manga-gets-tv-anime/.238943",
-      "thumbnail": "/drops/thumbs/a64825394a30.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/kindergarten-wars-anime-casts-mirei-kumagai/.238949",
+      "thumbnail": "/drops/thumbs/d18c9dc991d6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "b529898bcdd8",
+      "id": "a64825394a30",
       "pillar": "anime",
-      "title": "Masa Ichikawa to Launch New Joker Manga Based on DC Comics Character in Morning Magazine",
+      "title": "'Gokigenyō, Ikkyoku Ikaga?' Mahjong Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/masa-ichikawa-to-launch-new-joker-manga-based-on-dc-comics-character-in-morning-magazine/.238830",
-      "thumbnail": "/drops/thumbs/b529898bcdd8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/gokigenyo-ikkyoku-ikaga-mahjong-manga-gets-tv-anime/.238943",
+      "thumbnail": "/drops/thumbs/a64825394a30.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,18 +225,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563208/article/playstation-has-locked-in-marketing-for-gta-6-but-they-had-to-make-one-correction/",
       "thumbnail": "/drops/thumbs/635825f03d99.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "dc184c849752",
-      "pillar": "gaming",
-      "title": "Rumour GTA 6 Will Get a Disc-Based Physical Release After Its Initial Launch",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/rumour-gta-6-will-get-a-disc-based-physical-release-after-its-initial-launch",
-      "thumbnail": "/drops/thumbs/dc184c849752.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563195/article/multiple-retailers-wont-sell-gta-6-over-only-selling-a-code-in-a-box-at-retail/",
       "thumbnail": "/drops/thumbs/dc1c36164125.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8f2d94aceecd",
+      "pillar": "gaming",
+      "title": "PlayStation Says GTA 6 “Plays Best” On PS5 – But Only Mentions Immersion, Not Performance",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563192/article/playstation-says-gta-6-plays-best-on-ps5-but-only-mentions-immersion-not-performance/",
+      "thumbnail": "/drops/thumbs/8f2d94aceecd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

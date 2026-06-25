@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T17:44:30+00:00",
+  "generated_utc": "2026-06-25T18:05:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "'Gokigenyō, Ikkyoku Ikaga?' Mahjong Manga Gets TV Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-25/gokigenyo-ikkyoku-ikaga-mahjong-manga-gets-tv-anime/.238943",
+      "title": "Kindergarten Wars Anime Casts Mirei Kumagai",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-25/kindergarten-wars-anime-casts-mirei-kumagai/.238949",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Masa Ichikawa to Launch New Joker Manga Based on DC Comics Character in Morning Magazine",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-25/masa-ichikawa-to-launch-new-joker-manga-based-on-dc-comics-character-in-morning-magazine/.238830",
+      "title": "'Gokigenyō, Ikkyoku Ikaga?' Mahjong Manga Gets TV Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-25/gokigenyo-ikkyoku-ikaga-mahjong-manga-gets-tv-anime/.238943",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +132,6 @@
     {
       "title": "PlayStation Has Locked In Marketing For GTA 6 – But They Had To Make One Correction",
       "url": "https://gameranx.com/updates/id/563208/article/playstation-has-locked-in-marketing-for-gta-6-but-they-had-to-make-one-correction/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rumour GTA 6 Will Get a Disc-Based Physical Release After Its Initial Launch",
-      "url": "https://www.pushsquare.com/news/2026/06/rumour-gta-6-will-get-a-disc-based-physical-release-after-its-initial-launch",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Multiple Retailers Won’t Sell GTA 6 Over Only Selling A Code-In-A-Box At Retail",
       "url": "https://gameranx.com/updates/id/563195/article/multiple-retailers-wont-sell-gta-6-over-only-selling-a-code-in-a-box-at-retail/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "PlayStation Says GTA 6 “Plays Best” On PS5 – But Only Mentions Immersion, Not Performance",
+      "url": "https://gameranx.com/updates/id/563192/article/playstation-says-gta-6-plays-best-on-ps5-but-only-mentions-immersion-not-performance/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
