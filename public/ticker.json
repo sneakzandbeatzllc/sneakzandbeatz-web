@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T22:39:02+00:00",
+  "generated_utc": "2026-06-25T23:09:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,8 @@
       "article_slug": null
     },
     {
-      "title": "The Wait Is Over, Demon Slayer: Infinity Castle Lands Streaming Release Date",
-      "url": "https://screenrant.com/demon-slayer-infinity-castle-streaming-release-date/",
+      "title": "My Hero Academia: 30 Most Powerful Quirks",
+      "url": "https://screenrant.com/my-hero-academia-powerful-quirks-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "10 New Details We Learned From GTA 6′ s Big Info Dump",
-      "url": "https://kotaku.com/10-new-details-we-learned-from-gta-6s-big-info-dump-2000710519",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Pre-order GTA 6 pre-orders live updates – Amazon restocks as more retailers put pre-orders for Grand Theft Auto 6 online",
       "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "PlayStation Says GTA 6 “Plays Best” On PS5 – But Only Mentions Immersion, Not Performance",
       "url": "https://gameranx.com/updates/id/563192/article/playstation-says-gta-6-plays-best-on-ps5-but-only-mentions-immersion-not-performance/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Did Rockstar Just Confirm That GTA 6 Won’t Have GTA Online?",
+      "url": "https://gameranx.com/updates/id/563190/article/did-rockstar-just-confirm-that-gta-6-wont-have-gta-online/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

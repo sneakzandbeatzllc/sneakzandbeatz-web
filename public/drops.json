@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T22:39:02+00:00",
+  "generated_utc": "2026-06-25T23:09:00+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -99,12 +99,12 @@
       "release_badge": ""
     },
     {
-      "id": "91f66c47beea",
+      "id": "4127328382ac",
       "pillar": "anime",
-      "title": "The Wait Is Over, Demon Slayer: Infinity Castle Lands Streaming Release Date",
+      "title": "My Hero Academia: 30 Most Powerful Quirks",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-streaming-release-date/",
-      "thumbnail": "/drops/thumbs/91f66c47beea.jpg",
+      "source_url": "https://screenrant.com/my-hero-academia-powerful-quirks-ranked/",
+      "thumbnail": "/drops/thumbs/4127328382ac.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,18 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "745ecfdb730b",
-      "pillar": "gaming",
-      "title": "10 New Details We Learned From GTA 6′ s Big Info Dump",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/10-new-details-we-learned-from-gta-6s-big-info-dump-2000710519",
-      "thumbnail": "/drops/thumbs/745ecfdb730b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "742fac42a9ed",
       "pillar": "gaming",
       "title": "Pre-order GTA 6 pre-orders live updates – Amazon restocks as more retailers put pre-orders for Grand Theft Auto 6 online",
@@ -289,13 +277,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "6b59b0579948",
+      "pillar": "gaming",
+      "title": "Did Rockstar Just Confirm That GTA 6 Won’t Have GTA Online?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563190/article/did-rockstar-just-confirm-that-gta-6-wont-have-gta-online/",
+      "thumbnail": "/drops/thumbs/6b59b0579948.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "91f66c47beea",
+    "4127328382ac",
     "a71da97d0d37",
     "2b0f4bb7e3ab"
   ]
