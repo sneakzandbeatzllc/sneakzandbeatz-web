@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T08:10:37+00:00",
+  "generated_utc": "2026-06-25T08:33:29+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "d16ccc629ad1",
+      "id": "71012b27273d",
       "pillar": "gaming",
-      "title": "Guide Where to Pre-Order GTA 6 on PS5",
+      "title": "News UK GTA 6 Buyers Pleasantly Surprised by No PS5 Pre-Order Price Hike",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
-      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/uk-gta-6-buyers-pleasantly-surprised-by-no-ps5-pre-order-price-hike",
+      "thumbnail": "/drops/thumbs/71012b27273d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "14567959d1b9",
+      "id": "d16ccc629ad1",
       "pillar": "gaming",
-      "title": "News PS5 Adds Custom GTA 6 Start-Up Screen, Sony Rebrands PS App as Pre-Orders Go Live",
+      "title": "Guide Where to Pre-Order GTA 6 on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-adds-custom-gta-6-start-up-screen-sony-rebrands-ps-app-as-pre-orders-go-live",
-      "thumbnail": "/drops/thumbs/14567959d1b9.jpg",
+      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
+      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "38fdbb8c4610",
+      "id": "14567959d1b9",
       "pillar": "gaming",
-      "title": "News GTA 6 Physical Edition Doesn't Come with Discs, It's a Code in the Box",
+      "title": "News PS5 Adds Custom GTA 6 Start-Up Screen, Sony Rebrands PS App as Pre-Orders Go Live",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-physical-edition-doesnt-come-with-discs-its-a-code-in-the-box",
-      "thumbnail": "/drops/thumbs/38fdbb8c4610.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-adds-custom-gta-6-start-up-screen-sony-rebrands-ps-app-as-pre-orders-go-live",
+      "thumbnail": "/drops/thumbs/14567959d1b9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "cd1c4a9f3289",
     "8828b99b0476",
     "70ced94e4a3b",
-    "d16ccc629ad1"
+    "71012b27273d"
   ]
 }
