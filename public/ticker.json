@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T14:42:26+00:00",
+  "generated_utc": "2026-06-25T15:38:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Inside Set Sail: Netflix Production Reveals How One Piece Beat The Live-Action Adaptation Curse",
+      "url": "https://screenrant.com/viz-set-sail-book-behind-the-scenes-of-netflix-live-action-one-piece-adaptation/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dr. Stone Ending Explained: What Happens To Senku In The Finale?",
       "url": "https://screenrant.com/dr-stone-ending-explained/",
       "pillar": "anime",
@@ -88,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Akane Torikai's Bad Babies Don't Cry Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-25/akane-torikai-bad-babies-dont-cry-manga-ends/.238914",
+      "title": "Masa Ichikawa to Launch New Joker Manga Based on DC Comics Character in Morning Magazine",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-25/masa-ichikawa-to-launch-new-joker-manga-based-on-dc-comics-character-in-morning-magazine/.238830",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Are You a Landmine, Chihara-san? Anime Unveils More Cast & Staff, January Delay, Music Project",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-25/are-you-a-landmine-chihara-san-anime-unveils-more-cast-and-staff-january-delay-music-project/.238939",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One of anime's most mysterious sci-fi cult favorites is coming to YouTube for free this summer",
-      "url": "https://www.polygon.com/false-memory-anime-release-date-trailer-donghua/",
+      "title": "Akane Torikai's Bad Babies Don't Cry Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-25/akane-torikai-bad-babies-dont-cry-manga-ends/.238914",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
