@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T08:41:21+00:00",
+  "generated_utc": "2026-06-25T09:34:13+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -22,18 +22,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-gs-sweet-beet/",
       "thumbnail": "/drops/thumbs/535dbfc6cf56.jpg",
       "published": "2026-06-24T01:27:05",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "cd1c4a9f3289",
-      "pillar": "sneakers",
-      "title": "Free The Youth x Air Jordan 16 Releases July 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/free-the-youth-air-jordan-16/",
-      "thumbnail": "/drops/thumbs/cd1c4a9f3289.jpg",
-      "published": "2026-06-24T00:25:54",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-13-flint-2026/",
       "thumbnail": "/drops/thumbs/343d7df100fa.jpg",
       "published": "2026-06-24T03:08:57",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f819ee9b9d42",
+      "pillar": "sneakers",
+      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
+      "thumbnail": "/drops/thumbs/f819ee9b9d42.jpg",
+      "published": "2026-06-24T02:41:03",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -294,9 +294,9 @@
   "homepage": [
     "01215be0285b",
     "535dbfc6cf56",
-    "cd1c4a9f3289",
-    "8828b99b0476",
     "70ced94e4a3b",
+    "8828b99b0476",
+    "3b557c6e398e",
     "71012b27273d"
   ]
 }
