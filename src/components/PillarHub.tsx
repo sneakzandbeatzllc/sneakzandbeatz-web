@@ -45,6 +45,8 @@ export type PillarHubProps = {
   /** Optional pillar-specific section rendered after "What We Cover".
       Used by /hiphop to inject the tailored Beat Store + Bundle block. */
   extraSection?: React.ReactNode;
+  /** Optional content rendered BELOW the article grid (e.g. Hip-Hop's beat catalog). */
+  belowArticles?: React.ReactNode;
   /** Hide the "What We Cover" cards (e.g. /anime). Defaults to shown. */
   showCovers?: boolean;
 };
@@ -62,6 +64,7 @@ export default async function PillarHub({
   secondaryCta,
   pillarKey,
   extraSection,
+  belowArticles,
   showCovers = true,
 }: PillarHubProps) {
   const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
@@ -130,10 +133,16 @@ export default async function PillarHub({
 
         {/* Optional pillar-specific section (e.g. Hip-Hop's Beat Store + Bundle block) */}
         {extraSection}
+      </section>
 
-        {/* Old "Today's Drops" cycles section removed — DropsFeed above
-            covers that now with a better UX (thumbs + outbound links). */}
+      {/* Articles lead — trend-ranked grid filtered to this pillar. */}
+      <LaneGrid pillar={pillarKey} heading={`Latest in ${pillarLabel}`} />
 
+      {/* Pillar-specific content below the articles (e.g. Hip-Hop's beat catalog). */}
+      {belowArticles}
+
+      {/* Newsletter sits below the articles. */}
+      <section className="container pillar-page">
         <section className="pillar-newsletter">
           <h2 className="pillar-section-h">Latest From The Newsletter</h2>
           {posts.length > 0 ? (
@@ -200,9 +209,6 @@ export default async function PillarHub({
         </section>
 
       </section>
-
-      {/* Same trend-ranked article grid as /the-lane, filtered to this pillar. */}
-      <LaneGrid pillar={pillarKey} heading={`Latest in ${pillarLabel}`} />
 
       <Footer />
     </>

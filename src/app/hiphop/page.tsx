@@ -43,7 +43,8 @@ export default function HipHopPage() {
       ]}
       primaryCta={{ label: "Browse Beat Store", href: "/beats" }}
       secondaryCta={{ label: "Subscribe On Substack", href: "https://sneakzandbeatz.substack.com" }}
-      extraSection={<HipHopBeatBlock />}
+      extraSection={<HipHopBeatBlock variant="vault" />}
+      belowArticles={<HipHopBeatBlock variant="catalog" />}
     />
   );
 }
