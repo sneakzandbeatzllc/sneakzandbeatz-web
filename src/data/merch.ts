@@ -94,18 +94,6 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
     imagePath: "/merch/classic-grey.jpg",
   },
   {
-    slug: "beats-crop-hoodie",
-    name: "beats. Crop Hoodie",
-    type: "hoodie",
-    description:
-      "The women's line. Heavyweight cropped fleece, drop shoulder, oversized fit, embroidered 'beats.' — launch colorway Arctic Pink first, Heather Grey / Cream / Black behind it.",
-    priceUSD: 69,
-    sizes: ["S", "M", "L"],
-    colorways: BEATS_COLORWAYS,
-    status: "preorder",
-    imagePath: "/merch/girls-crop-pink-minimal.jpg",
-  },
-  {
     slug: "sb-cap",
     name: "S&B Dad Cap",
     type: "hat",
@@ -145,5 +133,18 @@ export const MERCH_PRODUCTS: MerchProduct[] = [
     ),
     status: "preorder",
     imagePath: "/merch/hat-red-snapback.jpg",
+  },
+  {
+    // Pink crop hoodie always shows LAST in the merch lineup.
+    slug: "beats-crop-hoodie",
+    name: "beats. Crop Hoodie",
+    type: "hoodie",
+    description:
+      "The women's line. Heavyweight cropped fleece, drop shoulder, oversized fit, embroidered 'beats.' — launch colorway Arctic Pink first, Heather Grey / Cream / Black behind it.",
+    priceUSD: 69,
+    sizes: ["S", "M", "L"],
+    colorways: BEATS_COLORWAYS,
+    status: "preorder",
+    imagePath: "/merch/girls-crop-pink-minimal.jpg",
   },
 ];

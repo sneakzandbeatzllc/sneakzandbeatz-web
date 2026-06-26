@@ -136,6 +136,60 @@ export default function CommunityPage() {
           </div>
         </section>
 
+        {/* RAP CHALLENGE — front and center */}
+        <section className="container community-block">
+          <div
+            style={{
+              position: "relative",
+              overflow: "hidden",
+              borderRadius: 20,
+              border: "1px solid rgba(226,58,44,0.45)",
+              background:
+                "radial-gradient(120% 160% at 100% 0%, rgba(200,38,44,0.55) 0%, rgba(20,4,6,0.2) 55%), #120203",
+              padding: "clamp(28px, 5vw, 56px)",
+              textAlign: "center",
+            }}
+          >
+            <span
+              className="community-eyebrow"
+              style={{ color: "#E23A2C", display: "block", marginBottom: 10 }}
+            >
+              🏆 The Main Event
+            </span>
+            <h2
+              className="community-h2"
+              style={{ fontSize: "clamp(2rem, 5vw, 3.4rem)", margin: "0 0 14px", lineHeight: 1.05 }}
+            >
+              The $10,000 Rap Challenge
+            </h2>
+            <p
+              style={{
+                maxWidth: 680,
+                margin: "0 auto 26px",
+                fontSize: "1.05rem",
+                opacity: 0.9,
+                lineHeight: 1.5,
+              }}
+            >
+              The biggest open mic on the internet. Pick a Sneakz &amp; Beatz beat,
+              record your verse, and a guest judge panel plus the community decide
+              who walks with the bag. 70% judges, 30% your vote — bar for bar, no
+              politics. One winner. Ten thousand dollars.
+            </p>
+            <div
+              className="community-cta-row"
+              style={{ justifyContent: "center", margin: 0 }}
+            >
+              <Link href="/rap-challenge/submit" className="btn btn-primary btn-arrow community-cta">
+                Enter The Challenge
+              </Link>
+              <Link href="/rap-challenge" className="btn btn-ghost btn-arrow">
+                See How It Works
+              </Link>
+            </div>
+          </div>
+        </section>
+
         {/* CHANNELS */}
         <section className="container community-block">
           <h2 className="community-h2">What&rsquo;s inside</h2>

@@ -21,8 +21,8 @@ export default function ShopPage() {
     year: "numeric",
   });
 
-  // Featured beats for the compact preview — first 6 paid beats
-  const featuredBeats = BEATS.filter((b) => !b.isFree).slice(0, 6);
+  // Featured beats for the compact preview — first 16 paid beats (above merch)
+  const featuredBeats = BEATS.filter((b) => !b.isFree).slice(0, 16);
   const totalBeats = BEATS.filter((b) => !b.isFree).length;
 
   return (
