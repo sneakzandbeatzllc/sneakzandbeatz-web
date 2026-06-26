@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T11:03:37+00:00",
+  "generated_utc": "2026-06-26T12:03:18+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -111,6 +111,30 @@
       "release_badge": ""
     },
     {
+      "id": "1a173cec1e78",
+      "pillar": "anime",
+      "title": "New One Piece Series Confirms Luffy's Most Important Crew Mate Isn't Who Fans Think",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-most-important-strawhat-nami/",
+      "thumbnail": "/drops/thumbs/1a173cec1e78.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "67d8b40c8426",
+      "pillar": "anime",
+      "title": "Crunchyroll's Official Frieren Replacement Is 2026's Only Anime With Zero Bad Episodes",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/witch-hat-atelier-frieren-replacement-2026-anime-no-bad-episodes/",
+      "thumbnail": "/drops/thumbs/67d8b40c8426.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "14cf944388d2",
       "pillar": "anime",
       "title": "Bleach's Final Season Is Here After 22 Years, And Its First 3 Episodes Are All 10/10s",
@@ -147,24 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "9303e1bdea8a",
+      "id": "c87331764e74",
       "pillar": "anime",
-      "title": "It's Official, Naruto's 2027 Anime Is The Start Of A New Era",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-2027-new-anime-start-era/",
-      "thumbnail": "/drops/thumbs/9303e1bdea8a.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a6e8011a845d",
-      "pillar": "anime",
-      "title": "Sekiro: No Defeat Anime Reveals Theatrical Trailer",
+      "title": "Toei's Eterna Animation Brand Streams Trailer for Foxing: Kitsuné-tsuki Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/sekiro-no-defeat-anime-reveals-theatrical-trailer/.238978",
-      "thumbnail": "/drops/thumbs/a6e8011a845d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/toei-eterna-animation-brand-streams-trailer-for-foxing-kitsune-tsuki-anime/.238981",
+      "thumbnail": "/drops/thumbs/c87331764e74.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -177,18 +189,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/japanese-government-anime-piracy-ai-translations/",
       "thumbnail": "/drops/thumbs/be7b5f2085a2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fa3898975e06",
-      "pillar": "anime",
-      "title": "'You, Fireworks, and Our Promise' Anime Film Reveals Clip Featuring Protagonist Makoto Natsume",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/you-fireworks-and-our-promise-anime-film-reveals-clip-featuring-protagonist-makoto-natsume/.238977",
-      "thumbnail": "/drops/thumbs/fa3898975e06.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "946f3514d195",
+      "id": "b222ca68bdcc",
       "pillar": "gaming",
-      "title": "Sony Seems To Have Laid Off Bungie Co-Founder And Destiny Director, Jason Jones",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563214/article/sony-seems-to-have-laid-off-bungie-co-founder-and-destiny-director-jason-jones/",
-      "thumbnail": "/drops/thumbs/946f3514d195.jpg",
+      "title": "The Internet Reacts To Trump’s Crass Destiny 2 Meme",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/trumps-destiny-2-meme-white-house-twitter-x-ai-bungie-2000710926",
+      "thumbnail": "/drops/thumbs/b222ca68bdcc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "adc2439d8692",
+      "id": "946f3514d195",
       "pillar": "gaming",
-      "title": "\"Most\" of the Destiny 2 team is being laid off as Bungie says the MMO \"fell short of expectations\" 12 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/destiny/most-of-the-destiny-2-team-is-being-laid-off-as-bungie-says-the-mmo-fell-short-of-expectations-these-past-several-years-some-marathon-devs-also-affected/",
-      "thumbnail": "/drops/thumbs/adc2439d8692.jpg",
+      "title": "Sony Seems To Have Laid Off Bungie Co-Founder And Destiny Director, Jason Jones",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563214/article/sony-seems-to-have-laid-off-bungie-co-founder-and-destiny-director-jason-jones/",
+      "thumbnail": "/drops/thumbs/946f3514d195.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
