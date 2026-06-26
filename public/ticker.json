@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T11:02:34+00:00",
+  "generated_utc": "2026-06-26T11:03:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "News PS5 Adds Custom GTA 6 Start-Up Screen, Sony Rebrands PS App as Pre-Orders Go Live",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-adds-custom-gta-6-start-up-screen-sony-rebrands-ps-app-as-pre-orders-go-live",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Pre-order GTA 6 pre-orders live updates – Amazon restocks as more retailers put pre-orders for Grand Theft Auto 6 online",
       "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Sony Seems To Have Laid Off Bungie Co-Founder And Destiny Director, Jason Jones",
       "url": "https://gameranx.com/updates/id/563214/article/sony-seems-to-have-laid-off-bungie-co-founder-and-destiny-director-jason-jones/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "\"Most\" of the Destiny 2 team is being laid off as Bungie says the MMO \"fell short of expectations\" 12 Comments",
+      "url": "https://www.gamesradar.com/games/destiny/most-of-the-destiny-2-team-is-being-laid-off-as-bungie-says-the-mmo-fell-short-of-expectations-these-past-several-years-some-marathon-devs-also-affected/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

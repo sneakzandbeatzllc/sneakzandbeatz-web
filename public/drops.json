@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T11:02:34+00:00",
+  "generated_utc": "2026-06-26T11:03:37+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -164,7 +164,7 @@
       "title": "Sekiro: No Defeat Anime Reveals Theatrical Trailer",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/sekiro-no-defeat-anime-reveals-theatrical-trailer/.238978",
-      "thumbnail": null,
+      "thumbnail": "/drops/thumbs/a6e8011a845d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "14567959d1b9",
-      "pillar": "gaming",
-      "title": "News PS5 Adds Custom GTA 6 Start-Up Screen, Sony Rebrands PS App as Pre-Orders Go Live",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-adds-custom-gta-6-start-up-screen-sony-rebrands-ps-app-as-pre-orders-go-live",
-      "thumbnail": "/drops/thumbs/14567959d1b9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "742fac42a9ed",
       "pillar": "gaming",
       "title": "Pre-order GTA 6 pre-orders live updates – Amazon restocks as more retailers put pre-orders for Grand Theft Auto 6 online",
@@ -285,6 +273,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563214/article/sony-seems-to-have-laid-off-bungie-co-founder-and-destiny-director-jason-jones/",
       "thumbnail": "/drops/thumbs/946f3514d195.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "adc2439d8692",
+      "pillar": "gaming",
+      "title": "\"Most\" of the Destiny 2 team is being laid off as Bungie says the MMO \"fell short of expectations\" 12 Comments",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/destiny/most-of-the-destiny-2-team-is-being-laid-off-as-bungie-says-the-mmo-fell-short-of-expectations-these-past-several-years-some-marathon-devs-also-affected/",
+      "thumbnail": "/drops/thumbs/adc2439d8692.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
