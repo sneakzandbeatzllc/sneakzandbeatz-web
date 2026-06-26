@@ -2,7 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { LANE_ESSAYS, getEssay, getAllEssaySlugs } from "@/data/lane-essays";
+import { getEssay, getAllEssaySlugs, getLiveEssays } from "@/data/lane-essays";
 import { renderMarkdown } from "@/lib/render-md";
 import { jsonLd, articleSchema, phrhxPerson, breadcrumbList } from "@/lib/schema";
 import fs from "node:fs";
@@ -68,8 +68,8 @@ export default async function LaneEssayPage({
   const essay = getEssay(slug);
   if (!essay) notFound();
 
-  // Other essays for the cross-link rail at the bottom.
-  const others = LANE_ESSAYS.filter((e) => e.slug !== essay.slug);
+  // Other essays for the cross-link rail at the bottom (live only).
+  const others = getLiveEssays().filter((e) => e.slug !== essay.slug);
 
   return (
     <>

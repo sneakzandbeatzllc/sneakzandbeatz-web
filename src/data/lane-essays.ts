@@ -18,6 +18,7 @@ export type LaneEssay = {
   description: string;      // meta description + Article schema description
   publishedAt: string;      // ISO date (YYYY-MM-DD)
   modifiedAt?: string;      // optional, defaults to publishedAt
+  goLiveAt?: string;        // ISO date the essay surfaces publicly; defaults to publishedAt. Future dates stay hidden until a build on/after that day.
   keywords: string[];       // Article schema keywords
   ogHeadline: string;       // multi-line OG image headline (use \n for breaks)
   ogAccent: string;         // hex accent color for the OG card gradient (without #)
@@ -1440,13 +1441,100 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
     "pillar": "sneakers",
     "heroCredit": "Sole Retriever",
     "heroCreditUrl": "https://www.soleretriever.com/news/articles/air-jordan-5-retro-university-blue-release-date-june-2026"
+  },
+  {
+    slug: "aj4-musik-carter-iii",
+    title: "The AJ4 'Musik' Is Cash Money on a Sneaker",
+    headline: "The AJ4 'Musik' Is Cash Money\non a Sneaker",
+    subhead:
+      "Jordan built an AJ4 out of grills, gold, and Roman-numeral 23s — and the leak says it ships in a Tha Carter III face box. Here's what's real and what's still rumor.",
+    description:
+      "The Air Jordan 4 'Musik' (JA8136-200, Jan 30 2027, $230) renders early-2000s hip-hop jewelry into a sneaker. The shoe and the MJ face-box revival are confirmed; the Tha Carter III box is an unconfirmed @zSneakerHeadz leak.",
+    publishedAt: "2026-06-25",
+    goLiveAt: "2026-06-25",
+    keywords: [
+      "Air Jordan 4 Musik",
+      "JA8136-200",
+      "Lil Wayne Tha Carter III",
+      "MJ face box",
+      "2027 Jordan releases",
+      "Sneakz and Beatz",
+    ],
+    ogHeadline: "The AJ4 'Musik' Is\nCash Money on a Sneaker.",
+    ogAccent: "C8A04A",
+    pillar: "sneakers",
+    heroCredit: "Leak via @zSneakerHeadz (h/t @sneakermarketro, @sneakerfiles)",
+    heroCreditUrl: "https://twitter.com/zSneakerHeadz",
+    body: `For years the brand referenced hip-hop from a safe distance — a colorway nod here, a co-sign there. The Air Jordan 4 "Musik" stops pretending. This is the early-2000s Cash Money aesthetic rendered in leather and metal: grills, chains, and gold turned into a $230 general release. The only question left is whether the packaging goes one step further and wraps the whole thing in a Lil Wayne classic.
+
+## What's actually confirmed
+
+The shoe is real and dated. The Air Jordan 4 Retro OG "Musik" carries the SKU **JA8136-200** and releases **January 30, 2027 for $230** as a wide drop — SNKRS, Foot Locker, Hibbett, Finish Line, Shiekh. SneakerNews and WWD have the full breakdown: a Desert Khaki upper cut with black on the midsole, tongue, heel tab, and netting, then gold across the TPU wings and branding.
+
+The details are where it earns the name. The heel tab is studded — a first for the silhouette — and instead of "Nike Air" or a Jumpman, it reads **"II" on the left and "III" on the right**: 23, spelled out in Roman numerals like a chain you'd flex. The hangtag is a silver Jumpman crusted in diamond-like gems. That's not a hip-hop reference. That's hip-hop's jewelry counter bolted onto a sneaker.
+
+## The design is the thesis
+
+Athlon's read was blunt — it "looks like Cash Money designed an Air Jordan" — and they're right. The Musik isn't pulling from one artist; it's pulling from an era. Diamond grills, gold everywhere, the maximalist shine of the late-'90s and early-2000s South. This is the period when Cash Money and No Limit turned excess into a visual language, and Jordan Brand just translated that language into product.
+
+## The face box is back — that part is true
+
+The packaging rumor isn't coming from nowhere. Jordan Brand really is reviving the **MJ "face box,"** the photo-lid packaging it used on retros between **2001 and 2005**, starting with the Air Jordan 16. Sole Retriever and House of Heat have confirmed it returns in 2026, and the AJ4 "Laser" pack is already slated to ship in a two-pack face box in Spring 2027. So a Musik in special packaging is plausible on its face.
+
+## The Tha Carter III box: still a leak
+
+Here's the line. The claim that the Musik specifically arrives in a **face box modeled on Tha Carter III** — Wayne's baby photo swapped for MJ's — comes from **@zSneakerHeadz**, who first reported it (crediting @sneakermarketro and @sneakerfiles). It is not confirmed by Jordan Brand. Treat it as rumor until a retailer page or an official image says otherwise.
+
+Worth knowing what that cover carries, though. *Tha Carter III* dropped in 2008 with a young Dwayne Carter in a suit on the front, sold **over a million copies in its first week** — the first rap album to do that since 50 Cent's *The Massacre* — and won four Grammys, including Best Rap Album and Best Rap Song for "Lollipop." If the box is real, Jordan Brand isn't borrowing a vibe. It's borrowing one of the most decorated album covers in the genre.
+
+## Who gets paid when the culture becomes packaging
+
+This is the part the hype cycle skips. Grills, gold, and a Wayne album cover are the culture's own iconography, and a $230 general release plus a collector's box is a clean way to sell that iconography back to the people who built it. None of the artists who created the aesthetic the Musik is built on have to be in the room for it to print money. That's not a knock on the shoe — it's a good-looking 4. It's the question that should ride shotgun with every "hip-hop tribute" a brand ships: tribute to whom, and on whose terms.
+
+The Musik is going to move regardless. The grills are loud, the gold photographs well, and the 4 doesn't miss. Just keep the receipt on what's confirmed — the shoe, the date, the price, the face-box revival — and what's still a screenshot waiting on a co-sign.
+
+---
+
+### Sources
+- [SneakerNews — JA8136-200 details](https://sneakernews.com/2026/05/20/air-jordan-4-musik-ja8136-200/)
+- [WWD Footwear News — release date & price](https://wwd.com/footwear-news/sneaker-news/air-jordan-4-retro-og-musik-release-date-ja8136-200-1239005573/)
+- [Athlon Sports — "Cash Money designed an Air Jordan"](https://athlonsports.com/kicks/air-jordan-4-musik-release-date-price-where-to-buy)
+- [Sole Retriever — MJ face box revival](https://www.soleretriever.com/news/articles/jordan-brand-bringing-back-the-mj-face-box-for-upcoming-retro-releases)
+- [Tha Carter III — Wikipedia](https://en.wikipedia.org/wiki/Tha_Carter_III)
+- Original leak: @zSneakerHeadz on X (h/t @sneakermarketro, @sneakerfiles), Jun 24 2026 — unconfirmed`,
   }
 ];
+
+// --- Scheduled publishing -------------------------------------------------
+// An essay is "live" once its goLiveAt date (default: publishedAt) is today
+// or earlier, evaluated at BUILD time. Append future-dated essays and a daily
+// site rebuild surfaces each one on its own date — no manual toggle.
+// See _DEPLOY_SCRIPTS/current/PUBLISH_FROM_OS.command + 13_LAUNCHD daily rebuild.
+function todayISO(): string {
+  return new Date().toISOString().slice(0, 10);
+}
+
+export function isEssayLive(e: LaneEssay, now: string = todayISO()): boolean {
+  return (e.goLiveAt || e.publishedAt) <= now;
+}
+
+// Live essays, newest first by go-live date.
+export function getLiveEssays(now: string = todayISO()): LaneEssay[] {
+  return LANE_ESSAYS.filter((e) => isEssayLive(e, now)).sort((a, b) =>
+    (b.goLiveAt || b.publishedAt).localeCompare(a.goLiveAt || a.publishedAt),
+  );
+}
 
 export function getEssay(slug: string): LaneEssay | undefined {
   return LANE_ESSAYS.find((e) => e.slug === slug);
 }
 
+// Only live essays are statically generated; with dynamicParams=false a
+// future-dated essay 404s until its date. A daily rebuild brings it online.
 export function getAllEssaySlugs(): { slug: string }[] {
-  return LANE_ESSAYS.map((e) => ({ slug: e.slug }));
+  return getLiveEssays().map((e) => ({ slug: e.slug }));
+}
+
+export function getLiveEssaySlugs(): { slug: string }[] {
+  return getAllEssaySlugs();
 }

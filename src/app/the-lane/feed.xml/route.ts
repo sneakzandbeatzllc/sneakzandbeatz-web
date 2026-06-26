@@ -7,7 +7,7 @@
  * via the standard <link rel="alternate" type="application/rss+xml">.
  */
 
-import { LANE_ESSAYS } from "@/data/lane-essays";
+import { getLiveEssays } from "@/data/lane-essays";
 
 const SITE = "https://www.sneakzandbeatz.com";
 const FEED_URL = `${SITE}/the-lane/feed.xml`;
@@ -23,7 +23,7 @@ function escapeXml(s: string): string {
 
 export async function GET() {
   // Sort essays newest first.
-  const sorted = [...LANE_ESSAYS].sort((a, b) =>
+  const sorted = [...getLiveEssays()].sort((a, b) =>
     b.publishedAt.localeCompare(a.publishedAt),
   );
 

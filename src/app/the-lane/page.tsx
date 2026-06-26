@@ -16,7 +16,7 @@ import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { jsonLd, articleSchema, faqPage } from "@/lib/schema";
-import { LANE_ESSAYS } from "@/data/lane-essays";
+import { getLiveEssays } from "@/data/lane-essays";
 
 export const metadata = {
   // Title already mentions the brand — use `absolute` so the layout's
@@ -266,7 +266,7 @@ export default function TheLanePage() {
         <section className="legal-section">
           <h2>More from The Lane</h2>
           <ul>
-            {LANE_ESSAYS.map((e) => (
+            {getLiveEssays().map((e) => (
               <li key={e.slug}>
                 <Link href={`/the-lane/${e.slug}`}>
                   <strong>{e.title}</strong>
