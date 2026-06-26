@@ -24,14 +24,42 @@ export default function LaneGrid({
   pillar,
   limit,
   heading,
+  balanced,
 }: {
   pillar?: LaneEssay["pillar"];
   limit?: number;
   heading?: string;
+  /** Guarantee at least one article from each pillar before filling by rank.
+      Used by the homepage "Latest from The Lane" rail. */
+  balanced?: boolean;
 }) {
   let items = getRankedEssays();
   if (pillar) items = items.filter((e) => e.pillar === pillar);
-  if (limit) items = items.slice(0, limit);
+  if (balanced && !pillar && limit) {
+    // 1) take the highest-ranked live article from EACH pillar, then
+    // 2) fill remaining slots by trend rank. Final order stays trend-ranked.
+    const order = new Map(items.map((e, i) => [e.slug, i]));
+    const used = new Set<string>();
+    const picked: LaneEssay[] = [];
+    for (const p of ["sneakers", "hiphop", "anime", "gaming"] as const) {
+      const top = items.find((e) => e.pillar === p && !used.has(e.slug));
+      if (top) {
+        picked.push(top);
+        used.add(top.slug);
+      }
+    }
+    for (const e of items) {
+      if (picked.length >= limit) break;
+      if (!used.has(e.slug)) {
+        picked.push(e);
+        used.add(e.slug);
+      }
+    }
+    picked.sort((a, b) => (order.get(a.slug) ?? 0) - (order.get(b.slug) ?? 0));
+    items = picked.slice(0, limit);
+  } else if (limit) {
+    items = items.slice(0, limit);
+  }
   const cards = items.map((e) => ({ e, heroSrc: e.heroImage ?? findHeroFile(e.slug) }));
   if (cards.length === 0) return null;
 

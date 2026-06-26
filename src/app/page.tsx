@@ -114,7 +114,7 @@ export default async function HomePage() {
       <ProgramGuide />
       <ShowEmbed />
 
-      <LaneGrid limit={6} heading="Latest from The Lane" />
+      <LaneGrid limit={6} balanced heading="Latest from The Lane" />
 
       <BeatLabV3 />
       <MerchZone />
