@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T14:05:41+00:00",
+  "generated_utc": "2026-06-26T15:04:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "After 32 Years, Toei Animation Is Finally Fixing Akira Toriyama's Biggest Dragon Ball Mistake",
+      "url": "https://screenrant.com/dragon-ball-super-galactic-patrol-z-fighters-mistake/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "New One Piece Series Confirms Luffy's Most Important Crew Mate Isn't Who Fans Think",
       "url": "https://screenrant.com/one-piece-most-important-strawhat-nami/",
       "pillar": "anime",
@@ -88,22 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "My Hero Academia: 30 Most Powerful Quirks",
-      "url": "https://screenrant.com/my-hero-academia-powerful-quirks-ranked/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Netflix Confirms Next One Piece Spin-Off Is Coming In 2 Weeks",
-      "url": "https://screenrant.com/netflix-one-piece-heroines-streaming-release-date/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Toei's Eterna Animation Brand Streams Trailer for Foxing: Kitsuné-tsuki Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-26/toei-eterna-animation-brand-streams-trailer-for-foxing-kitsune-tsuki-anime/.238981",
+      "title": "Bandai Namco Announces 'Tekken! Cartoon' Project With Trailer",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-26/bandai-namco-announces-tekken-cartoon-project-with-trailer/.238988",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -116,6 +109,13 @@
       "article_slug": null
     },
     {
+      "title": "Toei's Eterna Animation Brand Streams Trailer for Foxing: Kitsuné-tsuki Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-26/toei-eterna-animation-brand-streams-trailer-for-foxing-kitsune-tsuki-anime/.238981",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News GTA 6 Screenshots Unlikely to Be Running Real-Time on PS5, Tech Experts Warn",
       "url": "https://www.pushsquare.com/news/2026/06/gta-6-screenshots-unlikely-to-be-running-real-time-on-ps5-tech-experts-warn",
       "pillar": "gaming",
@@ -123,7 +123,7 @@
       "article_slug": null
     },
     {
-      "title": "Multiple retailers drop GTA 6 after physical version is confirmed to be a code in a box 13 Comments",
+      "title": "Multiple retailers drop GTA 6 after physical version is confirmed to be a code in a box 15 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/multiple-retailers-drop-gta-6-after-physical-version-is-confirmed-to-be-a-code-in-a-box/",
       "pillar": "gaming",
       "score": 1.0,
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "News Dragon's Dogma 2: Dark Arisen Directed by the Man Who Transformed the Original Game",
-      "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-directed-by-the-man-who-transformed-the-original-game",
+      "title": "News Tekken! Cartoon Presents Bandai Namco's Fighting Game Series Like Never Before",
+      "url": "https://www.pushsquare.com/news/2026/06/tekken-cartoon-presents-bandai-namcos-fighting-game-series-like-never-before",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

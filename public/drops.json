@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T14:05:41+00:00",
+  "generated_utc": "2026-06-26T15:04:51+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "1c70105a15d7",
+      "pillar": "anime",
+      "title": "After 32 Years, Toei Animation Is Finally Fixing Akira Toriyama's Biggest Dragon Ball Mistake",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-galactic-patrol-z-fighters-mistake/",
+      "thumbnail": "/drops/thumbs/1c70105a15d7.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1a173cec1e78",
       "pillar": "anime",
       "title": "New One Piece Series Confirms Luffy's Most Important Crew Mate Isn't Who Fans Think",
@@ -147,36 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "4127328382ac",
+      "id": "179670979dc9",
       "pillar": "anime",
-      "title": "My Hero Academia: 30 Most Powerful Quirks",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/my-hero-academia-powerful-quirks-ranked/",
-      "thumbnail": "/drops/thumbs/4127328382ac.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1acdaa13db15",
-      "pillar": "anime",
-      "title": "Netflix Confirms Next One Piece Spin-Off Is Coming In 2 Weeks",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-one-piece-heroines-streaming-release-date/",
-      "thumbnail": "/drops/thumbs/1acdaa13db15.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c87331764e74",
-      "pillar": "anime",
-      "title": "Toei's Eterna Animation Brand Streams Trailer for Foxing: Kitsuné-tsuki Anime",
+      "title": "Bandai Namco Announces 'Tekken! Cartoon' Project With Trailer",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/toei-eterna-animation-brand-streams-trailer-for-foxing-kitsune-tsuki-anime/.238981",
-      "thumbnail": "/drops/thumbs/c87331764e74.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/bandai-namco-announces-tekken-cartoon-project-with-trailer/.238988",
+      "thumbnail": "/drops/thumbs/179670979dc9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,6 +177,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/japanese-government-anime-piracy-ai-translations/",
       "thumbnail": "/drops/thumbs/be7b5f2085a2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c87331764e74",
+      "pillar": "anime",
+      "title": "Toei's Eterna Animation Brand Streams Trailer for Foxing: Kitsuné-tsuki Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/toei-eterna-animation-brand-streams-trailer-for-foxing-kitsune-tsuki-anime/.238981",
+      "thumbnail": "/drops/thumbs/c87331764e74.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -209,7 +209,7 @@
     {
       "id": "2b0f4bb7e3ab",
       "pillar": "gaming",
-      "title": "Multiple retailers drop GTA 6 after physical version is confirmed to be a code in a box 13 Comments",
+      "title": "Multiple retailers drop GTA 6 after physical version is confirmed to be a code in a box 15 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/multiple-retailers-drop-gta-6-after-physical-version-is-confirmed-to-be-a-code-in-a-box/",
       "thumbnail": "/drops/thumbs/2b0f4bb7e3ab.jpg",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "b1ad1beb2ed7",
+      "id": "26f02e44572f",
       "pillar": "gaming",
-      "title": "News Dragon's Dogma 2: Dark Arisen Directed by the Man Who Transformed the Original Game",
+      "title": "News Tekken! Cartoon Presents Bandai Namco's Fighting Game Series Like Never Before",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-directed-by-the-man-who-transformed-the-original-game",
-      "thumbnail": "/drops/thumbs/b1ad1beb2ed7.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/tekken-cartoon-presents-bandai-namcos-fighting-game-series-like-never-before",
+      "thumbnail": "/drops/thumbs/26f02e44572f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
