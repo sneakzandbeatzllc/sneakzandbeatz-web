@@ -90,28 +90,6 @@ A-tier drop, 24/30 on our scoring — worth a top-three slot in the drops feed, 
 Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.`,
   },
   {
-    "slug": "air-jordan-3-true-blue-2026-return",
-    heroCredit: "House of Heat",
-    heroCreditUrl: "https://houseofheat.co/jordan/air-jordan-3-true-blue-fall-2026",
-    "title": "True Blue Returns After a Decade",
-    "headline": "True Blue Returns After a Decade",
-    "subhead": "The only original AJ3 that broke from Bulls colors comes back July 18 in full-family OG spec, ten years after its last retro.",
-    "description": "The Air Jordan 3 True Blue returns July 18, 2026 ($230, IF4396-102) with Nike Air heel branding and the MJ face box — its first retro in a decade.",
-    "publishedAt": "2026-06-12",
-    "keywords": [
-      "Air Jordan 3",
-      "True Blue",
-      "AJ3 retro 2026",
-      "Tinker Hatfield",
-      "Nike Air",
-      "Jordan release dates"
-    ],
-    "ogHeadline": "True Blue\nback after ten years",
-    "ogAccent": "C8262C",
-    "body": "The Air Jordan 3 True Blue lands July 18, 2026 — its first retro in ten years, and the only one of the four 1988 OGs that never wore Bulls colors.\n\n## A decade of pent-up demand\n\nHouse of Heat reports the True Blue hits SNKRS and Jordan Brand retailers July 18 in full-family sizing at $230, style code IF4396-102. The 2003, 2009, 2011 and 2016 runs trained a generation to expect this shoe on a roughly five-year clock. This time the wait stretched to a full decade, which means men's, GS, PS and TD all drop at once into a market that has been starved.\n\n## The one that didn't wear the uniform\n\nThe True Blue is the only original AJ3 colorway that walked away from the red-and-black team palette. That's the whole argument for Tinker Hatfield's design language — the elephant print, the visible Air, the molded collar carried a Jordan signature without leaning on Chicago. The shoe proved the silhouette was the star.\n\n## OG construction, restored\n\nThis is built to 1988 spec, not the cost-cut reissue treatment. White tumbled leather, Cement Grey elephant print tuned thinner to match the original mold, True Blue on the midsole and collar, Varsity Red on the tongue Jumpman. Crucially: Nike Air branding on the heel and the Michael Jordan face box. After years of Jumpman-heel substitutions, the heel detail alone moves this from \"retro\" to \"OG.\"\n\n## What the resale math says\n\nA ten-year gap plus full-family sizing is Jordan Brand doing two things at once — feeding demand and protecting the aftermarket. Wide sizing suppresses flip premiums on the men's run, which is good for the people who actually wear them and bad for the people who built a business on the scarcity. That tension is the story of every OG retro now: who is this drop for, the wearer or the reseller?\n\n## What it means\n\nThe True Blue is canon precisely because it refused the uniform. Bringing it back in honest construction — Nike Air, face box, the works — is Jordan Brand acknowledging that the people who hold this shoe know the difference between a reissue and the real thing. The culture built that literacy. The brand is finally pricing it in.\n\n## Sources\n\n- [Air Jordan 3 OG \"True Blue\" Returns for the Whole Family July 18](https://houseofheat.co/jordan/air-jordan-3-true-blue-fall-2026) — 2026\n- [Air Jordan 3 Retro 'True Blue' Release Date IF4396-102](https://wwd.com/footwear-news/sneaker-news/air-jordan-3-retro-true-blue-release-date-if4396-102-1238992737/) — 2026\n- [Air Jordan 3 OG \"True Blue\" Returns July 2026](https://www.sneakerfiles.com/air-jordan-3-true-blue-2026/) — 2026",
-    "pillar": "sneakers"
-  },
-  {
     "slug": "air-jordan-5-sunset-womens-exclusive-2026",
     heroCredit: "House of Heat",
     heroCreditUrl: "https://houseofheat.co/jordan/air-jordan-5-white-sunset-iv5678-102",
