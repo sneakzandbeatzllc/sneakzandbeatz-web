@@ -1502,6 +1502,216 @@ The Musik is going to move regardless. The grills are loud, the gold photographs
 - [Sole Retriever — MJ face box revival](https://www.soleretriever.com/news/articles/jordan-brand-bringing-back-the-mj-face-box-for-upcoming-retro-releases)
 - [Tha Carter III — Wikipedia](https://en.wikipedia.org/wiki/Tha_Carter_III)
 - Original leak: @zSneakerHeadz on X (h/t @sneakermarketro, @sneakerfiles), Jun 24 2026 — unconfirmed`,
+  },
+  {
+    slug: "aj-black-pack-2026",
+    title: "The Jordan 'Black Pack' Bets on the Forgotten Numbers",
+    headline: "The Jordan 'Black Pack' Bets\non the Forgotten Numbers",
+    subhead: "AJ14 Low, 15, 16, and 17 Low — blacked out in snakeskin and stingray. Jordan Brand finally hands the unloved silhouettes a luxury moment.",
+    description: "Jordan Brand's In-House 'Black Pack' (Holiday 2026, $240 each) puts the AJ14 Low, 15 'Snakeskin,' 16, and 17 Low 'Stingray' in all-black exotic textures, limited to NBHD retailers and SNKRS.",
+    publishedAt: "2026-06-25",
+    goLiveAt: "2026-06-25",
+    keywords: ["Air Jordan Black Pack","Air Jordan 15 Snakeskin","Air Jordan 17 Low Stingray","Jordan In-House series","Holiday 2026 Jordan releases","Sneakz and Beatz"],
+    ogHeadline: "The Jordan 'Black Pack'\nBets on the Forgotten Numbers.",
+    ogAccent: "2B2B2B",
+    pillar: "sneakers",
+    heroCredit: "SneakerNews",
+    heroCreditUrl: "https://sneakernews.com/2026/06/23/air-jordan-black-pack/",
+    body: `Jordan Brand spent years retroing the same five numbers. The "Black Pack" goes the other way — straight at the silhouettes the resale market forgot.
+
+## What's dropping
+
+It's part of Jordan's In-House series: four shoes, all blacked out, all $240. The Air Jordan 14 Low and Air Jordan 16 land October 3, 2026; the Air Jordan 15 "Snakeskin" and Air Jordan 17 Low "Stingray" follow November 7. Limited run — NBHD-tier retailers and SNKRS only, per SneakerNews' Paris Fashion Week first look.
+
+## The textures are the point
+
+The 15 gets black-and-grey snakeskin leather across the main panels — fitting for a shoe Tinker Hatfield built around an F-117 stealth fighter. The 17 Low pulls nubuck across the sides and toe with stingray leather wrapped around the eyelets. These aren't graphics printed on mesh; they're exotic-texture treatments on two shoes that have spent two decades as punchlines.
+
+## Why the unloved numbers matter
+
+The 15 and 17 are where Jordan Brand goes when it wants to flex construction instead of nostalgia. There's no Bred-1 cheat code here, no built-in hype. A blacked-out pack of the line's least-wanted silhouettes is a bet that the culture will reward craft if the story's right — the A Ma Maniere playbook run in-house, minus the collaborator markup.
+
+Holiday 2026, $240 a pair: the 14 Low and 16 first, then the 15 and 17 close out the year.
+
+---
+
+### Sources
+- [SneakerNews — Black Pack first look, PFW](https://sneakernews.com/2026/06/23/air-jordan-black-pack/)
+- [SneakerFiles — AJ15 'Snakeskin' IZ2585-001](https://www.sneakerfiles.com/air-jordan-15-snakeskin/)
+- [SneakerBarDetroit — Black Pack 2026](https://sneakerbardetroit.com/air-jordan-black-pack-2026/)`,
+  },
+  {
+    slug: "obama-aj1-mtm-all-the-smoke",
+    title: "Obama Pulled Out the MTM 1s on All The Smoke",
+    headline: "Obama Pulled Out the MTM 1s\non All The Smoke",
+    subhead: "The rarest Air Jordan 1 most people will never see — gifted by Nike in 2015 — on the most documented Black sneakerhead alive, on a Black-owned podcast.",
+    description: "Barack Obama wore the Air Jordan 1 from the 2015 AJ1/29 'MTM' Pack (Michael Jordan, Tinker Hatfield, Mark Parker) on All The Smoke, filmed at the Obama Presidential Center's Home Court in Chicago.",
+    publishedAt: "2026-06-25",
+    goLiveAt: "2026-06-25",
+    keywords: ["Obama Air Jordan 1 MTM","AJ1/29 MTM Pack","All The Smoke","Michael Jordan Tinker Hatfield Mark Parker","rare Air Jordan 1","Sneakz and Beatz"],
+    ogHeadline: "Obama Pulled Out the\nMTM 1s on All The Smoke.",
+    ogAccent: "8A6D3B",
+    pillar: "sneakers",
+    heroCredit: "SLAM / All The Smoke",
+    heroCreditUrl: "https://slamonline.com/kicks/president-obama-got-the-first-air-jordan-mtm-pack-kicks/",
+    body: `Most rare Air Jordans are rare because of resale. This pair is rare because there are essentially none.
+
+## The shoe
+
+Before sitting with Matt Barnes and Stephen Jackson on All The Smoke, Obama hit the floor in the Air Jordan 1 from the 2015 "MTM" Pack — a friends-and-family set that paired the AJ1 and AJ29. MTM stands for Michael Jordan, Tinker Hatfield, and Mark Parker, the three names behind the shoe. Nike gifted it to Obama during a 2015 visit to its Beaverton headquarters, for the AJ1's 30th anniversary.
+
+## The setting says everything
+
+He wore them at the Obama Presidential Center in Chicago — specifically "Home Court," a 60,000-square-foot athletic space inside the building. A former president, in a near-unobtainable Jordan, on a Black-owned podcast, in a Black-owned building on the South Side. The shoe is the smallest part of that sentence and still the loudest.
+
+## The lane
+
+Sneaker media will cover this as "Obama wore rare Jordans." The real story is the through-line: the most documented Black life in the country reaching for the AJ1 — not the loafers — to talk hoops with two former players who built their own platform. That's the conversation, and it's ours to tell better than a spec sheet.
+
+---
+
+### Sources
+- [SLAM — Obama got the first AJ MTM Pack](https://slamonline.com/kicks/president-obama-got-the-first-air-jordan-mtm-pack-kicks/)
+- [Sports Illustrated — Obama hoops in rare Air Jordans](https://www.si.com/fannation/sneakers/news/barack-obama-hoops-in-rare-air-jordans-at-presidential-center)
+- [Complex — Nike unveils the MTM Pack gifted to Obama](https://www.complex.com/sneakers/a/matt-welty/nike-obama-mtm-sneaker)`,
+  },
+  {
+    slug: "robert-nava-cdg-play-converse-dsm-paris",
+    title: "Robert Nava Put His Monsters on a CDG Play Chuck",
+    headline: "Robert Nava Put His Monsters\non a CDG Play Chuck",
+    subhead: "300 pairs, Dover Street Market Paris, one afternoon only. The art-world-to-sneaker pipeline runs through Comme des Garçons.",
+    description: "A 'FUTURE' drop at Dover Street Market Paris pairs painter Robert Nava with Comme des Garçons Play and Converse on a limited Chuck Taylor — 300 pairs, plus exclusive T.R.M. merch, Saturday June 27.",
+    publishedAt: "2026-06-25",
+    goLiveAt: "2026-06-25",
+    keywords: ["Robert Nava Converse","Comme des Garcons Play Converse","Dover Street Market Paris","Chuck Taylor collab","artist sneaker collab","Sneakz and Beatz"],
+    ogHeadline: "Robert Nava Put His\nMonsters on a Chuck.",
+    ogAccent: "B3261E",
+    pillar: "sneakers",
+    heroCredit: "Dover Street Market Paris (event flyer)",
+    body: `Dover Street Market Paris doesn't do quiet drops, and this one's loud before the doors open.
+
+## The drop
+
+For one afternoon — Saturday, June 27, 2–5 PM — DSM Paris is releasing a Comme des Garçons Play x Converse Chuck Taylor done with painter Robert Nava, capped at 300 pairs, with exclusive T.R.M. merch alongside it.
+
+## Who Nava is
+
+If you don't run in gallery circles: Robert Nava is a Brooklyn painter repped by Pace, known for spray-paint-and-grease-pencil "monsters" — sharks, angels, dragons, the bat that's all over this flyer. His canvases move at auction for six figures. Putting that hand on a roughly $100 Chuck is exactly the high-low move Comme des Garçons built its catalog on.
+
+## Why it fits the lane
+
+The art-world-to-sneaker pipeline is one most sneaker outlets skip — they'll cover the Travis 1 and ignore a Pace painter on a Converse. The overlap between people who buy contemporary art and people who line up at DSM is bigger than either world admits. 300 pairs, in-store only, in Paris: if you're not in the 1st arrondissement Saturday, this one lives on resale by Sunday.
+
+(Note: details here come from the in-store event flyer, not an official Comme des Garçons or Converse announcement — treat the specifics as provisional until they post.)
+
+---
+
+### Sources
+- In-store event flyer, Dover Street Market Paris (Jun 2026)
+- [Robert Nava — Pace Gallery (artist background)](https://www.pacegallery.com/artists/robert-nava/)`,
+  },
+  {
+    slug: "nba-youngboy-more-leaks-2",
+    title: "YoungBoy Drops 'More Leaks 2' With No Warning",
+    headline: "YoungBoy Drops 'More Leaks 2'\nWith No Warning",
+    subhead: "A Friday surprise from the most-streamed rapper who never needed the industry's permission.",
+    description: "NBA YoungBoy announced 'More Leaks 2' (ML2) for a surprise June 26, 2026 release — the sequel to 2025's 'More Leaks' — with a 20-second teaser and no tracklist.",
+    publishedAt: "2026-06-25",
+    goLiveAt: "2026-06-25",
+    keywords: ["NBA YoungBoy More Leaks 2","YoungBoy Never Broke Again","ML2 mixtape","surprise release 2026","most streamed rapper","Sneakz and Beatz"],
+    ogHeadline: "YoungBoy Drops 'More\nLeaks 2' With No Warning.",
+    ogAccent: "1FAA59",
+    pillar: "hiphop",
+    heroCredit: "XXL",
+    heroCreditUrl: "https://ratingsgamemusic.com/2026/06/24/nba-youngboy-more-leaks-2-mixtape-announcement-2/",
+    body: `No rollout, no single, no features list. Just a date.
+
+## The drop
+
+NBA YoungBoy announced More Leaks 2 with a 20-second teaser — black-and-white performance footage, neon-green "ML2" lettering, and a June 26, 2026 release stamped on the end. It's the sequel to 2025's More Leaks, which arrived March 7 of that year. No tracklist, no cover art, no guests confirmed.
+
+## The machine
+
+This is the whole YoungBoy model in one move. While the industry plans eight-week rollouts, he drops a tape Friday with a two-day warning and still moves numbers most rollout-heavy albums can't touch. He's spent years as one of the most-streamed artists in the country with almost no traditional press, radio, or award-show cosigns.
+
+## The read
+
+"More Leaks" as a title is the thesis: the loosies and throwaways are the product, and the audience treats them like an event anyway. That's a different relationship to release strategy than almost anyone at his streaming tier. Friday tells you whether the sequel matches the volume.
+
+---
+
+### Sources
+- [Ratings Game Music — ML2 announcement](https://ratingsgamemusic.com/2026/06/24/nba-youngboy-more-leaks-2-mixtape-announcement-2/)
+- [InMusicBlog — when More Leaks 2 drops](https://inmusicblog.com/rap/nba-youngboy-more-leaks-2-release-date/)`,
+  },
+  {
+    slug: "lil-baby-wembanyama-louis-vuitton-ss27",
+    title: "Lil Baby and Wemby Held Court at Louis Vuitton",
+    headline: "Lil Baby and Wemby Held Court\nat Louis Vuitton",
+    subhead: "Pharrell's front row in Paris is where hip-hop, the NBA's next face, and luxury keep shaking hands.",
+    description: "At the Louis Vuitton SS27 men's show (June 23, 2026, Paris), Lil Baby sat front row and linked with Victor Wembanyama — the new face of the Pharrell-designed collection — alongside Wizkid and Asake.",
+    publishedAt: "2026-06-25",
+    goLiveAt: "2026-06-25",
+    keywords: ["Lil Baby Louis Vuitton","Victor Wembanyama Louis Vuitton","LV SS27 menswear","Pharrell Williams Louis Vuitton","Paris Fashion Week 2026","Sneakz and Beatz"],
+    ogHeadline: "Lil Baby and Wemby\nHeld Court at Louis Vuitton.",
+    ogAccent: "6B4F2A",
+    pillar: "hiphop",
+    heroCredit: "Kurrco / Louis Vuitton",
+    heroCreditUrl: "https://www.justjared.com/2026/06/23/louis-vuitton-menswear-spring-summer-2027-show-in-paris-star-studded-guest-list-all-red-carpet-photos-revealed/",
+    body: `Paris Fashion Week is where the culture's hierarchy gets photographed, and this frame said plenty.
+
+## The moment
+
+At the Louis Vuitton SS27 men's show on June 23, Lil Baby sat front row and linked with Victor Wembanyama — the 7-foot-4 Spur who's also the new face of this exact collection. The guests around them: Wizkid, Asake, swimmer Léon Marchand. The collection is Pharrell's, built on surf culture — weathered denim, wetsuit-inspired fabric, beach tailoring.
+
+## The pipeline
+
+This is the loop that runs every June: Pharrell designs, the NBA's next franchise face fronts the campaign, and hip-hop fills the front row. Lil Baby, Wizkid, and Asake in the same building is the diaspora-rap axis getting LV's most valuable real estate — the seats the cameras actually shoot.
+
+## Why it's a story and not a photo
+
+The easy version is "rappers at fashion week." The real one is who Louis Vuitton chose to build SS27 around — a French-raised, NBA-crowned 22-year-old — and who it seated next to him. Brands decide who's next by who they dress, seat, and front. Wemby fronting and Lil Baby beside him is a bet on where the culture's attention goes next.
+
+---
+
+### Sources
+- [Sports Illustrated — Wembanyama fronts LV SS27](https://news4sanantonio.com/news/local/victor-wembanyama-fronts-louis-vuittons-spring-summer-2027-mens-collection)
+- [Just Jared — LV SS27 guest list & photos](https://www.justjared.com/2026/06/23/louis-vuitton-menswear-spring-summer-2027-show-in-paris-star-studded-guest-list-all-red-carpet-photos-revealed/)`,
+  },
+  {
+    slug: "gta-6-ultimate-edition-paywall",
+    title: "GTA VI Put Five Stores Behind a $100 Wall",
+    headline: "GTA VI Put Five Stores\nBehind a $100 Wall",
+    subhead: "Rockstar locked single-player shops and side missions to the Ultimate Edition — and the culture that made GTA noticed immediately.",
+    description: "GTA VI's $100 Ultimate Edition locks five single-player stores (Rideout Customs, Stock 305, Sara's Unisex Salon, Electric Fang Tattoo, One-Eyed Willie's) and side missions behind a paywall, sparking backlash.",
+    publishedAt: "2026-06-25",
+    goLiveAt: "2026-06-25",
+    keywords: ["GTA 6 Ultimate Edition","GTA VI paywall","GTA 6 locked stores","Rockstar Games","Jason and Lucia","Sneakz and Beatz"],
+    ogHeadline: "GTA VI Put Five Stores\nBehind a $100 Wall.",
+    ogAccent: "E6007E",
+    pillar: "gaming",
+    heroCredit: "Rockstar Games",
+    heroCreditUrl: "https://insider-gaming.com/gta-6-100-single-player-stores/",
+    body: `The biggest game ever made put part of itself behind a second paywall, and the people who turned GTA into culture noticed first.
+
+## What's locked
+
+GTA VI's $100 Ultimate Edition keeps five single-player stores — and the side missions attached to them — out of the base game entirely. The list: Rideout Customs and One-Eyed Willie's (mod shops, including donk builds and off-road work in Lake Leonida), Stock 305 (Stockyard streetwear for Jason and Lucia), Sara's Unisex Salon (cuts, facial hair, makeup, nails), and Electric Fang Tattoo — 50-plus designs from the art collective FAILE.
+
+## Why it stings
+
+Look at that list again: custom car culture, streetwear, fresh cuts, ink. That's not random DLC — it's the exact set of things that made GTA a Black-culture and car-culture touchstone in the first place. Donks, drip, the barbershop, the tattoo parlor. Locking the customization the culture uses to make these games its own behind a $100 tier reads differently than locking a flashy weapon.
+
+## The fight
+
+Fans clocked it fast — "a huge red flag," as one put it. Rockstar threaded the exclusives through Jason and Lucia's story, so this isn't a cosmetic skin; it's content. Whether the backlash moves anything before launch is the open question. The precedent it sets for the best-selling entertainment product of all time is the bigger one.
+
+---
+
+### Sources
+- [Insider Gaming — five single-player stores locked](https://insider-gaming.com/gta-6-100-single-player-stores/)
+- [GamesRadar+ — fans react to the paywall](https://www.gamesradar.com/games/grand-theft-auto/gta-6-exclusive-single-player-shops-and-side-missions-are-locked-to-the-usd100-ultimate-edition-and-fans-arent-happy-thats-a-huge-red-flag-for-me/)
+- [Dexerto — in-game stores behind Ultimate Edition](https://www.dexerto.com/gta/gta-6-locks-in-game-stores-behind-100-ultimate-edition-3379059/)`,
   }
 ];
 
