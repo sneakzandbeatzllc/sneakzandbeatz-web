@@ -111,7 +111,7 @@ export async function OnAirBar() {
 
 const ZONES = [
   { img: "/photos/sb-urban-clothesline.jpg", tag: "Sneakz of the Day", href: "/sneakers", span: true },
-  { img: "/photos/sb-producer-monitors.jpg", tag: "The Beat Lab", href: "/beats" },
+  { img: "/photos/sb-producer-monitors.jpg", tag: "The Beat Lab", href: "/beats", video: "/video/vault-79-ad.mp4" },
   { img: "/merch/girls-crop-pink-sb.jpg", tag: "S&B Girls", href: "/creators", pos: "center 28%" },
   { img: "/photos/pillars/gaming.webp", tag: "Gaming", href: "/gaming" },
   { img: "/the-frames-james-okoro.png", tag: "Anime", href: "/anime", pos: "center top" },
@@ -164,8 +164,22 @@ export function RoomHero() {
               href={z.href}
               className={"roomzone" + (z.span ? " roomzone-tall" : "")}
             >
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={z.img} alt={z.tag} loading="lazy" style={(z as { pos?: string }).pos ? { objectPosition: (z as { pos?: string }).pos } : undefined} />
+              {(z as { video?: string }).video ? (
+                // eslint-disable-next-line jsx-a11y/media-has-caption
+                <video
+                  src={(z as { video?: string }).video}
+                  poster={z.img}
+                  autoPlay
+                  muted
+                  loop
+                  playsInline
+                  preload="metadata"
+                  style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center top", display: "block" }}
+                />
+              ) : (
+                /* eslint-disable-next-line @next/next/no-img-element */
+                <img src={z.img} alt={z.tag} loading="lazy" style={(z as { pos?: string }).pos ? { objectPosition: (z as { pos?: string }).pos } : undefined} />
+              )}
               <span className="roomzone-tag">
                 <b>●</b> {z.tag}
               </span>
