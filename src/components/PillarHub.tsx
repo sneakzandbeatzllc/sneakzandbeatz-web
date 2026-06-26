@@ -4,7 +4,6 @@ import Footer from "./Footer";
 import LaneGrid from "./LaneGrid";
 import { fetchSubstackPostsForPillar, type SubstackPost } from "@/lib/substack";
 import { jsonLd, pillarCollectionPage } from "@/lib/schema";
-import { LANE_ESSAYS } from "@/data/lane-essays";
 
 const SITE = "https://www.sneakzandbeatz.com";
 
@@ -68,7 +67,6 @@ export default async function PillarHub({
   const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
   const ctaIsExternal = primaryCta.href.startsWith("http");
   const pillarLabel = pillarKey ? PILLAR_LABEL[pillarKey] : pillarName;
-  const pillarArticles = pillarKey ? LANE_ESSAYS.filter((e) => e.pillar === pillarKey) : [];
   return (
     <>
       {/* JSON-LD: CollectionPage schema. AI engines + Google use this to
@@ -114,46 +112,6 @@ export default async function PillarHub({
             )}
           </div>
         </header>
-
-        {pillarArticles.length > 0 && (
-          <section className="pillar-covers">
-            <h2 className="pillar-section-h">Latest {pillarLabel} Articles</h2>
-            <div className="pillar-covers-grid">
-              {pillarArticles.map((a) => (
-                <Link
-                  key={a.slug}
-                  href={`/the-lane/${a.slug}`}
-                  className="pillar-cover-card"
-                  style={{ textDecoration: "none" }}
-                >
-                  {a.heroImage && (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      src={a.heroImage}
-                      alt={a.title}
-                      loading="lazy"
-                      style={{ width: "100%", aspectRatio: "16 / 9", objectFit: "cover", borderRadius: 12, marginBottom: 14 }}
-                    />
-                  )}
-                  <span className="pillar-cover-tag">
-                    {new Date(a.publishedAt).toLocaleDateString("en-US", {
-                      month: "short",
-                      day: "numeric",
-                      year: "numeric",
-                    })}
-                  </span>
-                  <h3 className="pillar-cover-h">{a.title}</h3>
-                  <p className="pillar-cover-body">{a.subhead}</p>
-                  {a.heroCredit && (
-                    <span style={{ fontSize: "0.72rem", opacity: 0.5 }}>
-                      Photo: {a.heroCredit}
-                    </span>
-                  )}
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
 
         {showCovers && (
           <section className="pillar-covers">
