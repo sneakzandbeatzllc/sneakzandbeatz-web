@@ -21,6 +21,7 @@ import { MERCH_PRODUCTS, MERCH_LAUNCH_DATE } from "@/data/merch";
 import { BEATS } from "@/data/beats";
 import BeatPreviewList from "./BeatPreviewList";
 import SneakerOfTheDay from "./SneakerOfTheDay";
+import VaultAdVideo from "./VaultAdVideo";
 
 /* ---------------------------------------------------------------- drops */
 
@@ -308,15 +309,9 @@ export function BeatLabV3() {
     <section className="beatlab">
       <div className="container beatlab-grid">
         <div className="beatlab-art">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/photos/sb-producer-monitors.jpg" alt="The Beat Lab" loading="lazy" />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src="/beat-lab-promo.jpg"
-            alt="The Vault — 100 mastered beats for $79"
-            loading="lazy"
-            style={{ display: "block", width: "100%", height: "auto" }}
-          />
+          {/* The Vault banner is now a looping video (studio + animated $79 panel),
+              same size/shape as the old static banner. Tap for the beat. */}
+          <VaultAdVideo />
         </div>
         <div>
           <span className="eyebrow">The back room · Beat Lab</span>
