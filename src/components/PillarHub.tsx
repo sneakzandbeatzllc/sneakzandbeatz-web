@@ -56,7 +56,6 @@ export default async function PillarHub({
   pillarName,
   pillarTagline,
   lead,
-  covers,
   primaryCta = {
     label: "Subscribe On Substack",
     href: "https://sneakzandbeatz.substack.com",
@@ -65,7 +64,6 @@ export default async function PillarHub({
   pillarKey,
   extraSection,
   belowArticles,
-  showCovers = true,
 }: PillarHubProps) {
   const posts = pillarKey ? await fetchSubstackPostsForPillar(pillarKey, 3) : [];
   const ctaIsExternal = primaryCta.href.startsWith("http");
@@ -115,21 +113,6 @@ export default async function PillarHub({
             )}
           </div>
         </header>
-
-        {showCovers && (
-          <section className="pillar-covers">
-            <h2 className="pillar-section-h">What We Cover</h2>
-            <div className="pillar-covers-grid">
-              {covers.map((c, i) => (
-                <article key={i} className="pillar-cover-card">
-                  <span className="pillar-cover-tag">{c.tag}</span>
-                  <h3 className="pillar-cover-h">{c.heading}</h3>
-                  <p className="pillar-cover-body">{c.body}</p>
-                </article>
-              ))}
-            </div>
-          </section>
-        )}
 
         {/* Optional pillar-specific section (e.g. Hip-Hop's Beat Store + Bundle block) */}
         {extraSection}
