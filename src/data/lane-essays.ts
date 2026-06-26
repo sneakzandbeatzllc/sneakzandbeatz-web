@@ -1439,8 +1439,198 @@ Fans clocked it fast — "a huge red flag," as one put it. Rockstar threaded the
 - [Insider Gaming — five single-player stores locked](https://insider-gaming.com/gta-6-100-single-player-stores/)
 - [GamesRadar+ — fans react to the paywall](https://www.gamesradar.com/games/grand-theft-auto/gta-6-exclusive-single-player-shops-and-side-missions-are-locked-to-the-usd100-ultimate-edition-and-fans-arent-happy-thats-a-huge-red-flag-for-me/)
 - [Dexerto — in-game stores behind Ultimate Edition](https://www.dexerto.com/gta/gta-6-locks-in-game-stores-behind-100-ultimate-edition-3379059/)`,
-  }
+  },
+  {
+    slug: "jaide-air-jordan-11-low-fiberglass-2026",
+    title: "Jaide's First Jordan Is a Whitaker Group Flex",
+    headline: "Jaide's First Jordan Is\na Whitaker Group Flex",
+    subhead: "The AJ11 Low gets its first-ever collab — from the women's boutique inside the Black-owned group behind A Ma Maniere. Drops Saturday.",
+    description: "The Jaide x Air Jordan 11 Low 'Fiberglass' (IW1882-300, $205) releases June 27, 2026 — the first collab for the 11 Low and the first Jordan Brand linkup for Jaide, the Whitaker Group's women's boutique.",
+    publishedAt: "2026-06-26",
+    goLiveAt: "2026-06-26",
+    trendScore: 80,
+    keywords: ["Jaide Air Jordan 11 Low","Whitaker Group","A Ma Maniere","Black-owned sneaker boutique","Air Jordan 11 Low Fiberglass","Sneakz and Beatz"],
+    ogHeadline: "Jaide's First Jordan Is\na Whitaker Group Flex.",
+    ogAccent: "8FA0A8",
+    pillar: "sneakers",
+    heroFocus: "center",
+    heroCredit: "SneakerBarDetroit",
+    heroCreditUrl: "https://sneakerbardetroit.com/jaide-air-jordan-11-low-fiberglass/",
+    body: `The Air Jordan 11 Low has never had a collaborator. That ends Saturday — and where the collab comes from matters more than the fiberglass.
 
+## What's dropping
+
+The Jaide x Air Jordan 11 Low "Fiberglass" (style code **IW1882-300**) releases **June 27, 2026 for $205** on SNKRS and select Jordan retailers. It's the **first collaboration ever on the AJ11 Low** silhouette, and the **first Jordan Brand linkup for Jaide** — the translucent, fiberglass-inspired build wrapped in white and black.
+
+## Who Jaide actually is
+
+This isn't a random boutique. Jaide is the women's-focused shop under the **Whitaker Group** — the Black-owned operation that also runs **A Ma Maniere** and **Social Status**, the two doors Jordan Brand keeps handing its most coveted retros and collabs. The AMM Jordans resell for multiples of retail because of who's behind them. Now that same pull is being pointed at a women's-first lane.
+
+## The ownership read
+
+When Jordan Brand wants prestige, it doesn't go to a faceless reseller — it goes to Whitaker Group. That's a Black-owned company turning relationship into product power, and extending it to women's product instead of treating it as an afterthought. That's the through-line we cover and most sneaker outlets skip: not just the shoe, but whose name unlocked it.
+
+The fiberglass is the hook. The Whitaker Group name is the story. $205, Saturday, limited.
+
+---
+
+### Sources
+- [SneakerBarDetroit — Jaide x AJ11 Low 'Fiberglass'](https://sneakerbardetroit.com/jaide-air-jordan-11-low-fiberglass/)
+- [WWD Footwear News — June 2026 Air Jordan calendar](https://wwd.com/footwear-news/sneaker-news/air-jordan-release-date-calendar-june-2026-1238981229/)
+- Surfaced via @SoleRetriever (X)`,
+  },
+  {
+    slug: "future-the-real-me-album-july-2026",
+    title: "Future Calls 'The Real Me' the Album of the Century",
+    headline: "Future Calls 'The Real Me'\nthe Album of the Century",
+    subhead: "His 10th solo album lands July 10 with the single 'Radio.' He's not doing humble.",
+    description: "Future announced his 10th studio album 'The Real Me' for July 10, 2026, calling it the 'Album of the Century,' with lead single 'Radio.' A reported 22-track length is unconfirmed.",
+    publishedAt: "2026-06-26",
+    goLiveAt: "2026-06-26",
+    trendScore: 98,
+    keywords: ["Future The Real Me","Future new album 2026","Future Radio single","Album of the Century","Future July 10","Sneakz and Beatz"],
+    ogHeadline: "Future Calls 'The Real Me'\nthe Album of the Century.",
+    ogAccent: "C8262C",
+    pillar: "hiphop",
+    heroFocus: "center top",
+    heroCredit: "Billboard",
+    heroCreditUrl: "https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-release-date-radio-single-1236281554/",
+    body: `Future doesn't do small, and he isn't starting now.
+
+## The drop
+
+He announced his **10th studio album, _The Real Me_, for July 10, 2026** — and called it the **"Album of the Century"** to its face (Billboard). The lead single, **"Radio,"** arrives alongside its video. Tracklist, features, and cover art are still under wraps.
+
+One detail to flag: @Kurrco reports the album runs **22 tracks**. The trade outlets haven't confirmed a track count yet, so treat the 22 as a leak until the official list drops.
+
+## The framing is the story
+
+For years Future has lived behind the persona — the toxic anthems, the auto-tuned haze. Titling the 10th album _The Real Me_ is a deliberate pivot: a pitch that this one peels the mask back. After a long stretch of collab tapes and loosies, it's also his first proper solo full-length statement in a minute.
+
+## The read
+
+"Album of the Century" is Future being Future. But the man has the catalog to talk that loud, and an audience that treats every drop like an event. July 10 is when we find out whether the title's a bit or a bar.
+
+---
+
+### Sources
+- [Billboard — Future announces 'The Real Me' release date + 'Radio'](https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-release-date-radio-single-1236281554/)
+- [Hip-HopVibe — 'The Real Me' July 10](https://hip-hopvibe.com/news/future-to-release-the-real-me-album-on-july-10/)
+- 22-track count reported by @Kurrco (X) — unconfirmed`,
+  },
+  {
+    slug: "glorilla-pooh-shiesty-mane-2026",
+    title: "GloRilla and Pooh Shiesty Lock In on 'MANE'",
+    headline: "GloRilla and Pooh Shiesty\nLock In on 'MANE'",
+    subhead: "Big Glo's first solo single of the year is a Memphis-on-Memphis link — ice-cold, video out, Shiesty back in rotation.",
+    description: "GloRilla and Pooh Shiesty released 'MANE' on June 25, 2026 — GloRilla's first official solo single of the year, produced by London Jae, Squat Beats, and B100, with an official video. A Memphis collaboration between two of the city's biggest names.",
+    publishedAt: "2026-06-26",
+    goLiveAt: "2026-06-26",
+    trendScore: 88,
+    keywords: ["GloRilla MANE","Pooh Shiesty","Memphis rap 2026","GloRilla new single","London Jae","Sneakz and Beatz"],
+    ogHeadline: "GloRilla and Pooh Shiesty\nLock In on 'MANE'.",
+    ogAccent: "C8262C",
+    pillar: "hiphop",
+    heroFocus: "center top",
+    heroCredit: "RatingsGameMusic",
+    heroCreditUrl: "https://ratingsgamemusic.com/2026/06/25/glorilla-pooh-shiesty-go-ice-cold-on-mane/",
+    body: `Memphis doesn't share a city well. On "MANE," it doesn't have to.
+
+## The drop
+
+GloRilla and **Pooh Shiesty** dropped **"MANE" on June 25** with an official video — Big Glo's **first solo single of the year** (RatingsGameMusic). It's produced by **London Jae, Squat Beats, and B100**, and it's exactly what the title promises: two Memphis voices trading bars over a cold, glassy beat, no hook-chasing, just flexing and tallying up the road it took.
+
+## Two of the city's biggest, on one record
+
+This is a real link, not a feature-for-numbers. GloRilla is the most commercially dominant rapper Memphis has minted in years; **Pooh Shiesty** is one of its most influential street voices, and his presence here puts him **back in the rotation** on a marquee record. Putting both on the same track is the city closing ranks — the kind of in-house collab that keeps the bag and the bragging rights local.
+
+## Why our audience cares
+
+Memphis is a sound, not just a zip code — the icy, menacing strain that runs from Three 6 Mafia through Gangsta Boo to this. When the city's commercial queen and one of its street anchors lock in, that's the lineage protecting itself: keep the production in-house (London Jae is Memphis-raised), keep the features in the family, keep the ownership of the sound where it started. "MANE" isn't a crossover play. It's a flag plant.
+
+---
+
+### Sources
+- [RatingsGameMusic — GloRilla & Pooh Shiesty go ice cold on 'MANE'](https://ratingsgamemusic.com/2026/06/25/glorilla-pooh-shiesty-go-ice-cold-on-mane/)
+- [HotNewHipHop — Pooh Shiesty & GloRilla 'MANE'](https://www.hotnewhiphop.com/999370-pooh-shiesty-glorilla-upcoming-song-gucci-mane-debate)
+- Surfaced via X "Today's News" (4,900+ posts, Entertainment)`,
+  },
+  {
+    slug: "anime-expo-2026-schedule-black-clover-re-zero",
+    title: "Anime Expo 2026: Black Clover and Re:Zero Premiere First",
+    headline: "Anime Expo 2026: Black Clover\nand Re:Zero Premiere First",
+    subhead: "The full AX schedule is out — Kagurabachi's world premiere, Black Clover Season 2's first episode, and Re:Zero S4 all debut July 2–5 in LA.",
+    description: "Anime Expo 2026 (July 2–5, LA Convention Center) revealed its full schedule: Kagurabachi's world premiere, Black Clover Season 2's first episode (July 4, Peacock Theater), and a Re:Zero S4 premiere headline the lineup.",
+    publishedAt: "2026-06-26",
+    goLiveAt: "2026-06-26",
+    trendScore: 78,
+    keywords: ["Anime Expo 2026","Black Clover Season 2","Re:Zero Season 4","Kagurabachi anime","Crunchyroll Anime Expo","Sneakz and Beatz"],
+    ogHeadline: "Anime Expo 2026:\nThe Premieres Are Stacked.",
+    ogAccent: "1FAA59",
+    pillar: "anime",
+    heroFocus: "center top",
+    heroCredit: "Crunchyroll",
+    heroCreditUrl: "https://www.crunchyroll.com/news/announcements/2026/6/3/anime-expo-2026-crunchyroll-panels-premieres-schedule",
+    body: `Anime Expo 2026 — North America's biggest anime gathering, July 2–5 at the LA Convention Center — just dropped its full schedule, and the premieres are stacked.
+
+## What's debuting first
+
+- **Kagurabachi** makes its **anime world premiere** at the show — the manga that became a meme before it became a hit gets its first moving footage in front of an AX crowd.
+- **Black Clover Season 2's** brand-new **first episode** debuts **July 4 at the Peacock Theater** (panel 1:30 PM PT).
+- **Re:Zero Season 4 "The Recapture Arc"** gets an exclusive episode premiere inside KADOKAWA's "10 Years of KADOKAWA Anime" panel.
+- Crunchyroll's lineup also spans Demon Slayer: Infinity Castle, The Apothecary Diaries, Gachiakuta, and Witch Hat Atelier (Crunchyroll, OtakuKart).
+
+## Why our audience cares
+
+AX is where the Western anime audience — heavily Black, heavily online — gets first looks before the rest of the world. Kagurabachi and Black Clover S2 premiering to a US crowd *first* isn't a footnote; it's the globalization of anime happening in real time. That's the conversation Sneakz & Beatz covers as one with sneakers and hip-hop, because it's the same person in the room.
+
+July 2–5. If you're in LA, the Peacock Theater is the building.
+
+---
+
+### Sources
+- [Crunchyroll — AX 2026 panels & premieres](https://www.crunchyroll.com/news/announcements/2026/6/3/anime-expo-2026-crunchyroll-panels-premieres-schedule)
+- [OtakuKart — AX 2026 full schedule (Kagurabachi, Black Clover S2, Re:Zero S4)](https://otakukart.com/anime-expo-2026-full-schedule-revealed-with-kagurabachi-black-clover-season-2-cyberpunk-edgerunners-2-and-major-industry-events/)
+- Surfaced via @AniTrendz (X)`,
+  },
+  {
+    slug: "gta-6-amazon-brazil-gameplay-leak-2026",
+    title: "Amazon Brazil Leaked GTA 6's Whole Hand",
+    headline: "Amazon Brazil Leaked\nGTA 6's Whole Hand",
+    subhead: "A retail listing spilled switchable protagonists, an in-game social network, and PS5 Pro enhancements — weeks before the rumored Trailer 3.",
+    description: "Amazon Brazil's GTA 6 product listing leaked unannounced gameplay details — switchable Jason and Lucia protagonists, an in-game social network that unlocks secret side missions, dynamic weather, NPC routines, and PS5 Pro enhancements — ahead of a rumored Trailer 3. GTA 6 launches November 19, 2026.",
+    publishedAt: "2026-06-26",
+    goLiveAt: "2026-06-26",
+    trendScore: 95,
+    keywords: ["GTA 6 Amazon leak","GTA 6 gameplay details","GTA 6 Trailer 3","Jason Lucia switchable protagonists","GTA 6 PS5 Pro","Sneakz and Beatz"],
+    ogHeadline: "Amazon Brazil Leaked\nGTA 6's Whole Hand.",
+    ogAccent: "E0A000",
+    pillar: "gaming",
+    heroFocus: "center top",
+    heroCredit: "Dexerto",
+    heroCreditUrl: "https://www.dexerto.com/gta/amazon-gta-6-page-leaks-gta-6-gameplay-features-map-details-dynamic-weather-social-media-more-3379716/",
+    body: `Rockstar guards GTA like state secrets. A retailer just left the vault door open.
+
+## What spilled
+
+On June 25, eagle-eyed fans caught **Amazon Brazil's GTA 6 product listing** describing gameplay Rockstar has never officially shown (Dexerto). The big ones: you'll **swap between Jason and Lucia** on the fly and run **duo missions** where the two link up; NPCs get **unique daily routines** that trigger random events across the map, a clear step past Red Dead 2's living world; and the listing frames the game's headline feature as an **in-game social network** that can hand you **secret side missions** if you dig. A second Brazilian retailer added **PS5 Pro enhancements** — higher frame rate and resolution (Vice, GamesRadar).
+
+## Treat it as a leak, not a reveal
+
+This is a retail listing, not a Rockstar drop — RockstarINTEL is already waving the "or have they?" flag, and product-page copy gets things wrong. So: credible, sourced, and unconfirmed until Rockstar says it. The timing matters though — it surfaced with **"Trailer 3" trending**, and a leak this detailed right before a trailer window rarely lands by accident.
+
+## Why our audience cares
+
+GTA isn't just the biggest game on earth — it's a hip-hop artifact. Vice City's radio dial, the soundtrack licensing, the way a GTA placement can move a record: this franchise sits inside the culture, not next to it. An in-game social network in **Leonida** is Rockstar building the feed *into* the world, and whoever scores those stations come launch is getting a platform the size of a country. **November 19, 2026** is the date. The leak just made the wait louder.
+
+---
+
+### Sources
+- [Dexerto — Amazon GTA 6 page leaks gameplay features, map, weather](https://www.dexerto.com/gta/amazon-gta-6-page-leaks-gta-6-gameplay-features-map-details-dynamic-weather-social-media-more-3379716/)
+- [GamesRadar+ — switchable protagonists, in-game social media](https://www.gamesradar.com/games/grand-theft-auto/more-gta-6-features-may-have-been-leaked-by-amazon-switchable-protagonists-in-game-social-media-and-more/)
+- [ScreenRant — gameplay leak surfaces ahead of Trailer 3](https://screenrant.com/gta-6-gameplay-leak-june-2026/)
+- Surfaced via X "Today's News" (180+ posts) — Trailer 3 trending under Gaming`,
+  }
 ];
 
 // --- Scheduled publishing -------------------------------------------------
