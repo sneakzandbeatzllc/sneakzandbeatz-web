@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T22:54:16+00:00",
+  "generated_utc": "2026-06-26T23:53:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "15 Strongest Jujutsu Kaisen Characters Of All Time, Ranked",
+      "url": "https://screenrant.com/jujutsu-kaisen-most-powerful-characters/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "5 Action Anime Better Than Solo Leveling",
       "url": "https://screenrant.com/action-anime-better-than-solo-leveling/",
       "pillar": "anime",
@@ -83,13 +90,6 @@
     {
       "title": "Hunter x Hunter Is Back With New Trailer Ahead Of The Series’ Return",
       "url": "https://screenrant.com/hunter-x-hunter-is-back-with-new-trailer-ahead-of-the-series-return/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Guts Has Officially Returned In Berserk Comeback Fans Waited 4 Years To See",
-      "url": "https://screenrant.com/berserk-manga-anime-guts-return-chapter-385/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

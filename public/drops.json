@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T22:54:16+00:00",
+  "generated_utc": "2026-06-26T23:53:40+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "6d4ecbd6418e",
+      "pillar": "anime",
+      "title": "15 Strongest Jujutsu Kaisen Characters Of All Time, Ranked",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-most-powerful-characters/",
+      "thumbnail": "/drops/thumbs/6d4ecbd6418e.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "30573d2b329e",
       "pillar": "anime",
       "title": "5 Action Anime Better Than Solo Leveling",
@@ -141,18 +153,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/hunter-x-hunter-is-back-with-new-trailer-ahead-of-the-series-return/",
       "thumbnail": "/drops/thumbs/36c01fef3c73.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7984036eb03f",
-      "pillar": "anime",
-      "title": "Guts Has Officially Returned In Berserk Comeback Fans Waited 4 Years To See",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/berserk-manga-anime-guts-return-chapter-385/",
-      "thumbnail": "/drops/thumbs/7984036eb03f.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "30573d2b329e",
+    "6d4ecbd6418e",
     "a71da97d0d37",
     "0badc71888ee"
   ]
