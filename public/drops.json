@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T12:32:32+00:00",
+  "generated_utc": "2026-06-26T13:04:59+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "d16ccc629ad1",
+      "id": "de3d867eaef1",
       "pillar": "gaming",
-      "title": "Guide Where to Pre-Order GTA 6 on PS5",
+      "title": "News GTA 6 Screenshots Unlikely to Be Running Real-Time on PS5, Tech Experts Warn",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
-      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-screenshots-unlikely-to-be-running-real-time-on-ps5-tech-experts-warn",
+      "thumbnail": "/drops/thumbs/de3d867eaef1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "b1ad1beb2ed7",
+      "id": "51c391862cd2",
       "pillar": "gaming",
-      "title": "News Dragon's Dogma 2: Dark Arisen Directed by the Man Who Transformed the Original Game",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-directed-by-the-man-who-transformed-the-original-game",
-      "thumbnail": "/drops/thumbs/b1ad1beb2ed7.jpg",
+      "title": "Resident Evil 2′ s 28-Year-Old Mystery About The Photo Of Jill Valentine’s ‘Boyfriend’ Has Been Solved",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/resident-evil-2-claire-photo-boyfriend-kyle-maclachlan-winona-ryder-mel-gibson-michael-j-fox-2000710927",
+      "thumbnail": "/drops/thumbs/51c391862cd2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "946f3514d195",
+      "id": "b1ad1beb2ed7",
       "pillar": "gaming",
-      "title": "Sony Seems To Have Laid Off Bungie Co-Founder And Destiny Director, Jason Jones",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563214/article/sony-seems-to-have-laid-off-bungie-co-founder-and-destiny-director-jason-jones/",
-      "thumbnail": "/drops/thumbs/946f3514d195.jpg",
+      "title": "News Dragon's Dogma 2: Dark Arisen Directed by the Man Who Transformed the Original Game",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-directed-by-the-man-who-transformed-the-original-game",
+      "thumbnail": "/drops/thumbs/b1ad1beb2ed7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "a564d37c57cf",
     "a71da97d0d37",
-    "d16ccc629ad1"
+    "de3d867eaef1"
   ]
 }
