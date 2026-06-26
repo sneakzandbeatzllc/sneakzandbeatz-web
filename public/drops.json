@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T19:36:44+00:00",
+  "generated_utc": "2026-06-26T02:42:17+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "a71da97d0d37",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
+      "thumbnail": "/drops/thumbs/a71da97d0d37.jpg",
+      "published": "2026-06-25T15:28:28",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "3b557c6e398e",
@@ -87,36 +99,48 @@
       "release_badge": ""
     },
     {
-      "id": "f819ee9b9d42",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
-      "thumbnail": "/drops/thumbs/f819ee9b9d42.jpg",
-      "published": "2026-06-24T02:41:03",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8828b99b0476",
+      "id": "a564d37c57cf",
       "pillar": "anime",
-      "title": "Dragon Ball's Next Anime Will Unlock The Ultimate Reverse Spirit Bomb",
+      "title": "7 Years Ago, Attack on Titan Broke Shonen Anime's One Sacred Rule And Changed The Genre Forever",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-next-anime-reverse-spirit-bomb-fission-vegeta/",
-      "thumbnail": "/drops/thumbs/8828b99b0476.png",
+      "source_url": "https://screenrant.com/attack-on-titan-broke-shonen-one-rule-eren-villain/",
+      "thumbnail": "/drops/thumbs/a564d37c57cf.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "91f66c47beea",
+      "id": "4127328382ac",
       "pillar": "anime",
-      "title": "The Wait Is Over, Demon Slayer: Infinity Castle Lands Streaming Release Date",
+      "title": "My Hero Academia: 30 Most Powerful Quirks",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-streaming-release-date/",
-      "thumbnail": "/drops/thumbs/91f66c47beea.jpg",
+      "source_url": "https://screenrant.com/my-hero-academia-powerful-quirks-ranked/",
+      "thumbnail": "/drops/thumbs/4127328382ac.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1acdaa13db15",
+      "pillar": "anime",
+      "title": "Netflix Confirms Next One Piece Spin-Off Is Coming In 2 Weeks",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/netflix-one-piece-heroines-streaming-release-date/",
+      "thumbnail": "/drops/thumbs/1acdaa13db15.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9303e1bdea8a",
+      "pillar": "anime",
+      "title": "Naruto's 2027 Return With New Anime Is Officially The Start Of An Era",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-2027-new-anime-start-era/",
+      "thumbnail": "/drops/thumbs/9303e1bdea8a.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -135,36 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "04d3942eccae",
+      "id": "beef12a29b38",
       "pillar": "anime",
-      "title": "Dr. Stone Ending Explained: What Happens To Senku In The Finale?",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dr-stone-ending-explained/",
-      "thumbnail": "/drops/thumbs/04d3942eccae.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d0c189195158",
-      "pillar": "anime",
-      "title": "It's Official, One Piece Is Now Less Than 1 Year Away From Its Absolute Peak",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-one-piece-remake-february-peak/",
-      "thumbnail": "/drops/thumbs/d0c189195158.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "746c6f8016e3",
-      "pillar": "anime",
-      "title": "DC Studios, Warner Bros. Animation Announce Joker: Laugh Riot Anime With Sola Entertainment",
+      "title": "Princess Jellyfish Manga Creator Akiko Higashimura Directs 1st Live-Action Series",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/dc-studios-warner-bros-animation-announce-joker-laugh-riot-anime-with-sola-entertainment/.238951",
-      "thumbnail": "/drops/thumbs/746c6f8016e3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/princess-jellyfish-manga-creator-akiko-higashimura-directs-1st-live-action-series/.238958",
+      "thumbnail": "/drops/thumbs/beef12a29b38.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "d18c9dc991d6",
+      "id": "746c6f8016e3",
       "pillar": "anime",
-      "title": "Kindergarten Wars Anime Casts Mirei Kumagai",
+      "title": "DC Studios, Warner Bros. Animation Announce Joker: Laugh Riot Anime With Sola Entertainment",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/kindergarten-wars-anime-casts-mirei-kumagai/.238949",
-      "thumbnail": "/drops/thumbs/d18c9dc991d6.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/dc-studios-warner-bros-animation-announce-joker-laugh-riot-anime-with-sola-entertainment/.238951",
+      "thumbnail": "/drops/thumbs/746c6f8016e3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,18 +213,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563208/article/playstation-has-locked-in-marketing-for-gta-6-but-they-had-to-make-one-correction/",
       "thumbnail": "/drops/thumbs/635825f03d99.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0f658131eec8",
-      "pillar": "gaming",
-      "title": "Fans Debate If GTA 6 Is Actually A $100 Game As Anger Grows Around The Ultimate Edition Locking Content Away",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/fans-debate-if-gta-6-is-actually-a-100-game-as-anger-grows-around-the-ultimate-edition-locking-content-away-2000710588",
-      "thumbnail": "/drops/thumbs/0f658131eec8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,14 +277,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "6b59b0579948",
+      "pillar": "gaming",
+      "title": "Did Rockstar Just Confirm That GTA 6 Won’t Have GTA Online?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563190/article/did-rockstar-just-confirm-that-gta-6-wont-have-gta-online/",
+      "thumbnail": "/drops/thumbs/6b59b0579948.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "8828b99b0476",
-    "3b557c6e398e",
+    "a564d37c57cf",
+    "a71da97d0d37",
     "2b0f4bb7e3ab"
   ]
 }
