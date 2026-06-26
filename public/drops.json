@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T23:40:03+00:00",
+  "generated_utc": "2026-06-26T00:10:00+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "a564d37c57cf",
+      "pillar": "anime",
+      "title": "7 Years Ago, Attack on Titan Broke Shonen Anime's One Sacred Rule And Changed The Genre Forever",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/attack-on-titan-broke-shonen-one-rule-eren-villain/",
+      "thumbnail": "/drops/thumbs/a564d37c57cf.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4127328382ac",
       "pillar": "anime",
       "title": "My Hero Academia: 30 Most Powerful Quirks",
@@ -141,18 +153,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/viz-set-sail-book-behind-the-scenes-of-netflix-live-action-one-piece-adaptation/",
       "thumbnail": "/drops/thumbs/7111b12d6d85.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "04d3942eccae",
-      "pillar": "anime",
-      "title": "Dr. Stone Ending Explained: What Happens To Senku In The Finale?",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dr-stone-ending-explained/",
-      "thumbnail": "/drops/thumbs/04d3942eccae.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "4127328382ac",
+    "a564d37c57cf",
     "a71da97d0d37",
     "2b0f4bb7e3ab"
   ]

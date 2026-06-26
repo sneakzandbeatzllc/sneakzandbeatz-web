@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T23:40:03+00:00",
+  "generated_utc": "2026-06-26T00:10:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "7 Years Ago, Attack on Titan Broke Shonen Anime's One Sacred Rule And Changed The Genre Forever",
+      "url": "https://screenrant.com/attack-on-titan-broke-shonen-one-rule-eren-villain/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "My Hero Academia: 30 Most Powerful Quirks",
       "url": "https://screenrant.com/my-hero-academia-powerful-quirks-ranked/",
       "pillar": "anime",
@@ -83,13 +90,6 @@
     {
       "title": "Inside Set Sail: Netflix Production Reveals How One Piece Beat The Live-Action Adaptation Curse",
       "url": "https://screenrant.com/viz-set-sail-book-behind-the-scenes-of-netflix-live-action-one-piece-adaptation/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dr. Stone Ending Explained: What Happens To Senku In The Finale?",
-      "url": "https://screenrant.com/dr-stone-ending-explained/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
