@@ -122,7 +122,7 @@ export default function TikTokFeed() {
 
         <div className="tiktok-feed-rail">
           {hasVideos ? (
-            PINNED_VIDEOS.map((v) => (
+            PINNED_VIDEOS.slice(0, 3).map((v) => (
               <TikTokVideoCard key={v.id} video={v} />
             ))
           ) : (

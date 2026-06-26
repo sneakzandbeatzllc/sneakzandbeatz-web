@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T04:36:49+00:00",
+  "generated_utc": "2026-06-25T19:36:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,13 +22,6 @@
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
       "pillar": "sneakers",
       "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
-      "pillar": "sneakers",
-      "score": 2.0,
       "article_slug": null
     },
     {
@@ -60,43 +53,50 @@
       "article_slug": null
     },
     {
-      "title": "7 Years Ago, Attack on Titan Broke Shonen Anime's One Sacred Rule And Changed The Genre Forever",
-      "url": "https://screenrant.com/attack-on-titan-broke-shonen-one-rule-eren-villain/",
+      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dragon Ball's Next Anime Will Unlock The Ultimate Reverse Spirit Bomb",
+      "url": "https://screenrant.com/dragon-ball-super-next-anime-reverse-spirit-bomb-fission-vegeta/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Bleach's Final Season Is Here After 22 Years, And Its First 3 Episodes Are All 10/10s",
-      "url": "https://screenrant.com/bleach-final-season-preview-review/",
+      "title": "The Wait Is Over, Demon Slayer: Infinity Castle Lands Streaming Release Date",
+      "url": "https://screenrant.com/demon-slayer-infinity-castle-streaming-release-date/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "My Hero Academia: 30 Most Powerful Quirks",
-      "url": "https://screenrant.com/my-hero-academia-powerful-quirks-ranked/",
+      "title": "Inside Set Sail: Netflix Production Reveals How One Piece Beat The Live-Action Adaptation Curse",
+      "url": "https://screenrant.com/viz-set-sail-book-behind-the-scenes-of-netflix-live-action-one-piece-adaptation/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Netflix Confirms Next One Piece Spin-Off Is Coming In 2 Weeks",
-      "url": "https://screenrant.com/netflix-one-piece-heroines-streaming-release-date/",
+      "title": "Dr. Stone Ending Explained: What Happens To Senku In The Finale?",
+      "url": "https://screenrant.com/dr-stone-ending-explained/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "It's Official, Naruto's 2027 Anime Is The Start Of A New Era",
-      "url": "https://screenrant.com/naruto-2027-new-anime-start-era/",
+      "title": "It's Official, One Piece Is Now Less Than 1 Year Away From Its Absolute Peak",
+      "url": "https://screenrant.com/netflix-one-piece-remake-february-peak/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "The World's Strongest Witch Anime's New Video Reveals 2 Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-26/the-world-strongest-witch-anime-new-video-reveals-2-cast-members/.238962",
+      "title": "DC Studios, Warner Bros. Animation Announce Joker: Laugh Riot Anime With Sola Entertainment",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-25/dc-studios-warner-bros-animation-announce-joker-laugh-riot-anime-with-sola-entertainment/.238951",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "MAO Anime Announces More Cast for 2nd Part",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-25/mao-anime-announces-more-cast-for-2nd-part/.238961",
+      "title": "Kindergarten Wars Anime Casts Mirei Kumagai",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-25/kindergarten-wars-anime-casts-mirei-kumagai/.238949",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -125,6 +125,13 @@
     {
       "title": "PlayStation Has Locked In Marketing For GTA 6 – But They Had To Make One Correction",
       "url": "https://gameranx.com/updates/id/563208/article/playstation-has-locked-in-marketing-for-gta-6-but-they-had-to-make-one-correction/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Fans Debate If GTA 6 Is Actually A $100 Game As Anger Grows Around The Ultimate Edition Locking Content Away",
+      "url": "https://kotaku.com/fans-debate-if-gta-6-is-actually-a-100-game-as-anger-grows-around-the-ultimate-edition-locking-content-away-2000710588",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "PlayStation Says GTA 6 “Plays Best” On PS5 – But Only Mentions Immersion, Not Performance",
       "url": "https://gameranx.com/updates/id/563192/article/playstation-says-gta-6-plays-best-on-ps5-but-only-mentions-immersion-not-performance/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Did Rockstar Just Confirm That GTA 6 Won’t Have GTA Online?",
-      "url": "https://gameranx.com/updates/id/563190/article/did-rockstar-just-confirm-that-gta-6-wont-have-gta-online/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

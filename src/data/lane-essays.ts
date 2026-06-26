@@ -28,6 +28,7 @@ export type LaneEssay = {
   heroCredit?: string;
   heroCreditUrl?: string;
   trendScore?: number;      // 0–100 trend heat (Google Trends + X/Twitter). Higher = ranks higher on the homepage. Updated by the trend pass.
+  heroFocus?: string;       // CSS object-position for the homepage card crop (e.g. "center top", "center"). Keeps the subject's head/face in frame.
 };
 
 export const LANE_ESSAYS: LaneEssay[] = [

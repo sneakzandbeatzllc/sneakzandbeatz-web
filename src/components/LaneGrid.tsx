@@ -81,7 +81,13 @@ export default function LaneGrid({
                 <img
                   src={heroSrc}
                   alt={e.title}
-                  style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
+                  style={{
+                    width: "100%",
+                    height: "100%",
+                    objectFit: "cover",
+                    objectPosition: e.heroFocus ?? "center top",
+                    display: "block",
+                  }}
                 />
               </div>
             ) : (

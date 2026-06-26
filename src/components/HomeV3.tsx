@@ -112,8 +112,8 @@ const ZONES = [
   { img: "/photos/sb-urban-clothesline.jpg", tag: "Sneakz of the Day", href: "/sneakers", span: true },
   { img: "/photos/sb-producer-monitors.jpg", tag: "The Beat Lab", href: "/beats" },
   { img: "/merch/girls-crop-pink-sb.jpg", tag: "S&B Girls", href: "/creators", pos: "center 28%" },
-  { img: "/photos/pillars/gaming.webp", tag: "The Arcade Corner", href: "/gaming" },
-  { img: "/the-frames-james-okoro.png", tag: "The Frames", href: "/anime" },
+  { img: "/photos/pillars/gaming.webp", tag: "Games", href: "/gaming" },
+  { img: "/the-frames-james-okoro.png", tag: "Anime", href: "/anime", pos: "center top" },
 ];
 
 export function RoomHero() {
