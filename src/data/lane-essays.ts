@@ -27,6 +27,7 @@ export type LaneEssay = {
   heroImage?: string;
   heroCredit?: string;
   heroCreditUrl?: string;
+  trendScore?: number;      // 0–100 trend heat (Google Trends + X/Twitter). Higher = ranks higher on the homepage. Updated by the trend pass.
 };
 
 export const LANE_ESSAYS: LaneEssay[] = [
@@ -1444,6 +1445,7 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     slug: "aj4-musik-carter-iii",
+    trendScore: 78,
     title: "The AJ4 'Musik' Is Cash Money on a Sneaker",
     headline: "The AJ4 'Musik' Is Cash Money\non a Sneaker",
     subhead:
@@ -1505,6 +1507,7 @@ The Musik is going to move regardless. The grills are loud, the gold photographs
   },
   {
     slug: "aj-black-pack-2026",
+    trendScore: 66,
     title: "The Jordan 'Black Pack' Bets on the Forgotten Numbers",
     headline: "The Jordan 'Black Pack' Bets\non the Forgotten Numbers",
     subhead: "AJ14 Low, 15, 16, and 17 Low — blacked out in snakeskin and stingray. Jordan Brand finally hands the unloved silhouettes a luxury moment.",
@@ -1542,6 +1545,7 @@ Holiday 2026, $240 a pair: the 14 Low and 16 first, then the 15 and 17 close out
   },
   {
     slug: "obama-aj1-mtm-all-the-smoke",
+    trendScore: 72,
     title: "Obama Pulled Out the MTM 1s on All The Smoke",
     headline: "Obama Pulled Out the MTM 1s\non All The Smoke",
     subhead: "The rarest Air Jordan 1 most people will never see — gifted by Nike in 2015 — on the most documented Black sneakerhead alive, on a Black-owned podcast.",
@@ -1577,6 +1581,7 @@ Sneaker media will cover this as "Obama wore rare Jordans." The real story is th
   },
   {
     slug: "robert-nava-cdg-play-converse-dsm-paris",
+    trendScore: 45,
     title: "Robert Nava Put His Monsters on a CDG Play Chuck",
     headline: "Robert Nava Put His Monsters\non a CDG Play Chuck",
     subhead: "300 pairs, Dover Street Market Paris, one afternoon only. The art-world-to-sneaker pipeline runs through Comme des Garçons.",
@@ -1612,6 +1617,7 @@ The art-world-to-sneaker pipeline is one most sneaker outlets skip — they'll c
   },
   {
     slug: "nba-youngboy-more-leaks-2",
+    trendScore: 84,
     title: "YoungBoy Drops 'More Leaks 2' With No Warning",
     headline: "YoungBoy Drops 'More Leaks 2'\nWith No Warning",
     subhead: "A Friday surprise from the most-streamed rapper who never needed the industry's permission.",
@@ -1646,6 +1652,7 @@ This is the whole YoungBoy model in one move. While the industry plans eight-wee
   },
   {
     slug: "lil-baby-wembanyama-louis-vuitton-ss27",
+    trendScore: 88,
     title: "Lil Baby and Wemby Held Court at Louis Vuitton",
     headline: "Lil Baby and Wemby Held Court\nat Louis Vuitton",
     subhead: "Pharrell's front row in Paris is where hip-hop, the NBA's next face, and luxury keep shaking hands.",
@@ -1680,6 +1687,7 @@ The easy version is "rappers at fashion week." The real one is who Louis Vuitton
   },
   {
     slug: "gta-6-ultimate-edition-paywall",
+    trendScore: 95,
     title: "GTA VI Put Five Stores Behind a $100 Wall",
     headline: "GTA VI Put Five Stores\nBehind a $100 Wall",
     subhead: "Rockstar locked single-player shops and side missions to the Ultimate Edition — and the culture that made GTA noticed immediately.",
@@ -1733,6 +1741,17 @@ export function getLiveEssays(now: string = todayISO()): LaneEssay[] {
   return LANE_ESSAYS.filter((e) => isEssayLive(e, now)).sort((a, b) =>
     (b.goLiveAt || b.publishedAt).localeCompare(a.goLiveAt || a.publishedAt),
   );
+}
+
+// Live essays ranked by trend heat (Google Trends + X/Twitter), highest first;
+// ties break to newest. The homepage rail uses this so the hottest story leads.
+export function getRankedEssays(now: string = todayISO()): LaneEssay[] {
+  return getLiveEssays(now).sort((a, b) => {
+    const ta = a.trendScore ?? 0;
+    const tb = b.trendScore ?? 0;
+    if (tb !== ta) return tb - ta;
+    return (b.goLiveAt || b.publishedAt).localeCompare(a.goLiveAt || a.publishedAt);
+  });
 }
 
 export function getEssay(slug: string): LaneEssay | undefined {

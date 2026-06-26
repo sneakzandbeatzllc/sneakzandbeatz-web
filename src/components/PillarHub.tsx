@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Header from "./Header";
 import Footer from "./Footer";
+import LaneGrid from "./LaneGrid";
 import { fetchSubstackPostsForPillar, type SubstackPost } from "@/lib/substack";
 import { jsonLd, pillarCollectionPage } from "@/lib/schema";
 import { LANE_ESSAYS } from "@/data/lane-essays";
@@ -241,6 +242,9 @@ export default async function PillarHub({
         </section>
 
       </section>
+
+      {/* Same trend-ranked article grid as /the-lane, filtered to this pillar. */}
+      <LaneGrid pillar={pillarKey} heading={`Latest in ${pillarLabel}`} />
 
       <Footer />
     </>
