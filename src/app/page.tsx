@@ -4,6 +4,7 @@ import ShowEmbed from "@/components/ShowEmbed";
 import SubstackSticker from "@/components/SubstackSticker";
 import Footer from "@/components/Footer";
 import LaneGrid from "@/components/LaneGrid";
+import VaultAdVideo from "@/components/VaultAdVideo";
 import {
   OnAirBar,
   RoomHero,
@@ -117,6 +118,7 @@ export default async function HomePage() {
       <LaneGrid limit={8} balanced heading="Latest from The Lane" />
 
       <BeatLabV3 />
+      <VaultAdVideo />
       <MerchZone />
       <GirlsZone />
       <TikTokFeed />
