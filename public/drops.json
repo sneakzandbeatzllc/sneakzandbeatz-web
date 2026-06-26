@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-25T19:36:44+00:00",
+  "generated_utc": "2026-06-26T08:00:45+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "a71da97d0d37",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
+      "thumbnail": "/drops/thumbs/a71da97d0d37.jpg",
+      "published": "2026-06-25T15:28:28",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "3b557c6e398e",
@@ -87,84 +99,72 @@
       "release_badge": ""
     },
     {
-      "id": "f819ee9b9d42",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
-      "thumbnail": "/drops/thumbs/f819ee9b9d42.jpg",
-      "published": "2026-06-24T02:41:03",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8828b99b0476",
+      "id": "a564d37c57cf",
       "pillar": "anime",
-      "title": "Dragon Ball's Next Anime Will Unlock The Ultimate Reverse Spirit Bomb",
+      "title": "7 Years Ago, Attack on Titan Broke Shonen Anime's One Sacred Rule And Changed The Genre Forever",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-next-anime-reverse-spirit-bomb-fission-vegeta/",
-      "thumbnail": "/drops/thumbs/8828b99b0476.png",
+      "source_url": "https://screenrant.com/attack-on-titan-broke-shonen-one-rule-eren-villain/",
+      "thumbnail": "/drops/thumbs/a564d37c57cf.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "91f66c47beea",
+      "id": "14cf944388d2",
       "pillar": "anime",
-      "title": "The Wait Is Over, Demon Slayer: Infinity Castle Lands Streaming Release Date",
+      "title": "Bleach's Final Season Is Here After 22 Years, And Its First 3 Episodes Are All 10/10s",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-streaming-release-date/",
-      "thumbnail": "/drops/thumbs/91f66c47beea.jpg",
+      "source_url": "https://screenrant.com/bleach-final-season-preview-review/",
+      "thumbnail": "/drops/thumbs/14cf944388d2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "7111b12d6d85",
+      "id": "4127328382ac",
       "pillar": "anime",
-      "title": "Inside Set Sail: Netflix Production Reveals How One Piece Beat The Live-Action Adaptation Curse",
+      "title": "My Hero Academia: 30 Most Powerful Quirks",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/viz-set-sail-book-behind-the-scenes-of-netflix-live-action-one-piece-adaptation/",
-      "thumbnail": "/drops/thumbs/7111b12d6d85.jpg",
+      "source_url": "https://screenrant.com/my-hero-academia-powerful-quirks-ranked/",
+      "thumbnail": "/drops/thumbs/4127328382ac.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "04d3942eccae",
+      "id": "1acdaa13db15",
       "pillar": "anime",
-      "title": "Dr. Stone Ending Explained: What Happens To Senku In The Finale?",
+      "title": "Netflix Confirms Next One Piece Spin-Off Is Coming In 2 Weeks",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dr-stone-ending-explained/",
-      "thumbnail": "/drops/thumbs/04d3942eccae.jpg",
+      "source_url": "https://screenrant.com/netflix-one-piece-heroines-streaming-release-date/",
+      "thumbnail": "/drops/thumbs/1acdaa13db15.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d0c189195158",
+      "id": "9303e1bdea8a",
       "pillar": "anime",
-      "title": "It's Official, One Piece Is Now Less Than 1 Year Away From Its Absolute Peak",
+      "title": "It's Official, Naruto's 2027 Anime Is The Start Of A New Era",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-one-piece-remake-february-peak/",
-      "thumbnail": "/drops/thumbs/d0c189195158.png",
+      "source_url": "https://screenrant.com/naruto-2027-new-anime-start-era/",
+      "thumbnail": "/drops/thumbs/9303e1bdea8a.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "746c6f8016e3",
+      "id": "164245f3ade2",
       "pillar": "anime",
-      "title": "DC Studios, Warner Bros. Animation Announce Joker: Laugh Riot Anime With Sola Entertainment",
+      "title": "Aoashi Season 2 Anime Reveals New Visual, Theme Song Artists",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/dc-studios-warner-bros-animation-announce-joker-laugh-riot-anime-with-sola-entertainment/.238951",
-      "thumbnail": "/drops/thumbs/746c6f8016e3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/aoashi-season-2-anime-reveals-new-visual-theme-song-artists/.238966",
+      "thumbnail": "/drops/thumbs/164245f3ade2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,24 @@
       "release_badge": ""
     },
     {
-      "id": "d18c9dc991d6",
+      "id": "9271f7cfa769",
       "pillar": "anime",
-      "title": "Kindergarten Wars Anime Casts Mirei Kumagai",
+      "title": "Skeleton Knight in Another World Anime Season 2's Video Reveals 3 Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-25/kindergarten-wars-anime-casts-mirei-kumagai/.238949",
-      "thumbnail": "/drops/thumbs/d18c9dc991d6.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/skeleton-knight-in-another-world-anime-season-2-video-reveals-3-cast-members/.238964",
+      "thumbnail": "/drops/thumbs/9271f7cfa769.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d16ccc629ad1",
+      "pillar": "gaming",
+      "title": "Guide Where to Pre-Order GTA 6 on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-on-ps5",
+      "thumbnail": "/drops/thumbs/d16ccc629ad1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "0f658131eec8",
+      "id": "14567959d1b9",
       "pillar": "gaming",
-      "title": "Fans Debate If GTA 6 Is Actually A $100 Game As Anger Grows Around The Ultimate Edition Locking Content Away",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/fans-debate-if-gta-6-is-actually-a-100-game-as-anger-grows-around-the-ultimate-edition-locking-content-away-2000710588",
-      "thumbnail": "/drops/thumbs/0f658131eec8.jpg",
+      "title": "News PS5 Adds Custom GTA 6 Start-Up Screen, Sony Rebrands PS App as Pre-Orders Go Live",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-adds-custom-gta-6-start-up-screen-sony-rebrands-ps-app-as-pre-orders-go-live",
+      "thumbnail": "/drops/thumbs/14567959d1b9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "dc184c849752",
+      "pillar": "gaming",
+      "title": "Rumour GTA 6 Will Get a Disc-Based Physical Release After Its Initial Launch",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/rumour-gta-6-will-get-a-disc-based-physical-release-after-its-initial-launch",
+      "thumbnail": "/drops/thumbs/dc184c849752.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c82da89522b1",
       "pillar": "gaming",
       "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
@@ -265,38 +289,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "dc1c36164125",
-      "pillar": "gaming",
-      "title": "Multiple Retailers Won’t Sell GTA 6 Over Only Selling A Code-In-A-Box At Retail",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563195/article/multiple-retailers-wont-sell-gta-6-over-only-selling-a-code-in-a-box-at-retail/",
-      "thumbnail": "/drops/thumbs/dc1c36164125.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8f2d94aceecd",
-      "pillar": "gaming",
-      "title": "PlayStation Says GTA 6 “Plays Best” On PS5 – But Only Mentions Immersion, Not Performance",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563192/article/playstation-says-gta-6-plays-best-on-ps5-but-only-mentions-immersion-not-performance/",
-      "thumbnail": "/drops/thumbs/8f2d94aceecd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "8828b99b0476",
-    "3b557c6e398e",
-    "2b0f4bb7e3ab"
+    "a564d37c57cf",
+    "a71da97d0d37",
+    "d16ccc629ad1"
   ]
 }
