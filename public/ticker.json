@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T10:02:40+00:00",
+  "generated_utc": "2026-06-26T11:02:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "'You, Fireworks, and Our Promise' Anime Film Reveals Clip Featuring Protagonist Makoto Natsume",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-26/you-fireworks-and-our-promise-anime-film-reveals-clip-featuring-protagonist-makoto-natsume/.238977",
+      "title": "Sekiro: No Defeat Anime Reveals Theatrical Trailer",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-26/sekiro-no-defeat-anime-reveals-theatrical-trailer/.238978",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Victoria of Many Faces Anime's New Short Promo Video Highlights 8 Characters",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-26/victoria-of-many-faces-anime-new-short-promo-video-highlights-8-characters/.238976",
+      "title": "'You, Fireworks, and Our Promise' Anime Film Reveals Clip Featuring Protagonist Makoto Natsume",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-26/you-fireworks-and-our-promise-anime-film-reveals-clip-featuring-protagonist-makoto-natsume/.238977",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Leaker Who Accurately Claimed GTA 6 Won’t Be On Disc At Launch Says They’re Coming This December",
-      "url": "https://gameranx.com/updates/id/563197/article/leaker-who-accurately-claimed-gta-6-wont-be-on-disc-at-launch-says-theyre-coming-this-december/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
       "url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "News Dragon's Dogma 2: Dark Arisen Directed by the Man Who Transformed the Original Game",
       "url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-directed-by-the-man-who-transformed-the-original-game",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sony Seems To Have Laid Off Bungie Co-Founder And Destiny Director, Jason Jones",
+      "url": "https://gameranx.com/updates/id/563214/article/sony-seems-to-have-laid-off-bungie-co-founder-and-destiny-director-jason-jones/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

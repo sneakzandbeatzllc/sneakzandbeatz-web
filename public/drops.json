@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T10:02:40+00:00",
+  "generated_utc": "2026-06-26T11:02:34+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "fa3898975e06",
+      "id": "a6e8011a845d",
       "pillar": "anime",
-      "title": "'You, Fireworks, and Our Promise' Anime Film Reveals Clip Featuring Protagonist Makoto Natsume",
+      "title": "Sekiro: No Defeat Anime Reveals Theatrical Trailer",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/you-fireworks-and-our-promise-anime-film-reveals-clip-featuring-protagonist-makoto-natsume/.238977",
-      "thumbnail": "/drops/thumbs/fa3898975e06.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/sekiro-no-defeat-anime-reveals-theatrical-trailer/.238978",
+      "thumbnail": null,
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "e44be13f2f6a",
+      "id": "fa3898975e06",
       "pillar": "anime",
-      "title": "Victoria of Many Faces Anime's New Short Promo Video Highlights 8 Characters",
+      "title": "'You, Fireworks, and Our Promise' Anime Film Reveals Clip Featuring Protagonist Makoto Natsume",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/victoria-of-many-faces-anime-new-short-promo-video-highlights-8-characters/.238976",
-      "thumbnail": "/drops/thumbs/e44be13f2f6a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-26/you-fireworks-and-our-promise-anime-film-reveals-clip-featuring-protagonist-makoto-natsume/.238977",
+      "thumbnail": "/drops/thumbs/fa3898975e06.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "335b856d9c8d",
-      "pillar": "gaming",
-      "title": "Leaker Who Accurately Claimed GTA 6 Won’t Be On Disc At Launch Says They’re Coming This December",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563197/article/leaker-who-accurately-claimed-gta-6-wont-be-on-disc-at-launch-says-theyre-coming-this-december/",
-      "thumbnail": "/drops/thumbs/335b856d9c8d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c82da89522b1",
       "pillar": "gaming",
       "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
@@ -285,6 +273,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/dragons-dogma-2-dark-arisen-directed-by-the-man-who-transformed-the-original-game",
       "thumbnail": "/drops/thumbs/b1ad1beb2ed7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "946f3514d195",
+      "pillar": "gaming",
+      "title": "Sony Seems To Have Laid Off Bungie Co-Founder And Destiny Director, Jason Jones",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563214/article/sony-seems-to-have-laid-off-bungie-co-founder-and-destiny-director-jason-jones/",
+      "thumbnail": "/drops/thumbs/946f3514d195.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
