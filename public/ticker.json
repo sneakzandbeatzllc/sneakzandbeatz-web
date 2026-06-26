@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T18:51:29+00:00",
+  "generated_utc": "2026-06-26T19:52:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Some Stores Are Warning There Might Not Be Enough Consoles For Everyone Who Wants To Play GTA 6 This Year",
-      "url": "https://kotaku.com/xbox-series-x-ps5-increased-demand-low-supply-gta6-2000711005",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
       "url": "https://www.pushsquare.com/news/2026/06/ps5-pre-orders-of-gta-6-apparently-outpacing-xbox-by-61",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "News GTA 6 Screenshots Unlikely to Be Running Real-Time on PS5, Tech Experts Warn",
       "url": "https://www.pushsquare.com/news/2026/06/gta-6-screenshots-unlikely-to-be-running-real-time-on-ps5-tech-experts-warn",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
+      "url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

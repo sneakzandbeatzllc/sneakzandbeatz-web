@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-26T18:51:29+00:00",
+  "generated_utc": "2026-06-26T19:52:10+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "9b966adca727",
-      "pillar": "gaming",
-      "title": "Some Stores Are Warning There Might Not Be Enough Consoles For Everyone Who Wants To Play GTA 6 This Year",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/xbox-series-x-ps5-increased-demand-low-supply-gta6-2000711005",
-      "thumbnail": "/drops/thumbs/9b966adca727.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c47a095184e9",
       "pillar": "gaming",
       "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
@@ -285,6 +273,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-screenshots-unlikely-to-be-running-real-time-on-ps5-tech-experts-warn",
       "thumbnail": "/drops/thumbs/de3d867eaef1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c82da89522b1",
+      "pillar": "gaming",
+      "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
+      "thumbnail": "/drops/thumbs/c82da89522b1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
