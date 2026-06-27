@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T22:04:41+00:00",
+  "generated_utc": "2026-06-27T23:03:52+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "One Piece Is Officially Changing Genres for Its Final Saga",
+      "url": "https://screenrant.com/one-piece-changing-genre-last-arc/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Bleach Just Revealed The Anime's True Villain, And It's Not Who Fans Think",
       "url": "https://screenrant.com/bleach-true-villain-ichibe-not-yhwach/",
       "pillar": "anime",
@@ -95,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "10 Anime Originals So Good They Got Manga Adaptations Straight After",
-      "url": "https://screenrant.com/anime-originals-got-manga-adaptations-after/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Toei Animation Details 2D/3D Hybrid Film Monkey Quest for 2027",
       "url": "https://www.animenewsnetwork.com/news/2026-06-27/toei-animation-details-2d-3d-hybrid-film-monkey-quest-for-2027/.239027",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "8 Anime That Set Standards the Industry Still Can’t Match",
-      "url": "https://screenrant.com/anime-industry-standards-cant-match/",
+      "title": "10 Anime Originals So Good They Got Manga Adaptations Straight After",
+      "url": "https://screenrant.com/anime-originals-got-manga-adaptations-after/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
