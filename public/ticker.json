@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T08:57:47+00:00",
+  "generated_utc": "2026-06-27T09:57:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,8 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "OceanVeil Streams Chainsmoker Cat Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-27/oceanveil-streams-chainsmoker-cat-anime/.238864",
+      "title": "Victoria of Many Faces Anime's New Promo Video Reveals Opening Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-27/victoria-of-many-faces-anime-new-promo-video-reveals-opening-song/.239016",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Pokémon Horizons Anime Adds 2 New Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-26/pokemon-horizons-anime-adds-2-new-cast-members/.238982",
+      "title": "OceanVeil Streams Chainsmoker Cat Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-27/oceanveil-streams-chainsmoker-cat-anime/.238864",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "North American Anime, Manga Releases, June 21-27",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-26/north-american-anime-manga-releases-june-21-27/.238814",
+      "title": "Pokémon Horizons Anime Adds 2 New Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-26/pokemon-horizons-anime-adds-2-new-cast-members/.238982",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Screenshots Unlikely to Be Running Real-Time on PS5, Tech Experts Warn",
-      "url": "https://www.pushsquare.com/news/2026/06/gta-6-screenshots-unlikely-to-be-running-real-time-on-ps5-tech-experts-warn",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Pre-order GTA 6 pre-orders live updates – Amazon restocks as more retailers put pre-orders for Grand Theft Auto 6 online",
       "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Deals These Prime Day deals are perfect for people clamoring for GTA 6 release day",
       "url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
+      "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
