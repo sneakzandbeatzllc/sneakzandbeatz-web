@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T04:56:06+00:00",
+  "generated_utc": "2026-06-27T05:56:28+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "0badc71888ee",
+      "id": "c47a095184e9",
       "pillar": "gaming",
-      "title": "News Major Retailer Warns of PS5 Console Shortages in Light of GTA 6",
+      "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/major-retailer-warns-of-ps5-console-shortages-in-light-of-gta-6",
-      "thumbnail": "/drops/thumbs/0badc71888ee.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-pre-orders-of-gta-6-apparently-outpacing-xbox-by-61",
+      "thumbnail": "/drops/thumbs/c47a095184e9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "c47a095184e9",
+      "id": "de3d867eaef1",
       "pillar": "gaming",
-      "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
+      "title": "News GTA 6 Screenshots Unlikely to Be Running Real-Time on PS5, Tech Experts Warn",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-pre-orders-of-gta-6-apparently-outpacing-xbox-by-61",
-      "thumbnail": "/drops/thumbs/c47a095184e9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-screenshots-unlikely-to-be-running-real-time-on-ps5-tech-experts-warn",
+      "thumbnail": "/drops/thumbs/de3d867eaef1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "6d4ecbd6418e",
     "a71da97d0d37",
-    "0badc71888ee"
+    "c47a095184e9"
   ]
 }
