@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T21:03:08+00:00",
+  "generated_utc": "2026-06-27T22:04:41+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "e94852328027",
-      "pillar": "anime",
-      "title": "Shonen Jump Has Found Its Next Dragon Ball",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/cannon-master-dragon-ball-replacement-shonen-jump/",
-      "thumbnail": "/drops/thumbs/e94852328027.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8b79af4fca95",
       "pillar": "anime",
       "title": "Bleach Just Revealed The Anime's True Villain, And It's Not Who Fans Think",
@@ -171,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "c1027233ed93",
+      "pillar": "anime",
+      "title": "10 Anime Originals So Good They Got Manga Adaptations Straight After",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/anime-originals-got-manga-adaptations-after/",
+      "thumbnail": "/drops/thumbs/c1027233ed93.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c256153a8ff9",
       "pillar": "anime",
       "title": "Toei Animation Details 2D/3D Hybrid Film Monkey Quest for 2027",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "17207983fb30",
+      "id": "32a31e0b942c",
       "pillar": "anime",
-      "title": "After 26 Years, This Star Wars Masterpiece Is Aging Better Than The Prequels",
+      "title": "8 Anime That Set Standards the Industry Still Can’t Match",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/star-wars-forgotten-manga-aged-perfectly/",
-      "thumbnail": "/drops/thumbs/17207983fb30.jpg",
+      "source_url": "https://screenrant.com/anime-industry-standards-cant-match/",
+      "thumbnail": "/drops/thumbs/32a31e0b942c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "e94852328027",
+    "8b79af4fca95",
     "03d08969d2f3",
     "87ea185c5c75"
   ]
