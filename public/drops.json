@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T16:00:15+00:00",
+  "generated_utc": "2026-06-27T16:02:31+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "ea22af466386",
+      "id": "87ea185c5c75",
       "pillar": "gaming",
-      "title": "News GTA 6 PS5 Disc Hopes Seemingly Dashed by Rockstar Source",
+      "title": "Talking Point Is GTA 6's Dodgy Ultimate Edition a Deal-Breaker?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-disc-hopes-seemingly-dashed-by-rockstar-source",
-      "thumbnail": "/drops/thumbs/ea22af466386.jpg",
+      "source_url": "https://www.pushsquare.com/features/talking-point-is-gta-6s-dodgy-ultimate-edition-a-deal-breaker",
+      "thumbnail": "/drops/thumbs/87ea185c5c75.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -233,7 +233,7 @@
     {
       "id": "eb46ee4607d9",
       "pillar": "gaming",
-      "title": "There Remains No Disc-Based Version Of Grand Theft Auto 6 Despite Promising Email From Rockstar",
+      "title": "Grand Theft Auto 6 Reportedly Won’t Get A Disc-Version Even Months After Launch, Despite Promising New Email From Rockstar",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/there-remains-no-disc-based-version-of-grand-theft-auto-vi-despite-promising-email-from-rockstar-2000711186",
       "thumbnail": "/drops/thumbs/eb46ee4607d9.jpg",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "c47a095184e9",
+      "id": "ea22af466386",
       "pillar": "gaming",
-      "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
+      "title": "News GTA 6 PS5 Disc Hopes Seemingly Dashed by Rockstar Source",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-pre-orders-of-gta-6-apparently-outpacing-xbox-by-61",
-      "thumbnail": "/drops/thumbs/c47a095184e9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-disc-hopes-seemingly-dashed-by-rockstar-source",
+      "thumbnail": "/drops/thumbs/ea22af466386.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "e94852328027",
     "03d08969d2f3",
-    "ea22af466386"
+    "87ea185c5c75"
   ]
 }
