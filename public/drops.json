@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T13:27:36+00:00",
+  "generated_utc": "2026-06-27T13:59:33+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -183,24 +183,24 @@
       "release_badge": ""
     },
     {
-      "id": "4562cfa753a9",
+      "id": "eacd2e6b5d23",
       "pillar": "anime",
-      "title": "The Next Era Of Apothecary Diaries Is Here, And Every Fan Needs To Check It Out ASAP (Exclusive)",
+      "title": "The Modern Heir To Hello Kitty's Throne Is Here",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/apothecary-diaries-palace-chronicles-next-era/",
-      "thumbnail": "/drops/thumbs/4562cfa753a9.png",
+      "source_url": "https://screenrant.com/miniso-yoyo-hello-kitty-heir/",
+      "thumbnail": "/drops/thumbs/eacd2e6b5d23.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "c47a095184e9",
+      "id": "ea22af466386",
       "pillar": "gaming",
-      "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
+      "title": "News GTA 6 PS5 Disc Hopes Seemingly Dashed by Rockstar Source",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-pre-orders-of-gta-6-apparently-outpacing-xbox-by-61",
-      "thumbnail": "/drops/thumbs/c47a095184e9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-disc-hopes-seemingly-dashed-by-rockstar-source",
+      "thumbnail": "/drops/thumbs/ea22af466386.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "c47a095184e9",
+      "pillar": "gaming",
+      "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/ps5-pre-orders-of-gta-6-apparently-outpacing-xbox-by-61",
+      "thumbnail": "/drops/thumbs/c47a095184e9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2a2fc5fc8037",
       "pillar": "gaming",
       "title": "After GTA 6's controversial code-in-a-box, Marvel's Wolverine confirmed to come with a disc",
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "e609c0f144c1",
-      "pillar": "gaming",
-      "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
-      "thumbnail": "/drops/thumbs/e609c0f144c1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "e94852328027",
     "a71da97d0d37",
-    "c47a095184e9"
+    "ea22af466386"
   ]
 }

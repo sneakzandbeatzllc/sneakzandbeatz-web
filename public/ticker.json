@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T13:27:36+00:00",
+  "generated_utc": "2026-06-27T13:59:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -109,15 +109,15 @@
       "article_slug": null
     },
     {
-      "title": "The Next Era Of Apothecary Diaries Is Here, And Every Fan Needs To Check It Out ASAP (Exclusive)",
-      "url": "https://screenrant.com/apothecary-diaries-palace-chronicles-next-era/",
+      "title": "The Modern Heir To Hello Kitty's Throne Is Here",
+      "url": "https://screenrant.com/miniso-yoyo-hello-kitty-heir/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-pre-orders-of-gta-6-apparently-outpacing-xbox-by-61",
+      "title": "News GTA 6 PS5 Disc Hopes Seemingly Dashed by Rockstar Source",
+      "url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-disc-hopes-seemingly-dashed-by-rockstar-source",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -144,6 +144,13 @@
       "article_slug": null
     },
     {
+      "title": "News PS5 Pre-Orders of GTA 6 Apparently Outpacing Xbox by 6:1",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5-pre-orders-of-gta-6-apparently-outpacing-xbox-by-61",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "After GTA 6's controversial code-in-a-box, Marvel's Wolverine confirmed to come with a disc",
       "url": "https://www.gamesradar.com/games/action/after-gta-6s-controversial-code-in-a-box-decision-marvels-wolverine-devs-confirm-the-ps5-game-comes-with-a-disc/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Pre-order GTA 6 pre-orders live - stock is flying and bundles are hitting the shelves",
       "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
-      "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
