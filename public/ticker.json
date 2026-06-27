@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T00:54:30+00:00",
+  "generated_utc": "2026-06-27T02:55:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Episode #1168 Release Date And Time",
-      "url": "https://screenrant.com/one-piece-episode-1168-release-date-time/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Pokémon Horizons Anime Adds 2 New Cast Members",
       "url": "https://www.animenewsnetwork.com/news/2026-06-26/pokemon-horizons-anime-adds-2-new-cast-members/.238982",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Crunchyroll's biggest surprise hit of the summer officially releases in 2 weeks — but you can start now",
       "url": "https://www.polygon.com/smoking-behind-the-supermarket-with-you-release-date-premiere/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rent-A-Girlfriend Anime Gets 6th Season",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-26/rent-a-girlfriend-anime-gets-6th-season/.238997",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
