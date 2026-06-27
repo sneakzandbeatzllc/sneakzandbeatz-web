@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T10:59:16+00:00",
+  "generated_utc": "2026-06-27T11:58:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,6 +13,13 @@
     {
       "title": "Air Jordan 4 GS “Sweet Beet” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-gs-sweet-beet/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 15 “Snakeskin” Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Shonen Jump Has Found Its Next Dragon Ball",
+      "url": "https://screenrant.com/cannon-master-dragon-ball-replacement-shonen-jump/",
+      "pillar": "anime",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Crunchyroll's biggest surprise hit of the summer officially releases in 2 weeks — but you can start now",
       "url": "https://www.polygon.com/smoking-behind-the-supermarket-with-you-release-date-premiere/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "OceanVeil Streams Chainsmoker Cat Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-27/oceanveil-streams-chainsmoker-cat-anime/.238864",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
