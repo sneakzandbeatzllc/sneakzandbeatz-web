@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-27T15:01:50+00:00",
+  "generated_utc": "2026-06-27T15:58:52+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,6 +20,13 @@
     {
       "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
+      "url": "https://sneakerbardetroit.com/air-jordan-4-birds-of-paradise/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -53,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 13 “Flint” Returns August 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-13-flint-2026/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Shonen Jump Has Found Its Next Dragon Ball",
       "url": "https://screenrant.com/cannon-master-dragon-ball-replacement-shonen-jump/",
       "pillar": "anime",
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Ascendance of a Bookworm Part 3 Anime's 3rd Video Previews New Ending Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-27/ascendance-of-a-bookworm-part-3-anime-3rd-video-previews-new-ending-song/.239018",
+      "title": "Kill Blue Anime Gets 2nd Season",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-27/kill-blue-anime-gets-2nd-season/.239025",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Victoria of Many Faces Anime's New Promo Video Reveals Opening Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-27/victoria-of-many-faces-anime-new-promo-video-reveals-opening-song/.239016",
+      "title": "Ascendance of a Bookworm Part 3 Anime's 3rd Video Previews New Ending Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-27/ascendance-of-a-bookworm-part-3-anime-3rd-video-previews-new-ending-song/.239018",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "OceanVeil Streams Chainsmoker Cat Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-27/oceanveil-streams-chainsmoker-cat-anime/.238864",
+      "title": "Victoria of Many Faces Anime's New Promo Video Reveals Opening Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-27/victoria-of-many-faces-anime-new-promo-video-reveals-opening-song/.239016",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,8 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "Sony Is Going All Out And Giving GTA 6 Special Treatment Even First-Party PlayStation Exclusives Don’t Get",
-      "url": "https://kotaku.com/sony-is-going-all-out-and-giving-gta-6-special-treatment-even-first-party-playstation-exclusives-dont-get-2000710949",
+      "title": "There Remains No Disc-Based Version Of Grand Theft Auto 6 Despite Promising Email From Rockstar",
+      "url": "https://kotaku.com/there-remains-no-disc-based-version-of-grand-theft-auto-vi-despite-promising-email-from-rockstar-2000711186",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Pre-order GTA 6 pre-orders live - stock is flying and bundles are hitting the shelves",
-      "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
+      "title": "Sony Is Going All Out And Giving GTA 6 Special Treatment Even First-Party PlayStation Exclusives Don’t Get",
+      "url": "https://kotaku.com/sony-is-going-all-out-and-giving-gta-6-special-treatment-even-first-party-playstation-exclusives-dont-get-2000710949",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
