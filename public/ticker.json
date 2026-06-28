@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T05:09:45+00:00",
+  "generated_utc": "2026-06-28T08:05:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,13 +8,6 @@
       "url": "https://www.sneakerfiles.com/quai-54-air-jordan-11-low-ie-gunsmoke/",
       "pillar": "sneakers",
       "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 GS “Sweet Beet” Releases July 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-gs-sweet-beet/",
-      "pillar": "sneakers",
-      "score": 2.4,
       "article_slug": null
     },
     {
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 13 “Flint” Returns August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-13-flint-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "15 Best Apocalypse Manhwa To Read After Solo Leveling",
       "url": "https://screenrant.com/best-manhwa-like-solo-leveling-apocalyptic/",
       "pillar": "anime",
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Pokémon Unite Smartphone Game Gets Live-Action Short Project",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-27/pokemon-unite-smartphone-game-gets-live-action-short-project/.239037",
+      "title": "Wit Studio Reveals LONA Original TV Anime by Director Takashi Katagiri Slated for Spring 2027 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-28/wit-studio-reveals-lona-original-tv-anime-by-director-takashi-katagiri-slated-for-spring-2027-debut/.239047",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "MAO Anime Previews 2nd Part, New Theme Songs in Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-27/mao-anime-previews-2nd-part-new-theme-songs-in-video/.239029",
+      "title": "Pokémon Unite Smartphone Game Gets Live-Action Short Project",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-27/pokemon-unite-smartphone-game-gets-live-action-short-project/.239037",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

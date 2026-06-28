@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T05:09:45+00:00",
+  "generated_utc": "2026-06-28T08:05:29+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -13,18 +13,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "535dbfc6cf56",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 GS “Sweet Beet” Releases July 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-gs-sweet-beet/",
-      "thumbnail": "/drops/thumbs/535dbfc6cf56.jpg",
-      "published": "2026-06-24T01:27:05",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "70ced94e4a3b",
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "343d7df100fa",
+      "pillar": "sneakers",
+      "title": "Air Jordan 13 “Flint” Returns August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-13-flint-2026/",
+      "thumbnail": "/drops/thumbs/343d7df100fa.jpg",
+      "published": "2026-06-24T03:08:57",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "6006636468f9",
       "pillar": "anime",
       "title": "15 Best Apocalypse Manhwa To Read After Solo Leveling",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "b75fcbe90984",
+      "id": "e22c23738d97",
       "pillar": "anime",
-      "title": "Pokémon Unite Smartphone Game Gets Live-Action Short Project",
+      "title": "Wit Studio Reveals LONA Original TV Anime by Director Takashi Katagiri Slated for Spring 2027 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-27/pokemon-unite-smartphone-game-gets-live-action-short-project/.239037",
-      "thumbnail": "/drops/thumbs/b75fcbe90984.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/wit-studio-reveals-lona-original-tv-anime-by-director-takashi-katagiri-slated-for-spring-2027-debut/.239047",
+      "thumbnail": "/drops/thumbs/e22c23738d97.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "f2ba3dfc4eb8",
+      "id": "b75fcbe90984",
       "pillar": "anime",
-      "title": "MAO Anime Previews 2nd Part, New Theme Songs in Video",
+      "title": "Pokémon Unite Smartphone Game Gets Live-Action Short Project",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-27/mao-anime-previews-2nd-part-new-theme-songs-in-video/.239029",
-      "thumbnail": "/drops/thumbs/f2ba3dfc4eb8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-27/pokemon-unite-smartphone-game-gets-live-action-short-project/.239037",
+      "thumbnail": "/drops/thumbs/b75fcbe90984.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "01215be0285b",
-    "535dbfc6cf56",
     "70ced94e4a3b",
-    "6006636468f9",
     "03d08969d2f3",
+    "6006636468f9",
+    "a71da97d0d37",
     "aed3cfd0a10f"
   ]
 }
