@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T00:06:03+00:00",
+  "generated_utc": "2026-06-28T01:02:46+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "afc50a902901",
+      "pillar": "anime",
+      "title": "2 Years Later, Jinwoo's Best Solo Leveling Line Is Still The Greatest New-Gen Anime Quote",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-jinwoo-best-new-gen-anime-quote/",
+      "thumbnail": "/drops/thumbs/afc50a902901.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "51b20a43e382",
       "pillar": "anime",
       "title": "15 Strongest Hunter x Hunter Characters Of All Time, Ranked",
@@ -117,18 +129,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-changing-genre-last-arc/",
       "thumbnail": "/drops/thumbs/27bdeff0409d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8b79af4fca95",
-      "pillar": "anime",
-      "title": "Bleach Just Revealed The Anime's True Villain, And It's Not Who Fans Think",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/bleach-true-villain-ichibe-not-yhwach/",
-      "thumbnail": "/drops/thumbs/8b79af4fca95.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "51b20a43e382",
+    "afc50a902901",
     "03d08969d2f3",
     "87ea185c5c75"
   ]
