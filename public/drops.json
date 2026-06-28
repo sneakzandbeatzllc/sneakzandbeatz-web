@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T03:08:10+00:00",
+  "generated_utc": "2026-06-28T04:08:59+00:00",
   "items": [
     {
       "id": "01215be0285b",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "6006636468f9",
+      "pillar": "anime",
+      "title": "15 Best Apocalypse Manhwa To Read After Solo Leveling",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-manhwa-like-solo-leveling-apocalyptic/",
+      "thumbnail": "/drops/thumbs/6006636468f9.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "afc50a902901",
       "pillar": "anime",
       "title": "2 Years Later, Jinwoo's Best Solo Leveling Line Is Still The Greatest New-Gen Anime Quote",
@@ -111,24 +123,24 @@
       "release_badge": ""
     },
     {
-      "id": "0fc2b670588b",
+      "id": "dae8dfeb79e9",
       "pillar": "anime",
-      "title": "The Best Fight In Black Clover Anime History Is Now Only 4 Months Away",
+      "title": "One Piece's Anime Was Doomed From The First Episode, But 27 Years Later, The Remake Is Fixing It",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-anime-best-fight-magna-dante/",
-      "thumbnail": "/drops/thumbs/0fc2b670588b.png",
+      "source_url": "https://screenrant.com/one-piece-remake-fixing-anime-first-episode-problem/",
+      "thumbnail": "/drops/thumbs/dae8dfeb79e9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "51b20a43e382",
+      "id": "0fc2b670588b",
       "pillar": "anime",
-      "title": "15 Strongest Hunter x Hunter Characters Of All Time, Ranked",
+      "title": "The Best Fight In Black Clover Anime History Is Now Only 4 Months Away",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/strongest-hunter-x-hunter-characters-ranking/",
-      "thumbnail": "/drops/thumbs/51b20a43e382.png",
+      "source_url": "https://screenrant.com/black-clover-anime-best-fight-magna-dante/",
+      "thumbnail": "/drops/thumbs/0fc2b670588b.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -177,18 +189,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/snowball-earth-season-2-announcement/",
       "thumbnail": "/drops/thumbs/62adf9e32ffe.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f538552415f3",
-      "pillar": "anime",
-      "title": "Daemons of the Shadow Realm Anime's New Video Announces Next Theme Songs",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-27/daemons-of-the-shadow-realm-anime-new-video-announces-next-theme-songs/.239028",
-      "thumbnail": "/drops/thumbs/f538552415f3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "01215be0285b",
     "535dbfc6cf56",
     "70ced94e4a3b",
-    "afc50a902901",
+    "6006636468f9",
     "03d08969d2f3",
     "87ea185c5c75"
   ]
