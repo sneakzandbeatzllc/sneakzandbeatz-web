@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T13:13:34+00:00",
+  "generated_utc": "2026-06-28T13:30:48+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "92536aec6048",
+      "id": "c49d4e623d12",
       "pillar": "anime",
-      "title": "9 best anime on HBO Max (#3 is one of the greatest psychological thrillers of all time)",
+      "title": "This 12-part sci-fi masterpiece is a perfect weekend binge that breaks the genre's biggest rule",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/best-anime-on-hbo-max-streaming/",
-      "thumbnail": "/drops/thumbs/92536aec6048.jpg",
+      "source_url": "https://www.polygon.com/gene-of-ai-streaming-crunchyroll/",
+      "thumbnail": "/drops/thumbs/c49d4e623d12.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "62adf9e32ffe",
+      "id": "92536aec6048",
       "pillar": "anime",
-      "title": "Spring’s standout sci-fi anime is getting a second season",
+      "title": "9 best anime on HBO Max (#3 is one of the greatest psychological thrillers of all time)",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/snowball-earth-season-2-announcement/",
-      "thumbnail": "/drops/thumbs/62adf9e32ffe.png",
+      "source_url": "https://www.polygon.com/best-anime-on-hbo-max-streaming/",
+      "thumbnail": "/drops/thumbs/92536aec6048.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
