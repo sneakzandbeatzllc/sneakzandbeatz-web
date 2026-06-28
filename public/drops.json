@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T08:10:29+00:00",
+  "generated_utc": "2026-06-28T08:36:15+00:00",
   "items": [
-    {
-      "id": "01215be0285b",
-      "pillar": "sneakers",
-      "title": "Quai 54 x Air Jordan 11 Low IE “Gunsmoke” Releases June 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/quai-54-air-jordan-11-low-ie-gunsmoke/",
-      "thumbnail": "/drops/thumbs/01215be0285b.jpg",
-      "published": "2026-06-24T02:22:58",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
     {
       "id": "70ced94e4a3b",
       "pillar": "sneakers",
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "f326a8cd9b49",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 8 “Chrome” Returns in Fall 2026",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
+      "thumbnail": "/drops/thumbs/f326a8cd9b49.jpg",
+      "published": "2026-06-22T07:33:54",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "6006636468f9",
       "pillar": "anime",
       "title": "15 Best Apocalypse Manhwa To Read After Solo Leveling",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "e22c23738d97",
+      "id": "0418359bf903",
       "pillar": "anime",
-      "title": "Wit Studio Reveals LONA Original TV Anime by Director Takashi Katagiri Slated for Spring 2027 Debut",
+      "title": "Mission: Yozakura Family Anime's 2nd Season Continues With 2nd Part in October",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/wit-studio-reveals-lona-original-tv-anime-by-director-takashi-katagiri-slated-for-spring-2027-debut/.239047",
-      "thumbnail": "/drops/thumbs/e22c23738d97.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/mission-yozakura-family-anime-2nd-season-continues-with-2nd-part-in-october/.239053",
+      "thumbnail": "/drops/thumbs/0418359bf903.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "b75fcbe90984",
+      "id": "e22c23738d97",
       "pillar": "anime",
-      "title": "Pokémon Unite Smartphone Game Gets Live-Action Short Project",
+      "title": "Wit Studio Reveals LONA Original TV Anime by Director Takashi Katagiri Slated for Spring 2027 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-27/pokemon-unite-smartphone-game-gets-live-action-short-project/.239037",
-      "thumbnail": "/drops/thumbs/b75fcbe90984.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/wit-studio-reveals-lona-original-tv-anime-by-director-takashi-katagiri-slated-for-spring-2027-debut/.239047",
+      "thumbnail": "/drops/thumbs/e22c23738d97.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "01215be0285b",
     "70ced94e4a3b",
     "03d08969d2f3",
-    "6006636468f9",
     "a71da97d0d37",
+    "6006636468f9",
+    "3b557c6e398e",
     "aed3cfd0a10f"
   ]
 }
