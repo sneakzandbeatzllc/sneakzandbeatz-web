@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T18:16:44+00:00",
+  "generated_utc": "2026-06-28T19:09:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,8 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "Cyberpunk: Edgerunners 2 is finally coming out this fall, Netflix confirms",
-      "url": "https://www.polygon.com/cybepunk-edgerunners-2-release-window-new-characters/",
+      "title": "Netflix's most surprising new anime is already impossible to ignore",
+      "url": "https://www.polygon.com/jimoto-sakai-mappa-anime-series-trailer-story-release-date/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "This 12-part sci-fi masterpiece is a perfect weekend binge that breaks the genre's biggest rule",
-      "url": "https://www.polygon.com/gene-of-ai-streaming-crunchyroll/",
+      "title": "Cyberpunk: Edgerunners 2 is finally coming out this fall, Netflix confirms",
+      "url": "https://www.polygon.com/cybepunk-edgerunners-2-release-window-new-characters/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Xbox Tells People To ‘Wait For Real Data’ Over Speculation About GTA 6 Selling Way More Pre-Orders On PS5",
+      "url": "https://kotaku.com/xbox-tells-people-to-wait-for-real-data-over-speculation-about-gta-6-selling-way-more-pre-orders-on-ps5-2000711241",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News GTA 6 PS5 Disc Hopes Seemingly Dashed by Rockstar Source",
       "url": "https://www.pushsquare.com/news/2026/06/gta-6-ps5-disc-hopes-seemingly-dashed-by-rockstar-source",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Talking Point Is GTA 6's Dodgy Ultimate Edition a Deal-Breaker?",
       "url": "https://www.pushsquare.com/features/talking-point-is-gta-6s-dodgy-ultimate-edition-a-deal-breaker",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Final Fantasy 14 Evercold raids follow The Arcadion's lead as assistant director teases \"novelty\"",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-evercold-raids-follow-the-arcadions-lead-as-the-mmos-assistant-director-teases-theyll-value-surprise-and-novelty-over-convenience-and-efficiency/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
