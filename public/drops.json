@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T08:36:15+00:00",
+  "generated_utc": "2026-06-28T09:07:00+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -75,18 +75,6 @@
       "release_badge": ""
     },
     {
-      "id": "343d7df100fa",
-      "pillar": "sneakers",
-      "title": "Air Jordan 13 “Flint” Returns August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-13-flint-2026/",
-      "thumbnail": "/drops/thumbs/343d7df100fa.jpg",
-      "published": "2026-06-24T03:08:57",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "f326a8cd9b49",
       "pillar": "sneakers",
       "title": "The Air Jordan 8 “Chrome” Returns in Fall 2026",
@@ -94,6 +82,18 @@
       "source_url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
       "thumbnail": "/drops/thumbs/f326a8cd9b49.jpg",
       "published": "2026-06-22T07:33:54",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "779db71fc001",
+      "pillar": "sneakers",
+      "title": "Where To Buy the Air Jordan 5 “Black Carolina”",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
+      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
+      "published": "2026-06-20T09:00:07",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "0418359bf903",
+      "id": "88806468fe2c",
       "pillar": "anime",
-      "title": "Mission: Yozakura Family Anime's 2nd Season Continues With 2nd Part in October",
+      "title": "Sword Art Online's Echoes of Aincrad Game Streams 2nd Story Trailer",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/mission-yozakura-family-anime-2nd-season-continues-with-2nd-part-in-october/.239053",
-      "thumbnail": "/drops/thumbs/0418359bf903.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/sword-art-online-echoes-of-aincrad-game-streams-2nd-story-trailer/.239023",
+      "thumbnail": "/drops/thumbs/88806468fe2c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "e22c23738d97",
+      "id": "0418359bf903",
       "pillar": "anime",
-      "title": "Wit Studio Reveals LONA Original TV Anime by Director Takashi Katagiri Slated for Spring 2027 Debut",
+      "title": "Mission: Yozakura Family Anime's 2nd Season Continues With 2nd Part in October",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/wit-studio-reveals-lona-original-tv-anime-by-director-takashi-katagiri-slated-for-spring-2027-debut/.239047",
-      "thumbnail": "/drops/thumbs/e22c23738d97.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/mission-yozakura-family-anime-2nd-season-continues-with-2nd-part-in-october/.239053",
+      "thumbnail": "/drops/thumbs/0418359bf903.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
