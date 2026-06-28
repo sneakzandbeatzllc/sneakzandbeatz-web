@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-28T19:17:23+00:00",
+  "generated_utc": "2026-06-28T20:41:21+00:00",
   "items": [
+    {
+      "id": "d74f496abc5f",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
+      "thumbnail": "/drops/thumbs/d74f496abc5f.jpg",
+      "published": "2026-06-28T13:39:14",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
     {
       "id": "70ced94e4a3b",
       "pillar": "sneakers",
@@ -10,18 +22,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
       "thumbnail": "/drops/thumbs/70ced94e4a3b.png",
       "published": "2026-06-22T08:23:52",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "03d08969d2f3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-4-birds-of-paradise/",
-      "thumbnail": "/drops/thumbs/03d08969d2f3.webp",
-      "published": "",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -96,6 +96,18 @@
       "published": "2026-06-20T09:00:07",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "31e1e77a2790",
+      "pillar": "anime",
+      "title": "Demon Slayer: Infinity Castle Part 2 Is Years Away, And It's Time To Admit That's A Good Thing",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-part-good-thing/",
+      "thumbnail": "/drops/thumbs/31e1e77a2790.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -177,18 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/cake-tv-asahi-partner-to-distribute-doraemon-anime-in-english/.238759",
       "thumbnail": "/drops/thumbs/40a8cddf37ff.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9d76d509a048",
-      "pillar": "anime",
-      "title": "10 Most Underrated Anime Of Spring 2026, Ranked",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/spring-2026-most-underrated-anime/",
-      "thumbnail": "/drops/thumbs/9d76d509a048.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "87ea185c5c75",
+      "id": "891f2344828d",
       "pillar": "gaming",
-      "title": "Talking Point Is GTA 6's Dodgy Ultimate Edition a Deal-Breaker?",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/talking-point-is-gta-6s-dodgy-ultimate-edition-a-deal-breaker",
-      "thumbnail": "/drops/thumbs/87ea185c5c75.jpg",
+      "title": "Final Fantasy 14 Evercold raids follow The Arcadion's lead as assistant director teases \"novelty\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-evercold-raids-follow-the-arcadions-lead-as-the-mmos-assistant-director-teases-theyll-value-surprise-and-novelty-over-convenience-and-efficiency/",
+      "thumbnail": "/drops/thumbs/891f2344828d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,10 +292,10 @@
     }
   ],
   "homepage": [
+    "d74f496abc5f",
     "70ced94e4a3b",
-    "03d08969d2f3",
     "a71da97d0d37",
-    "17f2d96b3708",
+    "31e1e77a2790",
     "3b557c6e398e",
     "aed3cfd0a10f"
   ]
