@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T14:28:35+00:00",
+  "generated_utc": "2026-06-29T15:17:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -102,15 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "Satosumi Takaguchi Launches New Manga Diamond's Blues",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-29/satosumi-takaguchi-launches-new-manga-diamond-blues/.238885",
+      "title": "Stardust Telepath Manga Ends in 7th Volume",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-29/stardust-telepath-manga-ends-in-7th-volume/.239033",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "From Old Country Bumpkin to Master Swordsman Season 2 Anime Reveals 4 More Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-29/from-old-country-bumpkin-to-master-swordsman-season-2-anime-reveals-4-more-cast-members/.239093",
+      "title": "Manga Up! Global Adds The Lonely King and His Sunshine Bride's Happily Ever After , Yoshi no Zuikara , 1 More Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-29/manga-up-global-adds-the-lonely-king-and-his-sunshine-bride-happily-ever-after-yoshi-no-zuikara-1-/.239073",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "News Ghost of Yotei Fronts New Japanese Tourism Push with Tours and Merch",
-      "url": "https://www.pushsquare.com/news/2026/06/ghost-of-yotei-fronts-new-japanese-tourism-push-with-tours-and-merch",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Final Fantasy 14 devs looked to the MMO's best expansion to design the Arcadion series",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-devs-looked-to-the-mmos-best-expansion-to-design-the-arcadion-series-after-feeling-like-ensuring-player-comfort-and-stress-reduction-limited-creativity/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
       "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Amazon Is Awash With AI-Written Guideslop For Games That Aren’t Even Out",
+      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
