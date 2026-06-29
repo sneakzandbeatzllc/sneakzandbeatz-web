@@ -1,11 +1,18 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T16:49:42+00:00",
+  "generated_utc": "2026-06-29T17:19:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Kids Air Jordan 4 “She’s A Star” July 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/kids-air-jordan-4-shes-a-star-io2829-600-drop/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -53,22 +60,8 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 8 “Chrome” Returns in Fall 2026",
-      "url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball's Next Anime Will Officially Confirm Goku's Strongest Foe, But Fans Won't Like It",
       "url": "https://screenrant.com/dragon-ball-next-anime-moro-goku-strongest-villain/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The 10 best fights in Jujutsu Kaisen history, ranked",
-      "url": "https://www.polygon.com/jujutsu-kaisen-best-fight-scenes-battle-shonen-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -81,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "China's Answer To Solo Leveling, Lord of Mysteries, Has Finally Returned To Crunchyroll",
-      "url": "https://screenrant.com/lord-mysteries-return-china-answer-solo-leveling/",
+      "title": "Wistoria, Crunchyroll's Black Clover & Tower of God Fusion, Is Returning For Season 3",
+      "url": "https://screenrant.com/wistoria-wand-sword-season-3-black-clover-tower-god-fusion-crunchyroll/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,6 +88,20 @@
       "article_slug": null
     },
     {
+      "title": "Evangelion: Death (True)² & Rebirth , The End Of Evangelion Films Hit U.S. Theaters for 30th Anniversary Movie Fest on July 21-22",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-29/evangelion-death-2-and-rebirth-the-end-of-evangelion-films-hit-u.s-theaters-for-30th-anniversary-/.239014",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Madoka Magica's long-awaited fourth film finally has a release date, 11 years after its first teaser",
+      "url": "https://www.polygon.com/madoka-magica-4th-movie-walpurgisnacht-rising-release-date/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Petals of Reincarnation Manga Ends With 25th Volume",
       "url": "https://www.animenewsnetwork.com/news/2026-06-29/petals-of-reincarnation-manga-ends-with-25th-volume/.239034",
       "pillar": "anime",
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Crossed Hearts Licenses 4 BL Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-29/crossed-hearts-licenses-4-bl-manga/.239102",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Witch Hat Atelier season 2 is officially happening, and the story's best part is still to come",
-      "url": "https://www.polygon.com/witch-hat-atelier-season-2-announcement/",
+      "title": "36 years ago, the best cyberpunk saga ever made got a second shot at a happy ending",
+      "url": "https://www.polygon.com/akira-manga-ending-36th-anniversary-movie-comparison/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
