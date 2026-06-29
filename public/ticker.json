@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T15:29:16+00:00",
+  "generated_utc": "2026-06-29T15:48:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "News Ninja Gaiden, Nioh, Dynasty Warriors Publisher Has a Mysterious New 'Action' IP in the Works",
-      "url": "https://www.pushsquare.com/news/2026/06/ninja-gaiden-nioh-dynasty-warriors-publisher-has-a-mysterious-new-action-ip-in-the-works",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Final Fantasy 14 devs looked to the MMO's best expansion to design the Arcadion series",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-devs-looked-to-the-mmos-best-expansion-to-design-the-arcadion-series-after-feeling-like-ensuring-player-comfort-and-stress-reduction-limited-creativity/",
       "pillar": "gaming",
@@ -160,6 +153,13 @@
     {
       "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
       "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News SNK, We Really Need to Talk About Art of Fighting 3 and the NEO GEO Premium Selection",
+      "url": "https://www.pushsquare.com/news/2026/06/snk-we-really-need-to-talk-about-art-of-fighting-3-and-the-neo-geo-premium-selection",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
