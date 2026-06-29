@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T08:25:53+00:00",
+  "generated_utc": "2026-06-29T09:13:17+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "02348bdd8df8",
+      "id": "c22147edf9b0",
       "pillar": "anime",
-      "title": "Red River Anime Reveals Ending Theme Song Artist Miisha Shimizu",
+      "title": "The Kept Man of the Princess Knight TV Anime's Teaser Video Reveals More Staff Members, January 2027 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/red-river-anime-reveals-ending-theme-song-artist-miisha-shimizu/.239090",
-      "thumbnail": "/drops/thumbs/02348bdd8df8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/the-kept-man-of-the-princess-knight-tv-anime-teaser-video-reveals-more-staff-members-january-2027-/.239089",
+      "thumbnail": "/drops/thumbs/c22147edf9b0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "c995a6e08120",
+      "id": "70d7e2550ea5",
       "pillar": "anime",
-      "title": "K Manga Adds Kanna Hourai's ' Give 'Em Hell, Miran Yata!! '",
+      "title": "Voice Actor Kenichi Suzumura Returns From Hiatus",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/k-manga-adds-kanna-hourai-give-em-hell-miran-yata/.239066",
-      "thumbnail": "/drops/thumbs/c995a6e08120.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/voice-actor-kenichi-suzumura-returns-from-hiatus/.239091",
+      "thumbnail": "/drops/thumbs/70d7e2550ea5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "aed3cfd0a10f",
-      "pillar": "gaming",
-      "title": "News Microsoft Responds to Reports of GTA 6 PS5 Pre-Orders Trouncing Xbox",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/microsoft-responds-to-reports-of-gta-6-ps5-pre-orders-trouncing-xbox",
-      "thumbnail": "/drops/thumbs/aed3cfd0a10f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "920626fdb318",
       "pillar": "gaming",
       "title": "Six Weekend Reads GTA 6 shows signs of life, Bungie in crisis, and why one Xbox developer is excited to still be bringing its game to PS5",
@@ -219,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "633994380354",
+      "id": "b79a9be6fdf2",
       "pillar": "gaming",
-      "title": "Did Rockstar Confirm GTA 6 Will Have A Physical Disk Release? No! Jake Randall Explains",
+      "title": "Rockstar Has Not Denied That GTA 6 Could Come To Disc Yet – But There’s Zero Evidence It’s Happening",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563221/article/did-rockstar-confirm-gta-6-will-have-a-physical-disk-release-no-jake-randall-explains/",
-      "thumbnail": "/drops/thumbs/633994380354.jpg",
+      "source_url": "https://gameranx.com/updates/id/563225/article/rockstar-has-not-denied-that-gta-6-could-come-to-disc-yet-but-theres-zero-evidence-its-happening/",
+      "thumbnail": "/drops/thumbs/b79a9be6fdf2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "635825f03d99",
+      "id": "633994380354",
       "pillar": "gaming",
-      "title": "PlayStation Has Locked In Marketing For GTA 6 – But They Had To Make One Correction",
+      "title": "Did Rockstar Confirm GTA 6 Will Have A Physical Disk Release? No! Jake Randall Explains",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563208/article/playstation-has-locked-in-marketing-for-gta-6-but-they-had-to-make-one-correction/",
-      "thumbnail": "/drops/thumbs/635825f03d99.jpg",
+      "source_url": "https://gameranx.com/updates/id/563221/article/did-rockstar-confirm-gta-6-will-have-a-physical-disk-release-no-jake-randall-explains/",
+      "thumbnail": "/drops/thumbs/633994380354.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "4aa269abe074",
+      "pillar": "gaming",
+      "title": "News Bob Is Back and Bigger Than Ever in Tekken 8 on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/bob-is-back-and-bigger-than-ever-in-tekken-8-on-ps5",
+      "thumbnail": "/drops/thumbs/4aa269abe074.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "a71da97d0d37",
     "37153a86ec22",
     "3b557c6e398e",
-    "aed3cfd0a10f"
+    "920626fdb318"
   ]
 }
