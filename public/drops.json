@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T19:22:28+00:00",
+  "generated_utc": "2026-06-29T19:32:27+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "3e7d45935dcf",
-      "pillar": "anime",
-      "title": "Dragon Ball's Next Anime Will Officially Confirm Goku's Strongest Foe, But Fans Won't Like It",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-next-anime-moro-goku-strongest-villain/",
-      "thumbnail": "/drops/thumbs/3e7d45935dcf.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7d456e4fe142",
       "pillar": "anime",
       "title": "Demon Slayer: The Hinokami Chronicles 2 Game Gets Switch 2 Edition on October 29",
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/petals-of-reincarnation-manga-ends-with-25th-volume/.239034",
       "thumbnail": "/drops/thumbs/6d77523f52e7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86e016086671",
+      "pillar": "anime",
+      "title": "8 Perfect Isekai Anime Classics No One Talks About Today",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/isekai-anime-classics-underrated/",
+      "thumbnail": "/drops/thumbs/86e016086671.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "d74f496abc5f",
     "0861ae9fbf6c",
     "70ced94e4a3b",
-    "3e7d45935dcf",
+    "7d456e4fe142",
     "ed9bd14cfe51",
     "adc3c81641cb"
   ]

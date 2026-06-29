@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T19:22:28+00:00",
+  "generated_utc": "2026-06-29T19:32:27+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball's Next Anime Will Officially Confirm Goku's Strongest Foe, But Fans Won't Like It",
-      "url": "https://screenrant.com/dragon-ball-next-anime-moro-goku-strongest-villain/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: The Hinokami Chronicles 2 Game Gets Switch 2 Edition on October 29",
       "url": "https://www.animenewsnetwork.com/news/2026-06-29/demon-slayer-the-hinokami-chronicles-2-game-gets-switch-2-edition-on-october-29/.239105",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Petals of Reincarnation Manga Ends With 25th Volume",
       "url": "https://www.animenewsnetwork.com/news/2026-06-29/petals-of-reincarnation-manga-ends-with-25th-volume/.239034",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "8 Perfect Isekai Anime Classics No One Talks About Today",
+      "url": "https://screenrant.com/isekai-anime-classics-underrated/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
