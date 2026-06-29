@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T03:22:32+00:00",
+  "generated_utc": "2026-06-29T04:23:37+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "37153a86ec22",
+      "pillar": "anime",
+      "title": "Jujutsu Kaisen Season 4 Is Going To Take One Of The Series' Best Fights From Good To God-Tier",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-choso-yuki-kenjaku-fight-god-tier/",
+      "thumbnail": "/drops/thumbs/37153a86ec22.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "93772fdcdd9b",
       "pillar": "anime",
       "title": "China's Answer To Solo Leveling, Lord of Mysteries, Has Finally Returned To Crunchyroll",
@@ -135,24 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "7bbe74f5a652",
+      "id": "7a5344fc80e1",
       "pillar": "anime",
-      "title": "12 Years Later, Naruto's Best Quote Proves Fans Are Missing The Point Of Boruto",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-best-quote-might-guy-boruto/",
-      "thumbnail": "/drops/thumbs/7bbe74f5a652.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9c6c8f9450b6",
-      "pillar": "anime",
-      "title": "Cyberpunk: Edgerunners 2 Anime's New Visual Announces Fall Debut",
+      "title": "Spirits & Cat Ears Manga Ends After 12 Years",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/cyberpunk-edgerunners-2-anime-new-visual-announces-fall-debut/.239075",
-      "thumbnail": "/drops/thumbs/9c6c8f9450b6.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/spirits-and-cat-ears-manga-ends-after-12-years/.239074",
+      "thumbnail": null,
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "72e2eed84998",
+      "id": "cfa7ee294f58",
       "pillar": "anime",
-      "title": "CreatorVC Plans Icons of Anime Documentary, Invites Fans' Comments in Survey",
+      "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table 44: Cloudy Beach Anime Film Streams Worldwide on July 13",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/creatorvc-plans-icons-of-anime-documentary-invites-fans-comments-in-survey/.238990",
-      "thumbnail": "/drops/thumbs/72e2eed84998.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/shiboyugi-playing-death-games-to-put-food-on-the-table-44-cloudy-beach-anime-film-streams-worldwide-/.239079",
+      "thumbnail": null,
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "d74f496abc5f",
     "70ced94e4a3b",
     "a71da97d0d37",
-    "93772fdcdd9b",
+    "37153a86ec22",
     "3b557c6e398e",
     "aed3cfd0a10f"
   ]
