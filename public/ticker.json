@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T17:51:15+00:00",
+  "generated_utc": "2026-06-29T18:20:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,13 +74,6 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen Season 4 Is Going To Take One Of The Series' Best Fights From Good To God-Tier",
-      "url": "https://screenrant.com/jujutsu-kaisen-season-4-choso-yuki-kenjaku-fight-god-tier/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Wistoria, Crunchyroll's Black Clover & Tower of God Fusion, Is Returning For Season 3",
       "url": "https://screenrant.com/wistoria-wand-sword-season-3-black-clover-tower-god-fusion-crunchyroll/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "36 years ago, the best cyberpunk saga ever made got a second shot at a happy ending",
       "url": "https://www.polygon.com/akira-manga-ending-36th-anniversary-movie-comparison/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Petals of Reincarnation Manga Ends With 25th Volume",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-29/petals-of-reincarnation-manga-ends-with-25th-volume/.239034",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
