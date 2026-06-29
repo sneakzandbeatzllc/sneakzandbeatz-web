@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T17:20:29+00:00",
+  "generated_utc": "2026-06-29T17:30:55+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "adc3c81641cb",
+      "pillar": "gaming",
+      "title": "News GTA 6 Not Expected to Run at 60fps on Any PS5 Console",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-not-expected-to-run-at-60fps-on-any-ps5-console",
+      "thumbnail": "/drops/thumbs/adc3c81641cb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6314217c0777",
       "pillar": "gaming",
       "title": "Games will keep getting more expensive after GTA 6 \"raises the bar,\" analysts say",
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "e609c0f144c1",
-      "pillar": "gaming",
-      "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
-      "thumbnail": "/drops/thumbs/e609c0f144c1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "3e7d45935dcf",
     "ed9bd14cfe51",
-    "6314217c0777"
+    "adc3c81641cb"
   ]
 }

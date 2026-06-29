@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T17:20:29+00:00",
+  "generated_utc": "2026-06-29T17:30:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "News GTA 6 Not Expected to Run at 60fps on Any PS5 Console",
+      "url": "https://www.pushsquare.com/news/2026/06/gta-6-not-expected-to-run-at-60fps-on-any-ps5-console",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Games will keep getting more expensive after GTA 6 \"raises the bar,\" analysts say",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/games-will-keep-getting-more-expensive-after-gta-6-raises-the-bar-but-only-the-most-in-demand-games-will-get-away-with-it-analysts-say/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Final Fantasy 14 devs looked to the MMO's best expansion to design the Arcadion series",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-devs-looked-to-the-mmos-best-expansion-to-design-the-arcadion-series-after-feeling-like-ensuring-player-comfort-and-stress-reduction-limited-creativity/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
-      "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
