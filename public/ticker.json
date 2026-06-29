@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T02:21:47+00:00",
+  "generated_utc": "2026-06-29T03:11:42+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Demon Slayer: Infinity Castle Part 2 Is Years Away, And It's Time To Admit That's A Good Thing",
-      "url": "https://screenrant.com/demon-slayer-infinity-castle-part-good-thing/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One Piece History Will Change Forever As Gear 5 Luffy Loses His First Fight",
       "url": "https://screenrant.com/one-piece-luffy-gear-5-first-loss/",
       "pillar": "anime",
@@ -90,6 +83,13 @@
     {
       "title": "Cyberpunk: Edgerunners 2 is finally coming out this fall, Netflix confirms",
       "url": "https://www.polygon.com/cybepunk-edgerunners-2-release-window-new-characters/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "After 29 Years, The 1990s' Best Science Fiction Film Returns With New Release",
+      "url": "https://screenrant.com/end-of-evangelion-best-science-fiction-film-new-theatrical-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

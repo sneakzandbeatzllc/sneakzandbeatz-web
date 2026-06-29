@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T02:21:47+00:00",
+  "generated_utc": "2026-06-29T03:11:42+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "31e1e77a2790",
-      "pillar": "anime",
-      "title": "Demon Slayer: Infinity Castle Part 2 Is Years Away, And It's Time To Admit That's A Good Thing",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-part-good-thing/",
-      "thumbnail": "/drops/thumbs/31e1e77a2790.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5272d1afa5a7",
       "pillar": "anime",
       "title": "One Piece History Will Change Forever As Gear 5 Luffy Loses His First Fight",
@@ -153,6 +141,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/cybepunk-edgerunners-2-release-window-new-characters/",
       "thumbnail": "/drops/thumbs/cb328e7281cf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "450793caa3dd",
+      "pillar": "anime",
+      "title": "After 29 Years, The 1990s' Best Science Fiction Film Returns With New Release",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/end-of-evangelion-best-science-fiction-film-new-theatrical-release/",
+      "thumbnail": "/drops/thumbs/450793caa3dd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "d74f496abc5f",
     "70ced94e4a3b",
     "a71da97d0d37",
-    "31e1e77a2790",
+    "5272d1afa5a7",
     "3b557c6e398e",
     "aed3cfd0a10f"
   ]
