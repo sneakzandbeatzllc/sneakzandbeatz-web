@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T21:24:20+00:00",
+  "generated_utc": "2026-06-29T21:34:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "It's Official, One Piece Just Crowned Its Strongest Character With One Punch",
-      "url": "https://screenrant.com/one-piece-luffy-strongest-character-one-punch/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Spirited Away's live-action adaptation is coming to North America",
       "url": "https://www.polygon.com/spirited-away-stage-play-north-america/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Madoka Magica's long-awaited fourth film finally has a release date, 11 years after its first teaser",
       "url": "https://www.polygon.com/madoka-magica-4th-movie-walpurgisnacht-rising-release-date/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Season 2 Of Netflix's Near-Perfect John Wick Replacement Is Only 7 Months Away",
+      "url": "https://screenrant.com/sakamoto-days-season-2-trailer-2027-premiere/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
