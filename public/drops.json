@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T20:33:18+00:00",
+  "generated_utc": "2026-06-29T21:22:08+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -147,6 +147,18 @@
       "release_badge": ""
     },
     {
+      "id": "89805662782a",
+      "pillar": "anime",
+      "title": "Spirited Away's live-action adaptation is coming to North America",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/spirited-away-stage-play-north-america/",
+      "thumbnail": "/drops/thumbs/89805662782a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "63db56ea9667",
       "pillar": "anime",
       "title": "Madoka Magica's long-awaited fourth film finally has a release date, 11 years after its first teaser",
@@ -159,24 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "fc27ccf636b6",
+      "id": "087dce1be64e",
       "pillar": "anime",
-      "title": "36 years ago, the best cyberpunk saga ever made got a second shot at a happy ending",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/akira-manga-ending-36th-anniversary-movie-comparison/",
-      "thumbnail": "/drops/thumbs/fc27ccf636b6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "17483e4bd26f",
-      "pillar": "anime",
-      "title": "Evangelion: Death (True)² & Rebirth , The End Of Evangelion Films Hit U.S. Theaters for 30th Anniversary Movie Fest on July 21-22",
+      "title": "Japanese Govt. to Consider Providing Subsidies for AI Translation, Overseas Sales Generation to Companies Like Shueisha, Crunchyroll",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/evangelion-death-2-and-rebirth-the-end-of-evangelion-films-hit-u.s-theaters-for-30th-anniversary-/.239014",
-      "thumbnail": "/drops/thumbs/17483e4bd26f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/japanese-govt-to-consider-providing-subsidies-for-ai-translation-overseas-sales-generation-to-/.239030",
+      "thumbnail": "/drops/thumbs/087dce1be64e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
