@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T03:11:42+00:00",
+  "generated_utc": "2026-06-29T03:22:32+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "93772fdcdd9b",
+      "pillar": "anime",
+      "title": "China's Answer To Solo Leveling, Lord of Mysteries, Has Finally Returned To Crunchyroll",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/lord-mysteries-return-china-answer-solo-leveling/",
+      "thumbnail": "/drops/thumbs/93772fdcdd9b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "649a97ca603a",
+      "pillar": "anime",
+      "title": "Every My Hero Academia Movie In Order (And Where To Watch Them)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/every-my-hero-academia-movie-in-order-best-way-watch/",
+      "thumbnail": "/drops/thumbs/649a97ca603a.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5272d1afa5a7",
       "pillar": "anime",
       "title": "One Piece History Will Change Forever As Gear 5 Luffy Loses His First Fight",
@@ -123,6 +147,18 @@
       "release_badge": ""
     },
     {
+      "id": "9c6c8f9450b6",
+      "pillar": "anime",
+      "title": "Cyberpunk: Edgerunners 2 Anime's New Visual Announces Fall Debut",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/cyberpunk-edgerunners-2-anime-new-visual-announces-fall-debut/.239075",
+      "thumbnail": "/drops/thumbs/9c6c8f9450b6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5b43bee0baa6",
       "pillar": "anime",
       "title": "Netflix's most surprising new anime is already impossible to ignore",
@@ -135,60 +171,24 @@
       "release_badge": ""
     },
     {
+      "id": "72e2eed84998",
+      "pillar": "anime",
+      "title": "CreatorVC Plans Icons of Anime Documentary, Invites Fans' Comments in Survey",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-28/creatorvc-plans-icons-of-anime-documentary-invites-fans-comments-in-survey/.238990",
+      "thumbnail": "/drops/thumbs/72e2eed84998.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cb328e7281cf",
       "pillar": "anime",
       "title": "Cyberpunk: Edgerunners 2 is finally coming out this fall, Netflix confirms",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/cybepunk-edgerunners-2-release-window-new-characters/",
       "thumbnail": "/drops/thumbs/cb328e7281cf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "450793caa3dd",
-      "pillar": "anime",
-      "title": "After 29 Years, The 1990s' Best Science Fiction Film Returns With New Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/end-of-evangelion-best-science-fiction-film-new-theatrical-release/",
-      "thumbnail": "/drops/thumbs/450793caa3dd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e64f4b7e7498",
-      "pillar": "anime",
-      "title": "5 Isekai Anime With The Deepest Worldbuilding",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/isekai-anime-deepest-world-building/",
-      "thumbnail": "/drops/thumbs/e64f4b7e7498.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a85197334f50",
-      "pillar": "anime",
-      "title": "Crunchyroll’s Ultimate Power Fantasy Is Returning, And It Could Ruin The Series",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/classroom-of-the-elite-crunchyroll-season-5-ruin-series/",
-      "thumbnail": "/drops/thumbs/a85197334f50.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7a302161a6bd",
-      "pillar": "anime",
-      "title": "15 Best Anime For Beginners To Binge",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-anime-for-beginners/",
-      "thumbnail": "/drops/thumbs/7a302161a6bd.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "d74f496abc5f",
     "70ced94e4a3b",
     "a71da97d0d37",
-    "5272d1afa5a7",
+    "93772fdcdd9b",
     "3b557c6e398e",
     "aed3cfd0a10f"
   ]
