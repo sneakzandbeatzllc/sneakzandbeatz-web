@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T16:18:24+00:00",
+  "generated_utc": "2026-06-29T16:30:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -15,6 +15,13 @@
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Slam Jam to Release a Pair of Air Jordan 8 Styles in 2027",
+      "url": "https://justfreshkicks.com/slam-jam-air-jordan-8-pack/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "The Air Jordan 8 “Chrome” Returns in Fall 2026",
       "url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Where To Buy the Air Jordan 5 “Black Carolina”",
-      "url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Hardware Retailer warns of PS5 and Xbox shortages for GTA 6 release, but please don't buy a brand new console now",
+      "url": "https://www.gamesradar.com/hardware/retailer-warns-of-ps5-and-xbox-shortages-for-gta-6-release-but-please-dont-buy-a-brand-new-console-now/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rockstar Has Not Denied That GTA 6 Could Come To Disc Yet – But There’s Zero Evidence It’s Happening",
       "url": "https://gameranx.com/updates/id/563225/article/rockstar-has-not-denied-that-gta-6-could-come-to-disc-yet-but-theres-zero-evidence-its-happening/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
       "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New Cyberpunk Edgerunners Season 2 Trailer Teases A More Violent Story Than The First",
-      "url": "https://kotaku.com/cyberpunk-edgerunners-2-trailer-netflix-anime-release-date-2000711438",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

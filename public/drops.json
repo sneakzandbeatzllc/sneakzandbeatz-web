@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T16:18:24+00:00",
+  "generated_utc": "2026-06-29T16:30:01+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -25,6 +25,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "ed9bd14cfe51",
+      "pillar": "sneakers",
+      "title": "Slam Jam to Release a Pair of Air Jordan 8 Styles in 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/slam-jam-air-jordan-8-pack/",
+      "thumbnail": "/drops/thumbs/ed9bd14cfe51.webp",
+      "published": "2026-06-29T12:24:35",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "a71da97d0d37",
@@ -82,18 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
       "thumbnail": "/drops/thumbs/f326a8cd9b49.jpg",
       "published": "2026-06-22T07:33:54",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "779db71fc001",
-      "pillar": "sneakers",
-      "title": "Where To Buy the Air Jordan 5 “Black Carolina”",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-5-black-carolina-dd0587-008-drop/",
-      "thumbnail": "/drops/thumbs/779db71fc001.jpg",
-      "published": "2026-06-20T09:00:07",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "42382643e8af",
+      "pillar": "gaming",
+      "title": "Hardware Retailer warns of PS5 and Xbox shortages for GTA 6 release, but please don't buy a brand new console now",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/hardware/retailer-warns-of-ps5-and-xbox-shortages-for-gta-6-release-but-please-dont-buy-a-brand-new-console-now/",
+      "thumbnail": "/drops/thumbs/42382643e8af.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b79a9be6fdf2",
       "pillar": "gaming",
       "title": "Rockstar Has Not Denied That GTA 6 Could Come To Disc Yet – But There’s Zero Evidence It’s Happening",
@@ -277,26 +289,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "4f055692053d",
-      "pillar": "gaming",
-      "title": "New Cyberpunk Edgerunners Season 2 Trailer Teases A More Violent Story Than The First",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/cyberpunk-edgerunners-2-trailer-netflix-anime-release-date-2000711438",
-      "thumbnail": "/drops/thumbs/4f055692053d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "d74f496abc5f",
     "70ced94e4a3b",
-    "a71da97d0d37",
+    "ed9bd14cfe51",
     "3e7d45935dcf",
-    "3b557c6e398e",
+    "a71da97d0d37",
     "6314217c0777"
   ]
 }
