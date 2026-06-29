@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T19:32:27+00:00",
+  "generated_utc": "2026-06-29T19:53:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,6 +32,13 @@
       "article_slug": null
     },
     {
+      "title": "A Women’s Exclusive Air Jordan 4 Blooms This Summer",
+      "url": "https://www.nicekicks.com/air-jordan-4-wmns-birds-of-paradise-hv0823-101-2026-drop/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 9 “Super Freak” Releases February 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
       "pillar": "sneakers",
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 4 “Musik” Releases January 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Mowalola x Air Jordan 14 Releases September 2026",
-      "url": "https://www.sneakerfiles.com/mowalola-air-jordan-14/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
