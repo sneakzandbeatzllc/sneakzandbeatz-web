@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T11:14:46+00:00",
+  "generated_utc": "2026-06-29T12:15:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball's Next Anime Will Officially Confirm Goku's Strongest Foe, But Fans Won't Like It",
+      "url": "https://screenrant.com/dragon-ball-next-anime-moro-goku-strongest-villain/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jujutsu Kaisen Season 4 Is Going To Take One Of The Series' Best Fights From Good To God-Tier",
       "url": "https://screenrant.com/jujutsu-kaisen-season-4-choso-yuki-kenjaku-fight-god-tier/",
       "pillar": "anime",
@@ -81,15 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "One Piece History Will Change Forever As Gear 5 Luffy Loses His First Fight",
-      "url": "https://screenrant.com/one-piece-luffy-gear-5-first-loss/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Kept Man of the Princess Knight TV Anime's Teaser Video Reveals More Staff Members, January 2027 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-29/the-kept-man-of-the-princess-knight-tv-anime-teaser-video-reveals-more-staff-members-january-2027-/.239089",
+      "title": "KAMUI: He's Behind You Anime to Stream on OceanVeil on July 3",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-29/kamui-he-behind-you-anime-to-stream-on-oceanveil-on-july-3/.239095",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Voice Actor Kenichi Suzumura Returns From Hiatus",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-29/voice-actor-kenichi-suzumura-returns-from-hiatus/.239091",
+      "title": "The Kept Man of the Princess Knight TV Anime's Teaser Video Reveals More Staff Members, January 2027 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-29/the-kept-man-of-the-princess-knight-tv-anime-teaser-video-reveals-more-staff-members-january-2027-/.239089",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -116,8 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Six Weekend Reads GTA 6 shows signs of life, Bungie in crisis, and why one Xbox developer is excited to still be bringing its game to PS5",
-      "url": "https://www.gamesradar.com/games/gta-6-shows-signs-of-life-bungie-in-crisis-and-why-one-xbox-developer-is-excited-to-still-be-bringing-its-game-to-ps5/",
+      "title": "Games will keep getting more expensive after GTA 6 \"raises the bar,\" analysts say",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/games-will-keep-getting-more-expensive-after-gta-6-raises-the-bar-but-only-the-most-in-demand-games-will-get-away-with-it-analysts-say/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -125,20 +125,6 @@
     {
       "title": "XBOX Debunks Claim That GTA 6 Was Pre-Ordered 8 Times More On PS5 Than XBOX Series X|S",
       "url": "https://gameranx.com/updates/id/563229/article/xbox-debunks-claim-that-gta-6-was-pre-ordered-8-times-more-on-ps5-than-xbox-series-xs/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Xbox Tells People To ‘Wait For Real Data’ Over Speculation About GTA 6 Selling Way More Pre-Orders On PS5",
-      "url": "https://kotaku.com/xbox-tells-people-to-wait-for-real-data-over-speculation-about-gta-6-selling-way-more-pre-orders-on-ps5-2000711241",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Pre-order GTA 6 pre-orders live - stock is flying and bundles are hitting the shelves",
-      "url": "https://www.gamesradar.com/news/live/gta-6-pre-orders-live-june-25/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +144,29 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy 14 Evercold raids follow The Arcadion's lead as assistant director teases \"novelty\"",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-evercold-raids-follow-the-arcadions-lead-as-the-mmos-assistant-director-teases-theyll-value-surprise-and-novelty-over-convenience-and-efficiency/",
+      "title": "News Ninja Gaiden, Nioh, Dynasty Warriors Publisher Has a Mysterious New 'Action' IP in the Works",
+      "url": "https://www.pushsquare.com/news/2026/06/ninja-gaiden-nioh-dynasty-warriors-publisher-has-a-mysterious-new-action-ip-in-the-works",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News PS5, PC Fighter Marvel Tokon Reveals Three Last Heroes, and an Open Beta Is Coming Soon",
-      "url": "https://www.pushsquare.com/news/2026/06/ps5-pc-fighter-marvel-tokon-reveals-three-last-heroes-and-an-open-beta-is-coming-soon",
+      "title": "News Ghost of Yotei Fronts New Japanese Tourism Push with Tours and Merch",
+      "url": "https://www.pushsquare.com/news/2026/06/ghost-of-yotei-fronts-new-japanese-tourism-push-with-tours-and-merch",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Final Fantasy 14 devs looked to the MMO's best expansion to design the Arcadion series",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-devs-looked-to-the-mmos-best-expansion-to-design-the-arcadion-series-after-feeling-like-ensuring-player-comfort-and-stress-reduction-limited-creativity/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
+      "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
