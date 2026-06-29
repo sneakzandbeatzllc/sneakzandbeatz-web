@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-29T21:55:18+00:00",
+  "generated_utc": "2026-06-29T22:22:56+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -75,18 +75,6 @@
       "release_badge": ""
     },
     {
-      "id": "3b557c6e398e",
-      "pillar": "sneakers",
-      "title": "First Look at Mowalola’s Non-Mule Air Jordan 14 in “Burnt Red”",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/mowalola-air-jordan-14-iq5708-001/",
-      "thumbnail": "/drops/thumbs/3b557c6e398e.webp",
-      "published": "2026-06-24T18:28:55",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "e146b07264a0",
       "pillar": "sneakers",
       "title": "Air Jordan 4 “Musik” Releases January 2027",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
       "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
       "published": "2026-06-24T15:29:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dcf5851da4f4",
+      "pillar": "sneakers",
+      "title": "Mowalola x Air Jordan 14 Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/mowalola-air-jordan-14/",
+      "thumbnail": "/drops/thumbs/dcf5851da4f4.jpg",
+      "published": "2026-06-24T14:38:44",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -111,12 +111,12 @@
       "release_badge": ""
     },
     {
-      "id": "e8d460faa3c1",
+      "id": "499ffaeba444",
       "pillar": "anime",
-      "title": "Wistoria, Crunchyroll's Black Clover & Tower of God Fusion, Is Returning For Season 3",
+      "title": "One Piece Unveils A New Power System, And It's Straight Out Of Naruto",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/wistoria-wand-sword-season-3-black-clover-tower-god-fusion-crunchyroll/",
-      "thumbnail": "/drops/thumbs/e8d460faa3c1.png",
+      "source_url": "https://screenrant.com/one-piece-new-power-system-stronger-haki-naruto/",
+      "thumbnail": "/drops/thumbs/499ffaeba444.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -129,6 +129,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-29/bleach-thousand-year-blood-war-the-calamity-anime-screening-grosses-usd3000000-in-u.s-box-office/.239097",
       "thumbnail": "/drops/thumbs/dfcf75cf71ec.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e8d460faa3c1",
+      "pillar": "anime",
+      "title": "Wistoria, Crunchyroll's Black Clover & Tower of God Fusion, Is Returning For Season 3",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/wistoria-wand-sword-season-3-black-clover-tower-god-fusion-crunchyroll/",
+      "thumbnail": "/drops/thumbs/e8d460faa3c1.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "604013479002",
-      "pillar": "anime",
-      "title": "Season 2 Of Netflix's Near-Perfect John Wick Replacement Is Only 7 Months Away",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/sakamoto-days-season-2-trailer-2027-premiere/",
-      "thumbnail": "/drops/thumbs/604013479002.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "087dce1be64e",
       "pillar": "anime",
       "title": "Japanese Govt. to Consider Providing Subsidies for AI Translation, Overseas Sales Generation to Companies Like Shueisha, Crunchyroll",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "86e016086671",
+      "id": "604013479002",
       "pillar": "anime",
-      "title": "8 Perfect Isekai Anime Classics No One Talks About Today",
+      "title": "Season 2 Of Netflix's Near-Perfect John Wick Replacement Is Only 7 Months Away",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/isekai-anime-classics-underrated/",
-      "thumbnail": "/drops/thumbs/86e016086671.jpg",
+      "source_url": "https://screenrant.com/sakamoto-days-season-2-trailer-2027-premiere/",
+      "thumbnail": "/drops/thumbs/604013479002.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
