@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T12:01:32+00:00",
+  "generated_utc": "2026-06-30T12:32:13+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -22,18 +22,6 @@
       "source_url": "https://www.nicekicks.com/kids-air-jordan-4-shes-a-star-io2829-600-drop/",
       "thumbnail": "/drops/thumbs/0861ae9fbf6c.jpg",
       "published": "2026-06-25T11:53:27",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "70ced94e4a3b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
-      "thumbnail": "/drops/thumbs/70ced94e4a3b.png",
-      "published": "2026-06-22T08:23:52",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "470ddf79af2c",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
+      "thumbnail": "/drops/thumbs/470ddf79af2c.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "4448afbcb3a1",
       "pillar": "anime",
       "title": "Hunter x Hunter Manga Tops 100 Million Copies in Circulation",
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "9183b71f6edb",
+      "id": "e54c4d75c2ec",
       "pillar": "anime",
-      "title": "29 Years Later, Revolutionary Girl Utena Finally Gets The Respect It Always Deserved (Exclusive)",
+      "title": "Crunchyroll's Most Popular and Controversial Isekai Returns In 1 Week",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/revolutionary-girl-utena-franchise-aging-fine-wine-ultimate-magical-girl-anime/",
-      "thumbnail": "/drops/thumbs/9183b71f6edb.jpg",
+      "source_url": "https://screenrant.com/mushoku-tensei-return-crunchyroll-most-popular-isekai/",
+      "thumbnail": "/drops/thumbs/e54c4d75c2ec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "37609441946b",
+      "id": "9183b71f6edb",
       "pillar": "anime",
-      "title": "20 Best Long Manhwa Every Fan Simply Must Read",
+      "title": "29 Years Later, Revolutionary Girl Utena Finally Gets The Respect It Always Deserved (Exclusive)",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-long-manhwa-binge-read/",
-      "thumbnail": "/drops/thumbs/37609441946b.png",
+      "source_url": "https://screenrant.com/revolutionary-girl-utena-franchise-aging-fine-wine-ultimate-magical-girl-anime/",
+      "thumbnail": "/drops/thumbs/9183b71f6edb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "9b2100835b92",
+      "id": "9f39e9b41419",
       "pillar": "gaming",
-      "title": "Rumor: Rockstar And Nintendo Are Working On Making GTA 6 Happen On Switch 2",
+      "title": "Are GTA 6 Pre-Orders Being Hurt By The Lack Of A Physical Disc Release?",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563237/article/rumor-rockstar-and-nintendo-are-working-on-making-gta-6-happen-on-switch-2/",
-      "thumbnail": "/drops/thumbs/9b2100835b92.jpg",
+      "source_url": "https://gameranx.com/updates/id/563244/article/are-gta-6-pre-orders-being-hurt-by-the-lack-of-a-physical-disc-release/",
+      "thumbnail": "/drops/thumbs/9f39e9b41419.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "418699d7a3b8",
+      "id": "9b2100835b92",
       "pillar": "gaming",
-      "title": "XBOX Debunks Claim That GTA 6 Was Pre-Ordered 8 Times More On PS5 Than XBOX Series X|S",
+      "title": "Rumor: Rockstar And Nintendo Are Working On Making GTA 6 Happen On Switch 2",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563229/article/xbox-debunks-claim-that-gta-6-was-pre-ordered-8-times-more-on-ps5-than-xbox-series-xs/",
-      "thumbnail": "/drops/thumbs/418699d7a3b8.jpg",
+      "source_url": "https://gameranx.com/updates/id/563237/article/rumor-rockstar-and-nintendo-are-working-on-making-gta-6-happen-on-switch-2/",
+      "thumbnail": "/drops/thumbs/9b2100835b92.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b79a9be6fdf2",
+      "id": "418699d7a3b8",
       "pillar": "gaming",
-      "title": "Rockstar Has Not Denied That GTA 6 Could Come To Disc Yet – But There’s Zero Evidence It’s Happening",
+      "title": "XBOX Debunks Claim That GTA 6 Was Pre-Ordered 8 Times More On PS5 Than XBOX Series X|S",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563225/article/rockstar-has-not-denied-that-gta-6-could-come-to-disc-yet-but-theres-zero-evidence-its-happening/",
-      "thumbnail": "/drops/thumbs/b79a9be6fdf2.jpg",
+      "source_url": "https://gameranx.com/updates/id/563229/article/xbox-debunks-claim-that-gta-6-was-pre-ordered-8-times-more-on-ps5-than-xbox-series-xs/",
+      "thumbnail": "/drops/thumbs/418699d7a3b8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -294,9 +294,9 @@
   "homepage": [
     "d74f496abc5f",
     "0861ae9fbf6c",
-    "70ced94e4a3b",
-    "4448afbcb3a1",
     "ed9bd14cfe51",
+    "4448afbcb3a1",
+    "3aacc4992560",
     "dbbf8b9d7f56"
   ]
 }
