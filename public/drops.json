@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T14:00:32+00:00",
+  "generated_utc": "2026-06-30T14:34:34+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -111,18 +111,6 @@
       "release_badge": ""
     },
     {
-      "id": "f198931ae2ee",
-      "pillar": "anime",
-      "title": "Disney Just Admitted Hexed Is Inspired By Chainsaw Man (No, Seriously)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/chainsaw-man-disney-hexed-connection-revealed/",
-      "thumbnail": "/drops/thumbs/f198931ae2ee.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "dfcf75cf71ec",
       "pillar": "anime",
       "title": "Bleach: Thousand-Year Blood War - The Calamity Anime's Screening Grosses US$3,000,000 in U.S. Box Office",
@@ -147,6 +135,18 @@
       "release_badge": ""
     },
     {
+      "id": "d6bd6f8c723a",
+      "pillar": "anime",
+      "title": "Prime Video's Most Underrated Anime Thriller Is Leaving This Weekend, And It's For The Best",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/prime-video-banana-fish-thriller-anime-leaving/",
+      "thumbnail": "/drops/thumbs/d6bd6f8c723a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "63db56ea9667",
       "pillar": "anime",
       "title": "Madoka Magica's long-awaited fourth film finally has a release date, 11 years after its first teaser",
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "e54c4d75c2ec",
+      "id": "6fe2ea35c7b5",
       "pillar": "anime",
-      "title": "Crunchyroll's Most Popular and Controversial Isekai Returns In 1 Week",
+      "title": "Akira's Creator Just Confirmed The Greatest Manga Creator Of All Time (Exclusive)",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/mushoku-tensei-return-crunchyroll-most-popular-isekai/",
-      "thumbnail": "/drops/thumbs/e54c4d75c2ec.jpg",
+      "source_url": "https://screenrant.com/akira-katsuhiro-otomo-interview-osamu-tezuka-greatest-manga-ever/",
+      "thumbnail": "/drops/thumbs/6fe2ea35c7b5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "9183b71f6edb",
+      "id": "e54c4d75c2ec",
       "pillar": "anime",
-      "title": "29 Years Later, Revolutionary Girl Utena Finally Gets The Respect It Always Deserved (Exclusive)",
+      "title": "Crunchyroll's Most Popular and Controversial Isekai Returns In 1 Week",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/revolutionary-girl-utena-franchise-aging-fine-wine-ultimate-magical-girl-anime/",
-      "thumbnail": "/drops/thumbs/9183b71f6edb.jpg",
+      "source_url": "https://screenrant.com/mushoku-tensei-return-crunchyroll-most-popular-isekai/",
+      "thumbnail": "/drops/thumbs/e54c4d75c2ec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
