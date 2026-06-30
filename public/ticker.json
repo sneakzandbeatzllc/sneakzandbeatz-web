@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T15:02:05+00:00",
+  "generated_utc": "2026-06-30T15:35:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 8 PRM “BIN 23” August 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
@@ -53,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Hunter x Hunter Manga Tops 100 Million Copies in Circulation",
       "url": "https://www.animenewsnetwork.com/news/2026-06-30/hunter-x-hunter-manga-tops-100-million-copies-in-circulation/.239123",
       "pillar": "anime",
@@ -81,8 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "Marriage Toxin TV Anime Gets 2nd Season in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-30/marriage-toxin-tv-anime-gets-2nd-season-in-2027/.239117",
+      "title": "Sword Art Online's Echoes of Aincrad Game's Opening Movie Previews Aimer's Theme Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-30/sword-art-online-echoes-of-aincrad-game-opening-movie-previews-aimer-theme-song/.239140",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Blade & Bastard Anime's Teaser Reveals Main Staff, 2027 Debut on HIDIVE",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-30/blade-and-bastard-anime-teaser-reveals-main-staff-2027-debut-on-hidive/.239132",
+      "title": "Marriage Toxin TV Anime Gets 2nd Season in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-30/marriage-toxin-tv-anime-gets-2nd-season-in-2027/.239117",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -130,22 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Not Expected to Run at 60fps on Any PS5 Console",
-      "url": "https://www.pushsquare.com/news/2026/06/gta-6-not-expected-to-run-at-60fps-on-any-ps5-console",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: Rockstar And Nintendo Are Working On Making GTA 6 Happen On Switch 2",
       "url": "https://gameranx.com/updates/id/563237/article/rumor-rockstar-and-nintendo-are-working-on-making-gta-6-happen-on-switch-2/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "XBOX Debunks Claim That GTA 6 Was Pre-Ordered 8 Times More On PS5 Than XBOX Series X|S",
-      "url": "https://gameranx.com/updates/id/563229/article/xbox-debunks-claim-that-gta-6-was-pre-ordered-8-times-more-on-ps5-than-xbox-series-xs/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,6 +146,20 @@
     {
       "title": "Clair Obscur: Expedition 33 lead dubs Breath of the Wild \"absolute masterclass\" in open-world dev",
       "url": "https://www.gamesradar.com/games/the-legend-of-zelda/clair-obscur-expedition-33-lead-says-zelda-breath-of-the-wild-was-the-first-open-world-game-that-actually-delivered-on-the-promise-of-an-open-world/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Gaming Industry Lobbyist Claims Minecraft And Call Of Duty Community Servers Are ‘Illegal’ During ‘Stop Killing Games’ Hearing",
+      "url": "https://kotaku.com/gaming-industry-lobbyist-claims-minecraft-and-call-of-duty-community-servers-are-illegal-during-stop-killing-games-hearing-2000711650",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 'I Don't Know What They're Thinking': Ex-PlayStation Boss Weighs in on Sony's PC Port Backtracking",
+      "url": "https://www.pushsquare.com/news/2026/06/i-dont-know-what-theyre-thinking-ex-playstation-boss-weighs-in-on-sonys-pc-port-backtracking",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
