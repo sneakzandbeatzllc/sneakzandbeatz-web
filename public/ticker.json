@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T09:57:55+00:00",
+  "generated_utc": "2026-06-30T10:58:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Did Rockstar Confirm GTA 6 Will Have A Physical Disk Release? No! Jake Randall Explains",
-      "url": "https://gameranx.com/updates/id/563221/article/did-rockstar-confirm-gta-6-will-have-a-physical-disk-release-no-jake-randall-explains/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Final Fantasy 14 devs looked to the MMO's best expansion to design the Arcadion series",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-devs-looked-to-the-mmos-best-expansion-to-design-the-arcadion-series-after-feeling-like-ensuring-player-comfort-and-stress-reduction-limited-creativity/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
       "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Guide Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages",
+      "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
