@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T02:28:12+00:00",
+  "generated_utc": "2026-06-30T03:58:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Unveils A New Power System, And It's Straight Out Of Naruto",
-      "url": "https://screenrant.com/one-piece-new-power-system-stronger-haki-naruto/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Spirited Away's live-action adaptation is coming to North America",
       "url": "https://www.polygon.com/spirited-away-stage-play-north-america/",
       "pillar": "anime",
@@ -102,15 +95,22 @@
       "article_slug": null
     },
     {
-      "title": "Japanese Govt. to Consider Providing Subsidies for AI Translation, Overseas Sales Generation to Companies Like Shueisha, Crunchyroll",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-29/japanese-govt-to-consider-providing-subsidies-for-ai-translation-overseas-sales-generation-to-/.239030",
+      "title": "20 Best Long Manhwa Every Fan Simply Must Read",
+      "url": "https://screenrant.com/best-long-manhwa-binge-read/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "5 Psychological Thriller Anime Better Than Death Note",
-      "url": "https://screenrant.com/psychological-thriller-anime-better-death-note/",
+      "title": "The Bugle Call: Song of War Fantasy War Manga Gets TV Anime in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-29/the-bugle-call-song-of-war-fantasy-war-manga-gets-tv-anime-in-2027/.239122",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Anime Will Never Have Another Big Three, And That's Great News For Shonen's Future",
+      "url": "https://screenrant.com/shonen-jump-big-3-never-again-good-naruto-one-piece-bleach/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
