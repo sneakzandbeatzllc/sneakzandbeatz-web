@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T22:11:15+00:00",
+  "generated_utc": "2026-06-30T23:07:11+00:00",
   "items": [
     {
       "id": "8a4907b2d7ce",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "6350c15aac55",
+      "pillar": "gaming",
+      "title": "News Now Even Rockstar Says GTA 6 Plays Best on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/now-even-rockstar-says-gta-6-plays-best-on-ps5",
+      "thumbnail": "/drops/thumbs/6350c15aac55.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9f39e9b41419",
       "pillar": "gaming",
       "title": "Are GTA 6 Pre-Orders Being Hurt By The Lack Of A Physical Disc Release?",
@@ -219,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "f6729bd606e2",
-      "pillar": "gaming",
-      "title": "News This FPS Soulslike Is the Last Ever Project from One of Gaming's Greatest Art Directors",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/this-fps-soulslike-is-the-last-ever-project-from-one-of-gamings-greatest-art-directors",
-      "thumbnail": "/drops/thumbs/f6729bd606e2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "581e39afdadd",
       "pillar": "gaming",
       "title": "The Witcher and Cyberpunk company we've all been calling CD Projekt Red is now CD Projekt Red",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-and-cyberpunk-company-weve-all-been-calling-cd-projekt-red-is-now-officially-cd-projekt-red-presumably-because-they-got-sick-of-us-calling-them-cd-projekt-red/",
       "thumbnail": "/drops/thumbs/581e39afdadd.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f6729bd606e2",
+      "pillar": "gaming",
+      "title": "News This FPS Soulslike Is the Last Ever Project from One of Gaming's Greatest Art Directors",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/this-fps-soulslike-is-the-last-ever-project-from-one-of-gamings-greatest-art-directors",
+      "thumbnail": "/drops/thumbs/f6729bd606e2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "19ea2c1ac262",
-      "pillar": "gaming",
-      "title": "News Layoffs at IO Interactive as Project Fantasy Ends 'Relationship with External Partner'",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/layoffs-at-io-interactive-as-project-fantasy-ends-relationship-with-external-partner",
-      "thumbnail": "/drops/thumbs/19ea2c1ac262.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "d74f496abc5f",
     "fe336d999489",
     "0861ae9fbf6c",
-    "9f39e9b41419"
+    "6350c15aac55"
   ]
 }

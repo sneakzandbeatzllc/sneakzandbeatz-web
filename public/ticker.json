@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T22:11:15+00:00",
+  "generated_utc": "2026-06-30T23:07:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "News Now Even Rockstar Says GTA 6 Plays Best on PS5",
+      "url": "https://www.pushsquare.com/news/2026/07/now-even-rockstar-says-gta-6-plays-best-on-ps5",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Are GTA 6 Pre-Orders Being Hurt By The Lack Of A Physical Disc Release?",
       "url": "https://gameranx.com/updates/id/563244/article/are-gta-6-pre-orders-being-hurt-by-the-lack-of-a-physical-disc-release/",
       "pillar": "gaming",
@@ -130,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "News This FPS Soulslike Is the Last Ever Project from One of Gaming's Greatest Art Directors",
-      "url": "https://www.pushsquare.com/news/2026/06/this-fps-soulslike-is-the-last-ever-project-from-one-of-gamings-greatest-art-directors",
+      "title": "The Witcher and Cyberpunk company we've all been calling CD Projekt Red is now CD Projekt Red",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-and-cyberpunk-company-weve-all-been-calling-cd-projekt-red-is-now-officially-cd-projekt-red-presumably-because-they-got-sick-of-us-calling-them-cd-projekt-red/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "The Witcher and Cyberpunk company we've all been calling CD Projekt Red is now CD Projekt Red",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-and-cyberpunk-company-weve-all-been-calling-cd-projekt-red-is-now-officially-cd-projekt-red-presumably-because-they-got-sick-of-us-calling-them-cd-projekt-red/",
+      "title": "News This FPS Soulslike Is the Last Ever Project from One of Gaming's Greatest Art Directors",
+      "url": "https://www.pushsquare.com/news/2026/06/this-fps-soulslike-is-the-last-ever-project-from-one-of-gamings-greatest-art-directors",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works",
       "url": "https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Layoffs at IO Interactive as Project Fantasy Ends 'Relationship with External Partner'",
-      "url": "https://www.pushsquare.com/news/2026/06/layoffs-at-io-interactive-as-project-fantasy-ends-relationship-with-external-partner",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
