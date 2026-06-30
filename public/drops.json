@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T18:04:25+00:00",
+  "generated_utc": "2026-06-30T18:39:04+00:00",
   "items": [
     {
       "id": "8a4907b2d7ce",
@@ -135,18 +135,6 @@
       "release_badge": ""
     },
     {
-      "id": "4448afbcb3a1",
-      "pillar": "anime",
-      "title": "Hunter x Hunter Manga Tops 100 Million Copies in Circulation",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-30/hunter-x-hunter-manga-tops-100-million-copies-in-circulation/.239123",
-      "thumbnail": "/drops/thumbs/4448afbcb3a1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f12e83715869",
       "pillar": "anime",
       "title": "4 Days Before Its Big Return, Hunter x Hunter Debuts Stunning Hisoka Redesign",
@@ -165,6 +153,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-every-straw-hat-pirate-backstory/",
       "thumbnail": "/drops/thumbs/8d0fc913ecf0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c803620dbd26",
+      "pillar": "anime",
+      "title": "Hiroshi Shimomoto's Delinquent Gacha Manga Ends",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-30/hiroshi-shimomoto-delinquent-gacha-manga-ends/.239115",
+      "thumbnail": "/drops/thumbs/c803620dbd26.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "dacd948dfd39",
+      "id": "53c19e20fdb2",
       "pillar": "gaming",
-      "title": "Report Says Dishonored, Blade Developer Is Also On Xbox’s Chopping Block",
+      "title": "Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/report-says-dishonored-blade-developer-is-also-on-xboxs-chopping-block-2000711729",
-      "thumbnail": "/drops/thumbs/dacd948dfd39.jpg",
+      "source_url": "https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622",
+      "thumbnail": "/drops/thumbs/53c19e20fdb2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "cb5a7651dea3",
+      "id": "19ea2c1ac262",
       "pillar": "gaming",
-      "title": "News Xbox Wants to Cancel Marvel's Blade, Close Arkane Studios",
+      "title": "News Layoffs at IO Interactive as Project Fantasy Ends 'Relationship with External Partner'",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/xbox-wants-to-cancel-marvels-blade-close-arkane-studios",
-      "thumbnail": "/drops/thumbs/cb5a7651dea3.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/layoffs-at-io-interactive-as-project-fantasy-ends-relationship-with-external-partner",
+      "thumbnail": "/drops/thumbs/19ea2c1ac262.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

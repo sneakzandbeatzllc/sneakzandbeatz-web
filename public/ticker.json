@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T18:04:25+00:00",
+  "generated_utc": "2026-06-30T18:39:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Hunter x Hunter Manga Tops 100 Million Copies in Circulation",
-      "url": "https://www.animenewsnetwork.com/news/2026-06-30/hunter-x-hunter-manga-tops-100-million-copies-in-circulation/.239123",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "4 Days Before Its Big Return, Hunter x Hunter Debuts Stunning Hisoka Redesign",
       "url": "https://screenrant.com/hunter-x-hunter-return-hisoka-redesign/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "One Piece: Every Straw Hat Pirate's Backstory Explained",
       "url": "https://screenrant.com/one-piece-every-straw-hat-pirate-backstory/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hiroshi Shimomoto's Delinquent Gacha Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-30/hiroshi-shimomoto-delinquent-gacha-manga-ends/.239115",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Report Says Dishonored, Blade Developer Is Also On Xbox’s Chopping Block",
-      "url": "https://kotaku.com/report-says-dishonored-blade-developer-is-also-on-xboxs-chopping-block-2000711729",
+      "title": "Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works",
+      "url": "https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Xbox Wants to Cancel Marvel's Blade, Close Arkane Studios",
-      "url": "https://www.pushsquare.com/news/2026/06/xbox-wants-to-cancel-marvels-blade-close-arkane-studios",
+      "title": "News Layoffs at IO Interactive as Project Fantasy Ends 'Relationship with External Partner'",
+      "url": "https://www.pushsquare.com/news/2026/06/layoffs-at-io-interactive-as-project-fantasy-ends-relationship-with-external-partner",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
