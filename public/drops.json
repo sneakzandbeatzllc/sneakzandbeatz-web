@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T12:00:47+00:00",
+  "generated_utc": "2026-06-30T12:01:32+00:00",
   "items": [
     {
       "id": "d74f496abc5f",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "adc3c81641cb",
+      "id": "dbbf8b9d7f56",
       "pillar": "gaming",
-      "title": "News GTA 6 Not Expected to Run at 60fps on Any PS5 Console",
+      "title": "News GTA 6 Is the PS5's Number One Game in Every Country on the Planet",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-not-expected-to-run-at-60fps-on-any-ps5-console",
-      "thumbnail": "/drops/thumbs/adc3c81641cb.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-is-the-ps5s-number-one-game-in-every-country-on-the-planet",
+      "thumbnail": "/drops/thumbs/dbbf8b9d7f56.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +225,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563237/article/rumor-rockstar-and-nintendo-are-working-on-making-gta-6-happen-on-switch-2/",
       "thumbnail": "/drops/thumbs/9b2100835b92.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "adc3c81641cb",
+      "pillar": "gaming",
+      "title": "News GTA 6 Not Expected to Run at 60fps on Any PS5 Console",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-not-expected-to-run-at-60fps-on-any-ps5-console",
+      "thumbnail": "/drops/thumbs/adc3c81641cb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "3e46e99ca1a9",
-      "pillar": "gaming",
-      "title": "Guide Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
-      "thumbnail": "/drops/thumbs/3e46e99ca1a9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "4448afbcb3a1",
     "ed9bd14cfe51",
-    "adc3c81641cb"
+    "dbbf8b9d7f56"
   ]
 }

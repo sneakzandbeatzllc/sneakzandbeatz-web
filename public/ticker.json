@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T12:00:47+00:00",
+  "generated_utc": "2026-06-30T12:01:32+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,8 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Not Expected to Run at 60fps on Any PS5 Console",
-      "url": "https://www.pushsquare.com/news/2026/06/gta-6-not-expected-to-run-at-60fps-on-any-ps5-console",
+      "title": "News GTA 6 Is the PS5's Number One Game in Every Country on the Planet",
+      "url": "https://www.pushsquare.com/news/2026/06/gta-6-is-the-ps5s-number-one-game-in-every-country-on-the-planet",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -132,6 +132,13 @@
     {
       "title": "Rumor: Rockstar And Nintendo Are Working On Making GTA 6 Happen On Switch 2",
       "url": "https://gameranx.com/updates/id/563237/article/rumor-rockstar-and-nintendo-are-working-on-making-gta-6-happen-on-switch-2/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News GTA 6 Not Expected to Run at 60fps on Any PS5 Console",
+      "url": "https://www.pushsquare.com/news/2026/06/gta-6-not-expected-to-run-at-60fps-on-any-ps5-console",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Baldur's Gate 3 did it \"pretty well\" but don't expect Obsidian's next RPG to launch in early access",
       "url": "https://www.gamesradar.com/games/rpg/baldurs-gate-3-seems-to-have-done-it-pretty-well-but-dont-expect-obsidians-next-story-based-rpg-to-launch-in-early-access-grounded-2-lead-suggests/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Guide Marvel Tokon: Fighting Souls: All Confirmed Characters and Stages",
-      "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-all-confirmed-characters-and-stages",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
