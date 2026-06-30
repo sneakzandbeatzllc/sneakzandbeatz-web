@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T17:07:52+00:00",
+  "generated_utc": "2026-06-30T18:03:39+00:00",
   "items": [
     {
       "id": "8a4907b2d7ce",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "fe336d999489",
+      "pillar": "anime",
+      "title": "Attack on Titan studio just revealed its risky new sci-fi show with 3 Body Problem vibes",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/attack-on-titan-wit-studio-new-anime-lona-trailer-announcement/",
+      "thumbnail": "/drops/thumbs/fe336d999489.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "63be57678621",
       "pillar": "anime",
       "title": "Crunchyroll to Stream One Piece Heroines , BanG Dream! Yume∞Mita , The Frontier Lord Begins with Zero Subjects , More Anime",
@@ -111,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "f12e83715869",
+      "id": "a0e3cf164e1f",
       "pillar": "anime",
-      "title": "4 Days Before Its Big Return, Hunter x Hunter Debuts Stunning Hisoka Redesign",
+      "title": "One Piece's Remake Trailer Is Here, And It's A Massive Downgrade For The Franchise",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/hunter-x-hunter-return-hisoka-redesign/",
-      "thumbnail": "/drops/thumbs/f12e83715869.png",
+      "source_url": "https://screenrant.com/one-piece-remake-trailer-franchise-downgrade/",
+      "thumbnail": "/drops/thumbs/a0e3cf164e1f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -129,6 +141,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-06-30/hunter-x-hunter-manga-tops-100-million-copies-in-circulation/.239123",
       "thumbnail": "/drops/thumbs/4448afbcb3a1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f12e83715869",
+      "pillar": "anime",
+      "title": "4 Days Before Its Big Return, Hunter x Hunter Debuts Stunning Hisoka Redesign",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/hunter-x-hunter-return-hisoka-redesign/",
+      "thumbnail": "/drops/thumbs/f12e83715869.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,48 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "4e8c20a322dd",
+      "id": "2f35bec27248",
       "pillar": "anime",
-      "title": "The next great fantasy anime The Bugle Call gets announcement trailer",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/bugle-call-anime-announced-trailer/",
-      "thumbnail": "/drops/thumbs/4e8c20a322dd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7676615eff8b",
-      "pillar": "anime",
-      "title": "OceanVeil to Stream Perfect Addiction 'Light Anime'",
+      "title": "Cyberpunk: Edgerunners 2 Anime Reveals Japanese/English Casts",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-06-30/oceanveil-to-stream-perfect-addiction-light-anime/.239143",
-      "thumbnail": "/drops/thumbs/7676615eff8b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d6bd6f8c723a",
-      "pillar": "anime",
-      "title": "Prime Video's Most Underrated Anime Thriller Is Leaving This Weekend, And It's For The Best",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/prime-video-banana-fish-thriller-anime-leaving/",
-      "thumbnail": "/drops/thumbs/d6bd6f8c723a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "dbbf8b9d7f56",
-      "pillar": "gaming",
-      "title": "News GTA 6 Is the PS5's Number One Game in Every Country on the Planet",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/gta-6-is-the-ps5s-number-one-game-in-every-country-on-the-planet",
-      "thumbnail": "/drops/thumbs/dbbf8b9d7f56.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-06-30/cyberpunk-edgerunners-2-anime-reveals-japanese-english-casts/.239137",
+      "thumbnail": "/drops/thumbs/2f35bec27248.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "f6729bd606e2",
+      "pillar": "gaming",
+      "title": "News This FPS Soulslike Is the Last Ever Project from One of Gaming's Greatest Art Directors",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/06/this-fps-soulslike-is-the-last-ever-project-from-one-of-gamings-greatest-art-directors",
+      "thumbnail": "/drops/thumbs/f6729bd606e2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ecb7a1cc1c07",
       "pillar": "gaming",
       "title": "Ghost of Yotei was such a hit that the actual Japanese region of Hokkaido is getting official merch",
@@ -255,36 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "511ec57aaccc",
+      "id": "dacd948dfd39",
       "pillar": "gaming",
-      "title": "Gaming Industry Lobbyist Claims Minecraft And Call Of Duty Community Servers Are ‘Illegal’ During ‘Stop Killing Games’ Hearing",
+      "title": "Report Says Dishonored, Blade Developer Is Also On Xbox’s Chopping Block",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/gaming-industry-lobbyist-claims-minecraft-and-call-of-duty-community-servers-are-illegal-during-stop-killing-games-hearing-2000711650",
-      "thumbnail": "/drops/thumbs/511ec57aaccc.jpg",
+      "source_url": "https://kotaku.com/report-says-dishonored-blade-developer-is-also-on-xboxs-chopping-block-2000711729",
+      "thumbnail": "/drops/thumbs/dacd948dfd39.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "359c71578e3e",
+      "id": "cb5a7651dea3",
       "pillar": "gaming",
-      "title": "News Oblivion Remastered's Switch 2 News Is a Sad Reminder That the Game's Still a Mess on PS5",
+      "title": "News Xbox Wants to Cancel Marvel's Blade, Close Arkane Studios",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/06/oblivion-remastereds-switch-2-news-is-a-sad-reminder-that-the-games-still-a-mess-on-ps5",
-      "thumbnail": "/drops/thumbs/359c71578e3e.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/06/xbox-wants-to-cancel-marvels-blade-close-arkane-studios",
+      "thumbnail": "/drops/thumbs/cb5a7651dea3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "4a8b12b3998c",
+      "id": "7ee777080b22",
       "pillar": "gaming",
-      "title": "How Could The Uwe Boll Movie About Murdering Immigrants Starring Disgraced Actor Armie Hammer Get Any Worse? Elon Musk Could Get Involved",
+      "title": "Love And Deepspace Devs Decide To Cancel New Werewolf Love Interest After Fans Reportedly Send Them Cow Shit",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/elon-musk-uwe-boll-armie-hammer-citizen-vigilante-movie-2000711596",
-      "thumbnail": "/drops/thumbs/4a8b12b3998c.jpg",
+      "source_url": "https://kotaku.com/love-and-deepspace-devs-decide-to-cancel-new-werewolf-love-interest-after-fans-reportedly-send-them-cow-shit-2000711611",
+      "thumbnail": "/drops/thumbs/7ee777080b22.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,8 +295,8 @@
     "8a4907b2d7ce",
     "43151d13faa3",
     "d74f496abc5f",
-    "63be57678621",
+    "fe336d999489",
     "0861ae9fbf6c",
-    "dbbf8b9d7f56"
+    "9f39e9b41419"
   ]
 }
