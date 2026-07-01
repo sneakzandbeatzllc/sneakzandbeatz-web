@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T15:49:29+00:00",
+  "generated_utc": "2026-07-01T16:14:49+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -87,13 +87,13 @@
       "release_badge": ""
     },
     {
-      "id": "3aacc4992560",
+      "id": "a71da97d0d37",
       "pillar": "sneakers",
-      "title": "A Women’s Exclusive Air Jordan 4 Blooms This Summer",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-wmns-birds-of-paradise-hv0823-101-2026-drop/",
-      "thumbnail": "/drops/thumbs/3aacc4992560.jpg",
-      "published": "2026-06-26T18:35:00",
+      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
+      "thumbnail": "/drops/thumbs/a71da97d0d37.jpg",
+      "published": "2026-06-25T15:28:28",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -135,6 +135,18 @@
       "release_badge": ""
     },
     {
+      "id": "3253c78cdd59",
+      "pillar": "anime",
+      "title": "29 Years Later, One Piece Finally Undoes Its Biggest Devil Fruit Retcon",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-devil-fruit-retcon-undone/",
+      "thumbnail": "/drops/thumbs/3253c78cdd59.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2ed4d99fd869",
       "pillar": "anime",
       "title": "Naruto's Biggest Live-Action Show To Date Is 7 Months Away, But There's A Catch",
@@ -159,24 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "7b802bcc682f",
+      "id": "d8ab283adee8",
       "pillar": "anime",
-      "title": "29 Years Later, Berserk's 1997 Anime Finally Got A Season 2, And The Return Doesn't Stop There",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/new-berserk-anime-first-episode-better-than-1997/",
-      "thumbnail": "/drops/thumbs/7b802bcc682f.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6aa4a2a93ec0",
-      "pillar": "anime",
-      "title": "Madhouse Reveals 'ghost' Original Anime Film's Teaser, Full Title, February 11, 2027 Debut",
+      "title": "Shueisha Games Announces Wild Wild Eden Open-World Survival Crafting RPG for Steam",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-01/madhouse-reveals-ghost-original-anime-film-teaser-full-title-february-11-2027-debut/.239177",
-      "thumbnail": "/drops/thumbs/6aa4a2a93ec0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-01/shueisha-games-announces-wild-wild-eden-open-world-survival-crafting-rpg-for-steam/.239178",
+      "thumbnail": "/drops/thumbs/d8ab283adee8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "85af7b215e21",
+      "id": "06ed8e8361c0",
       "pillar": "gaming",
-      "title": "The Internet Reacts To PlayStation Killing Off Game Discs",
+      "title": "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/playstation-5-ps5-physical-media-discs-sony-ps6-2000711940",
-      "thumbnail": "/drops/thumbs/85af7b215e21.jpg",
+      "source_url": "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969",
+      "thumbnail": "/drops/thumbs/06ed8e8361c0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "06ed8e8361c0",
+      "id": "70d9fae7af02",
       "pillar": "gaming",
-      "title": "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily",
+      "title": "Why People Still Love Pokémon That Suck Ass: ‘I Love That There’s Room For Him Alongside The Actual God Of Creation’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969",
-      "thumbnail": "/drops/thumbs/06ed8e8361c0.jpg",
+      "source_url": "https://kotaku.com/pokemon-bad-worst-champions-switch-meta-underpowered-2000711993",
+      "thumbnail": "/drops/thumbs/70d9fae7af02.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
