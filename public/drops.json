@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T14:13:24+00:00",
+  "generated_utc": "2026-07-01T15:14:07+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -111,24 +111,24 @@
       "release_badge": ""
     },
     {
-      "id": "69db2ccba042",
-      "pillar": "anime",
-      "title": "29 Years Later, Only One Dragon Ball GT Concept Is Aging Better than Super Saiyan 4",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-shadow-dragons-aging-better-super-saiyan-4/",
-      "thumbnail": "/drops/thumbs/69db2ccba042.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "94addaa7c03e",
       "pillar": "anime",
       "title": "A Big Death Is Coming In Jujutsu Kaisen Season 4, And It's A Huge Missed Opportunity",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-yuki-death-missed-opportunity/",
       "thumbnail": "/drops/thumbs/94addaa7c03e.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f186775e982f",
+      "pillar": "anime",
+      "title": "An Underrated Bleach Hero Just Got A God-Tier Upgrade In Major Manga Change",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/bleach-orihime-god-tier-upgrade-manga-change/",
+      "thumbnail": "/drops/thumbs/f186775e982f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,30 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "581e39afdadd",
-      "pillar": "gaming",
-      "title": "The Witcher and Cyberpunk company we've all been calling CD Projekt Red is now CD Projekt Red",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-and-cyberpunk-company-weve-all-been-calling-cd-projekt-red-is-now-officially-cd-projekt-red-presumably-because-they-got-sick-of-us-calling-them-cd-projekt-red/",
-      "thumbnail": "/drops/thumbs/581e39afdadd.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ecb7a1cc1c07",
-      "pillar": "gaming",
-      "title": "Ghost of Yotei was such a hit that the actual Japanese region of Hokkaido is getting official merch",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/open-world/ghost-of-yotei-was-such-a-hit-that-the-actual-japanese-region-of-hokkaido-is-getting-official-merch-amid-a-tourism-rush-highlighting-areas-from-the-game/",
-      "thumbnail": "/drops/thumbs/ecb7a1cc1c07.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ba6d57a6ae29",
       "pillar": "gaming",
       "title": "Preview DOOM: The Dark Ages - Revelations Is Putting an Endgame in Your Fave PS5 Shooter",
@@ -279,12 +255,36 @@
       "release_badge": ""
     },
     {
+      "id": "ffed8166145e",
+      "pillar": "gaming",
+      "title": "PlayStation is ending physical disc production for new games in 2028, Sony confirms",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/platforms/playstation/playstation-is-ending-physical-disc-production-for-new-games-in-2028-as-sony-says-general-preference-for-digital-media-significantly-outpaces-physical-discs/",
+      "thumbnail": "/drops/thumbs/ffed8166145e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "47c79116ace8",
       "pillar": "gaming",
       "title": "PlayStation 3 And Vita Stores Are Shutting Down, For Real This Time",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563265/article/playstation-3-and-vita-stores-are-shutting-down-for-real-this-time/",
       "thumbnail": "/drops/thumbs/47c79116ace8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "06ed8e8361c0",
+      "pillar": "gaming",
+      "title": "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969",
+      "thumbnail": "/drops/thumbs/06ed8e8361c0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

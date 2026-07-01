@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T14:13:24+00:00",
+  "generated_utc": "2026-07-01T15:14:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,15 +67,15 @@
       "article_slug": null
     },
     {
-      "title": "29 Years Later, Only One Dragon Ball GT Concept Is Aging Better than Super Saiyan 4",
-      "url": "https://screenrant.com/dragon-ball-shadow-dragons-aging-better-super-saiyan-4/",
+      "title": "A Big Death Is Coming In Jujutsu Kaisen Season 4, And It's A Huge Missed Opportunity",
+      "url": "https://screenrant.com/jujutsu-kaisen-season-4-yuki-death-missed-opportunity/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "A Big Death Is Coming In Jujutsu Kaisen Season 4, And It's A Huge Missed Opportunity",
-      "url": "https://screenrant.com/jujutsu-kaisen-season-4-yuki-death-missed-opportunity/",
+      "title": "An Underrated Bleach Hero Just Got A God-Tier Upgrade In Major Manga Change",
+      "url": "https://screenrant.com/bleach-orihime-god-tier-upgrade-manga-change/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,20 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "The Witcher and Cyberpunk company we've all been calling CD Projekt Red is now CD Projekt Red",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-and-cyberpunk-company-weve-all-been-calling-cd-projekt-red-is-now-officially-cd-projekt-red-presumably-because-they-got-sick-of-us-calling-them-cd-projekt-red/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ghost of Yotei was such a hit that the actual Japanese region of Hokkaido is getting official merch",
-      "url": "https://www.gamesradar.com/games/open-world/ghost-of-yotei-was-such-a-hit-that-the-actual-japanese-region-of-hokkaido-is-getting-official-merch-amid-a-tourism-rush-highlighting-areas-from-the-game/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Preview DOOM: The Dark Ages - Revelations Is Putting an Endgame in Your Fave PS5 Shooter",
       "url": "https://www.pushsquare.com/previews/doom-the-dark-ages-revelations-is-putting-an-endgame-in-your-fave-ps5-shooter",
       "pillar": "gaming",
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "PlayStation is ending physical disc production for new games in 2028, Sony confirms",
+      "url": "https://www.gamesradar.com/platforms/playstation/playstation-is-ending-physical-disc-production-for-new-games-in-2028-as-sony-says-general-preference-for-digital-media-significantly-outpaces-physical-discs/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "PlayStation 3 And Vita Stores Are Shutting Down, For Real This Time",
       "url": "https://gameranx.com/updates/id/563265/article/playstation-3-and-vita-stores-are-shutting-down-for-real-this-time/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily",
+      "url": "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
