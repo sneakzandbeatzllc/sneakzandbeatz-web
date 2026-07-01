@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T21:23:51+00:00",
+  "generated_utc": "2026-07-01T22:19:20+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -111,18 +111,6 @@
       "release_badge": ""
     },
     {
-      "id": "94addaa7c03e",
-      "pillar": "anime",
-      "title": "A Big Death Is Coming In Jujutsu Kaisen Season 4, And It's A Huge Missed Opportunity",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-yuki-death-missed-opportunity/",
-      "thumbnail": "/drops/thumbs/94addaa7c03e.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9c5e486f231d",
       "pillar": "anime",
       "title": "Bleach: Thousand-Year Blood War Part 4 Announces Streaming Platform And Release Date",
@@ -171,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "db5dd0d83590",
+      "pillar": "anime",
+      "title": "'My Maid, Miss Kishi' Author Kano Kashiwagi Launches New Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-01/my-maid-miss-kishi-author-kano-kashiwagi-launches-new-manga/.239156",
+      "thumbnail": "/drops/thumbs/db5dd0d83590.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c317ff3b7e08",
       "pillar": "anime",
       "title": "North American Anime, Manga Releases, June 28-July 4",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "7999e199f131",
+      "id": "eff888937cd9",
       "pillar": "anime",
-      "title": "Black Torch TV Anime Reveals Same-Day English Dub, Cast",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-01/black-torch-tv-anime-reveals-same-day-english-dub-cast/.239197",
-      "thumbnail": "/drops/thumbs/7999e199f131.jpg",
+      "title": "One of 2026's best anime is getting a second season sooner than expected",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/marriage-toxin-season-2-announced-2027/",
+      "thumbnail": "/drops/thumbs/eff888937cd9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "e523424b2675",
-      "pillar": "gaming",
-      "title": "Stars Of Netflix’s Skywalkers Climb Empire State Building, Call For Peace, Agree To Get Married, Then Get Arrested",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/stars-of-netflixs-skywalkers-climb-empire-state-building-call-for-peace-agree-to-get-married-then-get-arrested-2000712071",
-      "thumbnail": "/drops/thumbs/e523424b2675.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "47c79116ace8",
       "pillar": "gaming",
       "title": "PlayStation 3 And Vita Stores Are Shutting Down, For Real This Time",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563265/article/playstation-3-and-vita-stores-are-shutting-down-for-real-this-time/",
       "thumbnail": "/drops/thumbs/47c79116ace8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ffed8166145e",
+      "pillar": "gaming",
+      "title": "PlayStation is ending physical disc production for new games in 2028, Sony confirms 11 Comments",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/platforms/playstation/playstation-is-ending-physical-disc-production-for-new-games-in-2028-as-sony-says-general-preference-for-digital-media-significantly-outpaces-physical-discs/",
+      "thumbnail": "/drops/thumbs/ffed8166145e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
