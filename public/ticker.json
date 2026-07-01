@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T04:12:07+00:00",
+  "generated_utc": "2026-07-01T05:09:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "News This FPS Soulslike Is the Last Ever Project from One of Gaming's Greatest Art Directors",
-      "url": "https://www.pushsquare.com/news/2026/06/this-fps-soulslike-is-the-last-ever-project-from-one-of-gamings-greatest-art-directors",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Ghost of Yotei was such a hit that the actual Japanese region of Hokkaido is getting official merch",
       "url": "https://www.gamesradar.com/games/open-world/ghost-of-yotei-was-such-a-hit-that-the-actual-japanese-region-of-hokkaido-is-getting-official-merch-amid-a-tourism-rush-highlighting-areas-from-the-game/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Marathon Fan Goes Viral For Getting To Level 45 Without Having Any Idea How The Game Actually Works",
       "url": "https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Feature Last Chance to Buy These 40+ PS5, PS4 Games in PS Store's Mid-Year Deals Sale",
+      "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-40plus-ps5-ps4-games-in-ps-stores-mid-year-deals-sale",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
