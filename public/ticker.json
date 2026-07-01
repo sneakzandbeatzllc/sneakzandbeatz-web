@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T22:20:00+00:00",
+  "generated_utc": "2026-07-01T23:20:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "One Piece's Anime Just Completely Altered Its Own Lore (And There's No Turning Back)",
+      "url": "https://screenrant.com/one-piece-anime-harley-mural-changed/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Bleach: Thousand-Year Blood War Part 4 Announces Streaming Platform And Release Date",
       "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-release-date-time/",
       "pillar": "anime",
@@ -83,13 +90,6 @@
     {
       "title": "Naruto's Biggest Live-Action Show To Date Is 7 Months Away, But There's A Catch",
       "url": "https://screenrant.com/naruto-live-action-stage-ninja-show-february-2027/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "An Underrated Bleach Hero Just Got A God-Tier Upgrade In Major Manga Change",
-      "url": "https://screenrant.com/bleach-orihime-god-tier-upgrade-manga-change/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
