@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T13:18:05+00:00",
+  "generated_utc": "2026-07-01T14:13:24+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "6350c15aac55",
-      "pillar": "gaming",
-      "title": "News Now Even Rockstar Says GTA 6 Plays Best on PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/now-even-rockstar-says-gta-6-plays-best-on-ps5",
-      "thumbnail": "/drops/thumbs/6350c15aac55.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0648ce518126",
       "pillar": "gaming",
       "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
@@ -267,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "ba6d57a6ae29",
+      "pillar": "gaming",
+      "title": "Preview DOOM: The Dark Ages - Revelations Is Putting an Endgame in Your Fave PS5 Shooter",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/previews/doom-the-dark-ages-revelations-is-putting-an-endgame-in-your-fave-ps5-shooter",
+      "thumbnail": "/drops/thumbs/ba6d57a6ae29.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "85af7b215e21",
       "pillar": "gaming",
       "title": "The Internet Reacts To PlayStation Killing Off Game Discs",
@@ -297,6 +297,6 @@
     "d74f496abc5f",
     "fe336d999489",
     "0861ae9fbf6c",
-    "6350c15aac55"
+    "0648ce518126"
   ]
 }
