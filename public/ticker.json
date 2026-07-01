@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-06-30T23:12:07+00:00",
+  "generated_utc": "2026-07-01T00:08:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 8 PRM “BIN 23” August 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
+      "pillar": "sneakers",
+      "score": 6.0,
+      "article_slug": null
+    },
     {
       "title": "The Air Jordan 8 Gets a “Legion Pine” Color for 2026’s Bin 23 Series",
       "url": "https://justfreshkicks.com/air-jordan-8-bin-23-io2053-300/",
@@ -11,22 +18,22 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 8 PRM “BIN 23” August 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-8-prm-bin-23-io2053-300-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
       "pillar": "sneakers",
-      "score": 2.4,
+      "score": 3.0,
       "article_slug": null
     },
     {
       "title": "Kids Air Jordan 4 “She’s A Star” July 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/kids-air-jordan-4-shes-a-star-io2829-600-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
+      "url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -53,15 +60,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Attack on Titan studio just revealed its risky new sci-fi show with 3 Body Problem vibes",
+      "url": "https://www.polygon.com/attack-on-titan-wit-studio-new-anime-lona-trailer-announcement/",
+      "pillar": "anime",
+      "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Attack on Titan studio just revealed its risky new sci-fi show with 3 Body Problem vibes",
-      "url": "https://www.polygon.com/attack-on-titan-wit-studio-new-anime-lona-trailer-announcement/",
+      "title": "29 Years Later, Only One Dragon Ball GT Concept Is Aging Better than Super Saiyan 4",
+      "url": "https://screenrant.com/dragon-ball-shadow-dragons-aging-better-super-saiyan-4/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -83,13 +90,6 @@
     {
       "title": "4 Days Before Its Big Return, Hunter x Hunter Debuts Stunning Hisoka Redesign",
       "url": "https://screenrant.com/hunter-x-hunter-return-hisoka-redesign/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece: Every Straw Hat Pirate's Backstory Explained",
-      "url": "https://screenrant.com/one-piece-every-straw-hat-pirate-backstory/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
