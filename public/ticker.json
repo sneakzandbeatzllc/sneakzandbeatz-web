@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T00:08:35+00:00",
+  "generated_utc": "2026-07-01T01:10:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,15 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "One Piece's Remake Trailer Is Here, And It's A Massive Downgrade For The Franchise",
-      "url": "https://screenrant.com/one-piece-remake-trailer-franchise-downgrade/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "4 Days Before Its Big Return, Hunter x Hunter Debuts Stunning Hisoka Redesign",
-      "url": "https://screenrant.com/hunter-x-hunter-return-hisoka-redesign/",
+      "title": "29 Years Later, Berserk's 1997 Anime Finally Got A Season 2, And The Return Doesn't Stop There",
+      "url": "https://screenrant.com/new-berserk-anime-first-episode-better-than-1997/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -111,6 +104,13 @@
     {
       "title": "One of 2026's best anime is getting a second season sooner than expected",
       "url": "https://www.polygon.com/marriage-toxin-season-2-announced-2027/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hima-Ten! Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-06-30/hima-ten-manga-ends/.239113",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
