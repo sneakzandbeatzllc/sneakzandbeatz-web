@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T17:16:56+00:00",
+  "generated_utc": "2026-07-01T17:51:23+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -37,18 +37,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "470ddf79af2c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
-      "thumbnail": "/drops/thumbs/470ddf79af2c.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "9117a67223d5",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
       "thumbnail": "/drops/thumbs/a71da97d0d37.jpg",
       "published": "2026-06-25T15:28:28",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e146b07264a0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
+      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
+      "published": "2026-06-24T15:29:07",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -231,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "cf20477c5a29",
+      "pillar": "gaming",
+      "title": "Clair Obscur’s Director Knows Kingdom Hearts II Is The Best One",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/clair-obscur-expedition-33-director-kingdom-hearts-2-best-2000712023",
+      "thumbnail": "/drops/thumbs/cf20477c5a29.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cdbc74bafa77",
       "pillar": "gaming",
       "title": "Cyberpunk 2077 quest lead turned one character's appearance into \"part of the story\"",
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "06ed8e8361c0",
-      "pillar": "gaming",
-      "title": "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969",
-      "thumbnail": "/drops/thumbs/06ed8e8361c0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "47c79116ace8",
       "pillar": "gaming",
       "title": "PlayStation 3 And Vita Stores Are Shutting Down, For Real This Time",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "efc210c1b4c1",
+      "id": "06ed8e8361c0",
       "pillar": "gaming",
-      "title": "Mario Kart World Just Made A Surprisingly Cool Tweak To Items One Year Later",
+      "title": "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/mario-kart-world-items-tweak-power-ups-new-routes-knockout-2000711989",
-      "thumbnail": "/drops/thumbs/efc210c1b4c1.jpg",
+      "source_url": "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969",
+      "thumbnail": "/drops/thumbs/06ed8e8361c0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -296,7 +296,7 @@
     "8a4907b2d7ce",
     "d74f496abc5f",
     "fe336d999489",
-    "470ddf79af2c",
+    "9117a67223d5",
     "0648ce518126"
   ]
 }

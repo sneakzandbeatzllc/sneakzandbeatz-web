@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T17:16:56+00:00",
+  "generated_utc": "2026-07-01T17:51:23+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,13 +22,6 @@
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
       "pillar": "sneakers",
       "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
-      "pillar": "sneakers",
-      "score": 2.4,
       "article_slug": null
     },
     {
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 9 “Super Freak” Releases February 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Musik” Releases January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Clair Obscur’s Director Knows Kingdom Hearts II Is The Best One",
+      "url": "https://kotaku.com/clair-obscur-expedition-33-director-kingdom-hearts-2-best-2000712023",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Cyberpunk 2077 quest lead turned one character's appearance into \"part of the story\"",
       "url": "https://www.gamesradar.com/games/cyberpunk/limitation-sparks-creativity-cyberpunk-2077-quest-lead-turned-one-characters-appearance-into-part-of-the-story-because-cd-projekt-red-couldnt-afford-the-alternative/",
       "pillar": "gaming",
@@ -151,13 +158,6 @@
       "article_slug": null
     },
     {
-      "title": "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily",
-      "url": "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "PlayStation 3 And Vita Stores Are Shutting Down, For Real This Time",
       "url": "https://gameranx.com/updates/id/563265/article/playstation-3-and-vita-stores-are-shutting-down-for-real-this-time/",
       "pillar": "gaming",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Mario Kart World Just Made A Surprisingly Cool Tweak To Items One Year Later",
-      "url": "https://kotaku.com/mario-kart-world-items-tweak-power-ups-new-routes-knockout-2000711989",
+      "title": "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily",
+      "url": "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
