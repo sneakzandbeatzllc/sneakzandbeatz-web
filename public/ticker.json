@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T18:17:35+00:00",
+  "generated_utc": "2026-07-01T19:16:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "Bleach: Thousand-Year Blood War Part 4 Announces Streaming Platform And Release Date",
+      "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-release-date-time/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "29 Years Later, One Piece Finally Undoes Its Biggest Devil Fruit Retcon",
       "url": "https://screenrant.com/one-piece-devil-fruit-retcon-undone/",
       "pillar": "anime",
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Mobile Suit Gundam Eight Manga Gets 'Special Promo Video'",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-01/mobile-suit-gundam-eight-manga-gets-special-promo-video/.239155",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One of 2026's best anime is getting a second season sooner than expected",
-      "url": "https://www.polygon.com/marriage-toxin-season-2-announced-2027/",
+      "title": "Remow's 'It's Anime' Streams My Stepmother and Stepsisters Aren't Wicked Anime on YouTube",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-01/remow-its-anime-streams-my-stepmother-and-stepsisters-arent-wicked-anime-on-youtube/.239152",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -125,6 +125,13 @@
     {
       "title": "GTA 6 Developer Rockstar Ready To Talk On Recognizing A New UK Union",
       "url": "https://gameranx.com/updates/id/563258/article/gta-6-developer-rockstar-ready-to-talk-on-recognizing-a-new-uk-union/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News SEGA Expects 5 Million Sales from 'Flagship' Games Persona 4 Revival and Stranger Than Heaven",
+      "url": "https://www.pushsquare.com/news/2026/07/sega-expects-5-million-sales-from-flagship-games-persona-4-revival-and-stranger-than-heaven",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Metroid Ravenous Could Be A New Switch 2 Sequel To Dread After Latest Ratings Leak",
-      "url": "https://kotaku.com/metroid-ravenous-could-be-a-new-switch-2-sequel-to-dread-after-latest-ratings-leak-2000712029",
+      "title": "The Internet Reacts To PlayStation Killing Off Game Discs",
+      "url": "https://kotaku.com/playstation-5-ps5-physical-media-discs-sony-ps6-2000711940",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "PlayStation 3 And Vita Stores Are Shutting Down, For Real This Time",
       "url": "https://gameranx.com/updates/id/563265/article/playstation-3-and-vita-stores-are-shutting-down-for-real-this-time/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Xbox Is Reportedly Testing A Way To Digitize Your Physical Games",
-      "url": "https://kotaku.com/xbox-is-reportedly-testing-a-way-to-digitize-your-physical-games-2000712041",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
