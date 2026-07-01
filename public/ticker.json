@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T15:15:35+00:00",
+  "generated_utc": "2026-07-01T15:49:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,13 +20,6 @@
     {
       "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Kids Air Jordan 4 “She’s A Star” July 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/kids-air-jordan-4-shes-a-star-io2829-600-drop/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "A Women’s Exclusive Air Jordan 4 Blooms This Summer",
+      "url": "https://www.nicekicks.com/air-jordan-4-wmns-birds-of-paradise-hv0823-101-2026-drop/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Attack on Titan studio just revealed its risky new sci-fi show with 3 Body Problem vibes",
       "url": "https://www.polygon.com/attack-on-titan-wit-studio-new-anime-lona-trailer-announcement/",
       "pillar": "anime",
@@ -69,6 +69,20 @@
     {
       "title": "A Big Death Is Coming In Jujutsu Kaisen Season 4, And It's A Huge Missed Opportunity",
       "url": "https://screenrant.com/jujutsu-kaisen-season-4-yuki-death-missed-opportunity/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto Series Gets Non-Verbal Live Show",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-01/naruto-series-gets-non-verbal-live-show/.239183",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto's Biggest Live-Action Show To Date Is 7 Months Away, But There's A Catch",
+      "url": "https://screenrant.com/naruto-live-action-stage-ninja-show-february-2027/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,22 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Hidenori Yamaji's Soara and the House of Monsters Manga Gets TV Anime in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-01/hidenori-yamaji-soara-and-the-house-of-monsters-manga-gets-tv-anime-in-2027/.239175",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One of 2026's best anime is getting a second season sooner than expected",
       "url": "https://www.polygon.com/marriage-toxin-season-2-announced-2027/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Shueisha's Contract for Manga of Marvel Characters Ends on September 30",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-01/shueisha-contract-for-manga-of-marvel-characters-ends-on-september-30/.239159",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
