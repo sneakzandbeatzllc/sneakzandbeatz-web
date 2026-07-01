@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T20:18:49+00:00",
+  "generated_utc": "2026-07-01T20:52:55+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -39,6 +39,30 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-07-01T13:50:20",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7a92cd8da621",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 “Space Jam” Returns December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
+      "thumbnail": "/drops/thumbs/7a92cd8da621.jpg",
+      "published": "2026-07-01T13:38:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "9117a67223d5",
       "pillar": "sneakers",
       "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
@@ -75,30 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "a71da97d0d37",
-      "pillar": "sneakers",
-      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
-      "thumbnail": "/drops/thumbs/a71da97d0d37.jpg",
-      "published": "2026-06-25T15:28:28",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e146b07264a0",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Musik” Releases January 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "thumbnail": "/drops/thumbs/e146b07264a0.jpg",
-      "published": "2026-06-24T15:29:07",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "fe336d999489",
       "pillar": "anime",
       "title": "Attack on Titan studio just revealed its risky new sci-fi show with 3 Body Problem vibes",
@@ -117,18 +117,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-yuki-death-missed-opportunity/",
       "thumbnail": "/drops/thumbs/94addaa7c03e.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4e94451c5242",
-      "pillar": "anime",
-      "title": "Naruto Series Gets Non-Verbal Live Show",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-01/naruto-series-gets-non-verbal-live-show/.239183",
-      "thumbnail": "/drops/thumbs/4e94451c5242.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -177,6 +165,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/bleach-orihime-god-tier-upgrade-manga-change/",
       "thumbnail": "/drops/thumbs/f186775e982f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7999e199f131",
+      "pillar": "anime",
+      "title": "Black Torch TV Anime Reveals Same-Day English Dub, Cast",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-01/black-torch-tv-anime-reveals-same-day-english-dub-cast/.239197",
+      "thumbnail": "/drops/thumbs/7999e199f131.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -296,7 +296,7 @@
     "8a4907b2d7ce",
     "d74f496abc5f",
     "fe336d999489",
-    "9117a67223d5",
+    "e21281229ce9",
     "0648ce518126"
   ]
 }

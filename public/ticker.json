@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-01T20:18:49+00:00",
+  "generated_utc": "2026-07-01T20:52:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -25,6 +25,20 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 11 “Space Jam” Returns December 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Slam Jam x Air Jordan 8 in Two Colorways Releases Spring 2027",
       "url": "https://www.sneakerfiles.com/slam-jam-air-jordan-8/",
       "pillar": "sneakers",
@@ -46,20 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Musik” Releases January 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-musik/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Attack on Titan studio just revealed its risky new sci-fi show with 3 Body Problem vibes",
       "url": "https://www.polygon.com/attack-on-titan-wit-studio-new-anime-lona-trailer-announcement/",
       "pillar": "anime",
@@ -69,13 +69,6 @@
     {
       "title": "A Big Death Is Coming In Jujutsu Kaisen Season 4, And It's A Huge Missed Opportunity",
       "url": "https://screenrant.com/jujutsu-kaisen-season-4-yuki-death-missed-opportunity/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naruto Series Gets Non-Verbal Live Show",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-01/naruto-series-gets-non-verbal-live-show/.239183",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -104,6 +97,13 @@
     {
       "title": "An Underrated Bleach Hero Just Got A God-Tier Upgrade In Major Manga Change",
       "url": "https://screenrant.com/bleach-orihime-god-tier-upgrade-manga-change/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Black Torch TV Anime Reveals Same-Day English Dub, Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-01/black-torch-tv-anime-reveals-same-day-english-dub-cast/.239197",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
