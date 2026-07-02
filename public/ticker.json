@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T12:32:11+00:00",
+  "generated_utc": "2026-07-02T13:02:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Developer Rockstar Ready To Talk On Recognizing A New UK Union",
-      "url": "https://gameranx.com/updates/id/563258/article/gta-6-developer-rockstar-ready-to-talk-on-recognizing-a-new-uk-union/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Clair Obscur: Expedition 33 lead doesn't \"care\" if his next game isn't as popular as the GOTY RPG",
       "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-doesnt-care-if-his-next-game-isnt-as-popular-as-sandfalls-goty-rpg-because-were-just-going-to-do-what-we-love-again/",
       "pillar": "gaming",
@@ -158,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS6 May Not Be the Only Fully Digital Console Next-Gen",
-      "url": "https://www.pushsquare.com/news/2026/07/ps6-may-not-be-the-only-fully-digital-console-next-gen",
+      "title": "News Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
+      "url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End",
       "url": "https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News PS6 May Not Be the Only Fully Digital Console Next-Gen",
+      "url": "https://www.pushsquare.com/news/2026/07/ps6-may-not-be-the-only-fully-digital-console-next-gen",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

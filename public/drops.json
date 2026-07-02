@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T12:32:11+00:00",
+  "generated_utc": "2026-07-02T13:02:54+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "019da8eaeef4",
-      "pillar": "gaming",
-      "title": "GTA 6 Developer Rockstar Ready To Talk On Recognizing A New UK Union",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563258/article/gta-6-developer-rockstar-ready-to-talk-on-recognizing-a-new-uk-union/",
-      "thumbnail": "/drops/thumbs/019da8eaeef4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a43d379f3960",
       "pillar": "gaming",
       "title": "Clair Obscur: Expedition 33 lead doesn't \"care\" if his next game isn't as popular as the GOTY RPG",
@@ -267,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "a1110e9d904f",
+      "id": "dc822a755ea9",
       "pillar": "gaming",
-      "title": "News PS6 May Not Be the Only Fully Digital Console Next-Gen",
+      "title": "News Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/ps6-may-not-be-the-only-fully-digital-console-next-gen",
-      "thumbnail": "/drops/thumbs/a1110e9d904f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
+      "thumbnail": "/drops/thumbs/dc822a755ea9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073",
       "thumbnail": "/drops/thumbs/9b4f10a3c1c1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a1110e9d904f",
+      "pillar": "gaming",
+      "title": "News PS6 May Not Be the Only Fully Digital Console Next-Gen",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/ps6-may-not-be-the-only-fully-digital-console-next-gen",
+      "thumbnail": "/drops/thumbs/a1110e9d904f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
