@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T21:10:26+00:00",
+  "generated_utc": "2026-07-02T21:29:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "Black Clover Shares New Look At Season 2 Ahead Of Exclusive Sneak Peek",
-      "url": "https://screenrant.com/black-clover-season-2-poster-anime-expo-sneak-peek/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Exclusive: Square Enix Manga & Books Reveals 8 Manga, 2 Final Fantasy Book Releases",
       "url": "https://www.animenewsnetwork.com/news/2026-07-02/exclusive-square-enix-manga-and-books-reveals-8-manga-2-final-fantasy-book-releases/.239184",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Akira officially returns to theaters in IMAX and 4K this summer",
       "url": "https://www.polygon.com/akira-rerelease-4k-imax-movie-theaters-date/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Ramparts of Ice Anime Gets 2nd Season in October",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-02/the-ramparts-of-ice-anime-gets-2nd-season-in-october/.239222",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
