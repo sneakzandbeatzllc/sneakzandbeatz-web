@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T03:22:15+00:00",
+  "generated_utc": "2026-07-02T06:27:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "News Now Even Rockstar Says GTA 6 Plays Best on PS5",
+      "url": "https://www.pushsquare.com/news/2026/07/now-even-rockstar-says-gta-6-plays-best-on-ps5",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
       "pillar": "gaming",
@@ -130,20 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "News The Witcher 3 Vibes Are Inescapable in New Dawnwalker Quest Gameplay",
-      "url": "https://www.pushsquare.com/news/2026/07/the-witcher-3-vibes-are-inescapable-in-new-dawnwalker-quest-gameplay",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News SEGA Expects 5 Million Sales from 'Flagship' Games Persona 4 Revival and Stranger Than Heaven",
-      "url": "https://www.pushsquare.com/news/2026/07/sega-expects-5-million-sales-from-flagship-games-persona-4-revival-and-stranger-than-heaven",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Cyberpunk 2077 quest lead turned one character's appearance into \"part of the story\"",
       "url": "https://www.gamesradar.com/games/cyberpunk/limitation-sparks-creativity-cyberpunk-2077-quest-lead-turned-one-characters-appearance-into-part-of-the-story-because-cd-projekt-red-couldnt-afford-the-alternative/",
       "pillar": "gaming",
@@ -153,6 +146,13 @@
     {
       "title": "World Of Warcraft Is Finally Fixing Its Stupidest Settings Problem After 22 Years",
       "url": "https://kotaku.com/world-of-warcraft-finally-fixing-auto-loot-2000712079",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Onimusha PS5 Has Actually Brought Its Launch Forward to 4th September",
+      "url": "https://www.pushsquare.com/news/2026/07/onimusha-ps5-has-actually-brought-its-launch-forward-to-4th-september",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

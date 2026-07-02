@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T03:22:15+00:00",
+  "generated_utc": "2026-07-02T06:27:36+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "6350c15aac55",
+      "pillar": "gaming",
+      "title": "News Now Even Rockstar Says GTA 6 Plays Best on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/now-even-rockstar-says-gta-6-plays-best-on-ps5",
+      "thumbnail": "/drops/thumbs/6350c15aac55.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0648ce518126",
       "pillar": "gaming",
       "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
@@ -219,30 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "43d1c360003e",
-      "pillar": "gaming",
-      "title": "News The Witcher 3 Vibes Are Inescapable in New Dawnwalker Quest Gameplay",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/the-witcher-3-vibes-are-inescapable-in-new-dawnwalker-quest-gameplay",
-      "thumbnail": "/drops/thumbs/43d1c360003e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e572a180c973",
-      "pillar": "gaming",
-      "title": "News SEGA Expects 5 Million Sales from 'Flagship' Games Persona 4 Revival and Stranger Than Heaven",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/sega-expects-5-million-sales-from-flagship-games-persona-4-revival-and-stranger-than-heaven",
-      "thumbnail": "/drops/thumbs/e572a180c973.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cdbc74bafa77",
       "pillar": "gaming",
       "title": "Cyberpunk 2077 quest lead turned one character's appearance into \"part of the story\"",
@@ -261,6 +249,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/world-of-warcraft-finally-fixing-auto-loot-2000712079",
       "thumbnail": "/drops/thumbs/60ca4beb07f9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9c2b5defbd6b",
+      "pillar": "gaming",
+      "title": "News Onimusha PS5 Has Actually Brought Its Launch Forward to 4th September",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/onimusha-ps5-has-actually-brought-its-launch-forward-to-4th-september",
+      "thumbnail": "/drops/thumbs/9c2b5defbd6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "d74f496abc5f",
     "fe336d999489",
     "e21281229ce9",
-    "0648ce518126"
+    "6350c15aac55"
   ]
 }
