@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T13:02:54+00:00",
+  "generated_utc": "2026-07-02T13:23:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -46,15 +46,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "title": "The Air Jordan 3 “True Blue” Is Making A Return in 2026",
+      "url": "https://www.nicekicks.com/air-jordan-3-true-blue-if4396-102-drop/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 11 “Space Jam” Returns December 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Rumor: GTA 6’s Switch 2 Port Was Made Possible By Nvidia’s Technologies",
+      "url": "https://gameranx.com/updates/id/563281/article/rumor-gta-6s-switch-2-port-was-made-possible-by-nvidias-technologies/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Clair Obscur: Expedition 33 lead doesn't \"care\" if his next game isn't as popular as the GOTY RPG",
       "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-doesnt-care-if-his-next-game-isnt-as-popular-as-sandfalls-goty-rpg-because-were-just-going-to-do-what-we-love-again/",
       "pillar": "gaming",
@@ -137,7 +144,7 @@
       "article_slug": null
     },
     {
-      "title": "Hideo Kojima's fears resurface as PlayStation ends physical games 6 Comments",
+      "title": "Hideo Kojima's fears resurface as PlayStation ends physical games 8 Comments",
       "url": "https://www.gamesradar.com/games/hideo-kojimas-fears-resurface-as-playstation-ends-physical-games-eventually-even-digital-data-will-no-longer-be-owned-by-individuals-on-their-own-initiative/",
       "pillar": "gaming",
       "score": 1.0,
@@ -160,13 +167,6 @@
     {
       "title": "The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End",
       "url": "https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PS6 May Not Be the Only Fully Digital Console Next-Gen",
-      "url": "https://www.pushsquare.com/news/2026/07/ps6-may-not-be-the-only-fully-digital-console-next-gen",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
