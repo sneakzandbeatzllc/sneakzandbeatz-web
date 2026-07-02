@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T20:29:49+00:00",
+  "generated_utc": "2026-07-02T21:10:26+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -75,16 +75,16 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "647b82f2faf7",
+      "id": "9e3c227a31f0",
       "pillar": "sneakers",
-      "title": "The Air Jordan 3 “True Blue” Is Making A Return in 2026",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-true-blue-if4396-102-drop/",
-      "thumbnail": "/drops/thumbs/647b82f2faf7.jpg",
-      "published": "2026-07-02T08:05:55",
+      "title": "Air Jordan 3 MCS “True Blue” Baseball Cleats Releases July 14th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-3-mcs-true-blue-baseball-cleats-fz8627-101/",
+      "thumbnail": "/drops/thumbs/9e3c227a31f0.webp",
+      "published": "",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "e21281229ce9",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "a409eac31cb4",
+      "id": "a426405a2c06",
       "pillar": "anime",
-      "title": "The Ramparts of Ice Anime Gets 2nd Season in October",
+      "title": "Exclusive: Square Enix Manga & Books Reveals 8 Manga, 2 Final Fantasy Book Releases",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/the-ramparts-of-ice-anime-gets-2nd-season-in-october/.239222",
-      "thumbnail": "/drops/thumbs/a409eac31cb4.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/exclusive-square-enix-manga-and-books-reveals-8-manga-2-final-fantasy-book-releases/.239184",
+      "thumbnail": "/drops/thumbs/a426405a2c06.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "0648ce518126",
+      "id": "470d4bfd89c6",
       "pillar": "gaming",
-      "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
+      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
-      "thumbnail": "/drops/thumbs/0648ce518126.png",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-devs-allege-crunch-is-so-common-at-the-gta-6-studio-that-its-built-into-contracts-and-you-have-to-opt-out-of-it/",
+      "thumbnail": "/drops/thumbs/470d4bfd89c6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,6 +213,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563281/article/rumor-gta-6s-switch-2-port-was-made-possible-by-nvidias-technologies/",
       "thumbnail": "/drops/thumbs/3ad7920730dd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0648ce518126",
+      "pillar": "gaming",
+      "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
+      "thumbnail": "/drops/thumbs/0648ce518126.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "da45458b027d",
-      "pillar": "gaming",
-      "title": "News SOMA Dev Pushes PS5 Thriller ONTOS to 2027",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/soma-dev-pushes-ps5-thriller-ontos-to-2027",
-      "thumbnail": "/drops/thumbs/da45458b027d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "0a9aad780b7b",
     "14a0fb6b80e3",
-    "0648ce518126"
+    "470d4bfd89c6"
   ]
 }
