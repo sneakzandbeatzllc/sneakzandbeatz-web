@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T00:25:17+00:00",
+  "generated_utc": "2026-07-02T01:20:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Preview DOOM: The Dark Ages - Revelations Is Putting an Endgame in Your Fave PS5 Shooter",
-      "url": "https://www.pushsquare.com/previews/doom-the-dark-ages-revelations-is-putting-an-endgame-in-your-fave-ps5-shooter",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "World Of Warcraft Is Finally Fixing Its Stupidest Settings Problem After 22 Years",
       "url": "https://kotaku.com/world-of-warcraft-finally-fixing-auto-loot-2000712079",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "PlayStation 3 And Vita Stores Are Shutting Down, For Real This Time",
       "url": "https://gameranx.com/updates/id/563265/article/playstation-3-and-vita-stores-are-shutting-down-for-real-this-time/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Killing Discs Could Mean More Expensive Games, And Fewer Discounts: ‘This Move Is All About Profitability And Control’",
+      "url": "https://kotaku.com/analysts-say-sonys-termination-disc-game-one-step-closer-death-physical-games-2000712106",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
