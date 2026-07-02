@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T21:30:30+00:00",
+  "generated_utc": "2026-07-02T22:30:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,22 +60,15 @@
       "article_slug": null
     },
     {
-      "title": "Koei Tecmo's Attack on Titan 3 Game Reveals Winter Release in Gameplay Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-02/koei-tecmo-attack-on-titan-3-game-reveals-winter-release-in-gameplay-video/.239202",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New Attack on Titan game is getting a cinematic opening from animation studio MAPPA",
-      "url": "https://www.polygon.com/new-attack-on-titan-game-is-getting-a-cinematic-opening-from-animation-studio-mappa/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball's Objective Weakest Z-Fighter Was The First To Beat Vegeta",
       "url": "https://screenrant.com/vegeta-first-dragon-ball-loss-yajirobe/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Jujutsu Kaisen Season 4 Is Offically On The Way: Everything We Know So Far",
+      "url": "https://screenrant.com/jujutsu-kaisen-season-4-confirmed-everything-known/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +81,15 @@
       "article_slug": null
     },
     {
-      "title": "25 Years Later, One Piece's Biggest Devil Fruit Debate Is Finally Settled",
-      "url": "https://screenrant.com/one-piece-flying-devil-fruit-pell-debate-oda/",
+      "title": "The Apothecary Diaries Anime Film's Trailer Reveals Title, Cast, December 11 Opening",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-02/the-apothecary-diaries-anime-film-trailer-reveals-title-cast-december-11-opening/.239226",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dragon Striker, Disney's amazing Avatar replacement, is officially coming back for season 2",
+      "url": "https://www.polygon.com/dragon-striker-season-2-release-date/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Akira officially returns to theaters in IMAX and 4K this summer",
-      "url": "https://www.polygon.com/akira-rerelease-4k-imax-movie-theaters-date/",
+      "title": "Mushuko Tensei season 3 kicks off with a bang at Anime Expo",
+      "url": "https://www.polygon.com/mushuko-tensei-season-3-anime-expo/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "News PS5 Is Finally Getting Its Own Beyblade Game",
-      "url": "https://www.pushsquare.com/news/2026/07/ps5-is-finally-getting-its-own-beyblade-game",
+      "title": "Guide All PS Plus Games Available Now",
+      "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

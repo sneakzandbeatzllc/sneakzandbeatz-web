@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T21:30:30+00:00",
+  "generated_utc": "2026-07-02T22:30:34+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,36 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "0a9aad780b7b",
-      "pillar": "anime",
-      "title": "Koei Tecmo's Attack on Titan 3 Game Reveals Winter Release in Gameplay Video",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/koei-tecmo-attack-on-titan-3-game-reveals-winter-release-in-gameplay-video/.239202",
-      "thumbnail": "/drops/thumbs/0a9aad780b7b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cd70ac0fd69b",
-      "pillar": "anime",
-      "title": "New Attack on Titan game is getting a cinematic opening from animation studio MAPPA",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/new-attack-on-titan-game-is-getting-a-cinematic-opening-from-animation-studio-mappa/",
-      "thumbnail": "/drops/thumbs/cd70ac0fd69b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b13e208a10a5",
       "pillar": "anime",
       "title": "Dragon Ball's Objective Weakest Z-Fighter Was The First To Beat Vegeta",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/vegeta-first-dragon-ball-loss-yajirobe/",
       "thumbnail": "/drops/thumbs/b13e208a10a5.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f9f464c091e6",
+      "pillar": "anime",
+      "title": "Jujutsu Kaisen Season 4 Is Offically On The Way: Everything We Know So Far",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-confirmed-everything-known/",
+      "thumbnail": "/drops/thumbs/f9f464c091e6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +135,24 @@
       "release_badge": ""
     },
     {
-      "id": "f68d9d87bd57",
+      "id": "166b14f96571",
       "pillar": "anime",
-      "title": "25 Years Later, One Piece's Biggest Devil Fruit Debate Is Finally Settled",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-flying-devil-fruit-pell-debate-oda/",
-      "thumbnail": "/drops/thumbs/f68d9d87bd57.jpg",
+      "title": "The Apothecary Diaries Anime Film's Trailer Reveals Title, Cast, December 11 Opening",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/the-apothecary-diaries-anime-film-trailer-reveals-title-cast-december-11-opening/.239226",
+      "thumbnail": "/drops/thumbs/166b14f96571.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "834fa5032825",
+      "pillar": "anime",
+      "title": "Dragon Striker, Disney's amazing Avatar replacement, is officially coming back for season 2",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dragon-striker-season-2-release-date/",
+      "thumbnail": "/drops/thumbs/834fa5032825.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "61c6a373a365",
+      "id": "2683a23ce1f8",
       "pillar": "anime",
-      "title": "Akira officially returns to theaters in IMAX and 4K this summer",
+      "title": "Mushuko Tensei season 3 kicks off with a bang at Anime Expo",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/akira-rerelease-4k-imax-movie-theaters-date/",
-      "thumbnail": "/drops/thumbs/61c6a373a365.jpg",
+      "source_url": "https://www.polygon.com/mushuko-tensei-season-3-anime-expo/",
+      "thumbnail": "/drops/thumbs/2683a23ce1f8.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "bd3bc14e2e9a",
+      "id": "24cf78aa699e",
       "pillar": "gaming",
-      "title": "News PS5 Is Finally Getting Its Own Beyblade Game",
+      "title": "Guide All PS Plus Games Available Now",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/ps5-is-finally-getting-its-own-beyblade-game",
-      "thumbnail": "/drops/thumbs/bd3bc14e2e9a.jpg",
+      "source_url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
+      "thumbnail": "/drops/thumbs/24cf78aa699e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "0a9aad780b7b",
+    "b13e208a10a5",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
