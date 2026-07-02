@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T18:28:30+00:00",
+  "generated_utc": "2026-07-02T19:09:00+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -123,12 +123,24 @@
       "release_badge": ""
     },
     {
-      "id": "7c6137d8ed86",
+      "id": "b13e208a10a5",
       "pillar": "anime",
-      "title": "Netflix's Solo Leveling Proves The Original Series Has One Fatal Flaw",
+      "title": "Dragon Ball's Objective Weakest Z-Fighter Was The First To Beat Vegeta",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-netflix-proves-original-series-romance-flaw/",
-      "thumbnail": "/drops/thumbs/7c6137d8ed86.png",
+      "source_url": "https://screenrant.com/vegeta-first-dragon-ball-loss-yajirobe/",
+      "thumbnail": "/drops/thumbs/b13e208a10a5.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1fc7c445763d",
+      "pillar": "anime",
+      "title": "The Wait Is Almost Over: Netflix Is Finally Getting Jujutsu Kaisen Season 3",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-season-3-netflix-streaming-date/",
+      "thumbnail": "/drops/thumbs/1fc7c445763d.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -153,18 +165,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/black-clover-season-2-poster-anime-expo-sneak-peek/",
       "thumbnail": "/drops/thumbs/02f3ded73847.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2ab24a8684c8",
-      "pillar": "anime",
-      "title": "One Piece's Anime Just Completely Altered Its Own Lore (And There's No Turning Back)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-anime-harley-mural-changed/",
-      "thumbnail": "/drops/thumbs/2ab24a8684c8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,36 +255,36 @@
       "release_badge": ""
     },
     {
+      "id": "bd3bc14e2e9a",
+      "pillar": "gaming",
+      "title": "News PS5 Is Finally Getting Its Own Beyblade Game",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/ps5-is-finally-getting-its-own-beyblade-game",
+      "thumbnail": "/drops/thumbs/bd3bc14e2e9a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "083f6b358621",
+      "pillar": "gaming",
+      "title": "6 Classic Games With Cool Details Hidden On Their Unpatched Physical Discs",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/game-discs-physical-releases-secrets-changes-differences-day-one-patch-2000712289",
+      "thumbnail": "/drops/thumbs/083f6b358621.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "da45458b027d",
       "pillar": "gaming",
       "title": "News SOMA Dev Pushes PS5 Thriller ONTOS to 2027",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/07/soma-dev-pushes-ps5-thriller-ontos-to-2027",
       "thumbnail": "/drops/thumbs/da45458b027d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "344413a31303",
-      "pillar": "gaming",
-      "title": "The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/video-game-industry-esa-digital-ownership-2000712263",
-      "thumbnail": "/drops/thumbs/344413a31303.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c0929518a2bd",
-      "pillar": "gaming",
-      "title": "Reaction PlayStation's Reputation Is at Rock Bottom - Where Do We Go from Here?",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/reaction-playstations-reputation-is-at-rock-bottom-where-do-we-go-from-here",
-      "thumbnail": "/drops/thumbs/c0929518a2bd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

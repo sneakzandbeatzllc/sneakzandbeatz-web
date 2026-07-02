@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T18:28:30+00:00",
+  "generated_utc": "2026-07-02T19:09:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,15 @@
       "article_slug": null
     },
     {
-      "title": "Netflix's Solo Leveling Proves The Original Series Has One Fatal Flaw",
-      "url": "https://screenrant.com/solo-leveling-netflix-proves-original-series-romance-flaw/",
+      "title": "Dragon Ball's Objective Weakest Z-Fighter Was The First To Beat Vegeta",
+      "url": "https://screenrant.com/vegeta-first-dragon-ball-loss-yajirobe/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Wait Is Almost Over: Netflix Is Finally Getting Jujutsu Kaisen Season 3",
+      "url": "https://screenrant.com/jujutsu-kaisen-season-3-netflix-streaming-date/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -90,13 +97,6 @@
     {
       "title": "Black Clover Shares New Look At Season 2 Ahead Of Exclusive Sneak Peek",
       "url": "https://screenrant.com/black-clover-season-2-poster-anime-expo-sneak-peek/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece's Anime Just Completely Altered Its Own Lore (And There's No Turning Back)",
-      "url": "https://screenrant.com/one-piece-anime-harley-mural-changed/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,22 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "News PS5 Is Finally Getting Its Own Beyblade Game",
+      "url": "https://www.pushsquare.com/news/2026/07/ps5-is-finally-getting-its-own-beyblade-game",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "6 Classic Games With Cool Details Hidden On Their Unpatched Physical Discs",
+      "url": "https://kotaku.com/game-discs-physical-releases-secrets-changes-differences-day-one-patch-2000712289",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News SOMA Dev Pushes PS5 Thriller ONTOS to 2027",
       "url": "https://www.pushsquare.com/news/2026/07/soma-dev-pushes-ps5-thriller-ontos-to-2027",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership",
-      "url": "https://kotaku.com/video-game-industry-esa-digital-ownership-2000712263",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Reaction PlayStation's Reputation Is at Rock Bottom - Where Do We Go from Here?",
-      "url": "https://www.pushsquare.com/features/reaction-playstations-reputation-is-at-rock-bottom-where-do-we-go-from-here",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
