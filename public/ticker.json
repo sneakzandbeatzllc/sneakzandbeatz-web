@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T13:33:38+00:00",
+  "generated_utc": "2026-07-02T14:04:23+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "Black Clover Shares New Look At Season 2 Ahead Of Exclusive Sneak Peek",
+      "url": "https://screenrant.com/black-clover-season-2-poster-anime-expo-sneak-peek/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece's Anime Just Completely Altered Its Own Lore (And There's No Turning Back)",
       "url": "https://screenrant.com/one-piece-anime-harley-mural-changed/",
       "pillar": "anime",
@@ -90,13 +97,6 @@
     {
       "title": "Bleach: Thousand-Year Blood War Part 4 Announces Streaming Platform And Release Date",
       "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-release-date-time/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "29 Years Later, One Piece Finally Undoes Its Biggest Devil Fruit Retcon",
-      "url": "https://screenrant.com/one-piece-devil-fruit-retcon-undone/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,22 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "News The Outer Worlds Dev Obsidian Is Yet Another Xbox Team at Risk of Closure",
+      "url": "https://www.pushsquare.com/news/2026/07/the-outer-worlds-dev-obsidian-is-yet-another-xbox-team-at-risk-of-closure",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Indie Game Engine Will Require ‘All Code To Be Human-Authored’ Following An AI Code ‘Shitshow’",
+      "url": "https://kotaku.com/indie-game-engine-will-require-all-code-to-be-human-authored-following-an-ai-code-shitshow-2000711737",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Attack on Titan 3 Goes Open World, Locks Down Winter Release Window on PS5",
       "url": "https://www.pushsquare.com/news/2026/07/attack-on-titan-3-goes-open-world-locks-down-winter-release-window-on-ps5",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End",
-      "url": "https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
-      "url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
