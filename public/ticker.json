@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T17:37:47+00:00",
+  "generated_utc": "2026-07-02T18:27:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "New Attack on Titan game is getting a cinematic opening from animation studio MAPPA",
+      "url": "https://www.polygon.com/new-attack-on-titan-game-is-getting-a-cinematic-opening-from-animation-studio-mappa/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Netflix's Solo Leveling Proves The Original Series Has One Fatal Flaw",
       "url": "https://screenrant.com/solo-leveling-netflix-proves-original-series-romance-flaw/",
       "pillar": "anime",
@@ -95,22 +102,15 @@
       "article_slug": null
     },
     {
+      "title": "The Ramparts of Ice Anime Gets 2nd Season in October",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-02/the-ramparts-of-ice-anime-gets-2nd-season-in-october/.239222",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "24 years ago, this forgotten series predicted one of anime’s biggest fantasy trends",
       "url": "https://www.polygon.com/witch-hunter-robin-anime-24th-anniversary/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Japanese Animation TV Ranking, June 15-21",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-02/japanese-animation-tv-ranking-june-15-21/.239121",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Netflix users will soon be able to watch 2026’s best anime fight",
-      "url": "https://www.polygon.com/jujutsu-kaisen-best-anime-fight-2026-netflix/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Reaction PlayStation's Reputation Is at Rock Bottom - Where Do We Go from Here?",
-      "url": "https://www.pushsquare.com/features/reaction-playstations-reputation-is-at-rock-bottom-where-do-we-go-from-here",
+      "title": "News SOMA Dev Pushes PS5 Thriller ONTOS to 2027",
+      "url": "https://www.pushsquare.com/news/2026/07/soma-dev-pushes-ps5-thriller-ontos-to-2027",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "News I Waited All Gen for a K-pop Game, Then Got Two on PS5 at Once",
-      "url": "https://www.pushsquare.com/news/2026/07/i-waited-all-gen-for-a-k-pop-game-then-got-two-on-ps5-at-once",
+      "title": "Reaction PlayStation's Reputation Is at Rock Bottom - Where Do We Go from Here?",
+      "url": "https://www.pushsquare.com/features/reaction-playstations-reputation-is-at-rock-bottom-where-do-we-go-from-here",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T17:37:47+00:00",
+  "generated_utc": "2026-07-02T18:27:41+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "cd70ac0fd69b",
+      "pillar": "anime",
+      "title": "New Attack on Titan game is getting a cinematic opening from animation studio MAPPA",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/new-attack-on-titan-game-is-getting-a-cinematic-opening-from-animation-studio-mappa/",
+      "thumbnail": "/drops/thumbs/cd70ac0fd69b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7c6137d8ed86",
       "pillar": "anime",
       "title": "Netflix's Solo Leveling Proves The Original Series Has One Fatal Flaw",
@@ -159,36 +171,24 @@
       "release_badge": ""
     },
     {
+      "id": "a409eac31cb4",
+      "pillar": "anime",
+      "title": "The Ramparts of Ice Anime Gets 2nd Season in October",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/the-ramparts-of-ice-anime-gets-2nd-season-in-october/.239222",
+      "thumbnail": "/drops/thumbs/a409eac31cb4.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fa7d4f390507",
       "pillar": "anime",
       "title": "24 years ago, this forgotten series predicted one of anime’s biggest fantasy trends",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/witch-hunter-robin-anime-24th-anniversary/",
       "thumbnail": "/drops/thumbs/fa7d4f390507.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "14eeadc9028b",
-      "pillar": "anime",
-      "title": "Japanese Animation TV Ranking, June 15-21",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/japanese-animation-tv-ranking-june-15-21/.239121",
-      "thumbnail": "/drops/thumbs/14eeadc9028b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "463641251eff",
-      "pillar": "anime",
-      "title": "Netflix users will soon be able to watch 2026’s best anime fight",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/jujutsu-kaisen-best-anime-fight-2026-netflix/",
-      "thumbnail": "/drops/thumbs/463641251eff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "c0929518a2bd",
+      "id": "da45458b027d",
       "pillar": "gaming",
-      "title": "Reaction PlayStation's Reputation Is at Rock Bottom - Where Do We Go from Here?",
+      "title": "News SOMA Dev Pushes PS5 Thriller ONTOS to 2027",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/reaction-playstations-reputation-is-at-rock-bottom-where-do-we-go-from-here",
-      "thumbnail": "/drops/thumbs/c0929518a2bd.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/soma-dev-pushes-ps5-thriller-ontos-to-2027",
+      "thumbnail": "/drops/thumbs/da45458b027d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "fee7c0c48438",
+      "id": "c0929518a2bd",
       "pillar": "gaming",
-      "title": "News I Waited All Gen for a K-pop Game, Then Got Two on PS5 at Once",
+      "title": "Reaction PlayStation's Reputation Is at Rock Bottom - Where Do We Go from Here?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/i-waited-all-gen-for-a-k-pop-game-then-got-two-on-ps5-at-once",
-      "thumbnail": "/drops/thumbs/fee7c0c48438.jpg",
+      "source_url": "https://www.pushsquare.com/features/reaction-playstations-reputation-is-at-rock-bottom-where-do-we-go-from-here",
+      "thumbnail": "/drops/thumbs/c0929518a2bd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
