@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T16:26:39+00:00",
+  "generated_utc": "2026-07-02T16:36:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "Bleach: Thousand-Year Blood War Part 4 Announces Streaming Platform And Release Date",
-      "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-release-date-time/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "24 years ago, this forgotten series predicted one of anime’s biggest fantasy trends",
       "url": "https://www.polygon.com/witch-hunter-robin-anime-24th-anniversary/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Japanese Animation TV Ranking, June 15-21",
       "url": "https://www.animenewsnetwork.com/news/2026-07-02/japanese-animation-tv-ranking-june-15-21/.239121",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Netflix users will soon be able to watch 2026’s best anime fight",
+      "url": "https://www.polygon.com/jujutsu-kaisen-best-anime-fight-2026-netflix/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "News Dune: Awakening Announces Physical PS5 Release with the Most Unfortunate Timing",
-      "url": "https://www.pushsquare.com/news/2026/07/dune-awakening-announces-physical-ps5-release-with-the-most-unfortunate-timing",
+      "title": "News I Waited All Gen for a K-pop Game, Then Got Two on PS5 at Once",
+      "url": "https://www.pushsquare.com/news/2026/07/i-waited-all-gen-for-a-k-pop-game-then-got-two-on-ps5-at-once",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "News The Outer Worlds Dev Obsidian Not at Risk of Closure, It's Now Claimed",
-      "url": "https://www.pushsquare.com/news/2026/07/the-outer-worlds-dev-obsidian-not-at-risk-of-closure-its-now-claimed",
+      "title": "News Dune: Awakening Announces Physical PS5 Release with the Most Unfortunate Timing",
+      "url": "https://www.pushsquare.com/news/2026/07/dune-awakening-announces-physical-ps5-release-with-the-most-unfortunate-timing",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

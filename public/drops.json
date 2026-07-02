@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T16:26:39+00:00",
+  "generated_utc": "2026-07-02T16:36:51+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -159,18 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "9c5e486f231d",
-      "pillar": "anime",
-      "title": "Bleach: Thousand-Year Blood War Part 4 Announces Streaming Platform And Release Date",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-release-date-time/",
-      "thumbnail": "/drops/thumbs/9c5e486f231d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "fa7d4f390507",
       "pillar": "anime",
       "title": "24 years ago, this forgotten series predicted one of anime’s biggest fantasy trends",
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/japanese-animation-tv-ranking-june-15-21/.239121",
       "thumbnail": "/drops/thumbs/14eeadc9028b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "463641251eff",
+      "pillar": "anime",
+      "title": "Netflix users will soon be able to watch 2026’s best anime fight",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/jujutsu-kaisen-best-anime-fight-2026-netflix/",
+      "thumbnail": "/drops/thumbs/463641251eff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "15ecac833294",
+      "id": "fee7c0c48438",
       "pillar": "gaming",
-      "title": "News Dune: Awakening Announces Physical PS5 Release with the Most Unfortunate Timing",
+      "title": "News I Waited All Gen for a K-pop Game, Then Got Two on PS5 at Once",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/dune-awakening-announces-physical-ps5-release-with-the-most-unfortunate-timing",
-      "thumbnail": "/drops/thumbs/15ecac833294.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/i-waited-all-gen-for-a-k-pop-game-then-got-two-on-ps5-at-once",
+      "thumbnail": "/drops/thumbs/fee7c0c48438.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "d987ead1b600",
+      "id": "15ecac833294",
       "pillar": "gaming",
-      "title": "News The Outer Worlds Dev Obsidian Not at Risk of Closure, It's Now Claimed",
+      "title": "News Dune: Awakening Announces Physical PS5 Release with the Most Unfortunate Timing",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/the-outer-worlds-dev-obsidian-not-at-risk-of-closure-its-now-claimed",
-      "thumbnail": "/drops/thumbs/d987ead1b600.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/dune-awakening-announces-physical-ps5-release-with-the-most-unfortunate-timing",
+      "thumbnail": "/drops/thumbs/15ecac833294.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
