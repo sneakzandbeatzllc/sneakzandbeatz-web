@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T08:30:34+00:00",
+  "generated_utc": "2026-07-02T09:24:27+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "0a9aad780b7b",
+      "pillar": "anime",
+      "title": "Koei Tecmo's Attack on Titan 3 Game Reveals Winter Release in Gameplay Video",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/koei-tecmo-attack-on-titan-3-game-reveals-winter-release-in-gameplay-video/.239202",
+      "thumbnail": "/drops/thumbs/0a9aad780b7b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fe336d999489",
       "pillar": "anime",
       "title": "Attack on Titan studio just revealed its risky new sci-fi show with 3 Body Problem vibes",
@@ -159,24 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "734c05833303",
+      "id": "fc2b3d742f0b",
       "pillar": "anime",
-      "title": "AI Animation Company Puri Prince Announces Dennō Isu Tantei Charlotte ~Dead Man's Hand~ Short Anime",
+      "title": "Monogatari Off & Monster Season Anime's New Episode Debuts in Winter",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/ai-animation-company-puri-prince-announces-denno-isu-tantei-charlotte-~dead-man-hand~-short-anime/.239211",
-      "thumbnail": "/drops/thumbs/734c05833303.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2ce48b49af89",
-      "pillar": "anime",
-      "title": "Mebius Dust Anime Reveals 5 More Cast Members",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/mebius-dust-anime-reveals-5-more-cast-members/.239209",
-      "thumbnail": "/drops/thumbs/2ce48b49af89.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/monogatari-off-and-monster-season-anime-new-episode-debuts-in-winter/.239215",
+      "thumbnail": "/drops/thumbs/fc2b3d742f0b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "14a0fb6b80e3",
-    "fe336d999489",
+    "0a9aad780b7b",
     "d74f496abc5f",
     "6350c15aac55"
   ]
