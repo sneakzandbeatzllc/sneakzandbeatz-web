@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T07:29:05+00:00",
+  "generated_utc": "2026-07-02T07:59:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -15,6 +15,13 @@
       "url": "https://justfreshkicks.com/air-jordan-8-bin-23-io2053-300/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Comic” Releases July 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-comic/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 5 “Sunset” Returns September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-sunset-2026/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Slam Jam to Release a Pair of Air Jordan 8 Styles in 2027",
-      "url": "https://justfreshkicks.com/slam-jam-air-jordan-8-pack/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
