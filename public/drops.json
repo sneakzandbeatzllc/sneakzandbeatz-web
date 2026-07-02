@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T13:23:55+00:00",
+  "generated_utc": "2026-07-02T13:33:38+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -123,6 +123,18 @@
       "release_badge": ""
     },
     {
+      "id": "7c6137d8ed86",
+      "pillar": "anime",
+      "title": "Netflix's Solo Leveling Proves The Original Series Has One Fatal Flaw",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-netflix-proves-original-series-romance-flaw/",
+      "thumbnail": "/drops/thumbs/7c6137d8ed86.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2ab24a8684c8",
       "pillar": "anime",
       "title": "One Piece's Anime Just Completely Altered Its Own Lore (And There's No Turning Back)",
@@ -153,18 +165,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-devil-fruit-retcon-undone/",
       "thumbnail": "/drops/thumbs/3253c78cdd59.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2ed4d99fd869",
-      "pillar": "anime",
-      "title": "Naruto's Biggest Live-Action Show To Date Is 7 Months Away, But There's A Catch",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-live-action-stage-ninja-show-february-2027/",
-      "thumbnail": "/drops/thumbs/2ed4d99fd869.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "9253fd663a7c",
-      "pillar": "gaming",
-      "title": "Hideo Kojima's fears resurface as PlayStation ends physical games 8 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/hideo-kojimas-fears-resurface-as-playstation-ends-physical-games-eventually-even-digital-data-will-no-longer-be-owned-by-individuals-on-their-own-initiative/",
-      "thumbnail": "/drops/thumbs/9253fd663a7c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "afd57265568d",
       "pillar": "gaming",
       "title": "Rumor: XBOX Is Making Their Own Destiny Like MMO, But With Halo",
@@ -267,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "dc822a755ea9",
+      "id": "2c4b83601080",
       "pillar": "gaming",
-      "title": "News Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
+      "title": "News Attack on Titan 3 Goes Open World, Locks Down Winter Release Window on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
-      "thumbnail": "/drops/thumbs/dc822a755ea9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/attack-on-titan-3-goes-open-world-locks-down-winter-release-window-on-ps5",
+      "thumbnail": "/drops/thumbs/2c4b83601080.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073",
       "thumbnail": "/drops/thumbs/9b4f10a3c1c1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dc822a755ea9",
+      "pillar": "gaming",
+      "title": "News Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
+      "thumbnail": "/drops/thumbs/dc822a755ea9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

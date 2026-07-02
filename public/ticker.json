@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-02T13:23:55+00:00",
+  "generated_utc": "2026-07-02T13:33:38+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Netflix's Solo Leveling Proves The Original Series Has One Fatal Flaw",
+      "url": "https://screenrant.com/solo-leveling-netflix-proves-original-series-romance-flaw/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece's Anime Just Completely Altered Its Own Lore (And There's No Turning Back)",
       "url": "https://screenrant.com/one-piece-anime-harley-mural-changed/",
       "pillar": "anime",
@@ -90,13 +97,6 @@
     {
       "title": "29 Years Later, One Piece Finally Undoes Its Biggest Devil Fruit Retcon",
       "url": "https://screenrant.com/one-piece-devil-fruit-retcon-undone/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naruto's Biggest Live-Action Show To Date Is 7 Months Away, But There's A Catch",
-      "url": "https://screenrant.com/naruto-live-action-stage-ninja-show-february-2027/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Hideo Kojima's fears resurface as PlayStation ends physical games 8 Comments",
-      "url": "https://www.gamesradar.com/games/hideo-kojimas-fears-resurface-as-playstation-ends-physical-games-eventually-even-digital-data-will-no-longer-be-owned-by-individuals-on-their-own-initiative/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: XBOX Is Making Their Own Destiny Like MMO, But With Halo",
       "url": "https://gameranx.com/updates/id/563272/article/rumor-xbox-is-making-their-own-destiny-like-mmo-but-with-halo/",
       "pillar": "gaming",
@@ -158,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "News Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
-      "url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
+      "title": "News Attack on Titan 3 Goes Open World, Locks Down Winter Release Window on PS5",
+      "url": "https://www.pushsquare.com/news/2026/07/attack-on-titan-3-goes-open-world-locks-down-winter-release-window-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End",
       "url": "https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
+      "url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
