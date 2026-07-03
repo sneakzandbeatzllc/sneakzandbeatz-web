@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-03T02:34:13+00:00",
+  "generated_utc": "2026-07-03T03:35:06+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "b13e208a10a5",
-      "pillar": "anime",
-      "title": "Dragon Ball's Objective Weakest Z-Fighter Was The First To Beat Vegeta",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/vegeta-first-dragon-ball-loss-yajirobe/",
-      "thumbnail": "/drops/thumbs/b13e208a10a5.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f9f464c091e6",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Season 4 Is Offically On The Way: Everything We Know So Far",
@@ -123,12 +111,12 @@
       "release_badge": ""
     },
     {
-      "id": "28872fdc81d2",
+      "id": "c3b6c8fd2fb1",
       "pillar": "anime",
-      "title": "Crunchyroll to Screen Akira Anime Film in U.S., Canada in 4K, IMAX on September 4",
+      "title": "Star Wars: Visions Presents - The Ninth Jedi Anime's Trailer Unveils August 5 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/crunchyroll-to-screen-akira-anime-film-in-u.s-canada-in-4k-imax-on-september-4/.239235",
-      "thumbnail": "/drops/thumbs/28872fdc81d2.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/star-wars-visions-presents-the-ninth-jedi-anime-trailer-unveils-august-5-debut/.239238",
+      "thumbnail": "/drops/thumbs/c3b6c8fd2fb1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "1a522d72cd01",
+      "id": "28872fdc81d2",
       "pillar": "anime",
-      "title": "To You in the Beyond Anime Film Casts Naohito Fujiki",
+      "title": "Crunchyroll to Screen Akira Anime Film in U.S., Canada in 4K, IMAX on September 4",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/to-you-in-the-beyond-anime-film-casts-naohito-fujiki/.239236",
-      "thumbnail": "/drops/thumbs/1a522d72cd01.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/crunchyroll-to-screen-akira-anime-film-in-u.s-canada-in-4k-imax-on-september-4/.239235",
+      "thumbnail": "/drops/thumbs/28872fdc81d2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +159,24 @@
       "release_badge": ""
     },
     {
-      "id": "b53f3c6f79ef",
+      "id": "aa34de907e76",
       "pillar": "anime",
-      "title": "Tougen Anki: Nikko Kegon Falls Arc Anime Reveals Cast Members for Oni Brigade",
+      "title": "It's Official: Viral Web Series Alien Stage Is Finally Getting an Anime",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/alien-stage-series-anime-expo-2026/",
+      "thumbnail": "/drops/thumbs/aa34de907e76.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1a522d72cd01",
+      "pillar": "anime",
+      "title": "To You in the Beyond Anime Film Casts Naohito Fujiki",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/tougen-anki-nikko-kegon-falls-arc-anime-reveals-cast-members-for-oni-brigade/.239233",
-      "thumbnail": "/drops/thumbs/b53f3c6f79ef.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-02/to-you-in-the-beyond-anime-film-casts-naohito-fujiki/.239236",
+      "thumbnail": "/drops/thumbs/1a522d72cd01.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "b13e208a10a5",
+    "f9f464c091e6",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
