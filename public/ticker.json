@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-03T17:51:59+00:00",
+  "generated_utc": "2026-07-03T18:22:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,8 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "The 5 greatest rivalries in anime, ranked",
-      "url": "https://www.polygon.com/best-rivalries-in-anime-ranked/",
+      "title": "Gachiakuta season 2’s first look proves anime’s best new shonen is only getting started",
+      "url": "https://www.polygon.com/gachiakuta-season-2-first-trailer-anime-expo/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "The Ninth Jedi trailer reveals a future for Star Wars beyond the Skywalker saga",
-      "url": "https://www.polygon.com/star-wars-ninth-jedi-trailer-anime-expo/",
+      "title": "The 5 greatest rivalries in anime, ranked",
+      "url": "https://www.polygon.com/best-rivalries-in-anime-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,6 +144,13 @@
       "article_slug": null
     },
     {
+      "title": "News 'I'd Be On Board with Anything': Troy Baker Says He's There 'Day One' for More The Last of Us",
+      "url": "https://www.pushsquare.com/news/2026/07/id-be-on-board-with-anything-troy-baker-says-hes-there-day-one-for-more-the-last-of-us",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News 'Maybe People Won't Like It': Expedition 33 Dev's Next Game Will Make Some 'Drastic Decisions'",
       "url": "https://www.pushsquare.com/news/2026/07/maybe-people-wont-like-it-expedition-33-devs-next-game-will-make-some-drastic-decisions",
       "pillar": "gaming",
@@ -153,13 +160,6 @@
     {
       "title": "News Could Final Fantasy 7 Revelation Get as Many as 9 DLC Packs?",
       "url": "https://www.pushsquare.com/news/2026/07/could-final-fantasy-7-revelation-get-as-many-as-9-dlc-packs",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Cyberpunk 2077 Now an Indisputable Success at 40 Million Units Sold",
-      "url": "https://www.pushsquare.com/news/2026/07/cyberpunk-2077-now-an-indisputable-success-at-40-million-units-sold",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
