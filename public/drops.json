@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-03T13:18:55+00:00",
+  "generated_utc": "2026-07-03T13:35:25+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "e760843888c3",
+      "id": "a2817ec4f636",
       "pillar": "anime",
-      "title": "The Ninth Jedi trailer reveals a future for Star Wars beyond the Skywalker saga",
+      "title": "The 5 greatest rivalries in anime, ranked",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/star-wars-ninth-jedi-trailer-anime-expo/",
-      "thumbnail": "/drops/thumbs/e760843888c3.jpg",
+      "source_url": "https://www.polygon.com/best-rivalries-in-anime-ranked/",
+      "thumbnail": "/drops/thumbs/a2817ec4f636.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "834fa5032825",
+      "id": "e760843888c3",
       "pillar": "anime",
-      "title": "Dragon Striker, Disney's amazing Avatar replacement, is officially coming back for season 2",
+      "title": "The Ninth Jedi trailer reveals a future for Star Wars beyond the Skywalker saga",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dragon-striker-season-2-release-date/",
-      "thumbnail": "/drops/thumbs/834fa5032825.jpg",
+      "source_url": "https://www.polygon.com/star-wars-ninth-jedi-trailer-anime-expo/",
+      "thumbnail": "/drops/thumbs/e760843888c3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -197,7 +197,7 @@
     {
       "id": "470d4bfd89c6",
       "pillar": "gaming",
-      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 8 Comments",
+      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 9 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-devs-allege-crunch-is-so-common-at-the-gta-6-studio-that-its-built-into-contracts-and-you-have-to-opt-out-of-it/",
       "thumbnail": "/drops/thumbs/470d4bfd89c6.jpg",
@@ -243,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "001b2e5bcb28",
+      "pillar": "gaming",
+      "title": "News Cyberpunk 2077 Now an Indisputable Success at 40 Million Units Sold",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/cyberpunk-2077-now-an-indisputable-success-at-40-million-units-sold",
+      "thumbnail": "/drops/thumbs/001b2e5bcb28.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a43d379f3960",
       "pillar": "gaming",
       "title": "Clair Obscur: Expedition 33 lead doesn't \"care\" if his next game isn't as popular as the GOTY RPG",
@@ -273,18 +285,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/cyberpunk/limitation-sparks-creativity-cyberpunk-2077-quest-lead-turned-one-characters-appearance-into-part-of-the-story-because-cd-projekt-red-couldnt-afford-the-alternative/",
       "thumbnail": "/drops/thumbs/cdbc74bafa77.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a95b30057d1e",
-      "pillar": "gaming",
-      "title": "Rumour Xbox Is 'Heavily Evaluating' Halo's Future Just Weeks Before Its PS5 Debut",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/rumour-xbox-is-heavily-evaluating-halos-future-just-weeks-before-its-ps5-debut",
-      "thumbnail": "/drops/thumbs/a95b30057d1e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
