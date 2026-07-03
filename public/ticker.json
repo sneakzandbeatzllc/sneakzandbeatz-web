@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-03T21:44:22+00:00",
+  "generated_utc": "2026-07-03T22:42:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,15 @@
       "article_slug": null
     },
     {
-      "title": "13 Years Ago, Dragon Ball Unveiled The One Alien Race Stronger Than Any Saiyan",
-      "url": "https://screenrant.com/dragon-ball-angels-stronger-than-saiyans/",
+      "title": "Solo Leveling Series Gets Solo Leveling: Beyond the System Anime Film",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/solo-leveling-series-gets-solo-leveling-beyond-the-system-anime-film/.239268",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Solo Leveling's next big movie announced at Anime Expo",
+      "url": "https://www.polygon.com/solo-levelings-next-big-movie-announced-at-anime-expo/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Here U Are Webtoon Gets Anime Adaptation",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-03/here-u-are-webtoon-gets-anime-adaptation/.239267",
+      "title": "Crunchyroll to Stream Fate Rewinder , Overgeared , The Guy She Was Interested In Wasn't a Guy at All , More Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/crunchyroll-to-stream-fate-rewinder-overgeared-the-guy-she-was-interested-in-wasnt-a-guy-at-all-/.239266",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,21 +109,14 @@
       "article_slug": null
     },
     {
-      "title": "JoJo's Bizarre Adventure Part 7: Steel Ball Run Anime's '2nd Stage' Begins on September 25",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-03/jojo-bizarre-adventure-part-7-steel-ball-run-anime-2nd-stage-begins-on-september-25/.239196",
+      "title": "Here U Are Webtoon Gets Anime Adaptation",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-03/here-u-are-webtoon-gets-anime-adaptation/.239267",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Gachiakuta season 2’s first look proves anime’s best new shonen is only getting started",
-      "url": "https://www.polygon.com/gachiakuta-season-2-first-trailer-anime-expo/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 14 Comments",
+      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 15 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-devs-allege-crunch-is-so-common-at-the-gta-6-studio-that-its-built-into-contracts-and-you-have-to-opt-out-of-it/",
       "pillar": "gaming",
       "score": 1.0,

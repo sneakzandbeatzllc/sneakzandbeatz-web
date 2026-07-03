@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-03T21:44:22+00:00",
+  "generated_utc": "2026-07-03T22:42:36+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,12 +99,24 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "4f41fe809bee",
+      "id": "f5658c935604",
       "pillar": "anime",
-      "title": "13 Years Ago, Dragon Ball Unveiled The One Alien Race Stronger Than Any Saiyan",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-angels-stronger-than-saiyans/",
-      "thumbnail": "/drops/thumbs/4f41fe809bee.jpg",
+      "title": "Solo Leveling Series Gets Solo Leveling: Beyond the System Anime Film",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/solo-leveling-series-gets-solo-leveling-beyond-the-system-anime-film/.239268",
+      "thumbnail": "/drops/thumbs/f5658c935604.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "733e90ac8b19",
+      "pillar": "anime",
+      "title": "Solo Leveling's next big movie announced at Anime Expo",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/solo-levelings-next-big-movie-announced-at-anime-expo/",
+      "thumbnail": "/drops/thumbs/733e90ac8b19.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "e7fde4ab03d1",
+      "id": "2f7d5584c535",
       "pillar": "anime",
-      "title": "Here U Are Webtoon Gets Anime Adaptation",
+      "title": "Crunchyroll to Stream Fate Rewinder , Overgeared , The Guy She Was Interested In Wasn't a Guy at All , More Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/here-u-are-webtoon-gets-anime-adaptation/.239267",
-      "thumbnail": "/drops/thumbs/e7fde4ab03d1.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/crunchyroll-to-stream-fate-rewinder-overgeared-the-guy-she-was-interested-in-wasnt-a-guy-at-all-/.239266",
+      "thumbnail": "/drops/thumbs/2f7d5584c535.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,24 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "4a156d141f9b",
+      "id": "e7fde4ab03d1",
       "pillar": "anime",
-      "title": "JoJo's Bizarre Adventure Part 7: Steel Ball Run Anime's '2nd Stage' Begins on September 25",
+      "title": "Here U Are Webtoon Gets Anime Adaptation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/jojo-bizarre-adventure-part-7-steel-ball-run-anime-2nd-stage-begins-on-september-25/.239196",
-      "thumbnail": "/drops/thumbs/4a156d141f9b.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6e69dc2c965b",
-      "pillar": "anime",
-      "title": "Gachiakuta season 2’s first look proves anime’s best new shonen is only getting started",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/gachiakuta-season-2-first-trailer-anime-expo/",
-      "thumbnail": "/drops/thumbs/6e69dc2c965b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/here-u-are-webtoon-gets-anime-adaptation/.239267",
+      "thumbnail": "/drops/thumbs/e7fde4ab03d1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -197,7 +197,7 @@
     {
       "id": "470d4bfd89c6",
       "pillar": "gaming",
-      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 14 Comments",
+      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 15 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-devs-allege-crunch-is-so-common-at-the-gta-6-studio-that-its-built-into-contracts-and-you-have-to-opt-out-of-it/",
       "thumbnail": "/drops/thumbs/470d4bfd89c6.jpg",
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "4f41fe809bee",
+    "f5658c935604",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
