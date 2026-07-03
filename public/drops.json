@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-03T11:34:01+00:00",
+  "generated_utc": "2026-07-03T12:34:41+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4f41fe809bee",
+      "pillar": "anime",
+      "title": "13 Years Ago, Dragon Ball Unveiled The One Alien Race Stronger Than Any Saiyan",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-angels-stronger-than-saiyans/",
+      "thumbnail": "/drops/thumbs/4f41fe809bee.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f9f464c091e6",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Season 4 Is Offically On The Way: Everything We Know So Far",
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "aa34de907e76",
-      "pillar": "anime",
-      "title": "It's Official: Viral Web Series Alien Stage Is Finally Getting an Anime",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/alien-stage-series-anime-expo-2026/",
-      "thumbnail": "/drops/thumbs/aa34de907e76.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5c4ff42aa7e3",
       "pillar": "anime",
       "title": "Mahjong Pros Licenses Golden Sakura , Maetel of the Glassy Sea Manga",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "51a5b8c26382",
+      "id": "aa34de907e76",
       "pillar": "anime",
-      "title": "Netflix’s 10-Episode Legal Drama Is The Perfect Weekend Binge, With Fans Demanding More Seasons",
+      "title": "It's Official: Viral Web Series Alien Stage Is Finally Getting an Anime",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/sins-kujo-netflix-new-legal-drama-weekend-binge/",
-      "thumbnail": "/drops/thumbs/51a5b8c26382.png",
+      "source_url": "https://screenrant.com/alien-stage-series-anime-expo-2026/",
+      "thumbnail": "/drops/thumbs/aa34de907e76.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -197,7 +197,7 @@
     {
       "id": "470d4bfd89c6",
       "pillar": "gaming",
-      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 5 Comments",
+      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 6 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-devs-allege-crunch-is-so-common-at-the-gta-6-studio-that-its-built-into-contracts-and-you-have-to-opt-out-of-it/",
       "thumbnail": "/drops/thumbs/470d4bfd89c6.jpg",
@@ -267,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "afd57265568d",
-      "pillar": "gaming",
-      "title": "Rumor: XBOX Is Making Their Own Destiny Like MMO, But With Halo",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563272/article/rumor-xbox-is-making-their-own-destiny-like-mmo-but-with-halo/",
-      "thumbnail": "/drops/thumbs/afd57265568d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "da2a81db54ee",
       "pillar": "gaming",
       "title": "Captain America’s Bulge Won’t Stop Jiggling In His New Marvel Rivals Summer Skin",
@@ -289,13 +277,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "e931cc648ff4",
+      "pillar": "gaming",
+      "title": "News 'You Will Own Nothing and Be Happy': PlayStation's YouTube Comments Are a Horror Show",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/you-will-own-nothing-and-be-happy-playstations-youtube-comments-are-a-horror-show",
+      "thumbnail": "/drops/thumbs/e931cc648ff4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "f9f464c091e6",
+    "4f41fe809bee",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
