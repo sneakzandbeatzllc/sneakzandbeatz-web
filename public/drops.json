@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-04T04:50:31+00:00",
+  "generated_utc": "2026-07-04T06:51:18+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "51482d02274c",
-      "pillar": "gaming",
-      "title": "News 'I'd Be On Board with Anything': Troy Baker Says He's There 'Day One' for More The Last of Us",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/id-be-on-board-with-anything-troy-baker-says-hes-there-day-one-for-more-the-last-of-us",
-      "thumbnail": "/drops/thumbs/51482d02274c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f1be6917d09c",
       "pillar": "gaming",
       "title": "I Can Never Remember The Actual Name Of Naughty Dog’s New Space Game",
@@ -285,6 +273,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563292/article/final-fantasy-vii-revelations-dlc-plans-may-have-leaked-online-or-maybe-not/",
       "thumbnail": "/drops/thumbs/68f93a60a99f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cdbc74bafa77",
+      "pillar": "gaming",
+      "title": "Cyberpunk 2077 quest lead turned one character's appearance into \"part of the story\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/cyberpunk/limitation-sparks-creativity-cyberpunk-2077-quest-lead-turned-one-characters-appearance-into-part-of-the-story-because-cd-projekt-red-couldnt-afford-the-alternative/",
+      "thumbnail": "/drops/thumbs/cdbc74bafa77.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
