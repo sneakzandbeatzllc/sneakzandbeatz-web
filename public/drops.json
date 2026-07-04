@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-04T10:46:27+00:00",
+  "generated_utc": "2026-07-04T11:47:06+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "c2255777a889",
+      "id": "011134b42611",
       "pillar": "anime",
-      "title": "Overgeared TV Anime Reveals More Cast in 1st Promo Video",
+      "title": "Full Clearing Another World under a Goddess with Zero Believers Anime Reveals Cast, Staff, October Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/overgeared-tv-anime-reveals-more-cast-in-1st-promo-video/.239281",
-      "thumbnail": "/drops/thumbs/c2255777a889.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-reveals-cast-staff-october-/.239280",
+      "thumbnail": "/drops/thumbs/011134b42611.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "d915849ac01f",
+      "id": "c2255777a889",
       "pillar": "anime",
-      "title": "Magical Buffs: The Support Caster is Stronger Than He Realized! Anime's Video Reveals More Cast",
+      "title": "Overgeared TV Anime Reveals More Cast in 1st Promo Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/magical-buffs-the-support-caster-is-stronger-than-he-realized-anime-video-reveals-more-cast/.239277",
-      "thumbnail": "/drops/thumbs/d915849ac01f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/overgeared-tv-anime-reveals-more-cast-in-1st-promo-video/.239281",
+      "thumbnail": "/drops/thumbs/c2255777a889.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,36 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "3ad7920730dd",
-      "pillar": "gaming",
-      "title": "Rumor: GTA 6’s Switch 2 Port Was Made Possible By Nvidia’s Technologies",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563281/article/rumor-gta-6s-switch-2-port-was-made-possible-by-nvidias-technologies/",
-      "thumbnail": "/drops/thumbs/3ad7920730dd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f1be6917d09c",
       "pillar": "gaming",
       "title": "I Can Never Remember The Actual Name Of Naughty Dog’s New Space Game",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/i-can-never-remember-the-actual-name-of-naughty-dogs-new-space-game-2000712393",
       "thumbnail": "/drops/thumbs/f1be6917d09c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a43d379f3960",
-      "pillar": "gaming",
-      "title": "Clair Obscur: Expedition 33 lead doesn't \"care\" if his next game isn't as popular as the GOTY RPG",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-doesnt-care-if-his-next-game-isnt-as-popular-as-sandfalls-goty-rpg-because-were-just-going-to-do-what-we-love-again/",
-      "thumbnail": "/drops/thumbs/a43d379f3960.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +255,36 @@
       "release_badge": ""
     },
     {
+      "id": "a43d379f3960",
+      "pillar": "gaming",
+      "title": "Clair Obscur: Expedition 33 lead doesn't \"care\" if his next game isn't as popular as the GOTY RPG",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-doesnt-care-if-his-next-game-isnt-as-popular-as-sandfalls-goty-rpg-because-were-just-going-to-do-what-we-love-again/",
+      "thumbnail": "/drops/thumbs/a43d379f3960.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cdbc74bafa77",
       "pillar": "gaming",
       "title": "Cyberpunk 2077 quest lead turned one character's appearance into \"part of the story\"",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/cyberpunk/limitation-sparks-creativity-cyberpunk-2077-quest-lead-turned-one-characters-appearance-into-part-of-the-story-because-cd-projekt-red-couldnt-afford-the-alternative/",
       "thumbnail": "/drops/thumbs/cdbc74bafa77.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e5c1f71bae8b",
+      "pillar": "gaming",
+      "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563304/article/marvel-tokon-fighting-souls-playstations-next-live-service-game-is-blocked-on-pc-in-130-countries/",
+      "thumbnail": "/drops/thumbs/e5c1f71bae8b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
