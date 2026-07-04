@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-04T17:56:04+00:00",
+  "generated_utc": "2026-07-04T18:56:53+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -135,12 +135,36 @@
       "release_badge": ""
     },
     {
+      "id": "e1f21767079d",
+      "pillar": "anime",
+      "title": "Bleach’s final chapter arrives at Anime Expo with a first look at The Calamity",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/bleach-the-calamity-final-chapter-first-look-anime-expo/",
+      "thumbnail": "/drops/thumbs/e1f21767079d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0b0b754066d7",
       "pillar": "anime",
       "title": "Netflix's One Piece and Avatar Adaptations Are Both Huge, But The Winner Is Clear",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/netflix-one-piece-avatar-which-better/",
       "thumbnail": "/drops/thumbs/0b0b754066d7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8a8147d934ab",
+      "pillar": "anime",
+      "title": "Akane-banashi Anime Reveals 6 More Dub Cast Members",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/akane-banashi-anime-reveals-6-more-dub-cast-members/.239294",
+      "thumbnail": "/drops/thumbs/8a8147d934ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -165,30 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/s-rank-bokensha-dearu-ore-no-musume-tachi-wa-judo-no-fathercon-deshita-novels-get-tv-anime/.239289",
       "thumbnail": "/drops/thumbs/4e3935f9b713.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "788b5dc6b69b",
-      "pillar": "anime",
-      "title": "After watching Cyberpunk: Edgerunners 2, Night City still has stories worth dying for",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/cyberpunk-edgerunners-2-episode-1-review/",
-      "thumbnail": "/drops/thumbs/788b5dc6b69b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f630e4c5ff10",
-      "pillar": "anime",
-      "title": "Loner Life in Another World Anime Gets 2nd Season",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/loner-life-in-another-world-anime-gets-2nd-season/.239288",
-      "thumbnail": "/drops/thumbs/f630e4c5ff10.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
