@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-04T20:58:20+00:00",
+  "generated_utc": "2026-07-04T21:59:16+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,12 +99,12 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "e1f21767079d",
+      "id": "1a204e449604",
       "pillar": "anime",
-      "title": "Bleach’s final chapter arrives at Anime Expo with a first look at The Calamity",
+      "title": "First look at Black Clover’s long-awaited comeback revealed at Anime Expo",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/bleach-the-calamity-final-chapter-first-look-anime-expo/",
-      "thumbnail": "/drops/thumbs/e1f21767079d.jpg",
+      "source_url": "https://www.polygon.com/black-clover-season-2-preview-anime-expo/",
+      "thumbnail": "/drops/thumbs/1a204e449604.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -123,36 +123,24 @@
       "release_badge": ""
     },
     {
-      "id": "0b0b754066d7",
+      "id": "cc5cd5509199",
       "pillar": "anime",
-      "title": "Netflix's One Piece and Avatar Adaptations Are Both Huge, But The Winner Is Clear",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-one-piece-avatar-which-better/",
-      "thumbnail": "/drops/thumbs/0b0b754066d7.jpg",
+      "title": "Murciélago Manga Gets Anime Adaptation in 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/murcielago-manga-gets-anime-adaptation-in-2027/.239286",
+      "thumbnail": "/drops/thumbs/cc5cd5509199.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "8a8147d934ab",
+      "id": "9763a1210fd8",
       "pillar": "anime",
-      "title": "Akane-banashi Anime Reveals 6 More Dub Cast Members",
+      "title": "The Apothecary Diaries Director Norihiro Naganuma Announces New Jurassic Shadows Dinosaur Ninja Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/akane-banashi-anime-reveals-6-more-dub-cast-members/.239294",
-      "thumbnail": "/drops/thumbs/8a8147d934ab.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a4b702e55d8d",
-      "pillar": "anime",
-      "title": "' Even the Student Council Has Its Holes! ' Anime Unveils Cast, October Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/even-the-student-council-has-its-holes-anime-unveils-cast-october-debut/.239291",
-      "thumbnail": "/drops/thumbs/a4b702e55d8d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/the-apothecary-diaries-director-norihiro-naganuma-announces-new-jurassic-shadows-dinosaur-ninja-/.239293",
+      "thumbnail": "/drops/thumbs/9763a1210fd8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +159,24 @@
       "release_badge": ""
     },
     {
-      "id": "4e3935f9b713",
+      "id": "490d2a8e3451",
       "pillar": "anime",
-      "title": "S Rank Bōkensha Dearu Ore no Musume-tachi wa Jūdo no Fathercon Deshita Novels Get TV Anime",
+      "title": "13 Years Later, Studio Ghibli’s Spiritual Sequel To Grave of the Fireflies Is Aging Like Fine Wine",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/studio-ghibli-grave-of-fireflies-successor-wind-rises-aged-perfectly/",
+      "thumbnail": "/drops/thumbs/490d2a8e3451.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1085539ac273",
+      "pillar": "anime",
+      "title": "New Magic Knight Rayearth Anime's New Trailer Unveils More Cast, October 7 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/s-rank-bokensha-dearu-ore-no-musume-tachi-wa-judo-no-fathercon-deshita-novels-get-tv-anime/.239289",
-      "thumbnail": "/drops/thumbs/4e3935f9b713.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/new-magic-knight-rayearth-anime-new-trailer-unveils-more-cast-october-7-debut/.239297",
+      "thumbnail": "/drops/thumbs/1085539ac273.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "e1f21767079d",
+    "1a204e449604",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
