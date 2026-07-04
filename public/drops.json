@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-04T19:57:37+00:00",
+  "generated_utc": "2026-07-04T20:58:20+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,30 +99,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "0d89e03e0fd6",
-      "pillar": "anime",
-      "title": "Attack on Titan went south long before its controversial ending",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/attack-on-titan-lore-ruined-the-show/",
-      "thumbnail": "/drops/thumbs/0d89e03e0fd6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "565530eff6d3",
-      "pillar": "anime",
-      "title": "Attack On Titan Meets Vinland Saga In This Dark Fantasy Anime No Fan Will Want To Skip",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/bugle-call-song-of-war-attack-on-titan-meets-vinland-saga/",
-      "thumbnail": "/drops/thumbs/565530eff6d3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e1f21767079d",
       "pillar": "anime",
       "title": "Bleach’s final chapter arrives at Anime Expo with a first look at The Calamity",
@@ -183,12 +159,36 @@
       "release_badge": ""
     },
     {
+      "id": "1f9551238ebe",
+      "pillar": "anime",
+      "title": "Every bit of Persona 4 news that dropped at Anime Expo 2026",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/persona-4-revival-anime-expo/",
+      "thumbnail": "/drops/thumbs/1f9551238ebe.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4e3935f9b713",
       "pillar": "anime",
       "title": "S Rank Bōkensha Dearu Ore no Musume-tachi wa Jūdo no Fathercon Deshita Novels Get TV Anime",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/s-rank-bokensha-dearu-ore-no-musume-tachi-wa-judo-no-fathercon-deshita-novels-get-tv-anime/.239289",
       "thumbnail": "/drops/thumbs/4e3935f9b713.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6579e2e449ff",
+      "pillar": "anime",
+      "title": "13 Years Later, Addictive Dark Action Manga Murciélago Is Finally Getting An Anime",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/murcielago-action-seinen-yuri-anime-confirmed/",
+      "thumbnail": "/drops/thumbs/6579e2e449ff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "0d89e03e0fd6",
+    "e1f21767079d",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
