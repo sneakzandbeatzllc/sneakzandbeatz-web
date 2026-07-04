@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-04T02:48:28+00:00",
+  "generated_utc": "2026-07-04T03:26:37+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "d700991eb4e9",
+      "pillar": "anime",
+      "title": "1st Demon Slayer: Infinity Castle Anime Film to Stream on Crunchyroll on July 28",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/1st-demon-slayer-infinity-castle-anime-film-to-stream-on-crunchyroll-on-july-28/.239275",
+      "thumbnail": "/drops/thumbs/d700991eb4e9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e840e04945bc",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle finally gets a streaming release",
@@ -147,18 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "bf4364ba7fb5",
-      "pillar": "anime",
-      "title": "Fate Rewinder Anime's Teaser Reveals Cast, Staff, April 2027 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/fate-rewinder-anime-teaser-reveals-cast-staff-april-2027-debut/.239274",
-      "thumbnail": "/drops/thumbs/bf4364ba7fb5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c254a634e55c",
       "pillar": "anime",
       "title": "20 minutes of early Kagurabachi footage makes good on the unfathomable hype",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "a6090a5c0fed",
+      "id": "bf4364ba7fb5",
       "pillar": "anime",
-      "title": "Dengeki Daisy Anime Reveals Main Cast in New Video",
+      "title": "Fate Rewinder Anime's Teaser Reveals Cast, Staff, April 2027 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/dengeki-daisy-anime-reveals-main-cast-in-new-video/.239273",
-      "thumbnail": "/drops/thumbs/a6090a5c0fed.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-03/fate-rewinder-anime-teaser-reveals-cast-staff-april-2027-debut/.239274",
+      "thumbnail": "/drops/thumbs/bf4364ba7fb5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "e840e04945bc",
+    "d700991eb4e9",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
