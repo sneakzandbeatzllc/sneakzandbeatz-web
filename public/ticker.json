@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-04T13:31:08+00:00",
+  "generated_utc": "2026-07-04T13:53:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Attack on Titan went south long before its controversial ending",
+      "url": "https://www.polygon.com/attack-on-titan-lore-ruined-the-show/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "1st Demon Slayer: Infinity Castle Anime Film to Stream on Crunchyroll on July 28",
       "url": "https://www.animenewsnetwork.com/news/2026-07-03/1st-demon-slayer-infinity-castle-anime-film-to-stream-on-crunchyroll-on-july-28/.239275",
       "pillar": "anime",
@@ -81,13 +88,6 @@
       "article_slug": null
     },
     {
-      "title": "After watching Cyberpunk: Edgerunners 2, Night City still has stories worth dying for",
-      "url": "https://www.polygon.com/cyberpunk-edgerunners-2-episode-1-review/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Full Clearing Another World under a Goddess with Zero Believers Anime Reveals Cast, Staff, October Debut",
       "url": "https://www.animenewsnetwork.com/news/2026-07-04/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-reveals-cast-staff-october-/.239280",
       "pillar": "anime",
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "20 minutes of early Kagurabachi footage makes good on the unfathomable hype",
-      "url": "https://www.polygon.com/kagurabachis-anime-has-finally-arrived-and-anime-expo-is-giving-fans-an-early-look-at-shonen-jumps-next-phenomenon/",
+      "title": "After watching Cyberpunk: Edgerunners 2, Night City still has stories worth dying for",
+      "url": "https://www.polygon.com/cyberpunk-edgerunners-2-episode-1-review/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

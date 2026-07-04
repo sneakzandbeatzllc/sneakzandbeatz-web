@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-04T13:31:08+00:00",
+  "generated_utc": "2026-07-04T13:53:21+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "0d89e03e0fd6",
+      "pillar": "anime",
+      "title": "Attack on Titan went south long before its controversial ending",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/attack-on-titan-lore-ruined-the-show/",
+      "thumbnail": "/drops/thumbs/0d89e03e0fd6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d700991eb4e9",
       "pillar": "anime",
       "title": "1st Demon Slayer: Infinity Castle Anime Film to Stream on Crunchyroll on July 28",
@@ -135,18 +147,6 @@
       "release_badge": ""
     },
     {
-      "id": "788b5dc6b69b",
-      "pillar": "anime",
-      "title": "After watching Cyberpunk: Edgerunners 2, Night City still has stories worth dying for",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/cyberpunk-edgerunners-2-episode-1-review/",
-      "thumbnail": "/drops/thumbs/788b5dc6b69b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "011134b42611",
       "pillar": "anime",
       "title": "Full Clearing Another World under a Goddess with Zero Believers Anime Reveals Cast, Staff, October Debut",
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "c254a634e55c",
+      "id": "788b5dc6b69b",
       "pillar": "anime",
-      "title": "20 minutes of early Kagurabachi footage makes good on the unfathomable hype",
+      "title": "After watching Cyberpunk: Edgerunners 2, Night City still has stories worth dying for",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/kagurabachis-anime-has-finally-arrived-and-anime-expo-is-giving-fans-an-early-look-at-shonen-jumps-next-phenomenon/",
-      "thumbnail": "/drops/thumbs/c254a634e55c.jpg",
+      "source_url": "https://www.polygon.com/cyberpunk-edgerunners-2-episode-1-review/",
+      "thumbnail": "/drops/thumbs/788b5dc6b69b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "d700991eb4e9",
+    "0d89e03e0fd6",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
