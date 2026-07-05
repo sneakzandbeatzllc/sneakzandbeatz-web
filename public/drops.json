@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T03:03:49+00:00",
+  "generated_utc": "2026-07-05T04:04:34+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,24 +99,12 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "64bcdabaa4db",
+      "id": "6df34a85d2ce",
       "pillar": "anime",
-      "title": "Solo Leveling's New Movie Teaser Is the Perfect Live-Action Blueprint",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-new-movie-teaser-live-action-glimpse/",
-      "thumbnail": "/drops/thumbs/64bcdabaa4db.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a691385378ae",
-      "pillar": "anime",
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Unveils Final Trailer With English Subtitles",
+      "title": "Black Clover Anime's 2nd Season Reveals Wanima's Theme Song in Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/bleach-thousand-year-blood-war-the-calamity-anime-unveils-final-trailer-with-english-subtitles/.239309",
-      "thumbnail": "/drops/thumbs/a691385378ae.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/black-clover-anime-2nd-season-reveals-wanima-theme-song-in-video/.239318",
+      "thumbnail": "/drops/thumbs/6df34a85d2ce.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -129,6 +117,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/black-clover-season-2-preview-anime-expo/",
       "thumbnail": "/drops/thumbs/1a204e449604.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "88b02757d71f",
+      "pillar": "anime",
+      "title": "Black Clover's Anime Return Just Showed Asta's Final Animated Form And Honestly, It's Perfect",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-clover-season-2-anime-asta-devil-unite-form-trailer/",
+      "thumbnail": "/drops/thumbs/88b02757d71f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,24 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "15ee648b6a51",
+      "id": "9858beecf34f",
       "pillar": "anime",
-      "title": "10 Years Later, Bleach Is Finally Getting The Sequel We've Been Waiting For",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/bleach-sequel-mirrors-high-mobile-game/",
-      "thumbnail": "/drops/thumbs/15ee648b6a51.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "59cf216900e3",
-      "pillar": "anime",
-      "title": "Grow Up Show: Sunflower Circus Anime Casts Yoshiyuki Yamaguchi",
+      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Reveals Trailer, Visual, Opening Theme Song, November 6 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/grow-up-show-sunflower-circus-anime-casts-yoshiyuki-yamaguchi/.239312",
-      "thumbnail": "/drops/thumbs/59cf216900e3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/cloverworks-omnibus-anime-film-grotesqqque-reveals-trailer-visual-opening-theme-song-november-6-/.239302",
+      "thumbnail": "/drops/thumbs/9858beecf34f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,6 +177,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/ghost-in-the-shell-new-anime-vision-anime-expo/",
       "thumbnail": "/drops/thumbs/c96838f9c3e0.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "59cf216900e3",
+      "pillar": "anime",
+      "title": "Grow Up Show: Sunflower Circus Anime Casts Yoshiyuki Yamaguchi",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/grow-up-show-sunflower-circus-anime-casts-yoshiyuki-yamaguchi/.239312",
+      "thumbnail": "/drops/thumbs/59cf216900e3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "64bcdabaa4db",
+    "6df34a85d2ce",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
