@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T10:08:13+00:00",
+  "generated_utc": "2026-07-05T12:08:54+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,18 +99,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "6df34a85d2ce",
-      "pillar": "anime",
-      "title": "Black Clover Anime's 2nd Season Reveals Wanima's Theme Song in Video",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-04/black-clover-anime-2nd-season-reveals-wanima-theme-song-in-video/.239318",
-      "thumbnail": "/drops/thumbs/6df34a85d2ce.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0bfa3b12af8b",
       "pillar": "anime",
       "title": "Frieren director just explained why fans will have to wait so long for season 3",
@@ -147,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "841027876da4",
+      "id": "2a57ad38a15d",
       "pillar": "anime",
-      "title": "One Piece Chapter #1187 'Luffy Vs Imu' Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-chapter-1187-release-date-time-luffy-vs-imu/",
-      "thumbnail": "/drops/thumbs/841027876da4.jpg",
+      "title": "Digimon Beatbreak Anime Announces New Arc, Cast Member",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-05/digimon-beatbreak-anime-announces-new-arc-cast-member/.239328",
+      "thumbnail": "/drops/thumbs/2a57ad38a15d.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-07-05/reborn-as-a-space-mercenary-anime-reveals-theme-song-artists/.239315",
       "thumbnail": "/drops/thumbs/3941104e7f92.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3a7c6cc689eb",
+      "pillar": "anime",
+      "title": "Delicious In Dungeon's Successor Anime Has Been Found, And It's Coming Next Year",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/soara-house-of-monsters-delicious-in-dungeon-successor/",
+      "thumbnail": "/drops/thumbs/3a7c6cc689eb.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "6df34a85d2ce",
+    "0bfa3b12af8b",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
