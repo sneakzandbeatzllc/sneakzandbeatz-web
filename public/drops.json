@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T22:13:46+00:00",
+  "generated_utc": "2026-07-05T23:14:43+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -27,18 +27,6 @@
       "release_badge": "🔥 Banger"
     },
     {
-      "id": "70ced94e4a3b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
-      "thumbnail": "/drops/thumbs/70ced94e4a3b.png",
-      "published": "2026-07-02T07:09:58",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "14a0fb6b80e3",
       "pillar": "sneakers",
       "title": "Air Jordan 4 “Comic” Releases July 2026",
@@ -46,18 +34,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-comic/",
       "thumbnail": "/drops/thumbs/14a0fb6b80e3.jpg",
       "published": "2026-07-02T00:53:38",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "0861ae9fbf6c",
-      "pillar": "sneakers",
-      "title": "Kids Air Jordan 4 “She’s A Star” July 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/kids-air-jordan-4-shes-a-star-io2829-600-drop/",
-      "thumbnail": "/drops/thumbs/0861ae9fbf6c.jpg",
-      "published": "2026-07-01T11:53:27",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -99,15 +75,27 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "3d1348501268",
-      "pillar": "anime",
-      "title": "Dragon Ball's Anime Is Staging A Big Comeback, So Why Are Fans Still So Worried?",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-anime-comeback-manga-problem/",
-      "thumbnail": "/drops/thumbs/3d1348501268.png",
-      "published": "",
+      "id": "fef85dcdb8cb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-7-tennis-day/",
+      "thumbnail": "/drops/thumbs/fef85dcdb8cb.jpg",
+      "published": "2026-07-02T15:43:41",
       "relative_time": "today",
-      "score": 1.0,
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-07-01T13:50:20",
+      "relative_time": "today",
+      "score": 2.0,
       "release_badge": ""
     },
     {
@@ -117,6 +105,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-release-date-disappointing-update/",
       "thumbnail": "/drops/thumbs/dad6c24b56ff.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "42a616942b7c",
+      "pillar": "anime",
+      "title": "The Wait Is Over, One Piece Is Giving Sanji The Haki Upgrade He Always Deserved",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/sanji-one-piece-haki-upgrade/",
+      "thumbnail": "/drops/thumbs/42a616942b7c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -294,9 +294,9 @@
   "homepage": [
     "7de612490f99",
     "8a4907b2d7ce",
-    "70ced94e4a3b",
-    "3d1348501268",
     "14a0fb6b80e3",
+    "dad6c24b56ff",
+    "d74f496abc5f",
     "470d4bfd89c6"
   ]
 }

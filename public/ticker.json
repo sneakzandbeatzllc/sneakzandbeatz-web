@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T22:13:46+00:00",
+  "generated_utc": "2026-07-05T23:14:43+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -18,22 +18,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 4 “Comic” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-comic/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Kids Air Jordan 4 “She’s A Star” July 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/kids-air-jordan-4-shes-a-star-io2829-600-drop/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -60,15 +46,29 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball's Anime Is Staging A Big Comeback, So Why Are Fans Still So Worried?",
-      "url": "https://screenrant.com/dragon-ball-super-anime-comeback-manga-problem/",
-      "pillar": "anime",
-      "score": 1.0,
+      "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-7-tennis-day/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
       "title": "Jujutsu Kaisen Season 4 Release Date Gets Disappointing Anime Expo Update",
       "url": "https://screenrant.com/jujutsu-kaisen-season-4-release-date-disappointing-update/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Wait Is Over, One Piece Is Giving Sanji The Haki Upgrade He Always Deserved",
+      "url": "https://screenrant.com/sanji-one-piece-haki-upgrade/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
