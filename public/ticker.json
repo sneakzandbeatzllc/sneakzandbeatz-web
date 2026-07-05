@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T13:52:52+00:00",
+  "generated_utc": "2026-07-05T15:53:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "Creator Says Fans Worried By Danganronpa 2×2′ s Surprise Delay Can Just Play GTA 6 While They Wait",
-      "url": "https://kotaku.com/creator-says-fans-worried-by-danganronpa-2x2s-surprise-delay-can-just-play-gta-6-while-they-wait-2000712572",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Marvel Tōkon: Fighting Souls Is Blocked In 132 Countries On Steam As Fans Continue Questioning Sony’s Commitment To PC",
       "url": "https://kotaku.com/marvel-tokon-fighting-souls-is-blocked-in-132-countries-on-steam-as-fans-continue-questioning-sonys-commitment-to-pc-2000712574",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
+      "url": "https://gameranx.com/updates/id/563304/article/marvel-tokon-fighting-souls-playstations-next-live-service-game-is-blocked-on-pc-in-130-countries/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
