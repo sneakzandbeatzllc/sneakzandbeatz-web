@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T15:53:34+00:00",
+  "generated_utc": "2026-07-05T16:10:38+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,6 +99,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "3d1348501268",
+      "pillar": "anime",
+      "title": "Dragon Ball's Anime Is Staging A Big Comeback, So Why Are Fans Still So Worried?",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-anime-comeback-manga-problem/",
+      "thumbnail": "/drops/thumbs/3d1348501268.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0bfa3b12af8b",
       "pillar": "anime",
       "title": "Frieren director just explained why fans will have to wait so long for season 3",
@@ -147,24 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "c96838f9c3e0",
+      "id": "2fa601cb3366",
       "pillar": "anime",
-      "title": "Science Saru’s The Ghost in the Shell returns with a striking new anime vision at Anime Expo",
+      "title": "Cyberpunk: Edgerunners 2 isn't the only anime Studio Trigger is working on right now",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/ghost-in-the-shell-new-anime-vision-anime-expo/",
-      "thumbnail": "/drops/thumbs/c96838f9c3e0.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d624569b7ade",
-      "pillar": "anime",
-      "title": "Cocoon - One Summer of Girlhood, Studio Ghibli's Spiritual Successor Movie Will Be One Of Anime's Darkest Films",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/cocoon-one-summer-of-girlhood-ghibli-grave-of-fireflies-successor/",
-      "thumbnail": "/drops/thumbs/d624569b7ade.png",
+      "source_url": "https://www.polygon.com/delicious-in-dungeon-season-2-trigger-new-projects/",
+      "thumbnail": "/drops/thumbs/2fa601cb3366.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "3a7c6cc689eb",
+      "id": "d624569b7ade",
       "pillar": "anime",
-      "title": "Delicious In Dungeon's Successor Anime Has Been Found, And It's Coming Next Year",
+      "title": "Cocoon - One Summer of Girlhood, Studio Ghibli's Spiritual Successor Movie Will Be One Of Anime's Darkest Films",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/soara-house-of-monsters-delicious-in-dungeon-successor/",
-      "thumbnail": "/drops/thumbs/3a7c6cc689eb.png",
+      "source_url": "https://screenrant.com/cocoon-one-summer-of-girlhood-ghibli-grave-of-fireflies-successor/",
+      "thumbnail": "/drops/thumbs/d624569b7ade.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "0bfa3b12af8b",
+    "3d1348501268",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
