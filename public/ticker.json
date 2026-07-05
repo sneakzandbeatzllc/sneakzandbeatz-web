@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T12:52:16+00:00",
+  "generated_utc": "2026-07-05T13:08:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,13 +74,6 @@
       "article_slug": null
     },
     {
-      "title": "Bleach: Thousand-Year Blood War Drops Amazing New Trailer For Its Final Season",
-      "url": "https://screenrant.com/bleach-thousand-year-blood-war-final-trailer-reveal/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Digimon Beatbreak Anime Announces New Arc, Cast Member",
       "url": "https://www.animenewsnetwork.com/news/2026-07-05/digimon-beatbreak-anime-announces-new-arc-cast-member/.239328",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Science Saru’s The Ghost in the Shell returns with a striking new anime vision at Anime Expo",
       "url": "https://www.polygon.com/ghost-in-the-shell-new-anime-vision-anime-expo/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Cocoon - One Summer of Girlhood, Studio Ghibli's Spiritual Successor Movie Will Be One Of Anime's Darkest Films",
+      "url": "https://screenrant.com/cocoon-one-summer-of-girlhood-ghibli-grave-of-fireflies-successor/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
