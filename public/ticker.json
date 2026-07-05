@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T16:10:38+00:00",
+  "generated_utc": "2026-07-05T17:11:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,13 +74,6 @@
       "article_slug": null
     },
     {
-      "title": "Black Clover's Anime Return Just Showed Asta's Final Animated Form And Honestly, It's Perfect",
-      "url": "https://screenrant.com/black-clover-season-2-anime-asta-devil-unite-form-trailer/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Digimon Beatbreak Anime Announces New Arc, Cast Member",
       "url": "https://www.animenewsnetwork.com/news/2026-07-05/digimon-beatbreak-anime-announces-new-arc-cast-member/.239328",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Cyberpunk: Edgerunners 2 isn't the only anime Studio Trigger is working on right now",
       "url": "https://www.polygon.com/delicious-in-dungeon-season-2-trigger-new-projects/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "7 Manhwa That Are Just As Good As Omniscient Reader's Viewpoint",
+      "url": "https://screenrant.com/manhwa-as-good-as-omniscient-readers-viewpoint/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
