@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T15:00:18+00:00",
+  "generated_utc": "2026-07-06T15:23:27+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "News There's a Reason Persona 4 Revival's Animated Cutscenes Look So Good",
+      "url": "https://www.pushsquare.com/news/2026/07/theres-a-reason-persona-4-revivals-animated-cutscenes-look-so-good",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Ghost of Tsushima's Upcoming Crunchyroll Anime Is Shaping Up to Be Something Special",
       "url": "https://www.pushsquare.com/news/2026/07/ghost-of-tsushimas-upcoming-crunchyroll-anime-is-shaping-up-to-be-something-special",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
       "url": "https://gameranx.com/updates/id/563304/article/marvel-tokon-fighting-souls-playstations-next-live-service-game-is-blocked-on-pc-in-130-countries/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Black Ops 6 Finally Free of Infamous Call of Duty PS5 App",
-      "url": "https://www.pushsquare.com/news/2026/07/black-ops-6-finally-free-of-infamous-call-of-duty-ps5-app",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
