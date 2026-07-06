@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T05:56:08+00:00",
+  "generated_utc": "2026-07-06T09:56:56+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "470d4bfd89c6",
+      "id": "0648ce518126",
       "pillar": "gaming",
-      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts 25 Comments",
+      "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-devs-allege-crunch-is-so-common-at-the-gta-6-studio-that-its-built-into-contracts-and-you-have-to-opt-out-of-it/",
-      "thumbnail": "/drops/thumbs/470d4bfd89c6.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
+      "thumbnail": "/drops/thumbs/0648ce518126.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "0648ce518126",
-      "pillar": "gaming",
-      "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
-      "thumbnail": "/drops/thumbs/0648ce518126.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c3016909f01e",
       "pillar": "gaming",
       "title": "Hideo Kojima Finds It Really Sad That Sony Is Killing PlayStation Game Discs",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659",
       "thumbnail": "/drops/thumbs/c3016909f01e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "503753a75586",
+      "pillar": "gaming",
+      "title": "Clair Obscur: Expedition 33 lead says we'll eventually \"be able to churn out a game\" with a prompt",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-thinks-devs-will-eventually-be-able-to-churn-out-a-game-in-5-seconds-with-a-prompt-but-he-hopes-theyre-not-any-good/",
+      "thumbnail": "/drops/thumbs/503753a75586.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,24 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "a43d379f3960",
+      "id": "a2d94ed17a0d",
       "pillar": "gaming",
-      "title": "Clair Obscur: Expedition 33 lead doesn't \"care\" if his next game isn't as popular as the GOTY RPG",
+      "title": "Final Fantasy 15 Switch 2 port is \"not entirely impossible,\" Square Enix says",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-lead-doesnt-care-if-his-next-game-isnt-as-popular-as-sandfalls-goty-rpg-because-were-just-going-to-do-what-we-love-again/",
-      "thumbnail": "/drops/thumbs/a43d379f3960.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cdbc74bafa77",
-      "pillar": "gaming",
-      "title": "Cyberpunk 2077 quest lead turned one character's appearance into \"part of the story\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/cyberpunk/limitation-sparks-creativity-cyberpunk-2077-quest-lead-turned-one-characters-appearance-into-part-of-the-story-because-cd-projekt-red-couldnt-afford-the-alternative/",
-      "thumbnail": "/drops/thumbs/cdbc74bafa77.jpg",
+      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-15-switch-2-port-is-not-entirely-impossible-despite-the-technical-hurdles-square-enix-says/",
+      "thumbnail": "/drops/thumbs/a2d94ed17a0d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "9c2ebc0ce178",
+      "pillar": "gaming",
+      "title": "News These 10+ PS5, PS4 Games Will Be Delisted or Disabled in July and August 2026",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/these-10plus-ps5-ps4-games-will-be-delisted-or-disabled-in-july-and-august-2026",
+      "thumbnail": "/drops/thumbs/9c2ebc0ce178.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "70ced94e4a3b",
     "cded03630ec1",
     "14a0fb6b80e3",
-    "470d4bfd89c6"
+    "0648ce518126"
   ]
 }
