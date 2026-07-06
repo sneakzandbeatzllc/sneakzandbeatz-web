@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T23:14:43+00:00",
+  "generated_utc": "2026-07-06T00:15:25+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,12 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "dad6c24b56ff",
+      "id": "9ed88d05b0ad",
       "pillar": "anime",
-      "title": "Jujutsu Kaisen Season 4 Release Date Gets Disappointing Anime Expo Update",
+      "title": "7 Harsh Realities Of Rewatching One Piece's East Blue Arc Today",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-season-4-release-date-disappointing-update/",
-      "thumbnail": "/drops/thumbs/dad6c24b56ff.jpg",
+      "source_url": "https://screenrant.com/one-piece-east-blue-arc-harsh-realities/",
+      "thumbnail": "/drops/thumbs/9ed88d05b0ad.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0d87206d4ec3",
+      "pillar": "anime",
+      "title": "Black Clover's Real Successor Is Already Here, But Nobody's Talking About It",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/witchriv-black-clover-best-successor-shonen-jump/",
+      "thumbnail": "/drops/thumbs/0d87206d4ec3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -117,18 +129,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/sanji-one-piece-haki-upgrade/",
       "thumbnail": "/drops/thumbs/42a616942b7c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3482a960ccfc",
-      "pillar": "anime",
-      "title": "One Piece Just Stole A My Hero Academia Legend, And Fans Will Lose Their Minds Over It",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-one-piece-my-hero-academia-yuki-hayashi/",
-      "thumbnail": "/drops/thumbs/3482a960ccfc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "14a0fb6b80e3",
-    "dad6c24b56ff",
+    "9ed88d05b0ad",
     "d74f496abc5f",
     "470d4bfd89c6"
   ]

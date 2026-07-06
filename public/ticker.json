@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-05T23:14:43+00:00",
+  "generated_utc": "2026-07-06T00:15:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,15 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen Season 4 Release Date Gets Disappointing Anime Expo Update",
-      "url": "https://screenrant.com/jujutsu-kaisen-season-4-release-date-disappointing-update/",
+      "title": "7 Harsh Realities Of Rewatching One Piece's East Blue Arc Today",
+      "url": "https://screenrant.com/one-piece-east-blue-arc-harsh-realities/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Black Clover's Real Successor Is Already Here, But Nobody's Talking About It",
+      "url": "https://screenrant.com/witchriv-black-clover-best-successor-shonen-jump/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -69,13 +76,6 @@
     {
       "title": "The Wait Is Over, One Piece Is Giving Sanji The Haki Upgrade He Always Deserved",
       "url": "https://screenrant.com/sanji-one-piece-haki-upgrade/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece Just Stole A My Hero Academia Legend, And Fans Will Lose Their Minds Over It",
-      "url": "https://screenrant.com/netflix-one-piece-my-hero-academia-yuki-hayashi/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
