@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T12:58:57+00:00",
+  "generated_utc": "2026-07-06T13:22:41+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -123,12 +123,36 @@
       "release_badge": ""
     },
     {
+      "id": "8b9c7295f7e1",
+      "pillar": "anime",
+      "title": "Japanese Animation TV Ranking, June 22-28",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-06/japanese-animation-tv-ranking-june-22-28/.239347",
+      "thumbnail": "/drops/thumbs/8b9c7295f7e1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ec9cd3b25dc4",
       "pillar": "anime",
       "title": "5 anime villains more dangerous than Sukuna",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/strongest-anime-villains-more-dangerous-than-sukuna/",
       "thumbnail": "/drops/thumbs/ec9cd3b25dc4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6292781a0b2c",
+      "pillar": "anime",
+      "title": "My Girlfriend's Friend TV Anime Reveals Teaser Video, More Staff Members",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-06/my-girlfriend-friend-tv-anime-reveals-teaser-video-more-staff-members/.239359",
+      "thumbnail": "/drops/thumbs/6292781a0b2c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,48 +171,24 @@
       "release_badge": ""
     },
     {
+      "id": "c4848134ee58",
+      "pillar": "anime",
+      "title": "Shinya Komi's Sora o Matotte Manga Ends on July 15",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-06/shinya-komi-sora-o-matotte-manga-ends-on-july-15/.239348",
+      "thumbnail": "/drops/thumbs/c4848134ee58.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "44da91769b16",
       "pillar": "anime",
       "title": "5 Bucket List Anime Every Fan Needs To Watch At Least Once",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/best-bucket-list-anime-watch-once/",
       "thumbnail": "/drops/thumbs/44da91769b16.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3b24348758ee",
-      "pillar": "anime",
-      "title": "The 2026 Isekai Anime No One Talks About Is Crunchyroll's Best Kept Secret",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/my-ribdiculous-reincarnation-crunchyroll-best-kept-isekai-anime-secret/",
-      "thumbnail": "/drops/thumbs/3b24348758ee.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "be490a143bee",
-      "pillar": "anime",
-      "title": "5 Anime Heroes Who Suffered More Than The Villain Ever Did",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-anime-heroes-suffered-more-than-villains/",
-      "thumbnail": "/drops/thumbs/be490a143bee.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bc81cac991d9",
-      "pillar": "anime",
-      "title": "5 Classic '90s Anime That Are Unwatchable Today",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/1990s-anime-classic-unwatchable/",
-      "thumbnail": "/drops/thumbs/bc81cac991d9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "f859aa9b9b5c",
+      "pillar": "gaming",
+      "title": "The Weeknd Wins Over Persona 3 Baddie After Fumbling Persona 5’s Hot Doctor",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/weeknd-persona-3-reload-mitsuru-kirijo-romance-5-tae-2000712825",
+      "thumbnail": "/drops/thumbs/f859aa9b9b5c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "503753a75586",
       "pillar": "gaming",
       "title": "Clair Obscur: Expedition 33 lead says we'll eventually \"be able to churn out a game\" with a prompt",
@@ -231,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "68f93a60a99f",
+      "id": "bbbae5114e18",
       "pillar": "gaming",
-      "title": "Final Fantasy VII Revelation’s DLC Plans May Have Leaked Online – Or Maybe Not",
+      "title": "Hideo Kojima Is Worried Movies Could Go The Way Of PlayStation’s Video Games",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563292/article/final-fantasy-vii-revelations-dlc-plans-may-have-leaked-online-or-maybe-not/",
-      "thumbnail": "/drops/thumbs/68f93a60a99f.jpg",
+      "source_url": "https://gameranx.com/updates/id/563324/article/hideo-kojima-is-worried-movies-could-go-the-way-of-playstations-video-games/",
+      "thumbnail": "/drops/thumbs/bbbae5114e18.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,36 +267,24 @@
       "release_badge": ""
     },
     {
+      "id": "68f93a60a99f",
+      "pillar": "gaming",
+      "title": "Final Fantasy VII Revelation’s DLC Plans May Have Leaked Online – Or Maybe Not",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563292/article/final-fantasy-vii-revelations-dlc-plans-may-have-leaked-online-or-maybe-not/",
+      "thumbnail": "/drops/thumbs/68f93a60a99f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e5c1f71bae8b",
       "pillar": "gaming",
       "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563304/article/marvel-tokon-fighting-souls-playstations-next-live-service-game-is-blocked-on-pc-in-130-countries/",
       "thumbnail": "/drops/thumbs/e5c1f71bae8b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cb84661196a6",
-      "pillar": "gaming",
-      "title": "Rumor: XBOX Could Move Halo Under Activision",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563320/article/rumor-xbox-could-move-halo-under-activision/",
-      "thumbnail": "/drops/thumbs/cb84661196a6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "efffecec5d04",
-      "pillar": "gaming",
-      "title": "News Leading Online Petition Against PlayStation's Disc-Free Future Now Exceeds 120,000 Signatures",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/leading-online-petition-against-playstations-disc-free-future-now-exceeds-120000-signatures",
-      "thumbnail": "/drops/thumbs/efffecec5d04.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
