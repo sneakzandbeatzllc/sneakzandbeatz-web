@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T03:17:53+00:00",
+  "generated_utc": "2026-07-06T04:18:47+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,36 +99,24 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "9ed88d05b0ad",
+      "id": "cded03630ec1",
       "pillar": "anime",
-      "title": "7 Harsh Realities Of Rewatching One Piece's East Blue Arc Today",
+      "title": "Dragon Ball's Greatest Episode Aired 33 Years Ago, And Nothing Has Topped It Since",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-east-blue-arc-harsh-realities/",
-      "thumbnail": "/drops/thumbs/9ed88d05b0ad.jpg",
+      "source_url": "https://screenrant.com/dragon-ball-gohan-cell-games-greatest-episode-ever/",
+      "thumbnail": "/drops/thumbs/cded03630ec1.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "0d87206d4ec3",
+      "id": "06aff67b01d8",
       "pillar": "anime",
-      "title": "Black Clover's Real Successor Is Already Here, But Nobody's Talking About It",
+      "title": "5 Dragon Ball Villain Designs That Are 10/10 Perfect",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/witchriv-black-clover-best-successor-shonen-jump/",
-      "thumbnail": "/drops/thumbs/0d87206d4ec3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "42a616942b7c",
-      "pillar": "anime",
-      "title": "The Wait Is Over, One Piece Is Giving Sanji The Haki Upgrade He Always Deserved",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/sanji-one-piece-haki-upgrade/",
-      "thumbnail": "/drops/thumbs/42a616942b7c.jpg",
+      "source_url": "https://screenrant.com/dragon-ball-villain-designs-perfect/",
+      "thumbnail": "/drops/thumbs/06aff67b01d8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-07-05/oceanveil-reveals-english-dubs-for-secret-mission-kamui-he-behind-you-anime/.239322",
       "thumbnail": "/drops/thumbs/4e2b48c9d6a6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "44da91769b16",
+      "pillar": "anime",
+      "title": "5 Bucket List Anime Every Fan Needs To Watch At Least Once",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-bucket-list-anime-watch-once/",
+      "thumbnail": "/drops/thumbs/44da91769b16.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "70ced94e4a3b",
-    "9ed88d05b0ad",
+    "cded03630ec1",
     "14a0fb6b80e3",
     "470d4bfd89c6"
   ]
