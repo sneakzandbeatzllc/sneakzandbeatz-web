@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T22:06:15+00:00",
+  "generated_utc": "2026-07-06T22:55:04+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "0710104dcf52",
+      "pillar": "anime",
+      "title": "It's Official, Solo Leveling Season 3's Release Window Is A Bigger Deal Than Fans Think",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-season-3-release-window-movie-improtant/",
+      "thumbnail": "/drops/thumbs/0710104dcf52.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c74217bd6d5c",
       "pillar": "anime",
       "title": "Chainsaw Man creator's emotionally devastating movie is getting a physical release",
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "d28349ba9fcd",
-      "pillar": "anime",
-      "title": "Anime Expo 2026: A Total Guide to Every Major Announcement and Trailer Release",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/anime-expo-2026-every-announcement-trailer/",
-      "thumbnail": "/drops/thumbs/d28349ba9fcd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8b9c7295f7e1",
       "pillar": "anime",
       "title": "Japanese Animation TV Ranking, June 22-28",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "3483f1ecffa8",
+      "id": "d28349ba9fcd",
       "pillar": "anime",
-      "title": "Crunchyroll Confirms Aoashi Season 2 Is Only 4 Months Away",
+      "title": "Anime Expo 2026: A Total Guide to Every Major Announcement and Trailer Release",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/aoashi-best-new-gen-sports-anime-return-season-2/",
-      "thumbnail": "/drops/thumbs/3483f1ecffa8.png",
+      "source_url": "https://screenrant.com/anime-expo-2026-every-announcement-trailer/",
+      "thumbnail": "/drops/thumbs/d28349ba9fcd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
