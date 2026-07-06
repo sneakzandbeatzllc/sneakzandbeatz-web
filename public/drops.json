@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T18:25:35+00:00",
+  "generated_utc": "2026-07-06T18:50:54+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -12,18 +12,6 @@
       "published": "2026-07-01T00:18:47",
       "relative_time": "today",
       "score": 6.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "8a4907b2d7ce",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 Gets a “Legion Pine” Color for 2026’s Bin 23 Series",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-bin-23-io2053-300/",
-      "thumbnail": "/drops/thumbs/8a4907b2d7ce.webp",
-      "published": "2026-06-30T12:14:17",
-      "relative_time": "today",
-      "score": 5.0,
       "release_badge": "🔥 Banger"
     },
     {
@@ -99,24 +87,24 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "fef85dcdb8cb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-7-tennis-day/",
+      "thumbnail": "/drops/thumbs/fef85dcdb8cb.jpg",
+      "published": "2026-07-02T15:43:41",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "cded03630ec1",
       "pillar": "anime",
       "title": "Dragon Ball's Greatest Episode Aired 33 Years Ago, And Nothing Has Topped It Since",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-gohan-cell-games-greatest-episode-ever/",
       "thumbnail": "/drops/thumbs/cded03630ec1.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "06aff67b01d8",
-      "pillar": "anime",
-      "title": "5 Dragon Ball Villain Designs That Are 10/10 Perfect",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-villain-designs-perfect/",
-      "thumbnail": "/drops/thumbs/06aff67b01d8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -165,6 +153,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/suikoden-anime-second-trailer-watch/",
       "thumbnail": "/drops/thumbs/59c3ccbea0b8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d28349ba9fcd",
+      "pillar": "anime",
+      "title": "Anime Expo 2026: A Total Guide to Every Major Announcement and Trailer Release",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/anime-expo-2026-every-announcement-trailer/",
+      "thumbnail": "/drops/thumbs/d28349ba9fcd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "7de612490f99",
-    "8a4907b2d7ce",
     "70ced94e4a3b",
-    "cded03630ec1",
     "14a0fb6b80e3",
+    "cded03630ec1",
+    "0861ae9fbf6c",
     "0648ce518126"
   ]
 }

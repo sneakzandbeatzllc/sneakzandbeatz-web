@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T18:25:35+00:00",
+  "generated_utc": "2026-07-06T18:50:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,13 +8,6 @@
       "url": "https://www.sneakerfiles.com/air-jordan-8-bin-23/",
       "pillar": "sneakers",
       "score": 6.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 8 Gets a “Legion Pine” Color for 2026’s Bin 23 Series",
-      "url": "https://justfreshkicks.com/air-jordan-8-bin-23-io2053-300/",
-      "pillar": "sneakers",
-      "score": 5.0,
       "article_slug": null
     },
     {
@@ -60,15 +53,15 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball's Greatest Episode Aired 33 Years Ago, And Nothing Has Topped It Since",
-      "url": "https://screenrant.com/dragon-ball-gohan-cell-games-greatest-episode-ever/",
-      "pillar": "anime",
-      "score": 1.0,
+      "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-7-tennis-day/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "5 Dragon Ball Villain Designs That Are 10/10 Perfect",
-      "url": "https://screenrant.com/dragon-ball-villain-designs-perfect/",
+      "title": "Dragon Ball's Greatest Episode Aired 33 Years Ago, And Nothing Has Topped It Since",
+      "url": "https://screenrant.com/dragon-ball-gohan-cell-games-greatest-episode-ever/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -97,6 +90,13 @@
     {
       "title": "New Suikoden anime trailer showcases a slick look for this classic RPG adaptation",
       "url": "https://www.polygon.com/suikoden-anime-second-trailer-watch/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Anime Expo 2026: A Total Guide to Every Major Announcement and Trailer Release",
+      "url": "https://screenrant.com/anime-expo-2026-every-announcement-trailer/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
