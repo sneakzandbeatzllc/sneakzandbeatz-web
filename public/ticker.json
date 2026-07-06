@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T12:22:00+00:00",
+  "generated_utc": "2026-07-06T12:58:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,22 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "My Girlfriend's Friend TV Anime Reveals Teaser Video, More Staff Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-06/my-girlfriend-friend-tv-anime-reveals-teaser-video-more-staff-members/.239359",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "5 anime villains more dangerous than Sukuna",
       "url": "https://www.polygon.com/strongest-anime-villains-more-dangerous-than-sukuna/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Shinya Komi's Sora o Matotte Manga Ends on July 15",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-06/shinya-komi-sora-o-matotte-manga-ends-on-july-15/.239348",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +88,29 @@
       "article_slug": null
     },
     {
-      "title": "RetroCrush Adds Hyakushō Kizoku , 500000000 Years Button Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-05/retrocrush-adds-hyakusho-kizoku-500000000-years-button-anime/.239255",
+      "title": "5 Bucket List Anime Every Fan Needs To Watch At Least Once",
+      "url": "https://screenrant.com/best-bucket-list-anime-watch-once/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "5 Bucket List Anime Every Fan Needs To Watch At Least Once",
-      "url": "https://screenrant.com/best-bucket-list-anime-watch-once/",
+      "title": "The 2026 Isekai Anime No One Talks About Is Crunchyroll's Best Kept Secret",
+      "url": "https://screenrant.com/my-ribdiculous-reincarnation-crunchyroll-best-kept-isekai-anime-secret/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "5 Anime Heroes Who Suffered More Than The Villain Ever Did",
+      "url": "https://screenrant.com/best-anime-heroes-suffered-more-than-villains/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "5 Classic '90s Anime That Are Unwatchable Today",
+      "url": "https://screenrant.com/1990s-anime-classic-unwatchable/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -125,13 +125,6 @@
     {
       "title": "PlayStation App Drops GTA 6 Theme From Its Icon",
       "url": "https://gameranx.com/updates/id/563294/article/playstation-app-drops-gta-6-theme-from-its-icon/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hideo Kojima Finds It Really Sad That Sony Is Killing PlayStation Game Discs",
-      "url": "https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Rumor: XBOX Could Move Halo Under Activision",
       "url": "https://gameranx.com/updates/id/563320/article/rumor-xbox-could-move-halo-under-activision/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Leading Online Petition Against PlayStation's Disc-Free Future Now Exceeds 120,000 Signatures",
+      "url": "https://www.pushsquare.com/news/2026/07/leading-online-petition-against-playstations-disc-free-future-now-exceeds-120000-signatures",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
