@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T19:03:44+00:00",
+  "generated_utc": "2026-07-06T19:22:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "News There's a Reason Persona 4 Revival's Animated Cutscenes Look So Good",
-      "url": "https://www.pushsquare.com/news/2026/07/theres-a-reason-persona-4-revivals-animated-cutscenes-look-so-good",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Clair Obscur: Expedition 33 lead says we'll eventually \"be able to churn out a game\" with a prompt",
       "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-thinks-devs-will-eventually-be-able-to-churn-out-a-game-in-5-seconds-with-a-prompt-but-he-hopes-theyre-not-any-good/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "News Guilty Gear Strive Shocks Players with Confirmation of a Second Guest Character",
       "url": "https://www.pushsquare.com/news/2026/07/guilty-gear-strive-shocks-players-with-confirmation-of-a-second-guest-character",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
+      "url": "https://gameranx.com/updates/id/563304/article/marvel-tokon-fighting-souls-playstations-next-live-service-game-is-blocked-on-pc-in-130-countries/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

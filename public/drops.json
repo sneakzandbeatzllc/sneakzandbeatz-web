@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T19:03:44+00:00",
+  "generated_utc": "2026-07-06T19:22:07+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "68a8703f9501",
-      "pillar": "gaming",
-      "title": "News There's a Reason Persona 4 Revival's Animated Cutscenes Look So Good",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/theres-a-reason-persona-4-revivals-animated-cutscenes-look-so-good",
-      "thumbnail": "/drops/thumbs/68a8703f9501.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "503753a75586",
       "pillar": "gaming",
       "title": "Clair Obscur: Expedition 33 lead says we'll eventually \"be able to churn out a game\" with a prompt",
@@ -285,6 +273,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/07/guilty-gear-strive-shocks-players-with-confirmation-of-a-second-guest-character",
       "thumbnail": "/drops/thumbs/ccdf6a598ef1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e5c1f71bae8b",
+      "pillar": "gaming",
+      "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563304/article/marvel-tokon-fighting-souls-playstations-next-live-service-game-is-blocked-on-pc-in-130-countries/",
+      "thumbnail": "/drops/thumbs/e5c1f71bae8b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
