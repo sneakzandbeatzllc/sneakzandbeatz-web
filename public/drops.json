@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T07:14:35+00:00",
+  "generated_utc": "2026-07-07T09:14:34+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "c748d666e9b1",
+      "id": "862a88ed53ff",
       "pillar": "gaming",
-      "title": "PlayStation App Drops GTA 6 Theme From Its Icon",
+      "title": "Rumor: PlayStation Didn’t Tell Any Game Developers They Were Cancelling Physical Game Discs – Not Even Rockstar Or Naughty Dog",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563294/article/playstation-app-drops-gta-6-theme-from-its-icon/",
-      "thumbnail": "/drops/thumbs/c748d666e9b1.jpg",
+      "source_url": "https://gameranx.com/updates/id/563328/article/rumor-playstation-didnt-tell-any-game-developers-they-were-cancelling-physical-game-discs-not-even-rockstar-or-naughty-dog/",
+      "thumbnail": "/drops/thumbs/862a88ed53ff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "68f93a60a99f",
-      "pillar": "gaming",
-      "title": "Final Fantasy VII Revelation’s DLC Plans May Have Leaked Online – Or Maybe Not",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563292/article/final-fantasy-vii-revelations-dlc-plans-may-have-leaked-online-or-maybe-not/",
-      "thumbnail": "/drops/thumbs/68f93a60a99f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e5c1f71bae8b",
       "pillar": "gaming",
       "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "a8ccb65be4e5",
+      "id": "93829b03482f",
       "pillar": "gaming",
-      "title": "News Gigantic Xbox Layoffs See The Outer Worlds Dev Obsidian Lose 25% of Workforce",
+      "title": "News July 2026 PS Plus Essential Games Available to Download Now",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/gigantic-xbox-layoffs-see-the-outer-worlds-dev-obsidian-lose-25percent-of-workforce",
-      "thumbnail": "/drops/thumbs/a8ccb65be4e5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/july-2026-ps-plus-essential-games-available-to-download-now",
+      "thumbnail": "/drops/thumbs/93829b03482f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d3c1a6e8e1b8",
+      "pillar": "gaming",
+      "title": "The Outer Worlds And Grounded Studio Obsidian Losing Around 25 Percent Of Its Staff To Xbox Layoffs",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/avowed-the-outer-worlds-pentiment-studio-obsidian-xbox-layoffs-2000713032",
+      "thumbnail": "/drops/thumbs/d3c1a6e8e1b8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

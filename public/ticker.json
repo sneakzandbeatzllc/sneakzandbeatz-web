@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T07:14:35+00:00",
+  "generated_utc": "2026-07-07T09:14:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,8 +123,8 @@
       "article_slug": null
     },
     {
-      "title": "PlayStation App Drops GTA 6 Theme From Its Icon",
-      "url": "https://gameranx.com/updates/id/563294/article/playstation-app-drops-gta-6-theme-from-its-icon/",
+      "title": "Rumor: PlayStation Didn’t Tell Any Game Developers They Were Cancelling Physical Game Discs – Not Even Rockstar Or Naughty Dog",
+      "url": "https://gameranx.com/updates/id/563328/article/rumor-playstation-didnt-tell-any-game-developers-they-were-cancelling-physical-game-discs-not-even-rockstar-or-naughty-dog/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy VII Revelation’s DLC Plans May Have Leaked Online – Or Maybe Not",
-      "url": "https://gameranx.com/updates/id/563292/article/final-fantasy-vii-revelations-dlc-plans-may-have-leaked-online-or-maybe-not/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
       "url": "https://gameranx.com/updates/id/563304/article/marvel-tokon-fighting-souls-playstations-next-live-service-game-is-blocked-on-pc-in-130-countries/",
       "pillar": "gaming",
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "News Gigantic Xbox Layoffs See The Outer Worlds Dev Obsidian Lose 25% of Workforce",
-      "url": "https://www.pushsquare.com/news/2026/07/gigantic-xbox-layoffs-see-the-outer-worlds-dev-obsidian-lose-25percent-of-workforce",
+      "title": "News July 2026 PS Plus Essential Games Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/07/july-2026-ps-plus-essential-games-available-to-download-now",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Outer Worlds And Grounded Studio Obsidian Losing Around 25 Percent Of Its Staff To Xbox Layoffs",
+      "url": "https://kotaku.com/avowed-the-outer-worlds-pentiment-studio-obsidian-xbox-layoffs-2000713032",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
