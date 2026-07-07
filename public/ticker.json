@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T13:17:31+00:00",
+  "generated_utc": "2026-07-07T13:47:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,6 +144,20 @@
       "article_slug": null
     },
     {
+      "title": "Doom Designer John Romero Says He Hopes People Are Preserving id Software’s History Amid Reported Xbox Bloodbath",
+      "url": "https://kotaku.com/doom-designer-john-romero-says-he-hopes-people-are-preserving-id-softwares-history-amid-reported-xbox-bloodbath-2000713308",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News James Bond, Hitman Studio's Project Fantasy Still Coming After Xbox Cuts",
+      "url": "https://www.pushsquare.com/news/2026/07/james-bond-hitman-studios-project-fantasy-still-coming-after-xbox-cuts",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Sony Ignores the Backlash and Returns to Social Media Almost a Week After Killing Physical Games",
       "url": "https://www.pushsquare.com/news/2026/07/sony-ignores-the-backlash-and-returns-to-social-media-almost-a-week-after-killing-physical-games",
       "pillar": "gaming",
@@ -151,22 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "The Outer Worlds And Grounded Studio Obsidian Losing Around 25 Percent Of Its Staff To Xbox Layoffs",
-      "url": "https://kotaku.com/avowed-the-outer-worlds-pentiment-studio-obsidian-xbox-layoffs-2000713032",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Legendary Dev id Software Allegedly Hit Extremely Hard by Xbox Layoffs",
-      "url": "https://www.pushsquare.com/news/2026/07/legendary-dev-id-software-allegedly-hit-extremely-hard-by-xbox-layoffs",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The First Reactions To Christopher Nolan’s Odyssey Call It ‘Clunky,’ ‘Astonishing,’ And Like Peter Jackson’s Lord Of The Rings",
-      "url": "https://kotaku.com/the-first-reactions-to-christopher-nolans-odyssey-call-it-clunky-astonishing-and-like-peter-jacksons-lord-of-the-rings-2000713055",
+      "title": "Billionaires And Corporations Are Not Your Friends",
+      "url": "https://kotaku.com/xbox-layoffs-playstation-taylor-swift-travis-kelce-wedding-2000712926",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

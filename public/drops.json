@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T13:17:31+00:00",
+  "generated_utc": "2026-07-07T13:47:45+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -243,6 +243,30 @@
       "release_badge": ""
     },
     {
+      "id": "3c24b3b331df",
+      "pillar": "gaming",
+      "title": "Doom Designer John Romero Says He Hopes People Are Preserving id Software’s History Amid Reported Xbox Bloodbath",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/doom-designer-john-romero-says-he-hopes-people-are-preserving-id-softwares-history-amid-reported-xbox-bloodbath-2000713308",
+      "thumbnail": "/drops/thumbs/3c24b3b331df.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "430ce450a815",
+      "pillar": "gaming",
+      "title": "News James Bond, Hitman Studio's Project Fantasy Still Coming After Xbox Cuts",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/james-bond-hitman-studios-project-fantasy-still-coming-after-xbox-cuts",
+      "thumbnail": "/drops/thumbs/430ce450a815.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "89fc43690848",
       "pillar": "gaming",
       "title": "News Sony Ignores the Backlash and Returns to Social Media Almost a Week After Killing Physical Games",
@@ -255,36 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "d3c1a6e8e1b8",
+      "id": "113d5563268d",
       "pillar": "gaming",
-      "title": "The Outer Worlds And Grounded Studio Obsidian Losing Around 25 Percent Of Its Staff To Xbox Layoffs",
+      "title": "Billionaires And Corporations Are Not Your Friends",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/avowed-the-outer-worlds-pentiment-studio-obsidian-xbox-layoffs-2000713032",
-      "thumbnail": "/drops/thumbs/d3c1a6e8e1b8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "efbfaf5291a1",
-      "pillar": "gaming",
-      "title": "News Legendary Dev id Software Allegedly Hit Extremely Hard by Xbox Layoffs",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/legendary-dev-id-software-allegedly-hit-extremely-hard-by-xbox-layoffs",
-      "thumbnail": "/drops/thumbs/efbfaf5291a1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "726f02003925",
-      "pillar": "gaming",
-      "title": "The First Reactions To Christopher Nolan’s Odyssey Call It ‘Clunky,’ ‘Astonishing,’ And Like Peter Jackson’s Lord Of The Rings",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-first-reactions-to-christopher-nolans-odyssey-call-it-clunky-astonishing-and-like-peter-jacksons-lord-of-the-rings-2000713055",
-      "thumbnail": "/drops/thumbs/726f02003925.jpg",
+      "source_url": "https://kotaku.com/xbox-layoffs-playstation-taylor-swift-travis-kelce-wedding-2000712926",
+      "thumbnail": "/drops/thumbs/113d5563268d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
