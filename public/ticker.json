@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T00:29:27+00:00",
+  "generated_utc": "2026-07-07T00:56:30+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "News PS Plus Premium Members Can Now Trial Saros, One of 2026's Best PS5 Games",
-      "url": "https://www.pushsquare.com/news/2026/07/ps-plus-premium-members-can-now-trial-saros-one-of-2026s-best-ps5-games",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Clair Obscur: Expedition 33 lead says we'll eventually \"be able to churn out a game\" with a prompt",
       "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-thinks-devs-will-eventually-be-able-to-churn-out-a-game-in-5-seconds-with-a-prompt-but-he-hopes-theyre-not-any-good/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Marvel Tokon Fighting Souls, PlayStation’s Next Live Service Game, Is Blocked On PC In 130 Countries",
       "url": "https://gameranx.com/updates/id/563304/article/marvel-tokon-fighting-souls-playstations-next-live-service-game-is-blocked-on-pc-in-130-countries/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rumor: XBOX Could Move Halo Under Activision",
+      "url": "https://gameranx.com/updates/id/563320/article/rumor-xbox-could-move-halo-under-activision/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
