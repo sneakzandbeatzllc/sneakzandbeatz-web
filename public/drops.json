@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T16:19:51+00:00",
+  "generated_utc": "2026-07-07T16:51:27+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "6c7cd168ae37",
-      "pillar": "gaming",
-      "title": "Former Xbox boss wanted Halo 4 to have Diablo 3's most hated feature, dev says",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/game-execs-remain-stupid-detached-money-grubbing-idiots-former-xbox-boss-wanted-halo-4-to-copy-diablo-3s-horrible-real-money-auction-house-dev-says/",
-      "thumbnail": "/drops/thumbs/6c7cd168ae37.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7eeaafe14134",
       "pillar": "gaming",
       "title": "News Originally Free, You Can Now Pay $70 to Own the Worst Silent Hill Game",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "f8d786eba95d",
+      "id": "23d30502a955",
       "pillar": "gaming",
-      "title": "2014’s Binding Of Isaac: Rebirth Is More Popular Than Ever And Setting New Records On Steam",
+      "title": "Big Preview I played The Blood of Dawnwalker for 4 hours, and this vampire RPG exceeds its Witcher 3 comparisons",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-big-preview-july-2026/",
+      "thumbnail": "/drops/thumbs/23d30502a955.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "133c55461a15",
+      "pillar": "gaming",
+      "title": "After Unprecedented Leak, The New Avatar Movie Looks Great In First Official Trailer",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/2014s-binding-of-isaac-is-more-popular-than-ever-and-setting-new-records-on-steam-2000713366",
-      "thumbnail": "/drops/thumbs/f8d786eba95d.jpg",
+      "source_url": "https://kotaku.com/avatar-aang-last-airbender-movie-trailer-date-paramount-2000713384",
+      "thumbnail": "/drops/thumbs/133c55461a15.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
