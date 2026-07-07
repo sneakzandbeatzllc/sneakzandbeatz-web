@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-06T23:28:42+00:00",
+  "generated_utc": "2026-07-07T00:29:27+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "cded03630ec1",
-      "pillar": "anime",
-      "title": "Dragon Ball's Greatest Episode Aired 33 Years Ago, And Nothing Has Topped It Since",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-gohan-cell-games-greatest-episode-ever/",
-      "thumbnail": "/drops/thumbs/cded03630ec1.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0710104dcf52",
       "pillar": "anime",
       "title": "It's Official, Solo Leveling Season 3's Release Window Is A Bigger Deal Than Fans Think",
@@ -129,6 +117,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/gkids-anime-blu-ray-4k-physical-release-look-back-angels-egg/",
       "thumbnail": "/drops/thumbs/c74217bd6d5c.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d624c771f5b2",
+      "pillar": "anime",
+      "title": "One Piece Finally Proves Zoro Is Far Stronger Than Sanji, But That's About To Change",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-zoro-stronger-than-sanji-change/",
+      "thumbnail": "/drops/thumbs/d624c771f5b2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "70ced94e4a3b",
     "14a0fb6b80e3",
-    "cded03630ec1",
+    "0710104dcf52",
     "0861ae9fbf6c",
     "0648ce518126"
   ]
