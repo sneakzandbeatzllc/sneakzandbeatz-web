@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T15:19:01+00:00",
+  "generated_utc": "2026-07-07T15:50:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "A Great Way To Experience Persona 4 Is Free For A Limited Time",
+      "url": "https://kotaku.com/persona-4-animation-anime-golden-youtube-streaming-dub-sub-2000713367",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Hideo Kojima Is Worried Movies Could Go The Way Of PlayStation’s Video Games",
       "url": "https://gameranx.com/updates/id/563324/article/hideo-kojima-is-worried-movies-could-go-the-way-of-playstations-video-games/",
       "pillar": "gaming",
@@ -137,15 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "Former Halo Dev Says Gaming Execs ‘Live On Different Planes Of Reality’",
-      "url": "https://kotaku.com/halo-4-real-money-auction-house-diablo-3-2000713312",
+      "title": "Former Xbox boss wanted Halo 4 to have Diablo 3's most hated feature, dev says",
+      "url": "https://www.gamesradar.com/games/game-execs-remain-stupid-detached-money-grubbing-idiots-former-xbox-boss-wanted-halo-4-to-copy-diablo-3s-horrible-real-money-auction-house-dev-says/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Former Xbox boss wanted Halo 4 to have Diablo 3's most hated feature, dev says",
-      "url": "https://www.gamesradar.com/games/game-execs-remain-stupid-detached-money-grubbing-idiots-former-xbox-boss-wanted-halo-4-to-copy-diablo-3s-horrible-real-money-auction-house-dev-says/",
+      "title": "Former Halo Dev Says Gaming Execs ‘Live On Different Planes Of Reality’",
+      "url": "https://kotaku.com/halo-4-real-money-auction-house-diablo-3-2000713312",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "News The Elder Scrolls Online's Future Looks Bleak as Dev 'Decimated' by Xbox Layoffs",
       "url": "https://www.pushsquare.com/news/2026/07/the-elder-scrolls-onlines-future-looks-bleak-as-dev-decimated-by-xbox-layoffs",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "RPG That Earned Over A Million Dollars On Kickstarter In 2013 Provides First Update In Seven Years: ‘Aiming To Finish Production At The End Of 2031’",
-      "url": "https://kotaku.com/rpg-that-earned-over-a-million-dollars-on-kickstarter-in-2013-provides-first-update-in-seven-years-aiming-to-finish-production-at-the-end-of-2031-2000713325",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
