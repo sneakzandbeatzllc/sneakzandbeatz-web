@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T20:18:46+00:00",
+  "generated_utc": "2026-07-07T20:23:10+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "7d48c24ea451",
+      "pillar": "anime",
+      "title": "Demon Slayer Just Released Their First Infinity Castle Part 2 Tease, And No One Noticed",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-first-tease/",
+      "thumbnail": "/drops/thumbs/7d48c24ea451.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0710104dcf52",
       "pillar": "anime",
       "title": "It's Official, Solo Leveling Season 3's Release Window Is A Bigger Deal Than Fans Think",
@@ -177,18 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-07-07/shangri-la-frontier-anime-season-3-streams-new-teaser/.239394",
       "thumbnail": "/drops/thumbs/55a84f354931.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d089d9a26847",
-      "pillar": "anime",
-      "title": "A Free New Anime Streaming Service Is Here To Fix Crunchyroll's Biggest Blind Spot",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/darkroom-new-anime-streaming-service-challenge-crunchyroll/",
-      "thumbnail": "/drops/thumbs/d089d9a26847.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "bba20b3f8207",
     "70ced94e4a3b",
-    "0710104dcf52",
+    "7d48c24ea451",
     "14a0fb6b80e3",
     "0648ce518126"
   ]

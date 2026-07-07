@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T20:18:46+00:00",
+  "generated_utc": "2026-07-07T20:23:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Demon Slayer Just Released Their First Infinity Castle Part 2 Tease, And No One Noticed",
+      "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-first-tease/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "It's Official, Solo Leveling Season 3's Release Window Is A Bigger Deal Than Fans Think",
       "url": "https://screenrant.com/solo-leveling-season-3-release-window-movie-improtant/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Shangri-La Frontier Anime Season 3 Streams New Teaser",
       "url": "https://www.animenewsnetwork.com/news/2026-07-07/shangri-la-frontier-anime-season-3-streams-new-teaser/.239394",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "A Free New Anime Streaming Service Is Here To Fix Crunchyroll's Biggest Blind Spot",
-      "url": "https://screenrant.com/darkroom-new-anime-streaming-service-challenge-crunchyroll/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
