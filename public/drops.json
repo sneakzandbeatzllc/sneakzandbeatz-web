@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T23:01:01+00:00",
+  "generated_utc": "2026-07-07T23:20:58+00:00",
   "items": [
-    {
-      "id": "7de612490f99",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 “BIN 23” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-8-bin-23/",
-      "thumbnail": "/drops/thumbs/7de612490f99.jpg",
-      "published": "2026-07-01T00:18:47",
-      "relative_time": "today",
-      "score": 6.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "be8a90c45317",
       "pillar": "sneakers",
@@ -75,18 +63,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "d74f496abc5f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
-      "thumbnail": "/drops/thumbs/d74f496abc5f.jpg",
-      "published": "2026-06-28T13:39:14",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "4e8141301085",
       "pillar": "sneakers",
       "title": "The Air Jordan 11 “Space Jam” Returns in 2026",
@@ -94,6 +70,30 @@
       "source_url": "https://justfreshkicks.com/air-jordan-11-space-jam-2026/",
       "thumbnail": "/drops/thumbs/4e8141301085.webp",
       "published": "2026-07-07T14:54:50",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fc2bfab0b5a3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
+      "published": "2026-07-07T14:46:56",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "850e0ffe0679",
+      "pillar": "sneakers",
+      "title": "Nigel Sylvester Unveils a “Purple Ferrari” Air Jordan 14 PE",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-14-purple-ferrari/",
+      "thumbnail": "/drops/thumbs/850e0ffe0679.webp",
+      "published": "2026-07-07T14:29:25",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "7de612490f99",
     "be8a90c45317",
     "bba20b3f8207",
-    "7d48c24ea451",
     "70ced94e4a3b",
+    "7d48c24ea451",
+    "14a0fb6b80e3",
     "0648ce518126"
   ]
 }
