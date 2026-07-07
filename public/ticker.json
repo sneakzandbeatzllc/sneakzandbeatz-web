@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T18:24:03+00:00",
+  "generated_utc": "2026-07-07T18:55:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -53,8 +53,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 7 “Miro” Returns Next Week for the First Retro Since 2008",
-      "url": "https://justfreshkicks.com/air-jordan-7-miro-iq6573-100/",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -62,13 +62,6 @@
     {
       "title": "It's Official, Solo Leveling Season 3's Release Window Is A Bigger Deal Than Fans Think",
       "url": "https://screenrant.com/solo-leveling-season-3-release-window-movie-improtant/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Chainsaw Man creator's emotionally devastating movie is getting a physical release",
-      "url": "https://www.polygon.com/gkids-anime-blu-ray-4k-physical-release-look-back-angels-egg/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -83,6 +76,13 @@
     {
       "title": "Everyday Host Anime Sequel Series to Premiere in January 2027",
       "url": "https://www.animenewsnetwork.com/news/2026-07-07/everyday-host-anime-sequel-series-to-premiere-in-january-2027/.239388",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Legendary Final Fantasy artist Yoshitaka Amano says AI can't capture the soul of art",
+      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "News Enjoying the World Cup? This Anime Soccer Game Looks Like a PS5 Must Play",
-      "url": "https://www.pushsquare.com/news/2026/07/enjoying-the-world-cup-this-anime-soccer-game-looks-like-a-ps5-must-play",
+      "title": "Former Halo Dev Says Gaming Execs ‘Live On Different Planes Of Reality’",
+      "url": "https://kotaku.com/halo-4-real-money-auction-house-diablo-3-2000713312",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "RPG That Earned Over A Million Dollars On Kickstarter In 2013 Provides First Update In Seven Years: ‘Aiming To Finish Production At The End Of 2031’",
-      "url": "https://kotaku.com/rpg-that-earned-over-a-million-dollars-on-kickstarter-in-2013-provides-first-update-in-seven-years-aiming-to-finish-production-at-the-end-of-2031-2000713325",
+      "title": "News Enjoying the World Cup? This Anime Soccer Game Looks Like a PS5 Must Play",
+      "url": "https://www.pushsquare.com/news/2026/07/enjoying-the-world-cup-this-anime-soccer-game-looks-like-a-ps5-must-play",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "After Unprecedented Leak, The New Avatar Movie Looks Great In First Official Trailer",
-      "url": "https://kotaku.com/avatar-aang-last-airbender-movie-trailer-date-paramount-2000713384",
+      "title": "RPG That Earned Over A Million Dollars On Kickstarter In 2013 Provides First Update In Seven Years: ‘Aiming To Finish Production At The End Of 2031’",
+      "url": "https://kotaku.com/rpg-that-earned-over-a-million-dollars-on-kickstarter-in-2013-provides-first-update-in-seven-years-aiming-to-finish-production-at-the-end-of-2031-2000713325",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
