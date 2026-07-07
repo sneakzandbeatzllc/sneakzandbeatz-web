@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T18:55:02+00:00",
+  "generated_utc": "2026-07-07T19:18:02+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -87,13 +87,13 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "fc2bfab0b5a3",
+      "id": "4e8141301085",
       "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "title": "The Air Jordan 11 “Space Jam” Returns in 2026",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
-      "published": "2026-07-07T14:46:56",
+      "source_url": "https://justfreshkicks.com/air-jordan-11-space-jam-2026/",
+      "thumbnail": "/drops/thumbs/4e8141301085.webp",
+      "published": "2026-07-07T14:54:50",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -231,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "a98173295432",
+      "pillar": "gaming",
+      "title": "News Call of Duty: Black Ops 1 and 2 Will Get Native PS5 Versions",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/call-of-duty-black-ops-1-and-2-will-get-native-ps5-versions",
+      "thumbnail": "/drops/thumbs/a98173295432.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ebfe4e8afff0",
       "pillar": "gaming",
       "title": "Former Halo Dev Says Gaming Execs ‘Live On Different Planes Of Reality’",
@@ -249,18 +261,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/07/enjoying-the-world-cup-this-anime-soccer-game-looks-like-a-ps5-must-play",
       "thumbnail": "/drops/thumbs/e5fd60ef2f11.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "47b74b2d5913",
-      "pillar": "gaming",
-      "title": "Round Up Ridiculously Positive Dawnwalker Previews Claim It's a Game of the Year Candidate",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/round-up-ridiculously-positive-dawnwalker-previews-claim-its-a-game-of-the-year-candidate",
-      "thumbnail": "/drops/thumbs/47b74b2d5913.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
