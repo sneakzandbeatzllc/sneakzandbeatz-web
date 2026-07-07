@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T21:23:53+00:00",
+  "generated_utc": "2026-07-07T21:58:27+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 6.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "be8a90c45317",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 MCS “True Blue” Baseball Cleats Releases July 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-mcs-true-blue-baseball-cleats/",
+      "thumbnail": "/drops/thumbs/be8a90c45317.jpg",
+      "published": "2026-07-07T14:38:40",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "bba20b3f8207",
@@ -70,18 +82,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
       "thumbnail": "/drops/thumbs/d74f496abc5f.jpg",
       "published": "2026-06-28T13:39:14",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "fd5a725c7858",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “True Blue” Releases July 18th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-3-true-blue-if4396-104/",
-      "thumbnail": "/drops/thumbs/fd5a725c7858.webp",
-      "published": "",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "7de612490f99",
+    "be8a90c45317",
     "bba20b3f8207",
-    "70ced94e4a3b",
     "7d48c24ea451",
-    "14a0fb6b80e3",
+    "70ced94e4a3b",
     "0648ce518126"
   ]
 }

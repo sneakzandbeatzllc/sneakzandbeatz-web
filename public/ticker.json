@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T21:23:53+00:00",
+  "generated_utc": "2026-07-07T21:58:27+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-8-bin-23/",
       "pillar": "sneakers",
       "score": 6.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 MCS “True Blue” Baseball Cleats Releases July 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-mcs-true-blue-baseball-cleats/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -41,13 +48,6 @@
     {
       "title": "Air Jordan 4 “Birds of Paradise” Releases July 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-birds-of-paradise/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “True Blue” Releases July 18th",
-      "url": "https://sneakerbardetroit.com/air-jordan-3-true-blue-if4396-104/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
