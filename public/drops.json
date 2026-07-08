@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-08T00:27:07+00:00",
+  "generated_utc": "2026-07-08T01:06:43+00:00",
   "items": [
     {
       "id": "be8a90c45317",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "0c7c9476b7da",
+      "pillar": "anime",
+      "title": "Harvey Awards Nominate Chainsaw Man, Demon Slayer, My Hero Academia, One Piece, Your Letter",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-07/harvey-awards-nominate-chainsaw-man-demon-slayer-my-hero-academia-one-piece-your-letter/.239404",
+      "thumbnail": "/drops/thumbs/0c7c9476b7da.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7d48c24ea451",
       "pillar": "anime",
       "title": "Demon Slayer Just Released Their First Infinity Castle Part 2 Tease, And No One Noticed",
@@ -159,24 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "9ae0ebc108cf",
+      "id": "66f629823e9d",
       "pillar": "anime",
-      "title": "New Ghost in the Shell Anime Confirms Japanese Cast",
+      "title": "Sword Art Online's Echoes of Aincrad Game's New Trailer Previews Death Game Mode",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-07/new-ghost-in-the-shell-anime-confirms-japanese-cast/.239396",
-      "thumbnail": "/drops/thumbs/9ae0ebc108cf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e40ff39c8f17",
-      "pillar": "anime",
-      "title": "Everyday Host Anime Sequel Series to Premiere in January 2027",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-07/everyday-host-anime-sequel-series-to-premiere-in-january-2027/.239388",
-      "thumbnail": "/drops/thumbs/e40ff39c8f17.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-07/sword-art-online-echoes-of-aincrad-game-new-trailer-previews-death-game-mode/.239401",
+      "thumbnail": "/drops/thumbs/66f629823e9d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "be8a90c45317",
     "bba20b3f8207",
     "70ced94e4a3b",
-    "7d48c24ea451",
+    "0c7c9476b7da",
     "14a0fb6b80e3",
     "0648ce518126"
   ]
