@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-08T11:48:46+00:00",
+  "generated_utc": "2026-07-08T12:49:56+00:00",
   "items": [
     {
       "id": "be8a90c45317",
@@ -27,18 +27,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "70ced94e4a3b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
-      "thumbnail": "/drops/thumbs/70ced94e4a3b.png",
-      "published": "2026-07-02T07:09:58",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "14a0fb6b80e3",
       "pillar": "sneakers",
       "title": "Air Jordan 4 “Comic” Releases July 2026",
@@ -46,18 +34,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-comic/",
       "thumbnail": "/drops/thumbs/14a0fb6b80e3.jpg",
       "published": "2026-07-02T00:53:38",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "0861ae9fbf6c",
-      "pillar": "sneakers",
-      "title": "Kids Air Jordan 4 “She’s A Star” July 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/kids-air-jordan-4-shes-a-star-io2829-600-drop/",
-      "thumbnail": "/drops/thumbs/0861ae9fbf6c.jpg",
-      "published": "2026-07-01T11:53:27",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -94,6 +70,30 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-purple-ferrari/",
       "thumbnail": "/drops/thumbs/850e0ffe0679.webp",
       "published": "2026-07-07T14:29:25",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cb4e2d0961fb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Miro” Returns Next Week for the First Retro Since 2008",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-miro-iq6573-100/",
+      "thumbnail": "/drops/thumbs/cb4e2d0961fb.jpg",
+      "published": "2026-07-07T13:56:55",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e21281229ce9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low GS “China Rose” Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-gs-white-china-rose-pink-foam/",
+      "thumbnail": "/drops/thumbs/e21281229ce9.jpg",
+      "published": "2026-07-01T13:50:20",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "2a7a11a3ff8a",
+      "id": "bbfd2619ddcc",
       "pillar": "gaming",
-      "title": "Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit",
+      "title": "Mario Kart Tour Will Be Gone Forever September 29",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/fans-canceling-ps-plus-to-boycott-sony-killing-discs-discover-you-can-actually-save-money-by-threatening-to-quit-2000713459",
-      "thumbnail": "/drops/thumbs/2a7a11a3ff8a.jpg",
+      "source_url": "https://kotaku.com/mario-kart-tour-service-ending-september-nintendo-mobile-2000713693",
+      "thumbnail": "/drops/thumbs/bbfd2619ddcc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "65cb2257fa15",
+      "id": "99c139dc29cf",
       "pillar": "gaming",
-      "title": "Pearl Abyss: Crimson Desert “Still Requires Optimization And Technical Verification” On Switch 2",
+      "title": "Rumor: The Elder Scrolls 6 Could Only Take Three More Years, Tops",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563345/article/pearl-abyss-crimson-desert-still-requires-optimization-and-technical-verification-on-switch-2/",
-      "thumbnail": "/drops/thumbs/65cb2257fa15.jpg",
+      "source_url": "https://gameranx.com/updates/id/563350/article/rumor-the-elder-scrolls-6-could-only-take-three-more-years-tops/",
+      "thumbnail": "/drops/thumbs/99c139dc29cf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "8da922a79078",
+      "id": "34dd6f4b99a0",
       "pillar": "gaming",
-      "title": "PlayStation Breaks Six-Day Silence After Announcing The End Of Discs And Gets Immediately Roasted: ‘Physical Forever You Cowards’",
+      "title": "Star Fox Rule Of Cools Its Way To Becoming A Switch 2 Must-Have",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/playstation-breaks-six-day-silence-after-announcing-the-end-of-discs-and-gets-immediately-roasted-physical-forever-you-cowards-2000713322",
-      "thumbnail": "/drops/thumbs/8da922a79078.jpg",
+      "source_url": "https://kotaku.com/star-fox-review-nintendo-switch-2-2000713408",
+      "thumbnail": "/drops/thumbs/34dd6f4b99a0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -294,9 +294,9 @@
   "homepage": [
     "be8a90c45317",
     "bba20b3f8207",
-    "70ced94e4a3b",
-    "0c7c9476b7da",
     "14a0fb6b80e3",
+    "0c7c9476b7da",
+    "4e8141301085",
     "0648ce518126"
   ]
 }
