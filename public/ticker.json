@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-07T23:32:44+00:00",
+  "generated_utc": "2026-07-08T00:04:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,20 @@
       "article_slug": null
     },
     {
+      "title": "One Piece fans are eating well right now",
+      "url": "https://www.polygon.com/one-piece-fans-are-eating-well-right-now/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Piece Confirms That Luffy's Biggest Fight Ever Has Truly Just Begun",
+      "url": "https://screenrant.com/one-piece-luffy-imu-biggest-fight-ever-gear-5/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece Finally Proves Zoro Is Far Stronger Than Sanji, But That's About To Change",
       "url": "https://screenrant.com/one-piece-zoro-stronger-than-sanji-change/",
       "pillar": "anime",
@@ -88,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Legendary Final Fantasy artist Yoshitaka Amano says AI can't capture the soul of art",
-      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Everyday Host Anime Sequel Series to Premiere in January 2027",
       "url": "https://www.animenewsnetwork.com/news/2026-07-07/everyday-host-anime-sequel-series-to-premiere-in-january-2027/.239388",
       "pillar": "anime",
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Baki’s latest season delivers the show's most interesting character and its most disappointing fights",
-      "url": "https://www.polygon.com/baki-invincible-samurai-musashi-reviewl/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Shangri-La Frontier Anime Season 3 Streams New Teaser",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-07/shangri-la-frontier-anime-season-3-streams-new-teaser/.239394",
+      "title": "Legendary Final Fantasy artist Yoshitaka Amano says AI can't capture the soul of art",
+      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "News Two Legends Collide as Cyberpunk Comes to Apex Legends",
+      "url": "https://www.pushsquare.com/news/2026/07/two-legends-collide-as-cyberpunk-comes-to-apex-legends",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Call of Duty: Black Ops 1 and 2 Will Get Native PS5 Versions",
       "url": "https://www.pushsquare.com/news/2026/07/call-of-duty-black-ops-1-and-2-will-get-native-ps5-versions",
       "pillar": "gaming",
@@ -146,13 +153,6 @@
     {
       "title": "Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit",
       "url": "https://kotaku.com/fans-canceling-ps-plus-to-boycott-sony-killing-discs-discover-you-can-actually-save-money-by-threatening-to-quit-2000713459",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PlayStation's First Post Since Physical Games Debacle Draws 57k Replies",
-      "url": "https://www.pushsquare.com/news/2026/07/playstations-first-post-since-physical-games-debacle-draws-57k-replies",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
