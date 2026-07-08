@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-08T08:47:25+00:00",
+  "generated_utc": "2026-07-08T09:47:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,20 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: PlayStation Didn’t Tell Any Game Developers They Were Cancelling Physical Game Discs – Not Even Rockstar Or Naughty Dog",
-      "url": "https://gameranx.com/updates/id/563328/article/rumor-playstation-didnt-tell-any-game-developers-they-were-cancelling-physical-game-discs-not-even-rockstar-or-naughty-dog/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hideo Kojima Is Worried Movies Could Go The Way Of PlayStation’s Video Games",
-      "url": "https://gameranx.com/updates/id/563324/article/hideo-kojima-is-worried-movies-could-go-the-way-of-playstations-video-games/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Two Legends Collide as Cyberpunk Comes to Apex Legends",
       "url": "https://www.pushsquare.com/news/2026/07/two-legends-collide-as-cyberpunk-comes-to-apex-legends",
       "pillar": "gaming",
@@ -151,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Pearl Abyss: Crimson Desert “Still Requires Optimization And Technical Verification” On Switch 2",
+      "url": "https://gameranx.com/updates/id/563345/article/pearl-abyss-crimson-desert-still-requires-optimization-and-technical-verification-on-switch-2/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit",
       "url": "https://kotaku.com/fans-canceling-ps-plus-to-boycott-sony-killing-discs-discover-you-can-actually-save-money-by-threatening-to-quit-2000713459",
       "pillar": "gaming",
@@ -160,6 +153,13 @@
     {
       "title": "Big Preview I played The Blood of Dawnwalker for 4 hours, and this vampire RPG exceeds its Witcher 3 comparisons",
       "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-big-preview-july-2026/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "IO Interactive Has Taken Back Project Fantasy, And Now Has To Lay Off Staff To Survive",
+      "url": "https://gameranx.com/updates/id/563343/article/io-interactive-has-taken-back-project-fantasy-and-now-has-to-lay-off-staff-to-survive/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
