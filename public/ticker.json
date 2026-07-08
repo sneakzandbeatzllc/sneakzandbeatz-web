@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-08T09:47:29+00:00",
+  "generated_utc": "2026-07-08T10:48:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "Demon Slayer producer open to using AI while preserving 'the essence of Japanese creativity'",
+      "url": "https://www.polygon.com/demon-slayer-producer-says-its-open-to-the-use-of-ai/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Demon Slayer Just Released Their First Infinity Castle Part 2 Tease, And No One Noticed",
       "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-first-tease/",
       "pillar": "anime",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Legendary Final Fantasy artist Yoshitaka Amano says AI can't capture the soul of art",
-      "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
       "pillar": "gaming",
@@ -130,15 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "News Call of Duty: Black Ops 1 and 2 Will Get Native PS5 Versions",
-      "url": "https://www.pushsquare.com/news/2026/07/call-of-duty-black-ops-1-and-2-will-get-native-ps5-versions",
+      "title": "Onetime XBOX CEO Don Mattrick Once Suggested Adding A Real Money Auction House To Halo 4",
+      "url": "https://gameranx.com/updates/id/563347/article/onetime-xbox-ceo-don-mattrick-once-suggested-adding-a-real-money-auction-house-to-halo-4/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Pearl Abyss: Crimson Desert “Still Requires Optimization And Technical Verification” On Switch 2",
-      "url": "https://gameranx.com/updates/id/563345/article/pearl-abyss-crimson-desert-still-requires-optimization-and-technical-verification-on-switch-2/",
+      "title": "News Call of Duty: Black Ops 1 and 2 Will Get Native PS5 Versions",
+      "url": "https://www.pushsquare.com/news/2026/07/call-of-duty-black-ops-1-and-2-will-get-native-ps5-versions",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Big Preview I played The Blood of Dawnwalker for 4 hours, and this vampire RPG exceeds its Witcher 3 comparisons",
-      "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-big-preview-july-2026/",
+      "title": "Assassin's Creed Black Flag Resynced review: \"Far from smooth sailing, even though I love the original\"",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-review/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "IO Interactive Has Taken Back Project Fantasy, And Now Has To Lay Off Staff To Survive",
-      "url": "https://gameranx.com/updates/id/563343/article/io-interactive-has-taken-back-project-fantasy-and-now-has-to-lay-off-staff-to-survive/",
+      "title": "Pearl Abyss: Crimson Desert “Still Requires Optimization And Technical Verification” On Switch 2",
+      "url": "https://gameranx.com/updates/id/563345/article/pearl-abyss-crimson-desert-still-requires-optimization-and-technical-verification-on-switch-2/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
