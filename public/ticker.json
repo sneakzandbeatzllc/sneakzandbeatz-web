@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-13T21:18:56+00:00",
+  "generated_utc": "2026-07-13T21:52:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "My Chemical Romance Fans Ask Gerard Way If He’s Played Baldur’s Gate 3 , And Now Larian Is Involved",
+      "url": "https://kotaku.com/baldurs-gate-3-my-chemical-romance-gerard-way-larian-2000715363",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dragon's Dogma 2 fans had given up, but Capcom says Dark Arisen began six months after launch",
       "url": "https://www.gamesradar.com/games/rpg/dragons-dogma-2-fans-had-given-up-but-capcom-says-work-on-the-rpgs-dark-arisen-expansion-started-six-months-after-launch-to-answer-incredibly-passionate-feedback/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "News DOOM PS5 DLC Quietly Becomes One of 2026's Best-Rated Releases",
       "url": "https://www.pushsquare.com/news/2026/07/doom-ps5-dlc-quietly-becomes-one-of-2026s-best-rated-releases",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Avengers: Doomsday cast illustration gives first official look at the lineup facing Doom",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-cast-illustration/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
