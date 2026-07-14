@@ -1608,7 +1608,267 @@ GTA isn't just the biggest game on earth — it's a hip-hop artifact. Vice City'
 - [GamesRadar+ — switchable protagonists, in-game social media](https://www.gamesradar.com/games/grand-theft-auto/more-gta-6-features-may-have-been-leaked-by-amazon-switchable-protagonists-in-game-social-media-and-more/)
 - [ScreenRant — gameplay leak surfaces ahead of Trailer 3](https://screenrant.com/gta-6-gameplay-leak-june-2026/)
 - Surfaced via X "Today's News" (180+ posts) — Trailer 3 trending under Gaming`,
-  }
+  },
+  {
+    slug: "true-blue-3s-return",
+    pillar: "sneakers",
+    trendScore: 99,
+    heroFocus: "center",
+    title: "True Blue 3s Return Saturday After Ten Years",
+    headline: "Ten Years. One Saturday.\nTrue Blue Is Back.",
+    subhead:
+      "The Air Jordan 3 “True Blue” returns July 18 at $230 — first run in a decade, with the thinner ’88-style elephant print back on the panels. Here’s the cop-or-skip.",
+    description:
+      "The Air Jordan 3 True Blue drops July 18, 2026 at $230 — its first retro in ten years, with the thinner '88-style elephant print restored. Sneakz & Beatz on the return of the colorway that broke from Bulls colors.",
+    publishedAt: "2026-07-14",
+    goLiveAt: "2026-07-14",
+    keywords: [
+      "Air Jordan 3 True Blue",
+      "AJ3 True Blue 2026",
+      "True Blue 3s",
+      "Jordan 3 retro 2026",
+      "elephant print",
+      "Sneakz and Beatz",
+      "PHRHX",
+      "Jordan retro 2026",
+    ],
+    ogHeadline: "Ten years. One Saturday.\nTrue Blue is back.",
+    ogAccent: "1D4ED8",
+    body: `The Air Jordan 3 "True Blue" drops Saturday, July 18 — $230 on SNKRS, Foot Locker, Finish Line, Dick's, Hibbett, and Shiekh, full family sizing down to toddler. Ten years since the last run. If you were waiting on this one, the window is one morning.
+
+## The print is the story
+
+Jordan Brand went back to the thinner elephant print, closer to what Tinker put on the original '88 pair. Recent 3 retros ran the print thick and heavy; this one pulls it back toward the source material. Some early looks have people debating the blue hue against previous True Blue runs — it reads slightly different depending on the light, and the purists have takes. That argument is half the fun of a return like this.
+
+## The odd one out of '88
+
+True Blue is the outlier of the four original 1988 colorways. White Cement, Black Cement, and Fire Red all kept Chicago in the palette. True Blue broke from Bulls colors entirely — the first sign that the 3 was going to live as a design object beyond the uniform. That's why it holds a different kind of weight than the Cements: it was never about matching the man, it was about the shoe standing on its own.
+
+## Cop or skip at $230
+
+If you don't own a True Blue and you wear 3s, this is the version to own — OG-leaning print, family sizing, wide release. If you're holding an earlier pair in good shape, the hue debate might settle it for you. Either way, don't expect these to sit. Ten-year gaps move pairs.
+
+## What it means
+
+Retros like this are a test of who the shoe belongs to now. The '88 heads who remember it, or the kid catching it Saturday on SNKRS for the first time. The answer, as always: both. That's how [canon stays alive](/the-lane/air-jordan-7-miro-2026-return).
+
+Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.`,
+  },
+  {
+    slug: "sauce-walka-goku-dreamcon",
+    pillar: "anime",
+    trendScore: 97,
+    heroFocus: "center",
+    title: "Sauce Walka Did Goku at DreamCon",
+    headline: "Sauce Walka Did Goku\nat DreamCon.",
+    subhead:
+      "Full Goku fit, nunchucks on the con floor, an attempted Super Saiyan. The hair stayed black — the clip went everywhere anyway.",
+    description:
+      "Sauce Walka walked DreamCon 2026 in a full Goku cosplay, broke out nunchucks, and tried to go Super Saiyan on the floor. Sneakz & Beatz on trap-meets-shonen and why the anime-in-hip-hop era stopped being a secret.",
+    publishedAt: "2026-07-14",
+    goLiveAt: "2026-07-14",
+    keywords: [
+      "Sauce Walka Goku",
+      "DreamCon 2026",
+      "Sauce Walka cosplay",
+      "anime hip-hop",
+      "RDCWorld DreamCon",
+      "Houston rap",
+      "Sneakz and Beatz",
+      "PHRHX",
+    ],
+    ogHeadline: "Sauce Walka did Goku\nat DreamCon.",
+    ogAccent: "F97316",
+    body: `On the final day of DreamCon, Sauce Walka walked the George R. Brown floor in a full Goku fit, broke out nunchucks in front of the crowd, and attempted to go Super Saiyan on the spot. The hair stayed black. The clip went everywhere anyway.
+
+## The exact intersection this site exists for
+
+A Houston street-rap institution — TSF, grills, the whole legacy — showing up to the biggest Black-owned anime convention in America dressed as the most beloved character in shonen history, and committing to the bit with weapons work. Not a costume for a photo op. A performance.
+
+## The confession era is over
+
+Moments like this confirm the anime-in-hip-hop era stopped being a secret a long time ago. There was a stretch where rappers kept the Toonami upbringing quiet, like it undercut the persona. That's dead. Megan does Todoroki. Thugger referenced anime on features a decade ago. Now Sauce Walka — as street-certified as Houston rap gets — is doing kata on a convention floor and gaining respect for it, not losing any.
+
+## The venue is the point
+
+This didn't happen at a brand activation or an awards show. It happened at [DreamCon](/the-lane/dreamcon-2026-ownership), built by RDCWorld for a crowd that grew up on both Dragon Ball and Screwed Up Click tapes and never saw a contradiction. Sauce doing Goku there isn't a rapper visiting nerd culture. It's a man standing in his own demographic.
+
+## What it means
+
+The Venn diagram of trap and shonen was always a circle. The industry is just now catching up to what the audience knew in middle school.
+
+Built for the culture. Run by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.`,
+  },
+  {
+    slug: "spesh-jadakiss-jim-jones",
+    pillar: "hiphop",
+    trendScore: 96,
+    heroFocus: "center top",
+    title: "38 Spesh Turns a Missing Verse Into a War",
+    headline: "38 Spesh Turned a Missing Verse\nInto a War.",
+    subhead:
+      "A Jadakiss verse that never came became a jab, a Harlem warning, and now a four-front dispute with Fat Joe, Jim Jones, and DJ Khaled in the crossfire.",
+    description:
+      "38 Spesh vs the LOX–Dipset establishment: what started as a missing Jadakiss verse is now a four-front battle. Sneakz & Beatz breaks down the beef and why the best version ends in the booth.",
+    publishedAt: "2026-07-14",
+    goLiveAt: "2026-07-14",
+    keywords: [
+      "38 Spesh",
+      "Jadakiss",
+      "Jim Jones",
+      "Fat Joe",
+      "Aroma Jadakiss",
+      "East Coast rap beef 2026",
+      "Sneakz and Beatz",
+      "PHRHX",
+    ],
+    ogHeadline: "A missing verse\nbecame a war.",
+    ogAccent: "B91C1C",
+    body: `A missing verse became a jab on a record, became a warning from Harlem, and is now a four-front dispute. 38 Spesh versus the LOX–Dipset establishment is the most interesting thing happening in East Coast rap this week, and it's moving fast.
+
+## The sequence
+
+Spesh said on BagFuel that Jadakiss never delivered on the "Sunday School" record with Benny, and that Kiss has been ducking him since. Jadakiss answered on wax — "Aroma," debuted on the Joe and Jada podcast with Fat Joe and Stove God Cooks — with a line aimed straight at Spesh: "Is this about a verse or is this about a career?" Then Jim Jones stepped in with a warning. Now Spesh is back on BagFuel returning fire at Kiss, Joe, Jim, and DJ Khaled all at once.
+
+## Read the structure
+
+Spesh is the underground's technician — Trust Army, the Benny connection, a catalog built entirely on verses. Kiss's jab tried to frame him as a guy chasing relevance, but the framing cuts the other way: Spesh's whole career IS verses. Questioning whether it's "about a verse" to the most verse-committed rapper in the conversation is the kind of line that sounds like a win until you sit with it.
+
+## The Jim Jones wildcard
+
+Capo inserting himself is the variable. Jones has a documented habit of joining disputes adjacent to his circle, and every time he does, the story gets bigger but the original issue gets blurrier. The question worth asking: is this OGs protecting each other, or the old guard closing ranks against a technician who called out an unfinished obligation?
+
+## What it means
+
+The best version of this ends in the booth. Spesh already said the energy belongs on records. If "Aroma" was round one on wax, the culture wins if everybody keeps scoring points with bars instead of interviews. Watch this one.`,
+  },
+  {
+    slug: "black-ops-port-hacked",
+    pillar: "gaming",
+    trendScore: 94,
+    heroFocus: "center",
+    title: "The $40 Black Ops Port Is Already Broken",
+    headline: "The $40 Black Ops Port\nIs Already Broken.",
+    subhead:
+      "Days after launch, the re-released Black Ops is overrun with hackers wiping player ranks — and it still hit #1 on the PlayStation Store.",
+    description:
+      "Activision's $40 Black Ops re-release shipped with its 2010 security holes intact — hackers are wiping ranks and forcing playlists offline, yet it charted #1. Sneakz & Beatz on pre-sold nostalgia.",
+    publishedAt: "2026-07-14",
+    goLiveAt: "2026-07-14",
+    keywords: [
+      "Black Ops port",
+      "Call of Duty Black Ops re-release",
+      "Black Ops hackers",
+      "PlayStation Store",
+      "Activision 2026",
+      "Sneakz and Beatz",
+      "PHRHX",
+    ],
+    ogHeadline: "The $40 Black Ops port\nis already broken.",
+    ogAccent: "4B5563",
+    body: `Activision put the original Black Ops back on the PlayStation Store on July 9 — $40, PS4 and PS5, no DLC maps, no quality-of-life updates. Within days, players were calling the multiplayer unplayable. Not as a figure of speech. Hackers flooded the lobbies so thoroughly that Activision had to pull playlists offline.
+
+## The exploits are wild
+
+Cheaters can push negative XP onto other players, wiping accounts back to Level 1 — some players got locked out of multiplayer entirely. Meanwhile, modded lobbies let anyone join, self-destruct with a grenade, leave, and walk away max rank. A fifteen-year-old game shipped with its fifteen-year-old security holes fully intact, at full re-release price.
+
+## And it still charted
+
+Here's the part that explains why it'll happen again: the ports crashed the PlayStation Store at launch and shot to #1 and #2 on the charts. The demand was so real that the servers buckled before the hackers even got to work. Activision charged $40 for a 2010 hacking problem and the market said thank you.
+
+## Nobody's wrong for wanting it
+
+Black Ops multiplayer is one of the great online shooters ever made, and the nostalgia is earned — Nuketown alone justifies the pull. The problem is the effort gap. A port at this price with zero anti-cheat modernization is a bet that the memory will carry the product. So far the bet is paying out on the charts and failing in the lobbies.
+
+## What it means
+
+Publishers keep learning that our nostalgia is pre-sold. Until the buying stops or the standards rise, the ports will keep shipping broken — because broken, apparently, still charts. [More gaming from The Lane.](/the-lane/kingdom-hearts-d23)`,
+  },
+  {
+    slug: "dreamcon-2026-ownership",
+    pillar: "anime",
+    trendScore: 92,
+    heroFocus: "center",
+    title: "DreamCon 2026 Proved the Point Again",
+    headline: "DreamCon 2026\nProved the Point Again.",
+    subhead:
+      "30,000+ in Houston, Issa Rae on the main stage, a celebrity ball game on House of Highlights — RDCWorld's convention keeps compounding.",
+    description:
+      "DreamCon 2026 pulled 30,000+ to Houston with Issa Rae, a House of Highlights celebrity game, and a Gamerhood preview. Sneakz & Beatz on what ownership looks like in the creator economy.",
+    publishedAt: "2026-07-14",
+    goLiveAt: "2026-07-14",
+    keywords: [
+      "DreamCon 2026",
+      "RDCWorld",
+      "Issa Rae DreamCon",
+      "Black-owned anime convention",
+      "Gamerhood",
+      "Houston",
+      "Sneakz and Beatz",
+      "PHRHX",
+    ],
+    ogHeadline: "DreamCon proved\nthe point again.",
+    ogAccent: "2563EB",
+    body: `DreamCon ran July 10–12 at the George R. Brown Convention Center in Houston and pulled more than 30,000 people for its second year in the city. Issa Rae did a main-stage fireside — her first convention appearance of that kind. Cree Summer and Boondocks executive producer Carl Jones were in the building. Opening night featured a live Gamerhood Season 5 preview with Mark Phillips, Berleezy, and Krystalogy competing on stage.
+
+## When a creator con gets NBA treatment
+
+The celebrity basketball game — Team Mark versus Team YourRAGE — got full House of Highlights coverage, which is its own milestone: a creator-con exhibition game treated with the same production weight as an NBA highlight package. Roster drama included, since Mark had to publicly address leaving Plaqueboymax off his squad. Even the con's controversies are engagement now.
+
+## The frame that matters
+
+RDCWorld built DreamCon because established conventions turned them away — the group has said they were rejected from hosting meet-and-greets because they didn't fit the mold. Eight years later they own the largest Black-owned anime and gaming convention in the country, one that pulls Emmy-nominated talent, national sports media, and 30,000 badge holders to downtown Houston. That's not a feel-good subplot. That's the whole story.
+
+## Build the table
+
+Every year DreamCon grows, the lesson compounds: when the culture gets denied a seat, the move isn't to keep asking. It's to build the table, own the building, and let the industry request an invite. The receipts are in the attendance numbers — the same energy [Sauce Walka brought to the floor in a Goku fit](/the-lane/sauce-walka-goku-dreamcon).
+
+## What it means
+
+DreamCon is what ownership looks like in the creator economy — not a brand deal, not a partnership, a deed.`,
+  },
+  {
+    slug: "kingdom-hearts-d23",
+    pillar: "gaming",
+    trendScore: 90,
+    heroFocus: "center top",
+    title: "Kingdom Hearts Gets a D23 Deep Dive",
+    headline: "Kingdom Hearts Gets\na D23 Deep Dive.",
+    subhead:
+      "A dedicated KH panel hits D23 on August 15 for the 25th anniversary — and KH4 still doesn't have a date. Read the signals.",
+    description:
+      "Disney set a 'Deep Dive into Kingdom Hearts' panel for D23 on August 15, the franchise's 25th anniversary, with KH4 still undated. Sneakz & Beatz reads the signals pointing to a reveal.",
+    publishedAt: "2026-07-14",
+    goLiveAt: "2026-07-14",
+    keywords: [
+      "Kingdom Hearts D23",
+      "Kingdom Hearts 4",
+      "KH4 release date",
+      "D23 2026",
+      "Kingdom Hearts 25th anniversary",
+      "Sneakz and Beatz",
+      "PHRHX",
+    ],
+    ogHeadline: "Kingdom Hearts gets\na D23 deep dive.",
+    ogAccent: "64748B",
+    body: `Disney confirmed a "Deep Dive into Kingdom Hearts" panel for D23 — Saturday, August 15, 4:30 PM PT, Backlot Stage at the Anaheim Convention Center — timed to the franchise's 25th anniversary. For a series that communicates in silence and cryptic trailers, a dedicated hour on Disney's biggest stage is a loud signal.
+
+## The context makes it louder
+
+Kingdom Hearts 4 was announced in 2022 and then went quiet for years — no date, minimal footage, the usual Nomura information diet. This year it was confirmed for Switch 2, still without a window. Meanwhile the Kingdom Hearts 1–3 collection lands on PS5 this October, which reads like a franchise clearing the runway: get the full catalog on current hardware, remind everyone why they care, then drop the date.
+
+## The bet on August 15
+
+Disney doesn't hand a panel slot to a "deep dive" retrospective with nothing at the end of it. A 25th anniversary, a catalog re-release one month later, and a sequel four years announced — the pieces are arranged for a reveal. Whether it's a full release date, a new trailer, or the Quadratum gameplay everyone's been starving for, something ships out of that room.
+
+## Why this audience cares
+
+KH has always been a special case: the franchise that made a whole generation take "Disney characters plus anime swordplay" seriously, with a battle system that influenced a decade of action RPGs and a story that requires a corkboard. Twenty-five years in, its fanbase hasn't shrunk — it's just been waiting.
+
+## What it means
+
+August 15, 4:30 PM PT. If KH4 gets its date, it's the biggest gaming story of the summer. If it doesn't, Nomura has trolled us on Disney's own stage — which, honestly, would also be canon.`,
+  },
 ];
 
 // --- Scheduled publishing -------------------------------------------------
