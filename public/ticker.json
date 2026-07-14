@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-13T23:55:45+00:00",
+  "generated_utc": "2026-07-14T00:23:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "5 Anime Characters Who Could Actually Beat Dragon Ball's Zeno",
-      "url": "https://screenrant.com/anime-characters-could-beat-dragon-ball-super-zeno/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "4 Years After Gear 5, One Piece's Luffy Finally Unlocks A New Form",
       "url": "https://screenrant.com/one-piece-luffy-new-form-gum-gum-genie/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "This 16-year-in-the-making anime is finally coming to Crunchyroll",
       "url": "https://www.polygon.com/psyren-anime-crunchyroll-release-trailer-16-years/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "6 Beloved Retro Anime That Are Still Going Strong",
+      "url": "https://screenrant.com/best-retro-anime-continue-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

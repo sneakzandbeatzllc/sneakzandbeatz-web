@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-13T23:55:45+00:00",
+  "generated_utc": "2026-07-14T00:23:46+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "8bb004df99f2",
-      "pillar": "anime",
-      "title": "5 Anime Characters Who Could Actually Beat Dragon Ball's Zeno",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/anime-characters-could-beat-dragon-ball-super-zeno/",
-      "thumbnail": "/drops/thumbs/8bb004df99f2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3c80042beb95",
       "pillar": "anime",
       "title": "4 Years After Gear 5, One Piece's Luffy Finally Unlocks A New Form",
@@ -165,6 +153,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/psyren-anime-crunchyroll-release-trailer-16-years/",
       "thumbnail": "/drops/thumbs/9f85a8f5598f.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "066b55c0572b",
+      "pillar": "anime",
+      "title": "6 Beloved Retro Anime That Are Still Going Strong",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-retro-anime-continue-2026/",
+      "thumbnail": "/drops/thumbs/066b55c0572b.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "8a4907b2d7ce",
     "14a0fb6b80e3",
-    "8bb004df99f2",
+    "3c80042beb95",
     "6f835bbe3ddc",
     "0648ce518126"
   ]
