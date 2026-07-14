@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-14T03:41:52+00:00",
+  "generated_utc": "2026-07-14T04:13:37+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -12,18 +12,6 @@
       "published": "2026-07-12T01:08:42",
       "relative_time": "today",
       "score": 7.5,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "8a4907b2d7ce",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 Gets a “Legion Pine” Color for 2026’s Bin 23 Series",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-bin-23-io2053-300/",
-      "thumbnail": "/drops/thumbs/8a4907b2d7ce.webp",
-      "published": "2026-07-09T17:17:46",
-      "relative_time": "today",
-      "score": 5.0,
       "release_badge": "🔥 Banger"
     },
     {
@@ -99,6 +87,30 @@
       "release_badge": ""
     },
     {
+      "id": "7a92cd8da621",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 “Space Jam” Returns December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
+      "thumbnail": "/drops/thumbs/7a92cd8da621.jpg",
+      "published": "2026-07-10T16:16:29",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4f0857bc6bca",
+      "pillar": "anime",
+      "title": "Solo Leveling Is Now The Biggest Challenger To Demon Slayer's Throne",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-beyond-system-movie-biggest-challenge-demon-slayer-throne/",
+      "thumbnail": "/drops/thumbs/4f0857bc6bca.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3c80042beb95",
       "pillar": "anime",
       "title": "4 Years After Gear 5, One Piece's Luffy Finally Unlocks A New Form",
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "066b55c0572b",
-      "pillar": "anime",
-      "title": "6 Beloved Retro Anime That Are Still Going Strong",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-retro-anime-continue-2026/",
-      "thumbnail": "/drops/thumbs/066b55c0572b.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "29b914cd6d23",
       "pillar": "anime",
       "title": "How to Grill Our Love Manga Ends",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "ce6c8e49516e",
+      "id": "066b55c0572b",
       "pillar": "anime",
-      "title": "5 Most Iconic Anime Cyborgs",
+      "title": "6 Beloved Retro Anime That Are Still Going Strong",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/most-iconic-anime-cyborgs/",
-      "thumbnail": "/drops/thumbs/ce6c8e49516e.jpg",
+      "source_url": "https://screenrant.com/best-retro-anime-continue-2026/",
+      "thumbnail": "/drops/thumbs/066b55c0572b.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "7de612490f99",
-    "8a4907b2d7ce",
     "14a0fb6b80e3",
-    "3c80042beb95",
     "6f835bbe3ddc",
+    "4f0857bc6bca",
+    "796e1bf65859",
     "0648ce518126"
   ]
 }

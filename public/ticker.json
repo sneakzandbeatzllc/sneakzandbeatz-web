@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-14T03:41:52+00:00",
+  "generated_utc": "2026-07-14T04:13:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,13 +8,6 @@
       "url": "https://www.sneakerfiles.com/air-jordan-8-bin-23/",
       "pillar": "sneakers",
       "score": 7.5,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 8 Gets a “Legion Pine” Color for 2026’s Bin 23 Series",
-      "url": "https://justfreshkicks.com/air-jordan-8-bin-23-io2053-300/",
-      "pillar": "sneakers",
-      "score": 5.0,
       "article_slug": null
     },
     {
@@ -60,6 +53,20 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 11 “Space Jam” Returns December 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Solo Leveling Is Now The Biggest Challenger To Demon Slayer's Throne",
+      "url": "https://screenrant.com/solo-leveling-beyond-system-movie-biggest-challenge-demon-slayer-throne/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "4 Years After Gear 5, One Piece's Luffy Finally Unlocks A New Form",
       "url": "https://screenrant.com/one-piece-luffy-new-form-gum-gum-genie/",
       "pillar": "anime",
@@ -95,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "6 Beloved Retro Anime That Are Still Going Strong",
-      "url": "https://screenrant.com/best-retro-anime-continue-2026/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "How to Grill Our Love Manga Ends",
       "url": "https://www.animenewsnetwork.com/news/2026-07-13/how-to-grill-our-love-manga-ends/.239566",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "5 Most Iconic Anime Cyborgs",
-      "url": "https://screenrant.com/most-iconic-anime-cyborgs/",
+      "title": "6 Beloved Retro Anime That Are Still Going Strong",
+      "url": "https://screenrant.com/best-retro-anime-continue-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
