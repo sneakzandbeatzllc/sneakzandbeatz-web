@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-14T10:58:57+00:00",
+  "generated_utc": "2026-07-14T11:59:39+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "ef4eeb27e9f9",
+      "pillar": "gaming",
+      "title": "GTA 6 isn't coming to PC at launch, but not because Rockstar doesn't \"care about PC,\" says GTA 5 dev 14 Comments",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-coming-to-pc-at-launch-but-not-because-rockstar-doesnt-care-about-pc-says-gta-5-producer-if-youre-working-on-that-youre-not-working-on-something-else/",
+      "thumbnail": "/drops/thumbs/ef4eeb27e9f9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0648ce518126",
       "pillar": "gaming",
       "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
@@ -219,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "01d1b594da8f",
-      "pillar": "gaming",
-      "title": "Dragon's Dogma 2 fans had given up, but Capcom says Dark Arisen began six months after launch",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/dragons-dogma-2-fans-had-given-up-but-capcom-says-work-on-the-rpgs-dark-arisen-expansion-started-six-months-after-launch-to-answer-incredibly-passionate-feedback/",
-      "thumbnail": "/drops/thumbs/01d1b594da8f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2a23d513c138",
       "pillar": "gaming",
       "title": "News PS5's Call of Duty: Black Ops Port Reportedly Riddled with Hackers",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/07/ps5s-call-of-duty-black-ops-port-reportedly-riddled-with-hackers",
       "thumbnail": "/drops/thumbs/2a23d513c138.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "013bbf095a14",
+      "pillar": "gaming",
+      "title": "Hopes That Criterion Games Will Return To Burnout Ends: “We Are Solely Focused On Battlefield”",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563411/article/hopes-that-criterion-games-will-return-to-burnout-ends-we-are-solely-focused-on-battlefield/",
+      "thumbnail": "/drops/thumbs/013bbf095a14.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,24 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "f505c5608a78",
+      "id": "1619855a71e4",
       "pillar": "gaming",
-      "title": "News Mouse: P.I. For Hire Surpasses One Million Copies Sold as It Launches Physical Edition on PS5",
+      "title": "News Monster Hunter Wilds Gets Permanent Price Cut Next Month Alongside 'Streamlined' Digital Editions",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/mouse-p-i-for-hire-surpasses-one-million-copies-sold-as-it-launches-physical-edition-on-ps5",
-      "thumbnail": "/drops/thumbs/f505c5608a78.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "905f49889519",
-      "pillar": "gaming",
-      "title": "Former Sony Exec Claims Publishers Price Their Games On PlayStation – But There’s A Lawsuit That Says Otherwise",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563408/article/former-sony-exec-claims-publishers-price-their-games-on-playstation-but-theres-a-lawsuit-that-says-otherwise/",
-      "thumbnail": null,
+      "source_url": "https://www.pushsquare.com/news/2026/07/monster-hunter-wilds-gets-permanent-price-cut-next-month-alongside-streamlined-digital-editions",
+      "thumbnail": "/drops/thumbs/1619855a71e4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "6f835bbe3ddc",
     "4f0857bc6bca",
     "796e1bf65859",
-    "0648ce518126"
+    "ef4eeb27e9f9"
   ]
 }
