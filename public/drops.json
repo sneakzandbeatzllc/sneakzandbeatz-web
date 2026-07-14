@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-14T07:28:41+00:00",
+  "generated_utc": "2026-07-14T09:29:33+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "4a7326105b80",
+      "id": "a983e2c2bb00",
       "pillar": "anime",
-      "title": "Flaming Dodgeball Girl Danko Anime Casts Noriko Hidaka, Misato Fukuen",
+      "title": "From Far Away TV Anime's Teaser Video Reveals Main Cast & Staff Members, October 4 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-14/flaming-dodgeball-girl-danko-anime-casts-noriko-hidaka-misato-fukuen/.239571",
-      "thumbnail": "/drops/thumbs/4a7326105b80.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-14/from-far-away-tv-anime-teaser-video-reveals-main-cast-and-staff-members-october-4-debut/.239580",
+      "thumbnail": "/drops/thumbs/a983e2c2bb00.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "232e585dbc56",
+      "id": "4a7326105b80",
       "pillar": "anime",
-      "title": "ippatu's Tsugumi Project Manga Gets TV Anime",
+      "title": "Flaming Dodgeball Girl Danko Anime Casts Noriko Hidaka, Misato Fukuen",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-14/ippatu-tsugumi-project-manga-gets-tv-anime/.239577",
-      "thumbnail": "/drops/thumbs/232e585dbc56.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-14/flaming-dodgeball-girl-danko-anime-casts-noriko-hidaka-misato-fukuen/.239571",
+      "thumbnail": "/drops/thumbs/4a7326105b80.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "459bc7aada8a",
+      "id": "232e585dbc56",
       "pillar": "anime",
-      "title": "Aguri Kurita's Midari ni Tsukasete wa Narimasen Manga Ends",
+      "title": "ippatu's Tsugumi Project Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-13/aguri-kurita-midari-ni-tsukasete-wa-narimasen-manga-ends/.239546",
-      "thumbnail": "/drops/thumbs/459bc7aada8a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-14/ippatu-tsugumi-project-manga-gets-tv-anime/.239577",
+      "thumbnail": "/drops/thumbs/232e585dbc56.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "826fe7433b8b",
-      "pillar": "gaming",
-      "title": "Spider-Man: Brand New Day producer says her \"dream\" is a new trilogy, but they're taking it \"one movie at a time\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-producer-says-her-dream-is-a-new-trilogy-but-theyre-taking-it-one-movie-at-a-time/",
-      "thumbnail": "/drops/thumbs/826fe7433b8b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2a23d513c138",
       "pillar": "gaming",
       "title": "News PS5's Call of Duty: Black Ops Port Reportedly Riddled with Hackers",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "e46ea45762be",
+      "id": "7b6a78e5a0d3",
       "pillar": "gaming",
-      "title": "Avengers: Doomsday cast illustration gives first official look at the lineup facing Doom",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-cast-illustration/",
-      "thumbnail": "/drops/thumbs/e46ea45762be.jpg",
+      "title": "Startup Claims They Have Built UHD Blu-Ray’s Successor, Just As PlayStation Ends Making Physical Games",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563400/article/startup-claims-they-have-built-uhd-blu-rays-successor-just-as-playstation-ends-making-physical-games/",
+      "thumbnail": "/drops/thumbs/7b6a78e5a0d3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "30a00ded8e68",
+      "pillar": "gaming",
+      "title": "Games Done Quick Cancels SNK Sponsorship Live On Stream Following ‘Human Rights Concerns’ Raised By Fans",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/games-done-quick-gdq-metal-slug-snk-saudi-arabia-stream-2000715188",
+      "thumbnail": "/drops/thumbs/30a00ded8e68.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
