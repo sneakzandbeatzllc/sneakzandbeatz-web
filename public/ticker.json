@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-19T15:37:50+00:00",
+  "generated_utc": "2026-07-19T16:35:23+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Forget Dragon Ball, Naruto's Creator Just Revealed The Anime's True Inspiration",
+      "url": "https://screenrant.com/naruto-spider-man-inspiration-not-dragon-ball/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jujutsu Kaisen Ranks #1 on Bookscan's June Adult Graphic Novel List in U.S.",
       "url": "https://www.animenewsnetwork.com/news/2026-07-19/jujutsu-kaisen-ranks-no.1-on-bookscan-june-adult-graphic-novel-list-in-u.s/.239750",
       "pillar": "anime",
@@ -67,15 +74,22 @@
       "article_slug": null
     },
     {
-      "title": "5 Naruto Villain Designs That Are 10/10 Perfect",
-      "url": "https://screenrant.com/best-naruto-villain-design-perfect/",
+      "title": "Bleach Mirrors High Mobile Game's Trailer Reveals 3 New Characters",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-19/bleach-mirrors-high-mobile-game-trailer-reveals-3-new-characters/.239749",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Bleach Mirrors High Mobile Game's Trailer Reveals 3 New Characters",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-19/bleach-mirrors-high-mobile-game-trailer-reveals-3-new-characters/.239749",
+      "title": "12 Years Later, Gon And Killua Are Finally Back In Hunter x Hunter",
+      "url": "https://screenrant.com/hunter-x-hunter-gon-killua-return/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "5 Naruto Villain Designs That Are 10/10 Perfect",
+      "url": "https://screenrant.com/best-naruto-villain-design-perfect/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Niichi's Sometimes Even Reality Is a Lie! Manga Gets TV Anime in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-19/niichi-sometimes-even-reality-is-a-lie-manga-gets-tv-anime-in-2027/.239775",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "5 Anime Tournament Arcs That Are Considered Masterpieces",
-      "url": "https://screenrant.com/anime-tournament-arcs-considered-masterpieces/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/where-to-pre-order-gta-6/",
       "pillar": "gaming",
@@ -125,6 +125,13 @@
     {
       "title": "The GTA 6 Hacker Is Facing Retrial After His Indefinite Hospital Order Has Been Lifted",
       "url": "https://gameranx.com/updates/id/563457/article/the-gta-6-hacker-is-facing-retrial-after-his-indefinite-hospital-order-has-been-lifted/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "How The PS2 Hardware And Lord Of The Rings Shaped The Development Of Final Fantasy 10",
+      "url": "https://kotaku.com/how-the-ps2-hardware-and-lord-of-the-rings-shaped-the-development-of-final-fantasy-10-2000717487",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "News Two of PS5's Biggest Games Will Crossover This Winter",
       "url": "https://www.pushsquare.com/news/2026/07/two-of-ps5s-biggest-games-will-crossover-this-winter",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Please Stop Recommending Mushoku Tensei",
-      "url": "https://kotaku.com/mushoku-tensei-anime-groomer-isekai-eris-rudeus-2000717238",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
