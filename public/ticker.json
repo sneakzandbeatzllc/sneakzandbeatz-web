@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-19T17:36:16+00:00",
+  "generated_utc": "2026-07-19T19:05:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Feature Going Platinum: It Was a Pleasure to Grind Returnal for That RNG Trophy",
+      "url": "https://www.pushsquare.com/features/going-platinum-it-was-a-pleasure-to-grind-returnal-for-that-rng-trophy",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "How The PS2 Hardware And Lord Of The Rings Shaped The Development Of Final Fantasy 10",
       "url": "https://kotaku.com/how-the-ps2-hardware-and-lord-of-the-rings-shaped-the-development-of-final-fantasy-10-2000717487",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Doom: The Dark Ages Director Hugo Martin Denies id Software Has Been “Nerfed Into The Ground And Gutted”",
       "url": "https://gameranx.com/updates/id/563455/article/doom-the-dark-ages-director-hugo-martin-denies-id-software-has-been-nerfed-into-the-ground-and-gutted/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Two of PS5's Biggest Games Will Crossover This Winter",
-      "url": "https://www.pushsquare.com/news/2026/07/two-of-ps5s-biggest-games-will-crossover-this-winter",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
