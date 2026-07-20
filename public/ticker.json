@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T19:57:20+00:00",
+  "generated_utc": "2026-07-20T20:03:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-8-bin-23/",
       "pillar": "sneakers",
       "score": 7.5,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "pillar": "sneakers",
+      "score": 5.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 MCS “Jackie Robinson” Releases Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-mcs-jackie-robinson-cleats/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null

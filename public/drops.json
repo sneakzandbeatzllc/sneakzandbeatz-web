@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T19:57:20+00:00",
+  "generated_utc": "2026-07-20T20:03:29+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -12,6 +12,18 @@
       "published": "2026-07-12T01:08:42",
       "relative_time": "today",
       "score": 7.5,
+      "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "69fe11c3a7e6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 PRM \"BIN 23\"",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
+      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
       "release_badge": "🔥 Banger"
     },
     {
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
       "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
       "published": "2026-07-12T14:20:24",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9ae7353f2839",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 MCS “Jackie Robinson” Releases Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-mcs-jackie-robinson-cleats/",
-      "thumbnail": "/drops/thumbs/9ae7353f2839.jpg",
-      "published": "2026-07-11T15:28:20",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "7de612490f99",
+    "69fe11c3a7e6",
     "3b30e64441e8",
-    "14a0fb6b80e3",
     "3907a9ff0397",
-    "796e1bf65859",
+    "14a0fb6b80e3",
     "ecec8f64ffdb"
   ]
 }
