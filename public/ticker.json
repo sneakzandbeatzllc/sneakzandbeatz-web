@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T03:41:55+00:00",
+  "generated_utc": "2026-07-20T04:42:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "12 Years Later, Gon And Killua Are Finally Back In Hunter x Hunter",
-      "url": "https://screenrant.com/hunter-x-hunter-gon-killua-return/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 best anime to watch if you love The Odyssey (#4 is a near-perfect masterpiece)",
       "url": "https://www.polygon.com/best-anime-like-the-odyssey/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Chainsmoker Cat understands the impossible math of addiction",
       "url": "https://www.polygon.com/chainsmoker-cat-addiction-and-poverty/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sweetness & Lightning Creator Gido Amagakure's Yurayura Q Comedy Manga Gets TV Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-20/sweetness-and-lightning-creator-gido-amagakure-yurayura-q-comedy-manga-gets-tv-anime/.239784",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
