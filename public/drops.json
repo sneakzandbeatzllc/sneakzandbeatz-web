@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T20:53:51+00:00",
+  "generated_utc": "2026-07-20T21:00:47+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "ed744e7a287b",
+      "pillar": "gaming",
+      "title": "News Promising PS5 RPG The Blood of Dawnwalker Pulls a Mass Effect with Save Data Transfers to Future Games",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/promising-ps5-rpg-the-blood-of-dawnwalker-pulls-a-mass-effect-with-save-data-transfers-to-future-games",
+      "thumbnail": "/drops/thumbs/ed744e7a287b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "27c667337fd3",
       "pillar": "gaming",
       "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
@@ -225,18 +237,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/07/green-goblin-joins-marvel-tokons-stacked-open-beta-on-ps5-pc",
       "thumbnail": "/drops/thumbs/506c46932ccd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "92ec3728b1b6",
-      "pillar": "gaming",
-      "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
-      "thumbnail": "/drops/thumbs/92ec3728b1b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "14a0fb6b80e3",
     "3907a9ff0397",
     "796e1bf65859",
-    "27c667337fd3"
+    "ed744e7a287b"
   ]
 }
