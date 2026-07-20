@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T22:59:09+00:00",
+  "generated_utc": "2026-07-20T23:06:25+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "27c667337fd3",
-      "pillar": "gaming",
-      "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
-      "thumbnail": "/drops/thumbs/27c667337fd3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "506c46932ccd",
       "pillar": "gaming",
       "title": "News Green Goblin Joins Marvel Tokon's Stacked Open Beta on PS5, PC",
@@ -267,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "23f0785a7b48",
+      "pillar": "gaming",
+      "title": "News Give Call of Duty: Modern Warfare 4 a Go in Its PS5 Beta Next Month",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/give-call-of-duty-modern-warfare-4-a-go-in-its-ps5-beta-next-month",
+      "thumbnail": "/drops/thumbs/23f0785a7b48.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "73e8acb157b6",
       "pillar": "gaming",
       "title": "GOG Is Still Figuring Out How To Add Online Games Like Destiny & Monster Hunter To Their Preservation Program",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "23f0785a7b48",
+      "id": "e44a51fee8e3",
       "pillar": "gaming",
-      "title": "News Give Call of Duty: Modern Warfare 4 a Go in Its PS5 Beta Next Month",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/give-call-of-duty-modern-warfare-4-a-go-in-its-ps5-beta-next-month",
-      "thumbnail": "/drops/thumbs/23f0785a7b48.jpg",
+      "title": "Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
+      "thumbnail": "/drops/thumbs/e44a51fee8e3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

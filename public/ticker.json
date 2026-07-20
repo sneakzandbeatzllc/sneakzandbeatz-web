@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T22:59:09+00:00",
+  "generated_utc": "2026-07-20T23:06:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
-      "url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Green Goblin Joins Marvel Tokon's Stacked Open Beta on PS5, PC",
       "url": "https://www.pushsquare.com/news/2026/07/green-goblin-joins-marvel-tokons-stacked-open-beta-on-ps5-pc",
       "pillar": "gaming",
@@ -158,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "News Give Call of Duty: Modern Warfare 4 a Go in Its PS5 Beta Next Month",
+      "url": "https://www.pushsquare.com/news/2026/07/give-call-of-duty-modern-warfare-4-a-go-in-its-ps5-beta-next-month",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "GOG Is Still Figuring Out How To Add Online Games Like Destiny & Monster Hunter To Their Preservation Program",
       "url": "https://gameranx.com/updates/id/563461/article/gog-is-still-figuring-out-how-to-add-online-games-like-destiny-monster-hunter-to-their-preservation-program/",
       "pillar": "gaming",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "News Give Call of Duty: Modern Warfare 4 a Go in Its PS5 Beta Next Month",
-      "url": "https://www.pushsquare.com/news/2026/07/give-call-of-duty-modern-warfare-4-a-go-in-its-ps5-beta-next-month",
+      "title": "Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’",
+      "url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
