@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T20:03:29+00:00",
+  "generated_utc": "2026-07-20T20:36:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,13 +8,6 @@
       "url": "https://www.sneakerfiles.com/air-jordan-8-bin-23/",
       "pillar": "sneakers",
       "score": 7.5,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "pillar": "sneakers",
-      "score": 5.0,
       "article_slug": null
     },
     {
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 4 MCS “Jackie Robinson” Releases Summer 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-mcs-jackie-robinson-cleats/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Tokyo Revengers: War of the Three Titans Arc Reveals Opening Song by Boy Band JO1",
       "url": "https://www.animenewsnetwork.com/news/2026-07-20/tokyo-revengers-war-of-the-three-titans-arc-reveals-opening-song-by-boy-band-jo1/.239791",
       "pillar": "anime",
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Anime NYC Screens World Premiere of Magical Buffs: The Support Caster is Stronger Than He Realized! Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-20/anime-nyc-screens-world-premiere-of-magical-buffs-the-support-caster-is-stronger-than-he-realized-/.239799",
+      "title": "We Are Aliens Anime Film Screens at Film Festivals in Canada, Australia, New Zealand in 2026",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-20/we-are-aliens-anime-film-screens-at-film-festivals-in-canada-australia-new-zealand-in-2026/.239771",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Sakamoto Days Manga Heads to Climax",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-20/sakamoto-days-manga-heads-to-climax/.239785",
+      "title": "Anime NYC Screens World Premiere of Magical Buffs: The Support Caster is Stronger Than He Realized! Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-20/anime-nyc-screens-world-premiere-of-magical-buffs-the-support-caster-is-stronger-than-he-realized-/.239799",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -116,15 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "News 'Please Play When GTA 6 Comes Out': AC Black Flag Resynced Will Add New Features to Keep You Aboard",
-      "url": "https://www.pushsquare.com/news/2026/07/please-play-when-gta-6-comes-out-ac-black-flag-resynced-will-add-new-features-to-keep-you-aboard",
+      "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
+      "url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
-      "url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
+      "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
+      "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "The Internet Reacts To The First Avengers: Doomsday Trailer: ‘It’s Literally Just Things Happening With No Buildup’",
-      "url": "https://kotaku.com/the-internet-reacts-to-the-first-avengers-doomsday-trailer-its-literally-just-things-happening-with-no-buildup-2000717646",
+      "title": "Nier: Automata’ s Director Is Sad About PlayStation Discs, Too: ‘Don’t Assume Your Parents And Physical Media Will Always Be There’",
+      "url": "https://kotaku.com/nier-automatas-director-is-sad-about-playstation-discs-too-dont-assume-your-parents-and-physical-media-will-always-be-there-2000717751",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

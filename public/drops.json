@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T20:03:29+00:00",
+  "generated_utc": "2026-07-20T20:36:45+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -12,18 +12,6 @@
       "published": "2026-07-12T01:08:42",
       "relative_time": "today",
       "score": 7.5,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "69fe11c3a7e6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 PRM \"BIN 23\"",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-prm-bin-23-iq5497-200-drop/",
-      "thumbnail": "/drops/thumbs/69fe11c3a7e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
       "release_badge": "🔥 Banger"
     },
     {
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "9ae7353f2839",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 MCS “Jackie Robinson” Releases Summer 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-mcs-jackie-robinson-cleats/",
+      "thumbnail": "/drops/thumbs/9ae7353f2839.jpg",
+      "published": "2026-07-11T15:28:20",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "3907a9ff0397",
       "pillar": "anime",
       "title": "Tokyo Revengers: War of the Three Titans Arc Reveals Opening Song by Boy Band JO1",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "bfef34567d18",
+      "id": "6186b9ad21c7",
       "pillar": "anime",
-      "title": "Anime NYC Screens World Premiere of Magical Buffs: The Support Caster is Stronger Than He Realized! Anime",
+      "title": "We Are Aliens Anime Film Screens at Film Festivals in Canada, Australia, New Zealand in 2026",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/anime-nyc-screens-world-premiere-of-magical-buffs-the-support-caster-is-stronger-than-he-realized-/.239799",
-      "thumbnail": "/drops/thumbs/bfef34567d18.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/we-are-aliens-anime-film-screens-at-film-festivals-in-canada-australia-new-zealand-in-2026/.239771",
+      "thumbnail": "/drops/thumbs/6186b9ad21c7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "02ece15d7fd5",
+      "id": "bfef34567d18",
       "pillar": "anime",
-      "title": "Sakamoto Days Manga Heads to Climax",
+      "title": "Anime NYC Screens World Premiere of Magical Buffs: The Support Caster is Stronger Than He Realized! Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/sakamoto-days-manga-heads-to-climax/.239785",
-      "thumbnail": "/drops/thumbs/02ece15d7fd5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/anime-nyc-screens-world-premiere-of-magical-buffs-the-support-caster-is-stronger-than-he-realized-/.239799",
+      "thumbnail": "/drops/thumbs/bfef34567d18.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "ecec8f64ffdb",
-      "pillar": "gaming",
-      "title": "News 'Please Play When GTA 6 Comes Out': AC Black Flag Resynced Will Add New Features to Keep You Aboard",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/please-play-when-gta-6-comes-out-ac-black-flag-resynced-will-add-new-features-to-keep-you-aboard",
-      "thumbnail": "/drops/thumbs/ecec8f64ffdb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "27c667337fd3",
       "pillar": "gaming",
       "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
       "thumbnail": "/drops/thumbs/27c667337fd3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "92ec3728b1b6",
+      "pillar": "gaming",
+      "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
+      "thumbnail": "/drops/thumbs/92ec3728b1b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "4a885bda5c95",
+      "id": "491ff7c0bb99",
       "pillar": "gaming",
-      "title": "The Internet Reacts To The First Avengers: Doomsday Trailer: ‘It’s Literally Just Things Happening With No Buildup’",
+      "title": "Nier: Automata’ s Director Is Sad About PlayStation Discs, Too: ‘Don’t Assume Your Parents And Physical Media Will Always Be There’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-internet-reacts-to-the-first-avengers-doomsday-trailer-its-literally-just-things-happening-with-no-buildup-2000717646",
-      "thumbnail": "/drops/thumbs/4a885bda5c95.jpg",
+      "source_url": "https://kotaku.com/nier-automatas-director-is-sad-about-playstation-discs-too-dont-assume-your-parents-and-physical-media-will-always-be-there-2000717751",
+      "thumbnail": "/drops/thumbs/491ff7c0bb99.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "7de612490f99",
-    "69fe11c3a7e6",
     "3b30e64441e8",
-    "3907a9ff0397",
     "14a0fb6b80e3",
-    "ecec8f64ffdb"
+    "3907a9ff0397",
+    "796e1bf65859",
+    "27c667337fd3"
   ]
 }
