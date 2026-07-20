@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T21:00:47+00:00",
+  "generated_utc": "2026-07-20T21:40:19+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "6186b9ad21c7",
+      "id": "f04e86864f01",
       "pillar": "anime",
-      "title": "We Are Aliens Anime Film Screens at Film Festivals in Canada, Australia, New Zealand in 2026",
+      "title": "Drawn Deep Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/we-are-aliens-anime-film-screens-at-film-festivals-in-canada-australia-new-zealand-in-2026/.239771",
-      "thumbnail": "/drops/thumbs/6186b9ad21c7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/drawn-deep-manga-ends/.239780",
+      "thumbnail": "/drops/thumbs/f04e86864f01.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "bfef34567d18",
+      "id": "6186b9ad21c7",
       "pillar": "anime",
-      "title": "Anime NYC Screens World Premiere of Magical Buffs: The Support Caster is Stronger Than He Realized! Anime",
+      "title": "We Are Aliens Anime Film Screens at Film Festivals in Canada, Australia, New Zealand in 2026",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/anime-nyc-screens-world-premiere-of-magical-buffs-the-support-caster-is-stronger-than-he-realized-/.239799",
-      "thumbnail": "/drops/thumbs/bfef34567d18.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/we-are-aliens-anime-film-screens-at-film-festivals-in-canada-australia-new-zealand-in-2026/.239771",
+      "thumbnail": "/drops/thumbs/6186b9ad21c7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,18 +213,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
       "thumbnail": "/drops/thumbs/27c667337fd3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "97a0aaed4a50",
-      "pillar": "gaming",
-      "title": "That’s…Not Injustice 3 , DC",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/dcko-dc-fighting-game-injustice-3-free-to-play-mobile-2000717764",
-      "thumbnail": "/drops/thumbs/97a0aaed4a50.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563461/article/gog-is-still-figuring-out-how-to-add-online-games-like-destiny-monster-hunter-to-their-preservation-program/",
       "thumbnail": "/drops/thumbs/73e8acb157b6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "23f0785a7b48",
+      "pillar": "gaming",
+      "title": "News Give Call of Duty: Modern Warfare 4 a Go in Its PS5 Beta Next Month",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/give-call-of-duty-modern-warfare-4-a-go-in-its-ps5-beta-next-month",
+      "thumbnail": "/drops/thumbs/23f0785a7b48.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
