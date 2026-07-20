@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T10:42:50+00:00",
+  "generated_utc": "2026-07-20T11:43:32+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "ecec8f64ffdb",
+      "pillar": "gaming",
+      "title": "News 'Please Play When GTA 6 Comes Out': AC Black Flag Resynced Will Add New Features to Keep You Aboard",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/please-play-when-gta-6-comes-out-ac-black-flag-resynced-will-add-new-features-to-keep-you-aboard",
+      "thumbnail": "/drops/thumbs/ecec8f64ffdb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0648ce518126",
       "pillar": "gaming",
       "title": "Pre-order Where to pre-order GTA 6: bundles, discounts, and fastest delivery times compared",
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "73e8acb157b6",
-      "pillar": "gaming",
-      "title": "GOG Is Still Figuring Out How To Add Online Games Like Destiny & Monster Hunter To Their Preservation Program",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563461/article/gog-is-still-figuring-out-how-to-add-online-games-like-destiny-monster-hunter-to-their-preservation-program/",
-      "thumbnail": "/drops/thumbs/73e8acb157b6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "14a0fb6b80e3",
     "88b484aaed67",
     "796e1bf65859",
-    "0648ce518126"
+    "ecec8f64ffdb"
   ]
 }
