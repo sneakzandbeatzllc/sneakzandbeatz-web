@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T13:44:55+00:00",
+  "generated_utc": "2026-07-20T14:14:48+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "Feature Going Platinum: It Was a Pleasure to Grind Returnal for That RNG Trophy",
-      "url": "https://www.pushsquare.com/features/going-platinum-it-was-a-pleasure-to-grind-returnal-for-that-rng-trophy",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Features From Blitzball to Besaid - Final Fantasy 10 is turning 25, and I've gathered the best merch worth collecting for fans of the iconic RPG",
       "url": "https://www.gamesradar.com/toys-collectibles/final-fantasy-10-is-turning-25-and-ive-gathered-the-best-merch-worth-collecting-for-fans-of-the-iconic-rpg/",
       "pillar": "gaming",
@@ -146,6 +139,13 @@
     {
       "title": "Call of Duty Movie Will Be Set In Infinity Ward’s Modern Warfare Timeline",
       "url": "https://gameranx.com/updates/id/563489/article/call-of-duty-movie-will-be-set-in-infinity-wards-modern-warfare-timeline/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Internet Sure Is Being Weird About Those Fortnite Swimsuit Skins",
+      "url": "https://kotaku.com/the-internet-sure-is-being-weird-about-those-fortnite-swimsuit-skins-2000717529",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
