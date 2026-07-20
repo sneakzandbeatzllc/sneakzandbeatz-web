@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T00:40:26+00:00",
+  "generated_utc": "2026-07-20T01:39:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "5 Naruto Villain Designs That Are 10/10 Perfect",
-      "url": "https://screenrant.com/best-naruto-villain-design-perfect/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 best anime to watch if you love The Odyssey (#4 is a near-perfect masterpiece)",
       "url": "https://www.polygon.com/best-anime-like-the-odyssey/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Chainsmoker Cat understands the impossible math of addiction",
       "url": "https://www.polygon.com/chainsmoker-cat-addiction-and-poverty/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Niichi's Sometimes Even Reality Is a Lie! Manga Gets TV Anime in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-19/niichi-sometimes-even-reality-is-a-lie-manga-gets-tv-anime-in-2027/.239775",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
