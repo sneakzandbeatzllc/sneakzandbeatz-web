@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T10:19:09+00:00",
+  "generated_utc": "2026-07-21T10:38:36+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -75,24 +75,24 @@
       "release_badge": ""
     },
     {
-      "id": "9ae7353f2839",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 MCS “Jackie Robinson” Releases Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-mcs-jackie-robinson-cleats/",
-      "thumbnail": "/drops/thumbs/9ae7353f2839.jpg",
-      "published": "2026-07-11T15:28:20",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "75cdfe454a75",
       "pillar": "sneakers",
       "title": "Air Jordan 4 “Laser” Pack Returns February 2027",
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-4-laser-2027/",
       "thumbnail": "/drops/thumbs/75cdfe454a75.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3ce97e415aa9",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low Adds Mismatched Pastel Patent Leather",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-mismatched-patent-ix3521-010/",
+      "thumbnail": "/drops/thumbs/3ce97e415aa9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 2.0,
