@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T22:27:40+00:00",
+  "generated_utc": "2026-07-21T22:56:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "News Blacks Ops Fans Sure Showed Up for PS5's Overpriced Call of Duty Ports",
+      "url": "https://www.pushsquare.com/news/2026/07/blacks-ops-fans-sure-showed-up-for-ps5s-overpriced-call-of-duty-ports",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Call of Duty Movie Will Be Set In Infinity Ward’s Modern Warfare Timeline",
       "url": "https://gameranx.com/updates/id/563489/article/call-of-duty-movie-will-be-set-in-infinity-wards-modern-warfare-timeline/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "New Xbox VP Helping CEO With ‘Our Most Complex Product And Engineering Problems’ Is Already Leaving Three Months Later",
       "url": "https://kotaku.com/new-xbox-vp-helping-ceo-with-our-most-complex-product-and-engineering-problems-is-already-leaving-three-months-later-2000718135",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Splatoon Raiders review: \"Smartly translates Squidling vibes into a looter shooter I keep coming back to\"",
-      "url": "https://www.gamesradar.com/games/splatoon/splatoon-raiders-review/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
