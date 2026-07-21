@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T21:30:35+00:00",
+  "generated_utc": "2026-07-21T22:25:10+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -27,18 +27,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "3b30e64441e8",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 3 OG “True Blue” Releases Tomorrow",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-og-true-blue-2026/",
-      "thumbnail": "/drops/thumbs/3b30e64441e8.jpg",
-      "published": "2026-07-17T00:33:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
-    },
-    {
       "id": "9775c1e27cbe",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “Laser” Releases August 2026",
@@ -61,6 +49,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "44a4de197855",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 3 is Deemed “Not Nice” For a Holiday 2026 Release",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-not-nice-if4396-001/",
+      "thumbnail": "/drops/thumbs/44a4de197855.webp",
+      "published": "2026-07-21T18:23:18",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "1fff7482c700",
@@ -87,13 +87,13 @@
       "release_badge": ""
     },
     {
-      "id": "b92e848d6dd3",
+      "id": "3aacc4992560",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “Not Nice” Releases November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
-      "thumbnail": "/drops/thumbs/b92e848d6dd3.jpg",
-      "published": "2026-07-21T13:49:05",
+      "title": "A Women’s Exclusive Air Jordan 4 Blooms This Summer",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-wmns-birds-of-paradise-hv0823-101-2026-drop/",
+      "thumbnail": "/drops/thumbs/3aacc4992560.jpg",
+      "published": "2026-07-18T18:35:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "ddf3098711cb",
+      "id": "be7e24c7b768",
       "pillar": "anime",
-      "title": "New Fairy Princess Minky Momo OVA Reveals Video, Visual, Cast",
+      "title": "Live-Action Blue Lock Film Previews Entrance Exam in New Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-21/new-fairy-princess-minky-momo-ova-reveals-video-visual-cast/.239844",
-      "thumbnail": "/drops/thumbs/ddf3098711cb.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-21/live-action-blue-lock-film-previews-entrance-exam-in-new-video/.239846",
+      "thumbnail": "/drops/thumbs/be7e24c7b768.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "10c23909bcdd",
+      "id": "ddf3098711cb",
       "pillar": "anime",
-      "title": "Heisei Haizan-hei ☆ Sumire-chan Manga Goes on Hiatus Due to Author's Maternity Leave",
+      "title": "New Fairy Princess Minky Momo OVA Reveals Video, Visual, Cast",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-21/heisei-haizan-hei-sumire-chan-manga-goes-on-hiatus-due-to-author-maternity-leave/.239808",
-      "thumbnail": "/drops/thumbs/10c23909bcdd.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-21/new-fairy-princess-minky-momo-ova-reveals-video-visual-cast/.239844",
+      "thumbnail": "/drops/thumbs/ddf3098711cb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -294,9 +294,9 @@
   "homepage": [
     "43151d13faa3",
     "29c70439a6ed",
-    "3b30e64441e8",
-    "d2081122d411",
     "9775c1e27cbe",
+    "d2081122d411",
+    "acacf317b510",
     "e6a34d56f05f"
   ]
 }
