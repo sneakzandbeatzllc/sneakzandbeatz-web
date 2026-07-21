@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T09:34:20+00:00",
+  "generated_utc": "2026-07-21T10:06:38+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -37,18 +37,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "796e1bf65859",
-      "pillar": "sneakers",
-      "title": "Air Jordan 9 OG “Space Jam” Returns August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
-      "thumbnail": "/drops/thumbs/796e1bf65859.jpg",
-      "published": "2026-07-10T16:09:49",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "719fb690370f",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-mcs-jackie-robinson-cleats/",
       "thumbnail": "/drops/thumbs/9ae7353f2839.jpg",
       "published": "2026-07-11T15:28:20",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "75cdfe454a75",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Laser” Pack Returns February 2027",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-4-laser-2027/",
+      "thumbnail": "/drops/thumbs/75cdfe454a75.webp",
+      "published": "",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -296,7 +296,7 @@
     "3b30e64441e8",
     "14a0fb6b80e3",
     "150047594076",
-    "796e1bf65859",
+    "719fb690370f",
     "ecec8f64ffdb"
   ]
 }
