@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T14:44:41+00:00",
+  "generated_utc": "2026-07-21T15:22:15+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -159,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "58aef337c312",
+      "pillar": "anime",
+      "title": "Netflix, Crunchyroll Add More Episodes for Detective Conan Anime's 3rd Collection Featuring FBI on August 1",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-21/netflix-crunchyroll-add-more-episodes-for-detective-conan-anime-3rd-collection-featuring-fbi-on-/.239836",
+      "thumbnail": "/drops/thumbs/58aef337c312.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "230a6da7244c",
       "pillar": "anime",
       "title": "Chiikawa Anime Film Casts Momoka Terasawa, Sayumi Suzushiro",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "f0f5aebc3f25",
-      "pillar": "anime",
-      "title": "Jagaan's Kensuke Nishida Launches New Manga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/jagaan-kensuke-nishida-launches-new-manga/.239779",
-      "thumbnail": "/drops/thumbs/f0f5aebc3f25.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8a86421b9f0f",
       "pillar": "gaming",
       "title": "News The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live",
@@ -207,24 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "36497d54e7bd",
+      "id": "e6a34d56f05f",
       "pillar": "gaming",
-      "title": "The Witcher 3: Wild Hunt – Songs of the Past Will Be At GamesCom",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563499/article/the-witcher-3-wild-hunt-songs-of-the-past-will-be-at-gamescom/",
-      "thumbnail": "/drops/thumbs/36497d54e7bd.jpg",
+      "title": "CD Projekt Red confirms The Witcher 3: Songs of the Past will get a proper reveal next month",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/the-witcher/cd-projekt-red-says-the-witcher-3-songs-of-the-past-geralts-first-expansion-in-a-decade-will-get-a-proper-reveal-next-month/",
+      "thumbnail": "/drops/thumbs/e6a34d56f05f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "54a0db141c74",
+      "id": "36497d54e7bd",
       "pillar": "gaming",
-      "title": "First Avengers: Doomsday trailer finally reveals Robert Downey Jr's Doctor Doom",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer/",
-      "thumbnail": "/drops/thumbs/54a0db141c74.jpg",
+      "title": "The Witcher 3: Wild Hunt – Songs of the Past Will Be At GamesCom",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563499/article/the-witcher-3-wild-hunt-songs-of-the-past-will-be-at-gamescom/",
+      "thumbnail": "/drops/thumbs/36497d54e7bd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "1efeb5988b8b",
+      "id": "ee476b5aa459",
       "pillar": "gaming",
-      "title": "News Your Latest PS Plus Extra Game Just Got a Massive Free Update",
+      "title": "News Against All Odds, Disappointing Arcade Racer Wreckreation Is Getting a PS5 Sequel",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/your-latest-ps-plus-extra-game-just-got-a-massive-free-update",
-      "thumbnail": "/drops/thumbs/1efeb5988b8b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/against-all-odds-disappointing-arcade-racer-wreckreation-is-getting-a-ps5-sequel",
+      "thumbnail": "/drops/thumbs/ee476b5aa459.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "f58acf71cd22",
+      "id": "51455c4ec404",
       "pillar": "gaming",
-      "title": "Exclusive \"There has to be a reason for people to buy an Xbox\": Making sense of Microsoft's messy return to console exclusivity",
+      "title": "Splatoon Raiders review: \"Smartly translates Squidling vibes into a looter shooter I keep coming back to\"",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/xbox-return-to-console-exclusivity-report/",
-      "thumbnail": "/drops/thumbs/f58acf71cd22.jpg",
+      "source_url": "https://www.gamesradar.com/games/splatoon/splatoon-raiders-review/",
+      "thumbnail": "/drops/thumbs/51455c4ec404.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

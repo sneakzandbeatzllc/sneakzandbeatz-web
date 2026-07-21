@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T14:44:41+00:00",
+  "generated_utc": "2026-07-21T15:22:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,6 +95,13 @@
       "article_slug": null
     },
     {
+      "title": "Netflix, Crunchyroll Add More Episodes for Detective Conan Anime's 3rd Collection Featuring FBI on August 1",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-21/netflix-crunchyroll-add-more-episodes-for-detective-conan-anime-3rd-collection-featuring-fbi-on-/.239836",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Chiikawa Anime Film Casts Momoka Terasawa, Sayumi Suzushiro",
       "url": "https://www.animenewsnetwork.com/news/2026-07-21/chiikawa-anime-film-casts-momoka-terasawa-sayumi-suzushiro/.239826",
       "pillar": "anime",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Jagaan's Kensuke Nishida Launches New Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-20/jagaan-kensuke-nishida-launches-new-manga/.239779",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live",
       "url": "https://www.pushsquare.com/news/2026/07/the-witcher-3s-big-new-expansion-makes-its-debut-at-gamescom-opening-night-live",
       "pillar": "gaming",
@@ -123,15 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "The Witcher 3: Wild Hunt – Songs of the Past Will Be At GamesCom",
-      "url": "https://gameranx.com/updates/id/563499/article/the-witcher-3-wild-hunt-songs-of-the-past-will-be-at-gamescom/",
+      "title": "CD Projekt Red confirms The Witcher 3: Songs of the Past will get a proper reveal next month",
+      "url": "https://www.gamesradar.com/games/the-witcher/cd-projekt-red-says-the-witcher-3-songs-of-the-past-geralts-first-expansion-in-a-decade-will-get-a-proper-reveal-next-month/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "First Avengers: Doomsday trailer finally reveals Robert Downey Jr's Doctor Doom",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer/",
+      "title": "The Witcher 3: Wild Hunt – Songs of the Past Will Be At GamesCom",
+      "url": "https://gameranx.com/updates/id/563499/article/the-witcher-3-wild-hunt-songs-of-the-past-will-be-at-gamescom/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "News Your Latest PS Plus Extra Game Just Got a Massive Free Update",
-      "url": "https://www.pushsquare.com/news/2026/07/your-latest-ps-plus-extra-game-just-got-a-massive-free-update",
+      "title": "News Against All Odds, Disappointing Arcade Racer Wreckreation Is Getting a PS5 Sequel",
+      "url": "https://www.pushsquare.com/news/2026/07/against-all-odds-disappointing-arcade-racer-wreckreation-is-getting-a-ps5-sequel",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Exclusive \"There has to be a reason for people to buy an Xbox\": Making sense of Microsoft's messy return to console exclusivity",
-      "url": "https://www.gamesradar.com/games/xbox-return-to-console-exclusivity-report/",
+      "title": "Splatoon Raiders review: \"Smartly translates Squidling vibes into a looter shooter I keep coming back to\"",
+      "url": "https://www.gamesradar.com/games/splatoon/splatoon-raiders-review/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
