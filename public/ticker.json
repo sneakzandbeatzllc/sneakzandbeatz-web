@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T13:24:45+00:00",
+  "generated_utc": "2026-07-21T13:43:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Watch Spider-Man: Brand New Day Actor Sadie Sink Expertly Avoid The Jean Grey Question",
+      "url": "https://kotaku.com/spider-man-brand-new-day-sadie-sink-jean-grey-ask-question-2000718004",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "First Avengers: Doomsday trailer finally reveals Robert Downey Jr's Doctor Doom",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer/",
       "pillar": "gaming",
@@ -151,15 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "A Wild Stat About PlayStation Physical Game Sales In The U.S. Shows Why The ‘No Disc, No Buy’ Backlash Faces Such An Uphill Battle",
-      "url": "https://kotaku.com/a-wild-stat-about-playstation-physical-game-sales-in-the-u-s-shows-why-the-no-disc-no-buy-backlash-faces-such-an-uphill-battle-2000717977",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News No PS5 Version of Heavy Rain Dev's PS2 Classic Indigo Prophecy, as Sony Mucks Up Again",
-      "url": "https://www.pushsquare.com/news/2026/07/no-ps5-version-of-heavy-rain-devs-ps2-classic-indigo-prophecy-as-sony-mucks-up-again",
+      "title": "News The Witness Dev's Next Game, Order of the Sinking Star, Revealed for PS5",
+      "url": "https://www.pushsquare.com/news/2026/07/the-witness-devs-next-game-order-of-the-sinking-star-revealed-for-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
