@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T10:38:36+00:00",
+  "generated_utc": "2026-07-21T11:10:20+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -39,13 +39,13 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "719fb690370f",
+      "id": "9775c1e27cbe",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “Laser” Releases August 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-3-laser-2026/",
-      "thumbnail": "/drops/thumbs/719fb690370f.webp",
-      "published": "",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-laser-phantom/",
+      "thumbnail": "/drops/thumbs/9775c1e27cbe.jpg",
+      "published": "2026-07-21T03:54:50",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -99,12 +99,12 @@
       "release_badge": ""
     },
     {
-      "id": "150047594076",
+      "id": "d343893bb4dd",
       "pillar": "anime",
-      "title": "Lego One Piece trailer shares a new, unreliable look at the events of the Netflix series",
+      "title": "A new My Hero Academia story officially releases in 2 weeks",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/lego-one-piece-netflix-official-trailer/",
-      "thumbnail": "/drops/thumbs/150047594076.jpg",
+      "source_url": "https://www.polygon.com/my-hero-academia-new-anime-short-two-weeks/",
+      "thumbnail": "/drops/thumbs/d343893bb4dd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -117,6 +117,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/black-clover-ending-explained/",
       "thumbnail": "/drops/thumbs/0008589047e8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "150047594076",
+      "pillar": "anime",
+      "title": "Lego One Piece trailer shares a new, unreliable look at the events of the Netflix series",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/lego-one-piece-netflix-official-trailer/",
+      "thumbnail": "/drops/thumbs/150047594076.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -153,18 +165,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-07-21/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-cho/.239814",
       "thumbnail": "/drops/thumbs/c569b8043672.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "106672318021",
-      "pillar": "anime",
-      "title": "10 best anime to watch if you love The Odyssey (#4 is a near-perfect masterpiece)",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/best-anime-like-the-odyssey/",
-      "thumbnail": "/drops/thumbs/106672318021.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,8 +295,8 @@
     "7de612490f99",
     "3b30e64441e8",
     "14a0fb6b80e3",
-    "150047594076",
-    "719fb690370f",
+    "d343893bb4dd",
+    "9775c1e27cbe",
     "ecec8f64ffdb"
   ]
 }
