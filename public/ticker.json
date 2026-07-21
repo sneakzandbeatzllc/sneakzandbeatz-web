@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T08:18:38+00:00",
+  "generated_utc": "2026-07-21T09:17:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
-      "url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
       "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
       "pillar": "gaming",
@@ -139,6 +132,13 @@
     {
       "title": "First Avengers: Doomsday trailer finally reveals Robert Downey Jr's Doctor Doom",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Nintendo Switch 2 Is Missing Out On The 1st Week Of Call Of Duty: Modern Warfare 4’s Beta, Here’s Why",
+      "url": "https://gameranx.com/updates/id/563491/article/nintendo-switch-2-is-missing-out-on-the-1st-week-of-call-of-duty-modern-warfare-4s-beta-heres-why/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "GOG Is Still Figuring Out How To Add Online Games Like Destiny & Monster Hunter To Their Preservation Program",
-      "url": "https://gameranx.com/updates/id/563461/article/gog-is-still-figuring-out-how-to-add-online-games-like-destiny-monster-hunter-to-their-preservation-program/",
+      "title": "Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’",
+      "url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’",
-      "url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
+      "title": "Exclusive \"There has to be a reason for people to buy an Xbox\": Making sense of Microsoft's messy return to console exclusivity",
+      "url": "https://www.gamesradar.com/games/xbox-return-to-console-exclusivity-report/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

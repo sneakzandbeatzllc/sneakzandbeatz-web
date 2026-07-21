@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T08:18:38+00:00",
+  "generated_utc": "2026-07-21T09:17:13+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "27c667337fd3",
-      "pillar": "gaming",
-      "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
-      "thumbnail": "/drops/thumbs/27c667337fd3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "92ec3728b1b6",
       "pillar": "gaming",
       "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
@@ -237,6 +225,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer/",
       "thumbnail": "/drops/thumbs/54a0db141c74.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a5c55063f09e",
+      "pillar": "gaming",
+      "title": "Nintendo Switch 2 Is Missing Out On The 1st Week Of Call Of Duty: Modern Warfare 4’s Beta, Here’s Why",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563491/article/nintendo-switch-2-is-missing-out-on-the-1st-week-of-call-of-duty-modern-warfare-4s-beta-heres-why/",
+      "thumbnail": "/drops/thumbs/a5c55063f09e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "73e8acb157b6",
-      "pillar": "gaming",
-      "title": "GOG Is Still Figuring Out How To Add Online Games Like Destiny & Monster Hunter To Their Preservation Program",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563461/article/gog-is-still-figuring-out-how-to-add-online-games-like-destiny-monster-hunter-to-their-preservation-program/",
-      "thumbnail": "/drops/thumbs/73e8acb157b6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e44a51fee8e3",
       "pillar": "gaming",
       "title": "Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
       "thumbnail": "/drops/thumbs/e44a51fee8e3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f58acf71cd22",
+      "pillar": "gaming",
+      "title": "Exclusive \"There has to be a reason for people to buy an Xbox\": Making sense of Microsoft's messy return to console exclusivity",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/xbox-return-to-console-exclusivity-report/",
+      "thumbnail": "/drops/thumbs/f58acf71cd22.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
