@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T20:53:12+00:00",
+  "generated_utc": "2026-07-21T21:24:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -46,15 +46,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “Not Nice” Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
+      "title": "Air Jordan 3 “Santa” Releases November 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-santa-2026/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "A Women’s Exclusive Air Jordan 4 Blooms This Summer",
-      "url": "https://www.nicekicks.com/air-jordan-4-wmns-birds-of-paradise-hv0823-101-2026-drop/",
+      "title": "Air Jordan 3 “Not Nice” Releases November 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Gamers Have No Problem Spending $100 On GTA 6′ s Digital-Only Ultimate Edition According To Pre-Order Data",
-      "url": "https://kotaku.com/gamers-have-no-problem-spending-100-on-gta-6s-digital-only-ultimate-edition-according-to-pre-order-data-2000718107",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "CD Projekt Red confirms The Witcher 3: Songs of the Past will get a proper reveal next month",
       "url": "https://www.gamesradar.com/games/the-witcher/cd-projekt-red-says-the-witcher-3-songs-of-the-past-geralts-first-expansion-in-a-decade-will-get-a-proper-reveal-next-month/",
       "pillar": "gaming",
@@ -160,6 +153,13 @@
     {
       "title": "Call of Duty Movie Will Be Set In Infinity Ward’s Modern Warfare Timeline",
       "url": "https://gameranx.com/updates/id/563489/article/call-of-duty-movie-will-be-set-in-infinity-wards-modern-warfare-timeline/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "New Disney Layoffs Hit Pixar Hard Despite $1.2 Billion Box Office From Toy Story 5 And Hoppers",
+      "url": "https://kotaku.com/new-disney-layoffs-hit-pixar-hard-despite-1-2-billion-box-office-from-toy-story-5-and-hoppers-2000718134",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
