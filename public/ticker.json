@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T14:25:25+00:00",
+  "generated_utc": "2026-07-21T14:44:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "Watch Spider-Man: Brand New Day Actor Sadie Sink Expertly Avoid The Jean Grey Question",
-      "url": "https://kotaku.com/spider-man-brand-new-day-sadie-sink-jean-grey-ask-question-2000718004",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "First Avengers: Doomsday trailer finally reveals Robert Downey Jr's Doctor Doom",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer/",
       "pillar": "gaming",
@@ -153,6 +146,13 @@
     {
       "title": "Call of Duty Movie Will Be Set In Infinity Ward’s Modern Warfare Timeline",
       "url": "https://gameranx.com/updates/id/563489/article/call-of-duty-movie-will-be-set-in-infinity-wards-modern-warfare-timeline/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Windows 11 Is So Poorly Optimized That Microsoft’s Latest $900 Laptop Reportedly Can’t Use It Without Freezing",
+      "url": "https://kotaku.com/microsoft-surface-laptop-windows-11-ram-13-inch-2000717981",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
