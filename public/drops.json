@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T16:46:53+00:00",
+  "generated_utc": "2026-07-21T17:17:41+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "8a86421b9f0f",
-      "pillar": "gaming",
-      "title": "News The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/the-witcher-3s-big-new-expansion-makes-its-debut-at-gamescom-opening-night-live",
-      "thumbnail": "/drops/thumbs/8a86421b9f0f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e6a34d56f05f",
       "pillar": "gaming",
       "title": "CD Projekt Red confirms The Witcher 3: Songs of the Past will get a proper reveal next month",
@@ -225,6 +213,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563499/article/the-witcher-3-wild-hunt-songs-of-the-past-will-be-at-gamescom/",
       "thumbnail": "/drops/thumbs/36497d54e7bd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "92ec3728b1b6",
+      "pillar": "gaming",
+      "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
+      "thumbnail": "/drops/thumbs/92ec3728b1b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "483d44aa1236",
+      "id": "f2587bc1ccfe",
       "pillar": "gaming",
-      "title": "Evil Captain America And 6 More Avengers: Doomsday Theories Fans Are Pulling From The Trailer",
+      "title": "The Odyssey’ s Critical And Box Office Success Has Completely Broken Online Chuds Who Forgot Twitter Isn’t Real Life",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/avengers-doomsday-trailer-theory-evil-captain-america-hydra-2000718049",
-      "thumbnail": "/drops/thumbs/483d44aa1236.jpg",
+      "source_url": "https://kotaku.com/the-odysseys-critical-and-box-office-success-has-completely-broken-online-chuds-who-forgot-twitter-isnt-real-life-2000718025",
+      "thumbnail": "/drops/thumbs/f2587bc1ccfe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "3b30e64441e8",
     "d343893bb4dd",
     "9775c1e27cbe",
-    "8a86421b9f0f"
+    "e6a34d56f05f"
   ]
 }
