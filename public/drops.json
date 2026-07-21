@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T04:12:18+00:00",
+  "generated_utc": "2026-07-21T05:15:00+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -195,24 +195,36 @@
       "release_badge": ""
     },
     {
-      "id": "ed744e7a287b",
+      "id": "ecec8f64ffdb",
       "pillar": "gaming",
-      "title": "News Promising PS5 RPG The Blood of Dawnwalker Pulls a Mass Effect with Save Data Transfers to Future Games",
+      "title": "News 'Please Play When GTA 6 Comes Out': AC Black Flag Resynced Will Add New Features to Keep You Aboard",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/promising-ps5-rpg-the-blood-of-dawnwalker-pulls-a-mass-effect-with-save-data-transfers-to-future-games",
-      "thumbnail": "/drops/thumbs/ed744e7a287b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/please-play-when-gta-6-comes-out-ac-black-flag-resynced-will-add-new-features-to-keep-you-aboard",
+      "thumbnail": "/drops/thumbs/ecec8f64ffdb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "506c46932ccd",
+      "id": "27c667337fd3",
       "pillar": "gaming",
-      "title": "News Green Goblin Joins Marvel Tokon's Stacked Open Beta on PS5, PC",
+      "title": "News Insomniac's Spider-Man Games 'a Great Inspiration' for Brand New Day, Says Director",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/green-goblin-joins-marvel-tokons-stacked-open-beta-on-ps5-pc",
-      "thumbnail": "/drops/thumbs/506c46932ccd.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-games-a-great-inspiration-for-brand-new-day-says-director",
+      "thumbnail": "/drops/thumbs/27c667337fd3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "92ec3728b1b6",
+      "pillar": "gaming",
+      "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
+      "thumbnail": "/drops/thumbs/92ec3728b1b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "23f0785a7b48",
-      "pillar": "gaming",
-      "title": "News Give Call of Duty: Modern Warfare 4 a Go in Its PS5 Beta Next Month",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/give-call-of-duty-modern-warfare-4-a-go-in-its-ps5-beta-next-month",
-      "thumbnail": "/drops/thumbs/23f0785a7b48.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "73e8acb157b6",
       "pillar": "gaming",
       "title": "GOG Is Still Figuring Out How To Add Online Games Like Destiny & Monster Hunter To Their Preservation Program",
@@ -297,6 +297,6 @@
     "14a0fb6b80e3",
     "150047594076",
     "796e1bf65859",
-    "ed744e7a287b"
+    "ecec8f64ffdb"
   ]
 }
