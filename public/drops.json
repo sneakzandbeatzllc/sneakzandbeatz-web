@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T11:22:15+00:00",
+  "generated_utc": "2026-07-21T12:24:02+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -111,12 +111,12 @@
       "release_badge": ""
     },
     {
-      "id": "0008589047e8",
+      "id": "ec08242b01a7",
       "pillar": "anime",
-      "title": "Black Clover Ending: Who Becomes The Wizard King And More, Explained",
+      "title": "Naruto Live-Action Reboot's First Story Details Revealed By Director",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-ending-explained/",
-      "thumbnail": "/drops/thumbs/0008589047e8.jpg",
+      "source_url": "https://screenrant.com/naruto-live-action-reboot-story-details-destin-daniel-cretton-explained/",
+      "thumbnail": "/drops/thumbs/ec08242b01a7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -129,6 +129,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/lego-one-piece-netflix-official-trailer/",
       "thumbnail": "/drops/thumbs/150047594076.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0008589047e8",
+      "pillar": "anime",
+      "title": "Black Clover Ending: Who Becomes The Wizard King And More, Explained",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-clover-ending-explained/",
+      "thumbnail": "/drops/thumbs/0008589047e8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,36 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "667e58c4e636",
-      "pillar": "anime",
-      "title": "The Forsaken Saintess Is Resurrecting An Underrated Isekai Genre (Exclusive)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/forsaken-saintess-foodie-road-trip-changing-isekai-anime-better/",
-      "thumbnail": "/drops/thumbs/667e58c4e636.jpg",
+      "id": "8a86421b9f0f",
+      "pillar": "gaming",
+      "title": "News The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/the-witcher-3s-big-new-expansion-makes-its-debut-at-gamescom-opening-night-live",
+      "thumbnail": "/drops/thumbs/8a86421b9f0f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ecec8f64ffdb",
+      "id": "36497d54e7bd",
       "pillar": "gaming",
-      "title": "News 'Please Play When GTA 6 Comes Out': AC Black Flag Resynced Will Add New Features to Keep You Aboard",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/please-play-when-gta-6-comes-out-ac-black-flag-resynced-will-add-new-features-to-keep-you-aboard",
-      "thumbnail": "/drops/thumbs/ecec8f64ffdb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "92ec3728b1b6",
-      "pillar": "gaming",
-      "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
-      "thumbnail": "/drops/thumbs/92ec3728b1b6.jpg",
+      "title": "The Witcher 3: Wild Hunt – Songs of the Past Will Be At GamesCom",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563499/article/the-witcher-3-wild-hunt-songs-of-the-past-will-be-at-gamescom/",
+      "thumbnail": "/drops/thumbs/36497d54e7bd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "d79d14b5e2bb",
+      "id": "25a88f94db2d",
       "pillar": "gaming",
-      "title": "Marathon Loses Game Director Joe Ziegler And General Manager, With New Promotions In Bungie To Replace Them",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563481/article/marathon-loses-game-director-joe-ziegler-and-general-manager-with-new-promotions-in-bungie-to-replace-them/",
-      "thumbnail": "/drops/thumbs/d79d14b5e2bb.jpg",
+      "title": "I Watched District 9′ s Director’s New, Awful AI-Generated Movie So You Don’t Have To",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/district-9-director-ai-generated-short-film-nightborne-2000717745",
+      "thumbnail": "/drops/thumbs/25a88f94db2d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "7470d0619b04",
+      "id": "fdebf2999912",
       "pillar": "gaming",
-      "title": "After 12 Years, Hexcells Is Still The Best Logic Puzzle Game Ever Made",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/hexcells-logic-puzzle-game-matthew-brown-best-ever-steam-2000717605",
-      "thumbnail": "/drops/thumbs/7470d0619b04.jpg",
+      "title": "News No PS5 Version of Heavy Rain Dev's PS2 Classic Indigo Prophecy, as Sony Mucks Up Again",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/no-ps5-version-of-heavy-rain-devs-ps2-classic-indigo-prophecy-as-sony-mucks-up-again",
+      "thumbnail": "/drops/thumbs/fdebf2999912.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "14a0fb6b80e3",
     "d343893bb4dd",
     "9775c1e27cbe",
-    "ecec8f64ffdb"
+    "8a86421b9f0f"
   ]
 }
