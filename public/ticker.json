@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-20T23:14:51+00:00",
+  "generated_utc": "2026-07-21T00:02:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Naruto Meets My Hero Academia In A Stunning Action Series Everyone Should Read",
-      "url": "https://screenrant.com/shinobi-undercover-naruto-meets-my-hero-academia-action-series/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Drawn Deep Manga Ends",
       "url": "https://www.animenewsnetwork.com/news/2026-07-20/drawn-deep-manga-ends/.239780",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "10 best anime to watch if you love The Odyssey (#4 is a near-perfect masterpiece)",
       "url": "https://www.polygon.com/best-anime-like-the-odyssey/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Forsaken Saintess Is Resurrecting An Underrated Isekai Genre (Exclusive)",
+      "url": "https://screenrant.com/forsaken-saintess-foodie-road-trip-changing-isekai-anime-better/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
