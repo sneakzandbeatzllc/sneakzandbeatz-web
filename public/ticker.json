@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T00:02:10+00:00",
+  "generated_utc": "2026-07-21T00:09:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Tokyo Revengers: War of the Three Titans Arc Reveals Opening Song by Boy Band JO1",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-20/tokyo-revengers-war-of-the-three-titans-arc-reveals-opening-song-by-boy-band-jo1/.239791",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Lego One Piece trailer shares a new, unreliable look at the events of the Netflix series",
       "url": "https://www.polygon.com/lego-one-piece-netflix-official-trailer/",
       "pillar": "anime",
@@ -76,6 +69,13 @@
     {
       "title": "After 3 Years, Boruto Is Taking An Unexpected Break And It's Long Overdue",
       "url": "https://screenrant.com/boruto-two-blue-vortex-hiatus-september-manga-return/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Pumpkin Night Manga Resumes Serialization on August 19",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-20/pumpkin-night-manga-resumes-serialization-on-august-19/.239776",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

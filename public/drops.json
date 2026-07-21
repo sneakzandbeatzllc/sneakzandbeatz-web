@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T00:02:10+00:00",
+  "generated_utc": "2026-07-21T00:09:44+00:00",
   "items": [
     {
       "id": "7de612490f99",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "3907a9ff0397",
-      "pillar": "anime",
-      "title": "Tokyo Revengers: War of the Three Titans Arc Reveals Opening Song by Boy Band JO1",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/tokyo-revengers-war-of-the-three-titans-arc-reveals-opening-song-by-boy-band-jo1/.239791",
-      "thumbnail": "/drops/thumbs/3907a9ff0397.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "150047594076",
       "pillar": "anime",
       "title": "Lego One Piece trailer shares a new, unreliable look at the events of the Netflix series",
@@ -129,6 +117,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/boruto-two-blue-vortex-hiatus-september-manga-return/",
       "thumbnail": "/drops/thumbs/980e96ec66b6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b664d61c1632",
+      "pillar": "anime",
+      "title": "Pumpkin Night Manga Resumes Serialization on August 19",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-20/pumpkin-night-manga-resumes-serialization-on-august-19/.239776",
+      "thumbnail": "/drops/thumbs/b664d61c1632.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7de612490f99",
     "3b30e64441e8",
     "14a0fb6b80e3",
-    "3907a9ff0397",
+    "150047594076",
     "796e1bf65859",
     "ed744e7a287b"
   ]
