@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T18:28:20+00:00",
+  "generated_utc": "2026-07-21T18:50:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,22 +39,22 @@
       "article_slug": null
     },
     {
+      "title": "The Air Jordan 1 High “Royal” Returns for a Fall 2026 Release",
+      "url": "https://justfreshkicks.com/air-jordan-1-high-royal-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Not Nice” November 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-not-nice-if4396-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "A Women’s Exclusive Air Jordan 4 Blooms This Summer",
       "url": "https://www.nicekicks.com/air-jordan-4-wmns-birds-of-paradise-hv0823-101-2026-drop/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Where to Buy the Air Jordan 4 “Birds of Paradise”",
-      "url": "https://justfreshkicks.com/air-jordan-4-birds-of-paradise-hv0823-101/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "The Hulk Whoops Spider-Man’s Ass In Final Brand New Day Trailer",
-      "url": "https://kotaku.com/spider-man-brand-new-day-trailer-hulk-fight-mj-peter-2000718085",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News DC's Free-to-Play Marvel Tokon Rival Doesn't Look Great",
       "url": "https://www.pushsquare.com/news/2026/07/dcs-free-to-play-marvel-tokon-rival-doesnt-look-great",
       "pillar": "gaming",
@@ -160,6 +153,13 @@
     {
       "title": "Call of Duty Movie Will Be Set In Infinity Ward’s Modern Warfare Timeline",
       "url": "https://gameranx.com/updates/id/563489/article/call-of-duty-movie-will-be-set-in-infinity-wards-modern-warfare-timeline/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Odyssey’ s Critical And Box Office Success Has Completely Broken Online Chuds Who Forgot Twitter Isn’t Real Life",
+      "url": "https://kotaku.com/the-odysseys-critical-and-box-office-success-has-completely-broken-online-chuds-who-forgot-twitter-isnt-real-life-2000718025",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

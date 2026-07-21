@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T18:28:20+00:00",
+  "generated_utc": "2026-07-21T18:50:18+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -63,6 +63,30 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "1fff7482c700",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 1 High “Royal” Returns for a Fall 2026 Release",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-high-royal-2026/",
+      "thumbnail": "/drops/thumbs/1fff7482c700.jpg",
+      "published": "2026-07-21T14:30:52",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1e3a5571cbd0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Not Nice” November 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-not-nice-if4396-001/",
+      "thumbnail": "/drops/thumbs/1e3a5571cbd0.png",
+      "published": "2026-07-21T13:40:18",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "3aacc4992560",
       "pillar": "sneakers",
       "title": "A Women’s Exclusive Air Jordan 4 Blooms This Summer",
@@ -70,30 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-4-wmns-birds-of-paradise-hv0823-101-2026-drop/",
       "thumbnail": "/drops/thumbs/3aacc4992560.jpg",
       "published": "2026-07-18T18:35:00",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "50198589ca53",
-      "pillar": "sneakers",
-      "title": "Where to Buy the Air Jordan 4 “Birds of Paradise”",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-birds-of-paradise-hv0823-101/",
-      "thumbnail": "/drops/thumbs/50198589ca53.jpg",
-      "published": "2026-07-17T00:35:00",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8a2bf5f3a799",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “White Cement” Returns Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
-      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
-      "published": "2026-07-12T14:20:24",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,18 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "30d558440d21",
-      "pillar": "gaming",
-      "title": "The Hulk Whoops Spider-Man’s Ass In Final Brand New Day Trailer",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/spider-man-brand-new-day-trailer-hulk-fight-mj-peter-2000718085",
-      "thumbnail": "/drops/thumbs/30d558440d21.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1f8b9aa171bf",
       "pillar": "gaming",
       "title": "News DC's Free-to-Play Marvel Tokon Rival Doesn't Look Great",
@@ -273,6 +261,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563489/article/call-of-duty-movie-will-be-set-in-infinity-wards-modern-warfare-timeline/",
       "thumbnail": "/drops/thumbs/bc3737c92ac5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f2587bc1ccfe",
+      "pillar": "gaming",
+      "title": "The Odyssey’ s Critical And Box Office Success Has Completely Broken Online Chuds Who Forgot Twitter Isn’t Real Life",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/the-odysseys-critical-and-box-office-success-has-completely-broken-online-chuds-who-forgot-twitter-isnt-real-life-2000718025",
+      "thumbnail": "/drops/thumbs/f2587bc1ccfe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
