@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T09:35:10+00:00",
+  "generated_utc": "2026-07-22T10:32:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Nintendo Switch 2 Is Missing Out On The 1st Week Of Call Of Duty: Modern Warfare 4’s Beta, Here’s Why",
-      "url": "https://gameranx.com/updates/id/563491/article/nintendo-switch-2-is-missing-out-on-the-1st-week-of-call-of-duty-modern-warfare-4s-beta-heres-why/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Black Ops Fans Sure Showed Up for PS5's Overpriced Call of Duty Ports",
       "url": "https://www.pushsquare.com/news/2026/07/black-ops-fans-sure-showed-up-for-ps5s-overpriced-call-of-duty-ports",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Things Are So Bad Even Apple Is Implementing Buy Now, Pay Later Plans",
       "url": "https://kotaku.com/things-are-so-bad-even-apple-is-implementing-buy-now-pay-later-plans-2000718171",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hasbro Drops Teasers For Their The Legend of Zelda Hasbro Pulse Line",
+      "url": "https://gameranx.com/updates/id/563507/article/hasbro-drops-teasers-for-their-the-legend-of-zelda-hasbro-pulse-line/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
