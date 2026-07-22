@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T03:01:01+00:00",
+  "generated_utc": "2026-07-22T03:31:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "It's Time To Say Goodbye To Naruto's Newest Hokage",
+      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-shikamaru-hokage-no-more/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece Just Teased Zoro's Next Major Power Up, And It's Massive",
       "url": "https://screenrant.com/one-piece-zoro-supreme-king-haki-massive-powerup/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Black Clover Ending: Who Becomes The Wizard King And More, Explained",
       "url": "https://screenrant.com/black-clover-ending-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Agri Uma's Studio Cabana Manga Gets TV Anime in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-21/agri-uma-studio-cabana-manga-gets-tv-anime-in-2027/.239852",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

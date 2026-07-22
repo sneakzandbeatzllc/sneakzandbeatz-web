@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T03:01:01+00:00",
+  "generated_utc": "2026-07-22T03:31:34+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -135,6 +135,18 @@
       "release_badge": ""
     },
     {
+      "id": "97bc82bb572f",
+      "pillar": "anime",
+      "title": "It's Time To Say Goodbye To Naruto's Newest Hokage",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-boruto-two-blue-vortex-shikamaru-hokage-no-more/",
+      "thumbnail": "/drops/thumbs/97bc82bb572f.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "61514e6110b7",
       "pillar": "anime",
       "title": "One Piece Just Teased Zoro's Next Major Power Up, And It's Massive",
@@ -177,18 +189,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/black-clover-ending-explained/",
       "thumbnail": "/drops/thumbs/0008589047e8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2b7389d1d1f8",
-      "pillar": "anime",
-      "title": "Agri Uma's Studio Cabana Manga Gets TV Anime in 2027",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-21/agri-uma-studio-cabana-manga-gets-tv-anime-in-2027/.239852",
-      "thumbnail": "/drops/thumbs/2b7389d1d1f8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
