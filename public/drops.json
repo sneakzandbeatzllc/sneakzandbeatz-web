@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T16:40:54+00:00",
+  "generated_utc": "2026-07-22T17:12:05+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -219,36 +219,36 @@
       "release_badge": ""
     },
     {
+      "id": "3624e1d2fdb2",
+      "pillar": "gaming",
+      "title": "News MindsEye's Latest Attempt to Rekindle Interest Is to Become Rocket League",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/mindseyes-latest-attempt-to-rekindle-interest-is-to-become-rocket-league",
+      "thumbnail": "/drops/thumbs/3624e1d2fdb2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b8fa6b9775fa",
+      "pillar": "gaming",
+      "title": "Oh, Man, The Clayface Movie Is Even Grosser Than I Thought It’d Be In New Trailer",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/clayface-dc-universe-trailer-tom-rhys-harries-scissors-2000718438",
+      "thumbnail": "/drops/thumbs/b8fa6b9775fa.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b5e5bcb51aeb",
       "pillar": "gaming",
       "title": "Guide Psi-Ops: The Mindgate Conspiracy Cheats: All Cheat Codes, Including Scorpion Skin",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/guides/psi-ops-the-mindgate-conspiracy-cheats-all-cheat-codes-including-scorpion-skin",
       "thumbnail": "/drops/thumbs/b5e5bcb51aeb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9f2d43b35189",
-      "pillar": "gaming",
-      "title": "OpenAI’s Models Hacked Into Another Company’s System On Their Own In ‘Unprecedented Cyber Incident’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/openai-hugging-face-hack-chatgpt-ai-rogue-cyberpunk-2000718361",
-      "thumbnail": "/drops/thumbs/9f2d43b35189.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "81d8724ce810",
-      "pillar": "gaming",
-      "title": "News Nearly a Decade After Launch on PS4, the Original Darkest Dungeon Is Getting New DLC",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/nearly-a-decade-after-launch-on-ps4-the-original-darkest-dungeon-is-getting-new-dlc",
-      "thumbnail": "/drops/thumbs/81d8724ce810.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "2dc83d3f1702",
+      "id": "568d7bfa579d",
       "pillar": "gaming",
-      "title": "New Report Suggests Valve’s Steam Deck Sales Have Plummeted 82 Percent Since Price Hikes",
+      "title": "Xbox Backward Compatibility Is Coming To PC Starting With Conker: Live And Reloaded",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/valve-steam-deck-sales-plummet-price-rises-handheld-gaming-2000718391",
-      "thumbnail": "/drops/thumbs/2dc83d3f1702.jpg",
+      "source_url": "https://kotaku.com/you-can-now-officially-play-some-original-xbox-games-on-pc-2000718406",
+      "thumbnail": "/drops/thumbs/568d7bfa579d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
