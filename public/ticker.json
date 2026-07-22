@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T11:36:31+00:00",
+  "generated_utc": "2026-07-22T12:33:32+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball's Official Converse Collaboration Is Here, And It's Beyond Epic",
+      "url": "https://screenrant.com/dragon-ball-converse-collaboration/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "It's Confirmed: Solo Leveling's Crossover With Its Biggest Rival Is One Month Away",
       "url": "https://screenrant.com/solo-leveling-omniscient-readers-viewpoint-crossover-system-sync/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Naruto Live-Action Reboot's First Story Details Revealed By Director",
       "url": "https://screenrant.com/naruto-live-action-reboot-story-details-destin-daniel-cretton-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Black Clover Ending: Who Becomes The Wizard King And More, Explained",
-      "url": "https://screenrant.com/black-clover-ending-explained/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Hasbro Drops Teasers For Their The Legend of Zelda Hasbro Pulse Line",
-      "url": "https://gameranx.com/updates/id/563507/article/hasbro-drops-teasers-for-their-the-legend-of-zelda-hasbro-pulse-line/",
+      "title": "Disgaea Veteran Game Developer Says If PlayStation Will Stop Making Physical Games, They Should Stop Making Consoles Too",
+      "url": "https://gameranx.com/updates/id/563511/article/disgaea-veteran-game-developer-says-if-playstation-will-stop-making-physical-games-they-should-stop-making-consoles-too/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

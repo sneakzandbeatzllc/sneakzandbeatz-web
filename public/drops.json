@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T11:36:31+00:00",
+  "generated_utc": "2026-07-22T12:33:32+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "d4b452446eb3",
+      "pillar": "anime",
+      "title": "Dragon Ball's Official Converse Collaboration Is Here, And It's Beyond Epic",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-converse-collaboration/",
+      "thumbnail": "/drops/thumbs/d4b452446eb3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d2081122d411",
       "pillar": "anime",
       "title": "It's Confirmed: Solo Leveling's Crossover With Its Biggest Rival Is One Month Away",
@@ -177,18 +189,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-live-action-reboot-story-details-destin-daniel-cretton-explained/",
       "thumbnail": "/drops/thumbs/ec08242b01a7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0008589047e8",
-      "pillar": "anime",
-      "title": "Black Clover Ending: Who Becomes The Wizard King And More, Explained",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-ending-explained/",
-      "thumbnail": "/drops/thumbs/0008589047e8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "91cc5e25ced5",
+      "id": "233414435fd7",
       "pillar": "gaming",
-      "title": "Hasbro Drops Teasers For Their The Legend of Zelda Hasbro Pulse Line",
+      "title": "Disgaea Veteran Game Developer Says If PlayStation Will Stop Making Physical Games, They Should Stop Making Consoles Too",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563507/article/hasbro-drops-teasers-for-their-the-legend-of-zelda-hasbro-pulse-line/",
-      "thumbnail": "/drops/thumbs/91cc5e25ced5.jpg",
+      "source_url": "https://gameranx.com/updates/id/563511/article/disgaea-veteran-game-developer-says-if-playstation-will-stop-making-physical-games-they-should-stop-making-consoles-too/",
+      "thumbnail": "/drops/thumbs/233414435fd7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "43151d13faa3",
     "29c70439a6ed",
     "796e1bf65859",
-    "d2081122d411",
+    "d4b452446eb3",
     "cd1c4a9f3289",
     "8a86421b9f0f"
   ]
