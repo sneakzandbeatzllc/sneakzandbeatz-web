@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T14:40:01+00:00",
+  "generated_utc": "2026-07-22T15:34:32+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -219,18 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "73a3847ebfed",
-      "pillar": "gaming",
-      "title": "One Massive Flaw Is Really Holding Back The New Avatar Fighting Game",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/avatar-legends-fighting-game-review-aang-korra-difficulty-2000718159",
-      "thumbnail": "/drops/thumbs/73a3847ebfed.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c851275d3e38",
       "pillar": "gaming",
       "title": "News Black Ops Fans Sure Showed Up for PS5's Overpriced Call of Duty Ports",
@@ -243,12 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "f7a4aea3f32f",
+      "id": "c49a02aa5231",
       "pillar": "gaming",
-      "title": "News 'From Japan to the World': ArcSys Reveals How It Built the Unique Style of PS5's New Marvel Fighter",
+      "title": "New Bloody Roguelike Is Scottish Dynasty Warriors And It’s Awesome",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/new-bloody-roguelike-is-scottish-dynasty-warriors-and-its-awesome-2000718370",
+      "thumbnail": "/drops/thumbs/c49a02aa5231.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f32cb623ccab",
+      "pillar": "gaming",
+      "title": "News US PS5 Sales Down Almost 20% Year-Over-Year, Rounds Out Tough Month for Industry",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/from-japan-to-the-world-arcsys-reveals-how-it-built-the-unique-style-of-ps5s-new-marvel-fighter",
-      "thumbnail": "/drops/thumbs/f7a4aea3f32f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/us-ps5-sales-down-almost-20percent-year-over-year-rounds-out-tough-month-for-industry",
+      "thumbnail": "/drops/thumbs/f32cb623ccab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
