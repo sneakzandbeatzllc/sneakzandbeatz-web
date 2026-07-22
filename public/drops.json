@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T08:05:12+00:00",
+  "generated_utc": "2026-07-22T08:34:27+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -27,6 +27,30 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "796e1bf65859",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 OG “Space Jam” Returns August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
+      "thumbnail": "/drops/thumbs/796e1bf65859.jpg",
+      "published": "2026-07-22T01:20:14",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "cd1c4a9f3289",
+      "pillar": "sneakers",
+      "title": "Free The Youth x Air Jordan 16 Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/free-the-youth-air-jordan-16/",
+      "thumbnail": "/drops/thumbs/cd1c4a9f3289.jpg",
+      "published": "2026-07-22T01:13:01",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "9775c1e27cbe",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “Laser” Releases August 2026",
@@ -34,18 +58,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-laser-phantom/",
       "thumbnail": "/drops/thumbs/9775c1e27cbe.jpg",
       "published": "2026-07-21T03:54:50",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "acacf317b510",
-      "pillar": "sneakers",
-      "title": "Free The Youth x Air Jordan 16 Releases August 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/free-the-youth-air-jordan-16-release-date/",
-      "thumbnail": "/drops/thumbs/acacf317b510.webp",
-      "published": "",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-santa-2026/",
       "thumbnail": "/drops/thumbs/85b8ec812485.jpg",
       "published": "2026-07-21T13:54:43",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3aacc4992560",
-      "pillar": "sneakers",
-      "title": "A Women’s Exclusive Air Jordan 4 Blooms This Summer",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-wmns-birds-of-paradise-hv0823-101-2026-drop/",
-      "thumbnail": "/drops/thumbs/3aacc4992560.jpg",
-      "published": "2026-07-18T18:35:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -294,9 +294,9 @@
   "homepage": [
     "43151d13faa3",
     "29c70439a6ed",
-    "9775c1e27cbe",
+    "796e1bf65859",
     "d2081122d411",
-    "acacf317b510",
+    "cd1c4a9f3289",
     "8a86421b9f0f"
   ]
 }
