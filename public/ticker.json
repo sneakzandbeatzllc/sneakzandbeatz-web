@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T10:35:52+00:00",
+  "generated_utc": "2026-07-22T11:36:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,8 +123,8 @@
       "article_slug": null
     },
     {
-      "title": "CD Projekt Red confirms The Witcher 3: Songs of the Past will get a proper reveal next month",
-      "url": "https://www.gamesradar.com/games/the-witcher/cd-projekt-red-says-the-witcher-3-songs-of-the-past-geralts-first-expansion-in-a-decade-will-get-a-proper-reveal-next-month/",
+      "title": "Spider-Man: Brand New Day director says there's a \"very real reason\" for secrecy around Sadie Sink",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-director-says-theres-a-very-real-reason-for-keeping-sadie-sinks-character-a-secret-and-i-dont-think-youll-get-mad-at-it/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +132,6 @@
     {
       "title": "The Witcher 3: Wild Hunt – Songs of the Past Will Be At GamesCom",
       "url": "https://gameranx.com/updates/id/563499/article/the-witcher-3-wild-hunt-songs-of-the-past-will-be-at-gamescom/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Spider-Man: Brand New Day director says there's a \"very real reason\" for secrecy around Sadie Sink",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-director-says-theres-a-very-real-reason-for-keeping-sadie-sinks-character-a-secret-and-i-dont-think-youll-get-mad-at-it/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,6 +153,13 @@
     {
       "title": "Things Are So Bad Even Apple Is Implementing Buy Now, Pay Later Plans",
       "url": "https://kotaku.com/things-are-so-bad-even-apple-is-implementing-buy-now-pay-later-plans-2000718171",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Nintendo didn't make Splatoon 4 because it didn't want to, Splatoon Raiders lead says",
+      "url": "https://www.gamesradar.com/games/splatoon/nintendo-didnt-make-splatoon-4-because-it-didnt-want-to-splatoon-raiders-lead-says-we-thought-it-might-be-interesting-to-create-something-with-a-slightly-different-approach/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
