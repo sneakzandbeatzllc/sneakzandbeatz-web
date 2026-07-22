@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T09:06:47+00:00",
+  "generated_utc": "2026-07-22T09:35:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Spider-Man: Brand New Day director says there's a \"very real reason\" for secrecy around Sadie Sink",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-director-says-theres-a-very-real-reason-for-keeping-sadie-sinks-character-a-secret-and-i-dont-think-youll-get-mad-at-it/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Guide Marvel Tokon: Fighting Souls Open Beta: Start Times, How to Play, and What's Included",
       "url": "https://www.pushsquare.com/guides/marvel-tokon-fighting-souls-open-beta-start-times-how-to-play-and-whats-included",
       "pillar": "gaming",
@@ -153,13 +160,6 @@
     {
       "title": "News Black Ops Fans Sure Showed Up for PS5's Overpriced Call of Duty Ports",
       "url": "https://www.pushsquare.com/news/2026/07/black-ops-fans-sure-showed-up-for-ps5s-overpriced-call-of-duty-ports",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Call of Duty Movie Will Be Set In Infinity Ward’s Modern Warfare Timeline",
-      "url": "https://gameranx.com/updates/id/563489/article/call-of-duty-movie-will-be-set-in-infinity-wards-modern-warfare-timeline/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
