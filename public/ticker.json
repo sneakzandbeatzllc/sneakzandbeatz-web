@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-21T23:31:19+00:00",
+  "generated_utc": "2026-07-22T00:27:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "One Piece Just Teased Zoro's Next Major Power Up, And It's Massive",
+      "url": "https://screenrant.com/one-piece-zoro-supreme-king-haki-massive-powerup/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Bleach: Thousand-Year Blood War Part 4 Episode #1 Release Date And Time",
       "url": "https://screenrant.com/bleach-thousand-year-blood-war-part-4-episode-1-release-date-time/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Mutsumi Aoki Launches New Seinaru Hime no Kakushigoto Manga",
       "url": "https://www.animenewsnetwork.com/news/2026-07-21/mutsumi-aoki-launches-new-seinaru-hime-no-kakushigoto-manga/.239778",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Live-Action Blue Lock Film Previews Entrance Exam in New Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-21/live-action-blue-lock-film-previews-entrance-exam-in-new-video/.239846",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "News Blacks Ops Fans Sure Showed Up for PS5's Overpriced Call of Duty Ports",
-      "url": "https://www.pushsquare.com/news/2026/07/blacks-ops-fans-sure-showed-up-for-ps5s-overpriced-call-of-duty-ports",
+      "title": "News Black Ops Fans Sure Showed Up for PS5's Overpriced Call of Duty Ports",
+      "url": "https://www.pushsquare.com/news/2026/07/black-ops-fans-sure-showed-up-for-ps5s-overpriced-call-of-duty-ports",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
