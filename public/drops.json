@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-22T04:02:03+00:00",
+  "generated_utc": "2026-07-22T05:33:37+00:00",
   "items": [
     {
       "id": "43151d13faa3",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "8a86421b9f0f",
+      "pillar": "gaming",
+      "title": "News The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/the-witcher-3s-big-new-expansion-makes-its-debut-at-gamescom-opening-night-live",
+      "thumbnail": "/drops/thumbs/8a86421b9f0f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e6a34d56f05f",
       "pillar": "gaming",
       "title": "CD Projekt Red confirms The Witcher 3: Songs of the Past will get a proper reveal next month",
@@ -213,18 +225,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563499/article/the-witcher-3-wild-hunt-songs-of-the-past-will-be-at-gamescom/",
       "thumbnail": "/drops/thumbs/36497d54e7bd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1f8b9aa171bf",
-      "pillar": "gaming",
-      "title": "News DC's Free-to-Play Marvel Tokon Rival Doesn't Look Great",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/dcs-free-to-play-marvel-tokon-rival-doesnt-look-great",
-      "thumbnail": "/drops/thumbs/1f8b9aa171bf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "9775c1e27cbe",
     "d2081122d411",
     "acacf317b510",
-    "e6a34d56f05f"
+    "8a86421b9f0f"
   ]
 }
