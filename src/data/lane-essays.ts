@@ -12088,7 +12088,7 @@ export function getRankedEssays(now: string = todayISO()): LaneEssay[] {
 export function getFeaturedEssays(now: string = todayISO()): LaneEssay[] {
   const ranked = getRankedEssays(now);
   const buckets: Record<string, LaneEssay[]> = { sneakers: [], hiphop: [], anime: [], gaming: [] };
-  for (const e of ranked) { const b = buckets[e.pillar] || (buckets[e.pillar] = []); b.push(e); }
+  for (const e of ranked) { const k = e.pillar || "_"; const b = buckets[k] || (buckets[k] = []); b.push(e); }
   const pattern = ["sneakers", "hiphop", "sneakers", "hiphop", "anime", "sneakers", "hiphop", "gaming"];
   const out: LaneEssay[] = [];
   let i = 0, guard = 0;
