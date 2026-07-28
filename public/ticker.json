@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-28T17:01:49+00:00",
+  "generated_utc": "2026-07-28T17:50:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,15 +95,15 @@
       "article_slug": null
     },
     {
-      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Releases Song from 'A(E)liens'",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-28/cloverworks-omnibus-anime-film-grotesqqque-releases-song-from-aliens/.240048",
+      "title": "Akane Terai Launches New Ore Seijyo Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-28/akane-terai-launches-new-ore-seijyo-manga/.240052",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Manga Up! Global Adds I'm Now the Princess of Spring in Another World , Fantasy Gourmet , 3 More Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-28/manga-up-global-adds-im-now-the-princess-of-spring-in-another-world-fantasy-gourmet-3-more-manga/.239793",
+      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Releases Song from 'A(E)liens'",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-28/cloverworks-omnibus-anime-film-grotesqqque-releases-song-from-aliens/.240048",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -123,7 +123,7 @@
       "article_slug": null
     },
     {
-      "title": "Spider-Man: Brand New Day review \"Marvel Studio’s strongest standalone outing since Endgame\"",
+      "title": "Spider-Man: Brand New Day review \"Marvel Studios’ strongest standalone outing since Avengers: Endgame\"",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-review/",
       "pillar": "gaming",
       "score": 1.0,
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "News Sony's New Spider-Man Movie Tipped for Explosive Box Office Opening",
-      "url": "https://www.pushsquare.com/news/2026/07/sonys-new-spider-man-movie-tipped-for-explosive-box-office-opening",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Final Fantasy 6, 8, or 9 remakes would need even more games than the FF7 trilogy, Yoshi-P warns 8 Comments",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-6-8-or-9-remakes-would-need-even-more-games-than-the-ff7-trilogy-yoshi-p-warns-wed-probably-end-up-having-to-release-them-in-4-or-maybe-even-5-installments/",
       "pillar": "gaming",
@@ -151,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "After Months Of Secrecy, Someone May Have Finally Spoiled Sadie Sink’s Spider-Man: Brand New Day Character",
-      "url": "https://kotaku.com/spider-man-brand-new-day-sadie-sink-steve-lacy-jean-grey-2000719753",
+      "title": "News 'To Our PC Players, Message Received': Marvel Tokon Promises Huge Improvements Day One",
+      "url": "https://www.pushsquare.com/news/2026/07/to-our-pc-players-message-received-marvel-tokon-promises-huge-improvements-day-one",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Poll Did You Buy Halo: Campaign Evolved on PS5?",
       "url": "https://www.pushsquare.com/features/poll-did-you-buy-halo-campaign-evolved-on-ps5",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Guide Halo Campaign Evolved Guide: 100% Collectibles Walkthrough",
+      "url": "https://www.pushsquare.com/guides/halo-campaign-evolved-guide-100percent-collectibles-walkthrough",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
