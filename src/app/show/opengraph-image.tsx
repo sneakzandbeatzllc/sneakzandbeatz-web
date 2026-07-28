@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const runtime = "edge";
+export const runtime = "nodejs";
 
 // Per-page Open Graph image for /show. Generated at request time by
 // Next.js Image Response API — Vercel caches it edge-side. Distinct from
