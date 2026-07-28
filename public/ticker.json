@@ -1,18 +1,11 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-28T17:51:11+00:00",
+  "generated_utc": "2026-07-28T18:34:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 4 “Comic” Releases Tomorrow",
-      "url": "https://justfreshkicks.com/air-jordan-4-comic-io2362-100/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -60,8 +53,22 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 6 “Oreo” (CT8529-108) August 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-6-oreo-ct8529-108-drop/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
       "title": "Everything we know about Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 2",
       "url": "https://www.polygon.com/demon-slayer-kimetsu-no-yaiba-infinity-castle-part-2-plot-release-news-trailer/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Jujutsu Kaisen's Adam McArthur Reflects On Yuji Itadori's Emotional Arc",
+      "url": "https://screenrant.com/video/jujutsu-kaisen-season-3-adam-mcarthur-interview-sdcc-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,6 +102,13 @@
       "article_slug": null
     },
     {
+      "title": "K Manga Adds Yu Taguchi's Dazzling Spring Days Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-28/k-manga-adds-yu-taguchi-dazzling-spring-days-manga/.240014",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Akane Terai Launches New Ore Seijyo Manga",
       "url": "https://www.animenewsnetwork.com/news/2026-07-28/akane-terai-launches-new-ore-seijyo-manga/.240052",
       "pillar": "anime",
@@ -102,22 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Releases Song from 'A(E)liens'",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-28/cloverworks-omnibus-anime-film-grotesqqque-releases-song-from-aliens/.240048",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The biggest anime movie of all time is finally available to stream",
-      "url": "https://www.polygon.com/biggest-anime-movie-all-time-streaming-crunchyroll/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Dragon Age Can't Get the Mass Effect Remaster Treatment Because of Dev Difficulties",
-      "url": "https://www.pushsquare.com/news/2026/07/dragon-age-cant-get-the-mass-effect-remaster-treatment-because-of-dev-difficulties",
+      "title": "News Naughty Dog's Intergalactic Targeting 2027, Reliable Snoop Says",
+      "url": "https://www.pushsquare.com/news/2026/07/naughty-dogs-intergalactic-targeting-2027-reliable-snoop-says",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -125,13 +125,6 @@
     {
       "title": "Spider-Man: Brand New Day review \"Marvel Studios’ strongest standalone outing since Avengers: Endgame\"",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-review/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Spider-Man: Brand New Day Reviews Are Split On If It’s One Of Spidey’s Greatest Movies Or Just More Of The Same",
-      "url": "https://kotaku.com/spider-man-brand-new-day-review-roundup-rottentomatoes-2000719774",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Guide Halo Campaign Evolved Guide: 100% Collectibles Walkthrough",
-      "url": "https://www.pushsquare.com/guides/halo-campaign-evolved-guide-100percent-collectibles-walkthrough",
+      "title": "XBOX Starts Testing Ad-Supported Game Streaming In The Xbox Insiders Program",
+      "url": "https://gameranx.com/updates/id/563535/article/xbox-starts-testing-ad-supported-game-streaming-in-the-xbox-insiders-program/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Splatoon Raiders’ Limited Fashion Options Are Really Disappointing",
+      "url": "https://kotaku.com/splatoon-raiders-limited-fashion-options-disappointing-2000719813",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
