@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-28T23:09:11+00:00",
+  "generated_utc": "2026-07-28T23:57:33+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -147,18 +147,6 @@
       "release_badge": ""
     },
     {
-      "id": "ef953cd21732",
-      "pillar": "anime",
-      "title": "One Piece Suffers Crushing Defeat As Japan Crowns New #1 Action Series",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-loses-top-shonen-manga-kingdom/",
-      "thumbnail": "/drops/thumbs/ef953cd21732.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "dd9d7beb4107",
       "pillar": "anime",
       "title": "Märchen Crown Manga Enters Final Battle",
@@ -189,6 +177,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/biggest-anime-movie-all-time-streaming-crunchyroll/",
       "thumbnail": "/drops/thumbs/8cec33304e31.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d6a6996d931e",
+      "pillar": "anime",
+      "title": "Kujira Anan's 'And Yet, You Are So Sweet ' Manga Ends",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-28/kujira-anan-and-yet-you-are-so-sweet-manga-ends/.240039",
+      "thumbnail": "/drops/thumbs/d6a6996d931e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
