@@ -1,7 +1,7 @@
 import Link from "next/link";
 import fs from "node:fs";
 import path from "node:path";
-import { getRankedEssays, type LaneEssay } from "@/data/lane-essays";
+import { getRankedEssays, getFeaturedEssays, type LaneEssay } from "@/data/lane-essays";
 
 // Slug-named image in /public/lane wins; otherwise null (card uses the accent
 // gradient). Same resolver the article page uses, so heroes are consistent.
@@ -33,9 +33,10 @@ export default function LaneGrid({
       Used by the homepage "Latest from The Lane" rail. */
   balanced?: boolean;
 }) {
-  let items = getRankedEssays();
-  if (pillar) items = items.filter((e) => e.pillar === pillar);
-  if (balanced && !pillar && limit) {
+  let items = pillar
+    ? getRankedEssays().filter((e) => e.pillar === pillar)
+    : getFeaturedEssays();
+  if (balanced && false && !pillar && limit) {
     // 1) take the highest-ranked live article from EACH pillar, then
     // 2) fill remaining slots by trend rank. Final order stays trend-ranked.
     const order = new Map(items.map((e, i) => [e.slug, i]));

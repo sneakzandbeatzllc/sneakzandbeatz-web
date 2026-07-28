@@ -12081,6 +12081,26 @@ export function getRankedEssays(now: string = todayISO()): LaneEssay[] {
   });
 }
 
+// Homepage/feed ordering (PHRHX rule): fixed pillar pattern so SNEAKERS and
+// HIP-HOP always lead, with anime and gaming interleaved. Newest/hottest first
+// WITHIN each pillar. Pattern: sneakers, hip-hop, sneakers, hip-hop, anime,
+// sneakers, hip-hop, gaming (repeat).
+export function getFeaturedEssays(now: string = todayISO()): LaneEssay[] {
+  const ranked = getRankedEssays(now);
+  const buckets: Record<string, LaneEssay[]> = { sneakers: [], hiphop: [], anime: [], gaming: [] };
+  for (const e of ranked) { const b = buckets[e.pillar] || (buckets[e.pillar] = []); b.push(e); }
+  const pattern = ["sneakers", "hiphop", "sneakers", "hiphop", "anime", "sneakers", "hiphop", "gaming"];
+  const out: LaneEssay[] = [];
+  let i = 0, guard = 0;
+  while (out.length < ranked.length && guard++ < ranked.length * 8 + 64) {
+    const b = buckets[pattern[i % pattern.length]];
+    if (b && b.length) out.push(b.shift()!);
+    i++;
+  }
+  for (const p of Object.keys(buckets)) { for (const e of buckets[p]) out.push(e); }
+  return out;
+}
+
 export function getEssay(slug: string): LaneEssay | undefined {
   return LANE_ESSAYS.find((e) => e.slug === slug);
 }
