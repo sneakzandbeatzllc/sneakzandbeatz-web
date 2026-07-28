@@ -36,31 +36,7 @@ export default function LaneGrid({
   let items = pillar
     ? getRankedEssays().filter((e) => e.pillar === pillar)
     : getFeaturedEssays();
-  if (balanced && false && !pillar && limit) {
-    // 1) take the highest-ranked live article from EACH pillar, then
-    // 2) fill remaining slots by trend rank. Final order stays trend-ranked.
-    const order = new Map(items.map((e, i) => [e.slug, i]));
-    const used = new Set<string>();
-    const picked: LaneEssay[] = [];
-    for (const p of ["sneakers", "hiphop", "anime", "gaming"] as const) {
-      const top = items.find((e) => e.pillar === p && !used.has(e.slug));
-      if (top) {
-        picked.push(top);
-        used.add(top.slug);
-      }
-    }
-    for (const e of items) {
-      if (picked.length >= limit) break;
-      if (!used.has(e.slug)) {
-        picked.push(e);
-        used.add(e.slug);
-      }
-    }
-    picked.sort((a, b) => (order.get(a.slug) ?? 0) - (order.get(b.slug) ?? 0));
-    items = picked.slice(0, limit);
-  } else if (limit) {
-    items = items.slice(0, limit);
-  }
+  if (limit) items = items.slice(0, limit);
   const cards = items.map((e) => ({ e, heroSrc: e.heroImage ?? findHeroFile(e.slug) }));
   if (cards.length === 0) return null;
 
