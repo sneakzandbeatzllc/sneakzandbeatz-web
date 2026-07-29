@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T04:01:41+00:00",
+  "generated_utc": "2026-07-29T09:15:27+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "957486864afb",
+      "id": "de0dc1d8145d",
       "pillar": "gaming",
-      "title": "News Naughty Dog's Intergalactic Targeting 2027, Reliable Snoop Says",
+      "title": "News Spider-Man 2 Gets Enhanced PS5 Pro Support Today, Plus New Suits",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/naughty-dogs-intergalactic-targeting-2027-reliable-snoop-says",
-      "thumbnail": "/drops/thumbs/957486864afb.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/spider-man-2-gets-enhanced-ps5-pro-support-today-plus-new-suits",
+      "thumbnail": "/drops/thumbs/de0dc1d8145d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "918d9304ff03",
+      "id": "856047c9975c",
       "pillar": "gaming",
-      "title": "News 'To Our PC Players, Message Received': Marvel Tokon Promises Huge Improvements Day One",
+      "title": "Guide Halo Campaign Evolved Guide: 100% Collectibles Walkthrough",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/to-our-pc-players-message-received-marvel-tokon-promises-huge-improvements-day-one",
-      "thumbnail": "/drops/thumbs/918d9304ff03.jpg",
+      "source_url": "https://www.pushsquare.com/guides/halo-campaign-evolved-guide-100percent-collectibles-walkthrough",
+      "thumbnail": "/drops/thumbs/856047c9975c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "67d4186d382d",
     "8e46b75fe16c",
     "545d3b650dbf",
-    "957486864afb"
+    "de0dc1d8145d"
   ]
 }
