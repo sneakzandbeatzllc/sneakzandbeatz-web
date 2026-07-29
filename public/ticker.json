@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T19:21:09+00:00",
+  "generated_utc": "2026-07-29T19:23:19+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Interview Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans",
-      "url": "https://www.gamesradar.com/games/final-fantasy/naoki-hamaguchi-talks-final-fantasy-7-revelation-final-fantasy-14-and-physical-media-plans-its-a-wonderful-culture-and-it-would-be-a-shame-to-lose-that/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Final Fantasy 7 Revelation director wants \"some kind of physical edition\" for the RPG, but he can't promise it",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-director-wants-some-kind-of-physical-edition-for-the-rpg-but-he-cant-promise-it-as-sony-becomes-the-latest-to-shift-away-toward-digital/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Mini Review Avatar Legends: The Fighting Game (PS5) - Solid Foundation Bending to Greatness",
       "url": "https://www.pushsquare.com/reviews/ps5/avatar-legends-the-fighting-game",
       "pillar": "gaming",
@@ -139,13 +125,6 @@
     {
       "title": "News Early Data Suggests Unspectacular Start for Halo on PS5",
       "url": "https://www.pushsquare.com/news/2026/07/early-data-suggests-unspectacular-start-for-halo-on-ps5",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Now Playing After playing Halo: Campaign Evolved's prologue, I don't want another Halo remake – it's time for a new game 7 Comments",
-      "url": "https://www.gamesradar.com/games/halo/after-playing-halo-campaign-evolveds-prologue-i-dont-want-another-halo-remake-its-time-for-a-new-game/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +146,27 @@
     {
       "title": "Monolith Soft Has Confirmed They Have Once Again Helped Work On Splatoon Raiders",
       "url": "https://gameranx.com/updates/id/563533/article/monolith-soft-has-confirmed-they-have-once-again-helped-work-on-splatoon-raiders/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Tom Holland, Why Are You Like This?",
+      "url": "https://kotaku.com/spider-man-brand-new-day-tom-holland-spoilers-infinity-war-2000720167",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News One of Steam's Biggest New RPGs Is Officially Getting a PS5 Version",
+      "url": "https://www.pushsquare.com/news/2026/07/one-of-steams-biggest-new-rpgs-is-officially-getting-a-ps5-version",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Steam Deck Sales Sank By Approximately 82 % After Price Increases",
+      "url": "https://gameranx.com/updates/id/563530/article/steam-deck-sales-sank-by-approximately-82-after-price-increases/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

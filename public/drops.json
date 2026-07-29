@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T19:21:09+00:00",
+  "generated_utc": "2026-07-29T19:23:19+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -195,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "e979ccbc9d92",
-      "pillar": "gaming",
-      "title": "Interview Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/final-fantasy/naoki-hamaguchi-talks-final-fantasy-7-revelation-final-fantasy-14-and-physical-media-plans-its-a-wonderful-culture-and-it-would-be-a-shame-to-lose-that/",
-      "thumbnail": "/drops/thumbs/e979ccbc9d92.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9c2a3a0a67da",
-      "pillar": "gaming",
-      "title": "Final Fantasy 7 Revelation director wants \"some kind of physical edition\" for the RPG, but he can't promise it",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-director-wants-some-kind-of-physical-edition-for-the-rpg-but-he-cant-promise-it-as-sony-becomes-the-latest-to-shift-away-toward-digital/",
-      "thumbnail": "/drops/thumbs/9c2a3a0a67da.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "09f79c9e5e63",
       "pillar": "gaming",
       "title": "Mini Review Avatar Legends: The Fighting Game (PS5) - Solid Foundation Bending to Greatness",
@@ -237,18 +213,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/07/early-data-suggests-unspectacular-start-for-halo-on-ps5",
       "thumbnail": "/drops/thumbs/02f181ba528a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ee159d39070e",
-      "pillar": "gaming",
-      "title": "Now Playing After playing Halo: Campaign Evolved's prologue, I don't want another Halo remake – it's time for a new game 7 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/halo/after-playing-halo-campaign-evolveds-prologue-i-dont-want-another-halo-remake-its-time-for-a-new-game/",
-      "thumbnail": "/drops/thumbs/ee159d39070e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +253,42 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "736e825a7591",
+      "pillar": "gaming",
+      "title": "Tom Holland, Why Are You Like This?",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/spider-man-brand-new-day-tom-holland-spoilers-infinity-war-2000720167",
+      "thumbnail": "/drops/thumbs/736e825a7591.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "293dc010edde",
+      "pillar": "gaming",
+      "title": "News One of Steam's Biggest New RPGs Is Officially Getting a PS5 Version",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/one-of-steams-biggest-new-rpgs-is-officially-getting-a-ps5-version",
+      "thumbnail": "/drops/thumbs/293dc010edde.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f4efa9ca19fe",
+      "pillar": "gaming",
+      "title": "Steam Deck Sales Sank By Approximately 82 % After Price Increases",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563530/article/steam-deck-sales-sank-by-approximately-82-after-price-increases/",
+      "thumbnail": "/drops/thumbs/f4efa9ca19fe.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "67d4186d382d",
     "8e46b75fe16c",
     "545d3b650dbf",
-    "e979ccbc9d92"
+    "09f79c9e5e63"
   ]
 }
