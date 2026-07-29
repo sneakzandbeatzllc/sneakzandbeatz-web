@@ -5196,6 +5196,7 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-13-flint-2026",
+    heroImage: "/heroes/air-jordan-13-flint-2026.png",
     "pillar": "sneakers",
     "title": "The ‘Flint’ Air Jordan 13 Returns From 1998",
     "headline": "The ‘Flint’ 13 Is Back, Quietly Perfect",
@@ -8937,6 +8938,7 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "bleach-tybw-the-calamity-2026",
+    heroImage: "/heroes/bleach-tybw-the-calamity-2026.jpg",
     "pillar": "anime",
     "title": "Bleach TYBW 'The Calamity' Ends the War",
     "headline": "The Last\nBlood War.",
@@ -12048,6 +12050,7 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "air-jordan-1-high-og-love-letter-2026",
+    heroImage: "/heroes/air-jordan-1-high-og-love-letter-2026.webp",
     "pillar": "sneakers",
     "title": "The Air Jordan 1 \"Love Letter\" Honors MJ's Goodbye",
     "headline": "With Love\nand Respect.",
@@ -12074,6 +12077,7 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "50-cent-diddy-fort-dix-troll-2026",
+    heroImage: "/heroes/50-cent-diddy-fort-dix-troll-2026.jpg",
     "pillar": "hiphop",
     "title": "50 Cent Trolls Diddy From a Vegas Stage",
     "headline": "Fifty Never\nLets Up.",
@@ -12100,6 +12104,7 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "tyga-starface-album-2026",
+    heroImage: "/heroes/tyga-starface-album-2026.webp",
     "pillar": "hiphop",
     "title": "Tyga Becomes \"$TARFACE\" for a New '80s Album",
     "headline": "Tyga Goes\n'80s.",
