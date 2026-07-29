@@ -1,36 +1,26 @@
 /**
  * render-md.tsx
  *
- * Tiny server-side markdown renderer for Lane essays. Supports the subset
- * of Markdown the essays actually use:
- *
- *   - `## Heading` → <h2>
+ * Server-side markdown renderer for Lane essays. Supports:
+ *   - `## Heading` -> <h2>
  *   - paragraphs (blank-line separated)
- *   - `**bold**` and `*italic*`
- *   - `[link text](url)` — opens external in new tab
+ *   - `**bold**`, `*italic*`, `_italic_`
+ *   - `[link text](url)` — external opens in a new tab
  *   - `- item` lists
  *   - `---` horizontal rule
  *   - `> quote` blockquote
- *
- * No code blocks, no tables, no images — those aren't in the essays. If
- * you add an essay that needs them, extend this file rather than pulling
- * in a full markdown library (this codebase has stayed dep-light on purpose).
+ *   - `![alt](src "Credit Name|https://credit-url")` — in-body image w/ credit caption
+ *   - `!youtube(URL_or_ID)` — responsive, lazy-loaded video embed
  */
 
 import React from "react";
 
-// Inline transforms — order matters. Bold has to come before italic so
-// **a** doesn't get parsed as *<em>a</em>*.
 function renderInline(text: string): React.ReactNode[] {
   const tokens: React.ReactNode[] = [];
   let buf = text;
   let key = 0;
-
-  // Eat one match at a time, left to right.
-  // Pattern matches: bold | italic | link
   const RX =
     /\*\*([^*]+)\*\*|\*([^*]+)\*|_([^_]+)_|\[([^\]]+)\]\(([^)]+)\)/;
-
   while (true) {
     const m = buf.match(RX);
     if (!m) {
@@ -39,7 +29,6 @@ function renderInline(text: string): React.ReactNode[] {
     }
     const idx = m.index ?? 0;
     if (idx > 0) tokens.push(buf.slice(0, idx));
-
     if (m[1] != null) {
       tokens.push(<strong key={`b${key++}`}>{m[1]}</strong>);
     } else if (m[2] != null) {
@@ -63,44 +52,116 @@ function renderInline(text: string): React.ReactNode[] {
     }
     buf = buf.slice(idx + m[0].length);
   }
-
   return tokens;
 }
 
+function ytId(raw: string): string {
+  const s = raw.trim();
+  const m = s.match(/(?:v=|youtu\.be\/|embed\/|shorts\/)([\w-]{6,})/);
+  return m ? m[1] : s;
+}
+
 export function renderMarkdown(src: string): React.ReactNode {
-  // Split into blocks separated by blank lines (one or more).
   const blocks = src.split(/\n\s*\n/).map((b) => b.replace(/^\s+|\s+$/g, ""));
   const out: React.ReactNode[] = [];
 
   blocks.forEach((block, i) => {
     if (!block) return;
 
-    // Horizontal rule
     if (/^---+$/.test(block)) {
       out.push(<hr key={`hr${i}`} />);
       return;
     }
 
-    // Heading
+    // YouTube embed — !youtube(URL or ID) on its own line
+    const yt = block.match(/^!youtube\(([^)]+)\)$/);
+    if (yt) {
+      const id = ytId(yt[1]);
+      out.push(
+        <div
+          key={`yt${i}`}
+          style={{
+            position: "relative",
+            width: "100%",
+            paddingTop: "56.25%",
+            margin: "24px 0",
+            borderRadius: 12,
+            overflow: "hidden",
+            background: "#000",
+          }}
+        >
+          <iframe
+            src={`https://www.youtube-nocookie.com/embed/${id}`}
+            title="Video"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{
+              position: "absolute",
+              top: 0,
+              left: 0,
+              width: "100%",
+              height: "100%",
+              border: 0,
+            }}
+          />
+        </div>,
+      );
+      return;
+    }
+
+    // In-body image — ![alt](src "Credit|https://url") on its own line
+    const img = block.match(
+      /^!\[([^\]]*)\]\(([^)\s]+)(?:\s+"([^"]*)")?\)$/,
+    );
+    if (img) {
+      const alt = img[1] || "";
+      const isrc = img[2];
+      const credRaw = img[3] || "";
+      const [credName, credUrl] = credRaw.split("|");
+      out.push(
+        <figure key={`fig${i}`} style={{ margin: "24px 0" }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={isrc}
+            alt={alt}
+            loading="lazy"
+            style={{ width: "100%", borderRadius: 12, display: "block" }}
+          />
+          {credName ? (
+            <figcaption
+              style={{ fontSize: "0.78rem", opacity: 0.6, marginTop: 8 }}
+            >
+              Photo:{" "}
+              {credUrl ? (
+                <a href={credUrl} target="_blank" rel="noopener noreferrer">
+                  {credName}
+                </a>
+              ) : (
+                credName
+              )}
+            </figcaption>
+          ) : null}
+        </figure>,
+      );
+      return;
+    }
+
     const h2 = block.match(/^## (.+)$/);
     if (h2) {
       out.push(<h2 key={`h${i}`}>{renderInline(h2[1])}</h2>);
       return;
     }
 
-    // Blockquote — supports multi-line, each line starts with >
     if (/^> /.test(block)) {
       const inner = block
         .split("\n")
         .map((line) => line.replace(/^> ?/, ""))
         .join(" ");
-      out.push(
-        <blockquote key={`bq${i}`}>{renderInline(inner)}</blockquote>,
-      );
+      out.push(<blockquote key={`bq${i}`}>{renderInline(inner)}</blockquote>);
       return;
     }
 
-    // Bullet list — every line starts with `- `
     const isList = block.split("\n").every((line) => /^- /.test(line));
     if (isList) {
       const items = block.split("\n").map((line) => line.replace(/^- /, ""));
@@ -114,7 +175,6 @@ export function renderMarkdown(src: string): React.ReactNode {
       return;
     }
 
-    // Default — paragraph (joining wrapped lines into one)
     const text = block.replace(/\n/g, " ");
     out.push(<p key={`p${i}`}>{renderInline(text)}</p>);
   });
