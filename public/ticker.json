@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T01:59:44+00:00",
+  "generated_utc": "2026-07-29T03:00:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "Black Clover's True Ending Is 1 Week Away, And It's Looking Incredible",
+      "url": "https://screenrant.com/black-clover-true-ending-final-release-august-4/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "4 One Piece Pirate Crews Stronger Than The Straw Hats",
       "url": "https://screenrant.com/one-piece-pirate-crews-stronger-straw-hats/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "The biggest anime movie of all time is finally available to stream",
       "url": "https://www.polygon.com/biggest-anime-movie-all-time-streaming-crunchyroll/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Last Game , Vampire Knight Manga Get New Chapters in August",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-28/last-game-vampire-knight-manga-get-new-chapters-in-august/.240031",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
