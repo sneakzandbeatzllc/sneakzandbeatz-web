@@ -157,6 +157,18 @@ export function RoomHero() {
         </div>
         </div>
 
+        {/* category tiles moved to <CategoryMosaic /> below the articles */}
+      </div>
+    </section>
+  );
+}
+
+/* ------------------------------------------------------ CATEGORY MOSAIC */
+
+export function CategoryMosaic() {
+  return (
+    <section className="category-mosaic" style={{ padding: "8px 0 44px" }}>
+      <div className="container">
         <div className="roomgrid">
           {ZONES.map((z) => (
             <Link

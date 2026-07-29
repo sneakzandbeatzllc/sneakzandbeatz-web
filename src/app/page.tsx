@@ -8,6 +8,7 @@ import {
   OnAirBar,
   RoomHero,
   ProgramGuide,
+  CategoryMosaic,
   BeatLabV3,
   MerchZone,
   GirlsZone,
@@ -110,16 +111,20 @@ export default async function HomePage() {
       />
       <OnAirBar />
       <Header />
+      <RoomHero />
       <ShowEmbed />
       <ProgramGuide />
 
       <LaneGrid limit={8} balanced heading="Latest from The Lane" />
 
-      <RoomHero />
+      <CategoryMosaic />
 
       <BeatLabV3 />
       <MerchZone />
-      <GirlsZone />
+      {/* S&B Girls hidden until ready — delete the wrapper <div> below to show it again */}
+      <div style={{ display: "none" }} aria-hidden="true">
+        <GirlsZone />
+      </div>
       <TikTokFeed />
       <AdBreak />
       <SubstackSticker />
