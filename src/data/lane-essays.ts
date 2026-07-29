@@ -12104,7 +12104,7 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
   },
   {
     "slug": "tyga-starface-album-2026",
-    heroImage: "/heroes/tyga-starface-album-2026.webp",
+    heroImage: "/heroes/tyga-starface-album-2026.jpg",
     "pillar": "hiphop",
     "title": "Tyga Becomes \"$TARFACE\" for a New '80s Album",
     "headline": "Tyga Goes\n'80s.",
