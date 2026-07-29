@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T11:16:16+00:00",
+  "generated_utc": "2026-07-29T12:16:58+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -231,36 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "de0dc1d8145d",
-      "pillar": "gaming",
-      "title": "News Spider-Man 2 Gets Enhanced PS5 Pro Support Today, Plus New Suits",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/spider-man-2-gets-enhanced-ps5-pro-support-today-plus-new-suits",
-      "thumbnail": "/drops/thumbs/de0dc1d8145d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c278d68da37d",
       "pillar": "gaming",
       "title": "Spider-Man: Brand New Day review \"Marvel Studios’ strongest standalone outing since Avengers: Endgame\"",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-review/",
       "thumbnail": "/drops/thumbs/c278d68da37d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "856047c9975c",
-      "pillar": "gaming",
-      "title": "Guide Halo Campaign Evolved Guide: 100% Collectibles Walkthrough",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/halo-campaign-evolved-guide-100percent-collectibles-walkthrough",
-      "thumbnail": "/drops/thumbs/856047c9975c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +255,36 @@
       "release_badge": ""
     },
     {
+      "id": "5c3f420633cd",
+      "pillar": "gaming",
+      "title": "News Wuchang Sequel in the Works at New Studio Formed by Original's Creator",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/wuchang-sequel-in-the-works-at-new-studio-formed-by-originals-creator",
+      "thumbnail": "/drops/thumbs/5c3f420633cd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4746575f6edf",
       "pillar": "gaming",
       "title": "Monolith Soft Has Confirmed They Have Once Again Helped Work On Splatoon Raiders",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563533/article/monolith-soft-has-confirmed-they-have-once-again-helped-work-on-splatoon-raiders/",
       "thumbnail": "/drops/thumbs/4746575f6edf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4da4374aa54f",
+      "pillar": "gaming",
+      "title": "Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/double-fine-lays-off-employees-amid-xbox-separation-2000719885",
+      "thumbnail": "/drops/thumbs/4da4374aa54f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

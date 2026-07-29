@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T11:16:16+00:00",
+  "generated_utc": "2026-07-29T12:16:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,22 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "News Spider-Man 2 Gets Enhanced PS5 Pro Support Today, Plus New Suits",
-      "url": "https://www.pushsquare.com/news/2026/07/spider-man-2-gets-enhanced-ps5-pro-support-today-plus-new-suits",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Spider-Man: Brand New Day review \"Marvel Studios’ strongest standalone outing since Avengers: Endgame\"",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-review/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Guide Halo Campaign Evolved Guide: 100% Collectibles Walkthrough",
-      "url": "https://www.pushsquare.com/guides/halo-campaign-evolved-guide-100percent-collectibles-walkthrough",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "News Wuchang Sequel in the Works at New Studio Formed by Original's Creator",
+      "url": "https://www.pushsquare.com/news/2026/07/wuchang-sequel-in-the-works-at-new-studio-formed-by-originals-creator",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Monolith Soft Has Confirmed They Have Once Again Helped Work On Splatoon Raiders",
       "url": "https://gameranx.com/updates/id/563533/article/monolith-soft-has-confirmed-they-have-once-again-helped-work-on-splatoon-raiders/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox",
+      "url": "https://kotaku.com/double-fine-lays-off-employees-amid-xbox-separation-2000719885",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
