@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T18:19:45+00:00",
+  "generated_utc": "2026-07-29T18:21:57+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "2ab8639e59b1",
-      "pillar": "gaming",
-      "title": "News 'We're Going to Go a Bit Crazy': Clair Obscur Dev Doesn't Want to Hold Back on Its Next Game",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/were-going-to-go-a-bit-crazy-clair-obscur-dev-doesnt-want-to-hold-back-on-its-next-game",
-      "thumbnail": "/drops/thumbs/2ab8639e59b1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e979ccbc9d92",
       "pillar": "gaming",
       "title": "Interview Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans",
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "4746575f6edf",
+      "pillar": "gaming",
+      "title": "Monolith Soft Has Confirmed They Have Once Again Helped Work On Splatoon Raiders",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563533/article/monolith-soft-has-confirmed-they-have-once-again-helped-work-on-splatoon-raiders/",
+      "thumbnail": "/drops/thumbs/4746575f6edf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "67d4186d382d",
     "8e46b75fe16c",
     "545d3b650dbf",
-    "2ab8639e59b1"
+    "e979ccbc9d92"
   ]
 }

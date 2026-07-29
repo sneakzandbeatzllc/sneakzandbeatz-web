@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T18:19:45+00:00",
+  "generated_utc": "2026-07-29T18:21:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "News 'We're Going to Go a Bit Crazy': Clair Obscur Dev Doesn't Want to Hold Back on Its Next Game",
-      "url": "https://www.pushsquare.com/news/2026/07/were-going-to-go-a-bit-crazy-clair-obscur-dev-doesnt-want-to-hold-back-on-its-next-game",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Interview Naoki Hamaguchi talks Final Fantasy 7 Revelation, Final Fantasy 14, and physical media plans",
       "url": "https://www.gamesradar.com/games/final-fantasy/naoki-hamaguchi-talks-final-fantasy-7-revelation-final-fantasy-14-and-physical-media-plans-its-a-wonderful-culture-and-it-would-be-a-shame-to-lose-that/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "8 Best Games To Play After The Adventures Of Elliot",
       "url": "https://kotaku.com/8-best-games-to-play-after-the-adventures-of-elliot-2000719865",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Monolith Soft Has Confirmed They Have Once Again Helped Work On Splatoon Raiders",
+      "url": "https://gameranx.com/updates/id/563533/article/monolith-soft-has-confirmed-they-have-once-again-helped-work-on-splatoon-raiders/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
