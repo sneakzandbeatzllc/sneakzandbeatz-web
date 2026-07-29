@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T21:25:19+00:00",
+  "generated_utc": "2026-07-29T22:23:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Naruto Card Game's Trailers Reveal Cards, Rules",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-29/naruto-card-game-trailers-reveal-cards-rules/.240082",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Black Clover's True Ending Is 1 Week Away, And It's Looking Incredible",
       "url": "https://screenrant.com/black-clover-true-ending-final-release-august-4/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Crunchyroll gets its first-ever streaming bundle, and it’s an odd pairing",
       "url": "https://www.polygon.com/crunchyroll-streaming-bundle-starz-prime-video/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ingoku Danchi Manga Ends on July 31",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-29/ingoku-danchi-manga-ends-on-july-31/.240058",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -112,6 +112,13 @@
       "title": "Gabriel Dropout Manga Ends in Next Chapter",
       "url": "https://www.animenewsnetwork.com/news/2026-07-29/gabriel-dropout-manga-ends-in-next-chapter/.240057",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon",
+      "url": "https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -153,13 +160,6 @@
     {
       "title": "XBOX Starts Testing Ad-Supported Game Streaming In The Xbox Insiders Program",
       "url": "https://gameranx.com/updates/id/563535/article/xbox-starts-testing-ad-supported-game-streaming-in-the-xbox-insiders-program/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "A Production Assistant’s Heroic Performance During This Week’s Game Changer Is A Beautiful Lesson In ‘Do It Scared’",
-      "url": "https://kotaku.com/game-changer-season-8-episode-6-production-assistant-heroic-performance-2000720191",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

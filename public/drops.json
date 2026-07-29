@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T21:25:19+00:00",
+  "generated_utc": "2026-07-29T22:23:57+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -135,18 +135,6 @@
       "release_badge": ""
     },
     {
-      "id": "1a0858bd3d8f",
-      "pillar": "anime",
-      "title": "Naruto Card Game's Trailers Reveal Cards, Rules",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/naruto-card-game-trailers-reveal-cards-rules/.240082",
-      "thumbnail": "/drops/thumbs/1a0858bd3d8f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ff7086f40e36",
       "pillar": "anime",
       "title": "Black Clover's True Ending Is 1 Week Away, And It's Looking Incredible",
@@ -171,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "6753f98f7f07",
+      "pillar": "anime",
+      "title": "Ingoku Danchi Manga Ends on July 31",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/ingoku-danchi-manga-ends-on-july-31/.240058",
+      "thumbnail": "/drops/thumbs/6753f98f7f07.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "63cf0ddad2c5",
       "pillar": "anime",
       "title": "Say goodbye to the most influential coming-of-age anime of the century leaving Netflix",
@@ -189,6 +189,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/gabriel-dropout-manga-ends-in-next-chapter/.240057",
       "thumbnail": "/drops/thumbs/8c923679fd61.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "57cd2ad2103a",
+      "pillar": "gaming",
+      "title": "Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315",
+      "thumbnail": "/drops/thumbs/57cd2ad2103a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,18 +279,6 @@
       "release_badge": ""
     },
     {
-      "id": "10e2d5645cb0",
-      "pillar": "gaming",
-      "title": "A Production Assistant’s Heroic Performance During This Week’s Game Changer Is A Beautiful Lesson In ‘Do It Scared’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/game-changer-season-8-episode-6-production-assistant-heroic-performance-2000720191",
-      "thumbnail": "/drops/thumbs/10e2d5645cb0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4746575f6edf",
       "pillar": "gaming",
       "title": "Monolith Soft Has Confirmed They Have Once Again Helped Work On Splatoon Raiders",
@@ -297,6 +297,6 @@
     "67d4186d382d",
     "be5003731eea",
     "545d3b650dbf",
-    "e979ccbc9d92"
+    "57cd2ad2103a"
   ]
 }
