@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T09:15:27+00:00",
+  "generated_utc": "2026-07-29T11:15:37+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "8cec33304e31",
+      "id": "63cf0ddad2c5",
       "pillar": "anime",
-      "title": "The biggest anime movie of all time is finally available to stream",
+      "title": "Say goodbye to the most influential coming-of-age anime of the century leaving Netflix",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/biggest-anime-movie-all-time-streaming-crunchyroll/",
-      "thumbnail": "/drops/thumbs/8cec33304e31.jpg",
+      "source_url": "https://www.polygon.com/watch-shonen-coming-of-age-anime-binge-watch-netflix/",
+      "thumbnail": "/drops/thumbs/63cf0ddad2c5.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "de0dc1d8145d",
+      "id": "a881953f0040",
       "pillar": "gaming",
-      "title": "News Spider-Man 2 Gets Enhanced PS5 Pro Support Today, Plus New Suits",
+      "title": "News Insomniac's Spider-Man Finishing Moves Influenced Brand New Day, Says Tom Holland",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/spider-man-2-gets-enhanced-ps5-pro-support-today-plus-new-suits",
-      "thumbnail": "/drops/thumbs/de0dc1d8145d.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-finishing-moves-influenced-brand-new-day-says-tom-holland",
+      "thumbnail": "/drops/thumbs/a881953f0040.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +225,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/final-fantasy-14-evercold-final-fantasy-7-remake-crossover-raid-2000719881",
       "thumbnail": "/drops/thumbs/355f44904755.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "de0dc1d8145d",
+      "pillar": "gaming",
+      "title": "News Spider-Man 2 Gets Enhanced PS5 Pro Support Today, Plus New Suits",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/spider-man-2-gets-enhanced-ps5-pro-support-today-plus-new-suits",
+      "thumbnail": "/drops/thumbs/de0dc1d8145d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "4da4374aa54f",
-      "pillar": "gaming",
-      "title": "Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/double-fine-lays-off-employees-amid-xbox-separation-2000719885",
-      "thumbnail": "/drops/thumbs/4da4374aa54f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "67d4186d382d",
     "8e46b75fe16c",
     "545d3b650dbf",
-    "de0dc1d8145d"
+    "a881953f0040"
   ]
 }
