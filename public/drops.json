@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T15:19:14+00:00",
+  "generated_utc": "2026-07-29T16:18:08+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -135,6 +135,18 @@
       "release_badge": ""
     },
     {
+      "id": "1a0858bd3d8f",
+      "pillar": "anime",
+      "title": "Naruto Card Game's Trailers Reveal Cards, Rules",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/naruto-card-game-trailers-reveal-cards-rules/.240082",
+      "thumbnail": "/drops/thumbs/1a0858bd3d8f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ff7086f40e36",
       "pillar": "anime",
       "title": "Black Clover's True Ending Is 1 Week Away, And It's Looking Incredible",
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "64b37e71d4eb",
-      "pillar": "anime",
-      "title": "Pokémon Pokopia Game's Expansion Pass Trailer Reveals August 5 Launch for Bubbly Basin DLC",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/pokemon-pokopia-game-expansion-pass-trailer-reveals-august-5-launch-for-bubbly-basin-dlc/.240081",
-      "thumbnail": "/drops/thumbs/64b37e71d4eb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "63cf0ddad2c5",
       "pillar": "anime",
       "title": "Say goodbye to the most influential coming-of-age anime of the century leaving Netflix",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "6be4fe6ee1bf",
+      "id": "64b37e71d4eb",
       "pillar": "anime",
-      "title": "Inherit the Winds TV Anime Casts Ayumu Murase",
+      "title": "Pokémon Pokopia Game's Expansion Pass Trailer Reveals August 5 Launch for Bubbly Basin DLC",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/inherit-the-winds-tv-anime-casts-ayumu-murase/.240074",
-      "thumbnail": "/drops/thumbs/6be4fe6ee1bf.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/pokemon-pokopia-game-expansion-pass-trailer-reveals-august-5-launch-for-bubbly-basin-dlc/.240081",
+      "thumbnail": "/drops/thumbs/64b37e71d4eb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,18 +213,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/final-fantasy/naoki-hamaguchi-talks-final-fantasy-7-revelation-final-fantasy-14-and-physical-media-plans-its-a-wonderful-culture-and-it-would-be-a-shame-to-lose-that/",
       "thumbnail": "/drops/thumbs/e979ccbc9d92.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a881953f0040",
-      "pillar": "gaming",
-      "title": "News Insomniac's Spider-Man Finishing Moves Influenced Brand New Day, Says Tom Holland",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/insomniacs-spider-man-finishing-moves-influenced-brand-new-day-says-tom-holland",
-      "thumbnail": "/drops/thumbs/a881953f0040.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "0db7228caec7",
+      "id": "8d296b9b5aa4",
       "pillar": "gaming",
-      "title": "Silent Hill: Townfall Tackles The Scariest Subject Of Them All: Healthcare",
+      "title": "The Ambitious Open-World Cyberpunk Action Game Troy Baker Was Working On Gets Hit With Mass Layoff",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/silent-hill-townfall-tackles-the-scariest-subject-of-them-all-healthcare-2000720196",
-      "thumbnail": "/drops/thumbs/0db7228caec7.jpg",
+      "source_url": "https://kotaku.com/last-sentinel-development-reboot-troy-baker-tencent-pubg-mobile-2000720164",
+      "thumbnail": "/drops/thumbs/8d296b9b5aa4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4746575f6edf",
+      "pillar": "gaming",
+      "title": "Monolith Soft Has Confirmed They Have Once Again Helped Work On Splatoon Raiders",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563533/article/monolith-soft-has-confirmed-they-have-once-again-helped-work-on-splatoon-raiders/",
+      "thumbnail": "/drops/thumbs/4746575f6edf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
