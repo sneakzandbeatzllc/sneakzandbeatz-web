@@ -110,11 +110,12 @@ export default async function HomePage() {
       />
       <OnAirBar />
       <Header />
-      <RoomHero />
-      <ProgramGuide />
       <ShowEmbed />
+      <ProgramGuide />
 
       <LaneGrid limit={8} balanced heading="Latest from The Lane" />
+
+      <RoomHero />
 
       <BeatLabV3 />
       <MerchZone />
