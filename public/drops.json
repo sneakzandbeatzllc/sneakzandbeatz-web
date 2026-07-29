@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T16:19:59+00:00",
+  "generated_utc": "2026-07-29T18:19:45+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "e4e6e55acfcf",
+      "id": "9c03ad772a55",
       "pillar": "anime",
-      "title": "New Ghost in the Shell Anime Announces 2 New Cast Members",
+      "title": "Crunchyroll, Starz Announce Bundle Through Amazon Prime Video in U.S.",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/new-ghost-in-the-shell-anime-announces-2-new-cast-members/.240079",
-      "thumbnail": "/drops/thumbs/e4e6e55acfcf.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/crunchyroll-starz-announce-bundle-through-amazon-prime-video-in-u.s/.240085",
+      "thumbnail": "/drops/thumbs/9c03ad772a55.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "64b37e71d4eb",
+      "id": "e4e6e55acfcf",
       "pillar": "anime",
-      "title": "Pokémon Pokopia Game's Expansion Pass Trailer Reveals August 5 Launch for Bubbly Basin DLC",
+      "title": "New Ghost in the Shell Anime Announces 2 New Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/pokemon-pokopia-game-expansion-pass-trailer-reveals-august-5-launch-for-bubbly-basin-dlc/.240081",
-      "thumbnail": "/drops/thumbs/64b37e71d4eb.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/new-ghost-in-the-shell-anime-announces-2-new-cast-members/.240079",
+      "thumbnail": "/drops/thumbs/e4e6e55acfcf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "4138999f9955",
+      "id": "09f79c9e5e63",
       "pillar": "gaming",
-      "title": "News Halo Fares a Hair Better on PS5 Than Xbox, with PS5 Pro the Best Place to Play",
+      "title": "Mini Review Avatar Legends: The Fighting Game (PS5) - Solid Foundation Bending to Greatness",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/halo-fares-a-hair-better-on-ps5-than-xbox-with-ps5-pro-the-best-place-to-play",
-      "thumbnail": "/drops/thumbs/4138999f9955.jpg",
+      "source_url": "https://www.pushsquare.com/reviews/ps5/avatar-legends-the-fighting-game",
+      "thumbnail": "/drops/thumbs/09f79c9e5e63.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "02f181ba528a",
+      "pillar": "gaming",
+      "title": "News Early Data Suggests Unspectacular Start for Halo on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/early-data-suggests-unspectacular-start-for-halo-on-ps5",
+      "thumbnail": "/drops/thumbs/02f181ba528a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -245,7 +257,7 @@
     {
       "id": "ee159d39070e",
       "pillar": "gaming",
-      "title": "Now Playing After playing Halo: Campaign Evolved's prologue, I don't want another Halo remake – it's time for a new game 5 Comments",
+      "title": "Now Playing After playing Halo: Campaign Evolved's prologue, I don't want another Halo remake – it's time for a new game 6 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/halo/after-playing-halo-campaign-evolveds-prologue-i-dont-want-another-halo-remake-its-time-for-a-new-game/",
       "thumbnail": "/drops/thumbs/ee159d39070e.jpg",
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "8d296b9b5aa4",
+      "id": "47714336ddc4",
       "pillar": "gaming",
-      "title": "The Ambitious Open-World Cyberpunk Action Game Troy Baker Was Working On Gets Hit With Mass Layoff",
+      "title": "8 Best Games To Play After The Adventures Of Elliot",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/last-sentinel-development-reboot-troy-baker-tencent-pubg-mobile-2000720164",
-      "thumbnail": "/drops/thumbs/8d296b9b5aa4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4746575f6edf",
-      "pillar": "gaming",
-      "title": "Monolith Soft Has Confirmed They Have Once Again Helped Work On Splatoon Raiders",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563533/article/monolith-soft-has-confirmed-they-have-once-again-helped-work-on-splatoon-raiders/",
-      "thumbnail": "/drops/thumbs/4746575f6edf.jpg",
+      "source_url": "https://kotaku.com/8-best-games-to-play-after-the-adventures-of-elliot-2000719865",
+      "thumbnail": "/drops/thumbs/47714336ddc4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
