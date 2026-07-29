@@ -12045,7 +12045,86 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
     "publishedAt": "2026-07-28",
     "body": "A studio change on a beloved comedy is never just a credit swap. It's a bet, and KonoSuba fans know it.\n\n## What dropped\nKonoSuba Season 4 is confirmed for 2027, with animation moving to Studio ENGI after Drive handled Season 3 and the 2023 Megumin spin-off. New leadership: Takaomi Kanasaki as chief director, Manabu Kurihara directing, composer Masato Koda returning. The July 26 reveal — new key visual, studio change, 2027 window — hit X's trending topics the same day.\n\n## Why it split the room\nKonoSuba's whole charm is its intentionally loose, expressive animation — the derpy faces are the joke. A new studio inheriting that comic timing is a real question: the humor lives in the frames, not just the script. Fans aren't worried about the story; they're worried about the faces.\n\n## The read\nKeeping the director and composer in the family is ENGI's insurance policy — the comedic DNA travels with the leadership even as the hands change. Whether the new studio can land Aqua's meltdowns is the entire test.\n\n## The move\nWatch for a proper trailer. Static key art can't answer the only question that matters: does the comedy still move right.\n\n## Sources\n- Anime Corner: https://animecorner.me/konosuba-season-4-reveals-key-visual-studio-change-2027-release/\n- Anime Hunch: https://animehunch.com/konosuba-season-4-confirms-2027-release-with-new-studio-taking-over-production/",
     "goLiveAt": "2026-07-28"
+  },
+  {
+    "slug": "air-jordan-1-high-og-love-letter-2026",
+    "pillar": "sneakers",
+    "title": "The Air Jordan 1 \"Love Letter\" Honors MJ's Goodbye",
+    "headline": "With Love\nand Respect.",
+    "subhead": "An AJ1 High OG built around Jordan's 2003 open letter to basketball — aged-ball browns, a hidden message, out August 1 for $185.",
+    "description": "The Air Jordan 1 High OG \"Love Letter\" (DZ5485-201) drops August 1, 2026 for $185, themed on MJ's farewell letter to basketball. Sneakz & Beatz breaks it down.",
+    "publishedAt": "2026-07-29",
+    "goLiveAt": "2026-07-29",
+    "keywords": [
+      "Air Jordan 1 Love Letter",
+      "AJ1 Love Letter",
+      "DZ5485-201",
+      "Air Jordan 1 High OG",
+      "Jordan retro 2026",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "The Love Letter\nAJ1.",
+    "ogAccent": "6B4423",
+    "body": "Most Jordan retros sell you a colorway. This one sells you a moment — the day Mike said goodbye to the game.\n\n## What's dropping\nThe Air Jordan 1 High OG \"Love Letter\" hits August 1 for $185, style code DZ5485-201, in a worn-in Shadow Brown / Light British Tan / Team Red palette. The whole build reads like an aged basketball: brown nubuck on the ankle and heel, white leather base, dark brown suede on the overlays, collar and Swooshes, muted red on the outsole and insoles.\n\n## The story in the shoe\nIt's tied to the open letter Jordan published in Sunday papers days after his final NBA game in 2003. \"With Love and Respect\" — the letter's closing — is printed on the medial side of the left shoe, and the inner tongue carries a longer passage about the game being bigger than a ball or a court. A basketball-shaped hangtag and a matching printed box finish the theme.\n\n## Why it lands\nStorytelling retros hit different when the story is real. This isn't a random GR — it's a tribute to the exit of the most important athlete in sneaker history, in a grown, understated palette you can actually wear. That's the lane the AJ1 High OG does best.\n\n## The move\nAugust 1 on SNKRS and select Jordan retailers, $185. If you collect on meaning and not just heat, this is the one to grab this week.\n\n## Sources\n- Sneaker Bar Detroit — Air Jordan 1 High OG \"Love Letter\" Releases August 1st (Jun 27, 2026): https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/\n- SneakerNews — Air Jordan 1 Love Letter (DZ5485-201): https://sneakernews.com/2026/06/18/air-jordan-1-love-letter-dz5485-201/",
+    "heroCredit": "Sneaker Bar Detroit",
+    "heroCreditUrl": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
+    "heroFocus": "center",
+    "trendScore": 90
+  },
+  {
+    "slug": "50-cent-diddy-fort-dix-troll-2026",
+    "pillar": "hiphop",
+    "title": "50 Cent Trolls Diddy From a Vegas Stage",
+    "headline": "Fifty Never\nLets Up.",
+    "subhead": "At LIV Beach in Vegas on July 25, 50 Cent worked Diddy's reported prison fight into his set — the latest jab in a 20-year feud.",
+    "description": "50 Cent mocked Diddy over a reported Fort Dix prison altercation during a July 25 LIV Beach set in Las Vegas. Sneakz & Beatz on the two-decade feud.",
+    "publishedAt": "2026-07-29",
+    "goLiveAt": "2026-07-29",
+    "keywords": [
+      "50 Cent",
+      "Diddy",
+      "50 Cent Diddy feud",
+      "Fort Dix",
+      "LIV Beach Las Vegas",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "50 trolls\nDiddy again.",
+    "ogAccent": "8A1C1C",
+    "body": "Twenty years in, 50 Cent still won't let a Diddy news cycle pass without a word. This weekend he did it on stage in Vegas.\n\n## What happened\nPerforming at LIV Beach inside the Fontainebleau in Las Vegas on July 25, 50 — Curtis Jackson — paused his set to thank the crowd, then landed the jab: \"You could've been anywhere, you picked being here... You coulda been in Fort Dix with Puffy in the box.\" \"The box\" is slang for solitary. The clip spread fast, and HOT 97, Complex and TMZ all ran it.\n\n## The context — reported, not confirmed\nThe joke followed a TMZ report that Sean Combs was in a physical altercation with another inmate at FCI Fort Dix in New Jersey. Treat that as a report: the Bureau of Prisons declined to comment on the incident or any move to a Special Housing Unit. Combs is serving a 50-month federal sentence after a 2025 conviction on two counts of transportation to engage in prostitution; he was acquitted of the racketeering and sex-trafficking charges. Reps for Combs haven't commented on the reported fight or 50's remarks.\n\n## The read\nThis is the longest-running rivalry in the culture — 50 vs. Diddy goes back to 2006, and 50 has spent that whole run turning Diddy's headlines into content. Cold or just business, it's vintage 50: find the pressure point, say it on the biggest stage in the room, let the clip do the rest.\n\n## The move\nWatch whether Combs' camp responds — they've stayed quiet so far. Until then it's another night of 50 doing what 50 does.\n\n## Sources\n- HOT 97 — 50 Cent Trolls Diddy Over Reported Prison Fight (Jul 28, 2026): https://www.hot97.com/news/50-cent-trolls-diddy-over-reported-prison-fight-and-solitary-confinement/\n- Complex — 50 Cent Jokes to Crowd About Diddy Being in Prison: https://www.complex.com/music/a/tracewilliamcowen/50-cent-jokes-diddy-prison\n- TMZ — 50 Cent Takes a Shot at Diddy (Jul 27, 2026): https://www.tmz.com/2026/07/27/50-cent-trolls-diddy-solitary-confinement/",
+    "heroCredit": "HOT 97 / Getty Images",
+    "heroCreditUrl": "https://www.hot97.com/news/50-cent-trolls-diddy-over-reported-prison-fight-and-solitary-confinement/",
+    "heroFocus": "center top",
+    "trendScore": 92
+  },
+  {
+    "slug": "tyga-starface-album-2026",
+    "pillar": "hiphop",
+    "title": "Tyga Becomes \"$TARFACE\" for a New '80s Album",
+    "headline": "Tyga Goes\n'80s.",
+    "subhead": "A 10-track alter-ego album — synth-wave, funk and Miami-in-1983 styling — drops July 31.",
+    "description": "Tyga's \"$TARFACE,\" a 10-track '80s-inspired alter-ego album, arrives July 31, 2026. Sneakz & Beatz on his synth-wave pivot.",
+    "publishedAt": "2026-07-29",
+    "goLiveAt": "2026-07-29",
+    "keywords": [
+      "Tyga",
+      "$TARFACE",
+      "Starface album",
+      "80s synth rap",
+      "Tyga 2026",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "$TARFACE\nJuly 31.",
+    "ogAccent": "C21B6F",
+    "body": "Tyga's whole career is reading the room and switching lanes early. His next move is the boldest swerve yet — he's not dropping a Tyga album, he's becoming somebody else.\n\n## What's dropping\n\"$TARFACE\" arrives July 31 — a 10-track project built around a full 1980s alter-ego of the same name. It trades Tyga's trap default for synth-wave, pop, R&B and funk, blending singing and rapping into a cinematic, era-specific sound. Singles \"Affection\" and \"GAVE U RACKS\" are already out, along with \"Lavi$h\" featuring Fenix Flexin, whose IG preview cleared 13 million views before the album even landed.\n\n## The concept\nThis isn't a loosie repackage. $TARFACE is a fully built persona set in a fictional early-'80s Miami — tailored silk, vintage luxury, Jheri curls — an original story loosely riffing on Scarface mythology without being it. It follows 2025's \"NSFW,\" his first solo album in six years, which had Big Sean, Lil Wayne, Cher and Ty Dolla $ign in the mix.\n\n## The read\nConcept albums are a gamble — they either become a signature or a footnote. But an alter-ego lets an artist take swings his main name can't, and Tyga betting on a full '80s world instead of chasing the current sound is at least interesting, which is more than most of the release calendar can say.\n\n## The move\nJuly 31. Go in expecting a mood piece, not a club run — that's the whole point of $TARFACE.\n\n## Sources\n- Billboard — Tyga Trades 808s for '80s Synths With $TARFACE: https://www.billboard.com/music/rb-hip-hop/tyga-unveils-starface-alter-ego-10-track-project-1236287676/\n- AceShowbiz — Tyga Reveals '80s Alter-Ego Album $tarface (Jul 23, 2026): https://www.aceshowbiz.com/news/view/00260330.html",
+    "heroCredit": "AceShowbiz / Instagram (Tyga)",
+    "heroCreditUrl": "https://www.aceshowbiz.com/news/view/00260330.html",
+    "heroFocus": "center",
+    "trendScore": 84
   }
+
 ];
 
 // --- Scheduled publishing -------------------------------------------------
