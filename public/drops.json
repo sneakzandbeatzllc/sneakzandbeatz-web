@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T19:24:14+00:00",
+  "generated_utc": "2026-07-29T20:22:10+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "8e46b75fe16c",
-      "pillar": "anime",
-      "title": "Everything we know about Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 2",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/demon-slayer-kimetsu-no-yaiba-infinity-castle-part-2-plot-release-news-trailer/",
-      "thumbnail": "/drops/thumbs/8e46b75fe16c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "be5003731eea",
       "pillar": "anime",
       "title": "Jujutsu Kaisen's Adam McArthur Reflects On Yuji Itadori's Emotional Arc",
@@ -129,6 +117,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/demon-slayer-infinity-castle-crunchyroll-streaming-now/",
       "thumbnail": "/drops/thumbs/eab22b3a1279.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8f42f4ff5d58",
+      "pillar": "anime",
+      "title": "My Hero Academia's Kōhei Horikoshi Writes New 1-Shot Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/my-hero-academia-kohei-horikoshi-writes-new-1-shot-manga/.240089",
+      "thumbnail": "/drops/thumbs/8f42f4ff5d58.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "cf391941b0c5",
+      "id": "3301b4e07583",
       "pillar": "anime",
-      "title": "IDW Licenses Sonic the Hedgehog: The Blade of Courage Manga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/idw-licenses-sonic-the-hedgehog-the-blade-of-courage-manga/.240088",
-      "thumbnail": "/drops/thumbs/cf391941b0c5.jpg",
+      "title": "Crunchyroll gets its first-ever streaming bundle, and it’s an odd pairing",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/crunchyroll-streaming-bundle-starz-prime-video/",
+      "thumbnail": "/drops/thumbs/3301b4e07583.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "9c03ad772a55",
+      "id": "e895a38575f3",
       "pillar": "anime",
-      "title": "Crunchyroll, Starz Announce Bundle Through Amazon Prime Video in U.S.",
+      "title": "'You Got Me, Sempai!' Author Azusa Mase Launches New Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/crunchyroll-starz-announce-bundle-through-amazon-prime-video-in-u.s/.240085",
-      "thumbnail": "/drops/thumbs/9c03ad772a55.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/you-got-me-sempai-author-azusa-mase-launches-new-manga/.240045",
+      "thumbnail": "/drops/thumbs/e895a38575f3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "ee5f0184f597",
+      "id": "de5adbe97d64",
       "pillar": "gaming",
-      "title": "Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama",
+      "title": "Xbox Says Recent Outage Shouldn’t Have Screwed With Your Physical Games And Promises A Fix",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281",
-      "thumbnail": "/drops/thumbs/ee5f0184f597.jpg",
+      "source_url": "https://kotaku.com/xbox-says-recent-outage-shouldnt-have-screwed-with-your-physical-games-and-promises-a-fix-2000720285",
+      "thumbnail": "/drops/thumbs/de5adbe97d64.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "70ced94e4a3b",
     "4c0c135c5fd0",
     "67d4186d382d",
-    "8e46b75fe16c",
+    "be5003731eea",
     "545d3b650dbf",
     "e979ccbc9d92"
   ]

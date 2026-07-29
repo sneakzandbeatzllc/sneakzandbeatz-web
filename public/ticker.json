@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-29T19:24:14+00:00",
+  "generated_utc": "2026-07-29T20:22:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Everything we know about Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 2",
-      "url": "https://www.polygon.com/demon-slayer-kimetsu-no-yaiba-infinity-castle-part-2-plot-release-news-trailer/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Jujutsu Kaisen's Adam McArthur Reflects On Yuji Itadori's Emotional Arc",
       "url": "https://screenrant.com/video/jujutsu-kaisen-season-3-adam-mcarthur-interview-sdcc-2026/",
       "pillar": "anime",
@@ -76,6 +69,13 @@
     {
       "title": "1 Year Later, Demon Slayer Just Brought Infinity Castle's Movie To Crunchyroll",
       "url": "https://screenrant.com/demon-slayer-infinity-castle-crunchyroll-streaming-now/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "My Hero Academia's Kōhei Horikoshi Writes New 1-Shot Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-29/my-hero-academia-kohei-horikoshi-writes-new-1-shot-manga/.240089",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "IDW Licenses Sonic the Hedgehog: The Blade of Courage Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-29/idw-licenses-sonic-the-hedgehog-the-blade-of-courage-manga/.240088",
+      "title": "Crunchyroll gets its first-ever streaming bundle, and it’s an odd pairing",
+      "url": "https://www.polygon.com/crunchyroll-streaming-bundle-starz-prime-video/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll, Starz Announce Bundle Through Amazon Prime Video in U.S.",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-29/crunchyroll-starz-announce-bundle-through-amazon-prime-video-in-u.s/.240085",
+      "title": "'You Got Me, Sempai!' Author Azusa Mase Launches New Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-29/you-got-me-sempai-author-azusa-mase-launches-new-manga/.240045",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama",
-      "url": "https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281",
+      "title": "Xbox Says Recent Outage Shouldn’t Have Screwed With Your Physical Games And Promises A Fix",
+      "url": "https://kotaku.com/xbox-says-recent-outage-shouldnt-have-screwed-with-your-physical-games-and-promises-a-fix-2000720285",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
