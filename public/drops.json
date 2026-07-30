@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T15:35:34+00:00",
+  "generated_utc": "2026-07-30T17:09:05+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -13,18 +13,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "4c0c135c5fd0",
-      "pillar": "sneakers",
-      "title": "Free the Youth’s Air Jordan 16 Releases in August",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
-      "thumbnail": "/drops/thumbs/4c0c135c5fd0.webp",
-      "published": "2026-07-27T12:33:08",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "67d4186d382d",
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "1204fed5cb38",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
+      "thumbnail": "/drops/thumbs/1204fed5cb38.jpg",
+      "published": "2026-07-29T08:25:55",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "70c18170a7d5",
       "pillar": "anime",
       "title": "Bleach Filler List: Every Episode & Arc You Can Skip",
@@ -123,12 +123,24 @@
       "release_badge": ""
     },
     {
-      "id": "ff7086f40e36",
+      "id": "cc3449c8d553",
       "pillar": "anime",
-      "title": "Black Clover's True Ending Is 1 Week Away, And It's Looking Incredible",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-true-ending-final-release-august-4/",
-      "thumbnail": "/drops/thumbs/ff7086f40e36.png",
+      "title": "Tsuihо̄ Sareta Shо̄nin wa Kin no Chikara de Sekai wo Sukū Novels Get TV Anime, Manga Adaptations",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-30/tsuih-sareta-sh-nin-wa-kin-no-chikara-de-sekai-wo-suku-novels-get-tv-anime-manga-adaptations/.240117",
+      "thumbnail": "/drops/thumbs/cc3449c8d553.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "63a37539fda7",
+      "pillar": "anime",
+      "title": "Neon Genesis Evangelion gets a new streaming home this September",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/neon-genesis-evangelion-anime-movies-criterion-channel/",
+      "thumbnail": "/drops/thumbs/63a37539fda7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "2ee38898a9f9",
+      "id": "7d79e7ddc80f",
       "pillar": "anime",
-      "title": "Studio Ghibli's most misunderstood fantasy returns to theaters after 20 years",
+      "title": "A dying yakuza confronts the sins of his past in The Last Blossom anime trailer",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/studio-ghibli-tales-from-earthsea-returns-to-theaters/",
-      "thumbnail": "/drops/thumbs/2ee38898a9f9.jpg",
+      "source_url": "https://www.polygon.com/the-last-blossom-anime-trailer-posters/",
+      "thumbnail": "/drops/thumbs/7d79e7ddc80f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,24 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "3301b4e07583",
+      "id": "a8e1d78f1abe",
       "pillar": "anime",
-      "title": "Crunchyroll gets its first-ever streaming bundle, and it’s an odd pairing",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/crunchyroll-streaming-bundle-starz-prime-video/",
-      "thumbnail": "/drops/thumbs/3301b4e07583.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "220ffdff1db5",
-      "pillar": "anime",
-      "title": "Keishi Ayasato Launches New Noblesse Gambit Manga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-30/keishi-ayasato-launches-new-noblesse-gambit-manga/.240098",
-      "thumbnail": "/drops/thumbs/220ffdff1db5.jpg",
+      "title": "7 Greatest Anime Knights That Make The Fantasy Genre Worth Checking Out",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/greatest-fantasy-anime-knights/",
+      "thumbnail": "/drops/thumbs/a8e1d78f1abe.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -207,48 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "8d5d4a596c6e",
-      "pillar": "gaming",
-      "title": "News Will Final Fantasy 7 Revelation Get a Physical PS5 Edition? Director Can't Confirm Anything Yet",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/will-final-fantasy-7-revelation-get-a-physical-ps5-edition-director-cant-confirm-anything-yet",
-      "thumbnail": "/drops/thumbs/8d5d4a596c6e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e6448805c888",
-      "pillar": "gaming",
-      "title": "Resident Evil 4 and Dragon's Dogma lead's stylish new action RPG gets an October release date",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/action-rpg/resident-evil-4-and-dragons-dogma-leads-stylish-new-action-rpg-gets-an-october-release-date-steering-clear-of-the-gta-6-rush/",
-      "thumbnail": "/drops/thumbs/e6448805c888.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "08a5630964e1",
       "pillar": "gaming",
       "title": "Zach Cregger had final cut and \"total freedom\" on Resident Evil: \"There's some imagery that is so f***ed-up and weird”",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/entertainment/horror-movies/zach-cregger-had-final-cut-and-total-freedom-on-resident-evil-theres-some-imagery-that-is-so-f-ed-up-and-weird/",
       "thumbnail": "/drops/thumbs/08a5630964e1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "257b650ce0a8",
-      "pillar": "gaming",
-      "title": "Clair Obscur: Expedition 33’s Devs Are “Super Sad” About PlayStation’s Plans To Stop Making Physical Games",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563549/article/clair-obscur-expedition-33s-devs-are-super-sad-about-playstations-plans-to-stop-making-physical-games/",
-      "thumbnail": "/drops/thumbs/257b650ce0a8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +231,36 @@
       "release_badge": ""
     },
     {
+      "id": "257b650ce0a8",
+      "pillar": "gaming",
+      "title": "Clair Obscur: Expedition 33’s Devs Are “Super Sad” About PlayStation’s Plans To Stop Making Physical Games",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563549/article/clair-obscur-expedition-33s-devs-are-super-sad-about-playstations-plans-to-stop-making-physical-games/",
+      "thumbnail": "/drops/thumbs/257b650ce0a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c3c398d1ddf1",
       "pillar": "gaming",
       "title": "Final Fantasy VII Revelation Director Trying To Make “Some Kind Of Physical Release”",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563544/article/final-fantasy-vii-revelation-director-trying-to-make-some-kind-of-physical-release/",
       "thumbnail": "/drops/thumbs/c3c398d1ddf1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "658f616c132c",
+      "pillar": "gaming",
+      "title": "News Blanka's Introduction in the Street Fighter Movie Is Just Perfect",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/blankas-introduction-in-the-street-fighter-movie-is-just-perfect",
+      "thumbnail": "/drops/thumbs/658f616c132c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,14 +277,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "288beba66dd4",
+      "pillar": "gaming",
+      "title": "Rumour Marvel Tokon's PS5 Trophy List Leaks Online Ahead of Launch",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/rumour-marvel-tokons-ps5-trophy-list-leaks-online-ahead-of-launch",
+      "thumbnail": "/drops/thumbs/288beba66dd4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "70ced94e4a3b",
-    "4c0c135c5fd0",
     "67d4186d382d",
-    "70c18170a7d5",
     "545d3b650dbf",
+    "70c18170a7d5",
+    "9775c1e27cbe",
     "721b26a781c0"
   ]
 }

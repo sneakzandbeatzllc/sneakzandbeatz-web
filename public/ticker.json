@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T15:35:34+00:00",
+  "generated_utc": "2026-07-30T17:09:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,13 +8,6 @@
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
       "pillar": "sneakers",
       "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Free the Youth’s Air Jordan 16 Releases in August",
-      "url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
-      "pillar": "sneakers",
-      "score": 2.4,
       "article_slug": null
     },
     {
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Bleach Filler List: Every Episode & Arc You Can Skip",
       "url": "https://screenrant.com/bleach-filler-list-every-episode-skip/",
       "pillar": "anime",
@@ -74,8 +74,15 @@
       "article_slug": null
     },
     {
-      "title": "Black Clover's True Ending Is 1 Week Away, And It's Looking Incredible",
-      "url": "https://screenrant.com/black-clover-true-ending-final-release-august-4/",
+      "title": "Tsuihо̄ Sareta Shо̄nin wa Kin no Chikara de Sekai wo Sukū Novels Get TV Anime, Manga Adaptations",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-30/tsuih-sareta-sh-nin-wa-kin-no-chikara-de-sekai-wo-suku-novels-get-tv-anime-manga-adaptations/.240117",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Neon Genesis Evangelion gets a new streaming home this September",
+      "url": "https://www.polygon.com/neon-genesis-evangelion-anime-movies-criterion-channel/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Studio Ghibli's most misunderstood fantasy returns to theaters after 20 years",
-      "url": "https://www.polygon.com/studio-ghibli-tales-from-earthsea-returns-to-theaters/",
+      "title": "A dying yakuza confronts the sins of his past in The Last Blossom anime trailer",
+      "url": "https://www.polygon.com/the-last-blossom-anime-trailer-posters/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll gets its first-ever streaming bundle, and it’s an odd pairing",
-      "url": "https://www.polygon.com/crunchyroll-streaming-bundle-starz-prime-video/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Keishi Ayasato Launches New Noblesse Gambit Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-30/keishi-ayasato-launches-new-noblesse-gambit-manga/.240098",
+      "title": "7 Greatest Anime Knights That Make The Fantasy Genre Worth Checking Out",
+      "url": "https://screenrant.com/greatest-fantasy-anime-knights/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -123,29 +123,8 @@
       "article_slug": null
     },
     {
-      "title": "News Will Final Fantasy 7 Revelation Get a Physical PS5 Edition? Director Can't Confirm Anything Yet",
-      "url": "https://www.pushsquare.com/news/2026/07/will-final-fantasy-7-revelation-get-a-physical-ps5-edition-director-cant-confirm-anything-yet",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Resident Evil 4 and Dragon's Dogma lead's stylish new action RPG gets an October release date",
-      "url": "https://www.gamesradar.com/games/action-rpg/resident-evil-4-and-dragons-dogma-leads-stylish-new-action-rpg-gets-an-october-release-date-steering-clear-of-the-gta-6-rush/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Zach Cregger had final cut and \"total freedom\" on Resident Evil: \"There's some imagery that is so f***ed-up and weird”",
       "url": "https://www.gamesradar.com/entertainment/horror-movies/zach-cregger-had-final-cut-and-total-freedom-on-resident-evil-theres-some-imagery-that-is-so-f-ed-up-and-weird/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Clair Obscur: Expedition 33’s Devs Are “Super Sad” About PlayStation’s Plans To Stop Making Physical Games",
-      "url": "https://gameranx.com/updates/id/563549/article/clair-obscur-expedition-33s-devs-are-super-sad-about-playstations-plans-to-stop-making-physical-games/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "Clair Obscur: Expedition 33’s Devs Are “Super Sad” About PlayStation’s Plans To Stop Making Physical Games",
+      "url": "https://gameranx.com/updates/id/563549/article/clair-obscur-expedition-33s-devs-are-super-sad-about-playstations-plans-to-stop-making-physical-games/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Final Fantasy VII Revelation Director Trying To Make “Some Kind Of Physical Release”",
       "url": "https://gameranx.com/updates/id/563544/article/final-fantasy-vii-revelation-director-trying-to-make-some-kind-of-physical-release/",
       "pillar": "gaming",
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "News Blanka's Introduction in the Street Fighter Movie Is Just Perfect",
+      "url": "https://www.pushsquare.com/news/2026/07/blankas-introduction-in-the-street-fighter-movie-is-just-perfect",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jason Momoa’s Blanka Looks Kinda Cursed In The Street Fighter Movie",
       "url": "https://kotaku.com/street-fighter-movie-blanka-jason-momoa-ryu-fight-clip-2000720459",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rumour Marvel Tokon's PS5 Trophy List Leaks Online Ahead of Launch",
+      "url": "https://www.pushsquare.com/news/2026/07/rumour-marvel-tokons-ps5-trophy-list-leaks-online-ahead-of-launch",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
