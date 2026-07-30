@@ -8,9 +8,9 @@ import { fetchYouTubeVideos, formatPublishedAgo, PHRHX_CHANNEL_ID } from "@/lib/
  * section never disappears again.
  */
 export default async function ShowEmbed() {
-  const videos = await fetchYouTubeVideos(undefined, 13);
+  const videos = await fetchYouTubeVideos(undefined, 11);
   const latest = videos[0];
-  const more = videos.slice(1, 13);
+  const more = videos.slice(1, 11);
 
   // Uploads playlist id = channel id with the "UC" prefix swapped to "UU".
   const uploadsList = "UU" + PHRHX_CHANNEL_ID.slice(2);
