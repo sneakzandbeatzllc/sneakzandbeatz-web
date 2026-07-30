@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T11:31:28+00:00",
+  "generated_utc": "2026-07-30T12:31:36+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "80e7c79a952c",
+      "id": "216221ae8a50",
       "pillar": "anime",
-      "title": "Jaadugar: A Witch in Mongolia Anime Reveals 3 New Cast Members",
+      "title": "Rie Aruga's Sheltering Eaves Manga Ends With 8th Volume",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-30/jaadugar-a-witch-in-mongolia-anime-reveals-3-new-cast-members/.240113",
-      "thumbnail": "/drops/thumbs/80e7c79a952c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-30/rie-aruga-sheltering-eaves-manga-ends-with-8th-volume/.240093",
+      "thumbnail": "/drops/thumbs/216221ae8a50.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "0f10c85cc47e",
+      "id": "80e7c79a952c",
       "pillar": "anime",
-      "title": "Chiikawa Anime Film Opens at #1, 5th Live-Action Kingdom Film Drops to #3",
+      "title": "Jaadugar: A Witch in Mongolia Anime Reveals 3 New Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-30/chiikawa-anime-film-opens-at-no.1-5th-live-action-kingdom-film-drops-to-no.3/.240044",
-      "thumbnail": "/drops/thumbs/0f10c85cc47e.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-30/jaadugar-a-witch-in-mongolia-anime-reveals-3-new-cast-members/.240113",
+      "thumbnail": "/drops/thumbs/80e7c79a952c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "68d35611f543",
+      "id": "0f10c85cc47e",
       "pillar": "anime",
-      "title": "Sins of Kujo Manga Gets Live-Action Film in 2027",
+      "title": "Chiikawa Anime Film Opens at #1, 5th Live-Action Kingdom Film Drops to #3",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/sins-of-kujo-manga-gets-live-action-film-in-2027/.240092",
-      "thumbnail": "/drops/thumbs/68d35611f543.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-30/chiikawa-anime-film-opens-at-no.1-5th-live-action-kingdom-film-drops-to-no.3/.240044",
+      "thumbnail": "/drops/thumbs/0f10c85cc47e.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "c3c398d1ddf1",
+      "pillar": "gaming",
+      "title": "Final Fantasy VII Revelation Director Trying To Make “Some Kind Of Physical Release”",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563544/article/final-fantasy-vii-revelation-director-trying-to-make-some-kind-of-physical-release/",
+      "thumbnail": "/drops/thumbs/c3c398d1ddf1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9c2a3a0a67da",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Revelation director wants \"some kind of physical edition\" for the RPG, but he can't promise it",
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "5e66081c1680",
+      "id": "cbe218356dc0",
       "pillar": "gaming",
-      "title": "XBOX Starts Testing Ad-Supported Game Streaming In The Xbox Insiders Program",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563535/article/xbox-starts-testing-ad-supported-game-streaming-in-the-xbox-insiders-program/",
-      "thumbnail": "/drops/thumbs/5e66081c1680.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0141fe9097d0",
-      "pillar": "gaming",
-      "title": "News SEGA Is Co-Publishing the Ridiculous Action RPG Stupid Never Dies This October on PS5",
+      "title": "News Save $100 on PSVR2 Now, Sony's Underrated PS5 Peripheral",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/07/sega-is-co-publishing-the-ridiculous-action-rpg-stupid-never-dies-this-october-on-ps5",
-      "thumbnail": "/drops/thumbs/0141fe9097d0.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/07/save-usd100-on-psvr2-now-sonys-underrated-ps5-peripheral",
+      "thumbnail": "/drops/thumbs/cbe218356dc0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
