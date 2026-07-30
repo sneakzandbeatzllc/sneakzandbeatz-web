@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T20:48:28+00:00",
+  "generated_utc": "2026-07-30T21:19:56+00:00",
   "items": [
-    {
-      "id": "8a4907b2d7ce",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Bin 23” Now Available",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-bin-23-io2053-300/",
-      "thumbnail": "/drops/thumbs/8a4907b2d7ce.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "70ced94e4a3b",
       "pillar": "sneakers",
@@ -25,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "39c23ebf03bf",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 17 Low in “Black Patent” Arrives in August 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-17-low-black-patent-iv7640-001/",
+      "thumbnail": "/drops/thumbs/39c23ebf03bf.jpg",
+      "published": "2026-07-30T14:39:49",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "67d4186d382d",
@@ -87,16 +87,16 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "4c0c135c5fd0",
+      "id": "d52d12fee763",
       "pillar": "sneakers",
-      "title": "Free the Youth’s Air Jordan 16 Releases in August",
+      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
-      "thumbnail": "/drops/thumbs/4c0c135c5fd0.webp",
-      "published": "",
+      "source_url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
+      "thumbnail": "/drops/thumbs/d52d12fee763.webp",
+      "published": "2026-07-30T03:05:00",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "70c18170a7d5",
@@ -292,8 +292,8 @@
     }
   ],
   "homepage": [
-    "8a4907b2d7ce",
     "70ced94e4a3b",
+    "39c23ebf03bf",
     "67d4186d382d",
     "70c18170a7d5",
     "545d3b650dbf",
