@@ -1,18 +1,12 @@
-import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
+import { fetchYouTubeVideos, formatPublishedAgo } from "@/lib/youtube";
+import { FALLBACK_VIDEOS } from "@/data/youtube-fallback";
 
 /**
- * ShowEmbed — big PHRHX Show player on the homepage. ALWAYS renders a real,
- * embeddable video. If the build-time YouTube RSS fetch comes back empty
- * (Vercel IPs blocked / stale cache), we fall back to a hardcoded list of
- * real episodes instead of the uploads-playlist embed, which can render
- * "This video is unavailable".
+ * ShowEmbed — homepage PHRHX Show player. Prefers the live build-time RSS pull;
+ * if that's empty (Vercel IPs blocked), falls back to youtube-fallback.ts, which
+ * is refreshed from the Mac via REFRESH_SHOW_VIDEOS.command. Always shows real,
+ * embeddable, recent episodes — never "video unavailable".
  */
-const FALLBACK_VIDEOS: YouTubeVideo[] = [
-  { id: "2SBnn0bY2xY", title: "The New S&B!", url: "https://www.youtube.com/watch?v=2SBnn0bY2xY", publishedAt: "", thumbnail: "https://i.ytimg.com/vi/2SBnn0bY2xY/hqdefault.jpg", thumbnailHigh: "https://i.ytimg.com/vi/2SBnn0bY2xY/maxresdefault.jpg", embedUrl: "https://www.youtube.com/embed/2SBnn0bY2xY" },
-  { id: "MpvEDKUeNes", title: "Rap's BIGGEST Flop Stars of 2025!", url: "https://www.youtube.com/watch?v=MpvEDKUeNes", publishedAt: "", thumbnail: "https://i.ytimg.com/vi/MpvEDKUeNes/hqdefault.jpg", thumbnailHigh: "https://i.ytimg.com/vi/MpvEDKUeNes/maxresdefault.jpg", embedUrl: "https://www.youtube.com/embed/MpvEDKUeNes" },
-  { id: "YamAo3IAhao", title: "Sneakz & Beatz Live Stream", url: "https://www.youtube.com/watch?v=YamAo3IAhao", publishedAt: "", thumbnail: "https://i.ytimg.com/vi/YamAo3IAhao/hqdefault.jpg", thumbnailHigh: "https://i.ytimg.com/vi/YamAo3IAhao/maxresdefault.jpg", embedUrl: "https://www.youtube.com/embed/YamAo3IAhao" },
-];
-
 export default async function ShowEmbed() {
   const live = await fetchYouTubeVideos(undefined, 11);
   const videos = live.length > 0 ? live : FALLBACK_VIDEOS;
