@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T10:30:41+00:00",
+  "generated_utc": "2026-07-30T11:30:50+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,8 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "Chiikawa Anime Film Opens at #1, 5th Live-Action Kingdom Film Drops to #3",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-30/chiikawa-anime-film-opens-at-no.1-5th-live-action-kingdom-film-drops-to-no.3/.240044",
+      "title": "Jaadugar: A Witch in Mongolia Anime Reveals 3 New Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-30/jaadugar-a-witch-in-mongolia-anime-reveals-3-new-cast-members/.240113",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Sins of Kujo Manga Gets Live-Action Film in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-29/sins-of-kujo-manga-gets-live-action-film-in-2027/.240092",
+      "title": "Chiikawa Anime Film Opens at #1, 5th Live-Action Kingdom Film Drops to #3",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-30/chiikawa-anime-film-opens-at-no.1-5th-live-action-kingdom-film-drops-to-no.3/.240044",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Takunomi's Haruto Hino Launches New Manga on August 30",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-29/takunomi-haruto-hino-launches-new-manga-on-august-30/.240060",
+      "title": "Sins of Kujo Manga Gets Live-Action Film in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-29/sins-of-kujo-manga-gets-live-action-film-in-2027/.240092",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -118,6 +118,13 @@
     {
       "title": "Here’s Why GTA 6 Fans Are Convinced That After Waiting Over A Year, Trailer 3 Is Coming Soon",
       "url": "https://kotaku.com/heres-why-gta-6-fans-are-convinced-that-after-waiting-over-a-year-trailer-3-is-coming-soon-2000720315",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Will Final Fantasy 7 Revelation Get a Physical PS5 Edition? Director Can't Confirm Anything Yet",
+      "url": "https://www.pushsquare.com/news/2026/07/will-final-fantasy-7-revelation-get-a-physical-ps5-edition-director-cant-confirm-anything-yet",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -139,13 +146,6 @@
     {
       "title": "Spider-Man: Brand New Day Easter eggs and cameos: 43 Marvel references you might have missed",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-easter-eggs-cameos/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Early Data Suggests Unspectacular Start for Halo on PS5",
-      "url": "https://www.pushsquare.com/news/2026/07/early-data-suggests-unspectacular-start-for-halo-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
