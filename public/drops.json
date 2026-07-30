@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T00:25:45+00:00",
+  "generated_utc": "2026-07-30T01:26:46+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "be5003731eea",
-      "pillar": "anime",
-      "title": "Jujutsu Kaisen's Adam McArthur Reflects On Yuji Itadori's Emotional Arc",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/video/jujutsu-kaisen-season-3-adam-mcarthur-interview-sdcc-2026/",
-      "thumbnail": "/drops/thumbs/be5003731eea.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8f42f4ff5d58",
       "pillar": "anime",
       "title": "My Hero Academia's Kōhei Horikoshi Writes New 1-Shot Manga",
@@ -147,6 +135,30 @@
       "release_badge": ""
     },
     {
+      "id": "2ee38898a9f9",
+      "pillar": "anime",
+      "title": "Studio Ghibli's most misunderstood fantasy returns to theaters after 20 years",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/studio-ghibli-tales-from-earthsea-returns-to-theaters/",
+      "thumbnail": "/drops/thumbs/2ee38898a9f9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "68d35611f543",
+      "pillar": "anime",
+      "title": "Sins of Kujo Manga Gets Live-Action Film in 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/sins-of-kujo-manga-gets-live-action-film-in-2027/.240092",
+      "thumbnail": "/drops/thumbs/68d35611f543.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3301b4e07583",
       "pillar": "anime",
       "title": "Crunchyroll gets its first-ever streaming bundle, and it’s an odd pairing",
@@ -171,24 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "63cf0ddad2c5",
+      "id": "d2073d05fd41",
       "pillar": "anime",
-      "title": "Say goodbye to the most influential coming-of-age anime of the century leaving Netflix",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/watch-shonen-coming-of-age-anime-binge-watch-netflix/",
-      "thumbnail": "/drops/thumbs/63cf0ddad2c5.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6753f98f7f07",
-      "pillar": "anime",
-      "title": "Ingoku Danchi Manga Ends on July 31",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/ingoku-danchi-manga-ends-on-july-31/.240058",
-      "thumbnail": "/drops/thumbs/6753f98f7f07.jpg",
+      "title": "Avatar's New Aang Movie Just Completely Redeemed Korra, And No One Noticed",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/avatar-aang-last-airbender-redeems-korra/",
+      "thumbnail": "/drops/thumbs/d2073d05fd41.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "70ced94e4a3b",
     "4c0c135c5fd0",
     "67d4186d382d",
-    "be5003731eea",
+    "8f42f4ff5d58",
     "545d3b650dbf",
     "57cd2ad2103a"
   ]

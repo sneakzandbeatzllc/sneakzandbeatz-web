@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T00:25:45+00:00",
+  "generated_utc": "2026-07-30T01:26:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen's Adam McArthur Reflects On Yuji Itadori's Emotional Arc",
-      "url": "https://screenrant.com/video/jujutsu-kaisen-season-3-adam-mcarthur-interview-sdcc-2026/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "My Hero Academia's Kōhei Horikoshi Writes New 1-Shot Manga",
       "url": "https://www.animenewsnetwork.com/news/2026-07-29/my-hero-academia-kohei-horikoshi-writes-new-1-shot-manga/.240089",
       "pillar": "anime",
@@ -88,6 +81,20 @@
       "article_slug": null
     },
     {
+      "title": "Studio Ghibli's most misunderstood fantasy returns to theaters after 20 years",
+      "url": "https://www.polygon.com/studio-ghibli-tales-from-earthsea-returns-to-theaters/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sins of Kujo Manga Gets Live-Action Film in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-29/sins-of-kujo-manga-gets-live-action-film-in-2027/.240092",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Crunchyroll gets its first-ever streaming bundle, and it’s an odd pairing",
       "url": "https://www.polygon.com/crunchyroll-streaming-bundle-starz-prime-video/",
       "pillar": "anime",
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Say goodbye to the most influential coming-of-age anime of the century leaving Netflix",
-      "url": "https://www.polygon.com/watch-shonen-coming-of-age-anime-binge-watch-netflix/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ingoku Danchi Manga Ends on July 31",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-29/ingoku-danchi-manga-ends-on-july-31/.240058",
+      "title": "Avatar's New Aang Movie Just Completely Redeemed Korra, And No One Noticed",
+      "url": "https://screenrant.com/avatar-aang-last-airbender-redeems-korra/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
