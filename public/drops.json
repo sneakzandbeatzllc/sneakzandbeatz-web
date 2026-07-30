@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T05:28:55+00:00",
+  "generated_utc": "2026-07-30T08:29:57+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "8f42f4ff5d58",
-      "pillar": "anime",
-      "title": "My Hero Academia's Kōhei Horikoshi Writes New 1-Shot Manga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-29/my-hero-academia-kohei-horikoshi-writes-new-1-shot-manga/.240089",
-      "thumbnail": "/drops/thumbs/8f42f4ff5d58.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "70c18170a7d5",
       "pillar": "anime",
       "title": "Bleach Filler List: Every Episode & Arc You Can Skip",
@@ -141,6 +129,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/black-clover-true-ending-final-release-august-4/",
       "thumbnail": "/drops/thumbs/ff7086f40e36.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0f10c85cc47e",
+      "pillar": "anime",
+      "title": "Chiikawa Anime Film Opens at #1, 5th Live-Action Kingdom Film Drops to #3",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-30/chiikawa-anime-film-opens-at-no.1-5th-live-action-kingdom-film-drops-to-no.3/.240044",
+      "thumbnail": "/drops/thumbs/0f10c85cc47e.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "70ced94e4a3b",
     "4c0c135c5fd0",
     "67d4186d382d",
-    "8f42f4ff5d58",
+    "70c18170a7d5",
     "545d3b650dbf",
     "57cd2ad2103a"
   ]

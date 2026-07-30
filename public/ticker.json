@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-30T05:28:55+00:00",
+  "generated_utc": "2026-07-30T08:29:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "My Hero Academia's Kōhei Horikoshi Writes New 1-Shot Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-29/my-hero-academia-kohei-horikoshi-writes-new-1-shot-manga/.240089",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Bleach Filler List: Every Episode & Arc You Can Skip",
       "url": "https://screenrant.com/bleach-filler-list-every-episode-skip/",
       "pillar": "anime",
@@ -83,6 +76,13 @@
     {
       "title": "Black Clover's True Ending Is 1 Week Away, And It's Looking Incredible",
       "url": "https://screenrant.com/black-clover-true-ending-final-release-august-4/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Chiikawa Anime Film Opens at #1, 5th Live-Action Kingdom Film Drops to #3",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-30/chiikawa-anime-film-opens-at-no.1-5th-live-action-kingdom-film-drops-to-no.3/.240044",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
