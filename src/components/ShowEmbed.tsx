@@ -1,22 +1,24 @@
-import { fetchYouTubeVideos, formatPublishedAgo, PHRHX_CHANNEL_ID } from "@/lib/youtube";
+import { fetchYouTubeVideos, formatPublishedAgo, type YouTubeVideo } from "@/lib/youtube";
 
 /**
- * ShowEmbed — big PHRHX Show player on the homepage, ABOVE Latest Articles.
- * ALWAYS renders. If the YouTube RSS fetch returns the latest episode we embed
- * it directly; if that fetch is empty on a given build we fall back to the
- * channel's uploads playlist (UC… → UU…), which is always embeddable. The
- * section never disappears again.
+ * ShowEmbed — big PHRHX Show player on the homepage. ALWAYS renders a real,
+ * embeddable video. If the build-time YouTube RSS fetch comes back empty
+ * (Vercel IPs blocked / stale cache), we fall back to a hardcoded list of
+ * real episodes instead of the uploads-playlist embed, which can render
+ * "This video is unavailable".
  */
+const FALLBACK_VIDEOS: YouTubeVideo[] = [
+  { id: "2SBnn0bY2xY", title: "The New S&B!", url: "https://www.youtube.com/watch?v=2SBnn0bY2xY", publishedAt: "", thumbnail: "https://i.ytimg.com/vi/2SBnn0bY2xY/hqdefault.jpg", thumbnailHigh: "https://i.ytimg.com/vi/2SBnn0bY2xY/maxresdefault.jpg", embedUrl: "https://www.youtube.com/embed/2SBnn0bY2xY" },
+  { id: "MpvEDKUeNes", title: "Rap's BIGGEST Flop Stars of 2025!", url: "https://www.youtube.com/watch?v=MpvEDKUeNes", publishedAt: "", thumbnail: "https://i.ytimg.com/vi/MpvEDKUeNes/hqdefault.jpg", thumbnailHigh: "https://i.ytimg.com/vi/MpvEDKUeNes/maxresdefault.jpg", embedUrl: "https://www.youtube.com/embed/MpvEDKUeNes" },
+  { id: "YamAo3IAhao", title: "Sneakz & Beatz Live Stream", url: "https://www.youtube.com/watch?v=YamAo3IAhao", publishedAt: "", thumbnail: "https://i.ytimg.com/vi/YamAo3IAhao/hqdefault.jpg", thumbnailHigh: "https://i.ytimg.com/vi/YamAo3IAhao/maxresdefault.jpg", embedUrl: "https://www.youtube.com/embed/YamAo3IAhao" },
+];
+
 export default async function ShowEmbed() {
-  const videos = await fetchYouTubeVideos(undefined, 11);
+  const live = await fetchYouTubeVideos(undefined, 11);
+  const videos = live.length > 0 ? live : FALLBACK_VIDEOS;
   const latest = videos[0];
   const more = videos.slice(1, 11);
-
-  // Uploads playlist id = channel id with the "UC" prefix swapped to "UU".
-  const uploadsList = "UU" + PHRHX_CHANNEL_ID.slice(2);
-  const embedSrc = latest
-    ? latest.embedUrl
-    : `https://www.youtube.com/embed/videoseries?list=${uploadsList}`;
+  const embedSrc = latest.embedUrl;
 
   return (
     <section className="container" style={{ padding: "48px 0" }}>
@@ -59,8 +61,8 @@ export default async function ShowEmbed() {
       </div>
 
       <p style={{ margin: "12px 0 0", fontSize: "0.95rem", color: "var(--text, #f4f4f5)" }}>
-        <strong>{latest ? latest.title : "The PHRHX Show — new episodes weekly"}</strong>
-        {latest && (
+        <strong>{latest.title}</strong>
+        {latest.publishedAt && (
           <span style={{ opacity: 0.6 }}> · {formatPublishedAgo(latest.publishedAt)}</span>
         )}
       </p>
