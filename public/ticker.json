@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T11:51:01+00:00",
+  "generated_utc": "2026-07-31T12:50:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,6 +144,13 @@
       "article_slug": null
     },
     {
+      "title": "Even Stellar Blade Fans Hate The Sequel’s Official GenAI Music Video",
+      "url": "https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Spider-Man: Brand New Day Easter eggs and cameos: 43 Marvel references you might have missed",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-easter-eggs-cameos/",
       "pillar": "gaming",
@@ -151,22 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Clair Obscur: Expedition 33’s Devs Are “Super Sad” About PlayStation’s Plans To Stop Making Physical Games",
-      "url": "https://gameranx.com/updates/id/563549/article/clair-obscur-expedition-33s-devs-are-super-sad-about-playstations-plans-to-stop-making-physical-games/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Blanka's Introduction in the Street Fighter Movie Is Just Perfect",
-      "url": "https://www.pushsquare.com/news/2026/07/blankas-introduction-in-the-street-fighter-movie-is-just-perfect",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Capcom Gives Us Our First Look At The Street Fighter Movie’s Blanka",
       "url": "https://gameranx.com/updates/id/563553/article/capcom-gives-us-our-first-look-at-the-street-fighter-movies-blanka/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hands-on Gears of War: E-Day multiplayer takes a big swing with Horde Siege mode, which shines when squads collide in its dense city",
+      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-horde-siege-shines-when-squads-collide-in-its-dense-city-but-sags-when-theyre-apart/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
