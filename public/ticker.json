@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T10:50:24+00:00",
+  "generated_utc": "2026-07-31T11:50:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Magical Explorer TV Anime Reveals October Debut in 1st Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/magical-explorer-tv-anime-reveals-october-debut-in-1st-promo-video/.240150",
+      "title": "The Iceblade Sorcerer Shall Rule the World TV Anime's 2nd Season Reveals More Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/the-iceblade-sorcerer-shall-rule-the-world-tv-anime-2nd-season-reveals-more-cast/.240151",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Ojisan wa Kawaii Mono ga Osuki. TV Anime Reveals More Cast, Visual, October 4 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/ojisan-wa-kawaii-mono-ga-osuki-tv-anime-reveals-more-cast-visual-october-4-debut/.240149",
+      "title": "Magical Explorer TV Anime Reveals October Debut in 1st Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/magical-explorer-tv-anime-reveals-october-debut-in-1st-promo-video/.240150",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Rafal Jaki, Machine Gamu Launch Brain Alive Manga With Planned English Release This Fall",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/rafal-jaki-machine-gamu-launch-brain-alive-manga-with-planned-english-release-this-fall/.240146",
+      "title": "Ojisan wa Kawaii Mono ga Osuki. TV Anime Reveals More Cast, Visual, October 4 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/ojisan-wa-kawaii-mono-ga-osuki-tv-anime-reveals-more-cast-visual-october-4-debut/.240149",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -125,6 +125,13 @@
     {
       "title": "Rumor: Expect A “Fair Bit” Of GTA 6 Next Month",
       "url": "https://gameranx.com/updates/id/563551/article/rumor-expect-a-fair-bit-of-gta-6-next-month/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 'I Feel Profoundly Disappointed': Stellar Blade Dev Destroyed for 'AI Slop' Music Video",
+      "url": "https://www.pushsquare.com/news/2026/07/i-feel-profoundly-disappointed-stellar-blade-dev-destroyed-for-ai-slop-music-video",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Capcom Gives Us Our First Look At The Street Fighter Movie’s Blanka",
       "url": "https://gameranx.com/updates/id/563553/article/capcom-gives-us-our-first-look-at-the-street-fighter-movies-blanka/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hands-on Gears of War: E-Day multiplayer takes a big swing with Horde Siege mode, which shines when squads collide in its dense city",
-      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-horde-siege-shines-when-squads-collide-in-its-dense-city-but-sags-when-theyre-apart/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
