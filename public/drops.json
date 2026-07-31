@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T19:55:54+00:00",
+  "generated_utc": "2026-07-31T20:54:36+00:00",
   "items": [
     {
       "id": "b88023c18239",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "7e9bd8a55946",
+      "pillar": "anime",
+      "title": "Jujutsu Kaisen's True Successor Just Dropped, And Nobody's Talking About It",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-successor-webtoon-infinite-awakening/",
+      "thumbnail": "/drops/thumbs/7e9bd8a55946.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1f8831cf6918",
       "pillar": "anime",
       "title": "Demon Slayer's Abby Trott Reveals Life Lessons Learned From Nezuko",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "44aaf70adcbf",
-      "pillar": "anime",
-      "title": "The Iceblade Sorcerer Shall Rule the World TV Anime's 2nd Season Reveals More Cast",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/the-iceblade-sorcerer-shall-rule-the-world-tv-anime-2nd-season-reveals-more-cast/.240151",
-      "thumbnail": "/drops/thumbs/44aaf70adcbf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3953b75a1b5d",
       "pillar": "gaming",
       "title": "Rumor: The Legend of Zelda: Ocarina Of Time Releasing On Switch 2 This November – Head-To-Head With GTA 6?",
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "ac20476fcd64",
+      "id": "db8467b45e2e",
       "pillar": "gaming",
-      "title": "The Elden Ring movie wraps filming, but it's still years away from release",
+      "title": "Spider-Man: Brand New Day Easter eggs and cameos: 43 Marvel references you might have missed",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/fantasy-movies/elden-ring-movie-wraps-filming-but-its-still-years-away-from-release/",
-      "thumbnail": "/drops/thumbs/ac20476fcd64.jpg",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-easter-eggs-cameos/",
+      "thumbnail": "/drops/thumbs/db8467b45e2e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "db8467b45e2e",
-      "pillar": "gaming",
-      "title": "Spider-Man: Brand New Day Easter eggs and cameos: 43 Marvel references you might have missed",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-easter-eggs-cameos/",
-      "thumbnail": "/drops/thumbs/db8467b45e2e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3144fff33a30",
       "pillar": "gaming",
       "title": "News Marvel Tokon's Energetic Launch Trailer Will Get You Hyped for the PS5, PC Fighter",
@@ -289,13 +277,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "7130f4040d8c",
+      "pillar": "gaming",
+      "title": "Capcom Gives Us Our First Look At The Street Fighter Movie’s Blanka",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563553/article/capcom-gives-us-our-first-look-at-the-street-fighter-movies-blanka/",
+      "thumbnail": "/drops/thumbs/7130f4040d8c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "b88023c18239",
     "9775c1e27cbe",
     "8cb509546594",
-    "1f8831cf6918",
+    "7e9bd8a55946",
     "545d3b650dbf",
     "3953b75a1b5d"
   ]
