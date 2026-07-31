@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T15:53:11+00:00",
+  "generated_utc": "2026-07-31T16:36:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,15 +60,22 @@
       "article_slug": null
     },
     {
-      "title": "After 11 Years, Black Clover Finally Reveals Asta's Epic Final Look",
-      "url": "https://screenrant.com/black-clover-asta-final-look/",
+      "title": "Demon Slayer's Abby Trott Reveals Life Lessons Learned From Nezuko",
+      "url": "https://screenrant.com/video/demon-slayer-nezuko-abby-trott-interview-sdcc-2026/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Bleach Filler List: Every Episode & Arc You Can Skip",
-      "url": "https://screenrant.com/bleach-filler-list-every-episode-skip/",
+      "title": "One Piece Episode #1172 Release Date And Time",
+      "url": "https://screenrant.com/one-piece-episode-1172-release-date-time/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "After 11 Years, Black Clover Finally Reveals Asta's Epic Final Look",
+      "url": "https://screenrant.com/black-clover-asta-final-look/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "One Evangelion Movie Changed Anime Forever, But Nobody Talks About It",
-      "url": "https://screenrant.com/evangelion-death-rebirth-changed-anime-forever/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: The Legend of Zelda: Ocarina Of Time Releasing On Switch 2 This November – Head-To-Head With GTA 6?",
       "url": "https://gameranx.com/updates/id/563558/article/rumor-the-legend-of-zelda-ocarina-of-time-releasing-on-switch-2-this-november-head-to-head-with-gta-6/",
       "pillar": "gaming",
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Spider-Man: Brand New Day Pokes Fun At An Infamous Debate About The Avengers Movies",
-      "url": "https://kotaku.com/spider-man-brand-new-day-bruce-banner-thanos-scene-2000720770",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Tom Holland Loves The Last of Us 2 So Much He Won't Watch the HBO Series",
       "url": "https://www.pushsquare.com/news/2026/07/tom-holland-loves-the-last-of-us-2-so-much-he-wont-watch-the-hbo-series",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Spider-Man: Brand New Day Easter eggs and cameos: 43 Marvel references you might have missed",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-easter-eggs-cameos/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Marvel Tokon's Energetic Launch Trailer Will Get You Hyped for the PS5, PC Fighter",
+      "url": "https://www.pushsquare.com/news/2026/07/marvel-tokons-energetic-launch-trailer-will-get-you-hyped-for-the-ps5-pc-fighter",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

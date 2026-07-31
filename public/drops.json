@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T15:53:11+00:00",
+  "generated_utc": "2026-07-31T16:36:24+00:00",
   "items": [
     {
       "id": "b88023c18239",
@@ -99,24 +99,36 @@
       "release_badge": ""
     },
     {
-      "id": "2fcd3f8d88db",
+      "id": "1f8831cf6918",
       "pillar": "anime",
-      "title": "After 11 Years, Black Clover Finally Reveals Asta's Epic Final Look",
+      "title": "Demon Slayer's Abby Trott Reveals Life Lessons Learned From Nezuko",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-asta-final-look/",
-      "thumbnail": "/drops/thumbs/2fcd3f8d88db.jpg",
+      "source_url": "https://screenrant.com/video/demon-slayer-nezuko-abby-trott-interview-sdcc-2026/",
+      "thumbnail": "/drops/thumbs/1f8831cf6918.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "70c18170a7d5",
+      "id": "d157d153df9e",
       "pillar": "anime",
-      "title": "Bleach Filler List: Every Episode & Arc You Can Skip",
+      "title": "One Piece Episode #1172 Release Date And Time",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/bleach-filler-list-every-episode-skip/",
-      "thumbnail": "/drops/thumbs/70c18170a7d5.png",
+      "source_url": "https://screenrant.com/one-piece-episode-1172-release-date-time/",
+      "thumbnail": "/drops/thumbs/d157d153df9e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2fcd3f8d88db",
+      "pillar": "anime",
+      "title": "After 11 Years, Black Clover Finally Reveals Asta's Epic Final Look",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-clover-asta-final-look/",
+      "thumbnail": "/drops/thumbs/2fcd3f8d88db.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "f8312d1025b5",
-      "pillar": "anime",
-      "title": "One Evangelion Movie Changed Anime Forever, But Nobody Talks About It",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/evangelion-death-rebirth-changed-anime-forever/",
-      "thumbnail": "/drops/thumbs/f8312d1025b5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3953b75a1b5d",
       "pillar": "gaming",
       "title": "Rumor: The Legend of Zelda: Ocarina Of Time Releasing On Switch 2 This November – Head-To-Head With GTA 6?",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "f60a054ac384",
-      "pillar": "gaming",
-      "title": "Spider-Man: Brand New Day Pokes Fun At An Infamous Debate About The Avengers Movies",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/spider-man-brand-new-day-bruce-banner-thanos-scene-2000720770",
-      "thumbnail": "/drops/thumbs/f60a054ac384.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cae08eb80283",
       "pillar": "gaming",
       "title": "News Tom Holland Loves The Last of Us 2 So Much He Won't Watch the HBO Series",
@@ -289,13 +277,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "3144fff33a30",
+      "pillar": "gaming",
+      "title": "News Marvel Tokon's Energetic Launch Trailer Will Get You Hyped for the PS5, PC Fighter",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/marvel-tokons-energetic-launch-trailer-will-get-you-hyped-for-the-ps5-pc-fighter",
+      "thumbnail": "/drops/thumbs/3144fff33a30.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "b88023c18239",
     "9775c1e27cbe",
     "8cb509546594",
-    "2fcd3f8d88db",
+    "1f8831cf6918",
     "545d3b650dbf",
     "3953b75a1b5d"
   ]
