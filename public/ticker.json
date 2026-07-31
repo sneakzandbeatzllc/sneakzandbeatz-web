@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T08:49:10+00:00",
+  "generated_utc": "2026-07-31T09:31:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 GS “Chalk” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-gs-chalk-true-blue/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -46,15 +53,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “Fireside” Releases October 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-fireside-velvet-brown/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
-      "url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
+      "title": "Air Jordan 1 High OG “Nails and Grails” Releases September 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-nails-and-grails/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Rafal Jaki, Machine Gamu Launch Brain Alive Manga With Planned English Release This Fall",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/rafal-jaki-machine-gamu-launch-brain-alive-manga-with-planned-english-release-this-fall/.240146",
+      "title": "Ojisan wa Kawaii Mono ga Osuki. TV Anime Reveals More Cast, Visual, October 4 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/ojisan-wa-kawaii-mono-ga-osuki-tv-anime-reveals-more-cast-visual-october-4-debut/.240149",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "The Lonely Snow Widow and the Cursed Ring TV Anime Reveals October Debut, OceanVeil Streaming, Cast, Staff",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/the-lonely-snow-widow-and-the-cursed-ring-tv-anime-reveals-october-debut-oceanveil-streaming-cast-/.240140",
+      "title": "Rafal Jaki, Machine Gamu Launch Brain Alive Manga With Planned English Release This Fall",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/rafal-jaki-machine-gamu-launch-brain-alive-manga-with-planned-english-release-this-fall/.240146",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Cagaster's Kachō Hashimoto Launches New Manga in September",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/cagaster-kacho-hashimoto-launches-new-manga-in-september/.240130",
+      "title": "The Lonely Snow Widow and the Cursed Ring TV Anime Reveals October Debut, OceanVeil Streaming, Cast, Staff",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/the-lonely-snow-widow-and-the-cursed-ring-tv-anime-reveals-october-debut-oceanveil-streaming-cast-/.240140",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

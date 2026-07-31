@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T08:49:10+00:00",
+  "generated_utc": "2026-07-31T09:31:07+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "b88023c18239",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 GS “Chalk” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-gs-chalk-true-blue/",
+      "thumbnail": "/drops/thumbs/b88023c18239.jpg",
+      "published": "2026-07-31T02:24:37",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "9775c1e27cbe",
@@ -75,25 +87,13 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "cdf792a12d8b",
+      "id": "1cd83c4d4607",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “Fireside” Releases October 2026",
+      "title": "Air Jordan 1 High OG “Nails and Grails” Releases September 2026",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-fireside-velvet-brown/",
-      "thumbnail": "/drops/thumbs/cdf792a12d8b.jpg",
-      "published": "2026-07-31T01:04:39",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d52d12fee763",
-      "pillar": "sneakers",
-      "title": "Air Jordan 9 OG “Space Jam” Returns for the Film’s 30th Anniversary",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-9-space-jam-hv4794-106/",
-      "thumbnail": "/drops/thumbs/d52d12fee763.webp",
-      "published": "2026-07-30T03:05:00",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-nails-and-grails/",
+      "thumbnail": "/drops/thumbs/1cd83c4d4607.jpg",
+      "published": "2026-07-31T02:06:25",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "33f5545e8854",
+      "id": "f346a9ebce03",
       "pillar": "anime",
-      "title": "Rafal Jaki, Machine Gamu Launch Brain Alive Manga With Planned English Release This Fall",
+      "title": "Ojisan wa Kawaii Mono ga Osuki. TV Anime Reveals More Cast, Visual, October 4 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/rafal-jaki-machine-gamu-launch-brain-alive-manga-with-planned-english-release-this-fall/.240146",
-      "thumbnail": "/drops/thumbs/33f5545e8854.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/ojisan-wa-kawaii-mono-ga-osuki-tv-anime-reveals-more-cast-visual-october-4-debut/.240149",
+      "thumbnail": "/drops/thumbs/f346a9ebce03.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "6a13893301ee",
+      "id": "33f5545e8854",
       "pillar": "anime",
-      "title": "The Lonely Snow Widow and the Cursed Ring TV Anime Reveals October Debut, OceanVeil Streaming, Cast, Staff",
+      "title": "Rafal Jaki, Machine Gamu Launch Brain Alive Manga With Planned English Release This Fall",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/the-lonely-snow-widow-and-the-cursed-ring-tv-anime-reveals-october-debut-oceanveil-streaming-cast-/.240140",
-      "thumbnail": "/drops/thumbs/6a13893301ee.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/rafal-jaki-machine-gamu-launch-brain-alive-manga-with-planned-english-release-this-fall/.240146",
+      "thumbnail": "/drops/thumbs/33f5545e8854.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "aa2c4c21bf36",
+      "id": "6a13893301ee",
       "pillar": "anime",
-      "title": "Cagaster's Kachō Hashimoto Launches New Manga in September",
+      "title": "The Lonely Snow Widow and the Cursed Ring TV Anime Reveals October Debut, OceanVeil Streaming, Cast, Staff",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/cagaster-kacho-hashimoto-launches-new-manga-in-september/.240130",
-      "thumbnail": "/drops/thumbs/aa2c4c21bf36.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/the-lonely-snow-widow-and-the-cursed-ring-tv-anime-reveals-october-debut-oceanveil-streaming-cast-/.240140",
+      "thumbnail": "/drops/thumbs/6a13893301ee.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "70ced94e4a3b",
+    "b88023c18239",
     "9775c1e27cbe",
-    "8cb509546594",
     "2fcd3f8d88db",
-    "545d3b650dbf",
+    "8cb509546594",
     "3953b75a1b5d"
   ]
 }
