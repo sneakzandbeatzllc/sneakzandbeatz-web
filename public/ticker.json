@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T14:34:26+00:00",
+  "generated_utc": "2026-07-31T14:52:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Here’s Why Fans Think The Zelda: Ocarina Of Time Remake Is Going Head-To-Head With GTA 6 In November",
-      "url": "https://kotaku.com/heres-why-fans-think-the-zelda-ocarina-of-time-remake-is-going-head-to-head-with-gta-6-in-november-2000720752",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: Expect A “Fair Bit” Of GTA 6 Next Month",
       "url": "https://gameranx.com/updates/id/563551/article/rumor-expect-a-fair-bit-of-gta-6-next-month/",
       "pillar": "gaming",
@@ -151,6 +144,13 @@
       "article_slug": null
     },
     {
+      "title": "Spider-Man: Brand New Day Pokes Fun At An Infamous Debate About The Avengers Movies",
+      "url": "https://kotaku.com/spider-man-brand-new-day-bruce-banner-thanos-scene-2000720770",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Tom Holland Loves The Last of Us 2 So Much He Won't Watch the HBO Series",
       "url": "https://www.pushsquare.com/news/2026/07/tom-holland-loves-the-last-of-us-2-so-much-he-wont-watch-the-hbo-series",
       "pillar": "gaming",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Spider-Man: Brand New Day Pokes Fun At An Infamous Debate About The Avengers Movies",
-      "url": "https://kotaku.com/spider-man-brand-new-day-bruce-banner-thanos-scene-2000720770",
+      "title": "News 'I Feel Profoundly Disappointed': Stellar Blade Dev Destroyed for 'AI Slop' Music Video",
+      "url": "https://www.pushsquare.com/news/2026/07/i-feel-profoundly-disappointed-stellar-blade-dev-destroyed-for-ai-slop-music-video",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

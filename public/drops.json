@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T14:34:26+00:00",
+  "generated_utc": "2026-07-31T14:52:22+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "6d4fb553a650",
-      "pillar": "gaming",
-      "title": "Here’s Why Fans Think The Zelda: Ocarina Of Time Remake Is Going Head-To-Head With GTA 6 In November",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/heres-why-fans-think-the-zelda-ocarina-of-time-remake-is-going-head-to-head-with-gta-6-in-november-2000720752",
-      "thumbnail": "/drops/thumbs/6d4fb553a650.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "721b26a781c0",
       "pillar": "gaming",
       "title": "Rumor: Expect A “Fair Bit” Of GTA 6 Next Month",
@@ -255,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "f60a054ac384",
+      "pillar": "gaming",
+      "title": "Spider-Man: Brand New Day Pokes Fun At An Infamous Debate About The Avengers Movies",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/spider-man-brand-new-day-bruce-banner-thanos-scene-2000720770",
+      "thumbnail": "/drops/thumbs/f60a054ac384.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cae08eb80283",
       "pillar": "gaming",
       "title": "News Tom Holland Loves The Last of Us 2 So Much He Won't Watch the HBO Series",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "f60a054ac384",
+      "id": "237877e98730",
       "pillar": "gaming",
-      "title": "Spider-Man: Brand New Day Pokes Fun At An Infamous Debate About The Avengers Movies",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/spider-man-brand-new-day-bruce-banner-thanos-scene-2000720770",
-      "thumbnail": "/drops/thumbs/f60a054ac384.jpg",
+      "title": "News 'I Feel Profoundly Disappointed': Stellar Blade Dev Destroyed for 'AI Slop' Music Video",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/07/i-feel-profoundly-disappointed-stellar-blade-dev-destroyed-for-ai-slop-music-video",
+      "thumbnail": "/drops/thumbs/237877e98730.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
