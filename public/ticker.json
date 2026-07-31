@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T01:43:44+00:00",
+  "generated_utc": "2026-07-31T04:45:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Sony Says Don’t Panic, It Has Enough RAM For All The PS5s It Plans To Sell This Year With The Launch Of GTA 6",
+      "url": "https://kotaku.com/sony-says-dont-panic-it-has-enough-ram-for-all-the-ps5s-it-plans-to-sell-this-year-with-the-launch-of-gta-6-2000720603",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Zach Cregger had final cut and \"total freedom\" on Resident Evil: \"There's some imagery that is so f***ed-up and weird”",
       "url": "https://www.gamesradar.com/entertainment/horror-movies/zach-cregger-had-final-cut-and-total-freedom-on-resident-evil-theres-some-imagery-that-is-so-f-ed-up-and-weird/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Capcom Gives Us Our First Look At The Street Fighter Movie’s Blanka",
       "url": "https://gameranx.com/updates/id/563553/article/capcom-gives-us-our-first-look-at-the-street-fighter-movies-blanka/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hands-on Gears of War: E-Day multiplayer takes a big swing with Horde Siege mode, which shines when squads collide in its dense city",
-      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-horde-siege-shines-when-squads-collide-in-its-dense-city-but-sags-when-theyre-apart/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
