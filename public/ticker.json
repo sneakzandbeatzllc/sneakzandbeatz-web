@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T09:49:48+00:00",
+  "generated_utc": "2026-07-31T10:01:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Ojisan wa Kawaii Mono ga Osuki. TV Anime Reveals More Cast, Visual, October 4 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/ojisan-wa-kawaii-mono-ga-osuki-tv-anime-reveals-more-cast-visual-october-4-debut/.240149",
+      "title": "Magical Explorer TV Anime Reveals October Debut in 1st Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/magical-explorer-tv-anime-reveals-october-debut-in-1st-promo-video/.240150",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Rafal Jaki, Machine Gamu Launch Brain Alive Manga With Planned English Release This Fall",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/rafal-jaki-machine-gamu-launch-brain-alive-manga-with-planned-english-release-this-fall/.240146",
+      "title": "Ojisan wa Kawaii Mono ga Osuki. TV Anime Reveals More Cast, Visual, October 4 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/ojisan-wa-kawaii-mono-ga-osuki-tv-anime-reveals-more-cast-visual-october-4-debut/.240149",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "The Lonely Snow Widow and the Cursed Ring TV Anime Reveals October Debut, OceanVeil Streaming, Cast, Staff",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-31/the-lonely-snow-widow-and-the-cursed-ring-tv-anime-reveals-october-debut-oceanveil-streaming-cast-/.240140",
+      "title": "Rafal Jaki, Machine Gamu Launch Brain Alive Manga With Planned English Release This Fall",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-31/rafal-jaki-machine-gamu-launch-brain-alive-manga-with-planned-english-release-this-fall/.240146",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy VII Revelation Director Trying To Make “Some Kind Of Physical Release”",
-      "url": "https://gameranx.com/updates/id/563544/article/final-fantasy-vii-revelation-director-trying-to-make-some-kind-of-physical-release/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Blanka's Introduction in the Street Fighter Movie Is Just Perfect",
       "url": "https://www.pushsquare.com/news/2026/07/blankas-introduction-in-the-street-fighter-movie-is-just-perfect",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Capcom Gives Us Our First Look At The Street Fighter Movie’s Blanka",
       "url": "https://gameranx.com/updates/id/563553/article/capcom-gives-us-our-first-look-at-the-street-fighter-movies-blanka/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hands-on Gears of War: E-Day multiplayer takes a big swing with Horde Siege mode, which shines when squads collide in its dense city",
+      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-horde-siege-shines-when-squads-collide-in-its-dense-city-but-sags-when-theyre-apart/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
