@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T14:52:22+00:00",
+  "generated_utc": "2026-07-31T15:05:14+00:00",
   "items": [
-    {
-      "id": "70ced94e4a3b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
-      "thumbnail": "/drops/thumbs/70ced94e4a3b.png",
-      "published": "2026-07-25T07:09:58",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
     {
       "id": "b88023c18239",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
       "thumbnail": "/drops/thumbs/7a92cd8da621.jpg",
       "published": "2026-07-31T02:34:20",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1cd83c4d4607",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Nails and Grails” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-nails-and-grails/",
+      "thumbnail": "/drops/thumbs/1cd83c4d4607.jpg",
+      "published": "2026-07-31T02:06:25",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "70ced94e4a3b",
     "b88023c18239",
     "9775c1e27cbe",
-    "2fcd3f8d88db",
     "8cb509546594",
+    "2fcd3f8d88db",
+    "545d3b650dbf",
     "3953b75a1b5d"
   ]
 }

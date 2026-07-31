@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T14:52:22+00:00",
+  "generated_utc": "2026-07-31T15:05:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 1 High OG “Love Letter” July 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-high-og-love-letter-dz5485-201-2026-drop/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 3 GS “Chalk” Releases August 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-3-gs-chalk-true-blue/",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 11 “Space Jam” Returns December 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Nails and Grails” Releases September 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-nails-and-grails/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
