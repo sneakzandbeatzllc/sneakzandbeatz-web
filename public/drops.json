@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T21:57:12+00:00",
+  "generated_utc": "2026-07-31T23:56:08+00:00",
   "items": [
+    {
+      "id": "dd42a8d6c69e",
+      "pillar": "sneakers",
+      "title": "The 2026 Air Jordan 13 Retro “Flint” Releases Tomorrow",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-13-flint-2026/",
+      "thumbnail": "/drops/thumbs/dd42a8d6c69e.jpg",
+      "published": "2026-07-31T02:54:00",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Week"
+    },
     {
       "id": "b88023c18239",
       "pillar": "sneakers",
@@ -58,18 +70,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-sports-renaissance-obsidian/",
       "thumbnail": "/drops/thumbs/4b402027412f.jpg",
       "published": "2026-07-25T22:55:13",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "54643b1a685f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 13 “Flint” (IW3808-400) August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-13-flint-iw3808-400-drop/",
-      "thumbnail": "/drops/thumbs/54643b1a685f.jpg",
-      "published": "2026-07-25T17:36:01",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "dd42a8d6c69e",
     "b88023c18239",
     "9775c1e27cbe",
-    "8cb509546594",
     "7e9bd8a55946",
-    "545d3b650dbf",
+    "8cb509546594",
     "3953b75a1b5d"
   ]
 }
