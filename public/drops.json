@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T07:28:09+00:00",
+  "generated_utc": "2026-07-31T07:48:29+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "9775c1e27cbe",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Laser” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-laser-phantom/",
+      "thumbnail": "/drops/thumbs/9775c1e27cbe.jpg",
+      "published": "2026-07-31T00:46:21",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "8cb509546594",
@@ -34,18 +46,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-8-chrome-2026/",
       "thumbnail": "/drops/thumbs/545d3b650dbf.jpg",
       "published": "2026-07-26T16:35:19",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "9775c1e27cbe",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Laser” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-laser-phantom/",
-      "thumbnail": "/drops/thumbs/9775c1e27cbe.jpg",
-      "published": "2026-07-25T23:03:11",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "70ced94e4a3b",
-    "8cb509546594",
-    "545d3b650dbf",
-    "2fcd3f8d88db",
     "9775c1e27cbe",
+    "8cb509546594",
+    "2fcd3f8d88db",
+    "545d3b650dbf",
     "721b26a781c0"
   ]
 }
