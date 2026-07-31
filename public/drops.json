@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T06:56:44+00:00",
+  "generated_utc": "2026-07-31T07:28:09+00:00",
   "items": [
     {
       "id": "70ced94e4a3b",
@@ -22,18 +22,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
       "thumbnail": "/drops/thumbs/8cb509546594.jpg",
       "published": "2026-07-30T23:53:20",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "67d4186d382d",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
-      "thumbnail": "/drops/thumbs/67d4186d382d.jpg",
-      "published": "2026-07-26T16:53:56",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "1204fed5cb38",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
+      "thumbnail": "/drops/thumbs/1204fed5cb38.jpg",
+      "published": "2026-07-29T08:25:55",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "2fcd3f8d88db",
       "pillar": "anime",
       "title": "After 11 Years, Black Clover Finally Reveals Asta's Epic Final Look",
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "aa2c4c21bf36",
+      "id": "6a13893301ee",
       "pillar": "anime",
-      "title": "Cagaster's Kachō Hashimoto Launches New Manga in September",
+      "title": "The Lonely Snow Widow and the Cursed Ring TV Anime Reveals October Debut, OceanVeil Streaming, Cast, Staff",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/cagaster-kacho-hashimoto-launches-new-manga-in-september/.240130",
-      "thumbnail": "/drops/thumbs/aa2c4c21bf36.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/the-lonely-snow-widow-and-the-cursed-ring-tv-anime-reveals-october-debut-oceanveil-streaming-cast-/.240140",
+      "thumbnail": "/drops/thumbs/6a13893301ee.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "f1024dc3d942",
+      "id": "aa2c4c21bf36",
       "pillar": "anime",
-      "title": "After God Manga Enters Last Arc",
+      "title": "Cagaster's Kachō Hashimoto Launches New Manga in September",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/after-god-manga-enters-last-arc/.240131",
-      "thumbnail": "/drops/thumbs/f1024dc3d942.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/cagaster-kacho-hashimoto-launches-new-manga-in-september/.240130",
+      "thumbnail": "/drops/thumbs/aa2c4c21bf36.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "486d18e4deb4",
+      "id": "f1024dc3d942",
       "pillar": "anime",
-      "title": "3 of Yū-hachi's Manga Get Yūsanchi! Omnibus Short Anime in October",
+      "title": "After God Manga Enters Last Arc",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/3-of-yu-hachi-manga-get-yusanchi-omnibus-short-anime-in-october/.240133",
-      "thumbnail": "/drops/thumbs/486d18e4deb4.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-07-31/after-god-manga-enters-last-arc/.240131",
+      "thumbnail": "/drops/thumbs/f1024dc3d942.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -294,9 +294,9 @@
   "homepage": [
     "70ced94e4a3b",
     "8cb509546594",
-    "67d4186d382d",
-    "2fcd3f8d88db",
     "545d3b650dbf",
+    "2fcd3f8d88db",
+    "9775c1e27cbe",
     "721b26a781c0"
   ]
 }
