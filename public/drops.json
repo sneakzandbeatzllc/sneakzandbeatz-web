@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-07-31T23:56:08+00:00",
+  "generated_utc": "2026-08-01T01:56:53+00:00",
   "items": [
     {
       "id": "dd42a8d6c69e",
@@ -23,8 +23,8 @@
       "thumbnail": "/drops/thumbs/b88023c18239.jpg",
       "published": "2026-07-31T02:24:37",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "9775c1e27cbe",
@@ -35,8 +35,8 @@
       "thumbnail": "/drops/thumbs/9775c1e27cbe.jpg",
       "published": "2026-07-31T00:46:21",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "8cb509546594",
@@ -47,8 +47,8 @@
       "thumbnail": "/drops/thumbs/8cb509546594.jpg",
       "published": "2026-07-30T23:53:20",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "545d3b650dbf",
@@ -59,8 +59,8 @@
       "thumbnail": "/drops/thumbs/545d3b650dbf.jpg",
       "published": "2026-07-26T16:35:19",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "4b402027412f",
@@ -71,20 +71,20 @@
       "thumbnail": "/drops/thumbs/4b402027412f.jpg",
       "published": "2026-07-25T22:55:13",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
-      "id": "7a92cd8da621",
+      "id": "470ddf79af2c",
       "pillar": "sneakers",
-      "title": "Air Jordan 11 “Space Jam” Returns December 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
-      "thumbnail": "/drops/thumbs/7a92cd8da621.jpg",
-      "published": "2026-07-31T02:34:20",
+      "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
+      "thumbnail": "/drops/thumbs/470ddf79af2c.webp",
+      "published": "",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "1cd83c4d4607",
@@ -95,8 +95,8 @@
       "thumbnail": "/drops/thumbs/1cd83c4d4607.jpg",
       "published": "2026-07-31T02:06:25",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "7e9bd8a55946",
