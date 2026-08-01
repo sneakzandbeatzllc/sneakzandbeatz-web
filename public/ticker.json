@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-01T09:59:14+00:00",
+  "generated_utc": "2026-08-01T10:59:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "10 anime that delivered better endings than Attack on Titan (#1 is pitch-perfect)",
+      "url": "https://www.polygon.com/best-anime-endings-better-attack-on-titan/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Crunchyroll's Top Solo Leveling Replacement Is A Misunderstood Gem",
       "url": "https://screenrant.com/tomb-raider-king-top-solo-leveling-replacement-crunchyroll/",
       "pillar": "anime",
@@ -95,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Neon Genesis Evangelion gets a new streaming home this September",
-      "url": "https://www.polygon.com/neon-genesis-evangelion-anime-movies-criterion-channel/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Crunchyroll Streams That Time I Got Reincarnated as a Slime: Tears of the Azure Sea Film",
       "url": "https://www.animenewsnetwork.com/news/2026-07-31/crunchyroll-streams-that-time-i-got-reincarnated-as-a-slime-tears-of-the-azure-sea-film/.240152",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "A dying yakuza confronts the sins of his past in The Last Blossom anime trailer",
-      "url": "https://www.polygon.com/the-last-blossom-anime-trailer-posters/",
+      "title": "Neon Genesis Evangelion gets a new streaming home this September",
+      "url": "https://www.polygon.com/neon-genesis-evangelion-anime-movies-criterion-channel/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "News 'I Feel Profoundly Disappointed': Stellar Blade Dev Destroyed for 'AI Slop' Music Video",
-      "url": "https://www.pushsquare.com/news/2026/07/i-feel-profoundly-disappointed-stellar-blade-dev-destroyed-for-ai-slop-music-video",
+      "title": "News Dragon's Dogma 2 Dev Confirms Hard Mode Is Finally Coming",
+      "url": "https://www.pushsquare.com/news/2026/08/dragons-dogma-2-dev-confirms-hard-mode-is-finally-coming",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -151,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "News 'I Feel Profoundly Disappointed': Stellar Blade Dev Destroyed for 'AI Slop' Music Video",
+      "url": "https://www.pushsquare.com/news/2026/07/i-feel-profoundly-disappointed-stellar-blade-dev-destroyed-for-ai-slop-music-video",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Capcom Gives Us Our First Look At The Street Fighter Movie’s Blanka",
       "url": "https://gameranx.com/updates/id/563553/article/capcom-gives-us-our-first-look-at-the-street-fighter-movies-blanka/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "“No Battle Pass, No Bullshit” – Gears Of War: E-Day Goes Old School On Customization Items",
       "url": "https://gameranx.com/updates/id/563562/article/no-battle-pass-no-bullshit-gears-of-war-e-day-goes-old-school-on-customization-items/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Talking Point What Are You Playing This Weekend? - Issue 644",
-      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-644",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
