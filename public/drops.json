@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-01T02:57:42+00:00",
+  "generated_utc": "2026-08-01T03:58:24+00:00",
   "items": [
     {
       "id": "dd42a8d6c69e",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "3527c51d80b7",
+      "pillar": "anime",
+      "title": "Crunchyroll's Top Solo Leveling Replacement Is A Misunderstood Gem",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/tomb-raider-king-top-solo-leveling-replacement-crunchyroll/",
+      "thumbnail": "/drops/thumbs/3527c51d80b7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7e9bd8a55946",
       "pillar": "anime",
       "title": "Jujutsu Kaisen's True Successor Just Dropped, And Nobody's Talking About It",
@@ -129,18 +141,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-episode-1172-release-date-time/",
       "thumbnail": "/drops/thumbs/d157d153df9e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2fcd3f8d88db",
-      "pillar": "anime",
-      "title": "After 11 Years, Black Clover Finally Reveals Asta's Epic Final Look",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-asta-final-look/",
-      "thumbnail": "/drops/thumbs/2fcd3f8d88db.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "dd42a8d6c69e",
     "b88023c18239",
     "9775c1e27cbe",
-    "7e9bd8a55946",
+    "3527c51d80b7",
     "8cb509546594",
     "3953b75a1b5d"
   ]

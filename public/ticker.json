@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-01T02:57:42+00:00",
+  "generated_utc": "2026-08-01T03:58:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Crunchyroll's Top Solo Leveling Replacement Is A Misunderstood Gem",
+      "url": "https://screenrant.com/tomb-raider-king-top-solo-leveling-replacement-crunchyroll/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Jujutsu Kaisen's True Successor Just Dropped, And Nobody's Talking About It",
       "url": "https://screenrant.com/jujutsu-kaisen-successor-webtoon-infinite-awakening/",
       "pillar": "anime",
@@ -76,13 +83,6 @@
     {
       "title": "One Piece Episode #1172 Release Date And Time",
       "url": "https://screenrant.com/one-piece-episode-1172-release-date-time/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "After 11 Years, Black Clover Finally Reveals Asta's Epic Final Look",
-      "url": "https://screenrant.com/black-clover-asta-final-look/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
