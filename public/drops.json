@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-04T06:04:12+00:00",
+  "generated_utc": "2026-08-04T07:35:17+00:00",
   "items": [
+    {
+      "id": "8caeb2948d1b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 “Oreo” (CT8529-108) August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-6-oreo-ct8529-108-drop/",
+      "thumbnail": "/drops/thumbs/8caeb2948d1b.jpg",
+      "published": "2026-08-01T13:14:29",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "dd42a8d6c69e",
       "pillar": "sneakers",
@@ -58,18 +70,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-8-chrome-2026/",
       "thumbnail": "/drops/thumbs/545d3b650dbf.jpg",
       "published": "2026-07-26T16:35:19",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "4b402027412f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Sports Renaissance” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-sports-renaissance-obsidian/",
-      "thumbnail": "/drops/thumbs/4b402027412f.jpg",
-      "published": "2026-07-25T22:55:13",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "8caeb2948d1b",
     "dd42a8d6c69e",
     "b88023c18239",
-    "9775c1e27cbe",
     "408a0a886dac",
-    "8cb509546594",
+    "9775c1e27cbe",
     "71d6c69dfcb2"
   ]
 }
