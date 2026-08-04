@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-04T12:38:35+00:00",
+  "generated_utc": "2026-08-04T13:02:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Koei Tecmo's Attack on Titan 3 Game's Video Reveals December 10 Release",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-03/koei-tecmo-attack-on-titan-3-game-video-reveals-december-10-release/.240237",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Even Attack on Titan is avoiding GTA 6",
       "url": "https://www.polygon.com/attack-on-titan-3-release-date/",
       "pillar": "anime",
@@ -102,15 +95,22 @@
       "article_slug": null
     },
     {
-      "title": "Pan Dorobō Anime's New Video Unveils More Cast & Staff, Opening Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-03/pan-dorobo-anime-new-video-unveils-more-cast-and-staff-opening-song/.240257",
+      "title": "Kemono Jihen Manga to End in 26th Volume After 10 Years",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-04/kemono-jihen-manga-to-end-in-26th-volume-after-10-years/.240251",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "KAKERU Launches New Succubus Hunter Exex Manga in August",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-03/kakeru-launches-new-succubus-hunter-exex-manga-in-august/.240242",
+      "title": "Kamome Maruyono's I Love Dokagui! Mochizuki-san Manga Gets TV Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-04/kamome-maruyono-i-love-dokagui-mochizuki-san-manga-gets-tv-anime/.240278",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Pan Dorobō Anime's New Video Unveils More Cast & Staff, Opening Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-03/pan-dorobo-anime-new-video-unveils-more-cast-and-staff-opening-song/.240257",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

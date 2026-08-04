@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-04T12:38:35+00:00",
+  "generated_utc": "2026-08-04T13:02:14+00:00",
   "items": [
     {
       "id": "961c33437dfe",
@@ -99,18 +99,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "408a0a886dac",
-      "pillar": "anime",
-      "title": "Koei Tecmo's Attack on Titan 3 Game's Video Reveals December 10 Release",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-03/koei-tecmo-attack-on-titan-3-game-video-reveals-december-10-release/.240237",
-      "thumbnail": "/drops/thumbs/408a0a886dac.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cfd091c4619b",
       "pillar": "anime",
       "title": "Even Attack on Titan is avoiding GTA 6",
@@ -171,24 +159,36 @@
       "release_badge": ""
     },
     {
-      "id": "55a7a8dbaae2",
+      "id": "d70d1fe3f1d7",
       "pillar": "anime",
-      "title": "Pan Dorobō Anime's New Video Unveils More Cast & Staff, Opening Song",
+      "title": "Kemono Jihen Manga to End in 26th Volume After 10 Years",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-03/pan-dorobo-anime-new-video-unveils-more-cast-and-staff-opening-song/.240257",
-      "thumbnail": "/drops/thumbs/55a7a8dbaae2.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-04/kemono-jihen-manga-to-end-in-26th-volume-after-10-years/.240251",
+      "thumbnail": "/drops/thumbs/d70d1fe3f1d7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "acba78ea4510",
+      "id": "42653f2aebb1",
       "pillar": "anime",
-      "title": "KAKERU Launches New Succubus Hunter Exex Manga in August",
+      "title": "Kamome Maruyono's I Love Dokagui! Mochizuki-san Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-03/kakeru-launches-new-succubus-hunter-exex-manga-in-august/.240242",
-      "thumbnail": "/drops/thumbs/acba78ea4510.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-04/kamome-maruyono-i-love-dokagui-mochizuki-san-manga-gets-tv-anime/.240278",
+      "thumbnail": "/drops/thumbs/42653f2aebb1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "55a7a8dbaae2",
+      "pillar": "anime",
+      "title": "Pan Dorobō Anime's New Video Unveils More Cast & Staff, Opening Song",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-03/pan-dorobo-anime-new-video-unveils-more-cast-and-staff-opening-song/.240257",
+      "thumbnail": "/drops/thumbs/55a7a8dbaae2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "961c33437dfe",
     "4b402027412f",
     "8caeb2948d1b",
-    "408a0a886dac",
+    "cfd091c4619b",
     "dd42a8d6c69e",
     "71d6c69dfcb2"
   ]
