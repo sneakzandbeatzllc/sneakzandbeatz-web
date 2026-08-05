@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-05T11:31:26+00:00",
+  "generated_utc": "2026-08-05T12:27:46+00:00",
   "items": [
     {
       "id": "961c33437dfe",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "f17106548a1a",
-      "pillar": "gaming",
-      "title": "News Ex-Wrestler Dave Bautista in Talks to Take Over from Ryan Hurst as Kratos in God of War TV Show",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/ex-wrestler-dave-bautista-in-talks-to-take-over-from-ryan-hurst-as-kratos-in-god-of-war-tv-show",
-      "thumbnail": "/drops/thumbs/f17106548a1a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5b8d924cf093",
       "pillar": "gaming",
       "title": "God of War creator says Sony is likely killing PlayStation discs to cater to \"the needs of the many\" 118 Comments",
@@ -219,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "15905da8bd24",
+      "id": "d341fcb8cac3",
       "pillar": "gaming",
-      "title": "Final Fantasy XIV Launches On Switch 2 With One Month Free Play",
+      "title": "Square Enix Has Identified And Will Fix Loading Issues For Final Fantasy XIV On Switch 2",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563593/article/final-fantasy-xiv-launches-on-switch-2-with-one-month-free-play/",
-      "thumbnail": "/drops/thumbs/15905da8bd24.png",
+      "source_url": "https://gameranx.com/updates/id/563605/article/square-enix-has-identified-and-will-fix-loading-issues-for-final-fantasy-xiv-on-switch-2/",
+      "thumbnail": "/drops/thumbs/d341fcb8cac3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -233,7 +221,7 @@
     {
       "id": "101550b655a6",
       "pillar": "gaming",
-      "title": "Stellar Blade: Blood Rain studio CEO defends AI music video because Evie was made by the devs 15 Comments",
+      "title": "Stellar Blade: Blood Rain studio CEO defends AI music video because Evie was made by the devs 16 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-studio-ceo-defends-ai-music-video-because-evie-was-originally-created-from-head-to-toe-by-the-devs-but-fans-say-thats-not-the-point/",
       "thumbnail": "/drops/thumbs/101550b655a6.jpg",
@@ -243,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "03fe320e8047",
+      "id": "15905da8bd24",
       "pillar": "gaming",
-      "title": "God Of War Show Undergoing Huge Recasting, Including Dave Bautista As Kratos",
+      "title": "Final Fantasy XIV Launches On Switch 2 With One Month Free Play",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563588/article/god-of-war-show-undergoing-huge-recasting-including-dave-bautista-as-kratos/",
-      "thumbnail": "/drops/thumbs/03fe320e8047.jpg",
+      "source_url": "https://gameranx.com/updates/id/563593/article/final-fantasy-xiv-launches-on-switch-2-with-one-month-free-play/",
+      "thumbnail": "/drops/thumbs/15905da8bd24.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "c6a41c9135d6",
+      "id": "49ae87bfaafb",
       "pillar": "gaming",
-      "title": "New Baldur’s Gate 3 Player Stats Prove You’re All Knife-Happy Bard Murderers",
+      "title": "News EA Studios Brace for Layoff Bloodbath as New Owner Debt Demands $700 Million Cost Cuts",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/ea-studios-brace-for-layoff-bloodbath-as-new-owner-debt-demands-usd700-million-cost-cuts",
+      "thumbnail": "/drops/thumbs/49ae87bfaafb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9f20312178e1",
+      "pillar": "gaming",
+      "title": "Eli Roth Claims He ‘Misspoke’ When He Denied Ice Cream Man Uses GenAI",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/baldurs-gate-3-player-stats-alfira-murderers-dark-urge-2000721639",
-      "thumbnail": "/drops/thumbs/c6a41c9135d6.jpg",
+      "source_url": "https://kotaku.com/eli-roth-ice-cream-man-movie-horror-genai-ai-borderlands-2000721868",
+      "thumbnail": "/drops/thumbs/9f20312178e1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "8caeb2948d1b",
     "c3e74905354b",
     "470ddf79af2c",
-    "f17106548a1a"
+    "5b8d924cf093"
   ]
 }
