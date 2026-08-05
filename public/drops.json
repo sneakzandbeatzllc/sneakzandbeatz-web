@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-05T07:26:38+00:00",
+  "generated_utc": "2026-08-05T07:57:24+00:00",
   "items": [
     {
       "id": "961c33437dfe",
@@ -63,18 +63,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "8cb509546594",
-      "pillar": "sneakers",
-      "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
-      "thumbnail": "/drops/thumbs/8cb509546594.jpg",
-      "published": "2026-07-30T23:53:20",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "470ddf79af2c",
       "pillar": "sneakers",
       "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
@@ -97,6 +85,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "1cd83c4d4607",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Nails and Grails” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-nails-and-grails/",
+      "thumbnail": "/drops/thumbs/1cd83c4d4607.jpg",
+      "published": "2026-07-31T02:06:25",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "c3e74905354b",

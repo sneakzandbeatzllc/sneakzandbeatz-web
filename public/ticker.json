@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-05T07:26:38+00:00",
+  "generated_utc": "2026-08-05T07:57:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,13 +39,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 17 Low “Black Patent” Releases August 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-17-low-black-patent/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
       "url": "https://sneakerbardetroit.com/air-jordan-1-high-og-love-letter/",
       "pillar": "sneakers",
@@ -57,6 +50,13 @@
       "url": "https://sneakerbardetroit.com/air-jordan-1-low-golf-dark-team-red-iq3417-601/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Nails and Grails” Releases September 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-nails-and-grails/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
