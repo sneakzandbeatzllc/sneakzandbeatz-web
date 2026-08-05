@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-05T09:25:47+00:00",
+  "generated_utc": "2026-08-05T09:59:09+00:00",
   "items": [
     {
       "id": "961c33437dfe",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "9775c1e27cbe",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Laser” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-laser-phantom/",
-      "thumbnail": "/drops/thumbs/9775c1e27cbe.jpg",
-      "published": "2026-07-31T00:46:21",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "470ddf79af2c",
       "pillar": "sneakers",
       "title": "Air Jordan 1 High OG “Love Letter” Releases August 1st",
@@ -97,6 +85,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "9e124e1dece4",
+      "pillar": "sneakers",
+      "title": "JAIDE x Air Jordan 1 Low OG Releases December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/jaide-air-jordan-1-low-og/",
+      "thumbnail": "/drops/thumbs/9e124e1dece4.jpg",
+      "published": "2026-08-05T00:57:35",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "c3e74905354b",
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "c6a41c9135d6",
+      "id": "f7029d0f622b",
       "pillar": "gaming",
-      "title": "New Baldur’s Gate 3 Player Stats Prove You’re All Knife-Happy Bard Murderers",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/baldurs-gate-3-player-stats-alfira-murderers-dark-urge-2000721639",
-      "thumbnail": "/drops/thumbs/c6a41c9135d6.jpg",
+      "title": "Rumor: Halo Campaign Evolved Fired Partner Studio Abstraction Games In The Middle of Development",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563601/article/rumor-halo-campaign-evolved-fired-partner-studio-abstraction-games-in-the-middle-of-development/",
+      "thumbnail": "/drops/thumbs/f7029d0f622b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "660bcdcf65ee",
+      "id": "c6a41c9135d6",
       "pillar": "gaming",
-      "title": "News 'We're Entering This Next Chapter from a Position of Strength': EA Completes $55 Billion Buyout",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/were-entering-this-next-chapter-from-a-position-of-strength-ea-completes-usd55-billion-buyout",
-      "thumbnail": "/drops/thumbs/660bcdcf65ee.jpg",
+      "title": "New Baldur’s Gate 3 Player Stats Prove You’re All Knife-Happy Bard Murderers",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/baldurs-gate-3-player-stats-alfira-murderers-dark-urge-2000721639",
+      "thumbnail": "/drops/thumbs/c6a41c9135d6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
