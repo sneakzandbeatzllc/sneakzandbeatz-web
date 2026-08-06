@@ -16813,6 +16813,36 @@ Built for the culture. Operated from San Diego. Run by PHRHX through Sneakz & Be
     "heroImage": "https://www.shanethegamer.com/wp-content/uploads/2026/08/image-2026-08-06T131458.760.webp",
     "publishedAt": "2026-08-06",
     "goLiveAt": "2026-08-06"
+  },
+  {
+    "slug": "air-jordan-13-wings-ix1872-001-2026",
+    "pillar": "sneakers",
+    "heroFocus": "center",
+    "title": "The Air Jordan 13 'Wings' Is Built to Be Destroyed",
+    "headline": "A $215 Retro\nYou're Meant to Rip.",
+    "subhead": "The Air Jordan 13 'Wings' drops today: a black denim wear-away upper, color hidden in the pods, and a WINGS education tie-in — limited to about 12,000 pairs.",
+    "description": "The Air Jordan 13 'Wings' (IX1872-001) drops Aug 6 for $215: black denim wear-away upper, WINGS education program, ~12,000 pairs. The Sneakz take.",
+    "keywords": [
+      "Air Jordan 13 Wings",
+      "Air Jordan 13",
+      "IX1872-001",
+      "Jordan 13 Wings release date",
+      "Jordan 13 Wings price",
+      "WINGS program",
+      "Air Jordan retro 2026",
+      "SNKRS",
+      "Sneakz and Beatz",
+      "Jordan release date"
+    ],
+    "ogHeadline": "A $215 retro\nyou're meant to rip.",
+    "ogAccent": "2F8F4E",
+    "heroCredit": "Sneaker Bar Detroit",
+    "heroCreditUrl": "https://sneakerbardetroit.com/air-jordan-13-wings/",
+    "trendScore": 94,
+    "body": "Jordan Brand made a $215 shoe you're supposed to rip apart. That's not a knock — it's the whole point of the Air Jordan 13 \"Wings,\" and it's the most interesting thing they've done with the 13 in years.\n\n## A retro built to be destroyed\nForget the quilted side panels the 13 is known for. Per [Sneaker Bar Detroit](https://sneakerbardetroit.com/air-jordan-13-wings/), this pair swaps them for black denim twill stitched with distressed X-shaped embroidery — a wear-away upper designed to tear, fray, and reveal a hidden graphic underneath the more you wear it. You can rip the denim off entirely or let it go on its own. Nobody's pair ages the same. A Jordan retro that rewards you for beating it up is a genuinely new idea on a 27-year-old silhouette.\n\n![Air Jordan 13 Wings IX1872-001](https://sneakerbardetroit.com/wp-content/uploads/2026/07/air-jordan-13-wings-ix1872-001-4.webp \"Sneaker Bar Detroit|https://sneakerbardetroit.com/air-jordan-13-wings/\")\n\n## All the color lives underneath\nThe upper is Black/Black-Black — the loud part is hidden. Purple, blue, green, and orange split across mismatched traction pods on the outsole, and the 13's cat-eye hologram gets a pale-green tint. The payoff reads from the ground up, which is exactly how the sole-obsessed will want it.\n\n## The part that actually matters: who it's for\nWINGS isn't a colorway, it's Jordan Brand's education program — scholarships and mentorship for students, mostly Black and brown kids the brand's money was built on. The insoles are printed with school supplies and diplomas; the special box carries the \"Wings Legacy Graphic\" honoring scholarship recipients. The 13 joins WINGS makeups of the [Air Jordan 3, 5, and 12](https://sneakerbardetroit.com/air-jordan-13-wings/). Worth holding the receipt on: a limited, resell-bait drop tied to funding education is a good look — as long as the funding is real and not just the marketing.\n\n## The cop\nIX1872-001, $215, out today (August 6) on Nike.com and SNKRS, reportedly capped near 12,000 pairs per [Sports Illustrated](https://www.si.com/fannation/sneakers/news/air-jordan-13-wings-gets-extremely-limited-release). At that number it's gone instantly and it's a resell shoe by lunch. If you want it to wear — and this is a shoe that only makes sense worn — that's the tension: the pair built to be torn up is the one nobody who paid resale will dare scuff.\n\n## Sources\n- [Air Jordan 13 \"Wings\" — Sneaker Bar Detroit](https://sneakerbardetroit.com/air-jordan-13-wings/) (Jul 2026)\n- [Air Jordan 13 \"Wings\" IX1872-001 — Nice Kicks](https://www.nicekicks.com/air-jordan-13-wings-ix1872-001/) (2026)\n- [The Air Jordan 13 \"Wings\" Gets Extremely Limited Release — Sports Illustrated](https://www.si.com/fannation/sneakers/news/air-jordan-13-wings-gets-extremely-limited-release) (Aug 2026)",
+    "heroImage": "https://sneakerbardetroit.com/wp-content/uploads/2026/07/air-jordan-13-wings-ix1872-001-release-date.webp",
+    "publishedAt": "2026-08-06",
+    "goLiveAt": "2026-08-06"
   }
 ];
 
