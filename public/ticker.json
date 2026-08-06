@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-06T18:38:57+00:00",
+  "generated_utc": "2026-08-06T18:42:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Nike Teases Major One Piece Collaboration",
+      "url": "https://screenrant.com/one-piece-nike-collaboration/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kindergarten Wars Anime Casts Sumire Morohoshi",
       "url": "https://www.animenewsnetwork.com/news/2026-08-06/kindergarten-wars-anime-casts-sumire-morohoshi/.240355",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Destiny Unchain Online Novels/Manga Get TV Anime",
       "url": "https://www.animenewsnetwork.com/news/2026-08-06/destiny-unchain-online-novels-manga-get-tv-anime/.240352",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "29 Years Later, The Original Pokémon Anime Is Back With Ash And Pikachu's Grand Return",
-      "url": "https://screenrant.com/original-pokemon-anime-indigo-league-ash-return-streaming/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
