@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T13:50:38+00:00",
+  "generated_utc": "2026-08-07T14:18:59+00:00",
   "items": [
     {
       "id": "ac1a217bdc86",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "bb5aa017542e",
+      "pillar": "gaming",
+      "title": "News GTA 6 Pre-Orders Are 'Exceptional' So Far, Says Take-Two Boss",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-pre-orders-are-exceptional-so-far-says-take-two-boss",
+      "thumbnail": "/drops/thumbs/bb5aa017542e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "02d3ea02edfd",
       "pillar": "gaming",
       "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\"",
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "c788c9111a37",
-      "pillar": "gaming",
-      "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
-      "thumbnail": "/drops/thumbs/c788c9111a37.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2b99cdc01908",
       "pillar": "gaming",
       "title": "RPG Club Need a reason to return to Baldur's Gate 3? Then join the GamesRadar+ RPG Club and replay it with us",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "6e3480ea092c",
+      "id": "c788c9111a37",
       "pillar": "gaming",
-      "title": "News Marvel Tokon Launches to Mixed Reviews on PC, PS5 Players Encouraged to Disable Crossplay",
+      "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/marvel-tokon-launches-to-mixed-reviews-on-pc-ps5-players-encouraged-to-disable-crossplay",
-      "thumbnail": "/drops/thumbs/6e3480ea092c.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
+      "thumbnail": "/drops/thumbs/c788c9111a37.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "8caeb2948d1b",
     "bce8d5efddc3",
     "1cdd08c88e06",
-    "02d3ea02edfd"
+    "bb5aa017542e"
   ]
 }
