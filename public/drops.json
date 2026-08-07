@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T14:18:59+00:00",
+  "generated_utc": "2026-08-07T14:46:19+00:00",
   "items": [
     {
       "id": "ac1a217bdc86",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "7e3fb14a2dd4",
+      "pillar": "anime",
+      "title": "We may have an idea of when Dragon Ball Super: Beerus will premiere",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dragon-ball-super-beerus-nycc-possible-release-date/",
+      "thumbnail": "/drops/thumbs/7e3fb14a2dd4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bce8d5efddc3",
       "pillar": "anime",
       "title": "Dragon Ball Meets Jujutsu Kaisen In The 2027 Manhwa Anime Nobody Talks About",
@@ -147,18 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "e8eb510b9a6a",
-      "pillar": "anime",
-      "title": "The Ninth Jedi director reveals how he reinvented lightsaber canon using classic samurai cinema",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/the-ninth-jedi-lightsabers-director-interview/",
-      "thumbnail": "/drops/thumbs/e8eb510b9a6a.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "796c0bb2d327",
       "pillar": "anime",
       "title": "Shingo Natsume, Madhouse's ghost – end of night Original Anime Film Unveils Teaser, Cast",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "c748eaf79a64",
+      "id": "e8eb510b9a6a",
       "pillar": "anime",
-      "title": "Highest-rated anime of the year gets new trailer ahead of its upcoming return",
+      "title": "The Ninth Jedi director reveals how he reinvented lightsaber canon using classic samurai cinema",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/rezero-season-4-new-trailer-highest-rated-anime/",
-      "thumbnail": "/drops/thumbs/c748eaf79a64.png",
+      "source_url": "https://www.polygon.com/the-ninth-jedi-lightsabers-director-interview/",
+      "thumbnail": "/drops/thumbs/e8eb510b9a6a.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "ac1a217bdc86",
     "a4bb57f3aee3",
     "8caeb2948d1b",
-    "bce8d5efddc3",
+    "7e3fb14a2dd4",
     "1cdd08c88e06",
     "bb5aa017542e"
   ]

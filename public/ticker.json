@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T14:18:59+00:00",
+  "generated_utc": "2026-08-07T14:46:19+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "We may have an idea of when Dragon Ball Super: Beerus will premiere",
+      "url": "https://www.polygon.com/dragon-ball-super-beerus-nycc-possible-release-date/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dragon Ball Meets Jujutsu Kaisen In The 2027 Manhwa Anime Nobody Talks About",
       "url": "https://screenrant.com/eleceed-jujutsu-kaisen-meets-dragon-ball-manhwa-anime/",
       "pillar": "anime",
@@ -88,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "The Ninth Jedi director reveals how he reinvented lightsaber canon using classic samurai cinema",
-      "url": "https://www.polygon.com/the-ninth-jedi-lightsabers-director-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Shingo Natsume, Madhouse's ghost – end of night Original Anime Film Unveils Teaser, Cast",
       "url": "https://www.animenewsnetwork.com/news/2026-08-06/shingo-natsume-madhouse-ghost-end-of-night-original-anime-film-unveils-teaser-cast/.240360",
       "pillar": "anime",
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Highest-rated anime of the year gets new trailer ahead of its upcoming return",
-      "url": "https://www.polygon.com/rezero-season-4-new-trailer-highest-rated-anime/",
+      "title": "The Ninth Jedi director reveals how he reinvented lightsaber canon using classic samurai cinema",
+      "url": "https://www.polygon.com/the-ninth-jedi-lightsabers-director-interview/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
