@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T11:49:08+00:00",
+  "generated_utc": "2026-08-07T12:47:41+00:00",
   "items": [
     {
       "id": "ac1a217bdc86",
@@ -195,24 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "686dbf3b585f",
+      "id": "afce3ecc4f23",
       "pillar": "gaming",
-      "title": "News GTA 6 PS5 Gameplay Coming This Month, Here's When to See It First on Netflix",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-ps5-gameplay-coming-this-month-heres-when-to-see-it-first-on-netflix",
-      "thumbnail": "/drops/thumbs/686dbf3b585f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0065f24167bb",
-      "pillar": "gaming",
-      "title": "Netflix Presents GTA 6: An Extended Look This August 27",
+      "title": "Take-Two: GTA 6 Has Had An “Exceptional Start To Pre-Orders”",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563623/article/netflix-presents-gta-6-an-extended-look-this-august-27/",
-      "thumbnail": "/drops/thumbs/0065f24167bb.jpg",
+      "source_url": "https://gameranx.com/updates/id/563636/article/take-two-gta-6-has-had-an-exceptional-start-to-pre-orders/",
+      "thumbnail": "/drops/thumbs/afce3ecc4f23.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "2b99cdc01908",
+      "id": "0065f24167bb",
       "pillar": "gaming",
-      "title": "RPG Club Need a reason to return to Baldur's Gate 3? Then join the GamesRadar+ RPG Club and replay it with us",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-august-2026-baldurs-gate-3/",
-      "thumbnail": "/drops/thumbs/2b99cdc01908.jpg",
+      "title": "Netflix Presents GTA 6: An Extended Look This August 27",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563623/article/netflix-presents-gta-6-an-extended-look-this-august-27/",
+      "thumbnail": "/drops/thumbs/0065f24167bb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +243,36 @@
       "release_badge": ""
     },
     {
+      "id": "2b99cdc01908",
+      "pillar": "gaming",
+      "title": "RPG Club Need a reason to return to Baldur's Gate 3? Then join the GamesRadar+ RPG Club and replay it with us",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-august-2026-baldurs-gate-3/",
+      "thumbnail": "/drops/thumbs/2b99cdc01908.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c788c9111a37",
       "pillar": "gaming",
       "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
       "thumbnail": "/drops/thumbs/c788c9111a37.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6e3480ea092c",
+      "pillar": "gaming",
+      "title": "News Marvel Tokon Launches to Mixed Reviews on PC, PS5 Players Encouraged to Disable Crossplay",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/marvel-tokon-launches-to-mixed-reviews-on-pc-ps5-players-encouraged-to-disable-crossplay",
+      "thumbnail": "/drops/thumbs/6e3480ea092c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "90756e9bf836",
-      "pillar": "gaming",
-      "title": "2021’s Quake Receives New Expansion For The Franchise’s 30 Year Anniversary, Called Dawn of the Machine",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563631/article/2021s-quake-receives-new-expansion-for-the-franchises-30-year-anniversary-called-dawn-of-the-machine/",
-      "thumbnail": "/drops/thumbs/90756e9bf836.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "8caeb2948d1b",
     "bce8d5efddc3",
     "c8f5b10cc523",
-    "686dbf3b585f"
+    "afce3ecc4f23"
   ]
 }
