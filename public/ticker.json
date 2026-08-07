@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T19:25:22+00:00",
+  "generated_utc": "2026-08-07T19:51:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Attack on Titan turned its hero’s battle cry into a villain’s manifesto",
+      "url": "https://www.polygon.com/how-attack-on-titan-turned-its-heros-battle-cry-into-a-villains-manifesto/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "We may have an idea of when Dragon Ball Super: Beerus will premiere",
       "url": "https://www.polygon.com/dragon-ball-super-beerus-nycc-possible-release-date/",
       "pillar": "anime",
@@ -102,13 +109,6 @@
       "article_slug": null
     },
     {
-      "title": "The Ninth Jedi director reveals how he reinvented lightsaber canon using classic samurai cinema",
-      "url": "https://www.polygon.com/the-ninth-jedi-lightsabers-director-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Madoka Magica -Walpurgisnacht: Rising- Anime Film Gets IMAX Screenings",
       "url": "https://www.animenewsnetwork.com/news/2026-08-07/madoka-magica-walpurgisnacht-rising-anime-film-gets-imax-screenings/.240376",
       "pillar": "anime",
@@ -137,22 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Pre-Orders Are 'Exceptional' So Far, Says Take-Two Boss",
-      "url": "https://www.pushsquare.com/news/2026/08/gta-6-pre-orders-are-exceptional-so-far-says-take-two-boss",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Netflix Presents GTA 6: An Extended Look This August 27",
       "url": "https://gameranx.com/updates/id/563623/article/netflix-presents-gta-6-an-extended-look-this-august-27/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hideo Kojima calls The Odyssey \"magnificent,\" says Christopher Nolan managed to \"elevate\" the epic",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/hideo-kojima-calls-the-odyssey-magnificent-and-says-christopher-nolan-managed-to-elevate-the-classic-epic-into-an-intimate-deep-human-drama/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "Hideo Kojima calls The Odyssey \"magnificent,\" says Christopher Nolan managed to \"elevate\" the epic",
+      "url": "https://www.gamesradar.com/entertainment/action-movies/hideo-kojima-calls-the-odyssey-magnificent-and-says-christopher-nolan-managed-to-elevate-the-classic-epic-into-an-intimate-deep-human-drama/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "RPG Club Need a reason to return to Baldur's Gate 3? Then join the GamesRadar+ RPG Club and replay it with us",
       "url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-august-2026-baldurs-gate-3/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Member Exclusive My Baldur's Gate 3 no-weapons run has been saved by grease and candles, and I'm only halfway through Act 1",
+      "url": "https://www.gamesradar.com/games/baldur-s-gate/can-you-actually-beat-baldurs-gate-3-without-a-single-weapon-im-finding-out-the-hard-way-and-my-sorcerer-has-never-looked-so-defenseless/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
