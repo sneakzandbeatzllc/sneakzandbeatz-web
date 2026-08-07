@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T14:51:34+00:00",
+  "generated_utc": "2026-08-07T15:47:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -88,15 +88,15 @@
       "article_slug": null
     },
     {
-      "title": "Japanese Animation TV Ranking, July 27-August 2",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-07/japanese-animation-tv-ranking-july-27-august-2/.240366",
+      "title": "Madoka Magica -Walpurgisnacht: Rising- Anime Film Gets IMAX Screenings",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-07/madoka-magica-walpurgisnacht-rising-anime-film-gets-imax-screenings/.240376",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Shingo Natsume, Madhouse's ghost – end of night Original Anime Film Unveils Teaser, Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-06/shingo-natsume-madhouse-ghost-end-of-night-original-anime-film-unveils-teaser-cast/.240360",
+      "title": "Romelia War Chronicle Anime's Trailer Reveals Additional Cast, October 2026 Premiere",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-07/romelia-war-chronicle-anime-trailer-reveals-additional-cast-october-2026-premiere/.240375",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Made in Abyss: Mezameru Shinpi Anime Film Unveils Trailer, Cast, Theme Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-06/made-in-abyss-mezameru-shinpi-anime-film-unveils-trailer-cast-theme-song/.240358",
+      "title": "Japanese Animation TV Ranking, July 27-August 2",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-07/japanese-animation-tv-ranking-july-27-august-2/.240366",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +132,6 @@
     {
       "title": "Take-Two: GTA 6 Has Had An “Exceptional Start To Pre-Orders”",
       "url": "https://gameranx.com/updates/id/563636/article/take-two-gta-6-has-had-an-exceptional-start-to-pre-orders/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "What To Expect From GTA 6′ s Big Netflix Reveal: Narrated Gameplay And No Delay Announcement",
-      "url": "https://kotaku.com/what-to-expect-from-gta-6s-big-netflix-reveal-narrated-gameplay-and-no-delay-announcemnet-2000722204",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
       "url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Marvel Tōkon Launches To Abysmal 44% Rating On Steam: ‘They Should Have Pushed The PC Release Date Back Until They Figured This Out’",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
