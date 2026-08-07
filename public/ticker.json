@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T09:47:42+00:00",
+  "generated_utc": "2026-08-07T10:48:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Rockstar confirms that an \"extended look\" at GTA 6 is coming to Netflix later this month",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-gets-an-extended-look-later-this-month-as-rockstar-finally-throws-a-bone-to-fans-who-have-waited-over-a-year-for-trailer-2/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Netflix Presents GTA 6: An Extended Look This August 27",
       "url": "https://gameranx.com/updates/id/563623/article/netflix-presents-gta-6-an-extended-look-this-august-27/",
       "pillar": "gaming",
@@ -144,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
-      "url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "RPG Club Need a reason to return to Baldur's Gate 3? Then join the GamesRadar+ RPG Club and replay it with us",
       "url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-august-2026-baldurs-gate-3/",
       "pillar": "gaming",
@@ -158,15 +144,29 @@
       "article_slug": null
     },
     {
-      "title": "2021’s Quake Receives New Expansion For The Franchise’s 30 Year Anniversary, Called Dawn of the Machine",
-      "url": "https://gameranx.com/updates/id/563631/article/2021s-quake-receives-new-expansion-for-the-franchises-30-year-anniversary-called-dawn-of-the-machine/",
+      "title": "News Marvel's Spider-Man 2 Update Adjusts the Brand New Day Suit Following Fan Outcry",
+      "url": "https://www.pushsquare.com/news/2026/08/marvels-spider-man-2-update-adjusts-the-brand-new-day-suit-following-fan-outcry",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Quake Adds Free 30th Anniversary Campaign for All PS5 Players, Developed by MachineGames",
-      "url": "https://www.pushsquare.com/news/2026/08/quake-adds-free-30th-anniversary-campaign-for-all-ps5-players-developed-by-machinegames",
+      "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
+      "url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Gears of War: E-Day's Steam player peak in beta has already passed the series' all-time record",
+      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-steam-player-peak-has-already-passed-the-series-all-time-record-and-its-still-only-in-limited-beta/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "2021’s Quake Receives New Expansion For The Franchise’s 30 Year Anniversary, Called Dawn of the Machine",
+      "url": "https://gameranx.com/updates/id/563631/article/2021s-quake-receives-new-expansion-for-the-franchises-30-year-anniversary-called-dawn-of-the-machine/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

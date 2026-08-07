@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T09:47:42+00:00",
+  "generated_utc": "2026-08-07T10:48:25+00:00",
   "items": [
     {
       "id": "a4bb57f3aee3",
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "daa0cbe58ec2",
-      "pillar": "gaming",
-      "title": "Rockstar confirms that an \"extended look\" at GTA 6 is coming to Netflix later this month",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-gets-an-extended-look-later-this-month-as-rockstar-finally-throws-a-bone-to-fans-who-have-waited-over-a-year-for-trailer-2/",
-      "thumbnail": "/drops/thumbs/daa0cbe58ec2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0065f24167bb",
       "pillar": "gaming",
       "title": "Netflix Presents GTA 6: An Extended Look This August 27",
@@ -243,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "c788c9111a37",
-      "pillar": "gaming",
-      "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
-      "thumbnail": "/drops/thumbs/c788c9111a37.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2b99cdc01908",
       "pillar": "gaming",
       "title": "RPG Club Need a reason to return to Baldur's Gate 3? Then join the GamesRadar+ RPG Club and replay it with us",
@@ -267,24 +243,48 @@
       "release_badge": ""
     },
     {
-      "id": "90756e9bf836",
+      "id": "5a36d44aa3a7",
       "pillar": "gaming",
-      "title": "2021’s Quake Receives New Expansion For The Franchise’s 30 Year Anniversary, Called Dawn of the Machine",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563631/article/2021s-quake-receives-new-expansion-for-the-franchises-30-year-anniversary-called-dawn-of-the-machine/",
-      "thumbnail": "/drops/thumbs/90756e9bf836.jpg",
+      "title": "News Marvel's Spider-Man 2 Update Adjusts the Brand New Day Suit Following Fan Outcry",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/marvels-spider-man-2-update-adjusts-the-brand-new-day-suit-following-fan-outcry",
+      "thumbnail": "/drops/thumbs/5a36d44aa3a7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "98e564bfc6d5",
+      "id": "c788c9111a37",
       "pillar": "gaming",
-      "title": "News Quake Adds Free 30th Anniversary Campaign for All PS5 Players, Developed by MachineGames",
+      "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/quake-adds-free-30th-anniversary-campaign-for-all-ps5-players-developed-by-machinegames",
-      "thumbnail": "/drops/thumbs/98e564bfc6d5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
+      "thumbnail": "/drops/thumbs/c788c9111a37.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f690a68f2ef5",
+      "pillar": "gaming",
+      "title": "Gears of War: E-Day's Steam player peak in beta has already passed the series' all-time record",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-steam-player-peak-has-already-passed-the-series-all-time-record-and-its-still-only-in-limited-beta/",
+      "thumbnail": "/drops/thumbs/f690a68f2ef5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "90756e9bf836",
+      "pillar": "gaming",
+      "title": "2021’s Quake Receives New Expansion For The Franchise’s 30 Year Anniversary, Called Dawn of the Machine",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563631/article/2021s-quake-receives-new-expansion-for-the-franchises-30-year-anniversary-called-dawn-of-the-machine/",
+      "thumbnail": "/drops/thumbs/90756e9bf836.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
