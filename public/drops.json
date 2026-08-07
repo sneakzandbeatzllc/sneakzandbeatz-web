@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T01:42:22+00:00",
+  "generated_utc": "2026-08-07T05:46:08+00:00",
   "items": [
     {
       "id": "a4bb57f3aee3",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "686dbf3b585f",
+      "pillar": "gaming",
+      "title": "News GTA 6 PS5 Gameplay Coming This Month, Here's When to See It First on Netflix",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-ps5-gameplay-coming-this-month-heres-when-to-see-it-first-on-netflix",
+      "thumbnail": "/drops/thumbs/686dbf3b585f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "daa0cbe58ec2",
       "pillar": "gaming",
       "title": "Rockstar confirms that an \"extended look\" at GTA 6 is coming to Netflix later this month",
@@ -219,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "c788c9111a37",
-      "pillar": "gaming",
-      "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
-      "thumbnail": "/drops/thumbs/c788c9111a37.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "598fe3ab0dff",
       "pillar": "gaming",
       "title": "Rumor: Did Sony’s Latest Earnings Report Hint That God Of War Laufey Is Delayed?",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "33c6d37ed988",
+      "id": "c788c9111a37",
       "pillar": "gaming",
-      "title": "News Silent Hill 2 Patch Finally Fixes Remake on PS5 Pro - Or Does It?",
+      "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/silent-hill-2-patch-finally-fixes-remake-on-ps5-pro-or-does-it",
-      "thumbnail": "/drops/thumbs/33c6d37ed988.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
+      "thumbnail": "/drops/thumbs/c788c9111a37.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "7da693fc3ba9",
+      "id": "0e4ea3eeaf77",
       "pillar": "gaming",
-      "title": "News Halo Made Its PS5 Debut, So Now It's Time for Xbox to Lay Off the Team That Made It",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/halo-made-its-ps5-debut-so-now-its-time-for-xbox-to-lay-off-the-team-that-made-it",
-      "thumbnail": "/drops/thumbs/7da693fc3ba9.jpg",
+      "title": "Rumor: Grip Digital Was Making A PS5 Co-Op Shooter This Year (Another Cancelled PlayStation Live Service?)",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563621/article/rumor-grip-digital-was-making-a-ps5-co-op-shooter-this-year-another-cancelled-playstation-live-service/",
+      "thumbnail": "/drops/thumbs/0e4ea3eeaf77.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "c8f5b10cc523",
     "bce8d5efddc3",
     "1cdd08c88e06",
-    "daa0cbe58ec2"
+    "686dbf3b585f"
   ]
 }
