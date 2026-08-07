@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-07T12:49:47+00:00",
+  "generated_utc": "2026-08-07T13:50:38+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,13 +20,6 @@
     {
       "title": "Air Jordan 6 “Oreo” (CT8529-108) August 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-6-oreo-ct8529-108-drop/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 17 Low “Black Patent” (IV7640-001) August 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-17-low-black-patent-iv7640-001/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -55,6 +48,13 @@
     {
       "title": "First Look at This Year’s Rumored Air Jordan 4 “Bred” Retro",
       "url": "https://justfreshkicks.com/air-jordan-4-bred-2026-ix8180-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 11 “Monstars” (IV7639-001) November 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-11-monstars-2026/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-digital-only-take-two-boss-says-discs-dont-really-make-sense-if-youre-already-connected-who-cares-if-you-download-digitally/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Take-Two: GTA 6 Has Had An “Exceptional Start To Pre-Orders”",
       "url": "https://gameranx.com/updates/id/563636/article/take-two-gta-6-has-had-an-exceptional-start-to-pre-orders/",
       "pillar": "gaming",
@@ -144,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "RPG Club Need a reason to return to Baldur's Gate 3? Then join the GamesRadar+ RPG Club and replay it with us",
-      "url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-august-2026-baldurs-gate-3/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News New Final Fantasy 7 Revelation Gameplay Confirmed for Gamescom Opening Night Live",
       "url": "https://www.pushsquare.com/news/2026/08/new-final-fantasy-7-revelation-gameplay-confirmed-for-gamescom-opening-night-live",
       "pillar": "gaming",
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "News Marvel Tokon Launches to Mixed Reviews on PC, PS5 Players Encouraged to Disable Crossplay",
-      "url": "https://www.pushsquare.com/news/2026/08/marvel-tokon-launches-to-mixed-reviews-on-pc-ps5-players-encouraged-to-disable-crossplay",
+      "title": "RPG Club Need a reason to return to Baldur's Gate 3? Then join the GamesRadar+ RPG Club and replay it with us",
+      "url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-august-2026-baldurs-gate-3/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Gears of War: E-Day's Steam player peak in beta has already passed the series' all-time record",
-      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-steam-player-peak-has-already-passed-the-series-all-time-record-and-its-still-only-in-limited-beta/",
+      "title": "News Marvel Tokon Launches to Mixed Reviews on PC, PS5 Players Encouraged to Disable Crossplay",
+      "url": "https://www.pushsquare.com/news/2026/08/marvel-tokon-launches-to-mixed-reviews-on-pc-ps5-players-encouraged-to-disable-crossplay",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
