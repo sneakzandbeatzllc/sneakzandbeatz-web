@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-08T10:02:31+00:00",
+  "generated_utc": "2026-08-08T11:03:13+00:00",
   "items": [
     {
       "id": "ac1a217bdc86",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "3f7de6c99b85",
-      "pillar": "gaming",
-      "title": "News 'Discs Don't Really Make Sense': GTA 6 Boss Says 'Sony Understands That' as It Kills Physical Games",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/discs-dont-really-make-sense-gta-6-boss-says-sony-understands-that-as-it-kills-physical-games",
-      "thumbnail": "/drops/thumbs/3f7de6c99b85.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "02d3ea02edfd",
       "pillar": "gaming",
       "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\" 18 Comments",
@@ -255,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "44eae19fae8d",
-      "pillar": "gaming",
-      "title": "Hideo Kojima calls The Odyssey \"magnificent,\" says Christopher Nolan managed to \"elevate\" the epic",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/action-movies/hideo-kojima-calls-the-odyssey-magnificent-and-says-christopher-nolan-managed-to-elevate-the-classic-epic-into-an-intimate-deep-human-drama/",
-      "thumbnail": "/drops/thumbs/44eae19fae8d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5a36d44aa3a7",
       "pillar": "gaming",
       "title": "News Marvel's Spider-Man 2 Update Adjusts the Brand New Day Suit Following Fan Outcry",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/08/marvels-spider-man-2-update-adjusts-the-brand-new-day-suit-following-fan-outcry",
       "thumbnail": "/drops/thumbs/5a36d44aa3a7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "44eae19fae8d",
+      "pillar": "gaming",
+      "title": "Hideo Kojima calls The Odyssey \"magnificent,\" says Christopher Nolan managed to \"elevate\" the epic",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/action-movies/hideo-kojima-calls-the-odyssey-magnificent-and-says-christopher-nolan-managed-to-elevate-the-classic-epic-into-an-intimate-deep-human-drama/",
+      "thumbnail": "/drops/thumbs/44eae19fae8d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "270058593213",
+      "pillar": "gaming",
+      "title": "Member Exclusive My Baldur's Gate 3 no-weapons run has been saved by grease and candles, and I'm only halfway through Act 1",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/baldur-s-gate/can-you-actually-beat-baldurs-gate-3-without-a-single-weapon-im-finding-out-the-hard-way-and-my-sorcerer-has-never-looked-so-defenseless/",
+      "thumbnail": "/drops/thumbs/270058593213.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "a4bb57f3aee3",
     "3f8f25d1e446",
     "1cdd08c88e06",
-    "3f7de6c99b85"
+    "02d3ea02edfd"
   ]
 }
