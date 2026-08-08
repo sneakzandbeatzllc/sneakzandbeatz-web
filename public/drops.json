@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-08T14:59:02+00:00",
+  "generated_utc": "2026-08-08T15:05:11+00:00",
   "items": [
     {
       "id": "c8f5b10cc523",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "3f7de6c99b85",
-      "pillar": "gaming",
-      "title": "News 'Discs Don't Really Make Sense': GTA 6 Boss Says 'Sony Understands That' as It Kills Physical Games",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/discs-dont-really-make-sense-gta-6-boss-says-sony-understands-that-as-it-kills-physical-games",
-      "thumbnail": "/drops/thumbs/3f7de6c99b85.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "02d3ea02edfd",
       "pillar": "gaming",
       "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\" 20 Comments",
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "8de9e7651081",
+      "pillar": "gaming",
+      "title": "Marvel Tōkon Launches To Abysmal 44% Rating On Steam: ‘They Should Have Pushed The PC Release Date Back Until They Figured This Out’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
+      "thumbnail": "/drops/thumbs/8de9e7651081.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "ac1a217bdc86",
     "3f8f25d1e446",
     "1e78e0da6315",
-    "3f7de6c99b85"
+    "02d3ea02edfd"
   ]
 }

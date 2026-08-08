@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-08T14:59:02+00:00",
+  "generated_utc": "2026-08-08T15:05:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "News 'Discs Don't Really Make Sense': GTA 6 Boss Says 'Sony Understands That' as It Kills Physical Games",
-      "url": "https://www.pushsquare.com/news/2026/08/discs-dont-really-make-sense-gta-6-boss-says-sony-understands-that-as-it-kills-physical-games",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\" 20 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-digital-only-take-two-boss-says-discs-dont-really-make-sense-if-youre-already-connected-who-cares-if-you-download-digitally/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Member Exclusive My Baldur's Gate 3 no-weapons run has been saved by grease and candles, and I'm only halfway through Act 1",
       "url": "https://www.gamesradar.com/games/baldur-s-gate/can-you-actually-beat-baldurs-gate-3-without-a-single-weapon-im-finding-out-the-hard-way-and-my-sorcerer-has-never-looked-so-defenseless/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Marvel Tōkon Launches To Abysmal 44% Rating On Steam: ‘They Should Have Pushed The PC Release Date Back Until They Figured This Out’",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
