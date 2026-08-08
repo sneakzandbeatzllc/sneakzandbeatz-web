@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-08T13:42:10+00:00",
+  "generated_utc": "2026-08-08T14:04:33+00:00",
   "items": [
+    {
+      "id": "c8f5b10cc523",
+      "pillar": "sneakers",
+      "title": "Air Jordan 17 Low “Black Patent” (IV7640-001) August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-17-low-black-patent-iv7640-001/",
+      "thumbnail": "/drops/thumbs/c8f5b10cc523.jpg",
+      "published": "2026-08-07T15:11:12",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "a4bb57f3aee3",
       "pillar": "sneakers",
@@ -15,18 +27,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "8caeb2948d1b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 “Oreo” Releases Today",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-6-oreo-ct8529-108-drop/",
-      "thumbnail": "/drops/thumbs/8caeb2948d1b.jpg",
-      "published": "2026-08-07T13:14:29",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
-    },
-    {
       "id": "ac1a217bdc86",
       "pillar": "sneakers",
       "title": "Air Jordan 9 Low “What The Kilroy” Releases August 2026",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "1e78e0da6315",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 6 Retro “Oreo” Releases Tomorrow",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-6-oreo-ct8529-108/",
+      "thumbnail": "/drops/thumbs/1e78e0da6315.jpg",
+      "published": "2026-08-07T02:47:00",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Week"
     },
     {
       "id": "1cdd08c88e06",
@@ -82,18 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-13-wings-ix1872-001/",
       "thumbnail": "/drops/thumbs/bba20b3f8207.jpg",
       "published": "2026-08-05T09:28:50",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9e124e1dece4",
-      "pillar": "sneakers",
-      "title": "JAIDE x Air Jordan 1 Low OG Releases December 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/jaide-air-jordan-1-low-og/",
-      "thumbnail": "/drops/thumbs/9e124e1dece4.jpg",
-      "published": "2026-08-05T00:57:35",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -209,7 +209,7 @@
     {
       "id": "02d3ea02edfd",
       "pillar": "gaming",
-      "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\" 19 Comments",
+      "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\" 20 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-digital-only-take-two-boss-says-discs-dont-really-make-sense-if-youre-already-connected-who-cares-if-you-download-digitally/",
       "thumbnail": "/drops/thumbs/02d3ea02edfd.jpg",
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "c8f5b10cc523",
     "a4bb57f3aee3",
-    "8caeb2948d1b",
     "ac1a217bdc86",
     "3f8f25d1e446",
-    "1cdd08c88e06",
+    "1e78e0da6315",
     "3f7de6c99b85"
   ]
 }
