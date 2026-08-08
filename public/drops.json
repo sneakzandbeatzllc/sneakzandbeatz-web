@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-08T13:03:54+00:00",
+  "generated_utc": "2026-08-08T13:42:10+00:00",
   "items": [
+    {
+      "id": "a4bb57f3aee3",
+      "pillar": "sneakers",
+      "title": "Kids Air Jordan 3 “Play Your Way” August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/kids-air-jordan-3-play-your-way-io2076-100/",
+      "thumbnail": "/drops/thumbs/a4bb57f3aee3.jpg",
+      "published": "2026-08-07T14:29:17",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "8caeb2948d1b",
       "pillar": "sneakers",
@@ -22,18 +34,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-9-low-what-the-kilroy/",
       "thumbnail": "/drops/thumbs/ac1a217bdc86.jpg",
       "published": "2026-08-07T03:55:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "a4bb57f3aee3",
-      "pillar": "sneakers",
-      "title": "Kids Air Jordan 3 “Play Your Way” August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/kids-air-jordan-3-play-your-way-io2076-100/",
-      "thumbnail": "/drops/thumbs/a4bb57f3aee3.jpg",
-      "published": "2026-08-03T14:29:17",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -292,9 +292,9 @@
     }
   ],
   "homepage": [
+    "a4bb57f3aee3",
     "8caeb2948d1b",
     "ac1a217bdc86",
-    "a4bb57f3aee3",
     "3f8f25d1e446",
     "1cdd08c88e06",
     "3f7de6c99b85"
