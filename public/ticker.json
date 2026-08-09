@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-09T09:09:40+00:00",
+  "generated_utc": "2026-08-09T13:10:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,13 +32,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 Low Golf Spiked “Dark Team Red” Now Available (August 2026)",
-      "url": "https://sneakerbardetroit.com/air-jordan-1-low-golf-dark-team-red-iq3417-601/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Asymmetric Color Blocking Lands on the “Sports Renaissance” Air Jordan 3",
       "url": "https://justfreshkicks.com/air-jordan-3-sports-renaissance-ck3246-400/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 13 “WINGS” (IX1872-001) July 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-13-wings-ix1872-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "JAIDE x Air Jordan 1 Low OG Releases December 2026",
+      "url": "https://www.sneakerfiles.com/jaide-air-jordan-1-low-og/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Marvel Tōkon Launches To Abysmal 44% Rating On Steam: ‘They Should Have Pushed The PC Release Date Back Until They Figured This Out’",
-      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
+      "title": "News 'It's Really Sh*t': Disaster for Marvel Tokon as FGC Icon Uninstalls Botched PC Port Live on Stream",
+      "url": "https://www.pushsquare.com/news/2026/08/its-really-sht-disaster-for-marvel-tokon-as-fgc-icon-uninstalls-botched-pc-port-live-on-stream",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-09T09:09:40+00:00",
+  "generated_utc": "2026-08-09T13:10:36+00:00",
   "items": [
     {
       "id": "c8f5b10cc523",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Week"
     },
     {
-      "id": "1cdd08c88e06",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low Golf Spiked “Dark Team Red” Now Available (August 2026)",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-golf-dark-team-red-iq3417-601/",
-      "thumbnail": "/drops/thumbs/1cdd08c88e06.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "e3c92aa072c2",
       "pillar": "sneakers",
       "title": "Asymmetric Color Blocking Lands on the “Sports Renaissance” Air Jordan 3",
@@ -94,6 +82,18 @@
       "source_url": "https://www.nicekicks.com/air-jordan-13-wings-ix1872-001/",
       "thumbnail": "/drops/thumbs/bba20b3f8207.jpg",
       "published": "2026-08-05T09:28:50",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9e124e1dece4",
+      "pillar": "sneakers",
+      "title": "JAIDE x Air Jordan 1 Low OG Releases December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/jaide-air-jordan-1-low-og/",
+      "thumbnail": "/drops/thumbs/9e124e1dece4.jpg",
+      "published": "2026-08-05T00:57:35",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "8de9e7651081",
+      "id": "823861408ebc",
       "pillar": "gaming",
-      "title": "Marvel Tōkon Launches To Abysmal 44% Rating On Steam: ‘They Should Have Pushed The PC Release Date Back Until They Figured This Out’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
-      "thumbnail": "/drops/thumbs/8de9e7651081.jpg",
+      "title": "News 'It's Really Sh*t': Disaster for Marvel Tokon as FGC Icon Uninstalls Botched PC Port Live on Stream",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/its-really-sht-disaster-for-marvel-tokon-as-fgc-icon-uninstalls-botched-pc-port-live-on-stream",
+      "thumbnail": "/drops/thumbs/823861408ebc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
