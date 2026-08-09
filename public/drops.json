@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-09T01:02:21+00:00",
+  "generated_utc": "2026-08-09T02:03:05+00:00",
   "items": [
     {
       "id": "c8f5b10cc523",
@@ -111,18 +111,6 @@
       "release_badge": ""
     },
     {
-      "id": "7e3fb14a2dd4",
-      "pillar": "anime",
-      "title": "We may have an idea of when Dragon Ball Super: Beerus will premiere",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dragon-ball-super-beerus-nycc-possible-release-date/",
-      "thumbnail": "/drops/thumbs/7e3fb14a2dd4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9379907f9de1",
       "pillar": "anime",
       "title": "Demon Slayer: All Upper-Moon Demons & Their Powers Explained",
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-07/north-american-anime-manga-releases-august-2-8/.240249",
       "thumbnail": "/drops/thumbs/ca1870bf47f0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a9e33a8eb4b7",
+      "pillar": "anime",
+      "title": "5 anime endings that fans still argue about",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/best-anime-endings-divisive-controversial/",
+      "thumbnail": "/drops/thumbs/a9e33a8eb4b7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

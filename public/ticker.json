@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-09T01:02:21+00:00",
+  "generated_utc": "2026-08-09T02:03:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "We may have an idea of when Dragon Ball Super: Beerus will premiere",
-      "url": "https://www.polygon.com/dragon-ball-super-beerus-nycc-possible-release-date/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: All Upper-Moon Demons & Their Powers Explained",
       "url": "https://screenrant.com/demon-slayer-infinity-castle-every-demon-power-explained/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "North American Anime, Manga Releases, August 2-8",
       "url": "https://www.animenewsnetwork.com/news/2026-08-07/north-american-anime-manga-releases-august-2-8/.240249",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "5 anime endings that fans still argue about",
+      "url": "https://www.polygon.com/best-anime-endings-divisive-controversial/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
