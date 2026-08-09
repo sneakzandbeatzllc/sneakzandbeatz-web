@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-09T03:03:53+00:00",
+  "generated_utc": "2026-08-09T04:04:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece's Biggest Day Of 2026 Is Just 2 Weeks Away",
-      "url": "https://screenrant.com/one-piece-day-2026-big/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Even the Student Council Has its Holes! Anime Casts Yumi Uchiyama",
       "url": "https://www.animenewsnetwork.com/news/2026-08-08/even-the-student-council-has-its-holes-anime-casts-yumi-uchiyama/.240400",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "North American Anime, Manga Releases, August 2-8",
       "url": "https://www.animenewsnetwork.com/news/2026-08-07/north-american-anime-manga-releases-august-2-8/.240249",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "5 anime endings that fans still argue about",
+      "url": "https://www.polygon.com/best-anime-endings-divisive-controversial/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
