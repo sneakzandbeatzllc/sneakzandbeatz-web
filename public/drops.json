@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-11T22:00:28+00:00",
+  "generated_utc": "2026-08-11T22:58:32+00:00",
   "items": [
     {
       "id": "c8f5b10cc523",
@@ -99,24 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "f3406585248e",
-      "pillar": "anime",
-      "title": "How Old Goku Is In Every Dragon Ball Anime & Saga: A Complete Timeline",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-goku-age-how-old-sagas/",
-      "thumbnail": "/drops/thumbs/f3406585248e.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d02131ed3594",
       "pillar": "anime",
       "title": "5 Years Later, Solo Leveling's Biggest Isekai Killer Rival Officially Confirms Anime",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/solo-leveling-isekai-rival-villains-destined-die-anime/",
       "thumbnail": "/drops/thumbs/d02131ed3594.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "49546b3437ca",
+      "pillar": "anime",
+      "title": "My Hero Academia Creator's Next Manga Is Here, And It's A Huge Genre Change",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/my-hero-academia-next-series-horror/",
+      "thumbnail": "/drops/thumbs/49546b3437ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "c0615c2a0db3",
+      "id": "ca13b99c0db6",
       "pillar": "anime",
-      "title": "Bunny Drop's Yumi Unita Launches New Manga in September",
+      "title": "Tonari no Seki no Fukami-kun ga Idol ni Naru Kamo Shirenai Manga Ends in Next Chapter",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-11/bunny-drop-yumi-unita-launches-new-manga-in-september/.240464",
-      "thumbnail": "/drops/thumbs/c0615c2a0db3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-11/tonari-no-seki-no-fukami-kun-ga-idol-ni-naru-kamo-shirenai-manga-ends-in-next-chapter/.240479",
+      "thumbnail": "/drops/thumbs/ca13b99c0db6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "65fa4cf08b1f",
+      "id": "c0615c2a0db3",
       "pillar": "anime",
-      "title": "Soborou's Jukebox Manga Ends",
+      "title": "Bunny Drop's Yumi Unita Launches New Manga in September",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-11/soborou-jukebox-manga-ends/.240488",
-      "thumbnail": "/drops/thumbs/65fa4cf08b1f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-11/bunny-drop-yumi-unita-launches-new-manga-in-september/.240464",
+      "thumbnail": "/drops/thumbs/c0615c2a0db3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "7e61e69a099c",
+      "id": "65fa4cf08b1f",
       "pillar": "anime",
-      "title": "Eren the Southpaw Manga Ends",
+      "title": "Soborou's Jukebox Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-11/eren-the-southpaw-manga-ends/.240486",
-      "thumbnail": "/drops/thumbs/7e61e69a099c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-11/soborou-jukebox-manga-ends/.240488",
+      "thumbnail": "/drops/thumbs/65fa4cf08b1f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "c8f5b10cc523",
     "a4bb57f3aee3",
     "1e78e0da6315",
-    "f3406585248e",
+    "d02131ed3594",
     "089f608c1ac8",
     "3efa5ffb943d"
   ]
