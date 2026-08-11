@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-11T14:41:16+00:00",
+  "generated_utc": "2026-08-11T15:40:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,6 +81,20 @@
       "article_slug": null
     },
     {
+      "title": "Gantz Creator Hiroya Oku Plans to Retire After Finishing Kanrekihime Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-11/gantz-creator-hiroya-oku-plans-to-retire-after-finishing-kanrekihime-manga/.240481",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Director of upcoming Gundam anime says series is a metaphor for AI fears",
+      "url": "https://www.polygon.com/mobile-suit-gundam-new-series-ai-fears-kenji-kamiyama/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Seishun wa Sankakukei no Loop Manga to End in October",
       "url": "https://www.animenewsnetwork.com/news/2026-08-11/seishun-wa-sankakukei-no-loop-manga-to-end-in-october/.240422",
       "pillar": "anime",
@@ -98,27 +112,6 @@
       "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Naoto Kobayashi",
       "url": "https://www.animenewsnetwork.com/news/2026-08-11/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-naoto-kobayashi/.240469",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Japan’s latest anime box office hit is leaving children crying in fear",
-      "url": "https://www.polygon.com/chiikawa-the-movie-secret-of-mermaid-island-box-office/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Glasses With a Chance of Delinquent Anime's Teaser Reveals Staff, 2027 TV Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-10/glasses-with-a-chance-of-delinquent-anime-teaser-reveals-staff-2027-tv-debut/.240463",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News GTA 6's $100 PS5 Ultimate Edition Is Getting More Pre-Orders Than the Cheaper Version",
-      "url": "https://www.pushsquare.com/news/2026/08/gta-6s-usd100-ps5-ultimate-edition-is-getting-more-pre-orders-than-the-cheaper-version",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -158,15 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "Bethesda vet says Oblivion Remastered can't be called a remake, unlike Final Fantasy 7 and RE2",
-      "url": "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-veteran-says-oblivion-remastered-cant-be-called-a-remake-unlike-final-fantasy-7-and-resident-evil-2-which-are-completely-new-games/",
+      "title": "From Stardew Valley To Destiny 2 , Here’s Why We All Love Fishing Minigames",
+      "url": "https://kotaku.com/stardew-valley-destiny-2-fishing-minigames-2000723185",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "From Stardew Valley To Destiny 2 , Here’s Why We All Love Fishing Minigames",
-      "url": "https://kotaku.com/stardew-valley-destiny-2-fishing-minigames-2000723185",
+      "title": "News Sonic the Hedgehog Is Confirmed to Be Speeding into Fortnite in Upcoming Season",
+      "url": "https://www.pushsquare.com/news/2026/08/sonic-the-hedgehog-is-confirmed-to-be-speeding-into-fortnite-in-upcoming-season",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Overwatch Is Finally Cutting Out Some Of The FOMO Nonsense That’s Plagued It For Years: ‘My Suffering Has Ended’",
+      "url": "https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

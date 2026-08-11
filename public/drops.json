@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-11T14:41:16+00:00",
+  "generated_utc": "2026-08-11T15:40:39+00:00",
   "items": [
     {
       "id": "c8f5b10cc523",
@@ -135,6 +135,30 @@
       "release_badge": ""
     },
     {
+      "id": "827f0853050c",
+      "pillar": "anime",
+      "title": "Gantz Creator Hiroya Oku Plans to Retire After Finishing Kanrekihime Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-11/gantz-creator-hiroya-oku-plans-to-retire-after-finishing-kanrekihime-manga/.240481",
+      "thumbnail": "/drops/thumbs/827f0853050c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b34e9bb1da83",
+      "pillar": "anime",
+      "title": "Director of upcoming Gundam anime says series is a metaphor for AI fears",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/mobile-suit-gundam-new-series-ai-fears-kenji-kamiyama/",
+      "thumbnail": "/drops/thumbs/b34e9bb1da83.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b9bbedc8ceaa",
       "pillar": "anime",
       "title": "Seishun wa Sankakukei no Loop Manga to End in October",
@@ -165,42 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-11/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-naoto-kobayashi/.240469",
       "thumbnail": "/drops/thumbs/c01cc74b958e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8f27114361b9",
-      "pillar": "anime",
-      "title": "Japan’s latest anime box office hit is leaving children crying in fear",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/chiikawa-the-movie-secret-of-mermaid-island-box-office/",
-      "thumbnail": "/drops/thumbs/8f27114361b9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6ab77bad8c99",
-      "pillar": "anime",
-      "title": "Glasses With a Chance of Delinquent Anime's Teaser Reveals Staff, 2027 TV Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-10/glasses-with-a-chance-of-delinquent-anime-teaser-reveals-staff-2027-tv-debut/.240463",
-      "thumbnail": "/drops/thumbs/6ab77bad8c99.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0613fdda9e7d",
-      "pillar": "gaming",
-      "title": "News GTA 6's $100 PS5 Ultimate Edition Is Getting More Pre-Orders Than the Cheaper Version",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6s-usd100-ps5-ultimate-edition-is-getting-more-pre-orders-than-the-cheaper-version",
-      "thumbnail": "/drops/thumbs/0613fdda9e7d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "12a107139214",
-      "pillar": "gaming",
-      "title": "Bethesda vet says Oblivion Remastered can't be called a remake, unlike Final Fantasy 7 and RE2",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-veteran-says-oblivion-remastered-cant-be-called-a-remake-unlike-final-fantasy-7-and-resident-evil-2-which-are-completely-new-games/",
-      "thumbnail": "/drops/thumbs/12a107139214.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "93c8e35d29a8",
       "pillar": "gaming",
       "title": "From Stardew Valley To Destiny 2 , Here’s Why We All Love Fishing Minigames",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/stardew-valley-destiny-2-fishing-minigames-2000723185",
       "thumbnail": "/drops/thumbs/93c8e35d29a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b13dd92d0e02",
+      "pillar": "gaming",
+      "title": "News Sonic the Hedgehog Is Confirmed to Be Speeding into Fortnite in Upcoming Season",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/sonic-the-hedgehog-is-confirmed-to-be-speeding-into-fortnite-in-upcoming-season",
+      "thumbnail": "/drops/thumbs/b13dd92d0e02.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ef7edfe4d9da",
+      "pillar": "gaming",
+      "title": "Overwatch Is Finally Cutting Out Some Of The FOMO Nonsense That’s Plagued It For Years: ‘My Suffering Has Ended’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394",
+      "thumbnail": "/drops/thumbs/ef7edfe4d9da.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "1e78e0da6315",
     "f3406585248e",
     "b5aafae8634e",
-    "0613fdda9e7d"
+    "3efa5ffb943d"
   ]
 }
