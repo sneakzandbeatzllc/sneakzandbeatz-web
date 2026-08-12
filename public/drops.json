@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T11:02:37+00:00",
+  "generated_utc": "2026-08-12T12:03:19+00:00",
   "items": [
     {
       "id": "c8f5b10cc523",
@@ -195,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "0613fdda9e7d",
-      "pillar": "gaming",
-      "title": "News GTA 6's $100 PS5 Ultimate Edition Is Getting More Pre-Orders Than the Cheaper Version",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6s-usd100-ps5-ultimate-edition-is-getting-more-pre-orders-than-the-cheaper-version",
-      "thumbnail": "/drops/thumbs/0613fdda9e7d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d91bb73b95e6",
-      "pillar": "gaming",
-      "title": "Strauss Zelnick Believes GTA 6 Will Exceed Expectations, But Take-Two Never Claims Victory Beforehand",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563654/article/strauss-zelnick-believes-gta-6-will-exceed-expectations-but-take-two-never-claims-victory-beforehand/",
-      "thumbnail": "/drops/thumbs/d91bb73b95e6.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cde8dbb1de52",
       "pillar": "gaming",
       "title": "News Hyped PS5 Soulslike Mortal Shell 2 Has an Easy Difficulty Mode, But There's a Catch",
@@ -249,6 +225,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/fighting/marvel-tokon-fighting-souls-review/",
       "thumbnail": "/drops/thumbs/0c21a1a38044.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4c7c06a7b7bb",
+      "pillar": "gaming",
+      "title": "Sony Reveals Special Edition Marvel’s Wolverine Themed PS5 Consoles And Controllers",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563674/article/sony-reveals-special-edition-marvels-wolverine-themed-ps5-consoles-and-controllers/",
+      "thumbnail": "/drops/thumbs/4c7c06a7b7bb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "447cd252afbe",
+      "pillar": "gaming",
+      "title": "Sony Lays The ‘No More Discs’ On Thick By Only Selling Digital Wolverine Console",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/playstation-5-wolverine-ps5-special-edition-digital-disc-2000723493",
+      "thumbnail": "/drops/thumbs/447cd252afbe.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "1e78e0da6315",
     "d02131ed3594",
     "089f608c1ac8",
-    "0613fdda9e7d"
+    "cde8dbb1de52"
   ]
 }
