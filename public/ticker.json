@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T21:17:44+00:00",
+  "generated_utc": "2026-08-12T22:10:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "7 Dragon Ball Characters Stronger Than Goku And Vegeta",
+      "url": "https://screenrant.com/dragon-ball-characters-strongest-than-goku-vegeta/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "16 Years Later, The Fourth Hokage's Best Naruto Line Is Still The Deepest Quote In Anime History",
       "url": "https://screenrant.com/naruto-best-minato-quote-love-hate-history/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Director of upcoming Gundam anime says series is a metaphor for AI fears",
       "url": "https://www.polygon.com/mobile-suit-gundam-new-series-ai-fears-kenji-kamiyama/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Manga Ends With 19th Volume",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-12/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level-manga-ends-with-19th-volume/.240492",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

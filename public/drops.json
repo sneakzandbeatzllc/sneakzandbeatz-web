@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T21:17:44+00:00",
+  "generated_utc": "2026-08-12T22:10:33+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "814073afc0dc",
+      "pillar": "anime",
+      "title": "7 Dragon Ball Characters Stronger Than Goku And Vegeta",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-characters-strongest-than-goku-vegeta/",
+      "thumbnail": "/drops/thumbs/814073afc0dc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1e5d6c6e4f8f",
       "pillar": "anime",
       "title": "16 Years Later, The Fourth Hokage's Best Naruto Line Is Still The Deepest Quote In Anime History",
@@ -177,18 +189,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/mobile-suit-gundam-new-series-ai-fears-kenji-kamiyama/",
       "thumbnail": "/drops/thumbs/b34e9bb1da83.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ae79492b5c30",
-      "pillar": "anime",
-      "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Manga Ends With 19th Volume",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/ive-been-killing-slimes-for-300-years-and-maxed-out-my-level-manga-ends-with-19th-volume/.240492",
-      "thumbnail": "/drops/thumbs/ae79492b5c30.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "4c0c135c5fd0",
     "c8f5b10cc523",
     "a4bb57f3aee3",
-    "1e5d6c6e4f8f",
+    "814073afc0dc",
     "089f608c1ac8",
     "b75478fcc5e2"
   ]
