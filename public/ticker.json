@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T18:15:33+00:00",
+  "generated_utc": "2026-08-12T19:08:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "16 Years Later, The Fourth Hokage's Best Naruto Line Is Still The Deepest Quote In Anime History",
+      "url": "https://screenrant.com/naruto-best-minato-quote-love-hate-history/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "My Hero Academia Creator's Next Manga Is Here, And It's A Huge Genre Change",
       "url": "https://screenrant.com/my-hero-academia-next-series-horror/",
       "pillar": "anime",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Netflix's 2025 Fantasy Hit Has A Successor Coming With Possibly Its Biggest Star In Tow",
-      "url": "https://screenrant.com/netflix-bon-appetit-your-majesty-successor-cha-eun-woo/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Final Fantasy Resonance Shows Off 11-Minute Shiva Battle and Squall Summon on PS5",
       "url": "https://www.pushsquare.com/news/2026/08/final-fantasy-resonance-shows-off-11-minute-shiva-battle-and-squall-summon-on-ps5",
       "pillar": "gaming",
@@ -125,13 +125,6 @@
     {
       "title": "Ghost of Yotei: Complete Edition launches on disc alongside Echoes of Sekigahara DLC",
       "url": "https://www.gamesradar.com/games/open-world/ghost-of-yotei-complete-edition-launches-on-disc-alongside-echoes-of-sekigahara-dlc-a-full-on-narrative-expansion-with-a-new-location/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode",
-      "url": "https://kotaku.com/ghost-of-yotei-expansion-coming-this-fall-will-add-new-story-missions-and-roguelike-mode-2000723819",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Donnie Yen Revealed As Creative Consultant And In-Game Character For Phantom Blade Zero",
       "url": "https://gameranx.com/updates/id/563679/article/donnie-yen-revealed-as-creative-consultant-and-in-game-character-for-phantom-blade-zero/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Grand Theft Auto: Vice City : The Kotaku Review",
+      "url": "https://kotaku.com/grand-theft-auto-vice-city-the-kotaku-review-2000720825",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
