@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T13:10:56+00:00",
+  "generated_utc": "2026-08-12T14:04:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "5 Years Later, Solo Leveling's Biggest Isekai Killer Rival Officially Confirms Anime",
-      "url": "https://screenrant.com/solo-leveling-isekai-rival-villains-destined-die-anime/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "My Hero Academia Creator's Next Manga Is Here, And It's A Huge Genre Change",
       "url": "https://screenrant.com/my-hero-academia-next-series-horror/",
       "pillar": "anime",
@@ -116,6 +109,13 @@
       "article_slug": null
     },
     {
+      "title": "Netflix's 2025 Fantasy Hit Has A Successor Coming With Possibly Its Biggest Star In Tow",
+      "url": "https://screenrant.com/netflix-bon-appetit-your-majesty-successor-cha-eun-woo/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Hyped PS5 Soulslike Mortal Shell 2 Has an Easy Difficulty Mode, But There's a Catch",
       "url": "https://www.pushsquare.com/news/2026/08/hyped-ps5-soulslike-mortal-shell-2-has-an-easy-difficulty-mode-but-theres-a-catch",
       "pillar": "gaming",
@@ -137,8 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
-      "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
+      "title": "Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office",
+      "url": "https://kotaku.com/xbox-boss-asha-sharma-says-elder-scrolls-vi-looks-great-so-stop-talking-about-that-giant-rat-outside-bethesdas-office-2000723542",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -151,7 +151,7 @@
       "article_slug": null
     },
     {
-      "title": "The Elder Scrolls 6 is playable, Xbox CEO says her \"live playthrough\" shows \"incredible\" scale 8 Comments",
+      "title": "The Elder Scrolls 6 is playable, Xbox CEO says her \"live playthrough\" shows \"incredible\" scale 12 Comments",
       "url": "https://www.gamesradar.com/games/the-elder-scrolls/xbox-ceo-says-her-live-playthrough-of-the-elder-scrolls-6-shows-incredible-scale-but-the-story-is-even-greater/",
       "pillar": "gaming",
       "score": 1.0,
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Sony Lays The ‘No More Discs’ On Thick By Only Selling Digital Wolverine Console",
-      "url": "https://kotaku.com/playstation-5-wolverine-ps5-special-edition-digital-disc-2000723493",
+      "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
+      "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

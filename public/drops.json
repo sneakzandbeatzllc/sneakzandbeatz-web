@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T13:10:56+00:00",
+  "generated_utc": "2026-08-12T14:04:07+00:00",
   "items": [
     {
       "id": "c8f5b10cc523",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "d02131ed3594",
-      "pillar": "anime",
-      "title": "5 Years Later, Solo Leveling's Biggest Isekai Killer Rival Officially Confirms Anime",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-isekai-rival-villains-destined-die-anime/",
-      "thumbnail": "/drops/thumbs/d02131ed3594.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "49546b3437ca",
       "pillar": "anime",
       "title": "My Hero Academia Creator's Next Manga Is Here, And It's A Huge Genre Change",
@@ -195,6 +183,18 @@
       "release_badge": ""
     },
     {
+      "id": "ba970769cb1e",
+      "pillar": "anime",
+      "title": "Netflix's 2025 Fantasy Hit Has A Successor Coming With Possibly Its Biggest Star In Tow",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/netflix-bon-appetit-your-majesty-successor-cha-eun-woo/",
+      "thumbnail": "/drops/thumbs/ba970769cb1e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cde8dbb1de52",
       "pillar": "gaming",
       "title": "News Hyped PS5 Soulslike Mortal Shell 2 Has an Easy Difficulty Mode, But There's a Catch",
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "c832db2334f2",
+      "id": "a0ae34d41cc1",
       "pillar": "gaming",
-      "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
+      "title": "Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
-      "thumbnail": "/drops/thumbs/c832db2334f2.jpg",
+      "source_url": "https://kotaku.com/xbox-boss-asha-sharma-says-elder-scrolls-vi-looks-great-so-stop-talking-about-that-giant-rat-outside-bethesdas-office-2000723542",
+      "thumbnail": "/drops/thumbs/a0ae34d41cc1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -257,7 +257,7 @@
     {
       "id": "e344423160f4",
       "pillar": "gaming",
-      "title": "The Elder Scrolls 6 is playable, Xbox CEO says her \"live playthrough\" shows \"incredible\" scale 8 Comments",
+      "title": "The Elder Scrolls 6 is playable, Xbox CEO says her \"live playthrough\" shows \"incredible\" scale 12 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/the-elder-scrolls/xbox-ceo-says-her-live-playthrough-of-the-elder-scrolls-6-shows-incredible-scale-but-the-story-is-even-greater/",
       "thumbnail": "/drops/thumbs/e344423160f4.jpg",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "447cd252afbe",
+      "id": "c832db2334f2",
       "pillar": "gaming",
-      "title": "Sony Lays The ‘No More Discs’ On Thick By Only Selling Digital Wolverine Console",
+      "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/playstation-5-wolverine-ps5-special-edition-digital-disc-2000723493",
-      "thumbnail": "/drops/thumbs/447cd252afbe.jpg",
+      "source_url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
+      "thumbnail": "/drops/thumbs/c832db2334f2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "c8f5b10cc523",
     "a4bb57f3aee3",
     "1e78e0da6315",
-    "d02131ed3594",
+    "49546b3437ca",
     "089f608c1ac8",
     "cde8dbb1de52"
   ]
