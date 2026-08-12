@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T09:08:00+00:00",
+  "generated_utc": "2026-08-12T09:38:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,13 +39,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 10 “Taxi” Releases May 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-10-taxi/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Asymmetric Color Blocking Lands on the “Sports Renaissance” Air Jordan 3",
       "url": "https://justfreshkicks.com/air-jordan-3-sports-renaissance-ck3246-400/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 13 “WINGS” (IX1872-001) July 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-13-wings-ix1872-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 12 “Obsidian” Returns January 2027",
+      "url": "https://sneakerbardetroit.com/air-jordan-12-obsidian-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Take Two CEO Describes GTA 6: An Extended Look As Just The ‘Hors D’œuvres’",
-      "url": "https://gameranx.com/updates/id/563646/article/take-two-ceo-describes-gta-6-an-extended-look-as-just-the-hors-doeuvres/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Hyped PS5 Soulslike Mortal Shell 2 Has an Easy Difficulty Mode, But There's a Catch",
       "url": "https://www.pushsquare.com/news/2026/08/hyped-ps5-soulslike-mortal-shell-2-has-an-easy-difficulty-mode-but-theres-a-catch",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Blizzard & Source Music Drops Teaser For 3rd Overwatch x Le Sserafim Collaboration",
       "url": "https://gameranx.com/updates/id/563650/article/blizzard-source-music-drops-teaser-for-3rd-overwatch-x-le-sserafim-collaboration/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
+      "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
