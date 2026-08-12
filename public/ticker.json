@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T15:05:39+00:00",
+  "generated_utc": "2026-08-12T16:05:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,22 @@
       "article_slug": null
     },
     {
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a New Life Anime's New Action Promo Video Reveals More Staff",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-12/the-laid-off-cheat-granting-mage-enjoys-a-new-life-anime-new-action-promo-video-reveals-more-staff/.240511",
+      "title": "Studio Chromato, Studio Colorido, Shingo Yamashita Produce New Pokémon Short About Wartortle",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-12/studio-chromato-studio-colorido-shingo-yamashita-produce-new-pokemon-short-about-wartortle/.240516",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Netflix's live-action Yu Yu Hakusho is reportedly getting a second season",
+      "url": "https://www.polygon.com/yu-yu-hakusho-netflix-season-2/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Chainsmoker Cat Anime Casts Yumi Hara",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-12/chainsmoker-cat-anime-casts-yumi-hara/.240513",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,22 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Inherit the Winds TV Anime Casts Takeo Ōtsuka",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-12/inherit-the-winds-tv-anime-casts-takeo-otsuka/.240501",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The next Madoka Magica movie is getting an IMAX release in series first",
-      "url": "https://www.polygon.com/puella-magi-madoka-magika-walpurgisnacht-rising-imax-release-japan/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Vermeil in Gold Manga Artist Yōko Umezu Dies",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-12/vermeil-in-gold-manga-artist-yoko-umezu-dies/.240507",
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a New Life Anime's New Action Promo Video Reveals More Staff",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-12/the-laid-off-cheat-granting-mage-enjoys-a-new-life-anime-new-action-promo-video-reveals-more-staff/.240511",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -125,6 +125,13 @@
     {
       "title": "Ghost of Yotei: Complete Edition launches on disc alongside Echoes of Sekigahara DLC",
       "url": "https://www.gamesradar.com/games/open-world/ghost-of-yotei-complete-edition-launches-on-disc-alongside-echoes-of-sekigahara-dlc-a-full-on-narrative-expansion-with-a-new-location/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode",
+      "url": "https://kotaku.com/ghost-of-yotei-expansion-coming-this-fall-will-add-new-story-missions-and-roguelike-mode-2000723819",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Witcher Multiplayer Project Suffers Another Round Of Layoffs",
-      "url": "https://kotaku.com/witcher-multiplayer-project-suffers-another-round-of-layoffs-2000723777",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Hungry Fans Hopeful for Kingdom Hearts 4 Updates in Live Streamed D23 Panel",
-      "url": "https://www.pushsquare.com/news/2026/08/hungry-fans-hopeful-for-kingdom-hearts-4-updates-in-live-streamed-d23-panel",
+      "title": "News Phantom Blade Zero PS5 Demo Leaks Before Next Week's State of Play",
+      "url": "https://www.pushsquare.com/news/2026/08/phantom-blade-zero-ps5-demo-leaks-before-next-weeks-state-of-play",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
