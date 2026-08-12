@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T22:10:33+00:00",
+  "generated_utc": "2026-08-12T23:11:23+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -75,24 +75,24 @@
       "release_badge": ""
     },
     {
-      "id": "e3c92aa072c2",
-      "pillar": "sneakers",
-      "title": "Asymmetric Color Blocking Lands on the “Sports Renaissance” Air Jordan 3",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-sports-renaissance-ck3246-400/",
-      "thumbnail": "/drops/thumbs/e3c92aa072c2.jpg",
-      "published": "2026-08-07T18:07:04",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "78a6544bb2c1",
       "pillar": "sneakers",
       "title": "Air Jordan 12 “Obsidian” Returns January 2027",
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-12-obsidian-2027/",
       "thumbnail": "/drops/thumbs/78a6544bb2c1.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c575f2c9248e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 10 “Taxi” With Nike Air Releases May 2027",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-10-taxi/",
+      "thumbnail": "/drops/thumbs/c575f2c9248e.webp",
       "published": "",
       "relative_time": "today",
       "score": 2.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "346db64d262a",
+      "id": "fba01b92cb9e",
       "pillar": "anime",
-      "title": "Live-Action Blue Lock Film Opens at #8",
+      "title": "Uncle's Obsession with Cute Things Manga Listed to End in 13th Volume",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/live-action-blue-lock-film-opens-at-no.8/.240502",
-      "thumbnail": "/drops/thumbs/346db64d262a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/uncle-obsession-with-cute-things-manga-listed-to-end-in-13th-volume/.240491",
+      "thumbnail": "/drops/thumbs/fba01b92cb9e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "dfb092c18521",
+      "id": "346db64d262a",
       "pillar": "anime",
-      "title": "Makoto Fukami, Shūsaku Namikawa's Chōgen Market Heroes: Menko Reverser Kakeru Manga Ends",
+      "title": "Live-Action Blue Lock Film Opens at #8",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/makoto-fukami-shusaku-namikawa-chogen-market-heroes-menko-reverser-kakeru-manga-ends/.240504",
-      "thumbnail": "/drops/thumbs/dfb092c18521.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/live-action-blue-lock-film-opens-at-no.8/.240502",
+      "thumbnail": "/drops/thumbs/346db64d262a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
