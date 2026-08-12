@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T04:05:17+00:00",
+  "generated_utc": "2026-08-12T06:00:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,7 +116,14 @@
       "article_slug": null
     },
     {
-      "title": "Don't expect a GTA 6 discount anytime soon, says Take-Two CEO 9 Comments",
+      "title": "News GTA 6's $100 PS5 Ultimate Edition Is Getting More Pre-Orders Than the Cheaper Version",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6s-usd100-ps5-ultimate-edition-is-getting-more-pre-orders-than-the-cheaper-version",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Don't expect a GTA 6 discount anytime soon, says Take-Two CEO 11 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/dont-expect-a-gta-6-discount-anytime-soon-says-take-two-ceo-we-preserved-our-pricing-on-grand-theft-auto-5-for-a-very-long-time/",
       "pillar": "gaming",
       "score": 1.0,
@@ -151,22 +158,15 @@
       "article_slug": null
     },
     {
+      "title": "News Spider-Man 2's PS5 Sales Have Exploded After Brand New Day's Box Office Blowout",
+      "url": "https://www.pushsquare.com/news/2026/08/spider-man-2s-ps5-sales-have-exploded-after-brand-new-days-box-office-blowout",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Blizzard & Source Music Drops Teaser For 3rd Overwatch x Le Sserafim Collaboration",
       "url": "https://gameranx.com/updates/id/563650/article/blizzard-source-music-drops-teaser-for-3rd-overwatch-x-le-sserafim-collaboration/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
-      "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PS3 Lord of the Rings Action RPG War in the North Suddenly Returns, Out Now on PS5",
-      "url": "https://www.pushsquare.com/news/2026/08/ps3-lord-of-the-rings-action-rpg-war-in-the-north-suddenly-returns-out-now-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
