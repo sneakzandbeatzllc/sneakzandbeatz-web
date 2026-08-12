@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T17:06:32+00:00",
+  "generated_utc": "2026-08-12T17:07:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Spider-Man: Brand New Day forgets some of The Punisher's Netflix history, and fans aren't happy",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-forgets-some-of-the-punishers-netflix-history-and-fans-arent-happy/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Marvel Tokon: Fighting Souls review: \"A stunning comeback for superhero fighters essential for Marvel and genre fans\"",
       "url": "https://www.gamesradar.com/games/fighting/marvel-tokon-fighting-souls-review/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Donnie Yen Revealed As Creative Consultant And In-Game Character For Phantom Blade Zero",
       "url": "https://gameranx.com/updates/id/563679/article/donnie-yen-revealed-as-creative-consultant-and-in-game-character-for-phantom-blade-zero/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 2 More Truly Fascinating Retro Games Are Coming to PS5 This Week",
+      "url": "https://www.pushsquare.com/news/2026/08/2-more-truly-fascinating-retro-games-are-coming-to-ps5-this-week",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
