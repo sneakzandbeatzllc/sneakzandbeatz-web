@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T16:06:25+00:00",
+  "generated_utc": "2026-08-12T16:43:34+00:00",
   "items": [
+    {
+      "id": "4c0c135c5fd0",
+      "pillar": "sneakers",
+      "title": "Free the Youth’s Air Jordan 16 Releases in August",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
+      "thumbnail": "/drops/thumbs/4c0c135c5fd0.webp",
+      "published": "2026-08-12T12:13:52",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "c8f5b10cc523",
       "pillar": "sneakers",
@@ -27,18 +39,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "1e78e0da6315",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 6 Retro “Oreo” Releases Tomorrow",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-6-oreo-ct8529-108/",
-      "thumbnail": "/drops/thumbs/1e78e0da6315.jpg",
-      "published": "2026-08-07T02:47:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
-    },
-    {
       "id": "089f608c1ac8",
       "pillar": "sneakers",
       "title": "The Air Jordan 4 “Linen” Will Get a Retro Release for Summer 2027",
@@ -58,6 +58,18 @@
       "source_url": "https://justfreshkicks.com/eminem-air-jordan-4-encore-jj3098-400/",
       "thumbnail": "/drops/thumbs/1796e65ca4e0.webp",
       "published": "2026-08-11T12:19:24",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8caeb2948d1b",
+      "pillar": "sneakers",
+      "title": "Where To Buy the Air Jordan 6 “Oreo”",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-6-oreo-ct8529-108-drop/",
+      "thumbnail": "/drops/thumbs/8caeb2948d1b.jpg",
+      "published": "2026-08-08T08:59:09",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -87,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "78a6544bb2c1",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Obsidian” Returns January 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-12-obsidian-2027/",
-      "thumbnail": "/drops/thumbs/78a6544bb2c1.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "49546b3437ca",
       "pillar": "anime",
       "title": "My Hero Academia Creator's Next Manga Is Here, And It's A Huge Genre Change",
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "b12da05da2f8",
+      "id": "f010b1322491",
       "pillar": "anime",
-      "title": "Studio Chromato, Studio Colorido, Shingo Yamashita Produce New Pokémon Short About Wartortle",
+      "title": "Character Designer Takashi Okazaki Wins Emmy for Star Wars: Visions' 'The Duel: Payback' Anime Short",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/studio-chromato-studio-colorido-shingo-yamashita-produce-new-pokemon-short-about-wartortle/.240516",
-      "thumbnail": "/drops/thumbs/b12da05da2f8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/character-designer-takashi-okazaki-wins-emmy-for-star-wars-visions-the-duel-payback-anime-short/.240519",
+      "thumbnail": "/drops/thumbs/f010b1322491.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "ec09eb5231cb",
+      "id": "e5f6a0ee7f16",
       "pillar": "anime",
-      "title": "Chainsmoker Cat Anime Casts Yumi Hara",
+      "title": "Crunchyroll to Stream in Select Cars Through Appning by FORVIA",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/chainsmoker-cat-anime-casts-yumi-hara/.240513",
-      "thumbnail": "/drops/thumbs/ec09eb5231cb.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/crunchyroll-to-stream-in-select-cars-through-appning-by-forvia/.240518",
+      "thumbnail": "/drops/thumbs/e5f6a0ee7f16.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "a72ebbac4a9c",
+      "id": "b12da05da2f8",
       "pillar": "anime",
-      "title": "The Laid-Off Cheat-Granting Mage Enjoys a New Life Anime's New Action Promo Video Reveals More Staff",
+      "title": "Studio Chromato, Studio Colorido, Shingo Yamashita Produce New Pokémon Short About Wartortle",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/the-laid-off-cheat-granting-mage-enjoys-a-new-life-anime-new-action-promo-video-reveals-more-staff/.240511",
-      "thumbnail": "/drops/thumbs/a72ebbac4a9c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-12/studio-chromato-studio-colorido-shingo-yamashita-produce-new-pokemon-short-about-wartortle/.240516",
+      "thumbnail": "/drops/thumbs/b12da05da2f8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "d13eb36f0831",
+      "id": "16c292e203bc",
       "pillar": "gaming",
-      "title": "News Phantom Blade Zero PS5 Demo Leaks Before Next Week's State of Play",
+      "title": "News Crimson Desert DLC on Track for 2026 Release as Dev Ponders Multiplayer Modes",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/phantom-blade-zero-ps5-demo-leaks-before-next-weeks-state-of-play",
-      "thumbnail": "/drops/thumbs/d13eb36f0831.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/crimson-desert-dlc-on-track-for-2026-release-as-dev-ponders-multiplayer-modes",
+      "thumbnail": "/drops/thumbs/16c292e203bc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,9 +292,9 @@
     }
   ],
   "homepage": [
+    "4c0c135c5fd0",
     "c8f5b10cc523",
     "a4bb57f3aee3",
-    "1e78e0da6315",
     "49546b3437ca",
     "089f608c1ac8",
     "676a4c895a2b"
