@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T09:38:44+00:00",
+  "generated_utc": "2026-08-12T10:01:46+00:00",
   "items": [
     {
       "id": "c8f5b10cc523",
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "3efa5ffb943d",
-      "pillar": "gaming",
-      "title": "Don't expect a GTA 6 discount anytime soon, says Take-Two CEO 11 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/dont-expect-a-gta-6-discount-anytime-soon-says-take-two-ceo-we-preserved-our-pricing-on-grand-theft-auto-5-for-a-very-long-time/",
-      "thumbnail": "/drops/thumbs/3efa5ffb943d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d91bb73b95e6",
       "pillar": "gaming",
       "title": "Strauss Zelnick Believes GTA 6 Will Exceed Expectations, But Take-Two Never Claims Victory Beforehand",
@@ -237,18 +225,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/08/hyped-ps5-soulslike-mortal-shell-2-has-an-easy-difficulty-mode-but-theres-a-catch",
       "thumbnail": "/drops/thumbs/cde8dbb1de52.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ca35af86cb29",
-      "pillar": "gaming",
-      "title": "Marvel's Spider-Man 2 makes $11m in 2 weeks on PS5 and Steam thanks to Brand New Day, says analyst",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/spider-man/marvels-spider-man-2-makes-usd11m-in-2-weeks-on-ps5-and-steam-thanks-to-brand-new-day-reports-analyst-one-of-the-clearest-transmedia-halo-effects-weve-ever-measured/",
-      "thumbnail": "/drops/thumbs/ca35af86cb29.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +255,36 @@
       "release_badge": ""
     },
     {
+      "id": "e344423160f4",
+      "pillar": "gaming",
+      "title": "The Elder Scrolls 6 is playable, Xbox CEO says her \"live playthrough\" shows \"incredible\" scale 8 Comments",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/the-elder-scrolls/xbox-ceo-says-her-live-playthrough-of-the-elder-scrolls-6-shows-incredible-scale-but-the-story-is-even-greater/",
+      "thumbnail": "/drops/thumbs/e344423160f4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c832db2334f2",
       "pillar": "gaming",
       "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
       "thumbnail": "/drops/thumbs/c832db2334f2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "58b5babe1bad",
+      "pillar": "gaming",
+      "title": "Delisted Lord of the Rings RPG resurfaces with a remastered version on modern platforms",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/action-rpg/15-years-later-delisted-lord-of-the-rings-action-rpg-resurfaces-with-a-remastered-version-on-ps5-switch-2-xbox-series-x-and-pc/",
+      "thumbnail": "/drops/thumbs/58b5babe1bad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

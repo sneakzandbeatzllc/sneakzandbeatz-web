@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-12T09:38:44+00:00",
+  "generated_utc": "2026-08-12T10:01:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Don't expect a GTA 6 discount anytime soon, says Take-Two CEO 11 Comments",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/dont-expect-a-gta-6-discount-anytime-soon-says-take-two-ceo-we-preserved-our-pricing-on-grand-theft-auto-5-for-a-very-long-time/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Strauss Zelnick Believes GTA 6 Will Exceed Expectations, But Take-Two Never Claims Victory Beforehand",
       "url": "https://gameranx.com/updates/id/563654/article/strauss-zelnick-believes-gta-6-will-exceed-expectations-but-take-two-never-claims-victory-beforehand/",
       "pillar": "gaming",
@@ -139,13 +132,6 @@
     {
       "title": "News Hyped PS5 Soulslike Mortal Shell 2 Has an Easy Difficulty Mode, But There's a Catch",
       "url": "https://www.pushsquare.com/news/2026/08/hyped-ps5-soulslike-mortal-shell-2-has-an-easy-difficulty-mode-but-theres-a-catch",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Marvel's Spider-Man 2 makes $11m in 2 weeks on PS5 and Steam thanks to Brand New Day, says analyst",
-      "url": "https://www.gamesradar.com/games/spider-man/marvels-spider-man-2-makes-usd11m-in-2-weeks-on-ps5-and-steam-thanks-to-brand-new-day-reports-analyst-one-of-the-clearest-transmedia-halo-effects-weve-ever-measured/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "The Elder Scrolls 6 is playable, Xbox CEO says her \"live playthrough\" shows \"incredible\" scale 8 Comments",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/xbox-ceo-says-her-live-playthrough-of-the-elder-scrolls-6-shows-incredible-scale-but-the-story-is-even-greater/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
       "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Delisted Lord of the Rings RPG resurfaces with a remastered version on modern platforms",
+      "url": "https://www.gamesradar.com/games/action-rpg/15-years-later-delisted-lord-of-the-rings-action-rpg-resurfaces-with-a-remastered-version-on-ps5-switch-2-xbox-series-x-and-pc/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
