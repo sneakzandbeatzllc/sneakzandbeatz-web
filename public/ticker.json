@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T17:29:47+00:00",
+  "generated_utc": "2026-08-13T18:00:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Attack on Titan might be getting a new anime",
+      "url": "https://www.polygon.com/attack-on-titan-studio-teases-new-project/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "7 Dragon Ball Characters Stronger Than Goku And Vegeta",
       "url": "https://screenrant.com/dragon-ball-characters-strongest-than-goku-vegeta/",
       "pillar": "anime",
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Director of upcoming Gundam anime says series is a metaphor for AI fears",
-      "url": "https://www.polygon.com/mobile-suit-gundam-new-series-ai-fears-kenji-kamiyama/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Manga Up! Global Adds Transmigrated to the Northern Frontier Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-13/manga-up-global-adds-transmigrated-to-the-northern-frontier-manga/.240549",
+      "title": "Pokémon Bank App Ends Service in February 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-13/pokemon-bank-app-ends-service-in-february-2027/.240552",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
-      "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
+      "title": "7 Things We Learned About Insomniac’s Wolverine From The Latest Previews",
+      "url": "https://kotaku.com/marvels-wolverine-insomniac-previews-ps5-story-characters-2000724190",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Halo Co-Creator Says The Remake’s New Ring Is ‘Damn Ugly’",
-      "url": "https://kotaku.com/halo-co-creator-says-the-remakes-new-ring-is-damn-ugly-2000724174",
+      "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
+      "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Round Up Marvel's Wolverine Sounds Like Another Great Superhero Blockbuster in PS5 Previews",
-      "url": "https://www.pushsquare.com/features/round-up-marvels-wolverine-sounds-like-another-great-superhero-blockbuster-in-ps5-previews",
+      "title": "Halo Co-Creator Says The Remake’s New Ring Is ‘Damn Ugly’",
+      "url": "https://kotaku.com/halo-co-creator-says-the-remakes-new-ring-is-damn-ugly-2000724174",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Pokémon Is Finally Burning The Bridge Between Old And New Generations",
-      "url": "https://kotaku.com/pokemon-3ds-bank-transporter-app-shutdown-online-services-2000724131",
+      "title": "News Mafia Remake Joins The Old Country on PS5 in Full Series Collection with 60FPS, Visual Upgrades",
+      "url": "https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
