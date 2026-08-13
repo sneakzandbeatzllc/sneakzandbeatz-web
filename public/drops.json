@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T13:30:50+00:00",
+  "generated_utc": "2026-08-13T14:15:41+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "64573c17d83d",
+      "id": "da0fea78100a",
       "pillar": "anime",
-      "title": "From Overshadowed to Overpowered Anime Casts Sora Amamiya",
+      "title": "OceanVeil Adds Yomu's Miru Tights Short Anime Series",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/from-overshadowed-to-overpowered-anime-casts-sora-amamiya/.240535",
-      "thumbnail": "/drops/thumbs/64573c17d83d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/oceanveil-adds-yomu-miru-tights-short-anime-series/.240546",
+      "thumbnail": "/drops/thumbs/da0fea78100a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,24 +183,24 @@
       "release_badge": ""
     },
     {
-      "id": "23d072d53436",
+      "id": "64573c17d83d",
       "pillar": "anime",
-      "title": "Tenkaichi: The Greatest Warrior Under the Rising Sun TV Anime Reveals Teaser Video, Main Cast, Staff, April 2027 Debut",
+      "title": "From Overshadowed to Overpowered Anime Casts Sora Amamiya",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/tenkaichi-the-greatest-warrior-under-the-rising-sun-tv-anime-reveals-teaser-video-main-cast-staff-/.240548",
-      "thumbnail": "/drops/thumbs/23d072d53436.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/from-overshadowed-to-overpowered-anime-casts-sora-amamiya/.240535",
+      "thumbnail": "/drops/thumbs/64573c17d83d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "935ad3b1ab76",
+      "id": "52000de2ae47",
       "pillar": "gaming",
-      "title": "News Ghost of Yotei's PS5 Complete Edition Will Get a Physical Disc, But There Are Already Concerns",
+      "title": "News This Ain't Yakuza! SEGA Showcases Stranger Than Heaven's Complex Combat with Live Gameplay Demo",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/ghost-of-yoteis-ps5-complete-edition-will-get-a-physical-disc-but-there-are-already-concerns",
-      "thumbnail": "/drops/thumbs/935ad3b1ab76.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/this-aint-yakuza-sega-showcases-stranger-than-heavens-complex-combat-with-live-gameplay-demo",
+      "thumbnail": "/drops/thumbs/52000de2ae47.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "676a4c895a2b",
+      "id": "935ad3b1ab76",
       "pillar": "gaming",
-      "title": "News Ghost of Yotei: Complete Edition Announced, Includes New Expansion, Game Mode, More",
+      "title": "News Ghost of Yotei's PS5 Complete Edition Will Get a Physical Disc, But There Are Already Concerns",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/ghost-of-yotei-complete-edition-announced-includes-new-expansion-game-mode-more",
-      "thumbnail": "/drops/thumbs/676a4c895a2b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/ghost-of-yoteis-ps5-complete-edition-will-get-a-physical-disc-but-there-are-already-concerns",
+      "thumbnail": "/drops/thumbs/935ad3b1ab76.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "7592db42f0bc",
+      "id": "dd86350a2031",
       "pillar": "gaming",
-      "title": "Things I Said Out Loud, To No One, While Suffering Through FromSoft’s Grueling Dark Souls Predecessor For Kotaku’ s Warp Week",
+      "title": "Marvel Tōkon Datamine Both Delights And Underwhelms With Potential DLC Characters",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445",
-      "thumbnail": "/drops/thumbs/7592db42f0bc.jpg",
+      "source_url": "https://kotaku.com/marvel-tokon-dlc-characters-datamine-strange-fantastic-four-2000724124",
+      "thumbnail": "/drops/thumbs/dd86350a2031.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "a4bb57f3aee3",
     "814073afc0dc",
     "089f608c1ac8",
-    "935ad3b1ab76"
+    "52000de2ae47"
   ]
 }
