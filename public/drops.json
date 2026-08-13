@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T04:13:45+00:00",
+  "generated_utc": "2026-08-13T05:11:36+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "b75478fcc5e2",
+      "id": "676a4c895a2b",
       "pillar": "gaming",
-      "title": "News Final Fantasy Resonance Shows Off 11-Minute Shiva Battle and Squall Summon on PS5",
+      "title": "News Ghost of Yotei: Complete Edition Announced, Includes New Expansion, Game Mode, More",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/final-fantasy-resonance-shows-off-11-minute-shiva-battle-and-squall-summon-on-ps5",
-      "thumbnail": "/drops/thumbs/b75478fcc5e2.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/ghost-of-yotei-complete-edition-announced-includes-new-expansion-game-mode-more",
+      "thumbnail": "/drops/thumbs/676a4c895a2b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "676a4c895a2b",
+      "id": "b75478fcc5e2",
       "pillar": "gaming",
-      "title": "News Ghost of Yotei: Complete Edition Announced, Includes New Expansion, Game Mode, More",
+      "title": "News Final Fantasy Resonance Shows Off 11-Minute Shiva Battle and Squall Summon on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/ghost-of-yotei-complete-edition-announced-includes-new-expansion-game-mode-more",
-      "thumbnail": "/drops/thumbs/676a4c895a2b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/final-fantasy-resonance-shows-off-11-minute-shiva-battle-and-squall-summon-on-ps5",
+      "thumbnail": "/drops/thumbs/b75478fcc5e2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "a4bb57f3aee3",
     "814073afc0dc",
     "089f608c1ac8",
-    "b75478fcc5e2"
+    "676a4c895a2b"
   ]
 }
