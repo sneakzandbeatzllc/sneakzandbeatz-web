@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T18:19:24+00:00",
+  "generated_utc": "2026-08-13T19:01:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://www.nicekicks.com/kids-air-jordan-3-play-your-way-io2076-100/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
+      "url": "https://justfreshkicks.com/air-jordan-3-laser-ja1369-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Where To Buy the Air Jordan 6 “Oreo”",
       "url": "https://www.nicekicks.com/air-jordan-6-oreo-ct8529-108-drop/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 12 “Obsidian” Returns January 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-12-obsidian-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Kei Yose's The Villainess Speaks Not Light Novels Get Manga Adaptation",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-13/kei-yose-the-villainess-speaks-not-light-novels-get-manga-adaptation/.240547",
+      "title": "Duel Masters GT Manga's 3rd Part Launches",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-13/duel-masters-gt-manga-3rd-part-launches/.240533",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Pokémon Bank App Ends Service in February 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-13/pokemon-bank-app-ends-service-in-february-2027/.240552",
+      "title": "Kei Yose's The Villainess Speaks Not Light Novels Get Manga Adaptation",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-13/kei-yose-the-villainess-speaks-not-light-novels-get-manga-adaptation/.240547",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,22 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "7 Things We Learned About Insomniac’s Wolverine From The Latest Previews",
-      "url": "https://kotaku.com/marvels-wolverine-insomniac-previews-ps5-story-characters-2000724190",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
       "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "XBOX Reveals Gears of War: E-Day Limited Edition Controllers",
-      "url": "https://gameranx.com/updates/id/563682/article/xbox-reveals-gears-of-war-e-day-limited-edition-controllers/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "XBOX Reveals Gears of War: E-Day Limited Edition Controllers",
+      "url": "https://gameranx.com/updates/id/563682/article/xbox-reveals-gears-of-war-e-day-limited-edition-controllers/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Mafia Remake Joins The Old Country on PS5 in Full Series Collection with 60FPS, Visual Upgrades",
       "url": "https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Three New Things We Learned From Fire Emblem: Fortune’s Weave Previews",
+      "url": "https://kotaku.com/fire-emblem-fortunes-weave-previews-roundup-nintendo-switch-2-2000724173",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
