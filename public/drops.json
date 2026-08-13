@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T20:23:38+00:00",
+  "generated_utc": "2026-08-13T21:23:32+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "49546b3437ca",
+      "id": "e1b97d0134a0",
       "pillar": "anime",
-      "title": "My Hero Academia Creator's Next Manga Is Here, And It's A Huge Genre Change",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/my-hero-academia-next-series-horror/",
-      "thumbnail": "/drops/thumbs/49546b3437ca.jpg",
+      "title": "Skull Dragon's Precious Daughter Manga Goes on Hiatus for Half a Year",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/skull-dragon-precious-daughter-manga-goes-on-hiatus-for-half-a-year/.240534",
+      "thumbnail": "/drops/thumbs/e1b97d0134a0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,18 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "360f06b6b90c",
-      "pillar": "anime",
-      "title": "Kei Yose's The Villainess Speaks Not Light Novels Get Manga Adaptation",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/kei-yose-the-villainess-speaks-not-light-novels-get-manga-adaptation/.240547",
-      "thumbnail": "/drops/thumbs/360f06b6b90c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e8115db14c75",
       "pillar": "anime",
       "title": "Netflix's live-action Yu Yu Hakusho is reportedly getting a second season",
@@ -183,12 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "74eab0e4cf92",
+      "id": "360f06b6b90c",
       "pillar": "anime",
-      "title": "Pokémon Bank App Ends Service in February 2027",
+      "title": "Kei Yose's The Villainess Speaks Not Light Novels Get Manga Adaptation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/pokemon-bank-app-ends-service-in-february-2027/.240552",
-      "thumbnail": "/drops/thumbs/74eab0e4cf92.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/kei-yose-the-villainess-speaks-not-light-novels-get-manga-adaptation/.240547",
+      "thumbnail": "/drops/thumbs/360f06b6b90c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4a0eff9a46de",
+      "pillar": "anime",
+      "title": "After 6 Years, Capcom Announces Jill Valentine's Return For Resident Evil: Death Island Manga",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/resident-evil-death-island-manga-jill-valentine-return/",
+      "thumbnail": "/drops/thumbs/4a0eff9a46de.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +231,36 @@
       "release_badge": ""
     },
     {
+      "id": "041092e3f51f",
+      "pillar": "gaming",
+      "title": "Insomniac’s Explanation For Why Wolverine’s Suit Heals Itself Is Simple And Honest",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228",
+      "thumbnail": "/drops/thumbs/041092e3f51f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "94e688f62423",
       "pillar": "gaming",
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
       "thumbnail": "/drops/thumbs/94e688f62423.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d0306108f04a",
+      "pillar": "gaming",
+      "title": "Judge Throws Out ‘ Mortal Kombat Stabbing’ Lawsuit On Free Speech Grounds",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/judge-throws-out-mortal-kombat-stabbing-lawsuit-on-free-speech-grounds-2000724107",
+      "thumbnail": "/drops/thumbs/d0306108f04a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,36 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "07669fc8c763",
+      "id": "0c84988b2abd",
       "pillar": "gaming",
-      "title": "WB Is Releasing Its First NC-17 Movie In Over 20 Years This October",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/wb-is-releasing-its-first-nc-17-movie-in-over-20-years-this-october-2000724202",
-      "thumbnail": "/drops/thumbs/07669fc8c763.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fbebd9e8341c",
-      "pillar": "gaming",
-      "title": "News Mafia Remake Joins The Old Country on PS5 in Full Series Collection with 60FPS, Visual Upgrades",
+      "title": "News Gritty Action RPGs Will Soon Have Big Budget Competition from One of the World's Most Popular Devs",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/mafia-remake-joins-the-old-country-on-ps5-in-full-series-collection-with-60fps-visual-upgrades",
-      "thumbnail": "/drops/thumbs/fbebd9e8341c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "761b9973dd9f",
-      "pillar": "gaming",
-      "title": "There Is No Reason Not To Play South Of Midnight Anymore",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/south-of-midnight-compulsion-games-bds-xbox-2000724140",
-      "thumbnail": "/drops/thumbs/761b9973dd9f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gritty-action-rpgs-will-soon-have-big-budget-competition-from-one-of-the-worlds-most-popular-devs",
+      "thumbnail": "/drops/thumbs/0c84988b2abd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
