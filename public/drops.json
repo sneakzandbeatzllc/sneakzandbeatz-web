@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T00:50:41+00:00",
+  "generated_utc": "2026-08-13T01:21:33+00:00",
   "items": [
+    {
+      "id": "4c0c135c5fd0",
+      "pillar": "sneakers",
+      "title": "Free the Youth’s Air Jordan 16 Releases in August",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
+      "thumbnail": "/drops/thumbs/4c0c135c5fd0.webp",
+      "published": "2026-08-12T12:13:52",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "c8f5b10cc523",
       "pillar": "sneakers",
@@ -27,28 +39,28 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "4c0c135c5fd0",
+      "id": "089f608c1ac8",
       "pillar": "sneakers",
-      "title": "Free the Youth’s Air Jordan 16 Releases in August",
+      "title": "The Air Jordan 4 “Linen” Will Get a Retro Release for Summer 2027",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/free-the-youth-air-jordan-16-iv7638-001/",
-      "thumbnail": "/drops/thumbs/4c0c135c5fd0.webp",
-      "published": "",
+      "source_url": "https://justfreshkicks.com/air-jordan-4-linen-hv0823-142/",
+      "thumbnail": "/drops/thumbs/089f608c1ac8.webp",
+      "published": "2026-08-11T13:16:54",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 2.0,
+      "release_badge": ""
     },
     {
-      "id": "34cfe7389d17",
+      "id": "1796e65ca4e0",
       "pillar": "sneakers",
-      "title": "The Air Jordan 1 Dons a Nail Polish-Inspired Look Coming in September",
+      "title": "Eminem’s Air Jordan 4 “Encore” Rumored to Release to the Public in 2027",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-high-red-polish-fd2596-601/",
-      "thumbnail": "/drops/thumbs/34cfe7389d17.jpg",
-      "published": "",
+      "source_url": "https://justfreshkicks.com/eminem-air-jordan-4-encore-jj3098-400/",
+      "thumbnail": "/drops/thumbs/1796e65ca4e0.webp",
+      "published": "2026-08-11T12:19:24",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "8caeb2948d1b",
@@ -81,18 +93,6 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-10-taxi/",
       "thumbnail": "/drops/thumbs/c575f2c9248e.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c4e263a80550",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Linen” Returns Summer 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-4-linen-2027/",
-      "thumbnail": "/drops/thumbs/c4e263a80550.webp",
       "published": "",
       "relative_time": "today",
       "score": 2.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "4c0c135c5fd0",
     "c8f5b10cc523",
     "a4bb57f3aee3",
-    "4c0c135c5fd0",
     "814073afc0dc",
-    "34cfe7389d17",
+    "089f608c1ac8",
     "b75478fcc5e2"
   ]
 }
