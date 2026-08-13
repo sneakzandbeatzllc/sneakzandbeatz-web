@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T02:12:59+00:00",
+  "generated_utc": "2026-08-13T03:53:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Every Ninja Eye Technique In The Naruto Franchise, Explained",
-      "url": "https://screenrant.com/naruto-anime-every-eye-technique-sharingan/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Altair: A Record of Battles' Kotono Katō Launches New Manga",
       "url": "https://www.animenewsnetwork.com/news/2026-08-12/altair-a-record-of-battles-kotono-kato-launches-new-manga/.240495",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Director of upcoming Gundam anime says series is a metaphor for AI fears",
       "url": "https://www.polygon.com/mobile-suit-gundam-new-series-ai-fears-kenji-kamiyama/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Live-Action Blue Lock Film Opens at #8",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-12/live-action-blue-lock-film-opens-at-no.8/.240502",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
