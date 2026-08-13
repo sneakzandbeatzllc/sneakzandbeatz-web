@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T14:16:40+00:00",
+  "generated_utc": "2026-08-13T15:16:30+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "f17521e77357",
+      "pillar": "anime",
+      "title": "One Piece novel Zoro Tops Oricon's Monthly Light Novel Ranking for July 2026",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/one-piece-novel-zoro-tops-oricon-monthly-light-novel-ranking-for-july-2026/.240437",
+      "thumbnail": "/drops/thumbs/f17521e77357.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f863798e56ae",
       "pillar": "anime",
       "title": "One Piece Manga Tops Oricon's Monthly Comic Ranking for July 2026",
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "da0fea78100a",
-      "pillar": "anime",
-      "title": "OceanVeil Adds Yomu's Miru Tights Short Anime Series",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/oceanveil-adds-yomu-miru-tights-short-anime-series/.240546",
-      "thumbnail": "/drops/thumbs/da0fea78100a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b34e9bb1da83",
       "pillar": "anime",
       "title": "Director of upcoming Gundam anime says series is a metaphor for AI fears",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "64573c17d83d",
+      "id": "e9bf55019250",
       "pillar": "anime",
-      "title": "From Overshadowed to Overpowered Anime Casts Sora Amamiya",
+      "title": "Manga Up! Global Adds Transmigrated to the Northern Frontier Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/from-overshadowed-to-overpowered-anime-casts-sora-amamiya/.240535",
-      "thumbnail": "/drops/thumbs/64573c17d83d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/manga-up-global-adds-transmigrated-to-the-northern-frontier-manga/.240549",
+      "thumbnail": "/drops/thumbs/e9bf55019250.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "193da41a1907",
+      "id": "b2ce1db4cfff",
       "pillar": "gaming",
-      "title": "Ms. Marvel actor says Spider-Man: Brand New Day is proof superhero fatigue doesn't exist",
+      "title": "Big Preview After 2 hours playing Marvel's Wolverine, Insomniac has crushed my fears of a post-Spider-Man slump",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/ms-marvel-actor-says-spider-man-brand-new-day-is-proof-superhero-fatigue-doesnt-exist-audiences-just-want-good-movies/",
-      "thumbnail": "/drops/thumbs/193da41a1907.jpg",
+      "source_url": "https://www.gamesradar.com/games/action/after-playing-2-hours-of-marvels-wolverine-insomniac-has-crushed-my-fears-of-a-post-spider-man-slump-this-is-uniquely-logan/",
+      "thumbnail": "/drops/thumbs/b2ce1db4cfff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,18 +225,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563685/article/ghost-of-yotei-is-getting-a-new-expansion-and-a-complete-edition/",
       "thumbnail": "/drops/thumbs/453877cd2b60.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a2c736739bc8",
-      "pillar": "gaming",
-      "title": "Ryan Hurst Posts A Much Better Picture Of Himself As Kratos And Damn, Amazon Should Have Let Him Cook",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/ryan-hurst-kratos-pictures-god-of-war-tv-show-amazon-2000723832",
-      "thumbnail": "/drops/thumbs/a2c736739bc8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "9ea158c38874",
+      "pillar": "gaming",
+      "title": "Marvel Tōkon: Fighting Souls : The Kotaku Review",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/marvel-tokon-fighting-souls-review-modes-characters-roster-2000723931",
+      "thumbnail": "/drops/thumbs/9ea158c38874.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "dd86350a2031",
       "pillar": "gaming",
       "title": "Marvel Tōkon Datamine Both Delights And Underwhelms With Potential DLC Characters",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "0c21a1a38044",
+      "id": "669100296368",
       "pillar": "gaming",
-      "title": "Marvel Tokon: Fighting Souls review: \"A stunning comeback for superhero fighters essential for Marvel and genre fans\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/fighting/marvel-tokon-fighting-souls-review/",
-      "thumbnail": "/drops/thumbs/0c21a1a38044.jpg",
+      "title": "XBOX Reveals Gears of War: E-Day Limited Edition Controllers",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563682/article/xbox-reveals-gears-of-war-e-day-limited-edition-controllers/",
+      "thumbnail": "/drops/thumbs/669100296368.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
