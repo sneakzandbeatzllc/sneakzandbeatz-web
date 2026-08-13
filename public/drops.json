@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T16:28:46+00:00",
+  "generated_utc": "2026-08-13T17:17:58+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "0f567dd5500a",
-      "pillar": "gaming",
-      "title": "Features Cloud Strife just celebrated his birthday, and it reminded me of all the FF7 merch starring the spiky-haired merc that I want for my collection",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/toys-collectibles/cloud-strife-just-celebrated-his-birthday-and-it-reminded-me-of-all-the-ff7-merch-starring-the-spiky-haired-merc-that-i-want-for-my-collection/",
-      "thumbnail": "/drops/thumbs/0f567dd5500a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "94e688f62423",
       "pillar": "gaming",
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
@@ -255,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "9ea158c38874",
+      "id": "17b13fcba297",
       "pillar": "gaming",
-      "title": "Marvel Tōkon: Fighting Souls : The Kotaku Review",
+      "title": "Halo Co-Creator Says The Remake’s New Ring Is ‘Damn Ugly’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/marvel-tokon-fighting-souls-review-modes-characters-roster-2000723931",
-      "thumbnail": "/drops/thumbs/9ea158c38874.jpg",
+      "source_url": "https://kotaku.com/halo-co-creator-says-the-remakes-new-ring-is-damn-ugly-2000724174",
+      "thumbnail": "/drops/thumbs/17b13fcba297.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/features/round-up-marvels-wolverine-sounds-like-another-great-superhero-blockbuster-in-ps5-previews",
       "thumbnail": "/drops/thumbs/e3556dede72d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4f1c95fc3e1e",
+      "pillar": "gaming",
+      "title": "Pokémon Is Finally Burning The Bridge Between Old And New Generations",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/pokemon-3ds-bank-transporter-app-shutdown-online-services-2000724131",
+      "thumbnail": "/drops/thumbs/4f1c95fc3e1e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
