@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T19:22:59+00:00",
+  "generated_utc": "2026-08-13T20:22:45+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -123,18 +123,6 @@
       "release_badge": ""
     },
     {
-      "id": "f17521e77357",
-      "pillar": "anime",
-      "title": "One Piece novel Zoro Tops Oricon's Monthly Light Novel Ranking for July 2026",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/one-piece-novel-zoro-tops-oricon-monthly-light-novel-ranking-for-july-2026/.240437",
-      "thumbnail": "/drops/thumbs/f17521e77357.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1e5d6c6e4f8f",
       "pillar": "anime",
       "title": "16 Years Later, The Fourth Hokage's Best Naruto Line Is Still The Deepest Quote In Anime History",
@@ -171,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "360f06b6b90c",
+      "pillar": "anime",
+      "title": "Kei Yose's The Villainess Speaks Not Light Novels Get Manga Adaptation",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/kei-yose-the-villainess-speaks-not-light-novels-get-manga-adaptation/.240547",
+      "thumbnail": "/drops/thumbs/360f06b6b90c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e8115db14c75",
       "pillar": "anime",
       "title": "Netflix's live-action Yu Yu Hakusho is reportedly getting a second season",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "360f06b6b90c",
+      "id": "74eab0e4cf92",
       "pillar": "anime",
-      "title": "Kei Yose's The Villainess Speaks Not Light Novels Get Manga Adaptation",
+      "title": "Pokémon Bank App Ends Service in February 2027",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/kei-yose-the-villainess-speaks-not-light-novels-get-manga-adaptation/.240547",
-      "thumbnail": "/drops/thumbs/360f06b6b90c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/pokemon-bank-app-ends-service-in-february-2027/.240552",
+      "thumbnail": "/drops/thumbs/74eab0e4cf92.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "17b13fcba297",
-      "pillar": "gaming",
-      "title": "Halo Co-Creator Says The Remake’s New Ring Is ‘Damn Ugly’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/halo-co-creator-says-the-remakes-new-ring-is-damn-ugly-2000724174",
-      "thumbnail": "/drops/thumbs/17b13fcba297.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "669100296368",
       "pillar": "gaming",
       "title": "XBOX Reveals Gears of War: E-Day Limited Edition Controllers",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563682/article/xbox-reveals-gears-of-war-e-day-limited-edition-controllers/",
       "thumbnail": "/drops/thumbs/669100296368.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "07669fc8c763",
+      "pillar": "gaming",
+      "title": "WB Is Releasing Its First NC-17 Movie In Over 20 Years This October",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/wb-is-releasing-its-first-nc-17-movie-in-over-20-years-this-october-2000724202",
+      "thumbnail": "/drops/thumbs/07669fc8c763.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "5279f31a214e",
+      "id": "761b9973dd9f",
       "pillar": "gaming",
-      "title": "Three New Things We Learned From Fire Emblem: Fortune’s Weave Previews",
+      "title": "There Is No Reason Not To Play South Of Midnight Anymore",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/fire-emblem-fortunes-weave-previews-roundup-nintendo-switch-2-2000724173",
-      "thumbnail": "/drops/thumbs/5279f31a214e.jpg",
+      "source_url": "https://kotaku.com/south-of-midnight-compulsion-games-bds-xbox-2000724140",
+      "thumbnail": "/drops/thumbs/761b9973dd9f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
