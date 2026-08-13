@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T16:17:59+00:00",
+  "generated_utc": "2026-08-13T16:28:46+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "1d1ce0f71ba0",
+      "pillar": "sneakers",
+      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
+      "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
+      "published": "2026-08-13T12:22:18",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "089f608c1ac8",
@@ -81,18 +93,6 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-12-obsidian-2027/",
       "thumbnail": "/drops/thumbs/78a6544bb2c1.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c575f2c9248e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 10 “Taxi” With Nike Air Releases May 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-10-taxi/",
-      "thumbnail": "/drops/thumbs/c575f2c9248e.webp",
       "published": "",
       "relative_time": "today",
       "score": 2.0,
@@ -296,7 +296,7 @@
     "c8f5b10cc523",
     "a4bb57f3aee3",
     "814073afc0dc",
-    "089f608c1ac8",
+    "1d1ce0f71ba0",
     "52000de2ae47"
   ]
 }

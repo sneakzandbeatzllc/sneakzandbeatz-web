@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T16:17:59+00:00",
+  "generated_utc": "2026-08-13T16:28:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://www.nicekicks.com/kids-air-jordan-3-play-your-way-io2076-100/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
+      "url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 12 “Obsidian” Returns January 2027",
       "url": "https://sneakerbardetroit.com/air-jordan-12-obsidian-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 10 “Taxi” With Nike Air Releases May 2027",
-      "url": "https://sneakerbardetroit.com/air-jordan-10-taxi/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
