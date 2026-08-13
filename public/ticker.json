@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-13T18:00:35+00:00",
+  "generated_utc": "2026-08-13T18:18:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Manga Tops Oricon's Monthly Comic Ranking for July 2026",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-13/one-piece-manga-tops-oricon-monthly-comic-ranking-for-july-2026/.240416",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "16 Years Later, The Fourth Hokage's Best Naruto Line Is Still The Deepest Quote In Anime History",
       "url": "https://screenrant.com/naruto-best-minato-quote-love-hate-history/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "My Hero Academia Creator's Next Manga Is Here, And It's A Huge Genre Change",
       "url": "https://screenrant.com/my-hero-academia-next-series-horror/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Kei Yose's The Villainess Speaks Not Light Novels Get Manga Adaptation",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-13/kei-yose-the-villainess-speaks-not-light-novels-get-manga-adaptation/.240547",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
