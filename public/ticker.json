@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T20:39:22+00:00",
+  "generated_utc": "2026-08-14T21:36:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,8 +81,22 @@
       "article_slug": null
     },
     {
+      "title": "North American Anime, Manga Releases, August 9-15",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-14/north-american-anime-manga-releases-august-9-15/.240460",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Exclusive: Nakama Press to Release Ace of the Diamond Baseball Manga in Omnibus Volumes",
       "url": "https://www.animenewsnetwork.com/news/2026-08-14/exclusive-nakama-press-to-release-ace-of-the-diamond-baseball-manga-in-omnibus-volumes/.240587",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sydney Sweeney's Upcoming Anime Movie Is Releasing At The Right Time",
+      "url": "https://screenrant.com/sydney-sweeney-gundam-movie-perfect-timing/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -97,20 +111,6 @@
     {
       "title": "Studio Ghibli's Best Quote Wasn't From Miyazaki, And 35 Years Later, It's Aging Like Fine Wine",
       "url": "https://screenrant.com/best-studio-ghibli-quote-only-yesterday-not-miyazaki/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naver WEBTOON Cooperates With Korea's MCST, Interpol to Take Down 3 English Webtoon, Manga Piracy Sites",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-14/naver-webtoon-cooperates-with-korea-mcst-interpol-to-take-down-3-english-webtoon-manga-piracy-sites/.240540",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "8 Years Later, Hulu's Cult Classic Rom-Com Finally Has Its Successor",
-      "url": "https://screenrant.com/hulu-rom-com-secretary-kim-successor-iseops-romance/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′ s Campaign Isn’t A Horrible Mess Like BLOPS7",
+      "url": "https://kotaku.com/activision-really-wants-you-to-know-call-of-duty-modern-warfare-4s-campaign-isnt-a-horrible-mess-like-blops7-2000724549",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Halo: Campaign Evolved PS5 Update Lands Next Week with Tech Fixes",
       "url": "https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "“Two Surprises, One Beta” – Activision Drops Cryptic Teaser For Call of Duty Modern Warfare 4 Announcement",
       "url": "https://gameranx.com/updates/id/563709/article/two-surprises-one-beta-activision-drops-cryptic-teaser-for-call-of-duty-modern-warfare-4-announcement/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Gears of War: E-Day's Steam count has once again blown past the series record in its second beta",
-      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-steam-player-count-has-once-again-blown-past-the-series-all-time-peak-thanks-to-the-betas-second-week/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

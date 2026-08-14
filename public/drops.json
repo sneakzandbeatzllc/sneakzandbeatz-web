@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T20:39:22+00:00",
+  "generated_utc": "2026-08-14T21:36:03+00:00",
   "items": [
     {
       "id": "d88e9986638e",
@@ -135,12 +135,36 @@
       "release_badge": ""
     },
     {
+      "id": "54e7ac1b31fc",
+      "pillar": "anime",
+      "title": "North American Anime, Manga Releases, August 9-15",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/north-american-anime-manga-releases-august-9-15/.240460",
+      "thumbnail": "/drops/thumbs/54e7ac1b31fc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6017312733a9",
       "pillar": "anime",
       "title": "Exclusive: Nakama Press to Release Ace of the Diamond Baseball Manga in Omnibus Volumes",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/exclusive-nakama-press-to-release-ace-of-the-diamond-baseball-manga-in-omnibus-volumes/.240587",
       "thumbnail": "/drops/thumbs/6017312733a9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d363b4da1745",
+      "pillar": "anime",
+      "title": "Sydney Sweeney's Upcoming Anime Movie Is Releasing At The Right Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/sydney-sweeney-gundam-movie-perfect-timing/",
+      "thumbnail": "/drops/thumbs/d363b4da1745.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -165,30 +189,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/best-studio-ghibli-quote-only-yesterday-not-miyazaki/",
       "thumbnail": "/drops/thumbs/27f06ee31ced.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6e66b2695804",
-      "pillar": "anime",
-      "title": "Naver WEBTOON Cooperates With Korea's MCST, Interpol to Take Down 3 English Webtoon, Manga Piracy Sites",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/naver-webtoon-cooperates-with-korea-mcst-interpol-to-take-down-3-english-webtoon-manga-piracy-sites/.240540",
-      "thumbnail": "/drops/thumbs/6e66b2695804.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9823a22939ef",
-      "pillar": "anime",
-      "title": "8 Years Later, Hulu's Cult Classic Rom-Com Finally Has Its Successor",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/hulu-rom-com-secretary-kim-successor-iseops-romance/",
-      "thumbnail": "/drops/thumbs/9823a22939ef.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "c4b3d22d28dc",
+      "pillar": "gaming",
+      "title": "Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′ s Campaign Isn’t A Horrible Mess Like BLOPS7",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/activision-really-wants-you-to-know-call-of-duty-modern-warfare-4s-campaign-isnt-a-horrible-mess-like-blops7-2000724549",
+      "thumbnail": "/drops/thumbs/c4b3d22d28dc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "08827d8d71b5",
       "pillar": "gaming",
       "title": "News Halo: Campaign Evolved PS5 Update Lands Next Week with Tech Fixes",
@@ -273,18 +285,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563709/article/two-surprises-one-beta-activision-drops-cryptic-teaser-for-call-of-duty-modern-warfare-4-announcement/",
       "thumbnail": "/drops/thumbs/b115a3862278.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b3381b4870a8",
-      "pillar": "gaming",
-      "title": "Gears of War: E-Day's Steam count has once again blown past the series record in its second beta",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-steam-player-count-has-once-again-blown-past-the-series-all-time-peak-thanks-to-the-betas-second-week/",
-      "thumbnail": "/drops/thumbs/b3381b4870a8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
