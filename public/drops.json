@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T04:24:24+00:00",
+  "generated_utc": "2026-08-14T08:24:41+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -123,24 +123,24 @@
       "release_badge": ""
     },
     {
-      "id": "d9d511a205bc",
+      "id": "49a7a6b407ed",
       "pillar": "anime",
-      "title": "Hell Mode Anime Season 2 Unveils More Cast",
+      "title": "The Villager of Level 999 Anime Casts Yōji Ueda, Tetsu Inada",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/hell-mode-anime-season-2-unveils-more-cast/.240566",
-      "thumbnail": "/drops/thumbs/d9d511a205bc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/the-villager-of-level-999-anime-casts-yoji-ueda-tetsu-inada/.240568",
+      "thumbnail": "/drops/thumbs/49a7a6b407ed.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "e1b97d0134a0",
+      "id": "d9d511a205bc",
       "pillar": "anime",
-      "title": "Skull Dragon's Precious Daughter Manga Goes on Hiatus for Half a Year",
+      "title": "Hell Mode Anime Season 2 Unveils More Cast",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/skull-dragon-precious-daughter-manga-goes-on-hiatus-for-half-a-year/.240534",
-      "thumbnail": "/drops/thumbs/e1b97d0134a0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/hell-mode-anime-season-2-unveils-more-cast/.240566",
+      "thumbnail": "/drops/thumbs/d9d511a205bc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "41536c5ee7c6",
+      "id": "e1b97d0134a0",
       "pillar": "anime",
-      "title": "Duel Masters GT Manga's 3rd Part Launches",
+      "title": "Skull Dragon's Precious Daughter Manga Goes on Hiatus for Half a Year",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/duel-masters-gt-manga-3rd-part-launches/.240533",
-      "thumbnail": "/drops/thumbs/41536c5ee7c6.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-13/skull-dragon-precious-daughter-manga-goes-on-hiatus-for-half-a-year/.240534",
+      "thumbnail": "/drops/thumbs/e1b97d0134a0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "52000de2ae47",
+      "id": "935ad3b1ab76",
       "pillar": "gaming",
-      "title": "News This Ain't Yakuza! SEGA Showcases Stranger Than Heaven's Complex Combat with Live Gameplay Demo",
+      "title": "News Ghost of Yotei's PS5 Complete Edition Will Get a Physical Disc, But There Are Already Concerns",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/this-aint-yakuza-sega-showcases-stranger-than-heavens-complex-combat-with-live-gameplay-demo",
-      "thumbnail": "/drops/thumbs/52000de2ae47.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/ghost-of-yoteis-ps5-complete-edition-will-get-a-physical-disc-but-there-are-already-concerns",
+      "thumbnail": "/drops/thumbs/935ad3b1ab76.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "0c84988b2abd",
+      "id": "83c603570f6b",
       "pillar": "gaming",
-      "title": "News Gritty Action RPGs Will Soon Have Big Budget Competition from One of the World's Most Popular Devs",
+      "title": "News 'The Game Feels Super Smooth': Wolverine Will Run at 60fps with Ray Tracing on Base PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gritty-action-rpgs-will-soon-have-big-budget-competition-from-one-of-the-worlds-most-popular-devs",
-      "thumbnail": "/drops/thumbs/0c84988b2abd.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/the-game-feels-super-smooth-wolverine-will-run-at-60fps-with-ray-tracing-on-base-ps5",
+      "thumbnail": "/drops/thumbs/83c603570f6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "a4bb57f3aee3",
     "ca96a045cd5b",
     "1e12b67073f9",
-    "52000de2ae47"
+    "935ad3b1ab76"
   ]
 }
