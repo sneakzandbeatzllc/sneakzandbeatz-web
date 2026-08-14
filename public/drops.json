@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T09:26:01+00:00",
+  "generated_utc": "2026-08-14T10:26:05+00:00",
   "items": [
     {
       "id": "4c0c135c5fd0",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "935ad3b1ab76",
-      "pillar": "gaming",
-      "title": "News Ghost of Yotei's PS5 Complete Edition Will Get a Physical Disc, But There Are Already Concerns",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/ghost-of-yoteis-ps5-complete-edition-will-get-a-physical-disc-but-there-are-already-concerns",
-      "thumbnail": "/drops/thumbs/935ad3b1ab76.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b2ce1db4cfff",
       "pillar": "gaming",
       "title": "Big Preview After 2 hours playing Marvel's Wolverine, Insomniac has crushed my fears of a post-Spider-Man slump",
@@ -243,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "669100296368",
+      "id": "6982c8aee4ba",
       "pillar": "gaming",
-      "title": "XBOX Reveals Gears of War: E-Day Limited Edition Controllers",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563682/article/xbox-reveals-gears-of-war-e-day-limited-edition-controllers/",
-      "thumbnail": "/drops/thumbs/669100296368.jpg",
+      "title": "News Netflix Shuts Down Oxenfree Dev Night School Studio as It Downscales In-House Game Teams",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/netflix-shuts-down-oxenfree-dev-night-school-studio-as-it-downscales-in-house-game-teams",
+      "thumbnail": "/drops/thumbs/6982c8aee4ba.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "dd2e438b0cb1",
+      "pillar": "gaming",
+      "title": "Rumor: Lego Marvel Games Are On Hold, Next Lego Game Is A Warner IP But Not Batman, Harry Potter, Or Dune",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563702/article/rumor-lego-marvel-games-are-on-hold-next-lego-game-is-a-warner-ip-but-not-batman-harry-potter-or-dune/",
+      "thumbnail": "/drops/thumbs/dd2e438b0cb1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "07669fc8c763",
       "pillar": "gaming",
       "title": "WB Is Releasing Its First NC-17 Movie In Over 20 Years This October",
@@ -297,6 +297,6 @@
     "a4bb57f3aee3",
     "ca96a045cd5b",
     "1e12b67073f9",
-    "935ad3b1ab76"
+    "b2ce1db4cfff"
   ]
 }

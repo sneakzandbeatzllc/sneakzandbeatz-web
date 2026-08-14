@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T09:26:01+00:00",
+  "generated_utc": "2026-08-14T10:26:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "News Ghost of Yotei's PS5 Complete Edition Will Get a Physical Disc, But There Are Already Concerns",
-      "url": "https://www.pushsquare.com/news/2026/08/ghost-of-yoteis-ps5-complete-edition-will-get-a-physical-disc-but-there-are-already-concerns",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Big Preview After 2 hours playing Marvel's Wolverine, Insomniac has crushed my fears of a post-Spider-Man slump",
       "url": "https://www.gamesradar.com/games/action/after-playing-2-hours-of-marvels-wolverine-insomniac-has-crushed-my-fears-of-a-post-spider-man-slump-this-is-uniquely-logan/",
       "pillar": "gaming",
@@ -144,8 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "XBOX Reveals Gears of War: E-Day Limited Edition Controllers",
-      "url": "https://gameranx.com/updates/id/563682/article/xbox-reveals-gears-of-war-e-day-limited-edition-controllers/",
+      "title": "News Netflix Shuts Down Oxenfree Dev Night School Studio as It Downscales In-House Game Teams",
+      "url": "https://www.pushsquare.com/news/2026/08/netflix-shuts-down-oxenfree-dev-night-school-studio-as-it-downscales-in-house-game-teams",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,6 +153,13 @@
     {
       "title": "News On the Cusp of Kingdom Hearts 4 Blowout, Disney Says Series Is a Billion-Dollar Brand",
       "url": "https://www.pushsquare.com/news/2026/08/on-the-cusp-of-kingdom-hearts-4-blowout-disney-says-series-is-a-billion-dollar-brand",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rumor: Lego Marvel Games Are On Hold, Next Lego Game Is A Warner IP But Not Batman, Harry Potter, Or Dune",
+      "url": "https://gameranx.com/updates/id/563702/article/rumor-lego-marvel-games-are-on-hold-next-lego-game-is-a-warner-ip-but-not-batman-harry-potter-or-dune/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
