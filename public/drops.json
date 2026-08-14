@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T22:38:39+00:00",
+  "generated_utc": "2026-08-14T23:09:25+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -75,6 +75,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "77e015d5b178",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 12 “Sumo” Releases Exclusively in Japan",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-12-sumo-iw1218-098/",
+      "thumbnail": "/drops/thumbs/77e015d5b178.jpg",
+      "published": "2026-08-14T18:48:06",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "1024654bf198",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “Khaki” Releases June 2027",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-khaki-2027/",
       "thumbnail": "/drops/thumbs/1024654bf198.jpg",
       "published": "2026-08-14T15:31:34",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "eebfd1f3da21",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Jackie Robinson” Releases April 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-jackie-robinson-2027/",
-      "thumbnail": "/drops/thumbs/eebfd1f3da21.jpg",
-      "published": "2026-08-14T15:28:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
