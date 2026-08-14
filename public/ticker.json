@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T21:40:04+00:00",
+  "generated_utc": "2026-08-14T22:36:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 4 “Bloodline” Releases April 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-bloodline/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 9 Low “What The Kilroy” August 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-9-low-what-the-kilroy-iv6476-010/",
@@ -39,22 +46,15 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 4 “Tour Yellow” is Getting A Retro After 20 Years",
-      "url": "https://www.nicekicks.com/air-jordan-4-tour-yellow-io2463-102-drop/",
+      "title": "Air Jordan 3 “Khaki” Releases June 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-khaki-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
-      "url": "https://justfreshkicks.com/air-jordan-3-laser-ja1369-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
-      "url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
+      "title": "Air Jordan 4 “Jackie Robinson” Releases April 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-jackie-robinson-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -69,6 +69,13 @@
     {
       "title": "Bleach’s final season is Studio Pierrot’s answer to Demon Slayer and Jujutsu Kaisen",
       "url": "https://www.polygon.com/bleach-thousand-year-blood-war-bests-demon-slayer-jujutsu-kaisen/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "30 Strongest One Piece Devil Fruits, Ranked (So Far)",
+      "url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Sydney Sweeney's Upcoming Anime Movie Is Releasing At The Right Time",
-      "url": "https://screenrant.com/sydney-sweeney-gundam-movie-perfect-timing/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Prince of Tennis II: U-17 World Cup Kesshō Member Ketteisen Anime Reveals Promo Video, More Cast, September 30 Premiere",
       "url": "https://www.animenewsnetwork.com/news/2026-08-14/the-prince-of-tennis-ii-u-17-world-cup-kessho-member-ketteisen-anime-reveals-promo-video-more-cast-/.240582",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Studio Ghibli's Best Quote Wasn't From Miyazaki, And 35 Years Later, It's Aging Like Fine Wine",
-      "url": "https://screenrant.com/best-studio-ghibli-quote-only-yesterday-not-miyazaki/",
+      "title": "Sydney Sweeney's Upcoming Anime Movie Is Releasing At The Right Time",
+      "url": "https://screenrant.com/sydney-sweeney-gundam-movie-perfect-timing/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T21:40:04+00:00",
+  "generated_utc": "2026-08-14T22:36:46+00:00",
   "items": [
+    {
+      "id": "517e3820b10f",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Bloodline” Releases April 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-bloodline/",
+      "thumbnail": "/drops/thumbs/517e3820b10f.jpg",
+      "published": "2026-08-14T15:29:36",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "d88e9986638e",
       "pillar": "sneakers",
@@ -63,37 +75,25 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "50e6a8a519df",
+      "id": "1024654bf198",
       "pillar": "sneakers",
-      "title": "The Air Jordan 4 “Tour Yellow” is Getting A Retro After 20 Years",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-tour-yellow-io2463-102-drop/",
-      "thumbnail": "/drops/thumbs/50e6a8a519df.jpg",
-      "published": "2026-08-14T11:53:22",
+      "title": "Air Jordan 3 “Khaki” Releases June 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-khaki-2027/",
+      "thumbnail": "/drops/thumbs/1024654bf198.jpg",
+      "published": "2026-08-14T15:31:34",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
     },
     {
-      "id": "623ec279ec36",
+      "id": "eebfd1f3da21",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-laser-ja1369-001/",
-      "thumbnail": "/drops/thumbs/623ec279ec36.webp",
-      "published": "2026-08-13T14:31:12",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1d1ce0f71ba0",
-      "pillar": "sneakers",
-      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
-      "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
-      "published": "2026-08-13T12:22:18",
+      "title": "Air Jordan 4 “Jackie Robinson” Releases April 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-jackie-robinson-2027/",
+      "thumbnail": "/drops/thumbs/eebfd1f3da21.jpg",
+      "published": "2026-08-14T15:28:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -117,6 +117,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/bleach-thousand-year-blood-war-bests-demon-slayer-jujutsu-kaisen/",
       "thumbnail": "/drops/thumbs/291b0c7b99dd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "55d1b32e7393",
+      "pillar": "anime",
+      "title": "30 Strongest One Piece Devil Fruits, Ranked (So Far)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
+      "thumbnail": "/drops/thumbs/55d1b32e7393.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "d363b4da1745",
-      "pillar": "anime",
-      "title": "Sydney Sweeney's Upcoming Anime Movie Is Releasing At The Right Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/sydney-sweeney-gundam-movie-perfect-timing/",
-      "thumbnail": "/drops/thumbs/d363b4da1745.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a6e25dde2673",
       "pillar": "anime",
       "title": "The Prince of Tennis II: U-17 World Cup Kesshō Member Ketteisen Anime Reveals Promo Video, More Cast, September 30 Premiere",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "27f06ee31ced",
+      "id": "d363b4da1745",
       "pillar": "anime",
-      "title": "Studio Ghibli's Best Quote Wasn't From Miyazaki, And 35 Years Later, It's Aging Like Fine Wine",
+      "title": "Sydney Sweeney's Upcoming Anime Movie Is Releasing At The Right Time",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-studio-ghibli-quote-only-yesterday-not-miyazaki/",
-      "thumbnail": "/drops/thumbs/27f06ee31ced.jpg",
+      "source_url": "https://screenrant.com/sydney-sweeney-gundam-movie-perfect-timing/",
+      "thumbnail": "/drops/thumbs/d363b4da1745.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "517e3820b10f",
     "d88e9986638e",
     "4c0c135c5fd0",
-    "c8f5b10cc523",
     "ca96a045cd5b",
-    "a4bb57f3aee3",
+    "c8f5b10cc523",
     "3cca7e3a99a3"
   ]
 }
