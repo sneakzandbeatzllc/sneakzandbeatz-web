@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T19:05:43+00:00",
+  "generated_utc": "2026-08-14T19:34:33+00:00",
   "items": [
     {
       "id": "d88e9986638e",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "291b0c7b99dd",
+      "pillar": "anime",
+      "title": "Bleach’s final season is Studio Pierrot’s answer to Demon Slayer and Jujutsu Kaisen",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/bleach-thousand-year-blood-war-bests-demon-slayer-jujutsu-kaisen/",
+      "thumbnail": "/drops/thumbs/291b0c7b99dd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a7228ca3c8b4",
       "pillar": "anime",
       "title": "Its The End Of An 20 Year Era For Hunter x Hunter, And That's A Good Thing",
@@ -141,18 +153,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/naver-webtoon-cooperates-with-korea-mcst-interpol-to-take-down-3-english-webtoon-manga-piracy-sites/.240540",
       "thumbnail": "/drops/thumbs/6e66b2695804.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e8115db14c75",
-      "pillar": "anime",
-      "title": "Netflix's live-action Yu Yu Hakusho is reportedly getting a second season",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/yu-yu-hakusho-netflix-season-2/",
-      "thumbnail": "/drops/thumbs/e8115db14c75.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
