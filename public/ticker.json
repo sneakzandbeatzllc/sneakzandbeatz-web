@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T16:35:00+00:00",
+  "generated_utc": "2026-08-14T17:02:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,6 +39,13 @@
       "article_slug": null
     },
     {
+      "title": "The Air Jordan 4 “Tour Yellow” is Getting A Retro After 20 Years",
+      "url": "https://www.nicekicks.com/air-jordan-4-tour-yellow-io2463-102-drop/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
       "url": "https://justfreshkicks.com/air-jordan-3-laser-ja1369-001/",
       "pillar": "sneakers",
@@ -48,13 +55,6 @@
     {
       "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
       "url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 4 “Linen” Will Get a Retro Release for Summer 2027",
-      "url": "https://justfreshkicks.com/air-jordan-4-linen-hv0823-142/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "Insomniac’s Explanation For Why Wolverine’s Suit Heals Itself Is Simple And Honest",
-      "url": "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228",
+      "title": "Four Minutes Of Spider-Man: Beyond The Spider-Verse Leak Online, And They Look Amazing",
+      "url": "https://kotaku.com/spider-man-beyond-the-spider-verse-leak-sony-cinemacon-2000724441",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -139,6 +139,13 @@
     {
       "title": "Member Exclusive Playing Baldur's Gate 3 with no weapons at all forced me to progress my story in a very specific way",
       "url": "https://www.gamesradar.com/games/baldur-s-gate/playing-baldurs-gate-3-with-no-weapons-at-all-forced-me-to-progress-my-story-in-a-very-specific-way/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Insomniac’s Explanation For Why Wolverine’s Suit Heals Itself Is Simple And Honest",
+      "url": "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "News Halo: Campaign Evolved PS5 Update Lands Next Week with Tech Fixes",
       "url": "https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "“Two Surprises, One Beta” – Activision Drops Cryptic Teaser For Call of Duty Modern Warfare 4 Announcement",
-      "url": "https://gameranx.com/updates/id/563709/article/two-surprises-one-beta-activision-drops-cryptic-teaser-for-call-of-duty-modern-warfare-4-announcement/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

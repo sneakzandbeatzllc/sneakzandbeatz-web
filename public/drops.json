@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-14T16:35:00+00:00",
+  "generated_utc": "2026-08-14T17:02:54+00:00",
   "items": [
     {
       "id": "d88e9986638e",
@@ -63,6 +63,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "50e6a8a519df",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 4 “Tour Yellow” is Getting A Retro After 20 Years",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-tour-yellow-io2463-102-drop/",
+      "thumbnail": "/drops/thumbs/50e6a8a519df.jpg",
+      "published": "2026-08-14T11:53:22",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "623ec279ec36",
       "pillar": "sneakers",
       "title": "Air Jordan 3 “Laser” Revives Michael Jordan’s 1-of-1 Birthday PE",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
       "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
       "published": "2026-08-13T12:22:18",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "089f608c1ac8",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 4 “Linen” Will Get a Retro Release for Summer 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-linen-hv0823-142/",
-      "thumbnail": "/drops/thumbs/089f608c1ac8.webp",
-      "published": "2026-08-11T13:16:54",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "041092e3f51f",
+      "id": "33634a468915",
       "pillar": "gaming",
-      "title": "Insomniac’s Explanation For Why Wolverine’s Suit Heals Itself Is Simple And Honest",
+      "title": "Four Minutes Of Spider-Man: Beyond The Spider-Verse Leak Online, And They Look Amazing",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228",
-      "thumbnail": "/drops/thumbs/041092e3f51f.jpg",
+      "source_url": "https://kotaku.com/spider-man-beyond-the-spider-verse-leak-sony-cinemacon-2000724441",
+      "thumbnail": "/drops/thumbs/33634a468915.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -237,6 +237,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/baldur-s-gate/playing-baldurs-gate-3-with-no-weapons-at-all-forced-me-to-progress-my-story-in-a-very-specific-way/",
       "thumbnail": "/drops/thumbs/9f21f8a5884d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "041092e3f51f",
+      "pillar": "gaming",
+      "title": "Insomniac’s Explanation For Why Wolverine’s Suit Heals Itself Is Simple And Honest",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/insomniacs-explanation-for-why-wolverines-suit-heals-itself-is-simple-and-honest-2000724228",
+      "thumbnail": "/drops/thumbs/041092e3f51f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes",
       "thumbnail": "/drops/thumbs/08827d8d71b5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b115a3862278",
-      "pillar": "gaming",
-      "title": "“Two Surprises, One Beta” – Activision Drops Cryptic Teaser For Call of Duty Modern Warfare 4 Announcement",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563709/article/two-surprises-one-beta-activision-drops-cryptic-teaser-for-call-of-duty-modern-warfare-4-announcement/",
-      "thumbnail": "/drops/thumbs/b115a3862278.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
