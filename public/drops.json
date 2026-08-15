@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-15T03:39:15+00:00",
+  "generated_utc": "2026-08-15T05:41:14+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "39a84f9ad126",
+      "id": "08827d8d71b5",
       "pillar": "gaming",
-      "title": "News Call of Duty: Modern Warfare 4's PS5 Beta Includes Campaign Mission for the First Time",
+      "title": "News Halo: Campaign Evolved PS5 Update Lands Next Week with Tech Fixes",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/call-of-duty-modern-warfare-4s-ps5-beta-includes-campaign-mission-for-the-first-time",
-      "thumbnail": "/drops/thumbs/39a84f9ad126.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes",
+      "thumbnail": "/drops/thumbs/08827d8d71b5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "08827d8d71b5",
+      "id": "39a84f9ad126",
       "pillar": "gaming",
-      "title": "News Halo: Campaign Evolved PS5 Update Lands Next Week with Tech Fixes",
+      "title": "News Call of Duty: Modern Warfare 4's PS5 Beta Includes Campaign Mission for the First Time",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes",
-      "thumbnail": "/drops/thumbs/08827d8d71b5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/call-of-duty-modern-warfare-4s-ps5-beta-includes-campaign-mission-for-the-first-time",
+      "thumbnail": "/drops/thumbs/39a84f9ad126.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
