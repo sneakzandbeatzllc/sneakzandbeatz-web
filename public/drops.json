@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-15T09:42:06+00:00",
+  "generated_utc": "2026-08-15T10:42:46+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "08827d8d71b5",
-      "pillar": "gaming",
-      "title": "News Halo: Campaign Evolved PS5 Update Lands Next Week with Tech Fixes",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/halo-campaign-evolved-ps5-update-lands-next-week-with-tech-fixes",
-      "thumbnail": "/drops/thumbs/08827d8d71b5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c4b3d22d28dc",
       "pillar": "gaming",
       "title": "Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′ s Campaign Isn’t A Horrible Mess Like BLOPS7",
@@ -273,6 +261,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563709/article/two-surprises-one-beta-activision-drops-cryptic-teaser-for-call-of-duty-modern-warfare-4-announcement/",
       "thumbnail": "/drops/thumbs/b115a3862278.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c207e5b3438c",
+      "pillar": "gaming",
+      "title": "News Pixar's Coco Confirmed for Kingdom Hearts 4, Launching on PS5 in Late 2027",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/pixars-coco-confirmed-for-kingdom-hearts-4-launching-on-ps5-in-late-2027",
+      "thumbnail": "/drops/thumbs/c207e5b3438c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
