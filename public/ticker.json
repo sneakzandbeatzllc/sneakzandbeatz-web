@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-15T13:47:13+00:00",
+  "generated_utc": "2026-08-15T14:17:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,13 +8,6 @@
       "url": "https://www.sneakerfiles.com/air-jordan-4-bloodline/",
       "pillar": "sneakers",
       "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 3 WMNS “Sports Renaissance” Releases Today",
-      "url": "https://www.nicekicks.com/air-jordan-3-wmns-sports-renaissance-ck9246-400/",
-      "pillar": "sneakers",
-      "score": 3.0,
       "article_slug": null
     },
     {
@@ -50,6 +43,13 @@
       "url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Where To Buy the Air Jordan 3 WMNS “Sports Renaissance”",
+      "url": "https://www.nicekicks.com/air-jordan-3-wmns-sports-renaissance-ck9246-400/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
