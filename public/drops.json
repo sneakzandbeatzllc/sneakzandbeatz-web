@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-15T18:46:25+00:00",
+  "generated_utc": "2026-08-15T19:43:25+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -99,24 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "291b0c7b99dd",
-      "pillar": "anime",
-      "title": "Bleach’s final season is Studio Pierrot’s answer to Demon Slayer and Jujutsu Kaisen",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/bleach-thousand-year-blood-war-bests-demon-slayer-jujutsu-kaisen/",
-      "thumbnail": "/drops/thumbs/291b0c7b99dd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f40a89ba5c32",
       "pillar": "anime",
       "title": "6 Anime Heroes Much Stronger Than Jujutsu Kaisen’s Gojo",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/anime-heroes-stronger-jujutsu-kaisen-gojo/",
       "thumbnail": "/drops/thumbs/f40a89ba5c32.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9f6e2beb5332",
+      "pillar": "anime",
+      "title": "Kaiju No. 8 officially returns in 3 weeks after 1 year of waiting — but there's a catch",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/kaiju-no-8-new-season-narumis-week-at-work/",
+      "thumbnail": "/drops/thumbs/9f6e2beb5332.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "c4b3d22d28dc",
-      "pillar": "gaming",
-      "title": "Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′ s Campaign Isn’t A Horrible Mess Like BLOPS7",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/activision-really-wants-you-to-know-call-of-duty-modern-warfare-4s-campaign-isnt-a-horrible-mess-like-blops7-2000724549",
-      "thumbnail": "/drops/thumbs/c4b3d22d28dc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b115a3862278",
       "pillar": "gaming",
       "title": "“Two Surprises, One Beta” – Activision Drops Cryptic Teaser For Call of Duty Modern Warfare 4 Announcement",
@@ -279,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "c5aef7a775ec",
+      "pillar": "gaming",
+      "title": "Tetsuya Nomura Says ‘Let Your Imaginations Run Wild’ On Kingdom Hearts Animated Series, So I Will",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/tetsuya-nomura-says-let-your-imaginations-run-wild-on-kingdom-hearts-animated-series-so-i-will-2000724711",
+      "thumbnail": "/drops/thumbs/c5aef7a775ec.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c5323abfdca6",
       "pillar": "gaming",
       "title": "Poll Are You Hyped for These 10 New PS Plus Games?",
@@ -295,7 +295,7 @@
     "517e3820b10f",
     "d88e9986638e",
     "4c0c135c5fd0",
-    "291b0c7b99dd",
+    "f40a89ba5c32",
     "c8f5b10cc523",
     "3cca7e3a99a3"
   ]

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-15T18:46:25+00:00",
+  "generated_utc": "2026-08-15T19:43:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,15 +60,15 @@
       "article_slug": null
     },
     {
-      "title": "Bleach’s final season is Studio Pierrot’s answer to Demon Slayer and Jujutsu Kaisen",
-      "url": "https://www.polygon.com/bleach-thousand-year-blood-war-bests-demon-slayer-jujutsu-kaisen/",
+      "title": "6 Anime Heroes Much Stronger Than Jujutsu Kaisen’s Gojo",
+      "url": "https://screenrant.com/anime-heroes-stronger-jujutsu-kaisen-gojo/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "6 Anime Heroes Much Stronger Than Jujutsu Kaisen’s Gojo",
-      "url": "https://screenrant.com/anime-heroes-stronger-jujutsu-kaisen-gojo/",
+      "title": "Kaiju No. 8 officially returns in 3 weeks after 1 year of waiting — but there's a catch",
+      "url": "https://www.polygon.com/kaiju-no-8-new-season-narumis-week-at-work/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Activision Really Wants You To Know Call Of Duty: Modern Warfare 4′ s Campaign Isn’t A Horrible Mess Like BLOPS7",
-      "url": "https://kotaku.com/activision-really-wants-you-to-know-call-of-duty-modern-warfare-4s-campaign-isnt-a-horrible-mess-like-blops7-2000724549",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "“Two Surprises, One Beta” – Activision Drops Cryptic Teaser For Call of Duty Modern Warfare 4 Announcement",
       "url": "https://gameranx.com/updates/id/563709/article/two-surprises-one-beta-activision-drops-cryptic-teaser-for-call-of-duty-modern-warfare-4-announcement/",
       "pillar": "gaming",
@@ -160,6 +153,13 @@
     {
       "title": "News After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month",
       "url": "https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Tetsuya Nomura Says ‘Let Your Imaginations Run Wild’ On Kingdom Hearts Animated Series, So I Will",
+      "url": "https://kotaku.com/tetsuya-nomura-says-let-your-imaginations-run-wild-on-kingdom-hearts-animated-series-so-i-will-2000724711",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
