@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-15T12:44:09+00:00",
+  "generated_utc": "2026-08-15T13:16:27+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "a8cf27b052d6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 WMNS “Sports Renaissance” (CK9246-400) August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-sports-renaissance-ck9246-400/",
+      "thumbnail": "/drops/thumbs/a8cf27b052d6.jpg",
+      "published": "2026-08-14T12:41:42",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "d88e9986638e",
@@ -87,24 +99,12 @@
       "release_badge": ""
     },
     {
-      "id": "1024654bf198",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Khaki” Releases June 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-khaki-2027/",
-      "thumbnail": "/drops/thumbs/1024654bf198.jpg",
-      "published": "2026-08-14T15:31:34",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ca96a045cd5b",
+      "id": "291b0c7b99dd",
       "pillar": "anime",
-      "title": "Attack on Titan might be getting a new anime",
+      "title": "Bleach’s final season is Studio Pierrot’s answer to Demon Slayer and Jujutsu Kaisen",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/attack-on-titan-studio-teases-new-project/",
-      "thumbnail": "/drops/thumbs/ca96a045cd5b.jpg",
+      "source_url": "https://www.polygon.com/bleach-thousand-year-blood-war-bests-demon-slayer-jujutsu-kaisen/",
+      "thumbnail": "/drops/thumbs/291b0c7b99dd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -117,18 +117,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/anime-heroes-stronger-jujutsu-kaisen-gojo/",
       "thumbnail": "/drops/thumbs/f40a89ba5c32.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "291b0c7b99dd",
-      "pillar": "anime",
-      "title": "Bleach’s final season is Studio Pierrot’s answer to Demon Slayer and Jujutsu Kaisen",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/bleach-thousand-year-blood-war-bests-demon-slayer-jujutsu-kaisen/",
-      "thumbnail": "/drops/thumbs/291b0c7b99dd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/north-american-anime-manga-releases-august-9-15/.240460",
       "thumbnail": "/drops/thumbs/54e7ac1b31fc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "54c0784545b6",
+      "pillar": "anime",
+      "title": "Cowboy Bebop’s best quote is about the difference between living and surviving",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/cowboy-bebop-best-quote-finale-explained/",
+      "thumbnail": "/drops/thumbs/54c0784545b6.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "517e3820b10f",
+    "a8cf27b052d6",
     "d88e9986638e",
+    "291b0c7b99dd",
     "4c0c135c5fd0",
-    "ca96a045cd5b",
-    "c8f5b10cc523",
     "3cca7e3a99a3"
   ]
 }
