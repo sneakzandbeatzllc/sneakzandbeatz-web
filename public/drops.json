@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-16T02:46:46+00:00",
+  "generated_utc": "2026-08-16T03:47:31+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -123,6 +123,18 @@
       "release_badge": ""
     },
     {
+      "id": "adfbb6783011",
+      "pillar": "anime",
+      "title": "Boruto Manga Takes 1-Month Break",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-15/boruto-manga-takes-1-month-break/.240585",
+      "thumbnail": "/drops/thumbs/adfbb6783011.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9f6e2beb5332",
       "pillar": "anime",
       "title": "Kaiju No. 8 officially returns in 3 weeks after 1 year of waiting — but there's a catch",
@@ -177,18 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-15/plott-announces-rakuraku-hanten-short-anime-for-september/.240605",
       "thumbnail": "/drops/thumbs/7f123aff3bc5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9238a4f48d8f",
-      "pillar": "anime",
-      "title": "Kingdom Hearts 'Anime' Announced for Disney+, Kingdom Hearts IV Game Launches in Late 2027 Including Coco World",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-14/kingdom-hearts-anime-announced-for-disney-kingdom-hearts-iv-game-launches-in-late-2027-including-/.240595",
-      "thumbnail": "/drops/thumbs/9238a4f48d8f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "4f6855c0fa85",
+      "id": "afc544694ae8",
       "pillar": "gaming",
-      "title": "News After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month",
+      "title": "News You'd Have to Be Heartless to Hate on This Extended Kingdom Hearts 4 Trailer",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month",
-      "thumbnail": "/drops/thumbs/4f6855c0fa85.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/youd-have-to-be-heartless-to-hate-on-this-extended-kingdom-hearts-4-trailer",
+      "thumbnail": "/drops/thumbs/afc544694ae8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "c5323abfdca6",
+      "id": "4f6855c0fa85",
       "pillar": "gaming",
-      "title": "Poll Are You Hyped for These 10 New PS Plus Games?",
+      "title": "News After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games",
-      "thumbnail": "/drops/thumbs/c5323abfdca6.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month",
+      "thumbnail": "/drops/thumbs/4f6855c0fa85.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

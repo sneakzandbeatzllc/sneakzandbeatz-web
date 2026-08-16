@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-16T02:46:46+00:00",
+  "generated_utc": "2026-08-16T03:47:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Boruto Manga Takes 1-Month Break",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-15/boruto-manga-takes-1-month-break/.240585",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kaiju No. 8 officially returns in 3 weeks after 1 year of waiting — but there's a catch",
       "url": "https://www.polygon.com/kaiju-no-8-new-season-narumis-week-at-work/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Plott Announces Rakuraku Hanten Short Anime for September",
       "url": "https://www.animenewsnetwork.com/news/2026-08-15/plott-announces-rakuraku-hanten-short-anime-for-september/.240605",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Kingdom Hearts 'Anime' Announced for Disney+, Kingdom Hearts IV Game Launches in Late 2027 Including Coco World",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-14/kingdom-hearts-anime-announced-for-disney-kingdom-hearts-iv-game-launches-in-late-2027-including-/.240595",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "News After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month",
-      "url": "https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month",
+      "title": "News You'd Have to Be Heartless to Hate on This Extended Kingdom Hearts 4 Trailer",
+      "url": "https://www.pushsquare.com/news/2026/08/youd-have-to-be-heartless-to-hate-on-this-extended-kingdom-hearts-4-trailer",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Poll Are You Hyped for These 10 New PS Plus Games?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-hyped-for-these-10-new-ps-plus-games",
+      "title": "News After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month",
+      "url": "https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
