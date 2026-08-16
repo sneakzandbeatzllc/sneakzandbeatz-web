@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-16T18:53:43+00:00",
+  "generated_utc": "2026-08-16T19:54:28+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -88,6 +88,13 @@
       "article_slug": null
     },
     {
+      "title": "Spy x Family Just Revealed Anya's Amazing New Powers & Nobody Is Talking About It",
+      "url": "https://screenrant.com/spy-x-family-anya-new-powers-clairsentience/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece: The Ultimate Guide to All of Roronoa Zoro's Swords",
       "url": "https://screenrant.com/one-piece-zoro-swords-anime-guide/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "My Hero Academia's Ending Confirmed The Decade's Best Shonen Villain (Exclusive)",
       "url": "https://screenrant.com/my-hero-academia-shigaraki-best-shonen-villain/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Witch Hat Atelier Wins Astra Award for Best Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-16/witch-hat-atelier-wins-astra-award-for-best-anime/.240625",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
