@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-16T13:26:08+00:00",
+  "generated_utc": "2026-08-16T13:51:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "5 most terrifying devils in all of Chainsaw Man",
+      "url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "14 Years Later, Minato's Best Naruto Attack Is Still One Of The Cleanest Moves In Anime History",
       "url": "https://screenrant.com/minato-best-naruto-attack-obito-rasengan/",
       "pillar": "anime",
@@ -97,13 +104,6 @@
     {
       "title": "30 Strongest One Piece Devil Fruits, Ranked (So Far)",
       "url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Punch Man’s original director will unleash his dazzling new sci-fi movie in 6 months",
-      "url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
