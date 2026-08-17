@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T12:09:57+00:00",
+  "generated_utc": "2026-08-17T13:10:40+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -63,18 +63,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "c8f5b10cc523",
-      "pillar": "sneakers",
-      "title": "Air Jordan 17 Low “Black Patent” (IV7640-001) August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-17-low-black-patent-iv7640-001/",
-      "thumbnail": "/drops/thumbs/c8f5b10cc523.jpg",
-      "published": "2026-08-07T15:11:12",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "0e7f7e8527c2",
       "pillar": "sneakers",
       "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
@@ -97,6 +85,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "a8cf27b052d6",
+      "pillar": "sneakers",
+      "title": "Where To Buy the Air Jordan 3 WMNS “Sports Renaissance”",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-sports-renaissance-ck9246-400/",
+      "thumbnail": "/drops/thumbs/a8cf27b052d6.jpg",
+      "published": "2026-08-15T09:00:54",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "4ac1bf602db7",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "8d072439bde9",
+      "id": "c6d491b49188",
       "pillar": "anime",
-      "title": "Star Detective Precure! Anime Unveils New Ending Theme, Character Visuals (Contains Spoilers)",
+      "title": "Japanese Animation TV Ranking, August 3-9",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-17/star-detective-precure-anime-unveils-new-ending-theme-character-visuals/.240626",
-      "thumbnail": "/drops/thumbs/8d072439bde9.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-17/japanese-animation-tv-ranking-august-3-9/.240636",
+      "thumbnail": "/drops/thumbs/c6d491b49188.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,18 +189,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
       "thumbnail": "/drops/thumbs/4a0b52241dd1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3cca7e3a99a3",
-      "pillar": "gaming",
-      "title": "GTA 6 Rumor Debunked: Netflix Screenshot Showing Three Episodes Was Faked",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563704/article/gta-6-rumor-debunked-netflix-screenshot-showing-three-episodes-was-faked/",
-      "thumbnail": "/drops/thumbs/3cca7e3a99a3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "980044a7779b",
+      "id": "d7706419fe2d",
       "pillar": "gaming",
-      "title": "Kingdom Hearts 4 Gets A Surprise 2027 Release Window And That’s Not All",
+      "title": "Saber CEO Apologizes To Rideshare Writer Involved In AI Controversy After Weeklong Crashout",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564",
-      "thumbnail": "/drops/thumbs/980044a7779b.jpg",
+      "source_url": "https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730",
+      "thumbnail": "/drops/thumbs/d7706419fe2d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c6fb6f8b0d74",
+      "pillar": "gaming",
+      "title": "News Sony Still Hasn't Decided When to Launch PS6, Says CEO",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/sony-still-hasnt-decided-when-to-launch-ps6-says-ceo",
+      "thumbnail": "/drops/thumbs/c6fb6f8b0d74.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "545d3b650dbf",
     "4ac1bf602db7",
     "d88e9986638e",
-    "3cca7e3a99a3"
+    "52aea24f9296"
   ]
 }
