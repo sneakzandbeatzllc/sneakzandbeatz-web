@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T00:05:03+00:00",
+  "generated_utc": "2026-08-17T01:05:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "Boruto Manga Takes 1-Month Break",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-15/boruto-manga-takes-1-month-break/.240585",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "5 most terrifying devils in all of Chainsaw Man",
       "url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Witch Hat Atelier Wins Astra Award for Best Anime",
       "url": "https://www.animenewsnetwork.com/news/2026-08-16/witch-hat-atelier-wins-astra-award-for-best-anime/.240625",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sendai Books Licenses Amazoness Kiss , Never Mind Come Together Manga in English",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-16/sendai-books-licenses-amazoness-kiss-never-mind-come-together-manga-in-english/.240609",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
