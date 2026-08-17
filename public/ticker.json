@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T09:09:46+00:00",
+  "generated_utc": "2026-08-17T09:40:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "Rumor: Shpeshal Nick Claims There’s A Halo Amiibo Ready For Nintendo and Xbox",
+      "url": "https://gameranx.com/updates/id/563711/article/rumor-shpeshal-nick-claims-theres-a-halo-amiibo-ready-for-nintendo-and-xbox/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "“Two Surprises, One Beta” – Activision Drops Cryptic Teaser For Call of Duty Modern Warfare 4 Announcement",
       "url": "https://gameranx.com/updates/id/563709/article/two-surprises-one-beta-activision-drops-cryptic-teaser-for-call-of-duty-modern-warfare-4-announcement/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Kingdom Hearts 4 Gets A Surprise 2027 Release Window And That’s Not All",
       "url": "https://kotaku.com/kingdom-hearts-the-series-disney-d23-announcement-plus-2000724564",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Until Dawn's Hayden Panettiere Tragically Passes Away Aged Just 36",
-      "url": "https://www.pushsquare.com/news/2026/08/until-dawns-hayden-panettiere-tragically-passes-away-aged-just-36",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
