@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T20:17:41+00:00",
+  "generated_utc": "2026-08-17T21:18:27+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "823070861973",
+      "pillar": "gaming",
+      "title": "Mortal Shell 2 : The Kotaku Review",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/mortal-shell-2-the-kotaku-review-2000725071",
+      "thumbnail": "/drops/thumbs/823070861973.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e1add85adc37",
       "pillar": "gaming",
       "title": "Mortal Shell 2 review: \"The best Soulslike I've played since Elden Ring\"",
@@ -260,7 +272,7 @@
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
-      "thumbnail": "/drops/thumbs/94e688f62423.jpg",
+      "thumbnail": "/drops/thumbs/94e688f62423.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563711/article/rumor-shpeshal-nick-claims-theres-a-halo-amiibo-ready-for-nintendo-and-xbox/",
       "thumbnail": "/drops/thumbs/759f3db54dbf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e01e37cfc38a",
-      "pillar": "gaming",
-      "title": "News No Sony Characters in Fortnite's Big Gaming Celebration Season",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/no-sony-characters-in-fortnites-big-gaming-celebration-season",
-      "thumbnail": "/drops/thumbs/e01e37cfc38a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
