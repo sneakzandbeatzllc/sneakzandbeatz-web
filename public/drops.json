@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T14:43:56+00:00",
+  "generated_utc": "2026-08-17T15:12:14+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -147,18 +147,6 @@
       "release_badge": ""
     },
     {
-      "id": "67d3d0a68318",
-      "pillar": "anime",
-      "title": "One Piece: The Ultimate Guide to All of Roronoa Zoro's Swords",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-zoro-swords-anime-guide/",
-      "thumbnail": "/drops/thumbs/67d3d0a68318.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "758be0586605",
       "pillar": "anime",
       "title": "Go Forward Anime's 2 Seasons Stream on SkySet TV Starting on August 18",
@@ -189,6 +177,30 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
       "thumbnail": "/drops/thumbs/4a0b52241dd1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8d072439bde9",
+      "pillar": "anime",
+      "title": "Star Detective Precure! Anime Unveils New Ending Theme, Character Visuals (Contains Spoilers)",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-17/star-detective-precure-anime-unveils-new-ending-theme-character-visuals/.240626",
+      "thumbnail": "/drops/thumbs/8d072439bde9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a93d5d788ffc",
+      "pillar": "gaming",
+      "title": "Review The Sinking City 2 (PS5) - An Admirable Resident Evil-Lite Experience",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/reviews/ps5/the-sinking-city-2",
+      "thumbnail": "/drops/thumbs/a93d5d788ffc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "e01e37cfc38a",
-      "pillar": "gaming",
-      "title": "News No Sony Characters in Fortnite's Big Gaming Celebration Season",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/no-sony-characters-in-fortnites-big-gaming-celebration-season",
-      "thumbnail": "/drops/thumbs/e01e37cfc38a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "759f3db54dbf",
       "pillar": "gaming",
       "title": "Rumor: Shpeshal Nick Claims There’s A Halo Amiibo Ready For Nintendo and Xbox",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563711/article/rumor-shpeshal-nick-claims-theres-a-halo-amiibo-ready-for-nintendo-and-xbox/",
       "thumbnail": "/drops/thumbs/759f3db54dbf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e01e37cfc38a",
+      "pillar": "gaming",
+      "title": "News No Sony Characters in Fortnite's Big Gaming Celebration Season",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/no-sony-characters-in-fortnites-big-gaming-celebration-season",
+      "thumbnail": "/drops/thumbs/e01e37cfc38a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "d7706419fe2d",
-      "pillar": "gaming",
-      "title": "Saber CEO Apologizes To Rideshare Writer Involved In AI Controversy After Weeklong Crashout",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730",
-      "thumbnail": "/drops/thumbs/d7706419fe2d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "545d3b650dbf",
     "4ac1bf602db7",
     "b9b1bff7e5dd",
-    "e1add85adc37"
+    "a93d5d788ffc"
   ]
 }
