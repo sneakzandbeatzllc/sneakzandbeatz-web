@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T01:05:45+00:00",
+  "generated_utc": "2026-08-17T02:06:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "My Hero Academia's Ending Confirmed The Decade's Best Shonen Villain (Exclusive)",
-      "url": "https://screenrant.com/my-hero-academia-shigaraki-best-shonen-villain/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Witch Hat Atelier Wins Astra Award for Best Anime",
       "url": "https://www.animenewsnetwork.com/news/2026-08-16/witch-hat-atelier-wins-astra-award-for-best-anime/.240625",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Sendai Books Licenses Amazoness Kiss , Never Mind Come Together Manga in English",
       "url": "https://www.animenewsnetwork.com/news/2026-08-16/sendai-books-licenses-amazoness-kiss-never-mind-come-together-manga-in-english/.240609",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Punch Man’s original director will unleash his dazzling new sci-fi movie in 6 months",
+      "url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
