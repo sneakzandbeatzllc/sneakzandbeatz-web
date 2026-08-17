@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T22:24:31+00:00",
+  "generated_utc": "2026-08-17T22:55:20+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -87,16 +87,28 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "1e12b67073f9",
+      "id": "ecbd65d6fa03",
       "pillar": "sneakers",
-      "title": "Comme des Garcons Homme Plus x Air Jordan 11 Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
-      "thumbnail": "/drops/thumbs/1e12b67073f9.jpg",
-      "published": "2026-08-13T14:34:26",
+      "title": "The 2011 Air Jordan 3 “Khaki” Sample Will Release to the Public Next Summer",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-khaki-ct8532-203/",
+      "thumbnail": "/drops/thumbs/ecbd65d6fa03.webp",
+      "published": "2026-08-17T15:06:05",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dc7a87dd943e",
+      "pillar": "anime",
+      "title": "Dragon Ball Unveils Official New Vegeta Artwork, And It's Instantly Iconic",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-new-vegeta-look-family/",
+      "thumbnail": "/drops/thumbs/dc7a87dd943e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     },
     {
       "id": "4ac1bf602db7",
@@ -141,18 +153,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/5-naruto-quotes-that-hit-harder-as-adults/",
       "thumbnail": "/drops/thumbs/b6e682d16030.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a23edd532802",
-      "pillar": "anime",
-      "title": "Spy x Family Just Revealed Anya's Amazing New Powers & Nobody Is Talking About It",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/spy-x-family-anya-new-powers-clairsentience/",
-      "thumbnail": "/drops/thumbs/a23edd532802.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "517e3820b10f",
     "bcf8ea6d2346",
     "545d3b650dbf",
-    "4ac1bf602db7",
+    "dc7a87dd943e",
     "82d7f8914d7e",
     "a93d5d788ffc"
   ]

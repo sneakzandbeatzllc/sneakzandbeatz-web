@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T22:24:31+00:00",
+  "generated_utc": "2026-08-17T22:55:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -53,10 +53,17 @@
       "article_slug": null
     },
     {
-      "title": "Comme des Garcons Homme Plus x Air Jordan 11 Releases September 2026",
-      "url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
+      "title": "The 2011 Air Jordan 3 “Khaki” Sample Will Release to the Public Next Summer",
+      "url": "https://justfreshkicks.com/air-jordan-3-khaki-ct8532-203/",
       "pillar": "sneakers",
-      "score": 2.4,
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dragon Ball Unveils Official New Vegeta Artwork, And It's Instantly Iconic",
+      "url": "https://screenrant.com/dragon-ball-super-new-vegeta-look-family/",
+      "pillar": "anime",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -83,13 +90,6 @@
     {
       "title": "5 Naruto Quotes That Hit Harder As Adults",
       "url": "https://screenrant.com/5-naruto-quotes-that-hit-harder-as-adults/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Spy x Family Just Revealed Anya's Amazing New Powers & Nobody Is Talking About It",
-      "url": "https://screenrant.com/spy-x-family-anya-new-powers-clairsentience/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
