@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T13:12:51+00:00",
+  "generated_utc": "2026-08-17T14:11:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,6 +20,13 @@
     {
       "title": "Air Jordan 8 “Chrome” Returns August 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-8-chrome-2026/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Laser” (JA1369-001) August 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-laser-ja1369-001/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -50,13 +57,6 @@
       "url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
       "pillar": "sneakers",
       "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Where To Buy the Air Jordan 3 WMNS “Sports Renaissance”",
-      "url": "https://www.nicekicks.com/air-jordan-3-wmns-sports-renaissance-ck9246-400/",
-      "pillar": "sneakers",
-      "score": 2.0,
       "article_slug": null
     },
     {
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Japanese Animation TV Ranking, August 3-9",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-17/japanese-animation-tv-ranking-august-3-9/.240636",
+      "title": "Go Forward Anime's 2 Seasons Stream on SkySet TV Starting on August 18",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-17/go-forward-anime-2-seasons-stream-on-skyset-tv-starting-on-august-18/.240623",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -112,6 +112,13 @@
       "title": "One Punch Man’s original director will unleash his dazzling new sci-fi movie in 6 months",
       "url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Mortal Shell 2 review: \"The best Soulslike I've played since Elden Ring\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -160,13 +167,6 @@
     {
       "title": "Saber CEO Apologizes To Rideshare Writer Involved In AI Controversy After Weeklong Crashout",
       "url": "https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Sony Still Hasn't Decided When to Launch PS6, Says CEO",
-      "url": "https://www.pushsquare.com/news/2026/08/sony-still-hasnt-decided-when-to-launch-ps6-says-ceo",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
