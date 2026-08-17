@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T08:39:03+00:00",
+  "generated_utc": "2026-08-17T09:07:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-4-bloodline/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 12 “Sumo” Releases August 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-12-sumo/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
       "pillar": "sneakers",
       "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Where To Buy the Air Jordan 3 WMNS “Sports Renaissance”",
-      "url": "https://www.nicekicks.com/air-jordan-3-wmns-sports-renaissance-ck9246-400/",
-      "pillar": "sneakers",
-      "score": 2.0,
       "article_slug": null
     },
     {
@@ -123,8 +123,8 @@
       "article_slug": null
     },
     {
-      "title": "Spider-Man: Beyond the Spider-Verse trailer leaks online in the latest breach for Marvel",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-beyond-the-verse-trailer-leaks-online-in-the-latest-breach-for-marvel/",
+      "title": "Interview Insomniac had to ditch Spider-Man's open-world for Marvel's Wolverine because Logan is \"not somebody who has a friendly neighborhood\"",
+      "url": "https://www.gamesradar.com/games/action/insomniac-had-to-ditch-spider-mans-open-world-for-marvels-wolverine-because-logan-is-not-somebody-who-has-a-friendly-neighborhood/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

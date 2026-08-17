@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T08:39:03+00:00",
+  "generated_utc": "2026-08-17T09:07:49+00:00",
   "items": [
     {
       "id": "517e3820b10f",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "bcf8ea6d2346",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Sumo” Releases August 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-12-sumo/",
+      "thumbnail": "/drops/thumbs/bcf8ea6d2346.jpg",
+      "published": "2026-08-17T02:01:13",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "545d3b650dbf",
@@ -85,18 +97,6 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "a8cf27b052d6",
-      "pillar": "sneakers",
-      "title": "Where To Buy the Air Jordan 3 WMNS “Sports Renaissance”",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-sports-renaissance-ck9246-400/",
-      "thumbnail": "/drops/thumbs/a8cf27b052d6.jpg",
-      "published": "2026-08-15T09:00:54",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
     },
     {
       "id": "4ac1bf602db7",
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "28d735c79b53",
+      "id": "52aea24f9296",
       "pillar": "gaming",
-      "title": "Spider-Man: Beyond the Spider-Verse trailer leaks online in the latest breach for Marvel",
+      "title": "Interview Insomniac had to ditch Spider-Man's open-world for Marvel's Wolverine because Logan is \"not somebody who has a friendly neighborhood\"",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-beyond-the-verse-trailer-leaks-online-in-the-latest-breach-for-marvel/",
-      "thumbnail": "/drops/thumbs/28d735c79b53.jpg",
+      "source_url": "https://www.gamesradar.com/games/action/insomniac-had-to-ditch-spider-mans-open-world-for-marvels-wolverine-because-logan-is-not-somebody-who-has-a-friendly-neighborhood/",
+      "thumbnail": "/drops/thumbs/52aea24f9296.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "517e3820b10f",
+    "bcf8ea6d2346",
     "545d3b650dbf",
-    "d88e9986638e",
     "4ac1bf602db7",
-    "4c0c135c5fd0",
+    "d88e9986638e",
     "3cca7e3a99a3"
   ]
 }
