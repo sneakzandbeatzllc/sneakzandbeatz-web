@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-17T14:12:05+00:00",
+  "generated_utc": "2026-08-17T14:43:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Casts Yūki Kaji",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-17/bleach-thousand-year-blood-war-the-calamity-anime-casts-yuki-kaji/.240628",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "5 most terrifying devils in all of Chainsaw Man",
       "url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
       "pillar": "anime",
@@ -104,6 +97,13 @@
     {
       "title": "Go Forward Anime's 2 Seasons Stream on SkySet TV Starting on August 18",
       "url": "https://www.animenewsnetwork.com/news/2026-08-17/go-forward-anime-2-seasons-stream-on-skyset-tv-starting-on-august-18/.240623",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Japanese Animation TV Ranking, August 3-9",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-17/japanese-animation-tv-ranking-august-3-9/.240636",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
