@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T15:05:18+00:00",
+  "generated_utc": "2026-08-18T15:27:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://sneakerbardetroit.com/air-jordan-4-bloodline/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "AWAKE NY x Air Jordan 6 “Playful Pink” August 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/awake-ny-air-jordan-6-playful-pink-iq5706-600/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -46,17 +53,10 @@
       "article_slug": null
     },
     {
-      "title": "First Looka t Undefeated’s “Moon Fossil” Air Jordan 5 Coming in 2027",
-      "url": "https://justfreshkicks.com/undefeated-air-jordan-5-moon-fossil-jf3394-001/",
+      "title": "Awake NY x Air Jordan 6 Collection Releases August 23rd",
+      "url": "https://sneakerbardetroit.com/awake-ny-air-jordan-6-release-date/",
       "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The 2011 Air Jordan 3 “Khaki” Sample Will Release to the Public Next Summer",
-      "url": "https://justfreshkicks.com/air-jordan-3-khaki-ct8532-203/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "score": 3.0,
       "article_slug": null
     },
     {
