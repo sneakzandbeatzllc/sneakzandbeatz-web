@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T11:00:35+00:00",
+  "generated_utc": "2026-08-18T11:24:12+00:00",
   "items": [
     {
       "id": "6b93291044f3",
@@ -75,18 +75,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "0e7f7e8527c2",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Tour Yellow” Returns September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-tour-yellow-2026/",
-      "thumbnail": "/drops/thumbs/0e7f7e8527c2.jpg",
-      "published": "2026-08-16T23:16:38",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
       "id": "01e837309b2a",
       "pillar": "sneakers",
       "title": "First Looka t Undefeated’s “Moon Fossil” Air Jordan 5 Coming in 2027",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/undefeated-air-jordan-5-moon-fossil-jf3394-001/",
       "thumbnail": "/drops/thumbs/01e837309b2a.webp",
       "published": "2026-08-17T19:03:02",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ecbd65d6fa03",
+      "pillar": "sneakers",
+      "title": "The 2011 Air Jordan 3 “Khaki” Sample Will Release to the Public Next Summer",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-khaki-ct8532-203/",
+      "thumbnail": "/drops/thumbs/ecbd65d6fa03.webp",
+      "published": "2026-08-17T15:06:05",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "a93d5d788ffc",
+      "id": "e2506e34159f",
       "pillar": "gaming",
-      "title": "Review The Sinking City 2 (PS5) - An Admirable Resident Evil-Lite Experience",
+      "title": "Review Mortal Shell 2 (PS5) - An Ingeniously Playful Take on the Dark Souls Formula",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/the-sinking-city-2",
-      "thumbnail": "/drops/thumbs/a93d5d788ffc.jpg",
+      "source_url": "https://www.pushsquare.com/reviews/ps5/mortal-shell-2",
+      "thumbnail": "/drops/thumbs/e2506e34159f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "545d3b650dbf",
     "dc7a87dd943e",
     "82d7f8914d7e",
-    "a93d5d788ffc"
+    "e2506e34159f"
   ]
 }
