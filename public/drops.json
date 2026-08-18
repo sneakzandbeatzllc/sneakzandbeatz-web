@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T14:26:18+00:00",
+  "generated_utc": "2026-08-18T15:05:18+00:00",
   "items": [
     {
       "id": "6b93291044f3",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "aecb6976f4ca",
+      "pillar": "sneakers",
+      "title": "AWAKE NY x Air Jordan 6 “Midnight Navy” August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-midnight-navy-iq5706-400/",
+      "thumbnail": "/drops/thumbs/aecb6976f4ca.jpg",
+      "published": "2026-08-18T09:56:48",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "bcf8ea6d2346",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-3-khaki-ct8532-203/",
       "thumbnail": "/drops/thumbs/ecbd65d6fa03.webp",
       "published": "2026-08-17T15:06:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ad2a990c0a04",
-      "pillar": "sneakers",
-      "title": "Undefeated x Air Jordan 5 Pack Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-2027/",
-      "thumbnail": "/drops/thumbs/ad2a990c0a04.jpg",
-      "published": "2026-08-17T14:35:32",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "e2506e34159f",
+      "id": "440e22a7611e",
       "pillar": "gaming",
-      "title": "Review Mortal Shell 2 (PS5) - An Ingeniously Playful Take on the Dark Souls Formula",
+      "title": "News The Big Marketing Push for PS5 Exclusive Marvel's Wolverine Has Begun in Style",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/mortal-shell-2",
-      "thumbnail": "/drops/thumbs/e2506e34159f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/the-big-marketing-push-for-ps5-exclusive-marvels-wolverine-has-begun-in-style",
+      "thumbnail": "/drops/thumbs/440e22a7611e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "6b93291044f3",
+    "aecb6976f4ca",
     "bcf8ea6d2346",
-    "545d3b650dbf",
     "dc7a87dd943e",
-    "82d7f8914d7e",
-    "e2506e34159f"
+    "545d3b650dbf",
+    "440e22a7611e"
   ]
 }
