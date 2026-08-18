@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T12:24:53+00:00",
+  "generated_utc": "2026-08-18T13:02:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,13 +39,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 9 Low “What The Kilroy” August 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-9-low-what-the-kilroy-iv6476-010/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "First Looka t Undefeated’s “Moon Fossil” Air Jordan 5 Coming in 2027",
       "url": "https://justfreshkicks.com/undefeated-air-jordan-5-moon-fossil-jf3394-001/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "The 2011 Air Jordan 3 “Khaki” Sample Will Release to the Public Next Summer",
       "url": "https://justfreshkicks.com/air-jordan-3-khaki-ct8532-203/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Undefeated x Air Jordan 5 Pack Releases February 2027",
+      "url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "The Duskbloods’ Character Descriptions Allegedly Leaked",
-      "url": "https://gameranx.com/updates/id/563734/article/the-duskbloods-character-descriptions-allegedly-leaked/",
+      "title": "Phantom Blade Zero Finally Reveals Its Unique Game World – The Kungfupunk of Wulin",
+      "url": "https://gameranx.com/updates/id/563736/article/phantom-blade-zero-finally-reveals-its-unique-game-world-the-kungfupunk-of-wulin/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
