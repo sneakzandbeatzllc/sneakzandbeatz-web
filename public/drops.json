@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T17:38:57+00:00",
+  "generated_utc": "2026-08-18T18:24:01+00:00",
   "items": [
     {
       "id": "6b93291044f3",
@@ -161,7 +161,7 @@
     {
       "id": "aec2b418bafc",
       "pillar": "anime",
-      "title": "Crunchyroll Begins Huge Anime And Manga Purge In End Of 12-Year Era",
+      "title": "Crunchyroll Begins Huge Anime And Manga Purge In End Of 16-Year Era",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/crunchyroll-store-anime-manga-purge/",
       "thumbnail": "/drops/thumbs/aec2b418bafc.jpg",
@@ -195,12 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "440e22a7611e",
+      "id": "c30cbbb7d6c3",
       "pillar": "gaming",
-      "title": "News The Big Marketing Push for PS5 Exclusive Marvel's Wolverine Has Begun in Style",
+      "title": "News GTA 6 Gameplay Leak Appears Online Ahead of Official Reveal",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/the-big-marketing-push-for-ps5-exclusive-marvels-wolverine-has-begun-in-style",
-      "thumbnail": "/drops/thumbs/440e22a7611e.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leak-appears-online-ahead-of-official-reveal",
+      "thumbnail": "/drops/thumbs/c30cbbb7d6c3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6c7465d79193",
+      "pillar": "gaming",
+      "title": "Fired Rockstar Devs Say Players Should Still Buy GTA 6 : ‘Don’t Boycott The Game, Support Our Legal Battle Instead’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/fired-rockstar-devs-say-players-should-still-buy-gta-6-dont-boycott-the-game-support-our-legal-battle-instead-2000725320",
+      "thumbnail": "/drops/thumbs/6c7465d79193.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +237,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563732/article/elden-ring-tarnished-edition-leaves-denfaminicogamer-utterly-speechless-for-its-flawless-performance-on-switch-2/",
       "thumbnail": "/drops/thumbs/100a3dae314f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "440e22a7611e",
+      "pillar": "gaming",
+      "title": "News The Big Marketing Push for PS5 Exclusive Marvel's Wolverine Has Begun in Style",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/the-big-marketing-push-for-ps5-exclusive-marvels-wolverine-has-begun-in-style",
+      "thumbnail": "/drops/thumbs/440e22a7611e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -265,30 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "962908f200c5",
-      "pillar": "gaming",
-      "title": "News Tekken 8's Former Director Rejoins Harada at His New SNK Fighting Game Studio",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/tekken-8s-former-director-rejoins-harada-at-his-new-snk-fighting-game-studio",
-      "thumbnail": "/drops/thumbs/962908f200c5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "019b8e842fc9",
-      "pillar": "gaming",
-      "title": "‘No Disc No Buy’ Protesters Bombarded Sony’s Showcase For Phantom Blade Zero",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/phantom-blade-zero-sony-playstation-no-disc-no-buy-protest-2000725318",
-      "thumbnail": "/drops/thumbs/019b8e842fc9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "aecb6976f4ca",
     "dc7a87dd943e",
     "bcf8ea6d2346",
-    "440e22a7611e"
+    "c30cbbb7d6c3"
   ]
 }
