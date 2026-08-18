@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T13:33:24+00:00",
+  "generated_utc": "2026-08-18T14:04:12+00:00",
   "items": [
     {
       "id": "6b93291044f3",
@@ -111,18 +111,6 @@
       "release_badge": ""
     },
     {
-      "id": "4ac1bf602db7",
-      "pillar": "anime",
-      "title": "37 Years Later, Only One Vegeta Dragon Ball Line Remains The 1990s' Most Iconic Anime Quote",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/vegeta-most-iconic-dragon-ball-line-over-9000-best-anime-quote-1990s/",
-      "thumbnail": "/drops/thumbs/4ac1bf602db7.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d80dd49085a6",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Ranks #2 on Bookscan's July Adult Graphic Novel List in U.S.",
@@ -171,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "4a0b52241dd1",
+      "id": "3f2d8826c63f",
       "pillar": "anime",
-      "title": "One Punch Man’s original director will unleash his dazzling new sci-fi movie in 6 months",
+      "title": "Jaadugar is shaping up to be the best historical anime of the decade",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/ghost-end-of-night-anime-shingo-natsume-sonny-boy-director/",
-      "thumbnail": "/drops/thumbs/4a0b52241dd1.jpg",
+      "source_url": "https://www.polygon.com/jaadugar-witch-mongolia-review-sience-saru-crunchyroll/",
+      "thumbnail": "/drops/thumbs/3f2d8826c63f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-17/86-anime-returns-to-crunchyroll-after-being-delisted/.240639",
       "thumbnail": "/drops/thumbs/c645c3f952e0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "30803df04dec",
+      "pillar": "anime",
+      "title": "20 Greatest Completed Manhwa That Are Truly Unskippable",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-completed-manhwa/",
+      "thumbnail": "/drops/thumbs/30803df04dec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "0290b85ca973",
+      "id": "962908f200c5",
       "pillar": "gaming",
-      "title": "Legendary Creator Behind Deus Ex And System Shock , Warren Spector, Announces His Retirement",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/warren-spector-retirement-deus-ex-system-shock-thief-looking-glass-2000725307",
-      "thumbnail": "/drops/thumbs/0290b85ca973.jpg",
+      "title": "News Tekken 8's Former Director Rejoins Harada at His New SNK Fighting Game Studio",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/tekken-8s-former-director-rejoins-harada-at-his-new-snk-fighting-game-studio",
+      "thumbnail": "/drops/thumbs/962908f200c5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ba53d4246cca",
+      "id": "0290b85ca973",
       "pillar": "gaming",
-      "title": "News PS5's Most Promising Anime Open World Will Re-Emerge Next Week",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/ps5s-most-promising-anime-open-world-will-re-emerge-next-week",
-      "thumbnail": "/drops/thumbs/ba53d4246cca.jpg",
+      "title": "Legendary Creator Behind Deus Ex And System Shock , Warren Spector, Announces His Retirement",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/warren-spector-retirement-deus-ex-system-shock-thief-looking-glass-2000725307",
+      "thumbnail": "/drops/thumbs/0290b85ca973.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
