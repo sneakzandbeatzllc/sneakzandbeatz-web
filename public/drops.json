@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T19:30:01+00:00",
+  "generated_utc": "2026-08-18T20:25:29+00:00",
   "items": [
     {
       "id": "6b93291044f3",
@@ -123,24 +123,24 @@
       "release_badge": ""
     },
     {
-      "id": "bf9ef04eb68a",
+      "id": "09fae6b38e40",
       "pillar": "anime",
-      "title": "Crunchyroll Store Removes Physical Manga, Light Novels",
+      "title": "Manga Mavericks Books Appoints Erica Friedman as Managing Editor",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-18/crunchyroll-store-removes-physical-manga-light-novels/.240698",
-      "thumbnail": "/drops/thumbs/bf9ef04eb68a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-18/manga-mavericks-books-appoints-erica-friedman-as-managing-editor/.240685",
+      "thumbnail": "/drops/thumbs/09fae6b38e40.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "5702481683d9",
+      "id": "bf9ef04eb68a",
       "pillar": "anime",
-      "title": "cocoon Wartime Anime Streams English-Dubbed Trailer",
+      "title": "Crunchyroll Store Removes Physical Manga, Light Novels",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-18/cocoon-wartime-anime-streams-english-dubbed-trailer/.240686",
-      "thumbnail": "/drops/thumbs/5702481683d9.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-18/crunchyroll-store-removes-physical-manga-light-novels/.240698",
+      "thumbnail": "/drops/thumbs/bf9ef04eb68a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "e3d393e4ade0",
+      "id": "5702481683d9",
       "pillar": "anime",
-      "title": "Liar Game Anime Adds 4 Cast Members",
+      "title": "cocoon Wartime Anime Streams English-Dubbed Trailer",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-17/liar-game-anime-adds-4-cast-members/.240668",
-      "thumbnail": "/drops/thumbs/e3d393e4ade0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-18/cocoon-wartime-anime-streams-english-dubbed-trailer/.240686",
+      "thumbnail": "/drops/thumbs/5702481683d9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -207,12 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "0a9b7547cf4f",
+      "id": "f68fa31249de",
       "pillar": "gaming",
-      "title": "The Witcher 3 devs had to cut a fear mechanic as \"women were just dropping their babies, left and right\"",
+      "title": "New GTA 6 leaks show gameplay and the full Leonida map as Rockstar issues DMCA takedowns",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-devs-tried-to-give-npcs-fear-reactions-but-it-got-cut-after-a-few-horrifying-weeks-when-women-were-just-dropping-their-babies-left-and-right/",
-      "thumbnail": "/drops/thumbs/0a9b7547cf4f.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leaks-show-gameplay-and-the-full-leonida-map-as-rockstar-issues-dmca-takedowns/",
+      "thumbnail": "/drops/thumbs/f68fa31249de.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fb01d228300f",
+      "pillar": "gaming",
+      "title": "Group Claiming Responsibility For Supposed GTA 6 Gameplay Leak Demands End to Digital Pre-Orders: ‘If Publishers Want Revenue Before Launch, They Can Press Discs’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/gta-6-leak-group-end-digital-pre-orders-2000725477",
+      "thumbnail": "/drops/thumbs/fb01d228300f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "0a9b7547cf4f",
+      "pillar": "gaming",
+      "title": "The Witcher 3 devs had to cut a fear mechanic as \"women were just dropping their babies, left and right\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-devs-tried-to-give-npcs-fear-reactions-but-it-got-cut-after-a-few-horrifying-weeks-when-women-were-just-dropping-their-babies-left-and-right/",
+      "thumbnail": "/drops/thumbs/0a9b7547cf4f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cca4d88d37d1",
       "pillar": "gaming",
       "title": "God of War actor Christopher Judge doesn't want to join the TV show because he's \"old as balls\"",
@@ -255,36 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "e1add85adc37",
-      "pillar": "gaming",
-      "title": "Mortal Shell 2 review: \"The best Soulslike I've played since Elden Ring\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/",
-      "thumbnail": "/drops/thumbs/e1add85adc37.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "94e688f62423",
       "pillar": "gaming",
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
       "thumbnail": "/drops/thumbs/94e688f62423.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4fbb71523b08",
-      "pillar": "gaming",
-      "title": "Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: ‘It’s Your Show, Wrap It Up’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084",
-      "thumbnail": "/drops/thumbs/4fbb71523b08.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
