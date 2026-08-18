@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T18:29:15+00:00",
+  "generated_utc": "2026-08-18T19:24:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,15 +67,15 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen Ranks #2 on Bookscan's July Adult Graphic Novel List in U.S.",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-17/jujutsu-kaisen-ranks-no.2-on-bookscan-july-adult-graphic-novel-list-in-u.s/.240650",
+      "title": "5 most terrifying devils in all of Chainsaw Man",
+      "url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "5 most terrifying devils in all of Chainsaw Man",
-      "url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
+      "title": "Crunchyroll Store Removes Physical Manga, Light Novels",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-18/crunchyroll-store-removes-physical-manga-light-novels/.240698",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Fired Rockstar Devs Say Players Should Still Buy GTA 6 : ‘Don’t Boycott The Game, Support Our Legal Battle Instead’",
-      "url": "https://kotaku.com/fired-rockstar-devs-say-players-should-still-buy-gta-6-dont-boycott-the-game-support-our-legal-battle-instead-2000725320",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Witcher 3 devs had to cut a fear mechanic as \"women were just dropping their babies, left and right\"",
       "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-devs-tried-to-give-npcs-fear-reactions-but-it-got-cut-after-a-few-horrifying-weeks-when-women-were-just-dropping-their-babies-left-and-right/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
       "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "‘No Disc No Buy’ Protesters Bombarded Sony’s Showcase For Phantom Blade Zero",
+      "url": "https://kotaku.com/phantom-blade-zero-sony-playstation-no-disc-no-buy-protest-2000725318",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-18T18:29:15+00:00",
+  "generated_utc": "2026-08-18T19:24:46+00:00",
   "items": [
     {
       "id": "6b93291044f3",
@@ -111,24 +111,24 @@
       "release_badge": ""
     },
     {
-      "id": "d80dd49085a6",
-      "pillar": "anime",
-      "title": "Jujutsu Kaisen Ranks #2 on Bookscan's July Adult Graphic Novel List in U.S.",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-17/jujutsu-kaisen-ranks-no.2-on-bookscan-july-adult-graphic-novel-list-in-u.s/.240650",
-      "thumbnail": "/drops/thumbs/d80dd49085a6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "afb6327de3dd",
       "pillar": "anime",
       "title": "5 most terrifying devils in all of Chainsaw Man",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
       "thumbnail": "/drops/thumbs/afb6327de3dd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "bf9ef04eb68a",
+      "pillar": "anime",
+      "title": "Crunchyroll Store Removes Physical Manga, Light Novels",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-18/crunchyroll-store-removes-physical-manga-light-novels/.240698",
+      "thumbnail": "/drops/thumbs/bf9ef04eb68a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "6c7465d79193",
-      "pillar": "gaming",
-      "title": "Fired Rockstar Devs Say Players Should Still Buy GTA 6 : ‘Don’t Boycott The Game, Support Our Legal Battle Instead’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/fired-rockstar-devs-say-players-should-still-buy-gta-6-dont-boycott-the-game-support-our-legal-battle-instead-2000725320",
-      "thumbnail": "/drops/thumbs/6c7465d79193.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0a9b7547cf4f",
       "pillar": "gaming",
       "title": "The Witcher 3 devs had to cut a fear mechanic as \"women were just dropping their babies, left and right\"",
@@ -285,6 +273,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
       "thumbnail": "/drops/thumbs/94e688f62423.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "019b8e842fc9",
+      "pillar": "gaming",
+      "title": "‘No Disc No Buy’ Protesters Bombarded Sony’s Showcase For Phantom Blade Zero",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/phantom-blade-zero-sony-playstation-no-disc-no-buy-protest-2000725318",
+      "thumbnail": "/drops/thumbs/019b8e842fc9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
