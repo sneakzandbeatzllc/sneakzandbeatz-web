@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T15:57:56+00:00",
+  "generated_utc": "2026-08-19T16:34:33+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -22,18 +22,6 @@
       "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-midnight-navy-iq5706-400/",
       "thumbnail": "/drops/thumbs/aecb6976f4ca.jpg",
       "published": "2026-08-18T09:56:48",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "82d7f8914d7e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Black Laser” August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-black-laser-iv6750-001/",
-      "thumbnail": "/drops/thumbs/82d7f8914d7e.jpg",
-      "published": "2026-08-14T15:41:01",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "01e837309b2a",
+      "pillar": "sneakers",
+      "title": "First Looka t Undefeated’s “Moon Fossil” Air Jordan 5 Coming in 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/undefeated-air-jordan-5-moon-fossil-jf3394-001/",
+      "thumbnail": "/drops/thumbs/01e837309b2a.webp",
+      "published": "2026-08-17T19:03:02",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "5e1a37546fc2",
       "pillar": "anime",
       "title": "A New Anime Announcement Guarantees That Solo Leveling's Reign Will End In 2028",
@@ -111,24 +111,24 @@
       "release_badge": ""
     },
     {
-      "id": "afb6327de3dd",
-      "pillar": "anime",
-      "title": "5 most terrifying devils in all of Chainsaw Man",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/chainsaw-man-most-powerful-devils-scariest/",
-      "thumbnail": "/drops/thumbs/afb6327de3dd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7885a93035de",
       "pillar": "anime",
       "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Rina Honnizumi",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-18/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-rina-honnizumi/.240706",
       "thumbnail": "/drops/thumbs/7885a93035de.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "06d622901b9c",
+      "pillar": "anime",
+      "title": "Haikyu!! anime gets new trailer ahead of TV special and final film",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/haikyu-new-trailer-the-place-where-monsters-go/",
+      "thumbnail": "/drops/thumbs/06d622901b9c.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -294,9 +294,9 @@
   "homepage": [
     "de0c876b97cf",
     "aecb6976f4ca",
-    "82d7f8914d7e",
-    "5e1a37546fc2",
     "ee04a7b590ae",
+    "5e1a37546fc2",
+    "d339cc582b52",
     "f3abc9fa0d12"
   ]
 }
