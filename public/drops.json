@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T19:01:49+00:00",
+  "generated_utc": "2026-08-19T19:32:51+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "718a0dc79f1a",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 8 “Chrome” Returns September 29th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "thumbnail": "/drops/thumbs/718a0dc79f1a.webp",
+      "published": "2026-08-19T15:06:16",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "c00f312fba4a",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-metallic-silver/",
       "thumbnail": "/drops/thumbs/6b8d03a16589.jpg",
       "published": "2026-08-18T15:31:34",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6b119fdc3f6f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 “Light Aqua” Releases June 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-light-aqua/",
-      "thumbnail": "/drops/thumbs/6b119fdc3f6f.jpg",
-      "published": "2026-08-18T15:30:36",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -296,7 +296,7 @@
     "aecb6976f4ca",
     "ee04a7b590ae",
     "5e1a37546fc2",
-    "c00f312fba4a",
+    "718a0dc79f1a",
     "f3abc9fa0d12"
   ]
 }
