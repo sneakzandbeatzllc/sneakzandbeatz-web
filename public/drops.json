@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T22:38:48+00:00",
+  "generated_utc": "2026-08-19T23:05:13+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "6d2fb1a130e5",
-      "pillar": "gaming",
-      "title": "News The Binding of Isaac: Repentance+ Online Is the Only Game Brave Enough to Launch the Same Day as GTA 6",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/the-binding-of-isaac-repentanceplus-online-is-the-only-game-brave-enough-to-launch-the-same-day-as-gta-6",
-      "thumbnail": "/drops/thumbs/6d2fb1a130e5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f68fa31249de",
       "pillar": "gaming",
       "title": "New GTA 6 leaks show gameplay and the full Leonida map as Rockstar issues DMCA takedowns",
@@ -285,6 +273,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/all-the-new-details-we-spotted-in-the-leaked-gta-6-videos-six-star-wanted-level-gas-meter-improved-combat-boosting-stats-with-basketball-2000725524",
       "thumbnail": "/drops/thumbs/bece89777d1e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cf005778dd6b",
+      "pillar": "gaming",
+      "title": "Did A New CyberLeek Twitter Account Just Leak The Ending To Netflix’s GTA 6: An Extended Look?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563744/article/did-a-new-cyberleek-twitter-account-just-leak-the-ending-to-netflixs-gta-6-an-extended-look/",
+      "thumbnail": "/drops/thumbs/cf005778dd6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
