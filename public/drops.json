@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T11:53:34+00:00",
+  "generated_utc": "2026-08-19T12:37:37+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "c30cbbb7d6c3",
+      "id": "f3abc9fa0d12",
       "pillar": "gaming",
-      "title": "News GTA 6 Gameplay Leak Appears Online Ahead of Official Reveal",
+      "title": "News GTA 6 Gameplay Leaks Continue as Group Makes Demands of Rockstar",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leak-appears-online-ahead-of-official-reveal",
-      "thumbnail": "/drops/thumbs/c30cbbb7d6c3.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaks-continue-as-group-makes-demands-of-rockstar",
+      "thumbnail": "/drops/thumbs/f3abc9fa0d12.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "cf005778dd6b",
+      "id": "7f82c4c6235b",
       "pillar": "gaming",
-      "title": "Did A New CyberLeek Twitter Account Just Leak The Ending To Netflix’s GTA 6: An Extended Look?",
+      "title": "Stop Killing Games Condemns GTA 6 Leaks And Repudiates Cyberleek",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563744/article/did-a-new-cyberleek-twitter-account-just-leak-the-ending-to-netflixs-gta-6-an-extended-look/",
-      "thumbnail": "/drops/thumbs/cf005778dd6b.jpg",
+      "source_url": "https://gameranx.com/updates/id/563749/article/stop-killing-games-condemns-gta-6-leaks-and-repudiates-cyberleek/",
+      "thumbnail": "/drops/thumbs/7f82c4c6235b.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -237,6 +237,30 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/gta-6-gameplay-and-a-full-map-have-seemingly-leaked-ahead-of-the-big-netflix-reveal-2000725468",
       "thumbnail": "/drops/thumbs/10f9e3c4e771.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ee547c70b5af",
+      "pillar": "gaming",
+      "title": "Cyberleek Tells Rockstar To Meet Their Demands Or They’ll Leak More GTA 6 Gameplay",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563747/article/cyberleek-tells-rockstar-to-meet-their-demands-or-theyll-leak-more-gta-6-gameplay/",
+      "thumbnail": "/drops/thumbs/ee547c70b5af.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cf005778dd6b",
+      "pillar": "gaming",
+      "title": "Did A New CyberLeek Twitter Account Just Leak The Ending To Netflix’s GTA 6: An Extended Look?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563744/article/did-a-new-cyberleek-twitter-account-just-leak-the-ending-to-netflixs-gta-6-an-extended-look/",
+      "thumbnail": "/drops/thumbs/cf005778dd6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -265,30 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "cca4d88d37d1",
-      "pillar": "gaming",
-      "title": "God of War actor Christopher Judge doesn't want to join the TV show because he's \"old as balls\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/action/kratos-actor-christopher-judge-clarifies-he-doesnt-want-to-join-the-god-of-war-tv-show-because-hes-old-as-balls-but-wants-game-devs-to-get-the-love-and-respect-they-deserve/",
-      "thumbnail": "/drops/thumbs/cca4d88d37d1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "100a3dae314f",
-      "pillar": "gaming",
-      "title": "Elden Ring Tarnished Edition Leaves Denfaminicogamer “Utterly Speechless” For Its Flawless Performance On Switch 2",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563732/article/elden-ring-tarnished-edition-leaves-denfaminicogamer-utterly-speechless-for-its-flawless-performance-on-switch-2/",
-      "thumbnail": "/drops/thumbs/100a3dae314f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "82d7f8914d7e",
     "5e1a37546fc2",
     "ce9ccf832be6",
-    "c30cbbb7d6c3"
+    "f3abc9fa0d12"
   ]
 }
