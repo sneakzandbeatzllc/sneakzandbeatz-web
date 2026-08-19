@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T00:44:05+00:00",
+  "generated_utc": "2026-08-19T01:15:02+00:00",
   "items": [
-    {
-      "id": "6b93291044f3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Bloodline” Releases Spring 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-4-bloodline/",
-      "thumbnail": "/drops/thumbs/6b93291044f3.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "de0c876b97cf",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-6-light-aqua/",
       "thumbnail": "/drops/thumbs/6b119fdc3f6f.jpg",
       "published": "2026-08-18T15:30:36",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e04d8f4f3619",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Soft Blue” Releases April 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-12-soft-blue/",
+      "thumbnail": "/drops/thumbs/e04d8f4f3619.jpg",
+      "published": "2026-08-18T15:29:22",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "6b93291044f3",
     "de0c876b97cf",
     "aecb6976f4ca",
-    "dc7a87dd943e",
     "bcf8ea6d2346",
+    "dc7a87dd943e",
+    "82d7f8914d7e",
     "c30cbbb7d6c3"
   ]
 }
