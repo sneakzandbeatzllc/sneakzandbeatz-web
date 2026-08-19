@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T17:41:41+00:00",
+  "generated_utc": "2026-08-19T18:30:44+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -39,6 +39,30 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "c00f312fba4a",
+      "pillar": "sneakers",
+      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
+      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
+      "published": "2026-08-19T14:26:34",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1d1ce0f71ba0",
+      "pillar": "sneakers",
+      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
+      "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
+      "published": "2026-08-19T14:16:35",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "d339cc582b52",
       "pillar": "sneakers",
       "title": "SoleFly x Air Jordan 5 Releases October 2026",
@@ -75,36 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "e04d8f4f3619",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Soft Blue” Releases April 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-soft-blue/",
-      "thumbnail": "/drops/thumbs/e04d8f4f3619.jpg",
-      "published": "2026-08-18T15:29:22",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "01e837309b2a",
-      "pillar": "sneakers",
-      "title": "First Looka t Undefeated’s “Moon Fossil” Air Jordan 5 Coming in 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/undefeated-air-jordan-5-moon-fossil-jf3394-001/",
-      "thumbnail": "/drops/thumbs/01e837309b2a.webp",
-      "published": "2026-08-17T19:03:02",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "5e1a37546fc2",
       "pillar": "anime",
       "title": "A New Anime Announcement Guarantees That Solo Leveling's Reign Will End In 2028",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/omniscient-readers-viewpoint-end-solo-leveling-reign-2028/",
       "thumbnail": "/drops/thumbs/5e1a37546fc2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0e3697c3fe0c",
+      "pillar": "anime",
+      "title": "Naruto Announces Epic New Project, And Fans Should Get Hyped For October 10th",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-new-project-october-10th/",
+      "thumbnail": "/drops/thumbs/0e3697c3fe0c.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "687ab86c825a",
-      "pillar": "anime",
-      "title": "12 Crunchyroll Alternatives Every Anime Fan Should Know About",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-alternatives-to-crunchyroll-streaming-services/",
-      "thumbnail": "/drops/thumbs/687ab86c825a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1ddaec8cc9b2",
       "pillar": "anime",
       "title": "The Irregular at Magic High School 'Invasion Arc' Manga Ends, 'Future Arc' Manga Begins",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "aec2b418bafc",
+      "id": "687ab86c825a",
       "pillar": "anime",
-      "title": "Crunchyroll Begins Huge Anime And Manga Purge In End Of 16-Year Era",
+      "title": "12 Crunchyroll Alternatives Every Anime Fan Should Know About",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/crunchyroll-store-anime-manga-purge/",
-      "thumbnail": "/drops/thumbs/aec2b418bafc.jpg",
+      "source_url": "https://screenrant.com/best-alternatives-to-crunchyroll-streaming-services/",
+      "thumbnail": "/drops/thumbs/687ab86c825a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -296,7 +296,7 @@
     "aecb6976f4ca",
     "ee04a7b590ae",
     "5e1a37546fc2",
-    "d339cc582b52",
+    "c00f312fba4a",
     "f3abc9fa0d12"
   ]
 }

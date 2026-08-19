@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T17:41:41+00:00",
+  "generated_utc": "2026-08-19T18:30:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -25,6 +25,20 @@
       "article_slug": null
     },
     {
+      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
+      "url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
+      "url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "SoleFly x Air Jordan 5 Releases October 2026",
       "url": "https://www.sneakerfiles.com/solefly-air-jordan-5-2026/",
       "pillar": "sneakers",
@@ -46,22 +60,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 12 “Soft Blue” Releases April 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-12-soft-blue/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "First Looka t Undefeated’s “Moon Fossil” Air Jordan 5 Coming in 2027",
-      "url": "https://justfreshkicks.com/undefeated-air-jordan-5-moon-fossil-jf3394-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "A New Anime Announcement Guarantees That Solo Leveling's Reign Will End In 2028",
       "url": "https://screenrant.com/omniscient-readers-viewpoint-end-solo-leveling-reign-2028/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto Announces Epic New Project, And Fans Should Get Hyped For October 10th",
+      "url": "https://screenrant.com/naruto-new-project-october-10th/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "12 Crunchyroll Alternatives Every Anime Fan Should Know About",
-      "url": "https://screenrant.com/best-alternatives-to-crunchyroll-streaming-services/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Irregular at Magic High School 'Invasion Arc' Manga Ends, 'Future Arc' Manga Begins",
       "url": "https://www.animenewsnetwork.com/news/2026-08-18/the-irregular-at-magic-high-school-invasion-arc-manga-ends-future-arc-manga-begins/.240666",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Begins Huge Anime And Manga Purge In End Of 16-Year Era",
-      "url": "https://screenrant.com/crunchyroll-store-anime-manga-purge/",
+      "title": "12 Crunchyroll Alternatives Every Anime Fan Should Know About",
+      "url": "https://screenrant.com/best-alternatives-to-crunchyroll-streaming-services/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
