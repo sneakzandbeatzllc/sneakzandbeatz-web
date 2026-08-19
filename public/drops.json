@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T01:28:22+00:00",
+  "generated_utc": "2026-08-19T02:29:10+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "dc7a87dd943e",
-      "pillar": "anime",
-      "title": "Dragon Ball Unveils Official New Vegeta Artwork, And It's Instantly Iconic",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-new-vegeta-look-family/",
-      "thumbnail": "/drops/thumbs/dc7a87dd943e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5e1a37546fc2",
       "pillar": "anime",
       "title": "A New Anime Announcement Guarantees That Solo Leveling's Reign Will End In 2028",
@@ -165,6 +153,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/jaadugar-witch-mongolia-review-sience-saru-crunchyroll/",
       "thumbnail": "/drops/thumbs/3f2d8826c63f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "687ab86c825a",
+      "pillar": "anime",
+      "title": "12 Crunchyroll Alternatives Every Anime Fan Should Know About",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-alternatives-to-crunchyroll-streaming-services/",
+      "thumbnail": "/drops/thumbs/687ab86c825a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "de0c876b97cf",
     "aecb6976f4ca",
     "bcf8ea6d2346",
-    "dc7a87dd943e",
+    "5e1a37546fc2",
     "82d7f8914d7e",
     "c30cbbb7d6c3"
   ]

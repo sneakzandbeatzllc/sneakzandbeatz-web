@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T01:28:22+00:00",
+  "generated_utc": "2026-08-19T02:29:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball Unveils Official New Vegeta Artwork, And It's Instantly Iconic",
-      "url": "https://screenrant.com/dragon-ball-super-new-vegeta-look-family/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "A New Anime Announcement Guarantees That Solo Leveling's Reign Will End In 2028",
       "url": "https://screenrant.com/omniscient-readers-viewpoint-end-solo-leveling-reign-2028/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Jaadugar is shaping up to be the best historical anime of the decade",
       "url": "https://www.polygon.com/jaadugar-witch-mongolia-review-sience-saru-crunchyroll/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "12 Crunchyroll Alternatives Every Anime Fan Should Know About",
+      "url": "https://screenrant.com/best-alternatives-to-crunchyroll-streaming-services/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
