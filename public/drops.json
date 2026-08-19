@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T07:18:11+00:00",
+  "generated_utc": "2026-08-19T09:19:48+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -22,18 +22,6 @@
       "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-midnight-navy-iq5706-400/",
       "thumbnail": "/drops/thumbs/aecb6976f4ca.jpg",
       "published": "2026-08-18T09:56:48",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "bcf8ea6d2346",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Sumo” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-sumo/",
-      "thumbnail": "/drops/thumbs/bcf8ea6d2346.jpg",
-      "published": "2026-08-17T02:01:13",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-12-soft-blue/",
       "thumbnail": "/drops/thumbs/e04d8f4f3619.jpg",
       "published": "2026-08-18T15:29:22",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "01e837309b2a",
+      "pillar": "sneakers",
+      "title": "First Looka t Undefeated’s “Moon Fossil” Air Jordan 5 Coming in 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/undefeated-air-jordan-5-moon-fossil-jf3394-001/",
+      "thumbnail": "/drops/thumbs/01e837309b2a.webp",
+      "published": "2026-08-17T19:03:02",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -294,9 +294,9 @@
   "homepage": [
     "de0c876b97cf",
     "aecb6976f4ca",
-    "bcf8ea6d2346",
-    "5e1a37546fc2",
     "82d7f8914d7e",
+    "5e1a37546fc2",
+    "ce9ccf832be6",
     "c30cbbb7d6c3"
   ]
 }
