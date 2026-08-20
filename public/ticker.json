@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T18:28:14+00:00",
+  "generated_utc": "2026-08-20T18:51:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
+      "url": "https://screenrant.com/naruto-live-action-movie-kakashi-cast-charles-melton-negotiations/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Naruto Announces Epic New Project, And Fans Should Get Hyped For October 10th",
       "url": "https://screenrant.com/naruto-new-project-october-10th/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Crunchyroll Just Got Its Biggest Anime Streaming Rival (And It's Free)",
       "url": "https://screenrant.com/crunchyroll-just-got-its-biggest-anime-streaming-rival-its-way-cheaper/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "All Main Fruits Basket Characters & Their Chinese Zodiac Signs, Explained",
-      "url": "https://screenrant.com/zodiac-signs-fruits-basket-characters/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
