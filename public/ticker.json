@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T21:01:36+00:00",
+  "generated_utc": "2026-08-20T21:54:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Obey Me! Franchise Removes Voice Actor Miura Ayme Due to Alleged Contact With Underage Fan",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-20/obey-me-franchise-removes-voice-actor-miura-ayme-due-to-alleged-contact-with-underage-fan/.240703",
+      "title": "Samurai Harem: Asu no Yoichi Manga Gets New 1-Shot",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-20/samurai-harem-asu-no-yoichi-manga-gets-new-1-shot/.240674",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "I Parry Everything Author Nabeshiki's Heion ni Ikitai Web Novel Gets Manga Adaptation",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-20/i-parry-everything-author-nabeshiki-heion-ni-ikitai-web-novel-gets-manga-adaptation/.240696",
+      "title": "Obey Me! Franchise Removes Voice Actor Miura Ayme Due to Alleged Contact With Underage Fan",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-20/obey-me-franchise-removes-voice-actor-miura-ayme-due-to-alleged-contact-with-underage-fan/.240703",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "News 'I'll Believe It When I See It': Things Look Bleak for New Mass Effect, Says Former EA Manager",
-      "url": "https://www.pushsquare.com/news/2026/08/ill-believe-it-when-i-see-it-things-look-bleak-for-new-mass-effect-says-former-ea-manager",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Hidetaka Miyazaki says The Duskbloods is full of ideas FromSoftware couldn't fit into Dark Souls",
       "url": "https://www.gamesradar.com/games/action-rpg/hidetaka-miyazaki-says-the-duskbloods-is-full-of-ideas-fromsoftware-couldnt-fit-into-dark-souls-or-demons-souls-that-was-always-at-the-forefront-of-my-mind/",
       "pillar": "gaming",
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Marvel's Wolverine director \"pretty used to\" criticism thanks to Insomniac's Spider-Man games",
-      "url": "https://www.gamesradar.com/games/action/marvels-wolverine-director-pretty-used-to-criticism-as-spider-man-taught-insomniac-you-can-make-a-great-game-and-some-fans-will-still-find-stuff-to-complain-about/",
+      "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
+      "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rumor: Most Of Naughty Dog Were Working On The Last Of Us Online Before Joining Intergalactic: The Heretic Prophet",
+      "url": "https://gameranx.com/updates/id/563762/article/rumor-most-of-naughty-dog-were-working-on-the-last-of-us-online-before-joining-intergalactic-the-heretic-prophet/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
