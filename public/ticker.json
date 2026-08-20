@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T22:02:36+00:00",
+  "generated_utc": "2026-08-20T22:31:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -18,6 +18,13 @@
       "article_slug": null
     },
     {
+      "title": "The Air Jordan 1 Dons a Nail Polish-Inspired Look Coming in September",
+      "url": "https://justfreshkicks.com/air-jordan-1-high-red-polish-fd2596-601/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
       "title": "Awake NY x Air Jordan 6 Collection Releases September 2026",
       "url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-2026/",
       "pillar": "sneakers",
@@ -25,8 +32,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 4 “Bred” Returns November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-bred-2026/",
+      "title": "First Look at This Year’s Air Jordan 4 “Bred” Retro",
+      "url": "https://justfreshkicks.com/air-jordan-4-bred-2026-ix8180-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Purple Haze” Releases April 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-purple-haze/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -41,20 +55,6 @@
     {
       "title": "MoMA x Air Jordan 1 High OG Releases Spring 2027",
       "url": "https://www.sneakerfiles.com/moma-air-jordan-1-high-og-2027-colorways/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 12 Gets a “Soft Blue” Treatment for Spring 2027",
-      "url": "https://justfreshkicks.com/air-jordan-12-soft-blue-ct8013-011/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 8 “Chrome” Returns September 29th",
-      "url": "https://justfreshkicks.com/air-jordan-8-chrome/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "Even More Unofficial GTA 6 Footage Suggests Leaker Has A Playable Build",
-      "url": "https://kotaku.com/gta-6-footage-playable-build-cyberleek-radio-stations-flying-2000726124",
+      "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
+      "url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
