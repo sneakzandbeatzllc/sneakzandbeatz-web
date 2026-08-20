@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T03:43:24+00:00",
+  "generated_utc": "2026-08-20T07:15:45+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "f3abc9fa0d12",
+      "pillar": "gaming",
+      "title": "News GTA 6 Gameplay Leaks Continue as Group Makes Demands of Rockstar",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaks-continue-as-group-makes-demands-of-rockstar",
+      "thumbnail": "/drops/thumbs/f3abc9fa0d12.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e92d79a9a9fb",
       "pillar": "gaming",
       "title": "New GTA 6 leaks are years old, alleged leakers claim, so don't expect the full game to be like that",
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "6b7cf5d74f77",
-      "pillar": "gaming",
-      "title": "GTA 6 Gets Leaked Again – Because Of Physical Games?",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563742/article/gta-6-gets-leaked-again-because-of-physical-games/",
-      "thumbnail": "/drops/thumbs/6b7cf5d74f77.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "ee04a7b590ae",
     "5e1a37546fc2",
     "21c8dd28c51f",
-    "e92d79a9a9fb"
+    "f3abc9fa0d12"
   ]
 }
