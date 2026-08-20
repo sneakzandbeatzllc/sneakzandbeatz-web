@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T19:52:15+00:00",
+  "generated_utc": "2026-08-20T20:00:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Spider-Man: Brand New Day director may have found a star for his Naruto live-action movie",
+      "url": "https://www.polygon.com/charles-melton-naruto-live-action-movie-kakashi-spider-man-director/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
       "url": "https://screenrant.com/naruto-live-action-movie-kakashi-cast-charles-melton-negotiations/",
       "pillar": "anime",
@@ -88,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "Haikyu!! anime gets new trailer ahead of TV special and final film",
-      "url": "https://www.polygon.com/haikyu-new-trailer-the-place-where-monsters-go/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Obey Me! Franchise Removes Voice Actor Miura Ayme Due to Alleged Contact With Underage Fan",
       "url": "https://www.animenewsnetwork.com/news/2026-08-20/obey-me-franchise-removes-voice-actor-miura-ayme-due-to-alleged-contact-with-underage-fan/.240703",
       "pillar": "anime",
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Jaadugar is shaping up to be the best historical anime of the decade",
-      "url": "https://www.polygon.com/jaadugar-witch-mongolia-review-sience-saru-crunchyroll/",
+      "title": "Haikyu!! anime gets new trailer ahead of TV special and final film",
+      "url": "https://www.polygon.com/haikyu-new-trailer-the-place-where-monsters-go/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

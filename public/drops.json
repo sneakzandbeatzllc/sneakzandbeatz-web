@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T19:52:15+00:00",
+  "generated_utc": "2026-08-20T20:00:37+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -123,6 +123,18 @@
       "release_badge": ""
     },
     {
+      "id": "dc68883019fb",
+      "pillar": "anime",
+      "title": "Spider-Man: Brand New Day director may have found a star for his Naruto live-action movie",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/charles-melton-naruto-live-action-movie-kakashi-spider-man-director/",
+      "thumbnail": "/drops/thumbs/dc68883019fb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0094638bcf70",
       "pillar": "anime",
       "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
@@ -147,18 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "06d622901b9c",
-      "pillar": "anime",
-      "title": "Haikyu!! anime gets new trailer ahead of TV special and final film",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/haikyu-new-trailer-the-place-where-monsters-go/",
-      "thumbnail": "/drops/thumbs/06d622901b9c.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d54f9c292ada",
       "pillar": "anime",
       "title": "Obey Me! Franchise Removes Voice Actor Miura Ayme Due to Alleged Contact With Underage Fan",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "3f2d8826c63f",
+      "id": "06d622901b9c",
       "pillar": "anime",
-      "title": "Jaadugar is shaping up to be the best historical anime of the decade",
+      "title": "Haikyu!! anime gets new trailer ahead of TV special and final film",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/jaadugar-witch-mongolia-review-sience-saru-crunchyroll/",
-      "thumbnail": "/drops/thumbs/3f2d8826c63f.jpg",
+      "source_url": "https://www.polygon.com/haikyu-new-trailer-the-place-where-monsters-go/",
+      "thumbnail": "/drops/thumbs/06d622901b9c.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
