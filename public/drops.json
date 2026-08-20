@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T09:51:12+00:00",
+  "generated_utc": "2026-08-20T10:22:14+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "713a2f390110",
+      "pillar": "sneakers",
+      "title": "MoMA x Air Jordan 1 High OG Releases Spring 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/moma-air-jordan-1-high-og-2027-colorways/",
+      "thumbnail": "/drops/thumbs/713a2f390110.jpg",
+      "published": "2026-08-20T03:20:05",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "21c8dd28c51f",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
       "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
       "published": "2026-08-19T14:16:35",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d339cc582b52",
-      "pillar": "sneakers",
-      "title": "SoleFly x Air Jordan 5 Releases October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/solefly-air-jordan-5-2026/",
-      "thumbnail": "/drops/thumbs/d339cc582b52.jpg",
-      "published": "2026-08-19T04:46:20",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -296,7 +296,7 @@
     "aecb6976f4ca",
     "ee04a7b590ae",
     "5e1a37546fc2",
-    "21c8dd28c51f",
+    "713a2f390110",
     "f3abc9fa0d12"
   ]
 }
