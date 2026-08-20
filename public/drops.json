@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T00:47:14+00:00",
+  "generated_utc": "2026-08-20T01:07:58+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "21c8dd28c51f",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 12 Gets a “Soft Blue” Treatment for Spring 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-12-soft-blue-ct8013-011/",
+      "thumbnail": "/drops/thumbs/21c8dd28c51f.jpg",
+      "published": "2026-08-19T20:53:16",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "718a0dc79f1a",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/solefly-air-jordan-5-2026/",
       "thumbnail": "/drops/thumbs/d339cc582b52.jpg",
       "published": "2026-08-19T04:46:20",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6b8d03a16589",
-      "pillar": "sneakers",
-      "title": "Air Jordan 17 Low “Metallic Silver” Releases April 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-metallic-silver/",
-      "thumbnail": "/drops/thumbs/6b8d03a16589.jpg",
-      "published": "2026-08-18T15:31:34",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -296,7 +296,7 @@
     "aecb6976f4ca",
     "ee04a7b590ae",
     "5e1a37546fc2",
-    "718a0dc79f1a",
+    "21c8dd28c51f",
     "e92d79a9a9fb"
   ]
 }
