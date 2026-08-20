@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-19T23:45:42+00:00",
+  "generated_utc": "2026-08-20T00:36:45+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "2c2ed1a4e02a",
+      "id": "75113defc955",
       "pillar": "anime",
-      "title": "Scholastic's Graphix Imprint to Offer 5 New Titles Based on Osamu Tezuka's Manga",
+      "title": "Disney Twisted-Wonderland Anime's New Teaser Announces Fairouz Ai as Yuuka",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-19/scholastic-graphix-imprint-to-offer-5-new-titles-based-on-osamu-tezuka-manga/.240728",
-      "thumbnail": "/drops/thumbs/2c2ed1a4e02a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-19/disney-twisted-wonderland-anime-new-teaser-announces-fairouz-ai-as-yuuka/.240731",
+      "thumbnail": "/drops/thumbs/75113defc955.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "738f6b2a99de",
+      "id": "2c2ed1a4e02a",
       "pillar": "anime",
-      "title": "Overgeared Anime's New Video Unveils More Cast, Theme Songs, October 2 Debut",
+      "title": "Scholastic's Graphix Imprint to Offer 5 New Titles Based on Osamu Tezuka's Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-19/overgeared-anime-new-video-unveils-more-cast-theme-songs-october-2-debut/.240727",
-      "thumbnail": "/drops/thumbs/738f6b2a99de.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-19/scholastic-graphix-imprint-to-offer-5-new-titles-based-on-osamu-tezuka-manga/.240728",
+      "thumbnail": "/drops/thumbs/2c2ed1a4e02a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "7885a93035de",
+      "id": "738f6b2a99de",
       "pillar": "anime",
-      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Rina Honnizumi",
+      "title": "Overgeared Anime's New Video Unveils More Cast, Theme Songs, October 2 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-18/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-rina-honnizumi/.240706",
-      "thumbnail": "/drops/thumbs/7885a93035de.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-19/overgeared-anime-new-video-unveils-more-cast-theme-songs-october-2-debut/.240727",
+      "thumbnail": "/drops/thumbs/738f6b2a99de.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -189,18 +189,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/zodiac-signs-fruits-basket-characters/",
       "thumbnail": "/drops/thumbs/4ce509393ea5.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f3abc9fa0d12",
-      "pillar": "gaming",
-      "title": "News GTA 6 Gameplay Leaks Continue as Group Makes Demands of Rockstar",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaks-continue-as-group-makes-demands-of-rockstar",
-      "thumbnail": "/drops/thumbs/f3abc9fa0d12.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "6b7cf5d74f77",
+      "pillar": "gaming",
+      "title": "GTA 6 Gets Leaked Again – Because Of Physical Games?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563742/article/gta-6-gets-leaked-again-because-of-physical-games/",
+      "thumbnail": "/drops/thumbs/6b7cf5d74f77.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "ee04a7b590ae",
     "5e1a37546fc2",
     "718a0dc79f1a",
-    "f3abc9fa0d12"
+    "e92d79a9a9fb"
   ]
 }
