@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T21:54:21+00:00",
+  "generated_utc": "2026-08-20T22:02:36+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "14b7ed0ca377",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Bred” Returns November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-bred-2026/",
+      "thumbnail": "/drops/thumbs/14b7ed0ca377.jpg",
+      "published": "2026-08-20T15:02:00",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "fb703f256973",
@@ -84,30 +96,6 @@
       "published": "2026-08-19T15:06:16",
       "relative_time": "today",
       "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c00f312fba4a",
-      "pillar": "sneakers",
-      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
-      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
-      "published": "2026-08-19T14:26:34",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5e1a37546fc2",
-      "pillar": "anime",
-      "title": "A New Anime Announcement Guarantees That Solo Leveling's Reign Will End In 2028",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/omniscient-readers-viewpoint-end-solo-leveling-reign-2028/",
-      "thumbnail": "/drops/thumbs/5e1a37546fc2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-20/obey-me-franchise-removes-voice-actor-miura-ayme-due-to-alleged-contact-with-underage-fan/.240703",
       "thumbnail": "/drops/thumbs/d54f9c292ada.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "975fecde8335",
+      "pillar": "anime",
+      "title": "5 Anime That Get Better After Their First Season",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-anime-better-after-first-season/",
+      "thumbnail": "/drops/thumbs/975fecde8335.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,8 +295,8 @@
     "de0c876b97cf",
     "aecb6976f4ca",
     "ee04a7b590ae",
-    "5e1a37546fc2",
-    "fb703f256973",
+    "7940e35ce3c3",
+    "14b7ed0ca377",
     "cb092d194924"
   ]
 }
