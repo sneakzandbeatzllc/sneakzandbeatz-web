@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T17:58:34+00:00",
+  "generated_utc": "2026-08-20T18:28:14+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "fb703f256973",
+      "pillar": "sneakers",
+      "title": "MoMA & Jordan Brand Join Forces for the Museum’s First Air Jordan 1 Collab",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/moma-air-jordan-1/",
+      "thumbnail": "/drops/thumbs/fb703f256973.webp",
+      "published": "2026-08-20T14:24:27",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "713a2f390110",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
       "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
       "published": "2026-08-19T14:26:34",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1d1ce0f71ba0",
-      "pillar": "sneakers",
-      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
-      "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
-      "published": "2026-08-19T14:16:35",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "92f8cc33fb79",
-      "pillar": "anime",
-      "title": "Chiikawa Anime Film Stays at #1, 5th Live-Action Kingdom Rises to #5 in Japan",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-20/chiikawa-anime-film-stays-at-no.1-5th-live-action-kingdom-rises-to-no.5-in-japan/.240679",
-      "thumbnail": "/drops/thumbs/92f8cc33fb79.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "12f58ba3be43",
       "pillar": "anime",
       "title": "Crunchyroll Just Got Its Biggest Anime Streaming Rival (And It's Free)",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/crunchyroll-just-got-its-biggest-anime-streaming-rival-its-way-cheaper/",
       "thumbnail": "/drops/thumbs/12f58ba3be43.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4ce509393ea5",
+      "pillar": "anime",
+      "title": "All Main Fruits Basket Characters & Their Chinese Zodiac Signs, Explained",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/zodiac-signs-fruits-basket-characters/",
+      "thumbnail": "/drops/thumbs/4ce509393ea5.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -296,7 +296,7 @@
     "aecb6976f4ca",
     "ee04a7b590ae",
     "5e1a37546fc2",
-    "713a2f390110",
+    "fb703f256973",
     "cb092d194924"
   ]
 }
