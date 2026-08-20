@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-20T14:55:47+00:00",
+  "generated_utc": "2026-08-20T15:48:18+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "e76bd50139eb",
-      "pillar": "gaming",
-      "title": "News GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks",
-      "thumbnail": "/drops/thumbs/e76bd50139eb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cb092d194924",
       "pillar": "gaming",
       "title": "GTA 6 leaks get worse for Rockstar as new footage suggests leaker has access to a playable build",
@@ -231,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "a2058c56168e",
+      "id": "c45f49282b8d",
       "pillar": "gaming",
-      "title": "The First Big GTA 6 Debate Is Here: Cars Needing Gas",
+      "title": "Rockstar Games Hasn’t Posted Anything Online In 48 Hours As GTA 6 Leaks Keep Getting Worse",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-first-big-gta-6-debate-is-here-cars-needing-gas-2000725870",
-      "thumbnail": "/drops/thumbs/a2058c56168e.jpg",
+      "source_url": "https://kotaku.com/rockstar-games-hasnt-posted-anything-online-in-48-hours-as-gta-6-leaks-keep-getting-worse-2000726182",
+      "thumbnail": "/drops/thumbs/c45f49282b8d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,6 +249,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563755/article/cyberleek-reveals-they-dont-have-twitter-accounts-as-they-leak-more-gta-6-videos/",
       "thumbnail": "/drops/thumbs/2370e3967332.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ca9419d84806",
+      "pillar": "gaming",
+      "title": "News 'I'll Believe It When I See It': Things Look Bleak for New Mass Effect, Says Former EA Manager",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/ill-believe-it-when-i-see-it-things-look-bleak-for-new-mass-effect-says-former-ea-manager",
+      "thumbnail": "/drops/thumbs/ca9419d84806.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "ee04a7b590ae",
     "5e1a37546fc2",
     "713a2f390110",
-    "e76bd50139eb"
+    "cb092d194924"
   ]
 }
