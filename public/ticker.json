@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T16:49:48+00:00",
+  "generated_utc": "2026-08-21T17:10:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,6 +32,13 @@
       "article_slug": null
     },
     {
+      "title": "The Air Jordan 4 gets a “Pink Thunder” Makeover for Fall 2026",
+      "url": "https://justfreshkicks.com/air-jordan-4-pink-thunder-hv0823-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "The Air Jordan 14 “Forest Green” Returns in Fall 2026",
       "url": "https://justfreshkicks.com/air-jordan-14-forest-green/",
       "pillar": "sneakers",
@@ -41,13 +48,6 @@
     {
       "title": "The Air Jordan 5 is Getting a “Halloween” Look for Fall 2026",
       "url": "https://justfreshkicks.com/air-jordan-5-halloween/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 WMNS “Pink Thunder” December 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-4-wmns-pink-thunder-hv0823-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Yen Press Licenses The Goblin Samurai , My Crush's Crush Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/yen-press-licenses-the-goblin-samurai-my-crush-crush-manga/.240793",
+      "title": "Dark Horse to Release Vampire Hunter D: Rose Princess Manga, Vampire Hunter D: Fortress of Blood Comic",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/dark-horse-to-release-vampire-hunter-d-rose-princess-manga-vampire-hunter-d-fortress-of-blood-comic/.240794",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Kana Licenses Children of the Afterlife , Happy at Home , 4 More Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/kana-licenses-children-of-the-afterlife-happy-at-home-4-more-manga/.240785",
+      "title": "Yen Press Licenses The Goblin Samurai , My Crush's Crush Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/yen-press-licenses-the-goblin-samurai-my-crush-crush-manga/.240793",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "A Returner's Magic Should Be Special 2nd Season Anime's 1st Promo Video Streamed",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/a-returner-magic-should-be-special-2nd-season-anime-1st-promo-video-streamed/.240802",
+      "title": "Kana Licenses Children of the Afterlife , Happy at Home , 4 More Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/kana-licenses-children-of-the-afterlife-happy-at-home-4-more-manga/.240785",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
