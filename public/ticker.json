@@ -1,22 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T12:43:09+00:00",
+  "generated_utc": "2026-08-21T13:06:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "AWAKE NY x Air Jordan 6 “Playful Pink” August 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/awake-ny-air-jordan-6-playful-pink-iq5706-600/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "AWAKE NY x Air Jordan 6 “Midnight Navy” August 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/awake-ny-air-jordan-6-midnight-navy-iq5706-400/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "The Air Jordan 1 Dons a Nail Polish-Inspired Look Coming in September",
       "url": "https://justfreshkicks.com/air-jordan-1-high-red-polish-fd2596-601/",
@@ -29,6 +15,13 @@
       "url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-2026/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 5 “Halloween” October 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "MoMA & Jordan Brand Join Forces for the Museum’s First Air Jordan 1 Collab",
+      "url": "https://justfreshkicks.com/moma-air-jordan-1/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
       "url": "https://screenrant.com/naruto-live-action-movie-kakashi-cast-charles-melton-negotiations/",
       "pillar": "anime",
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Tanuki to Kitsune TV Anime Reveals Visual, October 4 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/tanuki-to-kitsune-tv-anime-reveals-visual-october-4-debut/.240805",
+      "title": "Seiji Kishi Directs Maiden Blood Original TV Anime at Polygon Pictures",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/seiji-kishi-directs-maiden-blood-original-tv-anime-at-polygon-pictures/.240806",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Ore to Yu Nii! TV Anime Debuts in January 2027, Reveals Teaser Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/ore-to-yu-nii-tv-anime-debuts-in-january-2027-reveals-teaser-promo-video/.240803",
+      "title": "Tanuki to Kitsune TV Anime Reveals Visual, October 4 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/tanuki-to-kitsune-tv-anime-reveals-visual-october-4-debut/.240805",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Sekiro: No Defeat Anime Film's Battle Scene Clip Streamed",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/sekiro-no-defeat-anime-film-battle-scene-clip-streamed/.240800",
+      "title": "Ore to Yu Nii! TV Anime Debuts in January 2027, Reveals Teaser Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/ore-to-yu-nii-tv-anime-debuts-in-january-2027-reveals-teaser-promo-video/.240803",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Real GTA 6 Leaks Are Hard To Spot In 2026 Due To All The AI Fakes",
-      "url": "https://kotaku.com/real-gta-6-leaks-are-hard-to-spot-in-2026-due-to-all-the-ai-fakes-2000726212",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: GTA 6 May Have A Monthly Subscription (Another GTA+?)",
       "url": "https://gameranx.com/updates/id/563766/article/rumor-gta-6-may-have-a-monthly-subscription-another-gta/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Hidetaka Miyazaki says The Duskbloods is full of ideas FromSoftware couldn't fit into Dark Souls 7 Comments",
       "url": "https://www.gamesradar.com/games/action-rpg/hidetaka-miyazaki-says-the-duskbloods-is-full-of-ideas-fromsoftware-couldnt-fit-into-dark-souls-or-demons-souls-that-was-always-at-the-forefront-of-my-mind/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "FromSoftware Gives Up On Today’s The Duskbloods Network Test After Two Hours Of Failed Logins",
+      "url": "https://kotaku.com/fromsoftware-gives-up-duskbloods-network-test-2000726612",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

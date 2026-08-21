@@ -1,31 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T12:43:09+00:00",
+  "generated_utc": "2026-08-21T13:06:44+00:00",
   "items": [
-    {
-      "id": "de0c876b97cf",
-      "pillar": "sneakers",
-      "title": "AWAKE NY x Air Jordan 6 “Playful Pink” August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-playful-pink-iq5706-600/",
-      "thumbnail": "/drops/thumbs/de0c876b97cf.jpg",
-      "published": "2026-08-18T10:15:39",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "aecb6976f4ca",
-      "pillar": "sneakers",
-      "title": "AWAKE NY x Air Jordan 6 “Midnight Navy” August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-midnight-navy-iq5706-400/",
-      "thumbnail": "/drops/thumbs/aecb6976f4ca.jpg",
-      "published": "2026-08-18T09:56:48",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
     {
       "id": "34cfe7389d17",
       "pillar": "sneakers",
@@ -49,6 +25,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "e0f5793659c2",
+      "pillar": "sneakers",
+      "title": "Air Jordan 5 “Halloween” October 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
+      "thumbnail": "/drops/thumbs/e0f5793659c2.jpg",
+      "published": "2026-08-21T07:46:24",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "362f284b3d0d",
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "fb703f256973",
+      "pillar": "sneakers",
+      "title": "MoMA & Jordan Brand Join Forces for the Museum’s First Air Jordan 1 Collab",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/moma-air-jordan-1/",
+      "thumbnail": "/drops/thumbs/fb703f256973.webp",
+      "published": "2026-08-20T14:24:27",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "0094638bcf70",
       "pillar": "anime",
       "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "8b2a4afc73b5",
+      "id": "4ba918a5badf",
       "pillar": "anime",
-      "title": "Tanuki to Kitsune TV Anime Reveals Visual, October 4 Debut",
+      "title": "Seiji Kishi Directs Maiden Blood Original TV Anime at Polygon Pictures",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/tanuki-to-kitsune-tv-anime-reveals-visual-october-4-debut/.240805",
-      "thumbnail": "/drops/thumbs/8b2a4afc73b5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/seiji-kishi-directs-maiden-blood-original-tv-anime-at-polygon-pictures/.240806",
+      "thumbnail": "/drops/thumbs/4ba918a5badf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "0cbf19fb2ba1",
+      "id": "8b2a4afc73b5",
       "pillar": "anime",
-      "title": "Ore to Yu Nii! TV Anime Debuts in January 2027, Reveals Teaser Promo Video",
+      "title": "Tanuki to Kitsune TV Anime Reveals Visual, October 4 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/ore-to-yu-nii-tv-anime-debuts-in-january-2027-reveals-teaser-promo-video/.240803",
-      "thumbnail": "/drops/thumbs/0cbf19fb2ba1.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/tanuki-to-kitsune-tv-anime-reveals-visual-october-4-debut/.240805",
+      "thumbnail": "/drops/thumbs/8b2a4afc73b5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "79bc3bd9b398",
+      "id": "0cbf19fb2ba1",
       "pillar": "anime",
-      "title": "Sekiro: No Defeat Anime Film's Battle Scene Clip Streamed",
+      "title": "Ore to Yu Nii! TV Anime Debuts in January 2027, Reveals Teaser Promo Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/sekiro-no-defeat-anime-film-battle-scene-clip-streamed/.240800",
-      "thumbnail": "/drops/thumbs/79bc3bd9b398.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/ore-to-yu-nii-tv-anime-debuts-in-january-2027-reveals-teaser-promo-video/.240803",
+      "thumbnail": "/drops/thumbs/0cbf19fb2ba1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "a47f228cf90a",
-      "pillar": "gaming",
-      "title": "Real GTA 6 Leaks Are Hard To Spot In 2026 Due To All The AI Fakes",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/real-gta-6-leaks-are-hard-to-spot-in-2026-due-to-all-the-ai-fakes-2000726212",
-      "thumbnail": "/drops/thumbs/a47f228cf90a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0d9e6688730b",
       "pillar": "gaming",
       "title": "Rumor: GTA 6 May Have A Monthly Subscription (Another GTA+?)",
@@ -289,14 +277,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "9100cba42576",
+      "pillar": "gaming",
+      "title": "FromSoftware Gives Up On Today’s The Duskbloods Network Test After Two Hours Of Failed Logins",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/fromsoftware-gives-up-duskbloods-network-test-2000726612",
+      "thumbnail": "/drops/thumbs/9100cba42576.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "de0c876b97cf",
-    "aecb6976f4ca",
     "34cfe7389d17",
-    "0094638bcf70",
     "ee04a7b590ae",
+    "e0f5793659c2",
+    "0094638bcf70",
+    "362f284b3d0d",
     "0bd3d38adc69"
   ]
 }
