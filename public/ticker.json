@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T01:05:13+00:00",
+  "generated_utc": "2026-08-21T01:58:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,8 +32,15 @@
       "article_slug": null
     },
     {
-      "title": "First Look at This Year’s Air Jordan 4 “Bred” Retro",
-      "url": "https://justfreshkicks.com/air-jordan-4-bred-2026-ix8180-001/",
+      "title": "The Fan Favorite Air Jordan 11 “Space Jam” is Releasing In True OG Form",
+      "url": "https://www.nicekicks.com/air-jordan-11-space-jam-ct8012-900-drop/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Classic Air Jordan 4 OG “Bred” is Coming Back",
+      "url": "https://www.nicekicks.com/air-jordan-4-og-bred-2026-ix8180-001-drop/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -48,13 +55,6 @@
     {
       "title": "MoMA & Jordan Brand Join Forces for the Museum’s First Air Jordan 1 Collab",
       "url": "https://justfreshkicks.com/moma-air-jordan-1/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "MoMA x Air Jordan 1 High OG Releases Spring 2027",
-      "url": "https://www.sneakerfiles.com/moma-air-jordan-1-high-og-2027-colorways/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Cyberpunk Edgerunners 2 Anime's New Teaser Reveals October 20 Netflix Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-20/cyberpunk-edgerunners-2-anime-new-teaser-reveals-october-20-netflix-debut/.240770",
+      "title": "New Votoms Anime Films' Trailer Unveils Cast, More Staff",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-20/new-votoms-anime-films-trailer-unveils-cast-more-staff/.240769",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Fool Night Anime's Teaser Reveals More Cast, November 26 Worldwide Netflix Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-20/fool-night-anime-teaser-reveals-more-cast-november-26-worldwide-netflix-debut/.240745",
+      "title": "Cyberpunk Edgerunners 2 Anime's New Teaser Reveals October 20 Netflix Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-20/cyberpunk-edgerunners-2-anime-new-teaser-reveals-october-20-netflix-debut/.240770",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

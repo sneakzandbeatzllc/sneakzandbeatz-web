@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T01:05:13+00:00",
+  "generated_utc": "2026-08-21T01:58:46+00:00",
   "items": [
     {
       "id": "de0c876b97cf",
@@ -51,13 +51,25 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "75c8e6cc6844",
+      "id": "73794cd78c06",
       "pillar": "sneakers",
-      "title": "First Look at This Year’s Air Jordan 4 “Bred” Retro",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-bred-2026-ix8180-001/",
-      "thumbnail": "/drops/thumbs/75c8e6cc6844.jpg",
-      "published": "2026-08-20T18:14:49",
+      "title": "The Fan Favorite Air Jordan 11 “Space Jam” is Releasing In True OG Form",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-11-space-jam-ct8012-900-drop/",
+      "thumbnail": "/drops/thumbs/73794cd78c06.jpg",
+      "published": "2026-08-20T20:40:02",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "86249c2e7781",
+      "pillar": "sneakers",
+      "title": "The Classic Air Jordan 4 OG “Bred” is Coming Back",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-og-bred-2026-ix8180-001-drop/",
+      "thumbnail": "/drops/thumbs/86249c2e7781.jpg",
+      "published": "2026-08-20T20:37:04",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/moma-air-jordan-1/",
       "thumbnail": "/drops/thumbs/fb703f256973.webp",
       "published": "2026-08-20T14:24:27",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "713a2f390110",
-      "pillar": "sneakers",
-      "title": "MoMA x Air Jordan 1 High OG Releases Spring 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/moma-air-jordan-1-high-og-2027-colorways/",
-      "thumbnail": "/drops/thumbs/713a2f390110.jpg",
-      "published": "2026-08-20T03:20:05",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "879d87f46b52",
+      "id": "d18d57e4e890",
       "pillar": "anime",
-      "title": "Cyberpunk Edgerunners 2 Anime's New Teaser Reveals October 20 Netflix Debut",
+      "title": "New Votoms Anime Films' Trailer Unveils Cast, More Staff",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-20/cyberpunk-edgerunners-2-anime-new-teaser-reveals-october-20-netflix-debut/.240770",
-      "thumbnail": "/drops/thumbs/879d87f46b52.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-20/new-votoms-anime-films-trailer-unveils-cast-more-staff/.240769",
+      "thumbnail": "/drops/thumbs/d18d57e4e890.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "5a7a1c0e5369",
+      "id": "879d87f46b52",
       "pillar": "anime",
-      "title": "Fool Night Anime's Teaser Reveals More Cast, November 26 Worldwide Netflix Debut",
+      "title": "Cyberpunk Edgerunners 2 Anime's New Teaser Reveals October 20 Netflix Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-20/fool-night-anime-teaser-reveals-more-cast-november-26-worldwide-netflix-debut/.240745",
-      "thumbnail": "/drops/thumbs/5a7a1c0e5369.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-20/cyberpunk-edgerunners-2-anime-new-teaser-reveals-october-20-netflix-debut/.240770",
+      "thumbnail": "/drops/thumbs/879d87f46b52.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
