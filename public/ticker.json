@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T05:02:10+00:00",
+  "generated_utc": "2026-08-21T07:05:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "News GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "GTA 6 leaks get worse for Rockstar as new footage suggests leaker has access to a playable build",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaks-go-from-bad-to-worse-for-rockstar-as-new-footage-suggests-leaker-has-access-to-a-playable-build/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Hidetaka Miyazaki says The Duskbloods is full of ideas FromSoftware couldn't fit into Dark Souls",
       "url": "https://www.gamesradar.com/games/action-rpg/hidetaka-miyazaki-says-the-duskbloods-is-full-of-ideas-fromsoftware-couldnt-fit-into-dark-souls-or-demons-souls-that-was-always-at-the-forefront-of-my-mind/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
-      "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
