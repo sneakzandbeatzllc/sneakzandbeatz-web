@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T22:19:40+00:00",
+  "generated_utc": "2026-08-21T22:56:26+00:00",
   "items": [
+    {
+      "id": "32be0e811f65",
+      "pillar": "sneakers",
+      "title": "Air Jordan 14 Low “BIN 23” Releases June 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-14-low-bin-23/",
+      "thumbnail": "/drops/thumbs/32be0e811f65.jpg",
+      "published": "2026-08-21T15:28:40",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "82d7f8914d7e",
       "pillar": "sneakers",
@@ -51,6 +63,30 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "1dd06974b1fb",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 4 Gets a Euro-Exclusive “Light Army” Palette",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-4-light-army-ja5911-320/",
+      "thumbnail": "/drops/thumbs/1dd06974b1fb.webp",
+      "published": "2026-08-21T18:26:20",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "41bf402cce58",
+      "pillar": "sneakers",
+      "title": "The Whitaker Group x Air Jordan 10 Low Releases June 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/the-whitaker-group-air-jordan-10-low/",
+      "thumbnail": "/drops/thumbs/41bf402cce58.jpg",
+      "published": "2026-08-21T15:30:43",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "138e6db7605f",
       "pillar": "sneakers",
       "title": "The Air Jordan 4 gets a “Pink Thunder” Makeover for Fall 2026",
@@ -58,42 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-4-pink-thunder-hv0823-001/",
       "thumbnail": "/drops/thumbs/138e6db7605f.webp",
       "published": "2026-08-21T12:51:54",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3d76e69122b1",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 14 “Forest Green” Returns in Fall 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-14-forest-green/",
-      "thumbnail": "/drops/thumbs/3d76e69122b1.webp",
-      "published": "2026-08-21T12:48:45",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "87116f2b17f4",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 5 is Getting a “Halloween” Look for Fall 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-5-halloween/",
-      "thumbnail": "/drops/thumbs/87116f2b17f4.webp",
-      "published": "2026-08-21T12:44:29",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "332e82f18d08",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 4 “Light Army” Will Be a Europe Exclusive",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-light-army-ja5911-320/",
-      "thumbnail": "/drops/thumbs/332e82f18d08.jpg",
-      "published": "2026-08-21T09:12:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "08dbc7fb6a34",
+      "id": "61fafa51ac92",
       "pillar": "anime",
-      "title": "Manga Mavericks Books Licenses Midnight Robot , 'Arai-kun & Haruma-senpai' Manga",
+      "title": "Omoi Licenses Love Is the Sweetest Journey Manga, Adds Titan Manga Titles",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/manga-mavericks-books-licenses-midnight-robot-arai-kun-and-haruma-senpai-manga/.240788",
-      "thumbnail": "/drops/thumbs/08dbc7fb6a34.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/omoi-licenses-love-is-the-sweetest-journey-manga-adds-titan-manga-titles/.240796",
+      "thumbnail": "/drops/thumbs/61fafa51ac92.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "80b153354ada",
+      "id": "08dbc7fb6a34",
       "pillar": "anime",
-      "title": "Mahjong Pros Licenses Snap Call Kirinji , Riichi Mahjong 101 Manga",
+      "title": "Manga Mavericks Books Licenses Midnight Robot , 'Arai-kun & Haruma-senpai' Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/mahjong-pros-licenses-snap-call-kirinji-riichi-mahjong-101-manga/.240814",
-      "thumbnail": "/drops/thumbs/80b153354ada.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/manga-mavericks-books-licenses-midnight-robot-arai-kun-and-haruma-senpai-manga/.240788",
+      "thumbnail": "/drops/thumbs/08dbc7fb6a34.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "3b9bf1065072",
+      "id": "80b153354ada",
       "pillar": "anime",
-      "title": "Seven Seas Licenses My Lips are Being Targeted , Scarlet Thirst , Synchronicity Obsession , More Manga/Novels",
+      "title": "Mahjong Pros Licenses Snap Call Kirinji , Riichi Mahjong 101 Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/seven-seas-licenses-my-lips-are-being-targeted-scarlet-thirst-synchronicity-obsession-more-manga-/.240813",
-      "thumbnail": "/drops/thumbs/3b9bf1065072.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-21/mahjong-pros-licenses-snap-call-kirinji-riichi-mahjong-101-manga/.240814",
+      "thumbnail": "/drops/thumbs/80b153354ada.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "32be0e811f65",
     "82d7f8914d7e",
     "b9b1bff7e5dd",
-    "34cfe7389d17",
     "0094638bcf70",
-    "ee04a7b590ae",
+    "34cfe7389d17",
     "b41eebf61091"
   ]
 }
