@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T18:15:27+00:00",
+  "generated_utc": "2026-08-21T19:16:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets",
-      "url": "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: GTA 6 May Have A Monthly Subscription (Another GTA+?)",
       "url": "https://gameranx.com/updates/id/563766/article/rumor-gta-6-may-have-a-monthly-subscription-another-gta/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "News Next Major PS5 Exclusive Is Ready to Release, Wolverine Goes Gold",
       "url": "https://www.pushsquare.com/news/2026/08/next-major-ps5-exclusive-is-ready-to-release-wolverine-goes-gold",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Intergalactic: The Heretic Prophet shows first signs of life in months, adds an Uncharted actor",
+      "url": "https://www.gamesradar.com/games/action/intergalactic-the-heretic-prophet-shows-first-signs-of-life-in-months-as-naughty-dog-adds-an-uncharted-and-the-last-of-us-actor-to-its-cast/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
