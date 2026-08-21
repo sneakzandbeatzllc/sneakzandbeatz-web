@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T07:05:22+00:00",
+  "generated_utc": "2026-08-21T08:03:21+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "New One Piece adaptation sets sail with charming trailer",
-      "url": "https://www.polygon.com/lego-one-piece-sets-sail-with-charming-new-trailer/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
       "url": "https://screenrant.com/naruto-live-action-movie-kakashi-cast-charles-melton-negotiations/",
       "pillar": "anime",
@@ -83,6 +76,13 @@
     {
       "title": "Naruto Announces Epic New Project, And Fans Should Get Hyped For October 10th",
       "url": "https://screenrant.com/naruto-new-project-october-10th/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "5 classic anime that should never get remakes",
+      "url": "https://www.polygon.com/classic-anime-perfect-no-remakes-required/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
