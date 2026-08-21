@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-21T11:08:29+00:00",
+  "generated_utc": "2026-08-21T12:05:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Lego One Piece Animated Special's Trailer Highlights Usopp's Tall Tales",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-20/lego-one-piece-animated-special-trailer-highlights-usopp-tall-tales/.240772",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
       "url": "https://screenrant.com/naruto-live-action-movie-kakashi-cast-charles-melton-negotiations/",
       "pillar": "anime",
@@ -81,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Ore to Yu Nii! TV Anime Debuts in January 2027, Reveals Teaser Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/ore-to-yu-nii-tv-anime-debuts-in-january-2027-reveals-teaser-promo-video/.240803",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "5 classic anime that should never get remakes",
       "url": "https://www.polygon.com/classic-anime-perfect-no-remakes-required/",
       "pillar": "anime",
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Matsurika Kanriden TV Anime Reveals Kana-Boon's Theme Song in Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/matsurika-kanriden-tv-anime-reveals-kana-boon-theme-song-in-promo-video/.240797",
+      "title": "Sekiro: No Defeat Anime Film's Battle Scene Clip Streamed",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/sekiro-no-defeat-anime-film-battle-scene-clip-streamed/.240800",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "New Fairy Princess Minky Momo OVA Casts Tomohito Takatsuka, Yōko Hikasa",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/new-fairy-princess-minky-momo-ova-casts-tomohito-takatsuka-yoko-hikasa/.240774",
+      "title": "'A Pen, Handcuffs, and a Common-Law Marriage' TV Anime Reveals Cast, Staff, January 2027 Debut in Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/a-pen-handcuffs-and-a-common-law-marriage-tv-anime-reveals-cast-staff-january-2027-debut-in-video/.240801",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -116,15 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks",
-      "url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks",
+      "title": "GTA 6 map leak is \"100% real,\" according to fans who've spent years mapping the game by hand",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-map-leak-is-100-percent-real-say-fans-whove-spent-years-painstakingly-mapping-rockstars-open-world-game-by-hand/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "GTA 6 map leak is \"100% real,\" according to fans who've spent years mapping the game by hand",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-map-leak-is-100-percent-real-say-fans-whove-spent-years-painstakingly-mapping-rockstars-open-world-game-by-hand/",
+      "title": "The Hunt Is On For The Identity Of GTA 6 Leaker Cyberleek",
+      "url": "https://gameranx.com/updates/id/563777/article/the-hunt-is-on-for-the-identity-of-gta-6-leaker-cyberleek/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Cyberleek Reveals They Don’t Have Twitter Accounts As They Leak More GTA 6 Videos",
-      "url": "https://gameranx.com/updates/id/563755/article/cyberleek-reveals-they-dont-have-twitter-accounts-as-they-leak-more-gta-6-videos/",
+      "title": "News Ex-Wrestler Dave Bautista Officially Replaces Ryan Hurst as Kratos in God of War TV Show",
+      "url": "https://www.pushsquare.com/news/2026/08/ex-wrestler-dave-bautista-officially-replaces-ryan-hurst-as-kratos-in-god-of-war-tv-show",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "News Ex-Wrestler Dave Bautista Officially Replaces Ryan Hurst as Kratos in God of War TV Show",
-      "url": "https://www.pushsquare.com/news/2026/08/ex-wrestler-dave-bautista-officially-replaces-ryan-hurst-as-kratos-in-god-of-war-tv-show",
+      "title": "Hidetaka Miyazaki says The Duskbloods is full of ideas FromSoftware couldn't fit into Dark Souls 7 Comments",
+      "url": "https://www.gamesradar.com/games/action-rpg/hidetaka-miyazaki-says-the-duskbloods-is-full-of-ideas-fromsoftware-couldnt-fit-into-dark-souls-or-demons-souls-that-was-always-at-the-forefront-of-my-mind/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Hidetaka Miyazaki says The Duskbloods is full of ideas FromSoftware couldn't fit into Dark Souls 7 Comments",
-      "url": "https://www.gamesradar.com/games/action-rpg/hidetaka-miyazaki-says-the-duskbloods-is-full-of-ideas-fromsoftware-couldnt-fit-into-dark-souls-or-demons-souls-that-was-always-at-the-forefront-of-my-mind/",
+      "title": "Prime Video's God of War TV show reportedly casts Dave Bautista as main hero Kratos",
+      "url": "https://www.gamesradar.com/entertainment/amazon-prime-video/prime-videos-god-of-war-tv-show-reportedly-casts-dave-bautista-as-main-hero-kratos/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
