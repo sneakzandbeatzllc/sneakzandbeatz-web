@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-22T02:01:04+00:00",
+  "generated_utc": "2026-08-22T04:18:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "Black Clover Filler List: Every Episode You Can Skip",
+      "url": "https://screenrant.com/every-black-clover-filler-episode/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
       "url": "https://screenrant.com/naruto-live-action-movie-kakashi-cast-charles-melton-negotiations/",
       "pillar": "anime",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Every Pokémon Series Ranked From Worst To Best",
-      "url": "https://screenrant.com/every-pokemon-anime-series-ranked-worst-best/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Take-Two Aims to Bring the Hammer Down on GTA 6 Leaker, Requests Help from Microsoft, Discord",
       "url": "https://www.pushsquare.com/news/2026/08/take-two-aims-to-bring-the-hammer-down-on-gta-6-leaker-requests-help-from-microsoft-discord",
       "pillar": "gaming",
@@ -125,6 +125,13 @@
     {
       "title": "Another GTA 6 Data Leak Has Occurred, Separate From Cyberleek",
       "url": "https://gameranx.com/updates/id/563781/article/another-gta-6-data-leak-has-occurred-separate-from-cyberleek/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Take-Two Asks Court To Subpoena Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
+      "url": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Intergalactic: The Heretic Prophet shows first signs of life in months, adds an Uncharted actor",
       "url": "https://www.gamesradar.com/games/action/intergalactic-the-heretic-prophet-shows-first-signs-of-life-in-months-as-naughty-dog-adds-an-uncharted-and-the-last-of-us-actor-to-its-cast/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
-      "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
