@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-22T14:09:02+00:00",
+  "generated_utc": "2026-08-22T16:24:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Ize Press Announces Whale Star , Solo Leveling Releases at Anime NYC",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-22/ize-press-announces-whale-star-solo-leveling-releases-at-anime-nyc/.240830",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Solo Leveling's New Anime Rival, Eleceed, Has One Major Problem",
       "url": "https://screenrant.com/eleceed-solo-leveling-biggest-rival-one-problem/",
       "pillar": "anime",
@@ -88,15 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Duel Masters Lost: Danzai no Shōnen Anime Reveals October 9 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-22/duel-masters-lost-danzai-no-shonen-anime-reveals-october-9-debut/.240836",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Even the Student Council Has its Holes! TV Anime Reveals October 3 Debut in Main Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-22/even-the-student-council-has-its-holes-tv-anime-reveals-october-3-debut-in-main-promo-video/.240834",
+      "title": "Yen Press Reveals 9 New Licenses Including Übel Blatt II, The Gray Exorcist, Seal My Lips With a Kiss Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-22/yen-press-reveals-9-new-licenses-including-ubel-blatt-ii-the-gray-exorcist-seal-my-lips-with-a-kiss-/.240829",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Tokyopop Announces 7 New Manga Licenses Including Garagarapon",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-22/tokyopop-announces-7-new-manga-licenses-including-garagarapon/.240828",
+      "title": "Duel Masters Lost: Danzai no Shōnen Anime Reveals October 9 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-22/duel-masters-lost-danzai-no-shonen-anime-reveals-october-9-debut/.240836",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -118,13 +118,6 @@
     {
       "title": "Another GTA 6 Data Leak Has Occurred, Separate From Cyberleek",
       "url": "https://gameranx.com/updates/id/563781/article/another-gta-6-data-leak-has-occurred-separate-from-cyberleek/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Take-Two Asks Court To Subpoena Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
-      "url": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
       "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Final Fantasy VII Revelation Will Be At New York Comic Con, PAX West, And Gamescom",
+      "url": "https://gameranx.com/updates/id/563779/article/final-fantasy-vii-revelation-will-be-at-new-york-comic-con-pax-west-and-gamescom/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
