@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-22T09:23:22+00:00",
+  "generated_utc": "2026-08-22T10:21:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "7 years later, one Vinland Saga line remains anime’s greatest lesson about violence",
+      "url": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Black Clover Filler List: Every Episode You Can Skip",
       "url": "https://screenrant.com/every-black-clover-filler-episode/",
       "pillar": "anime",
@@ -76,6 +83,13 @@
     {
       "title": "Naruto Reportedly Finds Its Live-Action Kakashi With Bad Boys Star",
       "url": "https://screenrant.com/naruto-live-action-movie-kakashi-cast-charles-melton-negotiations/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Even the Student Council Has its Holes! TV Anime Reveals October 3 Debut in Main Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-22/even-the-student-council-has-its-holes-tv-anime-reveals-october-3-debut-in-main-promo-video/.240834",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -97,20 +111,6 @@
     {
       "title": "Fate/strange Fake TV Anime Confirms New Season",
       "url": "https://www.animenewsnetwork.com/news/2026-08-22/fate-strange-fake-tv-anime-confirms-new-season/.240827",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Cyberpunk: Edgerunners 2 gets release date alongside brutal new trailer",
-      "url": "https://www.polygon.com/cyberpunk-edgerunners-2-release-date-announced-new-trailer/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Kodansha USA Licenses Trapped on Tape! , Announces Print Release for Hajime no Ippo: Fighting Spirit! Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/kodansha-usa-licenses-trapped-on-tape-announces-print-release-for-hajime-no-ippo-fighting-spirit-/.240808",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
