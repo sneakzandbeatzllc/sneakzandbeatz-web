@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-22T04:18:18+00:00",
+  "generated_utc": "2026-08-22T05:19:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,8 +81,8 @@
       "article_slug": null
     },
     {
-      "title": "Kodansha USA Licenses Trapped on Tape! , Announces Print Release for Hajime no Ippo: Fighting Spirit! Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/kodansha-usa-licenses-trapped-on-tape-announces-print-release-for-hajime-no-ippo-fighting-spirit-/.240808",
+      "title": "Fate/strange Fake TV Anime Confirms New Season",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-22/fate-strange-fake-tv-anime-confirms-new-season/.240827",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,8 +95,8 @@
       "article_slug": null
     },
     {
-      "title": "Omoi Licenses Love Is the Sweetest Journey Manga, Adds Titan Manga Titles",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/omoi-licenses-love-is-the-sweetest-journey-manga-adds-titan-manga-titles/.240796",
+      "title": "Kodansha USA Licenses Trapped on Tape! , Announces Print Release for Hajime no Ippo: Fighting Spirit! Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/kodansha-usa-licenses-trapped-on-tape-announces-print-release-for-hajime-no-ippo-fighting-spirit-/.240808",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,16 +109,9 @@
       "article_slug": null
     },
     {
-      "title": "Manga Mavericks Books Licenses Midnight Robot , 'Arai-kun & Haruma-senpai' Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-21/manga-mavericks-books-licenses-midnight-robot-arai-kun-and-haruma-senpai-manga/.240788",
+      "title": "Omoi Licenses Love Is the Sweetest Journey Manga, Adds Titan Manga Titles",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-21/omoi-licenses-love-is-the-sweetest-journey-manga-adds-titan-manga-titles/.240796",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Take-Two Aims to Bring the Hammer Down on GTA 6 Leaker, Requests Help from Microsoft, Discord",
-      "url": "https://www.pushsquare.com/news/2026/08/take-two-aims-to-bring-the-hammer-down-on-gta-6-leaker-requests-help-from-microsoft-discord",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -151,6 +144,13 @@
       "article_slug": null
     },
     {
+      "title": "News Ex-Wrestler Dave Bautista Officially Replaces Ryan Hurst as Kratos in God of War TV Show",
+      "url": "https://www.pushsquare.com/news/2026/08/ex-wrestler-dave-bautista-officially-replaces-ryan-hurst-as-kratos-in-god-of-war-tv-show",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "FromSoftware ends The Duskbloods' first closed network test session early",
       "url": "https://www.gamesradar.com/games/action/the-duskbloods-servers-buckle-as-the-first-closed-network-test-struggles-to-support-the-onslaught-of-fans-trying-to-play-fromsoftwares-switch-2-exclusive/",
       "pillar": "gaming",
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "News Next Major PS5 Exclusive Is Ready to Release, Wolverine Goes Gold",
-      "url": "https://www.pushsquare.com/news/2026/08/next-major-ps5-exclusive-is-ready-to-release-wolverine-goes-gold",
+      "title": "Intergalactic: The Heretic Prophet shows first signs of life in months, adds an Uncharted actor",
+      "url": "https://www.gamesradar.com/games/action/intergalactic-the-heretic-prophet-shows-first-signs-of-life-in-months-as-naughty-dog-adds-an-uncharted-and-the-last-of-us-actor-to-its-cast/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Intergalactic: The Heretic Prophet shows first signs of life in months, adds an Uncharted actor",
-      "url": "https://www.gamesradar.com/games/action/intergalactic-the-heretic-prophet-shows-first-signs-of-life-in-months-as-naughty-dog-adds-an-uncharted-and-the-last-of-us-actor-to-its-cast/",
+      "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
+      "url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
