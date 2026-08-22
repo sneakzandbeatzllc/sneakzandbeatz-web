@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-22T12:23:36+00:00",
+  "generated_utc": "2026-08-22T12:36:39+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -15,6 +15,18 @@
       "release_badge": "🔥 Banger"
     },
     {
+      "id": "b9b1bff7e5dd",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Laser” (JA1369-001) August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-laser-ja1369-001/",
+      "thumbnail": "/drops/thumbs/b9b1bff7e5dd.jpg",
+      "published": "2026-08-21T09:48:28",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
       "id": "82d7f8914d7e",
       "pillar": "sneakers",
       "title": "Air Jordan 1 Low OG “Black Laser” August 2026 Release Date & Info",
@@ -22,18 +34,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-black-laser-iv6750-001/",
       "thumbnail": "/drops/thumbs/82d7f8914d7e.jpg",
       "published": "2026-08-20T15:41:01",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "b9b1bff7e5dd",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Laser” (JA1369-001) August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-laser-ja1369-001/",
-      "thumbnail": "/drops/thumbs/b9b1bff7e5dd.jpg",
-      "published": "2026-08-20T09:48:28",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -293,8 +293,8 @@
   ],
   "homepage": [
     "32be0e811f65",
-    "82d7f8914d7e",
     "b9b1bff7e5dd",
+    "82d7f8914d7e",
     "ead9c45d1056",
     "34cfe7389d17",
     "da4a88e1324d"
