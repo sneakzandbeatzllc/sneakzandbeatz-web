@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-22T13:07:44+00:00",
+  "generated_utc": "2026-08-22T14:09:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,20 +8,6 @@
       "url": "https://www.sneakerfiles.com/air-jordan-14-low-bin-23/",
       "pillar": "sneakers",
       "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Black Laser” August 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-low-og-black-laser-iv6750-001/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “Laser” Releases Today",
-      "url": "https://www.nicekicks.com/air-jordan-3-laser-ja1369-001/",
-      "pillar": "sneakers",
-      "score": 3.0,
       "article_slug": null
     },
     {
@@ -43,6 +29,20 @@
       "url": "https://sneakerbardetroit.com/air-jordan-6-low-desert-berry-black-ix5195-001/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Where To Buy Air Jordan 1 Low OG “Black Laser”",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-black-laser-iv6750-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Where To Buy the Air Jordan 3 “Laser”",
+      "url": "https://www.nicekicks.com/air-jordan-3-laser-ja1369-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {

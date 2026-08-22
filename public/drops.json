@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-22T13:07:44+00:00",
+  "generated_utc": "2026-08-22T14:09:02+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -13,30 +13,6 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "82d7f8914d7e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Black Laser” August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-black-laser-iv6750-001/",
-      "thumbnail": "/drops/thumbs/82d7f8914d7e.jpg",
-      "published": "2026-08-21T15:41:01",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "b9b1bff7e5dd",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Laser” Releases Today",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-laser-ja1369-001/",
-      "thumbnail": "/drops/thumbs/b9b1bff7e5dd.jpg",
-      "published": "2026-08-21T09:48:28",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
     },
     {
       "id": "34cfe7389d17",
@@ -73,6 +49,30 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "82d7f8914d7e",
+      "pillar": "sneakers",
+      "title": "Where To Buy Air Jordan 1 Low OG “Black Laser”",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-low-og-black-laser-iv6750-001/",
+      "thumbnail": "/drops/thumbs/82d7f8914d7e.jpg",
+      "published": "2026-08-22T08:50:47",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b9b1bff7e5dd",
+      "pillar": "sneakers",
+      "title": "Where To Buy the Air Jordan 3 “Laser”",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-laser-ja1369-001/",
+      "thumbnail": "/drops/thumbs/b9b1bff7e5dd.jpg",
+      "published": "2026-08-22T08:50:44",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "1dd06974b1fb",
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "32be0e811f65",
-    "82d7f8914d7e",
-    "b9b1bff7e5dd",
-    "ead9c45d1056",
     "34cfe7389d17",
+    "ee04a7b590ae",
+    "ead9c45d1056",
+    "6f0ec109af40",
     "da4a88e1324d"
   ]
 }
