@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T16:38:16+00:00",
+  "generated_utc": "2026-08-23T17:38:27+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "1a0bfc67becc",
-      "pillar": "anime",
-      "title": "One Piece Announces 2 New Anime Films",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/one-piece-announces-2-new-anime-films/.240878",
-      "thumbnail": "/drops/thumbs/1a0bfc67becc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7e805f7bc4b2",
       "pillar": "anime",
       "title": "One Piece: All of Imu's Swords Revealed So Far",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-imu-all-swords-explained/",
       "thumbnail": "/drops/thumbs/7e805f7bc4b2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4773f236a97a",
+      "pillar": "anime",
+      "title": "Amasian TV Streams Chiikawa Anime for Free in U.S.",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/amasian-tv-streams-chiikawa-anime-for-free-in-u.s/.240856",
+      "thumbnail": "/drops/thumbs/4773f236a97a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,6 +213,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563781/article/another-gta-6-data-leak-has-occurred-separate-from-cyberleek/",
       "thumbnail": "/drops/thumbs/da4a88e1324d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "565143d71807",
+      "pillar": "gaming",
+      "title": "GTA 6 Leaker Takes Fans To A Strip Club In Latest Gameplay Dump As Netflix Tries To Act Normal About The Whole Thing [Update]",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/gta-6-leaker-takes-fans-to-a-strip-club-in-seventh-gameplay-dump-2000727032",
+      "thumbnail": "/drops/thumbs/565143d71807.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
       "thumbnail": "/drops/thumbs/94e688f62423.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f8675bd32d48",
-      "pillar": "gaming",
-      "title": "Final Fantasy VII Revelation Will Be At New York Comic Con, PAX West, And Gamescom",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563779/article/final-fantasy-vii-revelation-will-be-at-new-york-comic-con-pax-west-and-gamescom/",
-      "thumbnail": "/drops/thumbs/f8675bd32d48.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
