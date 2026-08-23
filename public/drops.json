@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T14:36:02+00:00",
+  "generated_utc": "2026-08-23T15:01:49+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "ead9c45d1056",
-      "pillar": "anime",
-      "title": "Solo Leveling's New Anime Rival, Eleceed, Has One Major Problem",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/eleceed-solo-leveling-biggest-rival-one-problem/",
-      "thumbnail": "/drops/thumbs/ead9c45d1056.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "738e119cf882",
       "pillar": "anime",
       "title": "Berserk of Gluttony 2nd Season Anime Debuts in 2027",
@@ -129,6 +117,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/one-piece-movies-2027-and-2029/",
       "thumbnail": "/drops/thumbs/f916917d8bb8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ac1f4b14120f",
+      "pillar": "anime",
+      "title": "One Piece Announces Two New Movies In End Of A 27 Year Tradition",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-god-valley-baad-two-movies-end-era/",
+      "thumbnail": "/drops/thumbs/ac1f4b14120f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "32be0e811f65",
     "889de6561410",
     "2a4148a97c14",
-    "ead9c45d1056",
+    "738e119cf882",
     "34cfe7389d17",
     "09356b6d16b2"
   ]
