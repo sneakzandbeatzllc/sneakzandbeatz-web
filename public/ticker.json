@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T15:01:49+00:00",
+  "generated_utc": "2026-08-23T15:37:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,27 @@
       "article_slug": null
     },
     {
+      "title": "One Piece Card Game is collaborating with Final Fantasy's best artist",
+      "url": "https://www.polygon.com/one-piece-card-game-final-fantasy/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "I Love One Piece, But Netflix's Season 3 Must Ignore Oda This One Time",
+      "url": "https://screenrant.com/one-piece-season-3-netflix-pell-death/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Live-Action One Piece Season 3 Reveals 4 New Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-23/live-action-one-piece-season-3-reveals-4-new-cast-members/.240883",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece will get two more movies before the end of the decade",
       "url": "https://www.polygon.com/one-piece-movies-2027-and-2029/",
       "pillar": "anime",
@@ -81,27 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Live-Action One Piece Season 3 Reveals 4 New Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-23/live-action-one-piece-season-3-reveals-4-new-cast-members/.240883",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "7 years later, one Vinland Saga line remains anime’s greatest lesson about violence",
-      "url": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece: All of Imu's Swords Revealed So Far",
-      "url": "https://screenrant.com/one-piece-imu-all-swords-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One Piece Announces 2 New Anime Films",
       "url": "https://www.animenewsnetwork.com/news/2026-08-23/one-piece-announces-2-new-anime-films/.240878",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Black Clover Filler List: Every Episode You Can Skip",
-      "url": "https://screenrant.com/every-black-clover-filler-episode/",
+      "title": "One Piece: All of Imu's Swords Revealed So Far",
+      "url": "https://screenrant.com/one-piece-imu-all-swords-explained/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
