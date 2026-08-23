@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T13:37:12+00:00",
+  "generated_utc": "2026-08-23T14:00:25+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "889de6561410",
+      "pillar": "sneakers",
+      "title": "AWAKE NY x Air Jordan 6 “Blueberry” August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-blueberry-iq5706-400/",
+      "thumbnail": "/drops/thumbs/889de6561410.jpg",
+      "published": "2026-08-23T08:37:49",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "2a4148a97c14",
@@ -87,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "1dd06974b1fb",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 4 Gets a Euro-Exclusive “Light Army” Palette",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-light-army-ja5911-320/",
-      "thumbnail": "/drops/thumbs/1dd06974b1fb.webp",
-      "published": "2026-08-21T18:26:20",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "ead9c45d1056",
       "pillar": "anime",
       "title": "Solo Leveling's New Anime Rival, Eleceed, Has One Major Problem",
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "8d8eeef07770",
+      "id": "f916917d8bb8",
       "pillar": "anime",
-      "title": "7 years later, one Vinland Saga line remains anime’s greatest lesson about violence",
+      "title": "One Piece will get two more movies before the end of the decade",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
-      "thumbnail": "/drops/thumbs/8d8eeef07770.jpg",
+      "source_url": "https://www.polygon.com/one-piece-movies-2027-and-2029/",
+      "thumbnail": "/drops/thumbs/f916917d8bb8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -141,6 +141,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/live-action-one-piece-season-3-reveals-4-new-cast-members/.240883",
       "thumbnail": "/drops/thumbs/7a988443967f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8d8eeef07770",
+      "pillar": "anime",
+      "title": "7 years later, one Vinland Saga line remains anime’s greatest lesson about violence",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
+      "thumbnail": "/drops/thumbs/8d8eeef07770.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -177,18 +189,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/every-black-clover-filler-episode/",
       "thumbnail": "/drops/thumbs/f7c823e88274.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5ec7c53e45af",
-      "pillar": "anime",
-      "title": "5 classic anime that should never get remakes",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/classic-anime-perfect-no-remakes-required/",
-      "thumbnail": "/drops/thumbs/5ec7c53e45af.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "32be0e811f65",
+    "889de6561410",
     "2a4148a97c14",
-    "34cfe7389d17",
     "ead9c45d1056",
-    "ee04a7b590ae",
+    "34cfe7389d17",
     "09356b6d16b2"
   ]
 }

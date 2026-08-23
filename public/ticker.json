@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T13:37:12+00:00",
+  "generated_utc": "2026-08-23T14:00:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-14-low-bin-23/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "AWAKE NY x Air Jordan 6 “Blueberry” August 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/awake-ny-air-jordan-6-blueberry-iq5706-400/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -53,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 4 Gets a Euro-Exclusive “Light Army” Palette",
-      "url": "https://justfreshkicks.com/air-jordan-4-light-army-ja5911-320/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling's New Anime Rival, Eleceed, Has One Major Problem",
       "url": "https://screenrant.com/eleceed-solo-leveling-biggest-rival-one-problem/",
       "pillar": "anime",
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "7 years later, one Vinland Saga line remains anime’s greatest lesson about violence",
-      "url": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
+      "title": "One Piece will get two more movies before the end of the decade",
+      "url": "https://www.polygon.com/one-piece-movies-2027-and-2029/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -83,6 +83,13 @@
     {
       "title": "Live-Action One Piece Season 3 Reveals 4 New Cast Members",
       "url": "https://www.animenewsnetwork.com/news/2026-08-23/live-action-one-piece-season-3-reveals-4-new-cast-members/.240883",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "7 years later, one Vinland Saga line remains anime’s greatest lesson about violence",
+      "url": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -104,13 +111,6 @@
     {
       "title": "Black Clover Filler List: Every Episode You Can Skip",
       "url": "https://screenrant.com/every-black-clover-filler-episode/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "5 classic anime that should never get remakes",
-      "url": "https://www.polygon.com/classic-anime-perfect-no-remakes-required/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
