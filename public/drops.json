@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T03:30:18+00:00",
+  "generated_utc": "2026-08-23T04:31:27+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "b2ab1ba54fe6",
-      "pillar": "anime",
-      "title": "Ize Press Announces Whale Star , Solo Leveling Releases at Anime NYC",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-22/ize-press-announces-whale-star-solo-leveling-releases-at-anime-nyc/.240830",
-      "thumbnail": "/drops/thumbs/b2ab1ba54fe6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ead9c45d1056",
       "pillar": "anime",
       "title": "Solo Leveling's New Anime Rival, Eleceed, Has One Major Problem",
@@ -153,6 +141,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/every-black-clover-filler-episode/",
       "thumbnail": "/drops/thumbs/f7c823e88274.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "15e6111585f4",
+      "pillar": "anime",
+      "title": "Kazé US Manga Imprint Plans to Launch With 5-8 Titles in 2027, to Grow to 25-30 Titles Per Year by 2029",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/kaze-us-manga-imprint-plans-to-launch-with-5-8-titles-in-2027-to-grow-to-25-30-titles-per-year-by-/.240866",
+      "thumbnail": "/drops/thumbs/15e6111585f4.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "32be0e811f65",
     "34cfe7389d17",
     "ee04a7b590ae",
-    "b2ab1ba54fe6",
+    "ead9c45d1056",
     "6f0ec109af40",
     "09356b6d16b2"
   ]

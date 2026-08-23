@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T03:30:18+00:00",
+  "generated_utc": "2026-08-23T04:31:27+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Ize Press Announces Whale Star , Solo Leveling Releases at Anime NYC",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-22/ize-press-announces-whale-star-solo-leveling-releases-at-anime-nyc/.240830",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling's New Anime Rival, Eleceed, Has One Major Problem",
       "url": "https://screenrant.com/eleceed-solo-leveling-biggest-rival-one-problem/",
       "pillar": "anime",
@@ -90,6 +83,13 @@
     {
       "title": "Black Clover Filler List: Every Episode You Can Skip",
       "url": "https://screenrant.com/every-black-clover-filler-episode/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Kazé US Manga Imprint Plans to Launch With 5-8 Titles in 2027, to Grow to 25-30 Titles Per Year by 2029",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-23/kaze-us-manga-imprint-plans-to-launch-with-5-8-titles-in-2027-to-grow-to-25-30-titles-per-year-by-/.240866",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
