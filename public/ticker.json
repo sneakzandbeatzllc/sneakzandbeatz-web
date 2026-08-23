@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T18:40:23+00:00",
+  "generated_utc": "2026-08-23T19:39:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Berserk of Gluttony 2nd Season Anime Debuts in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-23/berserk-of-gluttony-2nd-season-anime-debuts-in-2027/.240874",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One Piece Card Game is collaborating with Final Fantasy's best artist",
       "url": "https://www.polygon.com/one-piece-card-game-final-fantasy/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Uma Musume Franchise Announces New Umayuru Full Gate! Short Anime",
       "url": "https://www.animenewsnetwork.com/news/2026-08-23/uma-musume-franchise-announces-new-umayuru-full-gate-short-anime/.240876",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Gacha Girls Corps Anime Casts Ai Kayano, Rie Kugimiya",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-23/gacha-girls-corps-anime-casts-ai-kayano-rie-kugimiya/.240884",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

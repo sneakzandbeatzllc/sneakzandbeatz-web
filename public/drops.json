@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T18:40:23+00:00",
+  "generated_utc": "2026-08-23T19:39:37+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -99,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "738e119cf882",
-      "pillar": "anime",
-      "title": "Berserk of Gluttony 2nd Season Anime Debuts in 2027",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/berserk-of-gluttony-2nd-season-anime-debuts-in-2027/.240874",
-      "thumbnail": "/drops/thumbs/738e119cf882.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "1f362ca7992b",
       "pillar": "anime",
       "title": "One Piece Card Game is collaborating with Final Fantasy's best artist",
@@ -189,6 +177,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/uma-musume-franchise-announces-new-umayuru-full-gate-short-anime/.240876",
       "thumbnail": "/drops/thumbs/1348b1c06e42.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c312de674333",
+      "pillar": "anime",
+      "title": "Gacha Girls Corps Anime Casts Ai Kayano, Rie Kugimiya",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/gacha-girls-corps-anime-casts-ai-kayano-rie-kugimiya/.240884",
+      "thumbnail": "/drops/thumbs/c312de674333.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -284,7 +284,7 @@
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
-      "thumbnail": "/drops/thumbs/94e688f62423.jpg",
+      "thumbnail": "/drops/thumbs/94e688f62423.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "32be0e811f65",
     "889de6561410",
     "2a4148a97c14",
-    "738e119cf882",
+    "1f362ca7992b",
     "34cfe7389d17",
     "09356b6d16b2"
   ]
