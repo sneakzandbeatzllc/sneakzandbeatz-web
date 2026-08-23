@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T13:35:03+00:00",
+  "generated_utc": "2026-08-23T13:37:12+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "2a4148a97c14",
+      "pillar": "sneakers",
+      "title": "AWAKE NY x Air Jordan 6 “Bubblegum” August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-bubblegum-iq5706-600/",
+      "thumbnail": "/drops/thumbs/2a4148a97c14.jpg",
+      "published": "2026-08-23T08:36:29",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "34cfe7389d17",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-4-light-army-ja5911-320/",
       "thumbnail": "/drops/thumbs/1dd06974b1fb.webp",
       "published": "2026-08-21T18:26:20",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "41bf402cce58",
-      "pillar": "sneakers",
-      "title": "The Whitaker Group x Air Jordan 10 Low Releases June 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/the-whitaker-group-air-jordan-10-low/",
-      "thumbnail": "/drops/thumbs/41bf402cce58.jpg",
-      "published": "2026-08-21T15:30:43",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "32be0e811f65",
+    "2a4148a97c14",
     "34cfe7389d17",
-    "ee04a7b590ae",
     "ead9c45d1056",
-    "6f0ec109af40",
+    "ee04a7b590ae",
     "09356b6d16b2"
   ]
 }

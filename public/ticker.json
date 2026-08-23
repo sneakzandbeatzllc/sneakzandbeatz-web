@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T13:35:03+00:00",
+  "generated_utc": "2026-08-23T13:37:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-14-low-bin-23/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "AWAKE NY x Air Jordan 6 “Bubblegum” August 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/awake-ny-air-jordan-6-bubblegum-iq5706-600/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "The Air Jordan 4 Gets a Euro-Exclusive “Light Army” Palette",
       "url": "https://justfreshkicks.com/air-jordan-4-light-army-ja5911-320/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Whitaker Group x Air Jordan 10 Low Releases June 2027",
-      "url": "https://www.sneakerfiles.com/the-whitaker-group-air-jordan-10-low/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
