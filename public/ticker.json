@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-23T08:32:51+00:00",
+  "generated_utc": "2026-08-23T11:33:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,8 +67,22 @@
       "article_slug": null
     },
     {
+      "title": "Live-Action One Piece Season 3 Reveals 4 New Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-23/live-action-one-piece-season-3-reveals-4-new-cast-members/.240883",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "7 years later, one Vinland Saga line remains anime’s greatest lesson about violence",
       "url": "https://www.polygon.com/vinland-saga-thors-best-quote-explained/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Piece Announces 2 New Anime Films",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-23/one-piece-announces-2-new-anime-films/.240878",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,20 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Murciélago TV Anime Debuts in January 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-23/murcielago-tv-anime-debuts-in-january-2027/.240872",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Kazé US Manga Imprint Plans to Launch With 5-8 Titles in 2027, to Grow to 25-30 Titles Per Year by 2029",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-23/kaze-us-manga-imprint-plans-to-launch-with-5-8-titles-in-2027-to-grow-to-25-30-titles-per-year-by-/.240866",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "5 classic anime that should never get remakes",
       "url": "https://www.polygon.com/classic-anime-perfect-no-remakes-required/",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Publang Announces 5 New BL Manhwa, Web Novel Titles at Anime NYC",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-22/publang-announces-5-new-bl-manhwa-web-novel-titles-at-anime-nyc/.240857",
+      "title": "Murciélago TV Anime Debuts in January 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-23/murcielago-tv-anime-debuts-in-january-2027/.240872",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
