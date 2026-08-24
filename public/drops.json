@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T10:09:03+00:00",
+  "generated_utc": "2026-08-24T10:16:45+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "8fd9a85065ea",
+      "pillar": "anime",
+      "title": "Tokyo Revengers: War of the Three Titans Arc Reveals 4th Trailer, Key Visual, NYCC Appearance with Mariya Ise",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-24/tokyo-revengers-war-of-the-three-titans-arc-reveals-4th-trailer-key-visual-nycc-appearance-with-/.240920",
+      "thumbnail": "/drops/thumbs/8fd9a85065ea.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8487326c2586",
       "pillar": "anime",
       "title": "5 strongest characters in Kaiju No. 8",
@@ -177,18 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-24/red-river-anime-casts-soma-saito-shun-horie/.240893",
       "thumbnail": "/drops/thumbs/159403a3b547.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cc5743f22961",
-      "pillar": "anime",
-      "title": "Yūki Kodama's Agent Jupiter Manga Ends",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/yuki-kodama-agent-jupiter-manga-ends/.240855",
-      "thumbnail": "/drops/thumbs/cc5743f22961.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "32be0e811f65",
     "889de6561410",
     "2a4148a97c14",
-    "8487326c2586",
+    "8fd9a85065ea",
     "a67cab79a652",
     "9fdb679a30c4"
   ]
