@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T15:16:16+00:00",
+  "generated_utc": "2026-08-24T16:14:59+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "b8c1006ab1c7",
+      "id": "aeff9d6ee3a7",
       "pillar": "gaming",
-      "title": "News Protesting PS5 Players Now Plan Permanent Blackout, Meaning No GTA 6 or Wolverine",
+      "title": "News 'This Is Illegal': Stop Killing Games Movement Distances Itself from GTA 6 Leaks",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/protesting-ps5-players-now-plan-permanent-blackout-meaning-no-gta-6-or-wolverine",
-      "thumbnail": "/drops/thumbs/b8c1006ab1c7.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/this-is-illegal-stop-killing-games-movement-distances-itself-from-gta-6-leaks",
+      "thumbnail": "/drops/thumbs/aeff9d6ee3a7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "9fdb679a30c4",
+      "id": "b8c1006ab1c7",
       "pillar": "gaming",
-      "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
+      "title": "News Protesting PS5 Players Now Plan Permanent Blackout, Meaning No GTA 6 or Wolverine",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
-      "thumbnail": "/drops/thumbs/9fdb679a30c4.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/protesting-ps5-players-now-plan-permanent-blackout-meaning-no-gta-6-or-wolverine",
+      "thumbnail": "/drops/thumbs/b8c1006ab1c7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "2a4148a97c14",
     "8fd9a85065ea",
     "a67cab79a652",
-    "b8c1006ab1c7"
+    "aeff9d6ee3a7"
   ]
 }
