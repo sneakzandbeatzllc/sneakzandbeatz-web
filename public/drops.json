@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T06:10:09+00:00",
+  "generated_utc": "2026-08-24T06:41:18+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -39,6 +39,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "a67cab79a652",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-metamorphosis/",
+      "thumbnail": "/drops/thumbs/a67cab79a652.jpg",
+      "published": "2026-08-23T23:36:38",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "34cfe7389d17",
       "pillar": "sneakers",
       "title": "The Air Jordan 1 Dons a Nail Polish-Inspired Look Coming in September",
@@ -46,18 +58,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-high-red-polish-fd2596-601/",
       "thumbnail": "/drops/thumbs/34cfe7389d17.jpg",
       "published": "2026-08-20T18:29:41",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "ee04a7b590ae",
-      "pillar": "sneakers",
-      "title": "Awake NY x Air Jordan 6 Collection Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-2026/",
-      "thumbnail": "/drops/thumbs/ee04a7b590ae.jpg",
-      "published": "2026-08-19T03:37:53",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -75,25 +75,25 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "2c61dd119726",
+      "id": "7b12ffdb5143",
       "pillar": "sneakers",
-      "title": "Air Jordan 4 “Pink Thunder” Releases December 2026",
+      "title": "Air Jordan 5 “Halloween” Releases October 2026",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-pink-thunder/",
-      "thumbnail": "/drops/thumbs/2c61dd119726.jpg",
-      "published": "2026-08-23T23:02:51",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-5-halloween-2026/",
+      "thumbnail": "/drops/thumbs/7b12ffdb5143.jpg",
+      "published": "2026-08-23T23:24:52",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
     },
     {
-      "id": "7a92cd8da621",
+      "id": "33c497a3b340",
       "pillar": "sneakers",
-      "title": "Air Jordan 11 “Space Jam” Returns December 2026",
+      "title": "Air Jordan 14 “Forest Green” Returns October 2026",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-11-space-jam-2026/",
-      "thumbnail": "/drops/thumbs/7a92cd8da621.jpg",
-      "published": "2026-08-23T22:42:22",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-14-forest-green-2026/",
+      "thumbnail": "/drops/thumbs/33c497a3b340.jpg",
+      "published": "2026-08-23T23:11:24",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -159,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "159403a3b547",
+      "pillar": "anime",
+      "title": "Red River Anime Casts Sōma Saitō, Shun Horie",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-24/red-river-anime-casts-soma-saito-shun-horie/.240893",
+      "thumbnail": "/drops/thumbs/159403a3b547.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "cc5743f22961",
       "pillar": "anime",
       "title": "Yūki Kodama's Agent Jupiter Manga Ends",
@@ -177,18 +189,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/manga-up-global-adds-unwinding-with-the-aloof-girl-at-the-standing-bar-manga/.240877",
       "thumbnail": "/drops/thumbs/3343faf772db.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7146053f82c9",
-      "pillar": "anime",
-      "title": "Ignatz Awards Nominate Box Garden Beetle Manga for Outstanding Collection",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/ignatz-awards-nominate-box-garden-beetle-manga-for-outstanding-collection/.240875",
-      "thumbnail": "/drops/thumbs/7146053f82c9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -296,7 +296,7 @@
     "889de6561410",
     "2a4148a97c14",
     "8487326c2586",
-    "34cfe7389d17",
+    "a67cab79a652",
     "09356b6d16b2"
   ]
 }
