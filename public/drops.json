@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T19:19:15+00:00",
+  "generated_utc": "2026-08-24T19:28:49+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "aeff9d6ee3a7",
-      "pillar": "gaming",
-      "title": "News 'This Is Illegal': Stop Killing Games Movement Distances Itself from GTA 6 Leaks",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/this-is-illegal-stop-killing-games-movement-distances-itself-from-gta-6-leaks",
-      "thumbnail": "/drops/thumbs/aeff9d6ee3a7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "acef1e304973",
       "pillar": "gaming",
       "title": "Latest GTA 6 leaks see Cyberleek threaten Rockstar with Lucia story spoilers – and examine nude NPCs",
@@ -279,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "192aecb6fb54",
+      "pillar": "gaming",
+      "title": "News The Witcher 4 Set for a 2028 Release, CD Projekt Red Confirms",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/the-witcher-4-set-for-a-2028-release-cd-projekt-red-confirms",
+      "thumbnail": "/drops/thumbs/192aecb6fb54.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9ddd5cb2ee2b",
       "pillar": "gaming",
       "title": "The Witcher 4 Won’t Be At Gamescom, But Finally Has A 2028 Launch Window",
@@ -297,6 +297,6 @@
     "2a4148a97c14",
     "1a0bfc67becc",
     "a67cab79a652",
-    "aeff9d6ee3a7"
+    "acef1e304973"
   ]
 }
