@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T13:14:24+00:00",
+  "generated_utc": "2026-08-24T13:31:09+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "9fdb679a30c4",
+      "id": "b8c1006ab1c7",
       "pillar": "gaming",
-      "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
+      "title": "News Protesting PS5 Players Now Plan Permanent Blackout, Meaning No GTA 6 or Wolverine",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
-      "thumbnail": "/drops/thumbs/9fdb679a30c4.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/protesting-ps5-players-now-plan-permanent-blackout-meaning-no-gta-6-or-wolverine",
+      "thumbnail": "/drops/thumbs/b8c1006ab1c7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +225,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563789/article/so-the-next-gta-6-leak-might-be-salacious/",
       "thumbnail": "/drops/thumbs/54d9300328d5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9fdb679a30c4",
+      "pillar": "gaming",
+      "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
+      "thumbnail": "/drops/thumbs/9fdb679a30c4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "efb5b8b7c001",
-      "pillar": "gaming",
-      "title": "4 years ago, Dave Bautista's casting as Kratos was manifested in a Guardians of the Galaxy special",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/fantasy-shows/4-years-ago-dave-bautistas-casting-as-kratos-was-manifested-in-a-guardians-of-the-galaxy-special/",
-      "thumbnail": "/drops/thumbs/efb5b8b7c001.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "2a4148a97c14",
     "8fd9a85065ea",
     "a67cab79a652",
-    "9fdb679a30c4"
+    "b8c1006ab1c7"
   ]
 }
