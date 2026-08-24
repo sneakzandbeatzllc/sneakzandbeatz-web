@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T09:45:37+00:00",
+  "generated_utc": "2026-08-24T10:09:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "GTA 6 is \"the north star of gaming,\" Gamescom chief says, but that doesn't mean it'll last forever",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-red-dead-redemption-2-are-the-north-stars-of-gaming-says-gamescom-chief-but-they-wont-last-forever-because-most-gamers-arent-only-interested-in-a-single-game/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Cyberleek Down: Take-Two (Ironically) Uses Legal Means To DMCA GTA 6 Leaks And Find The Leakers",
       "url": "https://gameranx.com/updates/id/563784/article/cyberleek-down-take-two-ironically-uses-legal-means-to-dmca-gta-6-leaks-and-find-the-leakers/",
       "pillar": "gaming",
@@ -144,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "I've fallen for GTA RP, and it shows what the future of GTA 6 Online could be",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ive-fallen-for-gta-rp-and-it-shows-what-the-future-of-gta-6-online-could-be/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Another GTA 6 Data Leak Has Occurred, Separate From Cyberleek",
       "url": "https://gameranx.com/updates/id/563781/article/another-gta-6-data-leak-has-occurred-separate-from-cyberleek/",
       "pillar": "gaming",
@@ -153,20 +167,6 @@
     {
       "title": "The Hunt Is On For The Identity Of GTA 6 Leaker Cyberleek",
       "url": "https://gameranx.com/updates/id/563777/article/the-hunt-is-on-for-the-identity-of-gta-6-leaker-cyberleek/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "FromSoftware ends The Duskbloods' first closed network test session early",
-      "url": "https://www.gamesradar.com/games/action/the-duskbloods-servers-buckle-as-the-first-closed-network-test-struggles-to-support-the-onslaught-of-fans-trying-to-play-fromsoftwares-switch-2-exclusive/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Intergalactic: The Heretic Prophet shows first signs of life in months, adds an Uncharted actor",
-      "url": "https://www.gamesradar.com/games/action/intergalactic-the-heretic-prophet-shows-first-signs-of-life-in-months-as-naughty-dog-adds-an-uncharted-and-the-last-of-us-actor-to-its-cast/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
