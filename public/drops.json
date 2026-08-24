@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T19:28:49+00:00",
+  "generated_utc": "2026-08-24T20:19:06+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -87,13 +87,13 @@
       "release_badge": ""
     },
     {
-      "id": "7b12ffdb5143",
+      "id": "718a0dc79f1a",
       "pillar": "sneakers",
-      "title": "Air Jordan 5 “Halloween” Releases October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-5-halloween-2026/",
-      "thumbnail": "/drops/thumbs/7b12ffdb5143.jpg",
-      "published": "2026-08-23T23:24:52",
+      "title": "Where to Buy the Air Jordan 8 “Chrome”",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
+      "published": "2026-08-24T03:06:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "acef1e304973",
+      "id": "b0dd4e124070",
       "pillar": "gaming",
-      "title": "Latest GTA 6 leaks see Cyberleek threaten Rockstar with Lucia story spoilers – and examine nude NPCs",
+      "title": "I've fallen for GTA RP, and it shows what the future of GTA 6 Online could be",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/latest-gta-6-leaks-see-cyberleek-threaten-rockstar-with-lucia-story-spoilers-and-closely-examine-naked-npcs/",
-      "thumbnail": "/drops/thumbs/acef1e304973.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/ive-fallen-for-gta-rp-and-it-shows-what-the-future-of-gta-6-online-could-be/",
+      "thumbnail": "/drops/thumbs/b0dd4e124070.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,18 +213,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563798/article/yes-the-latest-gta-6-leak-really-is-in-a-nudist-camp-and-cyberleek-demands-more/",
       "thumbnail": "/drops/thumbs/0d27f7998397.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b0dd4e124070",
-      "pillar": "gaming",
-      "title": "I've fallen for GTA RP, and it shows what the future of GTA 6 Online could be",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/ive-fallen-for-gta-rp-and-it-shows-what-the-future-of-gta-6-online-could-be/",
-      "thumbnail": "/drops/thumbs/b0dd4e124070.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "192aecb6fb54",
-      "pillar": "gaming",
-      "title": "News The Witcher 4 Set for a 2028 Release, CD Projekt Red Confirms",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/the-witcher-4-set-for-a-2028-release-cd-projekt-red-confirms",
-      "thumbnail": "/drops/thumbs/192aecb6fb54.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9ddd5cb2ee2b",
       "pillar": "gaming",
       "title": "The Witcher 4 Won’t Be At Gamescom, But Finally Has A 2028 Launch Window",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/the-witcher-4-release-window-2028-gamescom-trailer-2000727598",
       "thumbnail": "/drops/thumbs/9ddd5cb2ee2b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "94e688f62423",
+      "pillar": "gaming",
+      "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
+      "thumbnail": "/drops/thumbs/94e688f62423.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "698fb0cd6627",
+      "pillar": "gaming",
+      "title": "Spider-Man Punches Racists At Minneapolis Protest And Gets Arrested",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/spider-man-jake-lang-minneapolis-protest-shiloh-hendrix-2000727520",
+      "thumbnail": "/drops/thumbs/698fb0cd6627.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "2a4148a97c14",
     "1a0bfc67becc",
     "a67cab79a652",
-    "acef1e304973"
+    "b0dd4e124070"
   ]
 }
