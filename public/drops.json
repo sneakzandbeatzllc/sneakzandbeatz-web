@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T21:21:05+00:00",
+  "generated_utc": "2026-08-24T22:22:07+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -99,24 +99,24 @@
       "release_badge": ""
     },
     {
-      "id": "1a0bfc67becc",
+      "id": "e389fecf090f",
       "pillar": "anime",
-      "title": "One Piece Announces 2 New Anime Films ONE PIECE FILM GOD VALLEY opens in summer 2027, ONE PIECE FILM BAAD opens in 2029",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/one-piece-announces-2-new-anime-films/.240878",
-      "thumbnail": "/drops/thumbs/1a0bfc67becc.jpg",
+      "title": "A $7 billion Dragon Ball Z theme park is now officially in the works",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dragon-ball-z-manga-theme-park-paris/",
+      "thumbnail": "/drops/thumbs/e389fecf090f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "48ab74327136",
+      "id": "1a0bfc67becc",
       "pillar": "anime",
-      "title": "Bleach’s new Ichigo form has fans wondering if he has more than one Bankai",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/bleach-new-ichigo-form/",
-      "thumbnail": "/drops/thumbs/48ab74327136.webp",
+      "title": "One Piece Announces 2 New Anime Films ONE PIECE FILM GOD VALLEY opens in summer 2027, ONE PIECE FILM BAAD opens in 2029",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-23/one-piece-announces-2-new-anime-films/.240878",
+      "thumbnail": "/drops/thumbs/1a0bfc67becc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "8487326c2586",
+      "id": "48ab74327136",
       "pillar": "anime",
-      "title": "5 strongest characters in Kaiju No. 8",
+      "title": "Bleach’s new Ichigo form has fans wondering if he has more than one Bankai",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/strongest-characters-kaiju-no-8-ranked/",
-      "thumbnail": "/drops/thumbs/8487326c2586.png",
+      "source_url": "https://www.polygon.com/bleach-new-ichigo-form/",
+      "thumbnail": "/drops/thumbs/48ab74327136.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -272,7 +272,7 @@
       "title": "Big Preview Following 2 hours of hands-on access with Marvel's Wolverine and a snarling chat with Insomniac Games, the Spider-Man studio is still the best at what it does",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/",
-      "thumbnail": "/drops/thumbs/94e688f62423.jpg",
+      "thumbnail": "/drops/thumbs/94e688f62423.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "32be0e811f65",
     "889de6561410",
     "2a4148a97c14",
-    "1a0bfc67becc",
+    "e389fecf090f",
     "a67cab79a652",
     "b0dd4e124070"
   ]
