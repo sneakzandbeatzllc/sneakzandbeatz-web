@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-24T11:18:57+00:00",
+  "generated_utc": "2026-08-24T11:50:01+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -75,6 +75,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "4d7578cd0893",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Light Army” Releases Holiday 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-light-army/",
+      "thumbnail": "/drops/thumbs/4d7578cd0893.jpg",
+      "published": "2026-08-24T04:18:44",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "7b12ffdb5143",
       "pillar": "sneakers",
       "title": "Air Jordan 5 “Halloween” Releases October 2026",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-5-halloween-2026/",
       "thumbnail": "/drops/thumbs/7b12ffdb5143.jpg",
       "published": "2026-08-23T23:24:52",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "33c497a3b340",
-      "pillar": "sneakers",
-      "title": "Air Jordan 14 “Forest Green” Returns October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-14-forest-green-2026/",
-      "thumbnail": "/drops/thumbs/33c497a3b340.jpg",
-      "published": "2026-08-23T23:11:24",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "905c48ef1e92",
+      "id": "54d9300328d5",
       "pillar": "gaming",
-      "title": "Cyberleek Down: Take-Two (Ironically) Uses Legal Means To DMCA GTA 6 Leaks And Find The Leakers",
+      "title": "So, The Next GTA 6 Leak Might Be Salacious…",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563784/article/cyberleek-down-take-two-ironically-uses-legal-means-to-dmca-gta-6-leaks-and-find-the-leakers/",
-      "thumbnail": "/drops/thumbs/905c48ef1e92.jpg",
+      "source_url": "https://gameranx.com/updates/id/563789/article/so-the-next-gta-6-leak-might-be-salacious/",
+      "thumbnail": "/drops/thumbs/54d9300328d5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "09356b6d16b2",
-      "pillar": "gaming",
-      "title": "News GTA 6 Leaks Prompt Fans to Bring Out the Memes as Netflix Puts a Brave Face on Things",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-leaks-prompt-fans-to-bring-out-the-memes-as-netflix-puts-a-brave-face-on-things",
-      "thumbnail": "/drops/thumbs/09356b6d16b2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b0dd4e124070",
       "pillar": "gaming",
       "title": "I've fallen for GTA RP, and it shows what the future of GTA 6 Online could be",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/ive-fallen-for-gta-rp-and-it-shows-what-the-future-of-gta-6-online-could-be/",
       "thumbnail": "/drops/thumbs/b0dd4e124070.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "905c48ef1e92",
+      "pillar": "gaming",
+      "title": "Cyberleek Down: Take-Two (Ironically) Uses Legal Means To DMCA GTA 6 Leaks And Find The Leakers",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563784/article/cyberleek-down-take-two-ironically-uses-legal-means-to-dmca-gta-6-leaks-and-find-the-leakers/",
+      "thumbnail": "/drops/thumbs/905c48ef1e92.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
