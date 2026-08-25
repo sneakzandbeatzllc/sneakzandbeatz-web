@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T13:11:27+00:00",
+  "generated_utc": "2026-08-25T14:27:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -88,15 +88,15 @@
       "article_slug": null
     },
     {
-      "title": "Magic Repo Man Anime Unveils New Cast Member, October 4 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/magic-repo-man-anime-unveils-new-cast-member-october-4-debut/.240957",
+      "title": "Matsuken Anime Reveals Ken Matsudaira, Sumire Uesaka as Main Cast Members, August 29 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/matsuken-anime-reveals-ken-matsudaira-sumire-uesaka-as-main-cast-members-august-29-debut/.240962",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Ami Koshimizu",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-ami-koshimizu/.240961",
+      "title": "Magic Repo Man Anime Unveils New Cast Member, October 4 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/magic-repo-man-anime-unveils-new-cast-member-october-4-debut/.240957",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "'Fall in Love, You False Angels' Manga Goes on Hiatus",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/fall-in-love-you-false-angels-manga-goes-on-hiatus/.240940",
+      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Ami Koshimizu",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-ami-koshimizu/.240961",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -130,22 +130,29 @@
       "article_slug": null
     },
     {
+      "title": "Take-Two’s GTA 6 Subpoenas On Twitter And Microsoft Have Been Granted – But Will They Really Help Them Find Cyberleek?",
+      "url": "https://gameranx.com/updates/id/563815/article/take-twos-gta-6-subpoenas-on-twitter-and-microsoft-have-been-granted-but-will-they-really-help-them-find-cyberleek/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6′ s Lucky Leak #13 Reveals Crowd Scenes You Will Not Believe",
+      "url": "https://kotaku.com/gta-6-leak-13-beach-crowds-bike-rockstar-cyberleek-grand-theft-auto-2000727857",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Discord will \"evaluate the validity and scope before responding\" to controversial GTA 6 court order",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/discord-will-evaluate-the-validity-and-scope-before-responding-to-controversial-gta-6-leaks-court-order-but-the-platform-has-not-yet-been-served/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "“Stop The Hate” – Cyberleek Looks For Support From GTA 6 Community And Calls For Protests",
       "url": "https://gameranx.com/updates/id/563806/article/stop-the-hate-cyberleek-looks-for-support-from-gta-6-community-and-calls-for-protests/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New GTA 6 Leak Is Filled With Boobs And Dicks",
-      "url": "https://kotaku.com/new-gta-6-leak-is-filled-with-boobs-and-dicks-2000727526",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "I've fallen for GTA RP, and it shows what the future of GTA 6 Online could be",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ive-fallen-for-gta-rp-and-it-shows-what-the-future-of-gta-6-online-could-be/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Yes, The Latest GTA 6 Leak Really Is In A Nudist Camp – And Cyberleek Demands More",
       "url": "https://gameranx.com/updates/id/563798/article/yes-the-latest-gta-6-leak-really-is-in-a-nudist-camp-and-cyberleek-demands-more/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Witcher 4 Won’t Be At Gamescom, But Finally Has A 2028 Launch Window",
-      "url": "https://kotaku.com/the-witcher-4-release-window-2028-gamescom-trailer-2000727598",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
