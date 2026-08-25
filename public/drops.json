@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T15:30:41+00:00",
+  "generated_utc": "2026-08-25T15:44:14+00:00",
   "items": [
     {
       "id": "38239af0b6aa",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "3ebb361c41ab",
+      "pillar": "gaming",
+      "title": "News Anime Open World Ananta Could Release Just 8 Weeks After GTA 6 on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-could-release-just-8-weeks-after-gta-6-on-ps5",
+      "thumbnail": "/drops/thumbs/3ebb361c41ab.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b2aeedd95e26",
       "pillar": "gaming",
       "title": "Latest GTA 6 leak heads to the beach, and it looks like Rockstar's delivering on the crowds",
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "698fb0cd6627",
-      "pillar": "gaming",
-      "title": "Spider-Man Punches Racists At Minneapolis Protest And Gets Arrested",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/spider-man-jake-lang-minneapolis-protest-shiloh-hendrix-2000727520",
-      "thumbnail": "/drops/thumbs/698fb0cd6627.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "f326a8cd9b49",
     "e389fecf090f",
     "2a4148a97c14",
-    "b2aeedd95e26"
+    "3ebb361c41ab"
   ]
 }
