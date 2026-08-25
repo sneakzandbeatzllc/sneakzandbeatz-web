@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T20:17:53+00:00",
+  "generated_utc": "2026-08-25T20:32:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,8 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Discord will \"evaluate the validity and scope before responding\" to controversial GTA 6 court order",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/discord-will-evaluate-the-validity-and-scope-before-responding-to-controversial-gta-6-leaks-court-order-but-the-platform-has-not-yet-been-served/",
+      "title": "New GTA 6 leak shows one game that pokes fun at The Last of Us and Naughty Dog's many remasters",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leak-shows-physical-media-is-alive-and-well-in-vice-city-including-one-game-that-pokes-fun-at-the-last-of-us-and-naughty-dogs-many-remasters/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +132,6 @@
     {
       "title": "Anime ‘ GTA 6 Killer’ Ananta Finally Has A Release Date And A Slick New Trailer",
       "url": "https://kotaku.com/anime-gta-6-killer-ananta-finally-has-a-release-date-and-a-slick-new-trailer-2000728011",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New GTA 6 leak shows one game that pokes fun at The Last of Us and Naughty Dog's many remasters",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leak-shows-physical-media-is-alive-and-well-in-vice-city-including-one-game-that-pokes-fun-at-the-last-of-us-and-naughty-dogs-many-remasters/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,6 +153,13 @@
     {
       "title": "Yes, The Latest GTA 6 Leak Really Is In A Nudist Camp – And Cyberleek Demands More",
       "url": "https://gameranx.com/updates/id/563798/article/yes-the-latest-gta-6-leak-really-is-in-a-nudist-camp-and-cyberleek-demands-more/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News First Look at The Witcher 3: Songs of the Past DLC Shows Chain Combat as Past Expansions Are Made Free for All",
+      "url": "https://www.pushsquare.com/news/2026/08/first-look-at-the-witcher-3-songs-of-the-past-dlc-shows-chain-combat-as-past-expansions-are-made-free-for-all",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

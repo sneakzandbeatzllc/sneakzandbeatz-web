@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T20:17:53+00:00",
+  "generated_utc": "2026-08-25T20:32:18+00:00",
   "items": [
     {
       "id": "38239af0b6aa",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "78d8a2f896c3",
+      "id": "55b82d157c7c",
       "pillar": "gaming",
-      "title": "Discord will \"evaluate the validity and scope before responding\" to controversial GTA 6 court order",
+      "title": "New GTA 6 leak shows one game that pokes fun at The Last of Us and Naughty Dog's many remasters",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/discord-will-evaluate-the-validity-and-scope-before-responding-to-controversial-gta-6-leaks-court-order-but-the-platform-has-not-yet-been-served/",
-      "thumbnail": "/drops/thumbs/78d8a2f896c3.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leak-shows-physical-media-is-alive-and-well-in-vice-city-including-one-game-that-pokes-fun-at-the-last-of-us-and-naughty-dogs-many-remasters/",
+      "thumbnail": "/drops/thumbs/55b82d157c7c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,18 +225,6 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/anime-gta-6-killer-ananta-finally-has-a-release-date-and-a-slick-new-trailer-2000728011",
       "thumbnail": "/drops/thumbs/975cf80c41db.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "55b82d157c7c",
-      "pillar": "gaming",
-      "title": "New GTA 6 leak shows one game that pokes fun at The Last of Us and Naughty Dog's many remasters",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leak-shows-physical-media-is-alive-and-well-in-vice-city-including-one-game-that-pokes-fun-at-the-last-of-us-and-naughty-dogs-many-remasters/",
-      "thumbnail": "/drops/thumbs/55b82d157c7c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "3910fa530b5b",
+      "pillar": "gaming",
+      "title": "News First Look at The Witcher 3: Songs of the Past DLC Shows Chain Combat as Past Expansions Are Made Free for All",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/first-look-at-the-witcher-3-songs-of-the-past-dlc-shows-chain-combat-as-past-expansions-are-made-free-for-all",
+      "thumbnail": "/drops/thumbs/3910fa530b5b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "83dcdc75afe2",
       "pillar": "gaming",
       "title": "News Massively Upgraded The Witcher 3 Remaster Comes to PS5 in September, Free for Existing Players",
@@ -297,6 +297,6 @@
     "f326a8cd9b49",
     "e389fecf090f",
     "2a4148a97c14",
-    "78d8a2f896c3"
+    "55b82d157c7c"
   ]
 }
