@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T19:33:37+00:00",
+  "generated_utc": "2026-08-25T20:17:53+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "Manga Up! Global Adds 'If Witch, Then Which?' Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/manga-up-global-adds-if-witch-then-which-manga/.240968",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Akira officially returns to theaters in IMAX and 4K in September",
       "url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
       "pillar": "anime",
@@ -109,16 +102,16 @@
       "article_slug": null
     },
     {
-      "title": "Matsuken Anime Reveals Ken Matsudaira, Sumire Uesaka as Main Cast Members, August 29 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/matsuken-anime-reveals-ken-matsudaira-sumire-uesaka-as-main-cast-members-august-29-debut/.240962",
+      "title": "Forget Everything You Know About Game World Isekai With This New Series (Exclusive)",
+      "url": "https://screenrant.com/exiled-heavy-knight-new-game-world-isekai/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Anime Open World Ananta Launches as a PS5 Console Exclusive 8 Weeks After GTA 6",
-      "url": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-launches-as-a-ps5-console-exclusive-8-weeks-after-gta-6",
-      "pillar": "gaming",
+      "title": "Netflix's Upcoming Dystopian Series Could Be 2026's Next Big Sci-Fi Hit",
+      "url": "https://screenrant.com/fool-night-dystopian-sci-fi-netflix/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -167,6 +160,13 @@
     {
       "title": "Yes, The Latest GTA 6 Leak Really Is In A Nudist Camp – And Cyberleek Demands More",
       "url": "https://gameranx.com/updates/id/563798/article/yes-the-latest-gta-6-leak-really-is-in-a-nudist-camp-and-cyberleek-demands-more/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Massively Upgraded The Witcher 3 Remaster Comes to PS5 in September, Free for Existing Players",
+      "url": "https://www.pushsquare.com/news/2026/08/massively-upgraded-the-witcher-3-remaster-comes-to-ps5-in-september-free-for-existing-players",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
