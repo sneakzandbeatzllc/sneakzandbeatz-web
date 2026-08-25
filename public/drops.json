@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T21:33:17+00:00",
+  "generated_utc": "2026-08-25T22:19:50+00:00",
   "items": [
     {
       "id": "38239af0b6aa",
@@ -75,24 +75,24 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "34cfe7389d17",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 1 Dons a Nail Polish-Inspired Look Coming in September",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-high-red-polish-fd2596-601/",
-      "thumbnail": "/drops/thumbs/34cfe7389d17.jpg",
-      "published": "2026-08-20T18:29:41",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
       "id": "9a2e759f3957",
       "pillar": "sneakers",
       "title": "Air Jordan 4 “London” Releases September 2026",
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-4-london-release-date/",
       "thumbnail": "/drops/thumbs/9a2e759f3957.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "029d8f92f3fb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-7-tennis-day/",
+      "thumbnail": "/drops/thumbs/029d8f92f3fb.webp",
       "published": "",
       "relative_time": "today",
       "score": 2.4,
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "975cf80c41db",
+      "id": "105100adb139",
       "pillar": "gaming",
-      "title": "Anime ‘ GTA 6 Killer’ Ananta Finally Has A Release Date And A Slick New Trailer",
+      "title": "GTA 6′ s Lucky Leak #13 Reveals Crowd Scenes You Will Not Believe",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/anime-gta-6-killer-ananta-finally-has-a-release-date-and-a-slick-new-trailer-2000728011",
-      "thumbnail": "/drops/thumbs/975cf80c41db.jpg",
+      "source_url": "https://kotaku.com/gta-6-leak-13-beach-crowds-bike-rockstar-cyberleek-grand-theft-auto-2000727857",
+      "thumbnail": "/drops/thumbs/105100adb139.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "81a8a286d1ff",
-      "pillar": "gaming",
-      "title": "News The Weapons Star in Fresh Look at Final Fantasy 7 Revelation, Still Set for Spring 2027 on PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/the-weapons-star-in-fresh-look-at-final-fantasy-7-revelation-still-set-for-spring-2027-on-ps5",
-      "thumbnail": "/drops/thumbs/81a8a286d1ff.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f21cd4cbbe32",
       "pillar": "gaming",
       "title": "The Witcher 3 Remastered is coming next month as a free upgrade for all, free expansions out today",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-is-coming-next-month-as-a-free-upgrade-for-all-players-and-everyones-getting-free-expansions-today/",
       "thumbnail": "/drops/thumbs/f21cd4cbbe32.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b0fdd2746c01",
+      "pillar": "gaming",
+      "title": "Final Fantasy 7 Revelation’ s Latest Trailer Is Packed With Weapons",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/final-fantasy-7-revelation-spring-2027-2000728051",
+      "thumbnail": "/drops/thumbs/b0fdd2746c01.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
