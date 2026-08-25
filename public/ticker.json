@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T10:24:13+00:00",
+  "generated_utc": "2026-08-25T10:28:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,8 +123,8 @@
       "article_slug": null
     },
     {
-      "title": "I've fallen for GTA RP, and it shows what the future of GTA 6 Online could be",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ive-fallen-for-gta-rp-and-it-shows-what-the-future-of-gta-6-online-could-be/",
+      "title": "Discord will \"evaluate the validity and scope before responding\" to controversial GTA 6 court order",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/discord-will-evaluate-the-validity-and-scope-before-responding-to-controversial-gta-6-leaks-court-order-but-the-platform-has-not-yet-been-served/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -139,6 +139,13 @@
     {
       "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
       "url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "I've fallen for GTA RP, and it shows what the future of GTA 6 Online could be",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ive-fallen-for-gta-rp-and-it-shows-what-the-future-of-gta-6-online-could-be/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "Cyberleek Down: Take-Two (Ironically) Uses Legal Means To DMCA GTA 6 Leaks And Find The Leakers",
       "url": "https://gameranx.com/updates/id/563784/article/cyberleek-down-take-two-ironically-uses-legal-means-to-dmca-gta-6-leaks-and-find-the-leakers/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Witcher 4 Won’t Be At Gamescom, But Finally Has A 2028 Launch Window",
-      "url": "https://kotaku.com/the-witcher-4-release-window-2028-gamescom-trailer-2000727598",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
