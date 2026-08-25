@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T01:32:25+00:00",
+  "generated_utc": "2026-08-25T02:23:29+00:00",
   "items": [
     {
       "id": "32be0e811f65",
@@ -135,18 +135,6 @@
       "release_badge": ""
     },
     {
-      "id": "48ab74327136",
-      "pillar": "anime",
-      "title": "Bleach’s new Ichigo form has fans wondering if he has more than one Bankai",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/bleach-new-ichigo-form/",
-      "thumbnail": "/drops/thumbs/48ab74327136.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ac1f4b14120f",
       "pillar": "anime",
       "title": "One Piece Announces Two New Movies In End Of A 27 Year Tradition",
@@ -177,6 +165,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-08-24/retrocrush-adds-guyver-ova-live-action-dororo-film/.240885",
       "thumbnail": "/drops/thumbs/a968d9b39c30.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "aae2aed749c2",
+      "pillar": "anime",
+      "title": "Akira officially returns to theaters in IMAX and 4K in September",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
+      "thumbnail": "/drops/thumbs/aae2aed749c2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

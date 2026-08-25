@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T01:32:25+00:00",
+  "generated_utc": "2026-08-25T02:23:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Bleach’s new Ichigo form has fans wondering if he has more than one Bankai",
-      "url": "https://www.polygon.com/bleach-new-ichigo-form/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One Piece Announces Two New Movies In End Of A 27 Year Tradition",
       "url": "https://screenrant.com/one-piece-god-valley-baad-two-movies-end-era/",
       "pillar": "anime",
@@ -104,6 +97,13 @@
     {
       "title": "RetroCrush Adds Guyver OVA, Live-Action Dororo Film",
       "url": "https://www.animenewsnetwork.com/news/2026-08-24/retrocrush-adds-guyver-ova-live-action-dororo-film/.240885",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Akira officially returns to theaters in IMAX and 4K in September",
+      "url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
