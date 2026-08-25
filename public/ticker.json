@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T05:21:59+00:00",
+  "generated_utc": "2026-08-25T06:24:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Announces 2 New Anime Films ONE PIECE FILM GOD VALLEY opens in summer 2027, ONE PIECE FILM BAAD opens in 2029",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-23/one-piece-announces-2-new-anime-films/.240878",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "I Love One Piece, But Netflix's Season 3 Must Ignore Oda This One Time",
       "url": "https://screenrant.com/one-piece-season-3-netflix-pell-death/",
       "pillar": "anime",
@@ -90,6 +83,13 @@
     {
       "title": "One Piece: All of Imu's Swords Revealed So Far",
       "url": "https://screenrant.com/one-piece-imu-all-swords-explained/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Übel Blatt II Manga Ends on October 23",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/ubel-blatt-ii-manga-ends-on-october-23/.240944",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
