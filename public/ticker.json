@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T14:29:54+00:00",
+  "generated_utc": "2026-08-25T15:13:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,6 +32,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 6 Low WMNS “Desert Berry” September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-6-low-wmns-desert-berry-ix5195-001/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-6-low-metamorphosis/",
       "pillar": "sneakers",
@@ -41,13 +48,6 @@
     {
       "title": "The Air Jordan 1 Dons a Nail Polish-Inspired Look Coming in September",
       "url": "https://justfreshkicks.com/air-jordan-1-high-red-polish-fd2596-601/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 6 Low “Desert Berry” Releases September 2026",
-      "url": "https://sneakerbardetroit.com/air-jordan-6-low-desert-berry-black-ix5195-001/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -88,15 +88,15 @@
       "article_slug": null
     },
     {
-      "title": "Matsuken Anime Reveals Ken Matsudaira, Sumire Uesaka as Main Cast Members, August 29 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/matsuken-anime-reveals-ken-matsudaira-sumire-uesaka-as-main-cast-members-august-29-debut/.240962",
+      "title": "Manga Up! Global Adds 'If Witch, Then Which?' Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/manga-up-global-adds-if-witch-then-which-manga/.240968",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Magic Repo Man Anime Unveils New Cast Member, October 4 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/magic-repo-man-anime-unveils-new-cast-member-october-4-debut/.240957",
+      "title": "Matsuken Anime Reveals Ken Matsudaira, Sumire Uesaka as Main Cast Members, August 29 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/matsuken-anime-reveals-ken-matsudaira-sumire-uesaka-as-main-cast-members-august-29-debut/.240962",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -109,16 +109,9 @@
       "article_slug": null
     },
     {
-      "title": "I Became a Legend After My 10 Year-Long Last Stand Anime Casts Ami Koshimizu",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/i-became-a-legend-after-my-10-year-long-last-stand-anime-casts-ami-koshimizu/.240961",
+      "title": "Magic Repo Man Anime Unveils New Cast Member, October 4 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/magic-repo-man-anime-unveils-new-cast-member-october-4-debut/.240957",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Protesting PS5 Players Now Plan Permanent Blackout, Meaning No GTA 6 or Wolverine",
-      "url": "https://www.pushsquare.com/news/2026/08/protesting-ps5-players-now-plan-permanent-blackout-meaning-no-gta-6-or-wolverine",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -167,6 +160,13 @@
     {
       "title": "Yes, The Latest GTA 6 Leak Really Is In A Nudist Camp – And Cyberleek Demands More",
       "url": "https://gameranx.com/updates/id/563798/article/yes-the-latest-gta-6-leak-really-is-in-a-nudist-camp-and-cyberleek-demands-more/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Spider-Man Punches Racists At Minneapolis Protest And Gets Arrested",
+      "url": "https://kotaku.com/spider-man-jake-lang-minneapolis-protest-shiloh-hendrix-2000727520",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
