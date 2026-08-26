@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-26T01:53:43+00:00",
+  "generated_utc": "2026-08-26T02:25:03+00:00",
   "items": [
+    {
+      "id": "4e69880c87ec",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 14 Low Joins the Bin 23 Revival in June 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
+      "thumbnail": "/drops/thumbs/4e69880c87ec.webp",
+      "published": "2026-08-25T22:17:31",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "38239af0b6aa",
       "pillar": "sneakers",
@@ -81,18 +93,6 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-4-london-release-date/",
       "thumbnail": "/drops/thumbs/9a2e759f3957.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "029d8f92f3fb",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-7-tennis-day/",
-      "thumbnail": "/drops/thumbs/029d8f92f3fb.webp",
       "published": "",
       "relative_time": "today",
       "score": 2.4,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "4e69880c87ec",
     "38239af0b6aa",
     "c30f21518c30",
-    "f326a8cd9b49",
     "e389fecf090f",
-    "2a4148a97c14",
+    "f326a8cd9b49",
     "55b82d157c7c"
   ]
 }
