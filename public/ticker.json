@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-26T00:36:49+00:00",
+  "generated_utc": "2026-08-26T01:22:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball Releases New Artwork For Super Saiyan 3 Goku, And It's Instantly Iconic",
+      "url": "https://screenrant.com/dragon-ball-new-goku-super-saiyan-3-art/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "I Love One Piece, But Netflix's Season 3 Must Ignore Oda This One Time",
       "url": "https://screenrant.com/one-piece-season-3-netflix-pell-death/",
       "pillar": "anime",
@@ -81,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "One Piece: All of Imu's Swords Revealed So Far",
-      "url": "https://screenrant.com/one-piece-imu-all-swords-explained/",
+      "title": "Shiro Yoshida Launches New Kemonogari Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/shiro-yoshida-launches-new-kemonogari-manga/.240960",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Kento Amemiya's Kinato's Magic Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/kento-amemiya-kinato-magic-manga-ends/.240965",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Akira officially returns to theaters in IMAX and 4K in September",
       "url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Detective Conan: The Private Eyes' Requiem Manga Ends in September",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-25/detective-conan-the-private-eyes-requiem-manga-ends-in-september/.240959",
+      "title": "Kento Amemiya's Kinato's Magic Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-25/kento-amemiya-kinato-magic-manga-ends/.240965",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

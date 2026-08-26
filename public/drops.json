@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-26T00:36:49+00:00",
+  "generated_utc": "2026-08-26T01:22:34+00:00",
   "items": [
     {
       "id": "38239af0b6aa",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "8bae34ddaf36",
+      "pillar": "anime",
+      "title": "Dragon Ball Releases New Artwork For Super Saiyan 3 Goku, And It's Instantly Iconic",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-new-goku-super-saiyan-3-art/",
+      "thumbnail": "/drops/thumbs/8bae34ddaf36.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2739b3159cc1",
       "pillar": "anime",
       "title": "I Love One Piece, But Netflix's Season 3 Must Ignore Oda This One Time",
@@ -135,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "7e805f7bc4b2",
+      "id": "fe0d67525af6",
       "pillar": "anime",
-      "title": "One Piece: All of Imu's Swords Revealed So Far",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-imu-all-swords-explained/",
-      "thumbnail": "/drops/thumbs/7e805f7bc4b2.jpg",
+      "title": "Shiro Yoshida Launches New Kemonogari Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-25/shiro-yoshida-launches-new-kemonogari-manga/.240960",
+      "thumbnail": "/drops/thumbs/fe0d67525af6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "96552518418a",
-      "pillar": "anime",
-      "title": "Kento Amemiya's Kinato's Magic Manga Ends",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-25/kento-amemiya-kinato-magic-manga-ends/.240965",
-      "thumbnail": "/drops/thumbs/96552518418a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "aae2aed749c2",
       "pillar": "anime",
       "title": "Akira officially returns to theaters in IMAX and 4K in September",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "a15f7e30840e",
+      "id": "96552518418a",
       "pillar": "anime",
-      "title": "Detective Conan: The Private Eyes' Requiem Manga Ends in September",
+      "title": "Kento Amemiya's Kinato's Magic Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-25/detective-conan-the-private-eyes-requiem-manga-ends-in-september/.240959",
-      "thumbnail": "/drops/thumbs/a15f7e30840e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-25/kento-amemiya-kinato-magic-manga-ends/.240965",
+      "thumbnail": "/drops/thumbs/96552518418a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
