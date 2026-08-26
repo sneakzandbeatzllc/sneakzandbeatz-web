@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-26T17:22:57+00:00",
+  "generated_utc": "2026-08-26T18:23:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "Watch Out, The GTA 6 Leaker Is Now Sharing Story Spoilers",
-      "url": "https://kotaku.com/watch-out-the-gta-6-leaker-is-now-sharing-story-spoilers-2000728456",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rockstar Reveals GTA 6 Leaks Have Been “Heartbreaking For Our Team”",
       "url": "https://gameranx.com/updates/id/563822/article/rockstar-reveals-gta-6-leaks-have-been-heartbreaking-for-our-team/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "News The Witcher 3 Remastered Reveals Huge List of Improvements, Including PS5 Pro Support",
       "url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-reveals-huge-list-of-improvements-including-ps5-pro-support",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Baldur's Gate 3 is \"a great game,\" but Warlock devs say their D&D experience is \"very different\"",
+      "url": "https://www.gamesradar.com/games/open-world/baldurs-gate-3-is-a-great-game-but-warlock-devs-say-their-own-virtual-d-and-d-experience-is-very-different-from-larians-rpg/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
