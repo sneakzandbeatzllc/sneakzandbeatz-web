@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-26T18:58:55+00:00",
+  "generated_utc": "2026-08-26T19:25:41+00:00",
   "items": [
     {
       "id": "4e69880c87ec",
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "f1a60f6b9d6e",
-      "pillar": "gaming",
-      "title": "News The Witcher 3 Remastered Reveals Huge List of Improvements, Including PS5 Pro Support",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-reveals-huge-list-of-improvements-including-ps5-pro-support",
-      "thumbnail": "/drops/thumbs/f1a60f6b9d6e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8bb14a8786fc",
       "pillar": "gaming",
       "title": "Baldur's Gate 3 is \"a great game,\" but Warlock devs say their D&D experience is \"very different\"",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/open-world/baldurs-gate-3-is-a-great-game-but-warlock-devs-say-their-own-virtual-d-and-d-experience-is-very-different-from-larians-rpg/",
       "thumbnail": "/drops/thumbs/8bb14a8786fc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f2f7dcb033af",
+      "pillar": "gaming",
+      "title": "Preview The Witcher 3: Songs of the Past takes the best of CDPR's RPG and pushes it further in Geralt's new final chapter",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-takes-the-best-of-cdprs-rpg-and-pushes-it-further-in-geralts-new-final-chapter/",
+      "thumbnail": "/drops/thumbs/f2f7dcb033af.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
