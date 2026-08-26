@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-26T20:28:23+00:00",
+  "generated_utc": "2026-08-26T21:03:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "News 6 New GTA 6 Facts I Learned Ahead of Its Netflix First Look",
+      "url": "https://www.pushsquare.com/news/2026/08/6-new-gta-6-facts-i-learned-ahead-of-its-netflix-first-look",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rockstar officially responds to GTA 6 leaks: \"This is obviously not how we intended for you to see the game\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-officially-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Baldur's Gate 3 is \"a great game,\" but Warlock devs say their D&D experience is \"very different\"",
       "url": "https://www.gamesradar.com/games/open-world/baldurs-gate-3-is-a-great-game-but-warlock-devs-say-their-own-virtual-d-and-d-experience-is-very-different-from-larians-rpg/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Preview The Witcher 3: Songs of the Past takes the best of CDPR's RPG and pushes it further in Geralt's new final chapter",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-takes-the-best-of-cdprs-rpg-and-pushes-it-further-in-geralts-new-final-chapter/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

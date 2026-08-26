@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-26T20:28:23+00:00",
+  "generated_utc": "2026-08-26T21:03:25+00:00",
   "items": [
     {
       "id": "4e69880c87ec",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "8c7a1c03d528",
+      "pillar": "gaming",
+      "title": "News 6 New GTA 6 Facts I Learned Ahead of Its Netflix First Look",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/6-new-gta-6-facts-i-learned-ahead-of-its-netflix-first-look",
+      "thumbnail": "/drops/thumbs/8c7a1c03d528.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "057fabc62062",
       "pillar": "gaming",
       "title": "Rockstar officially responds to GTA 6 leaks: \"This is obviously not how we intended for you to see the game\"",
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "f2f7dcb033af",
-      "pillar": "gaming",
-      "title": "Preview The Witcher 3: Songs of the Past takes the best of CDPR's RPG and pushes it further in Geralt's new final chapter",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-songs-of-the-past-takes-the-best-of-cdprs-rpg-and-pushes-it-further-in-geralts-new-final-chapter/",
-      "thumbnail": "/drops/thumbs/f2f7dcb033af.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "38239af0b6aa",
     "8bae34ddaf36",
     "bcf8ea6d2346",
-    "057fabc62062"
+    "8c7a1c03d528"
   ]
 }
