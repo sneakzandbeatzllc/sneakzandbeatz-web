@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-25T23:36:01+00:00",
+  "generated_utc": "2026-08-26T00:35:48+00:00",
   "items": [
     {
       "id": "38239af0b6aa",
@@ -147,12 +147,24 @@
       "release_badge": ""
     },
     {
-      "id": "a15f7e30840e",
+      "id": "0840573ae359",
       "pillar": "anime",
-      "title": "Detective Conan: The Private Eyes' Requiem Manga Ends in September",
+      "title": "Ruby on the Cake: Feast of the Man-Eating Witches Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-25/detective-conan-the-private-eyes-requiem-manga-ends-in-september/.240959",
-      "thumbnail": "/drops/thumbs/a15f7e30840e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-25/ruby-on-the-cake-feast-of-the-man-eating-witches-manga-ends/.240941",
+      "thumbnail": "/drops/thumbs/0840573ae359.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "96552518418a",
+      "pillar": "anime",
+      "title": "Kento Amemiya's Kinato's Magic Manga Ends",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-25/kento-amemiya-kinato-magic-manga-ends/.240965",
+      "thumbnail": "/drops/thumbs/96552518418a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,24 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "c1a8909dd189",
+      "id": "a15f7e30840e",
       "pillar": "anime",
-      "title": "Forget Everything You Know About Game World Isekai With This New Series (Exclusive)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/exiled-heavy-knight-new-game-world-isekai/",
-      "thumbnail": "/drops/thumbs/c1a8909dd189.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c75a0672e574",
-      "pillar": "anime",
-      "title": "Netflix's Upcoming Dystopian Series Could Be 2026's Next Big Sci-Fi Hit",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/fool-night-dystopian-sci-fi-netflix/",
-      "thumbnail": "/drops/thumbs/c75a0672e574.jpg",
+      "title": "Detective Conan: The Private Eyes' Requiem Manga Ends in September",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-25/detective-conan-the-private-eyes-requiem-manga-ends-in-september/.240959",
+      "thumbnail": "/drops/thumbs/a15f7e30840e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
