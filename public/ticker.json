@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T04:31:00+00:00",
+  "generated_utc": "2026-08-27T05:31:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "News 6 New GTA 6 Facts I Learned Ahead of Its Netflix First Look",
-      "url": "https://www.pushsquare.com/news/2026/08/6-new-gta-6-facts-i-learned-ahead-of-its-netflix-first-look",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rockstar officially responds to GTA 6 leaks: \"This is obviously not how we intended for you to see the game\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-officially-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time/",
       "pillar": "gaming",
@@ -158,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "News Persona 4 Revival's Story Trailer Is Packing Loads of New Footage",
-      "url": "https://www.pushsquare.com/news/2026/08/persona-4-revivals-story-trailer-is-packing-loads-of-new-footage",
+      "title": "News The Witcher 3 Remastered Reveals Huge List of Improvements, Including PS5 Pro Support",
+      "url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-reveals-huge-list-of-improvements-including-ps5-pro-support",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Baldur's Gate 3 is \"a great game,\" but Warlock devs say their D&D experience is \"very different\"",
       "url": "https://www.gamesradar.com/games/open-world/baldurs-gate-3-is-a-great-game-but-warlock-devs-say-their-own-virtual-d-and-d-experience-is-very-different-from-larians-rpg/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Witcher 3 Remastered \"really tries to stand up to today's games\" with camera and combat updates",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-tweaks-combat-to-be-much-more-smooth-and-precise-as-cd-projekt-red-wants-the-2015-rpg-to-stand-up-to-todays-games/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
