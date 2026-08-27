@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T23:27:11+00:00",
+  "generated_utc": "2026-08-27T23:42:11+00:00",
   "items": [
     {
       "id": "bcf8ea6d2346",
@@ -147,18 +147,6 @@
       "release_badge": ""
     },
     {
-      "id": "2739b3159cc1",
-      "pillar": "anime",
-      "title": "I Love One Piece, But Netflix's Season 3 Must Ignore Oda This One Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-season-3-netflix-pell-death/",
-      "thumbnail": "/drops/thumbs/2739b3159cc1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "82b7f40108c1",
       "pillar": "anime",
       "title": "The Margrave's Daughter & the Enemy Prince Manga Ends, Gets Side Story",
@@ -195,12 +183,24 @@
       "release_badge": ""
     },
     {
-      "id": "e88413be2916",
+      "id": "0f717dc1b731",
+      "pillar": "anime",
+      "title": "Transformers' Optimus Prime Voice Actor Peter Cullen Dies at 85",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-27/transformers-optimus-prime-voice-actor-peter-cullen-dies-at-85/.241052",
+      "thumbnail": "/drops/thumbs/0f717dc1b731.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "adec29ff2e93",
       "pillar": "gaming",
-      "title": "Poll Are You Sold on GTA 6?",
+      "title": "News GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6",
-      "thumbnail": "/drops/thumbs/e88413be2916.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode",
+      "thumbnail": "/drops/thumbs/adec29ff2e93.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "2fca6623d3f2",
+      "id": "e88413be2916",
       "pillar": "gaming",
-      "title": "News GTA 6 Netflix Extended Look Live Now - Here Are All the New Things We've Learned",
+      "title": "Poll Are You Sold on GTA 6?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-netflix-extended-look-live-now-here-are-all-the-new-things-weve-learned",
-      "thumbnail": "/drops/thumbs/2fca6623d3f2.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6",
+      "thumbnail": "/drops/thumbs/e88413be2916.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "f326a8cd9b49",
     "8bae34ddaf36",
     "d74018f8882b",
-    "e88413be2916"
+    "adec29ff2e93"
   ]
 }
