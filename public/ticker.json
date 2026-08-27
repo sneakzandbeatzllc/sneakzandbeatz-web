@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T19:39:09+00:00",
+  "generated_utc": "2026-08-27T20:23:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -102,15 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "Transformers' Optimus Prime Voice Actor Peter Cullen Dies at 85",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-27/transformers-optimus-prime-voice-actor-peter-cullen-dies-at-85/.241052",
+      "title": "Shuu Katayama's Fujōri Zakkaten Unreal Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-27/shuu-katayama-fujori-zakkaten-unreal-manga-ends/.241021",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "My Crush's Crush Manga Gets TV Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-27/my-crush-crush-manga-gets-tv-anime/.241053",
+      "title": "Transformers' Optimus Prime Voice Actor Peter Cullen Dies at 85",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-27/transformers-optimus-prime-voice-actor-peter-cullen-dies-at-85/.241052",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -123,8 +123,22 @@
       "article_slug": null
     },
     {
+      "title": "Live GTA 6 extended look live coverage – All the news as it happens from Netflix's deep dive stream",
+      "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Cyberleek Has Been Punished For Spoiling A GTA 6 Cutscene With A Crypto Crash",
       "url": "https://gameranx.com/updates/id/563840/article/cyberleek-has-been-punished-for-spoiling-a-gta-6-cutscene-with-a-crypto-crash/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "I’m Already Obsessed With Grand Theft Auto 6’s Love Story And Whether Jason And Lucia Can Survive A Bonnie And Clyde Implosion",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-lucia-jason-romance-love-story-2000728939",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -137,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "GTA 6 won't let you break up Lucia and Jason, no matter how poorly you treat them",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-break-up-lucia-and-jason-no-matter-how-poorly-you-treat-them-they-will-remain-partners-in-crime/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "GTA 6 Reveals Rockstar’s True Ambition: Creating A Simulation Of Modern Day Florida",
       "url": "https://gameranx.com/updates/id/563838/article/gta-6-reveals-rockstars-true-ambition-creating-a-simulation-of-modern-day-florida/",
       "pillar": "gaming",
@@ -144,29 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "“Late Voting Accepted” – Cyberleek Chooses To Extend Poll For GTA 6 Spoilers",
-      "url": "https://gameranx.com/updates/id/563833/article/late-voting-accepted-cyberleek-chooses-to-extend-poll-for-gta-6-spoilers/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News The Battle of the Mass Effect-Likes Continues, as The Expanse: Osiris Reborn Drops New Gameplay",
-      "url": "https://www.pushsquare.com/news/2026/08/the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-reborn-drops-new-gameplay",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Here Are The Opening Night Live Games You Can Ignore Because Of GenAI Slop",
-      "url": "https://kotaku.com/opening-night-live-2026-genai-slop-games-geoff-keighley-2000728477",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Peter Cullen, Legendary Voice Of Optimus Prime, Has Died Aged 85",
-      "url": "https://kotaku.com/peter-cullen-optimus-prime-eeyore-obituary-death-85-voice-actor-2000728859",
+      "title": "GTA 6 Leaks Could Be Over As Cyberleek Withdraws $250,000 And Leaves Memecoin To Crash",
+      "url": "https://kotaku.com/gta6-grand-theft-auto-6-leaks-cyberleek-memecoin-rockstar-cash-out-2000728825",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
