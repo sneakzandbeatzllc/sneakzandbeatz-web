@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T21:41:25+00:00",
+  "generated_utc": "2026-08-27T22:42:05+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,13 +95,6 @@
       "article_slug": null
     },
     {
-      "title": "One Piece Announces Two New Movies In End Of A 27 Year Tradition",
-      "url": "https://screenrant.com/one-piece-god-valley-baad-two-movies-end-era/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Margrave's Daughter & the Enemy Prince Manga Ends, Gets Side Story",
       "url": "https://www.animenewsnetwork.com/news/2026-08-27/the-margrave-daughter-and-the-enemy-prince-manga-ends-gets-side-story/.241020",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Shuu Katayama's Fujōri Zakkaten Unreal Manga Ends",
       "url": "https://www.animenewsnetwork.com/news/2026-08-27/shuu-katayama-fujori-zakkaten-unreal-manga-ends/.241021",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Anime’s most iconic toy of the ’90s is officially returning with new release",
+      "url": "https://www.polygon.com/sailor-moon-moonstick-90s-toy-returns/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
