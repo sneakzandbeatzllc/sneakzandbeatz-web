@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T09:33:11+00:00",
+  "generated_utc": "2026-08-27T10:33:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,6 +74,13 @@
       "article_slug": null
     },
     {
+      "title": "Boruto Filler List: Every Episode & Arc You Should Watch Or Skip",
+      "url": "https://screenrant.com/boruto-filler-list-every-episode-skip/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "One Piece Gets Alleged Ending Update From Creator",
       "url": "https://screenrant.com/one-piece-ending-update-creator/",
       "pillar": "anime",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Akira officially returns to theaters in IMAX and 4K in September",
-      "url": "https://www.polygon.com/akira-movie-2026-theatrical-rerelease-imax-4k/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
       "url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
       "pillar": "gaming",
@@ -125,6 +125,20 @@
     {
       "title": "Rockstar officially responds to GTA 6 leaks: \"This is obviously not how we intended for you to see the game\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-officially-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Cyberleek Has Been Punished For Spoiling A GTA 6 Cutscene With A Crypto Crash",
+      "url": "https://gameranx.com/updates/id/563840/article/cyberleek-has-been-punished-for-spoiling-a-gta-6-cutscene-with-a-crypto-crash/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rockstar Finally Breaks Its Silence Over The GTA 6 Leaks, Calls Them ‘Heartbreaking’",
+      "url": "https://kotaku.com/rockstar-gta-6-leaks-grand-theft-auto-cyberleek-official-statement-2000728341",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -153,20 +167,6 @@
     {
       "title": "The GTA 6 Cyberleek Manhunt May Have A Lead – That Goes Through Discord and The Dark Web",
       "url": "https://gameranx.com/updates/id/563817/article/the-gta-6-cyberleek-manhunt-may-have-a-lead-that-goes-through-discord-and-the-dark-web/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Take-Two’s GTA 6 Subpoenas On Twitter And Microsoft Have Been Granted – But Will They Really Help Them Find Cyberleek?",
-      "url": "https://gameranx.com/updates/id/563815/article/take-twos-gta-6-subpoenas-on-twitter-and-microsoft-have-been-granted-but-will-they-really-help-them-find-cyberleek/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News The Witcher 3 Remastered Reveals Huge List of Improvements, Including PS5 Pro Support",
-      "url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-reveals-huge-list-of-improvements-including-ps5-pro-support",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
