@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T16:48:35+00:00",
+  "generated_utc": "2026-08-27T17:19:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "The Air Jordan 14 Low Joins the Bin 23 Revival in June 2027",
-      "url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 12 “Sumo” Releases August 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-12-sumo/",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 41 Pushes Jordan Brand Into a New Era of Performance Basketball",
       "url": "https://www.nicekicks.com/air-jordan-41-pushes-jordan-brand-into-a-new-era-of-performance-basketball/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
+      "url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Preview Warlock escapes Baldur's Gate 3's long shadow with a very different take on D&D that I'm happy to roll my dice on",
-      "url": "https://www.gamesradar.com/games/action-rpg/warlock-escapes-baldurs-gate-3s-long-shadow-with-a-very-different-take-on-d-and-d-that-im-happy-to-roll-my-dice-on/",
+      "title": "Peter Cullen, Legendary Voice Of Optimus Prime, Has Died Aged 85",
+      "url": "https://kotaku.com/peter-cullen-optimus-prime-eeyore-obituary-death-85-voice-actor-2000728859",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Dragon's Dogma 2's Game-Changing PS5 Patch Dated, But Slightly Delayed",
-      "url": "https://www.pushsquare.com/news/2026/08/dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed",
+      "title": "Hands-on Fable’s combat shows a lot of promise, but I'm glad it's not launching this year",
+      "url": "https://www.gamesradar.com/games/rpg/fables-combat-shows-a-lot-of-promise-but-im-glad-its-not-launching-this-year/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

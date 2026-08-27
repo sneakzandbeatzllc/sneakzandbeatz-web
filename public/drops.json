@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T16:48:35+00:00",
+  "generated_utc": "2026-08-27T17:19:26+00:00",
   "items": [
-    {
-      "id": "4e69880c87ec",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 14 Low Joins the Bin 23 Revival in June 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
-      "thumbnail": "/drops/thumbs/4e69880c87ec.webp",
-      "published": "2026-08-25T22:17:31",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "bcf8ea6d2346",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://www.nicekicks.com/air-jordan-41-pushes-jordan-brand-into-a-new-era-of-performance-basketball/",
       "thumbnail": "/drops/thumbs/9007476579c2.jpg",
       "published": "2026-08-27T05:32:16",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1d1ce0f71ba0",
+      "pillar": "sneakers",
+      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
+      "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
+      "published": "2026-08-27T02:16:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "ba9b7b817cca",
+      "id": "e8bdab007d98",
       "pillar": "gaming",
-      "title": "Preview Warlock escapes Baldur's Gate 3's long shadow with a very different take on D&D that I'm happy to roll my dice on",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/action-rpg/warlock-escapes-baldurs-gate-3s-long-shadow-with-a-very-different-take-on-d-and-d-that-im-happy-to-roll-my-dice-on/",
-      "thumbnail": "/drops/thumbs/ba9b7b817cca.jpg",
+      "title": "Peter Cullen, Legendary Voice Of Optimus Prime, Has Died Aged 85",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/peter-cullen-optimus-prime-eeyore-obituary-death-85-voice-actor-2000728859",
+      "thumbnail": "/drops/thumbs/e8bdab007d98.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "12451c943360",
+      "id": "340b5c1af6e1",
       "pillar": "gaming",
-      "title": "News Dragon's Dogma 2's Game-Changing PS5 Patch Dated, But Slightly Delayed",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed",
-      "thumbnail": "/drops/thumbs/12451c943360.jpg",
+      "title": "Hands-on Fable’s combat shows a lot of promise, but I'm glad it's not launching this year",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/fables-combat-shows-a-lot-of-promise-but-im-glad-its-not-launching-this-year/",
+      "thumbnail": "/drops/thumbs/340b5c1af6e1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "4e69880c87ec",
     "bcf8ea6d2346",
     "c30f21518c30",
-    "8bae34ddaf36",
     "f326a8cd9b49",
+    "8bae34ddaf36",
+    "fef85dcdb8cb",
     "d5bdc864a9e0"
   ]
 }
