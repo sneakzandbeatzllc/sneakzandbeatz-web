@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T00:06:57+00:00",
+  "generated_utc": "2026-08-27T00:37:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,13 +39,6 @@
       "article_slug": null
     },
     {
-      "title": "AWAKE NY x Air Jordan 6 “Bubblegum” August 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/awake-ny-air-jordan-6-bubblegum-iq5706-600/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-7-tennis-day/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 4 “London” Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-london/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 6 Low “Desert Berry” Releases September 16",
+      "url": "https://justfreshkicks.com/air-jordan-6-low-wmns-desert-berry-ix5195-001/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
