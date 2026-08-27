@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T15:16:42+00:00",
+  "generated_utc": "2026-08-27T15:36:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
-      "url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 Reveals Rockstar’s True Ambition: Creating A Simulation Of Modern Day Florida",
       "url": "https://gameranx.com/updates/id/563838/article/gta-6-reveals-rockstars-true-ambition-creating-a-simulation-of-modern-day-florida/",
       "pillar": "gaming",
@@ -158,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "News The Battle of the Mass Effect-Likes Continues, as The Expanse: Osiris Reborn Drops New Gameplay",
+      "url": "https://www.pushsquare.com/news/2026/08/the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-reborn-drops-new-gameplay",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Preview Warlock escapes Baldur's Gate 3's long shadow with a very different take on D&D that I'm happy to roll my dice on",
       "url": "https://www.gamesradar.com/games/action-rpg/warlock-escapes-baldurs-gate-3s-long-shadow-with-a-very-different-take-on-d-and-d-that-im-happy-to-roll-my-dice-on/",
       "pillar": "gaming",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "News The Battle of the Mass Effect-Likes Continues, as The Expanse: Osiris Reborn Drops New Gameplay",
-      "url": "https://www.pushsquare.com/news/2026/08/the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-reborn-drops-new-gameplay",
+      "title": "News Dragon's Dogma 2's Game-Changing PS5 Patch Dated, But Slightly Delayed",
+      "url": "https://www.pushsquare.com/news/2026/08/dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

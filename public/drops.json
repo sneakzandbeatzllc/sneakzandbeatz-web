@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T15:16:42+00:00",
+  "generated_utc": "2026-08-27T15:36:40+00:00",
   "items": [
     {
       "id": "4e69880c87ec",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "9fdb679a30c4",
-      "pillar": "gaming",
-      "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
-      "thumbnail": "/drops/thumbs/9fdb679a30c4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9075d363e1d9",
       "pillar": "gaming",
       "title": "GTA 6 Reveals Rockstar’s True Ambition: Creating A Simulation Of Modern Day Florida",
@@ -267,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "8047d9f011e5",
+      "pillar": "gaming",
+      "title": "News The Battle of the Mass Effect-Likes Continues, as The Expanse: Osiris Reborn Drops New Gameplay",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-reborn-drops-new-gameplay",
+      "thumbnail": "/drops/thumbs/8047d9f011e5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ba9b7b817cca",
       "pillar": "gaming",
       "title": "Preview Warlock escapes Baldur's Gate 3's long shadow with a very different take on D&D that I'm happy to roll my dice on",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "8047d9f011e5",
+      "id": "12451c943360",
       "pillar": "gaming",
-      "title": "News The Battle of the Mass Effect-Likes Continues, as The Expanse: Osiris Reborn Drops New Gameplay",
+      "title": "News Dragon's Dogma 2's Game-Changing PS5 Patch Dated, But Slightly Delayed",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/the-battle-of-the-mass-effect-likes-continues-as-the-expanse-osiris-reborn-drops-new-gameplay",
-      "thumbnail": "/drops/thumbs/8047d9f011e5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/dragons-dogma-2s-game-changing-ps5-patch-dated-but-slightly-delayed",
+      "thumbnail": "/drops/thumbs/12451c943360.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
