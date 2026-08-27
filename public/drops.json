@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-26T23:36:10+00:00",
+  "generated_utc": "2026-08-27T00:06:57+00:00",
   "items": [
     {
       "id": "4e69880c87ec",
@@ -10,18 +10,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
       "thumbnail": "/drops/thumbs/4e69880c87ec.webp",
       "published": "2026-08-25T22:17:31",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "3582e15cabd3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 17 Low “BIN 23” June 2027 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-17-low-bin-23-iw1185-500/",
-      "thumbnail": "/drops/thumbs/3582e15cabd3.png",
-      "published": "2026-08-22T10:54:54",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-7-tennis-day/",
       "thumbnail": "/drops/thumbs/fef85dcdb8cb.jpg",
       "published": "2026-08-26T01:41:17",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "1b4ea7305528",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “London” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-london/",
+      "thumbnail": "/drops/thumbs/1b4ea7305528.jpg",
+      "published": "2026-08-26T01:16:01",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "4e69880c87ec",
-    "3582e15cabd3",
     "38239af0b6aa",
-    "8bae34ddaf36",
     "bcf8ea6d2346",
+    "8bae34ddaf36",
+    "c30f21518c30",
     "8c7a1c03d528"
   ]
 }
