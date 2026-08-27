@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T15:37:20+00:00",
+  "generated_utc": "2026-08-27T16:17:45+00:00",
   "items": [
     {
       "id": "4e69880c87ec",
@@ -10,18 +10,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
       "thumbnail": "/drops/thumbs/4e69880c87ec.webp",
       "published": "2026-08-25T22:17:31",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "38239af0b6aa",
-      "pillar": "sneakers",
-      "title": "Air Jordan 14 Low “BIN 23” Releases Summer 2027",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-14-low-bin-23/",
-      "thumbnail": "/drops/thumbs/38239af0b6aa.webp",
-      "published": "",
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
@@ -99,6 +87,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "9007476579c2",
+      "pillar": "sneakers",
+      "title": "Air Jordan 41 Pushes Jordan Brand Into a New Era of Performance Basketball",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-41-pushes-jordan-brand-into-a-new-era-of-performance-basketball/",
+      "thumbnail": "/drops/thumbs/9007476579c2.jpg",
+      "published": "2026-08-27T05:32:16",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "8bae34ddaf36",
       "pillar": "anime",
       "title": "Dragon Ball Releases New Artwork For Super Saiyan 3 Goku, And It's Instantly Iconic",
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "f273bda53af2",
+      "id": "ccb85c7e53e4",
       "pillar": "anime",
-      "title": "Manga UP! Global Adds The Viscount's Porky Portrait: I Married the Knight My Sister Rejected Manga",
+      "title": "My Crush's Crush Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-27/manga-up-global-adds-the-viscount-porky-portrait-i-married-the-knight-my-sister-rejected-manga/.241048",
-      "thumbnail": "/drops/thumbs/f273bda53af2.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-27/my-crush-crush-manga-gets-tv-anime/.241053",
+      "thumbnail": "/drops/thumbs/ccb85c7e53e4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "3f0ffa6d7a5d",
+      "id": "f273bda53af2",
       "pillar": "anime",
-      "title": "The Ramparts of Ice Season 2 Anime Unveils Promo Video, Visual, October 1 Premiere on Netflix",
+      "title": "Manga UP! Global Adds The Viscount's Porky Portrait: I Married the Knight My Sister Rejected Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-27/the-ramparts-of-ice-season-2-anime-unveils-promo-video-visual-october-1-premiere-on-netflix/.241050",
-      "thumbnail": "/drops/thumbs/3f0ffa6d7a5d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-27/manga-up-global-adds-the-viscount-porky-portrait-i-married-the-knight-my-sister-rejected-manga/.241048",
+      "thumbnail": "/drops/thumbs/f273bda53af2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "f35617963868",
+      "id": "bdf630c43eec",
       "pillar": "gaming",
-      "title": "GTA 6 promises consequences for your actions that go beyond Red Dead Redemption 2's honor system",
+      "title": "Live GTA 6 extended look live coverage – All the news as it happens from Netflix's deep dive stream",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-promises-big-consequences-for-your-actions-that-go-beyond-red-dead-redemption-2s-honor-system/",
-      "thumbnail": "/drops/thumbs/f35617963868.jpg",
+      "source_url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
+      "thumbnail": "/drops/thumbs/bdf630c43eec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "4e69880c87ec",
-    "38239af0b6aa",
     "bcf8ea6d2346",
-    "8bae34ddaf36",
     "c30f21518c30",
+    "8bae34ddaf36",
+    "f326a8cd9b49",
     "d5bdc864a9e0"
   ]
 }
