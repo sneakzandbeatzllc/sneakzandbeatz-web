@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T08:32:25+00:00",
+  "generated_utc": "2026-08-27T09:32:32+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,15 +95,15 @@
       "article_slug": null
     },
     {
-      "title": "The World's Strongest Witch Anime's New Video Unveils More Cast & Staff, Theme Songs",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-26/the-world-strongest-witch-anime-new-video-unveils-more-cast-and-staff-theme-songs/.241025",
+      "title": "Millennium Family TV Anime Casts Katsuyuki Konishi",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-27/millennium-family-tv-anime-casts-katsuyuki-konishi/.241039",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Bungo Stray Dogs STORM BRINGER Manga Goes on Hiatus Due to Author's Health",
-      "url": "https://www.animenewsnetwork.com/news/2026-08-26/bungo-stray-dogs-storm-bringer-manga-goes-on-hiatus-due-to-author-health/.240985",
+      "title": "The World's Strongest Witch Anime's New Video Unveils More Cast & Staff, Theme Songs",
+      "url": "https://www.animenewsnetwork.com/news/2026-08-26/the-world-strongest-witch-anime-new-video-unveils-more-cast-and-staff-theme-songs/.241025",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -116,8 +116,22 @@
       "article_slug": null
     },
     {
+      "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
+      "url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rockstar officially responds to GTA 6 leaks: \"This is obviously not how we intended for you to see the game\"",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-officially-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6 Reveals Rockstar’s True Ambition: Creating A Simulation Of Modern Day Florida",
+      "url": "https://gameranx.com/updates/id/563838/article/gta-6-reveals-rockstars-true-ambition-creating-a-simulation-of-modern-day-florida/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -153,20 +167,6 @@
     {
       "title": "News The Witcher 3 Remastered Reveals Huge List of Improvements, Including PS5 Pro Support",
       "url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-reveals-huge-list-of-improvements-including-ps5-pro-support",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Baldur's Gate 3 is \"a great game,\" but Warlock devs say their D&D experience is \"very different\"",
-      "url": "https://www.gamesradar.com/games/open-world/baldurs-gate-3-is-a-great-game-but-warlock-devs-say-their-own-virtual-d-and-d-experience-is-very-different-from-larians-rpg/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Witcher 3 Remastered \"really tries to stand up to today's games\" with camera and combat updates",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-tweaks-combat-to-be-much-more-smooth-and-precise-as-cd-projekt-red-wants-the-2015-rpg-to-stand-up-to-todays-games/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

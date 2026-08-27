@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T08:32:25+00:00",
+  "generated_utc": "2026-08-27T09:32:32+00:00",
   "items": [
     {
       "id": "4e69880c87ec",
@@ -159,24 +159,24 @@
       "release_badge": ""
     },
     {
-      "id": "f5389bd6c2d4",
+      "id": "153d7bcbb030",
       "pillar": "anime",
-      "title": "The World's Strongest Witch Anime's New Video Unveils More Cast & Staff, Theme Songs",
+      "title": "Millennium Family TV Anime Casts Katsuyuki Konishi",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-26/the-world-strongest-witch-anime-new-video-unveils-more-cast-and-staff-theme-songs/.241025",
-      "thumbnail": "/drops/thumbs/f5389bd6c2d4.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-27/millennium-family-tv-anime-casts-katsuyuki-konishi/.241039",
+      "thumbnail": "/drops/thumbs/153d7bcbb030.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "a45ac80ad44e",
+      "id": "f5389bd6c2d4",
       "pillar": "anime",
-      "title": "Bungo Stray Dogs STORM BRINGER Manga Goes on Hiatus Due to Author's Health",
+      "title": "The World's Strongest Witch Anime's New Video Unveils More Cast & Staff, Theme Songs",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-26/bungo-stray-dogs-storm-bringer-manga-goes-on-hiatus-due-to-author-health/.240985",
-      "thumbnail": "/drops/thumbs/a45ac80ad44e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-26/the-world-strongest-witch-anime-new-video-unveils-more-cast-and-staff-theme-songs/.241025",
+      "thumbnail": "/drops/thumbs/f5389bd6c2d4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,12 +195,36 @@
       "release_badge": ""
     },
     {
+      "id": "9fdb679a30c4",
+      "pillar": "gaming",
+      "title": "Guide GTA 6 Netflix Extended Look: When and How to Watch",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-netflix-extended-look-when-and-how-to-watch",
+      "thumbnail": "/drops/thumbs/9fdb679a30c4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "057fabc62062",
       "pillar": "gaming",
       "title": "Rockstar officially responds to GTA 6 leaks: \"This is obviously not how we intended for you to see the game\"",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-officially-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time/",
       "thumbnail": "/drops/thumbs/057fabc62062.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9075d363e1d9",
+      "pillar": "gaming",
+      "title": "GTA 6 Reveals Rockstar’s True Ambition: Creating A Simulation Of Modern Day Florida",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563838/article/gta-6-reveals-rockstars-true-ambition-creating-a-simulation-of-modern-day-florida/",
+      "thumbnail": "/drops/thumbs/9075d363e1d9.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -265,30 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "8bb14a8786fc",
-      "pillar": "gaming",
-      "title": "Baldur's Gate 3 is \"a great game,\" but Warlock devs say their D&D experience is \"very different\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/open-world/baldurs-gate-3-is-a-great-game-but-warlock-devs-say-their-own-virtual-d-and-d-experience-is-very-different-from-larians-rpg/",
-      "thumbnail": "/drops/thumbs/8bb14a8786fc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f2ff183d8485",
-      "pillar": "gaming",
-      "title": "The Witcher 3 Remastered \"really tries to stand up to today's games\" with camera and combat updates",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-tweaks-combat-to-be-much-more-smooth-and-precise-as-cd-projekt-red-wants-the-2015-rpg-to-stand-up-to-todays-games/",
-      "thumbnail": "/drops/thumbs/f2ff183d8485.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "bcf8ea6d2346",
     "8bae34ddaf36",
     "c30f21518c30",
-    "057fabc62062"
+    "9fdb679a30c4"
   ]
 }
