@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T22:42:05+00:00",
+  "generated_utc": "2026-08-27T23:27:11+00:00",
   "items": [
     {
       "id": "bcf8ea6d2346",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "2fca6623d3f2",
+      "id": "e88413be2916",
       "pillar": "gaming",
-      "title": "News GTA 6 Netflix Extended Look Live Now - Here Are All the New Things We've Learned",
+      "title": "Poll Are You Sold on GTA 6?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-netflix-extended-look-live-now-here-are-all-the-new-things-weve-learned",
-      "thumbnail": "/drops/thumbs/2fca6623d3f2.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6",
+      "thumbnail": "/drops/thumbs/e88413be2916.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "d5bdc864a9e0",
+      "id": "2fca6623d3f2",
       "pillar": "gaming",
-      "title": "News GTA 6 Extended Look Will Show Nearly 30 Minutes of Gameplay, Captured on PS5",
+      "title": "News GTA 6 Netflix Extended Look Live Now - Here Are All the New Things We've Learned",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-extended-look-will-show-nearly-30-minutes-of-gameplay-captured-on-ps5",
-      "thumbnail": "/drops/thumbs/d5bdc864a9e0.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-netflix-extended-look-live-now-here-are-all-the-new-things-weve-learned",
+      "thumbnail": "/drops/thumbs/2fca6623d3f2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "f326a8cd9b49",
     "8bae34ddaf36",
     "d74018f8882b",
-    "2fca6623d3f2"
+    "e88413be2916"
   ]
 }
