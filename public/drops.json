@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-27T18:52:01+00:00",
+  "generated_utc": "2026-08-27T19:39:09+00:00",
   "items": [
     {
       "id": "bcf8ea6d2346",
@@ -195,24 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "d5bdc864a9e0",
+      "id": "2fca6623d3f2",
       "pillar": "gaming",
-      "title": "News GTA 6 Extended Look Will Show Nearly 30 Minutes of Gameplay, Captured on PS5",
+      "title": "News GTA 6 Netflix Extended Look Live Now - Here Are All the New Things We've Learned",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-extended-look-will-show-nearly-30-minutes-of-gameplay-captured-on-ps5",
-      "thumbnail": "/drops/thumbs/d5bdc864a9e0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bdf630c43eec",
-      "pillar": "gaming",
-      "title": "Live GTA 6 extended look live coverage – All the news as it happens from Netflix's deep dive stream",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
-      "thumbnail": "/drops/thumbs/bdf630c43eec.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-netflix-extended-look-live-now-here-are-all-the-new-things-weve-learned",
+      "thumbnail": "/drops/thumbs/2fca6623d3f2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +213,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563840/article/cyberleek-has-been-punished-for-spoiling-a-gta-6-cutscene-with-a-crypto-crash/",
       "thumbnail": "/drops/thumbs/c48b906c393b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d5bdc864a9e0",
+      "pillar": "gaming",
+      "title": "News GTA 6 Extended Look Will Show Nearly 30 Minutes of Gameplay, Captured on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-extended-look-will-show-nearly-30-minutes-of-gameplay-captured-on-ps5",
+      "thumbnail": "/drops/thumbs/d5bdc864a9e0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "e8bdab007d98",
+      "id": "54c49797d16d",
       "pillar": "gaming",
-      "title": "Peter Cullen, Legendary Voice Of Optimus Prime, Has Died Aged 85",
+      "title": "Here Are The Opening Night Live Games You Can Ignore Because Of GenAI Slop",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/peter-cullen-optimus-prime-eeyore-obituary-death-85-voice-actor-2000728859",
-      "thumbnail": "/drops/thumbs/e8bdab007d98.jpg",
+      "source_url": "https://kotaku.com/opening-night-live-2026-genai-slop-games-geoff-keighley-2000728477",
+      "thumbnail": "/drops/thumbs/54c49797d16d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "340b5c1af6e1",
+      "id": "e8bdab007d98",
       "pillar": "gaming",
-      "title": "Hands-on Fable’s combat shows a lot of promise, but I'm glad it's not launching this year",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/fables-combat-shows-a-lot-of-promise-but-im-glad-its-not-launching-this-year/",
-      "thumbnail": "/drops/thumbs/340b5c1af6e1.jpg",
+      "title": "Peter Cullen, Legendary Voice Of Optimus Prime, Has Died Aged 85",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/peter-cullen-optimus-prime-eeyore-obituary-death-85-voice-actor-2000728859",
+      "thumbnail": "/drops/thumbs/e8bdab007d98.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "f326a8cd9b49",
     "8bae34ddaf36",
     "d74018f8882b",
-    "d5bdc864a9e0"
+    "2fca6623d3f2"
   ]
 }
