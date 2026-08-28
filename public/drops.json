@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T16:07:49+00:00",
+  "generated_utc": "2026-08-28T16:38:48+00:00",
   "items": [
     {
       "id": "f326a8cd9b49",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "b8c89f6a9eaa",
+      "pillar": "anime",
+      "title": "Dragon Ball Super artist teases manga's official return after more than 2 years",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dragon-ball-super-manga-comeback-toyotarou/",
+      "thumbnail": "/drops/thumbs/b8c89f6a9eaa.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8bae34ddaf36",
       "pillar": "anime",
       "title": "Dragon Ball Releases New Artwork For Super Saiyan 3 Goku, And It's Instantly Iconic",
@@ -111,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "2b194926c587",
+      "id": "9f96df1e88dd",
       "pillar": "anime",
-      "title": "Mob Psycho 100's best quote proves it doesn’t need a chosen one",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/mob-psycho-100-best-quote-anime/",
-      "thumbnail": "/drops/thumbs/2b194926c587.jpg",
+      "title": "RetroCrush Adds Several Anime Series, Films from Viz Including Naruto the Movie: Ninja Clash in the Land of Snow",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/retrocrush-adds-several-anime-series-films-from-viz-including-naruto-the-movie-ninja-clash-in-the-/.241080",
+      "thumbnail": "/drops/thumbs/9f96df1e88dd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "fc4c69e39420",
-      "pillar": "anime",
-      "title": "Kemono Jihen Manga Goes on Hiatus After Brother of Creator Shō Aimoto Dies",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/kemono-jihen-manga-goes-on-hiatus-after-brother-of-creator-sho-aimoto-dies/.241087",
-      "thumbnail": "/drops/thumbs/fc4c69e39420.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bc957acf9bda",
       "pillar": "anime",
       "title": "Anime’s most iconic toy of the ’90s is officially returning with new release",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "8404efc31fb0",
+      "id": "fc4c69e39420",
       "pillar": "anime",
-      "title": "Kotaro Lives Alone Author Mami Tsumura Launches New Manga",
+      "title": "Kemono Jihen Manga Goes on Hiatus After Brother of Creator Shō Aimoto Dies",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/kotaro-lives-alone-author-mami-tsumura-launches-new-manga/.240982",
-      "thumbnail": "/drops/thumbs/8404efc31fb0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/kemono-jihen-manga-goes-on-hiatus-after-brother-of-creator-sho-aimoto-dies/.241087",
+      "thumbnail": "/drops/thumbs/fc4c69e39420.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "f326a8cd9b49",
     "bcf8ea6d2346",
     "c30f21518c30",
-    "8bae34ddaf36",
+    "b8c89f6a9eaa",
     "d74018f8882b",
     "ad4b0b4b3529"
   ]
