@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T17:09:48+00:00",
+  "generated_utc": "2026-08-28T17:40:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -46,6 +46,13 @@
       "article_slug": null
     },
     {
+      "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
+      "url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 41 Pushes Jordan Brand Into a New Era of Performance Basketball",
       "url": "https://www.nicekicks.com/air-jordan-41-pushes-jordan-brand-into-a-new-era-of-performance-basketball/",
       "pillar": "sneakers",
@@ -53,22 +60,8 @@
       "article_slug": null
     },
     {
-      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
-      "url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball Super artist teases manga's official return after more than 2 years",
       "url": "https://www.polygon.com/dragon-ball-super-manga-comeback-toyotarou/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dragon Ball Releases New Artwork For Super Saiyan 3 Goku, And It's Instantly Iconic",
-      "url": "https://screenrant.com/dragon-ball-new-goku-super-saiyan-3-art/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -111,6 +104,13 @@
     {
       "title": "Kemono Jihen Manga Goes on Hiatus After Brother of Creator Shō Aimoto Dies",
       "url": "https://www.animenewsnetwork.com/news/2026-08-28/kemono-jihen-manga-goes-on-hiatus-after-brother-of-creator-sho-aimoto-dies/.241087",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Netflix Officially Lands 3-Part Superhero Mega-Franchise",
+      "url": "https://screenrant.com/one-punch-man-netflix-debut/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
