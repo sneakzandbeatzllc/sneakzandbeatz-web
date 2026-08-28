@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T19:13:05+00:00",
+  "generated_utc": "2026-08-28T19:44:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -46,15 +46,15 @@
       "article_slug": null
     },
     {
-      "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
-      "url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
+      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
+      "url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 41 Pushes Jordan Brand Into a New Era of Performance Basketball",
-      "url": "https://www.nicekicks.com/air-jordan-41-pushes-jordan-brand-into-a-new-era-of-performance-basketball/",
+      "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
+      "url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Boruto Filler List: Every Episode & Arc You Should Watch Or Skip",
-      "url": "https://screenrant.com/boruto-filler-list-every-episode-skip/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "OceanVeil Reveals September 11 Simulcast Debut of Now That I Can Control Reality With A Mouse Cursor Anime; English Dub of Marika's Love Meter Malfunction",
       "url": "https://www.animenewsnetwork.com/news/2026-08-28/oceanveil-reveals-september-11-simulcast-debut-of-now-that-i-can-control-reality-with-a-mouse-/.241034",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Anime’s most iconic toy of the ’90s is officially returning with new release",
       "url": "https://www.polygon.com/sailor-moon-moonstick-90s-toy-returns/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Pokémon Sets Historic New Global Streaming Deal Ahead Of New 2027 Series",
+      "url": "https://screenrant.com/pokemon-disney-plus-streaming-deal-new-2027-show-details/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

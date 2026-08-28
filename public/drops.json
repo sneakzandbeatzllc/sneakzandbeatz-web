@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T19:13:05+00:00",
+  "generated_utc": "2026-08-28T19:44:03+00:00",
   "items": [
     {
       "id": "f326a8cd9b49",
@@ -75,6 +75,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "c00f312fba4a",
+      "pillar": "sneakers",
+      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
+      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
+      "published": "2026-08-28T15:14:16",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "1478e53040eb",
       "pillar": "sneakers",
       "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
       "thumbnail": "/drops/thumbs/1478e53040eb.webp",
       "published": "2026-08-28T13:14:59",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9007476579c2",
-      "pillar": "sneakers",
-      "title": "Air Jordan 41 Pushes Jordan Brand Into a New Era of Performance Basketball",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-41-pushes-jordan-brand-into-a-new-era-of-performance-basketball/",
-      "thumbnail": "/drops/thumbs/9007476579c2.jpg",
-      "published": "2026-08-27T05:32:16",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -135,18 +135,6 @@
       "release_badge": ""
     },
     {
-      "id": "74d731379e6b",
-      "pillar": "anime",
-      "title": "Boruto Filler List: Every Episode & Arc You Should Watch Or Skip",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/boruto-filler-list-every-episode-skip/",
-      "thumbnail": "/drops/thumbs/74d731379e6b.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5fcfbd72708f",
       "pillar": "anime",
       "title": "OceanVeil Reveals September 11 Simulcast Debut of Now That I Can Control Reality With A Mouse Cursor Anime; English Dub of Marika's Love Meter Malfunction",
@@ -165,6 +153,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/sailor-moon-moonstick-90s-toy-returns/",
       "thumbnail": "/drops/thumbs/bc957acf9bda.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b97fb02ead44",
+      "pillar": "anime",
+      "title": "Pokémon Sets Historic New Global Streaming Deal Ahead Of New 2027 Series",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/pokemon-disney-plus-streaming-deal-new-2027-show-details/",
+      "thumbnail": "/drops/thumbs/b97fb02ead44.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
