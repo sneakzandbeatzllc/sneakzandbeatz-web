@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T12:52:45+00:00",
+  "generated_utc": "2026-08-28T13:04:19+00:00",
   "items": [
+    {
+      "id": "f326a8cd9b49",
+      "pillar": "sneakers",
+      "title": "Air Jordan 8 “Chrome” (305381-007) August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
+      "thumbnail": "/drops/thumbs/f326a8cd9b49.jpg",
+      "published": "2026-08-27T10:01:02",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "bcf8ea6d2346",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
       "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
       "published": "2026-08-27T02:16:00",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4252eb996e5f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Royal” Returns October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-royal-2026/",
-      "thumbnail": "/drops/thumbs/4252eb996e5f.jpg",
-      "published": "2026-08-26T14:09:06",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "f326a8cd9b49",
     "bcf8ea6d2346",
     "c30f21518c30",
-    "d74018f8882b",
     "8bae34ddaf36",
-    "fef85dcdb8cb",
+    "d74018f8882b",
     "a5954afd5731"
   ]
 }
