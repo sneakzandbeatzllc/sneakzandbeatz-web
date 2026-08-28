@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T21:59:30+00:00",
+  "generated_utc": "2026-08-28T22:55:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Star Citizen’ s Slippery Squadron 42 Delayed Yet Another Six Months To Make Sure It Really Avoids GTA 6",
-      "url": "https://kotaku.com/star-citizen-squadron-42-delay-gta-6-chris-roberts-rockstar-billion-dollars-2000729284",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News GTA 6 Contains No Microtransactions or Generative AI, Rockstar Says",
       "url": "https://www.pushsquare.com/news/2026/08/gta-6-contains-no-microtransactions-or-generative-ai-rockstar-says",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "News Watch GTA 6 Extended Look Here - 17 Things We've Learned",
       "url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6 might be single-player but the coupled-up life changes everything",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-might-be-single-player-but-the-coupled-up-life-changes-everything/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T21:59:30+00:00",
+  "generated_utc": "2026-08-28T22:55:44+00:00",
   "items": [
     {
       "id": "f326a8cd9b49",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "23e50fec8bde",
-      "pillar": "gaming",
-      "title": "Star Citizen’ s Slippery Squadron 42 Delayed Yet Another Six Months To Make Sure It Really Avoids GTA 6",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/star-citizen-squadron-42-delay-gta-6-chris-roberts-rockstar-billion-dollars-2000729284",
-      "thumbnail": "/drops/thumbs/23e50fec8bde.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a5954afd5731",
       "pillar": "gaming",
       "title": "News GTA 6 Contains No Microtransactions or Generative AI, Rockstar Says",
@@ -285,6 +273,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
       "thumbnail": "/drops/thumbs/fbefea7acc50.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cc43809b2403",
+      "pillar": "gaming",
+      "title": "GTA 6 might be single-player but the coupled-up life changes everything",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-might-be-single-player-but-the-coupled-up-life-changes-everything/",
+      "thumbnail": "/drops/thumbs/cc43809b2403.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
