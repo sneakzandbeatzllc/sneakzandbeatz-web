@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T19:57:54+00:00",
+  "generated_utc": "2026-08-28T20:58:45+00:00",
   "items": [
     {
       "id": "f326a8cd9b49",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "c2ea76bdc233",
+      "pillar": "anime",
+      "title": "Attack on Titan: Brave Order Cooperative Smartphone Game Ends Service on September 28",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/attack-on-titan-brave-order-cooperative-smartphone-game-ends-service-on-september-28/.241092",
+      "thumbnail": "/drops/thumbs/c2ea76bdc233.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b8c89f6a9eaa",
       "pillar": "anime",
       "title": "Dragon Ball Super artist teases manga's official return after more than 2 years",
@@ -135,18 +147,6 @@
       "release_badge": ""
     },
     {
-      "id": "5fcfbd72708f",
-      "pillar": "anime",
-      "title": "OceanVeil Reveals September 11 Simulcast Debut of Now That I Can Control Reality With A Mouse Cursor Anime; English Dub of Marika's Love Meter Malfunction",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/oceanveil-reveals-september-11-simulcast-debut-of-now-that-i-can-control-reality-with-a-mouse-/.241034",
-      "thumbnail": "/drops/thumbs/5fcfbd72708f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bc957acf9bda",
       "pillar": "anime",
       "title": "Anime’s most iconic toy of the ’90s is officially returning with new release",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "47c9a5d72e8e",
+      "id": "5fcfbd72708f",
       "pillar": "anime",
-      "title": "Studio Aardman's Pokémon Tales: The Misadventures of Sirfetch'd and Pichu Stop-Motion Series Reveals Teaser Trailer, 2027 Debut on Disney+, Disney XD",
+      "title": "OceanVeil Reveals September 11 Simulcast Debut of Now That I Can Control Reality With A Mouse Cursor Anime; English Dub of Marika's Love Meter Malfunction",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/studio-aardman-pokemon-tales-the-misadventures-of-sirfetchd-and-pichu-stop-motion-series-reveals-/.241091",
-      "thumbnail": "/drops/thumbs/47c9a5d72e8e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/oceanveil-reveals-september-11-simulcast-debut-of-now-that-i-can-control-reality-with-a-mouse-/.241034",
+      "thumbnail": "/drops/thumbs/5fcfbd72708f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "f326a8cd9b49",
     "bcf8ea6d2346",
     "c30f21518c30",
-    "b8c89f6a9eaa",
+    "c2ea76bdc233",
     "d74018f8882b",
     "ad4b0b4b3529"
   ]
