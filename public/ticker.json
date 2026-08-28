@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T17:56:24+00:00",
+  "generated_utc": "2026-08-28T18:42:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "After 34 Years, Dragon Ball Officially Reveals A Classic Hero's Super Saiyan Form",
+      "url": "https://screenrant.com/dragon-ball-reveals-mr-satan-super-saiyan-form/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "RetroCrush Adds Several Anime Series, Films from Viz Including Naruto the Movie: Ninja Clash in the Land of Snow",
       "url": "https://www.animenewsnetwork.com/news/2026-08-28/retrocrush-adds-several-anime-series-films-from-viz-including-naruto-the-movie-ninja-clash-in-the-/.241080",
       "pillar": "anime",
@@ -76,13 +83,6 @@
     {
       "title": "Boruto Filler List: Every Episode & Arc You Should Watch Or Skip",
       "url": "https://screenrant.com/boruto-filler-list-every-episode-skip/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "One Piece May Have Just Set A New Grand Finale Deadline",
-      "url": "https://screenrant.com/one-piece-ending-update-creator/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
