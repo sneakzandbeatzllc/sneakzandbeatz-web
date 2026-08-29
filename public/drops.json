@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T02:47:17+00:00",
+  "generated_utc": "2026-08-29T05:01:49+00:00",
   "items": [
     {
       "id": "718a0dc79f1a",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "52b86ddbb527",
+      "id": "946e873ab79d",
       "pillar": "anime",
-      "title": "North American Anime, Manga Releases, August 23-29",
+      "title": "Roji's Ao to Midori Boys-Love Manga Gets Live-Action Series",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/north-american-anime-manga-releases-august-23-29/.240937",
-      "thumbnail": "/drops/thumbs/52b86ddbb527.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-29/roji-ao-to-midori-boys-love-manga-gets-live-action-series/.241102",
+      "thumbnail": "/drops/thumbs/946e873ab79d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "ad4b0b4b3529",
+      "id": "fbefea7acc50",
       "pillar": "gaming",
-      "title": "News Tech Experts Call GTA 6 'the Most Impressive Example of Real-Time Rendering We've Ever Seen'",
+      "title": "News Watch GTA 6 Extended Look Here - 17 Things We've Learned",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/tech-experts-call-gta-6-the-most-impressive-example-of-real-time-rendering-weve-ever-seen",
-      "thumbnail": "/drops/thumbs/ad4b0b4b3529.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
+      "thumbnail": "/drops/thumbs/fbefea7acc50.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "a5954afd5731",
+      "id": "adec29ff2e93",
       "pillar": "gaming",
-      "title": "News GTA 6 Contains No Microtransactions or Generative AI, Rockstar Says",
+      "title": "News GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-contains-no-microtransactions-or-generative-ai-rockstar-says",
-      "thumbnail": "/drops/thumbs/a5954afd5731.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode",
+      "thumbnail": "/drops/thumbs/adec29ff2e93.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "fbefea7acc50",
+      "id": "e88413be2916",
       "pillar": "gaming",
-      "title": "News Watch GTA 6 Extended Look Here - 17 Things We've Learned",
+      "title": "Poll Are You Sold on GTA 6?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
-      "thumbnail": "/drops/thumbs/fbefea7acc50.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-are-you-sold-on-gta-6",
+      "thumbnail": "/drops/thumbs/e88413be2916.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "c30f21518c30",
     "c2ea76bdc233",
     "d74018f8882b",
-    "ad4b0b4b3529"
+    "fbefea7acc50"
   ]
 }
