@@ -1,30 +1,18 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T00:00:47+00:00",
+  "generated_utc": "2026-08-29T02:47:17+00:00",
   "items": [
     {
-      "id": "4e69880c87ec",
+      "id": "718a0dc79f1a",
       "pillar": "sneakers",
-      "title": "The Air Jordan 14 Low Joins the Bin 23 Revival in June 2027",
+      "title": "The Air Jordan 8 “Chrome” Releases Tomorrow",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
-      "thumbnail": "/drops/thumbs/4e69880c87ec.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "f326a8cd9b49",
-      "pillar": "sneakers",
-      "title": "Air Jordan 8 “Chrome” (305381-007) August 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
-      "thumbnail": "/drops/thumbs/f326a8cd9b49.jpg",
-      "published": "2026-08-27T10:01:02",
+      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
+      "published": "2026-08-28T03:06:00",
       "relative_time": "today",
       "score": 3.0,
-      "release_badge": "Drops This Month"
+      "release_badge": "Drops This Week"
     },
     {
       "id": "bcf8ea6d2346",
@@ -87,16 +75,28 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "06a55cf34c7b",
+      "id": "c00f312fba4a",
       "pillar": "sneakers",
-      "title": "Air Jordan 6 Low “Desert Berry” Releases September 16",
+      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-6-low-wmns-desert-berry-ix5195-001/",
-      "thumbnail": "/drops/thumbs/06a55cf34c7b.jpg",
-      "published": "",
+      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
+      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
+      "published": "2026-08-28T15:14:16",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1478e53040eb",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
+      "thumbnail": "/drops/thumbs/1478e53040eb.webp",
+      "published": "2026-08-28T13:14:59",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "c2ea76bdc233",
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "4e69880c87ec",
-    "f326a8cd9b49",
+    "718a0dc79f1a",
     "bcf8ea6d2346",
-    "c2ea76bdc233",
     "c30f21518c30",
+    "c2ea76bdc233",
+    "d74018f8882b",
     "ad4b0b4b3529"
   ]
 }
