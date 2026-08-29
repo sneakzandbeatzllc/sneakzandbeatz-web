@@ -1,18 +1,30 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T11:58:10+00:00",
+  "generated_utc": "2026-08-29T12:21:12+00:00",
   "items": [
     {
-      "id": "718a0dc79f1a",
+      "id": "f326a8cd9b49",
       "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Chrome” Releases Tomorrow",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
-      "published": "2026-08-28T03:06:00",
+      "title": "The Air Jordan 8 “Chrome” Releases Today",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
+      "thumbnail": "/drops/thumbs/f326a8cd9b49.jpg",
+      "published": "2026-08-29T07:13:14",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
+    },
+    {
+      "id": "889de6561410",
+      "pillar": "sneakers",
+      "title": "AWAKE NY x Air Jordan 6 “Blueberry” August 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-blueberry-iq5706-400/",
+      "thumbnail": "/drops/thumbs/889de6561410.jpg",
+      "published": "2026-08-28T08:37:49",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "bcf8ea6d2346",
@@ -22,18 +34,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-12-sumo/",
       "thumbnail": "/drops/thumbs/bcf8ea6d2346.jpg",
       "published": "2026-08-26T01:29:01",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "c30f21518c30",
-      "pillar": "sneakers",
-      "title": "Awake NY x Air Jordan 6 “Blueberry” (Midnight Navy) Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-midnight-navy/",
-      "thumbnail": "/drops/thumbs/c30f21518c30.jpg",
-      "published": "2026-08-25T04:18:21",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -292,9 +292,9 @@
     }
   ],
   "homepage": [
-    "718a0dc79f1a",
+    "f326a8cd9b49",
+    "889de6561410",
     "bcf8ea6d2346",
-    "c30f21518c30",
     "c2ea76bdc233",
     "d74018f8882b",
     "fbefea7acc50"
