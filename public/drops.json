@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T12:58:50+00:00",
+  "generated_utc": "2026-08-29T14:05:49+00:00",
   "items": [
-    {
-      "id": "f326a8cd9b49",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Chrome” Releases Today",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
-      "thumbnail": "/drops/thumbs/f326a8cd9b49.jpg",
-      "published": "2026-08-29T07:13:14",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
-    },
     {
       "id": "889de6561410",
       "pillar": "sneakers",
@@ -25,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "718a0dc79f1a",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 8 “Chrome” Releases Tomorrow",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
+      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
+      "published": "2026-08-28T03:06:00",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Week"
     },
     {
       "id": "bcf8ea6d2346",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "04f70476895d",
+      "id": "c8110d8062e6",
       "pillar": "anime",
-      "title": "Arcanadea TV Anime Reveals More Cast, January 2027 Debut in Video",
+      "title": "Comic, Manga Letterer Dave Lanphear Dies at 58",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-29/arcanadea-tv-anime-reveals-more-cast-january-2027-debut-in-video/.241107",
-      "thumbnail": "/drops/thumbs/04f70476895d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-29/comic-manga-letterer-dave-lanphear-dies-at-58/.241104",
+      "thumbnail": "/drops/thumbs/c8110d8062e6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,8 +292,8 @@
     }
   ],
   "homepage": [
-    "f326a8cd9b49",
     "889de6561410",
+    "718a0dc79f1a",
     "bcf8ea6d2346",
     "c2ea76bdc233",
     "d74018f8882b",
