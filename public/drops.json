@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T18:08:14+00:00",
+  "generated_utc": "2026-08-29T19:02:12+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "adec29ff2e93",
-      "pillar": "gaming",
-      "title": "News GTA 6 Targeting 30fps on PS5, Undecided on Performance Mode",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/gta-6-targeting-30fps-on-ps5-undecided-on-performance-mode",
-      "thumbnail": "/drops/thumbs/adec29ff2e93.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cc43809b2403",
       "pillar": "gaming",
       "title": "GTA 6 might be single-player but the coupled-up life changes everything",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-might-be-single-player-but-the-coupled-up-life-changes-everything/",
       "thumbnail": "/drops/thumbs/cc43809b2403.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7c5ecfca0b6b",
+      "pillar": "gaming",
+      "title": "Rockstar Promises GTA 6 Has No Generative AI… And No Microtransactions",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563866/article/rockstar-promises-gta-6-has-no-generative-ai-and-no-microtransactions/",
+      "thumbnail": "/drops/thumbs/7c5ecfca0b6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
