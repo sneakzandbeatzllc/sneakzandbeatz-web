@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T22:55:44+00:00",
+  "generated_utc": "2026-08-29T00:00:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "The Air Jordan 14 Low Joins the Bin 23 Revival in June 2027",
+      "url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 8 “Chrome” (305381-007) August 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-8-chrome-305381-007/",
@@ -46,17 +53,10 @@
       "article_slug": null
     },
     {
-      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
-      "url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
+      "title": "Air Jordan 6 Low “Desert Berry” Releases September 16",
+      "url": "https://justfreshkicks.com/air-jordan-6-low-wmns-desert-berry-ix5195-001/",
       "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
-      "url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -69,6 +69,13 @@
     {
       "title": "Dragon Ball Super artist teases manga's official return after more than 2 years",
       "url": "https://www.polygon.com/dragon-ball-super-manga-comeback-toyotarou/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "37 Years Later, Goku's Best Dragon Ball Z Line Is Still One of Anime's Greatest Quotes",
+      "url": "https://screenrant.com/goku-best-dragon-ball-z-line-iconic/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -95,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Pokémon Sets Historic New Global Streaming Deal Ahead Of New 2027 Series",
-      "url": "https://screenrant.com/pokemon-disney-plus-streaming-deal-new-2027-show-details/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "North American Anime, Manga Releases, August 23-29",
       "url": "https://www.animenewsnetwork.com/news/2026-08-28/north-american-anime-manga-releases-august-23-29/.240937",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Netflix Officially Lands 3-Part Superhero Mega-Franchise",
-      "url": "https://screenrant.com/one-punch-man-netflix-debut/",
+      "title": "Pokémon Sets Historic New Global Streaming Deal Ahead Of New 2027 Series",
+      "url": "https://screenrant.com/pokemon-disney-plus-streaming-deal-new-2027-show-details/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

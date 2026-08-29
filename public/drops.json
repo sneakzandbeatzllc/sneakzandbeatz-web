@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-28T22:55:44+00:00",
+  "generated_utc": "2026-08-29T00:00:47+00:00",
   "items": [
+    {
+      "id": "4e69880c87ec",
+      "pillar": "sneakers",
+      "title": "The Air Jordan 14 Low Joins the Bin 23 Revival in June 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
+      "thumbnail": "/drops/thumbs/4e69880c87ec.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "f326a8cd9b49",
       "pillar": "sneakers",
@@ -75,28 +87,16 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "c00f312fba4a",
+      "id": "06a55cf34c7b",
       "pillar": "sneakers",
-      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
+      "title": "Air Jordan 6 Low “Desert Berry” Releases September 16",
       "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
-      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
-      "published": "2026-08-28T15:14:16",
+      "source_url": "https://justfreshkicks.com/air-jordan-6-low-wmns-desert-berry-ix5195-001/",
+      "thumbnail": "/drops/thumbs/06a55cf34c7b.jpg",
+      "published": "",
       "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1478e53040eb",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
-      "thumbnail": "/drops/thumbs/1478e53040eb.webp",
-      "published": "2026-08-28T13:14:59",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "c2ea76bdc233",
@@ -117,6 +117,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/dragon-ball-super-manga-comeback-toyotarou/",
       "thumbnail": "/drops/thumbs/b8c89f6a9eaa.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "90c48e13c924",
+      "pillar": "anime",
+      "title": "37 Years Later, Goku's Best Dragon Ball Z Line Is Still One of Anime's Greatest Quotes",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/goku-best-dragon-ball-z-line-iconic/",
+      "thumbnail": "/drops/thumbs/90c48e13c924.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "b97fb02ead44",
-      "pillar": "anime",
-      "title": "Pokémon Sets Historic New Global Streaming Deal Ahead Of New 2027 Series",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/pokemon-disney-plus-streaming-deal-new-2027-show-details/",
-      "thumbnail": "/drops/thumbs/b97fb02ead44.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "52b86ddbb527",
       "pillar": "anime",
       "title": "North American Anime, Manga Releases, August 23-29",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "a83b02b6988d",
+      "id": "b97fb02ead44",
       "pillar": "anime",
-      "title": "Netflix Officially Lands 3-Part Superhero Mega-Franchise",
+      "title": "Pokémon Sets Historic New Global Streaming Deal Ahead Of New 2027 Series",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-punch-man-netflix-debut/",
-      "thumbnail": "/drops/thumbs/a83b02b6988d.jpg",
+      "source_url": "https://screenrant.com/pokemon-disney-plus-streaming-deal-new-2027-show-details/",
+      "thumbnail": "/drops/thumbs/b97fb02ead44.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "4e69880c87ec",
     "f326a8cd9b49",
     "bcf8ea6d2346",
-    "c30f21518c30",
     "c2ea76bdc233",
-    "d74018f8882b",
+    "c30f21518c30",
     "ad4b0b4b3529"
   ]
 }
