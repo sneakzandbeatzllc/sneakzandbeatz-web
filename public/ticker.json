@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T08:04:47+00:00",
+  "generated_utc": "2026-08-29T11:58:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://www.sneakerfiles.com/awake-ny-air-jordan-6-midnight-navy/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-td-football-cleats-metallic-silver-fz8626-002/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
       "url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
-      "url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null

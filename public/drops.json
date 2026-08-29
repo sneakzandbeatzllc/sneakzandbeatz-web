@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T08:04:47+00:00",
+  "generated_utc": "2026-08-29T11:58:10+00:00",
   "items": [
     {
       "id": "718a0dc79f1a",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "d74018f8882b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-td-football-cleats-metallic-silver-fz8626-002/",
+      "thumbnail": "/drops/thumbs/d74018f8882b.jpg",
+      "published": "2026-08-27T12:26:30",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "fef85dcdb8cb",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
       "thumbnail": "/drops/thumbs/1478e53040eb.webp",
       "published": "2026-08-28T13:14:59",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1d1ce0f71ba0",
-      "pillar": "sneakers",
-      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
-      "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
-      "published": "2026-08-27T02:16:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -296,7 +296,7 @@
     "bcf8ea6d2346",
     "c30f21518c30",
     "c2ea76bdc233",
-    "fef85dcdb8cb",
+    "d74018f8882b",
     "fbefea7acc50"
   ]
 }
