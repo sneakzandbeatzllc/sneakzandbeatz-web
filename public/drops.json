@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T07:03:31+00:00",
+  "generated_utc": "2026-08-29T08:04:47+00:00",
   "items": [
     {
       "id": "718a0dc79f1a",
@@ -37,18 +37,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "d74018f8882b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-td-football-cleats-metallic-silver-fz8626-002/",
-      "thumbnail": "/drops/thumbs/d74018f8882b.jpg",
-      "published": "2026-08-27T12:26:30",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "fef85dcdb8cb",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
       "thumbnail": "/drops/thumbs/1478e53040eb.webp",
       "published": "2026-08-28T13:14:59",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1d1ce0f71ba0",
+      "pillar": "sneakers",
+      "title": "RELEASE DETAILS: Awake NY & Jordan Brand Reunite for an Air Jordan 6 Pack in 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/awake-ny-air-jordan-6-pack/",
+      "thumbnail": "/drops/thumbs/1d1ce0f71ba0.jpg",
+      "published": "2026-08-27T02:16:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -159,24 +159,24 @@
       "release_badge": ""
     },
     {
-      "id": "9f96df1e88dd",
+      "id": "d8a0bfdf7f36",
       "pillar": "anime",
-      "title": "RetroCrush Adds Several Anime Series, Films from Viz Including Naruto the Movie: Ninja Clash in the Land of Snow",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/retrocrush-adds-several-anime-series-films-from-viz-including-naruto-the-movie-ninja-clash-in-the-/.241080",
-      "thumbnail": "/drops/thumbs/9f96df1e88dd.jpg",
+      "title": "5 shonen anime that are 10/10 perfect masterpieces, no notes",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/best-shonen-anime-perfect-no-notes/",
+      "thumbnail": "/drops/thumbs/d8a0bfdf7f36.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "bc957acf9bda",
+      "id": "04f70476895d",
       "pillar": "anime",
-      "title": "Anime’s most iconic toy of the ’90s is officially returning with new release",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/sailor-moon-moonstick-90s-toy-returns/",
-      "thumbnail": "/drops/thumbs/bc957acf9bda.jpg",
+      "title": "Arcanadea TV Anime Reveals More Cast, January 2027 Debut in Video",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-29/arcanadea-tv-anime-reveals-more-cast-january-2027-debut-in-video/.241107",
+      "thumbnail": "/drops/thumbs/04f70476895d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -296,7 +296,7 @@
     "bcf8ea6d2346",
     "c30f21518c30",
     "c2ea76bdc233",
-    "d74018f8882b",
+    "fef85dcdb8cb",
     "fbefea7acc50"
   ]
 }
