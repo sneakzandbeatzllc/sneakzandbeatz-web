@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T17:00:25+00:00",
+  "generated_utc": "2026-08-29T17:07:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball Super artist teases manga's official return after more than 2 years",
-      "url": "https://www.polygon.com/dragon-ball-super-manga-comeback-toyotarou/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "37 Years Later, Goku's Best Dragon Ball Z Line Is Still One of Anime's Greatest Quotes",
       "url": "https://screenrant.com/goku-best-dragon-ball-z-line-iconic/",
       "pillar": "anime",
@@ -97,6 +90,13 @@
     {
       "title": "Bleach Mirrors High Mobile Game Streams 2 New Short Videos",
       "url": "https://www.animenewsnetwork.com/news/2026-08-29/bleach-mirrors-high-mobile-game-streams-2-new-short-videos/.241083",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Goodbye, Lara captures what makes old-school anime so special",
+      "url": "https://www.polygon.com/goodbye-lara-captures-what-makes-old-school-anime-so-special/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
