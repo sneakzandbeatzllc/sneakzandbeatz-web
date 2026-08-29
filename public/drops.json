@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T19:02:12+00:00",
+  "generated_utc": "2026-08-29T21:03:08+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -123,6 +123,18 @@
       "release_badge": ""
     },
     {
+      "id": "62410986dd2a",
+      "pillar": "anime",
+      "title": "All 13 Demon Slayer Hashira, Ranked Weakest To Strongest",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/demon-slayer-hashira-ranked-strength/",
+      "thumbnail": "/drops/thumbs/62410986dd2a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "071ec06c8de4",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Finally Teases The Return of Sukuna In Season 4",
@@ -183,24 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "c8110d8062e6",
-      "pillar": "anime",
-      "title": "Comic, Manga Letterer Dave Lanphear Dies at 58",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-29/comic-manga-letterer-dave-lanphear-dies-at-58/.241104",
-      "thumbnail": "/drops/thumbs/c8110d8062e6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5fcc634fc3b0",
+      "id": "470cace8e0f5",
       "pillar": "gaming",
-      "title": "News $900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
+      "title": "News I'm Obsessed with GTA 6's Next-Gen Wanted System",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
-      "thumbnail": "/drops/thumbs/5fcc634fc3b0.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/im-obsessed-with-gta-6s-next-gen-wanted-system",
+      "thumbnail": "/drops/thumbs/470cace8e0f5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "fbefea7acc50",
+      "id": "5fcc634fc3b0",
       "pillar": "gaming",
-      "title": "News Watch GTA 6 Extended Look Here - 17 Things We've Learned",
+      "title": "News $900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
-      "thumbnail": "/drops/thumbs/fbefea7acc50.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
+      "thumbnail": "/drops/thumbs/5fcc634fc3b0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "bcf8ea6d2346",
     "90c48e13c924",
     "d74018f8882b",
-    "5fcc634fc3b0"
+    "470cace8e0f5"
   ]
 }
