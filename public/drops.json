@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-29T17:07:26+00:00",
+  "generated_utc": "2026-08-29T17:25:37+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -75,6 +75,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "a7fdaea1170e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 Bucks “Idols Become Rivals” Releases September 12",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-12-bucks-ct8013-103-release-date/",
+      "thumbnail": "/drops/thumbs/a7fdaea1170e.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "c00f312fba4a",
       "pillar": "sneakers",
       "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
@@ -84,30 +96,6 @@
       "published": "2026-08-28T15:14:16",
       "relative_time": "today",
       "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1478e53040eb",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 9 Boot “Anthracite” Features a Flashy Iridescent Finish",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-9-boot-anthracite-ix8455-060/",
-      "thumbnail": "/drops/thumbs/1478e53040eb.webp",
-      "published": "2026-08-28T13:14:59",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c2ea76bdc233",
-      "pillar": "anime",
-      "title": "Attack on Titan: Brave Order Cooperative Smartphone Game Ends Service on September 28",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-28/attack-on-titan-brave-order-cooperative-smartphone-game-ends-service-on-september-28/.241092",
-      "thumbnail": "/drops/thumbs/c2ea76bdc233.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -171,6 +159,18 @@
       "release_badge": ""
     },
     {
+      "id": "b75bb87c78b7",
+      "pillar": "anime",
+      "title": "Youka Nitta to Publish More Embracing Love Manga in Spring 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-29/youka-nitta-to-publish-more-embracing-love-manga-in-spring-2027/.241108",
+      "thumbnail": "/drops/thumbs/b75bb87c78b7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d8a0bfdf7f36",
       "pillar": "anime",
       "title": "5 shonen anime that are 10/10 perfect masterpieces, no notes",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "b75bb87c78b7",
+      "id": "c8110d8062e6",
       "pillar": "anime",
-      "title": "Youka Nitta to Publish More Embracing Love Manga in Spring 2027",
+      "title": "Comic, Manga Letterer Dave Lanphear Dies at 58",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-29/youka-nitta-to-publish-more-embracing-love-manga-in-spring-2027/.241108",
-      "thumbnail": "/drops/thumbs/b75bb87c78b7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-29/comic-manga-letterer-dave-lanphear-dies-at-58/.241104",
+      "thumbnail": "/drops/thumbs/c8110d8062e6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "889de6561410",
     "718a0dc79f1a",
     "bcf8ea6d2346",
-    "c2ea76bdc233",
+    "90c48e13c924",
     "d74018f8882b",
     "fbefea7acc50"
   ]
