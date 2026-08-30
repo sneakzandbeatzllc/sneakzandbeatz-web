@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-30T10:09:32+00:00",
+  "generated_utc": "2026-08-30T12:10:20+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f3a9b89fa2dc",
+      "pillar": "anime",
+      "title": "35 Years Later, Dragon Ball's Most Badass Character Debut Is Still The Best In Shonen History",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-trunks-debut-badass-shonen-jump/",
+      "thumbnail": "/drops/thumbs/f3a9b89fa2dc.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "90c48e13c924",
       "pillar": "anime",
       "title": "37 Years Later, Goku's Best Dragon Ball Z Line Is Still One of Anime's Greatest Quotes",
@@ -171,24 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "32c2aa8acc9d",
+      "id": "c221eb6cacd8",
       "pillar": "anime",
-      "title": "Sankaku Head's My Darling Devilish Daughter Manga Ends in 6th Volume",
+      "title": "Sagrada Reset Author Yutaka Kōno's Sayonara no Iikata Nante Shiranai Novel Series Gets Manga Adaptation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-08-30/sankaku-head-my-darling-devilish-daughter-manga-ends-in-6th-volume/.241120",
-      "thumbnail": "/drops/thumbs/32c2aa8acc9d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d8a0bfdf7f36",
-      "pillar": "anime",
-      "title": "5 shonen anime that are 10/10 perfect masterpieces, no notes",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/best-shonen-anime-perfect-no-notes/",
-      "thumbnail": "/drops/thumbs/d8a0bfdf7f36.png",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-08-30/sagrada-reset-author-yutaka-kono-sayonara-no-iikata-nante-shiranai-novel-series-gets-manga-/.241119",
+      "thumbnail": "/drops/thumbs/c221eb6cacd8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "889de6561410",
     "718a0dc79f1a",
     "bcf8ea6d2346",
-    "90c48e13c924",
+    "f3a9b89fa2dc",
     "d74018f8882b",
     "5fcc634fc3b0"
   ]
