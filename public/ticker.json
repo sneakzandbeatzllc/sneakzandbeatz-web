@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-30T16:11:22+00:00",
+  "generated_utc": "2026-08-30T17:12:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-12-sumo/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://sneakerbardetroit.com/air-jordan-12-bucks-ct8013-103-release-date/",
       "pillar": "sneakers",
       "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 14 “Chartreuse” January 2027 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-14-chartreuse-ix0206-001/",
-      "pillar": "sneakers",
-      "score": 2.0,
       "article_slug": null
     },
     {
