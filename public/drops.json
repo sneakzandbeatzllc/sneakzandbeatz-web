@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-30T00:10:48+00:00",
+  "generated_utc": "2026-08-30T05:08:51+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "470cace8e0f5",
+      "id": "5fcc634fc3b0",
       "pillar": "gaming",
-      "title": "News I'm Obsessed with GTA 6's Next-Gen Wanted System",
+      "title": "News $900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/im-obsessed-with-gta-6s-next-gen-wanted-system",
-      "thumbnail": "/drops/thumbs/470cace8e0f5.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
+      "thumbnail": "/drops/thumbs/5fcc634fc3b0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,18 +225,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563870/article/cyberleek-has-cashed-out-on-their-gta-6-leaks-but-are-they-really-done/",
       "thumbnail": "/drops/thumbs/4b3161d509b8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5fcc634fc3b0",
-      "pillar": "gaming",
-      "title": "News $900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
-      "thumbnail": "/drops/thumbs/5fcc634fc3b0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +277,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "dca47b700af7",
+      "pillar": "gaming",
+      "title": "How long is GTA 6? About 80 hours, according to one Rockstar dev's playthrough",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/how-long-is-gta-6-about-80-hours-according-to-one-rockstar-devs-playthrough/",
+      "thumbnail": "/drops/thumbs/dca47b700af7.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "bcf8ea6d2346",
     "90c48e13c924",
     "d74018f8882b",
-    "470cace8e0f5"
+    "5fcc634fc3b0"
   ]
 }

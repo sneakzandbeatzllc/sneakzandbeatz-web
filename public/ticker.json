@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-30T00:10:48+00:00",
+  "generated_utc": "2026-08-30T05:08:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,8 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "News I'm Obsessed with GTA 6's Next-Gen Wanted System",
-      "url": "https://www.pushsquare.com/news/2026/08/im-obsessed-with-gta-6s-next-gen-wanted-system",
+      "title": "News $900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
+      "url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -132,13 +132,6 @@
     {
       "title": "Cyberleek Has Cashed Out On Their GTA 6 Leaks – But Are They Really Done?",
       "url": "https://gameranx.com/updates/id/563870/article/cyberleek-has-cashed-out-on-their-gta-6-leaks-but-are-they-really-done/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News $900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
-      "url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Rockstar Promises GTA 6 Has No Generative AI… And No Microtransactions",
       "url": "https://gameranx.com/updates/id/563866/article/rockstar-promises-gta-6-has-no-generative-ai-and-no-microtransactions/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "How long is GTA 6? About 80 hours, according to one Rockstar dev's playthrough",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/how-long-is-gta-6-about-80-hours-according-to-one-rockstar-devs-playthrough/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
