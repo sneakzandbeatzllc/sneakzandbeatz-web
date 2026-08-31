@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T01:17:00+00:00",
+  "generated_utc": "2026-08-31T02:16:18+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "4d827d4790f3",
+      "pillar": "anime",
+      "title": "10 Times Goku Was Actually Dragon Ball's Biggest Problem",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/goku-problem-dragon-ball/",
+      "thumbnail": "/drops/thumbs/4d827d4790f3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f3a9b89fa2dc",
       "pillar": "anime",
       "title": "35 Years Later, Dragon Ball's Most Badass Character Debut Is Still The Best In Shonen History",
@@ -129,18 +141,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-best-arcs-ranked/",
       "thumbnail": "/drops/thumbs/03e71666147e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "19945151468e",
-      "pillar": "anime",
-      "title": "Ranking Black Clover's 15 Strongest Characters Who Dominated The Final Arc",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-10-strongest-characters-final-arc-manga/",
-      "thumbnail": "/drops/thumbs/19945151468e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "889de6561410",
     "718a0dc79f1a",
     "bcf8ea6d2346",
-    "f3a9b89fa2dc",
+    "4d827d4790f3",
     "1204fed5cb38",
     "1ad571bc469d"
   ]

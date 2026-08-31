@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T01:17:00+00:00",
+  "generated_utc": "2026-08-31T02:16:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "10 Times Goku Was Actually Dragon Ball's Biggest Problem",
+      "url": "https://screenrant.com/goku-problem-dragon-ball/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "35 Years Later, Dragon Ball's Most Badass Character Debut Is Still The Best In Shonen History",
       "url": "https://screenrant.com/dragon-ball-trunks-debut-badass-shonen-jump/",
       "pillar": "anime",
@@ -76,13 +83,6 @@
     {
       "title": "Every One Piece Arc Ranked From Forgettable To Masterpiece",
       "url": "https://screenrant.com/one-piece-best-arcs-ranked/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ranking Black Clover's 15 Strongest Characters Who Dominated The Final Arc",
-      "url": "https://screenrant.com/black-clover-10-strongest-characters-final-arc-manga/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
