@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T10:20:12+00:00",
+  "generated_utc": "2026-08-31T10:50:58+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -39,6 +39,30 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "67d4186d382d",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Bucks” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
+      "thumbnail": "/drops/thumbs/67d4186d382d.jpg",
+      "published": "2026-08-31T03:44:09",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "1b4ea7305528",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “London” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-london/",
+      "thumbnail": "/drops/thumbs/1b4ea7305528.jpg",
+      "published": "2026-08-31T03:36:04",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "1204fed5cb38",
       "pillar": "sneakers",
       "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
@@ -70,30 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-7-tennis-day/",
       "thumbnail": "/drops/thumbs/fef85dcdb8cb.jpg",
       "published": "2026-08-26T01:41:17",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "1b4ea7305528",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “London” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-london/",
-      "thumbnail": "/drops/thumbs/1b4ea7305528.jpg",
-      "published": "2026-08-26T01:16:01",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "a7fdaea1170e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 Bucks “Idols Become Rivals” Releases September 12",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-12-bucks-ct8013-103-release-date/",
-      "thumbnail": "/drops/thumbs/a7fdaea1170e.webp",
-      "published": "",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -296,7 +296,7 @@
     "718a0dc79f1a",
     "bcf8ea6d2346",
     "4d827d4790f3",
-    "1204fed5cb38",
+    "67d4186d382d",
     "1ad571bc469d"
   ]
 }
