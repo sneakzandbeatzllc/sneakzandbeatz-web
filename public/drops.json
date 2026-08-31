@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T20:27:32+00:00",
+  "generated_utc": "2026-08-31T22:27:38+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -39,6 +39,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "7be8975eed7b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 TD “Metallic Silver” Football Cleats Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-td-football-cleats-metallic-silver/",
+      "thumbnail": "/drops/thumbs/7be8975eed7b.jpg",
+      "published": "2026-08-31T15:07:40",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "67d4186d382d",
       "pillar": "sneakers",
       "title": "Air Jordan 12 “Bucks” Releases September 2026",
@@ -70,18 +82,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
       "thumbnail": "/drops/thumbs/1204fed5cb38.jpg",
       "published": "2026-08-29T08:25:55",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "d74018f8882b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-td-football-cleats-metallic-silver-fz8626-002/",
-      "thumbnail": "/drops/thumbs/d74018f8882b.jpg",
-      "published": "2026-08-27T12:26:30",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -129,6 +129,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/black-torch-jujutsu-kaisen-meets-chainsaw-man-best-anime-2026/",
       "thumbnail": "/drops/thumbs/29756ed432e6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "158dcc723b0e",
+      "pillar": "anime",
+      "title": "One Piece And Spongebob's Official Crossover Finally Has A Release Date",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-spongebob-crossover-release-date-mcdonalds/",
+      "thumbnail": "/drops/thumbs/158dcc723b0e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "8eb1b8a61898",
-      "pillar": "anime",
-      "title": "10 years later, MAPPA’s forgotten WWII anime remains one of the best",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/in-this-corner-of-the-world-wwii-anime-movie-rec/",
-      "thumbnail": "/drops/thumbs/8eb1b8a61898.jpg",
+      "id": "5dbb4b4e2737",
+      "pillar": "gaming",
+      "title": "News 30 New GTA 6 PS5 Screenshots Will Blow You Away After Extended Look",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-will-blow-you-away-after-extended-look",
+      "thumbnail": "/drops/thumbs/5dbb4b4e2737.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -201,18 +213,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/gta-6-guide/",
       "thumbnail": "/drops/thumbs/d9656ddd38d3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "76a8948db805",
-      "pillar": "gaming",
-      "title": "Fans Are Marvelling At How Much Better GTA 6 Looks Compared To GTA 5",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/fans-are-marvelling-at-how-much-better-gta-6-looks-compared-to-gta-5-2000729596",
-      "thumbnail": "/drops/thumbs/76a8948db805.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -296,7 +296,7 @@
     "718a0dc79f1a",
     "bcf8ea6d2346",
     "f471329b2200",
-    "67d4186d382d",
-    "d9656ddd38d3"
+    "7be8975eed7b",
+    "5dbb4b4e2737"
   ]
 }

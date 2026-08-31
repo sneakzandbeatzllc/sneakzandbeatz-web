@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T20:27:32+00:00",
+  "generated_utc": "2026-08-31T22:27:38+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -25,6 +25,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 3 TD “Metallic Silver” Football Cleats Releases September 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-td-football-cleats-metallic-silver/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 12 “Bucks” Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
       "pillar": "sneakers",
@@ -41,13 +48,6 @@
     {
       "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-td-football-cleats-metallic-silver-fz8626-002/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -81,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "One Piece And Spongebob's Official Crossover Finally Has A Release Date",
+      "url": "https://screenrant.com/one-piece-spongebob-crossover-release-date-mcdonalds/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "My Hero Academia Fumbled The One Reveal That Could Have Changed Everything",
       "url": "https://screenrant.com/my-hero-academia-reveal-fumble/",
       "pillar": "anime",
@@ -109,22 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "10 years later, MAPPA’s forgotten WWII anime remains one of the best",
-      "url": "https://www.polygon.com/in-this-corner-of-the-world-wwii-anime-movie-rec/",
-      "pillar": "anime",
+      "title": "News 30 New GTA 6 PS5 Screenshots Will Blow You Away After Extended Look",
+      "url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-will-blow-you-away-after-extended-look",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
       "title": "Everything you need to know about GTA 6",
       "url": "https://www.gamesradar.com/gta-6-guide/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Fans Are Marvelling At How Much Better GTA 6 Looks Compared To GTA 5",
-      "url": "https://kotaku.com/fans-are-marvelling-at-how-much-better-gta-6-looks-compared-to-gta-5-2000729596",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
