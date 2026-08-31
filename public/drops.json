@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T12:22:12+00:00",
+  "generated_utc": "2026-08-31T13:21:43+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "1ad571bc469d",
-      "pillar": "gaming",
-      "title": "News $900 PS5 Pro Now Sold Out in US Amid GTA 6 Fever",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-now-sold-out-in-us-amid-gta-6-fever",
-      "thumbnail": "/drops/thumbs/1ad571bc469d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d9656ddd38d3",
       "pillar": "gaming",
       "title": "Everything you need to know about GTA 6",
@@ -243,36 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "fc7d47d766be",
-      "pillar": "gaming",
-      "title": "Auto Aim Is Confirmed Removed From GTA 6 – But When Will We Learn About Its Bullet Time System?",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563868/article/auto-aim-is-confirmed-removed-from-gta-6-but-when-will-we-learn-about-its-bullet-time-system/",
-      "thumbnail": "/drops/thumbs/fc7d47d766be.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cc43809b2403",
       "pillar": "gaming",
       "title": "GTA 6 might be single-player but the coupled-up life changes everything",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-might-be-single-player-but-the-coupled-up-life-changes-everything/",
       "thumbnail": "/drops/thumbs/cc43809b2403.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7c5ecfca0b6b",
-      "pillar": "gaming",
-      "title": "Rockstar Promises GTA 6 Has No Generative AI… And No Microtransactions",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563866/article/rockstar-promises-gta-6-has-no-generative-ai-and-no-microtransactions/",
-      "thumbnail": "/drops/thumbs/7c5ecfca0b6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -289,6 +253,42 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "81f510187b63",
+      "pillar": "gaming",
+      "title": "News Persona 4 Revival Doesn't Add Gay Romance, Despite Fan Demand",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/08/persona-4-revival-doesnt-add-gay-romance-despite-fan-demand",
+      "thumbnail": "/drops/thumbs/81f510187b63.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6abc5c91d9ae",
+      "pillar": "gaming",
+      "title": "Persona 4 Revival boss knows you want to romance Yosuke",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/persona/persona-4-revival-boss-knows-you-want-to-romance-yosuke-but-you-cant-because-then-the-devs-would-have-to-do-that-for-all-the-other-male-characters/",
+      "thumbnail": "/drops/thumbs/6abc5c91d9ae.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "77bf6263fed1",
+      "pillar": "gaming",
+      "title": "Call of Duty Just Took Their Modern Warfare Vs. Cheaters To Their Front Door",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563884/article/call-of-duty-just-took-their-modern-warfare-vs-cheaters-to-their-front-door/",
+      "thumbnail": "/drops/thumbs/77bf6263fed1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "bcf8ea6d2346",
     "4d827d4790f3",
     "67d4186d382d",
-    "1ad571bc469d"
+    "d9656ddd38d3"
   ]
 }
