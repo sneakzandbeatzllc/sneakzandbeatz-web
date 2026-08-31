@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T13:24:01+00:00",
+  "generated_utc": "2026-08-31T13:30:48+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball is coming to Burger King with a special 'Super Saiyan Sauce'",
+      "url": "https://www.polygon.com/dragon-ball-burger-king-crossover/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "10 Times Goku Was Actually Dragon Ball's Biggest Problem",
       "url": "https://screenrant.com/goku-problem-dragon-ball/",
       "pillar": "anime",
@@ -95,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "10 years later, MAPPA’s forgotten WWII anime remains one of the best",
-      "url": "https://www.polygon.com/in-this-corner-of-the-world-wwii-anime-movie-rec/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "FX Fighter Kurumi-chan TV Anime Reveals October 1 Debut in Main Promo Video",
       "url": "https://www.animenewsnetwork.com/news/2026-08-31/fx-fighter-kurumi-chan-tv-anime-reveals-october-1-debut-in-main-promo-video/.241154",
       "pillar": "anime",
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "Goodbye, Lara captures what makes old-school anime so special",
-      "url": "https://www.polygon.com/goodbye-lara-captures-what-makes-old-school-anime-so-special/",
+      "title": "10 years later, MAPPA’s forgotten WWII anime remains one of the best",
+      "url": "https://www.polygon.com/in-this-corner-of-the-world-wwii-anime-movie-rec/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

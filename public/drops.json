@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T13:24:01+00:00",
+  "generated_utc": "2026-08-31T13:30:48+00:00",
   "items": [
     {
       "id": "889de6561410",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "f471329b2200",
+      "pillar": "anime",
+      "title": "Dragon Ball is coming to Burger King with a special 'Super Saiyan Sauce'",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dragon-ball-burger-king-crossover/",
+      "thumbnail": "/drops/thumbs/f471329b2200.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4d827d4790f3",
       "pillar": "anime",
       "title": "10 Times Goku Was Actually Dragon Ball's Biggest Problem",
@@ -159,18 +171,6 @@
       "release_badge": ""
     },
     {
-      "id": "8eb1b8a61898",
-      "pillar": "anime",
-      "title": "10 years later, MAPPA’s forgotten WWII anime remains one of the best",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/in-this-corner-of-the-world-wwii-anime-movie-rec/",
-      "thumbnail": "/drops/thumbs/8eb1b8a61898.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e23215c5470d",
       "pillar": "anime",
       "title": "FX Fighter Kurumi-chan TV Anime Reveals October 1 Debut in Main Promo Video",
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "c29be3904257",
+      "id": "8eb1b8a61898",
       "pillar": "anime",
-      "title": "Goodbye, Lara captures what makes old-school anime so special",
+      "title": "10 years later, MAPPA’s forgotten WWII anime remains one of the best",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/goodbye-lara-captures-what-makes-old-school-anime-so-special/",
-      "thumbnail": "/drops/thumbs/c29be3904257.jpg",
+      "source_url": "https://www.polygon.com/in-this-corner-of-the-world-wwii-anime-movie-rec/",
+      "thumbnail": "/drops/thumbs/8eb1b8a61898.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "889de6561410",
     "718a0dc79f1a",
     "bcf8ea6d2346",
-    "4d827d4790f3",
+    "f471329b2200",
     "67d4186d382d",
     "d9656ddd38d3"
   ]
