@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-01T04:30:33+00:00",
+  "generated_utc": "2026-09-01T07:31:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "News Saros Dev's Co-Founder Is Stepping Down After More Than 30 Years",
-      "url": "https://www.pushsquare.com/news/2026/08/saros-devs-co-founder-is-stepping-down-after-more-than-30-years",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Persona 4 Revival boss knows you want to romance Yosuke",
       "url": "https://www.gamesradar.com/games/persona/persona-4-revival-boss-knows-you-want-to-romance-yosuke-but-you-cant-because-then-the-devs-would-have-to-do-that-for-all-the-other-male-characters/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Call of Duty Just Took Their Modern Warfare Vs. Cheaters To Their Front Door",
       "url": "https://gameranx.com/updates/id/563884/article/call-of-duty-just-took-their-modern-warfare-vs-cheaters-to-their-front-door/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Onimusha: Way Of The Sword : The Kotaku Review",
+      "url": "https://kotaku.com/onimusha-way-of-the-sword-the-kotaku-review-2000729856",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
