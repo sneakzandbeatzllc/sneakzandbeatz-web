@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-01T01:04:45+00:00",
+  "generated_utc": "2026-09-01T01:35:41+00:00",
   "items": [
     {
       "id": "7be8975eed7b",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "718a0dc79f1a",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 8 “Chrome” Releases Tomorrow",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-8-chrome/",
-      "thumbnail": "/drops/thumbs/718a0dc79f1a.jpg",
-      "published": "2026-08-28T03:06:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
-    },
-    {
       "id": "fef85dcdb8cb",
       "pillar": "sneakers",
       "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
@@ -97,6 +85,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "c00f312fba4a",
+      "pillar": "sneakers",
+      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
+      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
+      "published": "2026-08-28T15:14:16",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "f471329b2200",
