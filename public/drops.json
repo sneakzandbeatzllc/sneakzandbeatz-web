@@ -1,7 +1,31 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-01T18:44:04+00:00",
+  "generated_utc": "2026-09-01T19:37:20+00:00",
   "items": [
+    {
+      "id": "35d523d81445",
+      "pillar": "sneakers",
+      "title": "Comme des Garçons x Air Jordan 11 “Triple White” (IV7639-100) September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-white-iv7639-100/",
+      "thumbnail": "/drops/thumbs/35d523d81445.jpg",
+      "published": "2026-08-31T15:32:52",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "82b659332cb6",
+      "pillar": "sneakers",
+      "title": "Comme des Garçons x Air Jordan 11 “Triple Black” (IV7639-001) September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-black-iv7639-001/",
+      "thumbnail": "/drops/thumbs/82b659332cb6.jpg",
+      "published": "2026-08-31T15:32:50",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "7be8975eed7b",
       "pillar": "sneakers",
@@ -73,30 +97,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "c00f312fba4a",
-      "pillar": "sneakers",
-      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
-      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
-      "published": "2026-08-28T15:14:16",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "4252eb996e5f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Royal” Returns October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-royal-2026/",
-      "thumbnail": "/drops/thumbs/4252eb996e5f.jpg",
-      "published": "2026-08-26T14:09:06",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "4d827d4790f3",
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "35d523d81445",
+    "82b659332cb6",
     "7be8975eed7b",
-    "67d4186d382d",
-    "1b4ea7305528",
     "4d827d4790f3",
-    "fef85dcdb8cb",
+    "67d4186d382d",
     "74075138ebfb"
   ]
 }
