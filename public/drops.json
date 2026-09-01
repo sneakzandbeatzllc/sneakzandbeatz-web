@@ -1,15 +1,51 @@
 {
   "schema": 2,
-  "generated_utc": "2026-08-31T22:32:36+00:00",
+  "generated_utc": "2026-09-01T00:28:35+00:00",
   "items": [
     {
-      "id": "889de6561410",
+      "id": "7be8975eed7b",
       "pillar": "sneakers",
-      "title": "AWAKE NY x Air Jordan 6 “Blueberry” August 2026 Release Date & Info",
+      "title": "Air Jordan 3 TD “Metallic Silver” Football Cleats Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-td-football-cleats-metallic-silver/",
+      "thumbnail": "/drops/thumbs/7be8975eed7b.jpg",
+      "published": "2026-08-31T15:07:40",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "67d4186d382d",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Bucks” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
+      "thumbnail": "/drops/thumbs/67d4186d382d.jpg",
+      "published": "2026-08-31T03:44:09",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "1b4ea7305528",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “London” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-london/",
+      "thumbnail": "/drops/thumbs/1b4ea7305528.jpg",
+      "published": "2026-08-31T03:36:04",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "1204fed5cb38",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
       "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/awake-ny-air-jordan-6-blueberry-iq5706-400/",
-      "thumbnail": "/drops/thumbs/889de6561410.jpg",
-      "published": "2026-08-28T08:37:49",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
+      "thumbnail": "/drops/thumbs/1204fed5cb38.jpg",
+      "published": "2026-08-29T08:25:55",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -27,66 +63,6 @@
       "release_badge": "Drops This Week"
     },
     {
-      "id": "bcf8ea6d2346",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Sumo” Releases August 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-sumo/",
-      "thumbnail": "/drops/thumbs/bcf8ea6d2346.jpg",
-      "published": "2026-08-26T01:29:01",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "7be8975eed7b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 TD “Metallic Silver” Football Cleats Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-td-football-cleats-metallic-silver/",
-      "thumbnail": "/drops/thumbs/7be8975eed7b.jpg",
-      "published": "2026-08-31T15:07:40",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "67d4186d382d",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
-      "thumbnail": "/drops/thumbs/67d4186d382d.jpg",
-      "published": "2026-08-31T03:44:09",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "1b4ea7305528",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “London” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-london/",
-      "thumbnail": "/drops/thumbs/1b4ea7305528.jpg",
-      "published": "2026-08-31T03:36:04",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "1204fed5cb38",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
-      "thumbnail": "/drops/thumbs/1204fed5cb38.jpg",
-      "published": "2026-08-29T08:25:55",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
       "id": "fef85dcdb8cb",
       "pillar": "sneakers",
       "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
@@ -95,8 +71,32 @@
       "thumbnail": "/drops/thumbs/fef85dcdb8cb.jpg",
       "published": "2026-08-26T01:41:17",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "a7fdaea1170e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 Bucks “Idols Become Rivals” Releases September 12",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-12-bucks-ct8013-103-release-date/",
+      "thumbnail": "/drops/thumbs/a7fdaea1170e.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "80bd90b0ca70",
+      "pillar": "sneakers",
+      "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/apb-air-jordan-11-low-binary-blue/",
+      "thumbnail": "/drops/thumbs/80bd90b0ca70.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "f471329b2200",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "5dbb4b4e2737",
+      "id": "403a747622ad",
       "pillar": "gaming",
-      "title": "News 30 New GTA 6 PS5 Screenshots Will Blow You Away After Extended Look",
+      "title": "News 30 New GTA 6 PS5 Screenshots to Blow You Away After Extended Look",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-will-blow-you-away-after-extended-look",
-      "thumbnail": "/drops/thumbs/5dbb4b4e2737.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-to-blow-you-away-after-extended-look",
+      "thumbnail": "/drops/thumbs/403a747622ad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "889de6561410",
-    "718a0dc79f1a",
-    "bcf8ea6d2346",
-    "f471329b2200",
     "7be8975eed7b",
-    "5dbb4b4e2737"
+    "67d4186d382d",
+    "1b4ea7305528",
+    "f471329b2200",
+    "1204fed5cb38",
+    "403a747622ad"
   ]
 }
