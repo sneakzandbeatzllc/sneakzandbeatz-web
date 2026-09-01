@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-01T14:34:22+00:00",
+  "generated_utc": "2026-09-01T15:34:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball is coming to Burger King with a special 'Super Saiyan Sauce'",
-      "url": "https://www.polygon.com/dragon-ball-burger-king-crossover/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 Times Goku Was Actually Dragon Ball's Biggest Problem",
       "url": "https://screenrant.com/goku-problem-dragon-ball/",
       "pillar": "anime",
@@ -95,15 +88,15 @@
       "article_slug": null
     },
     {
-      "title": "Every One Piece Arc Ranked From Forgettable To Masterpiece",
-      "url": "https://screenrant.com/one-piece-best-arcs-ranked/",
+      "title": "Red River Anime Reveals New Cast Member, Theme Song Artists",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-01/red-river-anime-reveals-new-cast-member-theme-song-artists/.241190",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Red River Anime Reveals New Cast Member, Theme Song Artists",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-01/red-river-anime-reveals-new-cast-member-theme-song-artists/.241190",
+      "title": "The manga behind Netflix's best horror anime is ending",
+      "url": "https://www.polygon.com/summer-hikaru-died-manga-ending-netflix-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -116,7 +109,14 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression 7 Comments",
+      "title": "Batman’s most unforgettable defeat has a near-perfect anime parallel",
+      "url": "https://www.polygon.com/batman-knightfall-bane-twist-jujutsu-kaisen-hidden-inventory-premature-death/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression 8 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-switch-between-lucia-and-jason-whenever-you-want-because-it-would-be-unnatural-for-story-progression/",
       "pillar": "gaming",
       "score": 1.0,
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "News AC Black Flag Resynced Update 1.0.7 Available to Download Now",
-      "url": "https://www.pushsquare.com/news/2026/09/ac-black-flag-resynced-update-1-0-7-available-to-download-now",
+      "title": "News No Rest for the Wicked's Long-Awaited 1.0 and PS5 Release Delayed into 2027",
+      "url": "https://www.pushsquare.com/news/2026/09/no-rest-for-the-wickeds-long-awaited-1-0-and-ps5-release-delayed-into-2027",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

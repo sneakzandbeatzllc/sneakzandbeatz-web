@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-01T14:34:22+00:00",
+  "generated_utc": "2026-09-01T15:34:02+00:00",
   "items": [
     {
       "id": "7be8975eed7b",
@@ -99,18 +99,6 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "f471329b2200",
-      "pillar": "anime",
-      "title": "Dragon Ball is coming to Burger King with a special 'Super Saiyan Sauce'",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dragon-ball-burger-king-crossover/",
-      "thumbnail": "/drops/thumbs/f471329b2200.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4d827d4790f3",
       "pillar": "anime",
       "title": "10 Times Goku Was Actually Dragon Ball's Biggest Problem",
@@ -159,24 +147,24 @@
       "release_badge": ""
     },
     {
-      "id": "03e71666147e",
-      "pillar": "anime",
-      "title": "Every One Piece Arc Ranked From Forgettable To Masterpiece",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-best-arcs-ranked/",
-      "thumbnail": "/drops/thumbs/03e71666147e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "708463409cf1",
       "pillar": "anime",
       "title": "Red River Anime Reveals New Cast Member, Theme Song Artists",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-09-01/red-river-anime-reveals-new-cast-member-theme-song-artists/.241190",
       "thumbnail": "/drops/thumbs/708463409cf1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8bc99e30fabf",
+      "pillar": "anime",
+      "title": "The manga behind Netflix's best horror anime is ending",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/summer-hikaru-died-manga-ending-netflix-anime/",
+      "thumbnail": "/drops/thumbs/8bc99e30fabf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -195,9 +183,21 @@
       "release_badge": ""
     },
     {
+      "id": "9ba40d6f98d4",
+      "pillar": "anime",
+      "title": "Batman’s most unforgettable defeat has a near-perfect anime parallel",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/batman-knightfall-bane-twist-jujutsu-kaisen-hidden-inventory-premature-death/",
+      "thumbnail": "/drops/thumbs/9ba40d6f98d4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "35b4d84b7a84",
       "pillar": "gaming",
-      "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression 7 Comments",
+      "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression 8 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-switch-between-lucia-and-jason-whenever-you-want-because-it-would-be-unnatural-for-story-progression/",
       "thumbnail": "/drops/thumbs/35b4d84b7a84.jpg",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "ba5c5f19f568",
+      "id": "c0fe9585cf5f",
       "pillar": "gaming",
-      "title": "News AC Black Flag Resynced Update 1.0.7 Available to Download Now",
+      "title": "News No Rest for the Wicked's Long-Awaited 1.0 and PS5 Release Delayed into 2027",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/ac-black-flag-resynced-update-1-0-7-available-to-download-now",
-      "thumbnail": "/drops/thumbs/ba5c5f19f568.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/no-rest-for-the-wickeds-long-awaited-1-0-and-ps5-release-delayed-into-2027",
+      "thumbnail": "/drops/thumbs/c0fe9585cf5f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "7be8975eed7b",
     "67d4186d382d",
     "1b4ea7305528",
-    "f471329b2200",
+    "4d827d4790f3",
     "fef85dcdb8cb",
     "35b4d84b7a84"
   ]
