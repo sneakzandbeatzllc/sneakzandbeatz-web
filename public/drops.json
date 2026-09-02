@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T11:43:17+00:00",
+  "generated_utc": "2026-09-02T12:44:27+00:00",
   "items": [
     {
       "id": "74db885a190b",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "260d4e64bfa4",
+      "id": "d955d58fc8f2",
       "pillar": "gaming",
-      "title": "News GTA 6 Extended Look Was Comfortably Netflix's Most-Watched Title of Last Week",
+      "title": "News It's a Miracle: GTA 6 Won't Make You Mash the X Button to Sprint",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/gta-6-extended-look-was-comfortably-netflixs-most-watched-title-of-last-week",
-      "thumbnail": "/drops/thumbs/260d4e64bfa4.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/its-a-miracle-gta-6-wont-make-you-mash-the-x-button-to-sprint",
+      "thumbnail": "/drops/thumbs/d955d58fc8f2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "260d4e64bfa4",
+      "pillar": "gaming",
+      "title": "News GTA 6 Extended Look Was Comfortably Netflix's Most-Watched Title of Last Week",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/gta-6-extended-look-was-comfortably-netflixs-most-watched-title-of-last-week",
+      "thumbnail": "/drops/thumbs/260d4e64bfa4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "35b4d84b7a84",
       "pillar": "gaming",
       "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression 11 Comments",
@@ -272,19 +284,7 @@
       "title": "GTA 6: Everything you need to know",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/gta-6-guide/",
-      "thumbnail": "/drops/thumbs/d9656ddd38d3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4ca48fd7ee72",
-      "pillar": "gaming",
-      "title": "News Chadley Has a 'Strong Role' in Final Fantasy 7 Revelation's Story, Despite Being Hated by Everyone",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/chadley-has-a-strong-role-in-final-fantasy-7-revelations-story-despite-being-hated-by-everyone",
-      "thumbnail": "/drops/thumbs/4ca48fd7ee72.jpg",
+      "thumbnail": "/drops/thumbs/d9656ddd38d3.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "35d523d81445",
     "4d827d4790f3",
     "82b659332cb6",
-    "260d4e64bfa4"
+    "d955d58fc8f2"
   ]
 }
