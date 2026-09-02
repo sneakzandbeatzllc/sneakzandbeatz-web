@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T08:23:36+00:00",
+  "generated_utc": "2026-09-02T08:54:24+00:00",
   "items": [
+    {
+      "id": "74db885a190b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
+      "thumbnail": "/drops/thumbs/74db885a190b.jpg",
+      "published": "2026-09-02T01:31:30",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "0b5a3bc99f24",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
       "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
       "published": "2026-08-28T15:14:16",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "4252eb996e5f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Royal” Returns October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-royal-2026/",
-      "thumbnail": "/drops/thumbs/4252eb996e5f.jpg",
-      "published": "2026-08-26T14:09:06",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "74db885a190b",
     "0b5a3bc99f24",
     "35d523d81445",
-    "82b659332cb6",
     "4d827d4790f3",
-    "7be8975eed7b",
+    "82b659332cb6",
     "403a747622ad"
   ]
 }
