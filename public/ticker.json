@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T12:44:27+00:00",
+  "generated_utc": "2026-09-02T13:28:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,6 +13,13 @@
     {
       "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
       "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -48,13 +55,6 @@
     {
       "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases Fall 2026",
       "url": "https://www.sneakerfiles.com/jaide-air-jordan-11-low-fiberglass/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 11 MCS “Black Metallic Gold” Baseball Cleats Releases Fall 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-11-mcs-baseball-cleats-black-metallic-gold/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null

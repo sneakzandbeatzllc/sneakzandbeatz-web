@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T12:44:27+00:00",
+  "generated_utc": "2026-09-02T13:28:24+00:00",
   "items": [
     {
       "id": "74db885a190b",
@@ -22,6 +22,18 @@
       "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
       "thumbnail": "/drops/thumbs/0b5a3bc99f24.jpg",
       "published": "2026-09-02T01:14:32",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "1204fed5cb38",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
+      "thumbnail": "/drops/thumbs/1204fed5cb38.jpg",
+      "published": "2026-09-01T08:25:55",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/jaide-air-jordan-11-low-fiberglass/",
       "thumbnail": "/drops/thumbs/ea6f69db25be.jpg",
       "published": "2026-09-02T02:59:56",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "df296a5b1a86",
-      "pillar": "sneakers",
-      "title": "Air Jordan 11 MCS “Black Metallic Gold” Baseball Cleats Releases Fall 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-11-mcs-baseball-cleats-black-metallic-gold/",
-      "thumbnail": "/drops/thumbs/df296a5b1a86.jpg",
-      "published": "2026-09-02T02:22:31",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -294,9 +294,9 @@
   "homepage": [
     "74db885a190b",
     "0b5a3bc99f24",
-    "35d523d81445",
+    "1204fed5cb38",
     "4d827d4790f3",
-    "82b659332cb6",
+    "35d523d81445",
     "d955d58fc8f2"
   ]
 }
