@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T13:55:19+00:00",
+  "generated_utc": "2026-09-02T14:04:03+00:00",
   "items": [
-    {
-      "id": "4e69880c87ec",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 14 Low Joins the Bin 23 Revival in June 2027",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
-      "thumbnail": "/drops/thumbs/4e69880c87ec.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
     {
       "id": "1204fed5cb38",
       "pillar": "sneakers",
@@ -63,40 +51,52 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "74db885a190b",
+      "id": "50e6a8a519df",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
-      "thumbnail": "/drops/thumbs/74db885a190b.jpg",
-      "published": "",
+      "title": "The Air Jordan 4 “Tour Yellow” is Getting A Retro After 20 Years",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-tour-yellow-io2463-102-drop/",
+      "thumbnail": "/drops/thumbs/50e6a8a519df.jpg",
+      "published": "2026-08-31T11:53:22",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 2.0,
+      "release_badge": ""
     },
     {
-      "id": "06a55cf34c7b",
+      "id": "bce9e5a88fba",
       "pillar": "sneakers",
-      "title": "Air Jordan 6 Low “Desert Berry” Releases September 16",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-6-low-wmns-desert-berry-ix5195-001/",
-      "thumbnail": "/drops/thumbs/06a55cf34c7b.jpg",
+      "title": "Air Jordan 8 “Hornets” Releases January 2027",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-8-hornets-2027/",
+      "thumbnail": "/drops/thumbs/bce9e5a88fba.webp",
       "published": "",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 2.0,
+      "release_badge": ""
     },
     {
-      "id": "7be8975eed7b",
+      "id": "d686299c3bdb",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 TD “Metallic Silver” Football Cleats Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-td-football-cleats-metallic-silver/",
-      "thumbnail": "/drops/thumbs/7be8975eed7b.jpg",
+      "title": "Air Jordan 3 “Utility” Releases January 2027",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-3-utility-black-fire-red/",
+      "thumbnail": "/drops/thumbs/d686299c3bdb.webp",
       "published": "",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f59e59111cf8",
+      "pillar": "sneakers",
+      "title": "Air Jordan 16 “Ginger” Returns June 2027",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-16-ginger-2027/",
+      "thumbnail": "/drops/thumbs/f59e59111cf8.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "4d827d4790f3",
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "4e69880c87ec",
     "1204fed5cb38",
     "35d523d81445",
-    "4d827d4790f3",
     "82b659332cb6",
+    "4d827d4790f3",
+    "80bd90b0ca70",
     "d955d58fc8f2"
   ]
 }
