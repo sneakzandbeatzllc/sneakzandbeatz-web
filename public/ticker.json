@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T02:50:19+00:00",
+  "generated_utc": "2026-09-02T03:41:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "Jujutsu Kaisen Meets Chainsaw Man In The Best 2026 Anime No One Is Talking About",
-      "url": "https://screenrant.com/black-torch-jujutsu-kaisen-meets-chainsaw-man-best-anime-2026/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "One Piece And Spongebob's Official Crossover Finally Has A Release Date",
       "url": "https://screenrant.com/one-piece-spongebob-crossover-release-date-mcdonalds/",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Batman’s most unforgettable defeat has a near-perfect anime parallel",
       "url": "https://www.polygon.com/batman-knightfall-bane-twist-jujutsu-kaisen-hidden-inventory-premature-death/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Busan Film Festival to Host Japanese Animation Special Program, Screening 13 Films",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-01/busan-film-festival-to-host-japanese-animation-special-program-screening-13-films/.241157",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
