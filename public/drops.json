@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T07:52:49+00:00",
+  "generated_utc": "2026-09-02T08:23:36+00:00",
   "items": [
+    {
+      "id": "0b5a3bc99f24",
+      "pillar": "sneakers",
+      "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
+      "thumbnail": "/drops/thumbs/0b5a3bc99f24.jpg",
+      "published": "2026-09-02T01:14:32",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "35d523d81445",
       "pillar": "sneakers",
@@ -63,30 +75,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "fef85dcdb8cb",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-7-tennis-day/",
-      "thumbnail": "/drops/thumbs/fef85dcdb8cb.jpg",
-      "published": "2026-08-26T01:41:17",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "80bd90b0ca70",
-      "pillar": "sneakers",
-      "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/apb-air-jordan-11-low-binary-blue/",
-      "thumbnail": "/drops/thumbs/80bd90b0ca70.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "c00f312fba4a",
       "pillar": "sneakers",
       "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
       "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
       "published": "2026-08-28T15:14:16",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "4252eb996e5f",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Royal” Returns October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-royal-2026/",
+      "thumbnail": "/drops/thumbs/4252eb996e5f.jpg",
+      "published": "2026-08-26T14:09:06",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "0b5a3bc99f24",
     "35d523d81445",
     "82b659332cb6",
-    "7be8975eed7b",
     "4d827d4790f3",
-    "67d4186d382d",
+    "7be8975eed7b",
     "403a747622ad"
   ]
 }
