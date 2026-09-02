@@ -1,30 +1,18 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T13:30:49+00:00",
+  "generated_utc": "2026-09-02T13:55:19+00:00",
   "items": [
     {
-      "id": "74db885a190b",
+      "id": "4e69880c87ec",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
-      "thumbnail": "/drops/thumbs/74db885a190b.jpg",
-      "published": "2026-09-02T01:31:30",
+      "title": "The Air Jordan 14 Low Joins the Bin 23 Revival in June 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-14-low-bin-23-iw1185-500/",
+      "thumbnail": "/drops/thumbs/4e69880c87ec.webp",
+      "published": "",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "0b5a3bc99f24",
-      "pillar": "sneakers",
-      "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
-      "thumbnail": "/drops/thumbs/0b5a3bc99f24.jpg",
-      "published": "2026-09-02T01:14:32",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
     },
     {
       "id": "1204fed5cb38",
@@ -63,40 +51,52 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "80bd90b0ca70",
+      "pillar": "sneakers",
+      "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/apb-air-jordan-11-low-binary-blue/",
+      "thumbnail": "/drops/thumbs/80bd90b0ca70.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "74db885a190b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
+      "thumbnail": "/drops/thumbs/74db885a190b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "06a55cf34c7b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low “Desert Berry” Releases September 16",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-6-low-wmns-desert-berry-ix5195-001/",
+      "thumbnail": "/drops/thumbs/06a55cf34c7b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
       "id": "7be8975eed7b",
       "pillar": "sneakers",
       "title": "Air Jordan 3 TD “Metallic Silver” Football Cleats Releases September 2026",
       "source": "Sneakerfiles",
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-td-football-cleats-metallic-silver/",
       "thumbnail": "/drops/thumbs/7be8975eed7b.jpg",
-      "published": "2026-08-31T15:07:40",
+      "published": "",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "c00f312fba4a",
-      "pillar": "sneakers",
-      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
-      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
-      "published": "2026-08-28T15:14:16",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "ea6f69db25be",
-      "pillar": "sneakers",
-      "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases Fall 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/jaide-air-jordan-11-low-fiberglass/",
-      "thumbnail": "/drops/thumbs/ea6f69db25be.jpg",
-      "published": "2026-09-02T02:59:56",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
     },
     {
       "id": "4d827d4790f3",
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "74db885a190b",
-    "0b5a3bc99f24",
+    "4e69880c87ec",
     "1204fed5cb38",
-    "4d827d4790f3",
     "35d523d81445",
+    "4d827d4790f3",
+    "82b659332cb6",
     "d955d58fc8f2"
   ]
 }
