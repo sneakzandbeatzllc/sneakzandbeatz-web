@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T04:42:48+00:00",
+  "generated_utc": "2026-09-02T07:52:49+00:00",
   "items": [
     {
       "id": "35d523d81445",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "403a747622ad",
+      "pillar": "gaming",
+      "title": "News 30 New GTA 6 PS5 Screenshots to Blow You Away After Extended Look",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-to-blow-you-away-after-extended-look",
+      "thumbnail": "/drops/thumbs/403a747622ad.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "74075138ebfb",
       "pillar": "gaming",
       "title": "Features GTA 6 isn't flashy for the sake of it – I'm impressed at how additive every new detail feels",
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "c2c75c819cec",
-      "pillar": "gaming",
-      "title": "News The Witcher 3 Remastered PS5 Pro Support Brings Significant Performance Boosts",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-support-brings-significant-performance-boosts",
-      "thumbnail": "/drops/thumbs/c2c75c819cec.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "7be8975eed7b",
     "4d827d4790f3",
     "67d4186d382d",
-    "74075138ebfb"
+    "403a747622ad"
   ]
 }
