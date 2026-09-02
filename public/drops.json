@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T19:49:40+00:00",
+  "generated_utc": "2026-09-02T20:00:13+00:00",
   "items": [
     {
       "id": "74db885a190b",
@@ -75,18 +75,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "c00f312fba4a",
-      "pillar": "sneakers",
-      "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/solefly-air-jordan-5-iu0734-001/",
-      "thumbnail": "/drops/thumbs/c00f312fba4a.webp",
-      "published": "2026-08-28T15:14:16",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
       "id": "f7c39179b4ab",
       "pillar": "sneakers",
       "title": "Air Jordan 1 Low Element GTX “Black/Concord Purple” Returns",
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-low-element-gtx-black-concord-purple-fv4227-004/",
       "thumbnail": "/drops/thumbs/f7c39179b4ab.webp",
       "published": "2026-09-02T14:44:15",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "33df49aa58c2",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 MCS releases in “Black/Metallic Gold”",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-11-mcs-black-metallic-gold-hm7326-001/",
+      "thumbnail": "/drops/thumbs/33df49aa58c2.webp",
+      "published": "2026-09-02T14:37:04",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
