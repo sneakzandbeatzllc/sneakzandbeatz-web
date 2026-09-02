@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-02T09:25:15+00:00",
+  "generated_utc": "2026-09-02T09:41:37+00:00",
   "items": [
     {
       "id": "74db885a190b",
@@ -63,30 +63,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "67d4186d382d",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Bucks” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-12-bucks-white-green/",
-      "thumbnail": "/drops/thumbs/67d4186d382d.jpg",
-      "published": "2026-08-31T03:44:09",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "1b4ea7305528",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “London” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-london/",
-      "thumbnail": "/drops/thumbs/1b4ea7305528.jpg",
-      "published": "2026-08-31T03:36:04",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "c00f312fba4a",
       "pillar": "sneakers",
       "title": "SoleFly Has an Air Jordan 5 Coming in October 2026",
@@ -97,6 +73,30 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "df296a5b1a86",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 MCS “Black Metallic Gold” Baseball Cleats Releases Fall 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-11-mcs-baseball-cleats-black-metallic-gold/",
+      "thumbnail": "/drops/thumbs/df296a5b1a86.jpg",
+      "published": "2026-09-02T02:22:31",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b2201e525307",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Utility” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-utility-black-fire-red/",
+      "thumbnail": "/drops/thumbs/b2201e525307.jpg",
+      "published": "2026-09-02T01:24:20",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "4d827d4790f3",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "403a747622ad",
+      "id": "260d4e64bfa4",
       "pillar": "gaming",
-      "title": "News 30 New GTA 6 PS5 Screenshots to Blow You Away After Extended Look",
+      "title": "News GTA 6 Extended Look Was Comfortably Netflix's Most-Watched Title of Last Week",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-to-blow-you-away-after-extended-look",
-      "thumbnail": "/drops/thumbs/403a747622ad.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/gta-6-extended-look-was-comfortably-netflixs-most-watched-title-of-last-week",
+      "thumbnail": "/drops/thumbs/260d4e64bfa4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "35d523d81445",
     "4d827d4790f3",
     "82b659332cb6",
-    "403a747622ad"
+    "260d4e64bfa4"
   ]
 }
