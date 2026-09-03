@@ -1,7 +1,31 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T07:57:37+00:00",
+  "generated_utc": "2026-09-03T08:21:53+00:00",
   "items": [
+    {
+      "id": "74db885a190b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
+      "thumbnail": "/drops/thumbs/74db885a190b.jpg",
+      "published": "2026-09-02T01:31:30",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "0b5a3bc99f24",
+      "pillar": "sneakers",
+      "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
+      "thumbnail": "/drops/thumbs/0b5a3bc99f24.jpg",
+      "published": "2026-09-02T01:14:32",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "1204fed5cb38",
       "pillar": "sneakers",
@@ -51,18 +75,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "74db885a190b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
-      "thumbnail": "/drops/thumbs/74db885a190b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "08c93f0b90a4",
       "pillar": "sneakers",
       "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases September 18th",
@@ -75,39 +87,15 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "0b5a3bc99f24",
+      "id": "f7c39179b4ab",
       "pillar": "sneakers",
-      "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
-      "thumbnail": "/drops/thumbs/0b5a3bc99f24.jpg",
-      "published": "",
+      "title": "Air Jordan 1 Low Element GTX “Black/Concord Purple” Returns",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-element-gtx-black-concord-purple-fv4227-004/",
+      "thumbnail": "/drops/thumbs/f7c39179b4ab.webp",
+      "published": "2026-09-02T14:44:15",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "7be8975eed7b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 TD “Metallic Silver” Football Cleats Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-td-football-cleats-metallic-silver/",
-      "thumbnail": "/drops/thumbs/7be8975eed7b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "883c3ae8b168",
-      "pillar": "anime",
-      "title": "Dragon Ball Super: Beerus Anime's New Trailer Unveils October 11 Debut, Theme Songs",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-02/dragon-ball-super-beerus-anime-new-trailer-unveils-october-11-debut-theme-songs/.241278",
-      "thumbnail": "/drops/thumbs/883c3ae8b168.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
+      "score": 2.0,
       "release_badge": ""
     },
     {
@@ -129,6 +117,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-spongebob-crossover-release-date-mcdonalds/",
       "thumbnail": "/drops/thumbs/158dcc723b0e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ec7e25d1c2d4",
+      "pillar": "anime",
+      "title": "Toworu Miyata's Aoharu Once More BL Manga Gets Light Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-03/toworu-miyata-aoharu-once-more-bl-manga-gets-light-anime/.241290",
+      "thumbnail": "/drops/thumbs/ec7e25d1c2d4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "74db885a190b",
+    "0b5a3bc99f24",
     "1204fed5cb38",
+    "3b4cd8979948",
     "35d523d81445",
-    "82b659332cb6",
-    "883c3ae8b168",
-    "aa15665ec834",
     "d955d58fc8f2"
   ]
 }
