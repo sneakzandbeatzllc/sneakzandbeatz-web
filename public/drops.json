@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T13:27:19+00:00",
+  "generated_utc": "2026-09-03T13:58:10+00:00",
   "items": [
     {
       "id": "a67cab79a652",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "b1235924b96e",
+      "pillar": "gaming",
+      "title": "News GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/gta-6-limited-edition-ps5-controllers-revealed-out-19th-november",
+      "thumbnail": "/drops/thumbs/b1235924b96e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d9656ddd38d3",
       "pillar": "gaming",
       "title": "GTA 6: Everything you need to know",
@@ -207,24 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "2240189cf5ca",
+      "id": "f1285c2ea02b",
       "pillar": "gaming",
-      "title": "GTA 6: An Extended Look Was Viewed Over 31 Million Times On Netflix",
+      "title": "Final Fantasy VII Revelation Releases On April 8, 2027",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/563937/article/gta-6-an-extended-look-was-viewed-over-31-million-times-on-netflix/",
-      "thumbnail": "/drops/thumbs/2240189cf5ca.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c2c39c9aea18",
-      "pillar": "gaming",
-      "title": "News Colossal, Game-Changing Dragon's Dogma 2 Patch 3.2 Out Now on PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/colossal-game-changing-dragons-dogma-2-patch-3-2-out-now-on-ps5",
-      "thumbnail": "/drops/thumbs/c2c39c9aea18.jpg",
+      "source_url": "https://gameranx.com/updates/id/563958/article/final-fantasy-vii-revelation-releases-on-april-8-2027/",
+      "thumbnail": "/drops/thumbs/f1285c2ea02b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -233,7 +233,7 @@
     {
       "id": "892baf8d000b",
       "pillar": "gaming",
-      "title": "Ghost Of Yotei ‘s October Update Brings Back Jin From The Original Game",
+      "title": "Ghost Of Yotei’ s October Update Brings Back Jin From The Original Game",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/ghost-of-yoteis-october-update-brings-back-jin-from-the-original-game-2000730853",
       "thumbnail": "/drops/thumbs/892baf8d000b.jpg",
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "57f7ac80afe7",
-      "pillar": "gaming",
-      "title": "The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
-      "thumbnail": "/drops/thumbs/57f7ac80afe7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "50bc3fa6541d",
       "pillar": "gaming",
       "title": "Dave Bautista shares his training to play Kratos, and gives us an update on when Amazon's God of War TV show restarts filming",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/entertainment/live-action-shows/dave-bautista-shares-his-training-to-play-kratos-and-gives-us-an-update-on-when-amazons-god-of-war-tv-show-restarts-filming/",
       "thumbnail": "/drops/thumbs/50bc3fa6541d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d289c66a525a",
+      "pillar": "gaming",
+      "title": "CD Projekt RED Can’t Guarantee A PlayStation Disc Edition Of The Witcher 4",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563946/article/cd-projekt-red-cant-guarantee-a-playstation-disc-edition-of-the-witcher-4/",
+      "thumbnail": null,
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "74db885a190b",
     "3b4cd8979948",
     "1204fed5cb38",
-    "d9656ddd38d3"
+    "b1235924b96e"
   ]
 }
