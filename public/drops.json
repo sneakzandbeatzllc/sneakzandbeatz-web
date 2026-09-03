@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T21:11:07+00:00",
+  "generated_utc": "2026-09-03T21:37:23+00:00",
   "items": [
+    {
+      "id": "1e12b67073f9",
+      "pillar": "sneakers",
+      "title": "Comme des Garcons Homme Plus x Air Jordan 11 Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
+      "thumbnail": "/drops/thumbs/1e12b67073f9.jpg",
+      "published": "2026-09-03T14:21:39",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "572c5c28660a",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
       "thumbnail": "/drops/thumbs/1204fed5cb38.jpg",
       "published": "2026-09-01T08:25:55",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "e190eba542d3",
-      "pillar": "sneakers",
-      "title": "Comme des Garcons Homme Plus x Air Jordan 11 Releases September 5th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/comme-des-garcons-homme-plus-air-jordan-11/",
-      "thumbnail": "/drops/thumbs/e190eba542d3.webp",
-      "published": "",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "1e12b67073f9",
     "572c5c28660a",
     "35d523d81445",
-    "82b659332cb6",
     "8cc898d385ca",
-    "a67cab79a652",
+    "82b659332cb6",
     "431cc8380690"
   ]
 }
