@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T01:13:58+00:00",
+  "generated_utc": "2026-09-03T02:45:05+00:00",
   "items": [
     {
       "id": "74db885a190b",
@@ -75,6 +75,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "aa15665ec834",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low “Metamorphosis” Releases September 16th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-6-low-metamorphosis/",
+      "thumbnail": "/drops/thumbs/aa15665ec834.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
       "id": "08c93f0b90a4",
       "pillar": "sneakers",
       "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases September 18th",
@@ -87,15 +99,15 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "f7c39179b4ab",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low Element GTX “Black/Concord Purple” Returns",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-element-gtx-black-concord-purple-fv4227-004/",
-      "thumbnail": "/drops/thumbs/f7c39179b4ab.webp",
-      "published": "2026-09-02T14:44:15",
+      "id": "883c3ae8b168",
+      "pillar": "anime",
+      "title": "Dragon Ball Super: Beerus Anime's New Trailer Unveils October 11 Debut, Theme Songs",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-02/dragon-ball-super-beerus-anime-new-trailer-unveils-october-11-debut-theme-songs/.241278",
+      "thumbnail": "/drops/thumbs/883c3ae8b168.jpg",
+      "published": "",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -117,18 +129,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-09-02/my-hero-academia-all-justice-game-adds-dlc-character-izuku-midoriya-overlay-full-style/.241245",
       "thumbnail": "/drops/thumbs/8427c99dc958.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "de867e4d5e18",
-      "pillar": "anime",
-      "title": "Crunchyroll's Anime Nights Program to Screen Black Clover Season 2, The Vermilion Mask , More on September 21",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-02/crunchyroll-anime-nights-program-to-screen-black-clover-season-2-the-vermilion-mask-more-on-/.241203",
-      "thumbnail": "/drops/thumbs/de867e4d5e18.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "74db885a190b",
     "0b5a3bc99f24",
     "1204fed5cb38",
-    "3b4cd8979948",
+    "883c3ae8b168",
     "35d523d81445",
     "d955d58fc8f2"
   ]
