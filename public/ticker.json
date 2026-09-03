@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T14:02:49+00:00",
+  "generated_utc": "2026-09-03T14:05:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,8 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Ghost Of Yotei’ s October Update Brings Back Jin From The Original Game",
-      "url": "https://kotaku.com/ghost-of-yoteis-october-update-brings-back-jin-from-the-original-game-2000730853",
+      "title": "Final Fantasy 7 Revelation Gets Release Date And Shows Off Extended Open-World RPG Gameplay",
+      "url": "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Saros' Free Zenith Update Adds Boss Rush, New Game Plus, More Later This Year",
+      "url": "https://www.pushsquare.com/news/2026/09/saros-free-zenith-update-adds-boss-rush-new-game-plus-more-later-this-year",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Dave Bautista shares his training to play Kratos, and gives us an update on when Amazon's God of War TV show restarts filming",
-      "url": "https://www.gamesradar.com/entertainment/live-action-shows/dave-bautista-shares-his-training-to-play-kratos-and-gives-us-an-update-on-when-amazons-god-of-war-tv-show-restarts-filming/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "CD Projekt RED Can’t Guarantee A PlayStation Disc Edition Of The Witcher 4",
-      "url": "https://gameranx.com/updates/id/563946/article/cd-projekt-red-cant-guarantee-a-playstation-disc-edition-of-the-witcher-4/",
+      "title": "Ghost Of Yotei’ s October Update Brings Back Jin From The Original Game",
+      "url": "https://kotaku.com/ghost-of-yoteis-october-update-brings-back-jin-from-the-original-game-2000730853",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
