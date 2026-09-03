@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T06:48:40+00:00",
+  "generated_utc": "2026-09-03T07:19:25+00:00",
   "items": [
     {
       "id": "74db885a190b",
@@ -63,18 +63,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "7be8975eed7b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 TD “Metallic Silver” Football Cleats Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-td-football-cleats-metallic-silver/",
-      "thumbnail": "/drops/thumbs/7be8975eed7b.jpg",
-      "published": "2026-08-31T15:07:40",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "aa15665ec834",
       "pillar": "sneakers",
       "title": "Air Jordan 6 Low “Metamorphosis” Releases September 16th",
@@ -97,6 +85,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "f7c39179b4ab",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low Element GTX “Black/Concord Purple” Returns",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-element-gtx-black-concord-purple-fv4227-004/",
+      "thumbnail": "/drops/thumbs/f7c39179b4ab.webp",
+      "published": "2026-09-02T14:44:15",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "883c3ae8b168",
