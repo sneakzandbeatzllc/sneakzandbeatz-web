@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T17:08:11+00:00",
+  "generated_utc": "2026-09-03T17:31:43+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "News Sony Set the Mood for Its Latest State of Play by Starting with the New Resident Evil Movie",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-set-the-mood-for-its-latest-state-of-play-by-starting-with-the-new-resident-evil-movie",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "You’ll Need To Pay $100 To Play Final Fantasy 7 Revelation 24 Hours Early",
       "url": "https://kotaku.com/youll-need-to-pay-100-to-play-final-fantasy-7-revelation-24-hours-early-2000730935",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Final Fantasy 7 Revelation Gets Release Date And Shows Off Extended Open-World RPG Gameplay",
       "url": "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Final Fantasy VII Revelation Releases On April 8, 2027",
+      "url": "https://gameranx.com/updates/id/563958/article/final-fantasy-vii-revelation-releases-on-april-8-2027/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
