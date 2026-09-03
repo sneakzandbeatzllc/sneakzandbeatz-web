@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T13:04:40+00:00",
+  "generated_utc": "2026-09-03T13:27:19+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,15 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’",
-      "url": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
-      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
+      "title": "Ghost Of Yotei ‘s October Update Brings Back Jin From The Original Game",
+      "url": "https://kotaku.com/ghost-of-yoteis-october-update-brings-back-jin-from-the-original-game-2000730853",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,6 +153,13 @@
     {
       "title": "The Witcher Remake Development Is “Temporarily Integrated” To The Witcher 4",
       "url": "https://gameranx.com/updates/id/563955/article/the-witcher-remake-development-is-temporarily-integrated-to-the-witcher-4/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’",
+      "url": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

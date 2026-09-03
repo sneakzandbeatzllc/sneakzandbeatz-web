@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T13:04:40+00:00",
+  "generated_utc": "2026-09-03T13:27:19+00:00",
   "items": [
     {
       "id": "a67cab79a652",
@@ -231,24 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "57f7ac80afe7",
+      "id": "892baf8d000b",
       "pillar": "gaming",
-      "title": "The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’",
+      "title": "Ghost Of Yotei ‘s October Update Brings Back Jin From The Original Game",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
-      "thumbnail": "/drops/thumbs/57f7ac80afe7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1e186768e61f",
-      "pillar": "gaming",
-      "title": "News Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
-      "thumbnail": "/drops/thumbs/1e186768e61f.jpg",
+      "source_url": "https://kotaku.com/ghost-of-yoteis-october-update-brings-back-jin-from-the-original-game-2000730853",
+      "thumbnail": "/drops/thumbs/892baf8d000b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,6 +261,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/563955/article/the-witcher-remake-development-is-temporarily-integrated-to-the-witcher-4/",
       "thumbnail": "/drops/thumbs/bb5908b6cb22.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "57f7ac80afe7",
+      "pillar": "gaming",
+      "title": "The Witcher 3 Remastered Isn’t Pulling Punches: ‘When We Think About This Remaster, It’s Almost Like A 2.0 Overhaul’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
+      "thumbnail": "/drops/thumbs/57f7ac80afe7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
