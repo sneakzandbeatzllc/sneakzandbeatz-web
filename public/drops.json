@@ -1,7 +1,31 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T08:21:53+00:00",
+  "generated_utc": "2026-09-03T08:54:03+00:00",
   "items": [
+    {
+      "id": "a67cab79a652",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-metamorphosis/",
+      "thumbnail": "/drops/thumbs/a67cab79a652.jpg",
+      "published": "2026-09-03T01:49:58",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "ea6f69db25be",
+      "pillar": "sneakers",
+      "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/jaide-air-jordan-11-low-fiberglass/",
+      "thumbnail": "/drops/thumbs/ea6f69db25be.jpg",
+      "published": "2026-09-03T01:35:43",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "74db885a190b",
       "pillar": "sneakers",
@@ -58,30 +82,6 @@
       "source_url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-black-iv7639-001/",
       "thumbnail": "/drops/thumbs/82b659332cb6.jpg",
       "published": "2026-08-31T15:32:50",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "aa15665ec834",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 Low “Metamorphosis” Releases September 16th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-6-low-metamorphosis/",
-      "thumbnail": "/drops/thumbs/aa15665ec834.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "08c93f0b90a4",
-      "pillar": "sneakers",
-      "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases September 18th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/jaide-air-jordan-11-low-fiberglass/",
-      "thumbnail": "/drops/thumbs/08c93f0b90a4.webp",
-      "published": "",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "d955d58fc8f2",
-      "pillar": "gaming",
-      "title": "News It's a Miracle: GTA 6 Won't Make You Mash the X Button to Sprint",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/its-a-miracle-gta-6-wont-make-you-mash-the-x-button-to-sprint",
-      "thumbnail": "/drops/thumbs/d955d58fc8f2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d9656ddd38d3",
       "pillar": "gaming",
       "title": "GTA 6: Everything you need to know",
@@ -267,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "1e186768e61f",
+      "pillar": "gaming",
+      "title": "News Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
+      "thumbnail": "/drops/thumbs/1e186768e61f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "455f8b1ee4bc",
       "pillar": "gaming",
       "title": "Genshin Impact devs' new action game Nodusfall feels like Elden Ring Nightreign at home, but don't write it off yet",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "1e186768e61f",
+      "id": "d4e25ffe5fcb",
       "pillar": "gaming",
-      "title": "News Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
+      "title": "News The Witcher Remake Put on Ice as Dev Focuses on New Expansion and The Witcher 4",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
-      "thumbnail": "/drops/thumbs/1e186768e61f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/the-witcher-remake-put-on-ice-as-dev-focuses-on-new-expansion-and-the-witcher-4",
+      "thumbnail": "/drops/thumbs/d4e25ffe5fcb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "a67cab79a652",
+    "ea6f69db25be",
     "74db885a190b",
-    "0b5a3bc99f24",
-    "1204fed5cb38",
     "3b4cd8979948",
-    "35d523d81445",
-    "d955d58fc8f2"
+    "0b5a3bc99f24",
+    "d9656ddd38d3"
   ]
 }

@@ -1,8 +1,22 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T08:21:53+00:00",
+  "generated_utc": "2026-09-03T08:54:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-6-low-metamorphosis/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases September 2026",
+      "url": "https://www.sneakerfiles.com/jaide-air-jordan-11-low-fiberglass/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
@@ -34,20 +48,6 @@
     {
       "title": "Comme des Garçons x Air Jordan 11 “Triple Black” (IV7639-001) September 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-black-iv7639-001/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 6 Low “Metamorphosis” Releases September 16th",
-      "url": "https://sneakerbardetroit.com/air-jordan-6-low-metamorphosis/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases September 18th",
-      "url": "https://sneakerbardetroit.com/jaide-air-jordan-11-low-fiberglass/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "News It's a Miracle: GTA 6 Won't Make You Mash the X Button to Sprint",
-      "url": "https://www.pushsquare.com/news/2026/09/its-a-miracle-gta-6-wont-make-you-mash-the-x-button-to-sprint",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6: Everything you need to know",
       "url": "https://www.gamesradar.com/gta-6-guide/",
       "pillar": "gaming",
@@ -158,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "News Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
+      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Genshin Impact devs' new action game Nodusfall feels like Elden Ring Nightreign at home, but don't write it off yet",
       "url": "https://www.gamesradar.com/games/action/genshin-impact-devs-new-action-game-nodusfall-feels-like-elden-ring-nightreign-at-home-but-dont-write-it-off-yet/",
       "pillar": "gaming",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "News Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro",
-      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
+      "title": "News The Witcher Remake Put on Ice as Dev Focuses on New Expansion and The Witcher 4",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-remake-put-on-ice-as-dev-focuses-on-new-expansion-and-the-witcher-4",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
