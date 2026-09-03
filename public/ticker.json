@@ -1,11 +1,25 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T20:10:27+00:00",
+  "generated_utc": "2026-09-03T20:35:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "COMME des GARÇONS x Air Jordan 11 Releases September 5th",
       "url": "https://justfreshkicks.com/comme-des-garcons-air-jordan-11-black-white/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Comme des Garçons x Air Jordan 11 “Triple White” (IV7639-100) September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-white-iv7639-100/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Comme des Garçons x Air Jordan 11 “Triple Black” (IV7639-001) September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-black-iv7639-001/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -34,20 +48,6 @@
     {
       "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Comme des Garçons x Air Jordan 11 “Triple White” (IV7639-100) September 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-white-iv7639-100/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Comme des Garçons x Air Jordan 11 “Triple Black” (IV7639-001) September 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-black-iv7639-001/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
