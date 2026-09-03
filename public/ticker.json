@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T09:55:00+00:00",
+  "generated_utc": "2026-09-03T10:00:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Take-Two’s First GTA 6 Subpoena On Discord Has Been Granted",
-      "url": "https://gameranx.com/updates/id/563932/article/take-twos-first-gta-6-subpoena-on-discord-has-been-granted/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Colossal, Game-Changing Dragon's Dogma 2 Patch 3.2 Out Now on PS5",
       "url": "https://www.pushsquare.com/news/2026/09/colossal-game-changing-dragons-dogma-2-patch-3-2-out-now-on-ps5",
       "pillar": "gaming",
@@ -160,6 +153,13 @@
     {
       "title": "The Witcher 4 dev is \"still predominantly using people\" over AI in development, says CEO",
       "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "CD Projekt RED Can’t Guarantee A PlayStation Disc Edition Of The Witcher 4",
+      "url": "https://gameranx.com/updates/id/563946/article/cd-projekt-red-cant-guarantee-a-playstation-disc-edition-of-the-witcher-4/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
