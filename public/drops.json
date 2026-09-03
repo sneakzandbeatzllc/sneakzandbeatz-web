@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T16:29:48+00:00",
+  "generated_utc": "2026-09-03T17:00:44+00:00",
   "items": [
     {
       "id": "a67cab79a652",
@@ -75,6 +75,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "e190eba542d3",
+      "pillar": "sneakers",
+      "title": "Comme des Garcons Homme Plus x Air Jordan 11 Releases September 5th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/comme-des-garcons-homme-plus-air-jordan-11/",
+      "thumbnail": "/drops/thumbs/e190eba542d3.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
       "id": "f7c39179b4ab",
       "pillar": "sneakers",
       "title": "Air Jordan 1 Low Element GTX “Black/Concord Purple” Returns",
@@ -84,30 +96,6 @@
       "published": "2026-09-02T14:44:15",
       "relative_time": "today",
       "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "33df49aa58c2",
-      "pillar": "sneakers",
-      "title": "Air Jordan 11 MCS releases in “Black/Metallic Gold”",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-11-mcs-black-metallic-gold-hm7326-001/",
-      "thumbnail": "/drops/thumbs/33df49aa58c2.webp",
-      "published": "2026-09-02T14:37:04",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3b939492f6eb",
-      "pillar": "anime",
-      "title": "Dragon Ball Xenoverse 3 Game's Trailer Previews Customizable Avatars, Android Race",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-03/dragon-ball-xenoverse-3-game-trailer-previews-customizable-avatars-android-race/.241312",
-      "thumbnail": "/drops/thumbs/3b939492f6eb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -159,6 +147,18 @@
       "release_badge": ""
     },
     {
+      "id": "569064c55a4b",
+      "pillar": "anime",
+      "title": "Dark Gathering Season 2 Anime Premieres in 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-03/dark-gathering-season-2-anime-premieres-in-2027/.241321",
+      "thumbnail": "/drops/thumbs/569064c55a4b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4a9a3cc29041",
       "pillar": "anime",
       "title": "10 years in, Pokémon Go is getting its first-ever crossover with the Pokémon anime",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "569064c55a4b",
+      "id": "581aaf10faa8",
       "pillar": "anime",
-      "title": "Dark Gathering Season 2 Anime Premieres in 2027",
+      "title": "Giant Ojosama TV Anime's Teaser Trailer Reveals Cast, Staff",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-03/dark-gathering-season-2-anime-premieres-in-2027/.241321",
-      "thumbnail": "/drops/thumbs/569064c55a4b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-03/giant-ojosama-tv-anime-teaser-trailer-reveals-cast-staff/.241204",
+      "thumbnail": "/drops/thumbs/581aaf10faa8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "a67cab79a652",
     "ea6f69db25be",
     "74db885a190b",
-    "3b939492f6eb",
+    "8cc898d385ca",
     "1204fed5cb38",
     "431cc8380690"
   ]
