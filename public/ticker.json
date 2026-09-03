@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T17:31:43+00:00",
+  "generated_utc": "2026-09-03T18:02:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "COMME des GARÇONS x Air Jordan 11 Releases September 5th",
+      "url": "https://justfreshkicks.com/comme-des-garcons-air-jordan-11-black-white/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-6-low-metamorphosis/",
@@ -50,13 +57,6 @@
       "url": "https://sneakerbardetroit.com/comme-des-garcons-homme-plus-air-jordan-11/",
       "pillar": "sneakers",
       "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low Element GTX “Black/Concord Purple” Returns",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-element-gtx-black-concord-purple-fv4227-004/",
-      "pillar": "sneakers",
-      "score": 2.0,
       "article_slug": null
     },
     {

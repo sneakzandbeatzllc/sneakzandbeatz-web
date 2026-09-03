@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T17:31:43+00:00",
+  "generated_utc": "2026-09-03T18:02:44+00:00",
   "items": [
+    {
+      "id": "572c5c28660a",
+      "pillar": "sneakers",
+      "title": "COMME des GARÇONS x Air Jordan 11 Releases September 5th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/comme-des-garcons-air-jordan-11-black-white/",
+      "thumbnail": "/drops/thumbs/572c5c28660a.jpg",
+      "published": "2026-09-03T13:53:38",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "a67cab79a652",
       "pillar": "sneakers",
@@ -85,18 +97,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "f7c39179b4ab",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low Element GTX “Black/Concord Purple” Returns",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-element-gtx-black-concord-purple-fv4227-004/",
-      "thumbnail": "/drops/thumbs/f7c39179b4ab.webp",
-      "published": "2026-09-02T14:44:15",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
     },
     {
       "id": "8cc898d385ca",
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "572c5c28660a",
     "a67cab79a652",
     "ea6f69db25be",
-    "74db885a190b",
     "8cc898d385ca",
-    "1204fed5cb38",
+    "74db885a190b",
     "431cc8380690"
   ]
 }
