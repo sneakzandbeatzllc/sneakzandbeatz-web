@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T18:33:39+00:00",
+  "generated_utc": "2026-09-03T19:04:34+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -102,13 +102,6 @@
       "article_slug": null
     },
     {
-      "title": "Giant Ojosama TV Anime's Teaser Trailer Reveals Cast, Staff",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-03/giant-ojosama-tv-anime-teaser-trailer-reveals-cast-staff/.241204",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 Greatest Anime Dragons Of All Time",
       "url": "https://screenrant.com/coolest-dragons-anime-ranked/",
       "pillar": "anime",
@@ -116,7 +109,14 @@
       "article_slug": null
     },
     {
-      "title": "Rockstar lead says \"we'll see what people say\" about GTA 6's controversial refuelling system 12 Comments",
+      "title": "Pokémon Announces The End Of A 29-Year Old Era With New 2027 Release",
+      "url": "https://screenrant.com/pokemon-end-era-wild-card-movie-no-ash/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rockstar lead says \"we'll see what people say\" about GTA 6's controversial refuelling system 17 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-well-see-what-people-say-about-gta-6s-controversial-refueling-system-but-thinks-its-so-fast-that-you-cant-complain/",
       "pillar": "gaming",
       "score": 1.0,
@@ -144,6 +144,13 @@
       "article_slug": null
     },
     {
+      "title": "News Final Fantasy 7 Revelation Will Ship on One PS5 Disc, Digital Download Required",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-ship-on-one-ps5-disc-digital-download-required",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "You’ll Need To Pay $100 To Play Final Fantasy 7 Revelation 24 Hours Early",
       "url": "https://kotaku.com/youll-need-to-pay-100-to-play-final-fantasy-7-revelation-24-hours-early-2000730935",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "Final Fantasy 7 Revelation Gets Release Date And Shows Off Extended Open-World RPG Gameplay",
       "url": "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Final Fantasy VII Revelation Releases On April 8, 2027",
-      "url": "https://gameranx.com/updates/id/563958/article/final-fantasy-vii-revelation-releases-on-april-8-2027/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
