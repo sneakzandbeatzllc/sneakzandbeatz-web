@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-03T09:02:36+00:00",
+  "generated_utc": "2026-09-03T09:55:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,13 +20,6 @@
     {
       "title": "Air Jordan 1 Low OG “Last Dance at the Garden” Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-last-dance-at-the-garden/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "APB x Air Jordan 11 Low “Binary Blue” Releases September 2026",
-      "url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 11 MCS releases in “Black/Metallic Gold”",
+      "url": "https://justfreshkicks.com/air-jordan-11-mcs-black-metallic-gold-hm7326-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Dragon Ball Super's Next Anime Lands Release Date, And It's Only 6 Weeks Away",
       "url": "https://screenrant.com/dragon-ball-super-beerus-release-date-trailer-poster/",
       "pillar": "anime",
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Toworu Miyata's Aoharu Once More BL Manga Gets Light Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-03/toworu-miyata-aoharu-once-more-bl-manga-gets-light-anime/.241290",
+      "title": "Crunchyroll Adds Saga of Tanya the Evil: Operation Desert Pasta Anime Special's English Dub",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-03/crunchyroll-adds-saga-of-tanya-the-evil-operation-desert-pasta-anime-special-english-dub/.241246",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Sekiro: No Defeat Anime Film's Clip Shows Wolf, Genichiro Ashina's Duel",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-03/sekiro-no-defeat-anime-film-clip-shows-wolf-genichiro-ashina-duel/.241289",
+      "title": "Magical Sisters Lulutto Lilly Anime Reveals More Cast, Returning Theme Song Artists, October 4 Debut for 2nd Part",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-03/magical-sisters-lulutto-lilly-anime-reveals-more-cast-returning-theme-song-artists-october-4-debut-/.241235",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,8 +102,8 @@
       "article_slug": null
     },
     {
-      "title": "Nippon Sangoku Anime Gets Sequel",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-02/nippon-sangoku-anime-gets-sequel/.241284",
+      "title": "Toworu Miyata's Aoharu Once More BL Manga Gets Light Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-03/toworu-miyata-aoharu-once-more-bl-manga-gets-light-anime/.241290",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Genshin Impact devs' new action game Nodusfall feels like Elden Ring Nightreign at home, but don't write it off yet",
-      "url": "https://www.gamesradar.com/games/action/genshin-impact-devs-new-action-game-nodusfall-feels-like-elden-ring-nightreign-at-home-but-dont-write-it-off-yet/",
+      "title": "The Witcher 4 dev is \"still predominantly using people\" over AI in development, says CEO",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
