@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-04T18:20:42+00:00",
+  "generated_utc": "2026-09-04T19:20:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "Rockstar Censors Smoking, Dancing, And Boobs In GTA 6 Trailer For China",
-      "url": "https://kotaku.com/rockstar-censors-smoking-dancing-and-boobs-in-gta-6-trailer-for-china-2000731331",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6: Everything you need to know",
       "url": "https://www.gamesradar.com/gta-6-guide/",
       "pillar": "gaming",
@@ -167,6 +160,13 @@
     {
       "title": "Final Fantasy VII Revelation’ DLC Plans Have Just Been Revealed",
       "url": "https://gameranx.com/updates/id/563965/article/final-fantasy-vii-revelation-dlc-plans-have-just-been-revealed/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hands-on Exodus steps out of Mass Effect's shadow with combat that builds on BioWare's RPG and a galaxy I itch to explore",
+      "url": "https://www.gamesradar.com/games/rpg/exodus-steps-out-of-mass-effects-shadow-with-combat-that-builds-on-biowares-rpg-and-a-galaxy-that-im-itching-to-explore/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
