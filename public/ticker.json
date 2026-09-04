@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-04T22:51:44+00:00",
+  "generated_utc": "2026-09-04T23:21:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,6 +81,13 @@
       "article_slug": null
     },
     {
+      "title": "Every Major Mystery One Piece Needs to Explain Before It Ends",
+      "url": "https://screenrant.com/every-major-one-piece-mystery-needs-solve/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "After 30 Years, One Piece's Biggest 2027 Release Is Finally Replacing Luffy As Protagonist",
       "url": "https://screenrant.com/one-piece-god-valley-replacing-luffy-protagonist/",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "Tokyo Anime Awards Festival Ends",
       "url": "https://www.animenewsnetwork.com/news/2026-09-04/tokyo-anime-awards-festival-ends/.241377",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "30 Best Short Anime Series Everybody Must See",
-      "url": "https://screenrant.com/best-anime-short-series-watch-few-episodes/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
