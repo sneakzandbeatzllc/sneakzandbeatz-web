@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-04T12:16:25+00:00",
+  "generated_utc": "2026-09-04T13:15:12+00:00",
   "items": [
     {
       "id": "1e12b67073f9",
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "9fc221066f05",
+      "id": "d9656ddd38d3",
       "pillar": "gaming",
-      "title": "Sony announces GTA 6 limited edition DualSense, and at least something's physical",
+      "title": "GTA 6: Everything you need to know",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/hardware/gaming-controllers/sony-announces-gta-6-limited-edition-dualsense-and-at-least-somethings-physical/",
-      "thumbnail": "/drops/thumbs/9fc221066f05.jpg",
+      "source_url": "https://www.gamesradar.com/gta-6-guide/",
+      "thumbnail": "/drops/thumbs/d9656ddd38d3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "d9656ddd38d3",
-      "pillar": "gaming",
-      "title": "GTA 6: Everything you need to know",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/gta-6-guide/",
-      "thumbnail": "/drops/thumbs/d9656ddd38d3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9132570491d5",
       "pillar": "gaming",
       "title": "You’ll Need To Pay $100 To Play Final Fantasy 7 Revelation 24 Hours Early",
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "92ce78e4c357",
+      "id": "e23b3f06dc28",
       "pillar": "gaming",
-      "title": "Final Fantasy 7 Revelation Gets Release Date And Shows Off Extended Open-World RPG Gameplay",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/final-fantasy-7-revelation-gets-release-date-and-shows-off-extended-open-world-rpg-gameplay-2000730880",
-      "thumbnail": "/drops/thumbs/92ce78e4c357.jpg",
+      "title": "\"We're not done with The Last of Us\": Neil Druckmann says Naughty Dog has \"couple projects\" coming",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/the-last-of-us/were-not-done-with-the-last-of-us-neil-druckmann-confirms-naughty-dog-has-a-couple-projects-in-the-works-even-if-the-tv-show-is-ending/",
+      "thumbnail": "/drops/thumbs/e23b3f06dc28.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8f4956dc20a0",
+      "pillar": "gaming",
+      "title": "Neil Druckmann: “We’re Not Done With The Last Of Us” – Is Part 3 Really In Development?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/563977/article/neil-druckmann-were-not-done-with-the-last-of-us-is-part-3-really-in-development/",
+      "thumbnail": "/drops/thumbs/8f4956dc20a0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
