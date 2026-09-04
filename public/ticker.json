@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-04T13:17:02+00:00",
+  "generated_utc": "2026-09-04T13:46:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -46,15 +46,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 1 High OG WMNS “Nails & Grails” September 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-high-og-wmns-nails-grails-fd2596-601/",
+      "title": "Spider-Man x Air Jordan 1 High OG “Beyond the Spider-Verse” Releases Summer 2027",
+      "url": "https://www.sneakerfiles.com/spider-man-air-jordan-1-high-og-beyond-the-spider-verse/",
       "pillar": "sneakers",
-      "score": 3.0,
+      "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "Spider-Man x Air Jordan 1 High OG “Beyond the Spider-Verse” Releases Summer 2027",
-      "url": "https://www.sneakerfiles.com/spider-man-air-jordan-1-high-og-beyond-the-spider-verse/",
+      "title": "Air Jordan 8 “Hornets” Releases January 2nd, 2027",
+      "url": "https://justfreshkicks.com/air-jordan-8-hornets-jf9225-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -144,8 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "Rockstar and Sony Presents GTA 6 DualSense Controllers For PS5",
-      "url": "https://gameranx.com/updates/id/563960/article/rockstar-and-sony-presents-gta-6-dualsense-controllers-for-ps5/",
+      "title": "Square Wants Final Fantasy Resonance To Be Both A Tribute To Its Past And A Gateway To Its Future",
+      "url": "https://kotaku.com/final-fantasy-resonance-preview-interview-square-enix-2000731035",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Neil Druckmann: “We’re Not Done With The Last Of Us” – Is Part 3 Really In Development?",
+      "url": "https://gameranx.com/updates/id/563977/article/neil-druckmann-were-not-done-with-the-last-of-us-is-part-3-really-in-development/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "\"We're not done with The Last of Us\": Neil Druckmann says Naughty Dog has \"couple projects\" coming",
       "url": "https://www.gamesradar.com/games/the-last-of-us/were-not-done-with-the-last-of-us-neil-druckmann-confirms-naughty-dog-has-a-couple-projects-in-the-works-even-if-the-tv-show-is-ending/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Neil Druckmann: “We’re Not Done With The Last Of Us” – Is Part 3 Really In Development?",
-      "url": "https://gameranx.com/updates/id/563977/article/neil-druckmann-were-not-done-with-the-last-of-us-is-part-3-really-in-development/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
