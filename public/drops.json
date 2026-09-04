@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-04T14:17:48+00:00",
+  "generated_utc": "2026-09-04T15:17:09+00:00",
   "items": [
     {
       "id": "1e12b67073f9",
@@ -75,13 +75,13 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "f6afb1796c97",
+      "id": "77b268d52960",
       "pillar": "sneakers",
-      "title": "Spider-Man x Air Jordan 1 High OG “Beyond the Spider-Verse” Releases Summer 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/spider-man-air-jordan-1-high-og-beyond-the-spider-verse/",
-      "thumbnail": "/drops/thumbs/f6afb1796c97.jpg",
-      "published": "2026-09-03T15:28:37",
+      "title": "Air Jordan 1 High “Beyond the Spider-Verse” Releases Summer 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-high-og-beyond-the-spider-verse-ja1074-001/",
+      "thumbnail": "/drops/thumbs/77b268d52960.jpg",
+      "published": "2026-09-04T10:48:05",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "b1235924b96e",
-      "pillar": "gaming",
-      "title": "News GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/gta-6-limited-edition-ps5-controllers-revealed-out-19th-november",
-      "thumbnail": "/drops/thumbs/b1235924b96e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bce7d75090a1",
       "pillar": "gaming",
       "title": "Plan to market GTA 6 by turning Miami-Dade into Vice City isn't going down well with local sheriff",
@@ -243,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "c5d22dbeb9e6",
+      "pillar": "gaming",
+      "title": "Preview Exodus on PS5 Could Be the Mass Effect Replacement I've Been Waiting For",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/previews/exodus-on-ps5-could-be-the-mass-effect-replacement-ive-been-waiting-for",
+      "thumbnail": "/drops/thumbs/c5d22dbeb9e6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "165cafd766bc",
       "pillar": "gaming",
       "title": "Square Wants Final Fantasy Resonance To Be Both A Tribute To Its Past And A Gateway To Its Future",
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "bb3eb6e8f0c0",
+      "id": "051b424cc333",
       "pillar": "gaming",
-      "title": "Hands-on Exodus steps out of Mass Effect's shadow with combat that builds on BioWare's RPG and a galaxy I itch to explore",
+      "title": "Neil Druckmann doubles down on distancing Naughty Dog from The Last of Us season 3",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/exodus-steps-out-of-mass-effects-shadow-with-combat-that-builds-on-biowares-rpg-and-a-galaxy-that-im-itching-to-explore/",
-      "thumbnail": "/drops/thumbs/bb3eb6e8f0c0.jpg",
+      "source_url": "https://www.gamesradar.com/entertainment/drama-shows/neil-druckmann-doubles-down-on-distancing-naughty-dog-from-the-last-of-us-season-3-saying-he-had-no-involvement-in-the-hbo-shows-creative-direction/",
+      "thumbnail": "/drops/thumbs/051b424cc333.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "35d523d81445",
     "8cc898d385ca",
     "82b659332cb6",
-    "b1235924b96e"
+    "bce7d75090a1"
   ]
 }
