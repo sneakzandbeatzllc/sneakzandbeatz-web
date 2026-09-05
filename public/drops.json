@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-05T13:58:29+00:00",
+  "generated_utc": "2026-09-05T14:26:51+00:00",
   "items": [
-    {
-      "id": "50e6a8a519df",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 4 “Tour Yellow” Releases Today",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-tour-yellow-io2463-102-drop/",
-      "thumbnail": "/drops/thumbs/50e6a8a519df.jpg",
-      "published": "2026-09-05T08:55:01",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
-    },
     {
       "id": "1e12b67073f9",
       "pillar": "sneakers",
@@ -87,13 +75,25 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "0a0558b05fd2",
+      "id": "f8b064d08156",
       "pillar": "sneakers",
-      "title": "Air Jordan 5 “Black Cat” Releases Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-5-black-cat/",
-      "thumbnail": "/drops/thumbs/0a0558b05fd2.jpg",
-      "published": "2026-09-04T15:30:51",
+      "title": "This Air Jordan 9 Returns for the Film’s 30th Anniversary",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-9-og-space-jam-ix6179-100-drop/",
+      "thumbnail": "/drops/thumbs/f8b064d08156.jpg",
+      "published": "2026-09-05T09:20:34",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "50e6a8a519df",
+      "pillar": "sneakers",
+      "title": "Where To Buy the Air Jordan 4 “Tour Yellow”",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-tour-yellow-io2463-102-drop/",
+      "thumbnail": "/drops/thumbs/50e6a8a519df.jpg",
+      "published": "2026-09-05T08:55:01",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
-    "50e6a8a519df",
     "1e12b67073f9",
     "572c5c28660a",
-    "b7cfcac58628",
     "35d523d81445",
+    "b7cfcac58628",
+    "82b659332cb6",
     "bce7d75090a1"
   ]
 }
