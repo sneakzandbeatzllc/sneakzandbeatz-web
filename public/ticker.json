@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-05T11:26:05+00:00",
+  "generated_utc": "2026-09-05T13:25:52+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "The Air Jordan 4 “Tour Yellow” Releases Today",
+      "url": "https://www.nicekicks.com/air-jordan-4-tour-yellow-io2463-102-drop/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
     {
       "title": "Comme des Garcons Homme Plus x Air Jordan 11 Releases September 2026",
       "url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
@@ -53,13 +60,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 6 “Sport Blue” Returns Fall 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-6-sport-blue-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
       "title": "The Dragon Ball Super remake’s visual upgrades are shocking fans",
       "url": "https://www.polygon.com/dragon-ball-super-beerus-new-anime-remake-goku-comparison/",
       "pillar": "anime",
@@ -95,22 +95,22 @@
       "article_slug": null
     },
     {
+      "title": "Boichi's The Marshal King Manga Resumes",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-05/boichi-the-marshal-king-manga-resumes/.241424",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "New Detective Conan Anime Special Lets Fans Deduce Culprit",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-05/new-detective-conan-anime-special-lets-fans-deduce-culprit/.241434",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Romelia War Chronicle TV Anime Reveals 14 More Cast Members",
       "url": "https://www.animenewsnetwork.com/news/2026-09-05/romelia-war-chronicle-tv-anime-reveals-14-more-cast-members/.241423",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "' Yowaki MAX Reijō nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta ' Anime Reveals Theme Song Artist, October 4 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-04/yowaki-max-reijo-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-anime-reveals-theme-song-/.241422",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "New Kochikame Anime Reveals Main Cast, Staff, 2027 Debut in Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-04/new-kochikame-anime-reveals-main-cast-staff-2027-debut-in-video/.241412",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
