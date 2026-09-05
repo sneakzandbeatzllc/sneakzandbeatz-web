@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-05T04:22:51+00:00",
+  "generated_utc": "2026-09-05T05:23:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -95,6 +95,13 @@
       "article_slug": null
     },
     {
+      "title": "Romelia War Chronicle TV Anime Reveals 14 More Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-05/romelia-war-chronicle-tv-anime-reveals-14-more-cast-members/.241423",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "' Yowaki MAX Reijō nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta ' Anime Reveals Theme Song Artist, October 4 Debut",
       "url": "https://www.animenewsnetwork.com/news/2026-09-04/yowaki-max-reijo-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-anime-reveals-theme-song-/.241422",
       "pillar": "anime",
@@ -104,13 +111,6 @@
     {
       "title": "New Kochikame Anime Reveals Main Cast, Staff, 2027 Debut in Video",
       "url": "https://www.animenewsnetwork.com/news/2026-09-04/new-kochikame-anime-reveals-main-cast-staff-2027-debut-in-video/.241412",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "North American Anime, Manga Releases, August 30-September 5",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-04/north-american-anime-manga-releases-august-30-september-5/.241170",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
