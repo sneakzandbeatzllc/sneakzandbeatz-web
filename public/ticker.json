@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-06T05:31:07+00:00",
+  "generated_utc": "2026-09-06T11:11:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball Xenoverse 3 reveals its classic anime attacks and deep create-a-character options",
-      "url": "https://www.polygon.com/dragon-ball-xenoverse-3-trailer-customization-options/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Naruto Unveils Dark New Itachi Design, And It's 10/10 Perfect",
       "url": "https://screenrant.com/naruto-new-itachi-dark-redesign-perfect/",
       "pillar": "anime",
@@ -104,6 +97,13 @@
     {
       "title": "Grow Up Show: Sunflower Circus Anime Streams Video for Circus Collection Arc",
       "url": "https://www.animenewsnetwork.com/news/2026-09-05/grow-up-show-sunflower-circus-anime-streams-video-for-circus-collection-arc/.241438",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "5 most shocking anime deaths of the 21st century",
+      "url": "https://www.polygon.com/most-shocking-character-deaths-anime-21st-century/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
