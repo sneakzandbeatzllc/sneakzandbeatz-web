@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-06T15:43:22+00:00",
+  "generated_utc": "2026-09-06T16:12:44+00:00",
   "items": [
     {
       "id": "1e12b67073f9",
@@ -10,18 +10,6 @@
       "source_url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
       "thumbnail": "/drops/thumbs/1e12b67073f9.jpg",
       "published": "2026-09-03T14:21:39",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "572c5c28660a",
-      "pillar": "sneakers",
-      "title": "COMME des GARÇONS x Air Jordan 11 Releases September 5th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/comme-des-garcons-air-jordan-11-black-white/",
-      "thumbnail": "/drops/thumbs/572c5c28660a.jpg",
-      "published": "2026-09-03T13:53:38",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -94,6 +82,18 @@
       "source_url": "https://justfreshkicks.com/apb-air-jordan-11-low-binary-blue-iu8266-400/",
       "thumbnail": "/drops/thumbs/48548d24c5e8.jpg",
       "published": "2026-09-06T11:29:45",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e9ab4b8188cb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Bucks” Honors Ray Allen’s Milwaukee PE for Fall 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-12-bucks-ct8013-103/",
+      "thumbnail": "/drops/thumbs/e9ab4b8188cb.webp",
+      "published": "2026-09-06T11:29:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -293,10 +293,10 @@
   ],
   "homepage": [
     "1e12b67073f9",
-    "572c5c28660a",
     "35d523d81445",
-    "b7cfcac58628",
     "82b659332cb6",
+    "b7cfcac58628",
+    "a67cab79a652",
     "bce7d75090a1"
   ]
 }
