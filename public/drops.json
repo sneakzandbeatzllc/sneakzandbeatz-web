@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-07T05:16:25+00:00",
+  "generated_utc": "2026-09-07T06:21:36+00:00",
   "items": [
     {
       "id": "1e12b67073f9",
@@ -111,12 +111,36 @@
       "release_badge": ""
     },
     {
+      "id": "9865f500667d",
+      "pillar": "anime",
+      "title": "Hunter x Hunter Manga Announces Hiatus, 4th Stage Play Featuring 'Chimera Ant Arc'",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-07/hunter-x-hunter-manga-announces-hiatus-4th-stage-play-featuring-chimera-ant-arc/.241478",
+      "thumbnail": "/drops/thumbs/9865f500667d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "9d39caf01bfd",
       "pillar": "anime",
       "title": "Naruto's True Best Friend Said More In One Line Than Sasuke Or Sakura Ever Could",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-best-friend-shikamaru-best-quote-mentorship/",
       "thumbnail": "/drops/thumbs/9d39caf01bfd.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a9051a7519c0",
+      "pillar": "anime",
+      "title": "Black Clover Anime's 2nd Season Reveals October 3 Debut, Ending Theme by One or Eight",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-07/black-clover-anime-2nd-season-reveals-october-3-debut-ending-theme-by-one-or-eight/.241479",
+      "thumbnail": "/drops/thumbs/a9051a7519c0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -135,30 +159,6 @@
       "release_badge": ""
     },
     {
-      "id": "ba9e9dcdc3a9",
-      "pillar": "anime",
-      "title": "Fukakōryoku no I Love You Manga Goes on Hiatus Due to Creator's Health",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-06/fukakoryoku-no-i-love-you-manga-goes-on-hiatus-due-to-creator-health/.241461",
-      "thumbnail": "/drops/thumbs/ba9e9dcdc3a9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0c1be984e727",
-      "pillar": "anime",
-      "title": "Kodansha House Hosts The Fragrant Flower Blooms with Dignity Creator Saka Mikami in NYC",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-06/kodansha-house-hosts-the-fragrant-flower-blooms-with-dignity-creator-saka-mikami-in-nyc/.241459",
-      "thumbnail": "/drops/thumbs/0c1be984e727.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "53c4c84e526a",
       "pillar": "anime",
       "title": "5 most shocking anime deaths of the 21st century",
@@ -171,12 +171,12 @@
       "release_badge": ""
     },
     {
-      "id": "60fbe3a4aa2e",
+      "id": "ba9e9dcdc3a9",
       "pillar": "anime",
-      "title": "Sword Art Online Material 1: Sugary Days Tops Oricon's Monthly Light Novel Ranking for August 2026",
+      "title": "Fukakōryoku no I Love You Manga Goes on Hiatus Due to Creator's Health",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-06/sword-art-online-material-1-sugary-days-tops-oricon-monthly-light-novel-ranking-for-august-2026/.241453",
-      "thumbnail": "/drops/thumbs/60fbe3a4aa2e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-06/fukakoryoku-no-i-love-you-manga-goes-on-hiatus-due-to-creator-health/.241461",
+      "thumbnail": "/drops/thumbs/ba9e9dcdc3a9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
