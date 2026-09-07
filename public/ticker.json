@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-07T02:18:39+00:00",
+  "generated_utc": "2026-09-07T02:48:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -81,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Every Major Mystery One Piece Needs to Explain Before It Ends",
-      "url": "https://screenrant.com/every-major-one-piece-mystery-needs-solve/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Fukakōryoku no I Love You Manga Goes on Hiatus Due to Creator's Health",
       "url": "https://www.animenewsnetwork.com/news/2026-09-06/fukakoryoku-no-i-love-you-manga-goes-on-hiatus-due-to-creator-health/.241461",
       "pillar": "anime",
@@ -111,6 +104,13 @@
     {
       "title": "Sword Art Online Material 1: Sugary Days Tops Oricon's Monthly Light Novel Ranking for August 2026",
       "url": "https://www.animenewsnetwork.com/news/2026-09-06/sword-art-online-material-1-sugary-days-tops-oricon-monthly-light-novel-ranking-for-august-2026/.241453",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "30 Most Underrated Anime Series Nobody Should Ever Skip",
+      "url": "https://screenrant.com/most-underrated-anime/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
