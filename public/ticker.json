@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-07T11:19:18+00:00",
+  "generated_utc": "2026-09-07T12:20:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Naruto's True Best Friend Said More In One Line Than Sasuke Or Sakura Ever Could",
-      "url": "https://screenrant.com/naruto-best-friend-shikamaru-best-quote-mentorship/",
+      "title": "The Greatest One Piece Episode In Years Isn't Just Incredible, It's A Blueprint For the Franchise's Future",
+      "url": "https://screenrant.com/one-piece-fan-letter-blueprint-god-valley/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -83,6 +83,13 @@
     {
       "title": "Black Clover Anime's 2nd Season Reveals October 3 Debut, Ending Theme by One or Eight",
       "url": "https://www.animenewsnetwork.com/news/2026-09-07/black-clover-anime-2nd-season-reveals-october-3-debut-ending-theme-by-one-or-eight/.241479",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto's True Best Friend Said More In One Line Than Sasuke Or Sakura Ever Could",
+      "url": "https://screenrant.com/naruto-best-friend-shikamaru-best-quote-mentorship/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "New Sgt. Frog TV Anime Reveals October 3 Debut, Main Cast in Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-07/new-sgt-frog-tv-anime-reveals-october-3-debut-main-cast-in-video/.241485",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "30 Most Underrated Anime Series Nobody Should Ever Skip",
-      "url": "https://screenrant.com/most-underrated-anime/",
+      "title": "A Tale of the Secret Saint TV Anime Reveals More Cast, October 3 Debut in Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-07/a-tale-of-the-secret-saint-tv-anime-reveals-more-cast-october-3-debut-in-video/.241491",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6: Everything you need to know",
-      "url": "https://www.gamesradar.com/gta-6-guide/",
+      "title": "Square Enix's \"graphical goal\" for Final Fantasy 7 remakes was 2005 spin-off film Advent Children",
+      "url": "https://www.gamesradar.com/games/final-fantasy/square-enixs-graphical-goal-for-final-fantasy-7-remakes-was-2005-spin-off-film-advent-children-as-its-the-ideal-version-of-the-29-year-old-jrpg/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -139,13 +139,6 @@
     {
       "title": "Neil Druckmann: “We’re Not Done With The Last Of Us” – Is Part 3 Really In Development?",
       "url": "https://gameranx.com/updates/id/563977/article/neil-druckmann-were-not-done-with-the-last-of-us-is-part-3-really-in-development/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Square Enix wants to turn Final Fantasy 7 into \"an IP with an ever-evolving future\" 11 Comments",
-      "url": "https://www.gamesradar.com/games/final-fantasy/square-enix-wants-to-turn-final-fantasy-7-into-an-ip-with-an-ever-evolving-future-beyond-the-ff7-remake-trilogy/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "News New PS5 Releases Dawnwalker and Onimusha Both Top One Million Sales",
-      "url": "https://www.pushsquare.com/news/2026/09/new-ps5-releases-dawnwalker-and-onimusha-both-top-one-million-sales",
+      "title": "Guide These 21+ PS5 Games Are Coming Out This Week (7th-13th September)",
+      "url": "https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-this-week-7th-13th-september",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Star Wars Zero Company : The Kotaku Review",
+      "url": "https://kotaku.com/star-wars-zero-company-review-is-it-good-performance-ps5-xcom-2000731426",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
