@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-07T12:24:55+00:00",
+  "generated_utc": "2026-09-07T13:20:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,13 +67,6 @@
       "article_slug": null
     },
     {
-      "title": "Hunter x Hunter Manga Announces Hiatus, 4th Stage Play Featuring 'Chimera Ant Arc'",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-07/hunter-x-hunter-manga-announces-hiatus-4th-stage-play-featuring-chimera-ant-arc/.241478",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Greatest One Piece Episode In Years Isn't Just Incredible, It's A Blueprint For the Franchise's Future",
       "url": "https://screenrant.com/one-piece-fan-letter-blueprint-god-valley/",
       "pillar": "anime",
@@ -90,6 +83,13 @@
     {
       "title": "Naruto Unveils Dark New Itachi Design, And It's 10/10 Perfect",
       "url": "https://screenrant.com/naruto-new-itachi-dark-redesign-perfect/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hololive VTuber Agency Launch 1st TV Anime Project From Studio Kai",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-07/hololive-vtuber-agency-launch-1st-tv-anime-project-from-studio-kai/.241493",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -116,7 +116,7 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 won't let you just walk about with guns as GTA 5's approach doesn't work \"at this resolution\" 14 Comments",
+      "title": "GTA 6 won't let you just walk about with guns as GTA 5's approach doesn't work \"at this resolution\" 16 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6-doesnt-just-let-you-easily-walk-around-with-guns-because-gta-5s-approach-doesnt-work-at-this-resolution/",
       "pillar": "gaming",
       "score": 1.0,
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Guide These 21+ PS5 Games Are Coming Out This Week (7th-13th September)",
-      "url": "https://www.pushsquare.com/guides/these-21plus-ps5-games-are-coming-out-this-week-7th-13th-september",
+      "title": "News Capcom's Focused on Reviving Dormant Franchises, and That's Got Me All Excited About Ace Attorney",
+      "url": "https://www.pushsquare.com/news/2026/09/capcoms-focused-on-reviving-dormant-franchises-and-thats-got-me-all-excited-about-ace-attorney",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
