@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-08T00:28:35+00:00",
+  "generated_utc": "2026-09-08T01:29:17+00:00",
   "items": [
     {
       "id": "5b65a24f8303",
@@ -99,18 +99,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "b7cfcac58628",
-      "pillar": "anime",
-      "title": "The Dragon Ball Super remake’s visual upgrades are shocking fans",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dragon-ball-super-beerus-new-anime-remake-goku-comparison/",
-      "thumbnail": "/drops/thumbs/b7cfcac58628.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ed89ccac61a3",
       "pillar": "anime",
       "title": "The Greatest One Piece Episode In Years Isn't Just Incredible, It's A Blueprint For the Franchise's Future",
@@ -147,24 +135,36 @@
       "release_badge": ""
     },
     {
-      "id": "30239b44f5f0",
+      "id": "f6d4abcf1fd1",
       "pillar": "anime",
-      "title": "You Are a Four Leaf Clover Romantic Suspense Manga Gets Anime",
+      "title": "Marriage Toxin TV Anime's 2nd Season Reveals Promo Video, Key Visual",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-07/you-are-a-four-leaf-clover-romantic-suspense-manga-gets-anime/.241496",
-      "thumbnail": "/drops/thumbs/30239b44f5f0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-07/marriage-toxin-tv-anime-2nd-season-reveals-promo-video-key-visual/.241487",
+      "thumbnail": "/drops/thumbs/f6d4abcf1fd1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "48579605b456",
+      "id": "48aa1747708e",
       "pillar": "anime",
-      "title": "Fake It to Break It! Manga Changes Artists",
+      "title": "10 most anticipated anime releases of fall 2026",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/new-anime-shows-fall-2026-releases/",
+      "thumbnail": "/drops/thumbs/48aa1747708e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "30239b44f5f0",
+      "pillar": "anime",
+      "title": "You Are a Four Leaf Clover Romantic Suspense Manga Gets Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-07/fake-it-to-break-it-manga-changes-artists/.241470",
-      "thumbnail": "/drops/thumbs/48579605b456.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-07/you-are-a-four-leaf-clover-romantic-suspense-manga-gets-anime/.241496",
+      "thumbnail": "/drops/thumbs/30239b44f5f0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "d57b57223d7a",
+      "id": "48579605b456",
       "pillar": "anime",
-      "title": "Tamer: Trash-Tier to Top-Tier Manga Ends",
+      "title": "Fake It to Break It! Manga Changes Artists",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-07/tamer-trash-tier-to-top-tier-manga-ends/.241469",
-      "thumbnail": "/drops/thumbs/d57b57223d7a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-07/fake-it-to-break-it-manga-changes-artists/.241470",
+      "thumbnail": "/drops/thumbs/48579605b456.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,7 +295,7 @@
     "5b65a24f8303",
     "085a60d7e285",
     "1e12b67073f9",
-    "b7cfcac58628",
+    "ed89ccac61a3",
     "35d523d81445",
     "f20724c2252a"
   ]
