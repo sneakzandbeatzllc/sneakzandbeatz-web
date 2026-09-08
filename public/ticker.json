@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-08T16:10:32+00:00",
+  "generated_utc": "2026-09-08T16:36:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,13 +32,6 @@
       "article_slug": null
     },
     {
-      "title": "Comme des Garçons x Air Jordan 11 “Triple Black” (IV7639-001) September 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-black-iv7639-001/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-6-low-metamorphosis/",
       "pillar": "sneakers",
@@ -57,6 +50,13 @@
       "url": "https://sneakerbardetroit.com/air-jordan-9-og-space-jam-2026-release-date/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low “Dark Team Red” Releases Fall 2026",
+      "url": "https://justfreshkicks.com/air-jordan-1-low-dark-team-red-io2047-600/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "News The Legend of Zelda Is the Only Big Name Willing to Go Up Against GTA 6 in November",
+      "url": "https://www.pushsquare.com/news/2026/09/the-legend-of-zelda-is-the-only-big-name-willing-to-go-up-against-gta-6-in-november",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Zelda: Ocarina of Time remake release date set for November as Nintendo joins GTA 6 in the fall",
       "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-release-date-set-for-november-as-nintendo-joins-gta-6-in-a-weird-month/",
       "pillar": "gaming",
@@ -160,13 +167,6 @@
     {
       "title": "News Thousands Fooled by 'Insane' Sony Leak and Fake PS6 Reveal",
       "url": "https://www.pushsquare.com/news/2026/09/thousands-fooled-by-insane-sony-leak-and-fake-ps6-reveal",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Turn-Based RPG Fans Will Want to Keep an Eye on This New PS5 Adventure from Taiwan",
-      "url": "https://www.pushsquare.com/news/2026/09/turn-based-rpg-fans-will-want-to-keep-an-eye-on-this-new-ps5-adventure-from-taiwan",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

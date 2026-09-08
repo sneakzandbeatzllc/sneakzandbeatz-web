@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-08T16:10:32+00:00",
+  "generated_utc": "2026-09-08T16:36:06+00:00",
   "items": [
     {
       "id": "5b65a24f8303",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "82b659332cb6",
-      "pillar": "sneakers",
-      "title": "Comme des Garçons x Air Jordan 11 “Triple Black” (IV7639-001) September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-black-iv7639-001/",
-      "thumbnail": "/drops/thumbs/82b659332cb6.png",
-      "published": "2026-09-03T12:32:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "a67cab79a652",
       "pillar": "sneakers",
       "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
@@ -97,6 +85,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "2f5d8b96414f",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low “Dark Team Red” Releases Fall 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-dark-team-red-io2047-600/",
+      "thumbnail": "/drops/thumbs/2f5d8b96414f.webp",
+      "published": "2026-09-07T21:42:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "ed89ccac61a3",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "ef91f3d03190",
+      "pillar": "gaming",
+      "title": "News The Legend of Zelda Is the Only Big Name Willing to Go Up Against GTA 6 in November",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/the-legend-of-zelda-is-the-only-big-name-willing-to-go-up-against-gta-6-in-november",
+      "thumbnail": "/drops/thumbs/ef91f3d03190.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "28f15901677a",
       "pillar": "gaming",
       "title": "Zelda: Ocarina of Time remake release date set for November as Nintendo joins GTA 6 in the fall",
@@ -277,18 +289,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "680dc9ec5ae7",
-      "pillar": "gaming",
-      "title": "News Turn-Based RPG Fans Will Want to Keep an Eye on This New PS5 Adventure from Taiwan",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/turn-based-rpg-fans-will-want-to-keep-an-eye-on-this-new-ps5-adventure-from-taiwan",
-      "thumbnail": "/drops/thumbs/680dc9ec5ae7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -297,6 +297,6 @@
     "1e12b67073f9",
     "ed89ccac61a3",
     "35d523d81445",
-    "28f15901677a"
+    "ef91f3d03190"
   ]
 }
