@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-08T16:36:57+00:00",
+  "generated_utc": "2026-09-08T17:37:37+00:00",
   "items": [
     {
       "id": "5b65a24f8303",
@@ -34,18 +34,6 @@
       "source_url": "https://www.sneakerfiles.com/comme-des-garcons-homme-plus-air-jordan-11/",
       "thumbnail": "/drops/thumbs/1e12b67073f9.jpg",
       "published": "2026-09-03T14:21:39",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "35d523d81445",
-      "pillar": "sneakers",
-      "title": "Comme des Garçons x Air Jordan 11 “Triple White” (IV7639-100) September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/comme-des-garcons-air-jordan-11-triple-white-iv7639-100/",
-      "thumbnail": "/drops/thumbs/35d523d81445.png",
-      "published": "2026-09-03T12:32:00",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -99,6 +87,30 @@
       "release_badge": ""
     },
     {
+      "id": "c5c79e37aa78",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Mid SE “Cacao Wow/Rust Pink” Releases This Year",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-mid-cacao-wow-rust-pink-iq7607-200/",
+      "thumbnail": "/drops/thumbs/c5c79e37aa78.webp",
+      "published": "2026-09-07T21:30:56",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "abcf140c16dc",
+      "pillar": "anime",
+      "title": "3 Years After The Anime's Finale, Attack on Titan Is Making A Huge Return",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/attack-on-titan-return-2026/",
+      "thumbnail": "/drops/thumbs/abcf140c16dc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ed89ccac61a3",
       "pillar": "anime",
       "title": "The Greatest One Piece Episode In Years Isn't Just Incredible, It's A Blueprint For the Franchise's Future",
@@ -117,18 +129,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-best-friend-shikamaru-best-quote-mentorship/",
       "thumbnail": "/drops/thumbs/9d39caf01bfd.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "22d9d7e13cf0",
-      "pillar": "anime",
-      "title": "Naruto Unveils Dark New Itachi Design, And It's 10/10 Perfect",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-new-itachi-dark-redesign-perfect/",
-      "thumbnail": "/drops/thumbs/22d9d7e13cf0.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -295,8 +295,8 @@
     "5b65a24f8303",
     "085a60d7e285",
     "1e12b67073f9",
-    "ed89ccac61a3",
-    "35d523d81445",
+    "abcf140c16dc",
+    "a67cab79a652",
     "ef91f3d03190"
   ]
 }
