@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-08T15:39:39+00:00",
+  "generated_utc": "2026-09-08T16:10:32+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,13 +39,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-td-football-cleats-metallic-silver-fz8626-002/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-6-low-metamorphosis/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases September 2026",
       "url": "https://www.sneakerfiles.com/jaide-air-jordan-11-low-fiberglass/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 9 OG “Space Jam” Releases September 19th",
+      "url": "https://sneakerbardetroit.com/air-jordan-9-og-space-jam-2026-release-date/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Square Enix's \"graphical goal\" for Final Fantasy 7 remakes was 2005 spin-off film Advent Children",
-      "url": "https://www.gamesradar.com/games/final-fantasy/square-enixs-graphical-goal-for-final-fantasy-7-remakes-was-2005-spin-off-film-advent-children-as-its-the-ideal-version-of-the-29-year-old-jrpg/",
+      "title": "Xbox disc-to-digital missing Elden Ring and Final Fantasy as publishers seemingly skip the feature",
+      "url": "https://www.gamesradar.com/platforms/xbox/xbox-disc-to-digital-missing-elden-ring-and-final-fantasy-as-publishers-including-bandai-namco-square-enix-ubisoft-and-sega-seemingly-skip-the-feature/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Zach Cregger says fans \"will know how many bullets\" Bryan has left in his Resident Evil movie, as it mimics gameplay",
-      "url": "https://www.gamesradar.com/entertainment/horror-movies/zach-cregger-says-fans-will-know-how-many-bullets-austin-abrams-bryan-has-left-in-his-resident-evil-movie-as-it-mimics-gameplay/",
+      "title": "Sony exec says Spider-Man: Brand New Day is successful as it's \"not so much a superhero film, but a 'super-person' film\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/sony-executive-says-spider-man-brand-new-day-was-such-a-success-because-its-not-so-much-a-superhero-film-but-a-super-person-film/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
