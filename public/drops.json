@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-08T18:38:26+00:00",
+  "generated_utc": "2026-09-08T19:12:54+00:00",
   "items": [
+    {
+      "id": "368a76393bb6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 TD Cleats “Metallic Silver” Releases September 10th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-td-metallic-silver-fz8626-002/",
+      "thumbnail": "/drops/thumbs/368a76393bb6.webp",
+      "published": "2026-09-08T14:59:17",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "5b65a24f8303",
       "pillar": "sneakers",
@@ -87,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "c5c79e37aa78",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Mid SE “Cacao Wow/Rust Pink” Releases This Year",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-mid-cacao-wow-rust-pink-iq7607-200/",
-      "thumbnail": "/drops/thumbs/c5c79e37aa78.webp",
-      "published": "2026-09-07T21:30:56",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "abcf140c16dc",
       "pillar": "anime",
       "title": "3 Years After The Anime's Finale, Attack on Titan Is Making A Huge Return",
@@ -135,12 +135,12 @@
       "release_badge": ""
     },
     {
-      "id": "938aa69f25aa",
+      "id": "2bfdebe3b0b4",
       "pillar": "anime",
-      "title": "Naoki Azuma Launches New Glitch Witch Manga Set in Ghost in the Shell World",
+      "title": "Manga Up! Global Adds Dragon and Flower , ' I Was Sacrificed to a Vampire, But He Spoils Me Instead! ' 1 More Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-08/naoki-azuma-launches-new-glitch-witch-manga-set-in-ghost-in-the-shell-world/.241529",
-      "thumbnail": "/drops/thumbs/938aa69f25aa.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-08/manga-up-global-adds-dragon-and-flower-i-was-sacrificed-to-a-vampire-but-he-spoils-me-instead-1-/.241519",
+      "thumbnail": "/drops/thumbs/2bfdebe3b0b4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -159,12 +159,12 @@
       "release_badge": ""
     },
     {
-      "id": "08020c6e8d65",
+      "id": "938aa69f25aa",
       "pillar": "anime",
-      "title": "Junket Bank TV Anime's Premiere Delayed from October",
+      "title": "Naoki Azuma Launches New Glitch Witch Manga Set in Ghost in the Shell World",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-08/junket-bank-tv-anime-premiere-delayed-from-october/.241533",
-      "thumbnail": "/drops/thumbs/08020c6e8d65.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-08/naoki-azuma-launches-new-glitch-witch-manga-set-in-ghost-in-the-shell-world/.241529",
+      "thumbnail": "/drops/thumbs/938aa69f25aa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "c39ae8df0246",
+      "id": "08020c6e8d65",
       "pillar": "anime",
-      "title": "Hotel Inhumans Anime's 2nd Season Reveals Theme Song Artists, October 4 Debut",
+      "title": "Junket Bank TV Anime's Premiere Delayed from October",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-08/hotel-inhumans-anime-2nd-season-reveals-theme-song-artists-october-4-debut/.241515",
-      "thumbnail": "/drops/thumbs/c39ae8df0246.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-08/junket-bank-tv-anime-premiere-delayed-from-october/.241533",
+      "thumbnail": "/drops/thumbs/08020c6e8d65.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "368a76393bb6",
     "5b65a24f8303",
     "085a60d7e285",
-    "1e12b67073f9",
     "abcf140c16dc",
-    "a67cab79a652",
+    "1e12b67073f9",
     "ef91f3d03190"
   ]
 }
