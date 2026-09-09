@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T19:48:22+00:00",
+  "generated_utc": "2026-09-09T19:50:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -46,22 +46,29 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 11 “Green Screen” (Monstars) Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-11-monstars-green/",
+      "title": "Air Jordan 3 TD Cleats “Metallic Silver” Releases September 10th",
+      "url": "https://justfreshkicks.com/air-jordan-3-td-metallic-silver-fz8626-002/",
       "pillar": "sneakers",
-      "score": 2.0,
+      "score": 3.0,
       "article_slug": null
     },
     {
-      "title": "This Air Jordan 9 Returns for the Film’s 30th Anniversary",
-      "url": "https://www.nicekicks.com/air-jordan-9-og-space-jam-ix6179-100-drop/",
+      "title": "COMME des GARÇONS x Air Jordan 11 Releases September 5th",
+      "url": "https://justfreshkicks.com/comme-des-garcons-air-jordan-11-black-white/",
       "pillar": "sneakers",
-      "score": 2.0,
+      "score": 3.0,
       "article_slug": null
     },
     {
       "title": "3 Years After The Anime's Finale, Attack on Titan Is Making A Huge Return",
       "url": "https://screenrant.com/attack-on-titan-return-2026/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Fatal Fury City of the Wolves Game's Trailers Reveal Switch 2 Version, Tokyo Revengers DLC Characters",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-09/fatal-fury-city-of-the-wolves-game-trailers-reveal-switch-2-version-tokyo-revengers-dlc-characters/.241593",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -74,13 +81,6 @@
       "article_slug": null
     },
     {
-      "title": "Konami Announces Yu-Gi-Oh! Tag Force GX Game for Switch 2, Switch, PC",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-09/konami-announces-yu-gi-oh-tag-force-gx-game-for-switch-2-switch-pc/.241575",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The director of Grotesqqque thinks the best anime are a little 'unorganized'",
       "url": "https://www.polygon.com/why-the-director-of-grotesqqque-thinks-the-best-anime-are-a-little-unorganized/",
       "pillar": "anime",
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "SSS-Class Revival Hunter Novel/Webtoon Gets Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-09/sss-class-revival-hunter-novel-webtoon-gets-anime/.241578",
+      "title": "Konami Announces Yu-Gi-Oh! Tag Force GX Game for Switch 2, Switch, PC",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-09/konami-announces-yu-gi-oh-tag-force-gx-game-for-switch-2-switch-pc/.241575",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,15 +102,15 @@
       "article_slug": null
     },
     {
-      "title": "The 1990s' Best Ninja Anime Finally Returns With Epic New Release (Exclusive)",
-      "url": "https://screenrant.com/ninja-scroll-4k-restored-exclusive-still/",
+      "title": "SSS-Class Revival Hunter Novel/Webtoon Gets Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-09/sss-class-revival-hunter-novel-webtoon-gets-anime/.241578",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "6 Cartoon Network Anime From The 2000s That Are Aging Like Milk",
-      "url": "https://screenrant.com/cartoon-network-anime-2000s-aging-milk/",
+      "title": "The 1990s' Best Ninja Anime Finally Returns With Epic New Release (Exclusive)",
+      "url": "https://screenrant.com/ninja-scroll-4k-restored-exclusive-still/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
