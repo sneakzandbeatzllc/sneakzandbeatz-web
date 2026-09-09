@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T20:51:35+00:00",
+  "generated_utc": "2026-09-09T21:38:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "The Witcher 3: Songs of the Past fixes Roach's \"movement behavior,\" but you can turn the fix off",
-      "url": "https://www.gamesradar.com/games/the-witcher/cd-projekt-red-defies-all-that-is-good-in-the-witcher-3-songs-of-the-past-by-fixing-roachs-movement-behavior-but-mercifully-lets-us-turn-the-fix-off-to-preserve-the-horses-shenanigans/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "12 TB Steam Leak Exposes Hundreds Of Game Achievements, Including Kingdom Hearts 4, Gears of War: E-Day, Horizon Hunters Gathering, And More",
       "url": "https://gameranx.com/updates/id/564022/article/12-tb-steam-leak-exposes-hundreds-of-game-achievements-including-kingdom-hearts-4-gears-of-war-e-day-horizon-hunters-gathering-and-more/",
       "pillar": "gaming",
@@ -160,6 +153,13 @@
     {
       "title": "Getting Lost In Blood Of Dawnwalker Is Part Of The Fun, But Getting Un-Lost Is A Serious Pain",
       "url": "https://kotaku.com/blood-of-the-dawnwalker-minimap-shortcut-2000732727",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Recap Everything announced at the Nintendo Direct September 2026",
+      "url": "https://www.gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

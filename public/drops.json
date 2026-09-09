@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T20:51:35+00:00",
+  "generated_utc": "2026-09-09T21:38:13+00:00",
   "items": [
     {
       "id": "085a60d7e285",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "4e50e09ed1cb",
-      "pillar": "gaming",
-      "title": "The Witcher 3: Songs of the Past fixes Roach's \"movement behavior,\" but you can turn the fix off",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/the-witcher/cd-projekt-red-defies-all-that-is-good-in-the-witcher-3-songs-of-the-past-by-fixing-roachs-movement-behavior-but-mercifully-lets-us-turn-the-fix-off-to-preserve-the-horses-shenanigans/",
-      "thumbnail": "/drops/thumbs/4e50e09ed1cb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7c783e908047",
       "pillar": "gaming",
       "title": "12 TB Steam Leak Exposes Hundreds Of Game Achievements, Including Kingdom Hearts 4, Gears of War: E-Day, Horizon Hunters Gathering, And More",
@@ -273,6 +261,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/blood-of-the-dawnwalker-minimap-shortcut-2000732727",
       "thumbnail": "/drops/thumbs/6147f04ea9e1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0f3c514f46de",
+      "pillar": "gaming",
+      "title": "Recap Everything announced at the Nintendo Direct September 2026",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced/",
+      "thumbnail": "/drops/thumbs/0f3c514f46de.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
