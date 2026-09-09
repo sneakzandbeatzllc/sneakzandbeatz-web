@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T16:48:23+00:00",
+  "generated_utc": "2026-09-09T17:32:33+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,13 +13,6 @@
     {
       "title": "Air Jordan 9 OG “Space Jam” Returns September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 TD Cleats “Metallic Silver” Releases September 10th",
-      "url": "https://justfreshkicks.com/air-jordan-3-td-metallic-silver-fz8626-002/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -60,6 +53,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 11 “Florida Gators” PE Gets a First Look",
+      "url": "https://justfreshkicks.com/air-jordan-11-florida-gators-pe/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "3 Years After The Anime's Finale, Attack on Titan Is Making A Huge Return",
       "url": "https://screenrant.com/attack-on-titan-return-2026/",
       "pillar": "anime",
@@ -88,13 +88,6 @@
       "article_slug": null
     },
     {
-      "title": "Guyver's Yoshiki Takaya May No Longer Be Able to Create Manga After Cerebral Infarction, Partial Paralysis",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-09/guyver-yoshiki-takaya-may-no-longer-be-able-to-create-manga-after-cerebral-infarction-partial-/.241545",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 most anticipated anime releases of fall 2026",
       "url": "https://www.polygon.com/new-anime-shows-fall-2026-releases/",
       "pillar": "anime",
@@ -116,6 +109,13 @@
       "article_slug": null
     },
     {
+      "title": "30 Most Underrated Anime Series Nobody Should Ever Skip",
+      "url": "https://screenrant.com/most-underrated-anime/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
       "pillar": "gaming",
@@ -123,8 +123,8 @@
       "article_slug": null
     },
     {
-      "title": "News Long Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Is Remastered on PS5 Today",
-      "url": "https://www.pushsquare.com/news/2026/09/long-lost-dragon-quest-spin-off-tornekos-mystery-dungeon-is-remastered-on-ps5-today",
+      "title": "News Final Fantasy, Persona Veterans Announce Turn-Based JRPG Eternal Anima for PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-persona-veterans-announce-turn-based-jrpg-eternal-anima-for-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -132,6 +132,13 @@
     {
       "title": "Crisis Core: Final Fantasy VII Reunion Shadow Drops On Switch 2 Today",
       "url": "https://gameranx.com/updates/id/564037/article/crisis-core-final-fantasy-vii-reunion-shadow-drops-on-switch-2-today/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Long Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Is Remastered on PS5 Today",
+      "url": "https://www.pushsquare.com/news/2026/09/long-lost-dragon-quest-spin-off-tornekos-mystery-dungeon-is-remastered-on-ps5-today",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -153,13 +160,6 @@
     {
       "title": "Kirby Gets A Big Sword And Smashes Open The Sky In His Next Open-World Adventure",
       "url": "https://kotaku.com/kirby-and-the-world-beyond-open-world-2000732788",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Goodbye Despair! Danganronpa 2x2 Brings the Expanded Sequel to PS5 in January",
-      "url": "https://www.pushsquare.com/news/2026/09/goodbye-despair-danganronpa-2x2-brings-the-expanded-sequel-to-ps5-in-january",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

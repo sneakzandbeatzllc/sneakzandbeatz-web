@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T16:48:23+00:00",
+  "generated_utc": "2026-09-09T17:32:33+00:00",
   "items": [
     {
       "id": "085a60d7e285",
@@ -22,18 +22,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
       "thumbnail": "/drops/thumbs/796e1bf65859.jpg",
       "published": "2026-09-09T02:12:08",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "368a76393bb6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 TD Cleats “Metallic Silver” Releases September 10th",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-3-td-metallic-silver-fz8626-002/",
-      "thumbnail": "/drops/thumbs/368a76393bb6.webp",
-      "published": "2026-09-08T14:59:17",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -99,6 +87,18 @@
       "release_badge": ""
     },
     {
+      "id": "09bccf824fe3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 “Florida Gators” PE Gets a First Look",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-11-florida-gators-pe/",
+      "thumbnail": "/drops/thumbs/09bccf824fe3.webp",
+      "published": "2026-09-08T16:04:51",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "abcf140c16dc",
       "pillar": "anime",
       "title": "3 Years After The Anime's Finale, Attack on Titan Is Making A Huge Return",
@@ -147,18 +147,6 @@
       "release_badge": ""
     },
     {
-      "id": "1229d41e6e71",
-      "pillar": "anime",
-      "title": "Guyver's Yoshiki Takaya May No Longer Be Able to Create Manga After Cerebral Infarction, Partial Paralysis",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-09/guyver-yoshiki-takaya-may-no-longer-be-able-to-create-manga-after-cerebral-infarction-partial-/.241545",
-      "thumbnail": "/drops/thumbs/1229d41e6e71.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "48aa1747708e",
       "pillar": "anime",
       "title": "10 most anticipated anime releases of fall 2026",
@@ -195,6 +183,18 @@
       "release_badge": ""
     },
     {
+      "id": "a66067cacca6",
+      "pillar": "anime",
+      "title": "30 Most Underrated Anime Series Nobody Should Ever Skip",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/most-underrated-anime/",
+      "thumbnail": "/drops/thumbs/a66067cacca6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f594e9240b6b",
       "pillar": "gaming",
       "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says",
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "4405b31c5525",
+      "id": "4dcf52653947",
       "pillar": "gaming",
-      "title": "News Long Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Is Remastered on PS5 Today",
+      "title": "News Final Fantasy, Persona Veterans Announce Turn-Based JRPG Eternal Anima for PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/long-lost-dragon-quest-spin-off-tornekos-mystery-dungeon-is-remastered-on-ps5-today",
-      "thumbnail": "/drops/thumbs/4405b31c5525.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/final-fantasy-persona-veterans-announce-turn-based-jrpg-eternal-anima-for-ps5",
+      "thumbnail": "/drops/thumbs/4dcf52653947.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,6 +225,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564037/article/crisis-core-final-fantasy-vii-reunion-shadow-drops-on-switch-2-today/",
       "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4405b31c5525",
+      "pillar": "gaming",
+      "title": "News Long Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Is Remastered on PS5 Today",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/long-lost-dragon-quest-spin-off-tornekos-mystery-dungeon-is-remastered-on-ps5-today",
+      "thumbnail": "/drops/thumbs/4405b31c5525.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,18 +279,6 @@
       "release_badge": ""
     },
     {
-      "id": "a8630d78273f",
-      "pillar": "gaming",
-      "title": "News Goodbye Despair! Danganronpa 2x2 Brings the Expanded Sequel to PS5 in January",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/goodbye-despair-danganronpa-2x2-brings-the-expanded-sequel-to-ps5-in-january",
-      "thumbnail": "/drops/thumbs/a8630d78273f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0675a8eb6b14",
       "pillar": "gaming",
       "title": "Samus Gets Very Chatty In The First Metroid Ravenous Trailer",
@@ -294,9 +294,9 @@
   "homepage": [
     "085a60d7e285",
     "796e1bf65859",
-    "368a76393bb6",
-    "abcf140c16dc",
     "5b65a24f8303",
+    "abcf140c16dc",
+    "1e12b67073f9",
     "f594e9240b6b"
   ]
 }
