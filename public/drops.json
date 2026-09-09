@@ -1,15 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T13:26:23+00:00",
+  "generated_utc": "2026-09-09T13:43:28+00:00",
   "items": [
     {
-      "id": "085a60d7e285",
+      "id": "fc2bfab0b5a3",
       "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "thumbnail": "/drops/thumbs/085a60d7e285.jpg",
-      "published": "2026-09-09T08:21:31",
+      "title": "Air Jordan 7 “Tennis Day” Releases September 9th",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/fc2bfab0b5a3.jpg",
+      "published": "2026-09-09T09:37:28",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -207,30 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "b6d2bd7b0032",
-      "pillar": "gaming",
-      "title": "Emergency Elden Ring patch stops players from getting the new $5 DLC items for free 5 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/action-rpg/the-biggest-l-from-soft-has-taken-in-a-long-time-emergency-elden-ring-patch-stops-players-from-getting-the-new-usd5-dlc-items-for-free/",
-      "thumbnail": "/drops/thumbs/b6d2bd7b0032.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "85e7fe28118c",
-      "pillar": "gaming",
-      "title": "About 58% of The Blood of Dawnwalker's Steam player base also played The Witcher 3 5 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/cd-projekt-red-fans-stay-loyal-about-58-percent-of-the-blood-of-dawnwalkers-steam-player-base-also-played-the-witcher-3/",
-      "thumbnail": "/drops/thumbs/85e7fe28118c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7c783e908047",
       "pillar": "gaming",
       "title": "12 TB Steam Leak Exposes Hundreds Of Game Achievements, Including Kingdom Hearts 4, Gears of War: E-Day, Horizon Hunters Gathering, And More",
@@ -267,12 +243,36 @@
       "release_badge": ""
     },
     {
-      "id": "1bf8a6fe26d3",
+      "id": "0f3c514f46de",
       "pillar": "gaming",
-      "title": "News No Man's Sky Evolves Yet Again, Overhauling Space in Another Huge Free Update",
+      "title": "Live Nintendo Direct September 2026 live coverage: Every announcement and reveal as they happen",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced/",
+      "thumbnail": "/drops/thumbs/0f3c514f46de.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "03a5d1370452",
+      "pillar": "gaming",
+      "title": "News Dawnwalker Dev Gearing Up for Sequel After Promising a Franchise",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/no-mans-sky-evolves-yet-again-overhauling-space-in-another-huge-free-update",
-      "thumbnail": "/drops/thumbs/1bf8a6fe26d3.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/dawnwalker-dev-gearing-up-for-sequel-after-promising-a-franchise",
+      "thumbnail": "/drops/thumbs/03a5d1370452.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e55fd5458ac2",
+      "pillar": "gaming",
+      "title": "No Man's Sky Cosmos update says screw it, build your own space station and destroy \"space hulks\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/survival/no-mans-sky-cosmos-update-says-screw-it-build-your-own-space-station-and-destroy-space-hulks-with-a-gravity-gun-our-most-requested-feature-since-launch/",
+      "thumbnail": "/drops/thumbs/e55fd5458ac2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,7 +292,7 @@
     }
   ],
   "homepage": [
-    "085a60d7e285",
+    "fc2bfab0b5a3",
     "796e1bf65859",
     "368a76393bb6",
     "abcf140c16dc",
