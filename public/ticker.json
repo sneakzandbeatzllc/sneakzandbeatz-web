@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T22:39:47+00:00",
+  "generated_utc": "2026-09-09T23:10:39+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,6 +13,13 @@
     {
       "title": "Air Jordan 9 OG “Space Jam” Returns September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-td-football-cleats-metallic-silver-fz8626-002/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 10 “Knicks” Returns Fall 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 14 “Blue Ferrari” Releases Fall 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "The 1990s' Best Ninja Anime Finally Returns With Epic New Release (Exclusive)",
-      "url": "https://screenrant.com/ninja-scroll-4k-restored-exclusive-still/",
+      "title": "All 10 Digimon Heroes & Their Partners Ranked From Worst To Best",
+      "url": "https://screenrant.com/every-digimon-hero-partner-ranked-worst-best/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

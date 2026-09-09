@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T22:39:47+00:00",
+  "generated_utc": "2026-09-09T23:10:39+00:00",
   "items": [
     {
       "id": "085a60d7e285",
@@ -22,6 +22,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
       "thumbnail": "/drops/thumbs/796e1bf65859.jpg",
       "published": "2026-09-09T02:12:08",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "d74018f8882b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 TD Football Cleats “Metallic Silver” September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-td-football-cleats-metallic-silver-fz8626-002/",
+      "thumbnail": "/drops/thumbs/d74018f8882b.jpg",
+      "published": "2026-09-08T12:26:30",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
       "thumbnail": "/drops/thumbs/5623a8b2a2b3.jpg",
       "published": "2026-09-09T15:31:42",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0ce862bf68c6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 14 “Blue Ferrari” Releases Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
-      "thumbnail": "/drops/thumbs/0ce862bf68c6.jpg",
-      "published": "2026-09-09T15:30:38",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -183,12 +183,12 @@
       "release_badge": ""
     },
     {
-      "id": "5be6290d8e00",
+      "id": "0e73bd11eb0a",
       "pillar": "anime",
-      "title": "The 1990s' Best Ninja Anime Finally Returns With Epic New Release (Exclusive)",
+      "title": "All 10 Digimon Heroes & Their Partners Ranked From Worst To Best",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/ninja-scroll-4k-restored-exclusive-still/",
-      "thumbnail": "/drops/thumbs/5be6290d8e00.png",
+      "source_url": "https://screenrant.com/every-digimon-hero-partner-ranked-worst-best/",
+      "thumbnail": "/drops/thumbs/0e73bd11eb0a.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -294,9 +294,9 @@
   "homepage": [
     "085a60d7e285",
     "796e1bf65859",
-    "5b65a24f8303",
+    "d74018f8882b",
     "abcf140c16dc",
-    "1e12b67073f9",
+    "5b65a24f8303",
     "f594e9240b6b"
   ]
 }
