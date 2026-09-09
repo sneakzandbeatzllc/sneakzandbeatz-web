@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T12:42:44+00:00",
+  "generated_utc": "2026-09-09T13:26:23+00:00",
   "items": [
+    {
+      "id": "085a60d7e285",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Tennis Day” September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-7-tennis-day-iv6508-030/",
+      "thumbnail": "/drops/thumbs/085a60d7e285.jpg",
+      "published": "2026-09-09T08:21:31",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "796e1bf65859",
       "pillar": "sneakers",
@@ -34,18 +46,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-12-idols-becomes-rivals-ct8013-103-drop/",
       "thumbnail": "/drops/thumbs/5b65a24f8303.jpg",
       "published": "2026-09-07T13:13:42",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "085a60d7e285",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Tennis Day” September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-7-tennis-day-iv6508-030/",
-      "thumbnail": "/drops/thumbs/085a60d7e285.jpg",
-      "published": "2026-09-07T09:31:04",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "ef91f3d03190",
+      "id": "eb3c48f93367",
       "pillar": "gaming",
-      "title": "News The Legend of Zelda Is the Only Big Name Willing to Go Up Against GTA 6 in November",
+      "title": "Preview Dragon Quest's Pokémon-Like Monster Game Could Be PS5's Perfect Cosy Escape",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/the-legend-of-zelda-is-the-only-big-name-willing-to-go-up-against-gta-6-in-november",
-      "thumbnail": "/drops/thumbs/ef91f3d03190.jpg",
+      "source_url": "https://www.pushsquare.com/previews/dragon-quests-pokemon-like-monster-game-could-be-ps5s-perfect-cosy-escape",
+      "thumbnail": "/drops/thumbs/eb3c48f93367.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -213,18 +213,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action-rpg/the-biggest-l-from-soft-has-taken-in-a-long-time-emergency-elden-ring-patch-stops-players-from-getting-the-new-usd5-dlc-items-for-free/",
       "thumbnail": "/drops/thumbs/b6d2bd7b0032.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "eb3c48f93367",
-      "pillar": "gaming",
-      "title": "Preview Dragon Quest's Pokémon-Like Monster Game Could Be PS5's Perfect Cosy Escape",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/previews/dragon-quests-pokemon-like-monster-game-could-be-ps5s-perfect-cosy-escape",
-      "thumbnail": "/drops/thumbs/eb3c48f93367.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "4c1ed2f14cb9",
+      "id": "1bf8a6fe26d3",
       "pillar": "gaming",
-      "title": "Thousands Of Pokémon TCG 30th Celebration Orders Suddenly Cancelled As Company Pushes Back Against Scalper Bots",
+      "title": "News No Man's Sky Evolves Yet Again, Overhauling Space in Another Huge Free Update",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/no-mans-sky-evolves-yet-again-overhauling-space-in-another-huge-free-update",
+      "thumbnail": "/drops/thumbs/1bf8a6fe26d3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "712ee8ccbbe4",
+      "pillar": "gaming",
+      "title": "1,900 Blizzard Developers Just Won A Union Contract Full Of Protections For AI, Layoffs, And More",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/pokemon-tcg-30th-celebration-orders-cancelled-bots-scalpers-center-company-2000732116",
-      "thumbnail": "/drops/thumbs/4c1ed2f14cb9.jpg",
+      "source_url": "https://kotaku.com/blizzard-workers-union-contract-microsoft-2000732422",
+      "thumbnail": "/drops/thumbs/712ee8ccbbe4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "085a60d7e285",
     "796e1bf65859",
     "368a76393bb6",
-    "5b65a24f8303",
     "abcf140c16dc",
-    "085a60d7e285",
-    "ef91f3d03190"
+    "5b65a24f8303",
+    "eb3c48f93367"
   ]
 }
