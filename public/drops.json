@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T08:45:37+00:00",
+  "generated_utc": "2026-09-09T09:23:31+00:00",
   "items": [
+    {
+      "id": "796e1bf65859",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 OG “Space Jam” Returns September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-og-space-jam-2026/",
+      "thumbnail": "/drops/thumbs/796e1bf65859.jpg",
+      "published": "2026-09-09T02:12:08",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "368a76393bb6",
       "pillar": "sneakers",
@@ -75,25 +87,13 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "907609f1150d",
+      "id": "5568103d65f6",
       "pillar": "sneakers",
-      "title": "Air Jordan 9 OG “Space Jam” Releases September 19th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-9-og-space-jam-2026-release-date/",
-      "thumbnail": "/drops/thumbs/907609f1150d.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "09bccf824fe3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 11 “Florida Gators” PE Gets a First Look",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-11-florida-gators-pe/",
-      "thumbnail": "/drops/thumbs/09bccf824fe3.webp",
-      "published": "2026-09-08T16:04:51",
+      "title": "Air Jordan 11 “Green Screen” (Monstars) Releases November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-11-monstars-green/",
+      "thumbnail": "/drops/thumbs/5568103d65f6.jpg",
+      "published": "2026-09-09T02:14:36",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -292,11 +292,11 @@
     }
   ],
   "homepage": [
+    "796e1bf65859",
     "368a76393bb6",
     "5b65a24f8303",
-    "085a60d7e285",
     "abcf140c16dc",
-    "1e12b67073f9",
+    "085a60d7e285",
     "ef91f3d03190"
   ]
 }
