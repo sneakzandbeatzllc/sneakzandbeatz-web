@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-09T14:59:21+00:00",
+  "generated_utc": "2026-09-09T15:30:12+00:00",
   "items": [
     {
       "id": "085a60d7e285",
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "eb3c48f93367",
+      "id": "4405b31c5525",
       "pillar": "gaming",
-      "title": "Preview Dragon Quest's Pokémon-Like Monster Game Could Be PS5's Perfect Cosy Escape",
+      "title": "News Long Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Is Remastered on PS5 Today",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/previews/dragon-quests-pokemon-like-monster-game-could-be-ps5s-perfect-cosy-escape",
-      "thumbnail": "/drops/thumbs/eb3c48f93367.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/long-lost-dragon-quest-spin-off-tornekos-mystery-dungeon-is-remastered-on-ps5-today",
+      "thumbnail": "/drops/thumbs/4405b31c5525.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -219,18 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "72a892bd2383",
-      "pillar": "gaming",
-      "title": "Le Sserafim Drops Teaser For Overwatch Collab In Their Next Single",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564000/article/le-sserafim-drops-teaser-for-overwatch-collab-in-their-next-single/",
-      "thumbnail": "/drops/thumbs/72a892bd2383.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0f3c514f46de",
       "pillar": "gaming",
       "title": "Live Nintendo Direct September 2026 live coverage: Every announcement and reveal as they happen",
@@ -243,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "0675a8eb6b14",
+      "id": "4a0bb04a7800",
       "pillar": "gaming",
-      "title": "Metroid Ravenous Launches In January",
+      "title": "Kirby Gets A Big Sword And Smashes Open The Sky In His Next Open-World Adventure",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/metroid-ravenous-release-date-january-2027-nintendo-switch-2-2000732769",
-      "thumbnail": "/drops/thumbs/0675a8eb6b14.jpg",
+      "source_url": "https://kotaku.com/kirby-and-the-world-beyond-open-world-2000732788",
+      "thumbnail": "/drops/thumbs/4a0bb04a7800.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "7a6d31ab2673",
+      "id": "185ff4657a8c",
       "pillar": "gaming",
-      "title": "News Professor Layton Debuts on PS5 This December, New World of Steam Gets Release Date",
+      "title": "News Metal Slug Ultimate Collection Brings All the Classics to PS5, and a Brand New Game Is in the Works",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/professor-layton-debuts-on-ps5-this-december-new-world-of-steam-gets-release-date",
-      "thumbnail": "/drops/thumbs/7a6d31ab2673.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/metal-slug-ultimate-collection-brings-all-the-classics-to-ps5-and-a-brand-new-game-is-in-the-works",
+      "thumbnail": "/drops/thumbs/185ff4657a8c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "44708042937e",
+      "id": "e9dae737ecf3",
       "pillar": "gaming",
-      "title": "Holy Spirits, We’re Getting A New Yo-Kai Watch Game",
+      "title": "Kirby and the World Beyond Releases on Switch 2 on Spring 2027",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564031/article/kirby-and-the-world-beyond-releases-on-switch-2-on-spring-2027/",
+      "thumbnail": "/drops/thumbs/e9dae737ecf3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0675a8eb6b14",
+      "pillar": "gaming",
+      "title": "Samus Gets Very Chatty In The First Metroid Ravenous Trailer",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/holy-spirits-were-getting-a-new-yo-kai-watch-game-2000732751",
-      "thumbnail": "/drops/thumbs/44708042937e.jpg",
+      "source_url": "https://kotaku.com/metroid-ravenous-release-date-january-2027-nintendo-switch-2-2000732769",
+      "thumbnail": "/drops/thumbs/0675a8eb6b14.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "368a76393bb6",
     "abcf140c16dc",
     "5b65a24f8303",
-    "eb3c48f93367"
+    "4405b31c5525"
   ]
 }
