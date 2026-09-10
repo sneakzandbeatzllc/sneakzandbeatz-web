@@ -3,6 +3,11 @@
 // and paste it here. Every Discord link on the site points at /discord → this URL.
 const DISCORD_INVITE = "https://discord.gg/4B6v3DyY"; // <-- REPLACE with the new permanent invite
 
+// 2026-09-10: essays pruned from The Lane. Each old URL 301s to its pillar hub
+// or /the-lane so inbound links and search results never hit a 404.
+import { readFileSync } from "node:fs";
+const prunedRedirects = JSON.parse(readFileSync(new URL("./src/data/pruned-redirects.json", import.meta.url), "utf8"));
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
@@ -21,6 +26,7 @@ const nextConfig = {
   // SEO signal that may have already been earned by those URLs.
   async redirects() {
     return [
+      ...prunedRedirects,
       // Merch merged into the single Shop page (2026-06-21).
       { source: "/merch", destination: "/shop", permanent: true },
       // Single point of truth for the Discord invite (see DISCORD_INVITE above).
