@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-10T15:23:01+00:00",
+  "generated_utc": "2026-09-10T15:54:00+00:00",
   "items": [
     {
       "id": "d74018f8882b",
@@ -63,6 +63,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "a98b19c7172a",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
+      "thumbnail": "/drops/thumbs/a98b19c7172a.jpg",
+      "published": "2026-09-10T10:32:00",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "f2b24a229e61",
       "pillar": "sneakers",
       "title": "Air Jordan 14 “Blue Ferrari” Releases Fall 2027",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
       "thumbnail": "/drops/thumbs/5623a8b2a2b3.jpg",
       "published": "2026-09-09T15:31:42",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ab7aed4d7042",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Fire Red” Returns Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-fire-red-2027/",
-      "thumbnail": "/drops/thumbs/ab7aed4d7042.jpg",
-      "published": "2026-09-09T15:29:08",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -171,24 +171,24 @@
       "release_badge": ""
     },
     {
-      "id": "cee54b74c518",
-      "pillar": "anime",
-      "title": "Pokémon Pokopia Game Introduces Accessories Included in Expansion Pass DLC Part 2",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/pokemon-pokopia-game-introduces-accessories-included-in-expansion-pass-dlc-part-2/.241622",
-      "thumbnail": "/drops/thumbs/cee54b74c518.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0e73bd11eb0a",
       "pillar": "anime",
       "title": "All 10 Digimon Heroes & Their Partners Ranked From Worst To Best",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/every-digimon-hero-partner-ranked-worst-best/",
       "thumbnail": "/drops/thumbs/0e73bd11eb0a.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5be6290d8e00",
+      "pillar": "anime",
+      "title": "The 1990s' Best Ninja Anime Finally Returns With Epic New Release (Exclusive)",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/ninja-scroll-4k-restored-exclusive-still/",
+      "thumbnail": "/drops/thumbs/5be6290d8e00.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
