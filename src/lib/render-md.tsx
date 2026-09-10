@@ -20,7 +20,9 @@ function renderInline(text: string): React.ReactNode[] {
   let buf = text;
   let key = 0;
   const RX =
-    /\*\*([^*]+)\*\*|\*([^*]+)\*|_([^_]+)_|\[([^\]]+)\]\(([^)]+)\)/;
+    // 2026-09-10: link URL allows one level of balanced parens so
+    // Wikipedia-style targets like /wiki/Future_(rapper) don't get cut at ")".
+    /\*\*([^*]+)\*\*|\*([^*]+)\*|_([^_]+)_|\[([^\]]+)\]\(((?:[^()\s]|\([^()]*\))+)\)/;
   while (true) {
     const m = buf.match(RX);
     if (!m) {
