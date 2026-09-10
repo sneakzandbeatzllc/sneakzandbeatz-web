@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-10T07:17:50+00:00",
+  "generated_utc": "2026-09-10T07:48:34+00:00",
   "items": [
     {
       "id": "085a60d7e285",
@@ -63,30 +63,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "a67cab79a652",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 Low “Metamorphosis” (Desert Berry) Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-low-metamorphosis/",
-      "thumbnail": "/drops/thumbs/a67cab79a652.jpg",
-      "published": "2026-09-03T01:49:58",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "ea6f69db25be",
-      "pillar": "sneakers",
-      "title": "JAIDE x Air Jordan 11 Low “Fiberglass” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/jaide-air-jordan-11-low-fiberglass/",
-      "thumbnail": "/drops/thumbs/ea6f69db25be.jpg",
-      "published": "2026-09-03T01:35:43",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "5623a8b2a2b3",
       "pillar": "sneakers",
       "title": "Air Jordan 10 “Knicks” Returns Fall 2027",
@@ -94,6 +70,30 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
       "thumbnail": "/drops/thumbs/5623a8b2a2b3.jpg",
       "published": "2026-09-09T15:31:42",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0ce862bf68c6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 14 “Blue Ferrari” Releases Fall 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
+      "thumbnail": "/drops/thumbs/0ce862bf68c6.jpg",
+      "published": "2026-09-09T15:30:38",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ab7aed4d7042",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Fire Red” Returns Fall 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-fire-red-2027/",
+      "thumbnail": "/drops/thumbs/ab7aed4d7042.jpg",
+      "published": "2026-09-09T15:29:08",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "dc26f7ee6887",
+      "id": "95e290383ac4",
       "pillar": "anime",
-      "title": "Masami Kurumada to Publish Saint Seiya Tenkai-hen Manga's 4th Part on December 18",
+      "title": "Mari Okazaki's Will I Be Single Forever? Manga Gets 2nd Live-Action Film",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-09/masami-kurumada-to-publish-saint-seiya-tenkai-hen-manga-4th-part-on-december-18/.241599",
-      "thumbnail": "/drops/thumbs/dc26f7ee6887.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/mari-okazaki-will-i-be-single-forever-manga-gets-2nd-live-action-film/.241609",
+      "thumbnail": "/drops/thumbs/95e290383ac4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "f4d821a98537",
+      "id": "dc26f7ee6887",
       "pillar": "anime",
-      "title": "Shueisha Games Reveals Hoshin Engi Roguelite Game",
+      "title": "Masami Kurumada to Publish Saint Seiya Tenkai-hen Manga's 4th Part on December 18",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-09/shueisha-games-reveals-hoshin-engi-roguelite-game/.241588",
-      "thumbnail": "/drops/thumbs/f4d821a98537.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-09/masami-kurumada-to-publish-saint-seiya-tenkai-hen-manga-4th-part-on-december-18/.241599",
+      "thumbnail": "/drops/thumbs/dc26f7ee6887.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
