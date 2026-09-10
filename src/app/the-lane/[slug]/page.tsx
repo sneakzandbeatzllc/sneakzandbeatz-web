@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { getEssay, getAllEssaySlugs, getLiveEssays } from "@/data/lane-essays";
@@ -66,7 +66,12 @@ export default async function LaneEssayPage({
 }) {
   const { slug } = await params;
   const essay = getEssay(slug);
-  if (!essay) notFound();
+  // 2026-09-10: ~400 stale essays were pruned. Any inbound link to a removed
+  // slug 301s to the pillar hub (or /the-lane) instead of 404ing.
+  if (!essay) {
+    const m = slug.match(/air-jordan|jordan|nike|adidas|sneaker/);
+    permanentRedirect(m ? "/sneakers" : "/the-lane");
+  }
 
   // Other essays for the cross-link rail at the bottom (live only).
   const others = getLiveEssays().filter((e) => e.slug !== essay.slug);

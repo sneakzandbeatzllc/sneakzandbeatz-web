@@ -51,9 +51,11 @@ export const SOCIAL = {
   },
   discord: {
     handle: "Sneakz & Beatz Community",
-    // Permanent invite URL — set "Never expire" on 2026-04-28.
-    // To rotate: Discord → Server Settings → Invites → revoke + create new with Never expire.
-    url: "https://discord.gg/4B6v3DyY",
+    // 2026-09-10: the old invite (discord.gg/4B6v3DyY) went INVALID. All links now
+    // go through /discord, which 301s to the live invite set in next.config.mjs
+    // (DISCORD_INVITE). To rotate: create a new invite (Never expire, no max uses)
+    // and change ONE line in next.config.mjs — nothing else on the site changes.
+    url: "https://www.sneakzandbeatz.com/discord",
     label: "Discord",
     enabled: true,
   },
