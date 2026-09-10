@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-10T08:19:39+00:00",
+  "generated_utc": "2026-09-10T09:53:16+00:00",
   "items": [
     {
       "id": "085a60d7e285",
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "95e290383ac4",
+      "id": "5a4c0cfced5e",
       "pillar": "anime",
-      "title": "Mari Okazaki's Will I Be Single Forever? Manga Gets 2nd Live-Action Film",
+      "title": "Saga of Tanya the Evil II Anime Gets English Dub",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/mari-okazaki-will-i-be-single-forever-manga-gets-2nd-live-action-film/.241609",
-      "thumbnail": "/drops/thumbs/95e290383ac4.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/saga-of-tanya-the-evil-ii-anime-gets-english-dub/.241592",
+      "thumbnail": "/drops/thumbs/5a4c0cfced5e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "dc26f7ee6887",
+      "id": "b36ee75fd885",
       "pillar": "anime",
-      "title": "Masami Kurumada to Publish Saint Seiya Tenkai-hen Manga's 4th Part on December 18",
+      "title": "Millennium Family TV Anime Casts Ryōta Suzuki",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-09/masami-kurumada-to-publish-saint-seiya-tenkai-hen-manga-4th-part-on-december-18/.241599",
-      "thumbnail": "/drops/thumbs/dc26f7ee6887.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/millennium-family-tv-anime-casts-ryota-suzuki/.241608",
+      "thumbnail": "/drops/thumbs/b36ee75fd885.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,6 +171,18 @@
       "release_badge": ""
     },
     {
+      "id": "95e290383ac4",
+      "pillar": "anime",
+      "title": "Mari Okazaki's Will I Be Single Forever? Manga Gets 2nd Live-Action Film",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/mari-okazaki-will-i-be-single-forever-manga-gets-2nd-live-action-film/.241609",
+      "thumbnail": "/drops/thumbs/95e290383ac4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0e73bd11eb0a",
       "pillar": "anime",
       "title": "All 10 Digimon Heroes & Their Partners Ranked From Worst To Best",
@@ -183,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "5be6290d8e00",
-      "pillar": "anime",
-      "title": "The 1990s' Best Ninja Anime Finally Returns With Epic New Release (Exclusive)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/ninja-scroll-4k-restored-exclusive-still/",
-      "thumbnail": "/drops/thumbs/5be6290d8e00.png",
+      "id": "52fd6607e4b2",
+      "pillar": "gaming",
+      "title": "Guide Where to Pre-Order GTA 6 Controllers for PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
+      "thumbnail": "/drops/thumbs/52fd6607e4b2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -201,6 +213,30 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
       "thumbnail": "/drops/thumbs/f594e9240b6b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "91529d354004",
+      "pillar": "gaming",
+      "title": "GTA 6 DualSense pre-orders are live, all the latest stock of your new Vice City controller",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/news/live/gta-6-dualsense-pre-orders-where-to-buy-live/",
+      "thumbnail": "/drops/thumbs/91529d354004.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3f45e6821961",
+      "pillar": "gaming",
+      "title": "XBOX Has Picked Up The Publishing Rights To Kojima Productions’ PHYSINT",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564041/article/xbox-has-picked-up-the-publishing-rights-to-kojima-productions-physint/",
+      "thumbnail": "/drops/thumbs/3f45e6821961.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,60 +267,24 @@
       "release_badge": ""
     },
     {
+      "id": "7c697e393c7b",
+      "pillar": "gaming",
+      "title": "Physint goes from PlayStation to Xbox as Sony \"unexpectedly\" drops Hideo Kojima's Metal Gear Solid spiritual successor",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/action/physint-goes-from-playstation-to-xbox-as-sony-unexpectedly-drops-hideo-kojimas-metal-gear-solid-spiritual-successor/",
+      "thumbnail": "/drops/thumbs/7c697e393c7b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7c783e908047",
       "pillar": "gaming",
       "title": "12 TB Steam Leak Exposes Hundreds Of Game Achievements, Including Kingdom Hearts 4, Gears of War: E-Day, Horizon Hunters Gathering, And More",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564022/article/12-tb-steam-leak-exposes-hundreds-of-game-achievements-including-kingdom-hearts-4-gears-of-war-e-day-horizon-hunters-gathering-and-more/",
       "thumbnail": "/drops/thumbs/7c783e908047.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2099abf90be6",
-      "pillar": "gaming",
-      "title": "Everything We Saw At The September Nintendo Direct",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/nintendo-direct-september-kirby-metroid-mario-danganronpa-2000732730",
-      "thumbnail": "/drops/thumbs/2099abf90be6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ac254722e532",
-      "pillar": "gaming",
-      "title": "News Sony Cancels Physint Development, Xbox Picks Up Project",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/sony-cancels-physint-development-xbox-picks-up-project",
-      "thumbnail": "/drops/thumbs/ac254722e532.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0f3c514f46de",
-      "pillar": "gaming",
-      "title": "Recap Everything announced at the Nintendo Direct September 2026",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/news/live/nintendo-direct-september-2026-everything-announced/",
-      "thumbnail": "/drops/thumbs/0f3c514f46de.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6147f04ea9e1",
-      "pillar": "gaming",
-      "title": "Getting Lost In Blood Of Dawnwalker Is Part Of The Fun, But Getting Un-Lost Is A Serious Pain",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/blood-of-the-dawnwalker-minimap-shortcut-2000732727",
-      "thumbnail": "/drops/thumbs/6147f04ea9e1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -297,6 +297,6 @@
     "d74018f8882b",
     "abcf140c16dc",
     "5b65a24f8303",
-    "f594e9240b6b"
+    "52fd6607e4b2"
   ]
 }
