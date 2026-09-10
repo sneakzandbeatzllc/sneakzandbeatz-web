@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-10T14:59:28+00:00",
+  "generated_utc": "2026-09-10T15:23:01+00:00",
   "items": [
     {
       "id": "d74018f8882b",
@@ -63,6 +63,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "f2b24a229e61",
+      "pillar": "sneakers",
+      "title": "Air Jordan 14 “Blue Ferrari” Releases Fall 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-14-blue-ferrari/",
+      "thumbnail": "/drops/thumbs/f2b24a229e61.jpg",
+      "published": "2026-09-10T11:09:18",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "5623a8b2a2b3",
       "pillar": "sneakers",
       "title": "Air Jordan 10 “Knicks” Returns Fall 2027",
@@ -70,18 +82,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
       "thumbnail": "/drops/thumbs/5623a8b2a2b3.jpg",
       "published": "2026-09-09T15:31:42",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0ce862bf68c6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 14 “Blue Ferrari” Releases Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
-      "thumbnail": "/drops/thumbs/0ce862bf68c6.jpg",
-      "published": "2026-09-09T15:30:38",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -123,12 +123,12 @@
       "release_badge": ""
     },
     {
-      "id": "074465483086",
+      "id": "56dfca662c2d",
       "pillar": "anime",
-      "title": "Chiikawa Anime Film Rises Back to #1, Sekiro: No Defeat Opens at #9 in Japan",
+      "title": "Straight Edge Launches Horizontal Manga Label",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/chiikawa-anime-film-rises-back-to-no.1-sekiro-no-defeat-opens-at-no.9-in-japan/.241518",
-      "thumbnail": "/drops/thumbs/074465483086.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/straight-edge-launches-horizontal-manga-label/.241560",
+      "thumbnail": "/drops/thumbs/56dfca662c2d.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -147,12 +147,12 @@
       "release_badge": ""
     },
     {
-      "id": "cee54b74c518",
+      "id": "074465483086",
       "pillar": "anime",
-      "title": "Pokémon Pokopia Game Introduces Accessories Included in Expansion Pass DLC Part 2",
+      "title": "Chiikawa Anime Film Rises Back to #1, Sekiro: No Defeat Opens at #9 in Japan",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/pokemon-pokopia-game-introduces-accessories-included-in-expansion-pass-dlc-part-2/.241622",
-      "thumbnail": "/drops/thumbs/cee54b74c518.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/chiikawa-anime-film-rises-back-to-no.1-sekiro-no-defeat-opens-at-no.9-in-japan/.241518",
+      "thumbnail": "/drops/thumbs/074465483086.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -171,6 +171,18 @@
       "release_badge": ""
     },
     {
+      "id": "cee54b74c518",
+      "pillar": "anime",
+      "title": "Pokémon Pokopia Game Introduces Accessories Included in Expansion Pass DLC Part 2",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/pokemon-pokopia-game-introduces-accessories-included-in-expansion-pass-dlc-part-2/.241622",
+      "thumbnail": "/drops/thumbs/cee54b74c518.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0e73bd11eb0a",
       "pillar": "anime",
       "title": "All 10 Digimon Heroes & Their Partners Ranked From Worst To Best",
@@ -183,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "5be6290d8e00",
-      "pillar": "anime",
-      "title": "The 1990s' Best Ninja Anime Finally Returns With Epic New Release (Exclusive)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/ninja-scroll-4k-restored-exclusive-still/",
-      "thumbnail": "/drops/thumbs/5be6290d8e00.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "52fd6607e4b2",
       "pillar": "gaming",
       "title": "Guide Where to Pre-Order GTA 6 Controllers for PS5",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
       "thumbnail": "/drops/thumbs/52fd6607e4b2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f594e9240b6b",
-      "pillar": "gaming",
-      "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
-      "thumbnail": "/drops/thumbs/f594e9240b6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,6 +249,18 @@
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-wont-have-remake-and-rebirths-cheats-at-launch",
       "thumbnail": "/drops/thumbs/a54c565b8a6a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7c697e393c7b",
+      "pillar": "gaming",
+      "title": "Physint goes from PlayStation to Xbox as Sony \"unexpectedly\" drops Hideo Kojima's Metal Gear Solid spiritual successor",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/action/physint-goes-from-playstation-to-xbox-as-sony-unexpectedly-drops-hideo-kojimas-metal-gear-solid-spiritual-successor/",
+      "thumbnail": "/drops/thumbs/7c697e393c7b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-10T14:59:28+00:00",
+  "generated_utc": "2026-09-10T15:23:01+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,15 +39,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 10 “Knicks” Returns Fall 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
+      "title": "Air Jordan 14 “Blue Ferrari” Releases Fall 2027",
+      "url": "https://justfreshkicks.com/air-jordan-14-blue-ferrari/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 14 “Blue Ferrari” Releases Fall 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
+      "title": "Air Jordan 10 “Knicks” Returns Fall 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -74,8 +74,8 @@
       "article_slug": null
     },
     {
-      "title": "Chiikawa Anime Film Rises Back to #1, Sekiro: No Defeat Opens at #9 in Japan",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-10/chiikawa-anime-film-rises-back-to-no.1-sekiro-no-defeat-opens-at-no.9-in-japan/.241518",
+      "title": "Straight Edge Launches Horizontal Manga Label",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-10/straight-edge-launches-horizontal-manga-label/.241560",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -88,8 +88,8 @@
       "article_slug": null
     },
     {
-      "title": "Pokémon Pokopia Game Introduces Accessories Included in Expansion Pass DLC Part 2",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-10/pokemon-pokopia-game-introduces-accessories-included-in-expansion-pass-dlc-part-2/.241622",
+      "title": "Chiikawa Anime Film Rises Back to #1, Sekiro: No Defeat Opens at #9 in Japan",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-10/chiikawa-anime-film-rises-back-to-no.1-sekiro-no-defeat-opens-at-no.9-in-japan/.241518",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -102,6 +102,13 @@
       "article_slug": null
     },
     {
+      "title": "Pokémon Pokopia Game Introduces Accessories Included in Expansion Pass DLC Part 2",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-10/pokemon-pokopia-game-introduces-accessories-included-in-expansion-pass-dlc-part-2/.241622",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "All 10 Digimon Heroes & Their Partners Ranked From Worst To Best",
       "url": "https://screenrant.com/every-digimon-hero-partner-ranked-worst-best/",
       "pillar": "anime",
@@ -109,22 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "The 1990s' Best Ninja Anime Finally Returns With Epic New Release (Exclusive)",
-      "url": "https://screenrant.com/ninja-scroll-4k-restored-exclusive-still/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Guide Where to Pre-Order GTA 6 Controllers for PS5",
       "url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -153,6 +146,13 @@
     {
       "title": "News Final Fantasy 7 Revelation Won't Have Remake and Rebirth's 'Cheats' at Launch",
       "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-wont-have-remake-and-rebirths-cheats-at-launch",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Physint goes from PlayStation to Xbox as Sony \"unexpectedly\" drops Hideo Kojima's Metal Gear Solid spiritual successor",
+      "url": "https://www.gamesradar.com/games/action/physint-goes-from-playstation-to-xbox-as-sony-unexpectedly-drops-hideo-kojimas-metal-gear-solid-spiritual-successor/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
