@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-10T05:51:49+00:00",
+  "generated_utc": "2026-09-10T06:52:29+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Preview Dragon Quest's Pokémon-Like Monster Game Could Be PS5's Perfect Cosy Escape",
-      "url": "https://www.pushsquare.com/previews/dragon-quests-pokemon-like-monster-game-could-be-ps5s-perfect-cosy-escape",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "12 TB Steam Leak Exposes Hundreds Of Game Achievements, Including Kingdom Hearts 4, Gears of War: E-Day, Horizon Hunters Gathering, And More",
       "url": "https://gameranx.com/updates/id/564022/article/12-tb-steam-leak-exposes-hundreds-of-game-achievements-including-kingdom-hearts-4-gears-of-war-e-day-horizon-hunters-gathering-and-more/",
       "pillar": "gaming",
@@ -153,6 +146,13 @@
     {
       "title": "Everything We Saw At The September Nintendo Direct",
       "url": "https://kotaku.com/nintendo-direct-september-kirby-metroid-mario-danganronpa-2000732730",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Sony Cancels Physint Development, Xbox Picks Up Project",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-cancels-physint-development-xbox-picks-up-project",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
