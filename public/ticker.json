@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-10T18:01:40+00:00",
+  "generated_utc": "2026-09-10T19:27:26+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -67,6 +67,13 @@
       "article_slug": null
     },
     {
+      "title": "Crunchyroll Releases Statement On Iconic Dragon Ball And One Piece Star's Passing",
+      "url": "https://screenrant.com/mike-mcfarland-crunchyroll-statement-dragon-ball-one-piece/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The Greatest One Piece Episode In Years Isn't Just Incredible, It's A Blueprint For the Franchise's Future",
       "url": "https://screenrant.com/one-piece-fan-letter-blueprint-god-valley/",
       "pillar": "anime",
@@ -74,7 +81,7 @@
       "article_slug": null
     },
     {
-      "title": "Voice Actor Mike McFarland Dies at 56",
+      "title": "Voice Actor Mike McFarland Dies at 56 (Updated)",
       "url": "https://www.animenewsnetwork.com/news/2026-09-10/voice-actor-mike-mcfarland-dies-at-56/.241616",
       "pillar": "anime",
       "score": 1.0,
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "All 10 Digimon Heroes & Their Partners Ranked From Worst To Best",
-      "url": "https://screenrant.com/every-digimon-hero-partner-ranked-worst-best/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Guide Where to Pre-Order GTA 6 Controllers for PS5",
       "url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
       "pillar": "gaming",
@@ -130,15 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "Here’s What Hideo Kojima And PlayStation Said About Sony Dropping PHYSINT",
-      "url": "https://gameranx.com/updates/id/564043/article/heres-what-hideo-kojima-and-playstation-said-about-sony-dropping-physint/",
+      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers",
+      "url": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "The Internet Reacts To PlayStation Breaking Up With Hideo Kojima",
-      "url": "https://kotaku.com/the-internet-reacts-to-playstation-breaking-up-with-hideo-kojima-2000733001",
+      "title": "Here’s What Hideo Kojima And PlayStation Said About Sony Dropping PHYSINT",
+      "url": "https://gameranx.com/updates/id/564043/article/heres-what-hideo-kojima-and-playstation-said-about-sony-dropping-physint/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "How Final Fantasy 7 Revelation Is Going All Out For The Big Finale: Having Less Content Was ‘Never Part Of The Conversation’",
-      "url": "https://kotaku.com/how-final-fantasy-7-revelation-is-going-all-out-for-the-big-finale-having-less-content-was-never-part-of-the-conversation-2000733035",
+      "title": "The Internet Reacts To PlayStation Breaking Up With Hideo Kojima",
+      "url": "https://kotaku.com/the-internet-reacts-to-playstation-breaking-up-with-hideo-kojima-2000733001",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

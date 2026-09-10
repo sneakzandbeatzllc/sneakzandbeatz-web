@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-10T18:01:40+00:00",
+  "generated_utc": "2026-09-10T19:27:26+00:00",
   "items": [
     {
       "id": "d74018f8882b",
@@ -111,6 +111,18 @@
       "release_badge": ""
     },
     {
+      "id": "2626b3b70642",
+      "pillar": "anime",
+      "title": "Crunchyroll Releases Statement On Iconic Dragon Ball And One Piece Star's Passing",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/mike-mcfarland-crunchyroll-statement-dragon-ball-one-piece/",
+      "thumbnail": "/drops/thumbs/2626b3b70642.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ed89ccac61a3",
       "pillar": "anime",
       "title": "The Greatest One Piece Episode In Years Isn't Just Incredible, It's A Blueprint For the Franchise's Future",
@@ -125,7 +137,7 @@
     {
       "id": "52d787611053",
       "pillar": "anime",
-      "title": "Voice Actor Mike McFarland Dies at 56",
+      "title": "Voice Actor Mike McFarland Dies at 56 (Updated)",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-09-10/voice-actor-mike-mcfarland-dies-at-56/.241616",
       "thumbnail": "/drops/thumbs/52d787611053.jpg",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "0e73bd11eb0a",
-      "pillar": "anime",
-      "title": "All 10 Digimon Heroes & Their Partners Ranked From Worst To Best",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/every-digimon-hero-partner-ranked-worst-best/",
-      "thumbnail": "/drops/thumbs/0e73bd11eb0a.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "52fd6607e4b2",
       "pillar": "gaming",
       "title": "Guide Where to Pre-Order GTA 6 Controllers for PS5",
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "ea366a9570a7",
+      "id": "4982ff07a055",
       "pillar": "gaming",
-      "title": "Here’s What Hideo Kojima And PlayStation Said About Sony Dropping PHYSINT",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564043/article/heres-what-hideo-kojima-and-playstation-said-about-sony-dropping-physint/",
-      "thumbnail": "/drops/thumbs/ea366a9570a7.jpg",
+      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219",
+      "thumbnail": "/drops/thumbs/4982ff07a055.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "bf7ee47f9b0f",
+      "id": "ea366a9570a7",
       "pillar": "gaming",
-      "title": "The Internet Reacts To PlayStation Breaking Up With Hideo Kojima",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-internet-reacts-to-playstation-breaking-up-with-hideo-kojima-2000733001",
-      "thumbnail": "/drops/thumbs/bf7ee47f9b0f.jpg",
+      "title": "Here’s What Hideo Kojima And PlayStation Said About Sony Dropping PHYSINT",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564043/article/heres-what-hideo-kojima-and-playstation-said-about-sony-dropping-physint/",
+      "thumbnail": "/drops/thumbs/ea366a9570a7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "9a3606421c0d",
+      "id": "bf7ee47f9b0f",
       "pillar": "gaming",
-      "title": "How Final Fantasy 7 Revelation Is Going All Out For The Big Finale: Having Less Content Was ‘Never Part Of The Conversation’",
+      "title": "The Internet Reacts To PlayStation Breaking Up With Hideo Kojima",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/how-final-fantasy-7-revelation-is-going-all-out-for-the-big-finale-having-less-content-was-never-part-of-the-conversation-2000733035",
-      "thumbnail": "/drops/thumbs/9a3606421c0d.jpg",
+      "source_url": "https://kotaku.com/the-internet-reacts-to-playstation-breaking-up-with-hideo-kojima-2000733001",
+      "thumbnail": "/drops/thumbs/bf7ee47f9b0f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
