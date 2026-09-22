@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-22T15:59:24+00:00",
+  "generated_utc": "2026-09-22T19:01:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "New York Or Nowhere And The New York Yankees Introduce New Hometown Collection",
+      "url": "https://thesource.com/2026/09/22/new-york-or-nowhere-and-the-new-york-yankees-introduce-new-hometown-collection/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "[WATCH] Rich Homie Quan’s Partner Reveals She Had Only $8,000 Following His Passing",
       "url": "https://thesource.com/2026/09/22/watch-rich-homie-quans-partner-reveals-she-had-only-8000-following-his-passing/",
       "pillar": "hiphop",
@@ -109,29 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "ICE Shooting of Austin Delivery Driver in His Back Sparks Protests and Calls for Shutting Down ICE",
-      "url": "https://thesource.com/2026/09/21/ice-shooting-of-austin-delivery-driver-in-his-back-sparks-protests-and-calls-for-shutting-down-ice/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "All 11 Super Saiyans In Official Dragon Ball Canon",
       "url": "https://screenrant.com/all-11-super-saiyans-in-official-dragon-ball-canon/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Demon Slayer: Infinity Castle gets new official streaming home next week",
-      "url": "https://www.polygon.com/demon-slayer-infinity-castle-hulu-streaming-release-date-where-to-watch/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Next Jujutsu Kaisen release officially hit with massive delay",
-      "url": "https://www.polygon.com/jujutsu-kaisen-rumble-survivaton-game-delay-2027/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,6 +151,20 @@
       "article_slug": null
     },
     {
+      "title": "Super Psychic Policeman Chojo Anime's 2nd Promo Video Reveals Theme Songs",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-22/super-psychic-policeman-chojo-anime-2nd-promo-video-reveals-theme-songs/.242088",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The biggest anime movie of 2027 may have just gotten an unofficial release date",
+      "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Nia Liston: The Merciless Maiden Anime Announces Ending Song Artists",
       "url": "https://www.animenewsnetwork.com/news/2026-09-22/nia-liston-the-merciless-maiden-anime-announces-ending-song-artists/.242082",
       "pillar": "anime",
@@ -172,15 +172,15 @@
       "article_slug": null
     },
     {
-      "title": "News Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
+      "title": "GTA 6 won't beat the GOTY record set by Baldur's Gate 3 and Clair Obscur: Expedition 33",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-not-be-eligible-to-complete-baldurs-gate-3-and-clair-obscur-expedition-33s-big-5-goty-sweep-in-the-2026-7-season/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Hands-on I'm taking off my shirt to go nunchuck mode in Team Ninja's unique blend of Sekiro and Dynasty Warriors",
-      "url": "https://www.gamesradar.com/games/action-rpg/im-taking-off-my-shirt-to-go-nunchuck-mode-and-feed-swords-to-a-panda-in-wo-long-2-team-ninjas-unique-blend-of-sekiro-and-dynasty-warriors/",
+      "title": "News Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "Persona 4 Revival Won’t Make Significant Changes To The Original’s Most Problematic Storylines",
+      "url": "https://kotaku.com/persona-4-revival-wont-make-significant-changes-to-the-originals-most-problematic-storylines-2000736238",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want",
       "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want",
       "pillar": "gaming",
@@ -200,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy 7 Remake series boss doesn't think \"a game will ever compare in terms of scale across 3 titles ever again\"",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-remake-series-boss-doesnt-think-a-game-will-ever-compare-in-terms-of-scale-across-3-titles-ever-again/",
+      "title": "Hands-on I'm taking off my shirt to go nunchuck mode in Team Ninja's unique blend of Sekiro and Dynasty Warriors",
+      "url": "https://www.gamesradar.com/games/action-rpg/im-taking-off-my-shirt-to-go-nunchuck-mode-and-feed-swords-to-a-panda-in-wo-long-2-team-ninjas-unique-blend-of-sekiro-and-dynasty-warriors/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Could Hideo Kojima Have Gone Bankrupt When PHYSINT Got Cancelled? The Serious Situation Behind Kojima Productions Revealed",
-      "url": "https://gameranx.com/updates/id/564141/article/could-hideo-kojima-have-gone-bankrupt-when-physint-got-cancelled-the-serious-situation-behind-kojima-productions-revealed/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Street Fighter Movie’s Callina Liang Shares BTS Photos As Chun Li",
-      "url": "https://gameranx.com/updates/id/564156/article/street-fighter-movies-callina-liang-shares-bts-photos-as-chun-li/",
+      "title": "Final Fantasy 7 Remake series boss doesn't think \"a game will ever compare in terms of scale across 3 titles ever again\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-remake-series-boss-doesnt-think-a-game-will-ever-compare-in-terms-of-scale-across-3-titles-ever-again/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
