@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-22T12:57:27+00:00",
+  "generated_utc": "2026-09-22T15:59:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,13 +13,6 @@
     {
       "title": "MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/mowalola-air-jordan-14-sp-burnt-red-iq5708-001/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 6 Low WMNS “Metamorphosis” September 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-6-low-wmns-metamorphosis-ix5195-001/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 6 Low Kids “Black/Pink Foam” Releases October 2nd",
       "url": "https://justfreshkicks.com/air-jordan-6-low-black-pink-foam-768878-001/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -172,15 +172,15 @@
       "article_slug": null
     },
     {
-      "title": "Ahead of GTA 6, Rockstar releases modding guidelines that axe new missions, maps, ports, and more 17 Comments",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-releases-modding-guidelines-that-axe-new-missions-maps-ports-and-more-respect-our-games/",
+      "title": "News Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now",
-      "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
+      "title": "Hands-on I'm taking off my shirt to go nunchuck mode in Team Ninja's unique blend of Sekiro and Dynasty Warriors",
+      "url": "https://www.gamesradar.com/games/action-rpg/im-taking-off-my-shirt-to-go-nunchuck-mode-and-feed-swords-to-a-panda-in-wo-long-2-team-ninjas-unique-blend-of-sekiro-and-dynasty-warriors/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "Bloodborne movie producer Jacksepticeye admits \"80% of the responses were critical\" of his involvement 12 Comments",
-      "url": "https://www.gamesradar.com/entertainment/animation-movies/bloodborne-movie-producer-jacksepticeye-admits-80-percent-of-the-responses-were-critical-of-his-involvement-as-he-reassures-fans-hes-trying-to-honor-the-universe/",
+      "title": "News Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want",
+      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Final Fantasy 7 Remake series boss doesn't think \"a game will ever compare in terms of scale across 3 titles ever again\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-remake-series-boss-doesnt-think-a-game-will-ever-compare-in-terms-of-scale-across-3-titles-ever-again/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -202,13 +209,6 @@
     {
       "title": "Final Fantasy VII Revelation Will Offer Character Level Skip, In The Most Absurd Way",
       "url": "https://gameranx.com/updates/id/564143/article/final-fantasy-vii-revelation-will-offer-character-level-skip-in-the-most-absurd-way/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hideo Kojima didn't think Physint would be canceled as it's \"the biggest selling\" game he could make",
-      "url": "https://www.gamesradar.com/games/action/hideo-kojima-didnt-think-physint-would-be-at-risk-of-cancelation-because-this-is-the-biggest-selling-title-i-could-possibly-create/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
