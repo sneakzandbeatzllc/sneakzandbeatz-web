@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-23T04:06:05+00:00",
+  "generated_utc": "2026-09-23T07:21:02+00:00",
   "items": [
+    {
+      "id": "2c6584a01a31",
+      "pillar": "sneakers",
+      "title": "J Balvin x Air Jordan 4 “Lemonade” Releases September 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/j-balvin-air-jordan-4-lemonade/",
+      "thumbnail": "/drops/thumbs/2c6584a01a31.jpg",
+      "published": "2026-09-23T00:15:47",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "7dfdfb631502",
       "pillar": "sneakers",
@@ -22,18 +34,6 @@
       "source_url": "https://www.nicekicks.com/mowalola-air-jordan-14-sp-burnt-red-iq5708-001/",
       "thumbnail": "/drops/thumbs/e636a95f0530.jpg",
       "published": "2026-09-18T18:06:21",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "c6220fdb4e34",
-      "pillar": "sneakers",
-      "title": "Air Jordan 5 “Sunset” Returns September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-5-sunset-2026/",
-      "thumbnail": "/drops/thumbs/c6220fdb4e34.jpg",
-      "published": "2026-09-15T01:53:31",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -63,6 +63,30 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "044ce0cda260",
+      "pillar": "sneakers",
+      "title": "Air Jordan 16 “Black Pack” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-16-black-pack/",
+      "thumbnail": "/drops/thumbs/044ce0cda260.jpg",
+      "published": "2026-09-22T23:52:38",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "cdf792a12d8b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Fireside” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-fireside-velvet-brown/",
+      "thumbnail": "/drops/thumbs/cdf792a12d8b.jpg",
+      "published": "2026-09-22T22:44:27",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "908544f58b41",
       "pillar": "sneakers",
       "title": "Air Jordan 6 Low Kids “Black/Pink Foam” Releases October 2nd",
@@ -70,30 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-6-low-black-pink-foam-768878-001/",
       "thumbnail": "/drops/thumbs/908544f58b41.webp",
       "published": "2026-09-21T14:01:52",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "05aa2656ba65",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-      "thumbnail": "/drops/thumbs/05aa2656ba65.jpg",
-      "published": "2026-09-19T11:01:02",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "aa16dba17627",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Howard” Releases October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-howard-2026/",
-      "thumbnail": "/drops/thumbs/aa16dba17627.jpg",
-      "published": "2026-09-19T00:11:43",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "1879b71b5edf",
+      "id": "5ecd41571bcc",
       "pillar": "gaming",
-      "title": "News Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'",
+      "title": "News Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
-      "thumbnail": "/drops/thumbs/1879b71b5edf.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
+      "thumbnail": "/drops/thumbs/5ecd41571bcc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,18 +321,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564154/article/rumor-resident-evil-veronicas-2027-release-has-slipped-to-fall-that-year/",
       "thumbnail": "/drops/thumbs/34ad9652fa53.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9fab7d25a4dc",
-      "pillar": "gaming",
-      "title": "News Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want",
-      "thumbnail": "/drops/thumbs/9fab7d25a4dc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "2910c4fa7bcb",
+      "pillar": "gaming",
+      "title": "News Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
+      "thumbnail": "/drops/thumbs/2910c4fa7bcb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "7dfdfb631502",
+    "2c6584a01a31",
     "12a4eeb5aff8",
-    "e636a95f0530",
+    "7dfdfb631502",
     "674ed5f6377e",
-    "c6220fdb4e34",
+    "e636a95f0530",
     "93c4c128f191"
   ]
 }

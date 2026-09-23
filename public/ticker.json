@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-23T04:06:05+00:00",
+  "generated_utc": "2026-09-23T07:21:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "J Balvin x Air Jordan 4 “Lemonade” Releases September 2026",
+      "url": "https://www.sneakerfiles.com/j-balvin-air-jordan-4-lemonade/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
     {
       "title": "MOWALOLA x Air Jordan 14 Mule SP “Metallic Silver” September 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/mowalola-air-jordan-14-mule-sp-metallic-silver-ir0908-001/",
@@ -13,13 +20,6 @@
     {
       "title": "MOWALOLA x Air Jordan 14 SP “Burnt Red” September 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/mowalola-air-jordan-14-sp-burnt-red-iq5708-001/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 5 “Sunset” Returns September 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-5-sunset-2026/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -39,22 +39,22 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 16 “Black Pack” Releases October 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-16-black-pack/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Fireside” Releases October 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-fireside-velvet-brown/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 6 Low Kids “Black/Pink Foam” Releases October 2nd",
       "url": "https://justfreshkicks.com/air-jordan-6-low-black-pink-foam-768878-001/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low OG “Howard” Releases October 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-howard-2026/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -179,8 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "News Final Fantasy 7 Revelation Dev 'Considering' Customisation Options for Game's Huge Amount of 'On-Screen Guidance'",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance",
+      "title": "News Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now",
+      "url": "https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,13 +188,6 @@
     {
       "title": "Rumor: Resident Evil Veronica’s 2027 Release Has “Slipped” To Fall That Year",
       "url": "https://gameranx.com/updates/id/564154/article/rumor-resident-evil-veronicas-2027-release-has-slipped-to-fall-that-year/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Dragon's Dogma 2 Dev Says There's a 'Significant Gap' in What Western and Eastern Players Want",
-      "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "Activision Taking Over Halo Franchise And What Remains Of Halo Studios Will Now Be A Support Team",
       "url": "https://kotaku.com/activision-taking-over-halo-franchise-and-what-remains-of-halo-studios-will-now-be-a-support-team-2000736427",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
