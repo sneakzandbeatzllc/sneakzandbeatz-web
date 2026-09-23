@@ -11879,6 +11879,40 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "heroImage": "https://townsquare.media/site/812/files/2026/09/attachment-ovrkast-outkast-header.jpg?w=1200&format=natural",
     "publishedAt": "2026-09-22",
     "goLiveAt": "2026-09-22"
+  },
+  {
+    "slug": "asap-rocky-stockholm-avicii-arena-return-helicopter-entrance-rihanna-dont-be-dumb-tour-september-21-2026",
+    "pillar": "hiphop",
+    "title": "A$AP Rocky Returns to Stockholm by Helicopter, With Rihanna in the Building",
+    "headline": "A$AP Rocky Flew Back Into Stockholm.\nSame Building, New Story.",
+    "subhead": "Seven years after a Swedish jail cell, the Don't Be Dumb World Tour landed at the Avicii Arena, the venue once called the Ericsson Globe, on Sept. 21. Rihanna was in the crowd.",
+    "description": "A$AP Rocky came back to Stockholm on Sept. 21: a helicopter entrance, Rihanna in the crowd, and the same arena he played after his 2019 assault conviction.",
+    "keywords": [
+      "A$AP Rocky",
+      "ASAP Rocky Stockholm",
+      "ASAP Rocky Sweden",
+      "Don't Be Dumb World Tour",
+      "Avicii Arena",
+      "Ericsson Globe",
+      "Rihanna",
+      "Riot Rose",
+      "Helicopter",
+      "Don't Be Dumb",
+      "ASAP Rocky 2019 arrest",
+      "Sneakz and Beatz",
+      "PHRHX",
+      "Black-owned media"
+    ],
+    "ogHeadline": "A$AP ROCKY FLEW BACK INTO STOCKHOLM.\nSAME BUILDING, NEW STORY.",
+    "ogAccent": "FECC02",
+    "heroCredit": "Getty Images via iHeart",
+    "heroCreditUrl": "https://www.iheart.com/content/2026-09-22-asap-rocky-performs-in-sweden-seven-years-after-his-assault-trial/",
+    "heroFocus": "center",
+    "trendScore": 80,
+    "body": "Seven years after a Stockholm street fight turned into a month in a Swedish jail cell, A$AP Rocky flew back into the city. He came in by helicopter, and Rihanna was in the building.\n\n## What happened Monday night\nThe *Don't Be Dumb* World Tour hit the [Avicii Arena](https://aviciiarena.se/en/events/music-show/aap-rocky/) in Stockholm on Monday, September 21. [iHeart's Tony M. Centeno](https://www.iheart.com/content/2026-09-22-asap-rocky-performs-in-sweden-seven-years-after-his-assault-trial/) wrote it up Tuesday from fan video: Rocky made his entrance on the tour's helicopter rig and set down in the middle of the floor crowd while his dancers waved a Swedish flag. He's opened with the helicopter since the first night in Chicago, but in this city it read as a statement.\n\nFan account [@awgecentral](https://x.com/awgecentral/status/2102062217692692677) posted clips of Rihanna in the crowd, and iHeart confirmed she was at the show. Three nights earlier, at Copenhagen's Royal Arena on September 18, she and their son Riot Rose were **onstage** with him for the closer, \"Lord Pretty Flacko Jodye 2.\" \"I want to dedicate this last song to my son and my family here,\" Rocky told the crowd, [per iHeart](https://www.iheart.com/content/2026-09-21-rihanna-son-riot-join-asap-rocky-onstage-during-show-in-europe/). Riot got on the bullhorn.\n\n![Rihanna and A$AP Rocky](https://i.iheart.com/v3/re/new_assets/6ab158d35deed65941bb0d6a \"Getty Images via iHeart|https://www.iheart.com/content/2026-09-21-rihanna-son-riot-join-asap-rocky-onstage-during-show-in-europe/\")\n\n## Why Stockholm is different\nIf you were around in the summer of 2019, you remember. Rocky and two members of his team were arrested in Stockholm in early July after a street fight caught on video. They were denied release and held for about a month before the trial. The case turned into a diplomatic incident, with the White House publicly pushing Sweden to let him go. Sweden didn't budge. In August 2019 all three were convicted of assault and given suspended sentences, plus damages to the victim.\n\nHe didn't stay away, though. [Fox News/AP reported at the time](https://www.foxnews.com/entertainment/asap-rocky-return-sweden-perform-after-conviction) that on December 11, 2019, he played Stockholm's Ericsson Globe. The show opened with his dancers locked in a stage-wide cage, a direct reference to his time in jail. He also tried to put on a concert for the inmates at Kronoberg, where he'd been held, and Sweden's prison service turned it down.\n\n![A$AP Rocky in 2019](https://static.foxnews.com/foxnews.com/content/uploads/2019/11/asap-rocky-ap.jpg \"AP via Fox News|https://www.foxnews.com/entertainment/asap-rocky-return-sweden-perform-after-conviction\")\n\n**Here's the detail that makes Monday hit.** The Ericsson Globe was renamed the Avicii Arena in 2021. Monday's show was in the same building. In 2019 he walked in with a cage on the stage and a conviction on his record. In 2026 he came in by helicopter, with a new album, his family in the room, and a European arena run. *(Note: iHeart's write-up calls this his first time back in Sweden since the arrest. That's not accurate, since the December 2019 Globe show happened. This was his first Stockholm headline show in nearly seven years.)*\n\n!youtube(https://youtu.be/g1-46Nu3HxQ)\n\n## The run he's on\nThe helicopter entrance goes with \"HELICOPTER,\" the second single from [*Don't Be Dumb*](https://www.rollingstone.com/music/music-news/asap-rocky-helicopter-video-dont-be-dumb-album-1235498620/), the album he released January 16 after nearly eight years without a full-length. The video is the animated one with the GTA look, directed by Dan Streit. According to the [tour listing](https://en.wikipedia.org/wiki/Don%27t_Be_Dumb_Tour), this is his first headlining run since the Injured Generation Tour in 2019, which is the tour the Stockholm arrest interrupted. Europe keeps going: Riga on September 24, Kaunas on September 25, Berlin on September 28, Paris on September 30, and a finale in Athens on October 11.\n\n## The close\nMost artists would have skipped Sweden and nobody would have said a word. Rocky put Stockholm on the routing and made his entrance there the loudest of the tour. The last time the city had him, the story was a jail cell and a court verdict. This time it was a father of three landing a helicopter on the arena floor with Rihanna watching. He's the one who decided which version the city remembers.\n\n## Sources\n- iHeart (Tony M. Centeno), \"ASAP Rocky Performs In Sweden Seven Years After His Assault Trial,\" Sept. 22, 2026: https://www.iheart.com/content/2026-09-22-asap-rocky-performs-in-sweden-seven-years-after-his-assault-trial/\n- iHeart (Tony M. Centeno), \"Rihanna & Son Riot Join A$AP Rocky Onstage During Show In Europe,\" Sept. 21, 2026: https://www.iheart.com/content/2026-09-21-rihanna-son-riot-join-asap-rocky-onstage-during-show-in-europe/\n- @awgecentral on X, Rihanna at Stockholm show, Sept. 21, 2026: https://x.com/awgecentral/status/2102062217692692677\n- Fox News / AP, \"A$AP Rocky performs in Sweden months after conviction,\" Dec. 12, 2019: https://www.foxnews.com/entertainment/asap-rocky-return-sweden-perform-after-conviction\n- Rolling Stone, \"A$AP Rocky Drops 'Helicopter' Video Ahead of 'Don't Be Dumb' Release,\" Jan. 2026: https://www.rollingstone.com/music/music-news/asap-rocky-helicopter-video-dont-be-dumb-album-1235498620/\n- Don't Be Dumb World Tour dates (Wikipedia, citing Pitchfork/Variety, Jan. 20, 2026): https://en.wikipedia.org/wiki/Don%27t_Be_Dumb_Tour\n- Avicii Arena event page, Sept. 21, 2026: https://aviciiarena.se/en/events/music-show/aap-rocky/\n",
+    "heroImage": "https://i.iheart.com/v3/re/new_assets/6ab2874fe40a472a3f94cb0b",
+    "publishedAt": "2026-09-22",
+    "goLiveAt": "2026-09-22"
   }
 ];
 
