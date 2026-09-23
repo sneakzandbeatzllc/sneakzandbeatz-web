@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-22T22:02:38+00:00",
+  "generated_utc": "2026-09-23T01:04:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,13 +20,6 @@
     {
       "title": "Air Jordan 5 “Sunset” Returns September 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-5-sunset-2026/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 9 OG “Space Jam” Releases September 19th",
-      "url": "https://sneakerbardetroit.com/air-jordan-9-og-space-jam-2026-release-date/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -57,6 +50,27 @@
       "url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low OG “Howard” Releases October 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-low-og-howard-2026/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Ryan Clark Turns ESPN Exit Into Major Media Power Move With Howard Schultz",
+      "url": "https://thesource.com/2026/09/22/ryan-clark-turns-espn-exit-into-major-media-power-move-with-howard-schultz/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Giants’ Jaxson Dart Faces Possible Season-Ending Surgery After Brutal Knee Injury",
+      "url": "https://thesource.com/2026/09/22/giants-jaxson-dart-faces-possible-season-ending-surgery-after-brutal-knee-injury/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Ted Cruz’s College Sports Bill Could Give the NCAA More Power and Athletes Less Control",
-      "url": "https://thesource.com/2026/09/22/ted-cruzs-college-sports-bill-could-give-the-ncaa-more-power-and-athletes-less-control/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "John Legend Talks Artist Activism, His ‘MUSE’ Album, Working With Pharrell And More On SiriusXM’s “Bevelations”",
-      "url": "https://thesource.com/2026/09/22/john-legend-talks-artist-activism-his-muse-album-working-with-pharrell-and-more-on-siriusxms-bevelations/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "All 11 Super Saiyans In Official Dragon Ball Canon",
       "url": "https://screenrant.com/all-11-super-saiyans-in-official-dragon-ball-canon/",
       "pillar": "anime",
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Yu Hibari's Watashi de Dōtei Suteta Kuse ni Novels Get Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-22/yu-hibari-watashi-de-dotei-suteta-kuse-ni-novels-get-manga/.242083",
+      "title": "Manga Plus Adds KAKAKAKA , The Ura Files , Noisering , 1 More Title",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-22/manga-plus-adds-kakakaka-the-ura-files-noisering-1-more-title/.242092",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Emma and the Eyes that Bid Farewell's Higure Sakino Launches New Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-22/emma-and-the-eyes-that-bid-farewell-higure-sakino-launches-new-manga/.242081",
+      "title": "Yu Hibari's Watashi de Dōtei Suteta Kuse ni Novels Get Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-22/yu-hibari-watashi-de-dotei-suteta-kuse-ni-novels-get-manga/.242083",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
