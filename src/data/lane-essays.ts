@@ -13792,6 +13792,36 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "heroImage": "https://townsquare.media/site/812/files/2026/02/attachment-kendrick-lamar-super-bowl-record.jpg?w=1200&format=natural",
     "publishedAt": "2026-09-25",
     "goLiveAt": "2026-09-25"
+  },
+  {
+    "slug": "ed-sheeran-gillette-stadium-shows-canceled-noreaster-robert-kraft-macklemore-fallout-september-25-2026",
+    "pillar": "hiphop",
+    "title": "Ed Sheeran's Gillette Shows Canceled: Kraft's Stadium Goes Dark After the Macklemore Fallout",
+    "headline": "Gillette Goes Dark.\nThe Macklemore Weekend Never Happens.",
+    "subhead": "A nor'easter wipes out Ed Sheeran's two Foxboro shows at Robert Kraft's Gillette Stadium, the dates Macklemore was barred from. Ticket prices were already sliding, and every opener had already walked.",
+    "description": "Ed Sheeran's Gillette Stadium shows are canceled over a nor'easter. They were the Kraft-owned dates Macklemore got barred from, and resale prices had already slid.",
+    "keywords": [
+      "Ed Sheeran",
+      "Macklemore",
+      "Robert Kraft",
+      "Gillette Stadium",
+      "Loop Tour",
+      "Free Palestine",
+      "nor'easter",
+      "concert canceled",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "GILLETTE GOES DARK.\nTHE MACKLEMORE WEEKEND NEVER HAPPENS.",
+    "ogAccent": "1F6F43",
+    "heroCredit": "Maja Smiejkowska/Reuters via Al Jazeera",
+    "heroCreditUrl": "https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather",
+    "heroFocus": "center",
+    "trendScore": 84,
+    "body": "The two nights that started this whole thing are gone. Ed Sheeran's Friday and Saturday shows at **Gillette Stadium**, the Foxboro building owned by Robert Kraft, were canceled Friday, Sept. 25. [TMZ (@TMZ)](https://www.tmz.com/2026/09/25/ed-sheeran-gillette-stadium-concerts-canceled/) had it first. The official reason is weather, not politics. But nobody watching this saga is reading it as a weather story alone.\n\n## What happened\nTour promoter [Messina Touring](https://www.instagram.com/p/DdtrRM7NESW/) said the call came \"due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials.\" A nor'easter is rolling up the coast. [CBS Boston](https://www.cbsnews.com/boston/news/ed-sheerans-gillette-stadium-concerts-canceled-noreaster/) puts gusts in the Foxboro area at 40 to 55 mph, peaking Friday night into Saturday night. Both shows had an 8 p.m. start.\n\nRefunds go back through the point of purchase, and Ticketmaster buyers get refunded automatically. Sheeran's next stop is **Atlanta on Oct. 3**.\n\n![Ed Sheeran performing with guitar](https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/23/6157561f-9011-49e3-aae9-b048851ac895/thumbnail/1200x630/cf92526994a82d0c5dbca455f1f16230/ed-sheeran-guitar.jpg \"CBS Boston|https://www.cbsnews.com/boston/news/ed-sheerans-gillette-stadium-concerts-canceled-noreaster/\")\n\n## Why these two dates mattered\nGillette was ground zero. Macklemore was booked to open both nights before he was [pulled from the Loop Tour](https://sneakzandbeatz.com/the-lane/macklemore-dropped-ed-sheeran-loop-tour-free-palestine-robert-kraft-stadiums-2026) for saying \"Free Palestine\" on the MetLife stage in New Jersey. Kraft then [confirmed he'd barred him from Gillette](https://sneakzandbeatz.com/the-lane/robert-kraft-confirms-barred-macklemore-gillette-hate-speech-statement-ed-sheeran-2026), calling out what he described as a \"broader history of antisemitic rhetoric.\"\n\nThe fallout came fast. Finneas, Aaron Rowe, Beoga and Lukas Graham all walked. Sheeran played [Philadelphia alone last weekend](https://sneakzandbeatz.com/the-lane/ed-sheeran-philadelphia-speech-gaza-macklemore-loop-tour-alone-september-19-2026) and called the situation in Gaza \"catastrophic and unjustifiable\" from the stage. Meanwhile, Macklemore flipped his exit into a [Free Palestine tour of his own](https://sneakzandbeatz.com/the-lane/macklemore-free-palestine-tour-dublin-paris-london-october-proceeds-after-ed-sheeran-2026), with Dublin, Paris and London dates and proceeds going to Palestinian aid groups.\n\n## The market was already speaking\nThe storm isn't the only headwind. CBS Boston reports that ticket prices for the Gillette shows had been sliding before the cancellation. [Al Jazeera](https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather), citing Newsweek and TicketData, puts the drop across Sheeran's dates at more than 10%. Ticketmaster had already opened refunds for these two nights after Massachusetts Attorney General Andrea Campbell sent the company a demand letter.\n\n**To be clear:** nothing on record ties the cancellation to anything but the nor'easter. The promoter, the venue and local officials all point to the weather warnings. The storm is real, and CBS reports other East Coast events are canceling too, including Oceans Calling in Maryland. Any theory that it's cover for soft sales is fan speculation, not reporting.\n\n## The take\nMacklemore said something from the stage, a stadium owner said not in my building, and every opening act left the tour. Now the building never hosts the show at all. Whatever the forecast says, the Gillette weekend ends with the rapper who was barred packing arenas across Europe for Palestine, and the headliner touring by himself toward Atlanta. In the fight over who controls the stage, the weather just called this weekend a draw. The receipts will show up in October.\n\nNo official video exists for the cancellation, so there's no embed on this one.\n\n## Sources\n- [TMZ — Ed Sheeran's Shows at Robert Kraft's Gillette Stadium Are Canceled](https://www.tmz.com/2026/09/25/ed-sheeran-gillette-stadium-concerts-canceled/) (Sept. 25, 2026)\n- [CBS Boston — Ed Sheeran's Gillette Stadium concerts canceled due to nor'easter, tour promoter says](https://www.cbsnews.com/boston/news/ed-sheerans-gillette-stadium-concerts-canceled-noreaster/) (Sept. 25, 2026)\n- [Al Jazeera — Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather](https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather) (Sept. 25, 2026)\n- [CNN — Ed Sheeran's concerts at Robert Kraft-owned Gillette Stadium canceled over weather concerns](https://www.cnn.com/2026/09/25/entertainment/ed-sheeran-concerts-gillette-canceled) (Sept. 25, 2026)\n- [Variety — Ed Sheeran's Concerts Canceled at Robert Kraft's Gillette Stadium Due to Storm](https://variety.com/2026/music/news/ed-sheeran-concerts-canceled-storm-1236875556/) (Sept. 25, 2026)\n- [Messina Touring statement (Instagram)](https://www.instagram.com/p/DdtrRM7NESW/) (Sept. 25, 2026)\n",
+    "heroImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-06-23T174336Z_229722539_RC2H8FAUZNHZ_RTRMADP_3_FILM-F1-LONDON-PREMIERE-1790357902.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-09-25",
+    "goLiveAt": "2026-09-25"
   }
 ];
 
