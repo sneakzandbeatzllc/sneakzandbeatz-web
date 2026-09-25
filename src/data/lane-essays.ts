@@ -13730,6 +13730,38 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "heroImage": "https://imagez.tmz.com/image/a2/16by9/2026/09/25/a26d58c4b0c4485cb7395bdb6530a611_xl.jpg",
     "publishedAt": "2026-09-25",
     "goLiveAt": "2026-09-25"
+  },
+  {
+    "slug": "gta-6-game-informer-cover-story-issue-382-leonida-weather-wildlife-12-screenshots-september-29-2026",
+    "pillar": "gaming",
+    "title": "GTA 6 Lands Game Informer's Cover: 14 Pages, 12 New Screenshots, Sept. 29",
+    "headline": "Jason and Lucia Make the Cover.\nLeonida Opens Up Tuesday.",
+    "subhead": "Game Informer's issue 382 has a 14-page GTA VI cover story built on interviews with Rockstar's lead designers. It covers new weather and wildlife systems, has 12 exclusive screenshots, and goes digital Sept. 29.",
+    "description": "GTA VI is Game Informer's issue 382 cover: 14 pages, 12 new screenshots, new weather and wildlife details. Digital drops Sept. 29, eight weeks before launch.",
+    "keywords": [
+      "GTA 6",
+      "Grand Theft Auto VI",
+      "Game Informer",
+      "GTA 6 cover story",
+      "GTA 6 screenshots",
+      "Leonida",
+      "Vice City",
+      "Jason and Lucia",
+      "Rockstar Games",
+      "GTA 6 November 19",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "JASON AND LUCIA MAKE THE COVER.\nLEONIDA OPENS UP TUESDAY.",
+    "ogAccent": "E0457B",
+    "heroCredit": "Rockstar Games / Game Informer",
+    "heroCreditUrl": "https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi",
+    "heroFocus": "center",
+    "trendScore": 94,
+    "body": "Eight weeks from launch, Rockstar is still mostly silent. So when it opens up, it picks one outlet to do it with. This cycle that outlet is Game Informer.\n\n## What dropped\nOn Friday, Sept. 25, [Game Informer](https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi) ([@GameInformer](https://x.com/GameInformer)) announced that *Grand Theft Auto VI* is the cover of issue 382. The feature runs **14 pages**, has **12 new exclusive screenshots**, and is built on interviews with several Rockstar lead designers. Senior associate editor Marcus Stewart wrote it, and he's a South Florida native, which matters for a game that's basically a Florida parody.\n\nThe cover art is original Rockstar work featuring **Jason Duval and Lucia Caminos**. The digital issue goes live **Tuesday, Sept. 29**. Print copies reach subscribers and newsstands \"in the coming weeks.\" [GameRant](https://gamerant.com/gta-6-game-informer-cover-story/) had the date within the hour, and the fan countdown accounts pushed it everywhere right after.\n\n![Game Informer issue 382 cover featuring Jason and Lucia](https://gameinformer.com/sites/default/files/styles/no_compression/public/2026/09/25/fe850588/gami_382_reveal.jpg.webp \"Rockstar Games / Game Informer|https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi\"\")\n\n## What's actually new\nGame Informer says the feature covers \"never-before-shared\" systems. Three are named so far:\n\n- **Weather.** Advanced systems that simulate Florida's \"less sunny\" weather. Expect storms, humidity and the kind of sky that turns purple before it floods, not a Vice City that's permanently postcard-bright.\n- **Wildlife.** A \"staggering amount\" of animals across Leonida on land, in the air and in the water. GI's words are \"native and otherwise,\" so yes, Florida's invasive-species reputation seems to be part of the joke.\n- **Research.** How Rockstar studied Miami and wider Florida to build what GI calls its most culturally and aesthetically accurate world yet.\n\nThat's all we know until Tuesday. Nothing about story beats, online, or a new trailer has been announced as part of the issue. Anyone promising those before the 29th is guessing.\n\n!youtube(https://youtu.be/VQRLujxTm3c)\n\n## Why it hits different this time\nGame Informer covers are a deliberate move for Rockstar. The publisher doesn't do press tours. It controls every frame. This is a 14-page sit-down with the lead designers, and it lands in the same week the [\"Welcome to Vice City\" sign went up on the Kaseya Center](https://sneakzandbeatz.com/the-lane/gta-6-welcome-to-vice-city-sign-kaseya-center-miami-975000-rockstar-2026). Put those together and the rollout clearly has a schedule now: a physical takeover in Miami, a magazine deep-dive, and [the soundtrack play](https://sneakzandbeatz.com/the-lane/gta-6-the-album-travis-scott-rhyno-daft-punk-34-songs-november-19-2026) building toward **Nov. 19** on PS5 and Xbox Series X|S, per [GI's product listing](https://gameinformer.com/product/grand-theft-auto-vi).\n\nThe Florida-native writer detail is the part we'd watch. Vice City has always been Miami as imagined by outsiders, with neon, pastel suits and cocaine-cowboy mythology. The whole pitch of Leonida is that it's the real Florida: Black and Caribbean Miami, the Glades, strip-mall churches, the heat. A cover story that's specifically about how Rockstar researched the place is a chance to see whether that pitch holds up. We'll read it on the 29th with that in mind.\n\n![Full Game Informer GTA VI cover spread](https://gameinformer.com/sites/default/files/styles/no_compression/public/2026/09/25/58e92029/gami_382_reveal_full.jpg.webp \"Rockstar Games / Game Informer|https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi\"\")\n\n## The rest of the issue\nIt isn't only GTA. Issue 382 also has Gamescom previews, *Warlock: Dungeons & Dragons*, a *Persona 4 Revival* behind-the-scenes piece, a 10-page *Tides of Annihilation* trip, and reviews including *Marvel's Wolverine*. For this audience, though, the cover is the whole story.\n\n## Sources\n- Game Informer (Marcus Stewart), Sept. 25, 2026: [Cover Reveal – Grand Theft Auto VI](https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi)\n- GameRant, Sept. 25, 2026: [Next Official GTA 6 Update Confirmed for September 29](https://gamerant.com/gta-6-game-informer-cover-story/)\n- Game Informer product page: [Grand Theft Auto VI, release date Nov. 19, 2026](https://gameinformer.com/product/grand-theft-auto-vi)\n- Rockstar Games, official YouTube: [Grand Theft Auto VI Trailer 2](https://youtu.be/VQRLujxTm3c)\n",
+    "heroImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/09/25/774e6cb2/gameinformer_gtavi_issue382_hero.jpg.webp",
+    "publishedAt": "2026-09-25",
+    "goLiveAt": "2026-09-25"
   }
 ];
 
