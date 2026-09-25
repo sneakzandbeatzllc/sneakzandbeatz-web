@@ -12115,6 +12115,257 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "publishedAt": "2026-09-23",
     "goLiveAt": "2026-09-23"
   }
+,
+  {
+    "slug": "air-jordan-black-pack-14-low-15-16-17-october-3-november-7-2026",
+    "pillar": "sneakers",
+    "title": "Air Jordan Black Pack 2026: 14 Low, 15, 16, 17 Release Dates",
+    "headline": "The Black Pack Is Whole:\n14, 15, 16, 17 in Exotics",
+    "subhead": "Jordan Brand showed all four together for the first time. The 14 Low and 16 land October 3, the 15 and 17 on November 7.",
+    "description": "Air Jordan Black Pack 2026: the 14 Low and 16 drop Oct. 3, the 15 and 17 on Nov. 7. Ostrich, snakeskin, elephant and stingray textures on all-black late-era Jordans.",
+    "keywords": [
+      "air jordan black pack 2026",
+      "air jordan black pack release date",
+      "air jordan 14 low black pack",
+      "air jordan 15 black pack",
+      "air jordan 16 black pack IZ2586-001",
+      "air jordan 17 black pack",
+      "black pack price",
+      "jordan retro october 2026",
+      "jordan retro november 2026",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "four black jordans.\nthe back half of the run.",
+    "ogAccent": "2B2B2B",
+    "trendScore": 74,
+    "heroCredit": "Sneaker News",
+    "heroCreditUrl": "https://sneakernews.com/2026/09/23/air-jordan-black-pack-release-date/",
+    "heroFocus": "center",
+    "body": "The Air Jordan Black Pack is four shoes nobody used to fight over: the 14, 15, 16 and 17. On September 23 Jordan Brand showed all of them together for the first time, blacked out and dressed in exotic textures, and split the release into two dates. The 14 Low and 16 drop October 3. The 15 and 17 follow November 7. ([Sneaker News](https://sneakernews.com/2026/09/23/air-jordan-black-pack-release-date/))\n\n## Where the reveal happened\n\nNot SNKRS. Jordan Brand ran this one through 232323232323.com — that's 23, six times — part of its new Verified first-look push. Sneaker News frames it as the next step after SNKRS Showcase, which looks to be done. The distribution channel is the story before the shoe is. Nike wants to own the first look, not just the checkout.\n\n## The materials, shoe by shoe\n\n- **Air Jordan 14 Low:** ostrich texture on the sidewalls.\n- **Air Jordan 15:** snakeskin.\n- **Air Jordan 16:** wrinkled elephant leather with glossy patent on the toe. We covered the [16 on its own](/the-lane/air-jordan-16-black-pack-iz2586-001-first-look-october-3-245-nbhd-2026) Tuesday: IZ2586-001, expected at $245 through NBHD doors.\n- **Air Jordan 17:** dark grey suede with stingray on the collar.\n\nPrices for the 14 Low, 15 and 17 haven't been confirmed. Don't budget off guesses.\n\n## Why these four, why now\n\nThe 14 was the last shoe Mike won a title in. The 15 through 17 cover the Wizards years — the stretch most of the culture skipped. Sneaker News points out that Free the Youth, Infinite Archives and the Doernbecher program have been putting those models back in front of people. The Black Pack is Jordan Brand cashing that in with the safest color it owns.\n\nLook, black-on-black exotics is a grown-man play. This isn't a pack for the kid refreshing an app. It's for the dude who remembers when a 17 came in a briefcase and never thought the back half of the catalog got its respect.\n\n## What to watch\n\nTwo dates, four shoes, no confirmed prices for three of them, and a new reveal channel Nike clearly wants you to bookmark. Check back as retail details land.\n\n## Sources\n- [Jordan Brand Reveals The Complete \"Black Pack\"](https://sneakernews.com/2026/09/23/air-jordan-black-pack-release-date/): Sneaker News, Sept. 23, 2026\n- [Air Jordan 16 \"Black Pack\" IZ2586-001](https://sneakernews.com/2026/09/21/air-jordan-16-black-pack-iz2586-001/): Sneaker News, Sept. 21, 2026\n- [Air Jordan Release Dates 2026](https://sneakernews.com/air-jordan-release-dates/): Sneaker News\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
+,
+  {
+    "slug": "solefly-air-jordan-5-iu0734-001-october-8-225-boxing-laces-2026",
+    "pillar": "sneakers",
+    "title": "SoleFly x Air Jordan 5 IU0734-001: October 2026, $225",
+    "headline": "SoleFly's Air Jordan 5\nLaces Up Like a Boxing Boot",
+    "subhead": "The Miami shop's third straight Jordan collab goes black and anthracite with Aurora Green, and wraps the laces around the ankle.",
+    "description": "SoleFly x Air Jordan 5 (IU0734-001) is expected October 2026 at a reported $225. Black/Anthracite, Aurora Green hits, and ankle-wrap laces with a boxing feel.",
+    "keywords": [
+      "solefly air jordan 5",
+      "solefly jordan 5 IU0734-001",
+      "solefly air jordan 5 release date",
+      "solefly jordan 5 price",
+      "air jordan 5 2026",
+      "air jordan 5 black anthracite aurora green",
+      "jordan 5 october 2026",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "miami laces up.\nsolefly 5.",
+    "ogAccent": "1FA37A",
+    "trendScore": 70,
+    "heroCredit": "Sneaker News",
+    "heroCreditUrl": "https://sneakernews.com/2026/09/23/solely-air-jordan-5-iu0734-001-release-date/",
+    "heroFocus": "center",
+    "body": "The SoleFly x Air Jordan 5 finally has official photos. Jordan Brand dropped them in its holiday lookbook on September 23, next to the Black Pack and the Social Status 1 Low. Style code IU0734-001. Current reports point to October at $225, and Kicksfinder's listing via Sneaker News shows SoleFly-only dates of October 1 and October 8. Treat the exact day as unconfirmed. ([Sneaker News](https://sneakernews.com/2026/09/23/solely-air-jordan-5-iu0734-001-release-date/))\n\n## The shoe\n\nBlack and Anthracite run the upper. Aurora Green — the Miami tint — hits the tongue Jumpman and the midsole. The outsole is a pre-yellowed, Muslin-tinted translucent, so it looks aged out the box.\n\nThe real change is the lacing. The top eyelets route the laces around the ankle and back to the front. Sneaker News says it reads like a boxing shoe, and the apparel and lookbook lean the same way. Whether the build underneath changed is still unclear.\n\n## The run\n\nThis is the third year in a row for SoleFly and Jordan Brand: an Air Jordan 3 last year, this 5 now, and a [SoleFly Air Jordan 4](/the-lane/solefly-air-jordan-4-confirmed-instagram-comment-daniel-hidalgo-miami-nike-2026) that co-founder Daniel Hidalgo already confirmed in an Instagram comment for 2027.\n\n## Why it matters\n\nA Miami independent getting an annual Jordan slot is not small. The Jumpman hands those out to shops that move culture, not just units — Trophy Room, A Ma Maniere, Union. Every year SoleFly keeps that seat, the value of the relationship compounds for the shop, not just the shoe.\n\nThe boxing angle is the smart part. Miami's a fight town. Build the story around the city, and the shoe sells itself to people who were never gonna enter a raffle for a regular 5.\n\nExpect SoleFly's own release first. Wider availability hasn't been announced.\n\n## Sources\n- [SoleFly's Air Jordan 5 Collaboration Is Revealed](https://sneakernews.com/2026/09/23/solely-air-jordan-5-iu0734-001-release-date/): Sneaker News, Sept. 23, 2026\n- [SoleFly Air Jordan 4](https://sneakernews.com/2026/09/17/solefly-air-jordan-4/): Sneaker News, Sept. 17, 2026\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
+,
+  {
+    "slug": "social-status-air-jordan-1-low-og-first-look-holiday-2026-sashiko-chicago",
+    "pillar": "sneakers",
+    "title": "Social Status x Air Jordan 1 Low OG: First Look, Holiday 2026",
+    "headline": "Social Status Stitches\na Chicago 1 Low",
+    "subhead": "First teaser shots show aged red overlays and a blue Sashiko-style textile midfoot. No price, no date yet.",
+    "description": "First look at the Social Status x Air Jordan 1 Low OG: Chicago-style blocking, worn red, blue Sashiko-style textile. Expected Holiday 2026; price and release date TBA.",
+    "keywords": [
+      "social status air jordan 1 low",
+      "social status jordan 1 low og",
+      "social status air jordan 1 low release date",
+      "social status jordan 1 low price",
+      "air jordan 1 low og 2026",
+      "whitaker group jordan",
+      "air jordan 1 low sashiko",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "social status.\nchicago, stitched.",
+    "ogAccent": "B3202A",
+    "trendScore": 66,
+    "heroCredit": "Sneaker News",
+    "heroCreditUrl": "https://sneakernews.com/2026/09/23/social-status-air-jordan-1-low-og/",
+    "heroFocus": "center",
+    "body": "The Social Status x Air Jordan 1 Low OG surfaced September 23 in a few tight teaser crops. It's expected Holiday 2026. No price, no release date, no style code yet. ([Sneaker News](https://sneakernews.com/2026/09/23/social-status-air-jordan-1-low-og/))\n\n## What we can see\n\nThe blocking is Chicago-style — red overlays wrapped around lighter panels. The red looks deliberately worn, like a pair that's been through a couple seasons. The midfoot is where it breaks: a blue textile replaces the leather, and it looks like Sashiko, the Japanese stitched-reinforcement technique. Earlier rumors called for red, white and blue. That's lining up.\n\n## Whose shoe this is\n\nSocial Status belongs to The Whitaker Group, the same Black-owned retail operation behind A Ma Maniere. That matters. When a TWG store gets a Jordan, it comes with a story and a store experience, not just a colorway. Sneaker News says the same: the teasers are probably only showing part of the narrative.\n\nReal talk, the Sashiko detail is the tell. Hand-repaired fabric on a Chicago-blocked Low is a statement about wear and keeping things — the opposite of deadstock culture. That's a Whitaker move.\n\n## What's still missing\n\nPrice. Date. Full images. The rest of the story. We'll update when Jordan Brand or Social Status puts real details out.\n\n## Sources\n- [First Look At The Social Status x Air Jordan 1 Low OG](https://sneakernews.com/2026/09/23/social-status-air-jordan-1-low-og/): Sneaker News, Sept. 23, 2026\n- [SoleFly's Air Jordan 5 Collaboration Is Revealed](https://sneakernews.com/2026/09/23/solely-air-jordan-5-iu0734-001-release-date/): Sneaker News, Sept. 23, 2026 (same lookbook)\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
+,
+  {
+    "slug": "boosie-turk-verzuz-challenge-catalog-cash-money-no-limit-tour-september-2026",
+    "pillar": "hiphop",
+    "title": "Boosie vs. Turk: Verzuz Challenge and the Catalog Fight",
+    "headline": "Turk Wants the Verzuz.\nBoosie Wants Receipts.",
+    "subhead": "A spot on the Cash Money/No Limit Tour turned into a catalog argument, and the jabs landed both ways.",
+    "description": "Turk challenged Boosie Badazz to a Verzuz and called him a feature artist. Boosie answered: 'You don't have a catalog, you got a spreadsheet.' What's really at stake.",
+    "keywords": [
+      "boosie turk verzuz",
+      "boosie badazz turk",
+      "turk hot boys boosie",
+      "cash money no limit tour boosie",
+      "boosie catalog vs turk",
+      "boosie spreadsheet turk",
+      "verzuz 2026",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "catalog or spreadsheet?\nboosie vs. turk.",
+    "ogAccent": "7A1FA2",
+    "trendScore": 72,
+    "heroCredit": "XXL",
+    "heroCreditUrl": "https://www.xxlmag.com/boosie-badazz-turk-catalog-verzuz-challenge/",
+    "heroFocus": "center top",
+    "body": "Turk wants a Verzuz with Boosie Badazz. Boosie says there's nothing to battle. It started over a tour spot and ended up as a fight about who actually owns a catalog. ([XXL](https://www.xxlmag.com/boosie-badazz-turk-catalog-verzuz-challenge/))\n\n## How it started\n\nIn a BHighTV interview that went up Monday, Sept. 21, the former Hot Boys member said Boosie took his spot on the Cash Money/No Limit Tour, took his style, and took the \"Turk fade.\" Then he called Boosie a feature artist. \"Boosie can't sell out no arena[s] by himself,\" Turk said, and added that the tour is helping Boosie.\n\n## How Boosie answered\n\nOn Tuesday, Boosie posted himself laughing at it. In a second video he said Turk isn't on the tour because he fumbled it, and nobody else is to blame. Then the line that's gonna live on: \"You don't have a catalog, you got a spreadsheet.\" Turk came back with clips showing Boosie as a Hot Boys fan and his platinum plaques.\n\n## What's actually being argued\n\nStrip the jokes and it's a real question. Turk was part of a group run that moved serious units under Cash Money — plaques that belong to a label deal he didn't control. Boosie built a Baton Rouge independent pipeline that kept records flowing for two decades, a lot of it on his own terms. One has history. The other has volume.\n\nA Verzuz is where that gets tested, song for song, in front of a crowd that knows both catalogs. Nobody's booked it. Nobody's even agreed to it. But the internet already picked teams.\n\n## The part nobody's saying\n\nBoth of these men came out of Louisiana deals that paid the labels first. The argument about who's bigger is fun. The better conversation is who owns what they made. Boosie's own 2026 has been one long money story — see [the $600K pardon brokers](/the-lane/boosie-badazz-60-minutes-600k-pardon-brokers-burkman-wohl-2026) — so a Verzuz is the rare fight where he'd get paid for the argument.\n\n## Sources\n- [Boosie BadAzz and Turk Go Back-and-Forth Over Who Has a Better Catalog and Verzuz Challenge](https://www.xxlmag.com/boosie-badazz-turk-catalog-verzuz-challenge/): XXL, Sept. 23, 2026\n- [BHighTV on YouTube](https://www.youtube.com/@bhighatl): Turk interview, Sept. 21, 2026\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
+,
+  {
+    "slug": "young-thug-next-level-boys-academy-atlanta-mentoring-it-aint-worth-it-2026",
+    "pillar": "hiphop",
+    "title": "Young Thug Mentors Atlanta Teens: 'It's Not Worth It'",
+    "headline": "Young Thug Took the Mic\nto a Room of Teenagers",
+    "subhead": "At Atlanta's Next Level Boys Academy, Thug talked courtrooms, guns and faith, then served the food himself.",
+    "description": "Young Thug mentored teens at Atlanta's Next Level Boys Academy, warning them off guns after nearly three years in court. What he said and why the message lands.",
+    "keywords": [
+      "young thug next level boys academy",
+      "young thug mentors atlanta youth",
+      "young thug it's not worth it",
+      "young thug gun violence message",
+      "young thug probation community service",
+      "young thug atlanta 2026",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "\"it's not worth it, bro.\"\nthug, in atlanta.",
+    "ogAccent": "2E7D32",
+    "trendScore": 64,
+    "heroCredit": "XXL",
+    "heroCreditUrl": "https://www.xxlmag.com/young-thug-warns-atlanta-youth-gun-violence/",
+    "heroFocus": "center top",
+    "body": "Young Thug spent a weekend at Atlanta's Next Level Boys Academy talking to teenagers who are already in the system. CBS Atlanta reported it Monday, Sept. 21. XXL picked it up Wednesday. ([XXL](https://www.xxlmag.com/young-thug-warns-atlanta-youth-gun-violence/), [CBS News Atlanta](https://www.cbsnews.com/atlanta/news/young-thug-mentors-atlanta-teens-shares-message-about-guns-and-faith/))\n\n## What he said\n\n\"It's not worth it, bro,\" Thug told the group, per the reports. \"I sat in the courtroom almost three years. I feel like a lot of y'all need to get in touch with the Bible. Guns kill people.\"\n\nShort. No speech. That's how you talk to a 15-year-old who's heard every adult lecture already.\n\n## Why it carries weight\n\nHe's not speaking in theory. Thug entered a non-negotiated guilty plea in the YSL case in October 2024, after pleading not guilty in 2022. The sentence was 15 years of probation, with 100 hours of community service for every year of it. He's living inside the consequences he's describing.\n\nNext Level Boys Academy works with teens and young men to keep them out of incarceration. Thug also paid for a cookout for the boys and their families and got behind the line serving hot dogs and burgers.\n\n## The honest read\n\nSome people will call it probation hours. Maybe some of it counts. Doesn't matter much. A kid in Atlanta who grew up on Thug's music heard him say the courtroom wasn't worth it, from the man himself, in person. That lands different than a PSA.\n\nThe bigger question is what happens after the cookout. Mentoring that works is weekly, boring and long. If Thug keeps showing up, that's the story. We'll watch.\n\n## Sources\n- [Young Thug Warns Atlanta Youth Against Gun Violence, Says 'It Ain't Worth It'](https://www.xxlmag.com/young-thug-warns-atlanta-youth-gun-violence/): XXL, Sept. 23, 2026\n- [Young Thug mentors Atlanta teens, shares message about guns and faith](https://www.cbsnews.com/atlanta/news/young-thug-mentors-atlanta-teens-shares-message-about-guns-and-faith/): CBS News Atlanta, Sept. 21, 2026\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
+,
+  {
+    "slug": "lil-poppa-mother-orie-lynn-hickson-more-to-life-foundation-mental-health-2026",
+    "pillar": "hiphop",
+    "title": "Lil Poppa's Mother Launches More to Life Foundation",
+    "headline": "Lil Poppa's Mom Is Building\nthe Thing He Talked About",
+    "subhead": "Orie Lynn Hickson launched More to Life around mental health, economic opportunity and creative expression — an idea her son had first.",
+    "description": "Lil Poppa's mother, Orie Lynn Hickson, launched the More to Life foundation on Sept. 22, 2026, focused on mental health, economic opportunity and creative expression.",
+    "keywords": [
+      "lil poppa foundation",
+      "more to life foundation",
+      "lil poppa mother orie lynn hickson",
+      "lil poppa mental health",
+      "jacksonville rapper lil poppa",
+      "lil poppa 2026",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "more to life.\nfor poppa.",
+    "ogAccent": "3A6EA5",
+    "trendScore": 58,
+    "heroCredit": "XXL",
+    "heroCreditUrl": "https://www.xxlmag.com/lil-poppa-mother-mental-health-foundation/",
+    "heroFocus": "center top",
+    "body": "Lil Poppa's mother, Orie Lynn Hickson, launched a foundation in his name on Tuesday, Sept. 22. It's called More to Life, and it was his idea before it was hers. ([XXL](https://www.xxlmag.com/lil-poppa-mother-mental-health-foundation/))\n\n## What it does\n\nThree focus areas: mental health support, economic opportunity and creative expression. The foundation's own announcement says Hickson is doing this \"not because she has all the answers,\" but because she believes in what her son envisioned. Per [Action News Jax](https://www.actionnewsjax.com/news/local/mother-jacksonville-rapper-lil-poppa-creates-foundation-his-name/7VLQJOSQYBGCRDCPDMLJUDGPCI/), a community mixer next month will introduce it to Jacksonville nonprofits and local organizations.\n\n## Why this one matters\n\nThe Jacksonville rapper died in February at 25. His family has been open since then that he was dealing with depression and anxiety, and that substances made it heavier. Hickson said publicly she was sharing that \"not to shame him,\" but to be honest about it.\n\nThat honesty is rare. Rap families usually get a mural, a tribute mixtape and a hashtag. A foundation that puts money into therapy access, jobs and studio time is harder to build and it lasts longer. Pairing mental health with economic opportunity is the right call — a lot of what young artists carry is stress about money, not just what's in their heads.\n\n## What we'll watch\n\nWho leads it, who funds it, and what programs actually run in Jacksonville. The launch is the easy part.\n\nIf you or someone you know is struggling, you can call or text 988 in the U.S. to reach the Suicide & Crisis Lifeline.\n\n## Sources\n- [Lil Poppa's Mother Launches Mental Health Foundation in His Honor](https://www.xxlmag.com/lil-poppa-mother-mental-health-foundation/): XXL, Sept. 23, 2026\n- [Mother of Jacksonville rapper Lil Poppa creates foundation in his name](https://www.actionnewsjax.com/news/local/mother-jacksonville-rapper-lil-poppa-creates-foundation-his-name/7VLQJOSQYBGCRDCPDMLJUDGPCI/): Action News Jax, Sept. 2026\n- [988 Suicide & Crisis Lifeline](https://988lifeline.org/)\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
+,
+  {
+    "slug": "dive-in-wonderland-crunchyroll-anime-nights-november-16-pa-works-alice-2026",
+    "pillar": "anime",
+    "title": "Dive in Wonderland Hits U.S. Theaters Nov. 16 via Crunchyroll",
+    "headline": "P.A. Works' Alice Film\nGets One Night in America",
+    "subhead": "Crunchyroll Anime Nights screens Dive in Wonderland on November 16 — one day only.",
+    "description": "Crunchyroll will screen Dive in Wonderland, P.A. Works' Alice in Wonderland anime film, in U.S. theaters Nov. 16, 2026 as a one-day Anime Nights event.",
+    "keywords": [
+      "dive in wonderland",
+      "dive in wonderland crunchyroll",
+      "dive in wonderland november 16",
+      "crunchyroll anime nights",
+      "dive in wonderland us release",
+      "p.a. works alice in wonderland anime",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "one night\nin wonderland.",
+    "ogAccent": "4A5FC1",
+    "trendScore": 52,
+    "heroCredit": "Anime News Network",
+    "heroCreditUrl": "https://www.animenewsnetwork.com/news/2026-09-24/crunchyroll-screens-dive-in-wonderland-film-on-november-16-in-u.s-as-part-of-anime-nights-program/.242152",
+    "heroFocus": "center",
+    "body": "Crunchyroll is putting *Dive in Wonderland* in U.S. theaters for one day: Monday, November 16, under its Anime Nights banner. ANN reported it September 24. ([Anime News Network](https://www.animenewsnetwork.com/news/2026-09-24/crunchyroll-screens-dive-in-wonderland-film-on-november-16-in-u.s-as-part-of-anime-nights-program/.242152))\n\n## The film\n\nIt's billed as the first Japanese anime film adaptation of Lewis Carroll's *Alice*. A modern girl named Rise falls into Wonderland and meets Alice herself. Toshiya Shinohara directs at P.A. Works, Yuko Kakihara wrote it, kotringo scored it, and SEKAI NO OWARI does the theme. Shochiku released it in Japan on August 29, 2025. France, the UK and Taiwan got it earlier this year. ([Wikipedia](https://en.wikipedia.org/wiki/Dive_in_Wonderland))\n\n## The Anime Nights play\n\nAnime Nights runs across AMC, Regal, Cinemark, Alamo Drafthouse and more. It's the event model: one night, pre-sold, a crowd that shows up on purpose. Crunchyroll — which Sony owns — gets a theatrical window for titles that would never get a wide release, and the theaters fill a weeknight.\n\nNobody's gonna mistake a P.A. Works Alice film for a Demon Slayer opening. That's fine. The model isn't built for blockbusters. It's built to prove an audience exists for mid-size anime films in American theaters, one night at a time.\n\n## Why we care\n\nAlice is one of the most borrowed stories in pop culture — from music videos to fashion editorials to every \"follow the white rabbit\" bar in rap. Seeing a Japanese studio take the source back and hand it to a modern Japanese girl is the kind of culture swap this pillar lives for.\n\nTickets through Crunchyroll's Anime Nights page when they open. Check your local chain.\n\n## Sources\n- [Crunchyroll Screens Dive in Wonderland Film on November 16 in U.S. as Part of Anime Nights Program](https://www.animenewsnetwork.com/news/2026-09-24/crunchyroll-screens-dive-in-wonderland-film-on-november-16-in-u.s-as-part-of-anime-nights-program/.242152): Anime News Network, Sept. 24, 2026\n- [Crunchyroll Anime Nights](https://store.crunchyroll.com/crunchyroll-anime-nights.html): Crunchyroll\n- [Dive in Wonderland](https://en.wikipedia.org/wiki/Dive_in_Wonderland): Wikipedia\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
+,
+  {
+    "slug": "gta-6-goodtime-state-vice-city-collection-400-no-game-included-2026",
+    "pillar": "gaming",
+    "title": "GTA 6 Vice City Collection Costs $400, No Game Included",
+    "headline": "$400 for GTA 6 Merch.\nThe Game Costs Extra.",
+    "subhead": "Rockstar's Goodtime State – Vice City Collection comes with a gator figure, Oakleys and a razor-blade keychain. Not a download code.",
+    "description": "Rockstar's GTA 6 Goodtime State – Vice City Collection costs $400 and doesn't include the game. What's in the box, pre-orders, and the Nov. 19, 2026 launch.",
+    "keywords": [
+      "gta 6 vice city collection",
+      "gta 6 goodtime state collection",
+      "gta 6 collector's edition price",
+      "gta 6 $400 collection",
+      "gta 6 collector's edition no game",
+      "gta 6 release date november 19",
+      "gta 6 pre order",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "$400. no game.\nwelcome to leonida.",
+    "ogAccent": "E0457B",
+    "trendScore": 85,
+    "heroCredit": "GamingBolt",
+    "heroCreditUrl": "https://gamingbolt.com/grand-theft-auto-6-the-goodtime-state-vice-city-collection-costs-400-doesnt-include-the-game",
+    "heroFocus": "center",
+    "body": "Rockstar opened pre-orders September 24 for *Grand Theft Auto 6*: The Goodtime State – Vice City Collection. Price: $400. The game is not included. No disc, no digital code. ([GamingBolt](https://gamingbolt.com/grand-theft-auto-6-the-goodtime-state-vice-city-collection-costs-400-doesnt-include-the-game), [Rockstar Newswire](https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l))\n\n## What's in the box\n\nA six-inch Macca the Gator figure (he's a TV star in Leonida), Oakley Frogskins with Prizm Sapphire lenses, a magnetic mirror, a Vice City swizzle spoon, a keychain that's basically a razor blade, a Chunkee the Manatee shot glass, a Vice City snapback, a Leonida Keys crossbody bag, an enamel pin set, stickers with a stash bag, and a double-sided map poster.\n\nIf you're reading that list and thinking it's a party kit, you're reading it right. That's the joke. Rockstar has always sold Vice City as a place with a very specific kind of night out.\n\n## The money read\n\nMerch-only collector's boxes aren't new. What's new is the size of the audience. GTA 6 launches November 19 on PS5 and Xbox Series X|S, and Take-Two has already said the game [ships without GTA Online or microtransactions](/the-lane/gta-6-no-online-no-microtransactions-at-launch-take-two-shareholder-meeting-zelnick-pc-hint-2026) at launch. No recurring spending on day one means physical merch is one of the few extra lines on the receipt. $400 is where they start.\n\nReal talk: the Oakleys alone carry real retail value, so this isn't pure air. But $400 plus the game plus a console is a paycheck. Rockstar knows exactly who's buying this, and it's not the kid saving up.\n\n## Where to get it\n\nPre-orders are live on the Rockstar Store in supported regions. Australia, Latin America and Asia details are still coming. It's labeled limited — \"while supplies last\" — so expect resale listings before the game even drops.\n\n## Sources\n- [Grand Theft Auto 6: The Goodtime State – Vice City Collection Costs $400, Doesn't Include the Game](https://gamingbolt.com/grand-theft-auto-6-the-goodtime-state-vice-city-collection-costs-400-doesnt-include-the-game): GamingBolt, Sept. 24, 2026\n- [Pre-Order The Goodtime State – Vice City Collection](https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l): Rockstar Newswire, Sept. 2026\n- [Rockstar Store listing](https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection)\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
+,
+  {
+    "slug": "silent-hill-townfall-pc-mixed-steam-reviews-patch-ps5-9-10-screen-burn-2026",
+    "pillar": "gaming",
+    "title": "Silent Hill: Townfall PC Reviews 'Mixed', Konami Patch Coming",
+    "headline": "Townfall Works on PS5.\nPC Is Another Story.",
+    "subhead": "Steam users rate the PC port 'Mixed' over performance and crashes. Konami says a fix is in development, no date.",
+    "description": "Silent Hill: Townfall launched Sept. 24, 2026 to 'Mixed' Steam reviews on PC over performance and crashes. Konami confirms a patch; PS5 version reviewing well.",
+    "keywords": [
+      "silent hill townfall pc",
+      "silent hill townfall steam reviews",
+      "silent hill townfall patch",
+      "silent hill townfall pc performance",
+      "silent hill townfall ps5 review",
+      "silent hill townfall release",
+      "screen burn annapurna konami",
+      "Sneakz and Beatz"
+    ],
+    "ogHeadline": "st. amelia looks great.\nyour pc might not.",
+    "ogAccent": "5C6B73",
+    "trendScore": 68,
+    "heroCredit": "GamingBolt",
+    "heroCreditUrl": "https://gamingbolt.com/silent-hill-townfall-comes-out-to-mixed-reviews-on-pc-konami-confirms-patch-is-in-development",
+    "heroFocus": "center",
+    "body": "*Silent Hill: Townfall* is out on PS5 and PC. The PS5 version is landing. The PC version is sitting at \"Mixed\" on Steam, and Konami has confirmed a patch is in the works. ([GamingBolt](https://gamingbolt.com/silent-hill-townfall-comes-out-to-mixed-reviews-on-pc-konami-confirms-patch-is-in-development))\n\n## What's broken\n\nSteam reviews point at performance, even on high-end rigs, plus crashes. Konami acknowledged the problems on the [Steam news page](https://store.steampowered.com/news/app/1636440/view/702154493559571529) and said it will announce a release date for the update \"as soon as it is confirmed.\" So: fix coming, no timeline.\n\n## What's working\n\nEven the negative reviews praise the look. One called St. Amelia — the small Scottish town where Simon Ordell tries to \"put things right\" — \"one of the best settings I've seen in a horror game.\" GamingBolt gave the PS5 version a 9 out of 10, praising the story, pacing and performances, and knocking enemy variety and exploration.\n\nScreen Burn developed it. Konami and Annapurna Interactive published. It's set in 1996, and writer Jon McKellan says that's the sweet spot for horror: no smartphone, no maps, but not so far back that you have nothing.\n\n## The pattern\n\nWe've seen this movie. A game launches the same week on console and PC, the console build gets the polish, and PC players become the beta testers. Series producer Motoi Okamoto said earlier this month he expected Townfall to beat *Silent Hill 2* remake and *Silent Hill f* critically. The console reviews might get him there. The Steam page is gonna drag the story until that patch lands.\n\nIf you're on PC, wait for the update. If you're on PS5, it's here. This dropped the same day as [Control Resonant](/the-lane/control-resonant-84-metacritic-reviews-melee-action-rpg-launch-september-24-2026), so you've got options.\n\n## Sources\n- [Silent Hill: Townfall Comes Out to \"Mixed\" Reviews on PC, Konami Confirms Patch is in Development](https://gamingbolt.com/silent-hill-townfall-comes-out-to-mixed-reviews-on-pc-konami-confirms-patch-is-in-development): GamingBolt, Sept. 24, 2026\n- [Konami Steam news post](https://store.steampowered.com/news/app/1636440/view/702154493559571529): Sept. 2026\n- [Silent Hill: Townfall Review – Medical Marvel](https://gamingbolt.com/silent-hill-townfall-review-medical-marvel): GamingBolt\n",
+    "publishedAt": "2026-09-24",
+    "goLiveAt": "2026-09-24"
+  }
 ];
 
 // --- Scheduled publishing -------------------------------------------------
