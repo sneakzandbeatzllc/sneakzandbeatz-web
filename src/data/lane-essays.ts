@@ -13762,6 +13762,36 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "heroImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/09/25/774e6cb2/gameinformer_gtavi_issue382_hero.jpg.webp",
     "publishedAt": "2026-09-25",
     "goLiveAt": "2026-09-25"
+  },
+  {
+    "slug": "kendrick-lamar-grand-national-tour-highest-grossing-rap-year-390-million-punch-sza-september-25-2026",
+    "pillar": "hiphop",
+    "title": "Kendrick Lamar's Grand National Tour Grossed $390.7M, Rap's Biggest Touring Year Ever",
+    "headline": "$390.7 Million.\nKendrick's Year, On Paper.",
+    "subhead": "Updated Grand National Tour totals, now including Australia and Latin America, come to $390.7M from 2.037M tickets across 47 shows, the highest-grossing touring year by a rapper. TDE's Punch: \"390 is nuts.\"",
+    "description": "Updated totals give Kendrick Lamar's Grand National Tour $390.7M from 47 shows, the highest-grossing touring year by a rapper. Punch answers the SZA debate.",
+    "keywords": [
+      "Kendrick Lamar",
+      "SZA",
+      "Grand National Tour",
+      "TDE",
+      "Punch",
+      "highest-grossing rap tour",
+      "GNX",
+      "touring record",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "$390.7 MILLION.\nKENDRICK'S YEAR, ON PAPER.",
+    "ogAccent": "C8102E",
+    "heroCredit": "Kevin Sabitus/Getty Images via XXL",
+    "heroCreditUrl": "https://www.xxlmag.com/kendrick-lamar-earns-highest-grossing-touring-year/",
+    "heroFocus": "center",
+    "trendScore": 90,
+    "body": "Nine months after the last stadium went dark, the Grand National Tour is still breaking records. The final numbers are in: **$390.7 million** from **2.037 million tickets** across **47 shows** in 2025. By the reported count, that's the highest-grossing touring year any rapper has ever had.\n\n## What got reported\nBox-office trackers on X posted the updated totals Thursday, Sept. 24. [XXL](https://x.com/XXL) credits the numbers to ChartData, and [HotNewHipHop](https://www.hotnewhiphop.com/1010912-kendrick-lamar-grand-national-highest-grossing-year-rapper) credits Touring Data. Both outlets report the same figures, though, so the discrepancy is only about who posted them first. [XXL](https://www.xxlmag.com/kendrick-lamar-earns-highest-grossing-touring-year/) wrote it up Friday, Sept. 25.\n\nThe new totals fold in the **Australia and Latin America legs**, the dates that came after the North American and European runs. That puts the tour past the previous rap-tour record. As covered in 2025, it's also already the highest-grossing co-headlining tour ever.\n\n![Kendrick Lamar performing at the Super Bowl LIX halftime show](https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/09/2025-03-02T180900Z_1602502789_MT1USATODAY25559947_RTRMADP_3_NFL-SUPER-BOWL-LIX-KANSAS-CITY-CHIEFS-AT-PHILADELPHIA-EAGLES-1-scaled.jpg \"Mark J. Rebilas-Imagn Images via Reuters Connect / HotNewHipHop|https://www.hotnewhiphop.com/1010912-kendrick-lamar-grand-national-highest-grossing-year-rapper\")\n\n## The single-night numbers\nHNHH reports that the **Mexico City** stop was Kendrick's biggest solo concert by both gross and attendance: **$5.879 million from 58,426 tickets**. The Seattle night already held the record for the highest-grossing hip-hop concert, at [$14.811 million from 60,941 tickets per Billboard](https://www.billboard.com/pro/kendrick-lamar-sza-grand-national-tour-breaks-record/).\n\n## Punch set the record straight\nTDE president **Punch** answered Friday on X. His opener was \"390 is nuts lol. Extremely grateful!\" He then went after the argument that was already filling the replies: whose tour was it? Per XXL, his position is that both things are true. Dot has the highest-grossing rap tour of all time, and SZA co-headlined. He says either of them could've sold out their own stadium run, and they toured together because they're family.\n\nThat's the right frame. The Grand National wasn't a rapper borrowing an R&B star's audience or the other way around. It was two TDE artists at their commercial peak on the same bill. The co-headliner argument is the internet trying to put an asterisk on a number that doesn't need one.\n\n## Why it lands now\n2026 has been Kendrick's quiet year. There's no album, just a string of features: the [Jhené Aiko \"So Good\" record](https://sneakzandbeatz.com/the-lane/jhene-aiko-westside-whimsy-kendrick-lamar-so-good-2026) and a verse for DJ Dahii. The [*Whitney Springs* movie with the South Park guys got pushed again](https://sneakzandbeatz.com/the-lane/south-park-trey-parker-matt-stone-apologize-kendrick-lamar-whitney-springs-delay-2026). With no rollout to talk about, the receipts from 2025 are doing it for him. GNX, the Super Bowl halftime show and a full year on the road added up to nearly $400 million.\n\nThe bigger point: rap is proving again that it can move stadium money at the scale of pop tours. And the artist who did it spent the whole cycle on a Compton-first, no-compromise record.\n\n## Sources\n- [XXL — Kendrick Lamar Earns Highest-Grossing Touring Year by a Rapper in History – Report](https://www.xxlmag.com/kendrick-lamar-earns-highest-grossing-touring-year/) (Sept. 25, 2026)\n- [HotNewHipHop — Kendrick Lamar Breaks Another Touring Record With Grand National Tour](https://www.hotnewhiphop.com/1010912-kendrick-lamar-grand-national-highest-grossing-year-rapper) (Sept. 25, 2026)\n- [Billboard — Kendrick Lamar & SZA's Grand National Tour Just Broke an All-Time Record](https://www.billboard.com/pro/kendrick-lamar-sza-grand-national-tour-breaks-record/) (2025)\n- Box-office figures first posted on X Sept. 24, 2026 (credited to ChartData by XXL and to Touring Data by HNHH). Punch's X post, Sept. 25, 2026, per XXL.\n",
+    "heroImage": "https://townsquare.media/site/812/files/2026/02/attachment-kendrick-lamar-super-bowl-record.jpg?w=1200&format=natural",
+    "publishedAt": "2026-09-25",
+    "goLiveAt": "2026-09-25"
   }
 ];
 
