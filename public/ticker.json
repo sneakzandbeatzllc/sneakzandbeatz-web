@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-26T02:43:40+00:00",
+  "generated_utc": "2026-09-26T05:51:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,8 +137,22 @@
       "article_slug": null
     },
     {
+      "title": "12 Years Later, I Still Can't Forgive Naruto For Abruptly Switching Genres",
+      "url": "https://screenrant.com/naruto-sci-fi-genre-change-not-forgive/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "New Naruto And Sasuke Fight Drops In Action-Packed Trailer That Is Pure Hype",
       "url": "https://screenrant.com/naruto-sasuke-fight-mobile-action-packed/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Future GPX Cyber Formula's New Anime Short Reveals Cast, Staff, Screening on February 19",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-26/future-gpx-cyber-formula-new-anime-short-reveals-cast-staff-screening-on-february-19/.242205",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,22 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "New Code Geass Star Chaser Aspal Anime Reveals Teaser Trailer, 2027 Premiere",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Sweet Shop Comics Platform Hosts Glacier Bay Books Manga Titles",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-25/sweet-shop-comics-platform-hosts-glacier-bay-books-manga-titles/.242183",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -188,6 +188,13 @@
     {
       "title": "Rockstar Officially Reveals GTA 6: The Goodtime State – Vice City Collection – At $ 400",
       "url": "https://gameranx.com/updates/id/564192/article/rockstar-officially-reveals-gta-6-the-goodtime-state-vice-city-collection-at-400/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "007: First Light, Big Walk, and Resident Evil: Requiem lead the Golden Joystick Awards nominations",
       "url": "https://www.gamesradar.com/games/007-first-light-big-walk-and-resident-evil-requiem-lead-the-golden-joystick-awards-nominations/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rumor: Pierre Hintze Remains On Halo Studios, And He Hopes To Pitch New Halo Games Using AI",
-      "url": "https://gameranx.com/updates/id/564187/article/rumor-pierre-hintze-remains-on-halo-studios-and-he-hopes-to-pitch-new-halo-games-using-ai/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

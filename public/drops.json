@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-26T02:43:40+00:00",
+  "generated_utc": "2026-09-26T05:51:11+00:00",
   "items": [
     {
       "id": "462a17807e3e",
@@ -231,12 +231,36 @@
       "release_badge": ""
     },
     {
+      "id": "1793c6533b35",
+      "pillar": "anime",
+      "title": "12 Years Later, I Still Can't Forgive Naruto For Abruptly Switching Genres",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-sci-fi-genre-change-not-forgive/",
+      "thumbnail": "/drops/thumbs/1793c6533b35.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "38a90da21368",
       "pillar": "anime",
       "title": "New Naruto And Sasuke Fight Drops In Action-Packed Trailer That Is Pure Hype",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-sasuke-fight-mobile-action-packed/",
       "thumbnail": "/drops/thumbs/38a90da21368.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1b5bb73e99ef",
+      "pillar": "anime",
+      "title": "Future GPX Cyber Formula's New Anime Short Reveals Cast, Staff, Screening on February 19",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-26/future-gpx-cyber-formula-new-anime-short-reveals-cast-staff-screening-on-february-19/.242205",
+      "thumbnail": "/drops/thumbs/1b5bb73e99ef.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,36 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "5e517e707cf3",
-      "pillar": "anime",
-      "title": "New Code Geass Star Chaser Aspal Anime Reveals Teaser Trailer, 2027 Premiere",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201",
-      "thumbnail": "/drops/thumbs/5e517e707cf3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "71887546818d",
       "pillar": "anime",
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "thumbnail": "/drops/thumbs/71887546818d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5980da0ebdb4",
-      "pillar": "anime",
-      "title": "Sweet Shop Comics Platform Hosts Glacier Bay Books Manga Titles",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-25/sweet-shop-comics-platform-hosts-glacier-bay-books-manga-titles/.242183",
-      "thumbnail": "/drops/thumbs/5980da0ebdb4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +321,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564192/article/rockstar-officially-reveals-gta-6-the-goodtime-state-vice-city-collection-at-400/",
       "thumbnail": "/drops/thumbs/116a2c26977d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "106e78d231d8",
+      "pillar": "gaming",
+      "title": "News GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
+      "thumbnail": "/drops/thumbs/106e78d231d8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -369,18 +381,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/007-first-light-big-walk-and-resident-evil-requiem-lead-the-golden-joystick-awards-nominations/",
       "thumbnail": "/drops/thumbs/9bd8223458f3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "de28392d02ff",
-      "pillar": "gaming",
-      "title": "Rumor: Pierre Hintze Remains On Halo Studios, And He Hopes To Pitch New Halo Games Using AI",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564187/article/rumor-pierre-hintze-remains-on-halo-studios-and-he-hopes-to-pitch-new-halo-games-using-ai/",
-      "thumbnail": "/drops/thumbs/de28392d02ff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
