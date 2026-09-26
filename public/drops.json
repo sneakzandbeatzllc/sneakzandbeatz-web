@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-26T09:06:17+00:00",
+  "generated_utc": "2026-09-26T12:08:27+00:00",
   "items": [
     {
       "id": "dcf5851da4f4",
@@ -63,6 +63,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "65d8c274842e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Mid “Dia de Los Muertos” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-mid-dia-de-los-muertos-2026/",
+      "thumbnail": "/drops/thumbs/65d8c274842e.jpg",
+      "published": "2026-09-26T03:17:54",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "35883fdfc4b4",
       "pillar": "sneakers",
       "title": "Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info",
@@ -87,15 +99,15 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "9e124e1dece4",
-      "pillar": "sneakers",
-      "title": "JAIDE x Air Jordan 1 Low OG Releases December 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/jaide-air-jordan-1-low-og/",
-      "thumbnail": "/drops/thumbs/9e124e1dece4.jpg",
-      "published": "2026-09-23T22:45:43",
+      "id": "505e47d2ee72",
+      "pillar": "hiphop",
+      "title": "Josh “Dot” Stone: The One of One Who Forged His Destiny and Built a Second Life From a Broken Dream",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/09/25/josh-dot-stone-the-one-of-one-who-forged-his-destiny-and-built-a-second-life-from-a-broken-dream/",
+      "thumbnail": "/drops/thumbs/505e47d2ee72.jpg",
+      "published": "2026-09-25T19:07:00",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/09/25/shedeur-sanders-shows-up-for-east-cleveland-students-and-earns-nflpa-community-honor/",
       "thumbnail": "/drops/thumbs/7972da5c8df7.jpg",
       "published": "2026-09-25T13:01:33",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f5320ad8d2d1",
-      "pillar": "hiphop",
-      "title": "Ed Sheeran’s Gillette Stadium Shows Canceled as Storm Underscores Rough Tour After Macklemore ‘Free Palestine’ Exit",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/09/25/ed-sheerans-gillette-stadium-shows-canceled-as-storm-underscores-rough-tour-after-macklemore-free-palestine-exit/",
-      "thumbnail": "/drops/thumbs/f5320ad8d2d1.jpg",
-      "published": "2026-09-25T12:56:32",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "106e78d231d8",
-      "pillar": "gaming",
-      "title": "News GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
-      "thumbnail": "/drops/thumbs/106e78d231d8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "c17f30c1e670",
       "pillar": "gaming",
       "title": "Matthew Ball: XBOX Is Very Happy With GTA 6 Pre-Orders, Breaking Their Internal Records",
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "d0f17ebc533a",
+      "pillar": "gaming",
+      "title": "Feature Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+      "thumbnail": "/drops/thumbs/d0f17ebc533a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "dcf5851da4f4",
-    "16c90ef24f60",
+    "505e47d2ee72",
     "462a17807e3e",
     "810c99754318",
     "2c6584a01a31",

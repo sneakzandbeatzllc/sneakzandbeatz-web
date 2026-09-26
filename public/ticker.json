@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-26T09:06:17+00:00",
+  "generated_utc": "2026-09-26T12:08:27+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,6 +39,13 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 1 Mid “Dia de Los Muertos” Releases October 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-mid-dia-de-los-muertos-2026/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
       "title": "Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/kids-air-jordan-6-low-fearless-768878-001/",
       "pillar": "sneakers",
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "JAIDE x Air Jordan 1 Low OG Releases December 2026",
-      "url": "https://www.sneakerfiles.com/jaide-air-jordan-1-low-og/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Josh “Dot” Stone: The One of One Who Forged His Destiny and Built a Second Life From a Broken Dream",
+      "url": "https://thesource.com/2026/09/25/josh-dot-stone-the-one-of-one-who-forged-his-destiny-and-built-a-second-life-from-a-broken-dream/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -104,13 +111,6 @@
     {
       "title": "Shedeur Sanders Shows Up for East Cleveland Students and Earns NFLPA Community Honor",
       "url": "https://thesource.com/2026/09/25/shedeur-sanders-shows-up-for-east-cleveland-students-and-earns-nflpa-community-honor/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ed Sheeran’s Gillette Stadium Shows Canceled as Storm Underscores Rough Tour After Macklemore ‘Free Palestine’ Exit",
-      "url": "https://thesource.com/2026/09/25/ed-sheerans-gillette-stadium-shows-canceled-as-storm-underscores-rough-tour-after-macklemore-free-palestine-exit/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5-xbox-exec-responds",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Matthew Ball: XBOX Is Very Happy With GTA 6 Pre-Orders, Breaking Their Internal Records",
       "url": "https://gameranx.com/updates/id/564190/article/matthew-ball-xbox-is-very-happy-with-gta-6-pre-orders-breaking-their-internal-records/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "007: First Light, Big Walk, and Resident Evil: Requiem lead the Golden Joystick Awards nominations",
       "url": "https://www.gamesradar.com/games/007-first-light-big-walk-and-resident-evil-requiem-lead-the-golden-joystick-awards-nominations/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Feature Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+      "url": "https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
