@@ -13822,6 +13822,62 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "heroImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/2025-06-23T174336Z_229722539_RC2H8FAUZNHZ_RTRMADP_3_FILM-F1-LONDON-PREMIERE-1790357902.jpg?resize=1920%2C1440",
     "publishedAt": "2026-09-25",
     "goLiveAt": "2026-09-25"
+  },
+  {
+    "slug": "ye-donda-academy-unsound-mind-defense-fight-provo-october-12-trial-2026",
+    "pillar": "hiphop",
+    "title": "Provo Fights to Block Ye's 'Unsound Mind' Defense",
+    "headline": "Ye Said He Was Himself.\nHis Lawyers Might Argue Otherwise.",
+    "subhead": "Benjamin Provo's team wants Ye's mental-health defense kept out of the October 12 discrimination trial, and they're using Ye's own deposition to do it.",
+    "description": "Benjamin Provo's lawyers move to block Ye's 'unsound mind' defense ahead of the Oct. 12 Donda Academy trial, citing Ye's own deposition testimony.",
+    "keywords": [
+      "Ye unsound mind defense",
+      "Kanye West Donda Academy trial",
+      "Benjamin Provo lawsuit",
+      "Ye October 12 trial",
+      "Kanye West deposition",
+      "Donda Academy discrimination case",
+      "Sneakz and Beatz",
+      "PHRHX",
+      "Black-owned media"
+    ],
+    "ogHeadline": "YE SAID HE WAS HIMSELF.\nHIS LAWYERS MIGHT SAY OTHERWISE.",
+    "ogAccent": "8B1E3F",
+    "heroCredit": "RealityTea",
+    "heroCreditUrl": "https://www.realitytea.com/2026/09/01/kanye-west-unsound-mind-defense-benjamin-provo/",
+    "heroFocus": "center",
+    "trendScore": 58,
+    "publishedAt": "2026-09-27",
+    "goLiveAt": "2026-09-27",
+    "body": "Fifteen days out from trial, Ye's discrimination case just picked up a new fight, and it's not about the delay request that made headlines last week. It's about whether his lawyers get to argue he wasn't himself when he ran Donda Academy — and Ye's own words under oath might be the thing that closes that door.\n\n## What Provo's team is asking for\nBenjamin Provo, the former Donda Academy security guard suing Ye for up to $23 million, says he was fired in 2024 for refusing to cut his dreadlocks, worn for his Muslim faith, and that Black staff at the school were treated worse than their white counterparts. According to [RealityTea](https://www.realitytea.com/2026/09/01/kanye-west-unsound-mind-defense-benjamin-provo/) and [MediaTakeOut](https://mediatakeout.com/kanye-wests-october-trial-gets-messier-with-fight-over-unsound-mind-claims), Provo's lawyers have asked the court to bar Ye from raising an \"unsound mind\" defense at the October 12 non-jury trial in Los Angeles Superior Court. Their argument: Ye's team raised the issue late, after an August 24 pretrial discussion, and never backed it up — no medical records, no testimony about his mental state, no retained expert witness to tie any diagnosis to his conduct during the relevant period.\n\n## Ye's own deposition undercuts the defense before it's built\nThe detail that makes this stick: Ye was reportedly asked directly, in his deposition, whether he felt unlike himself during the Donda Academy period. His answer, per [Wonderwall](https://www.wonderwall.com/celebrity/kanye-west-former-employee-move-court-prevent-rapper-from-claiming-unsound-mind-defense): \"No. I think that was close to me being myself, but people change, though, too.\" That's not a man distancing himself from that chapter. That's a man owning it. If Provo's motion succeeds, that quote is exactly why.\n\n## Two fights, one trial date\nThis is separate from the trial-delay request already reported this week — Ye's team asking to push the case to May 2027 over Russia tour dates and a deported former Yeezy exec. No ruling on that request has landed as of this build. Both fights are happening on the same clock: the Oct. 12 date still stands unless a judge says otherwise.\n\n## Why it matters\nA discrimination case about hair, faith and how Black employees got treated at a school with Donda's name on it was never going to be simple. Now add a mental-health defense that the person raising it appears to have talked himself out of, under oath, before his own lawyers tried to use it. Legacy is the sign on the building and how you treat the people who worked under it — and now it's also what you say when nobody's coaching the answer.\n\nBuilt for the culture. Operated by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.\n\n## Sources\n- [RealityTea, Sept. 1, 2026](https://www.realitytea.com/2026/09/01/kanye-west-unsound-mind-defense-benjamin-provo/)\n- [MediaTakeOut, 2026](https://mediatakeout.com/kanye-wests-october-trial-gets-messier-with-fight-over-unsound-mind-claims)\n- [Wonderwall, 2026](https://www.wonderwall.com/celebrity/kanye-west-former-employee-move-court-prevent-rapper-from-claiming-unsound-mind-defense)\n"
+  },
+  {
+    "slug": "ilio-sines-free-presets-omnisphere-3-bedroom-producers-blog-2026",
+    "pillar": "hiphop",
+    "title": "ILIO's Free SINES Presets Land in Omnisphere 3",
+    "headline": "Ten Free Patches.\nBuilt for Trap Soul.",
+    "subhead": "ILIO and producer LifeStyleDidIt dropped a free ten-preset demo pack for Spectrasonics Omnisphere 3, built for modern R&B and trap soul.",
+    "description": "ILIO's free SINES demo pack brings ten Omnisphere 3 presets built for modern R&B and trap soul — keys, pads, basses and bells, no purchase required.",
+    "keywords": [
+      "ILIO SINES Omnisphere",
+      "free Omnisphere 3 presets",
+      "Spectrasonics Omnisphere 3",
+      "free synth patches 2026",
+      "trap soul production",
+      "producer gear 2026",
+      "Sneakz and Beatz",
+      "PHRHX",
+      "Black-owned media"
+    ],
+    "ogHeadline": "10 FREE PATCHES.\nBUILT FOR TRAP SOUL.",
+    "ogAccent": "1F6F8B",
+    "heroCredit": "Bedroom Producers Blog",
+    "heroCreditUrl": "https://bedroomproducersblog.com/2026/09/25/ilio-sines-presets/",
+    "heroFocus": "center",
+    "trendScore": 44,
+    "publishedAt": "2026-09-27",
+    "goLiveAt": "2026-09-27",
+    "body": "You still need to own Omnisphere 3 for this one, but if you do, ILIO just made your patch browser a little richer for free.\n\n## What's in the pack\nILIO and producer LifeStyleDidIt built SINES, a preset library for Spectrasonics' Omnisphere, back in 2024, and recently updated it to run on the new effects chain in Omnisphere 3. Per [Bedroom Producers Blog](https://bedroomproducersblog.com/2026/09/25/ilio-sines-presets/), the two just released the SINES Demo Pack — ten free presets covering keys, pads, basses, bells, leads and synth textures, with patch names like Glimmer, Lush, Retro and Wavy. Every patch ships with mod-wheel assignments and aftertouch mapped in, so the expression is built into the patch, not something you have to program yourself.\n\n## Who it's actually built for\nBPB is direct about the target: these are \"designed for modern R&B and Trap Soul,\" though they'll sit fine under chill, lo-fi and general hip-hop work too. That's a specific pocket — warm, textured, a little hazy — and it shows in the patch names. This isn't a general-purpose bank; it's tuned for a sound.\n\n## The catch, such as it is\nNo standalone player, no lite version — you need the actual Omnisphere 3 license, on Mac or Windows. Getting the pack means dropping an email on ILIO's download page; the link lands in your inbox and you're subscribed to their list until you opt out. No checkout, no account wall beyond that.\n\n## Why it's worth the download\nFree patches for an instrument you already paid for is the easiest yes in the plugin world. It doesn't replace a sound-design session, but it's ten more textures in the browser by the time your next session starts, and the mod-wheel work is already done for you.\n\nBuilt for the culture. Operated by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.\n\n## Sources\n- [Bedroom Producers Blog, Sept. 25, 2026](https://bedroomproducersblog.com/2026/09/25/ilio-sines-presets/)\n"
   }
 ];
 
