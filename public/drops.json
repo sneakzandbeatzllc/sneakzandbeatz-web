@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-26T18:17:22+00:00",
+  "generated_utc": "2026-09-26T21:21:16+00:00",
   "items": [
     {
       "id": "dcf5851da4f4",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "1973e2a1d7ba",
-      "pillar": "gaming",
-      "title": "News GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-      "thumbnail": "/drops/thumbs/1973e2a1d7ba.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "163a2943a055",
       "pillar": "gaming",
       "title": "GTA 6 on Nintendo Switch 2 \"doesn't make sense\" says former Rockstar dev 21 Comments",
@@ -351,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "e44c849dc652",
+      "pillar": "gaming",
+      "title": "News Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+      "thumbnail": "/drops/thumbs/e44c849dc652.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "88b41e3c4152",
       "pillar": "gaming",
       "title": "News PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "8ad360a45438",
+      "id": "e4aec7c6fda4",
       "pillar": "gaming",
-      "title": "News Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint",
+      "title": "News The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/sony-spooked-by-rumoured-usd400-million-budget-for-hideo-kojimas-physint",
-      "thumbnail": "/drops/thumbs/8ad360a45438.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
+      "thumbnail": "/drops/thumbs/e4aec7c6fda4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "462a17807e3e",
     "810c99754318",
     "2c6584a01a31",
-    "1973e2a1d7ba"
+    "163a2943a055"
   ]
 }

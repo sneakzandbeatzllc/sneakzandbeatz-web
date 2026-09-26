@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-26T18:17:22+00:00",
+  "generated_utc": "2026-09-26T21:21:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
-      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 on Nintendo Switch 2 \"doesn't make sense\" says former Rockstar dev 21 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/bringing-gta-6-to-nintendo-switch-2-doesnt-make-sense-when-anyone-will-buy-a-ps5-to-get-your-game-says-former-rockstar-dev/",
       "pillar": "gaming",
@@ -207,6 +200,13 @@
       "article_slug": null
     },
     {
+      "title": "News Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
       "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
       "pillar": "gaming",
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-spooked-by-rumoured-usd400-million-budget-for-hideo-kojimas-physint",
+      "title": "News The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced",
+      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
