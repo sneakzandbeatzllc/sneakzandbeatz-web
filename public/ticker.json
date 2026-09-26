@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-25T23:36:29+00:00",
+  "generated_utc": "2026-09-26T02:43:40+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Naruto's Next Anime Is Going To Save The Franchise",
-      "url": "https://screenrant.com/naruto-next-anime-boruto-two-blue-vortex-save-the-franchise/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "North American Anime, Manga Releases, September 20-26",
       "url": "https://www.animenewsnetwork.com/news/2026-09-25/north-american-anime-manga-releases-september-20-26/.242064",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sweet Shop Comics Platform Hosts Glacier Bay Books Manga Titles",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-25/sweet-shop-comics-platform-hosts-glacier-bay-books-manga-titles/.242183",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
