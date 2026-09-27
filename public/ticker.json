@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-27T03:57:42+00:00",
+  "generated_utc": "2026-09-27T07:16:36+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,6 +172,13 @@
       "article_slug": null
     },
     {
+      "title": "News GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "GTA 6 on Nintendo Switch 2 \"doesn't make sense\" says former Rockstar dev 27 Comments",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/bringing-gta-6-to-nintendo-switch-2-doesnt-make-sense-when-anyone-will-buy-a-ps5-to-get-your-game-says-former-rockstar-dev/",
       "pillar": "gaming",
@@ -202,13 +209,6 @@
     {
       "title": "News Xbox Allegedly Paying a 'Fraction' of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint",
       "url": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PS5's Welcome Hub Adds Animated The Last of Us Wallpaper",
-      "url": "https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
