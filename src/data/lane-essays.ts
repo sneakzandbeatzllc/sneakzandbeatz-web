@@ -14765,6 +14765,42 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "heroImage": "https://images.complex.com/complex/image/upload/c_crop,h_1620,w_2881,x_0,y_0/g_auto:aoi_1140_272_576_324,ar_1.91,c_fill,q_auto,w_1200/sanity-new/igf8u3edpgi2dupy85aw",
     "publishedAt": "2026-09-27",
     "goLiveAt": "2026-09-27"
+  },
+  {
+    "slug": "cardi-b-kehlani-safe-wins-best-hip-hop-2026-vmas-snoop-host-gunna-high-noon-chains-and-whips-shut-out-september-27-2026",
+    "pillar": "hiphop",
+    "title": "Cardi B & Kehlani's \"Safe\" Wins Best Hip-Hop at the 2026 VMAs",
+    "headline": "Cardi B Takes the\nRap Moonman",
+    "subhead": "\"Safe\" beat Megan, Travis, Tyler and Don Toliver for Best Hip-Hop. Snoop hosted, Gunna debuted \"High Noon\" in a burning saloon, and \"Chains & Whips\" lost Best Collab to Madonna.",
+    "description": "Cardi B & Kehlani's \"Safe\" won Best Hip-Hop at the 2026 VMAs. Snoop hosted, Gunna debuted \"High Noon,\" and Clipse/Kendrick lost Best Collab to Madonna.",
+    "keywords": [
+      "2026 VMAs",
+      "VMAs winners",
+      "Best Hip-Hop",
+      "Cardi B",
+      "Kehlani",
+      "Safe",
+      "Snoop Dogg",
+      "Gunna",
+      "High Noon",
+      "Shaboozey",
+      "Chains & Whips",
+      "Clipse",
+      "Kendrick Lamar",
+      "A$AP Rocky",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "CARDI B TAKES\nTHE RAP MOONMAN",
+    "ogAccent": "FFD700",
+    "heroCredit": "Chris Pizzello/AP Photo via The Boston Globe",
+    "heroCreditUrl": "https://www.bostonglobe.com/2026/09/27/arts/vmas-2026-winners-list/",
+    "heroFocus": "center",
+    "trendScore": 91,
+    "body": "The rap Moonman went to Cardi B. \"Safe,\" her record with Kehlani, took **Best Hip-Hop** at the 2026 MTV VMAs Sunday night at the Peacock Theater in Los Angeles, per the final winners list from [People](https://people.com/mtv-vmas-2026-winners-list-12135520). It beat Megan Thee Stallion's \"LOVER GIRL,\" Travis Scott's \"DUMBO,\" Tyler, The Creator's \"SUGAR ON MY TONGUE\" and Don Toliver's \"E85.\" Snoop Dogg hosted, and the night otherwise belonged to Madonna.\n\n## The win\nThis was the one category built entirely for our side of the building, and [we laid out the field Thursday](https://sneakzandbeatz.com/the-lane/2026-vmas-best-hip-hop-video-nominees-snoop-dogg-host-gunna-shaboozey-september-27-2026). Cardi taking it matters for a simple reason. \"Safe\" is a slow, grown record: Kehlani on the hook, Cardi rapping about protection and loyalty instead of smoke. MTV voters picked that over two Cactus Jack records and a Tyler video. That's a statement about what the category rewards now. Mood and a clean visual beat volume.\n\nKehlani also had \"Folded\" up in Best R&B. That one went to Bruno Mars's \"I Just Might\" ([People](https://people.com/mtv-vmas-2026-winners-list-12135520)).\n\n!youtube(https://youtu.be/E_0y8bmIATM)\n\n## Where rap came up short\n- **Best Collaboration:** Clipse, Kendrick Lamar, Pusha T and Malice's \"Chains & Whips\" lost to Madonna & Sabrina Carpenter's \"Bring Your Love.\" So did French Montana x Max B's \"Ever Since U Left Me\" ([NBC New York](https://www.nbcnewyork.com/entertainment/entertainment-news/mtv-video-music-awards-2026-winners/6552368/), [Paste](https://www.pastemagazine.com/music/vmas/vmas-2026-winners-list)). Heads up: a search-engine summary floating around earlier tonight credited \"Chains & Whips\" with the win. It didn't win.\n- **Best Cinematography:** A$AP Rocky's \"PUNK ROCKY\" lost to Madonna's *Confessions II – The Film* ([People](https://people.com/mtv-vmas-2026-winners-list-12135520)).\n- **Best R&B:** Chris Brown's \"It Depends/Obvious\" came up empty too. Bruno took it.\n\nMadonna left with seven Moonmen, including Artist of the Year, Best Album and Best Collaboration. Taylor Swift won Video of the Year for \"The Fate of Ophelia\" and picked up the new Artist Director Honors. BTS won Song of the Year. Bad Bunny's \"NUEVAYoL\" took Best Latin ([People](https://people.com/mtv-vmas-2026-winners-list-12135520)).\n\n## Gunna in a saloon\nThe hip-hop performance slot went to Gunna. He came out of a black carriage in the middle of Shaboozey's Western set for the live debut of \"High Noon.\" The set opened in a saloon with \"Cowgirl\" and a staged bar fight, and ended with the saloon on fire ([Rolling Stone](https://www.rollingstone.com/music/music-news/shaboozey-gunna-high-noon-vmas-performance-1235631662/), [Just Jared](https://www.justjared.com/2026/09/27/shaboozey-is-joined-by-gunna-for-mtv-vmas-2026-performance/)). It wasn't a rap-only moment, but Gunna on a CBS broadcast next to country's biggest crossover act is a strong placement for him.\n\n![Gunna performs \"High Noon\" with Shaboozey at the 2026 MTV VMAs, Peacock Theater, Los Angeles, Sept. 27, 2026](https://www.justjared.com/wp-content/uploads/2026/09/shaboozey-at-mtv-vmas-18.jpg \"CBS via Just Jared|https://www.justjared.com/2026/09/27/shaboozey-is-joined-by-gunna-for-mtv-vmas-2026-performance/\")\n\n## Snoop's night at the mic\nSnoop opened by taking credit for pulling the show back to L.A. The VMAs had been on the East Coast since 2018. He joked that he'd only host if it was in Los Angeles ([Billboard](https://www.billboard.com/music/awards/snoop-dogg-host-vmas-monologue-1236348609/)), and he spent part of the monologue roasting Madonna ([The Hollywood Reporter](https://www.hollywoodreporter.com/music/music-news/snoop-dogg-mtv-vmas-2026-host-highlights-best-moments-1236713193/)). *Note: we couldn't load the full Billboard and THR write-ups directly, so the monologue details here come from their published headlines and summaries.*\n\n## The read\nFour rap records and a Clipse/Kendrick posse cut were on the ballot, and one Moonman came home. That's about the VMAs' normal ratio. The telecast is a pop show with a rap category attached. Still, a Bronx woman winning Best Hip-Hop with a record built on vulnerability in a year stacked with Cactus Jack is worth noting. And the loudest rap record of the year, \"Chains & Whips,\" losing Best Collab to a Madonna duet tells you exactly who the voters were.\n\n## Sources\n- [People via AOL: MTV VMAs 2026, See the Complete Winners List (Sept. 27, 2026)](https://www.aol.com/articles/mtv-vmas-2026-see-complete-235153000.html)\n- [NBC New York: 2026 MTV Video Music Awards, See the Full List of Winners (Sept. 27, 2026)](https://www.nbcnewyork.com/entertainment/entertainment-news/mtv-video-music-awards-2026-winners/6552368/)\n- [Paste: 2026 VMAs, See the Full List of Winners (Sept. 27, 2026)](https://www.pastemagazine.com/music/vmas/vmas-2026-winners-list)\n- [Boston Globe: 2026 MTV VMAs Winners and Nominees (Sept. 27, 2026)](https://www.bostonglobe.com/2026/09/27/arts/vmas-2026-winners-list/)\n- [Rolling Stone: Shaboozey and Gunna Light Up the 2026 VMAs With \"High Noon\" (Sept. 27, 2026)](https://www.rollingstone.com/music/music-news/shaboozey-gunna-high-noon-vmas-performance-1235631662/)\n- [Just Jared: Shaboozey Is Joined by Gunna for MTV VMAs 2026 Performance (Sept. 27, 2026)](https://www.justjared.com/2026/09/27/shaboozey-is-joined-by-gunna-for-mtv-vmas-2026-performance/)\n- [Billboard: Snoop Dogg Takes Credit for Bringing VMAs to L.A. in Opening Monologue (Sept. 27, 2026)](https://www.billboard.com/music/awards/snoop-dogg-host-vmas-monologue-1236348609/)\n- [The Hollywood Reporter: Snoop Dogg VMAs 2026 Host Highlights (Sept. 27, 2026)](https://www.hollywoodreporter.com/music/music-news/snoop-dogg-mtv-vmas-2026-host-highlights-best-moments-1236713193/)\n- [@xxlmag: 2026 VMAs Best Hip-Hop nominees (Aug. 2026)](https://www.facebook.com/xxlmag/posts/the-2026-mtv-vmas-best-hip-hop-nominees-are-in-cardi-b-ft-kehlani-safedon-tolive/1595082128878764/)\n- [Cardi B: \"Safe\" (feat. Kehlani), Official Music Video](https://youtu.be/E_0y8bmIATM)\n",
+    "heroImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/Q35M6EHDB6A35FA6DFLX4EXQYU.jpg?auth=77082f75111ef75f196ee660cc94932d4579b24d497eed73e13976f63de4fade&width=1440",
+    "publishedAt": "2026-09-27",
+    "goLiveAt": "2026-09-27"
   }
 ];
 
