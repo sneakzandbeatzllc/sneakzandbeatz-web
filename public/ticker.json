@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-29T20:07:39+00:00",
+  "generated_utc": "2026-09-29T23:12:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -15,13 +15,6 @@
       "url": "https://www.nicekicks.com/j-balvin-air-jordan-4-amazonas-iw2872-700/",
       "pillar": "sneakers",
       "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Jordan Legacy 312 Low MCS “Chicago” Releases October 2026",
-      "url": "https://justfreshkicks.com/jordan-legacy-312-low-mcs-chicago-im3101-100/",
-      "pillar": "sneakers",
-      "score": 2.4,
       "article_slug": null
     },
     {
@@ -55,6 +48,13 @@
     {
       "title": "The Air Jordan 4 “Light Army” Will Be a Europe Exclusive",
       "url": "https://www.nicekicks.com/air-jordan-4-light-army-ja5911-320/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Where To Buy the Air Jordan 1 Low OG “Last Dance At The Garden”",
+      "url": "https://www.nicekicks.com/air-jordan-1-low-og-last-dance-at-the-garden-ir0088-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -144,15 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "Ankoku Delta's Alpa Launches New Slap Shot Girls Hockey Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-29/ankoku-delta-alpa-launches-new-slap-shot-girls-hockey-manga/.242283",
+      "title": "Dungeon Farm Manga Artist Mozukuzu Launches New Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-29/dungeon-farm-manga-artist-mozukuzu-launches-new-manga/.242296",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Titan Manga's Chiruran 3-in-1 Edition Manga Ships in January 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-29/titan-manga-chiruran-3-in-1-edition-manga-ships-in-january-2027/.242320",
+      "title": "Katsuwo Launches Manga Adaptation of Renren Ii's Ōja no Ban Kuruwase Shōgi Novels",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-29/katsuwo-launches-manga-adaptation-of-renren-ii-oja-no-ban-kuruwase-shogi-novels/.242286",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "OceanVeil Streams Even the Student Council Has its Holes! Anime on October 3",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-29/oceanveil-streams-even-the-student-council-has-its-holes-anime-on-october-3/.242293",
+      "title": "Now That I Can Control Reality With A Mouse Cursor Anime's English Dub Debuts on October 4",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-29/now-that-i-can-control-reality-with-a-mouse-cursor-anime-english-dub-debuts-on-october-4/.242267",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News Ghost of Yotei: Complete Edition Gets Awesome Astro Bot, Journey, Helldivers Armour Sets",
-      "url": "https://www.pushsquare.com/news/2026/09/ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journey-helldivers-armour-sets",
+      "title": "News Industry Snoop Says Naughty Dog's Shaun Escayg Is Not Working on The Last of Us",
+      "url": "https://www.pushsquare.com/news/2026/09/industry-snoop-says-naughty-dogs-shaun-escayg-is-not-working-on-the-last-of-us",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News One of The Witcher 3's Most Celebrated Writers Returns to CD Projekt Red",
-      "url": "https://www.pushsquare.com/news/2026/09/one-of-the-witcher-3s-most-celebrated-writers-returns-to-cd-projekt-red",
+      "title": "News Ghost of Yotei: Complete Edition Gets Awesome Astro Bot, Journey, Helldivers Armour Sets",
+      "url": "https://www.pushsquare.com/news/2026/09/ghost-of-yotei-complete-edition-gets-awesome-astro-bot-journey-helldivers-armour-sets",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
