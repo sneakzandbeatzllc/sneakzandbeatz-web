@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-29T04:35:11+00:00",
+  "generated_utc": "2026-09-29T07:36:43+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -11,8 +11,8 @@
       "article_slug": null
     },
     {
-      "title": "J Balvin x Air Jordan 4 “Amazonas” Releases September 2026",
-      "url": "https://www.sneakerfiles.com/j-balvin-air-jordan-4-lemonade/",
+      "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/j-balvin-air-jordan-4-amazonas-iw2872-700/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -22,6 +22,13 @@
       "url": "https://www.nicekicks.com/air-jordan-5-wmns-sunset-iv5678-102/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Jordan Legacy 312 Low MCS “Chicago” Releases October 2026",
+      "url": "https://justfreshkicks.com/jordan-legacy-312-low-mcs-chicago-im3101-100/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.nicekicks.com/kids-air-jordan-6-low-fearless-768878-001/",
       "pillar": "sneakers",
       "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low “Grand Purple” Releases Fall/Winter 2026",
-      "url": "https://justfreshkicks.com/air-jordan-1-low-grand-purple-iz2383-503/",
-      "pillar": "sneakers",
-      "score": 2.0,
       "article_slug": null
     },
     {
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
-      "url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+      "title": "News The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4",
-      "url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
+      "title": "Discord’s Second Attempt To Roll Out Age Verification Is Going Badly",
+      "url": "https://kotaku.com/discords-second-attempt-to-roll-out-age-verification-is-going-badly-2000737908",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Discord’s Second Attempt To Roll Out Age Verification Is Going Badly",
-      "url": "https://kotaku.com/discords-second-attempt-to-roll-out-age-verification-is-going-badly-2000737908",
+      "title": "Rumor: Xbox Reset Is Happening Because Of Microsoft’s AI Push, Xbox Game Studios Was Their “Vestigial Leg”",
+      "url": "https://gameranx.com/updates/id/564211/article/rumor-xbox-reset-is-happening-because-of-microsofts-ai-push-xbox-game-studios-was-their-vestigial-leg/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

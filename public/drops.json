@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-29T04:35:11+00:00",
+  "generated_utc": "2026-09-29T07:36:43+00:00",
   "items": [
     {
       "id": "dcf5851da4f4",
@@ -15,13 +15,13 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "2c6584a01a31",
+      "id": "4ab6773190ed",
       "pillar": "sneakers",
-      "title": "J Balvin x Air Jordan 4 “Amazonas” Releases September 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/j-balvin-air-jordan-4-lemonade/",
-      "thumbnail": "/drops/thumbs/2c6584a01a31.jpg",
-      "published": "2026-09-24T14:29:19",
+      "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/j-balvin-air-jordan-4-amazonas-iw2872-700/",
+      "thumbnail": "/drops/thumbs/4ab6773190ed.jpg",
+      "published": "2026-09-24T14:20:54",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "bd779c16ebb3",
+      "pillar": "sneakers",
+      "title": "Jordan Legacy 312 Low MCS “Chicago” Releases October 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/jordan-legacy-312-low-mcs-chicago-im3101-100/",
+      "thumbnail": "/drops/thumbs/bd779c16ebb3.jpg",
+      "published": "2026-09-29T00:44:21",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "65d8c274842e",
@@ -85,18 +97,6 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "ce1b8218a868",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low “Grand Purple” Releases Fall/Winter 2026",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-grand-purple-iz2383-503/",
-      "thumbnail": "/drops/thumbs/ce1b8218a868.jpg",
-      "published": "2026-09-28T18:36:27",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
     },
     {
       "id": "4ffd5e97ba39",
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "7d30f00f885a",
+      "id": "0c4f28a75b97",
       "pillar": "gaming",
-      "title": "News The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
+      "title": "News The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
-      "thumbnail": "/drops/thumbs/7d30f00f885a.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
+      "thumbnail": "/drops/thumbs/0c4f28a75b97.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "08220c07c98d",
-      "pillar": "gaming",
-      "title": "News Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
-      "thumbnail": "/drops/thumbs/08220c07c98d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4afba8728141",
       "pillar": "gaming",
       "title": "Discord’s Second Attempt To Roll Out Age Verification Is Going Badly",
@@ -385,12 +373,24 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "1a6632d5cf39",
+      "pillar": "gaming",
+      "title": "Rumor: Xbox Reset Is Happening Because Of Microsoft’s AI Push, Xbox Game Studios Was Their “Vestigial Leg”",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564211/article/rumor-xbox-reset-is-happening-because-of-microsofts-ai-push-xbox-game-studios-was-their-vestigial-leg/",
+      "thumbnail": "/drops/thumbs/1a6632d5cf39.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "dcf5851da4f4",
     "4ffd5e97ba39",
-    "2c6584a01a31",
+    "4ab6773190ed",
     "c6e0df965e01",
     "18abacf685a1",
     "d259b74150c2"
