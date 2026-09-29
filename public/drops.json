@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-28T22:08:50+00:00",
+  "generated_utc": "2026-09-29T01:19:52+00:00",
   "items": [
     {
       "id": "dcf5851da4f4",
@@ -13,18 +13,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "462a17807e3e",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low “Last Dance at the Garden” Drops Tomorrow",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-low-last-dance-at-the-garden-ir0088-001/",
-      "thumbnail": "/drops/thumbs/462a17807e3e.jpg",
-      "published": "2026-09-25T00:56:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Week"
     },
     {
       "id": "2c6584a01a31",
@@ -97,6 +85,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "ce1b8218a868",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low “Grand Purple” Releases Fall/Winter 2026",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-grand-purple-iz2383-503/",
+      "thumbnail": "/drops/thumbs/ce1b8218a868.jpg",
+      "published": "2026-09-28T18:36:27",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "4ffd5e97ba39",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "61450f886c0f",
+      "id": "c46cd86c6ba3",
       "pillar": "anime",
-      "title": "Cells at Work! Gets Dental Spinoff Manga",
+      "title": "Hirayasumi Anime Unveils Teaser, Key Visual, Cast",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279",
-      "thumbnail": "/drops/thumbs/61450f886c0f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-28/hirayasumi-anime-unveils-teaser-key-visual-cast/.242284",
+      "thumbnail": "/drops/thumbs/c46cd86c6ba3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "79311cadc48a",
+      "id": "61450f886c0f",
       "pillar": "anime",
-      "title": "Captain Tsubasa: Rising Sun Finals Manga Resumes Serialization in October",
+      "title": "Cells at Work! Gets Dental Spinoff Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-28/captain-tsubasa-rising-sun-finals-manga-resumes-serialization-in-october/.242277",
-      "thumbnail": "/drops/thumbs/79311cadc48a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279",
+      "thumbnail": "/drops/thumbs/61450f886c0f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "22f28b9798ab",
+      "id": "79311cadc48a",
       "pillar": "anime",
-      "title": "Stalled Despera Anime Project Gets Manga",
+      "title": "Captain Tsubasa: Rising Sun Finals Manga Resumes Serialization in October",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-28/stalled-despera-anime-project-gets-manga/.242273",
-      "thumbnail": "/drops/thumbs/22f28b9798ab.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-28/captain-tsubasa-rising-sun-finals-manga-resumes-serialization-in-october/.242277",
+      "thumbnail": "/drops/thumbs/79311cadc48a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "7d30f00f885a",
+      "id": "d259b74150c2",
       "pillar": "gaming",
-      "title": "News The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
+      "title": "News New The Last of Us Projects in 'Very Early Stages' of Development",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
-      "thumbnail": "/drops/thumbs/7d30f00f885a.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
+      "thumbnail": "/drops/thumbs/d259b74150c2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "1b0d9109c4e0",
+      "id": "7d30f00f885a",
       "pillar": "gaming",
-      "title": "Review in Progress The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece",
+      "title": "News The Last of Us Day Marked with PS5 Avatars, Ghost of Yotei DLC, Figures",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
-      "thumbnail": "/drops/thumbs/1b0d9109c4e0.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/the-last-of-us-day-marked-with-ps5-avatars-ghost-of-yotei-dlc-figures",
+      "thumbnail": "/drops/thumbs/7d30f00f885a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,36 +351,36 @@
       "release_badge": ""
     },
     {
-      "id": "5e3453cdbd6e",
+      "id": "1b0d9109c4e0",
       "pillar": "gaming",
-      "title": "News Wolverine Japanese PS5 Sales Down Massively Compared to Spider-Man",
+      "title": "Review in Progress The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/wolverine-japanese-ps5-sales-down-massively-compared-to-spider-man",
-      "thumbnail": "/drops/thumbs/5e3453cdbd6e.jpg",
+      "source_url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
+      "thumbnail": "/drops/thumbs/1b0d9109c4e0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "4b0cd3b15e54",
+      "id": "08220c07c98d",
       "pillar": "gaming",
-      "title": "News God of War Laufey PS5 Editions Revealed, Pre-Order Tomorrow",
+      "title": "News Double XP Tokens Finally Work How You'd Think They Would in Modern Warfare 4",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-editions-revealed-pre-order-tomorrow",
-      "thumbnail": "/drops/thumbs/4b0cd3b15e54.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/09/double-xp-tokens-finally-work-how-youd-think-they-would-in-modern-warfare-4",
+      "thumbnail": "/drops/thumbs/08220c07c98d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "1bd4ed1d93c2",
+      "id": "4afba8728141",
       "pillar": "gaming",
-      "title": "People Are Going Completely Wild Over Fortnite’ s FNAF Crossover Announcement",
+      "title": "Discord’s Second Attempt To Roll Out Age Verification Is Going Badly",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/people-are-going-completely-wild-over-fortnites-fnaf-crossover-annoumcent-2000737967",
-      "thumbnail": "/drops/thumbs/1bd4ed1d93c2.jpg",
+      "source_url": "https://kotaku.com/discords-second-attempt-to-roll-out-age-verification-is-going-badly-2000737908",
+      "thumbnail": "/drops/thumbs/4afba8728141.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "dcf5851da4f4",
     "4ffd5e97ba39",
-    "462a17807e3e",
-    "c6e0df965e01",
     "2c6584a01a31",
-    "7d30f00f885a"
+    "c6e0df965e01",
+    "18abacf685a1",
+    "d259b74150c2"
   ]
 }
