@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-29T07:37:45+00:00",
+  "generated_utc": "2026-09-29T10:38:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,34 @@
       "article_slug": null
     },
     {
+      "title": "LeBron James Says He Wanted to Join Knicks But Their Finals Win Killed It",
+      "url": "https://thesource.com/2026/09/29/lebron-james-says-he-wanted-to-join-knicks-but-their-finals-win-killed-it/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "LeBron James Says He Didn’t Leave His Family for Early Playoff Exits",
+      "url": "https://thesource.com/2026/09/29/lebron-james-says-he-didnt-leave-his-family-for-early-playoff-exits/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "LeBron James, Joel Embiid and Jaylen Brown Address New Era at 76ers Media Day",
+      "url": "https://thesource.com/2026/09/29/lebron-james-joel-embiid-76ers-media-day/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Stevie Wonder Celebrates 50 Years of ‘Songs in the Key of Life’ With Unreleased Recordings",
+      "url": "https://thesource.com/2026/09/29/stevie-wonder-songs-in-the-key-of-life-50th-anniversary/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Tyrese Haliburton Is Healthy Again, and the Pacers Have Their Star Closer Back",
       "url": "https://thesource.com/2026/09/28/tyrese-haliburton-is-healthy-again-and-the-pacers-have-their-star-closer-back/",
       "pillar": "hiphop",
@@ -83,34 +111,6 @@
     {
       "title": "Mamdani’s Six-Mile Walk Became a Viral Moment. His Record Now Gives It Context",
       "url": "https://thesource.com/2026/09/28/mamdanis-six-mile-walk-became-a-viral-moment-his-record-now-gives-it-context/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Gaza’s Ruins Are Visible on Google Maps, Down to the Streets People Once Knew",
-      "url": "https://thesource.com/2026/09/28/gazas-ruins-are-visible-on-google-maps-down-to-the-streets-people-once-knew/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "NFL Week 3: Games Came Down to the Wire, Again and Again",
-      "url": "https://thesource.com/2026/09/28/nfl-week-3-games-came-down-to-the-wire-again-and-again/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Fans Want the VMAs Retired After a Night That Tested Their Patience",
-      "url": "https://thesource.com/2026/09/28/fans-want-the-vmas-retired-after-a-night-that-tested-their-patience/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "United Nations Gaza Genocide Inquiry Finds Israel Has Committed War Crimes",
-      "url": "https://thesource.com/2026/09/28/united-nations-gaza-genocide-inquiry-finds-israel-has-committed-war-crimes/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Hirayasumi Anime Unveils Teaser, Key Visual, Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-28/hirayasumi-anime-unveils-teaser-key-visual-cast/.242284",
+      "title": "Nia Liston: The Merciless Maiden Anime Adds 4 More Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-29/nia-liston-the-merciless-maiden-anime-adds-4-more-cast-members/.242304",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Cells at Work! Gets Dental Spinoff Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279",
+      "title": "The Vermilion Mask Anime Reveals Singer Yuya Tegoshi as Guest Voice Actor",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-29/the-vermilion-mask-anime-reveals-singer-yuya-tegoshi-as-guest-voice-actor/.242303",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,15 +172,43 @@
       "article_slug": null
     },
     {
-      "title": "News New The Last of Us Projects in 'Very Early Stages' of Development",
-      "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
+      "title": "News The Witcher 3 Remastered Available to Download Now",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-available-to-download-now",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "The Witcher 3 Remastered overhauls skill trees, adds new quest markers, and more, CDPR reveals",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remaster-overhauls-skill-trees-adds-new-quest-markers-brings-a-mode-to-reduce-cognitive-load-and-more-cd-projekt-red-reveals-in-patch-notes/",
+      "title": "New Last of Us projects have stories \"worth telling,\" Naughty Dog boss Neil Druckmann promises",
+      "url": "https://www.gamesradar.com/games/the-last-of-us/new-last-of-us-projects-have-stories-worth-telling-naughty-dog-boss-neil-druckmann-promises-we-wouldnt-return-to-it-unless-we-had-something-meaningful-to-say/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naughty Dog Will Fully Reveal Intergalactic: The Heretic Prophet In 2027",
+      "url": "https://gameranx.com/updates/id/564223/article/naughty-dog-will-fully-reveal-intergalactic-the-heretic-prophet-in-2027/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News The Witcher 3 Remastered Has Over 40 Mods Available at Launch on PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-has-over-40-mods-available-at-launch-on-ps5",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naughty Dog Has “Exciting New Projects” That Will Expand The Last Of Us’ Canon",
+      "url": "https://gameranx.com/updates/id/564219/article/naughty-dog-has-exciting-new-projects-that-will-expand-the-last-of-us-canon/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News New The Last of Us Projects in 'Very Early Stages' of Development",
+      "url": "https://www.pushsquare.com/news/2026/09/new-the-last-of-us-projects-in-very-early-stages-of-development",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,36 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Where to pre-order God of War Laufey, Faye's journey through The Everywhen hits the shelves (on a disc) tomorrow",
-      "url": "https://www.gamesradar.com/games/god-of-war/where-to-pre-order-god-of-war-laufey-fayes-journey-through-the-everywhen-hits-the-shelves-tomorrow/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Review in Progress The Witcher 3: Wild Hunt Remastered (PS5) - How to Improve a Masterpiece",
-      "url": "https://www.pushsquare.com/reviews/ps5/the-witcher-3-wild-hunt-remastered",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Discord’s Second Attempt To Roll Out Age Verification Is Going Badly",
       "url": "https://kotaku.com/discords-second-attempt-to-roll-out-age-verification-is-going-badly-2000737908",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rumor: Xbox Reset Is Happening Because Of Microsoft’s AI Push, Xbox Game Studios Was Their “Vestigial Leg”",
-      "url": "https://gameranx.com/updates/id/564211/article/rumor-xbox-reset-is-happening-because-of-microsofts-ai-push-xbox-game-studios-was-their-vestigial-leg/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
