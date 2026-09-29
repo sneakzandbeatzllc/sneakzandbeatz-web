@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-29T01:19:52+00:00",
+  "generated_utc": "2026-09-29T04:28:37+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -18,13 +18,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 5 WMNS “Sunset” September 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-5-wmns-sunset-iv5678-102/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 1 Mid “Dia de Los Muertos” Releases October 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-mid-dia-de-los-muertos-2026/",
       "pillar": "sneakers",
@@ -32,29 +25,36 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 16 “Black Pack” (IZ2586-001) October 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-16-black-pack-iz2586-001/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 14 “Black Pack” (IZ3884-001) October 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-14-black-pack-iz3884-001/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Kids Air Jordan 6 Low “Fearless” October 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/kids-air-jordan-6-low-fearless-768878-001/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 1 Low “Grand Purple” Releases Fall/Winter 2026",
       "url": "https://justfreshkicks.com/air-jordan-1-low-grand-purple-iz2383-503/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Eminem x Air Jordan 4 “Encore” Release Pulled From Jordan Brand’s 2027 Calendar",
+      "url": "https://justfreshkicks.com/eminem-air-jordan-4-encore-jj3098-400/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Mid “Black/Gum” Sneakerboot Releases This Year",
+      "url": "https://justfreshkicks.com/air-jordan-1-mid-black-gum-iq5491-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Mid “Pistachio Frost” Releases Fall/Winter 2026",
+      "url": "https://justfreshkicks.com/air-jordan-1-mid-pistachio-frost-bq6472-124/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "How the Air Jordan 7 “Playoffs” / “Raptors” Changed Over the Years",
+      "url": "https://sneakerbardetroit.com/air-jordan-7-playoffs-raptors-comparison/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Naruto Gets New 'Limited' TV Anime Series",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-28/naruto-gets-new-limited-tv-anime-series/.242289",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Naruto Creates New Meme Hero To Outlast The Series' Strongest Villain Alive",
       "url": "https://screenrant.com/naruto-boruto-furuta-jura-strongest-villain/",
       "pillar": "anime",
@@ -144,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Cells at Work! Gets Dental Spinoff Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "pillar": "anime",
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Captain Tsubasa: Rising Sun Finals Manga Resumes Serialization in October",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-28/captain-tsubasa-rising-sun-finals-manga-resumes-serialization-in-october/.242277",
+      "title": "Cells at Work! Gets Dental Spinoff Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
