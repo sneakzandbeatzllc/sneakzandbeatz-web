@@ -16142,6 +16142,38 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "heroImage": "https://www.vice.com/wp-content/uploads/sites/2/2026/09/Rockstar-Reveals-New-GTA-6-Artwork-of-Jason-and-Lucia.jpg?w=1280",
     "publishedAt": "2026-09-29",
     "goLiveAt": "2026-09-29"
+  },
+  {
+    "slug": "quavo-first-child-daughter-qromelife-short-film-idea-generation-fatherhood-september-29-2026",
+    "pillar": "hiphop",
+    "title": "Quavo Reveals His First Child, a Daughter, Days Before 'QRÖMELIFE'",
+    "headline": "Quavo's a Dad.\nThe Album Just Got Its Why.",
+    "subhead": "Quavo revealed his baby daughter at the end of Monday's QRÖMELIFE short film, then told Complex's Idea Generation that fatherhood gave him 'a new fire.' The album drops Friday, Oct. 2.",
+    "description": "Quavo revealed his first child, a daughter, in the QRÖMELIFE short film and on Complex's Idea Generation. Name and birth date unconfirmed. Album out Oct. 2.",
+    "keywords": [
+      "Quavo",
+      "Quavo daughter",
+      "Quavo first child",
+      "QRÖMELIFE",
+      "Erica Fontaine",
+      "Idea Generation",
+      "Complex",
+      "Migos",
+      "Takeoff",
+      "Pharrell",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "QUAVO'S A DAD.\nTHE ALBUM JUST GOT ITS WHY.",
+    "ogAccent": "C9A227",
+    "heroCredit": "Complex / Idea Generation",
+    "heroCreditUrl": "https://www.complex.com/music/a/backwoodsaltar/quavo-confirms-fatherhood",
+    "heroFocus": "center",
+    "trendScore": 86,
+    "body": "Four days before *QRÖMELIFE* drops, Quavo let people know about the thing he'd kept offline. He's a father. His first child is a baby girl. He showed her in the album's short film on Monday, then talked about her on Complex's *Idea Generation*, per [Complex (@Complex)](https://www.complex.com/music/a/backwoodsaltar/quavo-confirms-fatherhood), whose story is sitting at #1 on its trending rail.\n\n## What happened\n- **Mon, Sept. 28:** Quavo posted a *QRÖMELIFE* \"short film\" on Instagram. He falls asleep in an empty house full of moving boxes and watches his career replay: early Migos, losing Takeoff, making the album with Pharrell. He wakes up holding his daughter. The last line is \"you do it for the fam,\" per [iHeartRadio (@iHeartRadio)](https://www.iheart.com/content/2026-09-29-quavo-appears-to-reveal-his-first-child-in-new-album-teaser/).\n- **Tue, Sept. 29:** Complex published his *Idea Generation* sit-down with Noah Callahan-Bever. Around the 38-minute mark, Quavo says fatherhood gave him \"a new hunger, a new fire.\"\n- **The drop:** *QRÖMELIFE*, 14 tracks, executive produced by Pharrell, lands **Friday, Oct. 2**.\n\n![Quavo](https://i.iheart.com/v3/re/new_assets/6abbb9ed53176037302e20a3?ops=contain(1480,0) \"Getty Images via iHeartRadio|https://www.iheart.com/content/2026-09-29-quavo-appears-to-reveal-his-first-child-in-new-album-teaser/\")\n\n## What's confirmed and what isn't\n**Confirmed by Quavo:** he's a first-time father and the child is a daughter. He talks about her smiling, calling him dad, and his family loving her \"just like me.\"\n\n**Not confirmed:** her name, her age, and when she was born. iHeart reports that some fans think Quavo and his girlfriend Erica Fontaine had the baby in late 2024. That theory goes back to a since-deleted jet video where an infant can be heard crying. iHeart also says Fontaine posted a photo with the baby to her IG Story after the teaser went up. Neither Quavo nor Fontaine has given a birth date, so for now the late-2024 timing is **fan speculation**.\n\n## Why it matters for Friday\nLook at this week's rollout. First the [tracklist](https://sneakzandbeatz.com/the-lane/quavo-qromelife-tracklist-tyler-the-creator-asap-rocky-offset-future-lil-baby-justin-timberlake-october-2-2026). Then [Offset in the room](https://sneakzandbeatz.com/the-lane/quavo-offset-reunite-qromelife-listening-session-away-first-collab-five-years-migos-album-september-27-2026) for \"Away.\" Now the daughter. The film goes straight from Takeoff's death to a newborn in Quavo's arms, and that's on purpose. Since November 2022 he's put his grief in public through the Takeoff tributes, the solo run and the Migos-reunion talk. This is the first time the rollout has something to point to besides loss.\n\nQuavo kept the pregnancy and the birth off his timeline completely. That's rare now, when rap babies usually get announced with a gender-reveal video and a brand deal. Waiting until the album was ready turns the reveal into the album's thesis rather than content.\n\n!youtube(https://www.youtube.com/watch?v=M5PZIuXHIc4)\n\n## The take\nMost of this week's news about *QRÖMELIFE* was about who's on it. The daughter is about why it exists. If the album sounds like a man working out what comes after grief, Monday's film is the cover letter. Friday tells us whether the music lives up to it.\n\n## Sources\n- Complex, Sept. 29, 2026: [Quavo Confirms He Welcomed His First Child Ahead of New Album 'Qrömelife'](https://www.complex.com/music/a/backwoodsaltar/quavo-confirms-fatherhood)\n- iHeartRadio, Sept. 29, 2026: [Quavo Reveals His First Child In New Album Teaser](https://www.iheart.com/content/2026-09-29-quavo-appears-to-reveal-his-first-child-in-new-album-teaser/)\n- Complex on X, Sept. 29, 2026: [Idea Generation clip](https://x.com/Complex/status/2104967012107628933)\n- iHeartRadio, Sept. 28, 2026: [Quavo & Offset Reunite To Tease First Collaboration In Five Years](https://www.iheart.com/content/2026-09-28-quavo-offset-reunite-to-tease-first-collaboration-in-five-years/)\n- YouTube (official, QuavoVEVO): [Quavo & T.I. – \"Backwards\"](https://www.youtube.com/watch?v=M5PZIuXHIc4)\n",
+    "heroImage": "https://images.complex.com/complex/image/upload/c_crop,h_1080,w_1920,x_0,y_0/g_auto:aoi_825_154_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/kzbyorgp1gxdbtmfxkza",
+    "publishedAt": "2026-09-29",
+    "goLiveAt": "2026-09-29"
   }
 ];
 
