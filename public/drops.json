@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-09-29T23:12:11+00:00",
+  "generated_utc": "2026-09-30T02:24:45+00:00",
   "items": [
     {
       "id": "dcf5851da4f4",
@@ -15,16 +15,16 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "4ab6773190ed",
+      "id": "2c6584a01a31",
       "pillar": "sneakers",
-      "title": "J Balvin x Air Jordan 4 “Amazonas” September 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/j-balvin-air-jordan-4-amazonas-iw2872-700/",
-      "thumbnail": "/drops/thumbs/4ab6773190ed.jpg",
-      "published": "2026-09-24T14:20:54",
+      "title": "J Balvin x Air Jordan 4 “Amazonas” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/j-balvin-air-jordan-4-lemonade/",
+      "thumbnail": "/drops/thumbs/2c6584a01a31.jpg",
+      "published": "2026-09-28T23:14:43",
       "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "65d8c274842e",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "898a799f67f0",
+      "pillar": "anime",
+      "title": "After 42 Years, The Era Of Dragon Ball Has Officially Ended With One Devastating Update",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-end-era-shonen-jump-festa/",
+      "thumbnail": "/drops/thumbs/898a799f67f0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c6e0df965e01",
       "pillar": "anime",
       "title": "Dragon Ball Super: Beerus Episode Count & Every Arc Confirmed",
@@ -243,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "b503d28427de",
+      "id": "22daaf8c18c3",
       "pillar": "anime",
-      "title": "Dungeon Farm Manga Artist Mozukuzu Launches New Manga",
+      "title": "Marvel, Kadokawa Unveil More Art, Story Details for Spider-Man, Spider-Gwen Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-29/dungeon-farm-manga-artist-mozukuzu-launches-new-manga/.242296",
-      "thumbnail": "/drops/thumbs/b503d28427de.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-29/marvel-kadokawa-unveil-more-art-story-details-for-spider-man-spider-gwen-manga/.242325",
+      "thumbnail": "/drops/thumbs/22daaf8c18c3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "4d20b0dff325",
+      "id": "9f81544010ca",
       "pillar": "anime",
-      "title": "Katsuwo Launches Manga Adaptation of Renren Ii's Ōja no Ban Kuruwase Shōgi Novels",
+      "title": "Kuri Hime Ayakashi Yobanashi Manga Ends on October 28",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-29/katsuwo-launches-manga-adaptation-of-renren-ii-oja-no-ban-kuruwase-shogi-novels/.242286",
-      "thumbnail": "/drops/thumbs/4d20b0dff325.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-09-29/kuri-hime-ayakashi-yobanashi-manga-ends-on-october-28/.242302",
+      "thumbnail": "/drops/thumbs/9f81544010ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "thumbnail": "/drops/thumbs/71887546818d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a98c8bd1a475",
-      "pillar": "anime",
-      "title": "Now That I Can Control Reality With A Mouse Cursor Anime's English Dub Debuts on October 4",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-09-29/now-that-i-can-control-reality-with-a-mouse-cursor-anime-english-dub-debuts-on-october-4/.242267",
-      "thumbnail": "/drops/thumbs/a98c8bd1a475.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,8 +390,8 @@
   "homepage": [
     "dcf5851da4f4",
     "a429c1c7cfb5",
-    "4ab6773190ed",
-    "c6e0df965e01",
+    "2c6584a01a31",
+    "898a799f67f0",
     "65d8c274842e",
     "d7a65f5367a4"
   ]
