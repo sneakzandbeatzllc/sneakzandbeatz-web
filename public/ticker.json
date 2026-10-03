@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-03T01:46:03+00:00",
+  "generated_utc": "2026-10-03T01:54:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,22 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball Confirms New Official Lego Set With Epic First Look",
-      "url": "https://screenrant.com/dragon-ball-lego-new-set-goku-shenron/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Naruto's Newest Official Release May Have Just Confirmed More Boruto Anime Soon",
-      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-new-anime-special-movie/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
-      "title": "Netflix's 2-Season Historical Masterpiece Is Everything Vikings Should Have Been",
-      "url": "https://screenrant.com/vinland-saga-vikings-replacement-netflix/",
+      "title": "Toonami Airs Wind Breaker , Gachiakuta Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-02/toonami-airs-wind-breaker-gachiakuta-anime/.242426",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Viz Media Licenses The Seven Knights of the Marronnier Kingdom Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-02/viz-media-licenses-the-seven-knights-of-the-marronnier-kingdom-manga/.242421",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hikari Launches Manga of Mashimesa Emoto Story",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-02/hikari-launches-manga-of-mashimesa-emoto-story/.242398",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

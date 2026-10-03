@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-03T01:46:03+00:00",
+  "generated_utc": "2026-10-03T01:54:24+00:00",
   "items": [
     {
       "id": "05aa2656ba65",
@@ -195,36 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "10451fbd4d78",
-      "pillar": "anime",
-      "title": "Dragon Ball Confirms New Official Lego Set With Epic First Look",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-lego-new-set-goku-shenron/",
-      "thumbnail": "/drops/thumbs/10451fbd4d78.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "810c99754318",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
       "thumbnail": "/drops/thumbs/810c99754318.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "efcdbb43c40b",
-      "pillar": "anime",
-      "title": "Naruto's Newest Official Release May Have Just Confirmed More Boruto Anime Soon",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-boruto-two-blue-vortex-new-anime-special-movie/",
-      "thumbnail": "/drops/thumbs/efcdbb43c40b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "283ce6bf0a15",
+      "id": "79d9c0b740ae",
       "pillar": "anime",
-      "title": "Netflix's 2-Season Historical Masterpiece Is Everything Vikings Should Have Been",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/vinland-saga-vikings-replacement-netflix/",
-      "thumbnail": "/drops/thumbs/283ce6bf0a15.jpg",
+      "title": "Toonami Airs Wind Breaker , Gachiakuta Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-02/toonami-airs-wind-breaker-gachiakuta-anime/.242426",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fbf186b39264",
+      "pillar": "anime",
+      "title": "Viz Media Licenses The Seven Knights of the Marronnier Kingdom Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-02/viz-media-licenses-the-seven-knights-of-the-marronnier-kingdom-manga/.242421",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "516a149d0c83",
+      "pillar": "anime",
+      "title": "Hikari Launches Manga of Mashimesa Emoto Story",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-02/hikari-launches-manga-of-mashimesa-emoto-story/.242398",
+      "thumbnail": "/drops/thumbs/516a149d0c83.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "05aa2656ba65",
     "655472d8a9ae",
     "35883fdfc4b4",
-    "10451fbd4d78",
+    "810c99754318",
     "ff123f6bba9e",
     "7b3d03e66b88"
   ]
