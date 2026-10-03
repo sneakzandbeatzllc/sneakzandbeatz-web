@@ -17670,6 +17670,34 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "publishedAt": "2026-10-04",
     "goLiveAt": "2026-10-04",
     "heroFocus": "center"
+  },
+  {
+    "slug": "lil-baby-new-album-november-6-kurrco-dominique-question-october-2-2026",
+    "pillar": "hiphop",
+    "title": "Lil Baby Sets a November 6 Album Date",
+    "headline": "Lil Baby Sets\nNovember 6",
+    "subhead": "Kurrco posted the date Oct. 2. No title, no cover, no tracklist yet, and the Dominique question is wide open.",
+    "description": "Lil Baby has a new album dated November 6, per a Kurrco post on Oct. 2. No title or tracklist yet. What's confirmed, what isn't, and the Dominique question.",
+    "keywords": [
+      "Lil Baby new album",
+      "Lil Baby November 6",
+      "Lil Baby Dominique",
+      "Kurrco",
+      "Lil Baby The Leaks",
+      "hip-hop news",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "LIL BABY\nNOVEMBER 6",
+    "ogAccent": "C8A24A",
+    "trendScore": 86,
+    "heroCredit": "Hip Hop Vibe",
+    "heroCreditUrl": "https://hip-hopvibe.com/news/lil-baby-hints-at-new-album-coming-on-november-6/",
+    "body": "Kurrco put it up Oct. 2: a plain graphic reading \"LIL BABY NEW ALBUM NOVEMBER 6TH.\" No title, no cover, no tracklist. [@Kurrco's post](https://x.com/Kurrco) is the only source for the date so far, and it moved fast enough that [Hip Hop Vibe](https://hip-hopvibe.com/news/lil-baby-hints-at-new-album-coming-on-november-6/) wrote it up the same day.\n\n## What we actually know\nA date and a name. That's the whole confirmed list. Hip Hop Vibe is explicit that the project's title hasn't been announced, so anything past \"Lil Baby, November 6\" is speculation, and we're treating it that way. We haven't seen a statement from Baby's camp or a trade-site confirmation yet, so this is a teaser, not a finished release plan.\n\n## The Dominique question\nThe obvious thread is *Dominique*, the album Baby talked up for a long stretch before it got shelved in 2025 in favor of *The Leaks*, per Hip Hop Vibe's recap. Back in August 2025 he [told PlaqueBoyMax's stream](https://power1051.iheart.com/content/2025-08-11-lil-baby-announces-plans-for-another-album-on-plaqueboymaxs-livestream/) another album was coming. Whether November 6 is that record or something new is the open question, and nobody outside his circle can answer it right now.\n\n## Why November 6 is a smart slot\nQuavo's *QRÖMELIFE* landed Oct. 2, and Baby is on it. A Baby date five weeks out puts his run in the holiday window with the October crop already digested. Fans get a month to argue about the title, which is exactly what the culture does with a bare date.\n\n## What to watch\nCover art and a tracklist are the next tells. A lead single would confirm the lane. Until Baby or his label posts something official, the date is a Kurrco-sourced announcement and nothing more. We'll update when there's a title.\n\n## Sources\n- [Kurrco on X, Oct. 2, 2026: album announcement graphic](https://x.com/Kurrco)\n- [Hip Hop Vibe: Lil Baby Teases New Album Coming November 6 (Oct. 2, 2026)](https://hip-hopvibe.com/news/lil-baby-hints-at-new-album-coming-on-november-6/)\n- [Power 105.1: Lil Baby announces plans for another album on PlaqueBoyMax's livestream (Aug. 11, 2025)](https://power1051.iheart.com/content/2025-08-11-lil-baby-announces-plans-for-another-album-on-plaqueboymaxs-livestream/)\n\nBuilt for the culture. Operated by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.",
+    "heroImage": "https://hip-hopvibe.com/wp-content/uploads/2026/08/lil-baby-boston.jpg",
+    "publishedAt": "2026-10-03",
+    "goLiveAt": "2026-10-03",
+    "heroFocus": "center"
   }
 ];
 
