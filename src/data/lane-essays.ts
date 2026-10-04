@@ -17811,6 +17811,37 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "publishedAt": "2026-10-03",
     "goLiveAt": "2026-10-03",
     "heroFocus": "center"
+  },
+  {
+    "slug": "chance-the-rapper-drop-chance-just-the-rapper-tea-time-raven-symone-coloring-book-tour-october-1-2026",
+    "pillar": "hiphop",
+    "title": "Chance The Rapper Weighs Dropping 'Chance' From His Name",
+    "headline": "Chance The Rapper\nWants to Be Just 'The Rapper'",
+    "subhead": "On Raven-Symoné's Tea Time podcast, Chance said he's thinking about dropping 'Chance' from his name. Here's what he said, why, and what's still unconfirmed.",
+    "description": "Chance the Rapper told Tea Time he wants to drop 'Chance' and just be The Rapper. What he said, why, the Coloring Book tour timing, and what's unconfirmed.",
+    "keywords": [
+      "Chance the Rapper",
+      "Chance the Rapper name change",
+      "The Rapper",
+      "Tea Time podcast",
+      "Raven-Symoné",
+      "Coloring Book 10th anniversary",
+      "Star Line",
+      "hip-hop news",
+      "Sneakz and Beatz",
+      "PHRHX",
+      "Black-owned media"
+    ],
+    "ogHeadline": "CHANCE WANTS TO BE\nJUST 'THE RAPPER'",
+    "ogAccent": "E0A100",
+    "heroCredit": "Getty/Julian Hamilton/FilmMagic via Complex",
+    "heroCreditUrl": "https://www.complex.com/music/a/tracewilliamcowen/chance-rapper-name-change",
+    "heroFocus": "center",
+    "trendScore": 84,
+    "body": "Chance the Rapper is thinking about taking \"Chance\" out of his own name. Ten years after *Coloring Book*, the Chicago artist who built a whole independent blueprint on his name says he'd rather just be The Rapper.\n\n## What he said\nChance made the comments on the *Tea Time* podcast with Raven-Symoné and Miranda Maday, which went up Oct. 1. [XXL](https://www.xxlmag.com/chance-the-rapper-name-change/) has him at about the 20:41 mark saying he's going to take off the \"Chance\" and \"just wanna be The Rapper.\" His framing: he wants to carry rap the way rap has carried him through life. [Complex](https://www.complex.com/music/a/tracewilliamcowen/chance-rapper-name-change) also ran it Oct. 2, and [The Source](https://thesource.com/2026/10/02/chance-the-rapper-reveals-he-is-considering-a-name-change) and [Vice](https://www.vice.com/en/article/chance-the-rapper-might-just-be-the-rapper-soon-after-teasing-name-change/) picked it up. Note the language everyone used: considering, weighing, teasing. Nothing has been filed, announced or changed on streaming platforms.\n\n![Chance the Rapper](https://townsquare.media/site/812/files/2026/10/attachment-chance-the-rapper-13.jpg \"XXL|https://www.xxlmag.com/chance-the-rapper-name-change/\")\n\n## The why, per Complex\nAccording to Complex, Chance signaled he's moving away from the vulnerability and personal storytelling that defined his earlier work, and toward lyrical craft: rappers as \"etymologists and linguists at heart.\" He pointed to André 3000 and Kanye West as examples of artists who balanced openness with less autobiographical material.\n\n## The timing\nHe's mid-tour celebrating the 10th anniversary of *Coloring Book*, with dates running through Oct. 11 and a finish in Pittsburgh, per Complex. His latest studio album, *Star Line*, came out in August 2025. A decade after the mixtape that won a Grammy without a label and made independent a real lane, he's talking about stripping his name down to the job title.\n\n## The read\nThe independence argument was always about ownership, and a name is the first thing you own. \"Chance\" carried the church-kid, Chicago-open-mic story for ten years. \"The Rapper\" is a bet that the craft outlasts the narrative. It's also a branding risk: every catalog stream, every Grammy credit and every search result lives under the old name. Whether this is a real rebrand or a podcast thought that got a headline, we'll know when the paperwork or the next single says so.\n\n## Sources\n- [XXL, Oct. 2, 2026: Chance The Rapper Considers Changing His Rap Name](https://www.xxlmag.com/chance-the-rapper-name-change/)\n- [Complex, Oct. 2, 2026: Chance the Rapper Says a Possible Name Change Is Something He's Been 'Thinking About a Lot'](https://www.complex.com/music/a/tracewilliamcowen/chance-rapper-name-change)\n- [The Source, Oct. 2, 2026: Chance the Rapper Reveals He is Considering a Name Change](https://thesource.com/2026/10/02/chance-the-rapper-reveals-he-is-considering-a-name-change)\n- [Vice, Oct. 2026: Chance the Rapper Might Just Be 'The Rapper' Soon After Teasing Name Change](https://www.vice.com/en/article/chance-the-rapper-might-just-be-the-rapper-soon-after-teasing-name-change/)\n\nBuilt for the culture. Operated by PHRHX through Sneakz & Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.",
+    "heroImage": "https://images.complex.com/complex/image/upload/c_crop,h_1081,w_1920,x_0,y_0/g_auto:aoi_768_433_384_216,q_auto,f_avif,c_fill,ar_1.78,w_2048/sanity-new/akk2fcmgdwc0hmbxbdg4",
+    "publishedAt": "2026-10-04",
+    "goLiveAt": "2026-10-04"
   }
 ];
 
