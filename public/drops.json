@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-04T19:37:45+00:00",
+  "generated_utc": "2026-10-04T22:44:57+00:00",
   "items": [
     {
       "id": "e0f5793659c2",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "df4bf77afc9a",
-      "pillar": "anime",
-      "title": "8 Best Dragon Ball Characters Akira Toriyama Didn't Create",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-dragon-ball-characters-akira-toriyama-not-create/",
-      "thumbnail": "/drops/thumbs/df4bf77afc9a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "810c99754318",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
@@ -237,6 +225,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/best-solo-leveling-clones-watch-before-season-3/",
       "thumbnail": "/drops/thumbs/1437d1b27beb.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "61e47de586ca",
+      "pillar": "anime",
+      "title": "Naruto: All Living Characters Who Surpassed Konoha's Strongest Hokage In Boruto",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/boruto-characters-stronger-than-naruto/",
+      "thumbnail": "/drops/thumbs/61e47de586ca.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "e0f5793659c2",
     "655472d8a9ae",
     "ff123f6bba9e",
-    "df4bf77afc9a",
+    "810c99754318",
     "61cdb885d897",
     "d2ed21d5ec6e"
   ]

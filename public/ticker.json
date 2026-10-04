@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-04T19:37:45+00:00",
+  "generated_utc": "2026-10-04T22:44:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "8 Best Dragon Ball Characters Akira Toriyama Didn't Create",
-      "url": "https://screenrant.com/best-dragon-ball-characters-akira-toriyama-not-create/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
       "pillar": "anime",
@@ -139,6 +132,13 @@
     {
       "title": "5 Best Solo Leveling Clones To Watch Before Season 3 Premieres",
       "url": "https://screenrant.com/best-solo-leveling-clones-watch-before-season-3/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto: All Living Characters Who Surpassed Konoha's Strongest Hokage In Boruto",
+      "url": "https://screenrant.com/boruto-characters-stronger-than-naruto/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
