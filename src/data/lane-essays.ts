@@ -17991,6 +17991,37 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "body": "Pearl Abyss pushed the Crimson Desert expansion back by two weeks. It's not a long wait, but it lands on a crowded day.\n\n## What changed\nOn Sept. 30, the studio moved *Charting the Unknown* from Oct. 15 to Oct. 29, according to [Push Square](https://www.pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much) and [Gematsu](https://www.gematsu.com/2026/09/crimson-desert-dlc-charting-the-unknown-delayed-to-october-29). Pearl Abyss said it needs additional development time to deliver a more polished and stable experience. That's the studio's reason, not ours.\n\n## What's in it\nPush Square lists castle building and decoration, naval exploration and combat, underwater exploration, and a new setting with story content. Gematsu lists PS5, Xbox Series and PC on Steam and the Epic Games Store. Neither source gave a price.\n\n## The crowded day\nOct. 29 is also the date for *Phantom Blade Zero*, the S-Game action RPG we've been counting down. Two big single-player games and one big expansion in the same week is a good problem for RPG fans, and a bad one for your free time.\n\n## The read\nTwo weeks for polish is a fair trade, and open-world games earn their reputation after launch, not on day one. Hold them to the new date.\n\n## Sources\n- [Push Square, Sept. 30, 2026: Crimson Desert's huge expansion pack has been delayed](https://www.pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much)\n- [Gematsu, Sept. 2026: Crimson Desert DLC delayed to Oct. 29](https://www.gematsu.com/2026/09/crimson-desert-dlc-charting-the-unknown-delayed-to-october-29)\n",
     "publishedAt": "2026-10-05",
     "goLiveAt": "2026-10-05"
+  },
+  {
+    "slug": "lucki-reportedly-hurt-complexcon-altercation-playboi-carti-entourage-unconfirmed-october-3-2026",
+    "pillar": "hiphop",
+    "title": "Lucki Reportedly Hurt in ComplexCon Altercation With Carti's Entourage",
+    "headline": "Lucki Reportedly\nHurt at ComplexCon",
+    "subhead": "A viral clip shows Lucki with an apparent neck injury after an alleged clash with Playboi Carti's entourage. No police, hospital or artist statement yet.",
+    "description": "Oct. 3: Kurrco and No Jumper report Lucki was hurt after an alleged ComplexCon altercation with Playboi Carti's entourage. Stabbing claims are unconfirmed.",
+    "keywords": [
+      "Lucki",
+      "Playboi Carti",
+      "ComplexCon",
+      "ComplexCon 2026",
+      "Kurrco",
+      "No Jumper",
+      "unconfirmed",
+      "hip-hop news",
+      "Chicago rap",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "LUCKI HURT AT\nCOMPLEXCON — UNCONFIRMED",
+    "ogAccent": "E0A100",
+    "heroCredit": "Photo: HipHopWired",
+    "heroCreditUrl": "https://hiphopwired.com/3066898/rapper-lucki-stabbed/",
+    "heroFocus": "center",
+    "trendScore": 92,
+    "body": "A 14-second clip is carrying the whole story right now, and nobody with a badge, a hospital or a publicist has said what it shows. Here is what is confirmed, what is not, and why we're holding the word everybody is typing.\n\n## What's circulating\nOn Oct. 3, [@nojumper](https://x.com/nojumper/status/2106543140543090987) posted that Playboi Carti's and Lucki's entourages allegedly got into a physical altercation at ComplexCon. [@Kurrco](https://x.com/Kurrco/status/2106545351385571684) followed, writing that Lucki was injured after an altercation with Carti's entourage. Pages like [@STRAPPEDUS](https://x.com/STRAPPEDUS/status/2106545885803155777) and [@OnThinlce](https://x.com/OnThinlce/status/2106546426658656376) went further and said Lucki was reportedly stabbed, with OnThinIce adding that he was seen being escorted to a car.\n\n![Lucki ComplexCon clip still](https://hiphopwired.com/wp-content/uploads/sites/43/2026/10/17910786484069.jpg \"HipHopWired|https://hiphopwired.com/3066898/rapper-lucki-stabbed/\")\n\n[HipHopWired](https://hiphopwired.com/3066898/rapper-lucki-stabbed/) describes two videos: one of a backstage altercation with Carti present, and one of Lucki appearing to leave with what looks like blood at his neck. [Yahoo Entertainment](https://www.yahoo.com/entertainment/music/articles/lucki-reportedly-stabbed-outside-complexcon-020553999.html) and [Where Is The Buzz](https://whereisthebuzz.com/lucki-reportedly-stabbed-outside-complexcon-after-clash-with-playboi-cartis-entourage/) carried the same account, and the latter places the incident outside the Los Angeles Convention Center.\n\n## What is not confirmed\nEverything past \"there was a clash and a man appears hurt\" is unverified. As of this writing we found no police report, no hospital confirmation, no statement from Lucki, Carti, either camp's reps or ComplexCon, and no named witness. HipHopWired says plainly that there is no confirmation of what led to the fight or what happened, and no official update on Lucki's condition. The word \"stabbed\" is coming from social pages reading a short clip. We are not repeating it as fact, and we're not assigning blame to anyone.\n\n## Why this one moved\nComplexCon is the room where the sneaker and hip-hop crowds overlap, and this year's edition has Carti attached as artistic director, per Where Is The Buzz. A hurt artist at a culture convention is a safety story before it is a beef story, and the questions go to the event: security, credentialing, backstage access. Those are fair to ask without guessing at the answer.\n\n## What we're watching\nA statement from Lucki or his team, any word from ComplexCon about an incident and its response, and whether police or medical confirmation surfaces. We'll update this when something verifiable lands. Until then, treat the clip as a lead and the reposts as noise, and wish a Chicago artist a clean recovery.\n\n## Sources\n- [Kurrco (@Kurrco) on X, Oct. 3, 2026](https://x.com/Kurrco/status/2106545351385571684)\n- [No Jumper (@nojumper) on X, Oct. 3, 2026](https://x.com/nojumper/status/2106543140543090987)\n- [HipHopWired: Lucki Stabbed After Alleged Fight With Playboi Carti's Team, Oct. 3, 2026](https://hiphopwired.com/3066898/rapper-lucki-stabbed/)\n- [Yahoo Entertainment: Lucki Reportedly Stabbed Outside ComplexCon, Oct. 3, 2026](https://www.yahoo.com/entertainment/music/articles/lucki-reportedly-stabbed-outside-complexcon-020553999.html)\n- [Where Is The Buzz, Oct. 3, 2026](https://whereisthebuzz.com/lucki-reportedly-stabbed-outside-complexcon-after-clash-with-playboi-cartis-entourage/)\n",
+    "heroImage": "https://hiphopwired.com/wp-content/uploads/sites/43/2026/10/17910786484069.jpg",
+    "publishedAt": "2026-10-04",
+    "goLiveAt": "2026-10-04"
   }
 ];
 
