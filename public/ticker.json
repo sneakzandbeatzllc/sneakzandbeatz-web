@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-04T22:44:57+00:00",
+  "generated_utc": "2026-10-05T02:28:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,8 +137,22 @@
       "article_slug": null
     },
     {
+      "title": "Naruto's Officially Confirmed Anime Sequel Will Revive The Franchise",
+      "url": "https://screenrant.com/naruto-new-anime-sequel-revive-franchise/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Naruto: All Living Characters Who Surpassed Konoha's Strongest Hokage In Boruto",
       "url": "https://screenrant.com/boruto-characters-stronger-than-naruto/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "CloverWorks' Omnibus Anime Film Grotesqqque Streams New English-Subtitled Trailer",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-04/cloverworks-omnibus-anime-film-grotesqqque-streams-new-english-subtitled-trailer/.242478",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,22 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Manchuria Opium Squad Manga Gets Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-04/manchuria-opium-squad-manga-gets-anime/.242464",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Darkroom Streams Angel Densetsu Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-04/darkroom-streams-angel-densetsu-anime/.242466",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
