@@ -18389,6 +18389,67 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "body": "Three months. That's how far APB's first Jordan 11 Low just slid.\n\n## What changed\nPer [HotNewHipHop](https://www.hotnewhiphop.com/1011949-apb-x-air-jordan-11-low-binary-blue-sneaker-news-2) on Oct. 3, the APB x Air Jordan 11 Low \"Binary Blue\" moved from Sept. 18 to Dec. 18, 2026. Retail is $200. The pair runs deep navy patent leather with pink piping and an icy blue outsole, and a matching Sail pair is part of the story.\n\nNo reason for the delay showed up in what we read. We're not going to make one up.\n\n## First for APB\nThis is APB's first official Jordan Brand partnership, per HNHH, and HNHH notes that collabs on the 11 Low are rare. We covered the pair earlier under its September date and the style code IU8266-400, so that old page is now out of date: [our first look](https://www.sneakzandbeatz.com/the-lane/apb-air-jordan-11-low-binary-blue-iu8266-400-september-18-whitaker-group-2026).\n\n## Why December fits\nThe Jordan 11 has always been a holiday shoe. Patent leather, icy sole, cold-weather release. Whether the new date was planned or a slip, the calendar now matches the shoe. That's our read, not reporting.\n\n## What to do with it\nReset your reminders to Dec. 18. Don't pay a resale premium on a listing that was built on the September date. Wait for the retailer and SNKRS confirmation, because a date that moved once can move again.\n\n## The read\nEleven weeks is a long wait for a shoe that was supposed to be here. But a first-time collab on a rare silhouette is worth getting right. Hold them to December.\n\n## Sources\n- [HotNewHipHop, Oct. 3, 2026: APB x Air Jordan 11 Low \"Binary Blue\" got pushed back to December](https://www.hotnewhiphop.com/1011949-apb-x-air-jordan-11-low-binary-blue-sneaker-news-2)\n- [Sneakz & Beatz: APB x Air Jordan 11 Low \"Binary Blue\" first look](https://www.sneakzandbeatz.com/the-lane/apb-air-jordan-11-low-binary-blue-iu8266-400-september-18-whitaker-group-2026)\n",
     "publishedAt": "2026-10-04",
     "goLiveAt": "2026-10-04"
+  },
+  {
+    "slug": "lucki-complexcon-lapd-attempted-murder-four-injured-complex-statement-carti-no-comment-october-3-2026",
+    "pillar": "hiphop",
+    "title": "LAPD Is Treating the ComplexCon Lucki Fight as an Attempted Murder, Four People Hurt",
+    "headline": "LAPD: ComplexCon Fight\nAn Attempted Murder",
+    "subhead": "Four people were injured outside ComplexCon, Lucki took a neck laceration, and Complex has now issued a statement. Carti's camp is silent and no arrests have been announced.",
+    "description": "Oct. 3: LAPD is reportedly investigating the ComplexCon parking-lot brawl that left Lucki cut as an attempted murder. Four hurt, no arrests, Carti silent.",
+    "keywords": [
+      "Lucki",
+      "Playboi Carti",
+      "ComplexCon",
+      "ComplexCon 2026",
+      "LAPD",
+      "Complex statement",
+      "Kurrco",
+      "hip-hop news",
+      "Chicago rap",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "LAPD: COMPLEXCON FIGHT\nATTEMPTED MURDER",
+    "ogAccent": "E0A100",
+    "heroCredit": "Photo: HotNewHipHop via Instagram @deadboylife",
+    "heroCreditUrl": "https://www.hotnewhiphop.com/1012023-complex-statement-lucki-complexcon",
+    "heroFocus": "center",
+    "trendScore": 96,
+    "body": "The ComplexCon story just moved from \"viral clip\" to \"police case.\" Here is what is now on the record, what is still reporting, and what nobody has confirmed.\n\n## What changed\nEarlier on Oct. 3 [@nojumper](https://x.com/nojumper/status/2106543140543090987) and [@Kurrco](https://x.com/Kurrco/status/2106545351385571684) flagged that Lucki was hurt after an alleged clash with Playboi Carti's entourage, which we [covered as unconfirmed](/the-lane/lucki-reportedly-hurt-complexcon-altercation-playboi-carti-entourage-unconfirmed-october-3-2026). Now [@SaycheeseDGTL](https://x.com/SaycheeseDGTL/status/2106728102789517600) is relaying that the LAPD is investigating the altercation as an attempted murder, with four victims in total: three in stable condition and one who transported themselves to a hospital.\n\n![Lucki ComplexCon aftermath](https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/10/Complex-Statement-LUCKI-ComplexCon.jpg \"HotNewHipHop via Instagram @deadboylife|https://www.hotnewhiphop.com/1012023-complex-statement-lucki-complexcon\")\n\n## What the outlets are reporting\n[HotNewHipHop](https://www.hotnewhiphop.com/1012023-complex-statement-lucki-complexcon) places the brawl in the parking lot outside the event and says Lucki sustained a laceration to the neck, with authorities not confirming whether it was a stab or a slash. [Hip-Hop Vibe](https://hip-hopvibe.com/news/lucki-complexcon-fight-lapd-investigation/) puts the time near 4:40 p.m. on Oct. 3 and says police found four people with injuries consistent with stab wounds or lacerations. [Hollywood Life](https://hollywoodlife.com/feature/what-happened-to-lucki-complexcon-5564163/) notes the attempted-murder classification traces back to law-enforcement sources via TMZ, not a direct LAPD quote, so treat that label as reported, not formally released.\n\n## Complex responds\nComplex's statement, as quoted by HotNewHipHop: \"The safety and security of our guests, talent, partners and staff is our highest priority. We are aware of an incident that occurred outside the ComplexCon event yesterday and our security team and the LAPD responded immediately.\" It does not name Lucki or Carti.\n\n## Lucki's condition\nHollywood Life says Lucki reposted an Instagram Story in the early hours of Oct. 4, which fans read as a sign he is alert. A source close to him told that outlet he is recovering. That is a sign of life, not a medical update from his team.\n\n## What is still unconfirmed\nWho attacked whom. Whether Lucki was stabbed or slashed. Any link to Playboi Carti beyond the fact that video reportedly shows him near the scene; he is not named as a suspect, and neither his camp nor Lucki's has issued a statement. No arrests have been announced. We are not assigning blame to anyone.\n\n## Why it matters\nComplexCon is where sneaker and hip-hop culture share a room, and a multi-victim incident at its doorstep is a safety story first. The questions now go to the police investigation and the event's security plan. We'll update when something verifiable lands.\n\n## Sources\n- [@SaycheeseDGTL on X, Oct. 4, 2026](https://x.com/SaycheeseDGTL/status/2106728102789517600)\n- [HotNewHipHop: Complex Issues Statement On LUCKI's ComplexCon Fight, Oct. 3, 2026](https://www.hotnewhiphop.com/1012023-complex-statement-lucki-complexcon)\n- [Hip-Hop Vibe: LAPD investigating ComplexCon fight involving Lucki, Oct. 4, 2026](https://hip-hopvibe.com/news/lucki-complexcon-fight-lapd-investigation/)\n- [Hollywood Life: What Happened to Lucki?, Oct. 3, 2026](https://hollywoodlife.com/feature/what-happened-to-lucki-complexcon-5564163/)\n- [Kurrco on X, Oct. 3, 2026](https://x.com/Kurrco/status/2106545351385571684)\n- [No Jumper on X, Oct. 3, 2026](https://x.com/nojumper/status/2106543140543090987)\n",
+    "heroImage": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/10/Complex-Statement-LUCKI-ComplexCon.jpg",
+    "publishedAt": "2026-10-04",
+    "goLiveAt": "2026-10-04"
+  },
+  {
+    "slug": "playboi-carti-young-thug-yt-pbc-vol-1-cds-handed-out-sp5der-booth-complexcon-october-4-2026",
+    "pillar": "hiphop",
+    "title": "Playboi Carti and Young Thug 'YT + PBC Vol. 1' CDs Surface at ComplexCon",
+    "headline": "Carti x Thug 'YT + PBC Vol. 1'\nHanded Out at ComplexCon",
+    "subhead": "Physical CDs reportedly circulated at the Sp5der booth. A fan clip shows a trap cut with Thug on vocals, but nothing is official and there is no stream yet.",
+    "description": "Oct. 4: CDs titled 'YT + PBC Vol. 1' were reportedly handed out at the Sp5der booth at ComplexCon. A clip shows Young Thug vocals; no official release yet.",
+    "keywords": [
+      "Playboi Carti",
+      "Young Thug",
+      "YT + PBC Vol. 1",
+      "ComplexCon",
+      "ComplexCon 2026",
+      "Sp5der",
+      "Kurrco",
+      "hip-hop news",
+      "Sneakz and Beatz",
+      "PHRHX"
+    ],
+    "ogHeadline": "CARTI x THUG\nYT + PBC VOL. 1",
+    "ogAccent": "E0A100",
+    "heroCredit": "Photo: Richard Isaac/Rex Shutterstock/ZUMA Wire via HotNewHipHop",
+    "heroCreditUrl": "https://www.hotnewhiphop.com/1012028-playboi-carti-young-thug-collab-album",
+    "heroFocus": "center",
+    "trendScore": 90,
+    "body": "A surprise collab project from two of the most-requested names in rap just appeared in physical form on ComplexCon weekend, and almost nobody has heard it yet.\n\n## What surfaced\nPer [HotNewHipHop](https://www.hotnewhiphop.com/1012028-playboi-carti-young-thug-collab-album), CDs titled \"YT + PBC Vol. 1\" were being handed out at the Sp5der booth at the convention. A video, flagged in [@Kurrco](https://x.com/Kurrco)'s coverage, shows someone playing the disc, and the audio captured a buzzy trap cut with Young Thug on the vocals.\n\n![Young Thug performing](https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/10/Playboi-Carti-Young-Thug-Collab-Album.jpg \"Richard Isaac/Rex Shutterstock/ZUMA Wire via HotNewHipHop|https://www.hotnewhiphop.com/1012028-playboi-carti-young-thug-collab-album\")\n\n## What we know and don't\nThat is the whole confirmed picture: a title, a physical handout, and one clip. Neither artist has announced the project, there is no tracklist, no streaming link and no label confirmation, and fans who did not get a disc don't know what is on it. Treat it as a limited, unofficial drop until Carti, Thug or their teams say otherwise.\n\n## Why it hits\nThe pair have history on Carti's 2018 *Die Lit* and his 2025 *MUSIC*, so a full collab tape is a story the timeline will chase. It also lands the same weekend ComplexCon is dominated by a very different Carti headline, the [Lucki incident](/the-lane/lucki-complexcon-lapd-attempted-murder-four-injured-complex-statement-carti-no-comment-october-3-2026), which is a separate matter.\n\n## What we're watching\nAn official announcement, a leak of the full audio, or a statement on whether \"Vol. 1\" means more is coming. We'll update when something verifiable lands.\n\n## Sources\n- [HotNewHipHop: Playboi Carti & Young Thug Just Dropped A Collab Album... Sort Of, Oct. 4, 2026](https://www.hotnewhiphop.com/1012028-playboi-carti-young-thug-collab-album)\n- [Kurrco on X](https://x.com/Kurrco)\n",
+    "heroImage": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/10/Playboi-Carti-Young-Thug-Collab-Album.jpg",
+    "publishedAt": "2026-10-04",
+    "goLiveAt": "2026-10-04"
   }
 ];
 
