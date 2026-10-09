@@ -19459,6 +19459,36 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "body": "Madoka finally has a U.S. date. We said America was still waiting. Now it knows when.\n\n## The announcement\nPer [Anime Corner](https://animecorner.me/puella-magi-madoka-magica-the-movie-walpurgisnacht-rising-hits-united-states-theaters-january-16th/) on Oct. 8, Aniplex of America and Fathom Entertainment announced at New York Comic Con that Puella Magi Madoka Magica the Movie: Walpurgisnacht Rising hits U.S. theaters on January 16. The teaser we could read doesn't state the year. The film opened in Japan on Aug. 28, 2026, so we're reading it as 2027.\n\n## What isn't confirmed\nWe couldn't read past the teaser. Subtitled or dubbed showings, ticketing, the number of theaters and the runtime weren't in what we saw. Don't plan around any of that until you see the Fathom listing.\n\n## Why people care\nIt's the first new Madoka film in about 13 years. Rebellion came out in 2013, and a generation grew up on this series. Our [earlier story](https://www.sneakzandbeatz.com/the-lane/madoka-magica-walpurgisnacht-rising-new-trailer-maaya-sakamoto-2026) covered the new trailer and the cast addition of Maaya Sakamoto, with no U.S. date. That gap is closed.\n\n## The read\nFathom does event screenings, so expect a limited run. If you want it on the big screen, watch for tickets and move early. The date is three months out. The wait is shorter than the last thirteen years.\n\n## Sources\n- [Anime Corner, Oct. 8, 2026: Madoka Magica movie hits U.S. theaters January 16th](https://animecorner.me/puella-magi-madoka-magica-the-movie-walpurgisnacht-rising-hits-united-states-theaters-january-16th/)\n- [Sneakz and Beatz: Madoka's Back. America Still Waits.](https://www.sneakzandbeatz.com/the-lane/madoka-magica-walpurgisnacht-rising-new-trailer-maaya-sakamoto-2026)\n",
     "publishedAt": "2026-10-10",
     "goLiveAt": "2026-10-10"
+  },
+  {
+    "slug": "cardi-b-gta-vi-soundtrack-spotify-track-19-baddie-hoodie-lucia-rockstar-october-8-2026",
+    "pillar": "hiphop",
+    "title": "Cardi B and the GTA VI Soundtrack: What's Reported",
+    "headline": "Cardi B Might Be\nIn GTA VI",
+    "subhead": "A Spotify listing, an Instagram Story hoodie, and no word from Rockstar. What's reported, what isn't confirmed.",
+    "description": "A Spotify listing reportedly puts Cardi B on track 19 of the GTA VI album, and her Oct. 8 Story hints at it. Rockstar hasn't confirmed. Here's what we know.",
+    "keywords": [
+      "Cardi B GTA VI",
+      "GTA 6 soundtrack",
+      "GTA VI album track 19",
+      "Cardi B Baddie hoodie",
+      "Rockstar Games soundtrack",
+      "Fuerza Regida GTA",
+      "hip-hop news",
+      "Sneakz and Beatz",
+      "PHRHX",
+      "Black-owned media"
+    ],
+    "ogHeadline": "CARDI B\nIN GTA VI?",
+    "ogAccent": "C8262C",
+    "heroCredit": "HotNewHipHop",
+    "heroCreditUrl": "https://www.hotnewhiphop.com/1012393-cardi-b-gta-vi-soundtrack",
+    "heroFocus": "center",
+    "trendScore": 93,
+    "body": "Cardi B hasn't said a word. A hoodie might have said it for her.\n\n## What's reported\nOn Oct. 8, [HotNewHipHop](https://www.hotnewhiphop.com/1012393-cardi-b-gta-vi-soundtrack) reported that Cardi posted a photo to her Instagram Story of a cropped hoodie on her bed with \"Baddie\" across it. HNHH says it's the same hoodie Lucia wears in a GTA VI mission from the Netflix extended look. The outlet says that and the soundtrack's Spotify listing \"all but confirm\" she's involved. That's HNHH's read, not a statement from Cardi.\n\n## The Spotify tell\nDays earlier, Spotify's page for the GTA VI album reportedly listed two new names. [ARY News](https://arynews.tv/spotify-accidentally-leaks-cardi-b-and-fuerza-regida-for-the-gta-6-album) credited the find to ben/videotech on social media, with a tip from @Gameide4: Cardi B on track 19 and Fuerza Regida on track 10, titles unknown. [Notebookcheck](https://notebookcheck.net/major-artists-on-gta-6-album-leaked-by-spotify-with-soundtrack-news-anticipated.1415653.0.html) reported the same on Oct. 4 and noted Rockstar hasn't confirmed either name.\n\n!youtube(https://youtu.be/QdBZY2fkU-0)\n\n## What's official\nPer Notebookcheck, Rockstar and Atlantic Records have made six of the album's 34 songs public, with Travis Scott, Morgan Wallen, Yung Lean and Keith Richards among the names on those. HNHH adds that Metro Boomin and Future are on the album. The digital release is set for Nov. 19, the same day as the game. Rockstar has not announced Cardi's song, and nobody knows whether it lands before launch or on the day.\n\n![Cardi B and the GTA VI soundtrack story](https://www.hotnewhiphop.com/wp-content/uploads/2026/10/cardi-b-gta-vi-scaled.jpg \"Photo: HotNewHipHop|https://www.hotnewhiphop.com/1012393-cardi-b-gta-vi-soundtrack\")\n\n## The read\nRockstar already put Southern rap on the radio with [Dirty South Classics](https://www.pushsquare.com/news/2026/10/gta-6-in-game-radio-stations-announced-and-you-can-preview-them-right-now). A Cardi record on the album would put New York hip-hop in the same game. Treat it as a leak plus a hoodie until Rockstar says it. If it's real, the Bronx has a spot on the Leonida map.\n\n## Sources\n- [HotNewHipHop, Oct. 8, 2026: Cardi B Appears To Confirm Her Involvement In \"GTA VI\"](https://www.hotnewhiphop.com/1012393-cardi-b-gta-vi-soundtrack)\n- [ARY News, Oct. 4, 2026: Spotify accidentally leaks Cardi B and Fuerza Regida for the GTA 6 album](https://arynews.tv/spotify-accidentally-leaks-cardi-b-and-fuerza-regida-for-the-gta-6-album)\n- [Notebookcheck, Oct. 4, 2026 (updated Oct. 5): Major artists on GTA 6 album leaked by Spotify](https://notebookcheck.net/major-artists-on-gta-6-album-leaked-by-spotify-with-soundtrack-news-anticipated.1415653.0.html)\n- [Push Square, Oct. 8, 2026: GTA 6 in-game radio stations announced](https://www.pushsquare.com/news/2026/10/gta-6-in-game-radio-stations-announced-and-you-can-preview-them-right-now)\n- [Rockstar Games, GTA VI Trailer 1](https://youtu.be/QdBZY2fkU-0)",
+    "heroImage": "https://www.hotnewhiphop.com/wp-content/uploads/2026/10/cardi-b-gta-vi-scaled.jpg",
+    "publishedAt": "2026-10-09",
+    "goLiveAt": "2026-10-09"
   }
 ];
 
