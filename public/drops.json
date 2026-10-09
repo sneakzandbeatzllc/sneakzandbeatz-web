@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-09T20:55:46+00:00",
+  "generated_utc": "2026-10-09T23:58:09+00:00",
   "items": [
     {
       "id": "6478861710d6",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "078a22ae094b",
+      "pillar": "hiphop",
+      "title": "True Religion Taps Monaleo and Trim for “THAT BADDIE DROP,” Its Fall 2026 Baddies Collection",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/09/true-religion-taps-monaleo-and-trim-for-that-baddie-drop-its-fall-2026-baddies-collection/",
+      "thumbnail": "/drops/thumbs/078a22ae094b.jpg",
+      "published": "2026-10-09T18:19:07",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0f938235912c",
       "pillar": "hiphop",
       "title": "Hurricane Isaias Strengthens to Category 3 as Gulf Coast Braces for Devastating Landfall",
@@ -183,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "e76a37e3030f",
-      "pillar": "hiphop",
-      "title": "Belly Gang Kushington Performs “WTF GOIN” at WNBA Semifinals",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/09/belly-gang-kushington-wtf-goin-wnba-semifinals/",
-      "thumbnail": "/drops/thumbs/e76a37e3030f.jpg",
-      "published": "2026-10-09T07:07:42",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4ffea03e56ce",
-      "pillar": "anime",
-      "title": "Dragon Ball Super: Beerus Episode 1 Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-beerus-episode-1-release-date-time/",
-      "thumbnail": "/drops/thumbs/4ffea03e56ce.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "810c99754318",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
@@ -255,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "6df436a4b42b",
+      "id": "5fd9d75bdee2",
       "pillar": "anime",
-      "title": "One Piece: Conqueror's Haki Just Found Its Perfect Counter",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-omen-perfect-counter-conquerors-haki/",
-      "thumbnail": "/drops/thumbs/6df436a4b42b.jpg",
+      "title": "North American Anime, Manga Releases, October 4-10",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-09/north-american-anime-manga-releases-october-4-10/.242519",
+      "thumbnail": "/drops/thumbs/5fd9d75bdee2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,6 +261,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-10-09/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640",
       "thumbnail": "/drops/thumbs/7d6f9ef63000.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "71887546818d",
+      "pillar": "anime",
+      "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
+      "thumbnail": "/drops/thumbs/71887546818d.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "6478861710d6",
-    "0f938235912c",
+    "078a22ae094b",
     "a98b19c7172a",
-    "4ffea03e56ce",
+    "810c99754318",
     "33c497a3b340",
     "546596384b50"
   ]
