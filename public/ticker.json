@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-10T19:21:02+00:00",
+  "generated_utc": "2026-10-10T22:24:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,22 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Announces Massive 15 Anime Series Follow-ups To Solo Leveling",
-      "url": "https://screenrant.com/crunchyroll-new-manhwa-anime-partnership-hayate/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Crunchyroll's Isekai Solo Leveling Replacement Is Back And Better Than Ever",
-      "url": "https://screenrant.com/crunchyroll-solo-leveling-anime-isekai-a-wild-last-boss-appeared-getting-better/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
       "url": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto's New Anime Confirms Production, First Look, & Future Projects",
+      "url": "https://screenrant.com/naruto-ninku-new-anime-reveal-nycc/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "Japanese Animation TV Ranking, September 21-27",
       "url": "https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-21-27/.242684",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
+      "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
