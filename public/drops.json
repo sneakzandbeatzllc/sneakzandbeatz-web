@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-10T09:35:58+00:00",
+  "generated_utc": "2026-10-10T12:51:02+00:00",
   "items": [
     {
       "id": "6478861710d6",
@@ -17,14 +17,14 @@
     {
       "id": "a98b19c7172a",
       "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Royal” (IQ5495-005) October 2026 Release Date & Info",
+      "title": "The Air Jordan 1 High OG “Royal” Releases Today",
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
       "thumbnail": "/drops/thumbs/a98b19c7172a.jpg",
       "published": "2026-10-09T09:19:22",
       "relative_time": "today",
       "score": 3.0,
-      "release_badge": "Drops This Month"
+      "release_badge": "Drops This Week"
     },
     {
       "id": "33c497a3b340",
@@ -99,6 +99,30 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "46b882a1bd91",
+      "pillar": "hiphop",
+      "title": "PUMA Celebrates New York Basketball With Limited-Edition Ceremony Pack",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/10/puma-new-york-ceremony-pack/",
+      "thumbnail": "/drops/thumbs/46b882a1bd91.jpg",
+      "published": "2026-10-10T07:01:18",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3c39a83f42c3",
+      "pillar": "hiphop",
+      "title": "Offset Explains Meaning Behind Upcoming Album ‘GMFU’",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/10/offset-explains-gmfu-album-title/",
+      "thumbnail": "/drops/thumbs/3c39a83f42c3.jpg",
+      "published": "2026-10-10T07:00:27",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e35d2f78a315",
       "pillar": "hiphop",
       "title": "Lil Jon Teases Upcoming Memoir: I Only Shout So You Can Hear Me",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "db3cadbce49d",
-      "pillar": "hiphop",
-      "title": "Angela Rye Launches New Weekly News and Culture Series ‘Cite Your Source’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/09/angela-rye-cite-your-source-series/",
-      "thumbnail": "/drops/thumbs/db3cadbce49d.jpg",
-      "published": "2026-10-09T09:02:31",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d225eb01d959",
-      "pillar": "hiphop",
-      "title": "A’ja Wilson Makes WNBA History With Record Fifth MVP Award",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/09/aja-wilson-fifth-wnba-mvp-award/",
-      "thumbnail": "/drops/thumbs/d225eb01d959.jpg",
-      "published": "2026-10-09T07:34:41",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "810c99754318",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
@@ -225,6 +225,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/crunchyroll-solo-leveling-anime-isekai-a-wild-last-boss-appeared-getting-better/",
       "thumbnail": "/drops/thumbs/9597d4263332.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3786e23e2512",
+      "pillar": "anime",
+      "title": "Zoro's Final Boss Confirmed To Know One Piece's Strongest Power",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-zoro-rival-mihawk-conqueror-haki/",
+      "thumbnail": "/drops/thumbs/3786e23e2512.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "thumbnail": "/drops/thumbs/71887546818d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "482017726e75",
-      "pillar": "anime",
-      "title": "Billy Bat Manga Wins Harvey Award",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681",
-      "thumbnail": "/drops/thumbs/482017726e75.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "6478861710d6",
-    "e35d2f78a315",
+    "46b882a1bd91",
     "a98b19c7172a",
     "810c99754318",
     "33c497a3b340",
