@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-10T16:06:05+00:00",
+  "generated_utc": "2026-10-10T19:21:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,6 +144,13 @@
       "article_slug": null
     },
     {
+      "title": "Chainsaw Man X Crocs Collection Is The Best The Brand Ever Had",
+      "url": "https://screenrant.com/chainsaw-man-x-crocs-collaboration/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Zoro's Final Boss Confirmed To Know One Piece's Strongest Power",
       "url": "https://screenrant.com/one-piece-zoro-rival-mihawk-conqueror-haki/",
       "pillar": "anime",
@@ -165,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
-      "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 radio stations revealed alongside a series first: in-game podcasts",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/",
       "pillar": "gaming",
@@ -181,13 +181,6 @@
     {
       "title": "GTA 6 In-Game Radio Stations And Music Options Revealed",
       "url": "https://gameranx.com/updates/id/564336/article/gta-6-in-game-radio-stations-and-music-options-revealed/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Damn, This GTA 6 Screenshot Looks So Good People Don’t Believe It’s Real",
-      "url": "https://kotaku.com/damn-this-gta-6-screenshot-looks-so-good-people-dont-believe-its-real-2000742750",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "News ANOMALITH's New PS5 Demo Is a Scrappy Throwback to Classic Resident Evil",
-      "url": "https://www.pushsquare.com/news/2026/10/anomaliths-new-ps5-demo-is-a-scrappy-throwback-to-classic-resident-evil",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Final Fantasy 7 Revelation boss doesn't want to hear your Rebirth mini-game discourse",
       "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-boss-doesnt-want-to-hear-your-rebirth-mini-game-discourse-i-dont-think-that-discussion-really-gets-to-the-heart-of-the-matter/",
       "pillar": "gaming",
@@ -223,6 +209,20 @@
     {
       "title": "Eman Esfandi denies he's playing Paul in Spider-Man: Brand New Day, despite new subtitle evidence",
       "url": "https://www.gamesradar.com/entertainment/marvel-movies/eman-esfandi-still-denies-hes-playing-paul-in-spider-man-brand-new-day-despite-new-subtitles-saying-hes-literally-playing-paul/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hands-on After 3 hours, Phantom Blade Zero is a wuxia-flavored, rewarding action-RPG with a fresh Soulslike twist",
+      "url": "https://www.gamesradar.com/games/action-rpg/after-3-hours-phantom-blade-zero-is-a-wuxia-flavored-rewarding-action-rpg-with-a-fresh-soulslike-twist/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "CD Projekt RED Is Officially Making A Cyberpunk 2077 Movie With Paramount/Skydance",
+      "url": "https://gameranx.com/updates/id/564338/article/cd-projekt-red-is-officially-making-a-cyberpunk-2077-movie-with-paramount-skydance/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
