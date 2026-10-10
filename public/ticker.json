@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-09T23:58:09+00:00",
+  "generated_utc": "2026-10-10T03:01:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Lil Jon Teases Upcoming Memoir: I Only Shout So You Can Hear Me",
+      "url": "https://thesource.com/2026/10/09/lil-jon-teases-upcoming-memoir-i-only-shout-so-you-can-hear-me/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "True Religion Taps Monaleo and Trim for “THAT BADDIE DROP,” Its Fall 2026 Baddies Collection",
       "url": "https://thesource.com/2026/10/09/true-religion-taps-monaleo-and-trim-for-that-baddie-drop-its-fall-2026-baddies-collection/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Offset Talks Don Toliver Collaboration and Upcoming Album ‘GMFU’",
-      "url": "https://thesource.com/2026/10/09/offset-every-night-don-toliver-gmfu-album/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
       "pillar": "anime",
@@ -123,22 +123,22 @@
       "article_slug": null
     },
     {
-      "title": "One Piece's Zoro Is Finally Getting Serious For The First Time In 5 Years",
-      "url": "https://screenrant.com/one-piece-zoro-most-serious-since-wano-haki/",
+      "title": "Crunchyroll Announces Massive 15 Anime Series Follow-ups To Solo Leveling",
+      "url": "https://screenrant.com/crunchyroll-new-manhwa-anime-partnership-hayate/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Naruto Has 1 Fight That Changed the Entire Franchise Forever",
-      "url": "https://screenrant.com/naruto-sasuke-orochimaru-fight-changed-franchise/",
+      "title": "Crunchyroll's Isekai Solo Leveling Replacement Is Back And Better Than Ever",
+      "url": "https://screenrant.com/crunchyroll-solo-leveling-anime-isekai-a-wild-last-boss-appeared-getting-better/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Black Clover Season 2, Episode 2 Release Date & Time",
-      "url": "https://screenrant.com/black-clover-season-2-episode-2-release-date-time/",
+      "title": "Billy Bat Manga Wins Harvey Award",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Yen Press Licenses Fate/strange Fake , Kino's Journey , Spice and Wolf Diner: Gourmet Exploration , More Manga/Novels",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-09/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "pillar": "anime",
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Firefly Wedding Manga Gets Live-Action Adaptation on TV in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-09/firefly-wedding-manga-gets-live-action-adaptation-on-tv-in-2027/.242676",
+      "title": "Yen Press Licenses Fate/strange Fake , Kino's Journey , Spice and Wolf Diner: Gourmet Exploration , More Manga/Novels",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-09/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "5 Masterpiece Crunchyroll Anime That Can Be Binged In One Weekend",
+      "url": "https://screenrant.com/crunchyroll-anime-for-weekend-binge/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
