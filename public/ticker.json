@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-10T22:24:41+00:00",
+  "generated_utc": "2026-10-10T22:26:48+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,8 +123,8 @@
       "article_slug": null
     },
     {
-      "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
+      "title": "Naruto Gets Crossover Anime With Ninku Franchise",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-10/naruto-gets-crossover-anime-with-ninku-franchise/.242693",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -132,6 +132,13 @@
     {
       "title": "Naruto's New Anime Confirms Production, First Look, & Future Projects",
       "url": "https://screenrant.com/naruto-ninku-new-anime-reveal-nycc/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -153,13 +160,6 @@
     {
       "title": "It's Time To Say Goodbye To 1 Major Naruto Villain",
       "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-hidari-sasuke-death/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Japanese Animation TV Ranking, September 21-27",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-21-27/.242684",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
