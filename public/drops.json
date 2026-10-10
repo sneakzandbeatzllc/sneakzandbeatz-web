@@ -1,30 +1,30 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-10T12:51:02+00:00",
+  "generated_utc": "2026-10-10T16:06:05+00:00",
   "items": [
     {
-      "id": "6478861710d6",
+      "id": "f089d868573e",
       "pillar": "sneakers",
-      "title": "Air Jordan 4 “BIN 23” First Look",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-4-bin-23/",
-      "thumbnail": "/drops/thumbs/6478861710d6.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 5.0,
-      "release_badge": "🔥 Banger"
-    },
-    {
-      "id": "a98b19c7172a",
-      "pillar": "sneakers",
-      "title": "The Air Jordan 1 High OG “Royal” Releases Today",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-high-og-royal-iq5495-005/",
-      "thumbnail": "/drops/thumbs/a98b19c7172a.jpg",
-      "published": "2026-10-09T09:19:22",
+      "title": "Air Jordan 1 Low OG “Somos Historias” Releases October 13",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-og-somos-historias-iz4686-216/",
+      "thumbnail": "/drops/thumbs/f089d868573e.jpg",
+      "published": "2026-10-10T09:46:39",
       "relative_time": "today",
       "score": 3.0,
-      "release_badge": "Drops This Week"
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "959632b05ca3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+      "thumbnail": "/drops/thumbs/959632b05ca3.jpg",
+      "published": "2026-10-10T08:49:29",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "33c497a3b340",
@@ -34,6 +34,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-14-forest-green-2026/",
       "thumbnail": "/drops/thumbs/33c497a3b340.jpg",
       "published": "2026-10-08T03:00:34",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "b59444c6ecfc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Fireside” Releases October 30th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-3-fireside-ck9246-200/",
+      "thumbnail": "/drops/thumbs/b59444c6ecfc.webp",
+      "published": "",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -87,18 +99,6 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "99db3249df60",
-      "pillar": "sneakers",
-      "title": "Air Jordan 11 “Green Screen” (IQ5700-900) November 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-11-green-screen-iq5700-900/",
-      "thumbnail": "/drops/thumbs/99db3249df60.jpg",
-      "published": "2026-10-08T22:00:00",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
       "id": "46b882a1bd91",
       "pillar": "hiphop",
       "title": "PUMA Celebrates New York Basketball With Limited-Edition Ceremony Pack",
@@ -118,6 +118,18 @@
       "source_url": "https://thesource.com/2026/10/10/offset-explains-gmfu-album-title/",
       "thumbnail": "/drops/thumbs/3c39a83f42c3.jpg",
       "published": "2026-10-10T07:00:27",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "662a08270f4f",
+      "pillar": "hiphop",
+      "title": "TinaDimples Turns Up the Heat With Seductive New Dancehall Anthem “Cock It Up”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/10/tinadimples-turns-up-the-heat-with-seductive-new-dancehall-anthem-cock-it-up/",
+      "thumbnail": "/drops/thumbs/662a08270f4f.jpg",
+      "published": "2026-10-10T00:05:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "2794cba9b147",
-      "pillar": "hiphop",
-      "title": "Pentagon’s Plan to Livestream Fort Hood Shooter’s Execution Sparks Outrage",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/09/pentagons-plan-to-livestream-fort-hood-shooters-execution-sparks-outrage/",
-      "thumbnail": "/drops/thumbs/2794cba9b147.jpg",
-      "published": "2026-10-09T15:34:02",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "810c99754318",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
@@ -231,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "102e5c35a670",
+      "pillar": "anime",
+      "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
+      "thumbnail": "/drops/thumbs/102e5c35a670.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3786e23e2512",
       "pillar": "anime",
       "title": "Zoro's Final Boss Confirmed To Know One Piece's Strongest Power",
@@ -255,24 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "f1eb9862714e",
+      "id": "d4a2ae0d4b2a",
       "pillar": "anime",
-      "title": "Millennium Family TV Anime Casts Taihi Kimura",
+      "title": "Japanese Animation TV Ranking, September 21-27",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-10/millennium-family-tv-anime-casts-taihi-kimura/.242683",
-      "thumbnail": "/drops/thumbs/f1eb9862714e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f9f2701fed3e",
-      "pillar": "anime",
-      "title": "'I am the only one who is not attacked in the world filled with zombies' TV Anime's Main Promo Video Previews Theme Songs",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-10/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-tv-anime-main-promo-video-/.242682",
-      "thumbnail": "/drops/thumbs/f9f2701fed3e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-21-27/.242684",
+      "thumbnail": "/drops/thumbs/d4a2ae0d4b2a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "8e891067a766",
-      "pillar": "gaming",
-      "title": "News Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
-      "thumbnail": "/drops/thumbs/8e891067a766.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0f607c5395ed",
       "pillar": "gaming",
       "title": "Final Fantasy 7 Revelation boss doesn't want to hear your Rebirth mini-game discourse",
@@ -385,12 +373,24 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "d8d566cebace",
+      "pillar": "gaming",
+      "title": "Eman Esfandi denies he's playing Paul in Spider-Man: Brand New Day, despite new subtitle evidence",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/eman-esfandi-still-denies-hes-playing-paul-in-spider-man-brand-new-day-despite-new-subtitles-saying-hes-literally-playing-paul/",
+      "thumbnail": "/drops/thumbs/d8d566cebace.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "6478861710d6",
+    "f089d868573e",
     "46b882a1bd91",
-    "a98b19c7172a",
+    "959632b05ca3",
     "810c99754318",
     "33c497a3b340",
     "546596384b50"
