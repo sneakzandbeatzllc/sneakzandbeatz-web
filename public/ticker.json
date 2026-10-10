@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-10T03:01:15+00:00",
+  "generated_utc": "2026-10-10T06:20:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,15 +137,22 @@
       "article_slug": null
     },
     {
-      "title": "Billy Bat Manga Wins Harvey Award",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681",
+      "title": "It's Time To Say Goodbye To 1 Major Naruto Villain",
+      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-hidari-sasuke-death/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "North American Anime, Manga Releases, October 4-10",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-09/north-american-anime-manga-releases-october-4-10/.242519",
+      "title": "'I am the only one who is not attacked in the world filled with zombies' TV Anime's Main Promo Video Previews Theme Songs",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-10/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-tv-anime-main-promo-video-/.242682",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Billy Bat Manga Wins Harvey Award",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,15 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Yen Press Licenses Fate/strange Fake , Kino's Journey , Spice and Wolf Diner: Gourmet Exploration , More Manga/Novels",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-09/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "5 Masterpiece Crunchyroll Anime That Can Be Binged In One Weekend",
-      "url": "https://screenrant.com/crunchyroll-anime-for-weekend-binge/",
+      "title": "North American Anime, Manga Releases, October 4-10",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-09/north-american-anime-manga-releases-october-4-10/.242519",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,15 +207,15 @@
       "article_slug": null
     },
     {
-      "title": "News Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens",
-      "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
+      "title": "News ANOMALITH's New PS5 Demo Is a Scrappy Throwback to Classic Resident Evil",
+      "url": "https://www.pushsquare.com/news/2026/10/anomaliths-new-ps5-demo-is-a-scrappy-throwback-to-classic-resident-evil",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01",
-      "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
+      "title": "News Ghost of Yotei Gets More Complete with PS5 Patch Fixing Bugs and Black Screens",
+      "url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-gets-more-complete-with-ps5-patch-fixing-bugs-and-black-screens",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
