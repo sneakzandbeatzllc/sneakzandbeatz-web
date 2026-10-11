@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-11T14:30:02+00:00",
+  "generated_utc": "2026-10-11T17:31:30+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Masashi Kishimoto Is Officially Returning For New Naruto Manga",
+      "url": "https://screenrant.com/new-naruto-manga-masashi-kishimoto/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Crunchyroll's New Berserk Replacement Is Officially 2026's Best Dark Fantasy",
       "url": "https://screenrant.com/crunchyroll-sentenced-hero-berserk-replacement-dark-fantasy/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "Boichi's The Marshal King Manga Ends on October 16",
       "url": "https://www.animenewsnetwork.com/news/2026-10-11/boichi-the-marshal-king-manga-ends-on-october-16/.242709",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "4 Years Later, The Second Season Of Netflix's 100% RT Fresh Sci-Fi Series Is Only 2 Week Away",
-      "url": "https://screenrant.com/cyberpunk-edgerunners-season-2-netflix-best-sci-fi-series/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
