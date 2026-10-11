@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-11T17:33:02+00:00",
+  "generated_utc": "2026-10-11T20:38:03+00:00",
   "items": [
     {
       "id": "f089d868573e",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "0110831bbab9",
+      "pillar": "anime",
+      "title": "Dragon Ball's New Anime Officially Has The Franchise's Best Opening In 37 Years",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-best-anime-opening/",
+      "thumbnail": "/drops/thumbs/0110831bbab9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ab587035e28b",
       "pillar": "anime",
       "title": "Dragon Ball’s Most Important Super Saiyan Has Never Been Goku",
@@ -273,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "thumbnail": "/drops/thumbs/71887546818d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "577a618c5102",
-      "pillar": "anime",
-      "title": "Boichi's The Marshal King Manga Ends on October 16",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-11/boichi-the-marshal-king-manga-ends-on-october-16/.242709",
-      "thumbnail": "/drops/thumbs/577a618c5102.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "f089d868573e",
     "46b882a1bd91",
     "959632b05ca3",
-    "ab587035e28b",
+    "0110831bbab9",
     "33c497a3b340",
     "546596384b50"
   ]

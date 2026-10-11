@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-11T17:33:02+00:00",
+  "generated_utc": "2026-10-11T20:38:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball's New Anime Officially Has The Franchise's Best Opening In 37 Years",
+      "url": "https://screenrant.com/dragon-ball-super-beerus-best-anime-opening/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dragon Ball’s Most Important Super Saiyan Has Never Been Goku",
       "url": "https://screenrant.com/dragon-ball-most-important-super-saiyan-gohan-not-goku/",
       "pillar": "anime",
@@ -160,13 +167,6 @@
     {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Boichi's The Marshal King Manga Ends on October 16",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-11/boichi-the-marshal-king-manga-ends-on-october-16/.242709",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
