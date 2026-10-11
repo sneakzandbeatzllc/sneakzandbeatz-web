@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-10T22:26:48+00:00",
+  "generated_utc": "2026-10-11T01:28:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,8 +123,22 @@
       "article_slug": null
     },
     {
-      "title": "Naruto Gets Crossover Anime With Ninku Franchise",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-10/naruto-gets-crossover-anime-with-ninku-franchise/.242693",
+      "title": "Naruto Mobile Game to Get Worldwide Release; Naruto Card Game Reveals Demo, Release Dates",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-10/naruto-mobile-game-to-get-worldwide-release-naruto-card-game-reveals-demo-release-dates/.242694",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Crunchyroll's New Berserk Replacement Is Officially 2026's Best Dark Fantasy",
+      "url": "https://screenrant.com/crunchyroll-sentenced-hero-berserk-replacement-dark-fantasy/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Masashi Kishimoto to Launch New Naruto Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-10/masashi-kishimoto-to-launch-new-naruto-manga/.242695",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,29 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Dr. Stone TV Anime Gets Terraforming Sequel",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Chainsaw Man X Crocs Collection Is The Best The Brand Ever Had",
-      "url": "https://screenrant.com/chainsaw-man-x-crocs-collaboration/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Zoro's Final Boss Confirmed To Know One Piece's Strongest Power",
-      "url": "https://screenrant.com/one-piece-zoro-rival-mihawk-conqueror-haki/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "It's Time To Say Goodbye To 1 Major Naruto Villain",
-      "url": "https://screenrant.com/naruto-boruto-two-blue-vortex-hidari-sasuke-death/",
+      "title": "Naruto Gets Crossover Anime With Ninku Franchise",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-10/naruto-gets-crossover-anime-with-ninku-franchise/.242693",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The World's Best-Selling Comic Series Isn't Just Popular, It's A Masterpiece",
+      "url": "https://screenrant.com/best-selling-comic-ever-manga-one-piece/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
