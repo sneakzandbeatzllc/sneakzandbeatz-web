@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-11T11:28:38+00:00",
+  "generated_utc": "2026-10-11T14:30:02+00:00",
   "items": [
     {
       "id": "f089d868573e",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "438e9b611ff0",
-      "pillar": "anime",
-      "title": "Dragon Ball Super: Beerus Also Streams on Hulu in U.S. on October 11",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-10/dragon-ball-super-beerus-also-streams-on-hulu-in-u.s-on-october-11/.242688",
-      "thumbnail": "/drops/thumbs/438e9b611ff0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ab587035e28b",
       "pillar": "anime",
       "title": "Dragon Ball’s Most Important Super Saiyan Has Never Been Goku",
@@ -255,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "896cf08a6649",
+      "pillar": "anime",
+      "title": "Yasuki Tanaka's Ghost Fixers Manga Ends in Next Chapter",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-11/yasuki-tanaka-ghost-fixers-manga-ends-in-next-chapter/.242710",
+      "thumbnail": "/drops/thumbs/896cf08a6649.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "71887546818d",
       "pillar": "anime",
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "896cf08a6649",
+      "id": "577a618c5102",
       "pillar": "anime",
-      "title": "Yasuki Tanaka's Ghost Fixers Manga Ends in Next Chapter",
+      "title": "Boichi's The Marshal King Manga Ends on October 16",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-11/yasuki-tanaka-ghost-fixers-manga-ends-in-next-chapter/.242710",
-      "thumbnail": "/drops/thumbs/896cf08a6649.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-11/boichi-the-marshal-king-manga-ends-on-october-16/.242709",
+      "thumbnail": "/drops/thumbs/577a618c5102.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "f089d868573e",
     "46b882a1bd91",
     "959632b05ca3",
-    "438e9b611ff0",
+    "ab587035e28b",
     "33c497a3b340",
     "546596384b50"
   ]
