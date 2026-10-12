@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-11T23:51:12+00:00",
+  "generated_utc": "2026-10-12T03:01:44+00:00",
   "items": [
+    {
+      "id": "92107ecc1946",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Bin23” Releases December 26 for $355",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-4-bin23-ja3588-200/",
+      "thumbnail": "/drops/thumbs/92107ecc1946.webp",
+      "published": "2026-10-11T22:49:57",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "f089d868573e",
       "pillar": "sneakers",
@@ -81,18 +93,6 @@
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-1-mid-se-space-jam-ix6374-001-2026/",
       "thumbnail": "/drops/thumbs/f50f07441f50.jpg",
-      "published": "2026-10-08T22:00:00",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "f84b6e0d5c1a",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low SE “Magic Ball” (IX6375-001) November 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-1-low-se-magic-ball-ix6375-001/",
-      "thumbnail": "/drops/thumbs/f84b6e0d5c1a.jpg",
       "published": "2026-10-08T22:00:00",
       "relative_time": "today",
       "score": 2.4,
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "c1ec47b788e9",
+      "pillar": "anime",
+      "title": "Dragon Ball's New Anime Has Officially Broken Crunchyroll",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-broken-crunchyroll/",
+      "thumbnail": "/drops/thumbs/c1ec47b788e9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0110831bbab9",
       "pillar": "anime",
       "title": "Dragon Ball's New Anime Officially Has The Franchise's Best Opening In 37 Years",
@@ -231,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "f30ef71d47fd",
+      "id": "bc743bd557b1",
       "pillar": "anime",
-      "title": "Masashi Kishimoto Is Officially Returning For New Naruto Manga",
+      "title": "One Piece’s Massive Success Overshadows The True GOAT Of Manga",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/new-naruto-manga-masashi-kishimoto/",
-      "thumbnail": "/drops/thumbs/f30ef71d47fd.jpg",
+      "source_url": "https://screenrant.com/dragon-ball-more-successful-one-piece/",
+      "thumbnail": "/drops/thumbs/bc743bd557b1.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d1d6e27e4ef5",
+      "id": "f30ef71d47fd",
       "pillar": "anime",
-      "title": "Crunchyroll's New Berserk Replacement Is Officially 2026's Best Dark Fantasy",
+      "title": "Masashi Kishimoto Is Officially Returning For New Naruto Manga",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/crunchyroll-sentenced-hero-berserk-replacement-dark-fantasy/",
-      "thumbnail": "/drops/thumbs/d1d6e27e4ef5.jpg",
+      "source_url": "https://screenrant.com/new-naruto-manga-masashi-kishimoto/",
+      "thumbnail": "/drops/thumbs/f30ef71d47fd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "71887546818d",
-      "pillar": "anime",
-      "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "thumbnail": "/drops/thumbs/71887546818d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "546596384b50",
       "pillar": "gaming",
       "title": "GTA 6 radio stations revealed alongside a series first: in-game podcasts",
@@ -309,18 +309,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564336/article/gta-6-in-game-radio-stations-and-music-options-revealed/",
       "thumbnail": "/drops/thumbs/0609b30e3647.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0f87bbae574c",
-      "pillar": "gaming",
-      "title": "GTA 6 Leaker Threatens Rockstar With Doomsday Scenario If Meme Coin Hits $30 Million",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/gta-6-leaker-threatens-rockstar-with-doomsday-scenario-if-meme-coin-hits-30-million-2000743779",
-      "thumbnail": "/drops/thumbs/0f87bbae574c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "1faa2feba35a",
+      "pillar": "gaming",
+      "title": "CD Projekt RED Is Officially Making A Cyberpunk 2077 Movie With Paramount/Skydance",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564338/article/cd-projekt-red-is-officially-making-a-cyberpunk-2077-movie-with-paramount-skydance/",
+      "thumbnail": "/drops/thumbs/1faa2feba35a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "f089d868573e",
+    "92107ecc1946",
     "46b882a1bd91",
+    "f089d868573e",
+    "c1ec47b788e9",
     "959632b05ca3",
-    "0110831bbab9",
-    "33c497a3b340",
     "546596384b50"
   ]
 }

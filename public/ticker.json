@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-11T23:51:12+00:00",
+  "generated_utc": "2026-10-12T03:01:44+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 4 “Bin23” Releases December 26 for $355",
+      "url": "https://justfreshkicks.com/air-jordan-4-bin23-ja3588-200/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 1 Low OG “Somos Historias” Releases October 13",
       "url": "https://justfreshkicks.com/air-jordan-1-low-og-somos-historias-iz4686-216/",
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 1 Mid SE “Space Jam” (IX6374-001) November 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-1-mid-se-space-jam-ix6374-001-2026/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Low SE “Magic Ball” (IX6375-001) November 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-1-low-se-magic-ball-ix6375-001/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball's New Anime Has Officially Broken Crunchyroll",
+      "url": "https://screenrant.com/dragon-ball-super-beerus-broken-crunchyroll/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dragon Ball's New Anime Officially Has The Franchise's Best Opening In 37 Years",
       "url": "https://screenrant.com/dragon-ball-super-beerus-best-anime-opening/",
       "pillar": "anime",
@@ -137,15 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "Masashi Kishimoto Is Officially Returning For New Naruto Manga",
-      "url": "https://screenrant.com/new-naruto-manga-masashi-kishimoto/",
+      "title": "One Piece’s Massive Success Overshadows The True GOAT Of Manga",
+      "url": "https://screenrant.com/dragon-ball-more-successful-one-piece/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Crunchyroll's New Berserk Replacement Is Officially 2026's Best Dark Fantasy",
-      "url": "https://screenrant.com/crunchyroll-sentenced-hero-berserk-replacement-dark-fantasy/",
+      "title": "Masashi Kishimoto Is Officially Returning For New Naruto Manga",
+      "url": "https://screenrant.com/new-naruto-manga-masashi-kishimoto/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
-      "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 radio stations revealed alongside a series first: in-game podcasts",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/",
       "pillar": "gaming",
@@ -181,13 +181,6 @@
     {
       "title": "GTA 6 In-Game Radio Stations And Music Options Revealed",
       "url": "https://gameranx.com/updates/id/564336/article/gta-6-in-game-radio-stations-and-music-options-revealed/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "GTA 6 Leaker Threatens Rockstar With Doomsday Scenario If Meme Coin Hits $30 Million",
-      "url": "https://kotaku.com/gta-6-leaker-threatens-rockstar-with-doomsday-scenario-if-meme-coin-hits-30-million-2000743779",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "Hands-on After 3 hours, Phantom Blade Zero is a wuxia-flavored, rewarding action-RPG with a fresh Soulslike twist",
       "url": "https://www.gamesradar.com/games/action-rpg/after-3-hours-phantom-blade-zero-is-a-wuxia-flavored-rewarding-action-rpg-with-a-fresh-soulslike-twist/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "CD Projekt RED Is Officially Making A Cyberpunk 2077 Movie With Paramount/Skydance",
+      "url": "https://gameranx.com/updates/id/564338/article/cd-projekt-red-is-officially-making-a-cyberpunk-2077-movie-with-paramount-skydance/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
