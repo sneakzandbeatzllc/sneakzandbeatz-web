@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-13T19:46:44+00:00",
+  "generated_utc": "2026-10-13T22:49:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Keefe D Sentenced to 40 Years to Life for Tupac Shakur’s Murder, Closing a 30-Year Chapter in Hip Hop History",
+      "url": "https://thesource.com/2026/10/13/keefe-d-sentenced-to-40-years-to-life-for-tupac-shakurs-murder-closing-a-30-year-chapter-in-hip-hop-history/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "NFL Power Ranks Week 6: Niners Remain Top Team, Chiefs, Bills, Undefeated Vikings Keep Pace",
+      "url": "https://thesource.com/2026/10/13/nfl-power-ranks-week-6-niners-remain-top-team-chiefs-bills-undefeated-vikings-keep-pace/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Democrats Prepare Sweeping Investigations Into Trump, His Family, Big Tech AFTER Midterms",
       "url": "https://thesource.com/2026/10/13/democrats-prepare-sweeping-investigations-into-trump-his-family-big-tech-after-midterms/",
       "pillar": "hiphop",
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Brooklyn Nets Unveil Classic Edition Uniform and Court for 60th Season",
-      "url": "https://thesource.com/2026/10/13/brooklyn-nets-classic-uniform-court-60th-season/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Doechii Shares ‘Swamp Sessions’ Update While Working on Debut Album",
-      "url": "https://thesource.com/2026/10/13/doechii-swamp-sessions-debut-album-update/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball's New Anime Has Officially Broken Crunchyroll",
       "url": "https://screenrant.com/dragon-ball-super-beerus-broken-crunchyroll/",
       "pillar": "anime",
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "9 Years Later, Dr. Stone's Classic Shonen Jump Series Returns With New Official Sequel Anime",
+      "url": "https://screenrant.com/dr-stone-new-sequel-anime-terraforming-shonen-jump/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kishimoto Has Already Confirmed Where On The Naruto Timeline His New Manga Is Set",
       "url": "https://screenrant.com/naruto-new-kishimoto-manga-shadow-rising-timeline/",
       "pillar": "anime",
@@ -144,22 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "One Piece’s Massive Success Overshadows The True GOAT Of Manga",
-      "url": "https://screenrant.com/dragon-ball-more-successful-one-piece/",
+      "title": "The Promised Neverland , Blue Box Manga Both Get New Novels",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-13/the-promised-neverland-blue-box-manga-both-get-new-novels/.242767",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Glacier Bay License Oedo-chan of Moguraya , A Vase of Life , Faraway Blue , More Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-13/glacier-bay-license-oedo-chan-of-moguraya-a-vase-of-life-faraway-blue-more-manga/.242787",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Manga Creator Masako Watanabe Dies at 97",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-13/manga-creator-masako-watanabe-dies-at-97/.242789",
+      "title": "Tsūkaku Tantei Tsūtenji Natsume , Isekai Yurutto Survival Seikatsu Manga Both End",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-13/tsukaku-tantei-tsutenji-natsume-isekai-yurutto-survival-seikatsu-manga-both-end/.242773",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "God Of War: Laufey Has A Disc Version – But It’s The Latest Title To Get A Collector’s Box Without The Game",
-      "url": "https://gameranx.com/updates/id/564365/article/god-of-war-laufey-has-a-disc-version-but-its-the-latest-title-to-get-a-collectors-box-without-the-game/",
+      "title": "The God of War Laufey Collector's Edition does not include the game",
+      "url": "https://www.gamesradar.com/video/RQWgrzwt/the-god-of-war-laufey-collector-039-s-edition-does-not-include-the-game/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy",
-      "url": "https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy",
+      "title": "God Of War: Laufey Has A Disc Version – But It’s The Latest Title To Get A Collector’s Box Without The Game",
+      "url": "https://gameranx.com/updates/id/564365/article/god-of-war-laufey-has-a-disc-version-but-its-the-latest-title-to-get-a-collectors-box-without-the-game/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
