@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-13T04:25:10+00:00",
+  "generated_utc": "2026-10-13T07:36:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,27 @@
       "url": "https://justfreshkicks.com/air-jordan-4-bin23-ja3588-200/",
       "pillar": "sneakers",
       "score": 5.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 12 “Fireside” Releases October 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-12-fireside/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 9 Boot NRG “Iridescent” Releases October 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-9-boot-nrg-anthracite-iridescent/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 Low “Lola Bunny” Releases October 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-1-low-lola-bunny/",
+      "pillar": "sneakers",
+      "score": 3.0,
       "article_slug": null
     },
     {
@@ -25,13 +46,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 14 “Forest Green” Returns October 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-14-forest-green-2026/",
       "pillar": "sneakers",
@@ -43,20 +57,6 @@
       "url": "https://sneakerbardetroit.com/air-jordan-3-fireside-ck9246-200/",
       "pillar": "sneakers",
       "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 9 Boot “Reflective Anthracite” Now Available (October 2026)",
-      "url": "https://sneakerbardetroit.com/air-jordan-9-boot-nrg-anthracite-iridescent/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 1 Mid “Space Jam Hare” Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-mid-space-jam-hare/",
-      "pillar": "sneakers",
-      "score": 2.4,
       "article_slug": null
     },
     {
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 leaker threatens to release a build of the entire game",
-      "url": "https://www.gamesradar.com/video/6Q3WwCJu/gta-6-leaker-threatens-to-release-a-build-of-the-entire-game/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 Leaker Arion Kurtaj Trial Scheduled On November 9 – Days Before GTA 6’s Launch",
       "url": "https://gameranx.com/updates/id/564348/article/gta-6-leaker-arion-kurtaj-trial-scheduled-on-november-9-days-before-gta-6s-launch/",
       "pillar": "gaming",
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News The Crazy Wait for Dragon Quest 12 Made Worse by Creator's 'Astonishing' Praise for AI",
-      "url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai",
+      "title": "CD Projekt RED Is Officially Making A Cyberpunk 2077 Movie With Paramount/Skydance",
+      "url": "https://gameranx.com/updates/id/564338/article/cd-projekt-red-is-officially-making-a-cyberpunk-2077-movie-with-paramount-skydance/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Exclusive Street Fighter movie stunt coordinator researched \"every character\" to ensure each fight had their \"signature styles\"",
+      "url": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-movie-stunt-coordinator-researched-every-character-to-ensure-each-fight-had-their-signature-styles-it-was-meticulous-attention-to-detail/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

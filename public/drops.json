@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-13T04:25:10+00:00",
+  "generated_utc": "2026-10-13T07:36:55+00:00",
   "items": [
     {
       "id": "92107ecc1946",
@@ -13,6 +13,42 @@
       "relative_time": "today",
       "score": 5.0,
       "release_badge": "🔥 Banger"
+    },
+    {
+      "id": "02645ca88ab2",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Fireside” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-12-fireside/",
+      "thumbnail": "/drops/thumbs/02645ca88ab2.jpg",
+      "published": "2026-10-13T00:25:58",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "cbe6813e9678",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 Boot NRG “Iridescent” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-boot-nrg-anthracite-iridescent/",
+      "thumbnail": "/drops/thumbs/cbe6813e9678.jpg",
+      "published": "2026-10-13T00:17:56",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "dc108d50fa84",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low “Lola Bunny” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-lola-bunny/",
+      "thumbnail": "/drops/thumbs/dc108d50fa84.jpg",
+      "published": "2026-10-12T23:27:10",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "3d1d651a54cf",
@@ -34,18 +70,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
       "thumbnail": "/drops/thumbs/e0f5793659c2.jpg",
       "published": "2026-10-12T08:31:39",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "959632b05ca3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
-      "thumbnail": "/drops/thumbs/959632b05ca3.jpg",
-      "published": "2026-10-10T08:49:29",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -73,30 +97,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
-    },
-    {
-      "id": "d35602219d81",
-      "pillar": "sneakers",
-      "title": "Air Jordan 9 Boot “Reflective Anthracite” Now Available (October 2026)",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-9-boot-nrg-anthracite-iridescent/",
-      "thumbnail": "/drops/thumbs/d35602219d81.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "e9ec709dbc3d",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Mid “Space Jam Hare” Releases November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-mid-space-jam-hare/",
-      "thumbnail": "/drops/thumbs/e9ec709dbc3d.jpg",
-      "published": "2026-10-08T14:41:39",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "56f8f7eaab02",
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "af9d370bb3c5",
-      "pillar": "gaming",
-      "title": "GTA 6 leaker threatens to release a build of the entire game",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/video/6Q3WwCJu/gta-6-leaker-threatens-to-release-a-build-of-the-entire-game/",
-      "thumbnail": "/drops/thumbs/af9d370bb3c5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f8be1b2ace63",
       "pillar": "gaming",
       "title": "GTA 6 Leaker Arion Kurtaj Trial Scheduled On November 9 – Days Before GTA 6’s Launch",
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "1b5b093a6475",
+      "id": "1faa2feba35a",
       "pillar": "gaming",
-      "title": "News The Crazy Wait for Dragon Quest 12 Made Worse by Creator's 'Astonishing' Praise for AI",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai",
-      "thumbnail": "/drops/thumbs/1b5b093a6475.jpg",
+      "title": "CD Projekt RED Is Officially Making A Cyberpunk 2077 Movie With Paramount/Skydance",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564338/article/cd-projekt-red-is-officially-making-a-cyberpunk-2077-movie-with-paramount-skydance/",
+      "thumbnail": "/drops/thumbs/1faa2feba35a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "bd868a0e0ba1",
+      "pillar": "gaming",
+      "title": "Exclusive Street Fighter movie stunt coordinator researched \"every character\" to ensure each fight had their \"signature styles\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-movie-stunt-coordinator-researched-every-character-to-ensure-each-fight-had-their-signature-styles-it-was-meticulous-attention-to-detail/",
+      "thumbnail": "/drops/thumbs/bd868a0e0ba1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "92107ecc1946",
     "56f8f7eaab02",
-    "3d1d651a54cf",
+    "02645ca88ab2",
     "c1ec47b788e9",
-    "e0f5793659c2",
+    "cbe6813e9678",
     "2b9474fe2009"
   ]
 }
