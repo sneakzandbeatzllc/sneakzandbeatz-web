@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-12T22:07:14+00:00",
+  "generated_utc": "2026-10-13T01:16:55+00:00",
   "items": [
     {
       "id": "92107ecc1946",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "56f8f7eaab02",
+      "pillar": "hiphop",
+      "title": "Blueface Gets Engaged to Chrisean Rock During Surprise Nightclub Proposal",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/12/blueface-gets-engaged-to-chrisean-rock-during-surprise-nightclub-proposal/",
+      "thumbnail": "/drops/thumbs/56f8f7eaab02.jpg",
+      "published": "2026-10-12T18:38:40",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8c5a9af8a37b",
       "pillar": "hiphop",
       "title": "Today in Hip-Hop History: Mos Def Released His Solo Debut ‘Black On Both Sides’ 27 Years Ago",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/10/12/pope-leo-xiv-condemns-death-penalty-as-pentagon-faces-backlash-over-wild-livestream-execution-plans/",
       "thumbnail": "/drops/thumbs/4729d17c3621.jpg",
       "published": "2026-10-12T07:47:37",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a1f30d05be15",
-      "pillar": "hiphop",
-      "title": "Gunna Launches SB THE LABEL With Atlantic Music Group, Drops “pop it”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/12/gunna-launches-sb-the-label-atlantic-music-group/",
-      "thumbnail": "/drops/thumbs/a1f30d05be15.png",
-      "published": "2026-10-12T07:47:25",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "af9d370bb3c5",
+      "pillar": "gaming",
+      "title": "GTA 6 leaker threatens to release a build of the entire game",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/video/6Q3WwCJu/gta-6-leaker-threatens-to-release-a-build-of-the-entire-game/",
+      "thumbnail": "/drops/thumbs/af9d370bb3c5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f8be1b2ace63",
       "pillar": "gaming",
       "title": "GTA 6 Leaker Arion Kurtaj Trial Scheduled On November 9 – Days Before GTA 6’s Launch",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "451e7ed01756",
-      "pillar": "gaming",
-      "title": "News Devil May Cry 5 Composer Returns for Dragon's Dogma 2 DLC, Makes a Banging Metal Track",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/devil-may-cry-5-composer-returns-for-dragons-dogma-2-dlc-makes-a-banging-metal-track",
-      "thumbnail": "/drops/thumbs/451e7ed01756.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "92107ecc1946",
-    "8c5a9af8a37b",
+    "56f8f7eaab02",
     "3d1d651a54cf",
     "c1ec47b788e9",
     "e0f5793659c2",
