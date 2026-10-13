@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-13T10:40:43+00:00",
+  "generated_utc": "2026-10-13T13:43:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Today In Hip Hop History: Nas Released His Debut Single “Halftime” 34 Years Ago",
+      "url": "https://thesource.com/2026/10/13/today-in-hip-hop-history-nas-released-his-debut-single-halftime-34-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Baby On The ‘Ready To Die’ Album Was Not Notorious B.I.G., Was Only Paid $150 For 2-Hour Photo Shoot",
+      "url": "https://thesource.com/2026/10/13/the-baby-on-the-ready-to-die-album-was-not-notorious-b-i-g-was-only-paid-150-for-2-hour-photo-shoot/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Rep. Ilhan Omar With a Message to Trump After Fed Search on Her Home: ‘I Will Not Be Silenced’",
       "url": "https://thesource.com/2026/10/13/rep-ilhan-omar-with-a-message-to-trump-after-fed-search-on-her-home-i-will-not-be-silenced/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "Today in Hip-Hop History: Mos Def Released His Solo Debut ‘Black On Both Sides’ 27 Years Ago",
       "url": "https://thesource.com/2026/10/12/today-in-hip-hop-history-mos-def-released-his-solo-debut-black-on-both-sides-27-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Today In Hip Hop History: Mos Def aka Yasiin Bey Released His Sophomore Album ‘The New Danger’ 22 Years Ago",
-      "url": "https://thesource.com/2026/10/12/today-in-hip-hop-history-mos-def-aka-yasiin-bey-released-his-sophomore-album-the-new-danger-22-years-ago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Today In Hip Hop History: Leaders Of The New School Released Their Sophomore Album ‘T.I.M.E.’ 33 Years Ago",
-      "url": "https://thesource.com/2026/10/12/today-in-hip-hop-history-leaders-of-the-new-school-released-their-sophomore-album-t-i-m-e-33-years-ago/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Junji Itō's 'The Hanging Balloons' Short Manga Gets Thai Film",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-13/junji-ito-the-hanging-balloons-short-manga-gets-thai-film/.242777",
+      "title": "The Coppersmith's Bride Manga Ends in 3 Chapters",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-13/the-coppersmith-bride-manga-ends-in-3-chapters/.242760",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -186,13 +186,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto",
-      "url": "https://kotaku.com/gta-6-leaker-posts-lucia-skydiving-naked-to-sell-crypto-2000744175",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Cyberleek Makes A Milestone Roadmap To Their Crypto Reaching $ 30 Million And Leaking GTA 6",
       "url": "https://gameranx.com/updates/id/564354/article/cyberleek-makes-a-milestone-roadmap-to-their-crypto-reaching-30-million-and-leaking-gta-6/",
       "pillar": "gaming",
@@ -200,8 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Leaker Arion Kurtaj Trial Scheduled On November 9 – Days Before GTA 6’s Launch",
-      "url": "https://gameranx.com/updates/id/564348/article/gta-6-leaker-arion-kurtaj-trial-scheduled-on-november-9-days-before-gta-6s-launch/",
+      "title": "News The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Problems",
+      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-problems",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
+      "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News 'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project",
-      "url": "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project",
+      "title": "The Witcher 3: Wild Hunt Remastered keeps distracting me with its beautiful skies",
+      "url": "https://www.gamesradar.com/video/tuod5Hf0/the-witcher-3-wild-hunt-remastered-keeps-distracting-me-with-its-beautiful-skies/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "We Might Be Cooked, As These Vibe-Coded Web Browser Ports Of Halo , The Simpsons: Hit And Run , And GTA: Vice City Seem To Work Perfectly",
-      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "title": "God Of War: Laufey Has A Disc Version – But It’s The Latest Title To Get A Collector’s Box Without The Game",
+      "url": "https://gameranx.com/updates/id/564365/article/god-of-war-laufey-has-a-disc-version-but-its-the-latest-title-to-get-a-collectors-box-without-the-game/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
