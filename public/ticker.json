@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-13T01:17:26+00:00",
+  "generated_utc": "2026-10-13T04:25:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball's New Anime Officially Has The Franchise's Best Opening In 37 Years",
-      "url": "https://screenrant.com/dragon-ball-super-beerus-best-anime-opening/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
       "pillar": "anime",
@@ -139,6 +132,13 @@
     {
       "title": "Crunchyroll’s Dark Fantasy Masterpiece Is The Perfect Anime To Watch While You Wait For Jujutsu Kaisen",
       "url": "https://screenrant.com/crunchyroll-dark-fantasy-masterpiece-clevatess-jujutsu-kasin/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Kishimoto Has Already Confirmed Where On The Naruto Timeline His New Manga Is Set",
+      "url": "https://screenrant.com/naruto-new-kishimoto-manga-shadow-rising-timeline/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
