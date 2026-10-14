@@ -1,18 +1,11 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-14T14:45:11+00:00",
+  "generated_utc": "2026-10-14T17:46:54+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "Air Jordan 4 “BIN 23” Releases December 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-4-bin-23/",
-      "pillar": "sneakers",
-      "score": 5.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Bin23” Releases December 26 for $355",
-      "url": "https://justfreshkicks.com/air-jordan-4-bin23-ja3588-200/",
       "pillar": "sneakers",
       "score": 5.0,
       "article_slug": null
@@ -57,6 +50,20 @@
       "url": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Fireside” Releases October 30th",
+      "url": "https://sneakerbardetroit.com/air-jordan-3-fireside-ck9246-200/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Details Behind Diddy’s Hospital Visit: Brawl with Jamaican Druglord Christopher “Dudus” Coke",
+      "url": "https://thesource.com/2026/10/14/diddy-prison-fight-christopher-dudus-coke-head-injury/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Monsta Kodi and A.King Get Real About Cancer With Powerful “Wipe Your Tears” Video",
-      "url": "https://thesource.com/2026/10/14/monsta-kodi-and-a-king-get-real-about-cancer-with-powerful-wipe-your-tears-video/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
       "pillar": "anime",
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "CloverWorks' Anime Film Grotesqqque to Feature Mika Ichinose Song",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-14/cloverworks-anime-film-grotesqqque-to-feature-mika-ichinose-song/.242806",
+      "title": "Kadokawa Apologizes After Using Character Design Reference Without Permission for Pitch-Black Infatuation Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-14/kadokawa-apologizes-after-using-character-design-reference-without-permission-for-pitch-black-/.242796",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Kou Sawada's Risque Comedy Manga Yumeneconnect Gets TV Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-14/kou-sawada-risque-comedy-manga-yumeneconnect-gets-tv-anime/.242798",
+      "title": "Shueisha's Manga Million Adds Hiromasa Okujima's Together with Serial-san Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-14/shueisha-manga-million-adds-hiromasa-okujima-together-with-serial-san-manga/.242814",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -168,13 +168,6 @@
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News GTA 6 Tech Will Help Create the Next Rockstar Game, Won't Be Another 8-Year Wait",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-tech-will-help-create-the-next-rockstar-game-wont-be-another-8-year-wait",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Crashing Problems",
-      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-crashing-problems",
+      "title": "News PS5 Pro Easily the Best Place to Play The Witcher 3 Remastered on Console, Finds Digital Foundry",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-pro-easily-the-best-place-to-play-the-witcher-3-remastered-on-console-finds-digital-foundry",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Review Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age",
+      "url": "https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
