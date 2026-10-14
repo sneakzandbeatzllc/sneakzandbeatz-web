@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-14T01:55:53+00:00",
+  "generated_utc": "2026-10-14T05:06:35+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -207,6 +207,18 @@
       "release_badge": ""
     },
     {
+      "id": "2a1b2e69c334",
+      "pillar": "anime",
+      "title": "Naruto's Controversial New Anime Is Secretly Genius",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-ninku-crossover-controversy-genius-explained/",
+      "thumbnail": "/drops/thumbs/2a1b2e69c334.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3dea8f2bf3eb",
       "pillar": "anime",
       "title": "Kishimoto's New Naruto Manga Just Gave Fans The Redesign Everybody Wanted",
@@ -243,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "9590f4162eea",
+      "pillar": "anime",
+      "title": "Kou Sawada's Risque Comedy Manga Yumeneconnect Gets TV Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-14/kou-sawada-risque-comedy-manga-yumeneconnect-gets-tv-anime/.242798",
+      "thumbnail": "/drops/thumbs/9590f4162eea.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ef550b60e09d",
       "pillar": "anime",
       "title": "The Promised Neverland , Blue Box Manga Both Get New Novels",
@@ -255,48 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "7e90e4a88796",
-      "pillar": "anime",
-      "title": "Tsūkaku Tantei Tsūtenji Natsume , Isekai Yurutto Survival Seikatsu Manga Both End",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-13/tsukaku-tantei-tsutenji-natsume-isekai-yurutto-survival-seikatsu-manga-both-end/.242773",
-      "thumbnail": "/drops/thumbs/7e90e4a88796.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "71887546818d",
       "pillar": "anime",
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "thumbnail": "/drops/thumbs/71887546818d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2e897ba7481f",
-      "pillar": "anime",
-      "title": "Black Summoner Manga Ends With 200th Chapter",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-13/black-summoner-manga-ends-with-200th-chapter/.242783",
-      "thumbnail": "/drops/thumbs/2e897ba7481f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "18cb7169cc66",
-      "pillar": "gaming",
-      "title": "Rumour GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
-      "thumbnail": "/drops/thumbs/18cb7169cc66.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "8c32c0d0fc39",
+      "pillar": "gaming",
+      "title": "News God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
+      "thumbnail": "/drops/thumbs/8c32c0d0fc39.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "be902c28c2f7",
       "pillar": "gaming",
       "title": "The God of War Laufey Collector's Edition does not include the game",
@@ -393,6 +393,6 @@
     "92107ecc1946",
     "810c99754318",
     "bfe410070daa",
-    "18cb7169cc66"
+    "dddb8562260f"
   ]
 }
