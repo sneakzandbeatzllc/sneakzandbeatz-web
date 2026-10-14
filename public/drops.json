@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-14T20:51:47+00:00",
+  "generated_utc": "2026-10-14T23:53:23+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -34,30 +34,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-12-fireside/",
       "thumbnail": "/drops/thumbs/02645ca88ab2.jpg",
       "published": "2026-10-13T00:25:58",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "cbe6813e9678",
-      "pillar": "sneakers",
-      "title": "Air Jordan 9 Boot NRG “Iridescent” Releases October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-9-boot-nrg-anthracite-iridescent/",
-      "thumbnail": "/drops/thumbs/cbe6813e9678.jpg",
-      "published": "2026-10-13T00:17:56",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "dc108d50fa84",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low “Lola Bunny” Releases October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-lola-bunny/",
-      "thumbnail": "/drops/thumbs/dc108d50fa84.jpg",
-      "published": "2026-10-12T23:27:10",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -97,6 +73,30 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "d35602219d81",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 Boot “Reflective Anthracite” Now Available (October 2026)",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-9-boot-nrg-anthracite-iridescent/",
+      "thumbnail": "/drops/thumbs/d35602219d81.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "8b95e0c5cd48",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 GS “Santa” Releases November 21",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-gs-santa-dm0967-601/",
+      "thumbnail": "/drops/thumbs/8b95e0c5cd48.webp",
+      "published": "2026-10-13T16:35:37",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "6488437f7fa9",
@@ -207,6 +207,30 @@
       "release_badge": ""
     },
     {
+      "id": "a3986019a9c5",
+      "pillar": "anime",
+      "title": "Black Clover Season 2, Episode 3 Release Date & Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-clover-season-2-episode-3-release-date-time/",
+      "thumbnail": "/drops/thumbs/a3986019a9c5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b1343d7eb44d",
+      "pillar": "anime",
+      "title": "Everything Fans Know About Masashi Kishimoto's New Naruto Sequel Manga Explained",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-shadow-rising-masashi-kishimoto-new-manga-explained/",
+      "thumbnail": "/drops/thumbs/b1343d7eb44d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2a1b2e69c334",
       "pillar": "anime",
       "title": "Naruto's Controversial New Anime Is Secretly Genius",
@@ -231,48 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "ce170fcbdfae",
+      "id": "7bfa8652a431",
       "pillar": "anime",
-      "title": "10 Years Later, One Naruto Episode Still Has The Series' Most Essential Life Lesson",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-naruto-episode-most-essential-life-lesson/",
-      "thumbnail": "/drops/thumbs/ce170fcbdfae.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "03a21cebcc16",
-      "pillar": "anime",
-      "title": "9 Years Later, Dr. Stone's Classic Shonen Jump Series Returns With New Official Sequel Anime",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dr-stone-new-sequel-anime-terraforming-shonen-jump/",
-      "thumbnail": "/drops/thumbs/03a21cebcc16.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6a01fd8164fd",
-      "pillar": "anime",
-      "title": "Seven Seas Licenses Ushiyama-san , Mouse Royale , This World Is Worth Fighting For , More Manga/Novels",
+      "title": "Croquette!'s Manavu Kishimoto Launches New Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-14/seven-seas-licenses-ushiyama-san-mouse-royale-this-world-is-worth-fighting-for-more-manga-novels/.242817",
-      "thumbnail": "/drops/thumbs/6a01fd8164fd.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-14/croquette-s-manavu-kishimoto-launches-new-manga/.242805",
+      "thumbnail": "/drops/thumbs/7bfa8652a431.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "9df27f0336c1",
+      "id": "ef6e4c10ab42",
       "pillar": "anime",
-      "title": "Ei Ohitsuji's Ochibure Zeus to Dorei no Ko Manga Changes Publisher",
+      "title": "North American Anime, Manga Releases, October 11-17",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-14/ei-ohitsuji-ochibure-zeus-to-dorei-no-ko-manga-changes-publisher/.242802",
-      "thumbnail": "/drops/thumbs/9df27f0336c1.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-14/north-american-anime-manga-releases-october-11-17/.242757",
+      "thumbnail": "/drops/thumbs/ef6e4c10ab42.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "d10ffd450349",
+      "id": "9bdecd084522",
       "pillar": "gaming",
-      "title": "GTA 6 took 13 years, but GTA 7 won't – Rockstar says \"the tools and the team we've built during this project will allow us to do things more quickly\"",
+      "title": "GTA 6 has a realistic sweat system that makes Jason and Lucia perspire based on how hard they dance 6 Comments",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-took-13-years-but-gta-7-wont-rockstar-says-the-tools-and-the-team-weve-built-during-this-project-will-allow-us-to-do-things-more-quickly-in-the-future/",
-      "thumbnail": "/drops/thumbs/d10ffd450349.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/",
+      "thumbnail": "/drops/thumbs/9bdecd084522.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -332,7 +332,7 @@
       "title": "GTA 6 took 13 years but Rockstar Games says GTA 7 won't",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/video/qZkbqPFs/gta-6-took-13-years-but-rockstar-games-says-gta-7-won-039-t/",
-      "thumbnail": "/drops/thumbs/891f88cbad65.jpg",
+      "thumbnail": "/drops/thumbs/891f88cbad65.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "1f4ab778f83b",
+      "id": "3ff163c18fb5",
       "pillar": "gaming",
-      "title": "News Hideo Kojima Shows There's No Hard Feelings After Physint Axe by Visiting Sony City",
+      "title": "News First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-shows-theres-no-hard-feelings-after-physint-axe-by-visiting-sony-city",
-      "thumbnail": "/drops/thumbs/1f4ab778f83b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
+      "thumbnail": "/drops/thumbs/3ff163c18fb5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "765cbb45a59a",
+      "id": "1f4ab778f83b",
       "pillar": "gaming",
-      "title": "News PS5 Pro Easily the Best Place to Play The Witcher 3 Remastered on Console, Finds Digital Foundry",
+      "title": "News Hideo Kojima Shows There's No Hard Feelings After Physint Axe by Visiting Sony City",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/ps5-pro-easily-the-best-place-to-play-the-witcher-3-remastered-on-console-finds-digital-foundry",
-      "thumbnail": "/drops/thumbs/765cbb45a59a.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-shows-theres-no-hard-feelings-after-physint-axe-by-visiting-sony-city",
+      "thumbnail": "/drops/thumbs/1f4ab778f83b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "bfe410070daa",
     "810c99754318",
     "02645ca88ab2",
-    "d10ffd450349"
+    "9bdecd084522"
   ]
 }
