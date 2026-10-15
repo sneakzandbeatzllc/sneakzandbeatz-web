@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-14T23:53:23+00:00",
+  "generated_utc": "2026-10-15T03:09:16+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,13 +39,6 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “Fireside” Releases October 30th",
-      "url": "https://sneakerbardetroit.com/air-jordan-3-fireside-ck9246-200/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 9 Boot “Reflective Anthracite” Now Available (October 2026)",
       "url": "https://sneakerbardetroit.com/air-jordan-9-boot-nrg-anthracite-iridescent/",
       "pillar": "sneakers",
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 3 GS “Santa” Releases November 21",
       "url": "https://justfreshkicks.com/air-jordan-3-gs-santa-dm0967-601/",
+      "pillar": "sneakers",
+      "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 6 “White Infrared” Returns November 2026",
+      "url": "https://sneakerbardetroit.com/air-jordan-6-white-infrared-2026/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 took 13 years but Rockstar Games says GTA 7 won't",
-      "url": "https://www.gamesradar.com/video/qZkbqPFs/gta-6-took-13-years-but-rockstar-games-says-gta-7-won-039-t/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Was GTA 6’s Progress Hampered By Having Three Heads of Development?",
       "url": "https://gameranx.com/updates/id/564384/article/was-gta-6s-progress-hampered-by-having-three-heads-of-development/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "News Hideo Kojima Shows There's No Hard Feelings After Physint Axe by Visiting Sony City",
       "url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-shows-theres-no-hard-feelings-after-physint-axe-by-visiting-sony-city",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News PS5 Pro Easily the Best Place to Play The Witcher 3 Remastered on Console, Finds Digital Foundry",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-pro-easily-the-best-place-to-play-the-witcher-3-remastered-on-console-finds-digital-foundry",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
