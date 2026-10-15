@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-15T15:37:55+00:00",
+  "generated_utc": "2026-10-15T18:39:35+00:00",
   "items": [
     {
       "id": "0b5a3bc99f24",
@@ -27,12 +27,12 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "d35602219d81",
+      "id": "26b0d683d6a6",
       "pillar": "sneakers",
-      "title": "Air Jordan 9 Boot “Reflective Anthracite” Now Available (October 2026)",
+      "title": "Air Jordan 4 “Light Army” Releases October 31st",
       "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-9-boot-nrg-anthracite-iridescent/",
-      "thumbnail": "/drops/thumbs/d35602219d81.webp",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-4-light-army-ja5911-320/",
+      "thumbnail": "/drops/thumbs/26b0d683d6a6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 3.0,
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "ee414e94c7fa",
+      "pillar": "gaming",
+      "title": "The Sex Scene Is One Of The Best Parts Of Grand Theft Auto 6′ s New Trailer",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/grand-theft-auto-6-new-trailer-sex-scene-jason-lucia-2000746333",
+      "thumbnail": "/drops/thumbs/ee414e94c7fa.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3680e779ca09",
       "pillar": "gaming",
       "title": "News GTA 6's Original Music Score Is Composed by Excellent French Electronic Duo Justice",
@@ -351,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "65a5a794826b",
-      "pillar": "gaming",
-      "title": "News GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
-      "thumbnail": "/drops/thumbs/65a5a794826b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ee2459bf8ab2",
       "pillar": "gaming",
       "title": "How Do You “Play” The Relationship Between Lucia And Jason In GTA 6?",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "2bb6ad64b1df",
+      "id": "de546ecd1069",
       "pillar": "gaming",
-      "title": "News GTA 6 Barely Makes the Cut for The Game Awards' Game of the Year Vote",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-year-vote",
-      "thumbnail": "/drops/thumbs/2bb6ad64b1df.jpg",
+      "title": "GTA 6 Was Delayed Because Of Red Dead Redemption 2 – But It Still Took Eight Years",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564387/article/gta-6-was-delayed-because-of-red-dead-redemption-2-but-it-still-took-eight-years/",
+      "thumbnail": "/drops/thumbs/de546ecd1069.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -392,7 +392,7 @@
     "d53fd18d472a",
     "e0f5793659c2",
     "810c99754318",
-    "d35602219d81",
+    "26b0d683d6a6",
     "c23e231a95e0"
   ]
 }
