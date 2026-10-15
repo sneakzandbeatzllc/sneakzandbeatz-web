@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-15T06:22:52+00:00",
+  "generated_utc": "2026-10-15T09:29:12+00:00",
   "items": [
     {
       "id": "0b5a3bc99f24",
@@ -10,18 +10,6 @@
       "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
       "thumbnail": "/drops/thumbs/0b5a3bc99f24.jpg",
       "published": "2026-10-14T22:33:02",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "bfe410070daa",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low OG “Día de Muertos” Releases October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-og-dia-de-muertos-2026/",
-      "thumbnail": "/drops/thumbs/bfe410070daa.jpg",
-      "published": "2026-10-13T01:11:58",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -63,6 +51,30 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "85b8ec812485",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Santa” Releases November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-santa-2026/",
+      "thumbnail": "/drops/thumbs/85b8ec812485.jpg",
+      "published": "2026-10-15T00:14:34",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "ff77b7257436",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 MCS Cleat “Space Jam” Releases November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-11-mcs-cleat-space-jam/",
+      "thumbnail": "/drops/thumbs/ff77b7257436.jpg",
+      "published": "2026-10-15T00:00:53",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "6b1599283570",
       "pillar": "sneakers",
       "title": "Air Jordan 6 “White Infrared” Returns November 2026",
@@ -75,25 +87,13 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "a2326b6f9319",
+      "id": "a71da97d0d37",
       "pillar": "sneakers",
-      "title": "Air Jordan 11 MCS Cleat “Space Jam” Releases November 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-11-mcs-cleat-space-jam-ja7792-400/",
-      "thumbnail": "/drops/thumbs/a2326b6f9319.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "cfc45f2170b5",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 “Sport Blue” Returns Fall 2027",
+      "title": "Air Jordan 9 “Super Freak” Releases February 2027",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-sport-blue-2027/",
-      "thumbnail": "/drops/thumbs/cfc45f2170b5.jpg",
-      "published": "2026-10-14T15:51:33",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
+      "thumbnail": "/drops/thumbs/a71da97d0d37.jpg",
+      "published": "2026-10-15T00:41:54",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "bd7c56ec8d55",
+      "id": "9ae71c2862a4",
       "pillar": "anime",
-      "title": "The Seven Knights of the Marronnier Kingdom Anime Casts Shōya Ishige",
+      "title": "Matsurika Kanriden TV Anime Casts Takuya Satō, Hiyori Kōno",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-14/the-seven-knights-of-the-marronnier-kingdom-anime-casts-shoya-ishige/.242824",
-      "thumbnail": "/drops/thumbs/bd7c56ec8d55.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-15/matsurika-kanriden-tv-anime-casts-takuya-sato-hiyori-kono/.242846",
+      "thumbnail": "/drops/thumbs/9ae71c2862a4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "7bfa8652a431",
+      "id": "5ddf4174ca47",
       "pillar": "anime",
-      "title": "Croquette!'s Manavu Kishimoto Launches New Manga",
+      "title": "I Lost My Adventurer's License TV Anime's Teaser Video Reveals Main Cast, Staff, January 2027 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-14/croquette-s-manavu-kishimoto-launches-new-manga/.242805",
-      "thumbnail": "/drops/thumbs/7bfa8652a431.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-15/i-lost-my-adventurer-license-tv-anime-teaser-video-reveals-main-cast-staff-january-2027-debut/.242837",
+      "thumbnail": "/drops/thumbs/5ddf4174ca47.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,7 +293,7 @@
     {
       "id": "9bdecd084522",
       "pillar": "gaming",
-      "title": "GTA 6 has a realistic sweat system that makes Jason and Lucia perspire based on how hard they dance 6 Comments",
+      "title": "GTA 6 has a realistic sweat system that makes Jason and Lucia perspire based on how hard they dance 7 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/",
       "thumbnail": "/drops/thumbs/9bdecd084522.jpg",
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "de546ecd1069",
+      "id": "ee2459bf8ab2",
       "pillar": "gaming",
-      "title": "GTA 6 Was Delayed Because Of Red Dead Redemption 2 – But It Still Took Eight Years",
+      "title": "How Do You “Play” The Relationship Between Lucia And Jason In GTA 6?",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564387/article/gta-6-was-delayed-because-of-red-dead-redemption-2-but-it-still-took-eight-years/",
-      "thumbnail": "/drops/thumbs/de546ecd1069.jpg",
+      "source_url": "https://gameranx.com/updates/id/564389/article/how-do-you-play-the-relationship-between-lucia-and-jason-in-gta-6/",
+      "thumbnail": "/drops/thumbs/ee2459bf8ab2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +321,18 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/gta-6-leaker-announces-they-wont-leak-the-full-game-the-leeks-stop-for-now-2000745917",
       "thumbnail": "/drops/thumbs/b7b5b9f63a55.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "de546ecd1069",
+      "pillar": "gaming",
+      "title": "GTA 6 Was Delayed Because Of Red Dead Redemption 2 – But It Still Took Eight Years",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564387/article/gta-6-was-delayed-because-of-red-dead-redemption-2-but-it-still-took-eight-years/",
+      "thumbnail": "/drops/thumbs/de546ecd1069.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "89ee20aa46c2",
-      "pillar": "gaming",
-      "title": "News The Witcher 3 Remastered Patch Specifically Targets PS5, PS5 Pro Crashing Problems",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-patch-specifically-targets-ps5-ps5-pro-crashing-problems",
-      "thumbnail": "/drops/thumbs/89ee20aa46c2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "0b5a3bc99f24",
     "6488437f7fa9",
-    "bfe410070daa",
-    "810c99754318",
     "e0f5793659c2",
+    "810c99754318",
+    "959632b05ca3",
     "9bdecd084522"
   ]
 }
