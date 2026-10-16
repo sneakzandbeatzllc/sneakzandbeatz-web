@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-16T04:02:37+00:00",
+  "generated_utc": "2026-10-16T04:06:45+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,6 +130,13 @@
       "article_slug": null
     },
     {
+      "title": "Kishimoto Just Confirmed Naruto & Sasuke's Next Official Fight And Nobody's Talking About It Enough",
+      "url": "https://screenrant.com/naruto-sasuke-fight-kishimoto-confirmed/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Crunchyroll Streams Dub for The Apothecary Diaries Season 3",
       "url": "https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-streams-dub-for-the-apothecary-diaries-season-3/.242868",
       "pillar": "anime",
@@ -151,13 +158,6 @@
       "article_slug": null
     },
     {
-      "title": "6 Classic Cartoon Network Anime That Could Never Be Made Today",
-      "url": "https://screenrant.com/classic-cartoon-network-anime-couldnt-be-made-today/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Japanese Animation TV Ranking, September 28-October 4",
       "url": "https://www.animenewsnetwork.com/news/2026-10-15/japanese-animation-tv-ranking-september-28-october-4/.242842",
       "pillar": "anime",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "10 Adult Swim Anime With The Best Heroes",
-      "url": "https://screenrant.com/adult-swim-anime-best-heroes/",
+      "title": "6 Classic Cartoon Network Anime That Could Never Be Made Today",
+      "url": "https://screenrant.com/classic-cartoon-network-anime-couldnt-be-made-today/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-16T04:02:37+00:00",
+  "generated_utc": "2026-10-16T04:06:45+00:00",
   "items": [
     {
       "id": "0b5a3bc99f24",
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "0fa078f26c5a",
+      "pillar": "anime",
+      "title": "Kishimoto Just Confirmed Naruto & Sasuke's Next Official Fight And Nobody's Talking About It Enough",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-sasuke-fight-kishimoto-confirmed/",
+      "thumbnail": "/drops/thumbs/0fa078f26c5a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5001913216b6",
       "pillar": "anime",
       "title": "Crunchyroll Streams Dub for The Apothecary Diaries Season 3",
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "3886794677a8",
-      "pillar": "anime",
-      "title": "6 Classic Cartoon Network Anime That Could Never Be Made Today",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/classic-cartoon-network-anime-couldnt-be-made-today/",
-      "thumbnail": "/drops/thumbs/3886794677a8.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b90ce35240c4",
       "pillar": "anime",
       "title": "Japanese Animation TV Ranking, September 28-October 4",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "05c21f572178",
+      "id": "3886794677a8",
       "pillar": "anime",
-      "title": "10 Adult Swim Anime With The Best Heroes",
+      "title": "6 Classic Cartoon Network Anime That Could Never Be Made Today",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/adult-swim-anime-best-heroes/",
-      "thumbnail": "/drops/thumbs/05c21f572178.png",
+      "source_url": "https://screenrant.com/classic-cartoon-network-anime-couldnt-be-made-today/",
+      "thumbnail": "/drops/thumbs/3886794677a8.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
