@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-16T16:55:14+00:00",
+  "generated_utc": "2026-10-16T20:03:49+00:00",
   "items": [
     {
       "id": "0b5a3bc99f24",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "0f2c64181bc8",
+      "pillar": "hiphop",
+      "title": "Pooh Shiesty’s Lawyers Sound Alarm on Deteriorating Mental Health in 23-Hour Jail Isolation",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/16/pooh-shiestys-lawyers-sound-alarm-on-deteriorating-mental-health-in-23-hour-jail-isolation/",
+      "thumbnail": "/drops/thumbs/0f2c64181bc8.jpg",
+      "published": "2026-10-16T12:26:39",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "86f153a7047a",
       "pillar": "hiphop",
       "title": "Nas Urges Artists to Stop Chasing Trends and Honor Black Music’s Roots in Open Letter",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/10/16/wu-tang-cream-call-of-duty-modern-warfare-4/",
       "thumbnail": "/drops/thumbs/d64ee210f081.jpg",
       "published": "2026-10-16T06:51:39",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8bd85abca86b",
-      "pillar": "hiphop",
-      "title": "Lucky Daye Releases 15-Track Album ‘ALOUD!’ Featuring Pusha T, Leon Thomas and Muni Long",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/16/lucky-daye-aloud-album/",
-      "thumbnail": "/drops/thumbs/8bd85abca86b.jpg",
-      "published": "2026-10-16T06:46:38",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -303,48 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "e5d823db13d4",
-      "pillar": "gaming",
-      "title": "Zelda doesn't rate against GTA 6 and COD as the \"biggest games of the year,\" Activision exec says 22 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/call-of-duty/zelda-ocarina-of-time-remake-doesnt-even-rate-against-gta-6-and-call-of-duty-modern-warfare-4-as-the-biggest-games-of-the-year-activision-exec-says/",
-      "thumbnail": "/drops/thumbs/e5d823db13d4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "99d2e74273a9",
       "pillar": "gaming",
       "title": "Rockstar Releases The Official GTA 6 Launch Trailer",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564402/article/rockstar-releases-the-official-gta-6-launch-trailer/",
       "thumbnail": "/drops/thumbs/99d2e74273a9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d43bbaf6470c",
-      "pillar": "gaming",
-      "title": "News GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
-      "thumbnail": "/drops/thumbs/d43bbaf6470c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "aae6ba35b9a9",
-      "pillar": "gaming",
-      "title": "Zelda won't be as big as GTA 6 and Modern Warfare 4 says Activision exec",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/video/AcIROFM0/zelda-won-039-t-be-as-big-as-gta-6-and-modern-warfare-4-says-activision-exec/",
-      "thumbnail": "/drops/thumbs/aae6ba35b9a9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "7cc57ccfc368",
+      "pillar": "gaming",
+      "title": "The Walking Dead star's Resident Evil 7 short film gets approval from Biohazard and Requiem director",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/resident-evil/the-walking-dead-stars-resident-evil-7-short-film-gets-the-ultimate-seal-of-approval-from-biohazard-and-requiem-director-koshi-nakanishi/",
+      "thumbnail": "/drops/thumbs/7cc57ccfc368.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4cc9c75be599",
       "pillar": "gaming",
       "title": "The Last of Us directors used to say \"nobody\" was making games like them",
@@ -385,11 +361,35 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "d719db3488bd",
+      "pillar": "gaming",
+      "title": "RPG Club Venturing into The Witcher 3 Remastered? Join the GamesRadar+ RPG Club and play along with us!",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-october-2026-the-witcher-3-wild-hunt-remastered/",
+      "thumbnail": "/drops/thumbs/d719db3488bd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e909b398a103",
+      "pillar": "gaming",
+      "title": "News 'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
+      "thumbnail": "/drops/thumbs/e909b398a103.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "0b5a3bc99f24",
-    "86f153a7047a",
+    "0f2c64181bc8",
     "e0f5793659c2",
     "2a923e1d159e",
     "26b0d683d6a6",

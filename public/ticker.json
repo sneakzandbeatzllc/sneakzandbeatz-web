@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-16T16:55:14+00:00",
+  "generated_utc": "2026-10-16T20:03:49+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Pooh Shiesty’s Lawyers Sound Alarm on Deteriorating Mental Health in 23-Hour Jail Isolation",
+      "url": "https://thesource.com/2026/10/16/pooh-shiestys-lawyers-sound-alarm-on-deteriorating-mental-health-in-23-hour-jail-isolation/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Nas Urges Artists to Stop Chasing Trends and Honor Black Music’s Roots in Open Letter",
       "url": "https://thesource.com/2026/10/16/nas-urges-artists-to-stop-chasing-trends-and-honor-black-musics-roots-in-open-letter/",
       "pillar": "hiphop",
@@ -104,13 +111,6 @@
     {
       "title": "Wu-Tang Clan’s “C.R.E.A.M.” to Feature in Call of Duty: Modern Warfare 4",
       "url": "https://thesource.com/2026/10/16/wu-tang-cream-call-of-duty-modern-warfare-4/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Lucky Daye Releases 15-Track Album ‘ALOUD!’ Featuring Pusha T, Leon Thomas and Muni Long",
-      "url": "https://thesource.com/2026/10/16/lucky-daye-aloud-album/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -179,29 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "Zelda doesn't rate against GTA 6 and COD as the \"biggest games of the year,\" Activision exec says 22 Comments",
-      "url": "https://www.gamesradar.com/games/call-of-duty/zelda-ocarina-of-time-remake-doesnt-even-rate-against-gta-6-and-call-of-duty-modern-warfare-4-as-the-biggest-games-of-the-year-activision-exec-says/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rockstar Releases The Official GTA 6 Launch Trailer",
       "url": "https://gameranx.com/updates/id/564402/article/rockstar-releases-the-official-gta-6-launch-trailer/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Zelda won't be as big as GTA 6 and Modern Warfare 4 says Activision exec",
-      "url": "https://www.gamesradar.com/video/AcIROFM0/zelda-won-039-t-be-as-big-as-gta-6-and-modern-warfare-4-says-activision-exec/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +200,29 @@
       "article_slug": null
     },
     {
+      "title": "The Walking Dead star's Resident Evil 7 short film gets approval from Biohazard and Requiem director",
+      "url": "https://www.gamesradar.com/games/resident-evil/the-walking-dead-stars-resident-evil-7-short-film-gets-the-ultimate-seal-of-approval-from-biohazard-and-requiem-director-koshi-nakanishi/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The Last of Us directors used to say \"nobody\" was making games like them",
       "url": "https://www.gamesradar.com/games/the-last-of-us/the-last-of-us-directors-used-to-say-nobody-was-making-character-driven-survival-action-games-like-them-just-dont-tell-that-to-resident-evil/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "RPG Club Venturing into The Witcher 3 Remastered? Join the GamesRadar+ RPG Club and play along with us!",
+      "url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-october-2026-the-witcher-3-wild-hunt-remastered/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
+      "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
