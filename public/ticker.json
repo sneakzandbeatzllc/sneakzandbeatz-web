@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-16T13:52:13+00:00",
+  "generated_utc": "2026-10-16T16:55:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Nas Urges Artists to Stop Chasing Trends and Honor Black Music’s Roots in Open Letter",
+      "url": "https://thesource.com/2026/10/16/nas-urges-artists-to-stop-chasing-trends-and-honor-black-musics-roots-in-open-letter/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Four Dead After Elementary School Shooting in Oregon",
       "url": "https://thesource.com/2026/10/16/four-dead-after-elementary-school-shooting-in-oregon/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Joony Returns With New 15-Track Album ‘STILL HERE’",
-      "url": "https://thesource.com/2026/10/16/joony-still-here-album/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball Super: Beerus Episode 2 Release Date & Time",
       "url": "https://screenrant.com/dragon-ball-super-beerus-episode-2-release-date-time/",
       "pillar": "anime",
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "BanG Dream! Ave Mujica prima aurora Anime Film Reveals 2nd Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-16/bang-dream-ave-mujica-prima-aurora-anime-film-reveals-2nd-promo-video/.242894",
+      "title": "Final Love Live! Nijigasaki High School Idol Club Anime Film's Teaser Unveils February 5 Opening",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-16/final-love-live-nijigasaki-high-school-idol-club-anime-film-teaser-unveils-february-5-opening/.242898",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Wound & Bandage TV Anime Reveals Main Cast, January 9 Debut in Teaser Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-16/wound-and-bandage-tv-anime-reveals-main-cast-january-9-debut-in-teaser-video/.242890",
+      "title": "Happy Kanako's Killer Life Manga Gets TV Anime Next April",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-16/happy-kanako-killer-life-manga-gets-tv-anime-next-april/.242881",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Magical Sisters Lulutto Lilly Anime Reveals 2 More Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-16/magical-sisters-lulutto-lilly-anime-reveals-2-more-cast-members/.242886",
+      "title": "BanG Dream! Ave Mujica prima aurora Anime Film Reveals 2nd Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-16/bang-dream-ave-mujica-prima-aurora-anime-film-reveals-2nd-promo-video/.242894",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,7 +179,7 @@
       "article_slug": null
     },
     {
-      "title": "Zelda doesn't rate against GTA 6 and COD as the \"biggest games of the year,\" Activision exec says 21 Comments",
+      "title": "Zelda doesn't rate against GTA 6 and COD as the \"biggest games of the year,\" Activision exec says 22 Comments",
       "url": "https://www.gamesradar.com/games/call-of-duty/zelda-ocarina-of-time-remake-doesnt-even-rate-against-gta-6-and-call-of-duty-modern-warfare-4-as-the-biggest-games-of-the-year-activision-exec-says/",
       "pillar": "gaming",
       "score": 1.0,
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed",
-      "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
+      "title": "The Last of Us directors used to say \"nobody\" was making games like them",
+      "url": "https://www.gamesradar.com/games/the-last-of-us/the-last-of-us-directors-used-to-say-nobody-was-making-character-driven-survival-action-games-like-them-just-dont-tell-that-to-resident-evil/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
