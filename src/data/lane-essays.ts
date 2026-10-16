@@ -16010,6 +16010,35 @@ export const LANE_ESSAYS: LaneEssay[] = [
     "body": "A$AP Ferg says the album is finished. He just needs a label, and one A$AP already raised his hand.\n\nPer [XXL](https://www.xxlmag.com/asap-rocky-ferg-new-album-support/) on Oct. 14, Ferg posted on Instagram on Monday, Oct. 12 that he had finished a new project and was looking for a distributor. \"I just finished my new album,\" he wrote over a screenshot of his notes app, and added, \"Who wants to distribute it?\" XXL doesn't name the album or give a release date.\n\n## Rocky's reply\nA$AP Rocky answered through his AWGE label: \"U know where home is,\" with a heart emoji, per XXL. Ferg replied, \"Appreciate you King.\" That's the whole exchange as XXL reports it. Nothing in the report says a deal is signed, so read it as an open door, not an announcement.\n\n## The context\nThe two have a documented rough patch. Ferg spoke on the group's [direction and a name change](https://www.sneakzandbeatz.com/the-lane/ferg-responds-asap-rocky-name-change-hurt-were-not-mobbing-anymore-in-motion-complex-2026) not long ago, and said it hurt. That's why a public \"home\" offer from Rocky lands the way it does. Rocky himself has [new music coming Friday](https://www.sneakzandbeatz.com/the-lane/asap-rocky-shroom-clouds-single-friday-october-16-dont-be-dumb-disc-2-complex-october-14-2026), so AWGE is busy, but the invitation is out in public now.\n\n## What to watch\nWhether Ferg takes the offer or shops it elsewhere, and what the project is called. Until either happens, the confirmed facts are one Instagram post and one reply.\n\n## Sources\n- [XXL - A$AP Rocky Offers Support as Ferg Announces His New Album Is Done (Oct. 14, 2026)](https://www.xxlmag.com/asap-rocky-ferg-new-album-support/)\n",
     "publishedAt": "2026-10-15T05:10:00-07:00",
     "goLiveAt": "2026-10-15"
+  },
+  {
+    "slug": "ghost-of-yotei-complete-edition-october-1-echoes-of-sekigahara-most-wanted-2026",
+    "pillar": "gaming",
+    "title": "Ghost of Yotei's Complete Edition Arrives Oct. 1",
+    "headline": "Free Got You the Samurai Look.\n$14.99 Gets You the Rest.",
+    "subhead": "Sucker Punch's Ghost of Yotei Complete Edition bundles two paid content packs onto the base game October 1: story missions and a new bounty-hunting mode.",
+    "description": "Ghost of Yotei's Complete Edition arrives Oct. 1 on PS5 with two $14.99 packs: Echoes of Sekigahara's new story missions and the Most Wanted bounty mode.",
+    "keywords": [
+      "Ghost of Yotei Complete Edition",
+      "Ghost of Yotei October 1",
+      "Ghost of Yotei Echoes of Sekigahara",
+      "Ghost of Yotei Most Wanted mode",
+      "Sucker Punch",
+      "Ghost of Yotei DLC",
+      "PS5 exclusive 2026",
+      "Sneakz and Beatz",
+      "PHRHX",
+      "Black-owned media"
+    ],
+    "ogHeadline": "FREE GOT YOU THE LOOK.\n$14.99 GETS YOU THE REST.",
+    "ogAccent": "8B1E3F",
+    "heroCredit": "PlayStation Blog",
+    "heroCreditUrl": "https://blog.playstation.com/2026/08/12/ghost-of-yotei-complete-edition-comes-to-ps5-october-1/",
+    "heroFocus": "center",
+    "trendScore": 62,
+    "body": "Sucker Punch already gave Ghost of Yotei players a free update worth talking about this month: a slow-cinematic showcase mode and a Sly Cooper easter egg hiding in Atsu's sneak animations. That was the appetizer. October 1 is the real menu.\n\n## What's actually in the Complete Edition\nThe Complete Edition bundles the base game with two paid content packs, $14.99 each, according to [PlayStation Blog](https://blog.playstation.com/2026/08/12/ghost-of-yotei-complete-edition-comes-to-ps5-october-1/) and [Push Square](https://www.pushsquare.com/news/2026/08/ghost-of-yotei-complete-edition-announced-includes-new-expansion-game-mode-more). \"Echoes of Sekigahara\" adds new story missions to Atsu's revenge arc. \"Most Wanted\" is a bounty-hunting mode that sends her after named targets scattered across Ezo, outside the main campaign. Both land October 1 on PS5 &mdash; there's no confirmed PC date for either pack yet, so if you're on PC, hold off before you buy.\n\n## Why it never got its own moment until now\nMost of the internet's attention this month went to the free update: the Sly Cooper nods, the new photo-mode showcase, the transmog options. That stuff cost nothing and got the headlines. The Complete Edition's paid side has been sitting on the calendar since mid-August without much noise, which is exactly why it's worth flagging five days out &mdash; it's easy to assume the free update *was* the whole announcement.\n\n## The read\nSucker Punch is running the same playbook a lot of live-service-adjacent single-player games run now: free goodwill first, paid depth second. Fourteen ninety-nine a pack isn't a hard sell if the missions are real content and not reskinned side quests. October 1 is when we find out which one it is.\n\nBuilt for the culture. Operated by PHRHX through Sneakz &amp; Beatz LLC. Black-owned, four pillars: sneakers, hip-hop, anime, gaming.\n\n## Sources\n- [PlayStation Blog, Aug. 12, 2026](https://blog.playstation.com/2026/08/12/ghost-of-yotei-complete-edition-comes-to-ps5-october-1/)\n- [Push Square, Aug. 2026](https://www.pushsquare.com/news/2026/08/ghost-of-yotei-complete-edition-announced-includes-new-expansion-game-mode-more)\n- [Play Asia, Sept. 23, 2026](https://play.asia/blog/2026/09/23/unsheathing-atsus-vengeance-in-ghost-of-yotei-complete-edition-on-october-1-pre-order-now/)\n",
+    "publishedAt": "2026-09-26",
+    "goLiveAt": "2026-09-26"
   }
 ];
 
