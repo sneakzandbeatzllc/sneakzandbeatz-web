@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-16T04:08:21+00:00",
+  "generated_utc": "2026-10-16T07:35:59+00:00",
   "items": [
     {
       "id": "0b5a3bc99f24",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "5001913216b6",
+      "id": "e85839e3d28a",
       "pillar": "anime",
-      "title": "Crunchyroll Streams Dub for The Apothecary Diaries Season 3",
+      "title": "Magical DoReMi , Star Detective Precure! Anime Get Crossover Episode on October 25",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-streams-dub-for-the-apothecary-diaries-season-3/.242868",
-      "thumbnail": "/drops/thumbs/5001913216b6.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-16/magical-doremi-star-detective-precure-anime-get-crossover-episode-on-october-25/.242871",
+      "thumbnail": "/drops/thumbs/e85839e3d28a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "2a8964812b8e",
+      "id": "5001913216b6",
       "pillar": "anime",
-      "title": "Kodansha USA Licenses Jackpot Girls , Powerless Without You , Occult Times , 7 Other Manga",
+      "title": "Crunchyroll Streams Dub for The Apothecary Diaries Season 3",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-15/kodansha-usa-licenses-jackpot-girls-powerless-without-you-occult-times-7-other-manga/.242866",
-      "thumbnail": "/drops/thumbs/2a8964812b8e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-streams-dub-for-the-apothecary-diaries-season-3/.242868",
+      "thumbnail": "/drops/thumbs/5001913216b6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "b90ce35240c4",
+      "id": "2a8964812b8e",
       "pillar": "anime",
-      "title": "Japanese Animation TV Ranking, September 28-October 4",
+      "title": "Kodansha USA Licenses Jackpot Girls , Powerless Without You , Occult Times , 7 Other Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-15/japanese-animation-tv-ranking-september-28-october-4/.242842",
-      "thumbnail": "/drops/thumbs/b90ce35240c4.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-15/kodansha-usa-licenses-jackpot-girls-powerless-without-you-occult-times-7-other-manga/.242866",
+      "thumbnail": "/drops/thumbs/2a8964812b8e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,9 +291,21 @@
       "release_badge": ""
     },
     {
+      "id": "65a5a794826b",
+      "pillar": "gaming",
+      "title": "News GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
+      "thumbnail": "/drops/thumbs/65a5a794826b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e5d823db13d4",
       "pillar": "gaming",
-      "title": "Zelda doesn't rate against GTA 6 and COD as the \"biggest games of the year,\" Activision exec says 13 Comments",
+      "title": "Zelda doesn't rate against GTA 6 and COD as the \"biggest games of the year,\" Activision exec says 16 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/call-of-duty/zelda-ocarina-of-time-remake-doesnt-even-rate-against-gta-6-and-call-of-duty-modern-warfare-4-as-the-biggest-games-of-the-year-activision-exec-says/",
       "thumbnail": "/drops/thumbs/e5d823db13d4.jpg",
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "8ccd46707d27",
-      "pillar": "gaming",
-      "title": "Marvel's Wolverine star Debra Wilson isn't sure why Insomniac used her likeness for Callisto 17 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/action/marvels-wolverine-star-debra-wilson-isnt-sure-why-insomniac-used-her-likeness-for-callisto-i-honestly-love-games-where-they-dont-look-like-me-at-all/",
-      "thumbnail": "/drops/thumbs/8ccd46707d27.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "e0f5793659c2",
     "2a923e1d159e",
     "26b0d683d6a6",
-    "e5d823db13d4"
+    "65a5a794826b"
   ]
 }
