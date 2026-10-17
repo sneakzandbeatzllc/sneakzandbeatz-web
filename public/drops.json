@@ -1,15 +1,39 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-17T08:33:39+00:00",
+  "generated_utc": "2026-10-17T11:35:18+00:00",
   "items": [
     {
-      "id": "0b5a3bc99f24",
+      "id": "4d7578cd0893",
       "pillar": "sneakers",
-      "title": "APB x Air Jordan 11 Low “Made for Locals” Releases October 2026",
+      "title": "Air Jordan 4 “Light Army” Releases October 2026",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/apb-air-jordan-11-low-2026/",
-      "thumbnail": "/drops/thumbs/0b5a3bc99f24.jpg",
-      "published": "2026-10-14T22:33:02",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-light-army/",
+      "thumbnail": "/drops/thumbs/4d7578cd0893.jpg",
+      "published": "2026-10-17T04:08:38",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "74ff062d233e",
+      "pillar": "sneakers",
+      "title": "Air Jordan 9 Boot “Olive” Releases October 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-9-boot-olive-2026/",
+      "thumbnail": "/drops/thumbs/74ff062d233e.jpg",
+      "published": "2026-10-17T02:18:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "3d1d651a54cf",
+      "pillar": "sneakers",
+      "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/apb-air-jordan-11-low-made-for-locals-iu8266-400/",
+      "thumbnail": "/drops/thumbs/3d1d651a54cf.jpg",
+      "published": "2026-10-12T11:29:20",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -22,18 +46,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
       "thumbnail": "/drops/thumbs/e0f5793659c2.jpg",
       "published": "2026-10-12T08:31:39",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "26b0d683d6a6",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Light Army” Releases October 31st",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-4-light-army-ja5911-320/",
-      "thumbnail": "/drops/thumbs/26b0d683d6a6.jpg",
-      "published": "",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-9-super-freak/",
       "thumbnail": "/drops/thumbs/a71da97d0d37.jpg",
       "published": "2026-10-15T00:41:54",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cfc45f2170b5",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 “Sport Blue” Returns Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-sport-blue-2027/",
-      "thumbnail": "/drops/thumbs/cfc45f2170b5.jpg",
-      "published": "2026-10-14T15:51:33",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "0b5a3bc99f24",
+    "4d7578cd0893",
     "6638afb74923",
-    "e0f5793659c2",
+    "74ff062d233e",
     "a84d49131b71",
-    "26b0d683d6a6",
+    "3d1d651a54cf",
     "dc58306c5694"
   ]
 }
