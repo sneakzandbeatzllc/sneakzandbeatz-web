@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-16T23:06:20+00:00",
+  "generated_utc": "2026-10-17T02:12:30+00:00",
   "items": [
     {
       "id": "0b5a3bc99f24",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "6638afb74923",
+      "pillar": "hiphop",
+      "title": "Brandon Aiyuk Hits the Basketball Court as Questions Swirl Around His NFL Future",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/16/brandon-aiyuk-hits-the-basketball-court-as-questions-swirl-around-his-nfl-future/",
+      "thumbnail": "/drops/thumbs/6638afb74923.jpg",
+      "published": "2026-10-16T19:02:36",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7621231a206e",
       "pillar": "hiphop",
       "title": "Flying Car? Tesla ROADSTER Takes Flight as Carmaker Unveils Supercar With Controversial Airborne Feature",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/10/16/50-cent-claims-diddy-sent-him-funeral-flowers/",
       "thumbnail": "/drops/thumbs/6f3bd98f07bc.jpg",
       "published": "2026-10-16T07:25:25",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "92cdb2a4b462",
-      "pillar": "hiphop",
-      "title": "Bureau of Prisons Denies Fight Happened Between Diddy and Jamaican Drug Lord",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/16/bureau-of-prisons-denies-fight-happened-between-diddy-and-jamaican-drug-lord/",
-      "thumbnail": "/drops/thumbs/92cdb2a4b462.jpg",
-      "published": "2026-10-16T07:16:39",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "0b5a3bc99f24",
-    "7621231a206e",
+    "6638afb74923",
     "e0f5793659c2",
     "f2393903a002",
     "26b0d683d6a6",
