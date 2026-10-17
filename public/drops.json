@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-17T02:12:30+00:00",
+  "generated_utc": "2026-10-17T05:14:13+00:00",
   "items": [
     {
       "id": "0b5a3bc99f24",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "a84d49131b71",
+      "pillar": "anime",
+      "title": "It's Time To Admit That Goku's Greatest Strength Is Also His Greatest Flaw",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/goku-greatest-strength-weakness-dragon-ball/",
+      "thumbnail": "/drops/thumbs/a84d49131b71.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f2393903a002",
       "pillar": "anime",
       "title": "20 Strongest Dragon Ball Characters Of All Time, Ranked",
@@ -231,12 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "0fa078f26c5a",
+      "id": "385e75a0d635",
       "pillar": "anime",
-      "title": "Kishimoto Just Confirmed Naruto & Sasuke's Next Official Fight And Nobody's Talking About It Enough",
+      "title": "Naruto's Big Manga Return Includes Kishimoto's Most Adorable Redesign Since Baby Kurama",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-sasuke-fight-kishimoto-confirmed/",
-      "thumbnail": "/drops/thumbs/0fa078f26c5a.jpg",
+      "source_url": "https://screenrant.com/naruto-new-manga-baby-sarada-kishimoto-redesign/",
+      "thumbnail": "/drops/thumbs/385e75a0d635.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "80829c6fdbd1",
+      "pillar": "anime",
+      "title": "Viz Media Licenses Jojolion , His Sweet Solace , Under Doctor , More Manga for Summer 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-16/viz-media-licenses-jojolion-his-sweet-solace-under-doctor-more-manga-for-summer-2027/.242929",
+      "thumbnail": "/drops/thumbs/80829c6fdbd1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,36 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "999d7e2f4a20",
-      "pillar": "anime",
-      "title": "Happy Kanako's Killer Life Manga Gets TV Anime Next April",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-16/happy-kanako-killer-life-manga-gets-tv-anime-next-april/.242881",
-      "thumbnail": "/drops/thumbs/999d7e2f4a20.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "71887546818d",
       "pillar": "anime",
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "thumbnail": "/drops/thumbs/71887546818d.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "284817698562",
-      "pillar": "anime",
-      "title": "BanG Dream! Ave Mujica prima aurora Anime Film Reveals 2nd Promo Video",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-16/bang-dream-ave-mujica-prima-aurora-anime-film-reveals-2nd-promo-video/.242894",
-      "thumbnail": "/drops/thumbs/284817698562.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "d43bbaf6470c",
+      "pillar": "gaming",
+      "title": "News GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
+      "thumbnail": "/drops/thumbs/d43bbaf6470c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2267321a0e20",
       "pillar": "gaming",
       "title": "The Game Awards Has Made GTA 6 Eligible For Nominations This Year",
@@ -363,18 +375,6 @@
       "release_badge": ""
     },
     {
-      "id": "e909b398a103",
-      "pillar": "gaming",
-      "title": "News 'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
-      "thumbnail": "/drops/thumbs/e909b398a103.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "03e7bb91cfec",
       "pillar": "gaming",
       "title": "Call of Duty: Modern Warfare 4 review-in-progress: \"Spectacular set pieces make this campaign hard to put down\"",
@@ -391,7 +391,7 @@
     "0b5a3bc99f24",
     "6638afb74923",
     "e0f5793659c2",
-    "f2393903a002",
+    "a84d49131b71",
     "26b0d683d6a6",
     "dc58306c5694"
   ]

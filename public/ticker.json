@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-17T02:12:30+00:00",
+  "generated_utc": "2026-10-17T05:14:13+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "It's Time To Admit That Goku's Greatest Strength Is Also His Greatest Flaw",
+      "url": "https://screenrant.com/goku-greatest-strength-weakness-dragon-ball/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "20 Strongest Dragon Ball Characters Of All Time, Ranked",
       "url": "https://screenrant.com/strongest-dragon-ball-characters-ranked/",
       "pillar": "anime",
@@ -137,8 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "Kishimoto Just Confirmed Naruto & Sasuke's Next Official Fight And Nobody's Talking About It Enough",
-      "url": "https://screenrant.com/naruto-sasuke-fight-kishimoto-confirmed/",
+      "title": "Naruto's Big Manga Return Includes Kishimoto's Most Adorable Redesign Since Baby Kurama",
+      "url": "https://screenrant.com/naruto-new-manga-baby-sarada-kishimoto-redesign/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Viz Media Licenses Jojolion , His Sweet Solace , Under Doctor , More Manga for Summer 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-16/viz-media-licenses-jojolion-his-sweet-solace-under-doctor-more-manga-for-summer-2027/.242929",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,22 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Happy Kanako's Killer Life Manga Gets TV Anime Next April",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-16/happy-kanako-killer-life-manga-gets-tv-anime-next-april/.242881",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "BanG Dream! Ave Mujica prima aurora Anime Film Reveals 2nd Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-16/bang-dream-ave-mujica-prima-aurora-anime-film-reveals-2nd-promo-video/.242894",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "News GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
+      "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The Game Awards Has Made GTA 6 Eligible For Nominations This Year",
       "url": "https://gameranx.com/updates/id/564400/article/the-game-awards-has-made-gta-6-eligible-for-nominations-this-year/",
       "pillar": "gaming",
@@ -209,13 +216,6 @@
     {
       "title": "RPG Club Venturing into The Witcher 3 Remastered? Join the GamesRadar+ RPG Club and play along with us!",
       "url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-october-2026-the-witcher-3-wild-hunt-remastered/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News 'Game First, Then Movie': Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch",
-      "url": "https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
