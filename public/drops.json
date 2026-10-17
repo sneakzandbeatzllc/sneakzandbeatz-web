@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-17T14:37:01+00:00",
+  "generated_utc": "2026-10-17T17:38:45+00:00",
   "items": [
     {
       "id": "362f284b3d0d",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "78d4af50fb8a",
+      "pillar": "hiphop",
+      "title": "A$AP Rocky Releases “SHROOM CLOUDS” Ahead of Australia and New Zealand Tour",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/17/asap-rocky-shroom-clouds-australia-new-zealand-tour/",
+      "thumbnail": "/drops/thumbs/78d4af50fb8a.jpg",
+      "published": "2026-10-17T10:32:15",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8dad3cf30ed4",
       "pillar": "hiphop",
       "title": "Wale Joins CapSole as Chief Creative Officer and Equity Partner",
@@ -159,6 +171,18 @@
       "release_badge": ""
     },
     {
+      "id": "ae2712f4ece3",
+      "pillar": "hiphop",
+      "title": "Adrian D. Meeks: The Mastermind of Musical Discernment, the Strategist Behind the Vision, the Architect of Enduring Artist Legacies",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/16/adrian-d-meeks-the-mastermind-of-musical-discernment-the-strategist-behind-the-vision-the-architect-of-enduring-artist-legacies/",
+      "thumbnail": "/drops/thumbs/ae2712f4ece3.jpg",
+      "published": "2026-10-16T17:14:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0f2c64181bc8",
       "pillar": "hiphop",
       "title": "Pooh Shiesty’s Lawyers Sound Alarm on Deteriorating Mental Health in 23-Hour Jail Isolation",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/10/16/pooh-shiestys-lawyers-sound-alarm-on-deteriorating-mental-health-in-23-hour-jail-isolation/",
       "thumbnail": "/drops/thumbs/0f2c64181bc8.jpg",
       "published": "2026-10-16T12:26:39",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "86f153a7047a",
-      "pillar": "hiphop",
-      "title": "Nas Urges Artists to Stop Chasing Trends and Honor Black Music’s Roots in Open Letter",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/16/nas-urges-artists-to-stop-chasing-trends-and-honor-black-musics-roots-in-open-letter/",
-      "thumbnail": "/drops/thumbs/86f153a7047a.png",
-      "published": "2026-10-16T12:24:33",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0ba27056452b",
-      "pillar": "hiphop",
-      "title": "Four Dead After Elementary School Shooting in Oregon",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/16/four-dead-after-elementary-school-shooting-in-oregon/",
-      "thumbnail": "/drops/thumbs/0ba27056452b.jpg",
-      "published": "2026-10-16T07:34:42",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "362f284b3d0d",
-    "8dad3cf30ed4",
+    "78d4af50fb8a",
     "4d7578cd0893",
     "a84d49131b71",
     "74ff062d233e",
