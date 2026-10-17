@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-17T17:38:45+00:00",
+  "generated_utc": "2026-10-17T20:51:00+00:00",
   "items": [
     {
       "id": "362f284b3d0d",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "b056b75b0217",
+      "pillar": "hiphop",
+      "title": "Happy 65th Birthday To SEEN The “Godfather of Graffiti”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/17/happy-65th-birthday-to-seen-the-godfather-of-graffiti/",
+      "thumbnail": "/drops/thumbs/b056b75b0217.jpg",
+      "published": "2026-10-17T14:59:22",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2407e9919239",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: Ludacris Dropped His ‘Back For The First Time’ Album 26 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/17/today-in-hip-hop-history-ludacris-dropped-his-back-for-the-first-time-album-26-years-ago/",
+      "thumbnail": "/drops/thumbs/2407e9919239.jpg",
+      "published": "2026-10-17T14:36:20",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "78d4af50fb8a",
       "pillar": "hiphop",
       "title": "A$AP Rocky Releases “SHROOM CLOUDS” Ahead of Australia and New Zealand Tour",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/10/16/ishowspeed-teams-up-with-barack-and-michelle-obama-to-bring-ghanas-hidden-history-to-the-big-screen/",
       "thumbnail": "/drops/thumbs/5cadd070e9e5.jpg",
       "published": "2026-10-16T18:21:24",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ae2712f4ece3",
-      "pillar": "hiphop",
-      "title": "Adrian D. Meeks: The Mastermind of Musical Discernment, the Strategist Behind the Vision, the Architect of Enduring Artist Legacies",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/16/adrian-d-meeks-the-mastermind-of-musical-discernment-the-strategist-behind-the-vision-the-architect-of-enduring-artist-legacies/",
-      "thumbnail": "/drops/thumbs/ae2712f4ece3.jpg",
-      "published": "2026-10-16T17:14:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0f2c64181bc8",
-      "pillar": "hiphop",
-      "title": "Pooh Shiesty’s Lawyers Sound Alarm on Deteriorating Mental Health in 23-Hour Jail Isolation",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/16/pooh-shiestys-lawyers-sound-alarm-on-deteriorating-mental-health-in-23-hour-jail-isolation/",
-      "thumbnail": "/drops/thumbs/0f2c64181bc8.jpg",
-      "published": "2026-10-16T12:26:39",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -351,18 +351,6 @@
       "release_badge": ""
     },
     {
-      "id": "db991755ba7b",
-      "pillar": "gaming",
-      "title": "New RPG From Final Fantasy , Persona Vets Borrows From The Past To Ask How We Can Save The Future",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/new-rpg-from-final-fantasy-persona-vets-borrows-from-the-past-to-ask-how-we-can-save-the-future-2000746405",
-      "thumbnail": "/drops/thumbs/db991755ba7b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d719db3488bd",
       "pillar": "gaming",
       "title": "RPG Club Venturing into The Witcher 3 Remastered? Join the GamesRadar+ RPG Club and play along with us!",
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "03e7bb91cfec",
+      "id": "130c665c2ee6",
       "pillar": "gaming",
-      "title": "Call of Duty: Modern Warfare 4 review-in-progress: \"Spectacular set pieces make this campaign hard to put down\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-      "thumbnail": "/drops/thumbs/03e7bb91cfec.jpg",
+      "title": "The Street Fighter Movie: The Kotaku Review",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/street-fighter-2026-movie-review-guile-ken-ryu-chun-li-2000746803",
+      "thumbnail": "/drops/thumbs/130c665c2ee6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a0a7424fb386",
+      "pillar": "gaming",
+      "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
+      "thumbnail": "/drops/thumbs/a0a7424fb386.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "362f284b3d0d",
-    "78d4af50fb8a",
+    "b056b75b0217",
     "4d7578cd0893",
     "a84d49131b71",
     "74ff062d233e",

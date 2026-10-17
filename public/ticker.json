@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-17T17:38:45+00:00",
+  "generated_utc": "2026-10-17T20:51:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Happy 65th Birthday To SEEN The “Godfather of Graffiti”",
+      "url": "https://thesource.com/2026/10/17/happy-65th-birthday-to-seen-the-godfather-of-graffiti/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Today In Hip Hop History: Ludacris Dropped His ‘Back For The First Time’ Album 26 Years Ago",
+      "url": "https://thesource.com/2026/10/17/today-in-hip-hop-history-ludacris-dropped-his-back-for-the-first-time-album-26-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "A$AP Rocky Releases “SHROOM CLOUDS” Ahead of Australia and New Zealand Tour",
       "url": "https://thesource.com/2026/10/17/asap-rocky-shroom-clouds-australia-new-zealand-tour/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "IShowSpeed Teams Up With Barack and Michelle Obama to Bring Ghana’s Hidden History to the Big Screen",
       "url": "https://thesource.com/2026/10/16/ishowspeed-teams-up-with-barack-and-michelle-obama-to-bring-ghanas-hidden-history-to-the-big-screen/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Adrian D. Meeks: The Mastermind of Musical Discernment, the Strategist Behind the Vision, the Architect of Enduring Artist Legacies",
-      "url": "https://thesource.com/2026/10/16/adrian-d-meeks-the-mastermind-of-musical-discernment-the-strategist-behind-the-vision-the-architect-of-enduring-artist-legacies/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Pooh Shiesty’s Lawyers Sound Alarm on Deteriorating Mental Health in 23-Hour Jail Isolation",
-      "url": "https://thesource.com/2026/10/16/pooh-shiestys-lawyers-sound-alarm-on-deteriorating-mental-health-in-23-hour-jail-isolation/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -207,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "New RPG From Final Fantasy , Persona Vets Borrows From The Past To Ask How We Can Save The Future",
-      "url": "https://kotaku.com/new-rpg-from-final-fantasy-persona-vets-borrows-from-the-past-to-ask-how-we-can-save-the-future-2000746405",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "RPG Club Venturing into The Witcher 3 Remastered? Join the GamesRadar+ RPG Club and play along with us!",
       "url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-october-2026-the-witcher-3-wild-hunt-remastered/",
       "pillar": "gaming",
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 review-in-progress: \"Spectacular set pieces make this campaign hard to put down\"",
-      "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+      "title": "The Street Fighter Movie: The Kotaku Review",
+      "url": "https://kotaku.com/street-fighter-2026-movie-review-guile-ken-ryu-chun-li-2000746803",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
+      "url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
