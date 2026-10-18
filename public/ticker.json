@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-18T03:09:29+00:00",
+  "generated_utc": "2026-10-18T06:10:42+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "It's Time To Admit That Goku's Greatest Strength Is Also His Greatest Flaw",
-      "url": "https://screenrant.com/goku-greatest-strength-weakness-dragon-ball/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
       "pillar": "anime",
@@ -167,6 +160,13 @@
     {
       "title": "OceanVeil to Add 19 Anime Titles from Media Blasters",
       "url": "https://www.animenewsnetwork.com/news/2026-10-17/oceanveil-to-add-19-anime-titles-from-media-blasters/.242934",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "10 Masterpiece Anime Every Marvel And DC Fan Has To Watch At Least Once",
+      "url": "https://screenrant.com/masterpiece-anime-marvel-dc-fans-watch/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
