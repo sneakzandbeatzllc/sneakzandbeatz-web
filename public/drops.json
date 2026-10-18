@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-18T09:11:59+00:00",
+  "generated_utc": "2026-10-18T12:13:01+00:00",
   "items": [
     {
       "id": "33c497a3b340",
@@ -51,6 +51,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "f093a44da99c",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low Golf Spiked “Space Jam” Releases November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-golf-spiked-space-jam/",
+      "thumbnail": "/drops/thumbs/f093a44da99c.jpg",
+      "published": "2026-10-18T02:48:32",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "e0f5793659c2",
       "pillar": "sneakers",
       "title": "Where To Buy the Air Jordan 5 “Halloween”",
@@ -81,18 +93,6 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-light-smoke-grey-barely-volt-ir2049-001/",
       "thumbnail": "/drops/thumbs/feca92f0cccc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fffbd48aedff",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “UNC” PE Revealed for 2026-27 Season",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-12-unc-pe-2026/",
-      "thumbnail": "/drops/thumbs/fffbd48aedff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 2.0,
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "d7dcaadb36d2",
-      "pillar": "anime",
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Streams 'Last' Promo Video",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-17/bleach-thousand-year-blood-war-the-calamity-anime-streams-last-promo-video/.242935",
-      "thumbnail": "/drops/thumbs/d7dcaadb36d2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "385e75a0d635",
       "pillar": "anime",
       "title": "Naruto's Big Manga Return Includes Kishimoto's Most Adorable Redesign Since Baby Kurama",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-new-manga-baby-sarada-kishimoto-redesign/",
       "thumbnail": "/drops/thumbs/385e75a0d635.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a8e7503a5c54",
+      "pillar": "anime",
+      "title": "Kokamumo's Null-Meta Manga Gets TV Anime in 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/kokamumo-null-meta-manga-gets-tv-anime-in-2027/.242952",
+      "thumbnail": "/drops/thumbs/a8e7503a5c54.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
