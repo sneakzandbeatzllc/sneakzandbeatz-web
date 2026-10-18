@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-17T20:51:00+00:00",
+  "generated_utc": "2026-10-18T00:08:10+00:00",
   "items": [
     {
       "id": "362f284b3d0d",
@@ -195,36 +195,24 @@
       "release_badge": ""
     },
     {
+      "id": "d77c0688e3dc",
+      "pillar": "anime",
+      "title": "35 Years Later, Goku's Iconic Line Remains Dragon Ball's Most Chilling Quote",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/goku-iconic-line-dragon-ball-most-chilling-quote/",
+      "thumbnail": "/drops/thumbs/d77c0688e3dc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a84d49131b71",
       "pillar": "anime",
       "title": "It's Time To Admit That Goku's Greatest Strength Is Also His Greatest Flaw",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/goku-greatest-strength-weakness-dragon-ball/",
       "thumbnail": "/drops/thumbs/a84d49131b71.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f2393903a002",
-      "pillar": "anime",
-      "title": "20 Strongest Dragon Ball Characters Of All Time, Ranked",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/strongest-dragon-ball-characters-ranked/",
-      "thumbnail": "/drops/thumbs/f2393903a002.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2b931a2bfcc5",
-      "pillar": "anime",
-      "title": "Goku Vs. Saitama: ScreenRant Readers Decide Who Would Win In A Fight",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/goku-vs-saitama-one-punch-man-screenrant-readers-decide/",
-      "thumbnail": "/drops/thumbs/2b931a2bfcc5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "dc58306c5694",
+      "id": "c5522c7da44f",
+      "pillar": "anime",
+      "title": "OceanVeil to Add 19 Anime Titles from Media Blasters",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-17/oceanveil-to-add-19-anime-titles-from-media-blasters/.242934",
+      "thumbnail": "/drops/thumbs/c5522c7da44f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f7e998d27b48",
       "pillar": "gaming",
-      "title": "News Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+      "title": "News 'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
-      "thumbnail": "/drops/thumbs/dc58306c5694.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
+      "thumbnail": "/drops/thumbs/f7e998d27b48.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +321,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564402/article/rockstar-releases-the-official-gta-6-launch-trailer/",
       "thumbnail": "/drops/thumbs/99d2e74273a9.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dc58306c5694",
+      "pillar": "gaming",
+      "title": "News Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
+      "thumbnail": "/drops/thumbs/dc58306c5694.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "a0a7424fb386",
-      "pillar": "gaming",
-      "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
-      "thumbnail": "/drops/thumbs/a0a7424fb386.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "362f284b3d0d",
     "b056b75b0217",
     "4d7578cd0893",
-    "a84d49131b71",
+    "d77c0688e3dc",
     "74ff062d233e",
-    "dc58306c5694"
+    "f7e998d27b48"
   ]
 }

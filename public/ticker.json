@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-17T20:51:00+00:00",
+  "generated_utc": "2026-10-18T00:08:10+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,22 +116,15 @@
       "article_slug": null
     },
     {
+      "title": "35 Years Later, Goku's Iconic Line Remains Dragon Ball's Most Chilling Quote",
+      "url": "https://screenrant.com/goku-iconic-line-dragon-ball-most-chilling-quote/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "It's Time To Admit That Goku's Greatest Strength Is Also His Greatest Flaw",
       "url": "https://screenrant.com/goku-greatest-strength-weakness-dragon-ball/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "20 Strongest Dragon Ball Characters Of All Time, Ranked",
-      "url": "https://screenrant.com/strongest-dragon-ball-characters-ranked/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Goku Vs. Saitama: ScreenRant Readers Decide Who Would Win In A Fight",
-      "url": "https://screenrant.com/goku-vs-saitama-one-punch-man-screenrant-readers-decide/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +165,15 @@
       "article_slug": null
     },
     {
-      "title": "News Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
+      "title": "OceanVeil to Add 19 Anime Titles from Media Blasters",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-17/oceanveil-to-add-19-anime-titles-from-media-blasters/.242934",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
+      "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,6 +188,13 @@
     {
       "title": "Rockstar Releases The Official GTA 6 Launch Trailer",
       "url": "https://gameranx.com/updates/id/564402/article/rockstar-releases-the-official-gta-6-launch-trailer/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "The Street Fighter Movie: The Kotaku Review",
       "url": "https://kotaku.com/street-fighter-2026-movie-review-guile-ken-ryu-chun-li-2000746803",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
-      "url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
