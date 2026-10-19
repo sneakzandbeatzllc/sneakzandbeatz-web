@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-19T03:26:15+00:00",
+  "generated_utc": "2026-10-19T06:35:59+00:00",
   "items": [
     {
       "id": "33c497a3b340",
@@ -10,6 +10,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-14-forest-green-2026/",
       "thumbnail": "/drops/thumbs/33c497a3b340.jpg",
       "published": "2026-10-18T02:08:19",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
+      "id": "959632b05ca3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+      "thumbnail": "/drops/thumbs/959632b05ca3.jpg",
+      "published": "2026-10-17T10:50:00",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -81,18 +93,6 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-1-low-light-smoke-grey-barely-volt-ir2049-001/",
       "thumbnail": "/drops/thumbs/feca92f0cccc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fffbd48aedff",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “UNC” PE Revealed for 2026-27 Season",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-12-unc-pe-2026/",
-      "thumbnail": "/drops/thumbs/fffbd48aedff.jpg",
       "published": "",
       "relative_time": "today",
       "score": 2.0,
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "674b4e6f020a",
+      "pillar": "anime",
+      "title": "Manga's Greatest Masterpiece Makes Dragon Ball Feel Pointless",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/berserk-better-dragon-ball/",
+      "thumbnail": "/drops/thumbs/674b4e6f020a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "37e0cc153892",
       "pillar": "anime",
       "title": "Goku Vs. One-Punch Man's Saitama Officially Settled By ScreenRant Readers",
@@ -243,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "3075d4679f82",
+      "id": "a0840378b27d",
       "pillar": "anime",
-      "title": "Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut",
+      "title": "Tsugumi Project Anime Reveals 1st 3 Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958",
-      "thumbnail": "/drops/thumbs/3075d4679f82.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/tsugumi-project-anime-reveals-1st-3-cast-members/.242967",
+      "thumbnail": "/drops/thumbs/a0840378b27d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "a8e7503a5c54",
+      "id": "3075d4679f82",
       "pillar": "anime",
-      "title": "Kokamumo's Null-Meta Manga Gets TV Anime in 2027",
+      "title": "Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/kokamumo-null-meta-manga-gets-tv-anime-in-2027/.242952",
-      "thumbnail": "/drops/thumbs/a8e7503a5c54.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "38f89831d716",
-      "pillar": "anime",
-      "title": "Netflix's 4-Season Dark Fantasy Masterpiece Is Everything Supernatural Should Have Been",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-castlevania-everything-supernatural-should-be/",
-      "thumbnail": "/drops/thumbs/38f89831d716.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958",
+      "thumbnail": "/drops/thumbs/3075d4679f82.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "33c497a3b340",
     "b056b75b0217",
+    "959632b05ca3",
+    "674b4e6f020a",
     "4d7578cd0893",
-    "37e0cc153892",
-    "74ff062d233e",
     "f7e998d27b48"
   ]
 }
