@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-18T21:20:22+00:00",
+  "generated_utc": "2026-10-19T00:21:46+00:00",
   "items": [
     {
       "id": "33c497a3b340",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "d77c0688e3dc",
-      "pillar": "anime",
-      "title": "35 Years Later, Goku's Iconic Line Remains Dragon Ball's Most Chilling Quote",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/goku-iconic-line-dragon-ball-most-chilling-quote/",
-      "thumbnail": "/drops/thumbs/d77c0688e3dc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "810c99754318",
       "pillar": "anime",
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
@@ -261,6 +249,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "thumbnail": "/drops/thumbs/71887546818d.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "38f89831d716",
+      "pillar": "anime",
+      "title": "Netflix's 4-Season Dark Fantasy Masterpiece Is Everything Supernatural Should Have Been",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/netflix-castlevania-everything-supernatural-should-be/",
+      "thumbnail": "/drops/thumbs/38f89831d716.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "dc58306c5694",
-      "pillar": "gaming",
-      "title": "News Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
-      "thumbnail": "/drops/thumbs/dc58306c5694.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2267321a0e20",
       "pillar": "gaming",
       "title": "The Game Awards Has Made GTA 6 Eligible For Nominations This Year",
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "6b10181e8784",
+      "id": "76fc7ebf213e",
       "pillar": "gaming",
-      "title": "Who The Hell Was That In The Street Fighter Movie Because It Wasn’t Cammy",
+      "title": "News Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
+      "thumbnail": "/drops/thumbs/76fc7ebf213e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a0a7424fb386",
+      "pillar": "gaming",
+      "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822",
-      "thumbnail": "/drops/thumbs/6b10181e8784.jpg",
+      "source_url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
+      "thumbnail": "/drops/thumbs/a0a7424fb386.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "33c497a3b340",
     "b056b75b0217",
     "4d7578cd0893",
-    "d77c0688e3dc",
+    "810c99754318",
     "74ff062d233e",
     "f7e998d27b48"
   ]

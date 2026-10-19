@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-18T21:20:22+00:00",
+  "generated_utc": "2026-10-19T00:21:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "35 Years Later, Goku's Iconic Line Remains Dragon Ball's Most Chilling Quote",
-      "url": "https://screenrant.com/goku-iconic-line-dragon-ball-most-chilling-quote/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
       "pillar": "anime",
@@ -153,6 +146,13 @@
     {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Netflix's 4-Season Dark Fantasy Masterpiece Is Everything Supernatural Should Have Been",
+      "url": "https://screenrant.com/netflix-castlevania-everything-supernatural-should-be/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "News Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Game Awards Has Made GTA 6 Eligible For Nominations This Year",
       "url": "https://gameranx.com/updates/id/564400/article/the-game-awards-has-made-gta-6-eligible-for-nominations-this-year/",
       "pillar": "gaming",
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Who The Hell Was That In The Street Fighter Movie Because It Wasn’t Cammy",
-      "url": "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822",
+      "title": "News Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend",
+      "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
+      "url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
