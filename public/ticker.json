@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-19T06:35:59+00:00",
+  "generated_utc": "2026-10-19T09:50:55+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,13 +137,6 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Reveals English Dub Cast, Staff for 2nd Seasons of Black Clover , Aoashi Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-18/crunchyroll-reveals-english-dub-cast-staff-for-2nd-seasons-of-black-clover-aoashi-anime/.242948",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "What Is Ninku? Naruto's New Anime Crossover, Explained",
       "url": "https://screenrant.com/ninku-naruto-new-anime-crossover-explained/",
       "pillar": "anime",
@@ -158,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "pillar": "anime",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958",
+      "title": "Kokamumo's Null-Meta Manga Gets TV Anime in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-18/kokamumo-null-meta-manga-gets-tv-anime-in-2027/.242952",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,36 +179,15 @@
       "article_slug": null
     },
     {
-      "title": "After 18 years, GTA 6 might finally fix a graphical bug that's plagued Rockstar's games since GTA 4",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-18-years-gta-6-might-finally-fix-a-graphical-bug-thats-plagued-rockstars-games-since-grand-theft-auto-4/",
+      "title": "\"The physical element of gaming will always be there\": Silent Hill 2 Remake CEO on physical media",
+      "url": "https://www.gamesradar.com/games/horror/the-physical-element-of-gaming-will-always-always-be-there-bloober-team-and-broken-mirror-games-want-to-make-physical-media-for-as-long-as-possible/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Rockstar Releases The Official GTA 6 Launch Trailer",
-      "url": "https://gameranx.com/updates/id/564402/article/rockstar-releases-the-official-gta-6-launch-trailer/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The Game Awards Has Made GTA 6 Eligible For Nominations This Year",
-      "url": "https://gameranx.com/updates/id/564400/article/the-game-awards-has-made-gta-6-eligible-for-nominations-this-year/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Rumor: GTA 6 Review Copies Releasing Before November For Reviews To Arrive Before Launch",
-      "url": "https://gameranx.com/updates/id/564398/article/rumor-gta-6-review-copies-releasing-before-november-for-reviews-to-arrive-before-launch/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "RPG Club Venturing into The Witcher 3 Remastered? Join the GamesRadar+ RPG Club and play along with us!",
-      "url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-october-2026-the-witcher-3-wild-hunt-remastered/",
+      "title": "Who The Hell Was That In The Street Fighter Movie Because It Wasn’t Cammy",
+      "url": "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +200,29 @@
       "article_slug": null
     },
     {
-      "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
-      "url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
+      "title": "Battlefield 6’s Latest Update Revoked After It Makes Players Earn Less XP",
+      "url": "https://gameranx.com/updates/id/564411/article/battlefield-6s-latest-update-revoked-after-it-makes-players-earn-less-xp/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 review-in-progress",
+      "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Call Of Duty’s Future Includes A New Sub-Franchise",
+      "url": "https://gameranx.com/updates/id/564405/article/call-of-dutys-future-includes-a-new-sub-franchise/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The PlayStation 6’s Memory Components Alone Could Cost More Than $700",
+      "url": "https://kotaku.com/the-playstation-6s-memory-components-alone-could-cost-more-than-700-2000747289",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

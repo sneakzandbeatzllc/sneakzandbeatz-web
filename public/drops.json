@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-19T06:35:59+00:00",
+  "generated_utc": "2026-10-19T09:50:55+00:00",
   "items": [
     {
       "id": "33c497a3b340",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "60776136a8ed",
-      "pillar": "anime",
-      "title": "Crunchyroll Reveals English Dub Cast, Staff for 2nd Seasons of Black Clover , Aoashi Anime",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/crunchyroll-reveals-english-dub-cast-staff-for-2nd-seasons-of-black-clover-aoashi-anime/.242948",
-      "thumbnail": "/drops/thumbs/60776136a8ed.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "b5377708c567",
       "pillar": "anime",
       "title": "What Is Ninku? Naruto's New Anime Crossover, Explained",
@@ -267,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "3075d4679f82",
+      "pillar": "anime",
+      "title": "Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958",
+      "thumbnail": "/drops/thumbs/3075d4679f82.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "71887546818d",
       "pillar": "anime",
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "3075d4679f82",
+      "id": "a8e7503a5c54",
       "pillar": "anime",
-      "title": "Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut",
+      "title": "Kokamumo's Null-Meta Manga Gets TV Anime in 2027",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958",
-      "thumbnail": "/drops/thumbs/3075d4679f82.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-18/kokamumo-null-meta-manga-gets-tv-anime-in-2027/.242952",
+      "thumbnail": "/drops/thumbs/a8e7503a5c54.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -303,60 +303,24 @@
       "release_badge": ""
     },
     {
-      "id": "40465ad73adc",
+      "id": "3097535a8a95",
       "pillar": "gaming",
-      "title": "After 18 years, GTA 6 might finally fix a graphical bug that's plagued Rockstar's games since GTA 4",
+      "title": "\"The physical element of gaming will always be there\": Silent Hill 2 Remake CEO on physical media",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/after-18-years-gta-6-might-finally-fix-a-graphical-bug-thats-plagued-rockstars-games-since-grand-theft-auto-4/",
-      "thumbnail": "/drops/thumbs/40465ad73adc.jpg",
+      "source_url": "https://www.gamesradar.com/games/horror/the-physical-element-of-gaming-will-always-always-be-there-bloober-team-and-broken-mirror-games-want-to-make-physical-media-for-as-long-as-possible/",
+      "thumbnail": "/drops/thumbs/3097535a8a95.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "99d2e74273a9",
+      "id": "6b10181e8784",
       "pillar": "gaming",
-      "title": "Rockstar Releases The Official GTA 6 Launch Trailer",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564402/article/rockstar-releases-the-official-gta-6-launch-trailer/",
-      "thumbnail": "/drops/thumbs/99d2e74273a9.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2267321a0e20",
-      "pillar": "gaming",
-      "title": "The Game Awards Has Made GTA 6 Eligible For Nominations This Year",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564400/article/the-game-awards-has-made-gta-6-eligible-for-nominations-this-year/",
-      "thumbnail": "/drops/thumbs/2267321a0e20.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2dbe86735cdb",
-      "pillar": "gaming",
-      "title": "Rumor: GTA 6 Review Copies Releasing Before November For Reviews To Arrive Before Launch",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564398/article/rumor-gta-6-review-copies-releasing-before-november-for-reviews-to-arrive-before-launch/",
-      "thumbnail": "/drops/thumbs/2dbe86735cdb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d719db3488bd",
-      "pillar": "gaming",
-      "title": "RPG Club Venturing into The Witcher 3 Remastered? Join the GamesRadar+ RPG Club and play along with us!",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/rpg/gamesradar-rpg-club-october-2026-the-witcher-3-wild-hunt-remastered/",
-      "thumbnail": "/drops/thumbs/d719db3488bd.jpg",
+      "title": "Who The Hell Was That In The Street Fighter Movie Because It Wasn’t Cammy",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822",
+      "thumbnail": "/drops/thumbs/6b10181e8784.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +339,48 @@
       "release_badge": ""
     },
     {
-      "id": "a0a7424fb386",
+      "id": "288cd292d393",
       "pillar": "gaming",
-      "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
+      "title": "Battlefield 6’s Latest Update Revoked After It Makes Players Earn Less XP",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564411/article/battlefield-6s-latest-update-revoked-after-it-makes-players-earn-less-xp/",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "03e7bb91cfec",
+      "pillar": "gaming",
+      "title": "Call of Duty: Modern Warfare 4 review-in-progress",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+      "thumbnail": "/drops/thumbs/03e7bb91cfec.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e155ad55c9bc",
+      "pillar": "gaming",
+      "title": "Call Of Duty’s Future Includes A New Sub-Franchise",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564405/article/call-of-dutys-future-includes-a-new-sub-franchise/",
+      "thumbnail": "/drops/thumbs/e155ad55c9bc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d3f307c31d9d",
+      "pillar": "gaming",
+      "title": "The PlayStation 6’s Memory Components Alone Could Cost More Than $700",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
-      "thumbnail": "/drops/thumbs/a0a7424fb386.jpg",
+      "source_url": "https://kotaku.com/the-playstation-6s-memory-components-alone-could-cost-more-than-700-2000747289",
+      "thumbnail": "/drops/thumbs/d3f307c31d9d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
