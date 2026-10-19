@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-19T12:55:42+00:00",
+  "generated_utc": "2026-10-19T15:57:42+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Hip-Hop Heavyweights Fabolous, Maino, Dave East, and Jim Jones Toast to One Year of Let’s Rap About It in NYC",
+      "url": "https://thesource.com/2026/10/19/hip-hop-heavyweights-fabolous-maino-dave-east-and-jim-jones-toast-to-one-year-of-lets-rap-about-it-in-nyc/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Posthumous D’Angelo Album in the Works With Six Tracks Completed",
       "url": "https://thesource.com/2026/10/19/dangelo-posthumous-album-six-tracks/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "‘P-Valley’ Unveils First Look at Third and Final Season",
-      "url": "https://thesource.com/2026/10/19/p-valley-season-3-final-season-preview/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Manga's Greatest Masterpiece Makes Dragon Ball Feel Pointless",
       "url": "https://screenrant.com/berserk-better-dragon-ball/",
       "pillar": "anime",
@@ -144,15 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "The Kingdoms of Ruin's yoruhashi Launches New Manga on Thursday",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-19/the-kingdoms-of-ruin-yoruhashi-launches-new-manga-on-thursday/.242961",
+      "title": "Welsh & Shedar Anime's Trailer Reveals English/French Dubs' Debut on YouTube on November 5",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-19/welsh-and-shedar-anime-trailer-reveals-english-french-dubs-debut-on-youtube-on-november-5/.242987",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Adds Psyren Anime's English Dub",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-19/crunchyroll-adds-psyren-anime-english-dub/.242968",
+      "title": "Manga UP! Global Adds Lily of the High Seas , Killer's Familia , The Imperial Court's Floral Stylist , 3 More Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-19/manga-up-global-adds-lily-of-the-high-seas-killer-familia-the-imperial-court-floral-stylist-3-more-/.242985",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News 'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
-      "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
+      "title": "News Hideo Kojima Back in the Cyberpunk Universe for Edgerunners Season 2",
+      "url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-back-in-the-cyberpunk-universe-for-edgerunners-season-2",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "News Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend",
-      "url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Call of Duty: Modern Warfare 4 review-in-progress",
       "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "LucasFilm Games Are Looking Beyond “The Top Five Publishers” To Partner With For Star Wars Games",
       "url": "https://gameranx.com/updates/id/564427/article/lucasfilm-games-are-looking-beyond-the-top-five-publishers-to-partner-with-for-star-wars-games/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The Most Compelling Lovecraft Video Game Is About Hundreds Of Adorable Penguins",
+      "url": "https://kotaku.com/the-most-compelling-lovecraft-video-game-is-about-hundreds-of-adorable-penguins-2000747293",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

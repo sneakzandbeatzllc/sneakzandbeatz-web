@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-19T12:55:42+00:00",
+  "generated_utc": "2026-10-19T15:57:42+00:00",
   "items": [
     {
       "id": "33c497a3b340",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "bf2ff5777048",
+      "pillar": "hiphop",
+      "title": "Hip-Hop Heavyweights Fabolous, Maino, Dave East, and Jim Jones Toast to One Year of Let’s Rap About It in NYC",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/19/hip-hop-heavyweights-fabolous-maino-dave-east-and-jim-jones-toast-to-one-year-of-lets-rap-about-it-in-nyc/",
+      "thumbnail": "/drops/thumbs/bf2ff5777048.jpg",
+      "published": "2026-10-19T10:26:06",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1e4f734d3e55",
       "pillar": "hiphop",
       "title": "Posthumous D’Angelo Album in the Works With Six Tracks Completed",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "dcd29ad1ed14",
-      "pillar": "hiphop",
-      "title": "‘P-Valley’ Unveils First Look at Third and Final Season",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/19/p-valley-season-3-final-season-preview/",
-      "thumbnail": "/drops/thumbs/dcd29ad1ed14.jpg",
-      "published": "2026-10-19T07:13:21",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "674b4e6f020a",
       "pillar": "anime",
       "title": "Manga's Greatest Masterpiece Makes Dragon Ball Feel Pointless",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "bb7c7fc081c1",
+      "id": "5966d6814626",
       "pillar": "anime",
-      "title": "The Kingdoms of Ruin's yoruhashi Launches New Manga on Thursday",
+      "title": "Welsh & Shedar Anime's Trailer Reveals English/French Dubs' Debut on YouTube on November 5",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-19/the-kingdoms-of-ruin-yoruhashi-launches-new-manga-on-thursday/.242961",
-      "thumbnail": "/drops/thumbs/bb7c7fc081c1.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-19/welsh-and-shedar-anime-trailer-reveals-english-french-dubs-debut-on-youtube-on-november-5/.242987",
+      "thumbnail": "/drops/thumbs/5966d6814626.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "f35b6dae6a52",
+      "id": "d700653d35e3",
       "pillar": "anime",
-      "title": "Crunchyroll Adds Psyren Anime's English Dub",
+      "title": "Manga UP! Global Adds Lily of the High Seas , Killer's Familia , The Imperial Court's Floral Stylist , 3 More Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-19/crunchyroll-adds-psyren-anime-english-dub/.242968",
-      "thumbnail": "/drops/thumbs/f35b6dae6a52.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-19/manga-up-global-adds-lily-of-the-high-seas-killer-familia-the-imperial-court-floral-stylist-3-more-/.242985",
+      "thumbnail": "/drops/thumbs/d700653d35e3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "f7e998d27b48",
+      "id": "b9b712df99dd",
       "pillar": "gaming",
-      "title": "News 'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
+      "title": "News Hideo Kojima Back in the Cyberpunk Universe for Edgerunners Season 2",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
-      "thumbnail": "/drops/thumbs/f7e998d27b48.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-back-in-the-cyberpunk-universe-for-edgerunners-season-2",
+      "thumbnail": "/drops/thumbs/b9b712df99dd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "76fc7ebf213e",
-      "pillar": "gaming",
-      "title": "News Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend",
-      "thumbnail": "/drops/thumbs/76fc7ebf213e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "03e7bb91cfec",
       "pillar": "gaming",
       "title": "Call of Duty: Modern Warfare 4 review-in-progress",
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "4a5942b295a8",
+      "pillar": "gaming",
+      "title": "The Most Compelling Lovecraft Video Game Is About Hundreds Of Adorable Penguins",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/the-most-compelling-lovecraft-video-game-is-about-hundreds-of-adorable-penguins-2000747293",
+      "thumbnail": "/drops/thumbs/4a5942b295a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "33c497a3b340",
-    "1e4f734d3e55",
+    "bf2ff5777048",
     "959632b05ca3",
     "674b4e6f020a",
     "4d7578cd0893",
-    "f7e998d27b48"
+    "b9b712df99dd"
   ]
 }
