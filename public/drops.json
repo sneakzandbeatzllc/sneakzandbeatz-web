@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-20T13:27:23+00:00",
+  "generated_utc": "2026-10-20T16:28:55+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -207,12 +207,36 @@
       "release_badge": ""
     },
     {
+      "id": "2f8116ab0aa2",
+      "pillar": "anime",
+      "title": "Naruto Officially Confirms Plans For Its 9th Hokage",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-next-hokage-konohamaru/",
+      "thumbnail": "/drops/thumbs/2f8116ab0aa2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "70429bcab84e",
       "pillar": "anime",
       "title": "One Piece Filler List: Every Episode You Can Skip",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-filler-list-every-episode-skip/",
       "thumbnail": "/drops/thumbs/70429bcab84e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "eba160521a03",
+      "pillar": "anime",
+      "title": "Pandora Hearts Manga Gets 3rd Stage Musical",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-20/pandora-hearts-manga-gets-3rd-stage-musical/.243027",
+      "thumbnail": "/drops/thumbs/eba160521a03.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "ed77a1e6fefe",
-      "pillar": "anime",
-      "title": "Screen, Voice Actor Hiroshi Tsuchida Dies at 54",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-20/screen-voice-actor-hiroshi-tsuchida-dies-at-54/.243009",
-      "thumbnail": "/drops/thumbs/ed77a1e6fefe.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "71887546818d",
       "pillar": "anime",
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
@@ -255,36 +267,24 @@
       "release_badge": ""
     },
     {
+      "id": "9cccbb7d4dcc",
+      "pillar": "anime",
+      "title": "The Summer Hikaru Died Ending Explained",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/summer-hikaru-died-ending-explained/",
+      "thumbnail": "/drops/thumbs/9cccbb7d4dcc.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a362762018bf",
       "pillar": "anime",
       "title": "The 4 Year Wait Is Over, Season 2 Of Netflix's Official Blade Runner Replacement Is Here",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/cyberpunk-edgerunners-season-2-bladerunner-replacement-netflix/",
       "thumbnail": "/drops/thumbs/a362762018bf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7a98ce7ea7bf",
-      "pillar": "anime",
-      "title": "Netflix Deserves Kudos For Successfully Adapting One Of The Best Anime Series Of The Century",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/parasyte-the-grey-netflix-best-anime-live-action-adaptation/",
-      "thumbnail": "/drops/thumbs/7a98ce7ea7bf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ec809bbed8a2",
-      "pillar": "anime",
-      "title": "Netflix's 37-Episode Psychological Masterpiece Is Everything Dexter Should Have Been",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-psychological-thriller-death-note-everything-dexter/",
-      "thumbnail": "/drops/thumbs/ec809bbed8a2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,36 @@
       "release_badge": ""
     },
     {
-      "id": "063b6aa3de36",
+      "id": "9bff4f0f4bba",
       "pillar": "gaming",
-      "title": "Review Final Fantasy Resonance (PS5) - Square's Series Returns to Its Roots to Fantastic Effect",
+      "title": "News Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/final-fantasy-resonance",
-      "thumbnail": "/drops/thumbs/063b6aa3de36.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here",
+      "thumbnail": "/drops/thumbs/9bff4f0f4bba.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "40aab5f76d85",
+      "id": "52f859f5814d",
       "pillar": "gaming",
-      "title": "News Another Huge Cyberpunk 2077 PS5 Update Incoming, Patch 2.5 Revealed in Livestream Tomorrow",
+      "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
+      "thumbnail": "/drops/thumbs/52f859f5814d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3ddd6382e0f8",
+      "pillar": "gaming",
+      "title": "News Mortal Shell 2 Gets Even Better in Big Free Content Patch, Live Now on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/another-huge-cyberpunk-2077-ps5-update-incoming-patch-2-5-revealed-in-livestream-tomorrow",
-      "thumbnail": "/drops/thumbs/40aab5f76d85.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/mortal-shell-2-gets-even-better-in-big-free-content-patch-live-now-on-ps5",
+      "thumbnail": "/drops/thumbs/3ddd6382e0f8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "00d0742dd1f0",
+      "id": "063b6aa3de36",
       "pillar": "gaming",
-      "title": "Patch Notes Edgerunners 2 and Resident Evil prove that game worlds, not characters, make the best adaptations",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/cyberpunk-edgerunners-2-and-resident-evil-prove-that-game-worlds-not-characters-make-the-best-adaptations/",
-      "thumbnail": "/drops/thumbs/00d0742dd1f0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a809c653d124",
-      "pillar": "gaming",
-      "title": "Final Fantasy VII Revelation Will Have Hard Mode Available From The Very Start",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564443/article/final-fantasy-vii-revelation-will-have-hard-mode-available-from-the-very-start/",
-      "thumbnail": "/drops/thumbs/a809c653d124.jpg",
+      "title": "Review Final Fantasy Resonance (PS5) - Square's Series Returns to Its Roots to Fantastic Effect",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/reviews/ps5/final-fantasy-resonance",
+      "thumbnail": "/drops/thumbs/063b6aa3de36.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
