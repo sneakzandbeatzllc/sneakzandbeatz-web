@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-20T04:19:40+00:00",
+  "generated_utc": "2026-10-20T07:21:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -165,16 +165,9 @@
       "article_slug": null
     },
     {
-      "title": "Netflix's 37-Episode Psychological Masterpiece Is Everything Dexter Should Have Been",
-      "url": "https://screenrant.com/netflix-psychological-thriller-death-note-everything-dexter/",
+      "title": "Netflix Deserves Kudos For Successfully Adapting One Of The Best Anime Series Of The Century",
+      "url": "https://screenrant.com/parasyte-the-grey-netflix-best-anime-live-action-adaptation/",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Hideo Kojima Back in the Cyberpunk Universe for Edgerunners Season 2",
-      "url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-back-in-the-cyberpunk-universe-for-edgerunners-season-2",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -200,6 +193,13 @@
       "article_slug": null
     },
     {
+      "title": "Feature Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player's Choice Sale",
+      "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-60plus-ps5-ps4-games-in-the-ps-store-players-choice-sale",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Demand For The Legend Of Zelda: Ocarina Of Time For Switch 2 Was Higher Than Expected – “The Magnitude, It’s Amazing!”",
       "url": "https://gameranx.com/updates/id/564429/article/demand-for-the-legend-of-zelda-ocarina-of-time-for-switch-2-was-higher-than-expected-the-magnitude-its-amazing/",
       "pillar": "gaming",
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "Review Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
-      "url": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
+      "title": "Guide These 35+ PS5 and PS Plus Games Are Coming Out This Week (19th-25th October)",
+      "url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-this-week-19th-25th-october",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

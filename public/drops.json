@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-20T04:19:40+00:00",
+  "generated_utc": "2026-10-20T07:21:14+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -279,24 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "ec809bbed8a2",
+      "id": "7a98ce7ea7bf",
       "pillar": "anime",
-      "title": "Netflix's 37-Episode Psychological Masterpiece Is Everything Dexter Should Have Been",
+      "title": "Netflix Deserves Kudos For Successfully Adapting One Of The Best Anime Series Of The Century",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-psychological-thriller-death-note-everything-dexter/",
-      "thumbnail": "/drops/thumbs/ec809bbed8a2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b9b712df99dd",
-      "pillar": "gaming",
-      "title": "News Hideo Kojima Back in the Cyberpunk Universe for Edgerunners Season 2",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-back-in-the-cyberpunk-universe-for-edgerunners-season-2",
-      "thumbnail": "/drops/thumbs/b9b712df99dd.jpg",
+      "source_url": "https://screenrant.com/parasyte-the-grey-netflix-best-anime-live-action-adaptation/",
+      "thumbnail": "/drops/thumbs/7a98ce7ea7bf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "7a1c958aabf8",
+      "pillar": "gaming",
+      "title": "Feature Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player's Choice Sale",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/last-chance-to-buy-these-60plus-ps5-ps4-games-in-the-ps-store-players-choice-sale",
+      "thumbnail": "/drops/thumbs/7a1c958aabf8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "88ecde3e6585",
       "pillar": "gaming",
       "title": "Demand For The Legend Of Zelda: Ocarina Of Time For Switch 2 Was Higher Than Expected – “The Magnitude, It’s Amazing!”",
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "0f05432b197f",
+      "id": "a5ce86c4fbd5",
       "pillar": "gaming",
-      "title": "Review Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
+      "title": "Guide These 35+ PS5 and PS Plus Games Are Coming Out This Week (19th-25th October)",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
-      "thumbnail": "/drops/thumbs/0f05432b197f.jpg",
+      "source_url": "https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-this-week-19th-25th-october",
+      "thumbnail": "/drops/thumbs/a5ce86c4fbd5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "33c497a3b340",
     "674b4e6f020a",
     "4d7578cd0893",
-    "b9b712df99dd"
+    "ba9e65bb8afb"
   ]
 }
