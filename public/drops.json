@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-20T16:28:55+00:00",
+  "generated_utc": "2026-10-20T19:30:07+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -183,13 +183,13 @@
       "release_badge": ""
     },
     {
-      "id": "b784d0a11428",
+      "id": "378ea35070b2",
       "pillar": "hiphop",
-      "title": "DJ Greg Street: The Mastermind of the Airwaves, the Voice of a Movement, the Architect of Atlanta’s Musical Destiny",
+      "title": "The Source Remembers DJ Mark The 45 King Three Years After His Passing",
       "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/19/dj-greg-street-the-mastermind-of-the-airwaves-the-voice-of-a-movement-the-architect-of-atlantas-musical-destiny/",
-      "thumbnail": "/drops/thumbs/b784d0a11428.jpg",
-      "published": "2026-10-19T18:33:00",
+      "source_url": "https://thesource.com/2026/10/19/the-source-remembers-dj-mark-the-45-king-three-years-after-his-passing/",
+      "thumbnail": "/drops/thumbs/378ea35070b2.jpg",
+      "published": "2026-10-19T12:19:06",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -201,6 +201,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
       "thumbnail": "/drops/thumbs/810c99754318.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "944b3c56bb39",
+      "pillar": "anime",
+      "title": "Solo Leveling's New Episode Starring Fan Favorite Hero Is Available Now",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-new-igris-spinoff-series/",
+      "thumbnail": "/drops/thumbs/944b3c56bb39.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "eba160521a03",
+      "id": "970100f0a2da",
       "pillar": "anime",
-      "title": "Pandora Hearts Manga Gets 3rd Stage Musical",
+      "title": "Murciélago TV Anime's Teaser Trailer Reveals Cast",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-20/pandora-hearts-manga-gets-3rd-stage-musical/.243027",
-      "thumbnail": "/drops/thumbs/eba160521a03.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-20/murcielago-tv-anime-teaser-trailer-reveals-cast/.243033",
+      "thumbnail": "/drops/thumbs/970100f0a2da.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "100a90c8f63a",
+      "id": "eba160521a03",
       "pillar": "anime",
-      "title": "Crunchyroll Reveals The Detective Is Already Dead Season 2's English Dub Cast, Staff, Debut Date",
+      "title": "Pandora Hearts Manga Gets 3rd Stage Musical",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-20/crunchyroll-reveals-the-detective-is-already-dead-season-2-english-dub-cast-staff-debut-date/.243014",
-      "thumbnail": "/drops/thumbs/100a90c8f63a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-20/pandora-hearts-manga-gets-3rd-stage-musical/.243027",
+      "thumbnail": "/drops/thumbs/eba160521a03.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/summer-hikaru-died-ending-explained/",
       "thumbnail": "/drops/thumbs/9cccbb7d4dcc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a362762018bf",
-      "pillar": "anime",
-      "title": "The 4 Year Wait Is Over, Season 2 Of Netflix's Official Blade Runner Replacement Is Here",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/cyberpunk-edgerunners-season-2-bladerunner-replacement-netflix/",
-      "thumbnail": "/drops/thumbs/a362762018bf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "52f859f5814d",
-      "pillar": "gaming",
-      "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
-      "thumbnail": "/drops/thumbs/52f859f5814d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3ddd6382e0f8",
       "pillar": "gaming",
       "title": "News Mortal Shell 2 Gets Even Better in Big Free Content Patch, Live Now on PS5",
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "063b6aa3de36",
+      "id": "00d0742dd1f0",
       "pillar": "gaming",
-      "title": "Review Final Fantasy Resonance (PS5) - Square's Series Returns to Its Roots to Fantastic Effect",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/final-fantasy-resonance",
-      "thumbnail": "/drops/thumbs/063b6aa3de36.jpg",
+      "title": "Patch Notes Edgerunners 2 and Resident Evil prove that game worlds, not characters, make the best adaptations",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/cyberpunk-edgerunners-2-and-resident-evil-prove-that-game-worlds-not-characters-make-the-best-adaptations/",
+      "thumbnail": "/drops/thumbs/00d0742dd1f0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a809c653d124",
+      "pillar": "gaming",
+      "title": "Final Fantasy VII Revelation Will Have Hard Mode Available From The Very Start",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564443/article/final-fantasy-vii-revelation-will-have-hard-mode-available-from-the-very-start/",
+      "thumbnail": "/drops/thumbs/a809c653d124.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

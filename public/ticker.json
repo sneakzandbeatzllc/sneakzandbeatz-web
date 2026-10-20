@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-20T16:28:55+00:00",
+  "generated_utc": "2026-10-20T19:30:07+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -109,8 +109,8 @@
       "article_slug": null
     },
     {
-      "title": "DJ Greg Street: The Mastermind of the Airwaves, the Voice of a Movement, the Architect of Atlanta’s Musical Destiny",
-      "url": "https://thesource.com/2026/10/19/dj-greg-street-the-mastermind-of-the-airwaves-the-voice-of-a-movement-the-architect-of-atlantas-musical-destiny/",
+      "title": "The Source Remembers DJ Mark The 45 King Three Years After His Passing",
+      "url": "https://thesource.com/2026/10/19/the-source-remembers-dj-mark-the-45-king-three-years-after-his-passing/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -118,6 +118,13 @@
     {
       "title": "Demon Slayer: Infinity Castle 2 release date teased",
       "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Solo Leveling's New Episode Starring Fan Favorite Hero Is Available Now",
+      "url": "https://screenrant.com/solo-leveling-new-igris-spinoff-series/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,15 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "Pandora Hearts Manga Gets 3rd Stage Musical",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-20/pandora-hearts-manga-gets-3rd-stage-musical/.243027",
+      "title": "Murciélago TV Anime's Teaser Trailer Reveals Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-20/murcielago-tv-anime-teaser-trailer-reveals-cast/.243033",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Reveals The Detective Is Already Dead Season 2's English Dub Cast, Staff, Debut Date",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-20/crunchyroll-reveals-the-detective-is-already-dead-season-2-english-dub-cast-staff-debut-date/.243014",
+      "title": "Pandora Hearts Manga Gets 3rd Stage Musical",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-20/pandora-hearts-manga-gets-3rd-stage-musical/.243027",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -160,13 +167,6 @@
     {
       "title": "The Summer Hikaru Died Ending Explained",
       "url": "https://screenrant.com/summer-hikaru-died-ending-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "The 4 Year Wait Is Over, Season 2 Of Netflix's Official Blade Runner Replacement Is Here",
-      "url": "https://screenrant.com/cyberpunk-edgerunners-season-2-bladerunner-replacement-netflix/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
-      "url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Mortal Shell 2 Gets Even Better in Big Free Content Patch, Live Now on PS5",
       "url": "https://www.pushsquare.com/news/2026/10/mortal-shell-2-gets-even-better-in-big-free-content-patch-live-now-on-ps5",
       "pillar": "gaming",
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Review Final Fantasy Resonance (PS5) - Square's Series Returns to Its Roots to Fantastic Effect",
-      "url": "https://www.pushsquare.com/reviews/ps5/final-fantasy-resonance",
+      "title": "Patch Notes Edgerunners 2 and Resident Evil prove that game worlds, not characters, make the best adaptations",
+      "url": "https://www.gamesradar.com/games/cyberpunk-edgerunners-2-and-resident-evil-prove-that-game-worlds-not-characters-make-the-best-adaptations/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Final Fantasy VII Revelation Will Have Hard Mode Available From The Very Start",
+      "url": "https://gameranx.com/updates/id/564443/article/final-fantasy-vii-revelation-will-have-hard-mode-available-from-the-very-start/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
