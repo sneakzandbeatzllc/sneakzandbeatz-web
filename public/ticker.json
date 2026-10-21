@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-21T05:00:38+00:00",
+  "generated_utc": "2026-10-21T08:35:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Short Anime's Teaser Reveals Cast, January 4 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-21/haru-to-gen-~70-sai-hajimete-kosodate~-short-anime-teaser-reveals-cast-january-4-debut/.243050",
+      "title": "Just Like Mona Lisa TV Anime's 1st Trailer Unveils More Cast & Staff, 2027 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-21/just-like-mona-lisa-tv-anime-1st-trailer-unveils-more-cast-and-staff-2027-debut/.243048",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "ghost – end of night Anime Film Unveils 3 Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-20/ghost-end-of-night-anime-film-unveils-3-cast-members/.243040",
+      "title": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Short Anime's Teaser Reveals Cast, January 4 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-21/haru-to-gen-~70-sai-hajimete-kosodate~-short-anime-teaser-reveals-cast-january-4-debut/.243050",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Writer Skyfarm, Artist Tentashi's Wildcard Alchemist Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-20/writer-skyfarm-artist-tentashi-wildcard-alchemist-manga-ends/.243019",
+      "title": "ghost – end of night Anime Film Unveils 3 Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-20/ghost-end-of-night-anime-film-unveils-3-cast-members/.243040",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,22 @@
       "article_slug": null
     },
     {
+      "title": "News Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Final Fantasy Resonance Feels Like Comfort Food, But I Want Cuisine",
       "url": "https://kotaku.com/final-fantasy-resonance-brave-exvius-review-rpg-square-enix-2000747599",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Review Final Fantasy Resonance (PS5) - Square's Series Returns to Its Roots to Fantastic Effect",
+      "url": "https://www.pushsquare.com/reviews/ps5/final-fantasy-resonance",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,22 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Patch Notes Edgerunners 2 and Resident Evil prove that game worlds, not characters, make the best adaptations",
-      "url": "https://www.gamesradar.com/games/cyberpunk-edgerunners-2-and-resident-evil-prove-that-game-worlds-not-characters-make-the-best-adaptations/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Final Fantasy VII Revelation Will Have Hard Mode Available From The Very Start",
-      "url": "https://gameranx.com/updates/id/564443/article/final-fantasy-vii-revelation-will-have-hard-mode-available-from-the-very-start/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Call Of Duty: Modern Warfare 4′ s Campaign Is Exactly What I Want From A Big-Budget Shooter",
-      "url": "https://kotaku.com/call-of-duty-modern-warfare-4s-campaign-is-exactly-what-i-want-from-a-big-budget-shooter-2000747946",
+      "title": "News Mortal Shell 2 Gets Even Better in Big Free Content Patch, Live Now on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/mortal-shell-2-gets-even-better-in-big-free-content-patch-live-now-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
