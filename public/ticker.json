@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-21T17:59:46+00:00",
+  "generated_utc": "2026-10-21T21:03:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,8 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "Demon Slayer: Infinity Castle 2 release date teased",
-      "url": "https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/",
+      "title": "3 Years After The Series' End, Attack On Titan Returns For One Last Deluxe Release",
+      "url": "https://screenrant.com/attack-on-titan-last-attack-blu-ray-steelbook/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "7 Years Later, Solo Leveling's New Record-Breaking Sales Numbers Destroy A Big Series Myth",
+      "url": "https://screenrant.com/solo-leveling-sales-numbers-japan-myth-debunk/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -137,15 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Magic Knight Rayearth , Sasaki and Peeps 2nd Season Anime Reveal English Dub Debuts, Casts",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-21/magic-knight-rayearth-sasaki-and-peeps-2nd-season-anime-reveal-english-dub-debuts-casts/.243074",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "A-DO Manga to End on November 18",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-21/a-do-manga-to-end-on-november-18/.243043",
+      "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,16 +158,23 @@
       "article_slug": null
     },
     {
-      "title": "Firefly Wedding's Oreko Tachibana Launches New Manga in Winter",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-21/firefly-wedding-oreko-tachibana-launches-new-manga-in-winter/.243042",
+      "title": "Rin Shimokawa's 'Godmother' Manga from Young Magazine US Starts Seralization on November 18",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-21/rin-shimokawa-godmother-manga-from-young-magazine-us-starts-seralization-on-november-18/.243046",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Godzilla Gets Nightmare Evangelion Redesign In Official New Crossover",
-      "url": "https://screenrant.com/godzilla-evangelion-redesign-crossover/",
+      "title": "10 most anticipated anime releases of fall 2026",
+      "url": "https://www.polygon.com/new-anime-shows-fall-2026-releases/",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -186,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "News EA Shutting Down RPG Dev BioWare, Next Mass Effect Game Cancelled",
-      "url": "https://www.pushsquare.com/news/2026/10/ea-shutting-down-rpg-dev-bioware-next-mass-effect-game-cancelled",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "EA cancels new Mass Effect, closes BioWare after being bought by Saudi Arabia",
       "url": "https://www.gamesradar.com/games/rpg/ea-cancels-new-mass-effect-closes-bioware-after-being-bought-by-saudi-arabia/",
       "pillar": "gaming",
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Rumour Beyond Good & Evil 2 Isn't Dead Yet, and It's Being Compared to PS5's Spider-Man Games",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-beyond-good-and-evil-2-isnt-dead-yet-and-its-being-compared-to-ps5s-spider-man-games",
+      "title": "News EA Shutting Down RPG Dev BioWare, Next Mass Effect Game Cancelled",
+      "url": "https://www.pushsquare.com/news/2026/10/ea-shutting-down-rpg-dev-bioware-next-mass-effect-game-cancelled",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News Cyberpunk 2077 PS5 Patch 2.5 Notes Revealed, Update Live on Thursday",
-      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-notes-revealed-update-live-on-thursday",
+      "title": "Rumour Beyond Good & Evil 2 Isn't Dead Yet, and It's Being Compared to PS5's Spider-Man Games",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-beyond-good-and-evil-2-isnt-dead-yet-and-its-being-compared-to-ps5s-spider-man-games",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
