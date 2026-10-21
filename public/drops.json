@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-21T21:03:56+00:00",
+  "generated_utc": "2026-10-21T21:06:27+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "ed97c6bbb977",
+      "pillar": "hiphop",
+      "title": "Lakers Begin Luka Dončić Era VS Steph Curry and Warriors in 2026 Season Opener",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/21/lakers-begin-luka-doncic-era-vs-steph-curry-and-warriors-in-2026-season-opener/",
+      "thumbnail": "/drops/thumbs/ed97c6bbb977.jpg",
+      "published": "2026-10-21T16:58:39",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6c74e0548f5e",
+      "pillar": "hiphop",
+      "title": "EA Shuts Down BioWare After 31 Years, Cancels Next Mass Effect Game Amid Major Layoffs",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/21/ea-shuts-down-bioware-after-31-years-cancels-next-mass-effect-game-amid-major-layoffs/",
+      "thumbnail": "/drops/thumbs/6c74e0548f5e.jpg",
+      "published": "2026-10-21T16:52:29",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ca562049737c",
       "pillar": "hiphop",
       "title": "Sophia Chang Launches “The Baddest Bitch in the Room” Podcast On SiriusXM’s Women’s Empowerment Network",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/10/21/lil-baby-fresh-album-release-date/",
       "thumbnail": "/drops/thumbs/f2513bce140f.jpg",
       "published": "2026-10-21T07:29:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ccaad4f27edf",
-      "pillar": "hiphop",
-      "title": "Doechii Shares New Swamp Session “Catwoman”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/21/doechii-catwoman-swamp-session/",
-      "thumbnail": "/drops/thumbs/ccaad4f27edf.jpg",
-      "published": "2026-10-21T07:23:44",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "236b5b4a1dab",
-      "pillar": "hiphop",
-      "title": "Jay-Z Reportedly Set to Headline Super Bowl LXI Halftime Show",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/21/jay-z-super-bowl-lxi-halftime-show/",
-      "thumbnail": null,
-      "published": "2026-10-21T07:20:57",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "ca562049737c",
+    "ed97c6bbb977",
     "33c497a3b340",
     "4e67fba7ae7e",
     "f093a44da99c",
