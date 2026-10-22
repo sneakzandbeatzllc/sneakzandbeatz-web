@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-22T18:56:08+00:00",
+  "generated_utc": "2026-10-22T22:05:39+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "478c0ba0283b",
+      "pillar": "hiphop",
+      "title": "Knicks Fans Name Newborn ‘Knickson Fyve’ as in Knicks-in-Five Following Championship Victory",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/22/knicks-fans-name-newborn-knickson-fyve-as-in-knicks-in-five-following-championship-victory/",
+      "thumbnail": "/drops/thumbs/478c0ba0283b.jpg",
+      "published": "2026-10-22T17:58:52",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6af931e85fde",
       "pillar": "hiphop",
       "title": "Today In Hip Hop History: Westside Connection Released Their Debut Album ‘Bow Down’ 30 Years Ago",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "7b4f23ae216d",
-      "pillar": "hiphop",
-      "title": "LL COOL J to Be Named a Living Landmark at 2026 Celebration",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/22/ll-cool-j-to-be-named-a-living-landmark-at-2026-celebration/",
-      "thumbnail": "/drops/thumbs/7b4f23ae216d.jpg",
-      "published": "2026-10-22T08:10:03",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4e67fba7ae7e",
       "pillar": "anime",
       "title": "3 Years After The Series' End, Attack On Titan Returns For One Last Deluxe Release",
@@ -243,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "d6601018816f",
+      "pillar": "anime",
+      "title": "Fatal Fury City of the Wolves Streams Animated Trailer for Tokyo Revengers DLC Characters Mikey, Draken",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-22/fatal-fury-city-of-the-wolves-streams-animated-trailer-for-tokyo-revengers-dlc-characters-mikey-/.243114",
+      "thumbnail": "/drops/thumbs/d6601018816f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7ae9a8a4312c",
       "pillar": "anime",
       "title": "Black Clover Season 2, Episode 4 Release Date & Time",
@@ -255,36 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "71887546818d",
+      "id": "8bb438f02df8",
       "pillar": "anime",
-      "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
+      "title": "Devilman Crybaby is a devastating horror story about the tragedy of being human",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
-      "thumbnail": "/drops/thumbs/71887546818d.png",
+      "source_url": "https://www.polygon.com/devilman-crybaby-horror-anime-halloween-countdown/",
+      "thumbnail": "/drops/thumbs/8bb438f02df8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "bbbe60575509",
+      "id": "7f8b8edbef07",
       "pillar": "anime",
-      "title": "Firefly Wedding TV Anime Casts Kazuyuki Okitsu",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-casts-kazuyuki-okitsu/.243113",
-      "thumbnail": "/drops/thumbs/bbbe60575509.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "48aa1747708e",
-      "pillar": "anime",
-      "title": "10 most anticipated anime releases of fall 2026",
+      "title": "Cowboy Bebop's most terrifying villain is still pure nightmare fuel",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/new-anime-shows-fall-2026-releases/",
-      "thumbnail": "/drops/thumbs/48aa1747708e.jpg",
+      "source_url": "https://www.polygon.com/cowboy-bebop-scariest-darkest-episode-pierrot-le-fou/",
+      "thumbnail": "/drops/thumbs/7f8b8edbef07.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "eaba90ecfbfc",
-    "6af931e85fde",
+    "478c0ba0283b",
     "959632b05ca3",
     "4e67fba7ae7e",
     "3d1d651a54cf",
