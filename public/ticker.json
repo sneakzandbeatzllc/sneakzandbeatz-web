@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-22T03:15:32+00:00",
+  "generated_utc": "2026-10-22T06:35:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041",
+      "title": "The Seven Knights of the Marronnier Kingdom Anime Reveals 4 Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-21/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-4-cast-members/.243088",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Rin Shimokawa's 'Godmother' Manga from Young Magazine US Starts Seralization on November 18",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-21/rin-shimokawa-godmother-manga-from-young-magazine-us-starts-seralization-on-november-18/.243046",
+      "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -168,13 +168,6 @@
       "title": "10 most anticipated anime releases of fall 2026",
       "url": "https://www.polygon.com/new-anime-shows-fall-2026-releases/",
       "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november",
-      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -188,6 +181,13 @@
     {
       "title": "Rumor: Is Double Eleven Hiring To Bring GTA 6 To Nintendo Switch 2?",
       "url": "https://gameranx.com/updates/id/564449/article/rumor-is-double-eleven-hiring-to-bring-gta-6-to-nintendo-switch-2/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Cyberpunk 2077 PS5 Patch 2.5 Notes Revealed, Update Live on Thursday",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-notes-revealed-update-live-on-thursday",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Rumour Beyond Good & Evil 2 Isn't Dead Yet, and It's Being Compared to PS5's Spider-Man Games",
-      "url": "https://www.pushsquare.com/news/2026/10/rumour-beyond-good-and-evil-2-isnt-dead-yet-and-its-being-compared-to-ps5s-spider-man-games",
+      "title": "Hands-on I'm not surprised by how much Yakuza DNA is in Stranger Than Heaven, but I am shocked by how much I love it",
+      "url": "https://www.gamesradar.com/games/action-rpg/im-not-surprised-by-how-much-yakuza-dna-is-in-stranger-than-heaven-but-i-am-shocked-by-how-much-i-love-it/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Hands-on I'm not surprised by how much Yakuza DNA is in Stranger Than Heaven, but I am shocked by how much I love it",
-      "url": "https://www.gamesradar.com/games/action-rpg/im-not-surprised-by-how-much-yakuza-dna-is-in-stranger-than-heaven-but-i-am-shocked-by-how-much-i-love-it/",
+      "title": "Final Fantasy VII Revelation Will Have Hard Mode Available From The Very Start",
+      "url": "https://gameranx.com/updates/id/564443/article/final-fantasy-vii-revelation-will-have-hard-mode-available-from-the-very-start/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

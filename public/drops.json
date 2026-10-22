@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-22T03:15:32+00:00",
+  "generated_utc": "2026-10-22T06:35:58+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "e40385b4e238",
+      "id": "d5082c45b846",
       "pillar": "anime",
-      "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
+      "title": "The Seven Knights of the Marronnier Kingdom Anime Reveals 4 Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041",
-      "thumbnail": "/drops/thumbs/e40385b4e238.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-21/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-4-cast-members/.243088",
+      "thumbnail": "/drops/thumbs/d5082c45b846.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "a4d635b4cb23",
+      "id": "e40385b4e238",
       "pillar": "anime",
-      "title": "Rin Shimokawa's 'Godmother' Manga from Young Magazine US Starts Seralization on November 18",
+      "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-21/rin-shimokawa-godmother-manga-from-young-magazine-us-starts-seralization-on-november-18/.243046",
-      "thumbnail": "/drops/thumbs/a4d635b4cb23.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041",
+      "thumbnail": "/drops/thumbs/e40385b4e238.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,18 +285,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/new-anime-shows-fall-2026-releases/",
       "thumbnail": "/drops/thumbs/48aa1747708e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a409af15e91c",
-      "pillar": "gaming",
-      "title": "News Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november",
-      "thumbnail": "/drops/thumbs/a409af15e91c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +309,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564449/article/rumor-is-double-eleven-hiring-to-bring-gta-6-to-nintendo-switch-2/",
       "thumbnail": "/drops/thumbs/90008bb1495a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "46e88b5909a1",
+      "pillar": "gaming",
+      "title": "News Cyberpunk 2077 PS5 Patch 2.5 Notes Revealed, Update Live on Thursday",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-notes-revealed-update-live-on-thursday",
+      "thumbnail": "/drops/thumbs/46e88b5909a1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "4d41f61b41af",
-      "pillar": "gaming",
-      "title": "Rumour Beyond Good & Evil 2 Isn't Dead Yet, and It's Being Compared to PS5's Spider-Man Games",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/rumour-beyond-good-and-evil-2-isnt-dead-yet-and-its-being-compared-to-ps5s-spider-man-games",
-      "thumbnail": "/drops/thumbs/4d41f61b41af.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8d6bc053d380",
       "pillar": "gaming",
       "title": "Hands-on I'm not surprised by how much Yakuza DNA is in Stranger Than Heaven, but I am shocked by how much I love it",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/action-rpg/im-not-surprised-by-how-much-yakuza-dna-is-in-stranger-than-heaven-but-i-am-shocked-by-how-much-i-love-it/",
       "thumbnail": "/drops/thumbs/8d6bc053d380.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a809c653d124",
+      "pillar": "gaming",
+      "title": "Final Fantasy VII Revelation Will Have Hard Mode Available From The Very Start",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564443/article/final-fantasy-vii-revelation-will-have-hard-mode-available-from-the-very-start/",
+      "thumbnail": "/drops/thumbs/a809c653d124.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "33c497a3b340",
     "4e67fba7ae7e",
     "f093a44da99c",
-    "a409af15e91c"
+    "ddc4875d6d71"
   ]
 }
