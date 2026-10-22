@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-22T15:52:20+00:00",
+  "generated_utc": "2026-10-22T18:56:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,6 +13,13 @@
     {
       "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
+      "url": "https://www.nicekicks.com/apb-air-jordan-11-low-made-for-locals-iu8266-400/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 9 “Charcoal” Returns Fall 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-9-charcoal-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 15 “Cosmic Clay” Releases Fall 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-15-cosmic-clay-multi-color/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Exclusive: Nakama Press Licenses Uoto's 100 Meters , Goku Midnight Eye Manga for Release in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-goku-midnight-eye-manga-for-release-in-2027/.243056",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "7 Years Later, Solo Leveling's New Record-Breaking Sales Numbers Destroy A Big Series Myth",
       "url": "https://screenrant.com/solo-leveling-sales-numbers-japan-myth-debunk/",
       "pillar": "anime",
@@ -144,13 +151,6 @@
       "article_slug": null
     },
     {
-      "title": "Exclusive: Nakama Press Licenses Uoto's 100 Meters Manga for Release in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-manga-for-release-in-2027/.243056",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "The Vermilion Mask brings the clarity of ’90s anime to a modern fantasy epic",
       "url": "https://www.polygon.com/vermilion-mask-anime-director-interview/",
       "pillar": "anime",
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Gyakusatsu Kigen Manga Gets Animated Promotional Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-22/gyakusatsu-kigen-manga-gets-animated-promotional-video/.243087",
+      "title": "Firefly Wedding TV Anime Casts Kazuyuki Okitsu",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-casts-kazuyuki-okitsu/.243113",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,8 +179,22 @@
       "article_slug": null
     },
     {
-      "title": "News PS5 Exclusive Marvel's Wolverine Is Sony's Biggest Launch Since Helldivers 2",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-marvels-wolverine-is-sonys-biggest-launch-since-helldivers-2",
+      "title": "Feature Is Cyberpunk 2077 Patch 2.5 Worth Returning to Night City For?",
+      "url": "https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rumored Mass Effect 5 trailer leaks just hours after apparent EA employee claimed BioWare had one",
+      "url": "https://www.gamesradar.com/games/mass-effect/rumored-mass-effect-5-trailer-leaks-just-hours-after-apparent-ea-employee-claims-bioware-had-a-new-trailer-ready-before-shutdown/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Mass Effect 5 Trailer Allegedly Leaks Following BioWare Closure",
+      "url": "https://www.pushsquare.com/news/2026/10/mass-effect-5-trailer-allegedly-leaks-following-bioware-closure",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,20 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "News Despite BioWare Closure, Mass Effect TV Series Is Reportedly Still in Development",
-      "url": "https://www.pushsquare.com/news/2026/10/despite-bioware-closure-mass-effect-tv-series-is-reportedly-still-in-development",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ex-Resident Evil dev says Code: Veronica had a negative impact on the franchise",
-      "url": "https://www.gamesradar.com/video/q9V7swMM/ex-resident-evil-dev-says-code-veronica-had-a-negative-impact-on-the-franchise/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Bioware Closes After 30 Years, New Mass Effect Game Also Cancelled",
       "url": "https://gameranx.com/updates/id/564458/article/bioware-closes-after-30-years-new-mass-effect-game-also-cancelled/",
       "pillar": "gaming",
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 Adds VRR Requirement For Performance Mode On PS5 and Xbox Series X|S – Including COD Warzone",
-      "url": "https://gameranx.com/updates/id/564455/article/call-of-duty-modern-warfare-4-adds-vrr-requirement-for-performance-mode-on-ps5-and-xbox-series-xs-including-cod-warzone/",
+      "title": "Mass Effect and Dragon Age rights could be sold",
+      "url": "https://www.gamesradar.com/video/nbglD8Ka/mass-effect-and-dragon-age-rights-could-be-sold/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Here Are The Games EA Says It Will Still Make Amid Cancelations And 400 Layoffs: ‘We’re The Number One Publisher In Western HD Gaming’",
-      "url": "https://kotaku.com/here-are-the-games-ea-says-it-will-still-make-amid-cancelations-and-400-layoffs-were-the-number-one-publisher-in-western-hd-gaming-2000748390",
+      "title": "The Case For Exclusivity When Gears Of War: E-Day Cost Over $500 Million To Make",
+      "url": "https://kotaku.com/the-case-for-exclusivity-when-gears-of-war-e-day-cost-over-500-million-to-make-2000747986",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
