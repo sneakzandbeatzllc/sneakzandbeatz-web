@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-22T06:35:58+00:00",
+  "generated_utc": "2026-10-22T09:48:58+00:00",
   "items": [
+    {
+      "id": "eaba90ecfbfc",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “BIN 23” Releases December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-bin-23/",
+      "thumbnail": "/drops/thumbs/eaba90ecfbfc.jpg",
+      "published": "2026-10-22T00:59:25",
+      "relative_time": "today",
+      "score": 5.0,
+      "release_badge": "🔥 Banger"
+    },
     {
       "id": "959632b05ca3",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-9-charcoal-2027/",
       "thumbnail": "/drops/thumbs/ae3dfcd532d0.jpg",
       "published": "2026-10-19T15:58:55",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e99f7cc3f96c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Cosmic Clay” Releases Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-15-cosmic-clay-multi-color/",
-      "thumbnail": "/drops/thumbs/e99f7cc3f96c.jpg",
-      "published": "2026-10-19T15:44:13",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "d5082c45b846",
+      "id": "304ca51827cc",
       "pillar": "anime",
-      "title": "The Seven Knights of the Marronnier Kingdom Anime Reveals 4 Cast Members",
+      "title": "Yukari Takinami's Watashitachi wa Mutsū Renai ga Shitai Manga Gets Live-Action Net Show",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-21/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-4-cast-members/.243088",
-      "thumbnail": "/drops/thumbs/d5082c45b846.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-22/yukari-takinami-watashitachi-wa-mutsu-renai-ga-shitai-manga-gets-live-action-net-show/.243099",
+      "thumbnail": "/drops/thumbs/304ca51827cc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "e40385b4e238",
+      "id": "2c2e51bfc3a1",
       "pillar": "anime",
-      "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
+      "title": "Crunchyroll Streams English Dub for ' The Prince of Tennis: Two Samurais, The First Game ,' The Prince of Tennis: A Gift from Atobe Films",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041",
-      "thumbnail": "/drops/thumbs/e40385b4e238.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-streams-english-dub-for-the-prince-of-tennis-two-samurais-the-first-game-the-prince-of-/.243100",
+      "thumbnail": "/drops/thumbs/2c2e51bfc3a1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -329,7 +329,7 @@
     {
       "id": "a56e60c1470d",
       "pillar": "gaming",
-      "title": "EA cancels new Mass Effect, closes BioWare after being bought by Saudi Arabia 5 Comments",
+      "title": "EA cancels new Mass Effect, closes BioWare after being bought by Saudi Arabia 8 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/rpg/ea-cancels-new-mass-effect-closes-bioware-after-being-bought-by-saudi-arabia/",
       "thumbnail": "/drops/thumbs/a56e60c1470d.jpg",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "a809c653d124",
+      "id": "dacee64e4ff2",
       "pillar": "gaming",
-      "title": "Final Fantasy VII Revelation Will Have Hard Mode Available From The Very Start",
+      "title": "Bioware Closes After 30 Years, New Mass Effect Game Also Cancelled",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564443/article/final-fantasy-vii-revelation-will-have-hard-mode-available-from-the-very-start/",
-      "thumbnail": "/drops/thumbs/a809c653d124.jpg",
+      "source_url": "https://gameranx.com/updates/id/564458/article/bioware-closes-after-30-years-new-mass-effect-game-also-cancelled/",
+      "thumbnail": "/drops/thumbs/dacee64e4ff2.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "959632b05ca3",
+    "eaba90ecfbfc",
     "6bce4e2338d9",
-    "33c497a3b340",
+    "959632b05ca3",
     "4e67fba7ae7e",
-    "f093a44da99c",
+    "33c497a3b340",
     "ddc4875d6d71"
   ]
 }

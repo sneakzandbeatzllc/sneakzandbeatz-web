@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-22T06:35:58+00:00",
+  "generated_utc": "2026-10-22T09:48:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 4 “BIN 23” Releases December 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-bin-23/",
+      "pillar": "sneakers",
+      "score": 5.0,
+      "article_slug": null
+    },
     {
       "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 9 “Charcoal” Returns Fall 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-9-charcoal-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 15 “Cosmic Clay” Releases Fall 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-15-cosmic-clay-multi-color/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "The Seven Knights of the Marronnier Kingdom Anime Reveals 4 Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-21/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-4-cast-members/.243088",
+      "title": "Yukari Takinami's Watashitachi wa Mutsū Renai ga Shitai Manga Gets Live-Action Net Show",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-22/yukari-takinami-watashitachi-wa-mutsu-renai-ga-shitai-manga-gets-live-action-net-show/.243099",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041",
+      "title": "Crunchyroll Streams English Dub for ' The Prince of Tennis: Two Samurais, The First Game ,' The Prince of Tennis: A Gift from Atobe Films",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-streams-english-dub-for-the-prince-of-tennis-two-samurais-the-first-game-the-prince-of-/.243100",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,7 +193,7 @@
       "article_slug": null
     },
     {
-      "title": "EA cancels new Mass Effect, closes BioWare after being bought by Saudi Arabia 5 Comments",
+      "title": "EA cancels new Mass Effect, closes BioWare after being bought by Saudi Arabia 8 Comments",
       "url": "https://www.gamesradar.com/games/rpg/ea-cancels-new-mass-effect-closes-bioware-after-being-bought-by-saudi-arabia/",
       "pillar": "gaming",
       "score": 1.0,
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Final Fantasy VII Revelation Will Have Hard Mode Available From The Very Start",
-      "url": "https://gameranx.com/updates/id/564443/article/final-fantasy-vii-revelation-will-have-hard-mode-available-from-the-very-start/",
+      "title": "Bioware Closes After 30 Years, New Mass Effect Game Also Cancelled",
+      "url": "https://gameranx.com/updates/id/564458/article/bioware-closes-after-30-years-new-mass-effect-game-also-cancelled/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
