@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-23T07:15:35+00:00",
+  "generated_utc": "2026-10-23T10:16:53+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "2045cf73fa5c",
+      "pillar": "anime",
+      "title": "5 Solo Leveling characters who deserved so much better",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/5-solo-leveling-characters-who-deserved-better-storylines/",
+      "thumbnail": "/drops/thumbs/2045cf73fa5c.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3b42bcecd24f",
       "pillar": "anime",
       "title": "7 Years Later, Solo Leveling's New Record-Breaking Sales Numbers Destroy A Big Series Myth",
@@ -243,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "750ff356feaf",
+      "pillar": "anime",
+      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
+      "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7ae9a8a4312c",
       "pillar": "anime",
       "title": "Black Clover Season 2, Episode 4 Release Date & Time",
@@ -255,48 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "8bb438f02df8",
+      "id": "6fe84fe28c1a",
       "pillar": "anime",
-      "title": "Devilman Crybaby is a devastating horror story about the tragedy of being human",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/devilman-crybaby-horror-anime-halloween-countdown/",
-      "thumbnail": "/drops/thumbs/8bb438f02df8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6471e0aa4f0e",
-      "pillar": "anime",
-      "title": "Made in Abyss: Mezameru Shinpi Anime Film Reveals 4 Cast Members",
+      "title": "Shōya Ishige Joins Cast of Wound & Bandage TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/made-in-abyss-mezameru-shinpi-anime-film-reveals-4-cast-members/.243122",
-      "thumbnail": "/drops/thumbs/6471e0aa4f0e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7f8b8edbef07",
-      "pillar": "anime",
-      "title": "Cowboy Bebop's most terrifying villain is still pure nightmare fuel",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/cowboy-bebop-scariest-darkest-episode-pierrot-le-fou/",
-      "thumbnail": "/drops/thumbs/7f8b8edbef07.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ddc4875d6d71",
-      "pillar": "gaming",
-      "title": "GTA 6 Has A Miami Beach Marketing Deal Worth Nearly $ 5 Million – And It Might Not Push Through",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564453/article/gta-6-has-a-miami-beach-marketing-deal-worth-nearly-5-million-and-it-might-not-push-through/",
-      "thumbnail": "/drops/thumbs/ddc4875d6d71.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/shoya-ishige-joins-cast-of-wound-and-bandage-tv-anime/.243137",
+      "thumbnail": "/drops/thumbs/6fe84fe28c1a.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +309,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/mass-effect/rumored-mass-effect-5-trailer-leaks-just-hours-after-apparent-ea-employee-claims-bioware-had-a-new-trailer-ready-before-shutdown/",
       "thumbnail": "/drops/thumbs/27bd66d736a8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ce2361820882",
+      "pillar": "gaming",
+      "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
+      "thumbnail": "/drops/thumbs/ce2361820882.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "959632b05ca3",
     "4e67fba7ae7e",
     "3d1d651a54cf",
-    "ddc4875d6d71"
+    "79e01d2a388b"
   ]
 }
