@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-23T13:19:07+00:00",
+  "generated_utc": "2026-10-23T16:23:15+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -87,15 +87,39 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "5623a8b2a2b3",
+      "id": "33c84dc90133",
       "pillar": "sneakers",
-      "title": "Air Jordan 10 “Knicks” Returns Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
-      "thumbnail": "/drops/thumbs/5623a8b2a2b3.jpg",
-      "published": "2026-10-19T16:14:40",
+      "title": "Air Jordan 17 Low “Black Pack” Releases November 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-17-low-black-pack/",
+      "thumbnail": "/drops/thumbs/33c84dc90133.webp",
+      "published": "",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "5c594e58d15b",
+      "pillar": "hiphop",
+      "title": "Monaleo Rallies Fans to Vote in Texas Midterm Election",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/23/monaleo-james-talarico-texas-state-representative-election/",
+      "thumbnail": "/drops/thumbs/5c594e58d15b.jpg",
+      "published": "2026-10-23T09:55:29",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a1f3ce2d34ed",
+      "pillar": "hiphop",
+      "title": "Yung Miami Opens Up About JT on New Track Dear JT",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/23/yung-miami-dear-jt-watch-dis-album/",
+      "thumbnail": "/drops/thumbs/a1f3ce2d34ed.jpg",
+      "published": "2026-10-23T09:44:53",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "36790cf18167",
-      "pillar": "hiphop",
-      "title": "NBA Season Opener Makes History as 76ers-Knicks Showdown Draws Record 7.71M Viewers",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/22/nba-season-opener-makes-history-as-76ers-knicks-showdown-draws-record-7-71m-viewers/",
-      "thumbnail": "/drops/thumbs/36790cf18167.jpg",
-      "published": "2026-10-22T18:51:40",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "73f5fdf1cedb",
-      "pillar": "hiphop",
-      "title": "Democrats Gain Momentum in 2026 Midterms as Forecasts Signal Potential Shift in Congress",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/22/democrats-gain-momentum-in-2026-midterms-as-forecasts-signal-potential-shift-in-congress/",
-      "thumbnail": "/drops/thumbs/73f5fdf1cedb.jpg",
-      "published": "2026-10-22T18:45:29",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "4e67fba7ae7e",
       "pillar": "anime",
       "title": "3 Years After The Series' End, Attack On Titan Returns For One Last Deluxe Release",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "3b42bcecd24f",
-      "pillar": "anime",
-      "title": "7 Years Later, Solo Leveling's New Record-Breaking Sales Numbers Destroy A Big Series Myth",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-sales-numbers-japan-myth-debunk/",
-      "thumbnail": "/drops/thumbs/3b42bcecd24f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "750ff356feaf",
       "pillar": "anime",
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
@@ -279,36 +267,36 @@
       "release_badge": ""
     },
     {
-      "id": "e18bf6d24c8e",
+      "id": "4b1539e59023",
       "pillar": "anime",
-      "title": "Though I am an Inept Villainess Anime's 2nd Part Streams Teaser Video",
+      "title": "Korean-Animated Film Your Letter Begins Streaming on Crunchyroll",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/though-i-am-an-inept-villainess-anime-2nd-part-streams-teaser-video/.243140",
-      "thumbnail": "/drops/thumbs/e18bf6d24c8e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/korean-animated-film-your-letter-begins-streaming-on-crunchyroll/.243127",
+      "thumbnail": "/drops/thumbs/4b1539e59023.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "79e01d2a388b",
+      "id": "b45f2cd2d773",
+      "pillar": "anime",
+      "title": "Kazumi Yamashita's Twisted Sisters Manga Ends With 11th Volume",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/kazumi-yamashita-twisted-sisters-manga-ends-with-11th-volume/.243120",
+      "thumbnail": "/drops/thumbs/b45f2cd2d773.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "e78e093149d1",
       "pillar": "gaming",
-      "title": "News Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
+      "title": "Poll Are You Taking Time Off for GTA 6?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
-      "thumbnail": "/drops/thumbs/79e01d2a388b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "27bd66d736a8",
-      "pillar": "gaming",
-      "title": "Rumored Mass Effect 5 trailer leaks just hours after apparent EA employee claimed BioWare had one",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/mass-effect/rumored-mass-effect-5-trailer-leaks-just-hours-after-apparent-ea-employee-claims-bioware-had-a-new-trailer-ready-before-shutdown/",
-      "thumbnail": "/drops/thumbs/27bd66d736a8.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
+      "thumbnail": "/drops/thumbs/e78e093149d1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,30 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "0f07cc318be7",
-      "pillar": "gaming",
-      "title": "News Cyberpunk 2077 PS5 Update 2.5 Live Now, Get the Patch Notes Here",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-update-2-5-live-now-get-the-patch-notes-here",
-      "thumbnail": "/drops/thumbs/0f07cc318be7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "de66006e9085",
-      "pillar": "gaming",
-      "title": "EA killing BioWare could lead to Mass Effect and Dragon Age rights being sold, ex-studio lead says",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/dragon-age/ea-killing-bioware-could-lead-to-mass-effect-and-dragon-age-rights-being-sold-former-lead-says-but-they-could-just-as-easily-bury-them-in-the-vault/",
-      "thumbnail": "/drops/thumbs/de66006e9085.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "dacee64e4ff2",
       "pillar": "gaming",
       "title": "Bioware Closes After 30 Years, New Mass Effect Game Also Cancelled",
@@ -375,12 +339,48 @@
       "release_badge": ""
     },
     {
-      "id": "bd1ad0cf0982",
+      "id": "03e7bb91cfec",
       "pillar": "gaming",
-      "title": "Feature Is Cyberpunk 2077 Patch 2.5 Worth Returning to Night City For?",
+      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+      "thumbnail": "/drops/thumbs/03e7bb91cfec.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d52685e2038a",
+      "pillar": "gaming",
+      "title": "News Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for",
-      "thumbnail": "/drops/thumbs/bd1ad0cf0982.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
+      "thumbnail": "/drops/thumbs/d52685e2038a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ff233a584f05",
+      "pillar": "gaming",
+      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
+      "thumbnail": "/drops/thumbs/ff233a584f05.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "cf3aca85e189",
+      "pillar": "gaming",
+      "title": "Amazon Prime’s Carrie Has Flaws, But Makes Wonderful Additions To Stephen King’s Original",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/carrie-amazon-prime-review-mike-flanagan-stephen-king-tv-series-2000749086",
+      "thumbnail": "/drops/thumbs/cf3aca85e189.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "eaba90ecfbfc",
-    "85180c271463",
+    "5c594e58d15b",
     "959632b05ca3",
     "4e67fba7ae7e",
     "3d1d651a54cf",
-    "79e01d2a388b"
+    "e78e093149d1"
   ]
 }
