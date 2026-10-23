@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-23T16:25:33+00:00",
+  "generated_utc": "2026-10-23T19:31:11+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Mathematics & Wu-Tang Clan Release New Single “Knowledge My Wisdom” Feat. Inspectah Deck, Masta Killa, Planet Asia and Popa Wu",
+      "url": "https://thesource.com/2026/10/23/mathematics-wu-tang-clan-release-new-single-knowledge-my-wisdom-feat-inspectah-deck-masta-killa-planet-asia-and-popa-wu/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Monaleo Rallies Fans to Vote in Texas Midterm Election",
       "url": "https://thesource.com/2026/10/23/monaleo-james-talarico-texas-state-representative-election/",
       "pillar": "hiphop",
@@ -109,29 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "What’s the Dirt Dissects and Questions the Alleged ‘Janice STFU’ Reference Track in Plaintiff’s Complaint",
-      "url": "https://thesource.com/2026/10/22/youtuber-whats-the-dirt-dissects-janice-stfu-alleged-reference-track-suggesting-flaws-in-plaintiffs-complaint/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "3 Years After The Series' End, Attack On Titan Returns For One Last Deluxe Release",
-      "url": "https://screenrant.com/attack-on-titan-last-attack-blu-ray-steelbook/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball's New Anime Declares Daima Non-Canon With One Devastating Update",
       "url": "https://screenrant.com/dragon-ball-daima-non-canon-update-super-beerus/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dragon Ball Super: Beerus Episode 3 Release Date & Time",
-      "url": "https://screenrant.com/dragon-ball-super-beerus-episode-3-release-date-time/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,8 +137,8 @@
       "article_slug": null
     },
     {
-      "title": "Black Clover Season 2, Episode 4 Release Date & Time",
-      "url": "https://screenrant.com/black-clover-season-2-episode-4-release-date-time/",
+      "title": "Horror Collector Anime Reveals English Dub Cast, October 24 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +151,22 @@
       "article_slug": null
     },
     {
+      "title": "2 Years Later, Netflix's Best Fantasy Series Returns With First Look At Season 2",
+      "url": "https://screenrant.com/delicious-in-dungeon-season-2-first-look-characters-netflix-fantasy/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Kazumi Yamashita's Twisted Sisters Manga Ends With 11th Volume",
       "url": "https://www.animenewsnetwork.com/news/2026-10-23/kazumi-yamashita-twisted-sisters-manga-ends-with-11th-volume/.243120",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hello Kitty's Official Crocs Halloween Collaboration Is Here, Rare Jibbitz Explained",
+      "url": "https://screenrant.com/hello-kitty-official-crocs-rare-mystery-jibbitz/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,6 +179,13 @@
       "article_slug": null
     },
     {
+      "title": "Mass Effect 5 was BioWare's response to Baldur's Gate 3 and Cyberpunk 2077 devs",
+      "url": "https://www.gamesradar.com/video/5Zf6GlbW/mass-effect-5-was-bioware-039-s-response-to-baldur-039-s-gate-3-and-cyberpunk-2077-devs/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
       "url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
       "pillar": "gaming",
@@ -186,8 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "A Convincing Trailer For What May Have Been Mass Effect 5 Has Leaked [UPDATE: It’s Real]",
-      "url": "https://kotaku.com/mass-effect-5-universe-leaked-trailer-liara-bioware-2000748858",
+      "title": "A Canadian Politician Says BioWare Devs Should Be Given Government Funding To Buy The Studio And Get Back To Making Mass Effect",
+      "url": "https://kotaku.com/a-canadian-politician-says-bioware-devs-should-be-given-government-funding-to-buy-the-studio-and-get-back-to-making-mass-effect-2000749088",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News 'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure",
+      "url": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -209,20 +223,6 @@
     {
       "title": "News Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
       "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
-      "url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Amazon Prime’s Carrie Has Flaws, But Makes Wonderful Additions To Stephen King’s Original",
-      "url": "https://kotaku.com/carrie-amazon-prime-review-mike-flanagan-stephen-king-tv-series-2000749086",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
