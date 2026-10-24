@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-24T04:48:49+00:00",
+  "generated_utc": "2026-10-24T07:50:48+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "8a56e9bd32f2",
+      "pillar": "anime",
+      "title": "Kaiju No. 8 Anime's 'Conclusion Arc' Revealed as Film Opening in 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-24/kaiju-no-8-anime-conclusion-arc-revealed-as-film-opening-in-2027/.243156",
+      "thumbnail": "/drops/thumbs/8a56e9bd32f2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "750ff356feaf",
       "pillar": "anime",
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
@@ -243,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "74ca2c292abd",
-      "pillar": "anime",
-      "title": "Horror Collector Anime Reveals English Dub Cast, October 24 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149",
-      "thumbnail": "/drops/thumbs/74ca2c292abd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "25480280b56a",
       "pillar": "anime",
       "title": "After 5 Years, A Near-Perfect Crunchyroll Isekai Returns For Season 2 This January",
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "4b1539e59023",
+      "id": "74ca2c292abd",
       "pillar": "anime",
-      "title": "Korean-Animated Film Your Letter Begins Streaming on Crunchyroll",
+      "title": "Horror Collector Anime Reveals English Dub Cast, October 24 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/korean-animated-film-your-letter-begins-streaming-on-crunchyroll/.243127",
-      "thumbnail": "/drops/thumbs/4b1539e59023.webp",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149",
+      "thumbnail": "/drops/thumbs/74ca2c292abd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "1d74523c06d4",
+      "id": "79e01d2a388b",
       "pillar": "gaming",
-      "title": "News 'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure",
+      "title": "News Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
-      "thumbnail": "/drops/thumbs/1d74523c06d4.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
+      "thumbnail": "/drops/thumbs/79e01d2a388b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "03e7bb91cfec",
+      "id": "1d74523c06d4",
       "pillar": "gaming",
-      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-      "thumbnail": "/drops/thumbs/03e7bb91cfec.jpg",
+      "title": "News 'What a Loss for All of Us': Boss of Baldur's Gate 3 Maker Reacts to BioWare Closure",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure",
+      "thumbnail": "/drops/thumbs/1d74523c06d4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "33ba19222d8e",
+      "id": "03e7bb91cfec",
       "pillar": "gaming",
-      "title": "The Normandy SR-2 Is Now A Haunted House, But It Will Always Be My Home",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/mass-effect-5-bioware-closure-universe-legendary-edition-2000749192",
-      "thumbnail": "/drops/thumbs/33ba19222d8e.jpg",
+      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+      "thumbnail": "/drops/thumbs/03e7bb91cfec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
