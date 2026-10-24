@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-24T01:37:14+00:00",
+  "generated_utc": "2026-10-24T04:48:49+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "17b20bd79191",
+      "pillar": "anime",
+      "title": "36 Years Later, Dragon Ball's New Anime Retconned The Series' First Super Saiyan Out Of Existence",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-retcons-yamoshi-first-super-saiyan/",
+      "thumbnail": "/drops/thumbs/17b20bd79191.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2045cf73fa5c",
       "pillar": "anime",
       "title": "5 Solo Leveling characters who deserved so much better",
@@ -231,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "7457949779bb",
-      "pillar": "anime",
-      "title": "Cyberpunk: Edgerunners 2 Ending And How The Series Connects To Season 1 Explained",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/cyberpunk-edgerunners-2-ending-explained/",
-      "thumbnail": "/drops/thumbs/7457949779bb.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "74ca2c292abd",
       "pillar": "anime",
       "title": "Horror Collector Anime Reveals English Dub Cast, October 24 Debut",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "a9ca58663b3a",
+      "id": "25480280b56a",
       "pillar": "anime",
-      "title": "Se7en Meets Zodiac in Netflix’s 74-Episode Psychological Thriller That’ll Keep You Hooked",
+      "title": "After 5 Years, A Near-Perfect Crunchyroll Isekai Returns For Season 2 This January",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/monster-se7en-meets-zodiac-netflix/",
-      "thumbnail": "/drops/thumbs/a9ca58663b3a.jpg",
+      "source_url": "https://screenrant.com/crunchyroll-near-perfect-isekai-worlds-finest-assassin-season-2/",
+      "thumbnail": "/drops/thumbs/25480280b56a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "9915318b5a3d",
+      "id": "f7ea0e6ce86b",
       "pillar": "anime",
-      "title": "2 Years Later, Netflix's Best Fantasy Series Returns With First Look At Season 2",
+      "title": "10 Best Harem Anime That Prove Anime's Most Hated Genre Is Amazing",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/delicious-in-dungeon-season-2-first-look-characters-netflix-fantasy/",
-      "thumbnail": "/drops/thumbs/9915318b5a3d.jpg",
+      "source_url": "https://screenrant.com/best-harem-anime-all-time-ranked/",
+      "thumbnail": "/drops/thumbs/f7ea0e6ce86b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "eaba90ecfbfc",
     "9f6a3d5d73f9",
     "959632b05ca3",
-    "2045cf73fa5c",
+    "17b20bd79191",
     "3d1d651a54cf",
     "e78e093149d1"
   ]
