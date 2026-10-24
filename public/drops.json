@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-24T18:17:14+00:00",
+  "generated_utc": "2026-10-24T21:35:56+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -63,6 +63,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "973460d39f02",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Mid “Knicks” Releases November 1 for $150",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-mid-knicks-ix8481-406/",
+      "thumbnail": "/drops/thumbs/973460d39f02.jpg",
+      "published": "2026-10-24T15:26:09",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
       "id": "98769cb0581b",
       "pillar": "sneakers",
       "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-golf-spiked-space-jam/",
       "thumbnail": "/drops/thumbs/f093a44da99c.jpg",
       "published": "2026-10-18T02:48:32",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "6ed11018e063",
-      "pillar": "sneakers",
-      "title": "Air Jordan 11 “Magic Ball” Releases November 11th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-11-wmns-space-jam-2026/",
-      "thumbnail": "/drops/thumbs/6ed11018e063.webp",
-      "published": "",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "17b20bd79191",
-      "pillar": "anime",
-      "title": "36 Years Later, Dragon Ball's New Anime Retconned The Series' First Super Saiyan Out Of Existence",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-beerus-retcons-yamoshi-first-super-saiyan/",
-      "thumbnail": "/drops/thumbs/17b20bd79191.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2045cf73fa5c",
       "pillar": "anime",
       "title": "5 Solo Leveling characters who deserved so much better",
@@ -231,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "750ff356feaf",
-      "pillar": "anime",
-      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
-      "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9844ea603356",
       "pillar": "anime",
       "title": "Bleach: Thousand-Year Blood War Final Episode Release Date & Time",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/bleach-thousand-year-blood-war-finale-release-date-time/",
       "thumbnail": "/drops/thumbs/9844ea603356.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "750ff356feaf",
+      "pillar": "anime",
+      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
+      "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,24 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "e78e093149d1",
-      "pillar": "gaming",
-      "title": "Poll Are You Taking Time Off for GTA 6?",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
-      "thumbnail": "/drops/thumbs/e78e093149d1.jpg",
+      "id": "4f3c068d2f45",
+      "pillar": "anime",
+      "title": "Netflix's 22-Episode Assassin Masterpiece Is The Perfect John Wick Replacement",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/sakamoto-days-netflix-perfect-john-wick-replacement/",
+      "thumbnail": "/drops/thumbs/4f3c068d2f45.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "026f9713448a",
+      "id": "e78e093149d1",
       "pillar": "gaming",
-      "title": "BioWare veteran defends Dragon Age: The Veilguard's dev team",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/video/rb7kCkCT/bioware-veteran-defends-dragon-age-the-veilguard-039-s-dev-team/",
-      "thumbnail": "/drops/thumbs/026f9713448a.jpg",
+      "title": "Poll Are You Taking Time Off for GTA 6?",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
+      "thumbnail": "/drops/thumbs/e78e093149d1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,13 +373,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "ff233a584f05",
+      "pillar": "gaming",
+      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
+      "thumbnail": "/drops/thumbs/ff233a584f05.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "eaba90ecfbfc",
     "87210d0fbd7d",
     "959632b05ca3",
-    "17b20bd79191",
+    "2045cf73fa5c",
     "05aa2656ba65",
     "e78e093149d1"
   ]
