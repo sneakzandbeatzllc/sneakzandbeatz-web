@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-24T11:20:45+00:00",
+  "generated_utc": "2026-10-24T14:21:42+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -17,11 +17,23 @@
     {
       "id": "959632b05ca3",
       "pillar": "sneakers",
-      "title": "Air Jordan 12 “Fireside” October 2026 Release Date & Info",
+      "title": "The Air Jordan 12 “Fireside” Releases Today",
       "source": "NiceKicks",
       "source_url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
       "thumbnail": "/drops/thumbs/959632b05ca3.jpg",
-      "published": "2026-10-21T10:50:00",
+      "published": "2026-10-24T09:53:04",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Week"
+    },
+    {
+      "id": "05aa2656ba65",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 WMNS “Fireside” October 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
+      "thumbnail": "/drops/thumbs/05aa2656ba65.jpg",
+      "published": "2026-10-23T15:57:06",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -81,18 +93,6 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-11-wmns-space-jam-2026/",
       "thumbnail": "/drops/thumbs/6ed11018e063.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "33c84dc90133",
-      "pillar": "sneakers",
-      "title": "Air Jordan 17 Low “Black Pack” Releases November 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-17-low-black-pack/",
-      "thumbnail": "/drops/thumbs/33c84dc90133.webp",
       "published": "",
       "relative_time": "today",
       "score": 2.4,
@@ -243,6 +243,30 @@
       "release_badge": ""
     },
     {
+      "id": "9844ea603356",
+      "pillar": "anime",
+      "title": "Bleach: Thousand-Year Blood War Final Episode Release Date & Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/bleach-thousand-year-blood-war-finale-release-date-time/",
+      "thumbnail": "/drops/thumbs/9844ea603356.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5ff6886f10b7",
+      "pillar": "anime",
+      "title": "One Piece Just Confirmed Sanji's Power-Up Path That Even Zoro Couldn't Follow",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-sanji-powerup-haki-zoro-no-damage/",
+      "thumbnail": "/drops/thumbs/5ff6886f10b7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5db5afaabbb0",
       "pillar": "anime",
       "title": "North American Anime, Manga Releases, October 18-24",
@@ -255,36 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "25480280b56a",
-      "pillar": "anime",
-      "title": "After 5 Years, A Near-Perfect Crunchyroll Isekai Returns For Season 2 This January",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/crunchyroll-near-perfect-isekai-worlds-finest-assassin-season-2/",
-      "thumbnail": "/drops/thumbs/25480280b56a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "74ca2c292abd",
       "pillar": "anime",
       "title": "Horror Collector Anime Reveals English Dub Cast, October 24 Debut",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149",
       "thumbnail": "/drops/thumbs/74ca2c292abd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f7ea0e6ce86b",
-      "pillar": "anime",
-      "title": "10 Best Harem Anime That Prove Anime's Most Hated Genre Is Amazing",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/best-harem-anime-all-time-ranked/",
-      "thumbnail": "/drops/thumbs/f7ea0e6ce86b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -392,7 +392,7 @@
     "9f6a3d5d73f9",
     "959632b05ca3",
     "17b20bd79191",
-    "3d1d651a54cf",
+    "05aa2656ba65",
     "e78e093149d1"
   ]
 }
