@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-24T21:35:56+00:00",
+  "generated_utc": "2026-10-25T00:47:41+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -99,6 +99,54 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "5370795cae21",
+      "pillar": "hiphop",
+      "title": "Texas Southern University Students March for Talarico as Black Voter Support Surges in Texas",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/24/texas-southern-university-students-march-for-talarico-as-black-voter-support-surges-in-texas/",
+      "thumbnail": "/drops/thumbs/5370795cae21.jpg",
+      "published": "2026-10-24T19:02:47",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1a0b82206a2a",
+      "pillar": "hiphop",
+      "title": "Obama Rallies Democrats in Ohio Taking Jabs at Trump’s Absurd Vanity Projects Over Governing",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/24/obama-rallies-democrats-in-ohio-taking-jabs-at-trumps-absurd-vanity-projects-over-governing/",
+      "thumbnail": "/drops/thumbs/1a0b82206a2a.jpg",
+      "published": "2026-10-24T18:42:52",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "883688b19ee5",
+      "pillar": "hiphop",
+      "title": "Malik Beasley Reportedly Nearing Guilty Plea in Betting Scandal",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/24/malik-beasley-reportedly-nearing-guilty-plea-in-betting-scandal/",
+      "thumbnail": "/drops/thumbs/883688b19ee5.jpg",
+      "published": "2026-10-24T18:38:10",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d9ae4d5213ba",
+      "pillar": "hiphop",
+      "title": "GTA 6 Takes Realism to New Heights as Highway Signs Warn Drivers Not to Drink and Drive",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/24/gta-6-takes-realism-to-new-heights-as-highway-signs-warn-drivers-not-to-drink-and-drive/",
+      "thumbnail": "/drops/thumbs/d9ae4d5213ba.jpg",
+      "published": "2026-10-24T18:33:09",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "87210d0fbd7d",
       "pillar": "hiphop",
       "title": "Jay-Z Kicks Off Two-Night Los Angeles Run With Sold-Out SoFi Stadium Show",
@@ -147,49 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "9f6a3d5d73f9",
-      "pillar": "hiphop",
-      "title": "How a New Approach to Kids’ First Phones is Balancing Freedom and Peace of Mind",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/23/how-a-new-approach-to-kids-first-phones-is-balancing-freedom-and-peace-of-mind/",
-      "thumbnail": "/drops/thumbs/9f6a3d5d73f9.jpg",
-      "published": "2026-10-23T20:47:30",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3d96c868fdd8",
-      "pillar": "hiphop",
-      "title": "NFL Week 7 Brings Chiefs-Seahawks Showdown, Fierce Division Rivalries and QB Drama",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/23/nfl-week-7-brings-chiefs-seahawks-showdown-fierce-division-rivalries-and-qb-drama/",
-      "thumbnail": "/drops/thumbs/3d96c868fdd8.jpg",
-      "published": "2026-10-23T18:20:41",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "98fde827a01f",
-      "pillar": "hiphop",
-      "title": "Marco Rubio Reportedly Urges Cubans to Work With CIA as Threats Against Havana Continue",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/23/marco-rubio-reportedly-urges-cubans-to-work-with-cia-as-threats-against-havana-continue/",
-      "thumbnail": "/drops/thumbs/98fde827a01f.jpg",
-      "published": "2026-10-23T18:08:56",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e51141404d4a",
-      "pillar": "hiphop",
-      "title": "Wrestling Icon Ric Flair Rushed to Hospital After Collapsing Hours After Revealing Blood Clot",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/23/wrestling-icon-ric-flair-rushed-to-hospital-after-collapsing-hours-after-revealing-blood-clot/",
-      "thumbnail": "/drops/thumbs/e51141404d4a.jpg",
-      "published": "2026-10-23T17:58:48",
+      "id": "5c4277b30700",
+      "pillar": "anime",
+      "title": "Dragon Ball's New Anime Fixes The Mistake That Almost Destroyed The Franchise",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-fixes-mistake-destroy-franchise/",
+      "thumbnail": "/drops/thumbs/5c4277b30700.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -219,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "9844ea603356",
-      "pillar": "anime",
-      "title": "Bleach: Thousand-Year Blood War Final Episode Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/bleach-thousand-year-blood-war-finale-release-date-time/",
-      "thumbnail": "/drops/thumbs/9844ea603356.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "750ff356feaf",
       "pillar": "anime",
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
       "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9844ea603356",
+      "pillar": "anime",
+      "title": "Bleach: Thousand-Year Blood War Final Episode Release Date & Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/bleach-thousand-year-blood-war-finale-release-date-time/",
+      "thumbnail": "/drops/thumbs/9844ea603356.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -273,18 +285,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149",
       "thumbnail": "/drops/thumbs/74ca2c292abd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4f3c068d2f45",
-      "pillar": "anime",
-      "title": "Netflix's 22-Episode Assassin Masterpiece Is The Perfect John Wick Replacement",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/sakamoto-days-netflix-perfect-john-wick-replacement/",
-      "thumbnail": "/drops/thumbs/4f3c068d2f45.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "eaba90ecfbfc",
-    "87210d0fbd7d",
+    "5370795cae21",
     "959632b05ca3",
-    "2045cf73fa5c",
+    "5c4277b30700",
     "05aa2656ba65",
     "e78e093149d1"
   ]
