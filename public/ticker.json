@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-25T16:18:05+00:00",
+  "generated_utc": "2026-10-25T19:19:19+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,13 +172,6 @@
       "article_slug": null
     },
     {
-      "title": "Poll Are You Taking Time Off for GTA 6?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
       "url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
       "pillar": "gaming",
@@ -200,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
-      "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
       "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
       "pillar": "gaming",
@@ -214,8 +200,22 @@
       "article_slug": null
     },
     {
+      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
+      "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Battlefield 6 , One Year Later",
       "url": "https://kotaku.com/battlefield-6-one-year-later-2000749095",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
+      "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

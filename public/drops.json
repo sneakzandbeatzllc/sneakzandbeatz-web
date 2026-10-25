@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-25T16:18:05+00:00",
+  "generated_utc": "2026-10-25T19:19:19+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -291,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "e78e093149d1",
-      "pillar": "gaming",
-      "title": "Poll Are You Taking Time Off for GTA 6?",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
-      "thumbnail": "/drops/thumbs/e78e093149d1.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ce2361820882",
       "pillar": "gaming",
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
@@ -339,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "03e7bb91cfec",
-      "pillar": "gaming",
-      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-      "thumbnail": "/drops/thumbs/03e7bb91cfec.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d52685e2038a",
       "pillar": "gaming",
       "title": "News Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
@@ -363,12 +339,36 @@
       "release_badge": ""
     },
     {
+      "id": "03e7bb91cfec",
+      "pillar": "gaming",
+      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+      "thumbnail": "/drops/thumbs/03e7bb91cfec.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7bf96d7e5d81",
       "pillar": "gaming",
       "title": "Battlefield 6 , One Year Later",
       "source": "Kotaku",
       "source_url": "https://kotaku.com/battlefield-6-one-year-later-2000749095",
       "thumbnail": "/drops/thumbs/7bf96d7e5d81.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f12ad8db2163",
+      "pillar": "gaming",
+      "title": "News Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
+      "thumbnail": "/drops/thumbs/f12ad8db2163.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "959632b05ca3",
     "5c4277b30700",
     "05aa2656ba65",
-    "e78e093149d1"
+    "ce2361820882"
   ]
 }
