@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-25T19:19:19+00:00",
+  "generated_utc": "2026-10-25T22:21:12+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "7d94038e61ee",
+      "id": "25e1d32a6f27",
       "pillar": "anime",
-      "title": "This Free Anime Streaming Service Is Growing Monthly To Challenge Netflix & Crunchyroll's Throne",
+      "title": "5 Must-Watch Netflix Anime That Put Most Mainstream Series To Shame",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/anime-k-drama-streaming-free-amasian-tv/",
-      "thumbnail": "/drops/thumbs/7d94038e61ee.jpg",
+      "source_url": "https://screenrant.com/must-watch-anime-modern-series-shame/",
+      "thumbnail": "/drops/thumbs/25e1d32a6f27.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "eef2fbb4ab1d",
+      "id": "7d94038e61ee",
       "pillar": "anime",
-      "title": "Studio Ghibli's Totoro Returns With Limited Kitchenware Set That's An Instant Must-Buy",
+      "title": "This Free Anime Streaming Service Is Growing Monthly To Challenge Netflix & Crunchyroll's Throne",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/my-neighbor-totoro-new-kitchenware-set-ghibli/",
-      "thumbnail": "/drops/thumbs/eef2fbb4ab1d.png",
+      "source_url": "https://screenrant.com/anime-k-drama-streaming-free-amasian-tv/",
+      "thumbnail": "/drops/thumbs/7d94038e61ee.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a039a3b7bb6d",
+      "pillar": "gaming",
+      "title": "The reason cats hate Geralt in The Witcher 3",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/video/iywQKIEx/the-reason-cats-hate-geralt-in-the-witcher-3/",
+      "thumbnail": "/drops/thumbs/a039a3b7bb6d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "ff233a584f05",
-      "pillar": "gaming",
-      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
-      "thumbnail": "/drops/thumbs/ff233a584f05.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "959632b05ca3",
     "5c4277b30700",
     "05aa2656ba65",
-    "ce2361820882"
+    "a039a3b7bb6d"
   ]
 }

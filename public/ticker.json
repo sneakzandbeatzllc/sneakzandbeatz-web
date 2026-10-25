@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-25T19:19:19+00:00",
+  "generated_utc": "2026-10-25T22:21:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,8 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "This Free Anime Streaming Service Is Growing Monthly To Challenge Netflix & Crunchyroll's Throne",
-      "url": "https://screenrant.com/anime-k-drama-streaming-free-amasian-tv/",
+      "title": "5 Must-Watch Netflix Anime That Put Most Mainstream Series To Shame",
+      "url": "https://screenrant.com/must-watch-anime-modern-series-shame/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,9 +165,16 @@
       "article_slug": null
     },
     {
-      "title": "Studio Ghibli's Totoro Returns With Limited Kitchenware Set That's An Instant Must-Buy",
-      "url": "https://screenrant.com/my-neighbor-totoro-new-kitchenware-set-ghibli/",
+      "title": "This Free Anime Streaming Service Is Growing Monthly To Challenge Netflix & Crunchyroll's Throne",
+      "url": "https://screenrant.com/anime-k-drama-streaming-free-amasian-tv/",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "The reason cats hate Geralt in The Witcher 3",
+      "url": "https://www.gamesradar.com/video/iywQKIEx/the-reason-cats-hate-geralt-in-the-witcher-3/",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -216,13 +223,6 @@
     {
       "title": "News Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
       "url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
-      "url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
