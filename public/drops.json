@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-25T00:47:41+00:00",
+  "generated_utc": "2026-10-25T03:50:01+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -99,6 +99,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "9d61b1fc258a",
+      "pillar": "hiphop",
+      "title": "Israeli Expats Mobilize to Potentially VOTE OUT Netanyahu as Renewed Iran War Threats Escalate",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/24/israeli-expats-mobilize-to-potentially-vote-out-netanyahu-as-renewed-iran-war-threats-escalate/",
+      "thumbnail": "/drops/thumbs/9d61b1fc258a.jpg",
+      "published": "2026-10-24T22:26:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5370795cae21",
       "pillar": "hiphop",
       "title": "Texas Southern University Students March for Talarico as Black Voter Support Surges in Texas",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "570c3f8ba520",
-      "pillar": "hiphop",
-      "title": "Adrian D. Meeks: The Mastermind of Musical Discernment, the Strategist Behind the Vision, the Architect of Enduring Artist Legacies",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/24/adrian-d-meeks-the-mastermind-of-musical-discernment-the-strategist-behind-the-vision-the-architect-of-enduring-artist-legacies/",
-      "thumbnail": "/drops/thumbs/570c3f8ba520.jpg",
-      "published": "2026-10-24T03:14:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "5c4277b30700",
       "pillar": "anime",
       "title": "Dragon Ball's New Anime Fixes The Mistake That Almost Destroyed The Franchise",
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "5ff6886f10b7",
+      "id": "358cfab9b5c4",
       "pillar": "anime",
-      "title": "One Piece Just Confirmed Sanji's Power-Up Path That Even Zoro Couldn't Follow",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-sanji-powerup-haki-zoro-no-damage/",
-      "thumbnail": "/drops/thumbs/5ff6886f10b7.jpg",
+      "title": "Tougen Anki: Nikko Kegon Falls Arc Anime Gets English Dub on Crunchyroll",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-24/tougen-anki-nikko-kegon-falls-arc-anime-gets-english-dub-on-crunchyroll/.243166",
+      "thumbnail": "/drops/thumbs/358cfab9b5c4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "74ca2c292abd",
+      "id": "2904230c4c7c",
       "pillar": "anime",
-      "title": "Horror Collector Anime Reveals English Dub Cast, October 24 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149",
-      "thumbnail": "/drops/thumbs/74ca2c292abd.jpg",
+      "title": "10 Best Cartoon Network Anime That Premiered In The 2000s",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-cartoon-network-anime-premiered-2000s/",
+      "thumbnail": "/drops/thumbs/2904230c4c7c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,18 +321,6 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/a-canadian-politician-says-bioware-devs-should-be-given-government-funding-to-buy-the-studio-and-get-back-to-making-mass-effect-2000749088",
       "thumbnail": "/drops/thumbs/e7725036c59e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "79e01d2a388b",
-      "pillar": "gaming",
-      "title": "News Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
-      "thumbnail": "/drops/thumbs/79e01d2a388b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,11 +373,23 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "33ba19222d8e",
+      "pillar": "gaming",
+      "title": "The Normandy SR-2 Is Now A Haunted House, But It Will Always Be My Home",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/mass-effect-5-bioware-closure-universe-legendary-edition-2000749192",
+      "thumbnail": "/drops/thumbs/33ba19222d8e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "eaba90ecfbfc",
-    "5370795cae21",
+    "9d61b1fc258a",
     "959632b05ca3",
     "5c4277b30700",
     "05aa2656ba65",
