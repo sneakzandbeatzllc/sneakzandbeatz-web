@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-26T04:36:23+00:00",
+  "generated_utc": "2026-10-26T07:51:04+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -51,16 +51,40 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "33c497a3b340",
+      "id": "362f284b3d0d",
       "pillar": "sneakers",
-      "title": "Air Jordan 14 “Forest Green” Returns October 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-14-forest-green-2026/",
-      "thumbnail": "/drops/thumbs/33c497a3b340.jpg",
-      "published": "2026-10-18T02:08:19",
+      "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
+      "thumbnail": "/drops/thumbs/362f284b3d0d.jpg",
+      "published": "2026-10-17T09:54:13",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "d51ba81cc492",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 “White Infrared” Returns November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-white-infrared-2026/",
+      "thumbnail": "/drops/thumbs/d51ba81cc492.jpg",
+      "published": "2026-10-26T00:40:58",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "dcc1c10d5c15",
+      "pillar": "sneakers",
+      "title": "Air Jordan 17 Low “Black Pack” Releases November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-17-low-black-pack/",
+      "thumbnail": "/drops/thumbs/dcc1c10d5c15.jpg",
+      "published": "2026-10-26T00:27:10",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "973460d39f02",
@@ -70,30 +94,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-mid-knicks-ix8481-406/",
       "thumbnail": "/drops/thumbs/973460d39f02.jpg",
       "published": "2026-10-24T15:26:09",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "98769cb0581b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-6-og-white-infrared-ct8529-105-drop/",
-      "thumbnail": "/drops/thumbs/98769cb0581b.jpg",
-      "published": "2026-10-23T07:00:00",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "f093a44da99c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Low Golf Spiked “Space Jam” Releases November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-low-golf-spiked-space-jam/",
-      "thumbnail": "/drops/thumbs/f093a44da99c.jpg",
-      "published": "2026-10-18T02:48:32",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "f12ad8db2163",
+      "id": "d61c78f0cbe7",
       "pillar": "gaming",
-      "title": "News Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
+      "title": "News PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027",
-      "thumbnail": "/drops/thumbs/f12ad8db2163.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
+      "thumbnail": "/drops/thumbs/d61c78f0cbe7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
