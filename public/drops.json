@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-26T01:28:16+00:00",
+  "generated_utc": "2026-10-26T04:36:23+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -231,24 +231,48 @@
       "release_badge": ""
     },
     {
-      "id": "0f637b95a11c",
+      "id": "9c4c1d73cae1",
       "pillar": "anime",
-      "title": "BanG Dream! It's MyGo!!!!! // Ave Mujica Anime's 2nd Teaser Unveils January 8 Debut",
+      "title": "Goddess of Victory: Nikke Game Gets New Manga Adaptation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-25/bang-dream-its-mygo-ave-mujica-anime-2nd-teaser-unveils-january-8-debut/.243183",
-      "thumbnail": "/drops/thumbs/0f637b95a11c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-26/goddess-of-victory-nikke-game-gets-new-manga-adaptation/.243164",
+      "thumbnail": "/drops/thumbs/9c4c1d73cae1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "abf588f736ad",
+      "id": "cc9a69c01be8",
       "pillar": "anime",
-      "title": "King's Proposal Anime Unveils 2027 Debut, Lead Cast, Teaser Visual",
+      "title": "Patlabor EZY Anime Gets Novelization in 2027",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-25/king-proposal-anime-unveils-2027-debut-lead-cast-teaser-visual/.243165",
-      "thumbnail": "/drops/thumbs/abf588f736ad.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-25/patlabor-ezy-anime-gets-novelization-in-2027/.243181",
+      "thumbnail": "/drops/thumbs/cc9a69c01be8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a3d0bfad0153",
+      "pillar": "anime",
+      "title": "It's The End Of An Era For One Of The Most Controversial Isekai Series",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/the-beginning-after-the-end-controversy-end-era/",
+      "thumbnail": "/drops/thumbs/a3d0bfad0153.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "bbf8edfbd557",
+      "pillar": "anime",
+      "title": "Rainy Day Serenade Manga Gets Spinoff Series in November",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-25/rainy-day-serenade-manga-gets-spinoff-series-in-november/.243186",
+      "thumbnail": "/drops/thumbs/bbf8edfbd557.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,42 +285,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/bleach-most-underrated-action-series-ending/",
       "thumbnail": "/drops/thumbs/b6c28a416f7e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0f5c83b1a7a5",
-      "pillar": "anime",
-      "title": "Our Last Crusade or the Rise of a New World Anime Gets 3rd Season, Reveals Returning Cast & Staff",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-25/our-last-crusade-or-the-rise-of-a-new-world-anime-gets-3rd-season-reveals-returning-cast-and-staff/.243175",
-      "thumbnail": "/drops/thumbs/0f5c83b1a7a5.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "25e1d32a6f27",
-      "pillar": "anime",
-      "title": "5 Must-Watch Netflix Anime That Put Most Mainstream Series To Shame",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/must-watch-anime-modern-series-shame/",
-      "thumbnail": "/drops/thumbs/25e1d32a6f27.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a039a3b7bb6d",
-      "pillar": "gaming",
-      "title": "The reason cats hate Geralt in The Witcher 3",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/video/iywQKIEx/the-reason-cats-hate-geralt-in-the-witcher-3/",
-      "thumbnail": "/drops/thumbs/a039a3b7bb6d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,6 +373,18 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "ff233a584f05",
+      "pillar": "gaming",
+      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
+      "thumbnail": "/drops/thumbs/ff233a584f05.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "959632b05ca3",
     "2045cf73fa5c",
     "05aa2656ba65",
-    "a039a3b7bb6d"
+    "ce2361820882"
   ]
 }
