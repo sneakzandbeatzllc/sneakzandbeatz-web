@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-26T07:51:04+00:00",
+  "generated_utc": "2026-10-26T11:02:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -172,8 +172,22 @@
       "article_slug": null
     },
     {
+      "title": "Deals Sony drops prices on the only PS5 consoles I'd recommend buying this holiday season, just in time for GTA 6",
+      "url": "https://www.gamesradar.com/hardware/sony-drops-prices-on-the-only-ps5-consoles-id-recommend-buying-this-holiday-season-just-in-time-for-gta-6/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
       "url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Almost 200,000 Mass Effect fans sign petition to save the series after BioWare's demise",
+      "url": "https://www.gamesradar.com/games/mass-effect/almost-200-000-mass-effect-fans-sign-petition-to-save-the-series-after-biowares-demise-and-both-commander-shepard-actors-are-on-board-with-fan-efforts/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -186,15 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
-      "url": "https://kotaku.com/street-fighter-6-players-reeling-after-capcom-takes-down-popular-community-resource-site-2000749159",
+      "title": "The Elden Ring movie is reportedly A24's most expensive production ever with a $200 million budget",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-movies/the-elden-ring-movie-is-reportedly-a24s-most-expensive-production-ever-the-studios-spending-an-eye-watering-usd200-million-on-fromsoftwares-rpg/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
-      "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
+      "title": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
+      "url": "https://kotaku.com/street-fighter-6-players-reeling-after-capcom-takes-down-popular-community-resource-site-2000749159",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,22 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Review Phantom Blade Zero (PS5) - One of the Generation's Greatest Action Experiences",
-      "url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
-      "url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
+      "title": "Feature 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)",
+      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

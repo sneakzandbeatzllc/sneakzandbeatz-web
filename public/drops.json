@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-26T07:51:04+00:00",
+  "generated_utc": "2026-10-26T11:02:25+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -291,12 +291,36 @@
       "release_badge": ""
     },
     {
+      "id": "d87bc4478435",
+      "pillar": "gaming",
+      "title": "Deals Sony drops prices on the only PS5 consoles I'd recommend buying this holiday season, just in time for GTA 6",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/hardware/sony-drops-prices-on-the-only-ps5-consoles-id-recommend-buying-this-holiday-season-just-in-time-for-gta-6/",
+      "thumbnail": "/drops/thumbs/d87bc4478435.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ce2361820882",
       "pillar": "gaming",
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
       "thumbnail": "/drops/thumbs/ce2361820882.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "db8324ec48af",
+      "pillar": "gaming",
+      "title": "Almost 200,000 Mass Effect fans sign petition to save the series after BioWare's demise",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/mass-effect/almost-200-000-mass-effect-fans-sign-petition-to-save-the-series-after-biowares-demise-and-both-commander-shepard-actors-are-on-board-with-fan-efforts/",
+      "thumbnail": "/drops/thumbs/db8324ec48af.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,24 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "20fd92e67a30",
+      "id": "fd7b67bcd296",
       "pillar": "gaming",
-      "title": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/street-fighter-6-players-reeling-after-capcom-takes-down-popular-community-resource-site-2000749159",
-      "thumbnail": "/drops/thumbs/20fd92e67a30.jpg",
+      "title": "The Elden Ring movie is reportedly A24's most expensive production ever with a $200 million budget",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/fantasy-movies/the-elden-ring-movie-is-reportedly-a24s-most-expensive-production-ever-the-studios-spending-an-eye-watering-usd200-million-on-fromsoftwares-rpg/",
+      "thumbnail": "/drops/thumbs/fd7b67bcd296.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "03e7bb91cfec",
+      "id": "20fd92e67a30",
       "pillar": "gaming",
-      "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-review/",
-      "thumbnail": "/drops/thumbs/03e7bb91cfec.jpg",
+      "title": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/street-fighter-6-players-reeling-after-capcom-takes-down-popular-community-resource-site-2000749159",
+      "thumbnail": "/drops/thumbs/20fd92e67a30.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,36 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "83df1920ddcd",
+      "id": "0c6c898475fa",
       "pillar": "gaming",
-      "title": "Review Phantom Blade Zero (PS5) - One of the Generation's Greatest Action Experiences",
+      "title": "Feature 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero",
-      "thumbnail": "/drops/thumbs/83df1920ddcd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d61c78f0cbe7",
-      "pillar": "gaming",
-      "title": "News PS5's War Against Jailbreaks Triggers Fresh Wave of Criticism",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism",
-      "thumbnail": "/drops/thumbs/d61c78f0cbe7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ff233a584f05",
-      "pillar": "gaming",
-      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
-      "thumbnail": "/drops/thumbs/ff233a584f05.jpg",
+      "source_url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
+      "thumbnail": "/drops/thumbs/0c6c898475fa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "959632b05ca3",
     "2045cf73fa5c",
     "05aa2656ba65",
-    "ce2361820882"
+    "d87bc4478435"
   ]
 }
