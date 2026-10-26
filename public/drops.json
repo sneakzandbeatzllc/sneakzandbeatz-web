@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-25T22:22:04+00:00",
+  "generated_utc": "2026-10-26T01:28:16+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -195,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "5c4277b30700",
-      "pillar": "anime",
-      "title": "Dragon Ball's New Anime Fixes The Mistake That Almost Destroyed The Franchise",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-beerus-fixes-mistake-destroy-franchise/",
-      "thumbnail": "/drops/thumbs/5c4277b30700.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2045cf73fa5c",
       "pillar": "anime",
       "title": "5 Solo Leveling characters who deserved so much better",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/5-solo-leveling-characters-who-deserved-better-storylines/",
       "thumbnail": "/drops/thumbs/2045cf73fa5c.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "a013d916e1f2",
+      "pillar": "anime",
+      "title": "Naruto’s Ninja Era Is Officially Coming To An End, And It Could Change The Franchise Forever",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-ninja-era-over/",
+      "thumbnail": "/drops/thumbs/a013d916e1f2.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "25e1d32a6f27",
+      "id": "b6c28a416f7e",
       "pillar": "anime",
-      "title": "5 Must-Watch Netflix Anime That Put Most Mainstream Series To Shame",
+      "title": "The Most Underrated Action Series Of The Past 22 Years Officially Ends In 4 Days",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/must-watch-anime-modern-series-shame/",
-      "thumbnail": "/drops/thumbs/25e1d32a6f27.jpg",
+      "source_url": "https://screenrant.com/bleach-most-underrated-action-series-ending/",
+      "thumbnail": "/drops/thumbs/b6c28a416f7e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "7d94038e61ee",
+      "id": "25e1d32a6f27",
       "pillar": "anime",
-      "title": "This Free Anime Streaming Service Is Growing Monthly To Challenge Netflix & Crunchyroll's Throne",
+      "title": "5 Must-Watch Netflix Anime That Put Most Mainstream Series To Shame",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/anime-k-drama-streaming-free-amasian-tv/",
-      "thumbnail": "/drops/thumbs/7d94038e61ee.jpg",
+      "source_url": "https://screenrant.com/must-watch-anime-modern-series-shame/",
+      "thumbnail": "/drops/thumbs/25e1d32a6f27.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "d52685e2038a",
-      "pillar": "gaming",
-      "title": "News Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
-      "thumbnail": "/drops/thumbs/d52685e2038a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "03e7bb91cfec",
       "pillar": "gaming",
       "title": "Call of Duty: Modern Warfare 4 review: \"Multiplayer is better than ever\"",
@@ -375,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "83df1920ddcd",
+      "pillar": "gaming",
+      "title": "Review Phantom Blade Zero (PS5) - One of the Generation's Greatest Action Experiences",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero",
+      "thumbnail": "/drops/thumbs/83df1920ddcd.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f12ad8db2163",
       "pillar": "gaming",
       "title": "News Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027",
@@ -391,7 +391,7 @@
     "eaba90ecfbfc",
     "dacdb96bcc3d",
     "959632b05ca3",
-    "5c4277b30700",
+    "2045cf73fa5c",
     "05aa2656ba65",
     "a039a3b7bb6d"
   ]
