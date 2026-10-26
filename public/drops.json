@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-26T17:07:07+00:00",
+  "generated_utc": "2026-10-26T20:09:17+00:00",
   "items": [
     {
       "id": "eaba90ecfbfc",
@@ -207,12 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "a013d916e1f2",
+      "id": "a1c1ac2043c1",
       "pillar": "anime",
-      "title": "Naruto’s Ninja Era Is Officially Coming To An End, And It Could Change The Franchise Forever",
+      "title": "The Super Mario Galaxy Movie , One Piece , Kpop Demon Hunters Nominated for Nickelodeon Kids' Choice Awards",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-26/the-super-mario-galaxy-movie-one-piece-kpop-demon-hunters-nominated-for-nickelodeon-kids-choice-/.243214",
+      "thumbnail": "/drops/thumbs/a1c1ac2043c1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "58e0d10c9eb8",
+      "pillar": "anime",
+      "title": "Bleach: Thousand-Year Blood War Ending Explained: Will There Be A Sequel?",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/naruto-ninja-era-over/",
-      "thumbnail": "/drops/thumbs/a013d916e1f2.png",
+      "source_url": "https://screenrant.com/bleach-thousand-year-blood-war-finale-explained/",
+      "thumbnail": "/drops/thumbs/58e0d10c9eb8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,24 +243,36 @@
       "release_badge": ""
     },
     {
-      "id": "bf06cbf4ba9a",
+      "id": "a013d916e1f2",
       "pillar": "anime",
-      "title": "Yukari Kaneko's Hanarabeez Original Character Gets 3-Episode Short Anime",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-26/yukari-kaneko-hanarabeez-original-character-gets-3-episode-short-anime/.243197",
-      "thumbnail": "/drops/thumbs/bf06cbf4ba9a.jpg",
+      "title": "Naruto’s Ninja Era Is Officially Coming To An End, And It Could Change The Franchise Forever",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-ninja-era-over/",
+      "thumbnail": "/drops/thumbs/a013d916e1f2.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b276a92033a8",
+      "id": "81ca4f2a383a",
       "pillar": "anime",
-      "title": "Looney Tunes Voice Actor Eric Bauza Dies at 46",
+      "title": "EAT-MAN The Over Order New Anime Gets Spinoff Manga Series",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-26/looney-tunes-voice-actor-eric-bauza-dies-at-46/.243204",
-      "thumbnail": "/drops/thumbs/b276a92033a8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-26/eat-man-the-over-order-new-anime-gets-spinoff-manga-series/.243206",
+      "thumbnail": "/drops/thumbs/81ca4f2a383a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8e9b1a0c7349",
+      "pillar": "anime",
+      "title": "Manga Mavericks Books Licenses Gago Hunters Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-26/manga-mavericks-books-licenses-gago-hunters-manga/.243216",
+      "thumbnail": "/drops/thumbs/8e9b1a0c7349.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,84 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "2ad9c844c455",
-      "pillar": "anime",
-      "title": "The World's Strongest Witch Anime Casts Yukana, Azusa Tadokoro",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-26/the-world-strongest-witch-anime-casts-yukana-azusa-tadokoro/.243196",
-      "thumbnail": "/drops/thumbs/2ad9c844c455.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b6c28a416f7e",
-      "pillar": "anime",
-      "title": "The Most Underrated Action Series Of The Past 22 Years Officially Ends In 4 Days",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/bleach-most-underrated-action-series-ending/",
-      "thumbnail": "/drops/thumbs/b6c28a416f7e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d87bc4478435",
-      "pillar": "gaming",
-      "title": "Deals Sony drops prices on the only PS5 consoles I'd recommend buying this holiday season, just in time for GTA 6",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/hardware/sony-drops-prices-on-the-only-ps5-consoles-id-recommend-buying-this-holiday-season-just-in-time-for-gta-6/",
-      "thumbnail": "/drops/thumbs/d87bc4478435.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f71fda5e3cef",
       "pillar": "gaming",
       "title": "News Ghost of Yotei Dev Sucker Punch Hit with Layoffs as Leadership Eyes Next PlayStation Project",
       "source": "PushSquare",
       "source_url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project",
       "thumbnail": "/drops/thumbs/f71fda5e3cef.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ce2361820882",
-      "pillar": "gaming",
-      "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
-      "thumbnail": "/drops/thumbs/ce2361820882.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "386f116ae715",
-      "pillar": "gaming",
-      "title": "Mass Effect: Universe Would Have Allowed Players To ‘Generate’ Timelines That Acknowledged Multiple Choices From The Trilogy",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/mass-effect-universe-would-have-allowed-players-to-generate-timelines-that-acknowledged-multiple-choices-from-the-trilogy-2000749344",
-      "thumbnail": "/drops/thumbs/386f116ae715.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5a901729a8e8",
-      "pillar": "gaming",
-      "title": "News Save Mass Effect Petition Rockets Past 200,000 Signatures as Fans Ask EA to Continue the Series",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/save-mass-effect-petition-rockets-past-200000-signatures-as-fans-ask-ea-to-continue-the-series",
-      "thumbnail": "/drops/thumbs/5a901729a8e8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +315,36 @@
       "release_badge": ""
     },
     {
-      "id": "43d3f0b2c51e",
+      "id": "ce2361820882",
       "pillar": "gaming",
-      "title": "News Final Fantasy's 40th Anniversary Album Picks Just One Track from Each Main Game, and It'll Split Fan Opinion",
+      "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
+      "thumbnail": "/drops/thumbs/ce2361820882.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ef38bd580b2f",
+      "pillar": "gaming",
+      "title": "Final Fantasy And Chrono Trigger Veterans Believe Modern Developers Must Possess Skill To Take An Idea ‘From 0 To 1’ In The Age Of AI",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690",
+      "thumbnail": "/drops/thumbs/ef38bd580b2f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5a901729a8e8",
+      "pillar": "gaming",
+      "title": "News Save Mass Effect Petition Rockets Past 200,000 Signatures as Fans Ask EA to Continue the Series",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/final-fantasys-40th-anniversary-album-picks-just-one-track-from-each-main-game-and-itll-split-fan-opinion",
-      "thumbnail": "/drops/thumbs/43d3f0b2c51e.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/save-mass-effect-petition-rockets-past-200000-signatures-as-fans-ask-ea-to-continue-the-series",
+      "thumbnail": "/drops/thumbs/5a901729a8e8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,6 +361,30 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "b20e3b49cd71",
+      "pillar": "gaming",
+      "title": "200,000 Mass Effect fans sign petition to save the series",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/video/NO0Hkb0P/200-000-mass-effect-fans-sign-petition-to-save-the-series/",
+      "thumbnail": "/drops/thumbs/b20e3b49cd71.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d4cbe9dd3c8a",
+      "pillar": "gaming",
+      "title": "Rumor: XBOX COO Helen Chiang Leaves After Three Months – Did She Commit ‘Policy Violations’?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564478/article/rumor-xbox-coo-helen-chiang-leaves-after-three-months-did-she-commit-policy-violations/",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "362f284b3d0d",
     "2045cf73fa5c",
     "05aa2656ba65",
-    "d87bc4478435"
+    "f71fda5e3cef"
   ]
 }
