@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-26T23:12:54+00:00",
+  "generated_utc": "2026-10-27T02:15:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -130,13 +130,6 @@
       "article_slug": null
     },
     {
-      "title": "The Super Mario Galaxy Movie , One Piece , Kpop Demon Hunters Nominated for Nickelodeon Kids' Choice Awards",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-26/the-super-mario-galaxy-movie-one-piece-kpop-demon-hunters-nominated-for-nickelodeon-kids-choice-/.243214",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
       "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
       "pillar": "anime",
@@ -151,22 +144,29 @@
       "article_slug": null
     },
     {
-      "title": "Naruto’s Ninja Era Is Officially Coming To An End, And It Could Change The Franchise Forever",
-      "url": "https://screenrant.com/naruto-ninja-era-over/",
+      "title": "Sora Karin, Kentaro Harada Launch The Pit of Darkness Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-26/sora-karin-kentaro-harada-launch-the-pit-of-darkness-manga/.243193",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Uoyama's Kimi to Issho ni Kayoitai Manga Ends on November 13",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-26/uoyama-kimi-to-issho-ni-kayoitai-manga-ends-on-november-13/.243187",
+      "title": "Precure Franchise Gets Spinoff TV Anime Dual Shadow ~Precure Villain Heroines~",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-26/precure-franchise-gets-spinoff-tv-anime-dual-shadow-~precure-villain-heroines~/.243229",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Magical Girl Raising Project F2P Manga Spinoff Ends in 5th Volume",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-26/magical-girl-raising-project-f2p-manga-spinoff-ends-in-5th-volume/.243191",
+      "title": "Itsuwari no Kenta Manga Ends Next Chapter",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-26/itsuwari-no-kenta-manga-ends-next-chapter/.243213",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "One Of Netflix’s Best New Sci-Fi Movies Takes Less Than An Hour To Watch",
+      "url": "https://screenrant.com/milky-subway-netflix-best-new-sci-fi-series/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "200,000 Mass Effect fans sign petition to save the series",
-      "url": "https://www.gamesradar.com/video/NO0Hkb0P/200-000-mass-effect-fans-sign-petition-to-save-the-series/",
+      "title": "The Elden Ring movie is reportedly A24's most expensive production ever",
+      "url": "https://www.gamesradar.com/video/LrNYne7e/the-elden-ring-movie-is-reportedly-a24-039-s-most-expensive-production-ever/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
