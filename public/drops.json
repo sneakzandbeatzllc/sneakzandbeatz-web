@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-27T11:21:39+00:00",
+  "generated_utc": "2026-10-27T11:22:25+00:00",
   "items": [
     {
       "id": "362f284b3d0d",
@@ -291,6 +291,18 @@
       "release_badge": ""
     },
     {
+      "id": "06a8182cd76c",
+      "pillar": "gaming",
+      "title": "Rumor: GTA 6’s Rumor Embargo Ends On November 18 – And Review Copies Are Going Out Now",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564481/article/rumor-gta-6s-rumor-embargo-ends-on-november-18-and-review-copies-are-going-out-now/",
+      "thumbnail": "/drops/thumbs/06a8182cd76c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2a74290ce181",
       "pillar": "gaming",
       "title": "News EA Scrubbing Mass Effect from Other Games as Series Starts to Die Off",
@@ -309,18 +321,6 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/mass-effect/mass-effect-5-was-journey-composers-biggest-dream-project-and-he-was-in-serious-discussions-with-bioware-to-handle-the-soundtrack-heres-20-minutes-of-music-he-composed-for-the-rpg/",
       "thumbnail": "/drops/thumbs/7b8e0ae3f613.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ce2361820882",
-      "pillar": "gaming",
-      "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
-      "thumbnail": "/drops/thumbs/ce2361820882.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "ce2361820882",
+      "pillar": "gaming",
+      "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
+      "thumbnail": "/drops/thumbs/ce2361820882.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3f32d1f8c145",
       "pillar": "gaming",
       "title": "Obsession star Inde Navarrette is \"a big fan\" of Call of Duty and wants a role in Taylor Sheridan's movie",
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "d4cbe9dd3c8a",
-      "pillar": "gaming",
-      "title": "Rumor: XBOX COO Helen Chiang Leaves After Three Months – Did She Commit ‘Policy Violations’?",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564478/article/rumor-xbox-coo-helen-chiang-leaves-after-three-months-did-she-commit-policy-violations/",
-      "thumbnail": null,
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "05aa2656ba65",
     "831f8f5de5d8",
     "959632b05ca3",
-    "2a74290ce181"
+    "06a8182cd76c"
   ]
 }
