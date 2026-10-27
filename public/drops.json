@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-27T05:17:32+00:00",
+  "generated_utc": "2026-10-27T08:19:11+00:00",
   "items": [
     {
       "id": "362f284b3d0d",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "d51ba81cc492",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 “White Infrared” Returns November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-white-infrared-2026/",
-      "thumbnail": "/drops/thumbs/d51ba81cc492.jpg",
-      "published": "2026-10-26T00:40:58",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
       "id": "973460d39f02",
       "pillar": "sneakers",
       "title": "Air Jordan 1 Mid “Knicks” Releases November 1 for $150",
@@ -70,6 +58,18 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-mid-knicks-ix8481-406/",
       "thumbnail": "/drops/thumbs/973460d39f02.jpg",
       "published": "2026-10-24T15:26:09",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "98769cb0581b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-6-og-white-infrared-ct8529-105-drop/",
+      "thumbnail": "/drops/thumbs/98769cb0581b.jpg",
+      "published": "2026-10-23T07:00:00",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
@@ -243,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "261788b008e5",
+      "pillar": "anime",
+      "title": "Pokémon Unite Game Ends Service on March 23, 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-27/pokemon-unite-game-ends-service-on-march-23-2027/.243239",
+      "thumbnail": "/drops/thumbs/261788b008e5.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a381f32704f5",
       "pillar": "anime",
       "title": "Sora Karin, Kentaro Harada Launch The Pit of Darkness Manga",
@@ -267,18 +279,6 @@
       "release_badge": ""
     },
     {
-      "id": "5905c4ebf331",
-      "pillar": "anime",
-      "title": "Itsuwari no Kenta Manga Ends Next Chapter",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-26/itsuwari-no-kenta-manga-ends-next-chapter/.243213",
-      "thumbnail": "/drops/thumbs/5905c4ebf331.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "be57e24f6342",
       "pillar": "anime",
       "title": "One Of Netflix’s Best New Sci-Fi Movies Takes Less Than An Hour To Watch",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "f71fda5e3cef",
+      "id": "2a74290ce181",
       "pillar": "gaming",
-      "title": "News Ghost of Yotei Dev Sucker Punch Hit with Layoffs as Leadership Eyes Next PlayStation Project",
+      "title": "News EA Scrubbing Mass Effect from Other Games as Series Starts to Die Off",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project",
-      "thumbnail": "/drops/thumbs/f71fda5e3cef.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/ea-scrubbing-mass-effect-from-other-games-as-series-starts-to-die-off",
+      "thumbnail": "/drops/thumbs/2a74290ce181.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "f71fda5e3cef",
+      "pillar": "gaming",
+      "title": "News Ghost of Yotei Dev Sucker Punch Hit with Layoffs as Leadership Eyes Next PlayStation Project",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project",
+      "thumbnail": "/drops/thumbs/f71fda5e3cef.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "fd7b67bcd296",
       "pillar": "gaming",
       "title": "The Elden Ring movie is reportedly A24's most expensive production ever with a $200 million budget",
@@ -363,18 +375,6 @@
       "release_badge": ""
     },
     {
-      "id": "53af2c3c3593",
-      "pillar": "gaming",
-      "title": "News Rare Insight into PS5 Sales Pattern Reveals Significant Wolverine Bump",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/rare-insight-into-ps5-sales-pattern-reveals-significant-wolverine-bump",
-      "thumbnail": "/drops/thumbs/53af2c3c3593.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d4cbe9dd3c8a",
       "pillar": "gaming",
       "title": "Rumor: XBOX COO Helen Chiang Leaves After Three Months – Did She Commit ‘Policy Violations’?",
@@ -393,6 +393,6 @@
     "05aa2656ba65",
     "2045cf73fa5c",
     "959632b05ca3",
-    "f71fda5e3cef"
+    "2a74290ce181"
   ]
 }
