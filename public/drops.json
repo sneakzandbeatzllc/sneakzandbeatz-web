@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-28T05:35:58+00:00",
+  "generated_utc": "2026-10-28T08:37:31+00:00",
   "items": [
     {
       "id": "362f284b3d0d",
@@ -63,39 +63,51 @@
       "release_badge": "Drops Next Month"
     },
     {
-      "id": "f403f541ec22",
+      "id": "c956d4c2683f",
       "pillar": "sneakers",
-      "title": "Infinite Archives x Air Jordan 17 Low in “Varsity Purple” and “Varsity Red” Releases March 2027",
+      "title": "Air Jordan 10 “Red Steel” Returns March 2027",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/infinite-archives-air-jordan-17-low-2027/",
-      "thumbnail": "/drops/thumbs/f403f541ec22.jpg",
-      "published": "2026-10-26T20:58:44",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-10-red-steel-2027/",
+      "thumbnail": "/drops/thumbs/c956d4c2683f.jpg",
+      "published": "2026-10-28T00:14:48",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
     },
     {
-      "id": "ae3dfcd532d0",
+      "id": "cfc45f2170b5",
       "pillar": "sneakers",
-      "title": "Air Jordan 9 “Charcoal” Returns August 2027",
+      "title": "Air Jordan 6 “Sport Blue” Returns July 2027",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-9-charcoal-2027/",
-      "thumbnail": "/drops/thumbs/ae3dfcd532d0.jpg",
-      "published": "2026-10-26T20:55:58",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-sport-blue-2027/",
+      "thumbnail": "/drops/thumbs/cfc45f2170b5.jpg",
+      "published": "2026-10-28T00:03:53",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
     },
     {
-      "id": "ab7aed4d7042",
+      "id": "5623a8b2a2b3",
       "pillar": "sneakers",
-      "title": "Air Jordan 4 “Fire Red” Returns July 2027",
+      "title": "Air Jordan 10 “Knicks” Returns August 2027",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-fire-red-2027/",
-      "thumbnail": "/drops/thumbs/ab7aed4d7042.jpg",
-      "published": "2026-10-26T15:36:32",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
+      "thumbnail": "/drops/thumbs/5623a8b2a2b3.jpg",
+      "published": "2026-10-28T00:02:46",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6c586f6aa915",
+      "pillar": "hiphop",
+      "title": "Flavor Flav Advocates Fans to Support WNBA Plagued by Odd Start Times",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/28/flavor-flav-advocates-fans-to-support-wnba-plagued-by-odd-start-times/",
+      "thumbnail": "/drops/thumbs/6c586f6aa915.jpg",
+      "published": "2026-10-28T03:34:00",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/10/27/roger-goodell-jay-z-super-bowl-lxi-halftime-show/",
       "thumbnail": "/drops/thumbs/01b7c2158e72.jpg",
       "published": "2026-10-27T07:11:28",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a445dd529f6c",
-      "pillar": "hiphop",
-      "title": "JAŸ-Z Confirmed to Headline 2027 Apple Music Super Bowl LXI Halftime Show in Los Angeles",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/27/jay-z-super-bowl-lxi-halftime-show-announcement/",
-      "thumbnail": "/drops/thumbs/a445dd529f6c.jpg",
-      "published": "2026-10-27T07:07:11",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "362f284b3d0d",
-    "70b988bd5056",
+    "6c586f6aa915",
     "05aa2656ba65",
     "62410986dd2a",
     "959632b05ca3",
