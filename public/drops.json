@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-27T23:32:05+00:00",
+  "generated_utc": "2026-10-28T02:33:41+00:00",
   "items": [
     {
       "id": "362f284b3d0d",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "70b988bd5056",
+      "pillar": "hiphop",
+      "title": "DISMISSED: ‘Janice STFU’ Lawsuit in Shambles After Plaintiff Withdraws Claim in Just 10 Days",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/27/dismissed-drakes-janice-stfu-lawsuit-in-shambles-after-plaintiff-withdraws-claim-in-just-10-days/",
+      "thumbnail": "/drops/thumbs/70b988bd5056.jpg",
+      "published": "2026-10-27T19:06:48",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "852742fcddef",
       "pillar": "hiphop",
       "title": "Netanyahu’s Election Stalemate Complicates U.S. Midterms for Trump as Iran Tensions Loom",
@@ -183,48 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "ea5c391b0cf4",
-      "pillar": "hiphop",
-      "title": "Burna Boy Headlines Historic Paris NFL Halftime Show",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/27/burna-boy-nfl-paris-halftime-on-sneaker-launch/",
-      "thumbnail": "/drops/thumbs/ea5c391b0cf4.jpg",
-      "published": "2026-10-27T07:02:56",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "62410986dd2a",
       "pillar": "anime",
       "title": "Demon Slayer: All 13 Hashira, Ranked Weakest to Strongest",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/demon-slayer-hashira-ranked-strength/",
       "thumbnail": "/drops/thumbs/62410986dd2a.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "831f8f5de5d8",
-      "pillar": "anime",
-      "title": "Solo Leveling's Official 2026 Return Is Set To Expand Series Canon",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-2026-comeback-karma-release-date/",
-      "thumbnail": "/drops/thumbs/831f8f5de5d8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e47038f9c279",
-      "pillar": "anime",
-      "title": "Bleach Mirrors High Mobile Game's Opening Animation Trailer Reveals Theme Song, October 28 Launch",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-27/bleach-mirrors-high-mobile-game-opening-animation-trailer-reveals-theme-song-october-28-launch/.243252",
-      "thumbnail": "/drops/thumbs/e47038f9c279.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "384bc8986d9d",
+      "id": "ff315313a28a",
       "pillar": "anime",
-      "title": "Manga Mavericks Books, Omoi License Georgie Manga in English",
+      "title": "Yome ga Kuru Artist saku Launches New Kimi to Sakura no Hanataba wo Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-27/manga-mavericks-books-omoi-license-georgie-manga-in-english/.243227",
-      "thumbnail": "/drops/thumbs/384bc8986d9d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-27/yome-ga-kuru-artist-saku-launches-new-kimi-to-sakura-no-hanataba-wo-manga/.243258",
+      "thumbnail": "/drops/thumbs/ff315313a28a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3a42697b16be",
+      "pillar": "anime",
+      "title": "Eito Chida Launches New Hoshibarai no Chidori Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-27/eito-chida-launches-new-hoshibarai-no-chidori-manga/.243220",
+      "thumbnail": "/drops/thumbs/3a42697b16be.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +267,36 @@
       "release_badge": ""
     },
     {
-      "id": "179066b0bb5b",
+      "id": "384bc8986d9d",
       "pillar": "anime",
-      "title": "Manga Barcelona to Host Junji Ito, Hyuganatsu, Nao Iwamoto, Sakaomi Yuzaki, Yudetamago, Taizan 5, Kore Yamazaki, Shoji Kawamori, More",
+      "title": "Manga Mavericks Books, Omoi License Georgie Manga in English",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-27/manga-barcelona-to-host-junji-ito-hyuganatsu-nao-iwamoto-sakaomi-yuzaki-yudetamago-taizan-5-kore-/.243251",
-      "thumbnail": "/drops/thumbs/179066b0bb5b.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-27/manga-mavericks-books-omoi-license-georgie-manga-in-english/.243227",
+      "thumbnail": "/drops/thumbs/384bc8986d9d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "5c750d0e599a",
+      "id": "790c250aeec8",
+      "pillar": "anime",
+      "title": "Prime Video's 26-Episode Space Western Masterpiece Is Everything The Mandalorian Should Have Been",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/cowboy-bebop-perfect-mandalorian-replacement/",
+      "thumbnail": "/drops/thumbs/790c250aeec8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "102d5ad81199",
       "pillar": "gaming",
-      "title": "News GTA 6 PS5 File Size Has Been Reported, and It's an Absolute Monster",
+      "title": "Guide GTA 6 Release Times and Preload: When Can You Start Playing?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/gta-6-ps5-file-size-has-been-reported-and-its-an-absolute-monster",
-      "thumbnail": "/drops/thumbs/5c750d0e599a.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+      "thumbnail": "/drops/thumbs/102d5ad81199.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "5c750d0e599a",
+      "pillar": "gaming",
+      "title": "News GTA 6 PS5 File Size Has Been Reported, and It's an Absolute Monster",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/gta-6-ps5-file-size-has-been-reported-and-its-an-absolute-monster",
+      "thumbnail": "/drops/thumbs/5c750d0e599a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1da8381537c0",
       "pillar": "gaming",
       "title": "GTA 6 exclusive leads Edge 430, includes a 16-page cover feature that has a Rockstar interview and more",
@@ -351,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "4b7b5252fecd",
-      "pillar": "gaming",
-      "title": "News New Cyberpunk 2077 PS5 Patch Is Great News If You're Argentinian, CDPR Clarifies Update",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/new-cyberpunk-2077-ps5-patch-is-great-news-if-youre-argentinian-cdpr-clarifies-update",
-      "thumbnail": "/drops/thumbs/4b7b5252fecd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ce2361820882",
       "pillar": "gaming",
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "af6367b08004",
+      "id": "4b7b5252fecd",
       "pillar": "gaming",
-      "title": "News Mass Effect Cancellation Stings Even More When You Realise Austin Wintory Was Pitching the Soundtrack",
+      "title": "News New Cyberpunk 2077 PS5 Patch Is Great News If You're Argentinian, CDPR Clarifies Update",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/mass-effect-cancellation-stings-even-more-when-you-realise-austin-wintory-was-pitching-the-soundtrack",
-      "thumbnail": "/drops/thumbs/af6367b08004.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/10/new-cyberpunk-2077-ps5-patch-is-great-news-if-youre-argentinian-cdpr-clarifies-update",
+      "thumbnail": "/drops/thumbs/4b7b5252fecd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "362f284b3d0d",
-    "852742fcddef",
+    "70b988bd5056",
     "05aa2656ba65",
     "62410986dd2a",
     "959632b05ca3",
-    "5c750d0e599a"
+    "102d5ad81199"
   ]
 }
