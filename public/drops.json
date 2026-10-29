@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-29T00:21:07+00:00",
+  "generated_utc": "2026-10-29T03:25:03+00:00",
   "items": [
     {
       "id": "05aa2656ba65",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "ff401f0c70a2",
+      "pillar": "anime",
+      "title": "Solo Leveling: Arise Overdrive Game Launches for PS5, Xbox Series X|S on November 3",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-28/solo-leveling-arise-overdrive-game-launches-for-ps5-xbox-series-x-s-on-november-3/.243300",
+      "thumbnail": "/drops/thumbs/ff401f0c70a2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6b50ce06d64e",
       "pillar": "anime",
       "title": "Solo Leveling Sequel Officially Drops First Look At Season 3",
@@ -243,24 +255,12 @@
       "release_badge": ""
     },
     {
-      "id": "52275264e935",
+      "id": "6347afe0869f",
       "pillar": "anime",
-      "title": "Natsume Ono to Launch Korore Spinoff Manga of ACCA-13, Badon Manga",
+      "title": "Rainbow Days' Minami Mizuno Launches New Fujikawa Minori wa Erabenai. Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-28/natsume-ono-to-launch-korore-spinoff-manga-of-acca-13-badon-manga/.243271",
-      "thumbnail": "/drops/thumbs/52275264e935.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7ade8ca11af5",
-      "pillar": "anime",
-      "title": "Sachiko Uguisu's Kaikai Gigigigigi Manga Ends",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-28/sachiko-uguisu-kaikai-gigigigigi-manga-ends/.243263",
-      "thumbnail": "/drops/thumbs/7ade8ca11af5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-28/rainbow-days-minami-mizuno-launches-new-fujikawa-minori-wa-erabenai-manga/.243279",
+      "thumbnail": "/drops/thumbs/6347afe0869f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "03a6614becbc",
+      "id": "52275264e935",
       "pillar": "anime",
-      "title": "The Full-Time Wife Escapist's Tsunami Umino Launches New Manga in December",
+      "title": "Natsume Ono to Launch Korore Spinoff Manga of ACCA-13, Badon Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-28/the-full-time-wife-escapist-tsunami-umino-launches-new-manga-in-december/.243280",
-      "thumbnail": "/drops/thumbs/03a6614becbc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-28/natsume-ono-to-launch-korore-spinoff-manga-of-acca-13-badon-manga/.243271",
+      "thumbnail": "/drops/thumbs/52275264e935.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "05aa2656ba65",
     "04304c5098bb",
     "362f284b3d0d",
-    "6b50ce06d64e",
+    "ff401f0c70a2",
     "959632b05ca3",
     "ddd07938e1bf"
   ]
