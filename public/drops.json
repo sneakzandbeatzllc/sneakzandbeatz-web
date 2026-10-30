@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-30T00:44:33+00:00",
+  "generated_utc": "2026-10-30T03:48:21+00:00",
   "items": [
     {
       "id": "05aa2656ba65",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "bce8aff53cc5",
+      "pillar": "hiphop",
+      "title": "Banner Up at the Garden, New Blood in Brooklyn: Your New York Game Night Guide",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/10/29/banner-up-at-the-garden-new-blood-in-brooklyn-your-new-york-game-night-guide/",
+      "thumbnail": "/drops/thumbs/bce8aff53cc5.jpg",
+      "published": "2026-10-29T21:51:45",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7170eb9d1690",
       "pillar": "hiphop",
       "title": "2026 Midterms Could Flip Congress as Millions Vote Early in Showdown Over Trump’s Presidency",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "545ae801cacd",
-      "pillar": "hiphop",
-      "title": "DAY26 Announces 30-Plus-City Tour, New Holiday Single, and Bryan-Michael Cox Reunion",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/29/day26-announces-30-plus-city-tour-new-holiday-single-and-bryan-michael-cox-reunion/",
-      "thumbnail": "/drops/thumbs/545ae801cacd.jpg",
-      "published": "2026-10-29T12:54:00",
+      "id": "7e358eea1d96",
+      "pillar": "anime",
+      "title": "Dragon Ball: Every Super Saiyan Form Ranked Weakest to Strongest",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-every-level-super-saiyan-ranked-weakest-strongest/",
+      "thumbnail": "/drops/thumbs/7e358eea1d96.jpg",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -225,18 +237,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
       "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3efa7618a7e7",
-      "pillar": "anime",
-      "title": "Black Clover Season 2, Episode 5 Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-season-2-episode-5-release-date-time/",
-      "thumbnail": "/drops/thumbs/3efa7618a7e7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "05aa2656ba65",
-    "7170eb9d1690",
+    "bce8aff53cc5",
     "362f284b3d0d",
-    "fbf42c26def0",
+    "7e358eea1d96",
     "959632b05ca3",
     "427e096ad060"
   ]
