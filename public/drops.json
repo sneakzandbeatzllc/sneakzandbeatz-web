@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-30T03:49:26+00:00",
+  "generated_utc": "2026-10-30T06:50:50+00:00",
   "items": [
     {
       "id": "05aa2656ba65",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "c5d46e759962",
+      "id": "199c0d50ced4",
       "pillar": "anime",
-      "title": "Rin Suzukawa's Outsider Paradise Manga Switches Publishers to Kadokawa, Gets Full Color Continuation",
+      "title": "Death Stranding Isolations Anime Reveals Teaser Trailer, More Staff",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/rin-suzukawa-outsider-paradise-manga-switches-publishers-to-kadokawa-gets-full-color-continuation/.243302",
-      "thumbnail": "/drops/thumbs/c5d46e759962.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-30/death-stranding-isolations-anime-reveals-teaser-trailer-more-staff/.243353",
+      "thumbnail": "/drops/thumbs/199c0d50ced4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ae35b5991f02",
+      "id": "c5d46e759962",
       "pillar": "anime",
-      "title": "Shiretto Sugee koto Itteru Gal Manga Takes 4-5 Month Break",
+      "title": "Rin Suzukawa's Outsider Paradise Manga Switches Publishers to Kadokawa, Gets Full Color Continuation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/shiretto-sugee-koto-itteru-gal-manga-takes-4-5-month-break/.243301",
-      "thumbnail": "/drops/thumbs/ae35b5991f02.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/rin-suzukawa-outsider-paradise-manga-switches-publishers-to-kadokawa-gets-full-color-continuation/.243302",
+      "thumbnail": "/drops/thumbs/c5d46e759962.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "ff7db6fea330",
+      "id": "ae35b5991f02",
       "pillar": "anime",
-      "title": "Shōta Kōno Launches Nightmare of Oveja Negra Manga",
+      "title": "Shiretto Sugee koto Itteru Gal Manga Takes 4-5 Month Break",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/shota-kono-launches-nightmare-of-oveja-negra-manga/.243299",
-      "thumbnail": "/drops/thumbs/ff7db6fea330.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/shiretto-sugee-koto-itteru-gal-manga-takes-4-5-month-break/.243301",
+      "thumbnail": "/drops/thumbs/ae35b5991f02.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "2a741b741501",
+      "pillar": "gaming",
+      "title": "News New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
+      "thumbnail": "/drops/thumbs/2a741b741501.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,18 +363,6 @@
       "release_badge": ""
     },
     {
-      "id": "0f8403cb93b8",
-      "pillar": "gaming",
-      "title": "News Destiny 2 Content Unvaulting Won't Take Place Until 2028",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/10/destiny-2-content-unvaulting-wont-take-place-until-2028",
-      "thumbnail": "/drops/thumbs/0f8403cb93b8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "8de17e2c8fc8",
       "pillar": "gaming",
       "title": "News 'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox",
@@ -393,6 +393,6 @@
     "362f284b3d0d",
     "7e358eea1d96",
     "959632b05ca3",
-    "427e096ad060"
+    "2a741b741501"
   ]
 }
