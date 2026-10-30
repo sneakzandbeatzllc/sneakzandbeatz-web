@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-29T21:42:55+00:00",
+  "generated_utc": "2026-10-30T00:44:33+00:00",
   "items": [
     {
       "id": "05aa2656ba65",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "fbf42c26def0",
+      "pillar": "anime",
+      "title": "Dragon Ball Super: Beerus Episode 4 Release Date & Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-episode-4-release-date-time/",
+      "thumbnail": "/drops/thumbs/fbf42c26def0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ab0065009144",
       "pillar": "anime",
       "title": "13 Years Later, Vegeta's Iconic Dragon Ball Moment Hits Just As Hard",
@@ -231,36 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "0008589047e8",
+      "id": "c5d46e759962",
       "pillar": "anime",
-      "title": "Black Clover Ending: Who Becomes The Wizard King And More, Explained",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-ending-explained/",
-      "thumbnail": "/drops/thumbs/0008589047e8.jpg",
+      "title": "Rin Suzukawa's Outsider Paradise Manga Switches Publishers to Kadokawa, Gets Full Color Continuation",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/rin-suzukawa-outsider-paradise-manga-switches-publishers-to-kadokawa-gets-full-color-continuation/.243302",
+      "thumbnail": "/drops/thumbs/c5d46e759962.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ff7db6fea330",
+      "id": "ae35b5991f02",
       "pillar": "anime",
-      "title": "Shōta Kōno Launches Nightmare of Oveja Negra Manga",
+      "title": "Shiretto Sugee koto Itteru Gal Manga Takes 4-5 Month Break",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/shota-kono-launches-nightmare-of-oveja-negra-manga/.243299",
-      "thumbnail": "/drops/thumbs/ff7db6fea330.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f2355e96f759",
-      "pillar": "anime",
-      "title": "Hotel Inhumans Anime's 2nd Season Casts Mitsuki Saiga",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/hotel-inhumans-anime-2nd-season-casts-mitsuki-saiga/.243338",
-      "thumbnail": "/drops/thumbs/f2355e96f759.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/shiretto-sugee-koto-itteru-gal-manga-takes-4-5-month-break/.243301",
+      "thumbnail": "/drops/thumbs/ae35b5991f02.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "ff5cd7d4da29",
+      "id": "ff7db6fea330",
       "pillar": "anime",
-      "title": "Firefly Wedding TV Anime Casts Natsuko Abe",
+      "title": "Shōta Kōno Launches Nightmare of Oveja Negra Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/firefly-wedding-tv-anime-casts-natsuko-abe/.243336",
-      "thumbnail": "/drops/thumbs/ff5cd7d4da29.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-10-29/shota-kono-launches-nightmare-of-oveja-negra-manga/.243299",
+      "thumbnail": "/drops/thumbs/ff7db6fea330.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -293,7 +293,7 @@
     {
       "id": "427e096ad060",
       "pillar": "gaming",
-      "title": "Edge EDGE Grand Theft Auto VI exclusive – The state that never sleeps 17 Comments",
+      "title": "Edge EDGE Grand Theft Auto VI exclusive – The state that never sleeps 19 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/edge/gtavi-cover/",
       "thumbnail": "/drops/thumbs/427e096ad060.jpg",
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "38cdfe273f18",
-      "pillar": "gaming",
-      "title": "BioWare Co-Founder Says EA’s Private Equity Acquisition Was ‘Final Nail In The Coffin’ For The Mass Effect Studio",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/bioware-co-founder-says-eas-acquisition-was-final-nail-in-the-coffin-for-the-mass-effect-studio-2000750626",
-      "thumbnail": "/drops/thumbs/38cdfe273f18.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "ce2361820882",
       "pillar": "gaming",
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
@@ -385,13 +373,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "2aa964120b4c",
+      "pillar": "gaming",
+      "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
+      "thumbnail": "/drops/thumbs/2aa964120b4c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "05aa2656ba65",
     "7170eb9d1690",
     "362f284b3d0d",
-    "ab0065009144",
+    "fbf42c26def0",
     "959632b05ca3",
     "427e096ad060"
   ]
