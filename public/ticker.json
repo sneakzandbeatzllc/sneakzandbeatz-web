@@ -1,10 +1,10 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-31T10:40:02+00:00",
+  "generated_utc": "2026-10-31T13:41:09+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
-      "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
+      "title": "The Air Jordan 14 “Forest Green” Releases Today",
       "url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
       "pillar": "sneakers",
       "score": 3.0,
@@ -60,6 +60,27 @@
       "article_slug": null
     },
     {
+      "title": "Today In Hip Hop History: Cypress Hill Released Their Third Album ‘III: Temples Of Boom’ 31 Years Ago",
+      "url": "https://thesource.com/2026/10/31/today-in-hip-hop-history-cypress-hill-released-their-third-album-iii-temples-of-boom-31-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Today in Hip-Hop History: Outkast Released Their Fourth Studio LP ‘Stankonia’ 26 Years Ago",
+      "url": "https://thesource.com/2026/10/31/today-in-hip-hop-history-outkast-released-their-fourth-studio-lp-stankonia-26-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Today In Hip-Hop History: Jay-Z Dropped His ‘The Dynasty: Roc La Familia’ LP 26 Years Ago",
+      "url": "https://thesource.com/2026/10/31/today-in-hip-hop-history-jay-z-dropped-his-the-dynasty-roc-la-familia-lp-26-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "A$AP Rocky Arrives in Fortnite with Anime Style and Exclusive In-Game Gear",
       "url": "https://thesource.com/2026/10/31/asap-rocky-fortnite-crossover-grim-album/",
       "pillar": "hiphop",
@@ -95,23 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Trump Plans to Deport Over 150 Afghans Through Pakistan, Raising Fears of Taliban Retaliation",
-      "url": "https://thesource.com/2026/10/30/trump-plans-to-deport-over-150-afghans-through-pakistan-raising-fears-of-taliban-retaliation/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Patrick Stewart’s Legendary Salt-N-Pepa Intro on ‘SNL’ and Championing Inclusivity as ‘Professor X’",
-      "url": "https://thesource.com/2026/10/30/patrick-stewarts-legendary-salt-n-pepa-intro-on-snl-and-championing-inclusivity-as-professor-x/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "ACLU Releases Video Showing ICE Agent Slashing Observers Tire in Oregon",
-      "url": "https://thesource.com/2026/10/30/aclu-releases-video-showing-ice-agent-slashing-observers-tire-in-oregon/",
-      "pillar": "hiphop",
+      "title": "Solo Leveling Season 3 Gets Official Release Window",
+      "url": "https://screenrant.com/solo-leveling-season-3-release-window/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -165,14 +172,7 @@
       "article_slug": null
     },
     {
-      "title": "Inherit the Winds Anime Reveals 4 More Cast Members, New Visual",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-31/inherit-the-winds-anime-reveals-4-more-cast-members-new-visual/.243373",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Edge EDGE Grand Theft Auto VI exclusive – The state that never sleeps 29 Comments",
+      "title": "Edge EDGE Grand Theft Auto VI exclusive – The state that never sleeps 34 Comments",
       "url": "https://www.gamesradar.com/edge/gtavi-cover/",
       "pillar": "gaming",
       "score": 1.0,
@@ -200,15 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "Report: BioWare Was Shut Down Because EA Chose Star Wars Over Mass Effect",
-      "url": "https://kotaku.com/bioware-shut-down-mass-effect-star-wars-battlefront-3-ea-cancel-2000751575",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027",
-      "url": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027",
+      "title": "Ex-BioWare Devs Released A 40-Minute Gameplay Video Of Exodus And Yeah, That’s A Mass Effect Spiritual Successor Alright",
+      "url": "https://kotaku.com/ex-bioware-devs-released-a-40-minute-gameplay-video-of-exodus-and-yeah-thats-a-mass-effect-spiritual-successor-alright-2000751572",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "News New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy",
       "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
+      "url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
