@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-31T16:42:25+00:00",
+  "generated_utc": "2026-10-31T19:49:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "Ex-BioWare Devs Released A 40-Minute Gameplay Video Of Exodus And Yeah, That’s A Mass Effect Spiritual Successor Alright",
-      "url": "https://kotaku.com/ex-bioware-devs-released-a-40-minute-gameplay-video-of-exodus-and-yeah-thats-a-mass-effect-spiritual-successor-alright-2000751572",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
       "url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
       "pillar": "gaming",
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy",
-      "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
+      "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
+      "url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’",
+      "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
