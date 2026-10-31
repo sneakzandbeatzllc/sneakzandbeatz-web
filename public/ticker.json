@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-10-31T13:41:09+00:00",
+  "generated_utc": "2026-10-31T16:42:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "The Air Jordan 14 “Forest Green” Releases Today",
-      "url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "The Air Jordan 12 “Fireside” Releases Today",
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
@@ -25,10 +18,24 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 14 “Forest Green” Releases October 31st",
+      "url": "https://sneakerbardetroit.com/air-jordan-14-forest-green-2026-release-date/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
       "url": "https://www.nicekicks.com/air-jordan-6-og-white-infrared-ct8529-105-drop/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 12 “UNC” PE Surfaces With a Denim Upper",
+      "url": "https://justfreshkicks.com/air-jordan-12-unc-pe/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -53,10 +60,24 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 10 “Knicks” Returns August 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "The Source Magazine Remembers MF DOOM Six Years Later",
+      "url": "https://thesource.com/2026/10/31/the-source-magazine-remembers-mf-doom-six-years-later/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "LL Cool J To Be Named NYC Living Landmark By The New York Landmarks Conservancy",
+      "url": "https://thesource.com/2026/10/31/ll-cool-j-to-be-named-nyc-living-landmark-by-the-new-york-landmarks-conservancy/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Yella Beezy Murder-For-Hire Trial Enters Fourth Day As Key State Witness Fails To Testify; Former Source EIC Kim Osorio Questions Media Bias",
+      "url": "https://thesource.com/2026/10/31/yella-beezy-murder-for-hire-trial-enters-fourth-day-as-key-state-witness-fails-to-testify-former-source-eic-kim-osorio-questions-media-bias/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -95,27 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Surveillance Video Captures 15-Year-Old Bronx Ghanaian Student Running For His Life Moments Before Fatal Shooting Amid Bullying Accusations",
-      "url": "https://thesource.com/2026/10/30/surveillance-video-captures-15-year-old-bronx-ghanaian-student-running-for-his-life-moments-before-fatal-shooting-amid-bullying-accusations/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Marvel Drops New ‘Avengers: Doomsday’ Clips as Highlighting Massive Superhero Crossover Movie",
-      "url": "https://thesource.com/2026/10/30/marvel-drops-new-avengers-doomsday-clips-as-highlighting-massive-superhero-crossover-movie/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Ted Cruz Sounds Alarm as Texas Republicans Face Potential Statewide Election Wipeout",
-      "url": "https://thesource.com/2026/10/30/ted-cruz-sounds-alarm-as-texas-republicans-face-potential-statewide-election-wipeout/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling Season 3 Gets Official Release Window",
       "url": "https://screenrant.com/solo-leveling-season-3-release-window/",
       "pillar": "anime",
@@ -123,15 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "After 8 Years, Jujutsu Kaisen's Final Canonical Release Is Officially 3 Months Away",
-      "url": "https://screenrant.com/jujutsu-kaisen-modulo-final-major-release-domain-expansion/",
+      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
+      "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
-      "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
+      "title": "After 9 Years, Black Clover Delivers One Of The Best Fights In Shonen History",
+      "url": "https://screenrant.com/black-clover-magna-dante-fight-best-shonen/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Comisma, Sumitomo Mitsui Trust Bank Establish Anime Production Fund",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-31/comisma-sumitomo-mitsui-trust-bank-establish-anime-production-fund/.243384",
+      "title": "Romelia War Chronicle Anime's 2nd Part Unveils April 2027 Debut, Ending Song's Artist",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-31/romelia-war-chronicle-anime-2nd-part-unveils-april-2027-debut-ending-song-artist/.243390",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Cosplayer Enako Sings, Voice-Acts in Isshiki-san Wants to Know About Love Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-10-31/cosplayer-enako-sings-voice-acts-in-isshiki-san-wants-to-know-about-love-anime/.243383",
+      "title": "Comisma, Sumitomo Mitsui Trust Bank Establish Anime Production Fund",
+      "url": "https://www.animenewsnetwork.com/news/2026-10-31/comisma-sumitomo-mitsui-trust-bank-establish-anime-production-fund/.243384",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "News New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy",
-      "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
+      "title": "News Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
+      "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
-      "url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
+      "title": "News New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy",
+      "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
