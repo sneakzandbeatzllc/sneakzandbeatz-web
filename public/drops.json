@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-01T17:47:14+00:00",
+  "generated_utc": "2026-11-01T20:51:15+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -339,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "abedfe8ac024",
+      "pillar": "gaming",
+      "title": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
+      "thumbnail": "/drops/thumbs/abedfe8ac024.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ce2361820882",
       "pillar": "gaming",
       "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
@@ -357,18 +369,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
       "thumbnail": "/drops/thumbs/2aa964120b4c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "41ee4b93252e",
-      "pillar": "gaming",
-      "title": "Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665",
-      "thumbnail": "/drops/thumbs/41ee4b93252e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
