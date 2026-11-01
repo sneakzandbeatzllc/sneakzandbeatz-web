@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-01T11:44:39+00:00",
+  "generated_utc": "2026-11-01T14:45:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,8 +60,29 @@
       "article_slug": null
     },
     {
+      "title": "Will Smith’s Praise of Biggie’s ‘Ready to Die’ Resurfaces—and Reopens a Long-Running Debate",
+      "url": "https://thesource.com/2026/11/01/will-smiths-praise-of-biggies-ready-to-die-resurfaces-and-reopens-a-long-running-debate/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "‘SNL’ Spoofs Nicki Minaj’s Trump Rally Appearance in Halloween Cold Open",
+      "url": "https://thesource.com/2026/11/01/snl-spoofs-nicki-minajs-trump-rally-appearance-in-halloween-cold-open/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Pooh Shiesty’s Lawyers Sound Alarm on Deteriorating Mental Health in 23-Hour Jail Isolation",
       "url": "https://thesource.com/2026/11/01/pooh-shiestys-lawyers-sound-alarm-on-deteriorating-mental-health-in-23-hour-jail-isolation-2/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "ArtBridge, M·A·C VIVA GLAM, and Public Housing Community Fund Unveil Tallest Mural in the U.S. in the South Bronx",
+      "url": "https://thesource.com/2026/11/01/artbridge-m%c2%b7a%c2%b7c-viva-glam-and-public-housing-community-fund-unveil-tallest-mural-in-the-u-s-in-the-south-bronx/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -90,27 +111,6 @@
     {
       "title": "Marvel Takes Over Seoul With 2,000-Drone Avengers: Doomsday Halloween Spectacle",
       "url": "https://thesource.com/2026/10/31/marvel-takes-over-seoul-with-2000-drone-avengers-doomsday-halloween-spectacle/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Trump’s ‘Send Him Back’ Attack on Michigan Born Candidate Abdul El-Sayed Newest Racist Outcry",
-      "url": "https://thesource.com/2026/10/31/trumps-send-him-back-attack-on-michigan-born-candidate-abdul-el-sayed-newest-racist-outcry/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Mark Cuban Suggests 40-Min Games as Early NBA Season Injuries Erupt in Record Fashion",
-      "url": "https://thesource.com/2026/10/31/mark-cuban-suggests-40-min-games-as-early-nba-season-injuries-erupt-in-record-fashion/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Obama Revives ‘Don’t Boo, Vote’ Message as Democrats Push for Midterm Election Sweep",
-      "url": "https://thesource.com/2026/10/31/obama-revives-dont-boo-vote-message-as-democrats-push-for-midterm-election-sweep/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Hiromasa Okujima Shijūkara ga Naku Koro ni Manga Ends in Next Chapter",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-01/hiromasa-okujima-shijukara-ga-naku-koro-ni-manga-ends-in-next-chapter/.243394",
+      "title": "Bocchi the Rock! Manga Gets Anime Film in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Charisma TV Anime Reveals January 7 Debut in Teaser Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-01/charisma-tv-anime-reveals-january-7-debut-in-teaser-video/.243413",
+      "title": "Jun Kirarazaka's Blobtopia Manga Ends in 3 Chapters",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-01/jun-kirarazaka-blobtopia-manga-ends-in-3-chapters/.243401",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,7 +172,7 @@
       "article_slug": null
     },
     {
-      "title": "Edge EDGE Grand Theft Auto VI exclusive – The state that never sleeps 34 Comments",
+      "title": "Edge EDGE Grand Theft Auto VI exclusive – The state that never sleeps 35 Comments",
       "url": "https://www.gamesradar.com/edge/gtavi-cover/",
       "pillar": "gaming",
       "score": 1.0,
@@ -207,13 +207,6 @@
       "article_slug": null
     },
     {
-      "title": "News Meet Marvel Tokon's Newest Fighting Soul in Full Phoenix Cyclops Character Guide",
-      "url": "https://www.pushsquare.com/news/2026/10/meet-marvel-tokons-newest-fighting-soul-in-full-phoenix-cyclops-character-guide",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
       "url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’",
       "url": "https://kotaku.com/anthropic-nerfs-claude-again-to-stop-users-from-making-ai-slop-out-of-any-specific-existing-game-2000751665",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hardware Review SCUF Omega PS5 Controller - No-Frills Pro Controller Doesn't Do Much to Impress",
+      "url": "https://www.pushsquare.com/features/hardware-review-scuf-omega-ps5-controller-no-frills-pro-controller-doesnt-do-much-to-impress",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
