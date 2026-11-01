@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-01T08:35:58+00:00",
+  "generated_utc": "2026-11-01T11:44:39+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "e509300bb6ea",
+      "pillar": "hiphop",
+      "title": "Pooh Shiesty’s Lawyers Sound Alarm on Deteriorating Mental Health in 23-Hour Jail Isolation",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/01/pooh-shiestys-lawyers-sound-alarm-on-deteriorating-mental-health-in-23-hour-jail-isolation-2/",
+      "thumbnail": "/drops/thumbs/e509300bb6ea.jpg",
+      "published": "2026-11-01T05:45:11",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a4f950e0d6ba",
       "pillar": "hiphop",
       "title": "2026 Midterms: Seven Battlegrounds Could Decide Who Controls Congress and Our Future",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "066d88961dc5",
-      "pillar": "hiphop",
-      "title": "Democrats Gain Major Momentum in Prediction Markets as Midterm Election Betting Heats Up",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/10/31/democrats-gain-major-momentum-in-prediction-markets-as-midterm-election-betting-heats-up/",
-      "thumbnail": "/drops/thumbs/066d88961dc5.jpg",
-      "published": "2026-10-31T17:19:10",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "6ec368137fa8",
       "pillar": "anime",
       "title": "Attack on Titan's 17-Year Journey Project Is Just 1 Month Away",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "f375cb9aa23c",
+      "id": "e81f9f0a3454",
       "pillar": "anime",
-      "title": "Rock is a Lady's Modesty's Hiroshi Fukuda Launches New Manga",
+      "title": "Hiromasa Okujima Shijūkara ga Naku Koro ni Manga Ends in Next Chapter",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-01/rock-is-a-lady-modesty-hiroshi-fukuda-launches-new-manga/.243399",
-      "thumbnail": "/drops/thumbs/f375cb9aa23c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-01/hiromasa-okujima-shijukara-ga-naku-koro-ni-manga-ends-in-next-chapter/.243394",
+      "thumbnail": "/drops/thumbs/e81f9f0a3454.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "4eb504f6263f",
+      "id": "8a6c898273c1",
       "pillar": "anime",
-      "title": "Shiba Inu Rooms Manga Gets TV Anime in Summer 2027",
+      "title": "Charisma TV Anime Reveals January 7 Debut in Teaser Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-10-31/shiba-inu-rooms-manga-gets-tv-anime-in-summer-2027/.243404",
-      "thumbnail": "/drops/thumbs/4eb504f6263f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-01/charisma-tv-anime-reveals-january-7-debut-in-teaser-video/.243413",
+      "thumbnail": "/drops/thumbs/8a6c898273c1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "a4f950e0d6ba",
+    "e509300bb6ea",
     "98769cb0581b",
     "6ec368137fa8",
     "91f7e74de39a",
