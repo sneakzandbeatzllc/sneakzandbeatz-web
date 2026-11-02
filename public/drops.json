@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-01T20:51:15+00:00",
+  "generated_utc": "2026-11-02T00:06:20+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -195,36 +195,36 @@
       "release_badge": ""
     },
     {
-      "id": "6ec368137fa8",
-      "pillar": "anime",
-      "title": "Attack on Titan's 17-Year Journey Project Is Just 1 Month Away",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/attack-on-titan-3-building-to-17-years/",
-      "thumbnail": "/drops/thumbs/6ec368137fa8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6437f51061bc",
-      "pillar": "anime",
-      "title": "Dragon Ball Once Again Failed To Beat The Biggest Anime Of This Generation",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-lost-one-piece/",
-      "thumbnail": "/drops/thumbs/6437f51061bc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "750ff356feaf",
       "pillar": "anime",
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
       "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "19945151468e",
+      "pillar": "anime",
+      "title": "Ranking Black Clover's 15 Strongest Characters Who Dominated The Final Arc",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-clover-10-strongest-characters-final-arc-manga/",
+      "thumbnail": "/drops/thumbs/19945151468e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7bf717394b9b",
+      "pillar": "anime",
+      "title": "After Decades Of Waiting, One Piece Is Gearing Up To Deliver It's Greatest Team Up",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-teamup-zoro-luffy-sanji/",
+      "thumbnail": "/drops/thumbs/7bf717394b9b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "32f61c1d7b5d",
+      "pillar": "gaming",
+      "title": "News Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
+      "thumbnail": "/drops/thumbs/32f61c1d7b5d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2aa964120b4c",
       "pillar": "gaming",
       "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
@@ -373,25 +385,13 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "2c1fd735606f",
-      "pillar": "gaming",
-      "title": "Hardware Review SCUF Omega PS5 Controller - No-Frills Pro Controller Doesn't Do Much to Impress",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/hardware-review-scuf-omega-ps5-controller-no-frills-pro-controller-doesnt-do-much-to-impress",
-      "thumbnail": "/drops/thumbs/2c1fd735606f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "959632b05ca3",
     "9d48b863bd2e",
     "98769cb0581b",
-    "6ec368137fa8",
+    "750ff356feaf",
     "91f7e74de39a",
     "427e096ad060"
   ]

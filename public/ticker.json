@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-01T20:51:15+00:00",
+  "generated_utc": "2026-11-02T00:06:20+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,22 +116,22 @@
       "article_slug": null
     },
     {
-      "title": "Attack on Titan's 17-Year Journey Project Is Just 1 Month Away",
-      "url": "https://screenrant.com/attack-on-titan-3-building-to-17-years/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Dragon Ball Once Again Failed To Beat The Biggest Anime Of This Generation",
-      "url": "https://screenrant.com/dragon-ball-lost-one-piece/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
       "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Ranking Black Clover's 15 Strongest Characters Who Dominated The Final Arc",
+      "url": "https://screenrant.com/black-clover-10-strongest-characters-final-arc-manga/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "After Decades Of Waiting, One Piece Is Gearing Up To Deliver It's Greatest Team Up",
+      "url": "https://screenrant.com/one-piece-teamup-zoro-luffy-sanji/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
-      "url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
+      "title": "News Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free",
+      "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Hardware Review SCUF Omega PS5 Controller - No-Frills Pro Controller Doesn't Do Much to Impress",
-      "url": "https://www.pushsquare.com/features/hardware-review-scuf-omega-ps5-controller-no-frills-pro-controller-doesnt-do-much-to-impress",
+      "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
+      "url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
