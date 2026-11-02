@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-02T00:07:55+00:00",
+  "generated_utc": "2026-11-02T03:36:55+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "bb4a5b00fb32",
+      "pillar": "anime",
+      "title": "Solo Leveling's Only Rival Is Already Stealing The Spotlight From Its Big Return",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-rival-omniscient-readers-viewpoint-steal-spotlight/",
+      "thumbnail": "/drops/thumbs/bb4a5b00fb32.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "750ff356feaf",
       "pillar": "anime",
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
@@ -225,18 +237,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/one-piece-teamup-zoro-luffy-sanji/",
       "thumbnail": "/drops/thumbs/7bf717394b9b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6f8430812f0f",
-      "pillar": "anime",
-      "title": "One Piece's Monster Trio Is Back In A Big Way And The Series Will Never Be The Same",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-monster-trio-back/",
-      "thumbnail": "/drops/thumbs/6f8430812f0f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "959632b05ca3",
     "9d48b863bd2e",
     "98769cb0581b",
-    "750ff356feaf",
+    "bb4a5b00fb32",
     "91f7e74de39a",
     "427e096ad060"
   ]
