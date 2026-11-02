@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-02T15:54:48+00:00",
+  "generated_utc": "2026-11-02T18:56:15+00:00",
   "items": [
     {
       "id": "099d760f5c58",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "95ac06c8b9e7",
+      "id": "73bb7a2ada00",
       "pillar": "anime",
-      "title": "AI no Idenshi's Kyūri Yamada Launches New Manga",
+      "title": "Crunchyroll Adds Gunma-chan Anime's English Dub",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/ai-no-idenshi-kyuri-yamada-launches-new-manga/.243421",
-      "thumbnail": "/drops/thumbs/95ac06c8b9e7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/crunchyroll-adds-gunma-chan-anime-english-dub/.243450",
+      "thumbnail": "/drops/thumbs/73bb7a2ada00.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "123b23815c51",
+      "id": "163be559ce3f",
       "pillar": "anime",
-      "title": "Toshimichi Uzō Launches New Manga",
+      "title": "New 'Nippon Anime Awards' Event Announced for November 2027",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/toshimichi-uzo-launches-new-manga/.243422",
-      "thumbnail": "/drops/thumbs/123b23815c51.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/new-nippon-anime-awards-event-announced-for-november-2027/.243447",
+      "thumbnail": "/drops/thumbs/163be559ce3f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "75e97df95609",
+      "id": "57683673dac1",
       "pillar": "anime",
-      "title": "The Bloodthirsty Bride Devours the King Manga Gets TV Anime in 2027",
+      "title": "Voice Actor Ryūji Nakagi Dies at 89",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/the-bloodthirsty-bride-devours-the-king-manga-gets-tv-anime-in-2027/.243444",
-      "thumbnail": "/drops/thumbs/75e97df95609.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/voice-actor-ryuji-nakagi-dies-at-89/.243446",
+      "thumbnail": "/drops/thumbs/57683673dac1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "b391255c6a24",
+      "id": "a52efff2aa96",
       "pillar": "gaming",
-      "title": "News Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
+      "title": "Poll Which PS5 Games Did You Buy During the Insane Pre-GTA 6 Rush?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands",
-      "thumbnail": "/drops/thumbs/b391255c6a24.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-which-ps5-games-did-you-buy-during-the-insane-pre-gta-6-rush",
+      "thumbnail": "/drops/thumbs/a52efff2aa96.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -321,6 +321,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564491/article/rumor-gta-6-now-has-to-be-played-on-ps5s-latest-system-update-for-security-fixes/",
       "thumbnail": "/drops/thumbs/e76dd4b804f1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b391255c6a24",
+      "pillar": "gaming",
+      "title": "News Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands",
+      "thumbnail": "/drops/thumbs/b391255c6a24.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "4e7b698707d8",
-      "pillar": "gaming",
-      "title": "News Final Fantasy Resonance Producer Had to Fight Square Enix Execs Who Wanted Cheap Port of Dead Mobile Game",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/final-fantasy-resonance-producer-had-to-fight-square-enix-execs-who-wanted-cheap-port-of-dead-mobile-game",
-      "thumbnail": "/drops/thumbs/4e7b698707d8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "dcc1c10d5c15",
     "bb4a5b00fb32",
     "f819ee9b9d42",
-    "b391255c6a24"
+    "a52efff2aa96"
   ]
 }

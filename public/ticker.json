@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-02T15:54:48+00:00",
+  "generated_utc": "2026-11-02T18:56:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,15 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "AI no Idenshi's Kyūri Yamada Launches New Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-02/ai-no-idenshi-kyuri-yamada-launches-new-manga/.243421",
+      "title": "Crunchyroll Adds Gunma-chan Anime's English Dub",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-02/crunchyroll-adds-gunma-chan-anime-english-dub/.243450",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Toshimichi Uzō Launches New Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-02/toshimichi-uzo-launches-new-manga/.243422",
+      "title": "New 'Nippon Anime Awards' Event Announced for November 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-02/new-nippon-anime-awards-event-announced-for-november-2027/.243447",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "The Bloodthirsty Bride Devours the King Manga Gets TV Anime in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-02/the-bloodthirsty-bride-devours-the-king-manga-gets-tv-anime-in-2027/.243444",
+      "title": "Voice Actor Ryūji Nakagi Dies at 89",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-02/voice-actor-ryuji-nakagi-dies-at-89/.243446",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
-      "url": "https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands",
+      "title": "Poll Which PS5 Games Did You Buy During the Insane Pre-GTA 6 Rush?",
+      "url": "https://www.pushsquare.com/features/poll-which-ps5-games-did-you-buy-during-the-insane-pre-gta-6-rush",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,6 +188,13 @@
     {
       "title": "Rumor: GTA 6 Now Has To Be Played On PS5’s Latest System Update For “Security Fixes”",
       "url": "https://gameranx.com/updates/id/564491/article/rumor-gta-6-now-has-to-be-played-on-ps5s-latest-system-update-for-security-fixes/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
+      "url": "https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
       "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Final Fantasy Resonance Producer Had to Fight Square Enix Execs Who Wanted Cheap Port of Dead Mobile Game",
-      "url": "https://www.pushsquare.com/news/2026/11/final-fantasy-resonance-producer-had-to-fight-square-enix-execs-who-wanted-cheap-port-of-dead-mobile-game",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
