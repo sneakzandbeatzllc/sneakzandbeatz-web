@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-02T18:56:15+00:00",
+  "generated_utc": "2026-11-02T21:57:26+00:00",
   "items": [
     {
       "id": "099d760f5c58",
@@ -63,6 +63,18 @@
       "release_badge": "Drops This Month"
     },
     {
+      "id": "77ac79276cc2",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Knicks” Pre Orders Ship in December for $215",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-knicks-ju1525-148/",
+      "thumbnail": "/drops/thumbs/77ac79276cc2.jpg",
+      "published": "2026-11-02T16:09:22",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "9300aa63f76d",
       "pillar": "sneakers",
       "title": "atmos x Air Jordan 12 “Jade” Released Exclusively in Japan",
@@ -70,18 +82,6 @@
       "source_url": "https://www.sneakerfiles.com/atmos-air-jordan-12-jade-atmoscon-2026/",
       "thumbnail": "/drops/thumbs/9300aa63f76d.jpg",
       "published": "2026-11-02T04:25:37",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "91f7e74de39a",
-      "pillar": "sneakers",
-      "title": "Air Jordan 12 “UNC” PE Surfaces With a Denim Upper",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-12-unc-pe/",
-      "thumbnail": "/drops/thumbs/91f7e74de39a.jpg",
-      "published": "2026-10-31T10:25:07",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -96,6 +96,18 @@
       "published": "2026-10-31T09:52:13",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1a0cb547e8a9",
+      "pillar": "hiphop",
+      "title": "Wu-Tang Clan announced “Pop-Up” SiriusXM Channel",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/02/wu-tang-clan-announced-pop-up-siriusxm-channel/",
+      "thumbnail": "/drops/thumbs/1a0cb547e8a9.jpg",
+      "published": "2026-11-02T15:40:35",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "b46df79193db",
-      "pillar": "hiphop",
-      "title": "Private Jet Crashes into Florida Neighborhood Leaving a Crater and Killing Everyone Onboard",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/02/private-jet-crashes-into-florida-neighborhood-leaving-a-crater-and-killing-everyone-onboard/",
-      "thumbnail": "/drops/thumbs/b46df79193db.jpg",
-      "published": "2026-11-02T08:07:46",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bb4a5b00fb32",
       "pillar": "anime",
       "title": "Solo Leveling's Only Rival Is Already Stealing The Spotlight From Its Big Return",
@@ -213,18 +213,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
       "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "19945151468e",
-      "pillar": "anime",
-      "title": "Ranking Black Clover's 15 Strongest Characters Who Dominated The Final Arc",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-10-strongest-characters-final-arc-manga/",
-      "thumbnail": "/drops/thumbs/19945151468e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -261,6 +249,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/jojo-bizarre-adventure-villain-diamond-is-unbreakable/",
       "thumbnail": "/drops/thumbs/991daf1afdf6.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3cd2b170b3ee",
+      "pillar": "anime",
+      "title": "The Manga Creator Who Defined The 2010s Is Officially No Longer Shonen Jump-Exclusive",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/food-wars-creator-shun-saeki-shonen-jump-departure/",
+      "thumbnail": "/drops/thumbs/3cd2b170b3ee.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "1aa334cf45d2",
+      "pillar": "gaming",
+      "title": "Walmart GTA 6 Pre-Orders Will Include A ‘Surprise’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/grand-theft-auto-6-pre-order-walmart-surprise-release-date-2000752341",
+      "thumbnail": "/drops/thumbs/1aa334cf45d2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b391255c6a24",
       "pillar": "gaming",
       "title": "News Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
@@ -373,23 +385,11 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "abedfe8ac024",
-      "pillar": "gaming",
-      "title": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
-      "thumbnail": "/drops/thumbs/abedfe8ac024.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "099d760f5c58",
-    "e0bfd1f7c7f1",
+    "1a0cb547e8a9",
     "dcc1c10d5c15",
     "bb4a5b00fb32",
     "f819ee9b9d42",
