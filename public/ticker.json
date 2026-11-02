@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-02T03:36:55+00:00",
+  "generated_utc": "2026-11-02T06:46:52+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 15 “Black Pack” (Snakeskin) Releases November 2026",
+      "url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
     {
       "title": "The Air Jordan 12 “Fireside” Releases Today",
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 6 “Sport Blue” Returns July 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-6-sport-blue-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 10 “Knicks” Returns August 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -116,6 +116,13 @@
       "article_slug": null
     },
     {
+      "title": "Attack on Titan 3 Game's New Trailer Introduces Gameplay",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-01/attack-on-titan-3-game-new-trailer-introduces-gameplay/.243418",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Solo Leveling's Only Rival Is Already Stealing The Spotlight From Its Big Return",
       "url": "https://screenrant.com/solo-leveling-rival-omniscient-readers-viewpoint-steal-spotlight/",
       "pillar": "anime",
@@ -137,22 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "After Decades Of Waiting, One Piece Is Gearing Up To Deliver It's Greatest Team Up",
-      "url": "https://screenrant.com/one-piece-teamup-zoro-luffy-sanji/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Japanese Animation TV Ranking, October 19-25",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-01/japanese-animation-tv-ranking-october-19-25/.243409",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Bocchi the Rock! Manga Gets Anime Film in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417",
+      "title": "Opera Manga Magazine Announces Shift to Digital Publication",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-02/opera-manga-magazine-announces-shift-to-digital-publication/.243425",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Jun Kirarazaka's Blobtopia Manga Ends in 3 Chapters",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-01/jun-kirarazaka-blobtopia-manga-ends-in-3-chapters/.243401",
+      "title": "Nobuyuki Takahashi Ends Parallel Leap Syndrome Manga in 2 Chapters",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-01/nobuyuki-takahashi-ends-parallel-leap-syndrome-manga-in-2-chapters/.243416",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "10 Anime You Can't Watch Just Once",
+      "url": "https://screenrant.com/best-anime-must-watch-more-than-once/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

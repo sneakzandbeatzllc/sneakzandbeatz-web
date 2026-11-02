@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-02T03:36:55+00:00",
+  "generated_utc": "2026-11-02T06:46:52+00:00",
   "items": [
+    {
+      "id": "f819ee9b9d42",
+      "pillar": "sneakers",
+      "title": "Air Jordan 15 “Black Pack” (Snakeskin) Releases November 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-15-snakeskin/",
+      "thumbnail": "/drops/thumbs/f819ee9b9d42.jpg",
+      "published": "2026-11-01T22:42:02",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "959632b05ca3",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-6-sport-blue-2027/",
       "thumbnail": "/drops/thumbs/cfc45f2170b5.jpg",
       "published": "2026-10-28T00:03:53",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5623a8b2a2b3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 10 “Knicks” Returns August 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-10-knicks-2027/",
-      "thumbnail": "/drops/thumbs/5623a8b2a2b3.jpg",
-      "published": "2026-10-28T00:02:46",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "c689cdf0fc72",
+      "pillar": "anime",
+      "title": "Attack on Titan 3 Game's New Trailer Introduces Gameplay",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-01/attack-on-titan-3-game-new-trailer-introduces-gameplay/.243418",
+      "thumbnail": "/drops/thumbs/c689cdf0fc72.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bb4a5b00fb32",
       "pillar": "anime",
       "title": "Solo Leveling's Only Rival Is Already Stealing The Spotlight From Its Big Return",
@@ -231,36 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "7bf717394b9b",
+      "id": "dac1853ea43f",
       "pillar": "anime",
-      "title": "After Decades Of Waiting, One Piece Is Gearing Up To Deliver It's Greatest Team Up",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-teamup-zoro-luffy-sanji/",
-      "thumbnail": "/drops/thumbs/7bf717394b9b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "1c20a2ed4bc0",
-      "pillar": "anime",
-      "title": "Japanese Animation TV Ranking, October 19-25",
+      "title": "Opera Manga Magazine Announces Shift to Digital Publication",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-01/japanese-animation-tv-ranking-october-19-25/.243409",
-      "thumbnail": "/drops/thumbs/1c20a2ed4bc0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "dc592b3e7b5e",
-      "pillar": "anime",
-      "title": "Bocchi the Rock! Manga Gets Anime Film in 2027",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417",
-      "thumbnail": "/drops/thumbs/dc592b3e7b5e.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/opera-manga-magazine-announces-shift-to-digital-publication/.243425",
+      "thumbnail": "/drops/thumbs/dac1853ea43f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "143d32be08bb",
+      "id": "eff91097cdb4",
       "pillar": "anime",
-      "title": "Jun Kirarazaka's Blobtopia Manga Ends in 3 Chapters",
+      "title": "Nobuyuki Takahashi Ends Parallel Leap Syndrome Manga in 2 Chapters",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-01/jun-kirarazaka-blobtopia-manga-ends-in-3-chapters/.243401",
-      "thumbnail": "/drops/thumbs/143d32be08bb.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-01/nobuyuki-takahashi-ends-parallel-leap-syndrome-manga-in-2-chapters/.243416",
+      "thumbnail": "/drops/thumbs/eff91097cdb4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "72f1a0e6654f",
+      "pillar": "anime",
+      "title": "10 Anime You Can't Watch Just Once",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-anime-must-watch-more-than-once/",
+      "thumbnail": "/drops/thumbs/72f1a0e6654f.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "959632b05ca3",
+    "f819ee9b9d42",
     "9d48b863bd2e",
+    "959632b05ca3",
+    "c689cdf0fc72",
     "98769cb0581b",
-    "bb4a5b00fb32",
-    "91f7e74de39a",
     "427e096ad060"
   ]
 }
