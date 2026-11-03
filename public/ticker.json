@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-02T21:57:26+00:00",
+  "generated_utc": "2026-11-03T00:58:35+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Solo Leveling's Only Rival Is Already Stealing The Spotlight From Its Big Return",
-      "url": "https://screenrant.com/solo-leveling-rival-omniscient-readers-viewpoint-steal-spotlight/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
       "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
       "pillar": "anime",
@@ -130,15 +123,22 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Adds Gunma-chan Anime's English Dub",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-02/crunchyroll-adds-gunma-chan-anime-english-dub/.243450",
+      "title": "Urban Myth Dissolution Center Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-02/urban-myth-dissolution-center-manga-ends/.243452",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "New 'Nippon Anime Awards' Event Announced for November 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-02/new-nippon-anime-awards-event-announced-for-november-2027/.243447",
+      "title": "25 Most Powerful Anime Mages",
+      "url": "https://screenrant.com/most-powerful-anime-mages/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Drama Queen Manga Ends in 4 Chapters",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-02/drama-queen-manga-ends-in-4-chapters/.243455",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Voice Actor Ryūji Nakagi Dies at 89",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-02/voice-actor-ryuji-nakagi-dies-at-89/.243446",
+      "title": "Trigun Anime Gets New Novel This Winter",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-02/trigun-anime-gets-new-novel-this-winter/.243456",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,8 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 lead channels the spirit of Skyrim-era Todd Howard: \"You can go anywhere, any random location\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lead-channels-the-spirit-of-skyrim-era-todd-howard-you-can-go-anywhere-any-random-location-and-so-many-people-have-thought-about-that-location/",
+      "title": "Edge EDGE Grand Theft Auto VI exclusive – The state that never sleeps 31 Comments",
+      "url": "https://www.gamesradar.com/edge/gtavi-cover/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,20 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "News Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
-      "url": "https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Edge EDGE Grand Theft Auto VI exclusive – The state that never sleeps 31 Comments",
-      "url": "https://www.gamesradar.com/edge/gtavi-cover/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "South Park Shares Preview Of A Dogged Throwdown In GTA 6",
       "url": "https://gameranx.com/updates/id/564486/article/south-park-shares-preview-of-a-dogged-throwdown-in-gta-6/",
       "pillar": "gaming",
@@ -223,6 +209,20 @@
     {
       "title": "Rumor: GTA 6’s Rumor Embargo Ends On November 18 – And Review Copies Are Going Out Now",
       "url": "https://gameranx.com/updates/id/564481/article/rumor-gta-6s-rumor-embargo-ends-on-november-18-and-review-copies-are-going-out-now/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Final Fantasy Resonance Producer Had to Fight Square Enix Execs Who Wanted Cheap Port of Dead Mobile Game",
+      "url": "https://www.pushsquare.com/news/2026/11/final-fantasy-resonance-producer-had-to-fight-square-enix-execs-who-wanted-cheap-port-of-dead-mobile-game",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Final Fantasy Resonance lead had to fight Square Enix execs for more than a basic port for the JRPG",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-lead-had-to-fight-square-enix-execs-for-more-than-a-basic-port-for-the-jrpg/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
