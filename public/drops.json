@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-03T04:06:14+00:00",
+  "generated_utc": "2026-11-03T07:15:50+00:00",
   "items": [
     {
       "id": "099d760f5c58",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "344fc2a6a0bc",
+      "pillar": "hiphop",
+      "title": "Timbaland Files $15 Million Lawsuit Against Former Managers Alleging Financial Mismanagement and Theft",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/02/timbaland-files-15-million-lawsuit-against-former-managers-alleging-financial-mismanagement-and-theft/",
+      "thumbnail": "/drops/thumbs/344fc2a6a0bc.jpg",
+      "published": "2026-11-02T23:08:25",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "1a0cb547e8a9",
       "pillar": "hiphop",
       "title": "Wu-Tang Clan announced “Pop-Up” SiriusXM Channel",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/11/02/cowboys-blow-14-point-4th-quarter-lead-losing-to-lowly-cardinals-headlining-wild-nfl-week-8/",
       "thumbnail": "/drops/thumbs/e3836fa7919d.jpg",
       "published": "2026-11-02T08:13:31",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9b1b1f8ccb02",
-      "pillar": "hiphop",
-      "title": "Election Day Eve: Trump’s Approval Dives as Democrats Eye Congressional Takeover",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/02/election-day-eve-trumps-approval-dives-as-democrats-eye-congressional-takeover/",
-      "thumbnail": "/drops/thumbs/9b1b1f8ccb02.jpg",
-      "published": "2026-11-02T08:11:53",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "a52efff2aa96",
+      "id": "b391255c6a24",
       "pillar": "gaming",
-      "title": "Poll Which PS5 Games Did You Buy During the Insane Pre-GTA 6 Rush?",
+      "title": "News Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-which-ps5-games-did-you-buy-during-the-insane-pre-gta-6-rush",
-      "thumbnail": "/drops/thumbs/a52efff2aa96.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands",
+      "thumbnail": "/drops/thumbs/b391255c6a24.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "a52efff2aa96",
+      "pillar": "gaming",
+      "title": "Poll Which PS5 Games Did You Buy During the Insane Pre-GTA 6 Rush?",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/poll-which-ps5-games-did-you-buy-during-the-insane-pre-gta-6-rush",
+      "thumbnail": "/drops/thumbs/a52efff2aa96.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "21ae4cf712ea",
       "pillar": "gaming",
       "title": "South Park Shares Preview Of A Dogged Throwdown In GTA 6",
@@ -363,18 +375,6 @@
       "release_badge": ""
     },
     {
-      "id": "4e7b698707d8",
-      "pillar": "gaming",
-      "title": "News Final Fantasy Resonance Producer Had to Fight Square Enix Execs Who Wanted Cheap Port of Dead Mobile Game",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/final-fantasy-resonance-producer-had-to-fight-square-enix-execs-who-wanted-cheap-port-of-dead-mobile-game",
-      "thumbnail": "/drops/thumbs/4e7b698707d8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "12a9027fdfed",
       "pillar": "gaming",
       "title": "Final Fantasy Resonance lead had to fight Square Enix execs for more than a basic port for the JRPG",
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "099d760f5c58",
-    "1a0cb547e8a9",
+    "344fc2a6a0bc",
     "dcc1c10d5c15",
     "750ff356feaf",
     "f819ee9b9d42",
-    "a52efff2aa96"
+    "b391255c6a24"
   ]
 }
