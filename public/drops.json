@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-03T10:17:04+00:00",
+  "generated_utc": "2026-11-03T13:18:24+00:00",
   "items": [
     {
       "id": "099d760f5c58",
@@ -99,6 +99,42 @@
       "release_badge": ""
     },
     {
+      "id": "11b3efd22a40",
+      "pillar": "hiphop",
+      "title": "NFL Star Joe Mixon Mourns 9 Victims of Tragic Florida Plane Crash After Revealing He Flew on Exact Jet Weeks Earlier",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/03/nfl-star-joe-mixon-mourns-9-victims-of-tragic-florida-plane-crash-after-revealing-he-flew-on-exact-jet-weeks-earlier/",
+      "thumbnail": "/drops/thumbs/11b3efd22a40.jpg",
+      "published": "2026-11-03T07:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "46826803210a",
+      "pillar": "hiphop",
+      "title": "Supreme Court Blocks Trump DOJ Effort to Sideline 20,000 California Ballots",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/03/supreme-court-blocks-trump-doj-effort-to-sideline-20000-california-ballots/",
+      "thumbnail": "/drops/thumbs/46826803210a.jpg",
+      "published": "2026-11-03T06:50:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b52969a803a6",
+      "pillar": "hiphop",
+      "title": "When We All Vote Reaches 30 Million Voters Ahead of Election Day",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/03/when-we-all-vote-party-at-the-polls-election-day/",
+      "thumbnail": null,
+      "published": "2026-11-03T05:24:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7474d99e2bea",
       "pillar": "hiphop",
       "title": "Reebok and Allen Iverson Unveil the ‘Question Mid Recoded’ for 30th Anniversary",
@@ -159,42 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "1a0cb547e8a9",
-      "pillar": "hiphop",
-      "title": "Wu-Tang Clan announced “Pop-Up” SiriusXM Channel",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/02/wu-tang-clan-announced-pop-up-siriusxm-channel/",
-      "thumbnail": "/drops/thumbs/1a0cb547e8a9.jpg",
-      "published": "2026-11-02T15:40:35",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e0bfd1f7c7f1",
-      "pillar": "hiphop",
-      "title": "Black Thought Honors MF DOOM with Iconic Replica Mask During Gorillaz’s Sold-Out Seattle Halloween Show",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/02/black-thought-honors-mf-doom-with-iconic-replica-mask-during-gorillazs-sold-out-seattle-halloween-show/",
-      "thumbnail": "/drops/thumbs/e0bfd1f7c7f1.jpg",
-      "published": "2026-11-02T10:41:12",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d10a3a2d7626",
-      "pillar": "hiphop",
-      "title": "Today In Hip Hop History: Lil Wayne Dropped His Debut Album ‘The Block Is Hot’ 27 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/02/today-in-hip-hop-history-lil-wayne-dropped-his-debut-album-the-block-is-hot-27-years-ago/",
-      "thumbnail": "/drops/thumbs/d10a3a2d7626.jpg",
-      "published": "2026-11-02T10:01:21",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "750ff356feaf",
       "pillar": "anime",
       "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
@@ -207,12 +207,12 @@
       "release_badge": ""
     },
     {
-      "id": "11cac2ed4925",
+      "id": "9e62db2d13e3",
       "pillar": "anime",
-      "title": "Urban Myth Dissolution Center Manga Ends",
+      "title": "I'm Not Even an NPC In This Otome Game! Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/urban-myth-dissolution-center-manga-ends/.243452",
-      "thumbnail": "/drops/thumbs/11cac2ed4925.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/im-not-even-an-npc-in-this-otome-game-manga-ends/.243461",
+      "thumbnail": "/drops/thumbs/9e62db2d13e3.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +231,12 @@
       "release_badge": ""
     },
     {
-      "id": "90c91ece82d5",
+      "id": "11cac2ed4925",
       "pillar": "anime",
-      "title": "Drama Queen Manga Ends in 4 Chapters",
+      "title": "Urban Myth Dissolution Center Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/drama-queen-manga-ends-in-4-chapters/.243455",
-      "thumbnail": "/drops/thumbs/90c91ece82d5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/urban-myth-dissolution-center-manga-ends/.243452",
+      "thumbnail": "/drops/thumbs/11cac2ed4925.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "4fbb0237da9c",
+      "id": "90c91ece82d5",
       "pillar": "anime",
-      "title": "Trigun Anime Gets New Novel This Winter",
+      "title": "Drama Queen Manga Ends in 4 Chapters",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/trigun-anime-gets-new-novel-this-winter/.243456",
-      "thumbnail": "/drops/thumbs/4fbb0237da9c.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-02/drama-queen-manga-ends-in-4-chapters/.243455",
+      "thumbnail": "/drops/thumbs/90c91ece82d5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,18 +285,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/best-anime-must-watch-more-than-once/",
       "thumbnail": "/drops/thumbs/72f1a0e6654f.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b391255c6a24",
-      "pillar": "gaming",
-      "title": "News Sony Fighting GTA 6 PS5 Piracy with New Firmware Demands",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/sony-fighting-gta-6-ps5-piracy-with-new-firmware-demands",
-      "thumbnail": "/drops/thumbs/b391255c6a24.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "12a9027fdfed",
+      "id": "ce2361820882",
       "pillar": "gaming",
-      "title": "Final Fantasy Resonance lead had to fight Square Enix execs for more than a basic port for the JRPG",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-lead-had-to-fight-square-enix-execs-for-more-than-a-basic-port-for-the-jrpg/",
-      "thumbnail": "/drops/thumbs/12a9027fdfed.jpg",
+      "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
+      "thumbnail": "/drops/thumbs/ce2361820882.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "c21c3b6c23d0",
+      "pillar": "gaming",
+      "title": "News Borderlands Has Sold 100 Million Units Across the Series, and There's a Shift Key to Celebrate",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/borderlands-has-sold-100-million-units-across-the-series-and-theres-a-shift-key-to-celebrate",
+      "thumbnail": "/drops/thumbs/c21c3b6c23d0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "099d760f5c58",
-    "7474d99e2bea",
+    "11b3efd22a40",
     "dcc1c10d5c15",
     "750ff356feaf",
     "f819ee9b9d42",
-    "b391255c6a24"
+    "427e096ad060"
   ]
 }
