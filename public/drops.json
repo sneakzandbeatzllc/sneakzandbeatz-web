@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-04T13:57:17+00:00",
+  "generated_utc": "2026-11-04T16:58:36+00:00",
   "items": [
+    {
+      "id": "98769cb0581b",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-6-og-white-infrared-ct8529-105-drop/",
+      "thumbnail": "/drops/thumbs/98769cb0581b.jpg",
+      "published": "2026-11-03T07:00:00",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "099d760f5c58",
       "pillar": "sneakers",
@@ -49,18 +61,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
-    },
-    {
-      "id": "98769cb0581b",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-6-og-white-infrared-ct8529-105-drop/",
-      "thumbnail": "/drops/thumbs/98769cb0581b.jpg",
-      "published": "2026-10-23T07:00:00",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
     },
     {
       "id": "43bb702fed8c",
@@ -243,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "91cff39528b3",
+      "id": "dd8c0f01be19",
       "pillar": "anime",
-      "title": "Sakamoto Holidays Manga Heads Towards Climax",
+      "title": "Yayū Murata Launches Kickstarter for Across the Strange Edge Manga's 2nd Volume, Deluxe Hardcover Omnibus",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-04/sakamoto-holidays-manga-heads-towards-climax/.243496",
-      "thumbnail": "/drops/thumbs/91cff39528b3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-04/yayu-murata-launches-kickstarter-for-across-the-strange-edge-manga-2nd-volume-deluxe-hardcover-/.243521",
+      "thumbnail": "/drops/thumbs/dd8c0f01be19.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "33689153b0ad",
+      "id": "0f03518b65ba",
       "pillar": "anime",
-      "title": "Reincarnation in the Game World Dan-Katsu Anime's Teaser Reveals More Cast, Theme Songs",
+      "title": "Sugar Apple Fairy Tale's Miri Mikawa, Brave10's Kairi Shimotsuki Launch New Manga on November 24",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-04/reincarnation-in-the-game-world-dan-katsu-anime-teaser-reveals-more-cast-theme-songs/.243515",
-      "thumbnail": "/drops/thumbs/33689153b0ad.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-04/sugar-apple-fairy-tale-miri-mikawa-brave10-kairi-shimotsuki-launch-new-manga-on-november-24/.243510",
+      "thumbnail": "/drops/thumbs/0f03518b65ba.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "8835fe284370",
+      "id": "91cff39528b3",
       "pillar": "anime",
-      "title": "Butt Detective TV Anime Gets New Episodes Starting Next April",
+      "title": "Sakamoto Holidays Manga Heads Towards Climax",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/butt-detective-tv-anime-gets-new-episodes-starting-next-april/.243508",
-      "thumbnail": "/drops/thumbs/8835fe284370.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-04/sakamoto-holidays-manga-heads-towards-climax/.243496",
+      "thumbnail": "/drops/thumbs/91cff39528b3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "d7b11940ab32",
+      "id": "3c14a502d43e",
       "pillar": "gaming",
-      "title": "Guide Stellar Blade Guide: A Full 100% Walkthrough",
+      "title": "News Stellar Blade's Eve and Friends Infiltrate Overwatch in All-New Crossover",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/stellar-blade-guide-a-full-100percent-walkthrough",
-      "thumbnail": "/drops/thumbs/d7b11940ab32.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/stellar-blades-eve-and-friends-infiltrate-overwatch-in-all-new-crossover",
+      "thumbnail": "/drops/thumbs/3c14a502d43e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "099d760f5c58",
+    "98769cb0581b",
     "084f71a4eac9",
-    "dcc1c10d5c15",
+    "099d760f5c58",
     "7a6d5a7b1cfb",
-    "f819ee9b9d42",
+    "dcc1c10d5c15",
     "e33a7aea8926"
   ]
 }
