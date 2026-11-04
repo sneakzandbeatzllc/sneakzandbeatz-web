@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-04T04:51:05+00:00",
+  "generated_utc": "2026-11-04T07:54:38+00:00",
   "items": [
     {
       "id": "099d760f5c58",
@@ -291,6 +291,18 @@
       "release_badge": ""
     },
     {
+      "id": "102d5ad81199",
+      "pillar": "gaming",
+      "title": "Guide GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+      "thumbnail": "/drops/thumbs/102d5ad81199.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e33a7aea8926",
       "pillar": "gaming",
       "title": "Grand Theft Auto bonus that used to be free with every physical game is now a $1 purchase for GTA 6",
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "ce2361820882",
-      "pillar": "gaming",
-      "title": "Who Will Save Bioware Now? The Mass Effect TV Show? Or The Canadian Government?",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564473/article/who-will-save-bioware-now-the-mass-effect-tv-show-or-the-canadian-government/",
-      "thumbnail": "/drops/thumbs/ce2361820882.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "dcc1c10d5c15",
     "7a6d5a7b1cfb",
     "f819ee9b9d42",
-    "e33a7aea8926"
+    "102d5ad81199"
   ]
 }
