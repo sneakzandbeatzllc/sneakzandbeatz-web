@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-03T22:32:08+00:00",
+  "generated_utc": "2026-11-04T01:36:07+00:00",
   "items": [
     {
       "id": "099d760f5c58",
@@ -195,12 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "ff31d25630fe",
+      "id": "7a6d5a7b1cfb",
       "pillar": "anime",
-      "title": "Hollywood Reporter: Sony to Co-Finance, Distribute Live-Action Naruto Film, Begin Production in Spring 2027",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/hollywood-reporter-sony-to-co-finance-distribute-live-action-naruto-film-begin-production-in-spring-/.243485",
-      "thumbnail": "/drops/thumbs/ff31d25630fe.jpg",
+      "title": "Dragon Ball's New Anime Proves That Toei Is Holding The Franchise Back",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-anime-dub-movie-mistake/",
+      "thumbnail": "/drops/thumbs/7a6d5a7b1cfb.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "16f5a515a04b",
+      "pillar": "anime",
+      "title": "Every Main Dragon Ball Villain, Ranked From Weakest To Strongest",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/all-dragon-ball-villains-ranked-weakest-strongest/",
+      "thumbnail": "/drops/thumbs/16f5a515a04b.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "a43525bd1e84",
+      "id": "18112ae7b571",
       "pillar": "anime",
-      "title": "'I'm Running for Crown Princess, but All I Want is a Steady Paycheck!' Manga Ends",
+      "title": "Witch on the Holy Night Film Gets Manga Adaptation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/im-running-for-crown-princess-but-all-i-want-is-a-steady-paycheck-manga-ends/.243474",
-      "thumbnail": "/drops/thumbs/a43525bd1e84.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/witch-on-the-holy-night-film-gets-manga-adaptation/.243494",
+      "thumbnail": "/drops/thumbs/18112ae7b571.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3efe2a9f261e",
+      "pillar": "anime",
+      "title": "Kaeruno Erefante Launches Manga Diary of a Male Porn Star Sequel",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/kaeruno-erefante-launches-manga-diary-of-a-male-porn-star-sequel/.243477",
+      "thumbnail": "/drops/thumbs/3efe2a9f261e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,48 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "1d2911fb4ebf",
+      "id": "4111bb0eced6",
       "pillar": "anime",
-      "title": "After 3 Years, Netflix’s Blue Eye Samurai Season 2 Lands Official Release Date",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-blue-eye-samurai-season-2-release-date/",
-      "thumbnail": "/drops/thumbs/1d2911fb4ebf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f2155c90ef7a",
-      "pillar": "anime",
-      "title": "Seraph of the End Manga Ends on December 4",
+      "title": "Otaku Vampire's Love Bite Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/seraph-of-the-end-manga-ends-on-december-4/.243493",
-      "thumbnail": "/drops/thumbs/f2155c90ef7a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e9b6e444a248",
-      "pillar": "anime",
-      "title": "Hideo Kojima Brutally Rejected Anime Adaptation Of His Most Iconic Game",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/hideo-kojima-rejected-metal-gear-anime/",
-      "thumbnail": "/drops/thumbs/e9b6e444a248.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "81be9ecf5652",
-      "pillar": "gaming",
-      "title": "News GTA 6 PS5 File Size Confirmed to Be 212GB, Physical Map Available But Not in Boxed Copies",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-file-size-confirmed-to-be-212gb-physical-map-available-but-not-in-boxed-copies",
-      "thumbnail": "/drops/thumbs/81be9ecf5652.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-03/otaku-vampire-love-bite-manga-gets-tv-anime/.243498",
+      "thumbnail": "/drops/thumbs/4111bb0eced6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "01b8f9d6bbcf",
+      "pillar": "gaming",
+      "title": "News PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts",
+      "thumbnail": "/drops/thumbs/01b8f9d6bbcf.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "099d760f5c58",
     "93df3f5a38d1",
     "dcc1c10d5c15",
-    "ff31d25630fe",
+    "7a6d5a7b1cfb",
     "f819ee9b9d42",
-    "81be9ecf5652"
+    "e33a7aea8926"
   ]
 }
