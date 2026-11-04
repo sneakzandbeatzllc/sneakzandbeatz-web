@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-04T19:59:46+00:00",
+  "generated_utc": "2026-11-04T23:01:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 6 OG “White Infrared” (CT8529-105) November 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/air-jordan-6-og-white-infrared-ct8529-105-drop/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "Air Jordan 1 High OG “Starfall” Releases November 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-starfall/",
@@ -55,6 +48,13 @@
     {
       "title": "atmos x Air Jordan 12 “Jade” Released Exclusively in Japan",
       "url": "https://www.sneakerfiles.com/atmos-air-jordan-12-jade-atmoscon-2026/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Where To Buy the Air Jordan 14 “Forest Green”",
+      "url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Reincarnated as a Sword Season 2 Anime Reveals Trailer, Visual, Cast for Seedrun Arc",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-04/reincarnated-as-a-sword-season-2-anime-reveals-trailer-visual-cast-for-seedrun-arc/.243523",
+      "title": "Make the Exorcist Fall in Love Manga Starts Final Arc",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/make-the-exorcist-fall-in-love-manga-starts-final-arc/.243514",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Yayū Murata Launches Kickstarter for Across the Strange Edge Manga's 2nd Volume, Deluxe Hardcover Omnibus",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-04/yayu-murata-launches-kickstarter-for-across-the-strange-edge-manga-2nd-volume-deluxe-hardcover-/.243521",
+      "title": "Reincarnated as a Sword Season 2 Anime Reveals Trailer, Visual, Cast for Seedrun Arc",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/reincarnated-as-a-sword-season-2-anime-reveals-trailer-visual-cast-for-seedrun-arc/.243523",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -181,13 +181,6 @@
     {
       "title": "Rumor: GTA 6 Will Have PSSR and Ray Tracing On PS5 Pro",
       "url": "https://gameranx.com/updates/id/564497/article/rumor-gta-6-will-have-pssr-and-ray-tracing-on-ps5-pro/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Fan Who Went Viral Wishing To Stay Alive Long Enough To Play GTA 6 Has Passed Away",
-      "url": "https://kotaku.com/fan-who-went-viral-wishing-to-stay-alive-long-enough-to-play-gta-6-has-passed-away-2000752775",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "News PS5 Exclusive God of War Laufey Has Officially Been Delayed by Three Months",
       "url": "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "God of War Laufey delayed as Sony Santa Monica promises to \"make the most of each moment until then\"",
+      "url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-delayed-sony-santa-monica-says-we-appreciate-your-patience-as-ps5s-early-2027-hitter-slips/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
