@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-05T20:53:27+00:00",
+  "generated_utc": "2026-11-05T23:55:47+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -15,6 +15,13 @@
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 3 “Paris” Releases June 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-paris/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
       "url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
-      "url": "https://www.nicekicks.com/air-jordan-4-og-fire-red-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -116,8 +116,8 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyhroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-05/crunchyhroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565",
+      "title": "Crunchyroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-05/crunchyroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

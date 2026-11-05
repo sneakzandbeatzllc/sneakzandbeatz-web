@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-05T20:53:27+00:00",
+  "generated_utc": "2026-11-05T23:55:47+00:00",
   "items": [
     {
       "id": "099d760f5c58",
@@ -25,6 +25,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
+    },
+    {
+      "id": "d99abb848fac",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Paris” Releases June 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-paris/",
+      "thumbnail": "/drops/thumbs/d99abb848fac.jpg",
+      "published": "2026-11-05T15:29:00",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "8df2d0a10fe4",
@@ -82,18 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
       "thumbnail": "/drops/thumbs/05aa2656ba65.jpg",
       "published": "2026-10-28T09:00:00",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "699ceb4333c7",
-      "pillar": "sneakers",
-      "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-og-fire-red-2027/",
-      "thumbnail": "/drops/thumbs/699ceb4333c7.jpg",
-      "published": "2026-10-26T09:20:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,12 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "082a406093f4",
+      "id": "3bff1e896149",
       "pillar": "anime",
-      "title": "Crunchyhroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12",
+      "title": "Crunchyroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-05/crunchyhroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565",
-      "thumbnail": "/drops/thumbs/082a406093f4.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-05/crunchyroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565",
+      "thumbnail": "/drops/thumbs/3bff1e896149.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,8 +391,8 @@
     "099d760f5c58",
     "bf75227693d3",
     "959632b05ca3",
-    "082a406093f4",
-    "8df2d0a10fe4",
+    "3bff1e896149",
+    "d99abb848fac",
     "1507608823a5"
   ]
 }
