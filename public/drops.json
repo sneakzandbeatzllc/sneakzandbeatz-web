@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-06T15:07:41+00:00",
+  "generated_utc": "2026-11-06T18:10:09+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -15,13 +15,13 @@
       "release_badge": "Drops This Week"
     },
     {
-      "id": "d99abb848fac",
+      "id": "aae4ab45ab5a",
       "pillar": "sneakers",
-      "title": "Air Jordan 3 “Paris” Releases June 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-paris/",
-      "thumbnail": "/drops/thumbs/d99abb848fac.jpg",
-      "published": "2026-11-05T15:29:00",
+      "title": "Air Jordan 3 “Paris” Release Date, Price and Photos",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-3-paris-jj3727-100/",
+      "thumbnail": "/drops/thumbs/aae4ab45ab5a.jpg",
+      "published": "2026-11-06T10:41:21",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -96,6 +96,18 @@
       "published": "2026-10-17T09:55:41",
       "relative_time": "today",
       "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3ef29a69e14b",
+      "pillar": "hiphop",
+      "title": "Federal Prosecutors Accuse Lil Durk Of Planning Kanye West Court Appearance And Paying Supporters Amid Bond Battle",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/06/federal-prosecutors-accuse-lil-durk-of-planning-kanye-west-court-appearance-and-paying-supporters-amid-bond-battle/",
+      "thumbnail": "/drops/thumbs/3ef29a69e14b.jpg",
+      "published": "2026-11-06T09:52:43",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/11/05/carmelo-and-la-la-anthony-officially-reach-divorce-settlement/",
       "thumbnail": "/drops/thumbs/d1c390a4c450.jpg",
       "published": "2026-11-05T07:25:54",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6a8a1c1d43cd",
-      "pillar": "hiphop",
-      "title": "Democrats Sweep 2026 Midterms as Republicans Blame Iran War",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/05/democrats-sweep-2026-midterms-as-republicans-blame-iran-war/",
-      "thumbnail": "/drops/thumbs/6a8a1c1d43cd.jpg",
-      "published": "2026-11-05T07:23:54",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,8 +389,8 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "b82698207c86",
-    "d99abb848fac",
+    "3ef29a69e14b",
+    "aae4ab45ab5a",
     "9506db659ea3",
     "8df2d0a10fe4",
     "102d5ad81199"
