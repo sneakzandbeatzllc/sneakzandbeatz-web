@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-06T12:03:18+00:00",
+  "generated_utc": "2026-11-06T15:07:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Today In Hip-Hop History: The Source Magazine Remembers Def Squad Member and Erick Sermon’s BM Hurricane G Four Years Later",
+      "url": "https://thesource.com/2026/11/06/today-in-hip-hop-history-the-source-magazine-remembers-def-squad-member-and-erick-sermons-bm-hurricane-g-four-years-later/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Today In Hip-Hop History: Jay-Z Dropped His ‘American Gangster’ Soundtrack 19 Years Ago",
+      "url": "https://thesource.com/2026/11/06/today-in-hip-hop-history-jay-z-dropped-his-american-gangster-soundtrack-19-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Lil Durk Remains Behind Bars As Federal Judge Delays Bond Decision Following Two-Hour Hearing",
       "url": "https://thesource.com/2026/11/05/lil-durk-remains-behind-bars-as-federal-judge-delays-bond-decision-following-two-hour-hearing/",
       "pillar": "hiphop",
@@ -97,20 +111,6 @@
     {
       "title": "Democrats Sweep 2026 Midterms as Republicans Blame Iran War",
       "url": "https://thesource.com/2026/11/05/democrats-sweep-2026-midterms-as-republicans-blame-iran-war/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Hakeem Jeffries Poised to Become First Black House Speaker",
-      "url": "https://thesource.com/2026/11/05/hakeem-jeffries-poised-to-become-first-black-house-speaker/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Michael Jordan’s Cincoro Tequila Debuts Limited-Edition Añejo Reserva",
-      "url": "https://thesource.com/2026/11/05/cincoro-tequila-launches-limited-edition-anejo-reserva/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News Rockstar Reveals Even More GTA 6 Screenshots as PS5 Release Draws Closer",
-      "url": "https://www.pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer",
+      "title": "Guide GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: GTA 6’s Rumor Embargo Ends On November 18 – And Review Copies Are Going Out Now",
-      "url": "https://gameranx.com/updates/id/564481/article/rumor-gta-6s-rumor-embargo-ends-on-november-18-and-review-copies-are-going-out-now/",
+      "title": "Saving Mass Effect 5 would cost over $200 million, BioWare co-founder says",
+      "url": "https://www.gamesradar.com/games/mass-effect/saving-mass-effect-5-would-cost-over-usd200-million-bioware-co-founder-says-because-fans-will-want-the-best-of-aaa-development/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "God of War Laufey delayed as Sony Santa Monica promises to \"make the most of each moment until then\" 9 Comments",
-      "url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-delayed-sony-santa-monica-says-we-appreciate-your-patience-as-ps5s-early-2027-hitter-slips/",
+      "title": "News Sony's Killing This Ratchet & Clank Game Before It Even Comes Out",
+      "url": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

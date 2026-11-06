@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-06T12:03:18+00:00",
+  "generated_utc": "2026-11-06T15:07:41+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "b82698207c86",
+      "pillar": "hiphop",
+      "title": "Today In Hip-Hop History: The Source Magazine Remembers Def Squad Member and Erick Sermon’s BM Hurricane G Four Years Later",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/06/today-in-hip-hop-history-the-source-magazine-remembers-def-squad-member-and-erick-sermons-bm-hurricane-g-four-years-later/",
+      "thumbnail": "/drops/thumbs/b82698207c86.jpg",
+      "published": "2026-11-06T09:30:17",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b2d3e616d95d",
+      "pillar": "hiphop",
+      "title": "Today In Hip-Hop History: Jay-Z Dropped His ‘American Gangster’ Soundtrack 19 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/06/today-in-hip-hop-history-jay-z-dropped-his-american-gangster-soundtrack-19-years-ago/",
+      "thumbnail": "/drops/thumbs/b2d3e616d95d.jpg",
+      "published": "2026-11-06T09:21:37",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bf75227693d3",
       "pillar": "hiphop",
       "title": "Lil Durk Remains Behind Bars As Federal Judge Delays Bond Decision Following Two-Hour Hearing",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/11/05/democrats-sweep-2026-midterms-as-republicans-blame-iran-war/",
       "thumbnail": "/drops/thumbs/6a8a1c1d43cd.jpg",
       "published": "2026-11-05T07:23:54",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f9b22fe2590d",
-      "pillar": "hiphop",
-      "title": "Hakeem Jeffries Poised to Become First Black House Speaker",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/05/hakeem-jeffries-poised-to-become-first-black-house-speaker/",
-      "thumbnail": "/drops/thumbs/f9b22fe2590d.jpg",
-      "published": "2026-11-05T07:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "01bd125f1dfd",
-      "pillar": "hiphop",
-      "title": "Michael Jordan’s Cincoro Tequila Debuts Limited-Edition Añejo Reserva",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/05/cincoro-tequila-launches-limited-edition-anejo-reserva/",
-      "thumbnail": "/drops/thumbs/01bd125f1dfd.jpg",
-      "published": "2026-11-05T06:39:51",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "1507608823a5",
+      "id": "102d5ad81199",
       "pillar": "gaming",
-      "title": "News Rockstar Reveals Even More GTA 6 Screenshots as PS5 Release Draws Closer",
+      "title": "Guide GTA 6 Release Times and Preload: When Can You Start Playing?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/rockstar-reveals-even-more-gta-6-screenshots-as-ps5-release-draws-closer",
-      "thumbnail": "/drops/thumbs/1507608823a5.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+      "thumbnail": "/drops/thumbs/102d5ad81199.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "06a8182cd76c",
+      "id": "4995793524fb",
       "pillar": "gaming",
-      "title": "Rumor: GTA 6’s Rumor Embargo Ends On November 18 – And Review Copies Are Going Out Now",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564481/article/rumor-gta-6s-rumor-embargo-ends-on-november-18-and-review-copies-are-going-out-now/",
-      "thumbnail": "/drops/thumbs/06a8182cd76c.jpg",
+      "title": "Saving Mass Effect 5 would cost over $200 million, BioWare co-founder says",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/mass-effect/saving-mass-effect-5-would-cost-over-usd200-million-bioware-co-founder-says-because-fans-will-want-the-best-of-aaa-development/",
+      "thumbnail": "/drops/thumbs/4995793524fb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "bb4dabde2196",
+      "id": "47baef46a764",
       "pillar": "gaming",
-      "title": "God of War Laufey delayed as Sony Santa Monica promises to \"make the most of each moment until then\" 9 Comments",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-delayed-sony-santa-monica-says-we-appreciate-your-patience-as-ps5s-early-2027-hitter-slips/",
-      "thumbnail": "/drops/thumbs/bb4dabde2196.png",
+      "title": "News Sony's Killing This Ratchet & Clank Game Before It Even Comes Out",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out",
+      "thumbnail": "/drops/thumbs/47baef46a764.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "bf75227693d3",
+    "b82698207c86",
     "d99abb848fac",
     "9506db659ea3",
     "8df2d0a10fe4",
-    "1507608823a5"
+    "102d5ad81199"
   ]
 }
