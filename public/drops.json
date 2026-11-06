@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-06T18:10:09+00:00",
+  "generated_utc": "2026-11-06T21:11:17+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
+    },
+    {
+      "id": "b3365ccc48b5",
+      "pillar": "sneakers",
+      "title": "Michael Jordan’ 6 Best Moments in the Air Jordan 6",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/michael-jordan-6-best-moments-in-the-air-jordan-6/",
+      "thumbnail": "/drops/thumbs/b3365ccc48b5.jpg",
+      "published": "2026-11-06T14:45:00",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "aae4ab45ab5a",
@@ -87,18 +99,6 @@
       "release_badge": ""
     },
     {
-      "id": "e0f5793659c2",
-      "pillar": "sneakers",
-      "title": "Where To Buy the Air Jordan 5 “Halloween”",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-5-halloween-hq7978-001/",
-      "thumbnail": "/drops/thumbs/e0f5793659c2.jpg",
-      "published": "2026-10-17T09:55:41",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "3ef29a69e14b",
       "pillar": "hiphop",
       "title": "Federal Prosecutors Accuse Lil Durk Of Planning Kanye West Court Appearance And Paying Supporters Amid Bond Battle",
@@ -130,6 +130,18 @@
       "source_url": "https://thesource.com/2026/11/06/today-in-hip-hop-history-jay-z-dropped-his-american-gangster-soundtrack-19-years-ago/",
       "thumbnail": "/drops/thumbs/b2d3e616d95d.jpg",
       "published": "2026-11-06T09:21:37",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "6681cdcc1e8c",
+      "pillar": "hiphop",
+      "title": "“Joy to the Sole”: 33-Year Veteran George Jenkins Stars in 2026 Holiday Campaign",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/06/joy-to-the-sole-33-year-veteran-george-jenkins-stars-in-2026-holiday-campaign/",
+      "thumbnail": "/drops/thumbs/6681cdcc1e8c.jpg",
+      "published": "2026-11-06T09:00:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/11/05/nicki-minaj-midterms-trump-response-x-post/",
       "thumbnail": null,
       "published": "2026-11-05T07:31:12",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d1c390a4c450",
-      "pillar": "hiphop",
-      "title": "Carmelo and La La Anthony Officially Reach Divorce Settlement",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/05/carmelo-and-la-la-anthony-officially-reach-divorce-settlement/",
-      "thumbnail": "/drops/thumbs/d1c390a4c450.jpg",
-      "published": "2026-11-05T07:25:54",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "19e0f4deeba5",
+      "id": "d02539305daa",
       "pillar": "anime",
-      "title": "Rainy Day Serenade Anime's Teaser Reveals Cast, Staff, April 2027 Debut",
+      "title": "Odd Taxi Manga Author Launches New Rematch With You Manga in Late November",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-06/rainy-day-serenade-anime-teaser-reveals-cast-staff-april-2027-debut/.243586",
-      "thumbnail": "/drops/thumbs/19e0f4deeba5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-06/odd-taxi-manga-author-launches-new-rematch-with-you-manga-in-late-november/.243576",
+      "thumbnail": "/drops/thumbs/d02539305daa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "fec5a326da69",
+      "id": "19e0f4deeba5",
       "pillar": "anime",
-      "title": "Wound & Bandage Anime's New Video Reveals More Cast & Staff, Opening Song",
+      "title": "Rainy Day Serenade Anime's Teaser Reveals Cast, Staff, April 2027 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-06/wound-and-bandage-anime-new-video-reveals-more-cast-and-staff-opening-song/.243587",
-      "thumbnail": "/drops/thumbs/fec5a326da69.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-06/rainy-day-serenade-anime-teaser-reveals-cast-staff-april-2027-debut/.243586",
+      "thumbnail": "/drops/thumbs/19e0f4deeba5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "fc7b09459510",
-      "pillar": "gaming",
-      "title": "The CEO In Charge Of GTA 6 Is Very Confused When Asked Why He Doesn’t Have More Hits",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-ceo-in-charge-of-gta-6-is-very-confused-when-asked-why-he-doesnt-have-more-hits-2000754149",
-      "thumbnail": "/drops/thumbs/fc7b09459510.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "21ae4cf712ea",
       "pillar": "gaming",
       "title": "South Park Shares Preview Of A Dogged Throwdown In GTA 6",
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "f4c043cbcfad",
+      "pillar": "gaming",
+      "title": "Santa Monica Studio Delays God Of War Laufey To May 2027",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564500/article/santa-monica-studio-delays-god-of-war-laufey-to-may-2027/",
+      "thumbnail": "/drops/thumbs/f4c043cbcfad.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "959632b05ca3",
     "3ef29a69e14b",
-    "aae4ab45ab5a",
+    "b3365ccc48b5",
     "9506db659ea3",
-    "8df2d0a10fe4",
+    "aae4ab45ab5a",
     "102d5ad81199"
   ]
 }
