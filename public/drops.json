@@ -1,19 +1,7 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-06T05:59:39+00:00",
+  "generated_utc": "2026-11-06T09:01:41+00:00",
   "items": [
-    {
-      "id": "099d760f5c58",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 High OG “Starfall” Releases November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-1-high-og-starfall/",
-      "thumbnail": "/drops/thumbs/099d760f5c58.jpg",
-      "published": "2026-11-02T03:09:12",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
     {
       "id": "959632b05ca3",
       "pillar": "sneakers",
@@ -94,6 +82,18 @@
       "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
       "thumbnail": "/drops/thumbs/05aa2656ba65.jpg",
       "published": "2026-10-28T09:00:00",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "699ceb4333c7",
+      "pillar": "sneakers",
+      "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-og-fire-red-2027/",
+      "thumbnail": "/drops/thumbs/699ceb4333c7.jpg",
+      "published": "2026-10-26T09:20:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "3bff1e896149",
-      "pillar": "anime",
-      "title": "Crunchyroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-05/crunchyroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565",
-      "thumbnail": "/drops/thumbs/3bff1e896149.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "9506db659ea3",
       "pillar": "anime",
       "title": "Dragon Ball Super: Beerus English Dub Lands Official Crunchyroll Release Date",
@@ -261,6 +249,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/black-clover-season-2-episode-6-release-date-time/",
       "thumbnail": "/drops/thumbs/03082f90adca.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9f3a82dcb96d",
+      "pillar": "anime",
+      "title": "He Does a Body Good Webtoon Gets AnimeFesta Anime in January 2027",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-06/he-does-a-body-good-webtoon-gets-animefesta-anime-in-january-2027/.243585",
+      "thumbnail": "/drops/thumbs/9f3a82dcb96d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "099d760f5c58",
-    "bf75227693d3",
     "959632b05ca3",
-    "3bff1e896149",
+    "bf75227693d3",
     "d99abb848fac",
+    "9506db659ea3",
+    "8df2d0a10fe4",
     "1507608823a5"
   ]
 }

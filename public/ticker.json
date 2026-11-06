@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-06T05:59:39+00:00",
+  "generated_utc": "2026-11-06T09:01:41+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 1 High OG “Starfall” Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-1-high-og-starfall/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "The Air Jordan 12 “Fireside” Releases Today",
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
@@ -55,6 +48,13 @@
     {
       "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
       "url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
+      "url": "https://www.nicekicks.com/air-jordan-4-og-fire-red-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-05/crunchyroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball Super: Beerus English Dub Lands Official Crunchyroll Release Date",
       "url": "https://screenrant.com/dragon-ball-super-beerus-english-dub-release-date-crunchyroll/",
       "pillar": "anime",
@@ -153,6 +146,13 @@
     {
       "title": "Black Clover Season 2, Episode 6 Release Date & Time",
       "url": "https://screenrant.com/black-clover-season-2-episode-6-release-date-time/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "He Does a Body Good Webtoon Gets AnimeFesta Anime in January 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-06/he-does-a-body-good-webtoon-gets-animefesta-anime-in-january-2027/.243585",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
