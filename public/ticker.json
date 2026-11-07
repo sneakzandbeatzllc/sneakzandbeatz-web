@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-07T11:21:12+00:00",
+  "generated_utc": "2026-11-07T14:27:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -137,8 +137,15 @@
       "article_slug": null
     },
     {
-      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
-      "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
+      "title": "Makoto Furukawa Writes, Sings Ending for One-Punch Man Season 3's 2nd Part",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-07/makoto-furukawa-writes-sings-ending-for-one-punch-man-season-3-2nd-part/.243608",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
+      "url": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,13 +158,6 @@
       "article_slug": null
     },
     {
-      "title": "Bless TV Anime's 1st Full Promo Video Announces January 8 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-07/bless-tv-anime-1st-full-promo-video-announces-january-8-debut/.243605",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "10 years ago, JoJo's Bizarre Adventure introduced its most disturbing villain",
       "url": "https://www.polygon.com/jojo-bizarre-adventure-villain-diamond-is-unbreakable/",
       "pillar": "anime",
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "'There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her' Anime Gets 2nd Season",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-07/there-was-a-cute-girl-in-the-hero-party-so-i-tried-confessing-to-her-anime-gets-2nd-season/.243604",
+      "title": "Bless TV Anime's 1st Full Promo Video Announces January 8 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-07/bless-tv-anime-1st-full-promo-video-announces-january-8-debut/.243605",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

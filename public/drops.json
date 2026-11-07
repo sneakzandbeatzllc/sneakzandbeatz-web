@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-07T11:21:12+00:00",
+  "generated_utc": "2026-11-07T14:27:58+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -231,12 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "750ff356feaf",
+      "id": "650407824ad8",
       "pillar": "anime",
-      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
+      "title": "Makoto Furukawa Writes, Sings Ending for One-Punch Man Season 3's 2nd Part",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-07/makoto-furukawa-writes-sings-ending-for-one-punch-man-season-3-2nd-part/.243608",
+      "thumbnail": "/drops/thumbs/650407824ad8.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "0083fefb9cb7",
+      "pillar": "anime",
+      "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
-      "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
+      "source_url": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
+      "thumbnail": "/drops/thumbs/0083fefb9cb7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "de19d50dab53",
-      "pillar": "anime",
-      "title": "Bless TV Anime's 1st Full Promo Video Announces January 8 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-07/bless-tv-anime-1st-full-promo-video-announces-january-8-debut/.243605",
-      "thumbnail": "/drops/thumbs/de19d50dab53.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "991daf1afdf6",
       "pillar": "anime",
       "title": "10 years ago, JoJo's Bizarre Adventure introduced its most disturbing villain",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "19a03ff78a6a",
+      "id": "de19d50dab53",
       "pillar": "anime",
-      "title": "'There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her' Anime Gets 2nd Season",
+      "title": "Bless TV Anime's 1st Full Promo Video Announces January 8 Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-07/there-was-a-cute-girl-in-the-hero-party-so-i-tried-confessing-to-her-anime-gets-2nd-season/.243604",
-      "thumbnail": "/drops/thumbs/19a03ff78a6a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-07/bless-tv-anime-1st-full-promo-video-announces-january-8-debut/.243605",
+      "thumbnail": "/drops/thumbs/de19d50dab53.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
