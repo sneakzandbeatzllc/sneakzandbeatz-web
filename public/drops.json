@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-07T14:27:58+00:00",
+  "generated_utc": "2026-11-07T17:30:23+00:00",
   "items": [
+    {
+      "id": "1e3a5571cbd0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “Not Nice” November 2026 Release Date & Info",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-3-not-nice-if4396-001/",
+      "thumbnail": "/drops/thumbs/1e3a5571cbd0.png",
+      "published": "2026-11-02T13:40:18",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "959632b05ca3",
       "pillar": "sneakers",
@@ -63,6 +75,18 @@
       "release_badge": ""
     },
     {
+      "id": "86249c2e7781",
+      "pillar": "sneakers",
+      "title": "The Classic Air Jordan 4 OG “Bred” is Coming Back",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/air-jordan-4-og-bred-2026-ix8180-001-drop/",
+      "thumbnail": "/drops/thumbs/86249c2e7781.jpg",
+      "published": "2026-11-02T20:37:04",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "362f284b3d0d",
       "pillar": "sneakers",
       "title": "Where To Buy the Air Jordan 14 “Forest Green”",
@@ -70,30 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
       "thumbnail": "/drops/thumbs/362f284b3d0d.jpg",
       "published": "2026-10-31T09:52:13",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "05aa2656ba65",
-      "pillar": "sneakers",
-      "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-      "thumbnail": "/drops/thumbs/05aa2656ba65.jpg",
-      "published": "2026-10-28T09:00:00",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "699ceb4333c7",
-      "pillar": "sneakers",
-      "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-4-og-fire-red-2027/",
-      "thumbnail": "/drops/thumbs/699ceb4333c7.jpg",
-      "published": "2026-10-26T09:20:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "a88d95c2c077",
-      "pillar": "anime",
-      "title": "Dragon Ball Super: Beerus Episode 5 Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-beerus-episode-5-release-date-time/",
-      "thumbnail": "/drops/thumbs/a88d95c2c077.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e5ae4d569e22",
       "pillar": "anime",
       "title": "Before Solo Leveling Returns, Another Anime Is Stealing Its Thunder",
@@ -291,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "102d5ad81199",
+      "id": "13e4bf486ef4",
+      "pillar": "anime",
+      "title": "Netflix's Answer To The X-Files Officially Returns For Season 3 In 2027",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/netflix-answer-x-files-dandadan-return-2027/",
+      "thumbnail": "/drops/thumbs/13e4bf486ef4.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5724f60715ef",
       "pillar": "gaming",
-      "title": "Guide GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "title": "News GTA 6's PS5 Physical Edition Revealed in First Photo",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
-      "thumbnail": "/drops/thumbs/102d5ad81199.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo",
+      "thumbnail": "/drops/thumbs/5724f60715ef.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,6 +309,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564497/article/rumor-gta-6-will-have-pssr-and-ray-tracing-on-ps5-pro/",
       "thumbnail": "/drops/thumbs/b9998476bd75.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "102d5ad81199",
+      "pillar": "gaming",
+      "title": "Guide GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+      "thumbnail": "/drops/thumbs/102d5ad81199.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,36 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "6cc2b50d3e09",
+      "id": "1df7c3aa38c5",
       "pillar": "gaming",
-      "title": "News Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
-      "thumbnail": "/drops/thumbs/6cc2b50d3e09.jpg",
+      "title": "A Truck Demanding EA ‘Save Mass Effect ’ Is Currently Driving Around The Company’s Headquarters",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705",
+      "thumbnail": "/drops/thumbs/1df7c3aa38c5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "47baef46a764",
+      "id": "9fd5608e7d0b",
       "pillar": "gaming",
-      "title": "News Sony's Killing This Ratchet & Clank Game Before It Even Comes Out",
+      "title": "News 'PlayStation Exclusive' Branding Added to Tentpole PS5 Games as Sony Doubles Down",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out",
-      "thumbnail": "/drops/thumbs/47baef46a764.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f4c043cbcfad",
-      "pillar": "gaming",
-      "title": "Santa Monica Studio Delays God Of War Laufey To May 2027",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564500/article/santa-monica-studio-delays-god-of-war-laufey-to-may-2027/",
-      "thumbnail": "/drops/thumbs/f4c043cbcfad.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/playstation-exclusive-branding-added-to-tentpole-ps5-games-as-sony-doubles-down",
+      "thumbnail": "/drops/thumbs/9fd5608e7d0b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -388,11 +388,11 @@
     }
   ],
   "homepage": [
-    "959632b05ca3",
+    "1e3a5571cbd0",
     "00ca322bf99f",
-    "6b1599283570",
+    "959632b05ca3",
     "9506db659ea3",
-    "b3365ccc48b5",
-    "102d5ad81199"
+    "6b1599283570",
+    "5724f60715ef"
   ]
 }
