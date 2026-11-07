@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-07T20:36:00+00:00",
+  "generated_utc": "2026-11-07T23:51:03+00:00",
   "items": [
     {
       "id": "1e3a5571cbd0",
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "9506db659ea3",
-      "pillar": "anime",
-      "title": "Dragon Ball Super: Beerus English Dub Lands Official Crunchyroll Release Date",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-beerus-english-dub-release-date-crunchyroll/",
-      "thumbnail": "/drops/thumbs/9506db659ea3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e5ae4d569e22",
       "pillar": "anime",
       "title": "Before Solo Leveling Returns, Another Anime Is Stealing Its Thunder",
@@ -231,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "0083fefb9cb7",
+      "id": "f94cbafc97bb",
       "pillar": "anime",
-      "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
+      "title": "5 anime arcs that are 10/10, no notes",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
-      "thumbnail": "/drops/thumbs/0083fefb9cb7.jpg",
+      "source_url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
+      "thumbnail": "/drops/thumbs/f94cbafc97bb.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,12 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "991daf1afdf6",
+      "id": "0083fefb9cb7",
       "pillar": "anime",
-      "title": "10 years ago, JoJo's Bizarre Adventure introduced its most disturbing villain",
+      "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
       "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/jojo-bizarre-adventure-villain-diamond-is-unbreakable/",
-      "thumbnail": "/drops/thumbs/991daf1afdf6.png",
+      "source_url": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic/",
+      "thumbnail": "/drops/thumbs/0083fefb9cb7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3da6ac7d5bcc",
+      "pillar": "anime",
+      "title": "Prime Video’s 3-Season Gritty Crime Thriller Is The Perfect NCIS Replacement",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/psycho-pass-best-ncis-replacement-prime-video/",
+      "thumbnail": "/drops/thumbs/3da6ac7d5bcc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "1e3a5571cbd0",
     "00ca322bf99f",
     "959632b05ca3",
-    "9506db659ea3",
+    "e5ae4d569e22",
     "6b1599283570",
     "5724f60715ef"
   ]
