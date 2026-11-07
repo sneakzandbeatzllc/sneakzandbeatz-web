@@ -1,11 +1,18 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-07T00:12:26+00:00",
+  "generated_utc": "2026-11-07T08:05:00+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "The Air Jordan 12 “Fireside” Releases Today",
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 6 “White Infrared” Releases November 7th",
+      "url": "https://sneakerbardetroit.com/air-jordan-6-white-infrared-2026/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -48,13 +55,6 @@
     {
       "title": "Jordan Brand Is Bringing Back the Air Jordan 4 OG “Fire Red” in Fall 2027",
       "url": "https://www.nicekicks.com/air-jordan-4-og-fire-red-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
-      "url": "https://www.nicekicks.com/apb-air-jordan-11-low-made-for-locals-iu8266-400/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,15 +130,15 @@
       "article_slug": null
     },
     {
-      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
-      "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
+      "title": "Before Solo Leveling Returns, Another Anime Is Stealing Its Thunder",
+      "url": "https://screenrant.com/solo-leveling-return-overgeared-best-replacement/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Black Clover Season 2, Episode 6 Release Date & Time",
-      "url": "https://screenrant.com/black-clover-season-2-episode-6-release-date-time/",
+      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
+      "url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -207,6 +207,13 @@
       "article_slug": null
     },
     {
+      "title": "News Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
+      "url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "News Sony's Killing This Ratchet & Clank Game Before It Even Comes Out",
       "url": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "Santa Monica Studio Delays God Of War Laufey To May 2027",
       "url": "https://gameranx.com/updates/id/564500/article/santa-monica-studio-delays-god-of-war-laufey-to-may-2027/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
-      "url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

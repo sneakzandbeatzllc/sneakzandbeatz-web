@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-07T00:12:26+00:00",
+  "generated_utc": "2026-11-07T08:05:00+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
+    },
+    {
+      "id": "6b1599283570",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 “White Infrared” Releases November 7th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-6-white-infrared-2026/",
+      "thumbnail": "/drops/thumbs/6b1599283570.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
     },
     {
       "id": "b3365ccc48b5",
@@ -82,18 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-4-og-fire-red-2027/",
       "thumbnail": "/drops/thumbs/699ceb4333c7.jpg",
       "published": "2026-10-26T09:20:00",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3d1d651a54cf",
-      "pillar": "sneakers",
-      "title": "APB x Air Jordan 11 Low “Made For Locals” October 2026 Release Date & Info",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/apb-air-jordan-11-low-made-for-locals-iu8266-400/",
-      "thumbnail": "/drops/thumbs/3d1d651a54cf.jpg",
-      "published": "2026-10-20T11:29:20",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "750ff356feaf",
+      "id": "e5ae4d569e22",
       "pillar": "anime",
-      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
-      "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
+      "title": "Before Solo Leveling Returns, Another Anime Is Stealing Its Thunder",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-return-overgeared-best-replacement/",
+      "thumbnail": "/drops/thumbs/e5ae4d569e22.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "03082f90adca",
+      "id": "750ff356feaf",
       "pillar": "anime",
-      "title": "Black Clover Season 2, Episode 6 Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-season-2-episode-6-release-date-time/",
-      "thumbnail": "/drops/thumbs/03082f90adca.jpg",
+      "title": "Vinland Saga creator gives a heartbreaking update on the anime's third season",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/vinland-saga-season-3-creator-update-not-in-production/",
+      "thumbnail": "/drops/thumbs/750ff356feaf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,6 +351,18 @@
       "release_badge": ""
     },
     {
+      "id": "6cc2b50d3e09",
+      "pillar": "gaming",
+      "title": "News Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
+      "thumbnail": "/drops/thumbs/6cc2b50d3e09.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "47baef46a764",
       "pillar": "gaming",
       "title": "News Sony's Killing This Ratchet & Clank Game Before It Even Comes Out",
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "2aa964120b4c",
-      "pillar": "gaming",
-      "title": "Roblox Moves Quickly To Delete “Ports” Of Undertale, Halo, And Left 4 Dead On Their Platform",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564484/article/roblox-moves-quickly-to-delete-ports-of-undertale-halo-and-left-4-dead-on-their-platform/",
-      "thumbnail": "/drops/thumbs/2aa964120b4c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "959632b05ca3",
     "00ca322bf99f",
-    "b3365ccc48b5",
+    "6b1599283570",
     "9506db659ea3",
-    "aae4ab45ab5a",
+    "b3365ccc48b5",
     "102d5ad81199"
   ]
 }
