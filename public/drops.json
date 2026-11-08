@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-07T23:51:57+00:00",
+  "generated_utc": "2026-11-08T02:54:26+00:00",
   "items": [
     {
       "id": "1e3a5571cbd0",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "4f756f7c7c2c",
+      "pillar": "anime",
+      "title": "Solo Leveling's Sequel Teases The Return Of A Major Fan Favorite",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-ragnarok-return-cha-hae-in/",
+      "thumbnail": "/drops/thumbs/4f756f7c7c2c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e5ae4d569e22",
       "pillar": "anime",
       "title": "Before Solo Leveling Returns, Another Anime Is Stealing Its Thunder",
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "3da6ac7d5bcc",
-      "pillar": "anime",
-      "title": "Prime Video’s 3-Season Gritty Crime Thriller Is The Perfect NCIS Replacement",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/psycho-pass-best-ncis-replacement-prime-video/",
-      "thumbnail": "/drops/thumbs/3da6ac7d5bcc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "de19d50dab53",
       "pillar": "anime",
       "title": "Bless TV Anime's 1st Full Promo Video Announces January 8 Debut",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "13e4bf486ef4",
+      "id": "f57ee93363f7",
       "pillar": "anime",
-      "title": "Netflix's Answer To The X-Files Officially Returns For Season 3 In 2027",
+      "title": "Netflix Users Are Missing Out On Massive Streaming Rival’s Brutal 2-Season Dark Fantasy Masterpiece",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-answer-x-files-dandadan-return-2027/",
-      "thumbnail": "/drops/thumbs/13e4bf486ef4.jpg",
+      "source_url": "https://screenrant.com/made-in-abyss-dark-fantasy-netflix-users-missing-out/",
+      "thumbnail": "/drops/thumbs/f57ee93363f7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "6cc2b50d3e09",
+      "id": "f4c043cbcfad",
       "pillar": "gaming",
-      "title": "News Petition to Save Mass Effect Dev BioWare to Be Considered by Canada's Government",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/petition-to-save-mass-effect-dev-bioware-to-be-considered-by-canadas-government",
-      "thumbnail": "/drops/thumbs/6cc2b50d3e09.jpg",
+      "title": "Santa Monica Studio Delays God Of War Laufey To May 2027",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564500/article/santa-monica-studio-delays-god-of-war-laufey-to-may-2027/",
+      "thumbnail": "/drops/thumbs/f4c043cbcfad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "1e3a5571cbd0",
     "00ca322bf99f",
     "959632b05ca3",
-    "e5ae4d569e22",
+    "4f756f7c7c2c",
     "6b1599283570",
     "5724f60715ef"
   ]
