@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-08T18:36:21+00:00",
+  "generated_utc": "2026-11-08T21:51:09+00:00",
   "items": [
     {
       "id": "1e3a5571cbd0",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "5f92c3e6b5f5",
+      "pillar": "hiphop",
+      "title": "Millyz Celebrates New Album SGO with Star-Studded NYC Release Event",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/08/millyz-celebrates-new-album-sgo-with-star-studded-nyc-release-event/",
+      "thumbnail": "/drops/thumbs/5f92c3e6b5f5.jpg",
+      "published": "2026-11-08T13:29:36",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "1141cb1a2617",
+      "pillar": "hiphop",
+      "title": "Soulja Boy Returns with Sweet New Single “Candy” and Official Music Video",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/07/soulja-boy-returns-with-sweet-new-single-candy-and-official-music-video/",
+      "thumbnail": "/drops/thumbs/1141cb1a2617.jpg",
+      "published": "2026-11-07T01:37:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "00ca322bf99f",
       "pillar": "hiphop",
       "title": "Mathematics Returns with New Album Black Samson: The Saga Continues, Featuring Method Man, AZ, Inspectah Deck, Masta Killa and More",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/11/06/joy-to-the-sole-33-year-veteran-george-jenkins-stars-in-2026-holiday-campaign/",
       "thumbnail": "/drops/thumbs/6681cdcc1e8c.jpg",
       "published": "2026-11-06T09:00:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c827b634d696",
-      "pillar": "hiphop",
-      "title": "Houston’s JUSTTOUCH Links With Day26’s Brian Angel For  Sultry New R&B Single “No Complications”",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/05/houstons-justtouch-links-with-day26s-brian-angel-for-sultry-new-rb-single-no-complications/",
-      "thumbnail": "/drops/thumbs/c827b634d696.jpg",
-      "published": "2026-11-05T16:18:44",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "bf75227693d3",
-      "pillar": "hiphop",
-      "title": "Lil Durk Remains Behind Bars As Federal Judge Delays Bond Decision Following Two-Hour Hearing",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/05/lil-durk-remains-behind-bars-as-federal-judge-delays-bond-decision-following-two-hour-hearing/",
-      "thumbnail": "/drops/thumbs/bf75227693d3.jpg",
-      "published": "2026-11-05T09:53:40",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "1e3a5571cbd0",
-    "00ca322bf99f",
+    "5f92c3e6b5f5",
     "959632b05ca3",
     "9a3377138f36",
     "6b1599283570",
