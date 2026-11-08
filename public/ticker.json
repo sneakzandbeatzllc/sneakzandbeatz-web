@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-08T12:00:42+00:00",
+  "generated_utc": "2026-11-08T15:06:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -186,13 +186,6 @@
       "article_slug": null
     },
     {
-      "title": "Guide GTA 6 Release Times and Preload: When Can You Start Playing?",
-      "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Rumor: GTA 6 Now Has To Be Played On PS5’s Latest System Update For “Security Fixes”",
       "url": "https://gameranx.com/updates/id/564491/article/rumor-gta-6-now-has-to-be-played-on-ps5s-latest-system-update-for-security-fixes/",
       "pillar": "gaming",
@@ -209,6 +202,13 @@
     {
       "title": "Saving Mass Effect 5 would cost over $200 million, BioWare co-founder says",
       "url": "https://www.gamesradar.com/games/mass-effect/saving-mass-effect-5-would-cost-over-usd200-million-bioware-co-founder-says-because-fans-will-want-the-best-of-aaa-development/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News God of War Spin-Off Game Seemingly Getting Surprise PS4 Port",
+      "url": "https://www.pushsquare.com/news/2026/11/god-of-war-spin-off-game-seemingly-getting-surprise-ps4-port",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
