@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-08T15:06:03+00:00",
+  "generated_utc": "2026-11-08T18:36:21+00:00",
   "items": [
     {
       "id": "1e3a5571cbd0",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "9a3377138f36",
+      "pillar": "anime",
+      "title": "Watch Out, Demon Slayer & Solo Leveling: Another Massive Anime Movie Is Coming In 2027",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/demon-slayer-solo-leveling-spy-family-movie-2027/",
+      "thumbnail": "/drops/thumbs/9a3377138f36.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4f756f7c7c2c",
       "pillar": "anime",
       "title": "Solo Leveling's Sequel Teases The Return Of A Major Fan Favorite",
@@ -207,24 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "e5ae4d569e22",
+      "id": "4ba0965d47e5",
       "pillar": "anime",
-      "title": "Before Solo Leveling Returns, Another Anime Is Stealing Its Thunder",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-return-overgeared-best-replacement/",
-      "thumbnail": "/drops/thumbs/e5ae4d569e22.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "10fd2b33a8f3",
-      "pillar": "anime",
-      "title": "Spy×Family Anime Gets 4th Season, Theatrical Film in 2027",
+      "title": "My Crush's Crush Anime's Teaser Unveils Cast, Staff, April Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614",
-      "thumbnail": "/drops/thumbs/10fd2b33a8f3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-08/my-crush-crush-anime-teaser-unveils-cast-staff-april-debut/.243627",
+      "thumbnail": "/drops/thumbs/4ba0965d47e5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "4f79a1791b65",
+      "id": "10fd2b33a8f3",
       "pillar": "anime",
-      "title": "Bride of the Barrier Master Anime Streams Videos for Leads Hana Ichise, Saku Ichinomiya",
+      "title": "Spy×Family Anime Gets 4th Season, Theatrical Film in 2027",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-08/bride-of-the-barrier-master-anime-streams-videos-for-leads-hana-ichise-saku-ichinomiya/.243623",
-      "thumbnail": "/drops/thumbs/4f79a1791b65.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614",
+      "thumbnail": "/drops/thumbs/10fd2b33a8f3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "bd7464bf4086",
+      "id": "4f79a1791b65",
       "pillar": "anime",
-      "title": "New Minami-ke Korekara TV Anime's Teaser Unveils Cast, Staff, April Debut",
+      "title": "Bride of the Barrier Master Anime Streams Videos for Leads Hana Ichise, Saku Ichinomiya",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-08/new-minami-ke-korekara-tv-anime-teaser-unveils-cast-staff-april-debut/.243619",
-      "thumbnail": "/drops/thumbs/bd7464bf4086.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-08/bride-of-the-barrier-master-anime-streams-videos-for-leads-hana-ichise-saku-ichinomiya/.243623",
+      "thumbnail": "/drops/thumbs/4f79a1791b65.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "1e3a5571cbd0",
     "00ca322bf99f",
     "959632b05ca3",
-    "4f756f7c7c2c",
+    "9a3377138f36",
     "6b1599283570",
     "5724f60715ef"
   ]
