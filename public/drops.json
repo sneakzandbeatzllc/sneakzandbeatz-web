@@ -1,7 +1,19 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-09T16:12:20+00:00",
+  "generated_utc": "2026-11-09T19:17:59+00:00",
   "items": [
+    {
+      "id": "ba6b5ea87fcb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 12 “Atmos Jade” Releases November 21 for ¥31,900",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-12-atmos-jade/",
+      "thumbnail": "/drops/thumbs/ba6b5ea87fcb.jpg",
+      "published": "2026-11-09T13:37:20",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
     {
       "id": "959632b05ca3",
       "pillar": "sneakers",
@@ -82,18 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
       "thumbnail": "/drops/thumbs/362f284b3d0d.jpg",
       "published": "2026-10-31T09:52:13",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "05aa2656ba65",
-      "pillar": "sneakers",
-      "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-      "thumbnail": "/drops/thumbs/05aa2656ba65.jpg",
-      "published": "2026-10-28T09:00:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "9d0744fc1905",
+      "id": "5ecd6cfa63ec",
       "pillar": "anime",
-      "title": "Manga Up! Global Adds Love Unseen Beneath the Clear Night Sky , Underdog Idol , 3 More Manga",
+      "title": "K Manga Adds nyalra's Strayboy Overkill Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-09/manga-up-global-adds-love-unseen-beneath-the-clear-night-sky-underdog-idol-3-more-manga/.243529",
-      "thumbnail": "/drops/thumbs/9d0744fc1905.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-09/k-manga-adds-nyalra-strayboy-overkill-manga/.243653",
+      "thumbnail": "/drops/thumbs/5ecd6cfa63ec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "992737436ddc",
+      "id": "23a8ffcdadce",
       "pillar": "anime",
-      "title": "Dragon Quest Teases New RPG for iOS, Android",
+      "title": "Deadline: Noah Of The Blood Sea Manga Gets Hollywood Live-Action Film Adaptation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-09/dragon-quest-teases-new-rpg-for-ios-android/.243644",
-      "thumbnail": "/drops/thumbs/992737436ddc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-09/deadline-noah-of-the-blood-sea-manga-gets-hollywood-live-action-film-adaptation/.243654",
+      "thumbnail": "/drops/thumbs/23a8ffcdadce.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "79d1eaa48e09",
+      "id": "9d0744fc1905",
       "pillar": "anime",
-      "title": "Late Tetsuya Chiba's Autobiographical Manga to End in 8th Volume",
+      "title": "Manga Up! Global Adds Love Unseen Beneath the Clear Night Sky , Underdog Idol , 3 More Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-09/late-tetsuya-chiba-autobiographical-manga-to-end-in-8th-volume/.243624",
-      "thumbnail": "/drops/thumbs/79d1eaa48e09.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-09/manga-up-global-adds-love-unseen-beneath-the-clear-night-sky-underdog-idol-3-more-manga/.243529",
+      "thumbnail": "/drops/thumbs/9d0744fc1905.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -309,18 +309,6 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564504/article/rumor-gta-6-pre-load-data-suggests-ps5-pro-has-additional-ray-tracing/",
       "thumbnail": "/drops/thumbs/04b3b261c8a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ceafa27504a1",
-      "pillar": "gaming",
-      "title": "Former Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
-      "thumbnail": "/drops/thumbs/ceafa27504a1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,14 +373,26 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "da7d18d99d0a",
+      "pillar": "gaming",
+      "title": "Hands-on FF7 Revelation's first dungeon is enough to impress me with its tighter combat",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/final-fantasy/ff7-revelations-first-dungeon-is-enough-to-impress-me-with-its-tighter-combat-cid-and-vincent-are-excellent-additions-to-the-team/",
+      "thumbnail": "/drops/thumbs/da7d18d99d0a.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
-    "959632b05ca3",
+    "ba6b5ea87fcb",
     "9450fc3d408b",
-    "6b1599283570",
+    "959632b05ca3",
     "9a3377138f36",
-    "b3365ccc48b5",
+    "6b1599283570",
     "83af2e765126"
   ]
 }

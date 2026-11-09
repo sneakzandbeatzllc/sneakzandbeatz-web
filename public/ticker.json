@@ -1,8 +1,15 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-09T16:12:20+00:00",
+  "generated_utc": "2026-11-09T19:17:59+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
+    {
+      "title": "Air Jordan 12 “Atmos Jade” Releases November 21 for ¥31,900",
+      "url": "https://justfreshkicks.com/air-jordan-12-atmos-jade/",
+      "pillar": "sneakers",
+      "score": 3.0,
+      "article_slug": null
+    },
     {
       "title": "The Air Jordan 12 “Fireside” Releases Today",
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
@@ -48,13 +55,6 @@
     {
       "title": "Where To Buy the Air Jordan 14 “Forest Green”",
       "url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
-      "url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "Manga Up! Global Adds Love Unseen Beneath the Clear Night Sky , Underdog Idol , 3 More Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-09/manga-up-global-adds-love-unseen-beneath-the-clear-night-sky-underdog-idol-3-more-manga/.243529",
+      "title": "K Manga Adds nyalra's Strayboy Overkill Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-09/k-manga-adds-nyalra-strayboy-overkill-manga/.243653",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Quest Teases New RPG for iOS, Android",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-09/dragon-quest-teases-new-rpg-for-ios-android/.243644",
+      "title": "Deadline: Noah Of The Blood Sea Manga Gets Hollywood Live-Action Film Adaptation",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-09/deadline-noah-of-the-blood-sea-manga-gets-hollywood-live-action-film-adaptation/.243654",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Late Tetsuya Chiba's Autobiographical Manga to End in 8th Volume",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-09/late-tetsuya-chiba-autobiographical-manga-to-end-in-8th-volume/.243624",
+      "title": "Manga Up! Global Adds Love Unseen Beneath the Clear Night Sky , Underdog Idol , 3 More Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-09/manga-up-global-adds-love-unseen-beneath-the-clear-night-sky-underdog-idol-3-more-manga/.243529",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -181,13 +181,6 @@
     {
       "title": "Rumor: GTA 6 Pre-Load Data Suggests PS5 Pro Has Additional Ray-Tracing",
       "url": "https://gameranx.com/updates/id/564504/article/rumor-gta-6-pre-load-data-suggests-ps5-pro-has-additional-ray-tracing/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Former Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First",
-      "url": "https://kotaku.com/former-rockstar-developer-says-they-should-hurry-up-on-gta-6s-pc-version-before-ai-gets-there-first-2000754810",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -223,6 +216,13 @@
     {
       "title": "South Park Shares Preview Of A Dogged Throwdown In GTA 6",
       "url": "https://gameranx.com/updates/id/564486/article/south-park-shares-preview-of-a-dogged-throwdown-in-gta-6/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Hands-on FF7 Revelation's first dungeon is enough to impress me with its tighter combat",
+      "url": "https://www.gamesradar.com/games/final-fantasy/ff7-revelations-first-dungeon-is-enough-to-impress-me-with-its-tighter-combat-cid-and-vincent-are-excellent-additions-to-the-team/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
