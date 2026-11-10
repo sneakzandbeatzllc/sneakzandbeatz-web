@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-10T10:54:16+00:00",
+  "generated_utc": "2026-11-10T14:00:57+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Dave Chappelle Cracks Charlie Kirk Joke: ‘I’m Sure Charlie Kirk is Looking Up At Us’",
+      "url": "https://thesource.com/2026/11/10/dave-chappelle-cracks-charlie-kirk-joke-im-sure-charlie-kirk-is-looking-up-at-us/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "100K Track Expands Remain Solid’s Reach With Major-Label Partnership And Growing Entertainment Empire",
       "url": "https://thesource.com/2026/11/09/100k-track-expands-remain-solids-reach-with-new-major-label-partnership-and-growing-entertainment-empire/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Ye Live at AT&T Stadium Breaks Rap Attendance Record With 83,000 Tickets Sold",
-      "url": "https://thesource.com/2026/11/09/ye-live-att-stadium-dallas-record-attendance/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "2027 Will Give One Piece A New Lead Hero, And It's Not Luffy",
       "url": "https://screenrant.com/one-piece-luffy-not-hero-god-valley/",
       "pillar": "anime",
@@ -130,8 +130,8 @@
       "article_slug": null
     },
     {
-      "title": "Devils' Crest Anime Confirms Half-Year Run",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678",
+      "title": "Kodansha's Comic Tint Digital Magazine to End After 9 Years",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-10/kodansha-comic-tint-digital-magazine-to-end-after-9-years/.243665",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,8 +144,8 @@
       "article_slug": null
     },
     {
-      "title": "Millennium Family TV Anime Casts Mutsumi Tamura",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/millennium-family-tv-anime-casts-mutsumi-tamura/.243639",
+      "title": "Shueisha Games to Publish Nightmare Operator Action Horror Game",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-10/shueisha-games-to-publish-nightmare-operator-action-horror-game/.243679",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Japanese Animation TV Ranking, October 26-November 1",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/japanese-animation-tv-ranking-october-26-november-1/.243621",
+      "title": "Devils' Crest Anime Confirms Half-Year Run",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -168,6 +168,13 @@
       "title": "Shonen Jump's New Final Villain Transformation Is The Best In 15 Years",
       "url": "https://screenrant.com/shonen-jump-one-piece-final-villain-imu-redesign/",
       "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold",
+      "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
@@ -193,22 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "South Park Shares Preview Of A Dogged Throwdown In GTA 6",
-      "url": "https://gameranx.com/updates/id/564486/article/south-park-shares-preview-of-a-dogged-throwdown-in-gta-6/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Dedicated PS5, PS5 Pro Patch Aims to Fix Silent Hill 2 Graphics Issues",
-      "url": "https://www.pushsquare.com/news/2026/11/dedicated-ps5-ps5-pro-patch-aims-to-fix-silent-hill-2-graphics-issues",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Hands-on FF7 Revelation's first dungeon is enough to impress me with its tighter combat",
       "url": "https://www.gamesradar.com/games/final-fantasy/ff7-revelations-first-dungeon-is-enough-to-impress-me-with-its-tighter-combat-cid-and-vincent-are-excellent-additions-to-the-team/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News Persona 4 Revival Wasn't Meant to Be Part of Packed February 2027 Release Schedule",
+      "url": "https://www.pushsquare.com/news/2026/11/persona-4-revival-wasnt-meant-to-be-part-of-packed-february-2027-release-schedule",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Santa Monica Studio Delays God Of War Laufey To May 2027",
-      "url": "https://gameranx.com/updates/id/564500/article/santa-monica-studio-delays-god-of-war-laufey-to-may-2027/",
+      "title": "Guide Cyberpunk 2077: Best Mods on PS5",
+      "url": "https://www.pushsquare.com/guides/cyberpunk-2077-best-mods-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
