@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-10T17:02:46+00:00",
+  "generated_utc": "2026-11-10T20:04:21+00:00",
   "items": [
     {
       "id": "14b7ed0ca377",
@@ -51,18 +51,6 @@
       "release_badge": "Drops This Week"
     },
     {
-      "id": "6b1599283570",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 “White Infrared” Releases November 7th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-6-white-infrared-2026/",
-      "thumbnail": "/drops/thumbs/6b1599283570.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "d339cc582b52",
       "pillar": "sneakers",
       "title": "SoleFly x Air Jordan 5 Releases December 2026",
@@ -73,6 +61,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "fb46a4f42a2c",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 “Slam Dunk” 717302 600 Release Date, Price",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-6-slam-dunk-717302-600/",
+      "thumbnail": "/drops/thumbs/fb46a4f42a2c.webp",
+      "published": "2026-11-10T14:26:57",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "d0ce766dc124",
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "5596c6f2877f",
+      "id": "95a65982ba97",
       "pillar": "anime",
-      "title": "Crunchyroll Streams Suikoden Anime",
+      "title": "HIDIVE to Screen Made in Abyss: Awakening Mystery in 2027 With N. American Premiere at Anime Frontier on December 5",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/crunchyroll-streams-suikoden-anime/.243688",
-      "thumbnail": "/drops/thumbs/5596c6f2877f.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/hidive-to-screen-made-in-abyss-awakening-mystery-in-2027-with-n-american-premiere-at-anime-frontier-/.243696",
+      "thumbnail": "/drops/thumbs/95a65982ba97.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "bfcfcb97dfaf",
+      "id": "2ed4f1ac4d05",
       "pillar": "anime",
-      "title": "Kodansha's Comic Tint Digital Magazine to End After 9 Years",
+      "title": "Dragon Quest RPG Mobile Game's Trailer Reveals 2027 Launch, Closed Beta Test in December",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/kodansha-comic-tint-digital-magazine-to-end-after-9-years/.243665",
-      "thumbnail": "/drops/thumbs/bfcfcb97dfaf.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/dragon-quest-rpg-mobile-game-trailer-reveals-2027-launch-closed-beta-test-in-december/.243690",
+      "thumbnail": "/drops/thumbs/2ed4f1ac4d05.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "d3e0f7397e64",
+      "id": "5596c6f2877f",
       "pillar": "anime",
-      "title": "Shueisha Games to Publish Nightmare Operator Action Horror Game",
+      "title": "Crunchyroll Streams Suikoden Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/shueisha-games-to-publish-nightmare-operator-action-horror-game/.243679",
-      "thumbnail": "/drops/thumbs/d3e0f7397e64.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/crunchyroll-streams-suikoden-anime/.243688",
+      "thumbnail": "/drops/thumbs/5596c6f2877f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "d5b6ce55988a",
+      "id": "7a6745a88f38",
       "pillar": "gaming",
-      "title": "News GTA 6 Preload Is Now Available for All Digital Pre-Orders, Download to Your PS5 Now",
+      "title": "Poll Is GTA 6 Being Stuck at 30fps on PS5 a Dealbreaker?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-preload-is-now-available-for-all-digital-pre-orders-download-to-your-ps5-now",
-      "thumbnail": "/drops/thumbs/d5b6ce55988a.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-is-gta-6-being-stuck-at-30fps-on-ps5-a-dealbreaker",
+      "thumbnail": "/drops/thumbs/7a6745a88f38.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "3c094b0ef228",
+      "id": "f41512356ef8",
       "pillar": "gaming",
-      "title": "News GTA 6 PS5 Pro Features Revealed, 30fps Target on Both Consoles",
+      "title": "News GTA 6 on PS5 Is PS Store's Most Pre-Ordered Digital Game in History",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-pro-features-revealed-30fps-target-on-both-consoles",
-      "thumbnail": "/drops/thumbs/3c094b0ef228.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-on-ps5-is-ps-stores-most-pre-ordered-digital-game-in-history",
+      "thumbnail": "/drops/thumbs/f41512356ef8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -333,6 +333,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564497/article/rumor-gta-6-will-have-pssr-and-ray-tracing-on-ps5-pro/",
       "thumbnail": "/drops/thumbs/b9998476bd75.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d5b6ce55988a",
+      "pillar": "gaming",
+      "title": "News GTA 6 Preload Is Now Available for All Digital Pre-Orders, Download to Your PS5 Now",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-preload-is-now-available-for-all-digital-pre-orders-download-to-your-ps5-now",
+      "thumbnail": "/drops/thumbs/d5b6ce55988a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "e3a3b9333a90",
-      "pillar": "gaming",
-      "title": "News Persona 4 Revival Wasn't Meant to Be Part of Packed February 2027 Release Schedule",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/persona-4-revival-wasnt-meant-to-be-part-of-packed-february-2027-release-schedule",
-      "thumbnail": "/drops/thumbs/e3a3b9333a90.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "85b8ec812485",
     "351aa8cdd9ba",
     "ba6b5ea87fcb",
-    "d5b6ce55988a"
+    "7a6745a88f38"
   ]
 }
