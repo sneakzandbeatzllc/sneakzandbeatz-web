@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-10T07:50:55+00:00",
+  "generated_utc": "2026-11-10T10:54:16+00:00",
   "items": [
     {
       "id": "14b7ed0ca377",
@@ -219,12 +219,12 @@
       "release_badge": ""
     },
     {
-      "id": "e216a3f46a88",
+      "id": "cf12be54ca47",
       "pillar": "anime",
-      "title": "Kyūgō's Monster in Sheep's Clothing BL Manga Gets Live-Action Film",
+      "title": "Devils' Crest Anime Confirms Half-Year Run",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/kyugo-monster-in-sheep-clothing-bl-manga-gets-live-action-film/.243671",
-      "thumbnail": "/drops/thumbs/e216a3f46a88.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/devils-crest-anime-confirms-half-year-run/.243678",
+      "thumbnail": "/drops/thumbs/cf12be54ca47.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,12 +243,12 @@
       "release_badge": ""
     },
     {
-      "id": "9e7f87c7e46d",
+      "id": "92026393973e",
       "pillar": "anime",
-      "title": "STEEL BALL RUN JoJo's Bizarre Adventure Anime's 'Special Video' Highlights Stands",
+      "title": "Millennium Family TV Anime Casts Mutsumi Tamura",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-09/steel-ball-run-jojo-bizarre-adventure-anime-special-video-highlights-stands/.243670",
-      "thumbnail": "/drops/thumbs/9e7f87c7e46d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/millennium-family-tv-anime-casts-mutsumi-tamura/.243639",
+      "thumbnail": "/drops/thumbs/92026393973e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "0e1ed29def11",
+      "id": "768c45ad6d17",
       "pillar": "anime",
-      "title": "My Death Flags Show No Sign of Ending Novels Get TV Anime in 2027",
+      "title": "Japanese Animation TV Ranking, October 26-November 1",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-09/my-death-flags-show-no-sign-of-ending-novels-get-tv-anime-in-2027/.243650",
-      "thumbnail": "/drops/thumbs/0e1ed29def11.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-10/japanese-animation-tv-ranking-october-26-november-1/.243621",
+      "thumbnail": "/drops/thumbs/768c45ad6d17.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,18 +285,6 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/shonen-jump-one-piece-final-villain-imu-redesign/",
       "thumbnail": "/drops/thumbs/a9d6a3b0301b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "959dba094e5d",
-      "pillar": "gaming",
-      "title": "News GTA 6 PS5 Physical Edition Includes a Poster, But It's Still Not the Map",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-physical-edition-includes-a-poster-but-its-still-not-the-map",
-      "thumbnail": "/drops/thumbs/959dba094e5d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "bb6fa343b81b",
+      "pillar": "gaming",
+      "title": "News Dedicated PS5, PS5 Pro Patch Aims to Fix Silent Hill 2 Graphics Issues",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/dedicated-ps5-ps5-pro-patch-aims-to-fix-silent-hill-2-graphics-issues",
+      "thumbnail": "/drops/thumbs/bb6fa343b81b.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "da7d18d99d0a",
       "pillar": "gaming",
       "title": "Hands-on FF7 Revelation's first dungeon is enough to impress me with its tighter combat",
@@ -393,6 +393,6 @@
     "85b8ec812485",
     "3a0048c930e8",
     "ba6b5ea87fcb",
-    "959dba094e5d"
+    "04b3b261c8a8"
   ]
 }
