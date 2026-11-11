@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-11T08:16:14+00:00",
+  "generated_utc": "2026-11-11T11:20:56+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -53,8 +53,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 4 “Cave Stone Phantom” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-cave-stone-phantom/",
+      "title": "Air Jordan 5 “Phoenix Suns” Releases March 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-5-phoenix-suns/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Berserk of Gluttony Season 2 Premieres Next April",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-11/berserk-of-gluttony-season-2-premieres-next-april/.243681",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
       "pillar": "anime",
@@ -144,15 +151,8 @@
       "article_slug": null
     },
     {
-      "title": "Aoharu Once More Light Anime's Teaser Reveals Cast, More Staff, January 2027 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/aoharu-once-more-light-anime-teaser-reveals-cast-more-staff-january-2027-debut/.243708",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Kodansha Launches 1999Tokoyo Building Horror Game on Steam",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/kodansha-launches-1999tokoyo-building-horror-game-on-steam/.243702",
+      "title": "SSS-Class Revival Hunter Anime's New Video Reveals Ending Song",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-11/sss-class-revival-hunter-anime-new-video-reveals-ending-song/.243716",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Mameshiba Characters Get Oyatsushiba Spinoff Short Net Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-10/mameshiba-characters-get-oyatsushiba-spinoff-short-net-anime/.243704",
+      "title": "Tomoko Ninomiya's Nanatsu-ya: Shinobu and Her Jewelry Box Manga Gets TV Anime in 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-11/tomoko-ninomiya-nanatsu-ya-shinobu-and-her-jewelry-box-manga-gets-tv-anime-in-2027/.243715",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,15 +179,22 @@
       "article_slug": null
     },
     {
-      "title": "Rumor: GTA 6 Pre-Load Data Suggests PS5 Pro Has Additional Ray-Tracing",
-      "url": "https://gameranx.com/updates/id/564504/article/rumor-gta-6-pre-load-data-suggests-ps5-pro-has-additional-ray-tracing/",
+      "title": "GTA 6 preload has begun, but there might be a better way to clear your SSD",
+      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/gta-6-preload-starts-today-but-there-might-be-a-better-way-to-clear-your-ssd/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Poll Is GTA 6 Being Stuck at 30fps on PS5 a Dealbreaker?",
-      "url": "https://www.pushsquare.com/features/poll-is-gta-6-being-stuck-at-30fps-on-ps5-a-dealbreaker",
+      "title": "GTA 6 Is 30 FPS On All Platforms, PERIOD",
+      "url": "https://gameranx.com/updates/id/564510/article/gta-6-is-30-fps-on-all-platforms-period/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rumor: GTA 6 Pre-Load Data Suggests PS5 Pro Has Additional Ray-Tracing",
+      "url": "https://gameranx.com/updates/id/564504/article/rumor-gta-6-pre-load-data-suggests-ps5-pro-has-additional-ray-tracing/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,22 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Interview Final Fantasy 7 Revelation's story changes are \"not taking fan feedback into account really at all\"",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-story-changes-are-not-taking-fan-feedback-into-account-really-at-all-says-the-remake-director-paradoxically-that-is-actually-better-for-the-fans/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Big Preview Final Fantasy 7 Revelation: The Big Preview",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-the-big-preview-hub/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "News Dedicated PS5, PS5 Pro Patch Aims to Fix Silent Hill 2 Graphics Issues",
       "url": "https://www.pushsquare.com/news/2026/11/dedicated-ps5-ps5-pro-patch-aims-to-fix-silent-hill-2-graphics-issues",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Interview Final Fantasy 7 Revelation's story changes are \"not taking fan feedback into account really at all\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-story-changes-are-not-taking-fan-feedback-into-account-really-at-all-says-the-remake-director-paradoxically-that-is-actually-better-for-the-fans/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
