@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-10T23:06:31+00:00",
+  "generated_utc": "2026-11-11T02:10:09+00:00",
   "items": [
     {
       "id": "14b7ed0ca377",
@@ -51,6 +51,18 @@
       "release_badge": "Drops This Week"
     },
     {
+      "id": "6ed11018e063",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 “Magic Ball” Releases November 11th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-11-wmns-space-jam-2026/",
+      "thumbnail": "/drops/thumbs/6ed11018e063.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 3.0,
+      "release_badge": "Drops This Month"
+    },
+    {
       "id": "d339cc582b52",
       "pillar": "sneakers",
       "title": "SoleFly x Air Jordan 5 Releases December 2026",
@@ -82,18 +94,6 @@
       "source_url": "https://justfreshkicks.com/nike-air-max-90-michigan-wolverines-jf8005-410/",
       "thumbnail": "/drops/thumbs/d0ce766dc124.jpg",
       "published": "2026-11-10T10:49:41",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ff9bcc240957",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 Golf “Black Cement” Releases January 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-golf-black-cement-2027/",
-      "thumbnail": "/drops/thumbs/ff9bcc240957.jpg",
-      "published": "2026-11-09T21:15:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "29db014c13b1",
+      "pillar": "anime",
+      "title": "3 Years Later, Solo Leveling Completely Retcons Its Original Ending",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-ending-retcon-jinwoo-cha-hae-in/",
+      "thumbnail": "/drops/thumbs/29db014c13b1.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "351aa8cdd9ba",
       "pillar": "anime",
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
@@ -207,24 +219,24 @@
       "release_badge": ""
     },
     {
-      "id": "3a0048c930e8",
+      "id": "630724fccc92",
       "pillar": "anime",
-      "title": "2027 Will Give One Piece A New Lead Hero, And It's Not Luffy",
+      "title": "Naruto: All 10 Tailed Beasts & Jinchuriki In The Franchise",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-luffy-not-hero-god-valley/",
-      "thumbnail": "/drops/thumbs/3a0048c930e8.jpg",
+      "source_url": "https://screenrant.com/naruto-tailed-beasts-bijuu-jinchuriki-powers-explained/",
+      "thumbnail": "/drops/thumbs/630724fccc92.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "abae063bb8b0",
+      "id": "3a0048c930e8",
       "pillar": "anime",
-      "title": "5 Years After Gear 5, One Piece Unveils Luffy's Official Beast Form",
+      "title": "2027 Will Give One Piece A New Lead Hero, And It's Not Luffy",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/luffy-new-beast-form-gear-5-one-piece/",
-      "thumbnail": "/drops/thumbs/abae063bb8b0.jpg",
+      "source_url": "https://screenrant.com/one-piece-luffy-not-hero-god-valley/",
+      "thumbnail": "/drops/thumbs/3a0048c930e8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "c376351f7263",
-      "pillar": "anime",
-      "title": "Critically Acclaimed 2-Season Historic Drama Returns With Brand-New Release Mystery Fans Can’t Miss",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/apothecary-diaries-season-2-blu-ray-release/",
-      "thumbnail": "/drops/thumbs/c376351f7263.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "7a6745a88f38",
       "pillar": "gaming",
       "title": "Poll Is GTA 6 Being Stuck at 30fps on PS5 a Dealbreaker?",
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "d5b6ce55988a",
-      "pillar": "gaming",
-      "title": "News GTA 6 Preload Is Now Available for All Digital Pre-Orders, Download to Your PS5 Now",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-preload-is-now-available-for-all-digital-pre-orders-download-to-your-ps5-now",
-      "thumbnail": "/drops/thumbs/d5b6ce55988a.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "e76dd4b804f1",
       "pillar": "gaming",
       "title": "Rumor: GTA 6 Now Has To Be Played On PS5’s Latest System Update For “Security Fixes”",
@@ -385,13 +373,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "f4c043cbcfad",
+      "pillar": "gaming",
+      "title": "Santa Monica Studio Delays God Of War Laufey To May 2027",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564500/article/santa-monica-studio-delays-god-of-war-laufey-to-may-2027/",
+      "thumbnail": "/drops/thumbs/f4c043cbcfad.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "14b7ed0ca377",
     "37dfb68bacdb",
     "85b8ec812485",
-    "351aa8cdd9ba",
+    "29db014c13b1",
     "ba6b5ea87fcb",
     "7a6745a88f38"
   ]
