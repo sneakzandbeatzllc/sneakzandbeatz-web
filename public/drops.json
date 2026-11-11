@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-11T17:24:44+00:00",
+  "generated_utc": "2026-11-11T20:26:46+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "636625e4b0cf",
+      "pillar": "hiphop",
+      "title": "Raekwon Releases New Single “Game Changers” On The Eve Of Wu-Tang Clan’s Induction Into Rock & Roll Hall Of Fame",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/11/raekwon-releases-new-single-game-changers-on-the-eve-of-wu-tang-clans-induction-into-rock-roll-hall-of-fame/",
+      "thumbnail": "/drops/thumbs/636625e4b0cf.jpg",
+      "published": "2026-11-11T12:24:17",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b889f17a69b7",
       "pillar": "hiphop",
       "title": "Today in Hip-Hop History: Timbaland and Magoo Released Their First Collaborative LP ‘Welcome to Our World’ 29 Years Ago",
@@ -183,13 +195,13 @@
       "release_badge": ""
     },
     {
-      "id": "7b657b28782b",
-      "pillar": "hiphop",
-      "title": "Wyclef Jean Joins Tobe Nwigwe and Fat Nwigwe for New Red Bull Spiral Freestyle",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/11/wyclef-jean-tobe-fat-nwigwe-red-bull-freestyle/",
-      "thumbnail": "/drops/thumbs/7b657b28782b.jpg",
-      "published": "2026-11-11T03:17:00",
+      "id": "0d8f6ba008ef",
+      "pillar": "anime",
+      "title": "Dragon Ball Officially Introduces The One Cosmic-Level Threat Even Goku And Vegeta Can’t Beat",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-beeurs-new-cosmic-threat-goku-vegeta-cant-beat/",
+      "thumbnail": "/drops/thumbs/0d8f6ba008ef.png",
+      "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -213,6 +225,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
       "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9cb829557d7d",
+      "pillar": "anime",
+      "title": "Black Clover Season 2, Episode 7 Release Date & Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-clover-season-2-episode-7-release-date-time/",
+      "thumbnail": "/drops/thumbs/9cb829557d7d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,48 +267,24 @@
       "release_badge": ""
     },
     {
+      "id": "2f91cba23642",
+      "pillar": "anime",
+      "title": "Crunchyroll to Stream Medaka Kuroiwa is Impervious to My Charms 2nd Season Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-11/crunchyroll-to-stream-medaka-kuroiwa-is-impervious-to-my-charms-2nd-season-anime/.243730",
+      "thumbnail": "/drops/thumbs/2f91cba23642.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "61e8ac23c0b0",
       "pillar": "anime",
       "title": "CyberAgent Announces Business Alliance With Animation Studio MAPPA",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-11-11/cyberagent-announces-business-alliance-with-animation-studio-mappa/.243717",
       "thumbnail": "/drops/thumbs/61e8ac23c0b0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "730f19a3bb02",
-      "pillar": "anime",
-      "title": "Elden Ring: Distant Tales Between Manga Ends in Next Chapter",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-11/elden-ring-distant-tales-between-manga-ends-in-next-chapter/.243710",
-      "thumbnail": "/drops/thumbs/730f19a3bb02.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f94cbafc97bb",
-      "pillar": "anime",
-      "title": "5 anime arcs that are 10/10, no notes",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
-      "thumbnail": "/drops/thumbs/f94cbafc97bb.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "c4683b6bcb8e",
-      "pillar": "anime",
-      "title": "Sayaka Mogi's Happy Hypoxia Manga Ends",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-11/sayaka-mogi-happy-hypoxia-manga-ends/.243705",
-      "thumbnail": "/drops/thumbs/c4683b6bcb8e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -303,12 +303,12 @@
       "release_badge": ""
     },
     {
-      "id": "fea4be43ae69",
+      "id": "d51c6239f0aa",
       "pillar": "gaming",
-      "title": "GTA 6 preload has begun, but there might be a better way to clear your SSD",
+      "title": "Features The best controllers for GTA 6: The gamepads I'd recommend for PS5 and Xbox players jumping into Vice City",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/hardware/ssd-hard-drives/gta-6-preload-starts-today-but-there-might-be-a-better-way-to-clear-your-ssd/",
-      "thumbnail": "/drops/thumbs/fea4be43ae69.jpg",
+      "source_url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/",
+      "thumbnail": "/drops/thumbs/d51c6239f0aa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "adb9c6313e18",
-    "b889f17a69b7",
+    "636625e4b0cf",
     "b92e848d6dd3",
-    "29db014c13b1",
+    "0d8f6ba008ef",
     "85b8ec812485",
     "54ede093e193"
   ]

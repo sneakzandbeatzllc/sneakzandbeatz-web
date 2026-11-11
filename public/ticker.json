@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-11T17:24:44+00:00",
+  "generated_utc": "2026-11-11T20:26:46+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Raekwon Releases New Single “Game Changers” On The Eve Of Wu-Tang Clan’s Induction Into Rock & Roll Hall Of Fame",
+      "url": "https://thesource.com/2026/11/11/raekwon-releases-new-single-game-changers-on-the-eve-of-wu-tang-clans-induction-into-rock-roll-hall-of-fame/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Today in Hip-Hop History: Timbaland and Magoo Released Their First Collaborative LP ‘Welcome to Our World’ 29 Years Ago",
       "url": "https://thesource.com/2026/11/11/today-in-hip-hop-history-timbaland-and-magoo-released-their-first-collaborative-lp-welcome-to-our-world-29-years-ago/",
       "pillar": "hiphop",
@@ -109,9 +116,9 @@
       "article_slug": null
     },
     {
-      "title": "Wyclef Jean Joins Tobe Nwigwe and Fat Nwigwe for New Red Bull Spiral Freestyle",
-      "url": "https://thesource.com/2026/11/11/wyclef-jean-tobe-fat-nwigwe-red-bull-freestyle/",
-      "pillar": "hiphop",
+      "title": "Dragon Ball Officially Introduces The One Cosmic-Level Threat Even Goku And Vegeta Can’t Beat",
+      "url": "https://screenrant.com/dragon-ball-beeurs-new-cosmic-threat-goku-vegeta-cant-beat/",
+      "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
@@ -125,6 +132,13 @@
     {
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Black Clover Season 2, Episode 7 Release Date & Time",
+      "url": "https://screenrant.com/black-clover-season-2-episode-7-release-date-time/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -144,29 +158,15 @@
       "article_slug": null
     },
     {
+      "title": "Crunchyroll to Stream Medaka Kuroiwa is Impervious to My Charms 2nd Season Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-11/crunchyroll-to-stream-medaka-kuroiwa-is-impervious-to-my-charms-2nd-season-anime/.243730",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "CyberAgent Announces Business Alliance With Animation Studio MAPPA",
       "url": "https://www.animenewsnetwork.com/news/2026-11-11/cyberagent-announces-business-alliance-with-animation-studio-mappa/.243717",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Elden Ring: Distant Tales Between Manga Ends in Next Chapter",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-11/elden-ring-distant-tales-between-manga-ends-in-next-chapter/.243710",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "5 anime arcs that are 10/10, no notes",
-      "url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Sayaka Mogi's Happy Hypoxia Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-11/sayaka-mogi-happy-hypoxia-manga-ends/.243705",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,8 +179,8 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 preload has begun, but there might be a better way to clear your SSD",
-      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/gta-6-preload-starts-today-but-there-might-be-a-better-way-to-clear-your-ssd/",
+      "title": "Features The best controllers for GTA 6: The gamepads I'd recommend for PS5 and Xbox players jumping into Vice City",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
