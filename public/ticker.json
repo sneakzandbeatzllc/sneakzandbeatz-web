@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-12T05:38:57+00:00",
+  "generated_utc": "2026-11-12T08:41:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,13 +13,6 @@
     {
       "title": "Air Jordan 3 “Not Nice” Releases November 2026",
       "url": "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 3 “Santa” Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-3-santa-2026/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -46,15 +39,22 @@
       "article_slug": null
     },
     {
-      "title": "SoleFly x Air Jordan 5 Releases December 2026",
-      "url": "https://www.sneakerfiles.com/solefly-air-jordan-5-2026/",
+      "title": "Air Jordan 14 “Chartreuse” Returns January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
       "pillar": "sneakers",
-      "score": 2.4,
+      "score": 2.0,
       "article_slug": null
     },
     {
-      "title": "Air Jordan 9 Boot “Olive” Is Back for $230",
-      "url": "https://justfreshkicks.com/air-jordan-9-boot-olive-ar4491-012/",
+      "title": "Air Jordan 4 “Spotlight” Releases January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Rei Mikamoto Ends Blood Friend Manga in December",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-11/rei-mikamoto-ends-blood-friend-manga-in-december/.243738",
+      "title": "Viz Media Licenses Kyousuke Motomi's Registry of the Divine Manga",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/viz-media-licenses-kyousuke-motomi-registry-of-the-divine-manga/.243741",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Duel Masters GT Manga's Part 3 Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-11/duel-masters-gt-manga-part-3-ends/.243737",
+      "title": "Rei Mikamoto Ends Blood Friend Manga in December",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-11/rei-mikamoto-ends-blood-friend-manga-in-december/.243738",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

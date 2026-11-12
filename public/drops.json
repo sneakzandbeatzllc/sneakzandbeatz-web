@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-12T05:38:57+00:00",
+  "generated_utc": "2026-11-12T08:41:12+00:00",
   "items": [
     {
       "id": "abb345201ab6",
@@ -22,18 +22,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-3-not-nice/",
       "thumbnail": "/drops/thumbs/b92e848d6dd3.jpg",
       "published": "2026-11-10T22:22:33",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
-      "id": "85b8ec812485",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Santa” Releases November 2026",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-3-santa-2026/",
-      "thumbnail": "/drops/thumbs/85b8ec812485.jpg",
-      "published": "2026-11-09T22:14:06",
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
@@ -75,25 +63,37 @@
       "release_badge": "Drops This Month"
     },
     {
-      "id": "d339cc582b52",
+      "id": "055ef7a7d24c",
       "pillar": "sneakers",
-      "title": "SoleFly x Air Jordan 5 Releases December 2026",
+      "title": "Air Jordan 14 “Chartreuse” Returns January 2027",
       "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/solefly-air-jordan-5-2026/",
-      "thumbnail": "/drops/thumbs/d339cc582b52.jpg",
-      "published": "2026-11-09T21:34:24",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
+      "thumbnail": "/drops/thumbs/055ef7a7d24c.jpg",
+      "published": "2026-11-11T23:18:09",
       "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
+      "score": 2.0,
+      "release_badge": ""
     },
     {
-      "id": "7a75e016485f",
+      "id": "fa591aaabc6c",
       "pillar": "sneakers",
-      "title": "Air Jordan 9 Boot “Olive” Is Back for $230",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-9-boot-olive-ar4491-012/",
-      "thumbnail": "/drops/thumbs/7a75e016485f.jpg",
-      "published": "2026-11-11T22:08:18",
+      "title": "Air Jordan 4 “Spotlight” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
+      "thumbnail": "/drops/thumbs/fa591aaabc6c.jpg",
+      "published": "2026-11-11T23:06:58",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7f3c4a5f7421",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
+      "thumbnail": "/drops/thumbs/7f3c4a5f7421.jpg",
+      "published": "2026-11-11T22:54:50",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "0336ae94d2a7",
+      "id": "ed1afba28189",
       "pillar": "anime",
-      "title": "Rei Mikamoto Ends Blood Friend Manga in December",
+      "title": "Viz Media Licenses Kyousuke Motomi's Registry of the Divine Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-11/rei-mikamoto-ends-blood-friend-manga-in-december/.243738",
-      "thumbnail": "/drops/thumbs/0336ae94d2a7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-12/viz-media-licenses-kyousuke-motomi-registry-of-the-divine-manga/.243741",
+      "thumbnail": "/drops/thumbs/ed1afba28189.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "a2f09b458468",
+      "id": "0336ae94d2a7",
       "pillar": "anime",
-      "title": "Duel Masters GT Manga's Part 3 Ends",
+      "title": "Rei Mikamoto Ends Blood Friend Manga in December",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-11/duel-masters-gt-manga-part-3-ends/.243737",
-      "thumbnail": "/drops/thumbs/a2f09b458468.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-11/rei-mikamoto-ends-blood-friend-manga-in-december/.243738",
+      "thumbnail": "/drops/thumbs/0336ae94d2a7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -392,7 +392,7 @@
     "cb7455d0f7d5",
     "b92e848d6dd3",
     "0d8f6ba008ef",
-    "85b8ec812485",
+    "ba6b5ea87fcb",
     "54ede093e193"
   ]
 }
