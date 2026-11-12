@@ -1,18 +1,11 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-12T14:50:54+00:00",
+  "generated_utc": "2026-11-12T18:06:06+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
       "title": "Air Jordan 4 TD “Bred” Football Cleat Releases November 27 for $205",
       "url": "https://justfreshkicks.com/air-jordan-4-td-bred-hq0207-001/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 12 “Atmos Jade” Releases November 21 for ¥31,900",
-      "url": "https://justfreshkicks.com/air-jordan-12-atmos-jade/",
       "pillar": "sneakers",
       "score": 3.0,
       "article_slug": null
@@ -32,8 +25,15 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 14 “Chartreuse” Returns January 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
+      "title": "Air Jordan 4 “Cave Stone/Phantom” Releases February 12",
+      "url": "https://justfreshkicks.com/air-jordan-4-cave-stone-phantom/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 14 “Chartreuse” Surfaces in Retailer Images",
+      "url": "https://justfreshkicks.com/air-jordan-14-chartreuse-ix0206-001/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Nabe ni Tama wo Ukenagara TV Anime Reveals Main Cast, Staff, January Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-12/nabe-ni-tama-wo-ukenagara-tv-anime-reveals-main-cast-staff-january-debut/.243753",
+      "title": "Shin Oishinbo TV Anime Casts Kenji Yamauchi, Ken Uo",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/shin-oishinbo-tv-anime-casts-kenji-yamauchi-ken-uo/.243762",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Chained Soldier Manga Resumes on December 12",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-12/chained-soldier-manga-resumes-on-december-12/.243752",
+      "title": "Nabe ni Tama wo Ukenagara TV Anime Reveals Main Cast, Staff, January Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/nabe-ni-tama-wo-ukenagara-tv-anime-reveals-main-cast-staff-january-debut/.243753",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News This GTA 6 Clip Looks So Real, Fans Can't Believe It's In-Game Footage",
-      "url": "https://www.pushsquare.com/news/2026/11/this-gta-6-clip-looks-so-real-fans-cant-believe-its-in-game-footage",
+      "title": "News These New GTA 6 Clips Look So Real, Fans Can't Believe It's All In-Game Footage",
+      "url": "https://www.pushsquare.com/news/2026/11/these-new-gta-6-clips-look-so-real-fans-cant-believe-its-all-in-game-footage",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
-      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+      "title": "News 'Genital Exposure Has Never Appeared This Frequently': GTA 6 Was Almost Refused Release in South Korea",
+      "url": "https://www.pushsquare.com/news/2026/11/genital-exposure-has-never-appeared-this-frequently-gta-6-was-almost-refused-release-in-south-korea",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Interview \"The snowboarding minigame is just essential,\" says FF7 Revelation director \"There really was no other option for us!\"",
-      "url": "https://www.gamesradar.com/games/final-fantasy/the-snowboarding-minigame-is-just-essential-says-ff7-revelation-director-and-queens-blood-also-returns-due-to-fan-demand-there-really-was-no-other-option-for-us/",
+      "title": "BioWare could make Mass Effect 2 in 18 months because \"the core team stayed\" from the first game",
+      "url": "https://www.gamesradar.com/games/mass-effect/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
