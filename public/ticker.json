@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-13T03:12:32+00:00",
+  "generated_utc": "2026-11-13T06:16:12+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Professor Layton and The New World of Steam Game Reveals English Dub, Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-12/professor-layton-and-the-new-world-of-steam-game-reveals-english-dub-cast/.243767",
+      "title": "'Draw This, Then Die!' Manga Takes 2-Month Break to Prepare for Final Arc",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-13/draw-this-then-die-manga-takes-2-month-break-to-prepare-for-final-arc/.243776",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Shin Oishinbo TV Anime Casts Kenji Yamauchi, Ken Uo",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-12/shin-oishinbo-tv-anime-casts-kenji-yamauchi-ken-uo/.243762",
+      "title": "Yuri Is My Job! Manga Gets Short Drama Adaptation Next Spring",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Launch Leads to Special Holiday for All Palworld Dev Employees",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-launch-leads-to-special-holiday-for-all-palworld-dev-employees",
+      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -188,6 +188,13 @@
     {
       "title": "This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip",
       "url": "https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News These New GTA 6 Clips Look So Real, Fans Can't Believe It's All In-Game Footage",
+      "url": "https://www.pushsquare.com/news/2026/11/these-new-gta-6-clips-look-so-real-fans-cant-believe-its-all-in-game-footage",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -216,13 +223,6 @@
     {
       "title": "Resident Evil Requiem wins Ultimate Game of the Year at the Golden Joystick Awards 2026",
       "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "BioWare could make Mass Effect 2 in 18 months because \"the core team stayed\" from the first game",
-      "url": "https://www.gamesradar.com/games/mass-effect/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
