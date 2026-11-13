@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-13T18:25:09+00:00",
+  "generated_utc": "2026-11-13T21:27:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,13 @@
       "article_slug": null
     },
     {
+      "title": "Today in Hip-Hop History: Wu Tang Clan’s ODB Passed Away 22 Years Ago",
+      "url": "https://thesource.com/2026/11/13/today-in-hip-hop-history-wu-tang-clans-odb-passed-away-22-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "2 Chainz & Static Selektah Follow Up With “Situation” Feat. Big Sean, Erykah Badu And Aasher Saintt",
       "url": "https://thesource.com/2026/11/13/2-chainz-static-selektah-follow-up-with-situation-feat-big-sean-erykah-badu-and-aasher-saintt/",
       "pillar": "hiphop",
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Dame Dash Ordered To Surrender Roc-A-Fella Archives Within 7 Days Following $550K Sale Of Life Story Rights",
-      "url": "https://thesource.com/2026/11/12/dame-dash-ordered-to-surrender-roc-a-fella-archives-within-7-days-following-550k-sale-of-life-story-rights/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dragon Ball Super: Beerus Episode 6 Release Date & Time",
       "url": "https://screenrant.com/dragon-ball-super-beerus-episode-6-release-date-time/",
       "pillar": "anime",
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Living It Up in Another World Until I Get Bored Novels Get TV Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-13/living-it-up-in-another-world-until-i-get-bored-novels-get-tv-anime/.243798",
+      "title": "Giant Ojosama TV Anime Reveals More Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "ATASHIn'CHI Next Net Anime's Additional Episodes Debut on January 1",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-13/atashinchi-next-net-anime-additional-episodes-debut-on-january-1/.243794",
+      "title": "J-Novel Club Licenses Putting a Price on World Peace Novels, I'm Dating a Dark Summoner Manga, More Titles",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-13/j-novel-club-licenses-putting-a-price-on-world-peace-novels-im-dating-a-dark-summoner-manga-more-/.243781",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -200,13 +200,6 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Buying Guide The best headsets for GTA 6: Dolby Atmos and Tempest 3D heavy-hitters from across the price range",
       "url": "https://www.gamesradar.com/hardware/headsets-headphones/the-best-headsets-for-gta-6/",
       "pillar": "gaming",
@@ -216,6 +209,13 @@
     {
       "title": "GTA 6 Was Almost Banned In Korea – Was It Censored In Japan?",
       "url": "https://gameranx.com/updates/id/564512/article/gta-6-was-almost-banned-in-korea-was-it-censored-in-japan/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "GTA 6 Was Almost Refused Classification In South Korea For Featuring Too Many ‘Out-Of-Context’ Penises",
+      "url": "https://kotaku.com/gta-6-south-korea-for-featuring-too-many-out-of-context-penises-rockstar-2000756253",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

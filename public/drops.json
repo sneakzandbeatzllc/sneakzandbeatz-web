@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-13T18:25:09+00:00",
+  "generated_utc": "2026-11-13T21:27:02+00:00",
   "items": [
     {
       "id": "abb345201ab6",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "059daae6f000",
+      "pillar": "hiphop",
+      "title": "Today in Hip-Hop History: Wu Tang Clan’s ODB Passed Away 22 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/13/today-in-hip-hop-history-wu-tang-clans-odb-passed-away-22-years-ago/",
+      "thumbnail": "/drops/thumbs/059daae6f000.jpg",
+      "published": "2026-11-13T13:38:35",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "2ab82a8ea519",
       "pillar": "hiphop",
       "title": "2 Chainz & Static Selektah Follow Up With “Situation” Feat. Big Sean, Erykah Badu And Aasher Saintt",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "b6a6daf65c25",
-      "pillar": "hiphop",
-      "title": "Dame Dash Ordered To Surrender Roc-A-Fella Archives Within 7 Days Following $550K Sale Of Life Story Rights",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/12/dame-dash-ordered-to-surrender-roc-a-fella-archives-within-7-days-following-550k-sale-of-life-story-rights/",
-      "thumbnail": "/drops/thumbs/b6a6daf65c25.jpg",
-      "published": "2026-11-12T07:54:31",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cfc411131543",
       "pillar": "anime",
       "title": "Dragon Ball Super: Beerus Episode 6 Release Date & Time",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "4cfb8dd5345d",
+      "id": "0117c1ce7689",
       "pillar": "anime",
-      "title": "Living It Up in Another World Until I Get Bored Novels Get TV Anime",
+      "title": "Giant Ojosama TV Anime Reveals More Cast",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/living-it-up-in-another-world-until-i-get-bored-novels-get-tv-anime/.243798",
-      "thumbnail": "/drops/thumbs/4cfb8dd5345d.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804",
+      "thumbnail": "/drops/thumbs/0117c1ce7689.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "1b0be631c5cc",
+      "id": "ea3feb4ac8d7",
       "pillar": "anime",
-      "title": "ATASHIn'CHI Next Net Anime's Additional Episodes Debut on January 1",
+      "title": "J-Novel Club Licenses Putting a Price on World Peace Novels, I'm Dating a Dark Summoner Manga, More Titles",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/atashinchi-next-net-anime-additional-episodes-debut-on-january-1/.243794",
-      "thumbnail": "/drops/thumbs/1b0be631c5cc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/j-novel-club-licenses-putting-a-price-on-world-peace-novels-im-dating-a-dark-summoner-manga-more-/.243781",
+      "thumbnail": "/drops/thumbs/ea3feb4ac8d7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,18 +339,6 @@
       "release_badge": ""
     },
     {
-      "id": "8d27d609fdad",
-      "pillar": "gaming",
-      "title": "News GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
-      "thumbnail": "/drops/thumbs/8d27d609fdad.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3ad57d3a5e6b",
       "pillar": "gaming",
       "title": "Buying Guide The best headsets for GTA 6: Dolby Atmos and Tempest 3D heavy-hitters from across the price range",
@@ -375,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "ea7a0b83529d",
+      "pillar": "gaming",
+      "title": "GTA 6 Was Almost Refused Classification In South Korea For Featuring Too Many ‘Out-Of-Context’ Penises",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/gta-6-south-korea-for-featuring-too-many-out-of-context-penises-rockstar-2000756253",
+      "thumbnail": "/drops/thumbs/ea7a0b83529d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a1d09a361762",
       "pillar": "gaming",
       "title": "GTA 6 Is 30 FPS On All Platforms, PERIOD",
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "abb345201ab6",
-    "2ab82a8ea519",
+    "059daae6f000",
     "959632b05ca3",
     "cfc411131543",
     "6ed11018e063",
