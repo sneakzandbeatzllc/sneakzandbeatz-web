@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-13T09:19:53+00:00",
+  "generated_utc": "2026-11-13T12:21:01+00:00",
   "items": [
     {
       "id": "abb345201ab6",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "216e417211f3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 “Carmine” Returns March 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-6-carmine-2027/",
+      "thumbnail": "/drops/thumbs/216e417211f3.jpg",
+      "published": "2026-11-13T04:03:07",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "12238d8caa6e",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
       "thumbnail": "/drops/thumbs/7f3c4a5f7421.jpg",
       "published": "2026-11-11T22:54:50",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7a75e016485f",
-      "pillar": "sneakers",
-      "title": "Air Jordan 9 Boot “Olive” Is Back for $230",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-9-boot-olive-ar4491-012/",
-      "thumbnail": "/drops/thumbs/7a75e016485f.jpg",
-      "published": "2026-11-11T22:08:18",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "fdc2734890d5",
+      "id": "1b0be631c5cc",
       "pillar": "anime",
-      "title": "'Draw This, Then Die!' Manga Takes 2-Month Break to Prepare for Final Arc",
+      "title": "ATASHIn'CHI Next Net Anime's Additional Episodes Debut on January 1",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/draw-this-then-die-manga-takes-2-month-break-to-prepare-for-final-arc/.243776",
-      "thumbnail": "/drops/thumbs/fdc2734890d5.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/atashinchi-next-net-anime-additional-episodes-debut-on-january-1/.243794",
+      "thumbnail": "/drops/thumbs/1b0be631c5cc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "880096a225ca",
+      "id": "9f691d230ed7",
       "pillar": "anime",
-      "title": "Yuri Is My Job! Manga Gets Short Drama Adaptation Next Spring",
+      "title": "Stars Shinnosuke Tokudome, Shūichirō Umeda Perform Ending Theme for Ore to Yu Nii! Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-12/yuri-is-my-job-manga-gets-short-drama-adaptation-next-spring/.243775",
-      "thumbnail": "/drops/thumbs/880096a225ca.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/stars-shinnosuke-tokudome-shuichiro-umeda-perform-ending-theme-for-ore-to-yu-nii-anime/.243793",
+      "thumbnail": "/drops/thumbs/9f691d230ed7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -303,12 +303,24 @@
       "release_badge": ""
     },
     {
-      "id": "71de569f359c",
+      "id": "7fa2eace6ec7",
       "pillar": "gaming",
-      "title": "GTA 6 Was Almost Banned In Korea – Was It Censored In Japan?",
+      "title": "As GTA 6 breaks records, Take-Two CEO says he isn't interested in an EA-style $55 billion buyout",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-breaks-records-take-two-ceo-says-he-isnt-interested-in-an-ea-style-usd55-billion-buyout-additional-scale-doesnt-seem-to-help/",
+      "thumbnail": "/drops/thumbs/7fa2eace6ec7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b80db788f6d6",
+      "pillar": "gaming",
+      "title": "Hacker Confirms GTA 6 Won’t Be Dumped On PS5’s Latest Firmware",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564512/article/gta-6-was-almost-banned-in-korea-was-it-censored-in-japan/",
-      "thumbnail": "/drops/thumbs/71de569f359c.jpg",
+      "source_url": "https://gameranx.com/updates/id/564514/article/hacker-confirms-gta-6-wont-be-dumped-on-ps5s-latest-firmware/",
+      "thumbnail": "/drops/thumbs/b80db788f6d6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,48 +351,36 @@
       "release_badge": ""
     },
     {
+      "id": "d51c6239f0aa",
+      "pillar": "gaming",
+      "title": "Features The best controllers for GTA 6: The gamepads I'd recommend for PS5 and Xbox players jumping into Vice City",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/",
+      "thumbnail": "/drops/thumbs/d51c6239f0aa.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "71de569f359c",
+      "pillar": "gaming",
+      "title": "GTA 6 Was Almost Banned In Korea – Was It Censored In Japan?",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564512/article/gta-6-was-almost-banned-in-korea-was-it-censored-in-japan/",
+      "thumbnail": "/drops/thumbs/71de569f359c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "a1d09a361762",
       "pillar": "gaming",
       "title": "GTA 6 Is 30 FPS On All Platforms, PERIOD",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564510/article/gta-6-is-30-fps-on-all-platforms-period/",
       "thumbnail": "/drops/thumbs/a1d09a361762.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "04b3b261c8a8",
-      "pillar": "gaming",
-      "title": "Rumor: GTA 6 Pre-Load Data Suggests PS5 Pro Has Additional Ray-Tracing",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564504/article/rumor-gta-6-pre-load-data-suggests-ps5-pro-has-additional-ray-tracing/",
-      "thumbnail": "/drops/thumbs/04b3b261c8a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b9998476bd75",
-      "pillar": "gaming",
-      "title": "Rumor: GTA 6 Will Have PSSR and Ray Tracing On PS5 Pro",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564497/article/rumor-gta-6-will-have-pssr-and-ray-tracing-on-ps5-pro/",
-      "thumbnail": "/drops/thumbs/b9998476bd75.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b581fb824e2e",
-      "pillar": "gaming",
-      "title": "Resident Evil Requiem wins Ultimate Game of the Year at the Golden Joystick Awards 2026",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/",
-      "thumbnail": "/drops/thumbs/b581fb824e2e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
