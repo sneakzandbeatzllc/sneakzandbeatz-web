@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-13T15:23:27+00:00",
+  "generated_utc": "2026-11-13T18:25:09+00:00",
   "items": [
     {
       "id": "abb345201ab6",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "c8c757010020",
+      "pillar": "sneakers",
+      "title": "SoleFly x Air Jordan 5 Releases December 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/solefly-air-jordan-5/",
+      "thumbnail": "/drops/thumbs/c8c757010020.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "216e417211f3",
@@ -87,15 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "7f3c4a5f7421",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
-      "thumbnail": "/drops/thumbs/7f3c4a5f7421.jpg",
-      "published": "2026-11-11T22:54:50",
+      "id": "2ab82a8ea519",
+      "pillar": "hiphop",
+      "title": "2 Chainz & Static Selektah Follow Up With “Situation” Feat. Big Sean, Erykah Badu And Aasher Saintt",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/13/2-chainz-static-selektah-follow-up-with-situation-feat-big-sean-erykah-badu-and-aasher-saintt/",
+      "thumbnail": "/drops/thumbs/2ab82a8ea519.jpg",
+      "published": "2026-11-13T13:09:23",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "09723bf993c5",
-      "pillar": "hiphop",
-      "title": "Brooklyn Building Collapse Death Toll Rises to Five as Rescue Efforts Continue",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/12/brooklyn-building-collapse-death-toll-five/",
-      "thumbnail": "/drops/thumbs/09723bf993c5.jpg",
-      "published": "2026-11-12T06:58:07",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cfc411131543",
       "pillar": "anime",
       "title": "Dragon Ball Super: Beerus Episode 6 Release Date & Time",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "1b0be631c5cc",
+      "id": "4cfb8dd5345d",
       "pillar": "anime",
-      "title": "ATASHIn'CHI Next Net Anime's Additional Episodes Debut on January 1",
+      "title": "Living It Up in Another World Until I Get Bored Novels Get TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/atashinchi-next-net-anime-additional-episodes-debut-on-january-1/.243794",
-      "thumbnail": "/drops/thumbs/1b0be631c5cc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/living-it-up-in-another-world-until-i-get-bored-novels-get-tv-anime/.243798",
+      "thumbnail": "/drops/thumbs/4cfb8dd5345d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "9f691d230ed7",
+      "id": "1b0be631c5cc",
       "pillar": "anime",
-      "title": "Stars Shinnosuke Tokudome, Shūichirō Umeda Perform Ending Theme for Ore to Yu Nii! Anime",
+      "title": "ATASHIn'CHI Next Net Anime's Additional Episodes Debut on January 1",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/stars-shinnosuke-tokudome-shuichiro-umeda-perform-ending-theme-for-ore-to-yu-nii-anime/.243793",
-      "thumbnail": "/drops/thumbs/9f691d230ed7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/atashinchi-next-net-anime-additional-episodes-debut-on-january-1/.243794",
+      "thumbnail": "/drops/thumbs/1b0be631c5cc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "8d27d609fdad",
+      "id": "b3f6d45c366b",
       "pillar": "gaming",
-      "title": "News GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope",
+      "title": "PSA GTA 6 Does Not Have Online Multiplayer at Launch",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
-      "thumbnail": "/drops/thumbs/8d27d609fdad.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+      "thumbnail": "/drops/thumbs/b3f6d45c366b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,24 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "f77895b6e4ad",
+      "id": "8d27d609fdad",
       "pillar": "gaming",
-      "title": "News K-pop Royalty Recruited for PlayStation Korea's Glitzy GTA 6 Ad",
+      "title": "News GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/k-pop-royalty-recruited-for-playstation-koreas-glitzy-gta-6-ad",
-      "thumbnail": "/drops/thumbs/f77895b6e4ad.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
+      "thumbnail": "/drops/thumbs/8d27d609fdad.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d51c6239f0aa",
+      "id": "3ad57d3a5e6b",
       "pillar": "gaming",
-      "title": "Features The best controllers for GTA 6: The gamepads I'd recommend for PS5 and Xbox players jumping into Vice City",
+      "title": "Buying Guide The best headsets for GTA 6: Dolby Atmos and Tempest 3D heavy-hitters from across the price range",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/",
-      "thumbnail": "/drops/thumbs/d51c6239f0aa.jpg",
+      "source_url": "https://www.gamesradar.com/hardware/headsets-headphones/the-best-headsets-for-gta-6/",
+      "thumbnail": "/drops/thumbs/3ad57d3a5e6b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "ea7a0b83529d",
+      "id": "a1d09a361762",
       "pillar": "gaming",
-      "title": "GTA 6 Was Almost Refused Classification In South Korea For Featuring Too Many ‘Out-Of-Context’ Penises",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/gta-6-south-korea-for-featuring-too-many-out-of-context-penises-rockstar-2000756253",
-      "thumbnail": "/drops/thumbs/ea7a0b83529d.jpg",
+      "title": "GTA 6 Is 30 FPS On All Platforms, PERIOD",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564510/article/gta-6-is-30-fps-on-all-platforms-period/",
+      "thumbnail": "/drops/thumbs/a1d09a361762.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "abb345201ab6",
-    "47ca53114bf3",
+    "2ab82a8ea519",
     "959632b05ca3",
     "cfc411131543",
     "6ed11018e063",
-    "8d27d609fdad"
+    "b3f6d45c366b"
   ]
 }
