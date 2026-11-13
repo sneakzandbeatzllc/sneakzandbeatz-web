@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-13T00:11:13+00:00",
+  "generated_utc": "2026-11-13T03:12:32+00:00",
   "items": [
     {
       "id": "abb345201ab6",
@@ -327,18 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "affdf5dc893c",
-      "pillar": "gaming",
-      "title": "News These New GTA 6 Clips Look So Real, Fans Can't Believe It's All In-Game Footage",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/these-new-gta-6-clips-look-so-real-fans-cant-believe-its-all-in-game-footage",
-      "thumbnail": "/drops/thumbs/affdf5dc893c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a1d09a361762",
       "pillar": "gaming",
       "title": "GTA 6 Is 30 FPS On All Platforms, PERIOD",
@@ -381,6 +369,18 @@
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/",
       "thumbnail": "/drops/thumbs/b581fb824e2e.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d5ec81d7ed5b",
+      "pillar": "gaming",
+      "title": "BioWare could make Mass Effect 2 in 18 months because \"the core team stayed\" from the first game",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/mass-effect/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead/",
+      "thumbnail": "/drops/thumbs/d5ec81d7ed5b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

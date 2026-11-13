@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-13T00:11:13+00:00",
+  "generated_utc": "2026-11-13T03:12:32+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -193,13 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "News These New GTA 6 Clips Look So Real, Fans Can't Believe It's All In-Game Footage",
-      "url": "https://www.pushsquare.com/news/2026/11/these-new-gta-6-clips-look-so-real-fans-cant-believe-its-all-in-game-footage",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 Is 30 FPS On All Platforms, PERIOD",
       "url": "https://gameranx.com/updates/id/564510/article/gta-6-is-30-fps-on-all-platforms-period/",
       "pillar": "gaming",
@@ -223,6 +216,13 @@
     {
       "title": "Resident Evil Requiem wins Ultimate Game of the Year at the Golden Joystick Awards 2026",
       "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "BioWare could make Mass Effect 2 in 18 months because \"the core team stayed\" from the first game",
+      "url": "https://www.gamesradar.com/games/mass-effect/bioware-could-make-mass-effect-2-in-18-months-because-it-didnt-fire-everyone-listened-to-the-player-and-grew-ruthless-about-limiting-scope-says-former-lead/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
