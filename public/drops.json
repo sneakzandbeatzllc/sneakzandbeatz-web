@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-13T21:27:02+00:00",
+  "generated_utc": "2026-11-14T00:28:41+00:00",
   "items": [
     {
       "id": "abb345201ab6",
@@ -25,18 +25,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
-    },
-    {
-      "id": "6ed11018e063",
-      "pillar": "sneakers",
-      "title": "Air Jordan 11 “Magic Ball” Releases November 11th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-11-wmns-space-jam-2026/",
-      "thumbnail": "/drops/thumbs/6ed11018e063.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
     },
     {
       "id": "c8c757010020",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
       "thumbnail": "/drops/thumbs/fa591aaabc6c.jpg",
       "published": "2026-11-11T23:06:58",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7f3c4a5f7421",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
+      "thumbnail": "/drops/thumbs/7f3c4a5f7421.jpg",
+      "published": "2026-11-11T22:54:50",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "cfc411131543",
+      "id": "521e60c8c3a5",
       "pillar": "anime",
-      "title": "Dragon Ball Super: Beerus Episode 6 Release Date & Time",
+      "title": "Dragon Ball Super’s Manga Return Gets Disastrous Update",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-beerus-episode-6-release-date-time/",
-      "thumbnail": "/drops/thumbs/cfc411131543.jpg",
+      "source_url": "https://screenrant.com/dragon-ball-super-manga-return-bad-update-gallery/",
+      "thumbnail": "/drops/thumbs/521e60c8c3a5.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "879ad3062130",
+      "id": "cfc411131543",
       "pillar": "anime",
-      "title": "Demon Slayer’s Post-Infinity Castle Future Gets First Official Update, And It’s Bigger Than Fans Expected",
+      "title": "Dragon Ball Super: Beerus Episode 6 Release Date & Time",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/demon-slayer-post-infinity-castle-update-future/",
-      "thumbnail": "/drops/thumbs/879ad3062130.png",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-episode-6-release-date-time/",
+      "thumbnail": "/drops/thumbs/cfc411131543.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "0117c1ce7689",
+      "id": "235e7b6c1b32",
       "pillar": "anime",
-      "title": "Giant Ojosama TV Anime Reveals More Cast",
+      "title": "North American Anime, Manga Releases, November 8-14",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804",
-      "thumbnail": "/drops/thumbs/0117c1ce7689.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/north-american-anime-manga-releases-november-8-14/.243661",
+      "thumbnail": "/drops/thumbs/235e7b6c1b32.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ea3feb4ac8d7",
+      "id": "0117c1ce7689",
       "pillar": "anime",
-      "title": "J-Novel Club Licenses Putting a Price on World Peace Novels, I'm Dating a Dark Summoner Manga, More Titles",
+      "title": "Giant Ojosama TV Anime Reveals More Cast",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/j-novel-club-licenses-putting-a-price-on-world-peace-novels-im-dating-a-dark-summoner-manga-more-/.243781",
-      "thumbnail": "/drops/thumbs/ea3feb4ac8d7.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-13/giant-ojosama-tv-anime-reveals-more-cast/.243804",
+      "thumbnail": "/drops/thumbs/0117c1ce7689.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,8 +391,8 @@
     "abb345201ab6",
     "059daae6f000",
     "959632b05ca3",
-    "cfc411131543",
-    "6ed11018e063",
+    "521e60c8c3a5",
+    "c8c757010020",
     "b3f6d45c366b"
   ]
 }
