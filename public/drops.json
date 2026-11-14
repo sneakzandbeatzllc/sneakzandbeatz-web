@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-14T00:28:41+00:00",
+  "generated_utc": "2026-11-14T03:30:22+00:00",
   "items": [
     {
       "id": "abb345201ab6",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "b23435114837",
+      "pillar": "anime",
+      "title": "All 11 Titan Types In Attack On Titan Explained",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/attack-titan-types-versions-explained/",
+      "thumbnail": "/drops/thumbs/b23435114837.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "521e60c8c3a5",
       "pillar": "anime",
       "title": "Dragon Ball Super’s Manga Return Gets Disastrous Update",
@@ -243,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "256b6ac629a3",
-      "pillar": "anime",
-      "title": "20 Strongest One Piece Characters",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/strongest-one-piece-characters-luffy-kaido-whitebeard/",
-      "thumbnail": "/drops/thumbs/256b6ac629a3.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "235e7b6c1b32",
       "pillar": "anime",
       "title": "North American Anime, Manga Releases, November 8-14",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "b3f6d45c366b",
+      "id": "fdf4f7f47290",
       "pillar": "gaming",
-      "title": "PSA GTA 6 Does Not Have Online Multiplayer at Launch",
+      "title": "News GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
-      "thumbnail": "/drops/thumbs/b3f6d45c366b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
+      "thumbnail": "/drops/thumbs/fdf4f7f47290.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,8 +391,8 @@
     "abb345201ab6",
     "059daae6f000",
     "959632b05ca3",
-    "521e60c8c3a5",
+    "b23435114837",
     "c8c757010020",
-    "b3f6d45c366b"
+    "fdf4f7f47290"
   ]
 }
