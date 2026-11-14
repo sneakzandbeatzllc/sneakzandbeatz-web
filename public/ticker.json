@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-14T03:30:22+00:00",
+  "generated_utc": "2026-11-14T06:35:51+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -200,6 +200,13 @@
       "article_slug": null
     },
     {
+      "title": "PSA GTA 6 Does Not Have Online Multiplayer at Launch",
+      "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Buying Guide The best headsets for GTA 6: Dolby Atmos and Tempest 3D heavy-hitters from across the price range",
       "url": "https://www.gamesradar.com/hardware/headsets-headphones/the-best-headsets-for-gta-6/",
       "pillar": "gaming",
@@ -216,13 +223,6 @@
     {
       "title": "GTA 6 Was Almost Refused Classification In South Korea For Featuring Too Many ‘Out-Of-Context’ Penises",
       "url": "https://kotaku.com/gta-6-south-korea-for-featuring-too-many-out-of-context-penises-rockstar-2000756253",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "GTA 6 Is 30 FPS On All Platforms, PERIOD",
-      "url": "https://gameranx.com/updates/id/564510/article/gta-6-is-30-fps-on-all-platforms-period/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
