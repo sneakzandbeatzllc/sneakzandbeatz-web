@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-14T22:16:30+00:00",
+  "generated_utc": "2026-11-15T01:17:47+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "de203e436f3f",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 MCS Cleat “Space Jam” Release Date, Price and Where to Buy",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-11-mcs-cleat-space-jam-ja7792-400/",
+      "thumbnail": "/drops/thumbs/de203e436f3f.jpg",
+      "published": "2026-11-14T19:28:16",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "216e417211f3",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
       "thumbnail": "/drops/thumbs/fa591aaabc6c.jpg",
       "published": "2026-11-11T23:06:58",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7f3c4a5f7421",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
-      "thumbnail": "/drops/thumbs/7f3c4a5f7421.jpg",
-      "published": "2026-11-11T22:54:50",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "521e60c8c3a5",
-      "pillar": "anime",
-      "title": "Dragon Ball Super’s Manga Return Gets Disastrous Update",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-manga-return-bad-update-gallery/",
-      "thumbnail": "/drops/thumbs/521e60c8c3a5.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0f2236ed654b",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Ending Explained: What Happens To Yuji In The Series' Finale?",
@@ -255,24 +243,24 @@
       "release_badge": ""
     },
     {
-      "id": "244e67d1ed95",
+      "id": "69e19a1827c3",
       "pillar": "anime",
-      "title": "Love Live! Hasu no Sora Jogakuin School Idol Club Anime's Special Video Previews TV Footage",
+      "title": "Even the Student Council Has It's Holes! Anime Casts Yōko Hikasa",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-14/love-live-hasu-no-sora-jogakuin-school-idol-club-anime-special-video-previews-tv-footage/.243814",
-      "thumbnail": "/drops/thumbs/244e67d1ed95.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-14/even-the-student-council-has-its-holes-anime-casts-yoko-hikasa/.243815",
+      "thumbnail": "/drops/thumbs/69e19a1827c3.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ae047be4ffe0",
+      "id": "244e67d1ed95",
       "pillar": "anime",
-      "title": "World Trigger Tops Oricon's Comic Ranking for October",
+      "title": "Love Live! Hasu no Sora Jogakuin School Idol Club Anime's Special Video Previews TV Footage",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-14/world-trigger-tops-oricon-comic-ranking-for-october/.243760",
-      "thumbnail": "/drops/thumbs/ae047be4ffe0.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-14/love-live-hasu-no-sora-jogakuin-school-idol-club-anime-special-video-previews-tv-footage/.243814",
+      "thumbnail": "/drops/thumbs/244e67d1ed95.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "fdf4f7f47290",
+      "id": "ae047be4ffe0",
+      "pillar": "anime",
+      "title": "World Trigger Tops Oricon's Comic Ranking for October",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-14/world-trigger-tops-oricon-comic-ranking-for-october/.243760",
+      "thumbnail": "/drops/thumbs/ae047be4ffe0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fbf7c524a03c",
       "pillar": "gaming",
-      "title": "News GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
+      "title": "News GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
-      "thumbnail": "/drops/thumbs/fdf4f7f47290.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
+      "thumbnail": "/drops/thumbs/fbf7c524a03c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "fdf4f7f47290",
+      "pillar": "gaming",
+      "title": "News GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-codes-potentially-being-stolen-from-physical-copies-using-flashlight-trick",
+      "thumbnail": "/drops/thumbs/fdf4f7f47290.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3ad57d3a5e6b",
       "pillar": "gaming",
       "title": "Buying Guide The best headsets for GTA 6: Dolby Atmos and Tempest 3D heavy-hitters from across the price range",
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "04b3b261c8a8",
-      "pillar": "gaming",
-      "title": "Rumor: GTA 6 Pre-Load Data Suggests PS5 Pro Has Additional Ray-Tracing",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564504/article/rumor-gta-6-pre-load-data-suggests-ps5-pro-has-additional-ray-tracing/",
-      "thumbnail": "/drops/thumbs/04b3b261c8a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "959632b05ca3",
     "b23435114837",
     "c8c757010020",
-    "fdf4f7f47290"
+    "fbf7c524a03c"
   ]
 }
