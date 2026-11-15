@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-15T10:35:53+00:00",
+  "generated_utc": "2026-11-15T13:43:04+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -195,24 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "0f2236ed654b",
+      "id": "6c4c490ab129",
       "pillar": "anime",
-      "title": "Jujutsu Kaisen Ending Explained: What Happens To Yuji In The Series' Finale?",
+      "title": "Jujutsu Kaisen Drops New Designs For Yuji, Megumi, And Yuta Ahead Of Big Season 4 Return",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-271-ending-explained-what-happens-to-yuji-sukuna/",
-      "thumbnail": "/drops/thumbs/0f2236ed654b.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "84126c00371d",
-      "pillar": "anime",
-      "title": "5 Years Later, Solo Leveling Brings Back An Enemy Not Even Jinwoo Could Beat",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-villain-return-sillad/",
-      "thumbnail": "/drops/thumbs/84126c00371d.jpg",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-yuji-megumi-yuta-first-look-before-season-4/",
+      "thumbnail": "/drops/thumbs/6c4c490ab129.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,12 +219,36 @@
       "release_badge": ""
     },
     {
+      "id": "801343ed6e20",
+      "pillar": "anime",
+      "title": "30 Years After His Debut, Luffy Is Officially Ready To Become One Piece’s God Of Destruction",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-luffy-god-destruction/",
+      "thumbnail": "/drops/thumbs/801343ed6e20.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5aac7f026cec",
       "pillar": "anime",
       "title": "Naruto’s New Series Is The Perfect Chance To Finally Solve A Decade-Old Mystery",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/naruto-sequel-shadow-rising-rock-lee-mystery/",
       "thumbnail": "/drops/thumbs/5aac7f026cec.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "27fa1904e991",
+      "pillar": "anime",
+      "title": "Odekake Kozame Anime Gets 2nd Film",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-15/odekake-kozame-anime-gets-2nd-film/.243832",
+      "thumbnail": "/drops/thumbs/27fa1904e991.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,18 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "cae7b92e3766",
-      "pillar": "anime",
-      "title": "Bride of the Barrier Master Anime Streams Video for Hana's Twin Hazuki Ichise",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-15/bride-of-the-barrier-master-anime-streams-video-for-hana-twin-hazuki-ichise/.243831",
-      "thumbnail": "/drops/thumbs/cae7b92e3766.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f94cbafc97bb",
       "pillar": "anime",
       "title": "5 anime arcs that are 10/10, no notes",
@@ -279,12 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "69e19a1827c3",
+      "id": "cae7b92e3766",
       "pillar": "anime",
-      "title": "Even the Student Council Has It's Holes! Anime Casts Yōko Hikasa",
+      "title": "Bride of the Barrier Master Anime Streams Video for Hana's Twin Hazuki Ichise",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-14/even-the-student-council-has-its-holes-anime-casts-yoko-hikasa/.243815",
-      "thumbnail": "/drops/thumbs/69e19a1827c3.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-15/bride-of-the-barrier-master-anime-streams-video-for-hana-twin-hazuki-ichise/.243831",
+      "thumbnail": "/drops/thumbs/cae7b92e3766.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "adb9c6313e18",
     "0164dd8a12fd",
     "959632b05ca3",
-    "0f2236ed654b",
+    "6c4c490ab129",
     "c8c757010020",
     "fbf7c524a03c"
   ]
