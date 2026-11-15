@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-15T01:17:47+00:00",
+  "generated_utc": "2026-11-15T04:20:02+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -63,25 +63,13 @@
       "release_badge": ""
     },
     {
-      "id": "12238d8caa6e",
+      "id": "055ef7a7d24c",
       "pillar": "sneakers",
-      "title": "Air Jordan 4 “Cave Stone/Phantom” Releases February 12",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-cave-stone-phantom/",
-      "thumbnail": "/drops/thumbs/12238d8caa6e.webp",
-      "published": "2026-11-12T10:17:45",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "51d7c23a2931",
-      "pillar": "sneakers",
-      "title": "Air Jordan 14 “Chartreuse” Surfaces in Retailer Images",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-14-chartreuse-ix0206-001/",
-      "thumbnail": "/drops/thumbs/51d7c23a2931.webp",
-      "published": "2026-11-12T10:16:55",
+      "title": "Air Jordan 14 “Chartreuse” Returns January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
+      "thumbnail": "/drops/thumbs/055ef7a7d24c.jpg",
+      "published": "2026-11-11T23:18:09",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
       "thumbnail": "/drops/thumbs/fa591aaabc6c.jpg",
       "published": "2026-11-11T23:06:58",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7f3c4a5f7421",
+      "pillar": "sneakers",
+      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
+      "thumbnail": "/drops/thumbs/7f3c4a5f7421.jpg",
+      "published": "2026-11-11T22:54:50",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "b23435114837",
-      "pillar": "anime",
-      "title": "All 11 Titan Types In Attack On Titan Explained",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/attack-titan-types-versions-explained/",
-      "thumbnail": "/drops/thumbs/b23435114837.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "0f2236ed654b",
       "pillar": "anime",
       "title": "Jujutsu Kaisen Ending Explained: What Happens To Yuji In The Series' Finale?",
@@ -237,6 +225,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
       "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5aac7f026cec",
+      "pillar": "anime",
+      "title": "Naruto’s New Series Is The Perfect Chance To Finally Solve A Decade-Old Mystery",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/naruto-sequel-shadow-rising-rock-lee-mystery/",
+      "thumbnail": "/drops/thumbs/5aac7f026cec.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "adb9c6313e18",
     "0164dd8a12fd",
     "959632b05ca3",
-    "b23435114837",
+    "0f2236ed654b",
     "c8c757010020",
     "fbf7c524a03c"
   ]

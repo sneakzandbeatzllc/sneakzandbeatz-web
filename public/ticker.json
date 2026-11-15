@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-15T01:17:47+00:00",
+  "generated_utc": "2026-11-15T04:20:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -39,15 +39,8 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 4 “Cave Stone/Phantom” Releases February 12",
-      "url": "https://justfreshkicks.com/air-jordan-4-cave-stone-phantom/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 14 “Chartreuse” Surfaces in Retailer Images",
-      "url": "https://justfreshkicks.com/air-jordan-14-chartreuse-ix0206-001/",
+      "title": "Air Jordan 14 “Chartreuse” Returns January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 4 “Spotlight” Releases January 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -116,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "All 11 Titan Types In Attack On Titan Explained",
-      "url": "https://screenrant.com/attack-titan-types-versions-explained/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Jujutsu Kaisen Ending Explained: What Happens To Yuji In The Series' Finale?",
       "url": "https://screenrant.com/jujutsu-kaisen-271-ending-explained-what-happens-to-yuji-sukuna/",
       "pillar": "anime",
@@ -139,6 +132,13 @@
     {
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto’s New Series Is The Perfect Chance To Finally Solve A Decade-Old Mystery",
+      "url": "https://screenrant.com/naruto-sequel-shadow-rising-rock-lee-mystery/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
