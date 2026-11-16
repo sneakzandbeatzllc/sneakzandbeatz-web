@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-15T22:51:54+00:00",
+  "generated_utc": "2026-11-16T01:53:27+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "a58bf52283a0",
+      "pillar": "hiphop",
+      "title": "Rihanna’s and A$AP Rocky’s Son Riot Rose Makes Modeling Debut at Age 3",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/15/rihannas-and-aap-rockys-son-riot-rose-makes-modeling-debut-at-age-3/",
+      "thumbnail": "/drops/thumbs/a58bf52283a0.jpg",
+      "published": "2026-11-15T18:30:25",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "90eaaf6b5134",
       "pillar": "hiphop",
       "title": "Happy Heavenly Birthday ODB! Top Five Memorable Ol’ Dirty Moments",
@@ -183,24 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "059daae6f000",
-      "pillar": "hiphop",
-      "title": "Today in Hip-Hop History: Wu Tang Clan’s ODB Passed Away 22 Years Ago",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/13/today-in-hip-hop-history-wu-tang-clans-odb-passed-away-22-years-ago/",
-      "thumbnail": "/drops/thumbs/059daae6f000.jpg",
-      "published": "2026-11-13T13:38:35",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "6c4c490ab129",
+      "id": "cfa7403719f0",
       "pillar": "anime",
-      "title": "Jujutsu Kaisen Drops New Designs For Yuji, Megumi, And Yuta Ahead Of Big Season 4 Return",
+      "title": "The One Series Solo Leveling Can't Beat Is Officially Returning In 2 Weeks",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-yuji-megumi-yuta-first-look-before-season-4/",
-      "thumbnail": "/drops/thumbs/6c4c490ab129.png",
+      "source_url": "https://screenrant.com/solo-leveling-rival-omniscient-reader-viewpoint/",
+      "thumbnail": "/drops/thumbs/cfa7403719f0.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "801343ed6e20",
-      "pillar": "anime",
-      "title": "30 Years After His Debut, Luffy Is Officially Ready To Become One Piece’s God Of Destruction",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-luffy-god-destruction/",
-      "thumbnail": "/drops/thumbs/801343ed6e20.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "a9ba5526e38b",
       "pillar": "anime",
       "title": "Witch Watch Manga Ends With Anime Season 2 to Air in 2027",
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
       "thumbnail": "/drops/thumbs/f94cbafc97bb.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "27fa1904e991",
+      "pillar": "anime",
+      "title": "Odekake Kozame Anime Gets 2nd Film",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-15/odekake-kozame-anime-gets-2nd-film/.243832",
+      "thumbnail": "/drops/thumbs/27fa1904e991.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,9 +389,9 @@
   ],
   "homepage": [
     "adb9c6313e18",
-    "90eaaf6b5134",
+    "a58bf52283a0",
     "959632b05ca3",
-    "6c4c490ab129",
+    "cfa7403719f0",
     "c8c757010020",
     "fbf7c524a03c"
   ]
