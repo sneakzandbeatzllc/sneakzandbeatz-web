@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-17T05:57:28+00:00",
+  "generated_utc": "2026-11-17T09:01:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,34 @@
       "article_slug": null
     },
     {
+      "title": "Wu-Tang Clan Celebrates Rock & Roll Hall of Fame Induction With Star-Studded Beverly Hills Event",
+      "url": "https://thesource.com/2026/11/17/wu-tang-clan-rock-hall-fame-induction-celebration/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Chicago Bears’ Jeffery Simmons Visits Nashville Juvenile Detention Center to Encourage Young Men",
+      "url": "https://thesource.com/2026/11/17/jeffery-simmons-nashville-juvenile-detention-center-visit/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "‘NBA 2K27’ Teams Up With Rockstar Games for Vice City-Themed Season 3",
+      "url": "https://thesource.com/2026/11/17/nba-2k27-rockstar-games-vice-city-season-3/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "LeBron James Moves Into Third Place on NBA’s All-Time Assists List",
+      "url": "https://thesource.com/2026/11/17/lebron-james-passes-jason-kidd-nba-career-assists/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "U-God Opens Up About Wu-Tang Clan’s Rock & Roll Hall of Fame Induction, ODB Memories, and New Album STINGER",
       "url": "https://thesource.com/2026/11/16/u-god-opens-up-about-wu-tang-clans-rock-roll-hall-of-fame-induction-odb-memories-and-new-album-stinger/",
       "pillar": "hiphop",
@@ -83,34 +111,6 @@
     {
       "title": "2 Chainz Announces New Single “Situation” Featuring Big Sean and Erykah Badu",
       "url": "https://thesource.com/2026/11/16/2-chainz-situation-big-sean-erykah-badu/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Chance the Rapper Welcomes Third Child, Baby Girl Hayli",
-      "url": "https://thesource.com/2026/11/16/chance-the-rapper-welcomes-third-child-hayli/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "YoungBoy Never Broke Again Launches First-Ever Limited-Edition RC Truck Collection",
-      "url": "https://thesource.com/2026/11/16/youngboy-never-broke-again-limited-edition-rc-truck/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Trump Blames Biden Administration for FAA Ground Stop, Urges Congress to Fund New System",
-      "url": "https://thesource.com/2026/11/16/trump-blames-biden-administration-faa-ground-stop/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Nia Long Says She Doesn’t Know When ‘Michael’ Sequel Will Begin Filming",
-      "url": "https://thesource.com/2026/11/16/nia-long-michael-sequel-filming/",
       "pillar": "hiphop",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Subscription Will Include NBA 2K27 for Free on PS5",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
+      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,8 +207,8 @@
       "article_slug": null
     },
     {
-      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
-      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+      "title": "News GTA 6 Subscription Will Include NBA 2K27 for Free on PS5",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

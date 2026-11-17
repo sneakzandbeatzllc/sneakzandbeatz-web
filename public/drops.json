@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-17T05:57:28+00:00",
+  "generated_utc": "2026-11-17T09:01:31+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -99,6 +99,54 @@
       "release_badge": ""
     },
     {
+      "id": "4e2bc0462e5d",
+      "pillar": "hiphop",
+      "title": "Wu-Tang Clan Celebrates Rock & Roll Hall of Fame Induction With Star-Studded Beverly Hills Event",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/17/wu-tang-clan-rock-hall-fame-induction-celebration/",
+      "thumbnail": "/drops/thumbs/4e2bc0462e5d.jpg",
+      "published": "2026-11-17T00:34:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9395797fd629",
+      "pillar": "hiphop",
+      "title": "Chicago Bears’ Jeffery Simmons Visits Nashville Juvenile Detention Center to Encourage Young Men",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/17/jeffery-simmons-nashville-juvenile-detention-center-visit/",
+      "thumbnail": "/drops/thumbs/9395797fd629.jpg",
+      "published": "2026-11-17T00:30:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "dc40aecdf835",
+      "pillar": "hiphop",
+      "title": "‘NBA 2K27’ Teams Up With Rockstar Games for Vice City-Themed Season 3",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/17/nba-2k27-rockstar-games-vice-city-season-3/",
+      "thumbnail": "/drops/thumbs/dc40aecdf835.jpg",
+      "published": "2026-11-17T00:24:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "530f2e71a97b",
+      "pillar": "hiphop",
+      "title": "LeBron James Moves Into Third Place on NBA’s All-Time Assists List",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/17/lebron-james-passes-jason-kidd-nba-career-assists/",
+      "thumbnail": "/drops/thumbs/530f2e71a97b.jpg",
+      "published": "2026-11-17T00:00:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7bf3476a6a16",
       "pillar": "hiphop",
       "title": "U-God Opens Up About Wu-Tang Clan’s Rock & Roll Hall of Fame Induction, ODB Memories, and New Album STINGER",
@@ -142,54 +190,6 @@
       "source_url": "https://thesource.com/2026/11/16/2-chainz-situation-big-sean-erykah-badu/",
       "thumbnail": "/drops/thumbs/e2bf30f62ba2.jpg",
       "published": "2026-11-16T07:43:30",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9efba386fca7",
-      "pillar": "hiphop",
-      "title": "Chance the Rapper Welcomes Third Child, Baby Girl Hayli",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/16/chance-the-rapper-welcomes-third-child-hayli/",
-      "thumbnail": "/drops/thumbs/9efba386fca7.jpg",
-      "published": "2026-11-16T07:38:53",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "cafa7342d599",
-      "pillar": "hiphop",
-      "title": "YoungBoy Never Broke Again Launches First-Ever Limited-Edition RC Truck Collection",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/16/youngboy-never-broke-again-limited-edition-rc-truck/",
-      "thumbnail": "/drops/thumbs/cafa7342d599.jpg",
-      "published": "2026-11-16T07:33:57",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f7c57b4086a3",
-      "pillar": "hiphop",
-      "title": "Trump Blames Biden Administration for FAA Ground Stop, Urges Congress to Fund New System",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/16/trump-blames-biden-administration-faa-ground-stop/",
-      "thumbnail": "/drops/thumbs/f7c57b4086a3.png",
-      "published": "2026-11-16T07:25:12",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "579651e4e89e",
-      "pillar": "hiphop",
-      "title": "Nia Long Says She Doesn’t Know When ‘Michael’ Sequel Will Begin Filming",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/16/nia-long-michael-sequel-filming/",
-      "thumbnail": "/drops/thumbs/579651e4e89e.jpg",
-      "published": "2026-11-16T07:18:26",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "e886ea6d1e16",
+      "id": "b14193b3c51b",
       "pillar": "gaming",
-      "title": "News GTA 6 Subscription Will Include NBA 2K27 for Free on PS5",
+      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
-      "thumbnail": "/drops/thumbs/e886ea6d1e16.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+      "thumbnail": "/drops/thumbs/b14193b3c51b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -351,12 +351,12 @@
       "release_badge": ""
     },
     {
-      "id": "b14193b3c51b",
+      "id": "e886ea6d1e16",
       "pillar": "gaming",
-      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
+      "title": "News GTA 6 Subscription Will Include NBA 2K27 for Free on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
-      "thumbnail": "/drops/thumbs/b14193b3c51b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
+      "thumbnail": "/drops/thumbs/e886ea6d1e16.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "adb9c6313e18",
-    "7bf3476a6a16",
+    "4e2bc0462e5d",
     "959632b05ca3",
     "faa45a4d2beb",
     "c8c757010020",
