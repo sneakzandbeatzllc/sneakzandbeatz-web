@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-17T18:06:11+00:00",
+  "generated_utc": "2026-11-17T21:23:52+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -25,6 +25,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
+    },
+    {
+      "id": "94c12e7f6bfb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 10 OG “Sacramento” Releases December 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
+      "thumbnail": "/drops/thumbs/94c12e7f6bfb.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "c8c757010020",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
       "thumbnail": "/drops/thumbs/fa591aaabc6c.jpg",
       "published": "2026-11-11T23:06:58",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7f3c4a5f7421",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
-      "thumbnail": "/drops/thumbs/7f3c4a5f7421.jpg",
-      "published": "2026-11-11T22:54:50",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -171,6 +171,18 @@
       "release_badge": ""
     },
     {
+      "id": "25e6d706798d",
+      "pillar": "hiphop",
+      "title": "Stephen Hendry and 8 Ball Strike in 2026: What Should Players Know?",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/17/stephen-hendry-and-8-ball-strike-in-2026-what-should-players-know/",
+      "thumbnail": "/drops/thumbs/25e6d706798d.jpg",
+      "published": "2026-11-17T02:08:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4e2bc0462e5d",
       "pillar": "hiphop",
       "title": "Wu-Tang Clan Celebrates Rock & Roll Hall of Fame Induction With Star-Studded Beverly Hills Event",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/11/17/wu-tang-clan-rock-hall-fame-induction-celebration/",
       "thumbnail": "/drops/thumbs/4e2bc0462e5d.jpg",
       "published": "2026-11-17T00:34:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9395797fd629",
-      "pillar": "hiphop",
-      "title": "Chicago Bears’ Jeffery Simmons Visits Nashville Juvenile Detention Center to Encourage Young Men",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/17/jeffery-simmons-nashville-juvenile-detention-center-visit/",
-      "thumbnail": "/drops/thumbs/9395797fd629.jpg",
-      "published": "2026-11-17T00:30:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -231,24 +231,24 @@
       "release_badge": ""
     },
     {
-      "id": "429abad153d4",
+      "id": "acb557923ecb",
       "pillar": "anime",
-      "title": "Maki Terashima-Furuta Joins ASIFA-Hollywood's Board of Directors Ahead of 54th Annie Awards' New Anime Category",
+      "title": "Yametai! ~Anata no Reset, Daikō Shimasu~ Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-17/maki-terashima-furuta-joins-asifa-hollywood-board-of-directors-ahead-of-54th-annie-awards-new-anime-/.243909",
-      "thumbnail": "/drops/thumbs/429abad153d4.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-17/yametai-~anata-no-reset-daiko-shimasu~-manga-ends/.243881",
+      "thumbnail": "/drops/thumbs/acb557923ecb.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "c2ebaf67e2e6",
+      "id": "d287c9bd6a4b",
       "pillar": "anime",
-      "title": "ARIKA Director, Software Development Head, Game Programmer Akira Kurabayashi Dies",
+      "title": "Battle Spirits [Re] Zekkai no Kū Anime Gets Light Novel",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-17/arika-director-software-development-head-game-programmer-akira-kurabayashi-dies/.243908",
-      "thumbnail": "/drops/thumbs/c2ebaf67e2e6.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-17/battle-spirits-re-zekkai-no-ku-anime-gets-light-novel/.243914",
+      "thumbnail": "/drops/thumbs/d287c9bd6a4b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -267,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "f2b988199c82",
+      "id": "6a2aeffb10ef",
       "pillar": "anime",
-      "title": "Exclusive: Nakama Press Licenses Uoyama's Opening the Door to Hinata-San's Heart Manga",
+      "title": "HIDIVE Streams Giant Ojosama TV Anime This Winter; Screens N. American Premiere at Anime Frontier on December 4",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-17/exclusive-nakama-press-licenses-uoyama-opening-the-door-to-hinata-san-heart-manga/.243853",
-      "thumbnail": "/drops/thumbs/f2b988199c82.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-17/hidive-streams-giant-ojosama-tv-anime-this-winter-screens-n-american-premiere-at-anime-frontier-on-/.243917",
+      "thumbnail": "/drops/thumbs/6a2aeffb10ef.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,24 +291,24 @@
       "release_badge": ""
     },
     {
-      "id": "28e7281461a9",
+      "id": "0bef4c2b1c32",
       "pillar": "gaming",
-      "title": "News The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards",
+      "title": "News GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-revealed-gta-6-up-for-8-awards",
-      "thumbnail": "/drops/thumbs/28e7281461a9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
+      "thumbnail": "/drops/thumbs/0bef4c2b1c32.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "d4ab60f79430",
+      "id": "61172248010a",
       "pillar": "gaming",
-      "title": "Deals The DualSense Edge is taking a very rare discount as GTA 6 downloads onto your console",
+      "title": "GTA 6 Lucia actor revealed thanks to The Game Awards nomination, and it's exactly who everyone expected",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/hardware/gaming-controllers/the-dualsense-edge-is-taking-a-very-rare-discount-as-gta-6-downloads-onto-your-console/",
-      "thumbnail": "/drops/thumbs/d4ab60f79430.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lucia-actor-revealed-thanks-to-the-game-awards-best-performance-nomination-and-yes-its-exactly-who-everyone-expected/",
+      "thumbnail": "/drops/thumbs/61172248010a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,48 @@
       "release_badge": ""
     },
     {
+      "id": "5a1ac15da1bb",
+      "pillar": "gaming",
+      "title": "News UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
+      "thumbnail": "/drops/thumbs/5a1ac15da1bb.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d4ab60f79430",
+      "pillar": "gaming",
+      "title": "Deals The DualSense Edge is taking a very rare discount as GTA 6 downloads onto your console",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/hardware/gaming-controllers/the-dualsense-edge-is-taking-a-very-rare-discount-as-gta-6-downloads-onto-your-console/",
+      "thumbnail": "/drops/thumbs/d4ab60f79430.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "d75b92aa09a0",
       "pillar": "gaming",
       "title": "Physical GTA 6 Buyers Are Claiming They Aren’t Getting The Codes In Boxes",
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564517/article/physical-gta-6-buyers-are-claiming-they-arent-getting-the-codes-in-boxes/",
       "thumbnail": "/drops/thumbs/d75b92aa09a0.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "28e7281461a9",
+      "pillar": "gaming",
+      "title": "News The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-revealed-gta-6-up-for-8-awards",
+      "thumbnail": "/drops/thumbs/28e7281461a9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -349,42 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "71de569f359c",
-      "pillar": "gaming",
-      "title": "GTA 6 Was Almost Banned In Korea – Was It Censored In Japan?",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564512/article/gta-6-was-almost-banned-in-korea-was-it-censored-in-japan/",
-      "thumbnail": "/drops/thumbs/71de569f359c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "a1d09a361762",
-      "pillar": "gaming",
-      "title": "GTA 6 Is 30 FPS On All Platforms, PERIOD",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564510/article/gta-6-is-30-fps-on-all-platforms-period/",
-      "thumbnail": "/drops/thumbs/a1d09a361762.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "04b3b261c8a8",
-      "pillar": "gaming",
-      "title": "Rumor: GTA 6 Pre-Load Data Suggests PS5 Pro Has Additional Ray-Tracing",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564504/article/rumor-gta-6-pre-load-data-suggests-ps5-pro-has-additional-ray-tracing/",
-      "thumbnail": "/drops/thumbs/04b3b261c8a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -392,7 +392,7 @@
     "8e7de3bfa047",
     "959632b05ca3",
     "faa45a4d2beb",
-    "c8c757010020",
-    "28e7281461a9"
+    "94c12e7f6bfb",
+    "0bef4c2b1c32"
   ]
 }
