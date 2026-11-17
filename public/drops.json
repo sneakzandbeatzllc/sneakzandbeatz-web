@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-16T23:30:04+00:00",
+  "generated_utc": "2026-11-17T02:50:57+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "e886ea6d1e16",
+      "id": "5c961c232649",
       "pillar": "gaming",
-      "title": "News GTA 6 Subscription Will Include NBA 2K27 for Free on PS5",
+      "title": "News GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
-      "thumbnail": "/drops/thumbs/e886ea6d1e16.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
+      "thumbnail": "/drops/thumbs/5c961c232649.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "b14193b3c51b",
+      "id": "e886ea6d1e16",
       "pillar": "gaming",
-      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
+      "title": "News GTA 6 Subscription Will Include NBA 2K27 for Free on PS5",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
-      "thumbnail": "/drops/thumbs/b14193b3c51b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
+      "thumbnail": "/drops/thumbs/e886ea6d1e16.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -345,6 +345,18 @@
       "source": "Gameranx",
       "source_url": "https://gameranx.com/updates/id/564514/article/hacker-confirms-gta-6-wont-be-dumped-on-ps5s-latest-firmware/",
       "thumbnail": "/drops/thumbs/b80db788f6d6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b14193b3c51b",
+      "pillar": "gaming",
+      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+      "thumbnail": "/drops/thumbs/b14193b3c51b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,18 +385,6 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "04b3b261c8a8",
-      "pillar": "gaming",
-      "title": "Rumor: GTA 6 Pre-Load Data Suggests PS5 Pro Has Additional Ray-Tracing",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564504/article/rumor-gta-6-pre-load-data-suggests-ps5-pro-has-additional-ray-tracing/",
-      "thumbnail": "/drops/thumbs/04b3b261c8a8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
@@ -393,6 +393,6 @@
     "959632b05ca3",
     "faa45a4d2beb",
     "c8c757010020",
-    "e886ea6d1e16"
+    "5c961c232649"
   ]
 }
