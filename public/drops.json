@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-17T02:50:57+00:00",
+  "generated_utc": "2026-11-17T05:57:28+00:00",
   "items": [
     {
       "id": "adb9c6313e18",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "8d253531b238",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Fire Red Cement” Sample Surfaces in New Photos",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-4-fire-red-cement-sample/",
+      "thumbnail": "/drops/thumbs/8d253531b238.webp",
+      "published": "2026-11-16T22:50:04",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "de203e436f3f",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
       "thumbnail": "/drops/thumbs/fa591aaabc6c.jpg",
       "published": "2026-11-11T23:06:58",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "7f3c4a5f7421",
-      "pillar": "sneakers",
-      "title": "Air Jordan 7 “Playoffs” (Raptors) Returns February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-7-playoffs-raptors-2027/",
-      "thumbnail": "/drops/thumbs/7f3c4a5f7421.jpg",
-      "published": "2026-11-11T22:54:50",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "764cbd730dda",
-      "pillar": "anime",
-      "title": "French Manga, Comic Creator Frédéric Boilet Dies at 66",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-16/french-manga-comic-creator-frederic-boilet-dies-at-66/.243766",
-      "thumbnail": "/drops/thumbs/764cbd730dda.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f94cbafc97bb",
       "pillar": "anime",
       "title": "5 anime arcs that are 10/10, no notes",
@@ -267,24 +255,36 @@
       "release_badge": ""
     },
     {
-      "id": "61be22415e14",
-      "pillar": "anime",
-      "title": "The Days of Diamond Manga Gets TV Anime",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-16/the-days-of-diamond-manga-gets-tv-anime/.243858",
-      "thumbnail": "/drops/thumbs/61be22415e14.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "cb5d4c8c4b53",
       "pillar": "anime",
       "title": "52 Years Later, One Of Sci-Fi's Most Legendary Space Operas Finally Gets Its Streaming Finale",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/battleship-yamato-final-chapter-streaming/",
       "thumbnail": "/drops/thumbs/cb5d4c8c4b53.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "5b432014f08f",
+      "pillar": "anime",
+      "title": "5 Massive Anime Just Left Crunchyroll, Here's Where To Stream Them Instead",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/crunchyroll-loses-big-anime-titles-grimgar-orange/",
+      "thumbnail": "/drops/thumbs/5b432014f08f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f4ec489706b4",
+      "pillar": "anime",
+      "title": "29 Years Later, This Banned Masterpiece Is Still the Greatest Mythology Movie Of All Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/ramayana-banned-mythology-movie-greatest-all-time/",
+      "thumbnail": "/drops/thumbs/f4ec489706b4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
