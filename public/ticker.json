@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-18T00:25:04+00:00",
+  "generated_utc": "2026-11-18T03:26:31+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -13,13 +13,6 @@
     {
       "title": "Air Jordan 10 OG “Sacramento” Releases December 2026",
       "url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "SoleFly x Air Jordan 5 Releases December 2026",
-      "url": "https://sneakerbardetroit.com/solefly-air-jordan-5/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 6 “Carmine” Returns March 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-6-carmine-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 14 “Chartreuse” Returns January 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -144,15 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "Reading Our Way to a Happy New World Manga Listed to End With 3rd Volume",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-17/reading-our-way-to-a-happy-new-world-manga-listed-to-end-with-3rd-volume/.243882",
+      "title": "Otherworldly Munchkin Anime's New Video Reveals More Cast, Staff, Theme Songs, January 7 Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/otherworldly-munchkin-anime-new-video-reveals-more-cast-staff-theme-songs-january-7-debut/.243921",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Yametai! ~Anata no Reset, Daikō Shimasu~ Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-17/yametai-~anata-no-reset-daiko-shimasu~-manga-ends/.243881",
+      "title": "Soara and the House of Monsters Anime Casts Reiji Kawashima, Kenta Miyake",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/soara-and-the-house-of-monsters-anime-casts-reiji-kawashima-kenta-miyake/.243906",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,15 +165,15 @@
       "article_slug": null
     },
     {
-      "title": "Battle Spirits [Re] Zekkai no Kū Anime Gets Light Novel",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-17/battle-spirits-re-zekkai-no-ku-anime-gets-light-novel/.243914",
+      "title": "Reading Our Way to a Happy New World Manga Listed to End With 3rd Volume",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/reading-our-way-to-a-happy-new-world-manga-listed-to-end-with-3rd-volume/.243882",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
-      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+      "title": "News GTA 6 Requires New PS5 Firmware Update to Play",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
+      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands",
-      "url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
+      "title": "News GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
