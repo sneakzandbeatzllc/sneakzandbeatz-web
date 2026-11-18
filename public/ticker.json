@@ -1,15 +1,8 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-17T21:23:52+00:00",
+  "generated_utc": "2026-11-18T00:25:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
-    {
-      "title": "Air Jordan 4 TD “Bred” Releases November 2026",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-td-bred-hq0207-001/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
     {
       "title": "The Air Jordan 12 “Fireside” Releases Today",
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
@@ -32,6 +25,27 @@
       "article_slug": null
     },
     {
+      "title": "Air Jordan 3 “Heritage” Releases Fall 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-3-heritage/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 5 “Stolen Jersey” Releases Fall 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-5-stolen-jersey/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 4 “Coffee” Releases Fall 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-4-coffee/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 4 “Fire Red Cement” Sample Surfaces in New Photos",
       "url": "https://justfreshkicks.com/air-jordan-4-fire-red-cement-sample/",
       "pillar": "sneakers",
@@ -41,20 +55,6 @@
     {
       "title": "Air Jordan 6 “Carmine” Returns March 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-6-carmine-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 14 “Chartreuse” Returns January 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 4 “Spotlight” Releases January 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Dragon Ball’s Best Episode In 8 Years Proves Fans Were Wrong About The Series’ New Anime",
+      "url": "https://screenrant.com/dragon-ball-super-beerus-best-franchise-episode-decade/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Solo Leveling Sequel Series Officially Confirms Season 3 English Release Date",
       "url": "https://screenrant.com/solo-leveling-ragnarok-season-3-english-release-date/",
       "pillar": "anime",
@@ -137,15 +144,15 @@
       "article_slug": null
     },
     {
-      "title": "Yametai! ~Anata no Reset, Daikō Shimasu~ Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-17/yametai-~anata-no-reset-daiko-shimasu~-manga-ends/.243881",
+      "title": "Reading Our Way to a Happy New World Manga Listed to End With 3rd Volume",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/reading-our-way-to-a-happy-new-world-manga-listed-to-end-with-3rd-volume/.243882",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Battle Spirits [Re] Zekkai no Kū Anime Gets Light Novel",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-17/battle-spirits-re-zekkai-no-ku-anime-gets-light-novel/.243914",
+      "title": "Yametai! ~Anata no Reset, Daikō Shimasu~ Manga Ends",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/yametai-~anata-no-reset-daiko-shimasu~-manga-ends/.243881",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,22 +165,15 @@
       "article_slug": null
     },
     {
-      "title": "HIDIVE Streams Giant Ojosama TV Anime This Winter; Screens N. American Premiere at Anime Frontier on December 4",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-17/hidive-streams-giant-ojosama-tv-anime-this-winter-screens-n-american-premiere-at-anime-frontier-on-/.243917",
+      "title": "Battle Spirits [Re] Zekkai no Kū Anime Gets Light Novel",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-17/battle-spirits-re-zekkai-no-ku-anime-gets-light-novel/.243914",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "52 Years Later, One Of Sci-Fi's Most Legendary Space Operas Finally Gets Its Streaming Finale",
-      "url": "https://screenrant.com/battleship-yamato-final-chapter-streaming/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
+      "title": "Guide GTA 6 Release Times: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "News UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands",
-      "url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
+      "title": "News GTA 6 Nominated for Game of the Year Before PS5 Reviews Are Released",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-nominated-for-game-of-the-year-before-ps5-reviews-are-released",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "News The Game Awards 2026 Nominees Revealed, GTA 6 Up for 8 Awards",
-      "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-revealed-gta-6-up-for-8-awards",
+      "title": "News UK's Health Service Issues Warning Over GTA 6, Urges Players to Take Care of Their Hands",
+      "url": "https://www.pushsquare.com/news/2026/11/uks-health-service-issues-warning-over-gta-6-urges-players-to-take-care-of-their-hands",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
