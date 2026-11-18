@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-18T12:34:32+00:00",
+  "generated_utc": "2026-11-18T15:38:03+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "4b3a7c7fc2ff",
+      "id": "013817e849bd",
       "pillar": "gaming",
-      "title": "Review GTA 6 (PS5) - The Greatest Open World Game Ever Made",
+      "title": "Guide GTA 6: Who Is the Real Actress Lucia Is Based On?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/reviews/ps5/grand-theft-auto-6",
-      "thumbnail": "/drops/thumbs/4b3a7c7fc2ff.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-who-is-the-real-actress-lucia-is-based-on",
+      "thumbnail": "/drops/thumbs/013817e849bd.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "c36110f5c818",
+      "id": "9b42e602eb28",
       "pillar": "gaming",
-      "title": "News GTA 6 Requires New PS5 Firmware Update to Play",
+      "title": "News GTA 6 PS5 Trophies Revealed, 100% Completion Needed for the Platinum",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-requires-new-ps5-firmware-update-to-play",
-      "thumbnail": "/drops/thumbs/c36110f5c818.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-trophies-revealed-100percent-completion-needed-for-the-platinum",
+      "thumbnail": "/drops/thumbs/9b42e602eb28.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "f15ae54dde91",
+      "id": "932eeb3516a9",
       "pillar": "gaming",
-      "title": "PS5 Gets Last-Minute Software Update That’s Required To Play GTA 6",
+      "title": "GTA 6 Debuts With An Astonishing 99 Metacritic Score, Currently Tied For Best-Reviewed Game Of All Time",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868",
-      "thumbnail": "/drops/thumbs/f15ae54dde91.jpg",
+      "source_url": "https://kotaku.com/gta-6-review-scores-99-metacritic-rockstar-grand-theft-auto-vi-2000757999",
+      "thumbnail": "/drops/thumbs/932eeb3516a9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "94c12e7f6bfb",
     "faa45a4d2beb",
     "67dfbb2f4dc9",
-    "4b3a7c7fc2ff"
+    "013817e849bd"
   ]
 }
