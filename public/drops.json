@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-18T21:42:26+00:00",
+  "generated_utc": "2026-11-19T00:44:31+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -63,18 +63,6 @@
       "release_badge": ""
     },
     {
-      "id": "8d253531b238",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Fire Red Cement” Sample Surfaces in New Photos",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-4-fire-red-cement-sample/",
-      "thumbnail": "/drops/thumbs/8d253531b238.webp",
-      "published": "2026-11-16T22:50:04",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
       "id": "216e417211f3",
       "pillar": "sneakers",
       "title": "Air Jordan 6 “Carmine” Returns March 2027",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
       "thumbnail": "/drops/thumbs/055ef7a7d24c.jpg",
       "published": "2026-11-11T23:18:09",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "fa591aaabc6c",
+      "pillar": "sneakers",
+      "title": "Air Jordan 4 “Spotlight” Releases January 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
+      "thumbnail": "/drops/thumbs/fa591aaabc6c.jpg",
+      "published": "2026-11-11T23:06:58",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -219,6 +219,18 @@
       "release_badge": ""
     },
     {
+      "id": "3a019717454f",
+      "pillar": "anime",
+      "title": "10 Most Memorable Jujutsu Kaisen Characters",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/jujutsu-kaisen-most-memorable-characters/",
+      "thumbnail": "/drops/thumbs/3a019717454f.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "235b7161ddee",
       "pillar": "anime",
       "title": "Solo Leveling Sequel Series Officially Confirms Season 3 English Release Date",
@@ -243,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "d38b5fac1150",
+      "id": "0484747559bc",
       "pillar": "anime",
-      "title": "'You're So Sloppy, Hotta-Sensei' Manga Ends in 2 Chapters",
+      "title": "K Manga Adds Godmother Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/youre-so-sloppy-hotta-sensei-manga-ends-in-2-chapters/.243956",
-      "thumbnail": "/drops/thumbs/d38b5fac1150.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/k-manga-adds-godmother-manga/.243918",
+      "thumbnail": "/drops/thumbs/0484747559bc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "9a59fc8c2288",
+      "id": "fcf3c0def66a",
       "pillar": "anime",
-      "title": "Inklore to Release Tomoko Yamashita's Ikoku Nikki Manga on June 8",
+      "title": "Hiromasa Okujima Announces 1st Original Boys-Love Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/inklore-to-release-tomoko-yamashita-ikoku-nikki-manga-on-june-8/.243902",
-      "thumbnail": "/drops/thumbs/9a59fc8c2288.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/hiromasa-okujima-announces-1st-original-boys-love-manga/.243958",
+      "thumbnail": "/drops/thumbs/fcf3c0def66a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "2a10c56c86c8",
-      "pillar": "anime",
-      "title": "The Classroom of a Black Cat and a Witch Anime Gets English Dub",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/the-classroom-of-a-black-cat-and-a-witch-anime-gets-english-dub/.243948",
-      "thumbnail": "/drops/thumbs/2a10c56c86c8.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "626efaf21bc2",
+      "id": "ce00e8b51aa1",
       "pillar": "gaming",
-      "title": "News GTA 6 Obliterates All-Time Streaming Record Before It's Even Fully Released",
+      "title": "Feature GTA 6 Launch Hub - Share Your First Impressions of Rockstar's PS5 Masterpiece",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-obliterates-all-time-streaming-record-before-its-even-fully-released",
-      "thumbnail": "/drops/thumbs/626efaf21bc2.jpg",
+      "source_url": "https://www.pushsquare.com/features/gta-6-launch-hub-share-your-first-impressions-of-rockstars-ps5-masterpiece",
+      "thumbnail": "/drops/thumbs/ce00e8b51aa1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,36 +327,36 @@
       "release_badge": ""
     },
     {
-      "id": "7a50040a3ec8",
+      "id": "fcd43ed4152c",
       "pillar": "gaming",
-      "title": "After Finishing GTA 6 , I Can Confirm Its Trailers And Teasers Mostly Featured Very Early Moments From The Game",
+      "title": "Rockstar Explains Why GTA 6 Has No Prostitutes In It, A Hallmark Of The Series Since 2001",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/after-finishing-gta-6-i-can-confirm-its-trailers-and-teasers-mostly-featured-very-early-moments-from-the-game-2000755910",
-      "thumbnail": "/drops/thumbs/7a50040a3ec8.jpg",
+      "source_url": "https://kotaku.com/rockstar-explains-why-gta-6-has-no-prostitutes-in-it-a-hallmark-of-the-series-since-2001-2000758174",
+      "thumbnail": "/drops/thumbs/fcd43ed4152c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "68632bbcb9b7",
+      "id": "463e09edc22a",
       "pillar": "gaming",
-      "title": "Round Up GTA 6 Is Not Just the Most Acclaimed Game of 2026, It's the Highest-Rated Game of All Time",
+      "title": "News PSN Down Sporadically for Some as GTA 6 Launches Around the World",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/round-up-gta-6-is-not-just-the-most-acclaimed-game-of-2026-its-the-highest-rated-game-of-all-time",
-      "thumbnail": "/drops/thumbs/68632bbcb9b7.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world",
+      "thumbnail": "/drops/thumbs/463e09edc22a.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "28ea23a9e25e",
+      "id": "cd16fb4e023b",
       "pillar": "gaming",
-      "title": "As GTA 6 finally releases, Rockstar boss Sam Houser issues rare statement",
+      "title": "Keeping GTA 6 missions \"as open as possible\" was a lot \"harder,\" Rockstar tech lead admits",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-finally-releases-rockstar-boss-sam-houser-issues-rare-statement-we-are-incredibly-grateful-and-look-forward-to-many-more-years-of-sharing-these-experiences-with-you/",
-      "thumbnail": "/drops/thumbs/28ea23a9e25e.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/keeping-gta-6-missions-as-open-as-possible-was-a-lot-harder-rockstar-tech-lead-admits-but-the-freedom-and-flexibility-it-allows-the-player-was-worth-it/",
+      "thumbnail": "/drops/thumbs/cd16fb4e023b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "94c12e7f6bfb",
     "faa45a4d2beb",
     "936c2273b7de",
-    "626efaf21bc2"
+    "ce00e8b51aa1"
   ]
 }
