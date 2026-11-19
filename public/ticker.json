@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-19T12:54:19+00:00",
+  "generated_utc": "2026-11-19T16:20:17+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Today in Hip-Hop History: Larry Davis Shot 6 Corrupt NYPD Officers And Escaped 40 Years Ago",
+      "url": "https://thesource.com/2026/11/19/today-in-hip-hop-history-larry-davis-shot-6-corrupt-nypd-officers-and-escaped-40-years-ago/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Today In Hip Hop History: Foxy Brown’s Debut Album ‘Ill Na Na’ Turns 30 Years Old!",
+      "url": "https://thesource.com/2026/11/19/today-in-hip-hop-history-foxy-browns-debut-album-ill-na-na-turns-30-years-old/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Trump Causes Putin His ‘Friend’ Ahead of Trio Meeting with Chinese President Xi",
       "url": "https://thesource.com/2026/11/19/trump-causes-putin-his-friend-ahead-of-trio-meeting-with-chinese-president-xi/",
       "pillar": "hiphop",
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Young Dolph’s Widow Remembers Him on Fifth Death Anniversary",
-      "url": "https://thesource.com/2026/11/19/young-dolphs-widow-remembers-him-on-fifth-death-anniversary/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Today in Hip-Hop History: LL Cool J’s Debut Album ‘Radio’ Turns 40 Years Old!",
-      "url": "https://thesource.com/2026/11/18/today-in-hip-hop-history-ll-cool-js-debut-album-radio-turns-40-years-old/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Attack on Titan Ending Explained",
       "url": "https://screenrant.com/attack-titan-ending-explained/",
       "pillar": "anime",
@@ -125,6 +125,13 @@
     {
       "title": "Dragon Ball’s Best Episode In 8 Years Proves Fans Were Wrong About The Series’ New Anime",
       "url": "https://screenrant.com/dragon-ball-super-beerus-best-franchise-episode-decade/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Solo Leveling's Next Series Locks Down 2028 Release Date",
+      "url": "https://screenrant.com/solo-leveling-live-action-series-2028-release/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -151,20 +158,6 @@
       "article_slug": null
     },
     {
-      "title": "I Lost My Adventurer's License Anime's Main Promo Video Reveals More Staff, Opening Song Artist, January 7 Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-19/i-lost-my-adventurer-license-anime-main-promo-video-reveals-more-staff-opening-song-artist-january-/.243986",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Magic Knight Rayearth Anime Casts Hikaru Midorikawa, Kōji Yusa",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-19/magic-knight-rayearth-anime-casts-hikaru-midorikawa-koji-yusa/.243984",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "5 anime arcs that are 10/10, no notes",
       "url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
       "pillar": "anime",
@@ -172,8 +165,15 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers",
+      "title": "52 Years Later, One Of Sci-Fi's Most Legendary Space Operas Finally Gets Its Streaming Finale",
+      "url": "https://screenrant.com/battleship-yamato-final-chapter-streaming/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,15 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "News New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus",
-      "url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
+      "title": "News GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Keeping GTA 6 missions \"as open as possible\" was a lot \"harder,\" Rockstar tech lead admits",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/keeping-gta-6-missions-as-open-as-possible-was-a-lot-harder-rockstar-tech-lead-admits-but-the-freedom-and-flexibility-it-allows-the-player-was-worth-it/",
+      "title": "GTA 6's shockingly accurate Instagram memes make fun of Rockstar's delays and more",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-shockingly-accurate-instagram-memes-make-fun-of-rockstars-delays-and-more-as-doomscrolling-becomes-one-of-the-best-new-activities-in-the-game/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Debuts With An Astonishing 99 Metacritic Score, Currently Tied For Best-Reviewed Game Of All Time",
-      "url": "https://kotaku.com/gta-6-review-scores-99-metacritic-rockstar-grand-theft-auto-vi-2000757999",
+      "title": "Please Enjoy These GTA 6 Clips Of Jason Petting, Fighting, And Being Eaten By Animals",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-cats-dogs-snake-pet-alligator-2000758120",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

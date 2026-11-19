@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-19T12:54:19+00:00",
+  "generated_utc": "2026-11-19T16:20:17+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "e0e4057dc6cf",
+      "pillar": "hiphop",
+      "title": "Today in Hip-Hop History: Larry Davis Shot 6 Corrupt NYPD Officers And Escaped 40 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/19/today-in-hip-hop-history-larry-davis-shot-6-corrupt-nypd-officers-and-escaped-40-years-ago/",
+      "thumbnail": "/drops/thumbs/e0e4057dc6cf.jpg",
+      "published": "2026-11-19T09:51:12",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "80cae73fa1a2",
+      "pillar": "hiphop",
+      "title": "Today In Hip Hop History: Foxy Brown’s Debut Album ‘Ill Na Na’ Turns 30 Years Old!",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/19/today-in-hip-hop-history-foxy-browns-debut-album-ill-na-na-turns-30-years-old/",
+      "thumbnail": "/drops/thumbs/80cae73fa1a2.jpg",
+      "published": "2026-11-19T09:39:07",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "71e76a63b90a",
       "pillar": "hiphop",
       "title": "Trump Causes Putin His ‘Friend’ Ahead of Trio Meeting with Chinese President Xi",
@@ -171,30 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "64c6353df4c0",
-      "pillar": "hiphop",
-      "title": "Young Dolph’s Widow Remembers Him on Fifth Death Anniversary",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/19/young-dolphs-widow-remembers-him-on-fifth-death-anniversary/",
-      "thumbnail": "/drops/thumbs/64c6353df4c0.jpg",
-      "published": "2026-11-19T00:08:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0d9e93fd6575",
-      "pillar": "hiphop",
-      "title": "Today in Hip-Hop History: LL Cool J’s Debut Album ‘Radio’ Turns 40 Years Old!",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/18/today-in-hip-hop-history-ll-cool-js-debut-album-radio-turns-40-years-old/",
-      "thumbnail": "/drops/thumbs/0d9e93fd6575.jpg",
-      "published": "2026-11-18T10:18:22",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "faa45a4d2beb",
       "pillar": "anime",
       "title": "Attack on Titan Ending Explained",
@@ -213,6 +213,18 @@
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/dragon-ball-super-beerus-best-franchise-episode-decade/",
       "thumbnail": "/drops/thumbs/d23652b133f3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ccc26a913345",
+      "pillar": "anime",
+      "title": "Solo Leveling's Next Series Locks Down 2028 Release Date",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-live-action-series-2028-release/",
+      "thumbnail": "/drops/thumbs/ccc26a913345.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -255,30 +267,6 @@
       "release_badge": ""
     },
     {
-      "id": "0ee80394a733",
-      "pillar": "anime",
-      "title": "I Lost My Adventurer's License Anime's Main Promo Video Reveals More Staff, Opening Song Artist, January 7 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-19/i-lost-my-adventurer-license-anime-main-promo-video-reveals-more-staff-opening-song-artist-january-/.243986",
-      "thumbnail": "/drops/thumbs/0ee80394a733.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "06e0fc840f56",
-      "pillar": "anime",
-      "title": "Magic Knight Rayearth Anime Casts Hikaru Midorikawa, Kōji Yusa",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-19/magic-knight-rayearth-anime-casts-hikaru-midorikawa-koji-yusa/.243984",
-      "thumbnail": "/drops/thumbs/06e0fc840f56.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "f94cbafc97bb",
       "pillar": "anime",
       "title": "5 anime arcs that are 10/10, no notes",
@@ -291,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "4748f6953fb9",
+      "id": "cb5d4c8c4b53",
+      "pillar": "anime",
+      "title": "52 Years Later, One Of Sci-Fi's Most Legendary Space Operas Finally Gets Its Streaming Finale",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/battleship-yamato-final-chapter-streaming/",
+      "thumbnail": "/drops/thumbs/cb5d4c8c4b53.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9b772e5a5121",
       "pillar": "gaming",
-      "title": "News GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
+      "title": "News GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers",
-      "thumbnail": "/drops/thumbs/4748f6953fb9.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options",
+      "thumbnail": "/drops/thumbs/9b772e5a5121.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,24 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "38a1f3d30e78",
+      "id": "4748f6953fb9",
       "pillar": "gaming",
-      "title": "News New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus",
+      "title": "News GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
-      "thumbnail": "/drops/thumbs/38a1f3d30e78.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers",
+      "thumbnail": "/drops/thumbs/4748f6953fb9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "cd16fb4e023b",
+      "id": "49e2009a303e",
       "pillar": "gaming",
-      "title": "Keeping GTA 6 missions \"as open as possible\" was a lot \"harder,\" Rockstar tech lead admits",
+      "title": "GTA 6's shockingly accurate Instagram memes make fun of Rockstar's delays and more",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/keeping-gta-6-missions-as-open-as-possible-was-a-lot-harder-rockstar-tech-lead-admits-but-the-freedom-and-flexibility-it-allows-the-player-was-worth-it/",
-      "thumbnail": "/drops/thumbs/cd16fb4e023b.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-shockingly-accurate-instagram-memes-make-fun-of-rockstars-delays-and-more-as-doomscrolling-becomes-one-of-the-best-new-activities-in-the-game/",
+      "thumbnail": "/drops/thumbs/49e2009a303e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "932eeb3516a9",
+      "id": "4d50627722d8",
       "pillar": "gaming",
-      "title": "GTA 6 Debuts With An Astonishing 99 Metacritic Score, Currently Tied For Best-Reviewed Game Of All Time",
+      "title": "Please Enjoy These GTA 6 Clips Of Jason Petting, Fighting, And Being Eaten By Animals",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/gta-6-review-scores-99-metacritic-rockstar-grand-theft-auto-vi-2000757999",
-      "thumbnail": "/drops/thumbs/932eeb3516a9.jpg",
+      "source_url": "https://kotaku.com/grand-theft-auto-6-gta6-cats-dogs-snake-pet-alligator-2000758120",
+      "thumbnail": "/drops/thumbs/4d50627722d8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "71e76a63b90a",
+    "e0e4057dc6cf",
     "94c12e7f6bfb",
     "faa45a4d2beb",
     "82c42aeef0a4",
-    "4748f6953fb9"
+    "9b772e5a5121"
   ]
 }
