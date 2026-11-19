@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-19T06:49:44+00:00",
+  "generated_utc": "2026-11-19T09:51:04+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "82c42aeef0a4",
+      "pillar": "sneakers",
+      "title": "Undefeated x Air Jordan 5 “Light Chocolate” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-light-chocolate/",
+      "thumbnail": "/drops/thumbs/82c42aeef0a4.jpg",
+      "published": "2026-11-18T23:59:23",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "483653985e8f",
@@ -87,15 +99,15 @@
       "release_badge": ""
     },
     {
-      "id": "a67e1aa45c59",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Coffee” Releases Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-coffee/",
-      "thumbnail": "/drops/thumbs/a67e1aa45c59.jpg",
-      "published": "2026-11-17T15:31:16",
+      "id": "64c6353df4c0",
+      "pillar": "hiphop",
+      "title": "Young Dolph’s Widow Remembers Him on Fifth Death Anniversary",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/19/young-dolphs-widow-remembers-him-on-fifth-death-anniversary/",
+      "thumbnail": "/drops/thumbs/64c6353df4c0.jpg",
+      "published": "2026-11-19T00:08:00",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "348a04a90a18",
-      "pillar": "hiphop",
-      "title": "BigXthaPlug Announces 2027 ‘BETTER OVER TIME’ North American Tour",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/18/bigxthaplug-better-over-time-2027-tour/",
-      "thumbnail": "/drops/thumbs/348a04a90a18.jpg",
-      "published": "2026-11-18T04:23:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "faa45a4d2beb",
       "pillar": "anime",
       "title": "Attack on Titan Ending Explained",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "ad4cf7d35020",
+      "id": "6c01a45e69e5",
       "pillar": "anime",
-      "title": "Blood Addict Manga Ends",
+      "title": "The Reincarnated Elf Left on a Journey to Master His Magic Anime's New Video Reveals More Cast/Staff, Theme Songs, December 30 Streaming Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/blood-addict-manga-ends/.243919",
-      "thumbnail": "/drops/thumbs/ad4cf7d35020.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-19/the-reincarnated-elf-left-on-a-journey-to-master-his-magic-anime-new-video-reveals-more-cast-staff-/.243936",
+      "thumbnail": "/drops/thumbs/6c01a45e69e5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "0484747559bc",
+      "id": "3f8de9893188",
       "pillar": "anime",
-      "title": "K Manga Adds Godmother Manga",
+      "title": "Not-Sew-Wicked Stepmom Webtoon Gets TV Anime Adaptation",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/k-manga-adds-godmother-manga/.243918",
-      "thumbnail": "/drops/thumbs/0484747559bc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-19/not-sew-wicked-stepmom-webtoon-gets-tv-anime-adaptation/.243979",
+      "thumbnail": "/drops/thumbs/3f8de9893188.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -315,12 +315,12 @@
       "release_badge": ""
     },
     {
-      "id": "b9d4c1d469b7",
+      "id": "ee5520cc3cfc",
       "pillar": "gaming",
-      "title": "The Game Awards Just Leaked Manni L. Perez For GTA 6 – By Nominating Her",
+      "title": "Rockstar: PS5 Pro Is Not Powerful Enough To Run GTA 6 At Higher Frame Rates",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564521/article/the-game-awards-just-leaked-manni-l-perez-for-gta-6-by-nominating-her/",
-      "thumbnail": "/drops/thumbs/b9d4c1d469b7.jpg",
+      "source_url": "https://gameranx.com/updates/id/564523/article/rockstar-ps5-pro-is-not-powerful-enough-to-run-gta-6-at-higher-frame-rates/",
+      "thumbnail": "/drops/thumbs/ee5520cc3cfc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,12 +363,12 @@
       "release_badge": ""
     },
     {
-      "id": "8a24b9f5bec8",
+      "id": "b9d4c1d469b7",
       "pillar": "gaming",
-      "title": "GTA 6’s 2022 Hacker Arion Kurtaj Has Officially Pled Guilty In Court",
+      "title": "The Game Awards Just Leaked Manni L. Perez For GTA 6 – By Nominating Her",
       "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564519/article/gta-6s-2022-hacker-arion-kurtaj-has-officially-pled-guilty-in-court/",
-      "thumbnail": "/drops/thumbs/8a24b9f5bec8.jpg",
+      "source_url": "https://gameranx.com/updates/id/564521/article/the-game-awards-just-leaked-manni-l-perez-for-gta-6-by-nominating-her/",
+      "thumbnail": "/drops/thumbs/b9d4c1d469b7.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "0d9e93fd6575",
+    "64c6353df4c0",
     "065701c9db6c",
     "faa45a4d2beb",
     "e8b5354d60c3",

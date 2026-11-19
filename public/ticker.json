@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-19T06:49:44+00:00",
+  "generated_utc": "2026-11-19T09:51:04+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -22,6 +22,13 @@
       "url": "https://www.sneakerfiles.com/air-jordan-10-sacramento-2026/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Undefeated x Air Jordan 5 “Light Chocolate” Releases February 2027",
+      "url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-light-chocolate/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -53,10 +60,10 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 4 “Coffee” Releases Fall 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-4-coffee/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Young Dolph’s Widow Remembers Him on Fifth Death Anniversary",
+      "url": "https://thesource.com/2026/11/19/young-dolphs-widow-remembers-him-on-fifth-death-anniversary/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -109,13 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "BigXthaPlug Announces 2027 ‘BETTER OVER TIME’ North American Tour",
-      "url": "https://thesource.com/2026/11/18/bigxthaplug-better-over-time-2027-tour/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Attack on Titan Ending Explained",
       "url": "https://screenrant.com/attack-titan-ending-explained/",
       "pillar": "anime",
@@ -151,15 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Blood Addict Manga Ends",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-18/blood-addict-manga-ends/.243919",
+      "title": "The Reincarnated Elf Left on a Journey to Master His Magic Anime's New Video Reveals More Cast/Staff, Theme Songs, December 30 Streaming Debut",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-19/the-reincarnated-elf-left-on-a-journey-to-master-his-magic-anime-new-video-reveals-more-cast-staff-/.243936",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "K Manga Adds Godmother Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-18/k-manga-adds-godmother-manga/.243918",
+      "title": "Not-Sew-Wicked Stepmom Webtoon Gets TV Anime Adaptation",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-19/not-sew-wicked-stepmom-webtoon-gets-tv-anime-adaptation/.243979",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -186,8 +186,8 @@
       "article_slug": null
     },
     {
-      "title": "The Game Awards Just Leaked Manni L. Perez For GTA 6 – By Nominating Her",
-      "url": "https://gameranx.com/updates/id/564521/article/the-game-awards-just-leaked-manni-l-perez-for-gta-6-by-nominating-her/",
+      "title": "Rockstar: PS5 Pro Is Not Powerful Enough To Run GTA 6 At Higher Frame Rates",
+      "url": "https://gameranx.com/updates/id/564523/article/rockstar-ps5-pro-is-not-powerful-enough-to-run-gta-6-at-higher-frame-rates/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,8 +214,8 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6’s 2022 Hacker Arion Kurtaj Has Officially Pled Guilty In Court",
-      "url": "https://gameranx.com/updates/id/564519/article/gta-6s-2022-hacker-arion-kurtaj-has-officially-pled-guilty-in-court/",
+      "title": "The Game Awards Just Leaked Manni L. Perez For GTA 6 – By Nominating Her",
+      "url": "https://gameranx.com/updates/id/564521/article/the-game-awards-just-leaked-manni-l-perez-for-gta-6-by-nominating-her/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
