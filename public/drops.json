@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-19T03:47:02+00:00",
+  "generated_utc": "2026-11-19T06:49:44+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -15,16 +15,52 @@
       "release_badge": "Drops This Week"
     },
     {
-      "id": "94c12e7f6bfb",
+      "id": "065701c9db6c",
       "pillar": "sneakers",
-      "title": "Air Jordan 10 OG “Sacramento” Releases December 2026",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
-      "thumbnail": "/drops/thumbs/94c12e7f6bfb.webp",
-      "published": "",
+      "title": "Social Status x Air Jordan 1 Low OG “Sashiko” Releases December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/social-status-air-jordan-1-low-og-2026/",
+      "thumbnail": "/drops/thumbs/065701c9db6c.jpg",
+      "published": "2026-11-18T21:47:18",
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "e8b5354d60c3",
+      "pillar": "sneakers",
+      "title": "Air Jordan 10 “Sacramento” Returns December 2026",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-10-sacramento-2026/",
+      "thumbnail": "/drops/thumbs/e8b5354d60c3.jpg",
+      "published": "2026-11-18T20:19:53",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "483653985e8f",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 Low Golf “The Masters” Releases April 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-11-low-golf-the-masters/",
+      "thumbnail": "/drops/thumbs/483653985e8f.webp",
+      "published": "2026-11-18T22:59:42",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8a2bf5f3a799",
+      "pillar": "sneakers",
+      "title": "Air Jordan 3 “White Cement” 2027 Canceled",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-3-white-cement-2027/",
+      "thumbnail": "/drops/thumbs/8a2bf5f3a799.jpg",
+      "published": "2026-11-18T20:36:27",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "936c2273b7de",
@@ -58,42 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-4-coffee/",
       "thumbnail": "/drops/thumbs/a67e1aa45c59.jpg",
       "published": "2026-11-17T15:31:16",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "216e417211f3",
-      "pillar": "sneakers",
-      "title": "Air Jordan 6 “Carmine” Returns March 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-6-carmine-2027/",
-      "thumbnail": "/drops/thumbs/216e417211f3.jpg",
-      "published": "2026-11-13T04:03:07",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "055ef7a7d24c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 14 “Chartreuse” Returns January 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-14-chartreuse-2027/",
-      "thumbnail": "/drops/thumbs/055ef7a7d24c.jpg",
-      "published": "2026-11-11T23:18:09",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "fa591aaabc6c",
-      "pillar": "sneakers",
-      "title": "Air Jordan 4 “Spotlight” Releases January 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-4-spotlight/",
-      "thumbnail": "/drops/thumbs/fa591aaabc6c.jpg",
-      "published": "2026-11-11T23:06:58",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -390,9 +390,9 @@
   "homepage": [
     "959632b05ca3",
     "0d9e93fd6575",
-    "94c12e7f6bfb",
+    "065701c9db6c",
     "faa45a4d2beb",
-    "936c2273b7de",
+    "e8b5354d60c3",
     "38a1f3d30e78"
   ]
 }
