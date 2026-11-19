@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-19T00:44:31+00:00",
+  "generated_utc": "2026-11-19T03:47:02+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -255,24 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "0484747559bc",
+      "id": "ad4cf7d35020",
       "pillar": "anime",
-      "title": "K Manga Adds Godmother Manga",
+      "title": "Blood Addict Manga Ends",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/k-manga-adds-godmother-manga/.243918",
-      "thumbnail": "/drops/thumbs/0484747559bc.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/blood-addict-manga-ends/.243919",
+      "thumbnail": "/drops/thumbs/ad4cf7d35020.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "fcf3c0def66a",
+      "id": "0484747559bc",
       "pillar": "anime",
-      "title": "Hiromasa Okujima Announces 1st Original Boys-Love Manga",
+      "title": "K Manga Adds Godmother Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/hiromasa-okujima-announces-1st-original-boys-love-manga/.243958",
-      "thumbnail": "/drops/thumbs/fcf3c0def66a.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-18/k-manga-adds-godmother-manga/.243918",
+      "thumbnail": "/drops/thumbs/0484747559bc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "ce00e8b51aa1",
+      "id": "38a1f3d30e78",
       "pillar": "gaming",
-      "title": "Feature GTA 6 Launch Hub - Share Your First Impressions of Rockstar's PS5 Masterpiece",
+      "title": "News New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/gta-6-launch-hub-share-your-first-impressions-of-rockstars-ps5-masterpiece",
-      "thumbnail": "/drops/thumbs/ce00e8b51aa1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
+      "thumbnail": "/drops/thumbs/38a1f3d30e78.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "463e09edc22a",
+      "id": "ce00e8b51aa1",
       "pillar": "gaming",
-      "title": "News PSN Down Sporadically for Some as GTA 6 Launches Around the World",
+      "title": "Feature GTA 6 Launch Hub - Share Your First Impressions of Rockstar's PS5 Masterpiece",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/psn-down-sporadically-for-some-as-gta-6-launches-around-the-world",
-      "thumbnail": "/drops/thumbs/463e09edc22a.jpg",
+      "source_url": "https://www.pushsquare.com/features/gta-6-launch-hub-share-your-first-impressions-of-rockstars-ps5-masterpiece",
+      "thumbnail": "/drops/thumbs/ce00e8b51aa1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "94c12e7f6bfb",
     "faa45a4d2beb",
     "936c2273b7de",
-    "ce00e8b51aa1"
+    "38a1f3d30e78"
   ]
 }
