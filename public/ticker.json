@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-20T14:27:25+00:00",
+  "generated_utc": "2026-11-20T17:28:58+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -60,6 +60,20 @@
       "article_slug": null
     },
     {
+      "title": "Happy 61st Birthday To The Beastie Boys’ Mike D!",
+      "url": "https://thesource.com/2026/11/20/happy-61st-birthday-to-the-beastie-boys-mike-d/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Happy Heavenly Birthday To ATCQ’s Phife Dawg (RIP)! 5 Memorable Verses From “The Funky Diabetic”",
+      "url": "https://thesource.com/2026/11/20/happy-heavenly-birthday-to-atcqs-phife-dawg-rip-5-memorable-verses-from-the-funky-diabetic/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Yella Beezy Transferred to Farming Prison in Texas",
       "url": "https://thesource.com/2026/11/20/yella-beezy-transferred-to-farming-prison-in-texas/",
       "pillar": "hiphop",
@@ -102,20 +116,6 @@
       "article_slug": null
     },
     {
-      "title": "Marlon Jackson Reveals Stage Four Prostate Cancer Diagnosis",
-      "url": "https://thesource.com/2026/11/20/marlon-jackson-stage-four-prostate-cancer/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Chance the Rapper, SocialWorks and Timberland Give Back to Chicago Families",
-      "url": "https://thesource.com/2026/11/20/chance-the-rapper-turkeys-and-timbs-chicago/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Attack on Titan Ending Explained",
       "url": "https://screenrant.com/attack-titan-ending-explained/",
       "pillar": "anime",
@@ -151,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "Crunchyroll Streams My Hero Academia The Movie: World Heroes' Mission Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-20/crunchyroll-streams-my-hero-academia-the-movie-world-heroes-mission-anime/.244023",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
       "pillar": "anime",
@@ -158,22 +165,15 @@
       "article_slug": null
     },
     {
-      "title": "Maison and the Man-Eating Apartment Manga Ends in Next Chapter",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-20/maison-and-the-man-eating-apartment-manga-ends-in-next-chapter/.244004",
+      "title": "Duel Masters LOST Anime Gets 5th Part",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-20/duel-masters-lost-anime-gets-5th-part/.244025",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Mitei Hattori's Smile! Manga Gets Epilogue Chapter",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-20/mitei-hattori-smile-manga-gets-epilogue-chapter/.244005",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News 'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6",
-      "url": "https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6",
+      "title": "News These 7 PS5 Games Launched on the Same Day as GTA 6 Like Mad Men",
+      "url": "https://www.pushsquare.com/news/2026/11/these-7-ps5-games-launched-on-the-same-day-as-gta-6-like-mad-men",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Too Dark? Here's How to Fix It on PS5",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
+      "title": "News 'It's Unbelievably Hard to Achieve': Cyberpunk 2077 Boss Pours Praise on 'Masterpiece' GTA 6",
+      "url": "https://www.pushsquare.com/news/2026/11/its-unbelievably-hard-to-achieve-cyberpunk-2077-boss-pours-praise-on-masterpiece-gta-6",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
