@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-20T01:34:02+00:00",
+  "generated_utc": "2026-11-20T04:35:27+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -13,6 +13,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
+    },
+    {
+      "id": "fb5f4c998505",
+      "pillar": "sneakers",
+      "title": "Air Jordan 11 “Space Jam” Releases December 12th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-11-space-jam-2026-release-date/",
+      "thumbnail": "/drops/thumbs/fb5f4c998505.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "94c12e7f6bfb",
@@ -82,18 +94,6 @@
       "source_url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
       "thumbnail": "/drops/thumbs/362f284b3d0d.jpg",
       "published": "2026-10-31T09:52:13",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "05aa2656ba65",
-      "pillar": "sneakers",
-      "title": "Where To Buy the Air Jordan 3 WMNS “Fireside”",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/air-jordan-3-wmns-fireside-ck9246-200/",
-      "thumbnail": "/drops/thumbs/05aa2656ba65.jpg",
-      "published": "2026-10-28T09:00:00",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "f9160b49a9f8",
+      "id": "35cf1e8c48fe",
       "pillar": "anime",
-      "title": "Criterion Channel Adds Speed Racer Anime",
+      "title": "'I am the only one who is not attacked in the world filled with zombies' Anime Reveals More Cast, January 1 TV Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-19/criterion-channel-adds-speed-racer-anime/.243995",
-      "thumbnail": "/drops/thumbs/f9160b49a9f8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-19/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-anime-reveals-more-cast-/.244007",
+      "thumbnail": "/drops/thumbs/35cf1e8c48fe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "9181f6982ce8",
+      "id": "f9160b49a9f8",
       "pillar": "anime",
-      "title": "Grotesqqque Anime Film Screens in Los Angeles on December 3 for 1-Week Only",
+      "title": "Criterion Channel Adds Speed Racer Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-19/grotesqqque-anime-film-screens-in-los-angeles-on-december-3-for-1-week-only/.243997",
-      "thumbnail": "/drops/thumbs/9181f6982ce8.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-19/criterion-channel-adds-speed-racer-anime/.243995",
+      "thumbnail": "/drops/thumbs/f9160b49a9f8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "959632b05ca3",
     "75bb505489a0",
-    "94c12e7f6bfb",
+    "fb5f4c998505",
     "faa45a4d2beb",
-    "82c42aeef0a4",
+    "94c12e7f6bfb",
     "17e896bbe297"
   ]
 }
