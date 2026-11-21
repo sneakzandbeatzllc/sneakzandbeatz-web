@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-21T17:46:01+00:00",
+  "generated_utc": "2026-11-21T20:47:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Dragon Ball’s Best Episode In 8 Years Proves Fans Were Wrong About The Series’ New Anime",
-      "url": "https://screenrant.com/dragon-ball-super-beerus-best-franchise-episode-decade/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Solo Leveling's Next Series Locks Down 2028 Release Date",
       "url": "https://screenrant.com/solo-leveling-live-action-series-2028-release/",
       "pillar": "anime",
@@ -146,6 +139,13 @@
     {
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Black Clover Season 2 Episode 9 Gets Unexpected Early Release Thanks To Major Mistake",
+      "url": "https://screenrant.com/black-clover-season-2-episode-9-crunchyroll-leak/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
