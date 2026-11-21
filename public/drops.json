@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-21T08:42:15+00:00",
+  "generated_utc": "2026-11-21T11:43:15+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -243,18 +243,6 @@
       "release_badge": ""
     },
     {
-      "id": "5b7c6357e1c0",
-      "pillar": "anime",
-      "title": "Crunchyroll Streams My Hero Academia The Movie: World Heroes' Mission Anime",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-20/crunchyroll-streams-my-hero-academia-the-movie-world-heroes-mission-anime/.244023",
-      "thumbnail": "/drops/thumbs/5b7c6357e1c0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "351aa8cdd9ba",
       "pillar": "anime",
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
@@ -267,12 +255,24 @@
       "release_badge": ""
     },
     {
-      "id": "1b94ebd063ac",
+      "id": "042ddb30e35d",
       "pillar": "anime",
-      "title": "Suu Morishita's A Sign of Affection Manga Ends in 3 Chapters",
+      "title": "Doraemon Anime's 1-Hour New Year's Special to Feature New Tool",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-21/suu-morishita-a-sign-of-affection-manga-ends-in-3-chapters/.244046",
-      "thumbnail": "/drops/thumbs/1b94ebd063ac.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-21/doraemon-anime-1-hour-new-year-special-to-feature-new-tool/.244050",
+      "thumbnail": "/drops/thumbs/042ddb30e35d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7b4ecd5c3ec6",
+      "pillar": "anime",
+      "title": "' Please Put Them On, Takamine-san ' Manga Ends in January",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-21/please-put-them-on-takamine-san-manga-ends-in-january/.244048",
+      "thumbnail": "/drops/thumbs/7b4ecd5c3ec6.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,

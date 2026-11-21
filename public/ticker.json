@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-21T08:42:15+00:00",
+  "generated_utc": "2026-11-21T11:43:15+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -144,13 +144,6 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Streams My Hero Academia The Movie: World Heroes' Mission Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-20/crunchyroll-streams-my-hero-academia-the-movie-world-heroes-mission-anime/.244023",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
       "pillar": "anime",
@@ -158,8 +151,15 @@
       "article_slug": null
     },
     {
-      "title": "Suu Morishita's A Sign of Affection Manga Ends in 3 Chapters",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-21/suu-morishita-a-sign-of-affection-manga-ends-in-3-chapters/.244046",
+      "title": "Doraemon Anime's 1-Hour New Year's Special to Feature New Tool",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-21/doraemon-anime-1-hour-new-year-special-to-feature-new-tool/.244050",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "' Please Put Them On, Takamine-san ' Manga Ends in January",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-21/please-put-them-on-takamine-san-manga-ends-in-january/.244048",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
