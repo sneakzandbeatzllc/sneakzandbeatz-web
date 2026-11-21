@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-21T20:47:18+00:00",
+  "generated_utc": "2026-11-21T23:48:25+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -15,6 +15,13 @@
       "url": "https://sneakerbardetroit.com/air-jordan-3-not-nice/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 10 OG “Sacramento” Releases December 5th",
+      "url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 15 “Black Dark Charcoal” Releases Fall 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Undefeated x Air Jordan 5 “Light Chocolate” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-light-chocolate/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -123,22 +123,15 @@
       "article_slug": null
     },
     {
-      "title": "Solo Leveling's Next Series Locks Down 2028 Release Date",
-      "url": "https://screenrant.com/solo-leveling-live-action-series-2028-release/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "10 Most Memorable Jujutsu Kaisen Characters",
-      "url": "https://screenrant.com/jujutsu-kaisen-most-memorable-characters/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Netflix Is Adding 76 More Hours of One Piece in Just 4 Weeks",
+      "url": "https://screenrant.com/one-piece-netflix-wano-arc/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -167,6 +160,13 @@
     {
       "title": "5 anime arcs that are 10/10, no notes",
       "url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Doraemon Anime's 1-Hour New Year's Special to Feature New Tool",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-21/doraemon-anime-1-hour-new-year-special-to-feature-new-tool/.244050",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null

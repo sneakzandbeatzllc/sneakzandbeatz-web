@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-21T20:47:18+00:00",
+  "generated_utc": "2026-11-21T23:48:25+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -25,6 +25,18 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Month"
+    },
+    {
+      "id": "94c12e7f6bfb",
+      "pillar": "sneakers",
+      "title": "Air Jordan 10 OG “Sacramento” Releases December 5th",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
+      "thumbnail": "/drops/thumbs/94c12e7f6bfb.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
     },
     {
       "id": "fb5f4c998505",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
       "thumbnail": "/drops/thumbs/f1f5be09d79a.jpg",
       "published": "2026-11-20T15:29:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "82c42aeef0a4",
-      "pillar": "sneakers",
-      "title": "Undefeated x Air Jordan 5 “Light Chocolate” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-light-chocolate/",
-      "thumbnail": "/drops/thumbs/82c42aeef0a4.jpg",
-      "published": "2026-11-18T23:59:23",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -207,36 +207,24 @@
       "release_badge": ""
     },
     {
-      "id": "ccc26a913345",
-      "pillar": "anime",
-      "title": "Solo Leveling's Next Series Locks Down 2028 Release Date",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-live-action-series-2028-release/",
-      "thumbnail": "/drops/thumbs/ccc26a913345.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "3a019717454f",
-      "pillar": "anime",
-      "title": "10 Most Memorable Jujutsu Kaisen Characters",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/jujutsu-kaisen-most-memorable-characters/",
-      "thumbnail": "/drops/thumbs/3a019717454f.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "351aa8cdd9ba",
       "pillar": "anime",
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
       "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "b16ac6327777",
+      "pillar": "anime",
+      "title": "Netflix Is Adding 76 More Hours of One Piece in Just 4 Weeks",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-netflix-wano-arc/",
+      "thumbnail": "/drops/thumbs/b16ac6327777.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -285,6 +273,18 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
       "thumbnail": "/drops/thumbs/f94cbafc97bb.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "042ddb30e35d",
+      "pillar": "anime",
+      "title": "Doraemon Anime's 1-Hour New Year's Special to Feature New Tool",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-21/doraemon-anime-1-hour-new-year-special-to-feature-new-tool/.244050",
+      "thumbnail": "/drops/thumbs/042ddb30e35d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -392,7 +392,7 @@
     "a7cfc5d2884d",
     "d31cf36c737d",
     "08fae10b17b9",
-    "fb5f4c998505",
+    "94c12e7f6bfb",
     "3eb02f5d89c1"
   ]
 }
