@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-21T02:39:07+00:00",
+  "generated_utc": "2026-11-21T05:40:20+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "4f1f5a173fa5",
+      "pillar": "hiphop",
+      "title": "Fergie Baby Drops ‘God Is From Harlem’ Album Featuring Ferg, Cam’ron, Max B, Juelz Santana And More",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/20/fergie-baby-drops-god-is-from-harlem-album-featuring-ferg-camron-max-b-juelz-santana-and-more/",
+      "thumbnail": "/drops/thumbs/4f1f5a173fa5.jpg",
+      "published": "2026-11-20T21:57:24",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "0725bd88fba2",
       "pillar": "hiphop",
       "title": "Happy 61st Birthday To The Beastie Boys’ Mike D!",
@@ -106,6 +118,18 @@
       "source_url": "https://thesource.com/2026/11/20/happy-61st-birthday-to-the-beastie-boys-mike-d/",
       "thumbnail": "/drops/thumbs/0725bd88fba2.jpg",
       "published": "2026-11-20T10:48:40",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "9b0b88a8fad3",
+      "pillar": "hiphop",
+      "title": "Author Vickie Foreman Makes an Impact With New Book “Unbreakable: The Rise of a Black Woman”",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/20/author-vickie-foreman-makes-an-impact-with-new-book-unbreakable-the-rise-of-a-black-woman/",
+      "thumbnail": "/drops/thumbs/9b0b88a8fad3.jpg",
+      "published": "2026-11-20T10:42:00",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/11/20/white-house-national-cyber-director-out-as-national-grapples-with-various-tech-outages-and-issues/",
       "thumbnail": "/drops/thumbs/58e9439f3f6d.jpg",
       "published": "2026-11-20T08:01:07",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9073cc8d673c",
-      "pillar": "hiphop",
-      "title": "Nick Cannon’s New Reality Series ‘Raising the Cannons’ Spotlighting His 12 Kids and Co-Parenting Dynamic",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/20/nick-cannons-new-reality-series-raising-the-cannons-spotlighting-his-12-kids-and-co-parenting-dynamic/",
-      "thumbnail": "/drops/thumbs/9073cc8d673c.jpg",
-      "published": "2026-11-20T07:57:39",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "33d3b7b3bdae",
-      "pillar": "hiphop",
-      "title": "Bruno Mars Announces the Passing of His Father: ‘Kiss Mom Up There For Me’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/20/bruno-mars-announces-the-passing-of-his-father-kiss-mom-up-there-for-me/",
-      "thumbnail": "/drops/thumbs/33d3b7b3bdae.jpg",
-      "published": "2026-11-20T07:55:12",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "e4ce632fcf96",
+      "id": "0ac5276a41fe",
       "pillar": "gaming",
-      "title": "News 61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
+      "title": "News 'Overrated Game': GTA 6 PS5 Review Bombing Has Started After Record-Breaking Release",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
-      "thumbnail": "/drops/thumbs/e4ce632fcf96.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/overrated-game-gta-6-ps5-review-bombing-has-started-after-record-breaking-release",
+      "thumbnail": "/drops/thumbs/0ac5276a41fe.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "d0557cf7ed62",
+      "id": "e4ce632fcf96",
       "pillar": "gaming",
-      "title": "Guide GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
+      "title": "News 61% of All US PS5 Owners Played GTA 6 on Launch Day, Averaging 8 Hours",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
-      "thumbnail": "/drops/thumbs/d0557cf7ed62.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/61percent-of-all-us-ps5-owners-played-gta-6-on-launch-day-averaging-8-hours",
+      "thumbnail": "/drops/thumbs/e4ce632fcf96.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "0725bd88fba2",
+    "4f1f5a173fa5",
     "d31cf36c737d",
     "faa45a4d2beb",
     "fb5f4c998505",
-    "e4ce632fcf96"
+    "0ac5276a41fe"
   ]
 }
