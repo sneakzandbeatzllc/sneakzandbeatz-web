@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-22T20:57:14+00:00",
+  "generated_utc": "2026-11-22T23:58:18+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,6 +32,13 @@
       "article_slug": null
     },
     {
+      "title": "Jordan Brand Is Pausing Regular Air Jordan 1 High OG Colorways",
+      "url": "https://justfreshkicks.com/air-jordan-1-high-og-general-releases-paused-2027/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Air Jordan 4 “Punk” Releases Fall 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-4-punk/",
       "pillar": "sneakers",
@@ -48,13 +55,6 @@
     {
       "title": "Air Jordan 15 “Black Dark Charcoal” Releases Fall 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Undefeated x Air Jordan 5 “Light Chocolate” Releases February 2027",
-      "url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-light-chocolate/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -165,8 +165,8 @@
       "article_slug": null
     },
     {
-      "title": "Shōzen TV Anime Unveils New Trailer, Key Visual, Cast",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-22/shozen-tv-anime-unveils-new-trailer-key-visual-cast/.244063",
+      "title": "Netflix's 100% Rotten Tomatoes War Epic Will Traumatize You Forever",
+      "url": "https://screenrant.com/grave-fireflies-netflix-war-epic-traumatize/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
