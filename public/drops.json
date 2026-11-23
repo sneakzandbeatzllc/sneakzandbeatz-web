@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-23T18:45:18+00:00",
+  "generated_utc": "2026-11-23T21:46:24+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -51,6 +51,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "2a37f1669e66",
+      "pillar": "sneakers",
+      "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/michael-jordans-4-best-moments-in-the-air-jordan-4/",
+      "thumbnail": "/drops/thumbs/2a37f1669e66.jpg",
+      "published": "2026-11-23T13:59:27",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "984d7e1b1cb6",
       "pillar": "sneakers",
       "title": "Jordan Brand Is Pausing Regular Air Jordan 1 High OG Colorways",
@@ -87,15 +99,27 @@
       "release_badge": ""
     },
     {
-      "id": "f1f5be09d79a",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Black Dark Charcoal” Releases Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
-      "thumbnail": "/drops/thumbs/f1f5be09d79a.jpg",
-      "published": "2026-11-20T15:29:05",
+      "id": "f667d73a076b",
+      "pillar": "hiphop",
+      "title": "Fergie Baby Claims His Spot on Harlem’s Mount Rushmore With Debut Album ‘God Is From Harlem’",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/23/fergie-baby-claims-his-spot-on-harlems-mount-rushmore-with-debut-album-god-is-from-harlem/",
+      "thumbnail": "/drops/thumbs/f667d73a076b.jpg",
+      "published": "2026-11-23T15:36:31",
       "relative_time": "today",
-      "score": 2.0,
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f846c15dfe6e",
+      "pillar": "hiphop",
+      "title": "Tia Kemp Joins Her BD Rick Ross On Stage During Orlando Classic Weekend",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/23/tia-kemp-joins-her-bd-rick-ross-on-stage-during-orlando-classic-weekend/",
+      "thumbnail": "/drops/thumbs/f846c15dfe6e.jpg",
+      "published": "2026-11-23T14:29:47",
+      "relative_time": "today",
+      "score": 1.0,
       "release_badge": ""
     },
     {
@@ -171,36 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "ff9c12c9a7b7",
-      "pillar": "hiphop",
-      "title": "Fire Performer Falls Down Stage Stairs During Usher and Chris Brown Concert",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/23/usher-chris-brown-concert-fire-performer-fall/",
-      "thumbnail": "/drops/thumbs/ff9c12c9a7b7.jpg",
-      "published": "2026-11-23T07:08:54",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "548829ab4364",
-      "pillar": "hiphop",
-      "title": "Usher Gifted ‘No Limit’ Chain from Master P During NOLA Tour Stop",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/23/usher-gifted-no-limit-chain-from-master-p-during-nola-tour-stop/",
-      "thumbnail": "/drops/thumbs/548829ab4364.jpg",
-      "published": "2026-11-23T07:04:38",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bbd406c575f4",
       "pillar": "anime",
       "title": "Demon Slayer Drops First Infinity Castle Part 2 Release Date Hint, But Fans Are Split",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-update-release-date/",
       "thumbnail": "/drops/thumbs/bbd406c575f4.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "97266bfa5f8d",
+      "pillar": "anime",
+      "title": "Naruto movie officially casts fan-favorite actor for key role",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/live-action-naruto-movie-cast-hiroyuki-sanada/",
+      "thumbnail": "/drops/thumbs/97266bfa5f8d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "f94cbafc97bb",
-      "pillar": "anime",
-      "title": "5 anime arcs that are 10/10, no notes",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
-      "thumbnail": "/drops/thumbs/f94cbafc97bb.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "faa72b78d146",
+      "id": "17e896bbe297",
       "pillar": "gaming",
-      "title": "Poll Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
+      "title": "Guide GTA 6: Radio Songs - All Music, Radio Stations, & Artists",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
-      "thumbnail": "/drops/thumbs/faa72b78d146.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
+      "thumbnail": "/drops/thumbs/17e896bbe297.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,12 @@
       "release_badge": ""
     },
     {
-      "id": "65b86d295456",
+      "id": "351c6863a2aa",
       "pillar": "gaming",
-      "title": "So Is The $100 GTA 6 Ultimate Edition Actually Worth It? Not Really",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998",
-      "thumbnail": "/drops/thumbs/65b86d295456.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d5612ba17ca2",
-      "pillar": "gaming",
-      "title": "News First GTA 6 PS5 Patch Live Now, Get All the Details Here",
+      "title": "Guide GTA 6: Tenebrae Lux Walkthrough & Puzzle Solutions",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here",
-      "thumbnail": "/drops/thumbs/d5612ba17ca2.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-tenebrae-lux-walkthrough-and-puzzle-solutions",
+      "thumbnail": "/drops/thumbs/351c6863a2aa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "a24f00933db8",
+      "id": "faa72b78d146",
       "pillar": "gaming",
-      "title": "Radio Tower Expert Can’t Believe How Realistic GTA 6′ s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles”",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/radio-tower-expert-cant-believe-how-realistic-gta-6s-towers-are-oh-my-god-boys-earthed-tower-legs-with-saddles-2000759186",
-      "thumbnail": "/drops/thumbs/a24f00933db8.jpg",
+      "title": "Poll Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
+      "thumbnail": "/drops/thumbs/faa72b78d146.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f9f4e58dac9e",
+      "pillar": "gaming",
+      "title": "Shang-Chi star Simu Liu says GTA 6's Lucia will appreciate you buying Avengers: Doomsday tickets",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/shang-chi-star-simu-liu-says-gta-6s-lucia-will-appreciate-you-buying-avengers-doomsday-tickets/",
+      "thumbnail": "/drops/thumbs/f9f4e58dac9e.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "cff498bbdae8",
+    "f667d73a076b",
     "d31cf36c737d",
     "bbd406c575f4",
     "94c12e7f6bfb",
-    "faa72b78d146"
+    "17e896bbe297"
   ]
 }

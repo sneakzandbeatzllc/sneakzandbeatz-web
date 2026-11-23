@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-23T18:45:18+00:00",
+  "generated_utc": "2026-11-23T21:46:24+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -32,6 +32,13 @@
       "article_slug": null
     },
     {
+      "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
+      "url": "https://www.nicekicks.com/michael-jordans-4-best-moments-in-the-air-jordan-4/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
       "title": "Jordan Brand Is Pausing Regular Air Jordan 1 High OG Colorways",
       "url": "https://justfreshkicks.com/air-jordan-1-high-og-general-releases-paused-2027/",
       "pillar": "sneakers",
@@ -53,10 +60,17 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 15 “Black Dark Charcoal” Releases Fall 2027",
-      "url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
-      "pillar": "sneakers",
-      "score": 2.0,
+      "title": "Fergie Baby Claims His Spot on Harlem’s Mount Rushmore With Debut Album ‘God Is From Harlem’",
+      "url": "https://thesource.com/2026/11/23/fergie-baby-claims-his-spot-on-harlems-mount-rushmore-with-debut-album-god-is-from-harlem/",
+      "pillar": "hiphop",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Tia Kemp Joins Her BD Rick Ross On Stage During Orlando Classic Weekend",
+      "url": "https://thesource.com/2026/11/23/tia-kemp-joins-her-bd-rick-ross-on-stage-during-orlando-classic-weekend/",
+      "pillar": "hiphop",
+      "score": 1.0,
       "article_slug": null
     },
     {
@@ -102,22 +116,15 @@
       "article_slug": null
     },
     {
-      "title": "Fire Performer Falls Down Stage Stairs During Usher and Chris Brown Concert",
-      "url": "https://thesource.com/2026/11/23/usher-chris-brown-concert-fire-performer-fall/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Usher Gifted ‘No Limit’ Chain from Master P During NOLA Tour Stop",
-      "url": "https://thesource.com/2026/11/23/usher-gifted-no-limit-chain-from-master-p-during-nola-tour-stop/",
-      "pillar": "hiphop",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Demon Slayer Drops First Infinity Castle Part 2 Release Date Hint, But Fans Are Split",
       "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-update-release-date/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Naruto movie officially casts fan-favorite actor for key role",
+      "url": "https://www.polygon.com/live-action-naruto-movie-cast-hiroyuki-sanada/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,15 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "5 anime arcs that are 10/10, no notes",
-      "url": "https://www.polygon.com/perfect-anime-arcs-everyone-needs-to-watch/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Poll Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
-      "url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
+      "title": "Guide GTA 6: Radio Songs - All Music, Radio Stations, & Artists",
+      "url": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,15 +193,8 @@
       "article_slug": null
     },
     {
-      "title": "So Is The $100 GTA 6 Ultimate Edition Actually Worth It? Not Really",
-      "url": "https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News First GTA 6 PS5 Patch Live Now, Get All the Details Here",
-      "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here",
+      "title": "Guide GTA 6: Tenebrae Lux Walkthrough & Puzzle Solutions",
+      "url": "https://www.pushsquare.com/guides/gta-6-tenebrae-lux-walkthrough-and-puzzle-solutions",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +214,15 @@
       "article_slug": null
     },
     {
-      "title": "Radio Tower Expert Can’t Believe How Realistic GTA 6′ s Towers Are: ‘Oh My God Boys… Earthed Tower Legs With Saddles”",
-      "url": "https://kotaku.com/radio-tower-expert-cant-believe-how-realistic-gta-6s-towers-are-oh-my-god-boys-earthed-tower-legs-with-saddles-2000759186",
+      "title": "Poll Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
+      "url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Shang-Chi star Simu Liu says GTA 6's Lucia will appreciate you buying Avengers: Doomsday tickets",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/shang-chi-star-simu-liu-says-gta-6s-lucia-will-appreciate-you-buying-avengers-doomsday-tickets/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
