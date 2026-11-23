@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-23T06:01:24+00:00",
+  "generated_utc": "2026-11-23T09:05:54+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -207,6 +207,18 @@
       "release_badge": ""
     },
     {
+      "id": "a486f15de8d6",
+      "pillar": "anime",
+      "title": "Chainsaw Man Ranks #2 on Bookscan's October Adult Graphic Novel List in U.S.",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-22/chainsaw-man-ranks-no.2-on-bookscan-october-adult-graphic-novel-list-in-u.s/.244062",
+      "thumbnail": "/drops/thumbs/a486f15de8d6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "351aa8cdd9ba",
       "pillar": "anime",
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
@@ -255,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "232e2a84950d",
+      "pillar": "anime",
+      "title": "Champignon Witch Manga to Resume After 10 Months",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-22/champignon-witch-manga-to-resume-after-10-months/.244096",
+      "thumbnail": "/drops/thumbs/232e2a84950d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f94cbafc97bb",
       "pillar": "anime",
       "title": "5 anime arcs that are 10/10, no notes",
@@ -267,36 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "2667d7658cf0",
-      "pillar": "anime",
-      "title": "Netflix's 100% Rotten Tomatoes War Epic Will Traumatize You Forever",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/grave-fireflies-netflix-war-epic-traumatize/",
-      "thumbnail": "/drops/thumbs/2667d7658cf0.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9db713c02ca7",
-      "pillar": "anime",
-      "title": "2026's 10 Best-Selling Manga Have Been Revealed, And One Series Dominates The Top 3 Spots",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/2026-best-selling-manga-revealed/",
-      "thumbnail": "/drops/thumbs/9db713c02ca7.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "21d7f5439028",
+      "id": "25a6974afc8d",
       "pillar": "gaming",
-      "title": "News GTA 6 Just Can't Stop Breaking Records It Seems",
+      "title": "Guide GTA 6 Guide: All Guides & Collectibles",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-just-cant-stop-breaking-records-it-seems",
-      "thumbnail": "/drops/thumbs/21d7f5439028.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-guide",
+      "thumbnail": "/drops/thumbs/25a6974afc8d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "d31cf36c737d",
     "bbd406c575f4",
     "94c12e7f6bfb",
-    "21d7f5439028"
+    "25a6974afc8d"
   ]
 }
