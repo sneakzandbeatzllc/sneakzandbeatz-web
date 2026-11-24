@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-24T00:47:31+00:00",
+  "generated_utc": "2026-11-24T03:48:42+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,6 +123,13 @@
       "article_slug": null
     },
     {
+      "title": "Deadline: Live-Action Naruto Film in Talks to Cast Hiroyuki Sanada as Sarutobi",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Naruto movie officially casts fan-favorite actor for key role",
       "url": "https://www.polygon.com/live-action-naruto-movie-cast-hiroyuki-sanada/",
       "pillar": "anime",
@@ -158,22 +165,15 @@
       "article_slug": null
     },
     {
-      "title": "Magical Buffs Anime Announces 3 More Cast Members",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-23/magical-buffs-anime-announces-3-more-cast-members/.244111",
+      "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara Anime's Video Unveils Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-23/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-anime-video-unveils-cast/.244049",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Champignon Witch Manga to Resume After 10 Months",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-22/champignon-witch-manga-to-resume-after-10-months/.244096",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players",
+      "title": "News GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,8 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "Guide GTA 6: Tenebrae Lux Walkthrough & Puzzle Solutions",
-      "url": "https://www.pushsquare.com/guides/gta-6-tenebrae-lux-walkthrough-and-puzzle-solutions",
+      "title": "Grand Theft Auto 6 Gave One Of The Best Pop Songs Of The Century Its Due",
+      "url": "https://kotaku.com/grand-theft-auto-gta-6-run-away-with-me-carly-rae-jepsen-soundtrack-song-2000758993",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "News GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -214,15 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Poll Has GTA 6 Lived Up to the Hype Over Its First Weekend?",
-      "url": "https://www.pushsquare.com/features/poll-has-gta-6-lived-up-to-the-hype-over-its-first-weekend",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/",
+      "title": "Even Grand Theft Auto 6 Can’t Escape The Anti-Woke Culture War As It Gets Review-Bombed On Metacritic",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-review-bomb-woke-misinformation-campaign-2000759045",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
