@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-24T16:21:03+00:00",
+  "generated_utc": "2026-11-24T19:33:48+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -37,6 +37,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "edc84f2c89b1",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Mid “Faded Spruce” Is Now Available for $150",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-mid-faded-spruce-ix8457-344/",
+      "thumbnail": "/drops/thumbs/edc84f2c89b1.webp",
+      "published": "2026-11-24T13:39:35",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "2a37f1669e66",
@@ -82,18 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
       "thumbnail": "/drops/thumbs/0ce862bf68c6.jpg",
       "published": "2026-11-20T15:31:24",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f1f5be09d79a",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Black Dark Charcoal” Releases Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
-      "thumbnail": "/drops/thumbs/f1f5be09d79a.jpg",
-      "published": "2026-11-20T15:29:05",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -267,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "ee4255d3e9c6",
+      "pillar": "anime",
+      "title": "HIDIVE to Premiere Murciélago Anime at Anime Frontier Event in Texas",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-24/hidive-to-premiere-murcielago-anime-at-anime-frontier-event-in-texas/.244121",
+      "thumbnail": "/drops/thumbs/ee4255d3e9c6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "c4035ef9255f",
       "pillar": "anime",
       "title": "Duel Masters Pure PLAY'S Manga Ends on November 30",
@@ -279,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "bbc5a23c2ecd",
-      "pillar": "anime",
-      "title": "Twisted-Wonderland: Episode of Savanaclaw Anime's New Video Unveils Ending Song",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-24/twisted-wonderland-episode-of-savanaclaw-anime-new-video-unveils-ending-song/.244154",
-      "thumbnail": "/drops/thumbs/bbc5a23c2ecd.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b44f19bbd23b",
+      "id": "e13af979506c",
       "pillar": "gaming",
-      "title": "News GTA 6 Fashion Is Taking Social Media by Storm",
+      "title": "News GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
-      "thumbnail": "/drops/thumbs/b44f19bbd23b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing",
+      "thumbnail": "/drops/thumbs/e13af979506c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "dc36bb1ce2d0",
+      "id": "d2c4976a0017",
       "pillar": "gaming",
-      "title": "Grand Theft Auto 6 Gave One Of The Best Pop Songs Of The Century Its Due",
+      "title": "GTA 6 Is PlayStation’s Biggest Launch Of All Time, With Over 39 Million Players",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/grand-theft-auto-gta-6-run-away-with-me-carly-rae-jepsen-soundtrack-song-2000758993",
-      "thumbnail": "/drops/thumbs/dc36bb1ce2d0.jpg",
+      "source_url": "https://kotaku.com/gta6-grand-theft-auto-6-ps5-playstation-sony-record-sales-2001000009",
+      "thumbnail": "/drops/thumbs/d2c4976a0017.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "adfe98329d77",
+      "id": "b44f19bbd23b",
       "pillar": "gaming",
-      "title": "Guide GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock",
+      "title": "News GTA 6 Fashion Is Taking Social Media by Storm",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
-      "thumbnail": "/drops/thumbs/adfe98329d77.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
+      "thumbnail": "/drops/thumbs/b44f19bbd23b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "4aef39f7153c",
+      "id": "044ed07cc7af",
       "pillar": "gaming",
-      "title": "Even Grand Theft Auto 6 Can’t Escape The Anti-Woke Culture War As It Gets Review-Bombed On Metacritic",
+      "title": "GTA 6 Includes Compelling Evidence That It’s Set In The Same Universe As Red Dead Redemption",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/grand-theft-auto-6-gta6-review-bomb-woke-misinformation-campaign-2000759045",
-      "thumbnail": "/drops/thumbs/4aef39f7153c.jpg",
+      "source_url": "https://kotaku.com/gta-6-includes-compelling-evidence-that-its-set-in-the-same-universe-as-red-dead-redemption-2000758912",
+      "thumbnail": "/drops/thumbs/044ed07cc7af.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "d31cf36c737d",
     "bbd406c575f4",
     "94c12e7f6bfb",
-    "b44f19bbd23b"
+    "e13af979506c"
   ]
 }
