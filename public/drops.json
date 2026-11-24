@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-24T13:05:11+00:00",
+  "generated_utc": "2026-11-24T16:21:03+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -33,18 +33,6 @@
       "source": "SneakerBarDetroit",
       "source_url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
       "thumbnail": "/drops/thumbs/94c12e7f6bfb.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
-    },
-    {
-      "id": "fb5f4c998505",
-      "pillar": "sneakers",
-      "title": "Air Jordan 11 “Space Jam” Releases December 12th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-11-space-jam-2026-release-date/",
-      "thumbnail": "/drops/thumbs/fb5f4c998505.webp",
       "published": "",
       "relative_time": "today",
       "score": 2.4,
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
       "thumbnail": "/drops/thumbs/0ce862bf68c6.jpg",
       "published": "2026-11-20T15:31:24",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f1f5be09d79a",
+      "pillar": "sneakers",
+      "title": "Air Jordan 15 “Black Dark Charcoal” Releases Fall 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
+      "thumbnail": "/drops/thumbs/f1f5be09d79a.jpg",
+      "published": "2026-11-20T15:29:05",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -207,18 +207,6 @@
       "release_badge": ""
     },
     {
-      "id": "e91967878c41",
-      "pillar": "anime",
-      "title": "Deadline: Live-Action Naruto Film in Talks to Cast Hiroyuki Sanada as Sarutobi",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138",
-      "thumbnail": "/drops/thumbs/e91967878c41.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "97266bfa5f8d",
       "pillar": "anime",
       "title": "Naruto movie officially casts fan-favorite actor for key role",
@@ -279,6 +267,18 @@
       "release_badge": ""
     },
     {
+      "id": "c4035ef9255f",
+      "pillar": "anime",
+      "title": "Duel Masters Pure PLAY'S Manga Ends on November 30",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-24/duel-masters-pure-play-manga-ends-on-november-30/.244139",
+      "thumbnail": "/drops/thumbs/c4035ef9255f.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bbc5a23c2ecd",
       "pillar": "anime",
       "title": "Twisted-Wonderland: Episode of Savanaclaw Anime's New Video Unveils Ending Song",
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "dc012687daff",
+      "id": "b44f19bbd23b",
       "pillar": "gaming",
-      "title": "News GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+      "title": "News GTA 6 Fashion Is Taking Social Media by Storm",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
-      "thumbnail": "/drops/thumbs/dc012687daff.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
+      "thumbnail": "/drops/thumbs/b44f19bbd23b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,24 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "4e698b4aaabc",
+      "id": "adfe98329d77",
       "pillar": "gaming",
-      "title": "News GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
+      "title": "Guide GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
-      "thumbnail": "/drops/thumbs/4e698b4aaabc.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
+      "thumbnail": "/drops/thumbs/adfe98329d77.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "56f0979a6d95",
+      "id": "333ba0b8d5c8",
       "pillar": "gaming",
-      "title": "GTA 6 update gives players losing progress to crashes a lifeline",
+      "title": "GTA 6 is \"biggest launch in PlayStation history,\" with Sony reporting over 39 million players on PS5",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/",
-      "thumbnail": "/drops/thumbs/56f0979a6d95.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/",
+      "thumbnail": "/drops/thumbs/333ba0b8d5c8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "d31cf36c737d",
     "bbd406c575f4",
     "94c12e7f6bfb",
-    "dc012687daff"
+    "b44f19bbd23b"
   ]
 }

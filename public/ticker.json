@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-24T13:05:11+00:00",
+  "generated_utc": "2026-11-24T16:21:03+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -20,13 +20,6 @@
     {
       "title": "Air Jordan 10 OG “Sacramento” Releases December 5th",
       "url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
-      "pillar": "sneakers",
-      "score": 2.4,
-      "article_slug": null
-    },
-    {
-      "title": "Air Jordan 11 “Space Jam” Releases December 12th",
-      "url": "https://sneakerbardetroit.com/air-jordan-11-space-jam-2026-release-date/",
       "pillar": "sneakers",
       "score": 2.4,
       "article_slug": null
@@ -55,6 +48,13 @@
     {
       "title": "Air Jordan 14 “Blue Ferrari” Releases July 2027",
       "url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
+      "pillar": "sneakers",
+      "score": 2.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 15 “Black Dark Charcoal” Releases Fall 2027",
+      "url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Deadline: Live-Action Naruto Film in Talks to Cast Hiroyuki Sanada as Sarutobi",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Naruto movie officially casts fan-favorite actor for key role",
       "url": "https://www.polygon.com/live-action-naruto-movie-cast-hiroyuki-sanada/",
       "pillar": "anime",
@@ -165,6 +158,13 @@
       "article_slug": null
     },
     {
+      "title": "Duel Masters Pure PLAY'S Manga Ends on November 30",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-24/duel-masters-pure-play-manga-ends-on-november-30/.244139",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Twisted-Wonderland: Episode of Savanaclaw Anime's New Video Unveils Ending Song",
       "url": "https://www.animenewsnetwork.com/news/2026-11-24/twisted-wonderland-episode-of-savanaclaw-anime-new-video-unveils-ending-song/.244154",
       "pillar": "anime",
@@ -172,8 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
+      "title": "News GTA 6 Fashion Is Taking Social Media by Storm",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,15 +200,15 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Owners Can Now Stream the Game to PS5, PS Portal with PS Plus Premium",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-owners-can-now-stream-the-game-to-ps5-ps-portal-with-ps-plus-premium",
+      "title": "Guide GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock",
+      "url": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "GTA 6 update gives players losing progress to crashes a lifeline",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/",
+      "title": "GTA 6 is \"biggest launch in PlayStation history,\" with Sony reporting over 39 million players on PS5",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-the-biggest-launch-in-playstation-history-with-sony-reporting-more-than-39-million-unique-players-playing-rockstars-new-game-on-ps5/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
