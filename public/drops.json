@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-23T21:46:24+00:00",
+  "generated_utc": "2026-11-24T00:47:31+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,30 @@
       "release_badge": ""
     },
     {
+      "id": "40b5890ad215",
+      "pillar": "hiphop",
+      "title": "Over 12,000 Evacuated From Don Toliver Concert in Manchester Following Chemical Irritant Scare",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/23/over-12000-evacuated-from-don-toliver-concert-in-manchester-following-chemical-irritant-scare/",
+      "thumbnail": "/drops/thumbs/40b5890ad215.jpg",
+      "published": "2026-11-23T17:34:34",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "37bfaabc37b0",
+      "pillar": "hiphop",
+      "title": "Lil’ Kim Comes Home to Brooklyn for Two Sold-Out Nights of Hard Core Symphony at Kings Theatre",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/23/lil-kim-comes-home-to-brooklyn-for-two-sold-out-nights-of-hard-core-symphony-at-kings-theatre/",
+      "thumbnail": "/drops/thumbs/37bfaabc37b0.jpg",
+      "published": "2026-11-23T16:10:28",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f667d73a076b",
       "pillar": "hiphop",
       "title": "Fergie Baby Claims His Spot on Harlem’s Mount Rushmore With Debut Album ‘God Is From Harlem’",
@@ -166,30 +190,6 @@
       "source_url": "https://thesource.com/2026/11/23/venus-williams-gatorade-body-of-science-f1-las-vegas/",
       "thumbnail": "/drops/thumbs/8eaf1d32b84f.jpg",
       "published": "2026-11-23T07:23:04",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f31365b499d8",
-      "pillar": "hiphop",
-      "title": "Diddy’s Prison Thanksgiving Meal to Include Tofu Stir Fry",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/23/diddys-prison-thanksgiving-meal-to-include-tofu-stir-fry/",
-      "thumbnail": "/drops/thumbs/f31365b499d8.jpg",
-      "published": "2026-11-23T07:17:12",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "5c5038e62032",
-      "pillar": "hiphop",
-      "title": "Nick Cannon Calls for Prayers After Being Hospitalized: ‘Lupus Warrior’",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/23/nick-cannon-calls-for-prayers-after-being-hospitalized-lupus-warrior/",
-      "thumbnail": "/drops/thumbs/5c5038e62032.jpg",
-      "published": "2026-11-23T07:11:56",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -291,12 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "17e896bbe297",
+      "id": "bd6f43e1b2c8",
       "pillar": "gaming",
-      "title": "Guide GTA 6: Radio Songs - All Music, Radio Stations, & Artists",
+      "title": "News GTA 6 Officially the 'Biggest Launch in PlayStation History' with Over 39 Million Players",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/guides/gta-6-radio-songs-all-music-radio-stations-and-artists",
-      "thumbnail": "/drops/thumbs/17e896bbe297.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-officially-the-biggest-launch-in-playstation-history-with-over-39-million-players",
+      "thumbnail": "/drops/thumbs/bd6f43e1b2c8.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "f9f4e58dac9e",
+      "id": "b8b28ad279ab",
       "pillar": "gaming",
-      "title": "Shang-Chi star Simu Liu says GTA 6's Lucia will appreciate you buying Avengers: Doomsday tickets",
+      "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/entertainment/marvel-movies/shang-chi-star-simu-liu-says-gta-6s-lucia-will-appreciate-you-buying-avengers-doomsday-tickets/",
-      "thumbnail": "/drops/thumbs/f9f4e58dac9e.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/",
+      "thumbnail": "/drops/thumbs/b8b28ad279ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,10 +389,10 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "f667d73a076b",
+    "40b5890ad215",
     "d31cf36c737d",
     "bbd406c575f4",
     "94c12e7f6bfb",
-    "17e896bbe297"
+    "bd6f43e1b2c8"
   ]
 }
