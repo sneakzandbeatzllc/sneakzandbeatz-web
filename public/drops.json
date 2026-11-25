@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-25T13:58:05+00:00",
+  "generated_utc": "2026-11-25T17:06:14+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -255,6 +255,18 @@
       "release_badge": ""
     },
     {
+      "id": "9578dfdbf373",
+      "pillar": "anime",
+      "title": "K-ON's Naoko Yamada Helms Official Hige Dandism's Pokémon Music Video With Madhouse",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-25/k-on-naoko-yamada-helms-official-hige-dandism-pokemon-music-video-with-madhouse/.244183",
+      "thumbnail": "/drops/thumbs/9578dfdbf373.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "643ceda22c6e",
       "pillar": "anime",
       "title": "'At 25:00, in Akasaka' Boys-Love Manga Gets TV Anime in 2027",
@@ -279,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "a46eadd3e378",
-      "pillar": "anime",
-      "title": "Migratory Birds & Snail TV Anime Debuts Next Summer",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-25/migratory-birds-and-snail-tv-anime-debuts-next-summer/.244185",
-      "thumbnail": "/drops/thumbs/a46eadd3e378.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e9010d45f1cf",
+      "id": "21f78ec96742",
       "pillar": "gaming",
-      "title": "News CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
+      "title": "News GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
-      "thumbnail": "/drops/thumbs/e9010d45f1cf.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
+      "thumbnail": "/drops/thumbs/21f78ec96742.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "b14e21f94b06",
+      "id": "e9010d45f1cf",
       "pillar": "gaming",
-      "title": "News Real-Life GTA 6 Trading Cards Are About to Get Scalped",
+      "title": "News CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/real-life-gta-6-trading-cards-are-about-to-get-scalped",
-      "thumbnail": "/drops/thumbs/b14e21f94b06.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
+      "thumbnail": "/drops/thumbs/e9010d45f1cf.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "65b1ff13e7b4",
+      "id": "b39452fa35a9",
       "pillar": "gaming",
-      "title": "Feature We Travelled Across GTA 6's Map Using Only Public Transport",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
-      "thumbnail": "/drops/thumbs/65b1ff13e7b4.jpg",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
+      "thumbnail": "/drops/thumbs/b39452fa35a9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "94c12e7f6bfb",
     "bbd406c575f4",
     "69366f8b98f6",
-    "e9010d45f1cf"
+    "21f78ec96742"
   ]
 }

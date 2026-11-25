@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-25T13:58:05+00:00",
+  "generated_utc": "2026-11-25T17:06:14+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -151,6 +151,13 @@
       "article_slug": null
     },
     {
+      "title": "K-ON's Naoko Yamada Helms Official Hige Dandism's Pokémon Music Video With Madhouse",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-25/k-on-naoko-yamada-helms-official-hige-dandism-pokemon-music-video-with-madhouse/.244183",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "'At 25:00, in Akasaka' Boys-Love Manga Gets TV Anime in 2027",
       "url": "https://www.animenewsnetwork.com/news/2026-11-25/at-25-00-in-akasaka-boys-love-manga-gets-tv-anime-in-2027/.244187",
       "pillar": "anime",
@@ -165,15 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "Migratory Birds & Snail TV Anime Debuts Next Summer",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-25/migratory-birds-and-snail-tv-anime-debuts-next-summer/.244185",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
-      "url": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
+      "title": "News GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News Real-Life GTA 6 Trading Cards Are About to Get Scalped",
-      "url": "https://www.pushsquare.com/news/2026/11/real-life-gta-6-trading-cards-are-about-to-get-scalped",
+      "title": "News CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
+      "url": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "Feature We Travelled Across GTA 6's Map Using Only Public Transport",
-      "url": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
