@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-25T20:28:22+00:00",
+  "generated_utc": "2026-11-25T23:30:13+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -27,6 +27,18 @@
       "release_badge": "Drops Next Month"
     },
     {
+      "id": "55dd187340e0",
+      "pillar": "sneakers",
+      "title": "Air Jordan 17 “College Blue” Releases February 19, 2027",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-17-college-blue-ja4259-100/",
+      "thumbnail": "/drops/thumbs/55dd187340e0.webp",
+      "published": "2026-11-25T16:25:42",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "69366f8b98f6",
       "pillar": "sneakers",
       "title": "Air Jordan 6 Rings “Reflective” Is Now Available for $175",
@@ -46,18 +58,6 @@
       "source_url": "https://www.nicekicks.com/michael-jordans-4-best-moments-in-the-air-jordan-4/",
       "thumbnail": "/drops/thumbs/2a37f1669e66.jpg",
       "published": "2026-11-24T13:59:27",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "edc84f2c89b1",
-      "pillar": "sneakers",
-      "title": "Air Jordan 1 Mid “Faded Spruce” Is Now Available for $150",
-      "source": "JustFreshKicks",
-      "source_url": "https://justfreshkicks.com/air-jordan-1-mid-faded-spruce-ix8457-344/",
-      "thumbnail": "/drops/thumbs/edc84f2c89b1.webp",
-      "published": "2026-11-24T13:39:35",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "6d3ae4f0b444",
+      "pillar": "anime",
+      "title": "10 Years Later, Solo Leveling Officially Admits It No Longer Needs Jinwoo",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-doesnt-need-jinwoo/",
+      "thumbnail": "/drops/thumbs/6d3ae4f0b444.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "bbd406c575f4",
       "pillar": "anime",
       "title": "Demon Slayer Drops First Infinity Castle Part 2 Release Date Hint, But Fans Are Split",
@@ -279,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "643ceda22c6e",
-      "pillar": "anime",
-      "title": "'At 25:00, in Akasaka' Boys-Love Manga Gets TV Anime in 2027",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-25/at-25-00-in-akasaka-boys-love-manga-gets-tv-anime-in-2027/.244187",
-      "thumbnail": "/drops/thumbs/643ceda22c6e.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "21f78ec96742",
+      "id": "1df90336be77",
       "pillar": "gaming",
-      "title": "News GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
+      "title": "Guide GTA 6: Secret Controls the Game Doesn't Tell You",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
-      "thumbnail": "/drops/thumbs/21f78ec96742.jpg",
+      "source_url": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
+      "thumbnail": "/drops/thumbs/1df90336be77.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,24 @@
       "release_badge": ""
     },
     {
-      "id": "b39452fa35a9",
+      "id": "21f78ec96742",
       "pillar": "gaming",
-      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
+      "title": "News GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
+      "thumbnail": "/drops/thumbs/21f78ec96742.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "7234bb0a9a27",
+      "pillar": "gaming",
+      "title": "GTA 6 features something Rockstar tried to add in Grand Theft Auto: Vice City, former tech lead says",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
-      "thumbnail": "/drops/thumbs/b39452fa35a9.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-features-something-rockstar-tried-to-pull-off-in-grand-theft-auto-vice-city-24-years-ago-former-tech-lead-says/",
+      "thumbnail": "/drops/thumbs/7234bb0a9a27.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -373,26 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "892b99c6346c",
-      "pillar": "gaming",
-      "title": "Cyberleek Is Leaking GTA 6’s XBOX Build – To Raise His Crypto To 15 Million",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564525/article/cyberleek-is-leaking-gta-6s-xbox-build-to-raise-his-crypto-to-15-million/",
-      "thumbnail": "/drops/thumbs/892b99c6346c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "959632b05ca3",
     "edb1bb3985cd",
     "94c12e7f6bfb",
-    "bbd406c575f4",
-    "69366f8b98f6",
-    "21f78ec96742"
+    "6d3ae4f0b444",
+    "55dd187340e0",
+    "1df90336be77"
   ]
 }
