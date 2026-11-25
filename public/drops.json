@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-25T17:06:14+00:00",
+  "generated_utc": "2026-11-25T20:28:22+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -39,6 +39,18 @@
       "release_badge": ""
     },
     {
+      "id": "2a37f1669e66",
+      "pillar": "sneakers",
+      "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
+      "source": "NiceKicks",
+      "source_url": "https://www.nicekicks.com/michael-jordans-4-best-moments-in-the-air-jordan-4/",
+      "thumbnail": "/drops/thumbs/2a37f1669e66.jpg",
+      "published": "2026-11-24T13:59:27",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
       "id": "edc84f2c89b1",
       "pillar": "sneakers",
       "title": "Air Jordan 1 Mid “Faded Spruce” Is Now Available for $150",
@@ -46,18 +58,6 @@
       "source_url": "https://justfreshkicks.com/air-jordan-1-mid-faded-spruce-ix8457-344/",
       "thumbnail": "/drops/thumbs/edc84f2c89b1.webp",
       "published": "2026-11-24T13:39:35",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "2a37f1669e66",
-      "pillar": "sneakers",
-      "title": "Michael Jordan’s 4 Best Moments in the Air Jordan 4",
-      "source": "NiceKicks",
-      "source_url": "https://www.nicekicks.com/michael-jordans-4-best-moments-in-the-air-jordan-4/",
-      "thumbnail": "/drops/thumbs/2a37f1669e66.jpg",
-      "published": "2026-11-23T13:59:27",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -231,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "d62194391939",
+      "pillar": "anime",
+      "title": "Black Clover Season 2, Episode 9 Release Date & Time",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/black-clover-season-2-episode-9-release-date-time/",
+      "thumbnail": "/drops/thumbs/d62194391939.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "5a270b6dcaf0",
       "pillar": "anime",
       "title": "One Piece's 10 Best Luffy Quotes Ever, Ranked",
@@ -279,18 +291,6 @@
       "release_badge": ""
     },
     {
-      "id": "57a0df4e7fad",
-      "pillar": "anime",
-      "title": "'Now That We Draw' Anime's New Video Unveils More Cast, Ending Song Artist, January 8 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-25/now-that-we-draw-anime-new-video-unveils-more-cast-ending-song-artist-january-8-debut/.244186",
-      "thumbnail": "/drops/thumbs/57a0df4e7fad.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "21f78ec96742",
       "pillar": "gaming",
       "title": "News GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
@@ -327,36 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "40d61d23ebb7",
+      "id": "2ec9005c3995",
       "pillar": "gaming",
-      "title": "The GTA 6 NPCs Who Crash Out When You Steal From Them Are Some Of The Funniest In The Game",
+      "title": "The Actor Behind GTA 6′ s Viral NPC Mandy Reacts To All Of The Attention: ‘It’s Sort Of Bittersweet’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/grand-theft-auto-6-gta6-npc-fight-back-car-hijack-2001000086",
-      "thumbnail": "/drops/thumbs/40d61d23ebb7.jpg",
+      "source_url": "https://kotaku.com/the-actor-behind-gta-6s-viral-npc-mandy-reacts-to-all-of-the-attention-its-sort-of-bittersweet-2001000149",
+      "thumbnail": "/drops/thumbs/2ec9005c3995.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "e9010d45f1cf",
+      "id": "b39452fa35a9",
       "pillar": "gaming",
-      "title": "News CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/cd-projekt-red-expects-gta-5-to-gta-6-like-upgrade-in-the-witcher-4",
-      "thumbnail": "/drops/thumbs/e9010d45f1cf.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "11988eb5b612",
-      "pillar": "gaming",
-      "title": "GTA 6 60fps glitch isn't all it's cracked up to be, tech analysis shows",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-isnt-keeping-anything-amazing-from-you-gta-6-60fps-glitch-isnt-all-its-cracked-up-to-be-tech-analysis-shows/",
-      "thumbnail": "/drops/thumbs/11988eb5b612.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
+      "thumbnail": "/drops/thumbs/b39452fa35a9.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +363,24 @@
       "release_badge": ""
     },
     {
-      "id": "b39452fa35a9",
+      "id": "b8b28ad279ab",
       "pillar": "gaming",
-      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
+      "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
       "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
-      "thumbnail": "/drops/thumbs/b39452fa35a9.jpg",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/",
+      "thumbnail": "/drops/thumbs/b8b28ad279ab.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "892b99c6346c",
+      "pillar": "gaming",
+      "title": "Cyberleek Is Leaking GTA 6’s XBOX Build – To Raise His Crypto To 15 Million",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564525/article/cyberleek-is-leaking-gta-6s-xbox-build-to-raise-his-crypto-to-15-million/",
+      "thumbnail": "/drops/thumbs/892b99c6346c.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
