@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-24T22:36:40+00:00",
+  "generated_utc": "2026-11-25T01:51:02+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -15,18 +15,6 @@
       "release_badge": "Drops This Week"
     },
     {
-      "id": "d31cf36c737d",
-      "pillar": "sneakers",
-      "title": "Air Jordan 3 “Not Nice” Releases November 21st",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-3-not-nice/",
-      "thumbnail": "/drops/thumbs/d31cf36c737d.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 3.0,
-      "release_badge": "Drops This Month"
-    },
-    {
       "id": "94c12e7f6bfb",
       "pillar": "sneakers",
       "title": "Air Jordan 10 OG “Sacramento” Releases December 5th",
@@ -37,6 +25,18 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "69366f8b98f6",
+      "pillar": "sneakers",
+      "title": "Air Jordan 6 Rings “Reflective” Is Now Available for $175",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-6-rings-reflective-cw4641-001/",
+      "thumbnail": "/drops/thumbs/69366f8b98f6.webp",
+      "published": "2026-11-24T20:39:31",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "edc84f2c89b1",
@@ -231,6 +231,18 @@
       "release_badge": ""
     },
     {
+      "id": "5a270b6dcaf0",
+      "pillar": "anime",
+      "title": "One Piece's 10 Best Luffy Quotes Ever, Ranked",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/one-piece-luffy-best-quotes/",
+      "thumbnail": "/drops/thumbs/5a270b6dcaf0.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "e932a5024273",
       "pillar": "anime",
       "title": "Crunchyroll Has A New #1 Anime, And It Blows One Piece Out Of The Water",
@@ -255,12 +267,12 @@
       "release_badge": ""
     },
     {
-      "id": "3265ad10b986",
+      "id": "09be0aada11b",
       "pillar": "anime",
-      "title": "Black Clover Season 2 Episode 9 Gets Unexpected Early Release Thanks To Major Mistake",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-season-2-episode-9-crunchyroll-leak/",
-      "thumbnail": "/drops/thumbs/3265ad10b986.jpg",
+      "title": "Mitei Hattori's Smile! Manga Gets Live-Action Series With Global Release Plans",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-24/mitei-hattori-smile-manga-gets-live-action-series-with-global-release-plans/.244167",
+      "thumbnail": "/drops/thumbs/09be0aada11b.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -279,24 +291,12 @@
       "release_badge": ""
     },
     {
-      "id": "c4035ef9255f",
-      "pillar": "anime",
-      "title": "Duel Masters Pure PLAY'S Manga Ends on November 30",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-24/duel-masters-pure-play-manga-ends-on-november-30/.244139",
-      "thumbnail": "/drops/thumbs/c4035ef9255f.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f1f4d56e44aa",
+      "id": "65b1ff13e7b4",
       "pillar": "gaming",
-      "title": "News Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
+      "title": "Feature We Travelled Across GTA 6's Map Using Only Public Transport",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
-      "thumbnail": "/drops/thumbs/f1f4d56e44aa.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
+      "thumbnail": "/drops/thumbs/65b1ff13e7b4.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,24 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "d2c4976a0017",
+      "id": "d0a5d23e09c0",
       "pillar": "gaming",
-      "title": "GTA 6 Is PlayStation’s Biggest Launch Of All Time, With Over 39 Million Players",
+      "title": "Chatting With People In GTA Online About Why They’re Not Playing GTA 6 : ‘$80 Is Too Much For Me, Bro’",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/gta6-grand-theft-auto-6-ps5-playstation-sony-record-sales-2001000009",
-      "thumbnail": "/drops/thumbs/d2c4976a0017.jpg",
+      "source_url": "https://kotaku.com/chatting-with-people-in-gta-online-about-why-theyre-not-playing-gta-6-80-is-too-much-for-me-bro-2001000022",
+      "thumbnail": "/drops/thumbs/d0a5d23e09c0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "e13af979506c",
+      "id": "f1f4d56e44aa",
       "pillar": "gaming",
-      "title": "News GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
+      "title": "News Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing",
-      "thumbnail": "/drops/thumbs/e13af979506c.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
+      "thumbnail": "/drops/thumbs/f1f4d56e44aa.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "b44f19bbd23b",
+      "id": "80ee3d3ee261",
       "pillar": "gaming",
-      "title": "News GTA 6 Fashion Is Taking Social Media by Storm",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
-      "thumbnail": "/drops/thumbs/b44f19bbd23b.jpg",
+      "title": "Godfather Of Cyberpunk Says He’s Never Played A Video Game, But Finds GTA 6 ‘Intriguing’",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/godfather-of-cyberpunk-says-hes-never-played-a-video-game-but-finds-gta-6-intriguing-2000759281",
+      "thumbnail": "/drops/thumbs/80ee3d3ee261.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -390,9 +390,9 @@
   "homepage": [
     "959632b05ca3",
     "6888dcf76d81",
-    "d31cf36c737d",
-    "bbd406c575f4",
     "94c12e7f6bfb",
-    "f1f4d56e44aa"
+    "bbd406c575f4",
+    "69366f8b98f6",
+    "65b1ff13e7b4"
   ]
 }

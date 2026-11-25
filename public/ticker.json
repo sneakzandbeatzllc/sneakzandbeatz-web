@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-24T22:36:40+00:00",
+  "generated_utc": "2026-11-25T01:51:02+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -11,17 +11,17 @@
       "article_slug": null
     },
     {
-      "title": "Air Jordan 3 “Not Nice” Releases November 21st",
-      "url": "https://sneakerbardetroit.com/air-jordan-3-not-nice/",
-      "pillar": "sneakers",
-      "score": 3.0,
-      "article_slug": null
-    },
-    {
       "title": "Air Jordan 10 OG “Sacramento” Releases December 5th",
       "url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
       "pillar": "sneakers",
       "score": 2.4,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 6 Rings “Reflective” Is Now Available for $175",
+      "url": "https://justfreshkicks.com/air-jordan-6-rings-reflective-cw4641-001/",
+      "pillar": "sneakers",
+      "score": 2.0,
       "article_slug": null
     },
     {
@@ -137,6 +137,13 @@
       "article_slug": null
     },
     {
+      "title": "One Piece's 10 Best Luffy Quotes Ever, Ranked",
+      "url": "https://screenrant.com/one-piece-luffy-best-quotes/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
       "title": "Crunchyroll Has A New #1 Anime, And It Blows One Piece Out Of The Water",
       "url": "https://screenrant.com/frieren-beyond-journeys-end-crunchyroll-new-biggest-anime/",
       "pillar": "anime",
@@ -151,8 +158,8 @@
       "article_slug": null
     },
     {
-      "title": "Black Clover Season 2 Episode 9 Gets Unexpected Early Release Thanks To Major Mistake",
-      "url": "https://screenrant.com/black-clover-season-2-episode-9-crunchyroll-leak/",
+      "title": "Mitei Hattori's Smile! Manga Gets Live-Action Series With Global Release Plans",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-24/mitei-hattori-smile-manga-gets-live-action-series-with-global-release-plans/.244167",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -165,15 +172,8 @@
       "article_slug": null
     },
     {
-      "title": "Duel Masters Pure PLAY'S Manga Ends on November 30",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-24/duel-masters-pure-play-manga-ends-on-november-30/.244139",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "News Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
-      "url": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
+      "title": "Feature We Travelled Across GTA 6's Map Using Only Public Transport",
+      "url": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -193,15 +193,15 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Is PlayStation’s Biggest Launch Of All Time, With Over 39 Million Players",
-      "url": "https://kotaku.com/gta6-grand-theft-auto-6-ps5-playstation-sony-record-sales-2001000009",
+      "title": "Chatting With People In GTA Online About Why They’re Not Playing GTA 6 : ‘$80 Is Too Much For Me, Bro’",
+      "url": "https://kotaku.com/chatting-with-people-in-gta-online-about-why-theyre-not-playing-gta-6-80-is-too-much-for-me-bro-2001000022",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing",
+      "title": "News Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
+      "url": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -221,8 +221,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Fashion Is Taking Social Media by Storm",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
+      "title": "Godfather Of Cyberpunk Says He’s Never Played A Video Game, But Finds GTA 6 ‘Intriguing’",
+      "url": "https://kotaku.com/godfather-of-cyberpunk-says-hes-never-played-a-video-game-but-finds-gta-6-intriguing-2000759281",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
