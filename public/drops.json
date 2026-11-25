@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-25T07:54:50+00:00",
+  "generated_utc": "2026-11-25T10:56:00+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "e01999f586b5",
+      "pillar": "hiphop",
+      "title": "Jagged Edge’s Brandon Casey Faces Child Sexual Assault Lawsuit",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/25/jagged-edge-brandon-casey-lawsuit/",
+      "thumbnail": "/drops/thumbs/e01999f586b5.jpg",
+      "published": "2026-11-25T00:31:00",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "8919663453fe",
       "pillar": "hiphop",
       "title": "Rock The Bells Festival Expands Massive 2026 Lineup; D-Nice Reflects on Full-Circle Moment With LL COOL J",
@@ -183,18 +195,6 @@
       "release_badge": ""
     },
     {
-      "id": "87517148619a",
-      "pillar": "hiphop",
-      "title": "Jorja Smith Celebrates ‘What Are The Odds’ With Intimate Brooklyn Headline Show",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/24/jorja-smith-what-are-the-odds-brooklyn-kings-theatre/",
-      "thumbnail": "/drops/thumbs/87517148619a.jpg",
-      "published": "2026-11-24T05:05:00",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "bbd406c575f4",
       "pillar": "anime",
       "title": "Demon Slayer Drops First Infinity Castle Part 2 Release Date Hint, But Fans Are Split",
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "ed8cba1d11fe",
+      "id": "a46eadd3e378",
       "pillar": "anime",
-      "title": "Historie Anime's Video Unveils More Cast & Staff, Theme Songs, January 8 Debut",
+      "title": "Migratory Birds & Snail TV Anime Debuts Next Summer",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-24/historie-anime-video-unveils-more-cast-and-staff-theme-songs-january-8-debut/.244173",
-      "thumbnail": "/drops/thumbs/ed8cba1d11fe.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-25/migratory-birds-and-snail-tv-anime-debuts-next-summer/.244185",
+      "thumbnail": "/drops/thumbs/a46eadd3e378.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "392b6b5491e2",
+      "id": "a5f26dfbd9b0",
       "pillar": "anime",
-      "title": "'Haru to Gen ~70-sai, Hajimete Kosodate~' Anime's Teaser Reveals More Cast, Ending Song",
+      "title": "Kindergarten Wars Anime's Video Reveals More Staff, ado's Opening Song, April Debut",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-24/haru-to-gen-~70-sai-hajimete-kosodate~-anime-teaser-reveals-more-cast-ending-song/.244149",
-      "thumbnail": "/drops/thumbs/392b6b5491e2.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-25/kindergarten-wars-anime-video-reveals-more-staff-ado-opening-song-april-debut/.244176",
+      "thumbnail": "/drops/thumbs/a5f26dfbd9b0.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "8919663453fe",
+    "e01999f586b5",
     "94c12e7f6bfb",
     "bbd406c575f4",
     "69366f8b98f6",
