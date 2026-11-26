@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-26T11:59:22+00:00",
+  "generated_utc": "2026-11-26T15:00:23+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Shin Oishinbo TV Anime Reveals Special Promo Video",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229",
+      "title": "Fool Night Anime Reveals 3 More Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Arcanadea TV Anime Casts M.A.O, Ai Kakuma",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-26/arcanadea-tv-anime-casts-m.a.o-ai-kakuma/.244225",
+      "title": "Shin Oishinbo TV Anime Reveals Special Promo Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -193,20 +193,6 @@
       "article_slug": null
     },
     {
-      "title": "The Actor Behind GTA 6′ s Viral NPC Mandy Reacts To All Of The Attention: ‘It’s Sort Of Bittersweet’",
-      "url": "https://kotaku.com/the-actor-behind-gta-6s-viral-npc-mandy-reacts-to-all-of-the-attention-its-sort-of-bittersweet-2001000149",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Feature We Travelled Across GTA 6's Map Using Only Public Transport",
-      "url": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
-      "pillar": "gaming",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "GTA 6 Guides: Get the most out of your time in Leonida",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-guides-walkthroughs/",
       "pillar": "gaming",
@@ -221,8 +207,22 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
+      "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Cyberleek Is Leaking GTA 6’s XBOX Build – To Raise His Crypto To 15 Million",
+      "url": "https://gameranx.com/updates/id/564525/article/cyberleek-is-leaking-gta-6s-xbox-build-to-raise-his-crypto-to-15-million/",
+      "pillar": "gaming",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Rockstar: PS5 Pro Is Not Powerful Enough To Run GTA 6 At Higher Frame Rates",
+      "url": "https://gameranx.com/updates/id/564523/article/rockstar-ps5-pro-is-not-powerful-enough-to-run-gta-6-at-higher-frame-rates/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null

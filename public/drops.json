@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-26T11:59:22+00:00",
+  "generated_utc": "2026-11-26T15:00:23+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -267,24 +267,24 @@
       "release_badge": ""
     },
     {
-      "id": "72124300c367",
+      "id": "e00490637044",
       "pillar": "anime",
-      "title": "Shin Oishinbo TV Anime Reveals Special Promo Video",
+      "title": "Fool Night Anime Reveals 3 More Cast Members",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229",
-      "thumbnail": "/drops/thumbs/72124300c367.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230",
+      "thumbnail": "/drops/thumbs/e00490637044.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "9ac1994aeaad",
+      "id": "72124300c367",
       "pillar": "anime",
-      "title": "Arcanadea TV Anime Casts M.A.O, Ai Kakuma",
+      "title": "Shin Oishinbo TV Anime Reveals Special Promo Video",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/arcanadea-tv-anime-casts-m.a.o-ai-kakuma/.244225",
-      "thumbnail": "/drops/thumbs/9ac1994aeaad.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229",
+      "thumbnail": "/drops/thumbs/72124300c367.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,30 +327,6 @@
       "release_badge": ""
     },
     {
-      "id": "2ec9005c3995",
-      "pillar": "gaming",
-      "title": "The Actor Behind GTA 6′ s Viral NPC Mandy Reacts To All Of The Attention: ‘It’s Sort Of Bittersweet’",
-      "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-actor-behind-gta-6s-viral-npc-mandy-reacts-to-all-of-the-attention-its-sort-of-bittersweet-2001000149",
-      "thumbnail": "/drops/thumbs/2ec9005c3995.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "65b1ff13e7b4",
-      "pillar": "gaming",
-      "title": "Feature We Travelled Across GTA 6's Map Using Only Public Transport",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/we-travelled-across-gta-6s-map-using-only-public-transport",
-      "thumbnail": "/drops/thumbs/65b1ff13e7b4.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "3acb34a77f88",
       "pillar": "gaming",
       "title": "GTA 6 Guides: Get the most out of your time in Leonida",
@@ -375,12 +351,36 @@
       "release_badge": ""
     },
     {
-      "id": "21f78ec96742",
+      "id": "b8b28ad279ab",
       "pillar": "gaming",
-      "title": "News GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
-      "thumbnail": "/drops/thumbs/21f78ec96742.jpg",
+      "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/",
+      "thumbnail": "/drops/thumbs/b8b28ad279ab.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "892b99c6346c",
+      "pillar": "gaming",
+      "title": "Cyberleek Is Leaking GTA 6’s XBOX Build – To Raise His Crypto To 15 Million",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564525/article/cyberleek-is-leaking-gta-6s-xbox-build-to-raise-his-crypto-to-15-million/",
+      "thumbnail": "/drops/thumbs/892b99c6346c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "ee5520cc3cfc",
+      "pillar": "gaming",
+      "title": "Rockstar: PS5 Pro Is Not Powerful Enough To Run GTA 6 At Higher Frame Rates",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564523/article/rockstar-ps5-pro-is-not-powerful-enough-to-run-gta-6-at-higher-frame-rates/",
+      "thumbnail": "/drops/thumbs/ee5520cc3cfc.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
