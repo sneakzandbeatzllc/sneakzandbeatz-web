@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-26T15:00:23+00:00",
+  "generated_utc": "2026-11-26T18:01:30+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -13,18 +13,6 @@
       "relative_time": "today",
       "score": 3.0,
       "release_badge": "Drops This Week"
-    },
-    {
-      "id": "94c12e7f6bfb",
-      "pillar": "sneakers",
-      "title": "Air Jordan 10 OG “Sacramento” Releases December 5th",
-      "source": "SneakerBarDetroit",
-      "source_url": "https://sneakerbardetroit.com/air-jordan-10-sacramento-2026/",
-      "thumbnail": "/drops/thumbs/94c12e7f6bfb.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 2.4,
-      "release_badge": "Drops Next Month"
     },
     {
       "id": "55dd187340e0",
@@ -94,6 +82,18 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
       "thumbnail": "/drops/thumbs/f1f5be09d79a.jpg",
       "published": "2026-11-20T15:29:05",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
+    },
+    {
+      "id": "82c42aeef0a4",
+      "pillar": "sneakers",
+      "title": "Undefeated x Air Jordan 5 “Light Chocolate” Releases February 2027",
+      "source": "Sneakerfiles",
+      "source_url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-light-chocolate/",
+      "thumbnail": "/drops/thumbs/82c42aeef0a4.jpg",
+      "published": "2026-11-18T23:59:23",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -267,36 +267,36 @@
       "release_badge": ""
     },
     {
-      "id": "e00490637044",
+      "id": "2a57bd160b11",
       "pillar": "anime",
-      "title": "Fool Night Anime Reveals 3 More Cast Members",
+      "title": "The Dragon Prince's Ill-Mated Betrothal Manga Ends, Gets 3-Chapter Epilogue",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230",
-      "thumbnail": "/drops/thumbs/e00490637044.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/the-dragon-prince-ill-mated-betrothal-manga-ends-gets-3-chapter-epilogue/.244106",
+      "thumbnail": "/drops/thumbs/2a57bd160b11.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "72124300c367",
+      "id": "ea1621ac74ea",
       "pillar": "anime",
-      "title": "Shin Oishinbo TV Anime Reveals Special Promo Video",
+      "title": "kuboken's Killer Shark in Another World Manga Gets TV Anime",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/shin-oishinbo-tv-anime-reveals-special-promo-video/.244229",
-      "thumbnail": "/drops/thumbs/72124300c367.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/kuboken-killer-shark-in-another-world-manga-gets-tv-anime/.244231",
+      "thumbnail": "/drops/thumbs/ea1621ac74ea.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "b361bdfd741b",
+      "id": "f93ca56adfb1",
       "pillar": "gaming",
-      "title": "News GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+      "title": "News GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
-      "thumbnail": "/drops/thumbs/b361bdfd741b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
+      "thumbnail": "/drops/thumbs/f93ca56adfb1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,6 +327,18 @@
       "release_badge": ""
     },
     {
+      "id": "c3a23015cb66",
+      "pillar": "gaming",
+      "title": "The Normal Person’s Guide To Understanding Grand Theft Auto 6",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/the-non-gamers-guide-to-grand-theft-auto-6-all-your-questions-even-silly-ones-answered-2001000011",
+      "thumbnail": "/drops/thumbs/c3a23015cb66.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "3acb34a77f88",
       "pillar": "gaming",
       "title": "GTA 6 Guides: Get the most out of your time in Leonida",
@@ -351,6 +363,18 @@
       "release_badge": ""
     },
     {
+      "id": "84a5f86ffe52",
+      "pillar": "gaming",
+      "title": "GTA 6 Boss Reveals How That Very Surprising Cameo Happened And What It Means For The Character",
+      "source": "Kotaku",
+      "source_url": "https://kotaku.com/gta-6-boss-reveals-how-that-very-surprising-cameo-happened-and-what-it-means-for-the-character-2000758616",
+      "thumbnail": "/drops/thumbs/84a5f86ffe52.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "b8b28ad279ab",
       "pillar": "gaming",
       "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
@@ -361,38 +385,14 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
-    },
-    {
-      "id": "892b99c6346c",
-      "pillar": "gaming",
-      "title": "Cyberleek Is Leaking GTA 6’s XBOX Build – To Raise His Crypto To 15 Million",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564525/article/cyberleek-is-leaking-gta-6s-xbox-build-to-raise-his-crypto-to-15-million/",
-      "thumbnail": "/drops/thumbs/892b99c6346c.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "ee5520cc3cfc",
-      "pillar": "gaming",
-      "title": "Rockstar: PS5 Pro Is Not Powerful Enough To Run GTA 6 At Higher Frame Rates",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564523/article/rockstar-ps5-pro-is-not-powerful-enough-to-run-gta-6-at-higher-frame-rates/",
-      "thumbnail": "/drops/thumbs/ee5520cc3cfc.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
     }
   ],
   "homepage": [
     "959632b05ca3",
     "edb1bb3985cd",
-    "94c12e7f6bfb",
-    "6d3ae4f0b444",
     "55dd187340e0",
-    "b361bdfd741b"
+    "6d3ae4f0b444",
+    "69366f8b98f6",
+    "f93ca56adfb1"
   ]
 }
