@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-25T23:30:13+00:00",
+  "generated_utc": "2026-11-26T02:32:08+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -123,13 +123,6 @@
       "article_slug": null
     },
     {
-      "title": "Demon Slayer Drops First Infinity Castle Part 2 Release Date Hint, But Fans Are Split",
-      "url": "https://screenrant.com/demon-slayer-infinity-castle-part-2-update-release-date/",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
       "title": "Naruto movie officially casts fan-favorite actor for key role",
       "url": "https://www.polygon.com/live-action-naruto-movie-cast-hiroyuki-sanada/",
       "pillar": "anime",
@@ -139,6 +132,20 @@
     {
       "title": "Dandadan finally reveals Okarun’s brutal backstory",
       "url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "Black Clover Filler List: Every Episode You Can Skip",
+      "url": "https://screenrant.com/every-black-clover-filler-episode/",
+      "pillar": "anime",
+      "score": 1.0,
+      "article_slug": null
+    },
+    {
+      "title": "25 Strongest One Piece Devil Fruits, Ranked (So Far)",
+      "url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -158,22 +165,15 @@
       "article_slug": null
     },
     {
-      "title": "Crunchyroll Has A New #1 Anime, And It Blows One Piece Out Of The Water",
-      "url": "https://screenrant.com/frieren-beyond-journeys-end-crunchyroll-new-biggest-anime/",
+      "title": "Precure Franchise Announces FUNtasic Precure! Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-25/precure-franchise-announces-funtasic-precure-anime/.244204",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "K-ON's Naoko Yamada Helms Official Hige Dandism's Pokémon Music Video With Madhouse",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-25/k-on-naoko-yamada-helms-official-hige-dandism-pokemon-music-video-with-madhouse/.244183",
-      "pillar": "anime",
-      "score": 1.0,
-      "article_slug": null
-    },
-    {
-      "title": "Guide GTA 6: Secret Controls the Game Doesn't Tell You",
-      "url": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
+      "title": "News GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -200,8 +200,8 @@
       "article_slug": null
     },
     {
-      "title": "News GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
+      "title": "Guide GTA 6: Secret Controls the Game Doesn't Tell You",
+      "url": "https://www.pushsquare.com/guides/gta-6-secret-controls-the-game-doesnt-tell-you",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
