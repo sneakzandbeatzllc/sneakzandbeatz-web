@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-26T18:01:30+00:00",
+  "generated_utc": "2026-11-26T21:02:57+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -255,18 +255,6 @@
       "release_badge": ""
     },
     {
-      "id": "d62194391939",
-      "pillar": "anime",
-      "title": "Black Clover Season 2, Episode 9 Release Date & Time",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/black-clover-season-2-episode-9-release-date-time/",
-      "thumbnail": "/drops/thumbs/d62194391939.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "2a57bd160b11",
       "pillar": "anime",
       "title": "The Dragon Prince's Ill-Mated Betrothal Manga Ends, Gets 3-Chapter Epilogue",
@@ -291,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "f93ca56adfb1",
+      "id": "e00490637044",
+      "pillar": "anime",
+      "title": "Fool Night Anime Reveals 3 More Cast Members",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230",
+      "thumbnail": "/drops/thumbs/e00490637044.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "62ac826e785f",
       "pillar": "gaming",
-      "title": "News GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
+      "title": "News Despite No Disc, GTA 6 Recorded the UK's Biggest Physical Launch Since 2019",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
-      "thumbnail": "/drops/thumbs/f93ca56adfb1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019",
+      "thumbnail": "/drops/thumbs/62ac826e785f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -327,12 +327,24 @@
       "release_badge": ""
     },
     {
-      "id": "c3a23015cb66",
+      "id": "242470f834f6",
       "pillar": "gaming",
-      "title": "The Normal Person’s Guide To Understanding Grand Theft Auto 6",
+      "title": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/the-non-gamers-guide-to-grand-theft-auto-6-all-your-questions-even-silly-ones-answered-2001000011",
-      "thumbnail": "/drops/thumbs/c3a23015cb66.jpg",
+      "source_url": "https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617",
+      "thumbnail": "/drops/thumbs/242470f834f6.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "f93ca56adfb1",
+      "pillar": "gaming",
+      "title": "News GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
+      "thumbnail": "/drops/thumbs/f93ca56adfb1.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -363,24 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "84a5f86ffe52",
+      "id": "c3a23015cb66",
       "pillar": "gaming",
-      "title": "GTA 6 Boss Reveals How That Very Surprising Cameo Happened And What It Means For The Character",
+      "title": "The Normal Person’s Guide To Understanding Grand Theft Auto 6",
       "source": "Kotaku",
-      "source_url": "https://kotaku.com/gta-6-boss-reveals-how-that-very-surprising-cameo-happened-and-what-it-means-for-the-character-2000758616",
-      "thumbnail": "/drops/thumbs/84a5f86ffe52.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "b8b28ad279ab",
-      "pillar": "gaming",
-      "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/",
-      "thumbnail": "/drops/thumbs/b8b28ad279ab.jpg",
+      "source_url": "https://kotaku.com/the-non-gamers-guide-to-grand-theft-auto-6-all-your-questions-even-silly-ones-answered-2001000011",
+      "thumbnail": "/drops/thumbs/c3a23015cb66.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "55dd187340e0",
     "6d3ae4f0b444",
     "69366f8b98f6",
-    "f93ca56adfb1"
+    "62ac826e785f"
   ]
 }
