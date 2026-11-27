@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-27T15:20:52+00:00",
+  "generated_utc": "2026-11-27T18:35:59+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -231,18 +231,6 @@
       "release_badge": ""
     },
     {
-      "id": "41375fdbc84d",
-      "pillar": "anime",
-      "title": "Solo Leveling's Next Big Release Just Got A Game-Changing Update",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-netflix-series-director-change/",
-      "thumbnail": "/drops/thumbs/41375fdbc84d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "97266bfa5f8d",
       "pillar": "anime",
       "title": "Naruto movie officially casts fan-favorite actor for key role",
@@ -291,12 +279,24 @@
       "release_badge": ""
     },
     {
-      "id": "72107aa79918",
+      "id": "8d66ca3a83ee",
+      "pillar": "anime",
+      "title": "Red Cat Ramen Anime's 2nd Season Reveals Main Promo Video, January 10 Debut",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-27/red-cat-ramen-anime-2nd-season-reveals-main-promo-video-january-10-debut/.244255",
+      "thumbnail": "/drops/thumbs/8d66ca3a83ee.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "733d83e59700",
       "pillar": "gaming",
-      "title": "News 'Life Has Been a Whirlwind': GTA 6's Lucia Actress Says Thank You to Fans",
+      "title": "Poll What Review Score Would You Give GTA 6?",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/life-has-been-a-whirlwind-gta-6s-lucia-actress-says-thank-you-to-fans",
-      "thumbnail": "/drops/thumbs/72107aa79918.jpg",
+      "source_url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-gta-6",
+      "thumbnail": "/drops/thumbs/733d83e59700.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "4e971f5cc28d",
+      "id": "72107aa79918",
       "pillar": "gaming",
-      "title": "News GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
+      "title": "News 'Life Has Been a Whirlwind': GTA 6's Lucia Actress Says Thank You to Fans",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
-      "thumbnail": "/drops/thumbs/4e971f5cc28d.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/life-has-been-a-whirlwind-gta-6s-lucia-actress-says-thank-you-to-fans",
+      "thumbnail": "/drops/thumbs/72107aa79918.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "b361bdfd741b",
+      "id": "4e971f5cc28d",
       "pillar": "gaming",
-      "title": "News GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+      "title": "News GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed",
-      "thumbnail": "/drops/thumbs/b361bdfd741b.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
+      "thumbnail": "/drops/thumbs/4e971f5cc28d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -393,6 +393,6 @@
     "d51dc8a1c931",
     "d5ebe892dd42",
     "55dd187340e0",
-    "72107aa79918"
+    "733d83e59700"
   ]
 }
