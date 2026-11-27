@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-27T00:04:15+00:00",
+  "generated_utc": "2026-11-27T03:05:34+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -195,6 +195,18 @@
       "release_badge": ""
     },
     {
+      "id": "d5ebe892dd42",
+      "pillar": "anime",
+      "title": "Dragon Ball's New Anime Just Rewrote The Franchise's Entire Power Hierarchy",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-power-level-change/",
+      "thumbnail": "/drops/thumbs/d5ebe892dd42.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "af8fa496d3d3",
       "pillar": "anime",
       "title": "Dragon Ball Super: Beerus Episode 8 Release Date & Time",
@@ -255,48 +267,36 @@
       "release_badge": ""
     },
     {
-      "id": "2a57bd160b11",
+      "id": "3f08bccc7cfc",
       "pillar": "anime",
-      "title": "The Dragon Prince's Ill-Mated Betrothal Manga Ends, Gets 3-Chapter Epilogue",
+      "title": "No Longer Heroine's Momoko Kōda Launches New Manga on December 21",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/the-dragon-prince-ill-mated-betrothal-manga-ends-gets-3-chapter-epilogue/.244106",
-      "thumbnail": "/drops/thumbs/2a57bd160b11.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/no-longer-heroine-momoko-koda-launches-new-manga-on-december-21/.244110",
+      "thumbnail": "/drops/thumbs/3f08bccc7cfc.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "ea1621ac74ea",
+      "id": "9022d46692a7",
       "pillar": "anime",
-      "title": "kuboken's Killer Shark in Another World Manga Gets TV Anime",
+      "title": "Isekai Affair Writer Masakazu Ooi Launches New Manga",
       "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/kuboken-killer-shark-in-another-world-manga-gets-tv-anime/.244231",
-      "thumbnail": "/drops/thumbs/ea1621ac74ea.jpg",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/isekai-affair-writer-masakazu-ooi-launches-new-manga/.244113",
+      "thumbnail": "/drops/thumbs/9022d46692a7.webp",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "e00490637044",
-      "pillar": "anime",
-      "title": "Fool Night Anime Reveals 3 More Cast Members",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-26/fool-night-anime-reveals-3-more-cast-members/.244230",
-      "thumbnail": "/drops/thumbs/e00490637044.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "62ac826e785f",
+      "id": "4e971f5cc28d",
       "pillar": "gaming",
-      "title": "News Despite No Disc, GTA 6 Recorded the UK's Biggest Physical Launch Since 2019",
+      "title": "News GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019",
-      "thumbnail": "/drops/thumbs/62ac826e785f.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
+      "thumbnail": "/drops/thumbs/4e971f5cc28d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,12 +339,12 @@
       "release_badge": ""
     },
     {
-      "id": "f93ca56adfb1",
+      "id": "62ac826e785f",
       "pillar": "gaming",
-      "title": "News GTA 6 Gives PS5 a Very Rare Win Over Switch 2 in Japan",
+      "title": "News Despite No Disc, GTA 6 Recorded the UK's Biggest Physical Launch Since 2019",
       "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6-gives-ps5-a-very-rare-win-over-switch-2-in-japan",
-      "thumbnail": "/drops/thumbs/f93ca56adfb1.jpg",
+      "source_url": "https://www.pushsquare.com/news/2026/11/despite-no-disc-gta-6-recorded-the-uks-biggest-physical-launch-since-2019",
+      "thumbnail": "/drops/thumbs/62ac826e785f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,8 +391,8 @@
     "959632b05ca3",
     "edb1bb3985cd",
     "55dd187340e0",
-    "af8fa496d3d3",
+    "d5ebe892dd42",
     "69366f8b98f6",
-    "62ac826e785f"
+    "4e971f5cc28d"
   ]
 }
