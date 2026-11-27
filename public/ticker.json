@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-27T09:12:23+00:00",
+  "generated_utc": "2026-11-27T12:14:22+00:00",
   "source": "drops_feed_direct_scrape",
   "items": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.nicekicks.com/air-jordan-12-fireside-ct8013-105-2026/",
       "pillar": "sneakers",
       "score": 3.0,
+      "article_slug": null
+    },
+    {
+      "title": "Air Jordan 1 High OG “Antique Silver” Releases December 26",
+      "url": "https://justfreshkicks.com/air-jordan-1-high-og-antique-silver-ix6373-005/",
+      "pillar": "sneakers",
+      "score": 2.4,
       "article_slug": null
     },
     {
@@ -48,13 +55,6 @@
     {
       "title": "Undefeated x Air Jordan 5 “Light Chocolate” Releases February 2027",
       "url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-light-chocolate/",
-      "pillar": "sneakers",
-      "score": 2.0,
-      "article_slug": null
-    },
-    {
-      "title": "Where To Buy the Air Jordan 14 “Forest Green”",
-      "url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
       "pillar": "sneakers",
       "score": 2.0,
       "article_slug": null
@@ -158,15 +158,15 @@
       "article_slug": null
     },
     {
-      "title": "Masaaki Yuasa's Daisy's Life Anime Film Reveals Clip, 2027 Delay",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-27/masaaki-yuasa-daisy-life-anime-film-reveals-clip-2027-delay/.244239",
+      "title": "Pokémon Anime Gets New Season Featuring Liko, Roy in October 2027",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-27/pokemon-anime-gets-new-season-featuring-liko-roy-in-october-2027/.244257",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "No Longer Heroine's Momoko Kōda Launches New Manga on December 21",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-26/no-longer-heroine-momoko-koda-launches-new-manga-on-december-21/.244110",
+      "title": "Gero Performs Opening Theme for Welcome to Demon School! Iruma-kun: IruMafia Edition TV Anime",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-27/gero-performs-opening-theme-for-welcome-to-demon-school-iruma-kun-irumafia-edition-tv-anime/.244256",
       "pillar": "anime",
       "score": 1.0,
       "article_slug": null
@@ -179,15 +179,15 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 rewards empathy because being a \"demigod stomping through the world\" is only fun for so long",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-honor-system-rewards-empathy-because-being-a-demigod-stomping-through-the-world-is-only-fun-for-so-long-rockstar-lead-says/",
+      "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-knew-some-gta-6-players-would-reject-the-criminal-profile-system-but-assures-you-can-still-do-whatever-you-wanted-to-do-before/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "Judge Gives Arion Kurtaj A Second Chance After Pleading Guilty To 2022 GTA 6 Hack",
-      "url": "https://gameranx.com/updates/id/564529/article/judge-gives-arion-kurtaj-a-second-chance-after-pleading-guilty-to-2022-gta-6-hack/",
+      "title": "GTA 6’s Manni L. Perez and Dylan Rourke Have Shared Their Thanks To Rockstar & The Fans",
+      "url": "https://gameranx.com/updates/id/564536/article/gta-6s-manni-l-perez-and-dylan-rourke-have-shared-their-thanks-to-rockstar-the-fans/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
@@ -207,15 +207,15 @@
       "article_slug": null
     },
     {
-      "title": "GTA 6 Guides: Get the most out of your time in Leonida",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-guides-walkthroughs/",
+      "title": "Black Friday GTA 6 deals LIVE: I'm finding the best ways to enhance your adventure in Leonida using 2026's end-of-year discounts",
+      "url": "https://www.gamesradar.com/live/news/black-friday-gta-6-deals-live/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
     },
     {
-      "title": "GTA 6 PS5 Players Suffering Game Crashes – With Some Consoles Even Dying On Players",
-      "url": "https://gameranx.com/updates/id/564527/article/gta-6-ps5-players-suffering-game-crashes-with-some-consoles-even-dying-on-players/",
+      "title": "Judge Gives Arion Kurtaj A Second Chance After Pleading Guilty To 2022 GTA 6 Hack",
+      "url": "https://gameranx.com/updates/id/564529/article/judge-gives-arion-kurtaj-a-second-chance-after-pleading-guilty-to-2022-gta-6-hack/",
       "pillar": "gaming",
       "score": 1.0,
       "article_slug": null
