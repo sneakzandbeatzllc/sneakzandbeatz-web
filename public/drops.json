@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-26T21:02:57+00:00",
+  "generated_utc": "2026-11-27T00:04:15+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -195,12 +195,36 @@
       "release_badge": ""
     },
     {
-      "id": "6d3ae4f0b444",
+      "id": "af8fa496d3d3",
       "pillar": "anime",
-      "title": "10 Years Later, Solo Leveling Officially Admits It No Longer Needs Jinwoo",
+      "title": "Dragon Ball Super: Beerus Episode 8 Release Date & Time",
       "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/solo-leveling-doesnt-need-jinwoo/",
-      "thumbnail": "/drops/thumbs/6d3ae4f0b444.jpg",
+      "source_url": "https://screenrant.com/dragon-ball-super-beerus-episode-8-release-date-time/",
+      "thumbnail": "/drops/thumbs/af8fa496d3d3.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "3c0f48914872",
+      "pillar": "anime",
+      "title": "10 Upcoming Anime Based on Manhwa That Could Be The Next Solo Leveling",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/upcoming-manhwa-anime-solo-leveling-rival/",
+      "thumbnail": "/drops/thumbs/3c0f48914872.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "41375fdbc84d",
+      "pillar": "anime",
+      "title": "Solo Leveling's Next Big Release Just Got A Game-Changing Update",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/solo-leveling-netflix-series-director-change/",
+      "thumbnail": "/drops/thumbs/41375fdbc84d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -225,30 +249,6 @@
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
       "thumbnail": null,
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f7c823e88274",
-      "pillar": "anime",
-      "title": "Black Clover Filler List: Every Episode You Can Skip",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/every-black-clover-filler-episode/",
-      "thumbnail": "/drops/thumbs/f7c823e88274.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "55d1b32e7393",
-      "pillar": "anime",
-      "title": "25 Strongest One Piece Devil Fruits, Ranked (So Far)",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/one-piece-strongest-devil-fruit-ranked/",
-      "thumbnail": "/drops/thumbs/55d1b32e7393.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -391,7 +391,7 @@
     "959632b05ca3",
     "edb1bb3985cd",
     "55dd187340e0",
-    "6d3ae4f0b444",
+    "af8fa496d3d3",
     "69366f8b98f6",
     "62ac826e785f"
   ]
