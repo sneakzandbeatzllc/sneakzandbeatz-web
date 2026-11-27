@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-27T18:35:59+00:00",
+  "generated_utc": "2026-11-27T21:48:15+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "f6255fca16e4",
+      "pillar": "hiphop",
+      "title": "U-God Returns With “Rock So Many,” as Wu-Tang Clan Takes Over the NFL Halftime Stage",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/27/u-god-returns-with-rock-so-many-as-wu-tang-clan-takes-over-the-nfl-halftime-stage/",
+      "thumbnail": "/drops/thumbs/f6255fca16e4.webp",
+      "published": "2026-11-27T14:41:22",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "ada58912b87c",
       "pillar": "hiphop",
       "title": "The Weeknd’s ‘Starboy’ Celebrates 10 Years With More Than 18.6 Billion Spotify Streams",
@@ -178,18 +190,6 @@
       "source_url": "https://thesource.com/2026/11/27/packers-and-rams-fans-throw-hands-during-thanksgiving-eve-game/",
       "thumbnail": "/drops/thumbs/9347ff4a341e.jpg",
       "published": "2026-11-27T08:10:28",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "0b4dc6831d21",
-      "pillar": "hiphop",
-      "title": "From Radio Dials to Rockstar: How Video Games Became Hip-Hop’s Biggest New Stage",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/27/from-radio-dials-to-rockstar-how-video-games-became-hip-hops-biggest-new-stage/",
-      "thumbnail": null,
-      "published": "2026-11-27T07:56:25",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
@@ -389,7 +389,7 @@
   ],
   "homepage": [
     "959632b05ca3",
-    "ada58912b87c",
+    "f6255fca16e4",
     "d51dc8a1c931",
     "d5ebe892dd42",
     "55dd187340e0",
