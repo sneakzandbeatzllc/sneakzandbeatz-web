@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-27T21:48:15+00:00",
+  "generated_utc": "2026-11-28T00:50:54+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -219,18 +219,6 @@
       "release_badge": ""
     },
     {
-      "id": "3c0f48914872",
-      "pillar": "anime",
-      "title": "10 Upcoming Anime Based on Manhwa That Could Be The Next Solo Leveling",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/upcoming-manhwa-anime-solo-leveling-rival/",
-      "thumbnail": "/drops/thumbs/3c0f48914872.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "97266bfa5f8d",
       "pillar": "anime",
       "title": "Naruto movie officially casts fan-favorite actor for key role",
@@ -285,6 +273,18 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-11-27/red-cat-ramen-anime-2nd-season-reveals-main-promo-video-january-10-debut/.244255",
       "thumbnail": "/drops/thumbs/8d66ca3a83ee.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "52e40206c996",
+      "pillar": "anime",
+      "title": "8 Shonen Masterpieces Fans Can Binge-Watch in a Single Weekend",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/best-shonen-anime-binge-one-weekend/",
+      "thumbnail": "/drops/thumbs/52e40206c996.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -375,12 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "4e971f5cc28d",
+      "id": "b8b28ad279ab",
       "pillar": "gaming",
-      "title": "News GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
-      "thumbnail": "/drops/thumbs/4e971f5cc28d.jpg",
+      "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
+      "source": "GamesRadar",
+      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/",
+      "thumbnail": "/drops/thumbs/b8b28ad279ab.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
