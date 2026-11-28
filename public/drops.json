@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-28T13:09:54+00:00",
+  "generated_utc": "2026-11-28T16:10:56+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -99,6 +99,18 @@
       "release_badge": ""
     },
     {
+      "id": "bc24d5915184",
+      "pillar": "hiphop",
+      "title": "Today in Hip-Hop History: Queen Latifah Dropped Her Debut Album ‘All Hail The Queen’ 34 Years Ago",
+      "source": "The Source",
+      "source_url": "https://thesource.com/2026/11/28/today-in-hip-hop-history-queen-latifah-dropped-her-debut-album-all-hail-the-queen-34-years-ago/",
+      "thumbnail": "/drops/thumbs/bc24d5915184.jpg",
+      "published": "2026-11-28T08:13:41",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "f6255fca16e4",
       "pillar": "hiphop",
       "title": "U-God Returns With “Rock So Many,” as Wu-Tang Clan Takes Over the NFL Halftime Stage",
@@ -183,48 +195,12 @@
       "release_badge": ""
     },
     {
-      "id": "9347ff4a341e",
-      "pillar": "hiphop",
-      "title": "Packers and Rams Fans Throw Hands During Thanksgiving Eve Game",
-      "source": "The Source",
-      "source_url": "https://thesource.com/2026/11/27/packers-and-rams-fans-throw-hands-during-thanksgiving-eve-game/",
-      "thumbnail": "/drops/thumbs/9347ff4a341e.jpg",
-      "published": "2026-11-27T08:10:28",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "d5ebe892dd42",
-      "pillar": "anime",
-      "title": "Dragon Ball's New Anime Just Rewrote The Franchise's Entire Power Hierarchy",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/dragon-ball-super-beerus-power-level-change/",
-      "thumbnail": "/drops/thumbs/d5ebe892dd42.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "97266bfa5f8d",
       "pillar": "anime",
       "title": "Naruto movie officially casts fan-favorite actor for key role",
       "source": "Polygon/Anime",
       "source_url": "https://www.polygon.com/live-action-naruto-movie-cast-hiroyuki-sanada/",
       "thumbnail": "/drops/thumbs/97266bfa5f8d.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "351aa8cdd9ba",
-      "pillar": "anime",
-      "title": "Dandadan finally reveals Okarun’s brutal backstory",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
-      "thumbnail": null,
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -243,36 +219,60 @@
       "release_badge": ""
     },
     {
+      "id": "351aa8cdd9ba",
+      "pillar": "anime",
+      "title": "Dandadan finally reveals Okarun’s brutal backstory",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/dandadan-okarun-backstory-reveal-traumatic/",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "4bb19c93d73c",
+      "pillar": "anime",
+      "title": "Natsune Inui Joins Cast of #I'm Looking For a Zombie Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/natsune-inui-joins-cast-of-im-looking-for-a-zombie-anime/.244269",
+      "thumbnail": "/drops/thumbs/4bb19c93d73c.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d12cacf668c2",
+      "pillar": "anime",
+      "title": "Texas' Anime Frontier to Screen World Premiere of Maiden Blood Anime",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/texas-anime-frontier-to-screen-world-premiere-of-maiden-blood-anime/.244258",
+      "thumbnail": "/drops/thumbs/d12cacf668c2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "d6ef638b1bd3",
+      "pillar": "anime",
+      "title": "6 Best Anime Masterminds Who Planned Their Own Defeat",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/anime-masterminds-planned-own-defeat/",
+      "thumbnail": "/drops/thumbs/d6ef638b1bd3.png",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "80aa2fa88d01",
       "pillar": "anime",
       "title": "Wit Studio's Original TV Anime LONA Reveals 7 More Cast Members, Confirms April 2027 Debut",
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/wit-studio-original-tv-anime-lona-reveals-7-more-cast-members-confirms-april-2027-debut/.244266",
       "thumbnail": "/drops/thumbs/80aa2fa88d01.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f9f5ea0939d2",
-      "pillar": "anime",
-      "title": "Living It Up in Another World Until I Get Bored Anime Announces Ending Song, January Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/living-it-up-in-another-world-until-i-get-bored-anime-announces-ending-song-january-debut/.244273",
-      "thumbnail": "/drops/thumbs/f9f5ea0939d2.webp",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "01237ab503e5",
-      "pillar": "anime",
-      "title": "Gundam Seed Freedom Zero Anime's Trailer Unveils Theme Songs",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/gundam-seed-freedom-zero-anime-trailer-unveils-theme-songs/.244270",
-      "thumbnail": "/drops/thumbs/01237ab503e5.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -305,7 +305,7 @@
     {
       "id": "2b251ff630b2",
       "pillar": "gaming",
-      "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system 5 Comments",
+      "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system 6 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-knew-some-gta-6-players-would-reject-the-criminal-profile-system-but-assures-you-can-still-do-whatever-you-wanted-to-do-before/",
       "thumbnail": "/drops/thumbs/2b251ff630b2.jpg",
@@ -333,18 +333,6 @@
       "source": "Kotaku",
       "source_url": "https://kotaku.com/github-microsoft-ps5-anyps5-emulation-sony-grand-theft-auto-gta6-2001000617",
       "thumbnail": "/drops/thumbs/242470f834f6.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "4e971f5cc28d",
-      "pillar": "gaming",
-      "title": "News GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
-      "source": "PushSquare",
-      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
-      "thumbnail": "/drops/thumbs/4e971f5cc28d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -385,13 +373,25 @@
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
+    },
+    {
+      "id": "e64aa07cd53d",
+      "pillar": "gaming",
+      "title": "GTA 6 PS5 Players Suffering Game Crashes – With Some Consoles Even Dying On Players",
+      "source": "Gameranx",
+      "source_url": "https://gameranx.com/updates/id/564527/article/gta-6-ps5-players-suffering-game-crashes-with-some-consoles-even-dying-on-players/",
+      "thumbnail": "/drops/thumbs/e64aa07cd53d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
     }
   ],
   "homepage": [
     "959632b05ca3",
-    "f6255fca16e4",
+    "bc24d5915184",
     "d51dc8a1c931",
-    "d5ebe892dd42",
+    "97266bfa5f8d",
     "55dd187340e0",
     "733d83e59700"
   ]
