@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-28T16:10:56+00:00",
+  "generated_utc": "2026-11-28T19:12:00+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -25,6 +25,30 @@
       "relative_time": "today",
       "score": 2.4,
       "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "9ccb5b5df58f",
+      "pillar": "sneakers",
+      "title": "Social Status x Air Jordan 1 Low OG “Sashiko” Releases December 2026",
+      "source": "SneakerBarDetroit",
+      "source_url": "https://sneakerbardetroit.com/social-status-x-air-jordan-1-low-og-sashiko-iu4982-600/",
+      "thumbnail": "/drops/thumbs/9ccb5b5df58f.webp",
+      "published": "",
+      "relative_time": "today",
+      "score": 2.4,
+      "release_badge": "Drops Next Month"
+    },
+    {
+      "id": "a9124b9fae16",
+      "pillar": "sneakers",
+      "title": "Air Jordan 1 Low MM “Neo Pink” Surfaces in Official Images",
+      "source": "JustFreshKicks",
+      "source_url": "https://justfreshkicks.com/air-jordan-1-low-mm-neo-pink-ja0695-600/",
+      "thumbnail": "/drops/thumbs/a9124b9fae16.webp",
+      "published": "2026-11-28T11:25:31",
+      "relative_time": "today",
+      "score": 2.0,
+      "release_badge": ""
     },
     {
       "id": "55dd187340e0",
@@ -70,30 +94,6 @@
       "source_url": "https://www.sneakerfiles.com/air-jordan-14-blue-ferrari/",
       "thumbnail": "/drops/thumbs/0ce862bf68c6.jpg",
       "published": "2026-11-20T15:31:24",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "f1f5be09d79a",
-      "pillar": "sneakers",
-      "title": "Air Jordan 15 “Black Dark Charcoal” Releases Fall 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/air-jordan-15-black-dark-charcoal/",
-      "thumbnail": "/drops/thumbs/f1f5be09d79a.jpg",
-      "published": "2026-11-20T15:29:05",
-      "relative_time": "today",
-      "score": 2.0,
-      "release_badge": ""
-    },
-    {
-      "id": "82c42aeef0a4",
-      "pillar": "sneakers",
-      "title": "Undefeated x Air Jordan 5 “Light Chocolate” Releases February 2027",
-      "source": "Sneakerfiles",
-      "source_url": "https://www.sneakerfiles.com/undefeated-air-jordan-5-light-chocolate/",
-      "thumbnail": "/drops/thumbs/82c42aeef0a4.jpg",
-      "published": "2026-11-18T23:59:23",
       "relative_time": "today",
       "score": 2.0,
       "release_badge": ""
@@ -195,24 +195,24 @@
       "release_badge": ""
     },
     {
-      "id": "97266bfa5f8d",
+      "id": "6b565772580f",
       "pillar": "anime",
-      "title": "Naruto movie officially casts fan-favorite actor for key role",
-      "source": "Polygon/Anime",
-      "source_url": "https://www.polygon.com/live-action-naruto-movie-cast-hiroyuki-sanada/",
-      "thumbnail": "/drops/thumbs/97266bfa5f8d.jpg",
+      "title": "Netflix Crowns New Top Anime As Dragon Ball And One Piece Lose Their Spot To New Gen Classic",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/cyberpunk-edgerunners-2-netflix-new-top-anime-beats-dragon-ball/",
+      "thumbnail": "/drops/thumbs/6b565772580f.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
       "release_badge": ""
     },
     {
-      "id": "5024e431a4d7",
+      "id": "97266bfa5f8d",
       "pillar": "anime",
-      "title": "My Hero Academia: Who Are The Top 10 Pro Heroes?",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/my-hero-academia-top-10-pro-heroes/",
-      "thumbnail": "/drops/thumbs/5024e431a4d7.jpg",
+      "title": "Naruto movie officially casts fan-favorite actor for key role",
+      "source": "Polygon/Anime",
+      "source_url": "https://www.polygon.com/live-action-naruto-movie-cast-hiroyuki-sanada/",
+      "thumbnail": "/drops/thumbs/97266bfa5f8d.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -231,6 +231,42 @@
       "release_badge": ""
     },
     {
+      "id": "5024e431a4d7",
+      "pillar": "anime",
+      "title": "My Hero Academia: Who Are The Top 10 Pro Heroes?",
+      "source": "ScreenRant/Anime",
+      "source_url": "https://screenrant.com/my-hero-academia-top-10-pro-heroes/",
+      "thumbnail": "/drops/thumbs/5024e431a4d7.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "8988135b4431",
+      "pillar": "anime",
+      "title": "Fuyu Yukimiya Launches Girl Meets Cakeboy Manga",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/fuyu-yukimiya-launches-girl-meets-cakeboy-manga/.243920",
+      "thumbnail": "/drops/thumbs/8988135b4431.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
+      "id": "58d01a9cf4a2",
+      "pillar": "anime",
+      "title": "Sty's The Sorcery Emperor's Aide Breaks the Second Catastrophe Novels Get Manga Adaptation",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/sty-the-sorcery-emperor-aide-breaks-the-second-catastrophe-novels-get-manga-adaptation/.244083",
+      "thumbnail": "/drops/thumbs/58d01a9cf4a2.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "4bb19c93d73c",
       "pillar": "anime",
       "title": "Natsune Inui Joins Cast of #I'm Looking For a Zombie Anime",
@@ -243,48 +279,12 @@
       "release_badge": ""
     },
     {
-      "id": "d12cacf668c2",
-      "pillar": "anime",
-      "title": "Texas' Anime Frontier to Screen World Premiere of Maiden Blood Anime",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/texas-anime-frontier-to-screen-world-premiere-of-maiden-blood-anime/.244258",
-      "thumbnail": "/drops/thumbs/d12cacf668c2.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
       "id": "d6ef638b1bd3",
       "pillar": "anime",
       "title": "6 Best Anime Masterminds Who Planned Their Own Defeat",
       "source": "ScreenRant/Anime",
       "source_url": "https://screenrant.com/anime-masterminds-planned-own-defeat/",
       "thumbnail": "/drops/thumbs/d6ef638b1bd3.png",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "80aa2fa88d01",
-      "pillar": "anime",
-      "title": "Wit Studio's Original TV Anime LONA Reveals 7 More Cast Members, Confirms April 2027 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/wit-studio-original-tv-anime-lona-reveals-7-more-cast-members-confirms-april-2027-debut/.244266",
-      "thumbnail": "/drops/thumbs/80aa2fa88d01.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "9b78071cf70e",
-      "pillar": "anime",
-      "title": "4 Years Later, Netflix's Best Isekai Fantasy Is This Genre Deconstruction That's The Perfect Weekend Binge",
-      "source": "ScreenRant/Anime",
-      "source_url": "https://screenrant.com/netflix-best-isekai-uncle-from-another-world/",
-      "thumbnail": "/drops/thumbs/9b78071cf70e.png",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -305,7 +305,7 @@
     {
       "id": "2b251ff630b2",
       "pillar": "gaming",
-      "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system 6 Comments",
+      "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system 8 Comments",
       "source": "GamesRadar",
       "source_url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-knew-some-gta-6-players-would-reject-the-criminal-profile-system-but-assures-you-can-still-do-whatever-you-wanted-to-do-before/",
       "thumbnail": "/drops/thumbs/2b251ff630b2.jpg",
@@ -391,8 +391,8 @@
     "959632b05ca3",
     "bc24d5915184",
     "d51dc8a1c931",
-    "97266bfa5f8d",
-    "55dd187340e0",
+    "6b565772580f",
+    "9ccb5b5df58f",
     "733d83e59700"
   ]
 }
