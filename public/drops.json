@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_utc": "2026-11-28T04:02:00+00:00",
+  "generated_utc": "2026-11-28T07:05:57+00:00",
   "items": [
     {
       "id": "959632b05ca3",
@@ -243,6 +243,18 @@
       "release_badge": ""
     },
     {
+      "id": "7aa503b84688",
+      "pillar": "anime",
+      "title": "Japanese Animation TV Ranking, November 16-22",
+      "source": "AnimeNewsNetwork",
+      "source_url": "https://www.animenewsnetwork.com/news/2026-11-28/japanese-animation-tv-ranking-november-16-22/.244250",
+      "thumbnail": null,
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "7238f6f53f1e",
       "pillar": "anime",
       "title": "Pokémon Anime Gets New Season Featuring Liko, Roy in October 2027",
@@ -261,18 +273,6 @@
       "source": "AnimeNewsNetwork",
       "source_url": "https://www.animenewsnetwork.com/news/2026-11-27/gero-performs-opening-theme-for-welcome-to-demon-school-iruma-kun-irumafia-edition-tv-anime/.244256",
       "thumbnail": "/drops/thumbs/436b40643810.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "8d66ca3a83ee",
-      "pillar": "anime",
-      "title": "Red Cat Ramen Anime's 2nd Season Reveals Main Promo Video, January 10 Debut",
-      "source": "AnimeNewsNetwork",
-      "source_url": "https://www.animenewsnetwork.com/news/2026-11-27/red-cat-ramen-anime-2nd-season-reveals-main-promo-video-january-10-debut/.244255",
-      "thumbnail": "/drops/thumbs/8d66ca3a83ee.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
@@ -339,6 +339,18 @@
       "release_badge": ""
     },
     {
+      "id": "4e971f5cc28d",
+      "pillar": "gaming",
+      "title": "News GTA 6's Car Physics Were Tuned by a Gran Turismo Pro",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/gta-6s-car-physics-were-tuned-by-a-gran-turismo-pro",
+      "thumbnail": "/drops/thumbs/4e971f5cc28d.jpg",
+      "published": "",
+      "relative_time": "today",
+      "score": 1.0,
+      "release_badge": ""
+    },
+    {
       "id": "6186bf1abd89",
       "pillar": "gaming",
       "title": "Black Friday GTA 6 deals LIVE: I'm finding the best ways to enhance your adventure in Leonida using 2026's end-of-year discounts",
@@ -363,24 +375,12 @@
       "release_badge": ""
     },
     {
-      "id": "b8b28ad279ab",
+      "id": "72107aa79918",
       "pillar": "gaming",
-      "title": "Walkthrough GTA 6 Chapter 1 Walkthrough: Let us guide you through the first eight hours of the game",
-      "source": "GamesRadar",
-      "source_url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-chapter-1-walkthrough/",
-      "thumbnail": "/drops/thumbs/b8b28ad279ab.jpg",
-      "published": "",
-      "relative_time": "today",
-      "score": 1.0,
-      "release_badge": ""
-    },
-    {
-      "id": "e64aa07cd53d",
-      "pillar": "gaming",
-      "title": "GTA 6 PS5 Players Suffering Game Crashes – With Some Consoles Even Dying On Players",
-      "source": "Gameranx",
-      "source_url": "https://gameranx.com/updates/id/564527/article/gta-6-ps5-players-suffering-game-crashes-with-some-consoles-even-dying-on-players/",
-      "thumbnail": "/drops/thumbs/e64aa07cd53d.jpg",
+      "title": "News 'Life Has Been a Whirlwind': GTA 6's Lucia Actress Says Thank You to Fans",
+      "source": "PushSquare",
+      "source_url": "https://www.pushsquare.com/news/2026/11/life-has-been-a-whirlwind-gta-6s-lucia-actress-says-thank-you-to-fans",
+      "thumbnail": "/drops/thumbs/72107aa79918.jpg",
       "published": "",
       "relative_time": "today",
       "score": 1.0,
